@@ -656,14 +656,37 @@ def read_daily_checkbox_names(page) -> dict[str, str]:
     """)
 
 
-def uncheck_daily_option(page, option: str) -> None:
+def disable_daily_autosubmit(page) -> None:
+    """Stop the Daily form's controls from submitting the form when changed.
+
+    Every control carries onChange="...forms['daily'].submit()", so changing one
+    navigates the page - which destroys the execution context out from under any
+    evaluate() still in flight, and makes the options impossible to set as a
+    group.
+
+    Removing the handlers lets every option be set in one pass and submitted
+    once by clicking Request. That is equivalent to changing them one at a time:
+    the form POSTs the state of all its fields together, so the server sees the
+    same selection either way. It is also far quicker, since this site can take
+    tens of seconds to serve a page.
+    """
+    page.evaluate("""
+        () => {
+            for (const el of document.querySelectorAll("form[name='daily'] [onchange]")) {
+                el.removeAttribute('onchange');
+                el.onchange = null;
+            }
+        }
+    """)
+
+
+def uncheck_daily_option(page, option: str, checkbox_names: dict[str, str]) -> None:
     """Uncheck one option on the No-Intro Daily form, if it is currently checked.
 
-    Every checkbox carries onChange="...forms['daily'].submit()", so changing one
-    submits the form and reloads the page. The checkbox names are therefore
-    re-read on each call, and the reload is awaited before returning.
+    Assumes disable_daily_autosubmit() has already run, so this does not
+    navigate and `checkbox_names` stays valid across calls.
     """
-    name = read_daily_checkbox_names(page).get(option)
+    name = checkbox_names.get(option)
 
     if not name:
         print(f"     ⚠️  Checkbox not found: {option}", file=sys.stderr)
@@ -676,8 +699,6 @@ def uncheck_daily_option(page, option: str) -> None:
         return
 
     checkbox.uncheck()
-    sleep(1)  # let the onChange auto-submit fire before waiting on the reload
-    page.wait_for_load_state("domcontentloaded", timeout=NO_INTRO_NAV_TIMEOUT)
     print(f"     ✗ Unchecked: {option} ({name})")
 
 
@@ -731,13 +752,16 @@ def download_no_intro_dats(output_dir: Path) -> list[Path]:
 
             sleep(1)
             
-            # Uncheck options. Each uncheck reloads the page, so they are done
-            # one at a time rather than against a single page snapshot.
+            # Uncheck options. The form's auto-submit handlers are removed first
+            # so all three can be set in one pass and submitted once by the
+            # Request click below, rather than triggering a page load each.
             print("  ⚙️  Unchecking: Source Code, Unofficial, Non-Redump")
             options_to_uncheck = ["Source Code", "Unofficial", "Non-Redump"]
             try:
+                disable_daily_autosubmit(page)
+                checkbox_names = read_daily_checkbox_names(page)
                 for option in options_to_uncheck:
-                    uncheck_daily_option(page, option)
+                    uncheck_daily_option(page, option, checkbox_names)
             except Exception:
                 save_page_diagnostics(page, "no-intro-uncheck-failure")
                 raise
