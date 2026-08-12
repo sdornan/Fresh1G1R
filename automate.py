@@ -22,6 +22,7 @@ import json
 from pathlib import Path
 from io import BytesIO
 from time import sleep
+from urllib.parse import urljoin
 
 try:
     from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
@@ -58,6 +59,10 @@ DEBUG_DIR = SCRIPT_DIR / "debug"
 # The pack is prepared server-side, so this can be considerably slower than a
 # normal page interaction.
 NO_INTRO_DOWNLOAD_BUTTON_TIMEOUT = 120000
+
+# How long to allow for a No-Intro page to load. The download and Daily pages
+# render several hundred table rows and can be slow to serve.
+NO_INTRO_NAV_TIMEOUT = 90000
 
 
 # Skip downloading/updating Redump DAT files (use existing files in daily-virgin-dat/redump/ directory)
@@ -672,7 +677,7 @@ def uncheck_daily_option(page, option: str) -> None:
 
     checkbox.uncheck()
     sleep(1)  # let the onChange auto-submit fire before waiting on the reload
-    page.wait_for_load_state("networkidle", timeout=30000)
+    page.wait_for_load_state("domcontentloaded", timeout=NO_INTRO_NAV_TIMEOUT)
     print(f"     ✗ Unchecked: {option} ({name})")
 
 
@@ -693,15 +698,37 @@ def download_no_intro_dats(output_dir: Path) -> list[Path]:
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             context = browser.new_context(accept_downloads=True)
-            context.set_default_timeout(30000)  # 30 second timeout
+            context.set_default_timeout(60000)  # 60 second timeout
             page = context.new_page()
-            
-            # Navigate and navigate to Daily
-            page.goto(NO_INTRO_URL, wait_until="networkidle", timeout=30000)
-            page.locator("text=DOWNLOAD").first.click()
-            sleep(0.5)
-            page.locator("text=Daily").first.click()
-            page.wait_for_load_state("networkidle", timeout=30000)
+
+            # Navigate to the Daily page by following each link's href rather
+            # than clicking it. Clicking makes Playwright auto-wait for the
+            # navigation it triggered, which times out when DAT-o-MATIC is slow
+            # to render these pages - the click itself succeeds, then the wait
+            # expires. The hrefs carry the session's system id, so they are read
+            # from the page rather than hardcoded.
+            #
+            # "domcontentloaded" rather than "networkidle": these pages render
+            # several hundred table rows, and networkidle needs a full 500ms of
+            # network silence that a busy page may never provide.
+            try:
+                page.goto(NO_INTRO_URL, wait_until="domcontentloaded", timeout=NO_INTRO_NAV_TIMEOUT)
+
+                download_href = page.locator("#site-nav a[href*='page=download']").first.get_attribute("href")
+                if not download_href:
+                    raise RuntimeError("Could not find the Download link on the No-Intro home page")
+                page.goto(urljoin(page.url, download_href),
+                          wait_until="domcontentloaded", timeout=NO_INTRO_NAV_TIMEOUT)
+
+                daily_href = page.locator("a[href*='op=daily']").first.get_attribute("href")
+                if not daily_href:
+                    raise RuntimeError("Could not find the Daily link on the No-Intro download page")
+                page.goto(urljoin(page.url, daily_href),
+                          wait_until="domcontentloaded", timeout=NO_INTRO_NAV_TIMEOUT)
+            except Exception:
+                save_page_diagnostics(page, "no-intro-navigation-failure")
+                raise
+
             sleep(1)
             
             # Uncheck options. Each uncheck reloads the page, so they are done
