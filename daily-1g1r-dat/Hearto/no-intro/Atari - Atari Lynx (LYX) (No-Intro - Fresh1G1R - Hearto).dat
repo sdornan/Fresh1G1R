@@ -2,15 +2,21 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Atari - Atari Lynx (LYX) (Retool)</name>
-		<description>Atari - Atari Lynx (LYX) (101) (-y) [-aAbBcefkmMoprv] (20260619-102312) (Retool)</description>
-		<version>20260619-102312</version>
-		<date>2026-06-22 07-41-31</date>
+		<description>Atari - Atari Lynx (LYX) (102) (-y) [-aAbBcefkmMoprv] (20260625-122811) (Retool)</description>
+		<version>20260625-122811</version>
+		<date>2026-08-12 04-09-10</date>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
+	<game name="3D Barrage (World) (Beta)" id="0458">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>3D Barrage (World) (Beta)</description>
+		<rom name="3D Barrage (World) (Beta).lyx" size="131072" crc="a90d3629" md5="f39c99d61e70ddf92eb136359a5de9b4" sha1="3758ecbb6ac21fcc2792d0377a58f7e128a59b9a" sha256="d4e1991471924101820d577f25a70b7782506a1b3abbab69b4a5c11c60ccdcb6"/>
+	</game>
 	<game name="A.P.B. (USA, Europe)" id="0002">
 		<category>Games</category>
 		<description>A.P.B. (USA, Europe)</description>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Content) (2,562) (-y) [-aAbBcdkmMpPuv] (20260621-231538) (Retool)</description>
-		<version>20260621-231538</version>
-		<date>2026-06-22 07-45-40</date>
+		<description>Sony - PlayStation 3 (PSN) (Content) (2,565) (-y) [-aAbBcdkmMpPuv] (20260710-071607) (Retool)</description>
+		<version>20260710-071607</version>
+		<date>2026-08-12 04-25-13</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1579,6 +1579,13 @@
 		<description>Blast Factor (USA) (v3.00)</description>
 		<game_id>EP9000-NPUA80002_00-BLASTFACTORDEMO1</game_id>
 		<rom name="laYELyMBfjCyqd6KVjGHcrYDi0C7o8OV1fGGfaeIXlnjXY2QhKQ9nBgVtdwlww9DowAp0VU0unn1sKGwiysP75Ktn6cVEPlUJECJe.pkg" size="140149264" crc="cb81eaa3" md5="9aba326b8e78f9f93bbb41355ff1cc49" sha1="bec33c579d4d02ede06ce12b514f7e8fa8433d0e"/>
+	</game>
+	<game name="Blast Factor - Complete (Japan)" id="46072">
+		<category>Games</category>
+		<description>Blast Factor - Complete (Japan)</description>
+		<game_id>JP9000-NPJA00002_00-BLASTFACTOR0001B</game_id>
+		<rom name="JP9000-NPJA00002_00-BLASTFACTOR0001B.rap" size="16" crc="29e23b9d" md5="135fb7d06cd8189357832d2fae4b2796" sha1="8c6c1664e71b62bad5b1bffcd72c4fac23eddc82" sha256="9cd9b834c29a100eb67dbb5d324df0247b1866f8cf3141ed2a5479cb81971a9a"/>
+		<rom name="syEPHxksF5tXiaPa1NhuBsC0Fj3qiXXXrWLB728sMMfWOvm5SxoKnc15JYYFBj9qPGdKJiBo9pTMLxtgOI6ss4JdCY3HoFnDK9tuH.pkg" size="138220896" crc="74f0cdcb" md5="48be43bcfc776d974efe43c021418b80" sha1="897ef44564c1ec62684274d4651e0ec0ec816fbb" sha256="228fadc1d5849ad9bdb82a6cd8b19b7f566acb94a6f61142b908721ece0546f7"/>
 	</game>
 	<game name="Blast Factor - Multiplayer Pack (USA) (v2.00)" id="18869">
 		<category>Games</category>
@@ -4124,6 +4131,12 @@
 		<rom name="EP0182-NPEB00385_00-0000111122223333.rap" size="16" crc="27f73b21" md5="80ec8b9ddc5ce0cb44f95a374a05ff55" sha1="fdcbebce747aa671a56b027f740ff040989c6162" sha256="38482da445aa852129d6fb6bb9cfb956ffb7bd5d4d728fde63233e8edd628e31"/>
 		<rom name="gkFAPDYIuZwptYgAPOUGCnNktBUJUuecRvlQZzrtJKErlHwyMUKQJvOvLqJKEMGl.pkg" size="6080" crc="bd58fa80" md5="062f20cbd0588a2a565d32a497f06ee0" sha1="f9aa22db704c72b69c1a83f12add70e0d5a690fc" sha256="b0aecbe3b5748ac03cef419930517bec48beae2245fff464caad35ad3d3b8935"/>
 	</game>
+	<game name="Dungeons &amp; Dragons - Daggerdale - EP0182-NPEB00578_00-0000111122223332 (Europe)" id="46073">
+		<category>Games</category>
+		<description>Dungeons &amp; Dragons - Daggerdale - EP0182-NPEB00578_00-0000111122223332 (Europe)</description>
+		<game_id>EP0182-NPEB00578_00-0000111122223332</game_id>
+		<rom name="uolTuiQWUxRMQkkZZIWMolMGoHijhXhTldOUdmmhEjumMebuybIMFjcKSrmAADqS.pkg" size="1867033232" crc="ecf81de0" md5="b276f9ab6a07bb94890400aab282f2d2" sha1="e88622d36a9113dfce8ac5f8dc3935b4971d9260" sha256="6508c8493c2bde72b46cc6127627a5eac4547aff395551deb59477a4e48255de"/>
+	</game>
 	<game name="Dungeons &amp; Dragons - Mystara Eiyuu Senki (Japan)" id="18946">
 		<category>Games</category>
 		<description>Dungeons &amp; Dragons - Mystara Eiyuu Senki (Japan)</description>
@@ -4787,12 +4800,12 @@
 		<rom name="UP0001-NPUB30737_00-FARCRYPS30000001.rap" size="16" crc="658587df" md5="3bef69bc4f066b4139939ff9ff6f1dae" sha1="43fe0d98bf51335aa4ef7806c9385d5840babd54"/>
 		<rom name="jBMbhMRPYHVraPRfWQPdQEkYxUnqjPkYIwRqBwrrkDtrRkHTDIrekqAbRoJDVkAh.pkg" size="6080" crc="45b70b4a" md5="c5e9c6fe31d5c72f336a884c0c473f9b" sha1="e135caa319b4d6dfadadbf3db78999c26ee4a970"/>
 	</game>
-	<game name="Farming Simulator (Europe)" id="08742">
+	<game name="Farming Simulator (USA)" id="46066">
 		<category>Games</category>
-		<description>Farming Simulator (Europe)</description>
-		<game_id>EP4133-NPEB01332_00-FARMSIM2013V0000</game_id>
-		<rom name="EP4133-NPEB01332_00-FARMSIM2013V0000.rap" size="16" crc="a4ec3015" md5="44445476144b71a52c9ef610242a4abf" sha1="484c25dfa64af0f08a79a0ca563a7839739ca532" sha256="39531294d04d5061fd2cc40643bc2d0891a4adb58258188f4a2d3764f2f60474"/>
-		<rom name="VxMpnoZYKnAieIpQsOFUeVNOEalIHwkEWlwOBZUilLEZgWXEvyuUaJYoaejsmYCw.pkg" size="475846384" crc="76533fde" md5="644f6b5585168b12fbd7856be36ab686" sha1="b021bc4c33a8cdb10f15649b0a0fad9339c3ea2e"/>
+		<description>Farming Simulator (USA)</description>
+		<game_id>UP4133-NPUB31231_00-FARMSIM2013V0000</game_id>
+		<rom name="UP4133-NPUB31231_00-FARMSIM2013V0000.rap" size="16" crc="25cd9e6e" md5="ca061754e50d352da18a8fe69a4064e9" sha1="417e7b96dd28069b3dbf7b629b6110856d25ab20" sha256="6b815971cf64508e14ad5636e778c4a81836fcf469cb29b1737c57b547091dfc"/>
+		<rom name="ttKnjUlfzlNTJGUCpizCkhjlAQnayjaMCPqmwHYrWKopRNleqVfLqQPuHXgcDDyt.pkg" size="482106080" crc="9540915d" md5="b783280cc231ddcc75ecb881ae445b97" sha1="5bf25d76cd39dbbc09bd9d17e026a31bf514ad58" sha256="5f584e846494640ce48c6b767d96b9cf0f38ce2617ddc0de662b37ab2f81b42c"/>
 	</game>
 	<game name="Farming Simulator 15 (Europe)" id="18996">
 		<category>Games</category>
@@ -9317,13 +9330,6 @@
 		<rom name="EP9000-NPEA00397_00-MOVESCRICKET2HDD.rap" size="16" crc="998f7b35" md5="269f856c5fb66947e6e3f40277c5dfd9" sha1="cfb5208980b3547038158250618a642fa3f9c50b"/>
 		<rom name="ZrSWRDaUrCOGNaMVgtnpGOxWPnUiGVlixoYmwXDLNPGiKmKKLdhOBGllIxWcvdXp.pkg" size="551733936" crc="8154271a" md5="d34e19fb2efe3a385bef48a3ecd5b705" sha1="38f43279a0801e8d46e1d1548ffb5409bbfe4e2b"/>
 	</game>
-	<game name="Move.me (USA)" id="46061">
-		<category>Games</category>
-		<description>Move.me (USA)</description>
-		<game_id>UP9002-NPUO00014_00-MOVEMESERVER0000</game_id>
-		<rom name="UP9002-NPUO00014_00-MOVEMESERVER0000.rap" size="16" crc="b92711cb" md5="e101ebba1693d49c13f6cca68955b0ce" sha1="3c820099780308b9c4eed30915b15f95b682bcc8" sha256="d5d4ca21ded2bee71a93cc11086064e9e9c6cc0cd22301ffe58a7979e96dc51e"/>
-		<rom name="ejSOOaeZRKCAzEyejAMmzuBaUtaZrYJANhhEbxJAMrTSvoyuevgXGBVUrgGeUeFKVRjnnSEWfZhWkSekuXybgynVOZedIAbGFAFdR.pkg" size="3230880" crc="3324365e" md5="366e93f842a51a87878691c963ab3ab7" sha1="e8f895c9025f140485713470fb4c1a9f662e948a" sha256="3444339ba5ff2212a007581d9dc2a3700a5e9765bd5331da611b7797f51b4c1b"/>
-	</game>
 	<game name="Movistar+ (Europe)" id="34701">
 		<category>Games</category>
 		<description>Movistar+ (Europe)</description>
@@ -9469,7 +9475,6 @@
 		<category>Games</category>
 		<description>NBA 2K16 (Europe)</description>
 		<game_id>EP1001-NPEB02313_00-NBA2K16000000000</game_id>
-		<rom name="EP1001-NPEB02313_00-NBA2K16000000000.rap" size="16" crc="a0d9251c" md5="6dc53ccba3f9c09a0152ef10684ea7bf" sha1="8be4bf576db854b843e9dd8509a9f96ba940d6fb"/>
 		<rom name="EP1001-NPEB02313_00-NBA2K16000000000_bg_1_3ada0e2ac3708ccc91c0617d2b2480501bf6bb28.pkg" size="8745582464" crc="fe29470e" md5="7c9ef99b9d1ab8ad7833bad6cafe16a2" sha1="9dffffc336e8bebe3100108fc2893f1122fb6963"/>
 	</game>
 	<game name="NBA Jam - On Fire Edition (USA) (Unlock Key)" id="04888">
@@ -9708,7 +9713,6 @@
 		<category>Games</category>
 		<description>Ni no Kuni - Wrath of the White Witch - 1 of 2 (USA)</description>
 		<game_id>UP0700-NPUB30932_00-NNKDLFULLGAMEPTB</game_id>
-		<rom name="UP0700-NPUB30932_00-NNKDLFULLGAMEPTA.rap" size="16" crc="cc8d416b" md5="f6602c6b97ec0499e1ccf9a1d11d49fb" sha1="d9d3b44f13f1aa0c1742d533e2f7fe25c5a05c0b" sha256="aa0047caac99a524993c929a993b679889b255b27045f671571526d611226472"/>
 		<rom name="dHPqDdrjEEzaIbFvSScSltWzTsOsgNkBpmkoHFbTMJVkMVWPFBzipDGnSfbpkLdc.pkg" size="17035368816" crc="363e5d8a" md5="2a3d6477f64dda7092703d252b8ee839" sha1="f450cb5efb7bb02b5dfbfe1af4c7febca42fa12c"/>
 	</game>
 	<game name="Ni no Kuni - Wrath of the White Witch - 2 of 2 (USA)" id="05097">
@@ -10026,13 +10030,11 @@
 		<description>PES 2015 - Pro Evolution Soccer (USA)</description>
 		<game_id>UP0101-NPUB31585_00-PES2015HG0000000</game_id>
 		<rom name="JscwXUKfDydSjaebilbSpcZKaHjzmbxuHfSMpqmDkjvXqfTtwwAPjRJepWJtRjsWJnwbYdFWUrmMMJsRuShFMShzoOAtKpKtpVsiC.pkg" size="8630846528" crc="be79160f" md5="53d4d87fe092ed4f24dc9edfe2c80112" sha1="2c39247d434c6846b48e8be89c07d81259d0e996"/>
-		<rom name="UP0101-NPUB31585_00-PES2015HG0000000.rap" size="16" crc="3b703dd4" md5="12b4ff2f56c3a75a80105805a01abb99" sha1="42ec074cd1bf58cb2a50876018cf20111308e4ea"/>
 	</game>
 	<game name="PES 2016 - Pro Evolution Soccer (USA)" id="05741">
 		<category>Games</category>
 		<description>PES 2016 - Pro Evolution Soccer (USA)</description>
 		<game_id>UP0101-NPUB31741_00-PES2016HG0000000</game_id>
-		<rom name="UP0101-NPUB31741_00-PES2016HG0000000.rap" size="16" crc="ba811dba" md5="49af51864205fcd7839dc3b8a1842a68" sha1="97d4a0bc2136c7f268586dde13375f389d8098d6"/>
 		<rom name="UP0101-NPUB31741_00-PES2016HG0000000_bg_1_7d8e88fb90750e6f30af2500d650ca04c880509f.pkg" size="8935936272" crc="94506ef7" md5="d1bf0f750e4c92d7a04c7c5ad8110761" sha1="06642a1ba1e8386dcd01500856c6675c79ccb646"/>
 	</game>
 	<game name="PES 2016 - Pro Evolution Soccer (USA) (myClub)" id="20082">
@@ -10128,6 +10130,12 @@
 		<game_id>JP0024-NPJB00078_00-0000B20000010100</game_id>
 		<rom name="JP0024-NPJB00078_00-0000B20000010100.rap" size="16" crc="787d5888" md5="27c4a4019a4f8c63e36a6e07d2aa4bad" sha1="39078c118e042256acc602730b3a8a532ca89ab9"/>
 		<rom name="rT94CPkjOFT0t8VkKvibRvy9YvLnRGxMyYaogUs106OpS81PFpABSH2P9MDVHiJ9MYCVHJ545Wpu2aupYvQwAWBtNp6lLtEDCj3YD.pkg" size="1498695760" crc="ebea7516" md5="7489ceb89b8642c04b63948d43269f2c" sha1="c2f78828092b543ac87389d56e568bd56ce5411d"/>
+	</game>
+	<game name="PachiPara DL Hyper Sea Story In Karibu (Japan)" id="46070">
+		<category>Games</category>
+		<description>PachiPara DL Hyper Sea Story In Karibu (Japan)</description>
+		<game_id>JP0024-NPJB00005_00-0000V30000010101</game_id>
+		<rom name="Opy8ODt8CKkIMTdmQMcIdNNykIbl2XO9QHUvfL9B6uoaPH2mCPsJQE82UcMf1uStFQq62jPGC0qFRiKRG7qJU8AhTg1336eH7BCh1.pkg" size="304319664" crc="bacd95e0" md5="00e8728f0fb0eb28e4e605d48a92eac3" sha1="7150fc2d75ab5f4ffbaa2e3911b2ebd84b626a5b" sha256="3430213de3787b9dc53a274d96f39fa628a31054870510f8a2091bf8b517b45c"/>
 	</game>
 	<game name="Page Chronica (USA)" id="05279">
 		<category>Games</category>
@@ -12788,7 +12796,6 @@
 		<category>Games</category>
 		<description>Samurai Warriors - Xtreme Legends (Europe) (PS2 Classics)</description>
 		<game_id>EP4108-NPED00199_00-GSAMURAIWA000ENG</game_id>
-		<rom name="EP4108-NPED00199_00-GSAMURAIWA000ENG.rap" size="16" crc="72aaad26" md5="3c8a8706a8f1a9fc2446b20bcb3d3012" sha1="986ae1d75c1d99597197da44955370005732cbc1" sha256="8ea1973290c6e65c124cca689f6ffb99c56cc3ee93c9ca2bcb81570aa748c8d2"/>
 		<rom name="YEeUApStWaTXamiGuHhxwkDFDrfZmFnZCNszxyAskKfGVFynmOqeBJztzAZpejba.pkg" size="4700443664" crc="b38fe68b" md5="066009781c95728c81ed066526b5dadd" sha1="e3837928791c16bd3f1cc0f66de5dc4a8d40830c" sha256="1153975b43e13d148125dca55fcc6744b195f4244431f52e3061a341fdc81dea"/>
 	</game>
 	<game name="Samurai Warriors 2 (Europe) (PS2 Classics)" id="36701">
@@ -12823,7 +12830,6 @@
 		<category>Games</category>
 		<description>Samurai Warriors 4-II (USA)</description>
 		<game_id>UP4108-NPUB31751_00-HGEXEC0000000000</game_id>
-		<rom name="UP4108-NPUB31751_00-HGEXEC0000000000.rap" size="16" crc="04734edd" md5="d3bded4add51a1f1067b67a7dfdb9751" sha1="51e7ca7974b8ecb926a02324ca627d36e05863a2"/>
 		<rom name="UP4108-NPUB31751_00-HGEXEC0000000000_bg_1_d0783a06934e74de0eba0104c542e20d4b7fd7db.pkg" size="10702787856" crc="ad9c7a37" md5="1fcdc70353ae4383e6e443e2656e395e" sha1="19b7837af2b4ee6afaa8b3fcc87f1f56199c184f"/>
 	</game>
 	<game name="San Goku Shi 12 Taisenban (Japan)" id="13672">
@@ -13180,7 +13186,6 @@
 		<description>Shaun White Skateboarding (USA)</description>
 		<game_id>UP0001-NPUB31269_00-SWSKATPS3REMPKG1</game_id>
 		<rom name="KtCtWmrFzdUGZoYGqwMtYdxRfZuGzdjJqnRzlsSpeVddnYQczPlGxaHSNCBDpVWc.pkg" size="5091790208" crc="52e2cca7" md5="ef3419bd104d0422c1ba4bc193cef07b" sha1="8f287a14c2d863478073317d84e9f7f8415f7bef"/>
-		<rom name="UP0001-NPUB31269_00-SWSKATPS3REMPKG1.rap" size="16" crc="797c427a" md5="efaf92370ede75ce5acb43c4e28704d1" sha1="72b868984f59943408ffd52a6af8946d06541a05"/>
 	</game>
 	<game name="Shaun White Snowboarding (USA)" id="07143">
 		<category>Games</category>
@@ -16271,7 +16276,6 @@
 		<category>Games</category>
 		<description>Virtua Fighter 4 Evolution (Europe) (PS2 Classics)</description>
 		<game_id>EP0177-NPED00033_00-GVIRTUAFIG000ENG</game_id>
-		<rom name="EP0177-NPED00033_00-GVIRTUAFIG000ENG.rap" size="16" crc="fc4f17b6" md5="c94f56344c2f929e2b3cbc243791f395" sha1="76f50de13638fcb3e62a47c16299e01cef280657" sha256="f0ce38feee59d3f13156c4e1115bbe84ff931c9f54305ac00fb69c6c5ae8bccf"/>
 		<rom name="VvExjeSWgyJJRYqPeOggiwkKwpwKEnvAWZRZJtfQrygyCmpCcdLdROxFwHlVZpmU.pkg" size="1874673184" crc="1ac348e1" md5="7c37873df268c799313d4daacb195507" sha1="e96bb6064a791ccd3dd22d72daec7f16d53c13e2" sha256="7ce09abc3a226116d100ef37ab2286cd6ce329d0fcaf2d8b90910e116a53919a"/>
 	</game>
 	<game name="Virtua Fighter 5 (USA)" id="12624">
@@ -16715,6 +16719,12 @@
 		<game_id>UP9000-NPUA80105_00-PUNLOCKALL000000</game_id>
 		<rom name="T0f6YCp9hlPxAesv3pbX7JBJypuFOm4AprpwQaoeLGBXbuIPe9R0MX1NEeqHaRob6RWX3jOYHREuwQuGsHjVkdponThfHHHT3T9ev.pkg" size="102400" crc="67f75587" md5="46d52f3682fa16bffab2855befc97af9" sha1="b30d78cb413f922eecc2bfdbe51f59cbb9fdcd56"/>
 		<rom name="UP9000-NPUA80105_00-PUNLOCKALL000000.rap" size="16" crc="f8235d34" md5="23b58ebcf61c798d349dfa164a0cd897" sha1="55272ebbab2de6c5da43a81c229a29b186a9bdc7"/>
+	</game>
+	<game name="Witch and the Hundred Knight, The (Europe)" id="46068">
+		<category>Games</category>
+		<description>Witch and the Hundred Knight, The (Europe)</description>
+		<game_id>EP1063-NPEB01930_00-0000111122223333</game_id>
+		<rom name="sdhtexdLZvkPIbttnVspYXuFnTjRrhdTGRTXOjCyqpLidIaniLgnEpXLeGkvENTR.pkg" size="3412741568" crc="8a8a1a3e" md5="840d9b4861349ec129ac253bda16603c" sha1="b10ea4753d4358adb2362874dc3ef90c40d1d872" sha256="ffe16926c2a47cb73515d159223a0dff329f7cc14a43e58619c0edeb37030f32"/>
 	</game>
 	<game name="Wizardry - Labyrinth of Lost Souls (USA) (Unlock Key)" id="19357">
 		<category>Games</category>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Virtual Boy (Retool)</name>
-		<description>Nintendo - Virtual Boy (25) (-y) [-aAbBcefkmMoprv] (20260428-015207) (Retool)</description>
-		<version>20260428-015207</version>
-		<date>2026-06-22 07-37-58</date>
-		<author>BigFred, bikerspade, BitLooter, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, NESBrew12, omonim2007, psykopat, rarenight, relax, Rifu, ShiroeNL, SonGoku, Tauwasser, xuom2</author>
+		<description>Nintendo - Virtual Boy (27) (-y) [-aAbBcefkmMoprv] (20260805-170231) (Retool)</description>
+		<version>20260805-170231</version>
+		<date>2026-08-12 04-09-09</date>
+		<author>Arctic Circle System, BigFred, bikerspade, BitLooter, C. V. Reynolds, DarkMatterCore, Flashfire42, Gefflon, Hiccup, NESBrew12, NovaAurora, omonim2007, psykopat, rarenight, relax, Rifu, ShiroeNL, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -21,6 +21,11 @@
 		<category>Preproduction</category>
 		<description>Bound High (World) (Proto 2)</description>
 		<rom name="Bound High (World) (Proto 2).vb" size="2097152" crc="e365ddd3" md5="cb6262fc277635b2850992b89a219590" sha1="c9d4181ed56e2520ae42a74afaeaff9902180f86" sha256="e7173a5d051fa9d134ce6c09bd278bd0960dca33e7b750b5abd462af4018956e"/>
+	</game>
+	<game name="Dragon Hopper (Japan, USA) (En,Ja) (Switch Online)" id="0082">
+		<category>Games</category>
+		<description>Dragon Hopper (Japan, USA) (En,Ja) (Switch Online)</description>
+		<rom name="Dragon Hopper (Japan, USA) (En,Ja) (Switch Online).vb" size="2097152" crc="193c1a2f" md5="07f13d2f9e0618d2a6c1460c10a71fd3" sha1="103ced4ebb5b43832294ae2702e014d08b4756be" sha256="09a7e498234a6a38a3f7a9220c4aad8e97fa8ea3ba0486fce299dabe906bc594"/>
 	</game>
 	<game name="Galactic Pinball (Japan, USA) (En)" id="0002">
 		<category>Games</category>
@@ -138,5 +143,10 @@
 		<category>Games</category>
 		<description>Waterworld (USA)</description>
 		<rom name="Waterworld (USA).vb" size="2097152" crc="82a95e51" md5="110a83bc070559c5cc5634a8b5cae274" sha1="dcc46484bd0acab0ac1ea178f425a0f5ccfb8dc2"/>
+	</game>
+	<game name="Zero Racers (Japan, USA) (En) (Switch Online)" id="0083">
+		<category>Games</category>
+		<description>Zero Racers (Japan, USA) (En) (Switch Online)</description>
+		<rom name="Zero Racers (Japan, USA) (En) (Switch Online).vb" size="1048576" crc="71553796" md5="7daa75112c3e9385e9546cd4d8f1c37f" sha1="73d161b737e35201aff703b6ff6bf611e5e9c370" sha256="47421cd82dfd414d042d2f7f9db51e657d414d4ddfa46887efb544029fa11ce7"/>
 	</game>
 </datafile>

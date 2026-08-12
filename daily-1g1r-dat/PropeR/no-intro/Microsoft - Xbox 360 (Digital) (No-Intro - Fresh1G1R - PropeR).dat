@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Microsoft - Xbox 360 (Digital) (Retool)</name>
-		<description>Microsoft - Xbox 360 (Digital) (17,267) (-y) [-aAbBcdkmMpPuv] (20260508-031731) (Retool)</description>
-		<version>20260508-031731</version>
-		<date>2026-06-22 07-49-20</date>
-		<author>alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, quig, RetroGamer, root, SonGoku, UnlockerPT, Vigi, xuom2</author>
+		<description>Microsoft - Xbox 360 (Digital) (17,266) (-y) [-aAbBcdkmMpPuv] (20260626-214314) (Retool)</description>
+		<version>20260626-214314</version>
+		<date>2026-08-12 04-25-56</date>
+		<author>1988reload, alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, quig, RetroGamer, root, SonGoku, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -30283,7 +30283,7 @@
 	<game name="Forza Horizon - Rally Expansion Pack (World) (Addon)" id="04267">
 		<category>Add-Ons</category>
 		<description>Forza Horizon - Rally Expansion Pack (World) (Addon)</description>
-		<rom name="4D5309C9\00000002\6F6992766050D818245ADD408031E280FB5F4E634D" size="1083125760" crc="5f8d11e1" md5="569a256ed340deb24da04d8e68e526d4" sha1="93bab719b2a7076f7177cbf375e8fefa17599a3c"/>
+		<rom name="4D5309C9\00000002\6F6992766050D818245ADD408031E280FB5F4E634D" size="1083125760" crc="01949a14" md5="1b934952fa9a75492b5cf2fd2d35b18b" sha1="d6fec5537396b222666bafe3eafced3972f8a711" sha256="0d9f6833b46ae0fde0525f23beecd1ee02eed12ab6df6ca7019a4009d0a7b2b7"/>
 	</game>
 	<game name="Forza Horizon - Season Pass - 2006 Lamborghini Miura Concept (World) (DLC)" id="10063">
 		<category>Add-Ons</category>
@@ -87910,11 +87910,6 @@
 		<category>Add-Ons</category>
 		<description>Sleeping Dogs - The Wheels of Fury Pack (World) (Addon)</description>
 		<rom name="53510811\00000002\F2A38609179D32305607F3DA38BE16D3405B617D53" size="1564176384" crc="9b2b59af" md5="b13912556ec9bee7a8dd4b5da024463b" sha1="d6009fc578db0870541fd4ed2b7907617910a90d"/>
-	</game>
-	<game name="Sleeping Dogs - The Year of the Snake (World) (DLC)" id="04333">
-		<category>Add-Ons</category>
-		<description>Sleeping Dogs - The Year of the Snake (World) (DLC)</description>
-		<rom name="53510811\00000002\B5804A0638B43C0B932C46C1004887B2709D421053" size="1844183040" crc="9f97f0a5" md5="0145ab2db7a1e1563d631bffdb96aaf6" sha1="0c4728aaa4604091e48b351f2eab1aed298129cd"/>
 	</game>
 	<game name="Sleeping Dogs - The Zodiac Tournament Pack (World) (Addon)" id="04305">
 		<category>Add-Ons</category>

@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,824) (-y) [-aAbBcefkmMoprv] (20260619-134853) (Retool)</description>
-		<version>20260619-134853</version>
-		<date>2026-06-22 07-38-04</date>
-		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,824) (-y) [-aAbBcefkmMoprv] (20260806-082610) (Retool)</description>
+		<version>20260806-082610</version>
+		<date>2026-08-12 04-08-05</date>
+		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -2047,10 +2047,10 @@
 		<description>Door Door (Japan) (En)</description>
 		<rom name="Door Door (Japan) (En).unh" size="24576" crc="12e6cb79" md5="3c07d3fcac36e9f53b0982b93e6cabd5" sha1="7f50975365e7a26ade33945139d2d5b07a5005db" sha256="7bd2caf4a42f7d5c391433d2bec37bb2130e3a39dce55ee597ec14703cefc769"/>
 	</game>
-	<game name="Doraemon (Japan) (Rev 1)" id="0554">
+	<game name="Doraemon (Japan)" id="0553">
 		<category>Games</category>
-		<description>Doraemon (Japan) (Rev 1)</description>
-		<rom name="Doraemon (Japan) (Rev 1).unh" size="163840" crc="336093ef" md5="4c56843db70cddec8bc5e63ba8b8bed4" sha1="cdba5d85ef27697d35b21e1f8994ce8f4e554ca6" sha256="b7d636165bee933d258f3d0c832d23c38083d3984dc1bf3bc00dddc4d91a40db"/>
+		<description>Doraemon (Japan)</description>
+		<rom name="Doraemon (Japan).unh" size="163840" crc="bde3ae9b" md5="add4e9f5ed4391a6b3fdfc5f0e300e71" sha1="5e4119e0771bec24a46bad4e874df05521bb953c" sha256="de15604ba1f819b12dd35dec557a5f20c9821210c4bc853c29c763466d0ede94"/>
 	</game>
 	<game name="Doraemon - Giga Zombie no Gyakushuu (Japan)" id="0555">
 		<category>Games</category>

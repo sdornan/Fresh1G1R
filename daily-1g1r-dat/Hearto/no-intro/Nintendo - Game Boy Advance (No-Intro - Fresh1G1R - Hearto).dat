@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,717) (-y) [-aAbBcefkmMoprv] (20260615-161654) (Retool)</description>
-		<version>20260615-161654</version>
-		<date>2026-06-22 07-39-23</date>
+		<description>Nintendo - Game Boy Advance (1,718) (-y) [-aAbBcefkmMoprv] (20260810-212911) (Retool)</description>
+		<version>20260810-212911</version>
+		<date>2026-08-12 04-08-45</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -835,7 +835,7 @@
 	<game name="Boktai - The Sun Is in Your Hand (USA)" id="1143">
 		<category>Games</category>
 		<description>Boktai - The Sun Is in Your Hand (USA)</description>
-		<rom name="Boktai - The Sun Is in Your Hand (USA).gba" size="16777216" crc="e715ac45" md5="ff75c62ab690410cc8fca24204d783e9" sha1="7164326283df46a3941ec7b6ceca889cbc40e660"/>
+		<rom name="Boktai - The Sun Is in Your Hand (USA).gba" size="16777216" crc="e715ac45" md5="ff75c62ab690410cc8fca24204d783e9" sha1="7164326283df46a3941ec7b6ceca889cbc40e660" sha256="aad4eaf0b3ab9f80ffb3a5346d6607b2e2ea12f8e5f3851d2edd1306a4f7a8cd"/>
 	</game>
 	<game name="Boktai - The Sun Is in Your Hand (USA) (Sample)" id="x011">
 		<category>Demos</category>
@@ -2615,6 +2615,12 @@
 		<description>Franklin's Great Adventures (USA) (En,Fr,Es)</description>
 		<rom name="Franklin's Great Adventures (USA) (En,Fr,Es).gba" size="4194304" crc="7fbf8e98" md5="36eaf4fec9e81f3ea44869033996cedd" sha1="2da756bed887dbd33fc0efdd3dcd01fbb92ae0dc"/>
 	</game>
+	<game name="Franko 2 - No Mercy (World) (Proto)" id="3349">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Franko 2 - No Mercy (World) (Proto)</description>
+		<rom name="Franko 2 - No Mercy (World) (Proto).gba" size="553380" crc="685524d6" md5="5073fcb788018a0da434845e112db34d" sha1="7ce11c72d315befceac68921d1efca30e8618eaf" sha256="f9ebfef49099d16019a0916ce87fa94b7c6d98c4cac95c97fa1c8051ec062396"/>
+	</game>
 	<game name="Freekstyle (USA)" id="1127">
 		<category>Games</category>
 		<description>Freekstyle (USA)</description>
@@ -4003,7 +4009,7 @@
 	<game name="Kururin Paradise (Japan)" id="0831">
 		<category>Games</category>
 		<description>Kururin Paradise (Japan)</description>
-		<rom name="Kururin Paradise (Japan).gba" size="8388608" crc="93d036f5" md5="b77c57c60fc0dcba3b2ddd3e2f1c5f86" sha1="73be3b930e2436d1c7bdb74ac281dd27c72e1f9e"/>
+		<rom name="Kururin Paradise (Japan).gba" size="8388608" crc="93d036f5" md5="b77c57c60fc0dcba3b2ddd3e2f1c5f86" sha1="73be3b930e2436d1c7bdb74ac281dd27c72e1f9e" sha256="ed9bac12fe065d11adffb08a27de1a932e4e5a22cbf6b4b24fe28ef49f5385d2"/>
 	</game>
 	<game name="LEGO Bionicle (USA) (En,Fr)" id="0129">
 		<category>Games</category>
@@ -4253,7 +4259,7 @@
 	<game name="Lunar Legend (USA)" id="0792">
 		<category>Games</category>
 		<description>Lunar Legend (USA)</description>
-		<rom name="Lunar Legend (USA).gba" size="8388608" crc="885266a2" md5="ae5ee35f0aadf386cb6918a2d83f5a3b" sha1="d7109fa4a03d50e24bd9e61446bdeb03b42732ff"/>
+		<rom name="Lunar Legend (USA).gba" size="8388608" crc="885266a2" md5="ae5ee35f0aadf386cb6918a2d83f5a3b" sha1="d7109fa4a03d50e24bd9e61446bdeb03b42732ff" sha256="b38689b2315492d670724b34b6e7110340f18836517beaa775114c202f24a6e5"/>
 	</game>
 	<game name="M&amp;M's - Blast! (USA)" id="0167">
 		<category>Games</category>
@@ -4353,7 +4359,7 @@
 	<game name="Magical Vacation (Japan)" id="0228">
 		<category>Games</category>
 		<description>Magical Vacation (Japan)</description>
-		<rom name="Magical Vacation (Japan).gba" size="8388608" crc="59cbe914" md5="814cd6fb465041da0c39c40d89993339" sha1="565225d6b02da909d3cf04adaf419170baba35ac"/>
+		<rom name="Magical Vacation (Japan).gba" size="8388608" crc="59cbe914" md5="814cd6fb465041da0c39c40d89993339" sha1="565225d6b02da909d3cf04adaf419170baba35ac" sha256="a3209cc16050f458b5decf8008c9c76b95bd5078e5964446b84b9a4b6dfc17ee"/>
 	</game>
 	<game name="Mahjong Keiji (Japan)" id="0062">
 		<category>Games</category>

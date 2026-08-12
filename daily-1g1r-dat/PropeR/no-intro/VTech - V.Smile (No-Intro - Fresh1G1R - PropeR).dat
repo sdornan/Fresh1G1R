@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>VTech - V.Smile (Retool)</name>
-		<description>VTech - V.Smile (85) (-y) [-aAbBcdkmMpPuv] (20260407-012112) (Retool)</description>
-		<version>20260407-012112</version>
-		<date>2026-06-22 07-47-55</date>
+		<description>VTech - V.Smile (86) (-y) [-aAbBcdkmMpPuv] (20260811-084849) (Retool)</description>
+		<version>20260811-084849</version>
+		<date>2026-08-12 04-26-11</date>
 		<author>Aringon, coraz, FakeShemp, Gefflon, Hiccup, InternalLoss, Larsenv, NESBrew12, nnssxx, omonim2007, relax, sCZther, SonGoku, Tauwasser, TeamEurope, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -180,6 +180,11 @@
 		<category>Games</category>
 		<description>Disney-Pixar Toy Story 2 (USA) (Smartbook)</description>
 		<rom name="Disney-Pixar Toy Story 2 (USA) (Smartbook).bin" size="8388608" crc="4f5e84e0" md5="5f612f649d96cd0e81c73de592bc636b" sha1="7d82f4607b69221a565556e3f63ee3b20b8cd318" sha256="74a6b9260b2b76a147861486986e050e05dc5c0b248fdf21ec6f75a042c959d4"/>
+	</game>
+	<game name="Disney-Pixar Toy Story 2 - Operation - Red Woody! (Denmark)" id="0467">
+		<category>Games</category>
+		<description>Disney-Pixar Toy Story 2 - Operation - Red Woody! (Denmark)</description>
+		<rom name="Disney-Pixar Toy Story 2 - Operation - Red Woody! (Denmark).bin" size="8388608" crc="52d72fbc" md5="8f251330a6b694868be1862da7be7af4" sha1="ccc2b79bb9f1136bd04ede8935c88aebcb197071" sha256="d5237face348ad41c9e7990d61ff4cf882520f80e8719ad68c84fff72d18cfd5"/>
 	</game>
 	<game name="Disney-Pixar Toy Story 2 - Operation - Rescue Woody! (United Kingdom)" id="0129">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy Color (Retool)</name>
-		<description>Nintendo - Game Boy Color (1,234) (-y) [-aAbBcefkmMoprv] (20260613-134444) (Retool)</description>
-		<version>20260613-134444</version>
-		<date>2026-06-22 07-38-35</date>
+		<description>Nintendo - Game Boy Color (1,234) (-y) [-aAbBcefkmMoprv] (20260811-070013) (Retool)</description>
+		<version>20260811-070013</version>
+		<date>2026-08-12 04-05-10</date>
 		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1330,7 +1330,7 @@
 	<game name="Dragon Warrior I &amp; II (USA) (SGB Enhanced) (GB Compatible)" id="0304">
 		<category>Games</category>
 		<description>Dragon Warrior I &amp; II (USA) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Dragon Warrior I &amp; II (USA) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="71d693da" md5="c3987a4d734c37b7d8324f654a45de70" sha1="01c4e2145365a12560d162116378f1991807ef95"/>
+		<rom name="Dragon Warrior I &amp; II (USA) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="71d693da" md5="c3987a4d734c37b7d8324f654a45de70" sha1="01c4e2145365a12560d162116378f1991807ef95" sha256="3996cbfb2f133a48f58a0d81420362caceaa3e348704d496ba6cbff0eb47139f"/>
 	</game>
 	<game name="Dragon Warrior III (USA)" id="0305">
 		<category>Games</category>
@@ -1340,7 +1340,7 @@
 	<game name="Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible)" id="0306">
 		<category>Games</category>
 		<description>Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="e56c35b1" md5="1ca6579359f21d8e27b446f865bf6b83" sha1="728e458d4b13cdc8a0026dc28c5a14f1d72d9da4"/>
+		<rom name="Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="e56c35b1" md5="1ca6579359f21d8e27b446f865bf6b83" sha1="728e458d4b13cdc8a0026dc28c5a14f1d72d9da4" sha256="137a9bd2b0ab83f0547f12560b1bc5392e5412514645d18ac7d79c607902cc01"/>
 	</game>
 	<game name="Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible)" id="0307">
 		<category>Games</category>
@@ -1350,7 +1350,7 @@
 	<game name="Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible)" id="0308">
 		<category>Games</category>
 		<description>Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="35ec5fb2" md5="8e79dcdee0e15ef069b3f376a0fee37d" sha1="a68451e7d3accd81b240c4b60a1f552e39211ede"/>
+		<rom name="Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="35ec5fb2" md5="8e79dcdee0e15ef069b3f376a0fee37d" sha1="a68451e7d3accd81b240c4b60a1f552e39211ede" sha256="fc6809c31ff69c889dee80c5f39f4d8069042a2b4d933edd83d1627c32e013cc"/>
 	</game>
 	<game name="Dragon's Lair (USA, Europe) (En,Ja,Fr,De,Es,Zh)" id="0309">
 		<category>Games</category>

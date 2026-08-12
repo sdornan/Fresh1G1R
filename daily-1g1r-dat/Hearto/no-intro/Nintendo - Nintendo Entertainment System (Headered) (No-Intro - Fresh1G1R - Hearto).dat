@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,824) (-y) [-aAbBcefkmMoprv] (20260619-134853) (Retool)</description>
-		<version>20260619-134853</version>
-		<date>2026-06-22 07-38-29</date>
-		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,824) (-y) [-aAbBcefkmMoprv] (20260806-082610) (Retool)</description>
+		<version>20260806-082610</version>
+		<date>2026-08-12 04-04-57</date>
+		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -2047,10 +2047,10 @@
 		<description>Door Door (Japan) (En)</description>
 		<rom name="Door Door (Japan) (En).nes" size="24592" header="4e 45 53 1a 01 01 00 08 00 00 00 00 00 00 00 01" crc="d520ba35" md5="95aad89a763afe83b6128b6f46431c28" sha1="d45149b8d2e9a1d65687e614550355546cc3efc9" sha256="8f58cc8735562462e3298093d042d14892fcdd4b2c54046da940297f03c91c5d"/>
 	</game>
-	<game name="Doraemon (Japan) (Rev 1)" id="0554">
+	<game name="Doraemon (Japan)" id="0553">
 		<category>Games</category>
-		<description>Doraemon (Japan) (Rev 1)</description>
-		<rom name="Doraemon (Japan) (Rev 1).nes" size="163856" header="4e 45 53 1a 08 04 21 48 00 00 00 00 00 00 00 01" crc="83348047" md5="cbae89f0c3747575322dd219ad1cccc9" sha1="71322777250ea6573554ea04538f1b2ae9b76b83" sha256="842318dbe28483982f6a67fad66cc3d82c7eaea517d37a1e7ef4501a80f0b7e5"/>
+		<description>Doraemon (Japan)</description>
+		<rom name="Doraemon (Japan).nes" size="163856" header="4e 45 53 1a 08 04 21 48 00 00 00 00 00 00 00 01" crc="0db7bd33" md5="94d9e4b9d094d00f0ca80fd1b4ff99b6" sha1="2b6e2231a9d5e0fad2459d855d6c2a159c53ad58" sha256="b8680e8e6e99bdbbad92ee6e40b667fddc5a42fc39a1a75742472610071b4ac9"/>
 	</game>
 	<game name="Doraemon - Giga Zombie no Gyakushuu (Japan)" id="0555">
 		<category>Games</category>
@@ -9085,7 +9085,7 @@
 	<game name="Youkai Club (Japan) (Rev 1)" id="8498">
 		<category>Games</category>
 		<description>Youkai Club (Japan) (Rev 1)</description>
-		<rom name="Youkai Club (Japan) (Rev 1).nes" size="163856" crc="5aa28163" md5="c74e4fbbf711df878a195544022ee14e" sha1="cee03bc9ae548c59183421aa918c0ef14c50191b" sha256="2f64a083a888523d417ac781d6903d5854361691f78657571cd7c823710813ef"/>
+		<rom name="Youkai Club (Japan) (Rev 1).nes" size="163856" header="4e 45 53 1a 08 04 c1 88 00 00 00 00 00 00 00 01" crc="fefe31b9" md5="e1e3e8bd906f3a249a8770a72f11c25b" sha1="7f204f1be25df10a66a8b183fa0cc277760d371a" sha256="ca7ebcbc1eaa13d2fce1f58aca4304e20762411caa763d8d952f4021be2e9d2d"/>
 	</game>
 	<game name="Youkai Douchuuki (Japan)" id="2539">
 		<category>Games</category>

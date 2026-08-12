@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 64 (BigEndian) (Retool)</name>
-		<description>Nintendo - Nintendo 64 (BigEndian) (306) (-ly) [-aAbBcdDefkmMopPruv] (20260609-194259) (Retool)</description>
-		<version>20260609-194259</version>
-		<date>2026-06-22 07-42-50</date>
+		<description>Nintendo - Nintendo 64 (BigEndian) (306) (-ly) [-aAbBcdDefkmMopPruv] (20260730-064415) (Retool)</description>
+		<version>20260730-064415</version>
+		<date>2026-08-12 04-18-08</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -749,7 +749,7 @@
 	<game name="Mischief Makers (USA) (Rev 1)" id="0890">
 		<category>Games</category>
 		<description>Mischief Makers (USA) (Rev 1)</description>
-		<rom name="Mischief Makers (USA) (Rev 1).z64" size="8388608" crc="c3300cef" md5="2ee917366f64a06472d7622a2a05990e" sha1="811709c6473f74cbf283aa61f056e1de3046ec73"/>
+		<rom name="Mischief Makers (USA) (Rev 1).z64" size="8388608" crc="c3300cef" md5="2ee917366f64a06472d7622a2a05990e" sha1="811709c6473f74cbf283aa61f056e1de3046ec73" sha256="e00ab74c3dee79efaafe8e10f2a6b67784d7327ab588d8ef90ad8945427da627"/>
 	</game>
 	<game name="Mission - Impossible (USA)" id="0447">
 		<category>Games</category>
@@ -899,7 +899,7 @@
 	<game name="NHL 99 (USA)" id="0509">
 		<category>Games</category>
 		<description>NHL 99 (USA)</description>
-		<rom name="NHL 99 (USA).z64" size="12582912" crc="e5df2afe" md5="a62fa044bcb5507d358424abda6419db" sha1="d730540d8c447420de4aa81f6a2776c2e310d12a"/>
+		<rom name="NHL 99 (USA).z64" size="12582912" crc="e5df2afe" md5="a62fa044bcb5507d358424abda6419db" sha1="d730540d8c447420de4aa81f6a2776c2e310d12a" sha256="bfab38dda9ff0fd465a2ce0eac9f604ca7806369bb02c711f625b9e111885c04"/>
 	</game>
 	<game name="NHL Blades of Steel '99 (USA)" id="0510">
 		<category>Games</category>
@@ -909,7 +909,7 @@
 	<game name="NHL Breakaway 98 (USA)" id="0512">
 		<category>Games</category>
 		<description>NHL Breakaway 98 (USA)</description>
-		<rom name="NHL Breakaway 98 (USA).z64" size="12582912" crc="49d86c00" md5="b62076fa1421b8e7fdec2b4f8a910ea3" sha1="2658334bf4091d0d3ed2de3327592d04fc0b6849"/>
+		<rom name="NHL Breakaway 98 (USA).z64" size="12582912" crc="49d86c00" md5="b62076fa1421b8e7fdec2b4f8a910ea3" sha1="2658334bf4091d0d3ed2de3327592d04fc0b6849" sha256="12cd9cde3c40fd2f2be054ff19c48fcb26b0caccd8bac7aa1cf83be0c02a31bb"/>
 	</game>
 	<game name="NHL Breakaway 99 (USA)" id="0514">
 		<category>Games</category>
@@ -1329,7 +1329,7 @@
 	<game name="Tony Hawk's Pro Skater (USA) (Rev 1)" id="0751">
 		<category>Games</category>
 		<description>Tony Hawk's Pro Skater (USA) (Rev 1)</description>
-		<rom name="Tony Hawk's Pro Skater (USA) (Rev 1).z64" size="12582912" crc="6182a092" md5="aff424a1883dc7bb92c7b2ebe9342f85" sha1="4900b6c92fb8df1765e91e891dccc525bb102fe1"/>
+		<rom name="Tony Hawk's Pro Skater (USA) (Rev 1).z64" size="12582912" crc="6182a092" md5="aff424a1883dc7bb92c7b2ebe9342f85" sha1="4900b6c92fb8df1765e91e891dccc525bb102fe1" sha256="506961e65197aaff2b47ae055b7d28470f80fb925914ebeac9ddc541a7a9fd8d"/>
 	</game>
 	<game name="Tony Hawk's Pro Skater 2 (USA)" id="0753">
 		<category>Games</category>
@@ -1474,7 +1474,7 @@
 	<game name="Waialae Country Club - True Golf Classics (USA) (Rev 1)" id="0881">
 		<category>Games</category>
 		<description>Waialae Country Club - True Golf Classics (USA) (Rev 1)</description>
-		<rom name="Waialae Country Club - True Golf Classics (USA) (Rev 1).z64" size="16777216" crc="c65ee122" md5="67f75c4dd30922a001c8c32aeb9333ac" sha1="45c9e0ca0d41b47bb59d36cebb1d2a9db7c8278b"/>
+		<rom name="Waialae Country Club - True Golf Classics (USA) (Rev 1).z64" size="16777216" crc="c65ee122" md5="67f75c4dd30922a001c8c32aeb9333ac" sha1="45c9e0ca0d41b47bb59d36cebb1d2a9db7c8278b" sha256="3b09a12895b177f483940d1bcc7c8306f15ab0f2c7dcd1ff2ec450ea48f50c30"/>
 	</game>
 	<game name="War Gods (USA)" id="0819">
 		<category>Games</category>

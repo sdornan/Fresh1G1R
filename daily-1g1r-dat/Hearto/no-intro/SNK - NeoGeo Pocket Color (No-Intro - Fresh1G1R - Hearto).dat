@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>SNK - NeoGeo Pocket Color (Retool)</name>
-		<description>SNK - NeoGeo Pocket Color (86) (-y) [-aAbBcefkmMoprv] (20240506-123728) (Retool)</description>
-		<version>20240506-123728</version>
-		<date>2026-06-22 07-38-41</date>
-		<author>BigFred, BitLooter, ElBarto, Gefflon, Hiccup, omonim2007, Powerpuff, psykopat, rarenight, relax, SonGoku, xuom2, xxxddd</author>
+		<description>SNK - NeoGeo Pocket Color (86) (-y) [-aAbBcefkmMoprv] (20260626-085623) (Retool)</description>
+		<version>20260626-085623</version>
+		<date>2026-08-12 04-06-59</date>
+		<author>1988reload, BigFred, BitLooter, ElBarto, Gefflon, Hiccup, omonim2007, Powerpuff, psykopat, rarenight, relax, SonGoku, xuom2, xxxddd</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -121,10 +121,10 @@
 		<description>Faselei! (USA, Europe)</description>
 		<rom name="Faselei! (USA, Europe).ngc" size="2097152" crc="e705e30e" md5="f580078164dc2b8dffb9f38eeec1035d" sha1="48c04c8a261b25a942a9fe68abace8aad9deae23" sha256="80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279"/>
 	</game>
-	<game name="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)" id="0026">
+	<game name="Fatal Fury - First Contact - Pocket Fighting Series (World) (En,Ja)" id="0026">
 		<category>Games</category>
-		<description>Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)</description>
-		<rom name="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc" size="2097152" crc="e7e5d6e8" md5="8f3175df433b78dfa1a0663f493e1fea" sha1="d33da5587a27344221a4f925867047addaafa97c" sha256="6f088209f5000f52a68f70e64bf1def9146d9dbbbd0bbaa2c457634f45143f88"/>
+		<description>Fatal Fury - First Contact - Pocket Fighting Series (World) (En,Ja)</description>
+		<rom name="Fatal Fury - First Contact - Pocket Fighting Series (World) (En,Ja).ngc" size="2097152" crc="e7e5d6e8" md5="8f3175df433b78dfa1a0663f493e1fea" sha1="d33da5587a27344221a4f925867047addaafa97c" sha256="6f088209f5000f52a68f70e64bf1def9146d9dbbbd0bbaa2c457634f45143f88"/>
 	</game>
 	<game name="Ganbare Neo Poke-kun (Kari) (Japan)" id="0027">
 		<category>Games</category>
@@ -236,10 +236,10 @@
 		<description>Neo Derby Champ Daiyosou (Japan)</description>
 		<rom name="Neo Derby Champ Daiyosou (Japan).ngc" size="2097152" crc="4760564a" md5="62374e839f4f7023d3eba2a6df1cc90a" sha1="34ebc515977c099032fc66ff477674b945326fc8" sha256="41bd954a376ebf6ade3e108d3f4b2d56a7dcb7572c4c099d8a7c62d5e89136ad"/>
 	</game>
-	<game name="Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13)" id="0046">
+	<game name="Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja) (v13)" id="0046">
 		<category>Games</category>
-		<description>Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13)</description>
-		<rom name="Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13).ngc" size="1048576" crc="5d028c99" md5="f0fdd57f4d1a1470b826082586ead479" sha1="b83f713370169e146a1687424ae8ce56b35a23da" sha256="40a006d32d1b0cbc249903100accb9a90c975a460e0d11d4ff460e2002ccd333"/>
+		<description>Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja) (v13)</description>
+		<rom name="Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja) (v13).ngc" size="1048576" crc="5d028c99" md5="f0fdd57f4d1a1470b826082586ead479" sha1="b83f713370169e146a1687424ae8ce56b35a23da" sha256="40a006d32d1b0cbc249903100accb9a90c975a460e0d11d4ff460e2002ccd333"/>
 	</game>
 	<game name="Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)" id="0048">
 		<category>Games</category>
@@ -251,10 +251,10 @@
 		<description>Neo Poke Pro Yakyuu (Japan) (v32)</description>
 		<rom name="Neo Poke Pro Yakyuu (Japan) (v32).ngc" size="1048576" crc="c624388f" md5="c5f81f7d06bec3d921ce55e53060a98f" sha1="80b0037ddfb83090f13189b59c486fcd54d3276c" sha256="ee5cdd1360924cb86eb4fe8431ad5159e62ebac3d660f6d7a26346bfad385dd6"/>
 	</game>
-	<game name="Neo Turf Masters (World) (En,Ja)" id="0050">
+	<game name="Neo Turf Masters - Pocket Sports Series (World) (En,Ja)" id="0050">
 		<category>Games</category>
-		<description>Neo Turf Masters (World) (En,Ja)</description>
-		<rom name="Neo Turf Masters (World) (En,Ja).ngc" size="2097152" crc="e0e853dd" md5="1222a2eca8db9b54f044fa2fe2f50a61" sha1="308361297bd28ebb8fb60713ae5e00cee514415c" sha256="92c7b5a3d6d28f8918c030afb95f9e4c13038326b8391d7fb05feac26917051a"/>
+		<description>Neo Turf Masters - Pocket Sports Series (World) (En,Ja)</description>
+		<rom name="Neo Turf Masters - Pocket Sports Series (World) (En,Ja).ngc" size="2097152" crc="e0e853dd" md5="1222a2eca8db9b54f044fa2fe2f50a61" sha1="308361297bd28ebb8fb60713ae5e00cee514415c" sha256="92c7b5a3d6d28f8918c030afb95f9e4c13038326b8391d7fb05feac26917051a"/>
 	</game>
 	<game name="NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)" id="0047">
 		<category>Games</category>

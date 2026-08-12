@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sega - Master System - Mark III (Retool)</name>
-		<description>Sega - Master System - Mark III (336) (-y) [-aAbBcdkmMpPuv] (20260527-203639) (Retool)</description>
-		<version>20260527-203639</version>
-		<date>2026-06-22 07-49-44</date>
+		<description>Sega - Master System - Mark III (337) (-y) [-aAbBcdkmMpPuv] (20260809-210908) (Retool)</description>
+		<version>20260809-210908</version>
+		<date>2026-08-12 04-24-49</date>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, ChuckD, fuzzball, Gefflon, gigadeath, Hiccup, kazumi213, nnssxx, NovaAurora, omonim2007, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -515,6 +515,11 @@
 		<category>Games</category>
 		<description>Fantasy Zone (World) (Rev 1)</description>
 		<rom name="Fantasy Zone (World) (Rev 1).sms" size="131072" crc="65d7e4e0" md5="fed8690ee5fb895c09caa8e2b879ebd6" sha1="0278cd120dc3a7707eda9314c46c7f27f9e8fdda" sha256="d529aa91cc0e540c4e3afdf8d946c02cb80765d280286da0a4e2125e2c443311"/>
+	</game>
+	<game name="Fantasy Zone (World) (Sega 3D Classics) (FM Music)" id="1279">
+		<category>Games</category>
+		<description>Fantasy Zone (World) (Sega 3D Classics) (FM Music)</description>
+		<rom name="Fantasy Zone (World) (Sega 3D Classics) (FM Music).sms" size="262144" crc="7ec7bb12" md5="97d026fb1363665e0612dc17288742f0" sha1="893e2871295472e9c5292595033a7a84e128065e" sha256="b322bea46d140f6d4daea8407debcad75008009e84486c596456ce8232ab8bae"/>
 	</game>
 	<game name="Fantasy Zone - The Maze (USA, Europe, Brazil) (En)" id="0125">
 		<category>Games</category>

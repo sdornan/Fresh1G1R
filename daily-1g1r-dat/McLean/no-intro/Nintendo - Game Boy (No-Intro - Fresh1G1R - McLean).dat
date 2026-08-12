@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (605) (-ly) [-aAbBcdDefkmMopPruv] (20260615-112845) (Retool)</description>
-		<version>20260615-112845</version>
-		<date>2026-06-22 07-44-08</date>
+		<description>Nintendo - Game Boy (606) (-ly) [-aAbBcdDefkmMopPruv] (20260811-091912) (Retool)</description>
+		<version>20260811-091912</version>
+		<date>2026-08-12 04-14-23</date>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -945,6 +945,11 @@
 		<category>Games</category>
 		<description>Fortified Zone (USA, Europe)</description>
 		<rom name="Fortified Zone (USA, Europe).gb" size="131072" crc="e3b59b7e" md5="a981378da19c08597db03f3ee02cd6d7" sha1="232d2f57ab4bef748eb832dfb4085cc3df1fd532" sha256="06643cffc888b1c0c80ccae3cef66babb9b878ee594c29de8c9216bddd48287f"/>
+	</game>
+	<game name="Fortified Zone 2 (World)" id="2607">
+		<category>Games</category>
+		<description>Fortified Zone 2 (World)</description>
+		<rom name="Fortified Zone 2 (World).gb" size="131072" crc="42c77af5" md5="a7f74d696520492876dc6a74d8391e99" sha1="575925530d8344eed79760dd7f172b1ad04e06b3" sha256="28263a3a8934f5ec34ff7796a9c7aa85cc9848111f3dc7a673cd3909afa4857a"/>
 	</game>
 	<game name="Frank Thomas Big Hurt Baseball (USA, Europe)" id="0404">
 		<category>Games</category>

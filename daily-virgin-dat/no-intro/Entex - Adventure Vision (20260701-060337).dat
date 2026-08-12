@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>5</id>
+		<name>Entex - Adventure Vision</name>
+		<description>Entex - Adventure Vision</description>
+		<version>20260701-060337</version>
+		<author>1988reload</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Entex Adventure Vision (USA, Europe)" id="0001">
+		<description>[BIOS] Entex Adventure Vision (USA, Europe)</description>
+		<rom name="[BIOS] Entex Adventure Vision (USA, Europe).bin" size="1024" crc="279e33d1" md5="5729638bd856c475678467a353bd921c" sha1="bf7b0663e9125c9bfb950232eab627d9dbda8460" sha256="9b6e67798543bf796cb87597286eed041d76efed22cbdf9b145c756a6b0c6f0a"/>
+		<rom name="[BIOS] Entex Adventure Vision (USA, Europe) (Sound).bin" size="512" crc="81e95975" md5="fc5e71445e4947a9d00eedbc66b13a8f" sha1="8b6f8c30dd3e9d8e43f1ea20fba2361b383790eb" sha256="dbb742d4baaf177ad2a95c0f646285c71646156ac8f90831d03710386a1ecca8"/>
+	</game>
+	<game name="Defender (USA, Europe)" id="0002">
+		<description>Defender (USA, Europe)</description>
+		<rom name="Defender (USA, Europe).bin" size="4096" crc="3e280096" md5="24fa782ff3e76241c4862481802e5347" sha1="33e6bc08b3e8a951942e078102e90fbc8ba729a8" sha256="5984b27d878020b71f4dea49607381e500822e3fb7864d0dcc0a331bf3fda960"/>
+	</game>
+	<game name="Space Force (USA, Europe)" id="0003">
+		<description>Space Force (USA, Europe)</description>
+		<rom name="Space Force (USA, Europe).bin" size="4096" crc="c70d4028" md5="a991ce001b95c2c3455a8b2b30a47f61" sha1="86c1a6eb8a5070f4be32bf4e83c0d5951e831d27" sha256="8e2a79521c2619766ecdc28e268950f4e5343948e5c7007c1929bc4959b45150"/>
+	</game>
+	<game name="Super Cobra (USA, Europe)" id="0004">
+		<description>Super Cobra (USA, Europe)</description>
+		<rom name="Super Cobra (USA, Europe).bin" size="4096" crc="b6045c9e" md5="42acae1f1005044cc912853bf729331c" sha1="fd059081d8d82f51dd1415cc3710f1fa5ebb1336" sha256="7ed7c69ffa95820ca036335555b6494914701c9034e124006c6bfe7f2e8af194"/>
+	</game>
+	<game name="Turtles (USA, Europe)" id="0005">
+		<description>Turtles (USA, Europe)</description>
+		<rom name="Turtles (USA, Europe).bin" size="4096" crc="33a23eba" md5="3e7a1ce7b7d69fecd67792a375864759" sha1="88748cf4080646e0a2f115a7f6e6001916314816" sha256="502e962e6f171f4c1ebdd818c18ca7010847889e5c646fb90771b6b41b9412cc"/>
+	</game>
+</datafile>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (335) (-y) [-aAbBcefkmMoprv] (20260619-093425) (Retool)</description>
-		<version>20260619-093425</version>
-		<date>2026-06-22 07-39-39</date>
+		<description>Nintendo - Satellaview (338) (-y) [-aAbBcefkmMoprv] (20260809-110056) (Retool)</description>
+		<version>20260809-110056</version>
+		<date>2026-08-12 04-05-08</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -629,6 +629,12 @@
 		<description>Gambler Jiko Chuushinha 2 - Dorapon Quest (Japan) (12-20)</description>
 		<rom name="Gambler Jiko Chuushinha 2 - Dorapon Quest (Japan) (12-20).bs" size="1048576" crc="f9e8a8ee" md5="8d78a51cccd33613a88a1c80acee9ddc" sha1="a4999b026cd05ae71b6f0a8ede1ce1bf86215d08" sha256="f60b51c4590a550f4e9a6b1386b091be2032d7707339fc0c0c1a426f4bf885e6"/>
 	</game>
+	<game name="Game Tora no Chou Ooana (1995-6-23, Part 2) + Undake 30 - Same Game Daisakusen - Mario Version (10-30) (Japan) (SoundLink Magazine, Game)" id="3990">
+		<category>Games</category>
+		<category>Magazines</category>
+		<description>Game Tora no Chou Ooana (1995-6-23, Part 2) + Undake 30 - Same Game Daisakusen - Mario Version (10-30) (Japan) (SoundLink Magazine, Game)</description>
+		<rom name="Game Tora no Chou Ooana (1995-6-23, Part 2) + Undake 30 - Same Game Daisakusen - Mario Version (10-30) (Japan) (SoundLink Magazine, Game).bs" size="1048576" crc="081dc413" md5="dd3fc0a856516de538deb68593c22f1c" sha1="dcb0d76b279ddb3702eccac9c04c556a91850edb" sha256="96f7dd7eb863ffb9cfd1a90434781fa3e612473724f8beecc8a0d8ffb3833c79"/>
+	</game>
 	<game name="Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (9-8) (Japan) (SoundLink Magazine, Magazine)" id="3835">
 		<category>Magazines</category>
 		<description>Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (9-8) (Japan) (SoundLink Magazine, Magazine)</description>
@@ -739,10 +745,10 @@
 		<description>Kirby no Omochabako - Arrange Ball (Japan)</description>
 		<rom name="Kirby no Omochabako - Arrange Ball (Japan).bs" size="524288" crc="bc49f827" md5="7ca9979d1fc3e1cef697c757d4616c2a" sha1="31407d5b2e60e480be4f5e34ce47f6a0a8de1b08" sha256="0cbbb40b99f163aebdaa80e2506daf50ca4864c2cd565299b7867af7eb8b51f7"/>
 	</game>
-	<game name="Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check 3-28 Honhousou (Japan)" id="3790">
+	<game name="Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check (1996-3-28, 3-30) (Japan)" id="3790">
 		<category>Games</category>
-		<description>Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check 3-28 Honhousou (Japan)</description>
-		<rom name="Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check 3-28 Honhousou (Japan).bs" size="1048576" crc="d1fe8598" md5="7a105cf787119dbe9874fc9900a34574" sha1="0d78f167beeaa3f2a056697d749721361b02a307" sha256="314567dbe9f2d2c516756b79c1425feb474263606debfed4f259ff09d9fdc7e9"/>
+		<description>Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check (1996-3-28, 3-30) (Japan)</description>
+		<rom name="Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check (1996-3-28, 3-30) (Japan).bs" size="1048576" crc="d1fe8598" md5="7a105cf787119dbe9874fc9900a34574" sha1="0d78f167beeaa3f2a056697d749721361b02a307" sha256="314567dbe9f2d2c516756b79c1425feb474263606debfed4f259ff09d9fdc7e9"/>
 	</game>
 	<game name="Kirby no Omochabako - Baseball (Japan) (Premiere) (1996-2-9)" id="1364">
 		<category>Games</category>
@@ -1433,10 +1439,10 @@
 		<description>Takara-Hai Oozumou Eisei Bashou (Natsuba) (Japan) (6-20) (SoundLink)</description>
 		<rom name="Takara-Hai Oozumou Eisei Bashou (Natsuba) (Japan) (6-20) (SoundLink).bs" size="1048576" crc="08ece941" md5="15c5e6d299d05e7744b53a908b9a9761" sha1="d8913771fd0a316803db611e34e7ed8ca67b0cbe" sha256="b9b782b4fb8c605d8da1ed6fff2c3e76af291a0d08fa60ed1fd4e7fc19b5e79a"/>
 	</game>
-	<game name="Tamori no Picross (1995-5-10) + Waiwai Check (8-26) (Japan)" id="3742">
+	<game name="Tamori no Picross (1995-5-10) + Waiwai Check (1995-8-26, 8-26) (Japan)" id="3742">
 		<category>Games</category>
-		<description>Tamori no Picross (1995-5-10) + Waiwai Check (8-26) (Japan)</description>
-		<rom name="Tamori no Picross (1995-5-10) + Waiwai Check (8-26) (Japan).bs" size="1048576" crc="866ed6b4" md5="08640538c9380daba2053d466beaafa4" sha1="259c0b7887549e6082653126ed01077dc43f193b" sha256="1ff541cb5421ddc5e3ff5b959246b15de4f5451d695f59da30e3c65b4ba53ea3"/>
+		<description>Tamori no Picross (1995-5-10) + Waiwai Check (1995-8-26, 8-26) (Japan)</description>
+		<rom name="Tamori no Picross (1995-5-10) + Waiwai Check (1995-8-26, 8-26) (Japan).bs" size="1048576" crc="866ed6b4" md5="08640538c9380daba2053d466beaafa4" sha1="259c0b7887549e6082653126ed01077dc43f193b" sha256="1ff541cb5421ddc5e3ff5b959246b15de4f5451d695f59da30e3c65b4ba53ea3"/>
 	</game>
 	<game name="Tamori no Picross (1995-5-3) + Game Tora no Ooana (1995-5-3) (Japan) (Game, SoundLink Magazine)" id="3919">
 		<category>Games</category>
@@ -1523,10 +1529,10 @@
 		<description>Umi no Nushi Tsuri (Japan) (Demo) (1996-7-7)</description>
 		<rom name="Umi no Nushi Tsuri (Japan) (Demo) (1996-7-7).bs" size="1048576" crc="a7f09d8a" md5="d6c514dd0cbf905dffbf186fee42b70f" sha1="2c198ea7a9b3c8d48e82840d27d5601985dd65d7" sha256="5e174caee40c34983020e7931a37eab1b4ac4298a99ae93297d5e007fbc10b4d"/>
 	</game>
-	<game name="Undake 30 - Same Game Daisakusen - Mario Version (11-16) + Waiwai Check 11-22 Saihousou (11-24) (Japan)" id="3574">
+	<game name="Undake 30 - Same Game Daisakusen - Mario Version (11-16) + Waiwai Check (Rerun) (1995-11-22, 11-24) (Japan)" id="3574">
 		<category>Games</category>
-		<description>Undake 30 - Same Game Daisakusen - Mario Version (11-16) + Waiwai Check 11-22 Saihousou (11-24) (Japan)</description>
-		<rom name="Undake 30 - Same Game Daisakusen - Mario Version (11-16) + Waiwai Check 11-22 Saihousou (11-24) (Japan).bs" size="1048576" crc="839dc25a" md5="b76c93ccfbae8ac77770b06aa5fbc42d" sha1="e190880ffd9ecd57810925ed82077307a0e10e12" sha256="98bae346671c067d36cef338a7375af5614c9d034bc77d28a989352543fc2853"/>
+		<description>Undake 30 - Same Game Daisakusen - Mario Version (11-16) + Waiwai Check (Rerun) (1995-11-22, 11-24) (Japan)</description>
+		<rom name="Undake 30 - Same Game Daisakusen - Mario Version (11-16) + Waiwai Check (Rerun) (1995-11-22, 11-24) (Japan).bs" size="1048576" crc="839dc25a" md5="b76c93ccfbae8ac77770b06aa5fbc42d" sha1="e190880ffd9ecd57810925ed82077307a0e10e12" sha256="98bae346671c067d36cef338a7375af5614c9d034bc77d28a989352543fc2853"/>
 	</game>
 	<game name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (11-16)" id="3739">
 		<category>Games</category>
@@ -1548,36 +1554,46 @@
 		<description>User Same Game (Japan) (3-17) (Data Pack)</description>
 		<rom name="User Same Game (Japan) (3-17) (Data Pack).bs" size="1048576" crc="a4bc3179" md5="417cac7b169d44e68346d2e5bfe874cc" sha1="020f96a5c56615a058a8a2ebce8cc421da7bdb44" sha256="9d16204c0e5bcf89ecedbc86828ecf57a958c77090ddf7025906e8231d7753a7"/>
 	</game>
-	<game name="Waiwai Check (Japan) (11-22)" id="3743">
+	<game name="Waiwai Check (1996-3-21, 3-27) (Rerun) + Yuki no Waiwai Kids (1996-3-16) (Japan)" id="3540">
 		<category>Games</category>
-		<description>Waiwai Check (Japan) (11-22)</description>
-		<rom name="Waiwai Check (Japan) (11-22).bs" size="1048576" crc="701009f1" md5="f9dd9787ac4617d29ba1c5ab8f26c964" sha1="4ddfc191d7ae8c6c7c79e439b56b0e157bd554ae" sha256="44ace2d8aa50338111ea2a197f71da18a563747591639a30d1d6eac8bac26063"/>
+		<description>Waiwai Check (1996-3-21, 3-27) (Rerun) + Yuki no Waiwai Kids (1996-3-16) (Japan)</description>
+		<rom name="Waiwai Check (1996-3-21, 3-27) (Rerun) + Yuki no Waiwai Kids (1996-3-16) (Japan).bs" size="1048576" crc="17239e91" md5="9d531acb20f61b40f59427a9b23009bc" sha1="fe67f40912e7c4d290eeb175a2bd2122bfa3ae8c" sha256="362775bffa9cee687080b5109b2f214d839b517687e41d439102b1645324d0a5"/>
 	</game>
-	<game name="Waiwai Check 11-15 Saihousou (Japan)" id="3707">
+	<game name="Waiwai Check (Japan) (1995-8-26, 8-26)" id="3741">
 		<category>Games</category>
-		<description>Waiwai Check 11-15 Saihousou (Japan)</description>
-		<rom name="Waiwai Check 11-15 Saihousou (Japan).bs" size="524288" crc="c557db3a" md5="dec5541b8d377b2e22208d2207334961" sha1="1725ff76e457f7a8d5e741be9edc549fae145979" sha256="5f007e547c04c666a8300a88d7b239c5fcdf46cabd320c0e0d126b86c97fe19d"/>
+		<description>Waiwai Check (Japan) (1995-8-26, 8-26)</description>
+		<rom name="Waiwai Check (Japan) (1995-8-26, 8-26).bs" size="524288" crc="729f0d04" md5="97fb4052ef030caea502c2ee3f766a9f" sha1="888367b2ed82001f3706d2a4062a1c3672cd91e4" sha256="aacd7d24d3fa3b81bf142efcc941b064953cd5eeb8ef27ba5067f311b9301708"/>
 	</game>
-	<game name="Waiwai Check 11-15 Saihousou + Kouryaku Casino Bar Nichiyoubi - Roulette (10-22) (Japan)" id="3706">
+	<game name="Waiwai Check (Japan) (Rerun) (1995-11-15, 11-17)" id="3707">
 		<category>Games</category>
-		<description>Waiwai Check 11-15 Saihousou + Kouryaku Casino Bar Nichiyoubi - Roulette (10-22) (Japan)</description>
-		<rom name="Waiwai Check 11-15 Saihousou + Kouryaku Casino Bar Nichiyoubi - Roulette (10-22) (Japan).bs" size="1048576" crc="ebd10202" md5="61558751e5a211064bbc7fc9fd304ea0" sha1="aa0e23feedff2badec4d16bd73e61d96a3c8a4b8" sha256="127b76cd78aeac004037313d3060ebb14f482c69d59cfabe0254686629dc0fc5"/>
+		<description>Waiwai Check (Japan) (Rerun) (1995-11-15, 11-17)</description>
+		<rom name="Waiwai Check (Japan) (Rerun) (1995-11-15, 11-17).bs" size="524288" crc="c557db3a" md5="dec5541b8d377b2e22208d2207334961" sha1="1725ff76e457f7a8d5e741be9edc549fae145979" sha256="5f007e547c04c666a8300a88d7b239c5fcdf46cabd320c0e0d126b86c97fe19d"/>
 	</game>
-	<game name="Waiwai Check 11-22 Saihousou (Japan) (11-24)" id="3816">
+	<game name="Waiwai Check (Japan) (Rerun) (1995-11-22, 11-22)" id="3743">
 		<category>Games</category>
-		<description>Waiwai Check 11-22 Saihousou (Japan) (11-24)</description>
-		<rom name="Waiwai Check 11-22 Saihousou (Japan) (11-24).bs" size="524288" crc="5766db26" md5="67fe92329afdfa315a3ac3dcd0cc7d8a" sha1="51744edba2517364d6825e1b4f4869ebd598827c" sha256="4115651a1c002a034324d004e5df83d227c207b20d66223fbc3c88f0e27c23d7"/>
+		<description>Waiwai Check (Japan) (Rerun) (1995-11-22, 11-22)</description>
+		<rom name="Waiwai Check (Japan) (Rerun) (1995-11-22, 11-22).bs" size="1048576" crc="701009f1" md5="f9dd9787ac4617d29ba1c5ab8f26c964" sha1="4ddfc191d7ae8c6c7c79e439b56b0e157bd554ae" sha256="44ace2d8aa50338111ea2a197f71da18a563747591639a30d1d6eac8bac26063"/>
 	</game>
-	<game name="Waiwai Check 3-21 Saihousou (3-21) + Game Tora no Chou Ooana (1996-3-31, Part 2) (Japan) (Game, SoundLink Magazine)" id="3836">
+	<game name="Waiwai Check (Japan) (Rerun) (1995-11-22, 11-24)" id="3816">
+		<category>Games</category>
+		<description>Waiwai Check (Japan) (Rerun) (1995-11-22, 11-24)</description>
+		<rom name="Waiwai Check (Japan) (Rerun) (1995-11-22, 11-24).bs" size="524288" crc="5766db26" md5="67fe92329afdfa315a3ac3dcd0cc7d8a" sha1="51744edba2517364d6825e1b4f4869ebd598827c" sha256="4115651a1c002a034324d004e5df83d227c207b20d66223fbc3c88f0e27c23d7"/>
+	</game>
+	<game name="Waiwai Check (Japan) (Rerun) (1996-3-7, 3-9)" id="3991">
+		<category>Games</category>
+		<description>Waiwai Check (Japan) (Rerun) (1996-3-7, 3-9)</description>
+		<rom name="Waiwai Check (Japan) (Rerun) (1996-3-7, 3-9).bs" size="1048576" crc="c8cb0e7c" md5="aaf9c4f83be14532168c75a488390058" sha1="4340dcfc21cc69c209acf1ab7985adb766604f64" sha256="b0b11ef0f57ab32a89f27560420d570e1bf2d1353cea688cdbdd2881d96962fd"/>
+	</game>
+	<game name="Waiwai Check (Rerun) (1995-11-15, 11-17) + Kouryaku Casino Bar Nichiyoubi - Roulette (10-22) (Japan)" id="3706">
+		<category>Games</category>
+		<description>Waiwai Check (Rerun) (1995-11-15, 11-17) + Kouryaku Casino Bar Nichiyoubi - Roulette (10-22) (Japan)</description>
+		<rom name="Waiwai Check (Rerun) (1995-11-15, 11-17) + Kouryaku Casino Bar Nichiyoubi - Roulette (10-22) (Japan).bs" size="1048576" crc="ebd10202" md5="61558751e5a211064bbc7fc9fd304ea0" sha1="aa0e23feedff2badec4d16bd73e61d96a3c8a4b8" sha256="127b76cd78aeac004037313d3060ebb14f482c69d59cfabe0254686629dc0fc5"/>
+	</game>
+	<game name="Waiwai Check (Rerun) (1996-3-21, 3-21) + Game Tora no Chou Ooana (1996-3-31, Part 2) (Japan) (Game, SoundLink Magazine)" id="3836">
 		<category>Games</category>
 		<category>Magazines</category>
-		<description>Waiwai Check 3-21 Saihousou (3-21) + Game Tora no Chou Ooana (1996-3-31, Part 2) (Japan) (Game, SoundLink Magazine)</description>
-		<rom name="Waiwai Check 3-21 Saihousou (3-21) + Game Tora no Chou Ooana (1996-3-31, Part 2) (Japan) (Game, SoundLink Magazine).bs" size="1048576" crc="77d1e07d" md5="b6f5c1056c5c348c79980cea5eb049b9" sha1="f15bf9c337f34a7ddafd43aada40571f86d949ca" sha256="d525d28601e57f0f346bbbf7d173e37931e13ff5b9de09e972efa8c50dc1a68f"/>
-	</game>
-	<game name="Waiwai Check 3-21 Saihousou (3-27) + Yuki no Waiwai Kids 3-16 Ban (Japan)" id="3540">
-		<category>Games</category>
-		<description>Waiwai Check 3-21 Saihousou (3-27) + Yuki no Waiwai Kids 3-16 Ban (Japan)</description>
-		<rom name="Waiwai Check 3-21 Saihousou (3-27) + Yuki no Waiwai Kids 3-16 Ban (Japan).bs" size="1048576" crc="17239e91" md5="9d531acb20f61b40f59427a9b23009bc" sha1="fe67f40912e7c4d290eeb175a2bd2122bfa3ae8c" sha256="362775bffa9cee687080b5109b2f214d839b517687e41d439102b1645324d0a5"/>
+		<description>Waiwai Check (Rerun) (1996-3-21, 3-21) + Game Tora no Chou Ooana (1996-3-31, Part 2) (Japan) (Game, SoundLink Magazine)</description>
+		<rom name="Waiwai Check (Rerun) (1996-3-21, 3-21) + Game Tora no Chou Ooana (1996-3-31, Part 2) (Japan) (Game, SoundLink Magazine).bs" size="1048576" crc="77d1e07d" md5="b6f5c1056c5c348c79980cea5eb049b9" sha1="f15bf9c337f34a7ddafd43aada40571f86d949ca" sha256="d525d28601e57f0f346bbbf7d173e37931e13ff5b9de09e972efa8c50dc1a68f"/>
 	</game>
 	<game name="Wario no Mori - Bakushou Version (Japan) (1995-4-24)" id="3833">
 		<category>Games</category>
@@ -1650,10 +1666,10 @@
 		<description>Yoshi no Panepon - BS Ban (Japan) (En,Ja) (12-29)</description>
 		<rom name="Yoshi no Panepon - BS Ban (Japan) (En,Ja) (12-29).bs" size="1048576" crc="7925e2ff" md5="d4aef849ab7d6e5d69b3d9f0820362a2" sha1="7b96ee719491a03345ede682b7a4e8d48bbe6310" sha256="6c91efd01a4ce4b4015ed6cb98fdbded99c594b9ba0cb4bdef20754f5784fb9a"/>
 	</game>
-	<game name="Yuki no Jigsaw Kids (1995-05-06) (Japan) (Rerun) (5-10)" id="3817">
+	<game name="Yuki no Jigsaw Kids (1995-5-6) (Japan) (Rerun) (5-10)" id="3817">
 		<category>Games</category>
-		<description>Yuki no Jigsaw Kids (1995-05-06) (Japan) (Rerun) (5-10)</description>
-		<rom name="Yuki no Jigsaw Kids (1995-05-06) (Japan) (Rerun) (5-10).bs" size="1048576" crc="f0aa7ae6" md5="809127d5db75a413afc7c7db9c4c42be" sha1="34d663c23ecb408dc761936450869356dc2ea168" sha256="f534b6d445f10ba9a814af4f3040a4c21451a1db8f55138336ad4ff25cd8150a"/>
+		<description>Yuki no Jigsaw Kids (1995-5-6) (Japan) (Rerun) (5-10)</description>
+		<rom name="Yuki no Jigsaw Kids (1995-5-6) (Japan) (Rerun) (5-10).bs" size="1048576" crc="f0aa7ae6" md5="809127d5db75a413afc7c7db9c4c42be" sha1="34d663c23ecb408dc761936450869356dc2ea168" sha256="f534b6d445f10ba9a814af4f3040a4c21451a1db8f55138336ad4ff25cd8150a"/>
 	</game>
 	<game name="Yusuke Akamatsu Theater (Japan) (5-7) (SoundLink Magazine)" id="3693">
 		<category>Magazines</category>

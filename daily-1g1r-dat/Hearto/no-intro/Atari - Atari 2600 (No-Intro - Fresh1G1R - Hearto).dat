@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Atari - Atari 2600 (Retool)</name>
-		<description>Atari - Atari 2600 (593) (-y) [-aAbBcefkmMoprv] (20260618-195538) (Retool)</description>
-		<version>20260618-195538</version>
-		<date>2026-06-22 07-38-09</date>
+		<description>Atari - Atari 2600 (594) (-y) [-aAbBcefkmMoprv] (20260804-075559) (Retool)</description>
+		<version>20260804-075559</version>
+		<date>2026-08-12 04-04-53</date>
 		<author>1988reload, ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -104,7 +104,7 @@
 	<game name="Alien's Return (Europe)" id="0012">
 		<category>Games</category>
 		<description>Alien's Return (Europe)</description>
-		<rom name="Alien's Return (Europe).a26" size="4096" crc="c161f53b" md5="103f1756d9dc0dd2b16b53ad0f0f1859" sha1="4c41379f0dd9880384fcbb46bad9fbaaf109a477"/>
+		<rom name="Alien's Return (Europe).a26" size="4096" crc="c161f53b" md5="103f1756d9dc0dd2b16b53ad0f0f1859" sha1="4c41379f0dd9880384fcbb46bad9fbaaf109a477" sha256="895c743da5c6ab585103414420b169995851caea80ff902d645da0374e45cb98"/>
 	</game>
 	<game name="Alligator People (USA) (Proto)" id="0013">
 		<category>Preproduction</category>
@@ -476,10 +476,10 @@
 		<description>Combat Two (USA) (Proto)</description>
 		<rom name="Combat Two (USA) (Proto).a26" size="8192" crc="8cabe1fd" md5="b0c9cf89a6d4e612524f4fd48b5bb562" sha1="66014de1f8e9f39483ee3f97ca0d97d026ffc3bb"/>
 	</game>
-	<game name="Combat ~ Tank-Plus (USA)" id="0083">
+	<game name="Combat ~ Tank-Plus (Japan, USA) (En)" id="0083">
 		<category>Games</category>
-		<description>Combat ~ Tank-Plus (USA)</description>
-		<rom name="Combat ~ Tank-Plus (USA).a26" size="2048" crc="9c326a97" md5="4c8832ed387bbafc055320c05205bc08" sha1="ce7580059e8b41cb4a1e734c9b35ce3774bf777a"/>
+		<description>Combat ~ Tank-Plus (Japan, USA) (En)</description>
+		<rom name="Combat ~ Tank-Plus (Japan, USA) (En).a26" size="2048" crc="9c326a97" md5="4c8832ed387bbafc055320c05205bc08" sha1="ce7580059e8b41cb4a1e734c9b35ce3774bf777a"/>
 	</game>
 	<game name="Commando (USA)" id="0085">
 		<category>Games</category>
@@ -2238,6 +2238,11 @@
 		<category>Games</category>
 		<description>Slot Racers ~ Maze (USA)</description>
 		<rom name="Slot Racers ~ Maze (USA).a26" size="2048" crc="177dbdf8" md5="aed82052f7589df05a3f417bb4e45f0c" sha1="a2b13017d759346174e3d8dd53b6347222d3b85d"/>
+	</game>
+	<game name="Smurf (Europe)" id="0934">
+		<category>Games</category>
+		<description>Smurf (Europe)</description>
+		<rom name="Smurf (Europe).a26" size="8192" crc="28dbbbd5" md5="24aff972d58990f9b88a6d787c796f1e" sha1="fd8512452e69fd7627222f811e52fc54a92bf905" sha256="7fa9412cfb43519d9013eb0d75ce6f7da6dea3fa6b72a669fb3022accd75127d"/>
 	</game>
 	<game name="Smurf - Rescue in Gargamel's Castle (USA)" id="0413">
 		<category>Games</category>

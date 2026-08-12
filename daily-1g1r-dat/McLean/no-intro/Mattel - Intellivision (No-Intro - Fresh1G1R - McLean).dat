@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Mattel - Intellivision (Retool)</name>
-		<description>Mattel - Intellivision (133) (-ly) [-aAbBcdDefkmMopPruv] (20260304-102057) (Retool)</description>
-		<version>20260304-102057</version>
-		<date>2026-06-22 07-43-41</date>
-		<author>Aringon, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, RetroUprising, SonGoku</author>
+		<description>Mattel - Intellivision (133) (-ly) [-aAbBcdDefkmMopPruv] (20260809-074902) (Retool)</description>
+		<version>20260809-074902</version>
+		<date>2026-08-12 04-14-45</date>
+		<author>1988reload, Aringon, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, RetroUprising, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -271,11 +271,10 @@
 		<description>Las Vegas Roulette (World)</description>
 		<rom name="Las Vegas Roulette (World).int" size="8192" crc="48d74d3c" md5="203efd0d5b6c14b88fd5c7c0ed6bfc16" sha1="b7773c3cc93afe4820287c3f1c14345a1a14e1ee" sha256="08fbf0262366b882a561f80014de974f364293d23320544e2caf103a67a70077"/>
 	</game>
-	<game name="Lock 'N' Chase (USA, Europe) (v1.1)" id="0082">
+	<game name="Lock 'N' Chase (USA, Europe)" id="0217">
 		<category>Games</category>
-		<description>Lock 'N' Chase (USA, Europe) (v1.1)</description>
-		<rom name="Lock 'N' Chase (USA, Europe) (v1.1).bin" size="16384" crc="5c7e9848" md5="988f97f6a3c713210efc2c20a32e970c" sha1="ac889a1d76b40be1a7e7562c8cb8b3f9d00f3728" sha256="d8339fffd983b4c8b38f940ac9fbe5f73bb18e192fbe1795ef577a1805a55648"/>
-		<rom name="Lock 'N' Chase (USA, Europe) (v1.1).int" size="16441" crc="1603e3f8" md5="8cf36e7c197c37ba21956fb12a8caf84" sha1="4c324d88a03255dd1816214462151fd16ca8625c" sha256="aad47eb284cc04b3e9187ae51c944f7a6d3a2b9bdf6a78c6204ff2678e98f826"/>
+		<description>Lock 'N' Chase (USA, Europe)</description>
+		<rom name="Lock 'N' Chase (USA, Europe).int" size="12288" crc="04977992" md5="ccde49cb2450992495156477eff59e14" sha1="08454a5f7b44730aa8249623785dd7a6471ab98f" sha256="1bba9e2eef849304cd8f7a280d87e025c8dda6c4c42555f3238b00814578f4b3"/>
 	</game>
 	<game name="Loco-Motion (USA)" id="0084">
 		<category>Games</category>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Misc (Retool)</name>
-		<description>Nintendo - Misc (313) (-y) [-aAbBcefkmMoprv] (20260425-042521) (Retool)</description>
-		<version>20260425-042521</version>
-		<date>2026-06-22 07-37-12</date>
+		<description>Nintendo - Misc (312) (-y) [-aAbBcefkmMoprv] (20260718-185253) (Retool)</description>
+		<version>20260718-185253</version>
+		<date>2026-08-12 04-04-13</date>
 		<author>ajshell1, Arctic Circle System, bikerspade, Hiccup, Larsenv, MeguCocoa, NovaAurora, PPLToast, rarenight, relax, SonGoku, www2, xprism</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1882,11 +1882,6 @@
 		<category>Miscellaneous</category>
 		<description>Wii U - GamePad Service Firmware (World)</description>
 		<rom name="Wii U - GamePad Service Firmware (World).bin" size="2475271" crc="2fed2a67" md5="5987ebda4de2895b113435904a6bb879" sha1="253621d66b527428dc898dd0dd292220720b91ca" sha256="d39f13a8c88b54a130972d0d1b128858db93925cd6961117a8fccee14e9f5789"/>
-	</game>
-	<game name="Wii U - GamePad and DRH Boot ROM (World)" id="0450">
-		<category>Miscellaneous</category>
-		<description>Wii U - GamePad and DRH Boot ROM (World)</description>
-		<rom name="Wii U - GamePad and DRH Boot ROM (World).bin" size="4096" crc="83e09049" md5="e2b51a774eb2ef77ff149317fcdeb7ac" sha1="d04be5fc1b01ed72d09fb20c7711d9a73400d4f0" sha256="1ba084d39f36f3fa2d8d4b671e762e08d8893651f94c8f31a0892dc9e12a7fc1"/>
 	</game>
 	<game name="Wolfenstein II - The New Colossus - Nintendo Switch Alternate Covers (USA)" id="0293">
 		<category>Documents</category>

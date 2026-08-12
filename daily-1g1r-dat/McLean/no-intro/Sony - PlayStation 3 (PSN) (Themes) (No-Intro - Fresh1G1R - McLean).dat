@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Themes) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Themes) (358) (-ly) [-aAbBcdDefkmMopPruv] (20260620-225551) (Retool)</description>
-		<version>20260620-225551</version>
-		<date>2026-06-22 07-43-10</date>
+		<description>Sony - PlayStation 3 (PSN) (Themes) (375) (-ly) [-aAbBcdDefkmMopPruv] (20260627-162310) (Retool)</description>
+		<version>20260627-162310</version>
+		<date>2026-08-12 04-18-19</date>
 		<author>buckwheat, emstan784, FakeShemp, Landcross, norkmetnoil577, rarenight</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -196,6 +196,13 @@
 		<game_id>UP1012-NPUB30377_00-BLDRYNBTRYLTHEMD</game_id>
 		<rom name="UP1012-NPUB30377_00-BLDRYNBTRYLTHEMD.rap" size="16" crc="9f31c1ce" md5="ac2b7af13681061f98bc2b6f6ee569e5" sha1="99b82be6f824aa89f382a48f7ac0559cfcd8d839" sha256="15c82cf7eea78325649f046645395fc3f9f530591a91b06aa83cff90218fe37a"/>
 		<rom name="fFnncMsclpneDjoXJotSApLKIbgOBmIkWKgyqDGFBnSQmnwZlGwpQiJBibzKIXRCzgrXPfSDgYHSoSwDCHTXQYBpoKqqUDhronedo.pkg" size="2893920" crc="fc7e1bee" md5="86474f6024d19efb9d61168e1c9b5fbe" sha1="1daa2a0be0b7f708323f969d0f2f8af35e8410d7"/>
+	</game>
+	<game name="Call of Duty - Black Ops II - Lone Wolf (USA) (Dynamic Theme)" id="01518">
+		<category>Games</category>
+		<description>Call of Duty - Black Ops II - Lone Wolf (USA) (Dynamic Theme)</description>
+		<game_id>UP0002-BLUS31011_00-CODBO2LONEWOLF00</game_id>
+		<rom name="BdeGTygxvHRuPwkuPIYLSkabRwtxfRDXRzzIpEMxExzJSVGPKJjjQWUQmuOaMoPx.pkg" size="8005728" crc="5c4b79a7" md5="08143751056b4654fe8bba48443be098" sha1="c18b264b0a864b0da3a473232d6fd853ca91f6a3"/>
+		<rom name="UP0002-BLUS31011_00-CODBO2LONEWOLF00.rap" size="16" crc="8191669a" md5="64e72f3bd54285d354e1553e6fb793fc" sha1="f983d034392172fda9607ac1a5dc6e1ffcc455e2" sha256="253ccfdfc6cb09c34a2c443259e60610edd6e5bbcebd095f53b05b46db9e0d8f"/>
 	</game>
 	<game name="Call of Duty - Black Ops II - Turbine (USA) (Dynamic Theme)" id="00186">
 		<category>Games</category>
@@ -786,12 +793,11 @@
 		<rom name="EP9000-NPEO00062_00-THEAVYRAIN000002.rap" size="16" crc="999c6f76" md5="5e2b98657df001b59d3c7a13dd4f253b" sha1="b0a6665767c5dce9c79e63fd297be4377a4693b1"/>
 		<rom name="yuuMjbiE3nvUUSJQ9MwvpTOTxl13EdqTw0pfGbbbfNbtWoDAdeduvPCWrncey1GTalF6ManoSF9unXq9aUCT361C28BdGxCwiAUNI.pkg" size="3313664" crc="8ef32632" md5="2a3ecd91be174b74749a5c9b08148957" sha1="c55445abe5df651dfeb6dd28a5f081f811629d3d"/>
 	</game>
-	<game name="Heavy Rain - Mars ARI (Europe) (Dynamic Theme)" id="00458">
+	<game name="Heavy Rain - Mars ARI (USA) (Dynamic Theme)" id="01643">
 		<category>Games</category>
-		<description>Heavy Rain - Mars ARI (Europe) (Dynamic Theme)</description>
-		<game_id>EP9000-NPEO00062_00-THEAVYRAIN000003</game_id>
-		<rom name="EP9000-NPEO00062_00-THEAVYRAIN000003.rap" size="16" crc="3a3acc8b" md5="11104f1d7fff306585d20416135b6506" sha1="49da629b72ece215fedce81f00b1264c7c610187"/>
-		<rom name="wxmtEvDDNKdLYbFU6INugiUl2VIfjbFiPCYHsKJLuuFYhk5CQhwndNRE64ultRPvtD8Dlx0GXiv5skO9TsGNfWH8ub1hE09Mkwo80.pkg" size="3953648" crc="711c4315" md5="4a70c70cc8707a5eb648f50f231a9968" sha1="205d5cfd775210535ae50a1851d54e71c5c57ce8"/>
+		<description>Heavy Rain - Mars ARI (USA) (Dynamic Theme)</description>
+		<game_id>UP9000-NPUA80446_00-THEAVYRAIN000003</game_id>
+		<rom name="UP9000-NPUA80446_00-THEAVYRAIN000003.rap" size="16" crc="0c2ef4d6" md5="d680cb23440189183c388bf9b7e50e3a" sha1="63ae36346bd849b322a88156cd9935e58ca0f20b" sha256="364d9beae6a9f484bb3d4435f8fa7eb51fe2a8a82ebbaac37ad805aa4773e65f"/>
 	</game>
 	<game name="Hitman - Absolution (Europe) (Dynamic Theme)" id="00460">
 		<category>Games</category>
@@ -876,11 +882,16 @@
 		<rom name="FBLvTtEICURidDRAImWpkQMyqFioGrRBzBqovhVOoVFmufHnFwWrXlGbLehQjeWaiylukXJqZoraUrGJxfQWftMCQJruHlvxnWUms.pkg" size="5825552" crc="6f31d865" md5="b4ea616a444d1f9398c1b3edf6032cb7" sha1="80fa98aaad50663fdf0c607db2624b476d9208d5"/>
 		<rom name="UP9000-NPUA80275_00-JOURNEYCONCEPTDT.rap" size="16" crc="5bb76498" md5="54408d665ca47f51014a98ee7c94fa0e" sha1="82ab883b744ef6e0f4e972e793fe48ce96e969da"/>
 	</game>
+	<game name="Journey - Theme 2 (Europe) (Dynamic Theme)" id="01563">
+		<category>Games</category>
+		<description>Journey - Theme 2 (Europe) (Dynamic Theme)</description>
+		<game_id>EP9000-NPEO00133_00-TJOURNEYXX000002</game_id>
+		<rom name="eudTnjuHXpiuYinbtAhUIvsQEKEABOwjrXPhIXwTrltJPnkBsBQMCogVZRfNCPfz.pkg" size="4010192" crc="9b1ff97b" md5="da8af2eb3cf99b3e1643b6d0a6bc40e8" sha1="4a4bee2f4c4b2fb04dd5efaabb1c0b770f790452" sha256="a116f9cb728250d7f86d5d870dc83e0863e41fe32d7ae37e46a78349f84e5154"/>
+	</game>
 	<game name="Killzone 3 (Europe) (Dynamic Theme)" id="00708">
 		<category>Games</category>
 		<description>Killzone 3 (Europe) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00099_00-TKILLZONE3000003</game_id>
-		<rom name="EP9000-NPEO00099_00-TKILLZONE3000003.rap" size="16" crc="822456f3" md5="eaa986acd9fd190464b2a81b36480721" sha1="76085d454709c3a9ee5f96db51b5104532c1c3b0" sha256="6691b2c2cf405cbffef855178052af8822509c0895a8ee2ad4a6d9562594ed6d"/>
 		<rom name="JfLfhVupkVSbfqzGXVuJhBjdtZMHEMsYgoOxvFPRHvhPkvpKGgxGxErxjOxJMvTM.pkg" size="2928640" crc="5bcbb384" md5="1e75ba0b00e9013df0ae8d01de14298d" sha1="46c2054ba3d083c5c9013a2703fe88ca9fc298b9"/>
 	</game>
 	<game name="Killzone 3 - Hatch (USA) (Dynamic Theme)" id="00711">
@@ -896,6 +907,13 @@
 		<game_id>UP9000-BCUS98234_00-KZ3HAZMATDYNAM01</game_id>
 		<rom name="UP9000-BCUS98234_00-KZ3HAZMATDYNAM01.rap" size="16" crc="c5eee78d" md5="cc2cdf80db26da50b5a02a5e497e100f" sha1="0bf6e440b37e887e9e70cfce590c468d23da8d62"/>
 		<rom name="mIeQaUKwifpJCowFkywlMNfjkGJtDSKTUpuMTOipSrMsGAEMOCefsGWQAJRwFFfWOtQaoklNreOsoiUUVqRvpRayptdzIVfwtjDJT.pkg" size="2928640" crc="61605e09" md5="6ac20de8a2dd11e67c4a9afba2d7cdb4" sha1="39bfd0cbed85102b49fdfebe91dab8c08e78ed81"/>
+	</game>
+	<game name="King of Fighters XIII, The - Theme 3 (USA) (Static Theme)" id="01562">
+		<category>Games</category>
+		<description>King of Fighters XIII, The - Theme 3 (USA) (Static Theme)</description>
+		<game_id>UP0005-BLUS30845_00-THEME00000000002</game_id>
+		<rom name="UP0005-BLUS30845_00-THEME00000000002.rap" size="16" crc="e6c83a65" md5="eb6e35a3da0af1dd42890130846c82d2" sha1="1fbcf19e1752eb4cbdb1249aa48fc24b8fb1a5aa" sha256="332a6d5ebba14269d3895cbddb6c9a675c764fc9946e79270dffd10556dd9844"/>
+		<rom name="hDeeFRlQiKfkvlGFPxAIjxPugUaupieGmvhpdFBRQNanosSoTVMkfUgRCLgQzYQiYjjHjTjLZRfQVUnREEOnTfkcPayupyrsfcRVz.pkg" size="13344176" crc="588446c7" md5="223cb79b8695e78efad4557ed8fb6149" sha1="72d99350fdc983a086faf6013eb61a305cc79ca0" sha256="1578d98be26313bd2a9cd7f5dcb0373b0fea541d7bd1f41daf43898f3310e120"/>
 	</game>
 	<game name="Konsole Kingz - DOAPS (USA) (Static Theme)" id="00721">
 		<category>Games</category>
@@ -979,6 +997,13 @@
 		<rom name="BYQMJYoDKgZwvheyOFZNJJRLBOTjvHRPsNOqHuIPzhuNVctcjgzcbNXlhXdLdxPEmSzGEpWrLmDclVbisFhuyOlYKgzHJumwtlYfb.pkg" size="108318656" crc="b0316952" md5="ad50dae9917480d77c280831375a875d" sha1="146912926455a9f1856906692e2646542b5c3c04"/>
 		<rom name="UT0009-NPUP00029_00-CODEENTROPYPAK01.rap" size="16" crc="f9d32e29" md5="4e96f791161d1164cad149976f74bdf8" sha1="ce19342924fea86440feed3a52808d6f26a6b4ca"/>
 	</game>
+	<game name="LittleBigPlanet 2 - 2013 Calendar (USA) (Dynamic Theme)" id="01567">
+		<category>Games</category>
+		<description>LittleBigPlanet 2 - 2013 Calendar (USA) (Dynamic Theme)</description>
+		<game_id>UP9000-BCUS98245_00-LBP2CALENDAR0001</game_id>
+		<rom name="KAWhSEsRroCvmkYRjUBPNzigsYHmqHUvGfAMsgljsxwcJmDxHbCIegQJlAgnWlPweFFnewUYBDkPYjFoEuKiYbqYnxZQdWdHDUBNw.pkg" size="11998432" crc="5ee66362" md5="ca18eb316ddbb397081256dcf3618442" sha1="298cc5eaeffe5871ff525ba5b93cb85acb3e6a64" sha256="39a5317c0adc8ba40a3bc7f26ec09aaf3c1b5e4bd69662e5c8d66a763a6752c3"/>
+		<rom name="UP9000-BCUS98245_00-LBP2CALENDAR0001.rap" size="16" crc="e4add025" md5="7f531ead7c24a0fe8f1c49456e6a3c2f" sha1="17ab6121b7b877093583a7cddea9a9eaec9f02ea" sha256="6861579b14e857b10e9f5d438487afaa4db65b3208ecdc36f746fd71749ef739"/>
+	</game>
 	<game name="LittleBigPlanet 2 - LittleBigPrius (USA) (Dynamic Theme)" id="00765">
 		<category>Games</category>
 		<description>LittleBigPlanet 2 - LittleBigPrius (USA) (Dynamic Theme)</description>
@@ -1035,6 +1060,12 @@
 		<rom name="BQdQXlPjuAYo0PRIdTnjT1kEswu4VLBvXWlOlxM4b06cdk1yAQ5G4mna1Mbnp8i2Lhhai6e3c0YWOO0gRNWyVh4DR6n9yXAgbD1J6.pkg" size="3264800" crc="f0a1426e" md5="7640adcc69845f6bd664e74f6a28ad3c" sha1="48999b08758172f375c16d25b238d2f9883282b9"/>
 		<rom name="UP9000-BCUS98167_00-TMODNATION000002.rap" size="16" crc="7e4fba04" md5="55a23b9a3ac977eda7448f91614c0b0f" sha1="d23ea96c6b56d091cd36cae634c7814f5e6da320"/>
 	</game>
+	<game name="MotorStorm (Europe) (Dynamic Theme)" id="01641">
+		<category>Games</category>
+		<description>MotorStorm (Europe) (Dynamic Theme)</description>
+		<game_id>EP9000-NPEO00015_00-TMOTORSTOR000002</game_id>
+		<rom name="8x5kKqyNGPPTSVdXhYwV6wtJug1Jr0SXS4q2eCm19GkITr2AaVhKjg0NaxPb8h6JfRskCk1VLwQGkKFIVrMqTUAhJi8y01Kcc9jFx.pkg" size="5962592" crc="8f45a00f" md5="c739ffce49c8c64e23ab52730192c373" sha1="a372b279b9326f4696df2962e908a57c7cf3edae" sha256="4831664c574462ee2ac5981ba18698b541b02aa58d946ac8ac126f8c2483629b"/>
+	</game>
 	<game name="MotorStorm - Arctic Edge (Europe) (Dynamic Theme)" id="00823">
 		<category>Games</category>
 		<description>MotorStorm - Arctic Edge (Europe) (Dynamic Theme)</description>
@@ -1048,11 +1079,17 @@
 		<rom name="EP4134-NPEP00141_00-OSWHDDYNTHEME001.rap" size="16" crc="6af96881" md5="87400ed0406e6c5f3bc0eb2cdd14b883" sha1="1ca7ee22c07746634bb2a16218c60a894f10d727" sha256="b676001bfd549adcb2cfe25d3c00b6a0a01fb4c0167b39414df41675e74f1d7a"/>
 		<rom name="IbtOJooKPyXYigspyUsOsRJjegcnhTIVUVneWFkyCoJauEQbsxJPnBJsuMIuenjd.pkg" size="3967536" crc="baf6ec66" md5="28c1252659f2850d89fbb72b4498cc27" sha1="c87d5cb6632a61a935876c6d9bc390691a0df80e"/>
 	</game>
-	<game name="PixelJunk Shooter 2 (Europe) (Dynamic Theme)" id="00871">
+	<game name="PixelJunk Monsters (USA) (Dynamic Theme)" id="01645">
 		<category>Games</category>
-		<description>PixelJunk Shooter 2 (Europe) (Dynamic Theme)</description>
-		<game_id>EP9000-NPEO00110_00-TPIXELJUNK000001</game_id>
-		<rom name="XhfKerFZRHWECmdqiYnRShgdbKWMiYVzwoLqPxFJreSZOQfyAduKOVzMFUOomWZj.pkg" size="1282352" crc="40dba927" md5="7c21e42b94cef06f3ba08fda4a714766" sha1="59a6f8585a1dd60f9a2882aab12c79ea43b738e1" sha256="2c115c72b4a59dfdcbc2394c17c4209e4a62d45b5b7efc4a4e9518d45a665ab7"/>
+		<description>PixelJunk Monsters (USA) (Dynamic Theme)</description>
+		<game_id>UP9000-NPUA80346_00-PJMONSTHEME00005</game_id>
+		<rom name="UP9000-NPUA80346_00-PJMONSTHEME00005.rap" size="16" crc="2f18bfb8" md5="f8f07a4c9025bebb45186b2aa42b360b" sha1="8f64818749188e4598e19765fc9f0c352ee7cfa9" sha256="a0b292ed004a0daae74d2c1b46c89c20c698ae2b5f2e5155528819722a9ac058"/>
+	</game>
+	<game name="PixelJunk Shooter 2 (USA) (Dynamic Theme)" id="01644">
+		<category>Games</category>
+		<description>PixelJunk Shooter 2 (USA) (Dynamic Theme)</description>
+		<game_id>UP9000-NPUA80396_00-TPIXELJUNK000001</game_id>
+		<rom name="UP9000-NPUA80396_00-TPIXELJUNK000001.rap" size="16" crc="74ea7c1f" md5="57d85b6226c7f558a45884834b4e807c" sha1="a285b8b75337740ab86e189efc2641f60be43df6" sha256="563bfd7aee178cdd3a8b2a5f02cae917cf70cbd7294d36bca7089b33076633e2"/>
 	</game>
 	<game name="PlayStation 20th Anniversary (USA) (Static Theme)" id="00876">
 		<category>Games</category>
@@ -2285,12 +2322,33 @@
 		<rom name="EP4171-NPEP00060_00-GOLDFISHPOND0001.rap" size="16" crc="16ad39ba" md5="e14a90fedf5a329a04a4afd9244bcc21" sha1="a8e52b22074130312092958c9cb65e67309b8547"/>
 		<rom name="b3RIdGXUU6O59XgxMxYEclTtptBFPVVycvno2vPV8Lh7DdnGawxinM22ATKQjmcH.pkg" size="2426112" crc="8258a0f3" md5="bfc3169e11f2542b34f27b081986a12f" sha1="421c63b084f8d9b4ce6d2d6a6927f3b4257375ef"/>
 	</game>
+	<game name="Tantrum Dynamic - Raven Rain (USA) (Dynamic Theme)" id="01564">
+		<category>Games</category>
+		<description>Tantrum Dynamic - Raven Rain (USA) (Dynamic Theme)</description>
+		<game_id>US0043-NPUP00086_00-RAVENRAINDYNAMIC</game_id>
+		<rom name="US0043-NPUP00086_00-RAVENRAINDYNAMIC.rap" size="16" crc="79088ea4" md5="8b1b3e431f1af89774d32cd5bbb9ea04" sha1="dff771413ebc26612407209808eabefd12db4016" sha256="3bfea2b929076cac11ff11856d7c87bff5bbb52bf5404a404424807ff043e6f3"/>
+		<rom name="hoBFwvKbvKuKtsOjIbbczArYmsHWWVpPojqCNRIXeFdWEOoKkMjvwblPebkhoGhY.pkg" size="10536240" crc="0a7ac7c5" md5="d62fad848897b3efb2d7e456ad0afa83" sha1="43f43c49bc008388e2d13228730867261c0c1f7d" sha256="45c9a9514b7890e9e110bcbd5cc747a1f9b46eea432f5d36a152e322aa0cf7de"/>
+	</game>
+	<game name="Tantrum Dynamic - Sky City (USA) (Dynamic Theme)" id="01565">
+		<category>Games</category>
+		<description>Tantrum Dynamic - Sky City (USA) (Dynamic Theme)</description>
+		<game_id>US0043-NPUP00086_00-SKYCITYDYNAMIC00</game_id>
+		<rom name="RVnXayflgjfxgqNDWdJgFoyXajgmEoGqjvqsMsMFQUNitQezFqotcfeMtQePEYCW.pkg" size="10536320" crc="69ed6cba" md5="432ff08a8790ee7c2fb1e909506dd79c" sha1="c6913389aa6b439f12e711ec5766e3b8c04c6131" sha256="b5ac705b70bbdfff48a9da8621e92f85f7528527974f2497f66926793c20c9ed"/>
+		<rom name="US0043-NPUP00086_00-SKYCITYDYNAMIC00.rap" size="16" crc="45ec9ff3" md5="945c737988f75b8352eb28896c822feb" sha1="28542e92609ac14c5428819b4f0f7a5c032122e8" sha256="dcaa4a5bf19f10ac7bbb5244c22edb266af1f79b2735a7f2ec0a98c875ef7498"/>
+	</game>
 	<game name="Tekken Tag Tournament 2 - Tempest (USA) (Dynamic Theme)" id="01324">
 		<category>Games</category>
 		<description>Tekken Tag Tournament 2 - Tempest (USA) (Dynamic Theme)</description>
 		<game_id>UP0700-BLUS31002_00-TTT2PJACKTEMPEST</game_id>
 		<rom name="UP0700-BLUS31002_00-TTT2PJACKTEMPEST.rap" size="16" crc="5bf5cfad" md5="01a24db83df0683c7b5bd626c20bece4" sha1="3a0b9793af4b28d656487ced2680c25b96fe00d5"/>
 		<rom name="YjLFftHRDQwImKzyvcdEMZSXNSHfCnOggVjQyOvgqgQcTTlsqvboalLjWLxqAGTrNWodMDsCzzyuJogwXFdxZCrAxDVrKplYeSNPe.pkg" size="13220928" crc="5ca547a2" md5="aede56046d1d3acbe91f98620dc0fb5f" sha1="86c32b35aaf6cc03631fac23f47b3cdd1a7c3f65"/>
+	</game>
+	<game name="Thumbstar Games - Winter Escapes (USA) (Static Theme)" id="01566">
+		<category>Games</category>
+		<description>Thumbstar Games - Winter Escapes (USA) (Static Theme)</description>
+		<game_id>UT0010-NPUP00036_00-WINTERESCAPEST01</game_id>
+		<rom name="DlWWKemOCgznbnctKMzqViIzlfffZJcSKqAHZWUQvlhKouppgnuMTarZjxrCjXJhAnMttFdXoOAMsbLVMXIkYFqmedeSXcharDNJD.pkg" size="5004192" crc="e203af24" md5="be05cd4523b5e2014f5b180c7b539cc4" sha1="17ee9c0a0988b7cff458c9c28c82bc7c84fd3d39" sha256="fabdc8139b4f01142757c6a54ccf76e0e01a52de9a8ad09edd7e259c7f1a0fb8"/>
+		<rom name="UT0010-NPUP00036_00-WINTERESCAPEST01.rap" size="16" crc="208c507f" md5="53a33c7bc8c5998096ca7a7ddf156102" sha1="0053924f856609759900051e502ab94fea30e425" sha256="24b1ff598fc4ecafc5c4444a335bfd809b6df4de276696567bc30706a4840fd2"/>
 	</game>
 	<game name="Thumbstar Games Limited - Beautiful Honeys (USA) (Static Theme)" id="01329">
 		<category>Games</category>
@@ -2313,6 +2371,54 @@
 		<rom name="EP4299-NPEP00056_00-BIOHUD0000000001.rap" size="16" crc="702188dd" md5="071c3f3e0c9077ec7b49e4fe587ec940" sha1="c7435a4def3ba911c1a526b36d0008751764da83"/>
 		<rom name="arwquUPshxsmCgSGFhXSWnEhJaKfFPcCpnzUcrizkvomgaCATsqdsevqBFQAUBoe.pkg" size="12730240" crc="72740b74" md5="e99a035c270d9f8c61e4bfa46e9f55b8" sha1="894fb71c3a4ee0899401473b3259cd7b7ef8d615"/>
 	</game>
+	<game name="Time and Eternity - Enda (Europe) (Static Theme)" id="01631">
+		<category>Games</category>
+		<description>Time and Eternity - Enda (Europe) (Static Theme)</description>
+		<game_id>EP1063-NPEP00211_00-TTIMEANDET000004</game_id>
+		<rom name="THEME_FILE_411399.p3t" size="1608240" crc="75f3e4a5" md5="96207a35c5e3b81e11351bd23ac26777" sha1="dac785e63c23673739ad406eb1a9fec932cfe428" sha256="d9a17bc1e6f547772877e89988969140d8c92ec439f1a6d1e458a21443c9fd00"/>
+	</game>
+	<game name="Time and Eternity - Hero (Europe) (Static Theme)" id="01632">
+		<category>Games</category>
+		<description>Time and Eternity - Hero (Europe) (Static Theme)</description>
+		<game_id>EP1063-NPEP00211_00-TTIMEANDET000005</game_id>
+		<rom name="THEME_FILE_411405.p3t" size="1550672" crc="b2115347" md5="598b731df1e9818c846bdcd73c81d196" sha1="6c7c894102537de5fbb5a41a968e6d8cb2f87f0a" sha256="68f2324bf704a4dbd6ecb99ddf423f15f277317b7dd29947c2d0465ccb6ed10a"/>
+	</game>
+	<game name="Time and Eternity - Makimona (Europe) (Static Theme)" id="01633">
+		<category>Games</category>
+		<description>Time and Eternity - Makimona (Europe) (Static Theme)</description>
+		<game_id>EP1063-NPEP00211_00-TTIMEANDET000006</game_id>
+		<rom name="THEME_FILE_411407.p3t" size="1636304" crc="055a19cc" md5="f2dda74c0499dc25d7768300435af8e4" sha1="e4eb1e6a634a7af2bfd70afe5e161d9d99757080" sha256="d2ea7d61396376d409504691dc4cbe268654304b9280e21f5d2e203463b2c11f"/>
+	</game>
+	<game name="Time and Eternity - Moebius (Europe) (Static Theme)" id="01634">
+		<category>Games</category>
+		<description>Time and Eternity - Moebius (Europe) (Static Theme)</description>
+		<game_id>EP1063-NPEP00211_00-TTIMEANDET000008</game_id>
+		<rom name="THEME_FILE_411408.p3t" size="1793648" crc="a1291b09" md5="cd6a820c9543ed00b519b459652532e6" sha1="e8e8c9336e474f69ae654a58acc682c0f9a5c9d5" sha256="50157eca1c1db9f707cd53101d07ccabc2b9f6db81bd62b8e9c7c44588327c46"/>
+	</game>
+	<game name="Time and Eternity - Ricardo (Europe) (Static Theme)" id="01638">
+		<category>Games</category>
+		<description>Time and Eternity - Ricardo (Europe) (Static Theme)</description>
+		<game_id>EP1063-NPEP00211_00-TTIMEANDET000007</game_id>
+		<rom name="THEME_FILE_411410.p3t" size="1855360" crc="21b439b3" md5="2871e2cdaf9d2c07478e8dd327d73619" sha1="76944a472f1fd1ebb60697acbe9a9a6e42c4bd8b" sha256="108630bc141afe9cf3587d7f45733083883747d43252070af8d6367e5c428a6d"/>
+	</game>
+	<game name="Time and Eternity - Toki (Europe) (Static Theme)" id="01635">
+		<category>Games</category>
+		<description>Time and Eternity - Toki (Europe) (Static Theme)</description>
+		<game_id>EP1063-NPEP00211_00-TTIMEANDET000001</game_id>
+		<rom name="THEME_FILE_411409.p3t" size="1577856" crc="5484f359" md5="f38bde4a2839f9c289efef272988720e" sha1="88ce45d9245ed671b74c35b55b5482e9d8a65ae6" sha256="0f18fd6529f3e155e56626a6f6e19650e17e2ca962ec91a5563135795e4b3d8c"/>
+	</game>
+	<game name="Time and Eternity - Towa (Europe) (Static Theme)" id="01636">
+		<category>Games</category>
+		<description>Time and Eternity - Towa (Europe) (Static Theme)</description>
+		<game_id>EP1063-NPEP00211_00-TTIMEANDET000002</game_id>
+		<rom name="THEME_FILE_411411.p3t" size="1627568" crc="8f484ea0" md5="ec1ba9d0c719ec87ccbba880e7a031ec" sha1="480bc86ca385aff3a96ac438d4aee1275476fd5f" sha256="5de7b327eae1434560c1d5c3506b70088b675876fe7a419991653f30c11c5636"/>
+	</game>
+	<game name="Time and Eternity - Wedi (Europe) (Static Theme)" id="01637">
+		<category>Games</category>
+		<description>Time and Eternity - Wedi (Europe) (Static Theme)</description>
+		<game_id>EP1063-NPEP00211_00-TTIMEANDET000003</game_id>
+		<rom name="THEME_FILE_411412.p3t" size="1696640" crc="85aa4e49" md5="651684b7976cc7f989f45af0e42a69cd" sha1="c710e4fd41e0564447de4c79d0d245d75cac0d51" sha256="4760558b5f46c2f747e928775e3364ba11dec56df10317ac34a917905401be91"/>
+	</game>
 	<game name="Tokyo Jungle (USA) (Dynamic Theme)" id="01333">
 		<category>Games</category>
 		<description>Tokyo Jungle (USA) (Dynamic Theme)</description>
@@ -2332,7 +2438,6 @@
 		<description>Trinity Universe - Miyu (USA) (Static Theme)</description>
 		<game_id>UP1063-BLUS30535_00-THEME00000000007</game_id>
 		<rom name="ErovigVqSd6BVF2QB6q8kW6AAnnl2bc2vHKH9a9cmcIWVVIl7kD9xgomctPcTas8e7snFqe2jifrWUFflCatYQMiX8ABonemYv85L.pkg" size="6452352" crc="804d53d6" md5="cc23fd86170ef78519460844f1f5290c" sha1="69339ea54762be09b2f99aa2836a2b1da9463250"/>
-		<rom name="UP1063-BLUS30535_00-THEME00000000007.rap" size="16" crc="8312aeae" md5="592dc58df98f0074d00b9e9d8233bdac" sha1="f49e4a16bed1c3ace3dc1442d1c6c3f6a9a71c8a"/>
 	</game>
 	<game name="Tron - Evolution (USA) (Dynamic Theme)" id="01354">
 		<category>Games</category>

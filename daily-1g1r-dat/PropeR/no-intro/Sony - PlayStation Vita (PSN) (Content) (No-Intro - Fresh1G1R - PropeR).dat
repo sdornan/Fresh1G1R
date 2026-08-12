@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation Vita (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation Vita (PSN) (Content) (12,626) (-y) [-aAbBcdkmMpPuv] (20260116-223543) (Retool)</description>
-		<version>20260116-223543</version>
-		<date>2026-06-22 07-48-59</date>
-		<author>[mRg], bsbt, buckwheat, FakeShemp, Gefflon, Hiccup, Intothisworld, Landcross, nnssxx, norkmetnoil577, rarenight, SonGoku</author>
+		<description>Sony - PlayStation Vita (PSN) (Content) (12,626) (-y) [-aAbBcdkmMpPuv] (20260808-063150) (Retool)</description>
+		<version>20260808-063150</version>
+		<date>2026-08-12 04-27-12</date>
+		<author>[mRg], 1988reload, bsbt, buckwheat, FakeShemp, Gefflon, Hiccup, Intothisworld, Landcross, nnssxx, norkmetnoil577, rarenight, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -12231,7 +12231,7 @@
 		<category>Games</category>
 		<description>Destiny of Spirits (USA)</description>
 		<game_id>UP9000-PCSA00106_00-DESTINYOFSPIRITS</game_id>
-		<rom name="qruGMvEaNhouZsAaehivchECNaQAkvxBuwLQsAXjOhhphStBGdJjIfmcMuFBIzxA.pkg" size="584873872" crc="2857f4c2" md5="12c0672e90902e57afafb1cb9b4d62ea" sha1="681f7cec8b8f4e806b8a86a10c542d02a8f46115"/>
+		<rom name="qruGMvEaNhouZsAaehivchECNaQAkvxBuwLQsAXjOhhphStBGdJjIfmcMuFBIzxA.pkg" size="584873872" crc="2857f4c2" md5="12c0672e90902e57afafb1cb9b4d62ea" sha1="681f7cec8b8f4e806b8a86a10c542d02a8f46115" sha256="02a2c6cca1b3aa5e91479c4f38be0f5412c8c9c2e08c21b129e107ae05a26cc3"/>
 		<rom name="work.bin" size="512" crc="226b6b0b" md5="48b2da5654674310f316917ee0d32d2d" sha1="44f4208ec347577b5acdd5ed0bef13c3da185d4c" sha256="b98089effe061412504e048dbd706e9aa353bd49cc9971f950196ad8001a6ef1"/>
 	</game>
 	<game name="Destiny of Spirits - Aidyu (Japan) (Avatar)" id="16544">
