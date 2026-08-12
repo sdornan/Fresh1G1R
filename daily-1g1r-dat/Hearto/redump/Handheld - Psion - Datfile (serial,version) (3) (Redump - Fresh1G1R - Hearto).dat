@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Handheld - Psion (Retool)</name>
+		<description>Handheld - Psion (1) (-y) [-aAbBcefkmMoprv] (2026-08-08 01-44-54) (Retool)</description>
+		<version>2026-08-08 01-44-54</version>
+		<date>2026-08-12 02-59-22</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Psion CD-ROM 1998 - Volume 1 (Germany)" id="135227">
+		<category>Demos</category>
+		<description>Psion CD-ROM 1998 - Volume 1 (Germany)</description>
+		<rom name="Psion CD-ROM 1998 - Volume 1 (Germany).bin" size="99734208" crc="d73a1439" md5="7d7b8a4233f7256801377bd2752bbd3e" sha1="7e14af19dc017ac14a28d28eef2eafb742afa613"/>
+		<rom name="Psion CD-ROM 1998 - Volume 1 (Germany).cue" size="127" crc="efa4996f" md5="164eb19e8fc668e826c3c31a8e3c7478" sha1="647f6c2ee6b990078c6d243000c7ac0ae64ca0e5"/>
+	</game>
+</datafile>

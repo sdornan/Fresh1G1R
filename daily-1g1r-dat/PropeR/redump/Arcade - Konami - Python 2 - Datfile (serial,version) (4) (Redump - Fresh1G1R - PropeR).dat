@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Konami - Python 2 (Retool)</name>
+		<description>Arcade - Konami - Python 2 (3) (-y) [-aAbBcdkmMpPuv] (2026-07-03 10-14-40) (Retool)</description>
+		<version>2026-07-03 10-14-40</version>
+		<date>2026-08-12 03-08-23</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Dancing Stage SuperNova (Europe) (Install Disk)" id="134576">
+		<category>Games</category>
+		<description>Dancing Stage SuperNova (Europe) (Install Disk)</description>
+		<serial>KNAD 00009</serial>
+		<version>1.00</version>
+		<rom name="Dancing Stage SuperNova (Europe) (Install Disk).iso" size="4002709504" crc="95e713bb" md5="49db9be25831e87140f2fd67ecd7e99b" sha1="8e2799b9316367f3fb10b1e5bc4a6cc9ff1bcb2a"/>
+	</game>
+	<game name="DrumMania V3 (Japan)" id="134574">
+		<category>Games</category>
+		<description>DrumMania V3 (Japan)</description>
+		<serial>KNAD 00007</serial>
+		<version>1.00</version>
+		<rom name="DrumMania V3 (Japan).iso" size="3802136576" crc="0bbc4e58" md5="00928bb7acbd1cfd6a7e86e9fc1d7f26" sha1="e835a905f7ee5fe557b1cbeaba64098428cbc1d2"/>
+	</game>
+	<game name="GuitarFreaks V2 (Japan)" id="134575">
+		<category>Games</category>
+		<description>GuitarFreaks V2 (Japan)</description>
+		<serial>KNAD 00001</serial>
+		<version>1.00</version>
+		<rom name="GuitarFreaks V2 (Japan).iso" size="1963196416" crc="cfca3113" md5="b0bbd460c36939fba6282cd4505bd7b8" sha1="410764602cddb55527620460289bfbb984ba52cc"/>
+	</game>
+</datafile>

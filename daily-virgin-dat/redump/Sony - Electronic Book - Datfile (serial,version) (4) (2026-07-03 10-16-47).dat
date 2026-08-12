@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony - Electronic Book</name>
+		<description>Sony - Electronic Book - Datfile (serial,version) (4) (2026-07-03 10-16-47)</description>
+		<version>2026-07-03 10-16-47</version>
+		<date>2026-07-03 10-16-47</date>
+		<author>redump.info</author>
+		<homepage>redump.info</homepage>
+		<url>https://redump.info/</url>
+	</header>
+	<game name="Adventure 101 - Intro to Tourist Traps, Dwarfs and Chivalry (USA) (EBG)" id="134684">
+		<category>Games</category>
+		<serial>SROM 004500</serial>
+		<version>1.0</version>
+		<description>Adventure 101 - Intro to Tourist Traps, Dwarfs and Chivalry (USA) (EBG)</description>
+		<rom name="Adventure 101 - Intro to Tourist Traps, Dwarfs and Chivalry (USA) (EBG).cue" size="137" crc="bb2d7afe" md5="6a95555b6d421ddbf947a02beaf37a6a" sha1="4a2713f67f99c1ff7d3d70f560cf73e2e9e76b7c"/>
+		<rom name="Adventure 101 - Intro to Tourist Traps, Dwarfs and Chivalry (USA) (EBG).bin" size="4370016" crc="ef040223" md5="5f50f47a31c648fed95105beb2055d3c" sha1="83834cd1b9ff33b6b500411e91327cdfacadf1d4"/>
+	</game>
+	<game name="Five Star Stories, The - Chronicle 3 (Japan) (EBXA)" id="134773">
+		<category>Multimedia</category>
+		<serial>YRRS-1029</serial>
+		<description>Five Star Stories, The - Chronicle 3 (Japan) (EBXA)</description>
+		<rom name="Five Star Stories, The - Chronicle 3 (Japan) (EBXA).cue" size="140" crc="cc387100" md5="76e7da4c8fd1253b3a8252f122de3c93" sha1="e2a831887f5dca104a5568e90a64cc760b9de2a4"/>
+		<rom name="Five Star Stories, The - Chronicle 3 (Japan) (EBXA).bin" size="57788640" crc="50a69f7e" md5="13cc80bc2d23b88ca059115c21e7defd" sha1="083d96fdad59d6fb32aaaf93b524c35fac17a0ab"/>
+	</game>
+	<game name="Jetro Ace Kaigai Business Guide - Hokubei (Japan) (EB)" id="134774">
+		<category>Multimedia</category>
+		<serial>YRRS 19, YRRS-019</serial>
+		<description>Jetro Ace Kaigai Business Guide - Hokubei (Japan) (EB)</description>
+		<rom name="Jetro Ace Kaigai Business Guide - Hokubei (Japan) (EB).cue" size="120" crc="41a6ea5b" md5="49e3ea59b67ffe24c388d9d8e7cdbe55" sha1="d6d937d72f142c1adc9da09712e18b91050cc1ad"/>
+		<rom name="Jetro Ace Kaigai Business Guide - Hokubei (Japan) (EB).bin" size="7056000" crc="40d9b4b5" md5="7dbcdb9c506da7e0b823dd55cc34c1c2" sha1="fa46d67a5edca0ac321ba8e8d57971fc478d9cfe"/>
+	</game>
+	<game name="JTB no Shukuhaku Jouhou Zenkokuhen (Japan) (EB)" id="134775">
+		<category>Multimedia</category>
+		<serial>YRRS-4, YRRS-004</serial>
+		<description>JTB no Shukuhaku Jouhou Zenkokuhen (Japan) (EB)</description>
+		<rom name="JTB no Shukuhaku Jouhou Zenkokuhen (Japan) (EB).cue" size="113" crc="f28be467" md5="6a8be7001f47556bcaad65d815dbd73b" sha1="4ab51097a5378287de35b52ac14e403db8fcb081"/>
+		<rom name="JTB no Shukuhaku Jouhou Zenkokuhen (Japan) (EB).bin" size="18874800" crc="f18cbe0b" md5="2245afe1030f2382e4aef110c37464dd" sha1="1c90db7ae5e0a147eaf8ef140f6814e054c348f5"/>
+	</game>
+</datafile>

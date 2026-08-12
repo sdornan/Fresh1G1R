@@ -3,15 +3,15 @@
 <datafile>
 	<header>
 		<name>Atari - Jaguar CD Interactive Multimedia System (Retool)</name>
-		<description>Atari - Jaguar CD Interactive Multimedia System (13) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-03 15-50-49) (Retool)</description>
-		<version>2026-04-03 15-50-49</version>
-		<date>2026-08-11 03-57-30</date>
-		<author>redump.org</author>
+		<description>Atari - Jaguar CD Interactive Multimedia System (13) (-ly) [-aAbBcdDefkmMopPruv] (2026-07-03 10-14-14) (Retool)</description>
+		<version>2026-07-03 10-14-14</version>
+		<date>2026-08-12 03-01-09</date>
+		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
-		<url>http://redump.org/</url>
+		<url>https://redump.info/</url>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
-	<game name="Baldies (USA) (Rev 1)">
+	<game name="Baldies (USA) (Rev 1)" id="64384">
 		<category>Games</category>
 		<description>Baldies (USA) (Rev 1)</description>
 		<rom name="Baldies (USA) (Rev 1) (Track 01).bin" size="11207280" crc="2b34a071" md5="fb178fd05481b3b15bb703895248f5fd" sha1="e4144cede37559516685d96c383b66af51db0814"/>
@@ -27,7 +27,7 @@
 		<rom name="Baldies (USA) (Rev 1) (Track 11).bin" size="1401792" crc="722de216" md5="ff70371271b8200300a3587449c5df75" sha1="3ec5923eaff3115c4ea6cc68fe77bf2760ac0841"/>
 		<rom name="Baldies (USA) (Rev 1).cue" size="1427" crc="5e339c95" md5="e1c27147817a1df2a0d1b2d8dc27d2ba" sha1="f2f7b80b12e8cdf83307c412c386d2e0012b85dd"/>
 	</game>
-	<game name="Battle Morph (USA)">
+	<game name="Battle Morph (USA)" id="64385">
 		<category>Games</category>
 		<description>Battle Morph (USA)</description>
 		<rom name="Battle Morph (USA) (Track 01).bin" size="9699648" crc="10ba56a4" md5="4e629cf21deaf09ce21e6c43487b0b6f" sha1="0d3c73be5642e47383002ad4c32bf4e7e3d26e59"/>
@@ -42,7 +42,7 @@
 		<rom name="Battle Morph (USA) (Track 10).bin" size="1401792" crc="0744d24f" md5="95d7f4ddf9f0ea1f36da1d69ec69732f" sha1="ceee0c8acb98bb043e8147ac668363eb63e592db"/>
 		<rom name="Battle Morph (USA).cue" size="1266" crc="f421439b" md5="83c623aa46f4e58da0c96c3d1c607709" sha1="137ca0bc64c6869ddd1f66223e6efa155335332f"/>
 	</game>
-	<game name="Blue Lightning (USA) (En,Fr,De) (Alt 2)">
+	<game name="Blue Lightning (USA) (En,Fr,De) (Alt 2)" id="132340">
 		<category>Games</category>
 		<description>Blue Lightning (USA) (En,Fr,De) (Alt 2)</description>
 		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 01).bin" size="38196480" crc="7e1ee8c7" md5="5d9564a29d2721ff8c4bfe67bd576136" sha1="8f6daa9015544cc83f0c4c320e8256ab09c41d07"/>
@@ -58,7 +58,7 @@
 		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 11).bin" size="1401792" crc="5f121609" md5="9ae53ef3e9618367efe7b4e2de2dc08f" sha1="d7e35a509f7ac6114ea2fa5aed3153489a6406ce"/>
 		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2).cue" size="1483" crc="97d34f63" md5="210d63c51f7386f580623df08b7cc61a" sha1="339761a0ffd84392be10b2177b621f1ad842b345"/>
 	</game>
-	<game name="BrainDead 13 (USA)">
+	<game name="BrainDead 13 (USA)" id="74611">
 		<category>Games</category>
 		<description>BrainDead 13 (USA)</description>
 		<rom name="BrainDead 13 (USA) (Track 1).bin" size="25084080" crc="c6f08c03" md5="17a9427a682d93f186ed4bdeb5fb48cd" sha1="e8a4d60be6fcb3d7c788242a998f991aae23b476"/>
@@ -71,7 +71,7 @@
 		<rom name="BrainDead 13 (USA) (Track 8).bin" size="1401792" crc="4db9875e" md5="c185d0f677ebf6fef3a2b9c737a070ce" sha1="6e7bbbe385bae192cb3039d5d9c55e49b4618d17"/>
 		<rom name="BrainDead 13 (USA).cue" size="1002" crc="24f2be93" md5="c19d96e1b0e0708abbd22b8e58e5729f" sha1="a5a484bcb4600f7bdf995d919abf5216908cde85"/>
 	</game>
-	<game name="Dragon's Lair (USA)">
+	<game name="Dragon's Lair (USA)" id="102218">
 		<category>Games</category>
 		<description>Dragon's Lair (USA)</description>
 		<rom name="Dragon's Lair (USA) (Track 1).bin" size="7632240" crc="be54594c" md5="fc010e837e536b60f2cbec07d7aebdfd" sha1="9bf40cd54f72f93befdf0e0e5c1d409467f8153a"/>
@@ -81,7 +81,7 @@
 		<rom name="Dragon's Lair (USA) (Track 5).bin" size="1401792" crc="569b54ba" md5="8a4dd8e9c7679721f6145db162987d7d" sha1="3013720892e42025ea78f0ce54866d461993d143"/>
 		<rom name="Dragon's Lair (USA).cue" size="626" crc="8bf20213" md5="e810eec5a5dafcc19b04b29c28feacdb" sha1="3a78de5d2482c36fa345a309caefb6e9f4e85d7a"/>
 	</game>
-	<game name="Highlander - The Last of the MacLeods (USA)">
+	<game name="Highlander - The Last of the MacLeods (USA)" id="64387">
 		<category>Games</category>
 		<description>Highlander - The Last of the MacLeods (USA)</description>
 		<rom name="Highlander - The Last of the MacLeods (USA) (Track 1).bin" size="24630144" crc="2c636532" md5="8d487ce884f034369dc50795f2ea859b" sha1="30fc93c4c0e6a20d82dc78058389aeb0c260a56e"/>
@@ -95,7 +95,7 @@
 		<rom name="Highlander - The Last of the MacLeods (USA) (Track 9).bin" size="1401792" crc="43a161d1" md5="4adb6c80d1c70a2a124916a5a7b4c263" sha1="fcf5fb36c9cc3b4211cd06c945c7f602da31557e"/>
 		<rom name="Highlander - The Last of the MacLeods (USA).cue" size="1354" crc="25c01a46" md5="e7f96d9e1b74b50d13f01065909128d9" sha1="76efb4149d1bac51fa4aca45393e3a25b06e3312"/>
 	</game>
-	<game name="Hover Strike - Unconquered Lands (USA)">
+	<game name="Hover Strike - Unconquered Lands (USA)" id="64388">
 		<category>Games</category>
 		<description>Hover Strike - Unconquered Lands (USA)</description>
 		<rom name="Hover Strike - Unconquered Lands (USA) (Track 01).bin" size="705600" crc="f7640c5b" md5="3a640d1be0cf95ea71890a557427b453" sha1="519ebfdd7bb003abe9e9e9dcf33fdedd2f2d69aa"/>
@@ -162,7 +162,7 @@
 		<rom name="Hover Strike - Unconquered Lands (USA) (Track 62).bin" size="1401792" crc="63cc38b7" md5="fbd21d6f379599174031016f64522e90" sha1="4864c777afb6494459b8e64626611271e33e461a"/>
 		<rom name="Hover Strike - Unconquered Lands (USA).cue" size="9162" crc="76d22d90" md5="dd8eca6b6f902394dcae367e6c3bed4e" sha1="fb7f62159e65e824100f9ed27e59497f8975b6ec"/>
 	</game>
-	<game name="Iron Soldier 2 (USA) (Songbird)">
+	<game name="Iron Soldier 2 (USA) (Songbird)" id="74612">
 		<category>Games</category>
 		<description>Iron Soldier 2 (USA) (Songbird)</description>
 		<rom name="Iron Soldier 2 (USA) (Songbird) (Track 01).bin" size="67697616" crc="3fa01526" md5="baae48273c1ba71bc74488520444bec8" sha1="8b0e7c30fbfa80c602e06ad96ab84f9b7f7bb4b4"/>
@@ -187,7 +187,7 @@
 		<rom name="Iron Soldier 2 (USA) (Songbird) (Track 20).bin" size="1404144" crc="5d114d8a" md5="f656ad90b4c4da17036692613e12470a" sha1="3f815173b2c0192cfb358bedef5256c34246ae18"/>
 		<rom name="Iron Soldier 2 (USA) (Songbird).cue" size="2806" crc="8e080e75" md5="aef8830fcf9a264c36c2bee8e5116d4c" sha1="72d2b4e6745902f8afeea7d0fa40d6355db032ab"/>
 	</game>
-	<game name="Myst (USA)">
+	<game name="Myst (USA)" id="64389">
 		<category>Games</category>
 		<description>Myst (USA)</description>
 		<rom name="Myst (USA) (Track 01).bin" size="16739184" crc="259f107b" md5="7b55dfd59fcd44664741589a01047c2b" sha1="dbd5b96ae8a1f07dcc48e935571699c7cb6b0c74"/>
@@ -202,7 +202,7 @@
 		<rom name="Myst (USA) (Track 10).bin" size="1404144" crc="74d912dc" md5="41529cfb5e131e98c240de4b7534ab63" sha1="3170e4147b4ea17b1cebe23d79f8dd195150b78d"/>
 		<rom name="Myst (USA).cue" size="1186" crc="f70cf87d" md5="42a8b16e604d44664a10178e11f20712" sha1="97c3215e3bcbec0e52c9010d6e250b7d18baaeb3"/>
 	</game>
-	<game name="Primal Rage (USA)">
+	<game name="Primal Rage (USA)" id="64391">
 		<category>Games</category>
 		<description>Primal Rage (USA)</description>
 		<rom name="Primal Rage (USA) (Track 01).bin" size="1107792" crc="c15afeb7" md5="975f88be1adabd3e23c7e064d27bc54c" sha1="05e68b398cf5b4ab1802692d09af06f780ea80ee"/>
@@ -240,7 +240,7 @@
 		<rom name="Primal Rage (USA) (Track 33).bin" size="1401792" crc="5bd8c9c6" md5="26074ef2c96b52b5e74e610da83e31b3" sha1="3771429bca6f2af728835e40ddea92f60ce77af0"/>
 		<rom name="Primal Rage (USA).cue" size="4177" crc="f2a199ab" md5="15cb173f6c2e5d3eeb93864abdd4a70b" sha1="67a156064e28ef787e4468fd8e4646e8d23960ac"/>
 	</game>
-	<game name="Space Ace (USA)">
+	<game name="Space Ace (USA)" id="74613">
 		<category>Games</category>
 		<description>Space Ace (USA)</description>
 		<rom name="Space Ace (USA) (Track 1).bin" size="8203776" crc="e61e9c4e" md5="b65a45956142703f5de8eae17079b1ba" sha1="ce641e55105786e39f4a4ce3ce156ac09253e812"/>
@@ -250,7 +250,7 @@
 		<rom name="Space Ace (USA) (Track 5).bin" size="1401792" crc="4a742ec5" md5="8e9f34c74d2f0c4abd68d6f9aca35009" sha1="a3102a157b403620295c7bc2c9d95cf5bb3c1b6e"/>
 		<rom name="Space Ace (USA).cue" size="606" crc="43efa04e" md5="76f8deae0c769f981df06e2363c6795b" sha1="a465bd341fc386c4e489ba184e52cafdfe04f897"/>
 	</game>
-	<game name="Vid Grid (USA) (Rev 1)">
+	<game name="Vid Grid (USA) (Rev 1)" id="132295">
 		<category>Games</category>
 		<description>Vid Grid (USA) (Rev 1)</description>
 		<rom name="Vid Grid (USA) (Rev 1) (Track 01).bin" size="2756544" crc="a88e9ccd" md5="d2128c88107463102727d025dba522a5" sha1="32b7420b903dd9723a77771051748323b7e2c702"/>
@@ -272,7 +272,7 @@
 		<rom name="Vid Grid (USA) (Rev 1) (Track 17).bin" size="1401792" crc="11c8f0dd" md5="1b31968cb5ce770de30e758b8556e585" sha1="5ae9ee6f063f2bea4170eb933c8802bbab27872e"/>
 		<rom name="Vid Grid (USA) (Rev 1).cue" size="2044" crc="50260e12" md5="a118a5a7071e4c0c5818702a11e21e9c" sha1="e720709e512555ddc5822bec9d0ca8f87c30c684"/>
 	</game>
-	<game name="World Tour Racing (USA)">
+	<game name="World Tour Racing (USA)" id="101389">
 		<category>Games</category>
 		<description>World Tour Racing (USA)</description>
 		<rom name="World Tour Racing (USA) (Track 01).bin" size="64129632" crc="023c094a" md5="18f93e64ea85960e3e9f3d00fde9b670" sha1="e792cd89e8bf2ed2fe00b77768869b826173d565"/>

@@ -3,25 +3,20 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - RingEdge (Retool)</name>
-		<description>Arcade - Sega - RingEdge (3) (-ly) [-aAbBcdDefkmMopPruv] (2025-11-09 01-52-37) (Retool)</description>
-		<version>2025-11-09 01-52-37</version>
-		<date>2026-08-11 03-58-41</date>
-		<author>redump.org</author>
+		<description>Arcade - Sega - RingEdge (2) (-ly) [-aAbBcdDefkmMopPruv] (2026-07-08 07-16-53) (Retool)</description>
+		<version>2026-07-08 07-16-53</version>
+		<date>2026-08-12 03-04-36</date>
+		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
-		<url>http://redump.org/</url>
+		<url>https://redump.info/</url>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
-	<game name="Let's Go Island 3D (World)">
+	<game name="Let's Go Island 3D (World)" id="122153">
 		<category>Games</category>
 		<description>Let's Go Island 3D (World)</description>
 		<rom name="Let's Go Island 3D (World).iso" size="2779447296" crc="be14e42e" md5="289afeadcc1a24cff29e5c106f7dd2f5" sha1="0ddebbe8aef351098851ced5dc30d5dea91ae849"/>
 	</game>
-	<game name="Sega Racing Classic (Export) (RingWide) (Rev A)">
-		<category>Games</category>
-		<description>Sega Racing Classic (Export) (RingWide) (Rev A)</description>
-		<rom name="Sega Racing Classic (Export) (RingWide) (Rev A).iso" size="986054656" crc="ed026306" md5="4ba47ff543a5060dee945dbc32e88202" sha1="63bc07b44e32e86aae20f610432cae32d75e9b65"/>
-	</game>
-	<game name="Virtua Tennis 4 (Export) (En,Fr,De,Es,It)">
+	<game name="Virtua Tennis 4 (Export) (En,Fr,De,Es,It)" id="120235">
 		<category>Games</category>
 		<description>Virtua Tennis 4 (Export) (En,Fr,De,Es,It)</description>
 		<rom name="Virtua Tennis 4 (Export) (En,Fr,De,Es,It).iso" size="3526230016" crc="255fe16a" md5="6c4ac17bd5d1911d8b520e2148abd802" sha1="75d3935041765202c4ff8d66abd59ec87484eff4"/>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - ALLS (Retool)</name>
+		<description>Arcade - Sega - ALLS (1) (-ly) [-aAbBcdDefkmMopPruv] (2026-07-21 01-18-57) (Retool)</description>
+		<version>2026-07-21 01-18-57</version>
+		<date>2026-08-12 03-04-20</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Initial D - The Arcade (Japan) (En,Ja) (Disc 1)" id="134624">
+		<category>Games</category>
+		<description>Initial D - The Arcade (Japan) (En,Ja) (Disc 1)</description>
+		<serial>CDA-0010-1D</serial>
+		<version>1.00.03</version>
+		<rom name="Initial D - The Arcade (Japan) (En,Ja) (Disc 1).iso" size="8386904064" crc="9cb2e2e2" md5="f91882755e94a228511b275462d94b60" sha1="58b1d27c2af0401c54c846e85a3856299c99d91d"/>
+	</game>
+</datafile>

@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Konami - e-Amusement (Retool)</name>
+		<description>Arcade - Konami - e-Amusement (27) (-y) [-aAbBcdkmMpPuv] (2026-07-03 10-14-40) (Retool)</description>
+		<version>2026-07-03 10-14-40</version>
+		<date>2026-08-12 03-08-20</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Action Deka (Japan) (Application Disc)" id="86764">
+		<category>Games</category>
+		<description>Action Deka (Japan) (Application Disc)</description>
+		<serial>GDK JA B02</serial>
+		<version>20080328-1</version>
+		<rom name="Action Deka (Japan) (Application Disc).iso" size="763834368" crc="57ab4c4d" md5="8de0d8186ee470cef80290c8498cafc7" sha1="c8f412b3af07404da3d340478d16e06936f00550"/>
+	</game>
+	<game name="Action Deka (Japan) (System Disc)" id="86763">
+		<category>Games</category>
+		<description>Action Deka (Japan) (System Disc)</description>
+		<serial>GDK JA A01</serial>
+		<version>20080229-0</version>
+		<rom name="Action Deka (Japan) (System Disc).iso" size="542416896" crc="cf4c548d" md5="ab4858940ee46126be70ecc7ed2936cf" sha1="7306691cf0559d6da685203b9144c831ddf5dc4a"/>
+	</game>
+	<game name="Beatmania IIDX 18 - Resort Anthem (Japan) (Update Disc)" id="112968">
+		<category>Add-Ons</category>
+		<description>Beatmania IIDX 18 - Resort Anthem (Japan) (Update Disc)</description>
+		<serial>JDZ JA A99</serial>
+		<version>JAA</version>
+		<rom name="Beatmania IIDX 18 - Resort Anthem (Japan) (Update Disc).bin" size="2474304" crc="3058919b" md5="b8439bf79fd5fb2f9b5bfbd92863fc1c" sha1="766f993258e703d922ced12f7671835bd12c4f11"/>
+		<rom name="Beatmania IIDX 18 - Resort Anthem (Japan) (Update Disc).cue" size="121" crc="7a637221" md5="a6ff8718aa02d4e171cc1bcf5e33731a" sha1="e010a299e49db4851a791fae986e73ecaafa0729"/>
+	</game>
+	<game name="Beatmania IIDX 21 - Spada (Japan) (Update Disc) (JBA)" id="86385">
+		<category>Add-Ons</category>
+		<description>Beatmania IIDX 21 - Spada (Japan) (Update Disc) (JBA)</description>
+		<serial>LDJ JB A01</serial>
+		<version>JBA</version>
+		<rom name="Beatmania IIDX 21 - Spada (Japan) (Update Disc) (JBA).iso" size="2133018624" crc="24bb0bcf" md5="0315278f373296a8114dc9294800648a" sha1="dbe046a416f8a5cea17c715b0d5b38d6c66c0194"/>
+	</game>
+	<game name="Beatmania IIDX 22 - Pendual (Japan) (Update Disc) (JCA)" id="85292">
+		<category>Add-Ons</category>
+		<description>Beatmania IIDX 22 - Pendual (Japan) (Update Disc) (JCA)</description>
+		<serial>LDJ JC A01</serial>
+		<version>JCA</version>
+		<rom name="Beatmania IIDX 22 - Pendual (Japan) (Update Disc) (JCA).iso" size="2750216192" crc="0ce89847" md5="70b6146c859e6a5b1f060ee4b7bbe89f" sha1="7d516bba7d7617442c0c4357a86a64f1c423d1c3"/>
+	</game>
+	<game name="Beatmania IIDX 23 - Copula (Japan) (Update Disc) (JDA)" id="85293">
+		<category>Add-Ons</category>
+		<description>Beatmania IIDX 23 - Copula (Japan) (Update Disc) (JDA)</description>
+		<serial>LDJ JD A01</serial>
+		<version>JDA</version>
+		<rom name="Beatmania IIDX 23 - Copula (Japan) (Update Disc) (JDA).iso" size="2356103168" crc="373c637b" md5="489d8770aa49e55d533f119db3acc978" sha1="827ebcf92d26637938a24f3e9e50d246308ebbe0"/>
+	</game>
+	<game name="Bishi Bashi, The (Japan) (Application Disc)" id="125588">
+		<category>Games</category>
+		<description>Bishi Bashi, The (Japan) (Application Disc)</description>
+		<serial>IBB JA A02</serial>
+		<version>20090611-0</version>
+		<rom name="Bishi Bashi, The (Japan) (Application Disc).iso" size="840105984" crc="e3a7053e" md5="51b479324c4a19266b7e0af560b3de5a" sha1="9e669e3c9a307bce59c60b2281f2e56882fe6d29"/>
+	</game>
+	<game name="Bishi Bashi, The (Japan) (System Disc)" id="125589">
+		<category>Games</category>
+		<description>Bishi Bashi, The (Japan) (System Disc)</description>
+		<serial>IBB JA A01</serial>
+		<version>20090508-0</version>
+		<rom name="Bishi Bashi, The (Japan) (System Disc).bin" size="630103152" crc="b35a5c00" md5="4c6d679024d8ddac4b3cb4204668b218" sha1="b3998b4822134037ee959bedefa8799487d2f053"/>
+		<rom name="Bishi Bashi, The (Japan) (System Disc).cue" size="104" crc="d032e710" md5="702db2c1ca85b9e26f2628ef42224f22" sha1="7b45833c9dcfc2b3b6a869632135019887644827"/>
+	</game>
+	<game name="Mah-Jong Fight Club - Garyuu Tensei (Japan) (Client-you Application Disc)" id="117671">
+		<category>Games</category>
+		<description>Mah-Jong Fight Club - Garyuu Tensei (Japan) (Client-you Application Disc)</description>
+		<serial>IK9 JB A02</serial>
+		<version>20090919</version>
+		<rom name="Mah-Jong Fight Club - Garyuu Tensei (Japan) (Client-you Application Disc).iso" size="1091108864" crc="720fe4b0" md5="c79c16fdd787aa95b02a658672eae786" sha1="588f36a86cd87ea95bd54fe00b02a1779fb84469"/>
+	</game>
+	<game name="Mah-Jong Fight Club - Garyuu Tensei (Japan) (Client-you System Disc)" id="117670">
+		<category>Games</category>
+		<description>Mah-Jong Fight Club - Garyuu Tensei (Japan) (Client-you System Disc)</description>
+		<serial>IK9 JB A01</serial>
+		<version>20090907</version>
+		<rom name="Mah-Jong Fight Club - Garyuu Tensei (Japan) (Client-you System Disc).bin" size="643514256" crc="23eb0104" md5="a482dbffb2ef3e76c5fc95610c2b9be5" sha1="e802f6d5c423f7b2b100e2be5a849c653365ba73"/>
+		<rom name="Mah-Jong Fight Club - Garyuu Tensei (Japan) (Client-you System Disc).cue" size="134" crc="f596c200" md5="2bec2e3f32bb2cd1eb257387082b24a6" sha1="5170b30df64c6d28ad10a00c89dcd3d23b37d98c"/>
+	</game>
+	<game name="Otomedius (Japan) (Application Disc 1)" id="53978">
+		<category>Games</category>
+		<description>Otomedius (Japan) (Application Disc 1)</description>
+		<serial>GGGJAA02</serial>
+		<version>JAA</version>
+		<rom name="Otomedius (Japan) (Application Disc 1).bin" size="8930544" crc="9a383c01" md5="3dab11cbc8c628935d9463868c71de00" sha1="1f876d3456d874ac14445259ab1a9c921bb2ecb2"/>
+		<rom name="Otomedius (Japan) (Application Disc 1).cue" size="104" crc="6f513e22" md5="84ecae645e7a78f80de4db7a3ea93da7" sha1="c692e27190d4b662d08a23f42d4a790c57944733"/>
+	</game>
+	<game name="Otomedius (Japan) (Application Disc 2)" id="53979">
+		<category>Games</category>
+		<description>Otomedius (Japan) (Application Disc 2)</description>
+		<serial>GGGJAA03</serial>
+		<version>JAA</version>
+		<rom name="Otomedius (Japan) (Application Disc 2).bin" size="459298560" crc="6efd1924" md5="b02f2f428558008f2312b81edc403e05" sha1="d9703acf3a9bab948eedbf0ab6c539e92e25e433"/>
+		<rom name="Otomedius (Japan) (Application Disc 2).cue" size="104" crc="6e0c18f3" md5="822f0a1ed27e10139b7a4922b79a4dd2" sha1="816e8124c1f65b6dd5e702460b0481f96a530a53"/>
+	</game>
+	<game name="Otomedius (Japan) (System Disc)" id="53977">
+		<category>Games</category>
+		<description>Otomedius (Japan) (System Disc)</description>
+		<serial>GGGJAA01</serial>
+		<version>JAA</version>
+		<rom name="Otomedius (Japan) (System Disc).bin" size="622247472" crc="dcec292d" md5="d0e8eb82429504960b4e112484c25d53" sha1="6a892d713b3c08069d233ca18f4773cabf4350b2"/>
+		<rom name="Otomedius (Japan) (System Disc).cue" size="97" crc="029115ee" md5="57c787dc25d30db419139b71c1f84f3a" sha1="d27ea4e52bb6450c85a3b7a053696f8b242aff3e"/>
+	</game>
+	<game name="Pride of Professionals - Baseball Heroes 2012 (Japan) (System Disc - Ekishou Wide Monitor Taiouban)" id="88378">
+		<category>Games</category>
+		<description>Pride of Professionals - Baseball Heroes 2012 (Japan) (System Disc - Ekishou Wide Monitor Taiouban)</description>
+		<serial>M27 JA B01</serial>
+		<rom name="Pride of Professionals - Baseball Heroes 2012 (Japan) (System Disc - Ekishou Wide Monitor Taiouban).bin" size="695453472" crc="0562832b" md5="9f3ad271f0d843bdab6897bddf704f06" sha1="fd8c40f4a904bf5d1e31046c99db50636c05ea68"/>
+		<rom name="Pride of Professionals - Baseball Heroes 2012 (Japan) (System Disc - Ekishou Wide Monitor Taiouban).cue" size="165" crc="0f9bb439" md5="5a43d12c2eeba767a4c3513949cd7836" sha1="12e9805f800297222e2a58670348e438fe9c54e8"/>
+	</game>
+	<game name="Toukyuu Oukoku Gashaaaan (Asia) (Application Disc)" id="86544">
+		<category>Games</category>
+		<description>Toukyuu Oukoku Gashaaaan (Asia) (Application Disc)</description>
+		<serial>F24 HA A02</serial>
+		<version>2006062100</version>
+		<rom name="Toukyuu Oukoku Gashaaaan (Asia) (Application Disc).bin" size="384088656" crc="2e12393c" md5="be8711785dacb3073450801ed1604a9c" sha1="a4c2217c804b2fe1a919ae03f135c6e79cf7bc0f"/>
+		<rom name="Toukyuu Oukoku Gashaaaan (Asia) (Application Disc).cue" size="116" crc="0a32da17" md5="21b373429ebcbd3fb03adefb9c2b3d80" sha1="42a1ce99f08559aeeb173be2d8b3ddbd4eafb826"/>
+	</game>
+	<game name="Toukyuu Oukoku Gashaaaan (Asia) (System Disc)" id="86543">
+		<category>Games</category>
+		<description>Toukyuu Oukoku Gashaaaan (Asia) (System Disc)</description>
+		<serial>F24 HA A01</serial>
+		<version>2006062100</version>
+		<rom name="Toukyuu Oukoku Gashaaaan (Asia) (System Disc).bin" size="576091824" crc="3e48a862" md5="635eedf5ae579c0ca24556907d956f61" sha1="356c42df2d70b385ae6202ac3890f1725359855b"/>
+		<rom name="Toukyuu Oukoku Gashaaaan (Asia) (System Disc).cue" size="111" crc="56618758" md5="b211327f19aa8ae6e330e9b0f781d8ed" sha1="9eedccdd8bab12409fd9dab1b808b8447632003a"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 1)" id="93702">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 1)</description>
+		<serial>HCK J A02</serial>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 1).bin" size="739188912" crc="6b592276" md5="116d13daaa49078bc31698cf6fd15d26" sha1="0feb4c2f5e65be5aa490d79f77234be106f311ad"/>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 1).cue" size="149" crc="fb03cc86" md5="2a7c7f5d2c8dbfe7482896df865cbac2" sha1="410b4c23c3710e845f483b26a71af3a24fa1eccf"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 2)" id="56334">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 2)</description>
+		<serial>HCK J A03</serial>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 2).bin" size="652983408" crc="cb048eaf" md5="0e7f9233000aa7e0f451a7e0a6edb25e" sha1="5466127f4f0ff9cc0121c88c3ca85928d19a7338"/>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 2).cue" size="149" crc="fa5eea57" md5="2122f641fa40698ab2ca5e97db9a46b7" sha1="86e0d0b0f661052fa8d1f5321ec85a0ef9026831"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 3)" id="56340">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 3)</description>
+		<serial>HCK J A04</serial>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 3).bin" size="543300240" crc="2fdc7d9b" md5="a4a0490fffc5d7f7b03670c76a0cd5e2" sha1="032d8cc478ec7d4ae40ec0e8763a86c4f5f724c6"/>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 3).cue" size="149" crc="4c450a27" md5="3b4c1929eb1ff908ba06fbf60b6bf75c" sha1="f912f37517cf67ae5faf1669bcd7268188d23717"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 4)" id="56341">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 4)</description>
+		<serial>HCK J A05</serial>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 4).bin" size="568478400" crc="5d365668" md5="8bec0fe873790ceb217af7adadbfb5e7" sha1="b4a5db606fe8520e07b6f1831857069e6c3643e8"/>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 4).cue" size="149" crc="f8e4a7f5" md5="10b3575ce066f5c2d74aac693e67a318" sha1="0435d06b0f2c3a8b8f1d42371bee87540f6c84d3"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (System Disc)" id="56332">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (System Disc)</description>
+		<serial>HCK J A01</serial>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (System Disc).bin" size="622299216" crc="49126ae6" md5="ad43650609ff00785a667be4a76cd799" sha1="6db414ed110bb76e8deae32b14ff1c2c13562e14"/>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (System Disc).cue" size="142" crc="0f6a7af2" md5="93a62aa987b8259cd28bb85b08beadfc" sha1="4dd8ba6fc06c646d370fa96d705b5eed30b6b660"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 1)" id="85287">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 1)</description>
+		<serial>KCK JA A02</serial>
+		<version>JAA</version>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 1).iso" size="3558569984" crc="844f7216" md5="bf18e2c7a8eaea800cc30c1483189d39" sha1="69fa69dfd7b76c0368ab4cad50294810c80bcf32"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 2)" id="85288">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 2)</description>
+		<serial>KCK JA A03</serial>
+		<version>JAA</version>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 2).iso" size="2901499904" crc="4098ca75" md5="f9ee404538f4982c4eff9e478dc99678" sha1="133a540b430ebaa02445851609a22a6080031c91"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 3)" id="85289">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 3)</description>
+		<serial>KCK JA A04</serial>
+		<version>JAA</version>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 3).iso" size="2883696640" crc="e1381c19" md5="0711f3e6d92bb64cd58a69440313b348" sha1="5e7228de2788364d95b71fd62840666d8c183965"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 4)" id="85290">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 4)</description>
+		<serial>KCK JA A05</serial>
+		<version>JAA</version>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 4).iso" size="2861606912" crc="76f368a9" md5="d8f8b514d23031917e2b3b4d36ee8f47" sha1="c88b3b1fe6743be72107a876d54816462b026ef1"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 5)" id="85291">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 5)</description>
+		<serial>KCK JA A06</serial>
+		<version>JAA</version>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 5).iso" size="2779195392" crc="38ad68db" md5="a192caaf840197cfd3fc54e60256924e" sha1="f541eaa7451654127ca263b6c86c0507a84c399c"/>
+	</game>
+	<game name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (System Disc)" id="85286">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (System Disc)</description>
+		<serial>KCK JA A01</serial>
+		<version>JAA</version>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (System Disc).bin" size="674478336" crc="909ee2eb" md5="b9c5fa01629c71921ad1bef5c1ced4c2" sha1="a7c479f7390668d97a3a0a0bceb00190be1453b3"/>
+		<rom name="World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (System Disc).cue" size="142" crc="6a68d431" md5="beda786988c9f1c172d7df9f7c23b7be" sha1="dd1dfc823ad88acbbd917c1afd4d2683b0d7cb49"/>
+	</game>
+</datafile>

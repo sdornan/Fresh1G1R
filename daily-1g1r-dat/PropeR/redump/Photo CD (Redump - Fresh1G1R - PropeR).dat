@@ -3,15 +3,15 @@
 <datafile>
 	<header>
 		<name>Photo CD (Retool)</name>
-		<description>Photo CD (15) (-y) [-aAbBcdkmMpPuv] (2026-06-14 02-44-56) (Retool)</description>
-		<version>2026-06-14 02-44-56</version>
-		<date>2026-08-11 04-00-20</date>
-		<author>redump.org</author>
+		<description>Photo CD (15) (-y) [-aAbBcdkmMpPuv] (2026-08-10 13-18-34) (Retool)</description>
+		<version>2026-08-10 13-18-34</version>
+		<date>2026-08-12 03-09-19</date>
+		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
-		<url>http://redump.org/</url>
+		<url>https://redump.info/</url>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
-	<game name="Alice in Cyberland - Yamiyo no Madoushi (Japan) (Photo CD) (PC Game Bundle)">
+	<game name="Alice in Cyberland - Yamiyo no Madoushi (Japan) (Photo CD) (PC Game Bundle)" id="119004">
 		<category>Bonus Discs</category>
 		<description>Alice in Cyberland - Yamiyo no Madoushi (Japan) (Photo CD) (PC Game Bundle)</description>
 		<rom name="Alice in Cyberland - Yamiyo no Madoushi (Japan) (Photo CD) (PC Game Bundle) (Track 1).bin" size="710304" crc="8c039c54" md5="3c4a83a19ec54244afdac55f26d00187" sha1="13b508993bf2dc0090612ce4996582ab96740b9c"/>
@@ -19,7 +19,7 @@
 		<rom name="Alice in Cyberland - Yamiyo no Madoushi (Japan) (Photo CD) (PC Game Bundle) (Track 3).bin" size="7368816" crc="cb03dc66" md5="c1d302747b2d5b1ed344233b52bca0ca" sha1="22d51ac6d849ec0fe78000c94afa46f0ab503a96"/>
 		<rom name="Alice in Cyberland - Yamiyo no Madoushi (Japan) (Photo CD) (PC Game Bundle).cue" size="494" crc="a8fadddb" md5="bc49c4488958a2f92a5436927146527d" sha1="fe977c5fda4a33a55c464914c57f2eec844c2fb8"/>
 	</game>
-	<game name="Dark Chaser (Japan)">
+	<game name="Dark Chaser (Japan)" id="75660">
 		<category>Games</category>
 		<description>Dark Chaser (Japan)</description>
 		<rom name="Dark Chaser (Japan) (Track 1).bin" size="710304" crc="14bdb29a" md5="3ec3ffbdbe651db617eac399417d356d" sha1="e26cfc7b1b70a0c1fe17a799eb0be82b86a9b0eb"/>
@@ -27,7 +27,7 @@
 		<rom name="Dark Chaser (Japan) (Track 3).bin" size="60142992" crc="60f706e7" md5="45665b2646bbc10cce287c276aa89263" sha1="1486cbf579d3ffba371cd924ecd4d7cbe3a90d95"/>
 		<rom name="Dark Chaser (Japan).cue" size="326" crc="d9107fb7" md5="a96fd8b08dde76341e3b31c782ca071d" sha1="c771d2c46fbcd20aa012e30325882dcdf26fa6e5"/>
 	</game>
-	<game name="Dog's Eye, The - Conceptual Photo Album (Japan)">
+	<game name="Dog's Eye, The - Conceptual Photo Album (Japan)" id="72447">
 		<category>Bonus Discs</category>
 		<description>Dog's Eye, The - Conceptual Photo Album (Japan)</description>
 		<rom name="Dog's Eye, The - Conceptual Photo Album (Japan) (Track 1).bin" size="710304" crc="880a8c21" md5="676176bbb06da366b37316bc110c9a87" sha1="77cc5949a7db606f75d937d1a3b06049db9e2de1"/>
@@ -35,15 +35,15 @@
 		<rom name="Dog's Eye, The - Conceptual Photo Album (Japan) (Track 3).bin" size="23444736" crc="d498576e" md5="70054680fb952d1977d76fa6b7de61e7" sha1="a0a00819991e3046fe1e70f2387047a923075048"/>
 		<rom name="Dog's Eye, The - Conceptual Photo Album (Japan).cue" size="410" crc="c64b6301" md5="1ea473ab72ccf5b7eb653d1862282584" sha1="d4a965881393b317fbb07b7313224ab34877b96f"/>
 	</game>
-	<game name="Honoo no On'na Janshi Kyoko Makenai!! Jissen Mondai-shuu (Japan)">
+	<game name="Honoo no Onna Janshi Kyoko Makenai!! Jissen Mondaishuu (Japan)" id="75604">
 		<category>Games</category>
-		<description>Honoo no On'na Janshi Kyoko Makenai!! Jissen Mondai-shuu (Japan)</description>
-		<rom name="Honoo no On'na Janshi Kyoko Makenai!! Jissen Mondai-shuu (Japan) (Track 1).bin" size="710304" crc="901f89d1" md5="4bdcac94409d866bf1683509c0abd3e2" sha1="e86cd2052956ccdaa929cc7ca77dd3c24bf4458a"/>
-		<rom name="Honoo no On'na Janshi Kyoko Makenai!! Jissen Mondai-shuu (Japan) (Track 2).bin" size="227040912" crc="895caa3f" md5="4812f8a34e429532f207d02c5b1d834b" sha1="388ebe9f5c68b4594a783812b84e6361c69c389f"/>
-		<rom name="Honoo no On'na Janshi Kyoko Makenai!! Jissen Mondai-shuu (Japan) (Track 3).bin" size="337497888" crc="dce2c427" md5="ef4efc2eeb4f015813a15bb0ffa92fe8" sha1="9423c8819fc3f021fcedd42082f69658e434850d"/>
-		<rom name="Honoo no On'na Janshi Kyoko Makenai!! Jissen Mondai-shuu (Japan).cue" size="461" crc="7007454b" md5="9e80c1ba96af67ab97cf2629ff647d7e" sha1="e3bbf8b26c0858fa8ef3d23baff228838ce1a43e"/>
+		<description>Honoo no Onna Janshi Kyoko Makenai!! Jissen Mondaishuu (Japan)</description>
+		<rom name="Honoo no Onna Janshi Kyoko Makenai!! Jissen Mondaishuu (Japan) (Track 1).bin" size="710304" crc="901f89d1" md5="4bdcac94409d866bf1683509c0abd3e2" sha1="e86cd2052956ccdaa929cc7ca77dd3c24bf4458a"/>
+		<rom name="Honoo no Onna Janshi Kyoko Makenai!! Jissen Mondaishuu (Japan) (Track 2).bin" size="227040912" crc="895caa3f" md5="4812f8a34e429532f207d02c5b1d834b" sha1="388ebe9f5c68b4594a783812b84e6361c69c389f"/>
+		<rom name="Honoo no Onna Janshi Kyoko Makenai!! Jissen Mondaishuu (Japan) (Track 3).bin" size="337497888" crc="dce2c427" md5="ef4efc2eeb4f015813a15bb0ffa92fe8" sha1="9423c8819fc3f021fcedd42082f69658e434850d"/>
+		<rom name="Honoo no Onna Janshi Kyoko Makenai!! Jissen Mondaishuu (Japan).cue" size="455" crc="ab581960" md5="ed2e6b48551a3cc830304cb222fff475" sha1="6d2fc98f5e789964b48a47cd4ed97dc3c8de52c4"/>
 	</game>
-	<game name="Inu-ou Chikyuu o Sukuu (Japan)">
+	<game name="Inu-ou Chikyuu o Sukuu (Japan)" id="75661">
 		<category>Games</category>
 		<description>Inu-ou Chikyuu o Sukuu (Japan)</description>
 		<rom name="Inu-ou Chikyuu o Sukuu (Japan) (Track 1).bin" size="1399440" crc="298eeaca" md5="7aee5db84a928c10e9a14532dd195932" sha1="a59497c8339b4c891a2770ed943ec7e86d1930b6"/>
@@ -51,7 +51,7 @@
 		<rom name="Inu-ou Chikyuu o Sukuu (Japan) (Track 3).bin" size="159816048" crc="1575a6b3" md5="2d7350d5c09349ad7ba01dbf307e1079" sha1="768ad3721b7715d3a881fc306ec0d8d50c10df15"/>
 		<rom name="Inu-ou Chikyuu o Sukuu (Japan).cue" size="382" crc="d4906462" md5="20d0da0b5e3251560d7e84a0888ab252" sha1="78551fb7f6f8e5c01cba18180ad3d73aae646636"/>
 	</game>
-	<game name="Mars Blade (Japan)">
+	<game name="Mars Blade (Japan)" id="51688">
 		<category>Games</category>
 		<description>Mars Blade (Japan)</description>
 		<rom name="Mars Blade (Japan) (Track 1).bin" size="997248" crc="31e305d8" md5="fbae28221fe9567938b9d87a3c4408ad" sha1="9d66a1330726685ea849a13ab93f061d99f0d348"/>
@@ -59,7 +59,7 @@
 		<rom name="Mars Blade (Japan) (Track 3).bin" size="148773408" crc="ace3744e" md5="693a752f36a562cf09dea955cf994401" sha1="547ce097bdbcbae17f99f8b614e6ed9d6dcb8be7"/>
 		<rom name="Mars Blade (Japan).cue" size="346" crc="7d12298c" md5="d11aa0b9f46b21cfc1cf7e04186ff55d" sha1="df0893e19a9e5df5e089b8baa39f99d5689820bc"/>
 	</game>
-	<game name="Neko no Dayan - Dayan in Wonderland (Japan)">
+	<game name="Neko no Dayan - Dayan in Wonderland (Japan)" id="100807">
 		<category>Games</category>
 		<description>Neko no Dayan - Dayan in Wonderland (Japan)</description>
 		<rom name="Neko no Dayan - Dayan in Wonderland (Japan) (Track 1).bin" size="710304" crc="500161ec" md5="ef4e8133b7c13ea1239851dd59eda060" sha1="c3b0dcc54d659546772cf572f0cb4122d973016e"/>
@@ -67,7 +67,7 @@
 		<rom name="Neko no Dayan - Dayan in Wonderland (Japan) (Track 3).bin" size="103024656" crc="65618faa" md5="fb3abfacda9aa335a99479715894fdfe" sha1="4e098db13677932e507aac5ceb8d0326658b74c2"/>
 		<rom name="Neko no Dayan - Dayan in Wonderland (Japan).cue" size="421" crc="ec6111d6" md5="65d5a61ba9fe9b3ed6558d7512cf0033" sha1="ecd3a846ac4a15e407ba528df8074860d2c241c3"/>
 	</game>
-	<game name="Nympheas - La Musique des Tableaux Celebres (France) (SS Game Bundle)">
+	<game name="Nympheas - La Musique des Tableaux Celebres (France) (SS Game Bundle)" id="60585">
 		<category>Bonus Discs</category>
 		<description>Nympheas - La Musique des Tableaux Celebres (France) (SS Game Bundle)</description>
 		<rom name="Nympheas - La Musique des Tableaux Celebres (France) (SS Game Bundle) (Track 1).bin" size="710304" crc="3016db5a" md5="42cf10024c22df7a8cf1e52f2559d96c" sha1="2684408292df60e54eb0c5e9b0bf9033d37e88b2"/>
@@ -75,7 +75,7 @@
 		<rom name="Nympheas - La Musique des Tableaux Celebres (France) (SS Game Bundle) (Track 3).bin" size="485979648" crc="ea49cf57" md5="4d180d00e70e0c052e93ffd7c6d72206" sha1="61581ec3c9d991db0d5bc783e06ce088801c6f23"/>
 		<rom name="Nympheas - La Musique des Tableaux Celebres (France) (SS Game Bundle).cue" size="499" crc="49e31b02" md5="6eba8360e46a81a74d6218154beb636b" sha1="4051ae98cfb06c65a555a2a98400596eb06a4554"/>
 	</game>
-	<game name="Randy's - Randy to Nakamatachi (Japan)">
+	<game name="Randy's - Randy to Nakamatachi (Japan)" id="84631">
 		<category>Games</category>
 		<description>Randy's - Randy to Nakamatachi (Japan)</description>
 		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 01).bin" size="710304" crc="58e9fa26" md5="4a4ebdeed65f26f40bae89987be39b02" sha1="e6ea431e0633332d436dc95303bc9edba086d591"/>
@@ -114,7 +114,7 @@
 		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 34).bin" size="19324032" crc="c9d17f04" md5="887f73acd3a032ffbef3bc01c263d9f1" sha1="4cd608592fbe11ed21eec07f7523d6953e7e5bd8"/>
 		<rom name="Randy's - Randy to Nakamatachi (Japan).cue" size="4509" crc="25d4f6a8" md5="b96f6c2dc9d71108b61ce23f79a0e1b4" sha1="d11f701646e7058cd674fa9de1f56e96cd9fed68"/>
 	</game>
-	<game name="Seikaku Shindan Game - Ukiyo-e Sumo-hen (Japan)">
+	<game name="Seikaku Shindan Game - Ukiyo-e Sumo-hen (Japan)" id="104770">
 		<category>Games</category>
 		<description>Seikaku Shindan Game - Ukiyo-e Sumo-hen (Japan)</description>
 		<rom name="Seikaku Shindan Game - Ukiyo-e Sumo-hen (Japan) (Track 1).bin" size="910224" crc="86f64079" md5="0f12516a65492dd63aed03b410ea36dc" sha1="e7e0e51cc3624826e9f31bca1c6d2d901f8a116f"/>
@@ -122,7 +122,7 @@
 		<rom name="Seikaku Shindan Game - Ukiyo-e Sumo-hen (Japan) (Track 3).bin" size="198188928" crc="66c84660" md5="795c699f3a60572b3ccacd6e9693e811" sha1="0e421a5088f5505100c4656e9abd84656117143f"/>
 		<rom name="Seikaku Shindan Game - Ukiyo-e Sumo-hen (Japan).cue" size="410" crc="be471b99" md5="7204dfcdec12d24e9d66e4c7c675ad7d" sha1="cc095a5036f7fc0af242106f160b82c05439e1c9"/>
 	</game>
-	<game name="Steelwood - Private Eye (Japan)">
+	<game name="Steelwood - Private Eye (Japan)" id="51673">
 		<category>Games</category>
 		<description>Steelwood - Private Eye (Japan)</description>
 		<rom name="Steelwood - Private Eye (Japan) (Track 1).bin" size="710304" crc="ec1b83f8" md5="93a9764c9c85996ecae42c5cea206201" sha1="ff227c800a422600eb07251058db03a110ada1c3"/>
@@ -130,7 +130,7 @@
 		<rom name="Steelwood - Private Eye (Japan) (Track 3).bin" size="184081632" crc="7db6544d" md5="7f5a1b3ef961389168efa90a37661543" sha1="2b34b9d8929acb77d7965d92f1430a1c090e3f3a"/>
 		<rom name="Steelwood - Private Eye (Japan).cue" size="362" crc="b1397fb6" md5="65c8d86cc4faae06c68093d56b0c72ff" sha1="ba949e2eefcb99ac54b42040917c9d95aeebc49d"/>
 	</game>
-	<game name="Steelwood - Private Eye II (Japan)">
+	<game name="Steelwood - Private Eye II (Japan)" id="103992">
 		<category>Games</category>
 		<description>Steelwood - Private Eye II (Japan)</description>
 		<rom name="Steelwood - Private Eye II (Japan) (Track 1).bin" size="1373568" crc="8d91dd3d" md5="b95f99981fdbbca4da6c78556724fb16" sha1="05f0c496a5a3d823d2d4638418dd913c7a3cd3eb"/>
@@ -138,7 +138,7 @@
 		<rom name="Steelwood - Private Eye II (Japan) (Track 3).bin" size="181301568" crc="a857ecb9" md5="af8d3e41eea73350abe28b1b5863d160" sha1="be747a97b96aa93167d8ce1d32d238cd5e851282"/>
 		<rom name="Steelwood - Private Eye II (Japan).cue" size="394" crc="a2d4a388" md5="7e7a48bc5e2609a8bf47d727d0075ea2" sha1="6887924e4b6c82171b6e17a721f55f08dc5de42a"/>
 	</game>
-	<game name="True Heart - Pajo no Sutekina Ichinichi (Japan)">
+	<game name="True Heart - Pajo no Sutekina Ichinichi (Japan)" id="84633">
 		<category>Games</category>
 		<description>True Heart - Pajo no Sutekina Ichinichi (Japan)</description>
 		<rom name="True Heart - Pajo no Sutekina Ichinichi (Japan) (Track 01).bin" size="710304" crc="ee312c06" md5="1d9b8ef295f5d3772e32ca8642a15d53" sha1="9a8635cd01beee5151f70eb25d0b4bc35ce118d8"/>
@@ -161,7 +161,7 @@
 		<rom name="True Heart - Pajo no Sutekina Ichinichi (Japan) (Track 18).bin" size="41468112" crc="dba53c16" md5="fefe11e4820bf31499768f85f219edfa" sha1="a6afa32656400d97ae915a9c96d3f2707bf41d8a"/>
 		<rom name="True Heart - Pajo no Sutekina Ichinichi (Japan).cue" size="2543" crc="89673458" md5="97c6eb358332df441a2c758aff89633d" sha1="5bc0dd9406f769ddd5135bfacfe3cbe1646ed2c9"/>
 	</game>
-	<game name="Yokoyama Chisa - Australia Nikki - Tenshi ga Kureta Kyuujitsu (Japan)">
+	<game name="Yokoyama Chisa - Australia Nikki - Tenshi ga Kureta Kyuujitsu (Japan)" id="119615">
 		<category>Games</category>
 		<description>Yokoyama Chisa - Australia Nikki - Tenshi ga Kureta Kyuujitsu (Japan)</description>
 		<rom name="Yokoyama Chisa - Australia Nikki - Tenshi ga Kureta Kyuujitsu (Japan) (Track 1).bin" size="710304" crc="88479ac3" md5="58c14cfda62068fb87060ee560892076" sha1="fcd5faad85d1740278ea69e34b56bd016afbecd4"/>
@@ -169,7 +169,7 @@
 		<rom name="Yokoyama Chisa - Australia Nikki - Tenshi ga Kureta Kyuujitsu (Japan) (Track 3).bin" size="80699472" crc="30697f2a" md5="233213e8c0614b3ebc1bb3c1aba57818" sha1="42a625f1ac9e5b4d8903cac658ecf79833795ea1"/>
 		<rom name="Yokoyama Chisa - Australia Nikki - Tenshi ga Kureta Kyuujitsu (Japan).cue" size="476" crc="2f1c41be" md5="3a173be31f2bc1ea66ab1be97800a32e" sha1="c35721fd3a7d7161f9710d79e04ef4a6c9e40407"/>
 	</game>
-	<game name="Yuusha no Yabou - Hero's Conspiracy (Japan)">
+	<game name="Yuusha no Yabou - Hero's Conspiracy (Japan)" id="103392">
 		<category>Games</category>
 		<description>Yuusha no Yabou - Hero's Conspiracy (Japan)</description>
 		<rom name="Yuusha no Yabou - Hero's Conspiracy (Japan) (Track 1).bin" size="1100736" crc="c12797cb" md5="6dbab03720df1101a758fc100e2760a7" sha1="9d7218e38496e1c0956cae6932ac6916ede0fa11"/>

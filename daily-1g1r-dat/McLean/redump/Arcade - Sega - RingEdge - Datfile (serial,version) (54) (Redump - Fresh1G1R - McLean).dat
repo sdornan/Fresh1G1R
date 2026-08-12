@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - RingEdge (Retool)</name>
+		<description>Arcade - Sega - RingEdge (2) (-ly) [-aAbBcdDefkmMopPruv] (2026-07-08 07-16-53) (Retool)</description>
+		<version>2026-07-08 07-16-53</version>
+		<date>2026-08-12 03-04-37</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Let's Go Island 3D (World)" id="122153">
+		<category>Games</category>
+		<description>Let's Go Island 3D (World)</description>
+		<serial>DVR-0038</serial>
+		<version>1.00.00</version>
+		<rom name="Let's Go Island 3D (World).iso" size="2779447296" crc="be14e42e" md5="289afeadcc1a24cff29e5c106f7dd2f5" sha1="0ddebbe8aef351098851ced5dc30d5dea91ae849"/>
+	</game>
+	<game name="Virtua Tennis 4 (Export) (En,Fr,De,Es,It)" id="120235">
+		<category>Games</category>
+		<description>Virtua Tennis 4 (Export) (En,Fr,De,Es,It)</description>
+		<serial>DVR-0045</serial>
+		<version>1.00</version>
+		<rom name="Virtua Tennis 4 (Export) (En,Fr,De,Es,It).iso" size="3526230016" crc="255fe16a" md5="6c4ac17bd5d1911d8b520e2148abd802" sha1="75d3935041765202c4ff8d66abd59ec87484eff4"/>
+	</game>
+</datafile>

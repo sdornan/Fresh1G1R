@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Video CD (Retool)</name>
+		<description>Video CD (1) (-ly) [-aAbBcdDefkmMopPruv] (2026-07-27 14-43-20) (Retool)</description>
+		<version>2026-07-27 14-43-20</version>
+		<date>2026-08-12 03-05-49</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Scrooged (Europe) (Disc 2)" id="116389">
+		<category>Games</category>
+		<description>Scrooged (Europe) (Disc 2)</description>
+		<rom name="Scrooged (Europe) (Disc 2) (Track 1).bin" size="4762800" crc="8feb1cd4" md5="120c1a078d15536f168fbd78f521cc5b" sha1="34e7d823b70e9b7f572e433474b4c784baa3ae3e"/>
+		<rom name="Scrooged (Europe) (Disc 2) (Track 2).bin" size="432718608" crc="09bb3b73" md5="f1c5858dfb895530ffbae7b944725d3a" sha1="9e3f190106080e60eb8d6b181f745c5b3fcd6daa"/>
+		<rom name="Scrooged (Europe) (Disc 2).cue" size="365" crc="b3e21635" md5="cbfbf08ed005a2261861d7f8a2789a80" sha1="12a6b24f7fe1042bf636bb6f698ce6d9123b67eb"/>
+	</game>
+</datafile>

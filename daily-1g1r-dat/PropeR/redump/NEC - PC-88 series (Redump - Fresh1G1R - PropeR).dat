@@ -3,15 +3,15 @@
 <datafile>
 	<header>
 		<name>NEC - PC-88 series (Retool)</name>
-		<description>NEC - PC-88 series (2) (-y) [-aAbBcdkmMpPuv] (2025-05-19 08-26-21) (Retool)</description>
-		<version>2025-05-19 08-26-21</version>
-		<date>2026-08-11 04-00-09</date>
-		<author>redump.org</author>
+		<description>NEC - PC-88 series (2) (-y) [-aAbBcdkmMpPuv] (2026-07-03 10-16-05) (Retool)</description>
+		<version>2026-07-03 10-16-05</version>
+		<date>2026-08-12 03-08-55</date>
+		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
-		<url>http://redump.org/</url>
+		<url>https://redump.info/</url>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
-	<game name="DIOS (Japan)">
+	<game name="DIOS (Japan)" id="119031">
 		<category>Games</category>
 		<description>DIOS (Japan)</description>
 		<rom name="DIOS (Japan) (Track 1).bin" size="30517200" crc="324ba477" md5="d967ed268199dfbaff8e0c3a0d8abb55" sha1="07d617f9c9a163a535fa1750a3eb11ca83ff4a25"/>
@@ -19,7 +19,7 @@
 		<rom name="DIOS (Japan) (Track 3).bin" size="116932032" crc="b73b2425" md5="93bdd1770889525e6762177dd282fde5" sha1="3090b6883dc952832d5770f56abe6943a87bdc94"/>
 		<rom name="DIOS (Japan).cue" size="967" crc="b3b904dc" md5="85b0ec78090b375a3d776ab75cffbaba" sha1="23e9691e13139a3d872faf6fd7a870e60b53bad2"/>
 	</game>
-	<game name="Mirrors (Japan)">
+	<game name="Mirrors (Japan)" id="124114">
 		<category>Games</category>
 		<description>Mirrors (Japan)</description>
 		<rom name="Mirrors (Japan) (Track 01).bin" size="30870000" crc="430afefc" md5="34d819ab33292d52920c60d265fb9ca9" sha1="9a41d1e4f3afe4f92ef974bca15d17016c62bc0a"/>

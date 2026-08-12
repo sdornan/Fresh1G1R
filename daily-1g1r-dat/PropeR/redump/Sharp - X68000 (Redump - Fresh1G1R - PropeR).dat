@@ -3,15 +3,15 @@
 <datafile>
 	<header>
 		<name>Sharp - X68000 (Retool)</name>
-		<description>Sharp - X68000 (4) (-y) [-aAbBcdkmMpPuv] (2025-06-16 20-51-40) (Retool)</description>
-		<version>2025-06-16 20-51-40</version>
-		<date>2026-08-11 04-00-30</date>
-		<author>redump.org</author>
+		<description>Sharp - X68000 (4) (-y) [-aAbBcdkmMpPuv] (2026-07-03 10-16-56) (Retool)</description>
+		<version>2026-07-03 10-16-56</version>
+		<date>2026-08-12 03-09-49</date>
+		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
-		<url>http://redump.org/</url>
+		<url>https://redump.info/</url>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
-	<game name="Ano, Subarashii o Mou Ichido (Japan)">
+	<game name="Ano, Subarashii o Mou Ichido (Japan)" id="82871">
 		<category>Games</category>
 		<description>Ano, Subarashii o Mou Ichido (Japan)</description>
 		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 01).bin" size="140404992" crc="7dbc04c6" md5="9effc1edfb6917553ca22b3f66e0c574" sha1="05e8c86571557ad6091178511bf390d672454d71"/>
@@ -33,19 +33,19 @@
 		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 17).bin" size="38314080" crc="ccd1f835" md5="68fe71d45a016c4eca2a6c44f4792e84" sha1="01eef1898446fcce4f0ad06cd190fb8f348077d9"/>
 		<rom name="Ano, Subarashii o Mou Ichido (Japan).cue" size="2487" crc="579ee498" md5="73be13db6707ca71cdf3723b628a1947" sha1="06d0fea583eef33aa3cc2eec14d7fc29f11d6f14"/>
 	</game>
-	<game name="Ran2 1999 Deco (Japan)">
+	<game name="Ran2 1999 Deco (Japan)" id="90865">
 		<category>Add-Ons</category>
 		<description>Ran2 1999 Deco (Japan)</description>
 		<rom name="Ran2 1999 Deco (Japan).bin" size="201829824" crc="956d0358" md5="d1c136a0ee2058edb0fde81520af1d11" sha1="7f77e243ecd85c4f834f11121fecfdb23f389212"/>
 		<rom name="Ran2 1999 Deco (Japan).cue" size="88" crc="24110381" md5="e54c2712ee8cccb46c7ef94593be420b" sha1="271209d0f4afdcc7fa2dc10848c30cc91a6100cd"/>
 	</game>
-	<game name="Secret of Video Architecture (Japan)">
+	<game name="Secret of Video Architecture (Japan)" id="112852">
 		<category>Educational</category>
 		<description>Secret of Video Architecture (Japan)</description>
 		<rom name="Secret of Video Architecture (Japan).bin" size="14530656" crc="2b401eb8" md5="a110c3c12a951b4754d2348913dede48" sha1="16eb5191267cab5a6dafa482af2095bae6b084c5"/>
 		<rom name="Secret of Video Architecture (Japan).cue" size="117" crc="079484c1" md5="9dcb2e275158041d3674ff44052d2a49" sha1="86c280efebabb993fb94ef97d169ab626d9cdb17"/>
 	</game>
-	<game name="X68000 EX-System (Japan)">
+	<game name="X68000 EX-System (Japan)" id="125092">
 		<category>Bonus Discs</category>
 		<description>X68000 EX-System (Japan)</description>
 		<rom name="X68000 EX-System (Japan).bin" size="419625024" crc="f5c57576" md5="85579a4e55dee8f06d0e1cd301cd9491" sha1="3f05a922d88761607bd122d2f0979f90a848b4c6"/>

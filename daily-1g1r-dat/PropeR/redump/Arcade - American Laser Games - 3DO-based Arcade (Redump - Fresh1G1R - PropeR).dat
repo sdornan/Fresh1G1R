@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - American Laser Games - 3DO-based Arcade (Retool)</name>
+		<description>Arcade - American Laser Games - 3DO-based Arcade (4) (-y) [-aAbBcdkmMpPuv] (2026-08-04 13-54-54) (Retool)</description>
+		<version>2026-08-04 13-54-54</version>
+		<date>2026-08-12 03-05-56</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Crime Patrol (USA)" id="118129">
+		<category>Games</category>
+		<description>Crime Patrol (USA)</description>
+		<rom name="Crime Patrol (USA).bin" size="657360480" crc="c56c89f0" md5="ce4b8ca7e1407d2859e7db452e87ca20" sha1="dccba406624db2d24a0ab5a973d173f12015a8bd"/>
+		<rom name="Crime Patrol (USA).cue" size="107" crc="94bd6b76" md5="8b8eddd10e32fc38c2d0d02de39d13cf" sha1="d3d159b6a5ff1a0f0f8bb4b3a77ee812407717e1"/>
+	</game>
+	<game name="Mad Dog II - The Lost Gold (USA)" id="105593">
+		<category>Games</category>
+		<description>Mad Dog II - The Lost Gold (USA)</description>
+		<rom name="Mad Dog II - The Lost Gold (USA).bin" size="647726688" crc="a6c8cc2a" md5="660e316c948c6f89b07ba42389dab8f2" sha1="621dcea07582ed4e4480943b6f2c8d7e27436022"/>
+		<rom name="Mad Dog II - The Lost Gold (USA).cue" size="121" crc="8913c0b0" md5="b10fd151ab753c398260bd25a3f435a5" sha1="a044bf068b523933789531c5ae8ff61f3997e235"/>
+	</game>
+	<game name="Orbatak (USA)" id="118130">
+		<category>Games</category>
+		<description>Orbatak (USA)</description>
+		<rom name="Orbatak (USA).bin" size="139544160" crc="9dc08632" md5="a95d16e5965d85364d17636f27442a68" sha1="fd0debe9743791d28cd426724b72f1fba3b4090d"/>
+		<rom name="Orbatak (USA).cue" size="102" crc="c1c7947f" md5="e9f0a5a675cce3d95aecdc0a97f3e0dc" sha1="e948998231676cb96f7af189d665cd2840d4c415"/>
+	</game>
+	<game name="Shootout at Old Tucson (USA) (RE3)" id="121045">
+		<category>Games</category>
+		<description>Shootout at Old Tucson (USA) (RE3)</description>
+		<rom name="Shootout at Old Tucson (USA) (RE3).bin" size="145565280" crc="bc59f97d" md5="18dcdbb18f2fa99bc0c5ec6a887f8021" sha1="32c161a8819ac7145fbe815588daef71d5505847"/>
+		<rom name="Shootout at Old Tucson (USA) (RE3).cue" size="123" crc="9d567a78" md5="c1c266f3faf4072eee92218d8c778d74" sha1="9ad9c782580d66be623000bcee0a81307eeaf852"/>
+	</game>
+</datafile>

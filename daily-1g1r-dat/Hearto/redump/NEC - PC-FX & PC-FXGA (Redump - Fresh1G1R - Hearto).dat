@@ -3,15 +3,15 @@
 <datafile>
 	<header>
 		<name>NEC - PC-FX &amp; PC-FXGA (Retool)</name>
-		<description>NEC - PC-FX &amp; PC-FXGA (67) (-y) [-aAbBcefkmMoprv] (2025-05-14 23-35-09) (Retool)</description>
-		<version>2025-05-14 23-35-09</version>
-		<date>2026-08-11 03-56-43</date>
-		<author>redump.org</author>
+		<description>NEC - PC-FX &amp; PC-FXGA (67) (-y) [-aAbBcefkmMoprv] (2026-07-28 12-33-08) (Retool)</description>
+		<version>2026-07-28 12-33-08</version>
+		<date>2026-08-12 02-58-58</date>
+		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
-		<url>http://redump.org/</url>
+		<url>https://redump.info/</url>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
-	<game name="Aa Megami-sama (Japan) (Disc 1)">
+	<game name="Aa Megami-sama (Japan) (Disc 1)" id="47960">
 		<category>Games</category>
 		<description>Aa Megami-sama (Japan) (Disc 1)</description>
 		<rom name="Aa Megami-sama (Japan) (Disc 1) (Track 1).bin" size="24176208" crc="39721234" md5="38bf81014812b9bb1fe6d674e5c07da8" sha1="e93e2451644aa19254c1bcb7bcea942e6a26e175"/>
@@ -19,7 +19,7 @@
 		<rom name="Aa Megami-sama (Japan) (Disc 1) (Track 3).bin" size="541075248" crc="1d65b6fc" md5="41cbbfdad1649c77de475acb22b2e133" sha1="2fdfd3f83d1d52a34d5442d32f899353beec58c7"/>
 		<rom name="Aa Megami-sama (Japan) (Disc 1).cue" size="362" crc="0454af8d" md5="f6c18e4f9ca8fa41944378df91c76fb7" sha1="dc7725c14633038174d6e1e70892726bf6dcb2df"/>
 	</game>
-	<game name="Aa Megami-sama (Japan) (Disc 2)">
+	<game name="Aa Megami-sama (Japan) (Disc 2)" id="47961">
 		<category>Games</category>
 		<description>Aa Megami-sama (Japan) (Disc 2)</description>
 		<rom name="Aa Megami-sama (Japan) (Disc 2) (Track 1).bin" size="23374176" crc="cd00e149" md5="f71af34cf9b48b4277686166dc707e2f" sha1="d11b81523c678b93506623ce2e92da887f968d03"/>
@@ -27,7 +27,7 @@
 		<rom name="Aa Megami-sama (Japan) (Disc 2) (Track 3).bin" size="472664976" crc="9dd3e825" md5="bcb32047afa02df42d17f4348e669558" sha1="16692c6d15d1baca395c5e8ceefac05735f168c8"/>
 		<rom name="Aa Megami-sama (Japan) (Disc 2).cue" size="362" crc="51e46bac" md5="9502d3d6415871d6529da428c601f999" sha1="16ed377f277685ad7add964412350602fc3de43d"/>
 	</game>
-	<game name="Akazukin ChaCha - Osawagase! Panic Race! (Japan)">
+	<game name="Akazukin ChaCha - Osawagase! Panic Race! (Japan)" id="52295">
 		<category>Games</category>
 		<description>Akazukin ChaCha - Osawagase! Panic Race! (Japan)</description>
 		<rom name="Akazukin ChaCha - Osawagase! Panic Race! (Japan) (Track 1).bin" size="11437776" crc="91ea6a9d" md5="195af2a2dfc4c83ed986244b6885ddae" sha1="afe488108e7a50eb077a39c39b24ee81dee02b36"/>
@@ -38,7 +38,7 @@
 		<rom name="Akazukin ChaCha - Osawagase! Panic Race! (Japan) (Track 6).bin" size="8170848" crc="64bd403b" md5="68d84ee0190e2cbdfef0a3e15655de77" sha1="16de5a04b3cded4f822e25f44ffc7c9e2931bd0e"/>
 		<rom name="Akazukin ChaCha - Osawagase! Panic Race! (Japan).cue" size="788" crc="1970d285" md5="c8f1cad1388a3e4ffed6aecc67a045a1" sha1="4ed4914233e0b9fb3006540b4545da72ecbb0dd9"/>
 	</game>
-	<game name="Albaria no Otome (Japan)">
+	<game name="Albaria no Otome (Japan)" id="47744">
 		<category>Games</category>
 		<description>Albaria no Otome (Japan)</description>
 		<rom name="Albaria no Otome (Japan) (Track 01).bin" size="5070912" crc="bd7a8ed8" md5="05adf983df07ac0f72f44373b6195452" sha1="d2ccbdc2ba5acfdfe423d9191e369f683d021dec"/>
@@ -62,19 +62,19 @@
 		<rom name="Albaria no Otome (Japan) (Track 19).bin" size="166855584" crc="b67dff5f" md5="18d67f2a715591b25a3e1bf9996e0f8f" sha1="1d2404d32f0d8eb2d05cef27c2a8448c75c845ef"/>
 		<rom name="Albaria no Otome (Japan).cue" size="1960" crc="e79a19a9" md5="01c84053364ebf3d2b2af805a591ab40" sha1="729bcf5f67f4dc999c4334d1aeb77a5f9c944dad"/>
 	</game>
-	<game name="Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA)">
+	<game name="Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA)" id="62368">
 		<category>Demos</category>
 		<description>Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA)</description>
 		<rom name="Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA).bin" size="559235040" crc="3f7305d5" md5="786894226fb52c2bb533c0d5e93bd1d2" sha1="75cf769eed97277ea266a5448a6f658f69cf199a"/>
 		<rom name="Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA).cue" size="145" crc="2addcaf1" md5="4c9c27251d1efbb54e763d8912c4aab6" sha1="548ec6c5cb04963aa637cdb125c6715e3f7a4cc1"/>
 	</game>
-	<game name="Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA)">
+	<game name="Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA)" id="20033">
 		<category>Demos</category>
 		<description>Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA)</description>
 		<rom name="Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA).bin" size="563764992" crc="bf8e82f3" md5="da53e5a17fc963bf40beec2e5112d208" sha1="4857e4ec665f4af2fe56da9e2441223b1804208f"/>
 		<rom name="Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA).cue" size="133" crc="4816cda4" md5="2846507942facc0d94f01a1e0b7b8972" sha1="9cd2eb257ede30e373a0ab91a97d94dd94f01f0d"/>
 	</game>
-	<game name="Angelique - Tenkuu no Requiem (Japan)">
+	<game name="Angelique - Tenkuu no Requiem (Japan)" id="47962">
 		<category>Games</category>
 		<description>Angelique - Tenkuu no Requiem (Japan)</description>
 		<rom name="Angelique - Tenkuu no Requiem (Japan) (Track 1).bin" size="9807840" crc="f6e8e806" md5="269366677591eef57067cab7adff44e4" sha1="03732c9a21c25a3cbdc1b9240dad793b8a942a9b"/>
@@ -83,7 +83,7 @@
 		<rom name="Angelique - Tenkuu no Requiem (Japan) (Track 4).bin" size="358289568" crc="bae584dc" md5="f95ff7598c3b20ee58d65e9e8bf4241c" sha1="1cf5af4ffc273336dfc7e92e9727d0b679e37c1c"/>
 		<rom name="Angelique - Tenkuu no Requiem (Japan).cue" size="1160" crc="00db7b72" md5="81d70e233d47ccf73b4684c33315f739" sha1="22c5acda02de4d868ab971ede789d311969bfdec"/>
 	</game>
-	<game name="Angelique Special (Japan)">
+	<game name="Angelique Special (Japan)" id="52144">
 		<category>Games</category>
 		<description>Angelique Special (Japan)</description>
 		<rom name="Angelique Special (Japan) (Track 1).bin" size="9807840" crc="f6e8e806" md5="269366677591eef57067cab7adff44e4" sha1="03732c9a21c25a3cbdc1b9240dad793b8a942a9b"/>
@@ -94,7 +94,7 @@
 		<rom name="Angelique Special (Japan) (Track 6).bin" size="10162992" crc="48e700d1" md5="fd643092897bf970208fb8738a58f0bf" sha1="c9d4c9292da06c83e7fc3bb60c1a12507acf3ec9"/>
 		<rom name="Angelique Special (Japan).cue" size="780" crc="a3f9842a" md5="e8ed1ab32692a9402591d78f86464969" sha1="992d35d320e437ac36f5d4792a512a7b795a798d"/>
 	</game>
-	<game name="Angelique Special 2 (Japan)">
+	<game name="Angelique Special 2 (Japan)" id="52296">
 		<category>Games</category>
 		<description>Angelique Special 2 (Japan)</description>
 		<rom name="Angelique Special 2 (Japan) (Track 1).bin" size="9807840" crc="f6e8e806" md5="269366677591eef57067cab7adff44e4" sha1="03732c9a21c25a3cbdc1b9240dad793b8a942a9b"/>
@@ -102,7 +102,7 @@
 		<rom name="Angelique Special 2 (Japan) (Track 3).bin" size="727247808" crc="78b623f0" md5="9cef929eb8dc1bf8705010f80605fff9" sha1="1dc5751f2f115b8938744bd5a83be6e0b0c35600"/>
 		<rom name="Angelique Special 2 (Japan).cue" size="1063" crc="4b93578f" md5="2c26fee1578e78e6b3b966159a916aee" sha1="5df51c05bae4bc208efe30a13a462a3dbab2e5fa"/>
 	</game>
-	<game name="Battle Heat (Japan)">
+	<game name="Battle Heat (Japan)" id="35926">
 		<category>Games</category>
 		<description>Battle Heat (Japan)</description>
 		<rom name="Battle Heat (Japan) (Track 01).bin" size="9984240" crc="ffbd46cf" md5="fd4de25e8dc4adfdca7d23487eb18616" sha1="6f2693dbcf9cbec5ee4799539a73e69ecb633974"/>
@@ -129,14 +129,14 @@
 		<rom name="Battle Heat (Japan) (Track 22).bin" size="3036432" crc="f05ef9d1" md5="879b50f013dcb3b8f1978c2686e160b7" sha1="6196c344fa902b27e977e1aadb804d7a31585752"/>
 		<rom name="Battle Heat (Japan).cue" size="2166" crc="c810af33" md5="22915c8b2cc02be3bf6f07d41ba89386" sha1="60dbc2369fd5d1d23c65bac38ec37d479b25840b"/>
 	</game>
-	<game name="Blue Breaker - Ken yori mo Hohoemi o (Japan)">
+	<game name="Blue Breaker - Ken yori mo Hohoemi o (Japan)" id="46436">
 		<category>Games</category>
 		<description>Blue Breaker - Ken yori mo Hohoemi o (Japan)</description>
 		<rom name="Blue Breaker - Ken yori mo Hohoemi o (Japan) (Track 1).bin" size="13121808" crc="765e237a" md5="6691f5b8a7e03ad971cedc5b3f383e6c" sha1="e29d875f28eae7d30faeacbe86f1c426c51f0a0d"/>
 		<rom name="Blue Breaker - Ken yori mo Hohoemi o (Japan) (Track 2).bin" size="727650000" crc="af3882f4" md5="b110038646490f5cddbf7212495b9db4" sha1="0a1dc5691bf64c6c35339db999f03fae5810b3c1"/>
 		<rom name="Blue Breaker - Ken yori mo Hohoemi o (Japan).cue" size="2213" crc="6379669f" md5="2d6c86c694fc0baae32a7d6b16af373e" sha1="b642290e4f5b705a50d9e00f8e0d877a27bbb3a8"/>
 	</game>
-	<game name="Boundary Gate - Daughter of Kingdom (Japan)">
+	<game name="Boundary Gate - Daughter of Kingdom (Japan)" id="53947">
 		<category>Games</category>
 		<description>Boundary Gate - Daughter of Kingdom (Japan)</description>
 		<rom name="Boundary Gate - Daughter of Kingdom (Japan) (Track 01).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
@@ -232,7 +232,7 @@
 		<rom name="Boundary Gate - Daughter of Kingdom (Japan) (Track 91).bin" size="710304" crc="ca434be4" md5="dba0d7aff5c32e951072b67189e7135a" sha1="cc46812e203447add365f21c1b3e115dd1d2190f"/>
 		<rom name="Boundary Gate - Daughter of Kingdom (Japan).cue" size="10539" crc="3def1a9d" md5="d031de5f533303287fe0b805f9fa87f3" sha1="6b44948376a338ec7b467574149955c205c3d503"/>
 	</game>
-	<game name="Can Can Bunny Extra DX (Japan)">
+	<game name="Can Can Bunny Extra DX (Japan)" id="37890">
 		<category>Games</category>
 		<description>Can Can Bunny Extra DX (Japan)</description>
 		<rom name="Can Can Bunny Extra DX (Japan) (Track 1).bin" size="6552672" crc="032abddc" md5="85bd4b8994fc0114b18724d3e8b43970" sha1="966d4511ae5d160be51098c67762d6eec8178d40"/>
@@ -244,7 +244,7 @@
 		<rom name="Can Can Bunny Extra DX (Japan) (Track 7).bin" size="16205280" crc="fa614964" md5="4bbe6b0855473b8f4234bd75dd07d9d7" sha1="ae7c666ef79f62beab43d5157e721ec6d2673bb7"/>
 		<rom name="Can Can Bunny Extra DX (Japan).cue" size="924" crc="1d90c909" md5="67fb95e88cba6e5838257e98de25665b" sha1="209ee847bc5d0db26dca68f1c21232ebcc609e9f"/>
 	</game>
-	<game name="Chip-chan Kick! (Japan)">
+	<game name="Chip-chan Kick! (Japan)" id="58925">
 		<category>Games</category>
 		<description>Chip-chan Kick! (Japan)</description>
 		<rom name="Chip-chan Kick! (Japan) (Track 01).bin" size="11531856" crc="298af582" md5="d42d739fbb0eca8085a698fcd21ca449" sha1="778d3ac571e4bed9c0e3b8c043caa4f9aa7a42f1"/>
@@ -272,7 +272,7 @@
 		<rom name="Chip-chan Kick! (Japan) (Track 23).bin" size="39918144" crc="6c17e94a" md5="d8ce9b9ee7f6455b4a0c398e1399d986" sha1="442c331c87c3c6df28f1f3efc67aaec34d79c1e2"/>
 		<rom name="Chip-chan Kick! (Japan).cue" size="2259" crc="2ab5ebaa" md5="604d3e09d8e30e489c17dc9a37c4da79" sha1="0e063b1b1b95bc1b0a2640b0a74112dbbbd7c065"/>
 	</game>
-	<game name="Choujin Heiki Zeroigar (Japan)">
+	<game name="Choujin Heiki Zeroigar (Japan)" id="65782">
 		<category>Games</category>
 		<description>Choujin Heiki Zeroigar (Japan)</description>
 		<rom name="Choujin Heiki Zeroigar (Japan) (Track 1).bin" size="4132464" crc="a2c3b9ea" md5="8c0d7cb8481da172c254594ebafe3648" sha1="a2b38ec2e057274dfd03d065c717f5b6b105bc8d"/>
@@ -282,7 +282,7 @@
 		<rom name="Choujin Heiki Zeroigar (Japan) (Track 5).bin" size="130472496" crc="11024894" md5="0009089b74423117a3aa7bcf501e42e0" sha1="d5eb5472238fc4d4e94add8da78325dd44b1dab0"/>
 		<rom name="Choujin Heiki Zeroigar (Japan).cue" size="579" crc="e7f263bb" md5="606db3e9c5e1dbfd3cd6dd53f5759887" sha1="ae430b90b1664fa76ec750e33c84669f424dc6f2"/>
 	</game>
-	<game name="Comic Road (Japan)">
+	<game name="Comic Road (Japan)" id="52302">
 		<category>Games</category>
 		<description>Comic Road (Japan)</description>
 		<rom name="Comic Road (Japan) (Track 1).bin" size="9424464" crc="bef36018" md5="c9600185c8ccbcb6d7343d2d9906c584" sha1="4540f7671645da78907fafb2af83688fb23a1084"/>
@@ -290,14 +290,14 @@
 		<rom name="Comic Road (Japan) (Track 3).bin" size="765985248" crc="6d77683f" md5="0a6e05746450d165d955cc5610f99bde" sha1="c28ab02fba4fbf9b6377758f90ba99054982092e"/>
 		<rom name="Comic Road (Japan).cue" size="323" crc="f87405be" md5="194eff569e7f4bb602ec3257b5316b9f" sha1="45be55eba89a4e94f3d9f7c18c6afbbf63a40717"/>
 	</game>
-	<game name="Cutey Honey FX (Japan)">
+	<game name="Cutey Honey FX (Japan)" id="57884">
 		<category>Games</category>
 		<description>Cutey Honey FX (Japan)</description>
 		<rom name="Cutey Honey FX (Japan) (Track 1).bin" size="9807840" crc="aecbdc16" md5="74b79d39a38ec2b7aad976b218ec419c" sha1="ffae85763f581d312abb6b5096f6f7d62e771aae"/>
 		<rom name="Cutey Honey FX (Japan) (Track 2).bin" size="656549040" crc="737d68bd" md5="295f1f431c7101a02db29f6e3f32a042" sha1="1dd574364e40cb90dd0ff25940fe8df9e6793edf"/>
 		<rom name="Cutey Honey FX (Japan).cue" size="237" crc="04aa1bac" md5="6a956145a5b8cdd815fa89d5849f24dc" sha1="bcf1b3b1036b6c5edadb119925e1525579a1a008"/>
 	</game>
-	<game name="Doukyuusei 2 (Japan)">
+	<game name="Doukyuusei 2 (Japan)" id="37882">
 		<category>Games</category>
 		<description>Doukyuusei 2 (Japan)</description>
 		<rom name="Doukyuusei 2 (Japan) (Track 1).bin" size="9984240" crc="fa6859da" md5="c6c2a7ff15f787c4cf008ae457e10f49" sha1="f9cefe79e72dc154952d60e80d16a84817e4b089"/>
@@ -310,7 +310,7 @@
 		<rom name="Doukyuusei 2 (Japan) (Track 8).bin" size="26300064" crc="8a71f567" md5="d597479b39b28538e932bfdcb3d3508c" sha1="4559420b4de1ed3b5ffca276f9b0d1d20f8e7335"/>
 		<rom name="Doukyuusei 2 (Japan).cue" size="794" crc="7dbd4a55" md5="5f1933f1f94c8d48b7bb04884239e2fd" sha1="581794309e4731b068cde8dfb93174dd5ea39f65"/>
 	</game>
-	<game name="Dragon Knight 4 (Japan)">
+	<game name="Dragon Knight 4 (Japan)" id="37883">
 		<category>Games</category>
 		<description>Dragon Knight 4 (Japan)</description>
 		<rom name="Dragon Knight 4 (Japan) (Track 1).bin" size="9984240" crc="63d02360" md5="d4126cc40a2a04de03ec7882f8e5002a" sha1="9522a63973ae00dc273c9ee1b52b8ff5c95f59cf"/>
@@ -319,7 +319,7 @@
 		<rom name="Dragon Knight 4 (Japan) (Track 4).bin" size="51377088" crc="e2b31f7a" md5="52f711a0efa9cc18047a3665896de9b2" sha1="d7ec0791cbd6af89ae15bde28527c9eef58efac8"/>
 		<rom name="Dragon Knight 4 (Japan).cue" size="427" crc="06b16966" md5="00ebbb54d6156b5f5aa53c100eea7df9" sha1="ac0ed2ddcc7ee83023a2acdfec9c08b89cac0a30"/>
 	</game>
-	<game name="Farland Story FX (Japan)">
+	<game name="Farland Story FX (Japan)" id="37888">
 		<category>Games</category>
 		<description>Farland Story FX (Japan)</description>
 		<rom name="Farland Story FX (Japan) (Track 1).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
@@ -329,14 +329,14 @@
 		<rom name="Farland Story FX (Japan) (Track 5).bin" size="9495024" crc="b514239b" md5="fb456a281ffe37718adbe6b0b0f8eb45" sha1="51026c02b8f16a8804a16f504191ec5b5407bddd"/>
 		<rom name="Farland Story FX (Japan).cue" size="549" crc="5a87cd63" md5="0cf320bbdea931e07b2f6d9372942f86" sha1="8df651af71ccd1976bc1cb34657ee77cdd29834f"/>
 	</game>
-	<game name="Fire Woman Matoigumi (Japan)">
+	<game name="Fire Woman Matoigumi (Japan)" id="37884">
 		<category>Games</category>
 		<description>Fire Woman Matoigumi (Japan)</description>
 		<rom name="Fire Woman Matoigumi (Japan) (Track 1).bin" size="11687088" crc="4d24ecd2" md5="22c3df6c39ee7f7b559159587bf358e0" sha1="d843849a3879560e0f53a4c126b6a43c368ddc82"/>
 		<rom name="Fire Woman Matoigumi (Japan) (Track 2).bin" size="594573840" crc="ad52b608" md5="3a4b4d09b30cf61392c373a7018f22d0" sha1="153c8a5c3bfedf1432ca4d8911984acf86004917"/>
 		<rom name="Fire Woman Matoigumi (Japan).cue" size="410" crc="c0227a89" md5="a132751829eb740251b84e005e751e01" sha1="7d05aaffff00dd94b2627dcbcc8933eb5298cedb"/>
 	</game>
-	<game name="First Kiss Story (Japan)">
+	<game name="First Kiss Story (Japan)" id="46354">
 		<category>Games</category>
 		<description>First Kiss Story (Japan)</description>
 		<rom name="First Kiss Story (Japan) (Track 1).bin" size="2660112" crc="b6c9a477" md5="b8f32545e3cfc0e16178588a3231bea8" sha1="21136318a2410973a30b497e996fc340c878c492"/>
@@ -345,7 +345,7 @@
 		<rom name="First Kiss Story (Japan) (Track 4).bin" size="1206576" crc="054628fd" md5="78069565da2b5507a49bb49371c89776" sha1="30907381e21333f0d604387f8484d4a9aa1cdf9f"/>
 		<rom name="First Kiss Story (Japan).cue" size="592" crc="8a8efa27" md5="94f5083fecac4ddc2e443faec2bebf37" sha1="f73d89ae2af89a9f48b1a9770b4c34dbbd064ef5"/>
 	</game>
-	<game name="Fushigi no Kuni no Angelique (Japan)">
+	<game name="Fushigi no Kuni no Angelique (Japan)" id="37887">
 		<category>Games</category>
 		<description>Fushigi no Kuni no Angelique (Japan)</description>
 		<rom name="Fushigi no Kuni no Angelique (Japan) (Track 1).bin" size="9807840" crc="f6e8e806" md5="269366677591eef57067cab7adff44e4" sha1="03732c9a21c25a3cbdc1b9240dad793b8a942a9b"/>
@@ -356,14 +356,14 @@
 		<rom name="Fushigi no Kuni no Angelique (Japan) (Track 6).bin" size="208662384" crc="503f3981" md5="0c0a09295b60d7e366b57701b9ac8689" sha1="cc001cbd8925e93feb2a306133e335498b5d4153"/>
 		<rom name="Fushigi no Kuni no Angelique (Japan).cue" size="782" crc="ed4a6c18" md5="2e4ea3dcdfd6fc9d3a5ca0db315900a5" sha1="db4d2bed042f539d9df67ec7159eff6da873748d"/>
 	</game>
-	<game name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)">
+	<game name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)" id="53948">
 		<category>Games</category>
 		<description>Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)</description>
 		<rom name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Track 1).bin" size="4823952" crc="4ba6f276" md5="5615778e99545d00d2230cb511cabc26" sha1="6752bafc6dfa497966aeab0f3046d58d36d19253"/>
 		<rom name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Track 2).bin" size="704790912" crc="8c238e83" md5="b108f577ca985063e0c70603c7e3daab" sha1="ed38ff6032da55e2b3a4eabe5a1d608bc0449e0f"/>
 		<rom name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan).cue" size="315" crc="f92bb82d" md5="a8e8a102ee6baad58a227b89e44b4eaa" sha1="d57c53498e6ae2e607a3a617f8b7c0cf7c95504c"/>
 	</game>
-	<game name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample)">
+	<game name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample)" id="47751">
 		<category>Demos</category>
 		<description>Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample)</description>
 		<rom name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample) (Track 1).bin" size="9984240" crc="2c16074d" md5="956693b304fa66f556c043b955a4eeb7" sha1="7fdda49be9a35174b819065e190a14b07a47196d"/>
@@ -371,7 +371,7 @@
 		<rom name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample) (Track 3).bin" size="21292656" crc="6eea34fb" md5="0c5b455499b642d460a5d3f45464ee9c" sha1="494aab985a7429827826d529760e1c82f167b551"/>
 		<rom name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample).cue" size="456" crc="702ad6d2" md5="23eb6c9e0c495ebc4ccebba9a3235903" sha1="bd503715117a41c72bd4e848b083b9e33ea19a50"/>
 	</game>
-	<game name="Hataraku Shoujo - Tekipaki Working Love FX (Japan)">
+	<game name="Hataraku Shoujo - Tekipaki Working Love FX (Japan)" id="53949">
 		<category>Games</category>
 		<description>Hataraku Shoujo - Tekipaki Working Love FX (Japan)</description>
 		<rom name="Hataraku Shoujo - Tekipaki Working Love FX (Japan) (Track 1).bin" size="5289648" crc="015a30d7" md5="859f94634dde81b277d3959f5db2284e" sha1="94a4c84d5baa69fe966b3a5693352258fe1f3135"/>
@@ -381,7 +381,7 @@
 		<rom name="Hataraku Shoujo - Tekipaki Working Love FX (Japan) (Track 5).bin" size="40202736" crc="0107b010" md5="145a0163c9ddc07194d665847ae6663f" sha1="88b86298c198ba121fea95ec4f418010b80a3dfa"/>
 		<rom name="Hataraku Shoujo - Tekipaki Working Love FX (Japan).cue" size="684" crc="a5d3b43b" md5="49a555e5f0a2c3a06239e2e7943bbc57" sha1="47075d7776384f79c50758b1c7c4dd2531a56018"/>
 	</game>
-	<game name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)">
+	<game name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)" id="46373">
 		<category>Games</category>
 		<description>J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)</description>
 		<rom name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1) (Track 1).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
@@ -389,7 +389,7 @@
 		<rom name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1) (Track 3).bin" size="1157184" crc="8f08390b" md5="47b769428658c9ffd9584cae7dddad0c" sha1="ad7975141bc193f63f54fb597803d47ac2f690c1"/>
 		<rom name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).cue" size="437" crc="a0e9805e" md5="3307eb7eb03d06c17ef87ec4cf8d069a" sha1="4fd77578bdc49b9c96915b3b5f0bee7d4fc03ad9"/>
 	</game>
-	<game name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)">
+	<game name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)" id="46374">
 		<category>Games</category>
 		<description>J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)</description>
 		<rom name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 2) (Track 1).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
@@ -398,7 +398,7 @@
 		<rom name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 2) (Track 4).bin" size="804384" crc="cf9a1247" md5="854cf4fc434bced25e52118750a14640" sha1="562294014b9804eb6a5b580346a66520be8c8544"/>
 		<rom name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).cue" size="558" crc="46532ef0" md5="d2f3584b99162add439c8d9af3783b2a" sha1="23822ecd199ba84ad51fa1314e5023efbb15e88b"/>
 	</game>
-	<game name="Kishin Douji Zenki FX - Vajra Fight (Japan)">
+	<game name="Kishin Douji Zenki FX - Vajra Fight (Japan)" id="67251">
 		<category>Games</category>
 		<description>Kishin Douji Zenki FX - Vajra Fight (Japan)</description>
 		<rom name="Kishin Douji Zenki FX - Vajra Fight (Japan) (Track 01).bin" size="16513392" crc="e29b69f3" md5="5dd1d11d5c16f39c6385c0f3dab9be58" sha1="2adc6a0247d66d0f517722e2192cff1ff582b6fd"/>
@@ -423,14 +423,14 @@
 		<rom name="Kishin Douji Zenki FX - Vajra Fight (Japan) (Track 20).bin" size="15784272" crc="82e69c1c" md5="4ac6141d8a7d85a21f395a292ae7a802" sha1="ca8c8b358d30faaeae3824e1a9ce47dbfd2037a0"/>
 		<rom name="Kishin Douji Zenki FX - Vajra Fight (Japan).cue" size="2351" crc="3d4692b5" md5="8fb57636df738025688ce9b91df0bc32" sha1="592903d02cad3195dbc605b20d6f375e4e18f60c"/>
 	</game>
-	<game name="Kokuu Hyouryuu - Nirgends (Japan)">
+	<game name="Kokuu Hyouryuu - Nirgends (Japan)" id="46355">
 		<category>Games</category>
 		<description>Kokuu Hyouryuu - Nirgends (Japan)</description>
 		<rom name="Kokuu Hyouryuu - Nirgends (Japan) (Track 1).bin" size="10035984" crc="0208609f" md5="8556909e5bb4828169ffcf44bc7ac5b9" sha1="e430b7a467c2b2ea4cd4664f01e82a84cffe5d9e"/>
 		<rom name="Kokuu Hyouryuu - Nirgends (Japan) (Track 2).bin" size="766505040" crc="668c6c4b" md5="06ba237d634761fabe098fbc12a03130" sha1="5bc32449df7c474eae481d6edac28e50b7dfd7f9"/>
 		<rom name="Kokuu Hyouryuu - Nirgends (Japan).cue" size="259" crc="97731c0f" md5="dae08951f836a277b36ab181f37a8ad0" sha1="18f7baa7de5ac45a82eb22f859a60fca45d601f6"/>
 	</game>
-	<game name="Konpeki no Kantai (Japan)">
+	<game name="Konpeki no Kantai (Japan)" id="47752">
 		<category>Games</category>
 		<description>Konpeki no Kantai (Japan)</description>
 		<rom name="Konpeki no Kantai (Japan) (Track 01).bin" size="4842768" crc="9a6c0e7f" md5="2dbeb607e17f1a286c6cbb335dbcfc24" sha1="e80e7990a396a2698f0f9f2be5a528953b778c91"/>
@@ -446,7 +446,7 @@
 		<rom name="Konpeki no Kantai (Japan) (Track 11).bin" size="707952" crc="952d4578" md5="2f311ccf0bfd930319141851e7f90b71" sha1="1de39b3975d68a1e9ac80234c6bf4853214164c4"/>
 		<rom name="Konpeki no Kantai (Japan).cue" size="1141" crc="eeacde5c" md5="d7c6349c787c6eacaf8c87b60c201786" sha1="4ddd527c0c41ad6544545e71f8295a2dbd597c0e"/>
 	</game>
-	<game name="Langrisser FX, Der (Japan)">
+	<game name="Langrisser FX, Der (Japan)" id="35857">
 		<category>Games</category>
 		<description>Langrisser FX, Der (Japan)</description>
 		<rom name="Langrisser FX, Der (Japan) (Track 1).bin" size="4106592" crc="5c972620" md5="255f657ed9e73b2e9ae7801461501fca" sha1="cd288828a7bfc224f20966e5b35ad390693c8d2b"/>
@@ -454,7 +454,7 @@
 		<rom name="Langrisser FX, Der (Japan) (Track 3).bin" size="17120208" crc="41e67bc3" md5="9c1084b346c175d2209349be43687553" sha1="8acc6e4017614906dd752fa25c8ec4d1063ce826"/>
 		<rom name="Langrisser FX, Der (Japan).cue" size="365" crc="a0c5da1b" md5="da9f75fdd20a38bab932e74e704a4727" sha1="5daffe38eed60fadabd3567888cc9bc1bf8c53ed"/>
 	</game>
-	<game name="Last Imperial Prince (Japan) (Disc A)">
+	<game name="Last Imperial Prince (Japan) (Disc A)" id="47963">
 		<category>Games</category>
 		<description>Last Imperial Prince (Japan) (Disc A)</description>
 		<rom name="Last Imperial Prince (Japan) (Disc A) (Track 01).bin" size="9807840" crc="f6e8e806" md5="269366677591eef57067cab7adff44e4" sha1="03732c9a21c25a3cbdc1b9240dad793b8a942a9b"/>
@@ -483,7 +483,7 @@
 		<rom name="Last Imperial Prince (Japan) (Disc A) (Track 24).bin" size="29856288" crc="1ca74368" md5="b578641c169da1a3c7f5d8b4aa17c469" sha1="400620c4ef4dc4eee21dd04a0ceb7e50e4c38a53"/>
 		<rom name="Last Imperial Prince (Japan) (Disc A).cue" size="2723" crc="058d7d99" md5="0cfedee32d684a1440e3c7b64fc647f4" sha1="fc9daaadd2ea963fe53bfc33e98931ed76e70568"/>
 	</game>
-	<game name="Last Imperial Prince (Japan) (Disc B)">
+	<game name="Last Imperial Prince (Japan) (Disc B)" id="47964">
 		<category>Games</category>
 		<description>Last Imperial Prince (Japan) (Disc B)</description>
 		<rom name="Last Imperial Prince (Japan) (Disc B) (Track 01).bin" size="9807840" crc="f6e8e806" md5="269366677591eef57067cab7adff44e4" sha1="03732c9a21c25a3cbdc1b9240dad793b8a942a9b"/>
@@ -510,7 +510,7 @@
 		<rom name="Last Imperial Prince (Japan) (Disc B) (Track 22).bin" size="133104384" crc="1660bb64" md5="f780bf1a399faf1159b617b0e791dbf3" sha1="a6ff4b6839cfba78c5f56c2b4341e8625301271c"/>
 		<rom name="Last Imperial Prince (Japan) (Disc B).cue" size="2500" crc="2f2f31a0" md5="109a4e3979d5912b7f0930dbf35be18f" sha1="a9770958f3d0765f0dcbf9666003e74e65cb706a"/>
 	</game>
-	<game name="Lunatic Dawn FX (Japan)">
+	<game name="Lunatic Dawn FX (Japan)" id="52303">
 		<category>Games</category>
 		<description>Lunatic Dawn FX (Japan)</description>
 		<rom name="Lunatic Dawn FX (Japan) (Track 01).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
@@ -546,7 +546,7 @@
 		<rom name="Lunatic Dawn FX (Japan) (Track 31).bin" size="1477056" crc="6aba5d80" md5="df84488a6e8fe03f1e94f20b0b722beb" sha1="a42a4c6e2e66405ec6167f34f8acbf77e5a95faf"/>
 		<rom name="Lunatic Dawn FX (Japan).cue" size="3019" crc="a2305c20" md5="bfbadc64a5c25c916001665a61acc583" sha1="bf009eb66af889ee97c9b7d68d62605e6b9e35fa"/>
 	</game>
-	<game name="Mahjong Gokuu Tenjiku (Japan) (SABS)">
+	<game name="Mahjong Gokuu Tenjiku (Japan) (SABS)" id="47753">
 		<category>Games</category>
 		<description>Mahjong Gokuu Tenjiku (Japan) (SABS)</description>
 		<rom name="Mahjong Gokuu Tenjiku (Japan) (SABS) (Track 01).bin" size="9807840" crc="6640e860" md5="8d4c4cb6eb29c9994eec7fbd051b3ed1" sha1="9eb1a72a012acf4fd635b4da0c8847e48f32c3f7"/>
@@ -592,7 +592,7 @@
 		<rom name="Mahjong Gokuu Tenjiku (Japan) (SABS) (Track 41).bin" size="20210736" crc="08ee8d03" md5="ae7013c9e2ace857108f74d992bf89ea" sha1="bab3fb8a2be2127259248254258c6c353a138c9d"/>
 		<rom name="Mahjong Gokuu Tenjiku (Japan) (SABS).cue" size="4502" crc="f1591e0c" md5="d713e742b7484a9deeb28fdf0389994b" sha1="b8a0afbd81a16a10436aaa2544abcdda45c84984"/>
 	</game>
-	<game name="Makeruna! Makendou Z (Japan)">
+	<game name="Makeruna! Makendou Z (Japan)" id="60725">
 		<category>Games</category>
 		<description>Makeruna! Makendou Z (Japan)</description>
 		<rom name="Makeruna! Makendou Z (Japan) (Track 01).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
@@ -608,7 +608,7 @@
 		<rom name="Makeruna! Makendou Z (Japan) (Track 11).bin" size="1735776" crc="86d17174" md5="3cbbd3d6fe2ecbc1bb044ee3aa7fd504" sha1="ab7c6b556e54e14c77f7f3311c835586d30edc26"/>
 		<rom name="Makeruna! Makendou Z (Japan).cue" size="1237" crc="3fe496af" md5="751f4d4da635b75cd9c785fb051ee142" sha1="f5dbdacca28a63df7f4de63e2f7e2edc8d795ec7"/>
 	</game>
-	<game name="Megami Paradise II (Japan)">
+	<game name="Megami Paradise II (Japan)" id="37885">
 		<category>Games</category>
 		<description>Megami Paradise II (Japan)</description>
 		<rom name="Megami Paradise II (Japan) (Track 1).bin" size="7422912" crc="97d662ff" md5="2d355a1f31706114f827d80141aeac44" sha1="43eb3031ba46007cfbd859690d56bae5ebadbded"/>
@@ -617,7 +617,7 @@
 		<rom name="Megami Paradise II (Japan) (Track 4).bin" size="1735776" crc="2902bd99" md5="856ae19b2073b718ca194d543d479093" sha1="fdecb6edc5d84d784bb50f50e8b88fbce4ee046d"/>
 		<rom name="Megami Paradise II (Japan).cue" size="674" crc="d37a5fa1" md5="81600cb2669d8ddc2658618b1bebe189" sha1="187a0930d33857e46934c22ea64ae3b2c5164f15"/>
 	</game>
-	<game name="Minimum Nanonic (Japan)">
+	<game name="Minimum Nanonic (Japan)" id="53950">
 		<category>Games</category>
 		<description>Minimum Nanonic (Japan)</description>
 		<rom name="Minimum Nanonic (Japan) (Track 1).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
@@ -627,14 +627,14 @@
 		<rom name="Minimum Nanonic (Japan) (Track 5).bin" size="9810192" crc="adb9dac6" md5="94ad5f6d220b3e86f4e8f7a7faca6299" sha1="e43bb6008b1023f37073ae6922270b96859b7244"/>
 		<rom name="Minimum Nanonic (Japan).cue" size="544" crc="3d8e6fcd" md5="4ea0538d660f6c1e7f9a737175c075ee" sha1="72c8f544ecae53b6a8f5098d59dd4972a4aaf424"/>
 	</game>
-	<game name="Miraculum - The Last Revelation (Japan)">
+	<game name="Miraculum - The Last Revelation (Japan)" id="53951">
 		<category>Games</category>
 		<description>Miraculum - The Last Revelation (Japan)</description>
 		<rom name="Miraculum - The Last Revelation (Japan) (Track 1).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
 		<rom name="Miraculum - The Last Revelation (Japan) (Track 2).bin" size="732779712" crc="a2e5e9e2" md5="ae83afbcb7f68196008b719c38ea74ed" sha1="a95450e4ba2703989141a9d527193cabe248c24f"/>
 		<rom name="Miraculum - The Last Revelation (Japan).cue" size="271" crc="cd59fb2b" md5="ff9937f99ceef7027bea9b918d08ce79" sha1="2fde64eb6133b342a31208fb020025c61facc7f9"/>
 	</game>
-	<game name="N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 1) (N-nyuu)">
+	<game name="N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 1) (N-nyuu)" id="112600">
 		<category>Games</category>
 		<description>N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 1) (N-nyuu)</description>
 		<rom name="N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 1) (N-nyuu) (Track 01).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
@@ -649,7 +649,7 @@
 		<rom name="N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 1) (N-nyuu) (Track 10).bin" size="19860288" crc="7ec7a6ec" md5="dc25ad8287daad4611b03610e92f2606" sha1="fb89b96a5d661877e82d4e883dbf1a19db36b8c0"/>
 		<rom name="N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 1) (N-nyuu).cue" size="1514" crc="73e090c5" md5="b23b29feb48760903a0a9b74ebe1c9be" sha1="a43dcaaa872b7b17b5142d39a525fdb6fbd9bf46"/>
 	</game>
-	<game name="Ojousama Sousamou (Japan)">
+	<game name="Ojousama Sousamou (Japan)" id="52304">
 		<category>Games</category>
 		<description>Ojousama Sousamou (Japan)</description>
 		<rom name="Ojousama Sousamou (Japan) (Track 01).bin" size="20834016" crc="9bdc97dd" md5="078bbca0b4d0477c42d45a717fb7ae45" sha1="8639fa03d039f12133c3a0e61f8395be5297b69a"/>
@@ -685,7 +685,7 @@
 		<rom name="Ojousama Sousamou (Japan) (Track 31).bin" size="16560432" crc="f7a6cec4" md5="657627ce60388e43d5348b4fa69404af" sha1="fc823d2322a9fd2c1395308aacb1c6bed79155f0"/>
 		<rom name="Ojousama Sousamou (Japan).cue" size="3101" crc="9433f4fe" md5="cb14bb4ac9a04c8a6dc44a3cdfa656d1" sha1="18706d06fac8cc205620d5ff9b5c63d38f8488ab"/>
 	</game>
-	<game name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)">
+	<game name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)" id="58926">
 		<category>Games</category>
 		<description>Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)</description>
 		<rom name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan) (Track 01).bin" size="9807840" crc="aecbdc16" md5="74b79d39a38ec2b7aad976b218ec419c" sha1="ffae85763f581d312abb6b5096f6f7d62e771aae"/>
@@ -704,7 +704,7 @@
 		<rom name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan) (Track 14).bin" size="34183968" crc="2c320a62" md5="d94a174988acd294e881fd0778750137" sha1="132aa25fe6057704dbc05c10e854a0df1c4a0f9c"/>
 		<rom name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan).cue" size="2930" crc="8813a8a6" md5="e0e98566a088b293dc6430caefd659ce" sha1="8ffa98ee3621b6e51c96e1d03448dd6893fdfdba"/>
 	</game>
-	<game name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)">
+	<game name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)" id="37889">
 		<category>Games</category>
 		<description>Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)</description>
 		<rom name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (Track 1).bin" size="15753696" crc="df1bc605" md5="a07bd9cb8d5b9ed0795614b31617d952" sha1="9239a71c3d137b9f8c66aed6b48c3588b0c222ee"/>
@@ -714,7 +714,7 @@
 		<rom name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (Track 5).bin" size="16132368" crc="628c016b" md5="3d17c7ce3c4ca554fdb4d783f47857d2" sha1="f1077511c3b31cd7ed882ed1b3524a107d2e9fd4"/>
 		<rom name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan).cue" size="852" crc="d31bdc12" md5="85b4144f51cc379024dff4119ca58ae1" sha1="b6dd7c877fd15c22918b5f9eecd8b8df99450bca"/>
 	</game>
-	<game name="Power DoLLS FX (Japan)">
+	<game name="Power DoLLS FX (Japan)" id="47965">
 		<category>Games</category>
 		<description>Power DoLLS FX (Japan)</description>
 		<rom name="Power DoLLS FX (Japan) (Track 01).bin" size="9807840" crc="f6e8e806" md5="269366677591eef57067cab7adff44e4" sha1="03732c9a21c25a3cbdc1b9240dad793b8a942a9b"/>
@@ -749,14 +749,14 @@
 		<rom name="Power DoLLS FX (Japan) (Track 30).bin" size="1305360" crc="c3ccd1e0" md5="457d4c6e0eea87187c014ce463d2d50b" sha1="294efde2c6a4d9bec304bd766584467cc512c704"/>
 		<rom name="Power DoLLS FX (Japan).cue" size="3010" crc="fdbc872e" md5="021f1866d7ad8d62b9faaf72a3891f0d" sha1="cba9fca3f770f83eee9847a6ab8c21e54a347a44"/>
 	</game>
-	<game name="Return to Zork (Japan)">
+	<game name="Return to Zork (Japan)" id="46376">
 		<category>Games</category>
 		<description>Return to Zork (Japan)</description>
 		<rom name="Return to Zork (Japan) (Track 1).bin" size="9807840" crc="5fcf5c53" md5="a4746f176721b28e5f4c18e3da0f2256" sha1="118e9822db3018b266460745828b7838242f3f7f"/>
 		<rom name="Return to Zork (Japan) (Track 2).bin" size="381247440" crc="55ca4185" md5="6e032081530c001965e2eaf341aed979" sha1="55eb1b85d7c6923210171780e44b1d333d89c7fe"/>
 		<rom name="Return to Zork (Japan).cue" size="237" crc="8aa7445a" md5="291881a01cef491d03c8f1f1838da0c4" sha1="5832f6db829a97cee7ea56f7cc7276c3bc059898"/>
 	</game>
-	<game name="Ruruli Ra Rura (Japan)">
+	<game name="Ruruli Ra Rura (Japan)" id="63680">
 		<category>Games</category>
 		<description>Ruruli Ra Rura (Japan)</description>
 		<rom name="Ruruli Ra Rura (Japan) (Track 01).bin" size="7067760" crc="9a171fad" md5="ac02def68b3063109369786b244ed626" sha1="6ffb4d52c52c164e64fee723241d0466a3244f76"/>
@@ -782,14 +782,14 @@
 		<rom name="Ruruli Ra Rura (Japan) (Track 21).bin" size="42987504" crc="b51bdb5d" md5="caece192f94ca194fa2795fa0108292d" sha1="146c3dc2fdec50635bb394dd1e218ca9945a44f5"/>
 		<rom name="Ruruli Ra Rura (Japan).cue" size="2048" crc="b9dce6b9" md5="a4eec2bfdd79a9c97b3d9d1b10ad2b51" sha1="3f772df093f08c0ac954ac3b41bdf23bafd78d3d"/>
 	</game>
-	<game name="Same Game FX (Japan) (NEC PC-FXGA)">
+	<game name="Same Game FX (Japan) (NEC PC-FXGA)" id="46445">
 		<category>Games</category>
 		<description>Same Game FX (Japan) (NEC PC-FXGA)</description>
 		<rom name="Same Game FX (Japan) (NEC PC-FXGA) (Track 1).bin" size="7161840" crc="cd682ee3" md5="96f09ede17fb75bc2ab67e1fc3769a43" sha1="2a57d05c41a0f085eb3f6849faf12537d5f1a322"/>
 		<rom name="Same Game FX (Japan) (NEC PC-FXGA) (Track 2).bin" size="1914528" crc="d6ef38d2" md5="a6dc3fa711d8e4cae62e889dd690c7b7" sha1="40fd38e1a1175a78b4d3c9bb5cae03855cddb953"/>
 		<rom name="Same Game FX (Japan) (NEC PC-FXGA).cue" size="261" crc="145c0c33" md5="50d3d8a4078b032bf43ba2c8040bdce3" sha1="78d45608658fc57e01c5747aa5917a05a86f0ecf"/>
 	</game>
-	<game name="Shanghai - Banri no Choujou (Japan)">
+	<game name="Shanghai - Banri no Choujou (Japan)" id="67254">
 		<category>Games</category>
 		<description>Shanghai - Banri no Choujou (Japan)</description>
 		<rom name="Shanghai - Banri no Choujou (Japan) (Track 01).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
@@ -823,7 +823,7 @@
 		<rom name="Shanghai - Banri no Choujou (Japan) (Track 29).bin" size="13008912" crc="f144a5a8" md5="d571148e4091d2fbb740f4dd0827dc00" sha1="7468010402cb2d7a158665aced3c61cafa06a21e"/>
 		<rom name="Shanghai - Banri no Choujou (Japan).cue" size="3177" crc="00b25f8e" md5="cb0ac0eb965d8514749dd9975cf1b724" sha1="2aec10891d2998a267f2f96559762936181c117c"/>
 	</game>
-	<game name="Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)">
+	<game name="Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)" id="35928">
 		<category>Games</category>
 		<description>Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)</description>
 		<rom name="Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS) (Track 1).bin" size="31354512" crc="378a716b" md5="7d6e2817cc33ea1e4eafdeaabd4b46a1" sha1="e54d98d6be373d5010e61b86b767028e17e40164"/>
@@ -835,7 +835,7 @@
 		<rom name="Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS) (Track 7).bin" size="804384" crc="cf9a1247" md5="854cf4fc434bced25e52118750a14640" sha1="562294014b9804eb6a5b580346a66520be8c8544"/>
 		<rom name="Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS).cue" size="919" crc="bdf52912" md5="f0780d831ec7d5c23463966cc426c15b" sha1="ac4e05bcddeacdb78cfb4a739dec1c3739158745"/>
 	</game>
-	<game name="Sotsugyou R - Graduation Real (Japan)">
+	<game name="Sotsugyou R - Graduation Real (Japan)" id="53952">
 		<category>Games</category>
 		<description>Sotsugyou R - Graduation Real (Japan)</description>
 		<rom name="Sotsugyou R - Graduation Real (Japan) (Track 1).bin" size="9984240" crc="c645f662" md5="6879a53fb06a98f4f48d31c1fdc2700c" sha1="e138d10332eb858962385c6704dfc95ae83e70f7"/>
@@ -843,7 +843,7 @@
 		<rom name="Sotsugyou R - Graduation Real (Japan) (Track 3).bin" size="490961184" crc="972b5f1d" md5="c3df3252603826721d8a90cefd3c497b" sha1="a95c6ff395546c5d4970c5d0724c59a93c2f84b5"/>
 		<rom name="Sotsugyou R - Graduation Real (Japan).cue" size="357" crc="37fab0fd" md5="53f3b6439d78b4d94a956a0e282b20de" sha1="ae3c801007c16b9e0b9f98d9ac0ef7ff914879d3"/>
 	</game>
-	<game name="Sparkling Feather (Japan)">
+	<game name="Sparkling Feather (Japan)" id="46377">
 		<category>Games</category>
 		<description>Sparkling Feather (Japan)</description>
 		<rom name="Sparkling Feather (Japan) (Track 01).bin" size="3377472" crc="82af686d" md5="a7f755f96b98e409dc6aeb4ccc94d3f5" sha1="7a119ff1c5d1376a440c5add4b1d71d5ba910945"/>
@@ -874,7 +874,7 @@
 		<rom name="Sparkling Feather (Japan) (Track 26).bin" size="3758496" crc="d6ebbbee" md5="f88b0af9d1f62a66311069551b586a99" sha1="052ff75a6df0f829d5cf788d3b90dcd271514cc6"/>
 		<rom name="Sparkling Feather (Japan).cue" size="2670" crc="463a12f9" md5="7a36d32c18b57d5f69bcef939c443a6d" sha1="5eca900fd4c4446922e52b051e8f97652fcac321"/>
 	</game>
-	<game name="Super Power League FX (Japan)">
+	<game name="Super Power League FX (Japan)" id="46408">
 		<category>Games</category>
 		<description>Super Power League FX (Japan)</description>
 		<rom name="Super Power League FX (Japan) (Track 1).bin" size="8090880" crc="e3039182" md5="9de82dcacf4c08157ad5de46d36ca649" sha1="0c4046cfffd4f5d27bc03a9bb37bde5c46738965"/>
@@ -884,7 +884,7 @@
 		<rom name="Super Power League FX (Japan) (Track 5).bin" size="150927840" crc="1edd2026" md5="e02f01384c3c0c6c63eaa17b5ce38ec8" sha1="316de5d7ed2c420616a51990d69183ef085c5f49"/>
 		<rom name="Super Power League FX (Japan).cue" size="584" crc="ee5f69fc" md5="ead40f3f0cce7e0c45a2b11d1f18d7b8" sha1="bcbde20754a9efb743a9ab2654e8e6a057160e16"/>
 	</game>
-	<game name="Super Real Mahjong P.V FX (Japan)">
+	<game name="Super Real Mahjong P.V FX (Japan)" id="67252">
 		<category>Games</category>
 		<description>Super Real Mahjong P.V FX (Japan)</description>
 		<rom name="Super Real Mahjong P.V FX (Japan) (Track 01).bin" size="5738880" crc="a8f8fced" md5="13cd0b5909218c35f381f81f83d43bba" sha1="a534ef686a8d24dea87114ecfff02a3de4a633f9"/>
@@ -905,7 +905,7 @@
 		<rom name="Super Real Mahjong P.V FX (Japan) (Track 16).bin" size="6540912" crc="c16f7466" md5="6f12609336fb7b4bbe5b3cd891de7429" sha1="028b1b788b90e321e19e1e9bac5585bf0f8d348d"/>
 		<rom name="Super Real Mahjong P.V FX (Japan).cue" size="1820" crc="f0fd33d2" md5="20f9e737ad595130f29c9ff6c5d60574" sha1="2df76e9de383cc57e106a80aaeeb4bf41e7eb63e"/>
 	</game>
-	<game name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)">
+	<game name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)" id="47966">
 		<category>Games</category>
 		<description>Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)</description>
 		<rom name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (Track 01).bin" size="9984240" crc="ffbd46cf" md5="fd4de25e8dc4adfdca7d23487eb18616" sha1="6f2693dbcf9cbec5ee4799539a73e69ecb633974"/>
@@ -924,21 +924,21 @@
 		<rom name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (Track 14).bin" size="16372272" crc="a7a98ba1" md5="31a9ee793d946164caab6c2e41478e5a" sha1="9cd230b46be078ec761a4fe725a37adbf32e7bd3"/>
 		<rom name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan).cue" size="1885" crc="6d74be2f" md5="74c4ce0c06d53f5672b564733b3ac845" sha1="3e94ad1c1e2d9fbc4454e4f3722d2f2b5af396d7"/>
 	</game>
-	<game name="Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou)">
+	<game name="Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou)" id="52306">
 		<category>Games</category>
 		<description>Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou)</description>
 		<rom name="Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou) (Track 1).bin" size="9372720" crc="cb54c760" md5="dcb29e86168dc1d6ed7ae94cce70ad8f" sha1="74f1cca3e20608fb58d76027dc165c71637e30de"/>
 		<rom name="Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou) (Track 2).bin" size="700733712" crc="aa364536" md5="24bf0f5e7745083762aa6b3a84eee50f" sha1="a6c7daf346ee797582a2db148df272bb2b4c1dbb"/>
 		<rom name="Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou).cue" size="284" crc="d9e6a349" md5="52abc823fff7c646d8da1ed1d8a8fc0a" sha1="3b98b3399f7313d840316e20a5f3c27710ff7426"/>
 	</game>
-	<game name="Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu)">
+	<game name="Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu)" id="52307">
 		<category>Games</category>
 		<description>Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu)</description>
 		<rom name="Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu) (Track 1).bin" size="10515792" crc="5c021aea" md5="c88aca584a64099369f286e7c97c9f5f" sha1="594b438ce8c80b1b1f6a1dcfb34b28f084addf51"/>
 		<rom name="Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu) (Track 2).bin" size="163661568" crc="d8310c5a" md5="30b82008f77b406542b49ba86995ee0b" sha1="5eeb403714175f8346f69ad6272373bd574d009a"/>
 		<rom name="Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu).cue" size="286" crc="b9b4452a" md5="e426680f09ca8aee2087e922f6eb1dc2" sha1="05142a3809beb723f5eddfecb3a92e2b80264c53"/>
 	</game>
-	<game name="Tengai Makyou - Dennou Karakuri Kakutouden (Japan)">
+	<game name="Tengai Makyou - Dennou Karakuri Kakutouden (Japan)" id="57885">
 		<category>Games</category>
 		<description>Tengai Makyou - Dennou Karakuri Kakutouden (Japan)</description>
 		<rom name="Tengai Makyou - Dennou Karakuri Kakutouden (Japan) (Track 01).bin" size="9807840" crc="83a41b9e" md5="5399ffa1a8b1f9d6a273dac04c80a48a" sha1="bf8c92c5f578e74fc27e1ed808f6a0069669415e"/>
@@ -956,7 +956,7 @@
 		<rom name="Tengai Makyou - Dennou Karakuri Kakutouden (Japan) (Track 13).bin" size="44135280" crc="51a51b3a" md5="6d015e52dd0e03274bf620a896028c56" sha1="3d3b41911326268ce4a5293617471e19f9442b28"/>
 		<rom name="Tengai Makyou - Dennou Karakuri Kakutouden (Japan).cue" size="1692" crc="f9ddba42" md5="6e61f65ac8f9f036824b06c2cc65cedb" sha1="161dd4d5c0581ddfe21361a26d3adb2e68d747c7"/>
 	</game>
-	<game name="Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)">
+	<game name="Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)" id="67253">
 		<category>Games</category>
 		<description>Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)</description>
 		<rom name="Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan) (Track 01).bin" size="9807840" crc="459bf3c2" md5="630ccbf7001afb93d02d670de487cd07" sha1="da578a38944986767e80a6c313c6ec51dfa662d8"/>
@@ -1032,14 +1032,14 @@
 		<rom name="Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan) (Track 71).bin" size="1712256" crc="dffc402b" md5="44e2389a75a608b8a87cbcb13cafcff4" sha1="6bea53d524edda7c365cf80b3ab39e4bd07cd55a"/>
 		<rom name="Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan).cue" size="9744" crc="ec4594e8" md5="d69d764a5b305e1c791a4e3c8db35a89" sha1="ca847069426b3e58f640ca0a4d5081b9c9ac4709"/>
 	</game>
-	<game name="Tonari no Princess Rolfee! (Japan)">
+	<game name="Tonari no Princess Rolfee! (Japan)" id="52308">
 		<category>Games</category>
 		<description>Tonari no Princess Rolfee! (Japan)</description>
 		<rom name="Tonari no Princess Rolfee! (Japan) (Track 1).bin" size="2836512" crc="de66fbbe" md5="f7f2d243d97d011a473ef3781c8bec4a" sha1="1255a6692dd72fc25f952303fbc637cbff671ca2"/>
 		<rom name="Tonari no Princess Rolfee! (Japan) (Track 2).bin" size="773622192" crc="f1a58269" md5="fce2c8d8d7a15d522464881f3ece335e" sha1="dbb24a0130106e0e83810819bfac941ec0b33f7c"/>
 		<rom name="Tonari no Princess Rolfee! (Japan).cue" size="261" crc="d42e9ff3" md5="e060a112f222b69d4c074e96cdfb98a8" sha1="ec1ae89cea2da781a13615aae7b0aa0924e25315"/>
 	</game>
-	<game name="Voice Paradise (Japan) (Disc A)">
+	<game name="Voice Paradise (Japan) (Disc A)" id="46413">
 		<category>Games</category>
 		<description>Voice Paradise (Japan) (Disc A)</description>
 		<rom name="Voice Paradise (Japan) (Disc A) (Track 01).bin" size="9807840" crc="f6e8e806" md5="269366677591eef57067cab7adff44e4" sha1="03732c9a21c25a3cbdc1b9240dad793b8a942a9b"/>
@@ -1062,7 +1062,7 @@
 		<rom name="Voice Paradise (Japan) (Disc A) (Track 18).bin" size="882000" crc="0ab5d1e5" md5="9b1be87c6b579fde2341515f4d82c008" sha1="034ad8bdb8b4a207719814a59a6d85b368abbfd7"/>
 		<rom name="Voice Paradise (Japan) (Disc A).cue" size="1938" crc="ca72af27" md5="5c7f4802063fd0da9298ea978bd8d225" sha1="2c92c0943f6df4592988a2b502efa88527ee4668"/>
 	</game>
-	<game name="Voice Paradise (Japan) (Disc B)">
+	<game name="Voice Paradise (Japan) (Disc B)" id="46414">
 		<category>Games</category>
 		<description>Voice Paradise (Japan) (Disc B)</description>
 		<rom name="Voice Paradise (Japan) (Disc B) (Track 01).bin" size="9807840" crc="f6e8e806" md5="269366677591eef57067cab7adff44e4" sha1="03732c9a21c25a3cbdc1b9240dad793b8a942a9b"/>
@@ -1085,7 +1085,7 @@
 		<rom name="Voice Paradise (Japan) (Disc B) (Track 18).bin" size="882000" crc="0ab5d1e5" md5="9b1be87c6b579fde2341515f4d82c008" sha1="034ad8bdb8b4a207719814a59a6d85b368abbfd7"/>
 		<rom name="Voice Paradise (Japan) (Disc B).cue" size="1938" crc="5cc48696" md5="3f93f0bec733f5890844486367a6f984" sha1="6953256f40165f6264aede28afa8cd57873c72fd"/>
 	</game>
-	<game name="Wakusei Koukitai - Little Cats (Japan)">
+	<game name="Wakusei Koukitai - Little Cats (Japan)" id="46415">
 		<category>Games</category>
 		<description>Wakusei Koukitai - Little Cats (Japan)</description>
 		<rom name="Wakusei Koukitai - Little Cats (Japan) (Track 01).bin" size="11614176" crc="835906af" md5="ca46700145063f0517b62d565fac3315" sha1="faf97c57c78d85d643dc01453b32830984ecf64b"/>
@@ -1106,28 +1106,28 @@
 		<rom name="Wakusei Koukitai - Little Cats (Japan) (Track 16).bin" size="707952" crc="02c5804d" md5="bb63315b416ea7316eb5b1aec3556d78" sha1="371220625b3c3325beb2929f858c833197d71c4b"/>
 		<rom name="Wakusei Koukitai - Little Cats (Japan).cue" size="1844" crc="9213c913" md5="43f67ca55a4cb48266eb1a23284f763c" sha1="0e0cfab39bbd08a6e51fd8544541d79d8666c91b"/>
 	</game>
-	<game name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo)">
+	<game name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo)" id="52310">
 		<category>Games</category>
 		<description>Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo)</description>
 		<rom name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo) (Track 1).bin" size="5040336" crc="c33ea420" md5="2320b097f058afb66c6781a5143204f6" sha1="3d876e81bf8072f100fe02b2d69632995f4eeb78"/>
 		<rom name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo) (Track 2).bin" size="592755744" crc="0dd820cd" md5="c796e9d456a0ce0153670e88c35f5874" sha1="f9a18a81f0ae8c13a05dca144d1ec9f7a31d6f27"/>
 		<rom name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo).cue" size="667" crc="522a747c" md5="c4c590c4cf39febab59d3958af7573af" sha1="640ef68faa8d00b043d79077f952ca3675d543ba"/>
 	</game>
-	<game name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP)">
+	<game name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP)" id="52311">
 		<category>Games</category>
 		<description>Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP)</description>
 		<rom name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP) (Track 1).bin" size="5040336" crc="234c61bd" md5="5ab09f350c49fbe5ed47c2f1d19a8943" sha1="3f2ff2482b08e15e0c90c2608e8828a6efc53f31"/>
 		<rom name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP) (Track 2).bin" size="762835920" crc="339cb8c0" md5="3bcfad77987bcff08fe0e22d575ed7dc" sha1="242655184a5bc894b71663c12707539f8acbd807"/>
 		<rom name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP).cue" size="916" crc="247687cc" md5="34050dcc4553caacdab7ee7da02f4bdb" sha1="dd8604ee9d641b03df3a204548488e07cd352276"/>
 	</game>
-	<game name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1)">
+	<game name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1)" id="46416">
 		<category>Games</category>
 		<description>Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1)</description>
 		<rom name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1) (Track 1).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
 		<rom name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1) (Track 2).bin" size="771305472" crc="f7545cfb" md5="1c50a182740843282f774c79a298a3cb" sha1="e8ae3fa3fd4425de4ec0a124dbf7c7ec52f2e240"/>
 		<rom name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1).cue" size="311" crc="9747fbde" md5="442a6f436e5128a43198f351f314cb92" sha1="717b7de9343975ae1c50dabf42e90578e31cba4e"/>
 	</game>
-	<game name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 2)">
+	<game name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 2)" id="46417">
 		<category>Games</category>
 		<description>Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 2)</description>
 		<rom name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 2) (Track 1).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>HD DVD-Video (Retool)</name>
+		<description>HD DVD-Video (1) (-ly) [-aAbBcdDefkmMopPruv] (2026-07-03 10-14-39) (Retool)</description>
+		<version>2026-07-03 10-14-39</version>
+		<date>2026-08-12 03-01-48</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Dragon's Lair HD (USA)" id="82367">
+		<category>Games</category>
+		<description>Dragon's Lair HD (USA)</description>
+		<rom name="Dragon's Lair HD (USA).iso" size="13228179456" crc="b6ead4a1" md5="1ac8a51c5583270598ee7e797cd80822" sha1="cdd4c528d34ac3907c1fb9c25629f6038bb7e498"/>
+	</game>
+</datafile>

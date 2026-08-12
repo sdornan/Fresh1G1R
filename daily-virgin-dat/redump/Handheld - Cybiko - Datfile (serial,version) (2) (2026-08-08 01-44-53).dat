@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Handheld - Cybiko</name>
+		<description>Handheld - Cybiko - Datfile (serial,version) (2) (2026-08-08 01-44-53)</description>
+		<version>2026-08-08 01-44-53</version>
+		<date>2026-08-08 01-44-53</date>
+		<author>redump.info</author>
+		<homepage>redump.info</homepage>
+		<url>https://redump.info/</url>
+	</header>
+	<game name="Cybiko Game CD - Volume I (USA)" id="116854">
+		<category>Games</category>
+		<description>Cybiko Game CD - Volume I (USA)</description>
+		<rom name="Cybiko Game CD - Volume I (USA).cue" size="97" crc="358865c8" md5="3b47d7ca274fdfef9405833c242a091f" sha1="addfbc452f5e70b7e40eac90db2c889d6cbf384e"/>
+		<rom name="Cybiko Game CD - Volume I (USA).bin" size="124371408" crc="8bbb2494" md5="67c2fa1682e20079e3d41a00a204f0ec" sha1="12a5f76943ecf5774387abf7c49db368d89769c7"/>
+	</game>
+	<game name="Cybiko Xtreme Installation CD (USA)" id="102337">
+		<category>Applications</category>
+		<version>1.1.2</version>
+		<description>Cybiko Xtreme Installation CD (USA)</description>
+		<rom name="Cybiko Xtreme Installation CD (USA).cue" size="260" crc="89a6b418" md5="05163305cd1ccad967f3ece967b086ce" sha1="0d9b8c78c0ebc76501347ab650826d4980df54da"/>
+		<rom name="Cybiko Xtreme Installation CD (USA) (Track 1).bin" size="851424" crc="22e21232" md5="75cf42889246e05e40921daf9ab144df" sha1="08d636036b97278cb0f462d5d076eb91ba018d77"/>
+		<rom name="Cybiko Xtreme Installation CD (USA) (Track 2).bin" size="37970688" crc="eea64f24" md5="a7fb1639c421b92bb1a7f05e25addbc5" sha1="99d26017bab26c2b4006f55bfec2ac1639b82e82"/>
+	</game>
+</datafile>

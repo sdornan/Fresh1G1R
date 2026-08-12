@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Handheld - Cybiko (Retool)</name>
+		<description>Handheld - Cybiko (1) (-y) [-aAbBcdkmMpPuv] (2026-08-08 01-44-53) (Retool)</description>
+		<version>2026-08-08 01-44-53</version>
+		<date>2026-08-12 03-06-26</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Cybiko Game CD - Volume I (USA)" id="116854">
+		<category>Games</category>
+		<description>Cybiko Game CD - Volume I (USA)</description>
+		<rom name="Cybiko Game CD - Volume I (USA).bin" size="124371408" crc="8bbb2494" md5="67c2fa1682e20079e3d41a00a204f0ec" sha1="12a5f76943ecf5774387abf7c49db368d89769c7"/>
+		<rom name="Cybiko Game CD - Volume I (USA).cue" size="97" crc="358865c8" md5="3b47d7ca274fdfef9405833c242a091f" sha1="addfbc452f5e70b7e40eac90db2c889d6cbf384e"/>
+	</game>
+</datafile>

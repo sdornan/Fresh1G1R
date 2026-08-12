@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>HD DVD-Video</name>
+		<description>HD DVD-Video - Datfile (serial,version) (7) (2026-07-03 10-14-39)</description>
+		<version>2026-07-03 10-14-39</version>
+		<date>2026-07-03 10-14-39</date>
+		<author>redump.info</author>
+		<homepage>redump.info</homepage>
+		<url>https://redump.info/</url>
+	</header>
+	<game name="300 (Belgium, Netherlands)" id="109636">
+		<category>Video</category>
+		<serial>H4A Y13764</serial>
+		<description>300 (Belgium, Netherlands)</description>
+		<rom name="300 (Belgium, Netherlands).iso" size="28299362304" crc="797668ca" md5="39c0e216fcef0197fe79a696d8b21b1f" sha1="4530acf09cf33ffbf8e5236e0ea6954ba5f014a0"/>
+	</game>
+	<game name="300 (Japan) (En,Ja)" id="91013">
+		<category>Video</category>
+		<serial>WBHA-Y16997</serial>
+		<description>300 (Japan) (En,Ja)</description>
+		<rom name="300 (Japan) (En,Ja).iso" size="29327228928" crc="a76410f5" md5="4bcb0cc5518db4eaf972d98af80db801" sha1="0fa70e5ac3119d72221dc67f6d304fce6c136394"/>
+	</game>
+	<game name="300 (USA) (En,Fr,Es)" id="121134">
+		<category>Video</category>
+		<serial>118408</serial>
+		<description>300 (USA) (En,Fr,Es)</description>
+		<rom name="300 (USA) (En,Fr,Es).iso" size="29270343680" crc="9636425e" md5="c5b484f7fe5d89964f7fb6cb309d1478" sha1="7b474809952755471be419ec714e47466be06c87"/>
+	</game>
+	<game name="300 (USA) (En,Fr,Es) (DVD Combo)" id="121133">
+		<category>Video</category>
+		<serial>113764.1.A</serial>
+		<description>300 (USA) (En,Fr,Es) (DVD Combo)</description>
+		<rom name="300 (USA) (En,Fr,Es) (DVD Combo).iso" size="27922202624" crc="68d2beea" md5="a324779827081a6692183222aed72a79" sha1="500a2a804f680dea3d2f23c286b91ef65b3b0819"/>
+	</game>
+	<game name="Dragon's Lair HD (USA)" id="82367">
+		<category>Games</category>
+		<description>Dragon's Lair HD (USA)</description>
+		<rom name="Dragon's Lair HD (USA).iso" size="13228179456" crc="b6ead4a1" md5="1ac8a51c5583270598ee7e797cd80822" sha1="cdd4c528d34ac3907c1fb9c25629f6038bb7e498"/>
+	</game>
+	<game name="Sabra Super Extra - HD DVD 01 (Japan)" id="99339">
+		<category>Coverdiscs</category>
+		<description>Sabra Super Extra - HD DVD 01 (Japan)</description>
+		<rom name="Sabra Super Extra - HD DVD 01 (Japan).iso" size="7021133824" crc="713cc8f0" md5="7bfc5b7908f10718294e294ae8dc35f0" sha1="f951860d633d76ea3cb2d554d5740f7d0bd4cb91"/>
+	</game>
+	<game name="South Park - Good Times with Weapons HD (USA) (Side A) (HD Format)" id="99474">
+		<category>Video</category>
+		<serial>X13-60639-01</serial>
+		<description>South Park - Good Times with Weapons HD (USA) (Side A) (HD Format)</description>
+		<rom name="South Park - Good Times with Weapons HD (USA) (Side A) (HD Format).iso" size="4633919488" crc="c04d85c8" md5="0ca806ab146390606581ebb9470f7520" sha1="e77880cc19a5cbc25fbba5d8f2fd89196f244c88"/>
+	</game>
+</datafile>

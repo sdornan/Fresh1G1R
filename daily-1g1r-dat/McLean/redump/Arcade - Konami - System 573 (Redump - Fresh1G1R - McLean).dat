@@ -3,28 +3,28 @@
 <datafile>
 	<header>
 		<name>Arcade - Konami - System 573 (Retool)</name>
-		<description>Arcade - Konami - System 573 (5) (-ly) [-aAbBcdDefkmMopPruv] (2024-04-22 19-05-57) (Retool)</description>
-		<version>2024-04-22 19-05-57</version>
-		<date>2026-08-11 03-58-16</date>
-		<author>redump.org</author>
+		<description>Arcade - Konami - System 573 (5) (-ly) [-aAbBcdDefkmMopPruv] (2026-07-03 10-14-40) (Retool)</description>
+		<version>2026-07-03 10-14-40</version>
+		<date>2026-08-12 03-03-24</date>
+		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
-		<url>http://redump.org/</url>
+		<url>https://redump.info/</url>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
-	<game name="Dance Dance Revolution 3rd Mix (Asia)">
+	<game name="Dance Dance Revolution 3rd Mix (Asia)" id="103149">
 		<category>Games</category>
 		<description>Dance Dance Revolution 3rd Mix (Asia)</description>
 		<rom name="Dance Dance Revolution 3rd Mix (Asia).bin" size="174207936" crc="1302c366" md5="391783e24a954ed86337d486015c07a6" sha1="b8072f5b55b4aa438dbd89bf3b1d59f7cde90612"/>
 		<rom name="Dance Dance Revolution 3rd Mix (Asia).cue" size="103" crc="9c7f5d05" md5="2c79f87ccd0271e2f8070a3c68ca2906" sha1="b815619b71c6d903318078ff7685945ccdc33e33"/>
 	</game>
-	<game name="Fisherman's Bait - A Bass Challenge (USA) (UAB)">
+	<game name="Fisherman's Bait - A Bass Challenge (USA) (UAB)" id="103202">
 		<category>Games</category>
 		<description>Fisherman's Bait - A Bass Challenge (USA) (UAB)</description>
 		<rom name="Fisherman's Bait - A Bass Challenge (USA) (UAB) (Track 1).bin" size="56041104" crc="7ac40ad8" md5="9181c06bb5554209c67f79a64b766224" sha1="208391656feaab43a4f29e84dccade2b99a31d0b"/>
 		<rom name="Fisherman's Bait - A Bass Challenge (USA) (UAB) (Track 2).bin" size="1688736" crc="1c8f2b81" md5="b832cd66518a33c7d58b534e886e7345" sha1="1c7f004bbb645bc4849b91e8243e3f3fb12e2f37"/>
 		<rom name="Fisherman's Bait - A Bass Challenge (USA) (UAB).cue" size="264" crc="d505fca4" md5="01307808e8fbc528dc415638359e08a4" sha1="0bcc24842ef4941c6dac9ddb1e3b94a620c325a0"/>
 	</game>
-	<game name="Fisherman's Bait - Marlin Challenge (World)">
+	<game name="Fisherman's Bait - Marlin Challenge (World)" id="103199">
 		<category>Games</category>
 		<description>Fisherman's Bait - Marlin Challenge (World)</description>
 		<rom name="Fisherman's Bait - Marlin Challenge (World) (Track 1).bin" size="12839568" crc="97064c1a" md5="4204f7bf14aec9ec7c925ec6aad4d8c3" sha1="ed67cc03dd488451d2e577bd0e89699fae4f692b"/>
@@ -32,7 +32,7 @@
 		<rom name="Fisherman's Bait - Marlin Challenge (World) (Track 3).bin" size="1373568" crc="388b85d1" md5="dcc3caec94f0dbdf7f7a6e6c9832343f" sha1="88cb2b89bacbfe382b97d509fbf773e73592d8db"/>
 		<rom name="Fisherman's Bait - Marlin Challenge (World).cue" size="370" crc="14d64005" md5="cb4ddf43fcb9bb0f5536d2ae458d9fe6" sha1="e98d6e5d4bf651a6869f09827be95e164220b7cf"/>
 	</game>
-	<game name="GuitarFreaks (World)">
+	<game name="GuitarFreaks (World)" id="103152">
 		<category>Games</category>
 		<description>GuitarFreaks (World)</description>
 		<rom name="GuitarFreaks (World) (Track 01).bin" size="78657936" crc="a5af31d2" md5="6a93aacf6035735723b27a81d908b6a0" sha1="2e8ae54239cfc1a1d0dfc54c93c15e5947302639"/>
@@ -106,7 +106,7 @@
 		<rom name="GuitarFreaks (World) (Track 69).bin" size="4664016" crc="c943cf6b" md5="e4ff4238ea18fad018f2cd88519fe31a" sha1="d26b8f3654f9164d7e964e20b3f0c4850f190b76"/>
 		<rom name="GuitarFreaks (World).cue" size="7917" crc="b4b98093" md5="b5eb8cda785ebbd458b9c733a9078fce" sha1="cef3017c2377a8d2e69f700850eff97f6b1d0278"/>
 	</game>
-	<game name="Hyper Bishi Bashi Champ (World)">
+	<game name="Hyper Bishi Bashi Champ (World)" id="103203">
 		<category>Games</category>
 		<description>Hyper Bishi Bashi Champ (World)</description>
 		<rom name="Hyper Bishi Bashi Champ (World).bin" size="39231360" crc="29b3cabb" md5="b6179987bebf24c322d30707590dcffc" sha1="e32f7b036a4ce771d49ad8e460e4b288b627812b"/>
