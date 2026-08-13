@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,347) (-y) [-aAbBcdkmMpPuv] (2026-08-12 02-06-54) (Retool)</description>
-		<version>2026-08-12 02-06-54</version>
-		<date>2026-08-12 04-20-34</date>
+		<description>IBM - PC compatible (26,349) (-y) [-aAbBcdkmMpPuv] (2026-08-13 02-06-54) (Retool)</description>
+		<version>2026-08-13 02-06-54</version>
+		<date>2026-08-13 04-44-44</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -27818,6 +27818,12 @@
 		<description>City of Villains (USA) (Disc 4)</description>
 		<rom name="City of Villains (USA) (Disc 4).bin" size="839955648" crc="3e838b49" md5="1ecfaf5f61ab0d9ab765e588e71c9455" sha1="e0460d4ffb2cc71af7d129f7ebfa2fcb6966dd57"/>
 		<rom name="City of Villains (USA) (Disc 4).cue" size="97" crc="08ae9114" md5="0d99b670ce8da11a480c0419ed09c77a" sha1="03b17d6d1cdf69c1886de859a4b874b325b8b4da"/>
+	</game>
+	<game name="City of Villains - Pre-Order Disc (USA)" id="121608">
+		<category>Bonus Discs</category>
+		<description>City of Villains - Pre-Order Disc (USA)</description>
+		<rom name="City of Villains - Pre-Order Disc (USA).bin" size="352289616" crc="45be426b" md5="34e85cde477f6f0684f9834e32d5b90b" sha1="b4b40bfa79685829cf436cfa14627862058f7aa6"/>
+		<rom name="City of Villains - Pre-Order Disc (USA).cue" size="105" crc="9f4d8700" md5="479331cf105b06ccc393cb0d0289590e" sha1="e646b5581156f161147422adb9f3161c8f5ca23b"/>
 	</game>
 	<game name="Citybus Simulator Munchen (Germany)" id="125772">
 		<category>Games</category>
@@ -171698,11 +171704,11 @@
 		<rom name="Uplink - Trust Is a Weakness (Europe) (Bonus Disk).bin" size="51104256" crc="43ed7d83" md5="aa02d1d69f82c46c41e5cfd9733bcc07" sha1="a5e2cfc50529be5ca2c65b3d3fe1abf5bf405ebb"/>
 		<rom name="Uplink - Trust Is a Weakness (Europe) (Bonus Disk).cue" size="116" crc="e5a65c50" md5="cbe47b46ae8bf5158a005bb0674d9dbf" sha1="add7dd422851f6a84b68412c6d96ea2f5abc83fb"/>
 	</game>
-	<game name="Upptack Rymden med Mulle Meck (Sweden)" id="97800">
+	<game name="Upptack rymden med Mulle Meck (Sweden)" id="97800">
 		<category>Games</category>
-		<description>Upptack Rymden med Mulle Meck (Sweden)</description>
-		<rom name="Upptack Rymden med Mulle Meck (Sweden).bin" size="788230464" crc="ac8459db" md5="06768ba8e30b7e5a4ead9e244c671b40" sha1="54ea46979ef807b1336e54e69cf24dbd7a4093c4"/>
-		<rom name="Upptack Rymden med Mulle Meck (Sweden).cue" size="104" crc="33d88aa0" md5="463ebf3268805bdd6c8cd466ecf4946e" sha1="b4cb6bb4659db012a060f11501c050089325fe97"/>
+		<description>Upptack rymden med Mulle Meck (Sweden)</description>
+		<rom name="Upptack rymden med Mulle Meck (Sweden).bin" size="788230464" crc="ac8459db" md5="06768ba8e30b7e5a4ead9e244c671b40" sha1="54ea46979ef807b1336e54e69cf24dbd7a4093c4"/>
+		<rom name="Upptack rymden med Mulle Meck (Sweden).cue" size="104" crc="3f5f0711" md5="45cc7d350acf9e376f19811fb13bc8ce" sha1="64683531a6353e588ed8cb73a8b9481d86f7f8b3"/>
 	</game>
 	<game name="Uprising - Join or Die (USA)" id="90203">
 		<category>Games</category>
@@ -177619,6 +177625,12 @@
 		<description>Whitetail Extreme (USA)</description>
 		<rom name="Whitetail Extreme (USA).bin" size="538504512" crc="422146eb" md5="16166f9b49df894b9f66af48993eb919" sha1="e9f5766f499ee88bef33a182b2e1264c7c5b8abe"/>
 		<rom name="Whitetail Extreme (USA).cue" size="89" crc="0a193880" md5="69e0900638f9437a4e6caa7bd6b6c760" sha1="628d943b6e6f4ec5dc83e22a1171023347c6209e"/>
+	</game>
+	<game name="Whiz Kid Learning System - Scooby-Doo! Lost Island Adventure (USA)" id="136960">
+		<category>Educational</category>
+		<description>Whiz Kid Learning System - Scooby-Doo! Lost Island Adventure (USA)</description>
+		<rom name="Whiz Kid Learning System - Scooby-Doo! Lost Island Adventure (USA).bin" size="703647840" crc="ed473912" md5="0f5de88a78123d219252abd238afda2c" sha1="feed43aa25b37586f49573bfe8230fee58c5e85c"/>
+		<rom name="Whiz Kid Learning System - Scooby-Doo! Lost Island Adventure (USA).cue" size="132" crc="298715e0" md5="d82d81147bdba52e517028f2e703993b" sha1="a3af68d5d9e5b85c0c26f315196566dd907926e3"/>
 	</game>
 	<game name="Whizz (Europe)" id="117165">
 		<category>Games</category>

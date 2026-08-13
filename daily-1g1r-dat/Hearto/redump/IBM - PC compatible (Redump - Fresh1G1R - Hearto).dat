@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,812) (-y) [-aAbBcefkmMoprv] (2026-08-12 02-06-54) (Retool)</description>
-		<version>2026-08-12 02-06-54</version>
-		<date>2026-08-12 04-00-40</date>
+		<description>IBM - PC compatible (25,813) (-y) [-aAbBcefkmMoprv] (2026-08-13 02-06-54) (Retool)</description>
+		<version>2026-08-13 02-06-54</version>
+		<date>2026-08-13 04-23-59</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -161819,6 +161819,12 @@
 		<rom name="Toonstruck &amp; Subspace (USA) (Demo).bin" size="134877792" crc="6f6be5f1" md5="7d9ed3aea1fffaf4b162264311ae52af" sha1="a019dfb3ea26596113c7e590f4addd7ccf4b618f"/>
 		<rom name="Toonstruck &amp; Subspace (USA) (Demo).cue" size="100" crc="4f75bae0" md5="0ea041256789121e7fad15418c5e93c9" sha1="4534fd211cfb862e321092a8c5e92c180444be9e"/>
 	</game>
+	<game name="Toonstruck (USA) (Demo)" id="136962">
+		<category>Demos</category>
+		<description>Toonstruck (USA) (Demo)</description>
+		<rom name="Toonstruck (USA) (Demo).bin" size="99955296" crc="5a0b6eed" md5="d0a6b8f1075b50a89c64f34955c4e5e3" sha1="5ebd57cd3684641522814890d6d5c158c08f8073"/>
+		<rom name="Toonstruck (USA) (Demo).cue" size="89" crc="eeb546a5" md5="f984321c7eebac1db62b01e8be01a8a6" sha1="ede51d619b8b707c4b2ae68743a5a0369c35da83"/>
+	</game>
 	<game name="Toonstruck (USA) (Disc 1)" id="117879">
 		<category>Games</category>
 		<description>Toonstruck (USA) (Disc 1)</description>
@@ -167683,11 +167689,11 @@
 		<rom name="Uplink - Trust Is a Weakness (Europe).bin" size="69654480" crc="716f8956" md5="7c6c5b66090100e87820170bb8a44cf6" sha1="c52e904cafe352448169a4fc02c473f06c4ccd47"/>
 		<rom name="Uplink - Trust Is a Weakness (Europe).cue" size="103" crc="f5ce5b5c" md5="dbf4d92b13c0bcc4e57ede0b6ac898f0" sha1="2c770525cacbe03736f633d8378474c5b77bbbec"/>
 	</game>
-	<game name="Upptack Rymden med Mulle Meck (Sweden)" id="97800">
+	<game name="Upptack rymden med Mulle Meck (Sweden)" id="97800">
 		<category>Games</category>
-		<description>Upptack Rymden med Mulle Meck (Sweden)</description>
-		<rom name="Upptack Rymden med Mulle Meck (Sweden).bin" size="788230464" crc="ac8459db" md5="06768ba8e30b7e5a4ead9e244c671b40" sha1="54ea46979ef807b1336e54e69cf24dbd7a4093c4"/>
-		<rom name="Upptack Rymden med Mulle Meck (Sweden).cue" size="104" crc="33d88aa0" md5="463ebf3268805bdd6c8cd466ecf4946e" sha1="b4cb6bb4659db012a060f11501c050089325fe97"/>
+		<description>Upptack rymden med Mulle Meck (Sweden)</description>
+		<rom name="Upptack rymden med Mulle Meck (Sweden).bin" size="788230464" crc="ac8459db" md5="06768ba8e30b7e5a4ead9e244c671b40" sha1="54ea46979ef807b1336e54e69cf24dbd7a4093c4"/>
+		<rom name="Upptack rymden med Mulle Meck (Sweden).cue" size="104" crc="3f5f0711" md5="45cc7d350acf9e376f19811fb13bc8ce" sha1="64683531a6353e588ed8cb73a8b9481d86f7f8b3"/>
 	</game>
 	<game name="Uprising - Join or Die (USA)" id="90203">
 		<category>Games</category>
