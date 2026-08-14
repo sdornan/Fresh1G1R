@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Handheld - Psion</name>
+		<description>Handheld - Psion - Datfile (3) (2026-08-13 18-09-14)</description>
+		<version>2026-08-13 18-09-14</version>
+		<date>2026-08-13 18-09-14</date>
+		<author>redump.info</author>
+		<homepage>redump.info</homepage>
+		<url>https://redump.info/</url>
+	</header>
+	<game name="Psion CD-ROM 1998 - Volume 1 (Germany)" id="135227">
+		<category>Demos</category>
+		<description>Psion CD-ROM 1998 - Volume 1 (Germany)</description>
+		<rom name="Psion CD-ROM 1998 - Volume 1 (Germany).cue" size="127" crc="efa4996f" md5="164eb19e8fc668e826c3c31a8e3c7478" sha1="647f6c2ee6b990078c6d243000c7ac0ae64ca0e5"/>
+		<rom name="Psion CD-ROM 1998 - Volume 1 (Germany).bin" size="99734208" crc="d73a1439" md5="7d7b8a4233f7256801377bd2752bbd3e" sha1="7e14af19dc017ac14a28d28eef2eafb742afa613"/>
+	</game>
+	<game name="Psion Revo &amp; Psion Series 5 - CD Decouverte (France)" id="134584">
+		<category>Applications</category>
+		<description>Psion Revo &amp; Psion Series 5 - CD Decouverte (France)</description>
+		<rom name="Psion Revo &amp; Psion Series 5 - CD Decouverte (France).cue" size="133" crc="11453d00" md5="bb49a13d2735603deb0161c5d6a59f1f" sha1="a933f2d84fddf119aaeb8edfb3d3e87d3047e98c"/>
+		<rom name="Psion Revo &amp; Psion Series 5 - CD Decouverte (France).bin" size="15828960" crc="43b93f1c" md5="dd46304a01dce77d7de28256fb040e5a" sha1="0978bd9201a4f56f09e4ad5e1548b16a61881ec4"/>
+	</game>
+	<game name="PsiWin 2 - PC Connectivity Software (Europe)" id="134585">
+		<category>Applications</category>
+		<description>PsiWin 2 - PC Connectivity Software (Europe)</description>
+		<rom name="PsiWin 2 - PC Connectivity Software (Europe).cue" size="110" crc="b0cc22e9" md5="59dbf4b19fc59114108c679e20554086" sha1="cffb63c44dae5468bd04ff4ef4b3dadd0c5a7735"/>
+		<rom name="PsiWin 2 - PC Connectivity Software (Europe).bin" size="386647632" crc="effab9f3" md5="87de0d6aad37b55fcc4da42d3cede121" sha1="4b493dabd68e2ae26f5f199d2dec44c7b8dbd9e1"/>
+	</game>
+</datafile>

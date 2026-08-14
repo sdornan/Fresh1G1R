@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Handheld - Sharp - Zaurus</name>
+		<description>Handheld - Sharp - Zaurus - Datfile (2) (2026-08-13 18-09-52)</description>
+		<version>2026-08-13 18-09-52</version>
+		<date>2026-08-13 18-09-52</date>
+		<author>redump.info</author>
+		<homepage>redump.info</homepage>
+		<url>https://redump.info/</url>
+	</header>
+	<game name="Zaurus Color Pocket Soft Collection CD-ROM (Japan)" id="134581">
+		<category>Multimedia</category>
+		<description>Zaurus Color Pocket Soft Collection CD-ROM (Japan)</description>
+		<rom name="Zaurus Color Pocket Soft Collection CD-ROM (Japan).cue" size="116" crc="f233c083" md5="9b096dc5cfbf8eb8f28a2be827603ec7" sha1="df42461998c29c98f9a5c88cc0036e859862f234"/>
+		<rom name="Zaurus Color Pocket Soft Collection CD-ROM (Japan).bin" size="20074320" crc="922cba1f" md5="0740b49e88fea289d76264bac2d05678" sha1="fd26dbbd8b836772083af25b8560a718c10505fa"/>
+	</game>
+	<game name="Zaurus Super Tools (Japan)" id="134583">
+		<category>Applications</category>
+		<description>Zaurus Super Tools (Japan)</description>
+		<rom name="Zaurus Super Tools (Japan).cue" size="92" crc="b1f649d6" md5="ad8ea3da2748c8f3dbbcb4ca9efe2f0c" sha1="7e705edb4c775531c93d6f5570c9252da15088dc"/>
+		<rom name="Zaurus Super Tools (Japan).bin" size="20460048" crc="f6a72244" md5="b77acfb2201d948b73c5d78954fb4eca" sha1="99dbc5e308bd589ded781c146c2248aa21da9cbe"/>
+	</game>
+</datafile>

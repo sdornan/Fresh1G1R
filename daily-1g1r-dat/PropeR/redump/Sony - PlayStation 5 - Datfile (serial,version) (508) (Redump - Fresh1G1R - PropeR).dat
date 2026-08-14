@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (336) (-y) [-aAbBcdkmMpPuv] (2026-08-12 13-18-47) (Retool)</description>
-		<version>2026-08-12 13-18-47</version>
-		<date>2026-08-13 04-48-12</date>
+		<description>Sony - PlayStation 5 (336) (-y) [-aAbBcdkmMpPuv] (2026-08-13 18-09-14) (Retool)</description>
+		<version>2026-08-13 18-09-14</version>
+		<date>2026-08-14 04-48-57</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -956,12 +956,12 @@
 		<version>01.01</version>
 		<rom name="Hades (Europe).iso" size="40008351744" crc="0b72cbae" md5="5dfd160836e7ee22ed54c1699820eee1" sha1="3078fbf1cd18f908d2344642bdee6d07222ce456"/>
 	</game>
-	<game name="Halo - Campaign Evolved (Asia)" id="136812">
+	<game name="Halo - Campaign Evolved (USA, Asia)" id="136812">
 		<category>Games</category>
-		<description>Halo - Campaign Evolved (Asia)</description>
-		<serial>ELAS 11285</serial>
+		<description>Halo - Campaign Evolved (USA, Asia)</description>
+		<serial>ELAS 11285, PPSA-28038/US</serial>
 		<version>01.00</version>
-		<rom name="Halo - Campaign Evolved (Asia).iso" size="40043020288" crc="30af1686" md5="11693cf181004689dd911d0d3112d57f" sha1="9a3c2e4288109676dc38c34d72486c94ba710e4e"/>
+		<rom name="Halo - Campaign Evolved (USA, Asia).iso" size="40043020288" crc="30af1686" md5="11693cf181004689dd911d0d3112d57f" sha1="9a3c2e4288109676dc38c34d72486c94ba710e4e"/>
 	</game>
 	<game name="Harry Potter - Quidditch Champions (USA)" id="131478">
 		<category>Games</category>

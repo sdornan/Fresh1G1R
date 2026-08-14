@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Handheld - Symbian</name>
+		<description>Handheld - Symbian - Datfile (serial,version) (2) (2026-08-13 18-09-41)</description>
+		<version>2026-08-13 18-09-41</version>
+		<date>2026-08-13 18-09-41</date>
+		<author>redump.info</author>
+		<homepage>redump.info</homepage>
+		<url>https://redump.info/</url>
+	</header>
+	<game name="Force Unleashed, The (UK)" id="117964">
+		<category>Games</category>
+		<description>Force Unleashed, The (UK)</description>
+		<rom name="Force Unleashed, The (UK).cue" size="91" crc="00ae0899" md5="aa8a751d205ecdbcdb85d4d3433fc83f" sha1="7437a7182f09215dd03f044a0104de1967ee44b4"/>
+		<rom name="Force Unleashed, The (UK).bin" size="225601488" crc="20d4158c" md5="ff1d469c8010aaff42c8a7c7a5b0282a" sha1="daaabcd587253dff4b8dd964ab46f5d680df2d9c"/>
+	</game>
+	<game name="N-Gage (Europe)" id="136809">
+		<category>Applications</category>
+		<description>N-Gage (Europe)</description>
+		<rom name="N-Gage (Europe).cue" size="81" crc="e256f0d9" md5="cc5976442bc5ab4f394a3242bb8387de" sha1="e250343ddb29a52ed06859e599afd87223a72c2c"/>
+		<rom name="N-Gage (Europe).bin" size="603873648" crc="e25d60dc" md5="bfca5e4323d2be9d4624f497a861a2bd" sha1="f2eaee165f5a5d59e783a95e33d27d750e06cfa4"/>
+	</game>
+</datafile>

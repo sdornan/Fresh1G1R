@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (338) (-y) [-aAbBcefkmMoprv] (20260811-141537) (Retool)</description>
-		<version>20260811-141537</version>
-		<date>2026-08-13 04-28-40</date>
+		<description>Nintendo - Satellaview (338) (-y) [-aAbBcefkmMoprv] (20260812-115550) (Retool)</description>
+		<version>20260812-115550</version>
+		<date>2026-08-14 04-30-45</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -352,11 +352,6 @@
 		<description>Bakushow Mondai no Silicon Chounaikai (1996-9-14) + Super Formation Soccer (9-22) (Japan) (SoundLink Magazine, Game)</description>
 		<rom name="Bakushow Mondai no Silicon Chounaikai (1996-9-14) + Super Formation Soccer (9-22) (Japan) (SoundLink Magazine, Game).bs" size="1048576" crc="b17bb916" md5="4bb06d78cffd738788ad4bc8458a5340" sha1="78423a10709e77806bc929961f8b3027278f0137" sha256="07744a7b48c66e54c79c5c3e118c9bde4668f69d143679aee4fa6f918acc8faf"/>
 	</game>
-	<game name="Bakushow Mondai no Silicon Chounaikai (1997-2-1) + Bakushow Mondai no Silicon Chounaikai (1997-2-8) (Japan) (SoundLink Magazine)" id="3628">
-		<category>Magazines</category>
-		<description>Bakushow Mondai no Silicon Chounaikai (1997-2-1) + Bakushow Mondai no Silicon Chounaikai (1997-2-8) (Japan) (SoundLink Magazine)</description>
-		<rom name="Bakushow Mondai no Silicon Chounaikai (1997-2-1) + Bakushow Mondai no Silicon Chounaikai (1997-2-8) (Japan) (SoundLink Magazine).bs" size="1048576" crc="54a6ec22" md5="d4fd2b8c766a0e07d6ed734a666aec39" sha1="78f4d58eb14f3fa913f2cac7edf9e2070ef31180" sha256="46e9ee8aebf276b73c4374bfe56b39eb9570a315931892533c47d6779830e254"/>
-	</game>
 	<game name="Bakushow Mondai no Silicon Chounaikai (Japan) (1996-11-16) (SoundLink Magazine)" id="3777">
 		<category>Magazines</category>
 		<description>Bakushow Mondai no Silicon Chounaikai (Japan) (1996-11-16) (SoundLink Magazine)</description>
@@ -371,6 +366,11 @@
 		<category>Magazines</category>
 		<description>Bakushow Mondai no Silicon Chounaikai (Japan) (1996-7-27) (SoundLink Magazine)</description>
 		<rom name="Bakushow Mondai no Silicon Chounaikai (Japan) (1996-7-27) (SoundLink Magazine).bs" size="1048576" crc="67dc9973" md5="4b121310ac361831434c8c1501546971" sha1="6eb5eb1e1fb988f58746ec7ef21bbc48f1033aa1" sha256="5b71558611b0c685d23ae389d674f45f20674df684a0f11d89ac4456ebeaa8b8"/>
+	</game>
+	<game name="Bakushow Mondai no Silicon Chounaikai (Japan) (1997-2-1 + 1997-2-8) (SoundLink Magazine)" id="3628">
+		<category>Magazines</category>
+		<description>Bakushow Mondai no Silicon Chounaikai (Japan) (1997-2-1 + 1997-2-8) (SoundLink Magazine)</description>
+		<rom name="Bakushow Mondai no Silicon Chounaikai (Japan) (1997-2-1 + 1997-2-8) (SoundLink Magazine).bs" size="1048576" crc="54a6ec22" md5="d4fd2b8c766a0e07d6ed734a666aec39" sha1="78f4d58eb14f3fa913f2cac7edf9e2070ef31180" sha256="46e9ee8aebf276b73c4374bfe56b39eb9570a315931892533c47d6779830e254"/>
 	</game>
 	<game name="Bakushow Mondai no Silicon Chounaikai (Japan) (1997-2-8) (SoundLink Magazine)" id="3561">
 		<category>Magazines</category>
@@ -1362,11 +1362,11 @@
 		<description>Super Puyo Puyo Tsuu BS Ban (Japan) (11-30)</description>
 		<rom name="Super Puyo Puyo Tsuu BS Ban (Japan) (11-30).bs" size="1048576" crc="e63ee3b1" md5="2de583aa9248f3d3e9d12e307df85b79" sha1="2fa77c709294da3a0ae5a918a574b49302a0bf17" sha256="13b664d2f8bedc5d212f865dc69074f94d8afe9408a5e1e4d000f54558d99fe0"/>
 	</game>
-	<game name="Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 and 1997-2-8) (Japan)" id="3520">
+	<game name="Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 + 1997-2-8) (Japan) (Game, SoundLink Magazine)" id="3520">
 		<category>Games</category>
 		<category>Magazines</category>
-		<description>Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 and 1997-2-8) (Japan)</description>
-		<rom name="Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 and 1997-2-8) (Japan).bs" size="1048576" crc="b4e8484d" md5="25d7fd9e383f96885647a72902fd1b27" sha1="617f1bd983088fe76b78496cd5a0bd012529a8e6" sha256="75c9459dc535f41abb534a101e6da6fba5df0b9c79b754622c42a19cd178b08c"/>
+		<description>Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 + 1997-2-8) (Japan) (Game, SoundLink Magazine)</description>
+		<rom name="Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 + 1997-2-8) (Japan) (Game, SoundLink Magazine).bs" size="1048576" crc="b4e8484d" md5="25d7fd9e383f96885647a72902fd1b27" sha1="617f1bd983088fe76b78496cd5a0bd012529a8e6" sha256="75c9459dc535f41abb534a101e6da6fba5df0b9c79b754622c42a19cd178b08c"/>
 	</game>
 	<game name="Super Puyo Puyo Tsuu Remix (5-16) + Game Tora no Chou Ooana (1996-5-19, Part 2) (Japan) (Game, SoundLink Magazine)" id="3838">
 		<category>Games</category>
@@ -1507,10 +1507,10 @@
 		<description>Tsuri Tarou (Japan)</description>
 		<rom name="Tsuri Tarou (Japan).bs" size="1048576" crc="5e53ef4a" md5="bc648509fb9a5ab61903b10df21e979c" sha1="d52a55d657477586abd62920f4cdf0db4bdd9a17" sha256="ee6182504fb47f141a757497e1c9f9495c033c46000a6f3e9b5ce7e2fc6e8cb4"/>
 	</game>
-	<game name="Uchida Yuki Yuugure Street Kids (Japan) (1995-8-12, 1995-8-5) (SoundLink Magazine)" id="3778">
+	<game name="Uchida Yuki Yuugure Street Kids (Japan) (1995-8-12 + 1995-8-5) (SoundLink Magazine)" id="3778">
 		<category>Magazines</category>
-		<description>Uchida Yuki Yuugure Street Kids (Japan) (1995-8-12, 1995-8-5) (SoundLink Magazine)</description>
-		<rom name="Uchida Yuki Yuugure Street Kids (Japan) (1995-8-12, 1995-8-5) (SoundLink Magazine).bs" size="1048576" crc="60e87eae" md5="04c98bab2e8483bb22ee53a210940ccc" sha1="5f61863506725c7e9ae701aa3be987e6b839d11f" sha256="a6377b636747e871eb67dd719569ad7b376fbf68bd58c4261d6840b549c745f1"/>
+		<description>Uchida Yuki Yuugure Street Kids (Japan) (1995-8-12 + 1995-8-5) (SoundLink Magazine)</description>
+		<rom name="Uchida Yuki Yuugure Street Kids (Japan) (1995-8-12 + 1995-8-5) (SoundLink Magazine).bs" size="1048576" crc="60e87eae" md5="04c98bab2e8483bb22ee53a210940ccc" sha1="5f61863506725c7e9ae701aa3be987e6b839d11f" sha256="a6377b636747e871eb67dd719569ad7b376fbf68bd58c4261d6840b549c745f1"/>
 	</game>
 	<game name="Uchida Yuki Yuugure Street Kids (Japan) (1995-9-9) (SoundLink Magazine)" id="3819">
 		<category>Magazines</category>

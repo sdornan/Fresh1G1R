@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,813) (-y) [-aAbBcefkmMoprv] (2026-08-13 02-06-54) (Retool)</description>
-		<version>2026-08-13 02-06-54</version>
-		<date>2026-08-13 04-23-59</date>
+		<description>IBM - PC compatible (25,821) (-y) [-aAbBcefkmMoprv] (2026-08-13 21-36-54) (Retool)</description>
+		<version>2026-08-13 21-36-54</version>
+		<date>2026-08-14 04-25-54</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -25213,6 +25213,12 @@
 		<description>Casper - O Beco Encantado (Portugal)</description>
 		<rom name="Casper - O Beco Encantado (Portugal).bin" size="227937024" crc="fae0983e" md5="9b169918e1c10e3394a8d1ba75b967e9" sha1="400ecb6f3e8ebdd84e111f615965b16b094e291c"/>
 		<rom name="Casper - O Beco Encantado (Portugal).cue" size="102" crc="d55bcbe9" md5="83c0c33cb6de3afec760a6aedaa69847" sha1="2c5d28e7fa9f4160e6708b59f26a589513959a32"/>
+	</game>
+	<game name="Casper - The Interactive Adventure (USA)" id="136972">
+		<category>Games</category>
+		<description>Casper - The Interactive Adventure (USA)</description>
+		<rom name="Casper - The Interactive Adventure (USA).bin" size="651668640" crc="3109c931" md5="13500f01f10c01a40b087d0b928c3d67" sha1="718a7eef294f47b7dd71cc7155cd8dd3fadb4144"/>
+		<rom name="Casper - The Interactive Adventure (USA).cue" size="106" crc="e6e147f9" md5="93ae817e8023f3a057ce0e868ddf9203" sha1="807bca50557591bb14e7b7bc2b996278340e9787"/>
 	</game>
 	<game name="Castelo Virtual (Portugal)" id="119251">
 		<category>Games</category>
@@ -59251,6 +59257,12 @@
 		<description>Galactic Assault - Prisoner of Power (Europe)</description>
 		<rom name="Galactic Assault - Prisoner of Power (Europe).iso" size="1732378624" crc="31ad7d56" md5="56398030ba11169679929597e163d88b" sha1="cc423f9935718062b93208f00bdca29276d10681"/>
 	</game>
+	<game name="Galactic Bowling - The Ultimate Extreme Sport (USA)" id="136971">
+		<category>Games</category>
+		<description>Galactic Bowling - The Ultimate Extreme Sport (USA)</description>
+		<rom name="Galactic Bowling - The Ultimate Extreme Sport (USA).bin" size="683606448" crc="213d50c8" md5="814509b153aa7197d54917054b37f5b9" sha1="b3b53d06b9e79e3185bc6919b3e752a14ff7c3e8"/>
+		<rom name="Galactic Bowling - The Ultimate Extreme Sport (USA).cue" size="117" crc="b2874c4e" md5="3cbe9539f9559699664d30932e696289" sha1="e019965fcb998592a0915bf029c7115392562e10"/>
+	</game>
 	<game name="Galactic Civilizations (USA) (Rev 1)" id="43047">
 		<category>Games</category>
 		<description>Galactic Civilizations (USA) (Rev 1)</description>
@@ -60312,11 +60324,11 @@
 		<rom name="Game Series 60, The - The Boxing (Japan).bin" size="113695680" crc="a398e725" md5="3d7bd9bf62c8ee7bff04219b39ab20db" sha1="f4f02c3a7190dde8e3cda80dc6fcc697dbc7d820"/>
 		<rom name="Game Series 60, The - The Boxing (Japan).cue" size="106" crc="d50b1f79" md5="bd27b9c124315d0f7cf52359c4174055" sha1="903f4d9a10282dafd4d7e94e707139f4deaebb13"/>
 	</game>
-	<game name="Game Series 61, The - Seikei Sugoroku - Seikai Risshiden (Japan)" id="136332">
+	<game name="Game Series 61, The - Seikai Sugoroku - Seikai Risshiden (Japan)" id="136332">
 		<category>Games</category>
-		<description>Game Series 61, The - Seikei Sugoroku - Seikai Risshiden (Japan)</description>
-		<rom name="Game Series 61, The - Seikei Sugoroku - Seikai Risshiden (Japan).bin" size="49406112" crc="3bee0e30" md5="a6ff5dafe6e91ff142dbdbd9489a916b" sha1="60c986a60a377d75984187565084befdd924c1a6"/>
-		<rom name="Game Series 61, The - Seikei Sugoroku - Seikai Risshiden (Japan).cue" size="130" crc="4e5fe6f3" md5="0d2b8d1064ce2bef631c25b4c3403539" sha1="a161caa72fa298913f2518567adc36a960d4f447"/>
+		<description>Game Series 61, The - Seikai Sugoroku - Seikai Risshiden (Japan)</description>
+		<rom name="Game Series 61, The - Seikai Sugoroku - Seikai Risshiden (Japan).bin" size="49406112" crc="3bee0e30" md5="a6ff5dafe6e91ff142dbdbd9489a916b" sha1="60c986a60a377d75984187565084befdd924c1a6"/>
+		<rom name="Game Series 61, The - Seikai Sugoroku - Seikai Risshiden (Japan).cue" size="130" crc="3e38b5ee" md5="7cd6f68acdfe31baf785c5a0d10f97b2" sha1="79ed0a1f75112d844f7a12aa006f9f8ce654e46f"/>
 	</game>
 	<game name="Game Series 62, The - Pachi-Slot (Japan)" id="136331">
 		<category>Games</category>
@@ -85655,6 +85667,12 @@
 		<rom name="Larry 7 - Milosc na Fali (Poland).bin" size="729705648" crc="758c0464" md5="b3a44edbdde4df369f6551237002b152" sha1="c2b44e526cc53f99438cc0c3acf7c751755b3c7a"/>
 		<rom name="Larry 7 - Milosc na Fali (Poland).cue" size="122" crc="cec544c2" md5="9ba8966ab5031870b941e4972ae516f6" sha1="f772c12be6b3cb153027ecafbd6ed604ad9c2cf6"/>
 	</game>
+	<game name="Larry Bond's Harpoon - Commander's Edition (USA)" id="136983">
+		<category>Games</category>
+		<description>Larry Bond's Harpoon - Commander's Edition (USA)</description>
+		<rom name="Larry Bond's Harpoon - Commander's Edition (USA).bin" size="116946144" crc="766e96a3" md5="26ad6052180c4baa7eeb8b4d4fc1409b" sha1="ec7eba3c383cb3b561c04e53541447ff04ddbffe"/>
+		<rom name="Larry Bond's Harpoon - Commander's Edition (USA).cue" size="114" crc="95962990" md5="807c51276ed38c5d1258929e023010e5" sha1="445fa6ac5c108a702f225795c136d46666534f41"/>
+	</game>
 	<game name="Las Vegas Casino - Player's Collection (USA)" id="131432">
 		<category>Games</category>
 		<description>Las Vegas Casino - Player's Collection (USA)</description>
@@ -89917,6 +89935,12 @@
 		<rom name="Lost Treasures of Infocom II, The (USA).bin" size="14288400" crc="6657aaf2" md5="c938d59e07de5a95b9699108c1dc5d62" sha1="8246cbc924a3923ea7fa745bcd58260c90cfac10"/>
 		<rom name="Lost Treasures of Infocom II, The (USA).cue" size="105" crc="0e2bca27" md5="14d84c774c387e67e676c0b2b9515b97" sha1="5db79a80a049f7d77c44316e38f1418196eeb8ef"/>
 	</game>
+	<game name="Lost Treasures of Infocom, The (USA)" id="136985">
+		<category>Games</category>
+		<description>Lost Treasures of Infocom, The (USA)</description>
+		<rom name="Lost Treasures of Infocom, The (USA).bin" size="9513840" crc="c620fb84" md5="7cf50b5eef9eba8f4809f776f3256716" sha1="a23a447b1b8683aa00a6c91053e50c24ce9da8db"/>
+		<rom name="Lost Treasures of Infocom, The (USA).cue" size="125" crc="b45f717f" md5="c1234da392703f1b08c1644b5e6790ad" sha1="51939603de20664748fa8b4377fbe561648c7e5b"/>
+	</game>
 	<game name="Lost Vikings 2 - Norse by Norsewest (Europe) (En,Fr,De)" id="58520">
 		<category>Games</category>
 		<description>Lost Vikings 2 - Norse by Norsewest (Europe) (En,Fr,De)</description>
@@ -90839,6 +90863,12 @@
 		<description>M.A.X. 2 - Mechanized Assault &amp; Exploration (USA)</description>
 		<rom name="M.A.X. 2 - Mechanized Assault &amp; Exploration (USA).bin" size="780337152" crc="d541d4d6" md5="f896a8e0328796f564366015e60f9506" sha1="e934bc0d9911d31fd9de95b4dcbdcf25f6784ae2"/>
 		<rom name="M.A.X. 2 - Mechanized Assault &amp; Exploration (USA).cue" size="115" crc="bd4a9aaa" md5="451e06b69477e9d2320c2b02546267c5" sha1="9d88b7d80b5df2142ecb67f0f2992344d15534ac"/>
+	</game>
+	<game name="M.A.X.2 (Germany)" id="136976">
+		<category>Games</category>
+		<description>M.A.X.2 (Germany)</description>
+		<rom name="M.A.X.2 (Germany).bin" size="776336400" crc="7b8f2db6" md5="a73411d509cc3406496931d501b6bd54" sha1="09071ba67a5e8ad91cdc748500ecd3f9ab594f15"/>
+		<rom name="M.A.X.2 (Germany).cue" size="83" crc="aef6589a" md5="db0710d5cc8f6f3713fd85a4b57f81c0" sha1="3ee251c370fcdd0701507cb88e12c20c71f3ea9d"/>
 	</game>
 	<game name="M.I.A. - Missing in Action (Europe)" id="31815">
 		<category>Games</category>
@@ -92570,6 +92600,12 @@
 		<description>Mah Jong Quest III - Balance of Life (USA)</description>
 		<rom name="Mah Jong Quest III - Balance of Life (USA).bin" size="514053120" crc="f4401fb6" md5="92e617e0832d15abb9c577146b3deb9d" sha1="272f28b4cae3de578cf6172180a3413fdd7702f9"/>
 		<rom name="Mah Jong Quest III - Balance of Life (USA).cue" size="108" crc="ffcbe544" md5="1eee798b58207099b4c9872285979244" sha1="d207ae82e271e65347c4dff9c8bee6fe34ca6516"/>
+	</game>
+	<game name="Mah Jongg (Germany) (Data Becker)" id="136980">
+		<category>Games</category>
+		<description>Mah Jongg (Germany) (Data Becker)</description>
+		<rom name="Mah Jongg (Germany) (Data Becker).bin" size="808387104" crc="ecce10c6" md5="0a794756d641fb2b02285c68d40c8bc0" sha1="0d52d8061ebec5895ecbf0a8320909b80661cdc9"/>
+		<rom name="Mah Jongg (Germany) (Data Becker).cue" size="99" crc="9229ad0d" md5="7e9eb7c5f13e1558534372a6919d60a5" sha1="f396002621081d7c3a287b324fc960d465246b8f"/>
 	</game>
 	<game name="Mah Moku!! Remix - The Mah-Jang Remix (Japan)" id="99625">
 		<category>Games</category>
@@ -117283,6 +117319,12 @@
 		<description>Pinball Collection Vol. II (Australia)</description>
 		<rom name="Pinball Collection Vol. II (Australia).bin" size="488446896" crc="c457b2c6" md5="b1afeb0ef0b98fc8f550868f4c6a853b" sha1="24a6c0b4e63a716c2ea597eda836155b968f999b"/>
 		<rom name="Pinball Collection Vol. II (Australia).cue" size="104" crc="63230647" md5="9706cfd6da1260273962396212c6794a" sha1="f180b7c68782b58d2a6816453c017113182fb19b"/>
+	</game>
+	<game name="Pinball Collection Vol.2 (France)" id="136978">
+		<category>Games</category>
+		<description>Pinball Collection Vol.2 (France)</description>
+		<rom name="Pinball Collection Vol.2 (France).bin" size="535830288" crc="40daf38e" md5="7823679937c552d2efda7a316e764ffd" sha1="eed5db6cfebf3f38afbb1aa09c98edee80b89a91"/>
+		<rom name="Pinball Collection Vol.2 (France).cue" size="99" crc="d8680479" md5="a9e5d89828c239b64508652350c9a706" sha1="4f526626662635306d9b3bcca8bfeaabc0731361"/>
 	</game>
 	<game name="Pinball Dreams Deluxe (UK)" id="129434">
 		<category>Games</category>
@@ -147584,6 +147626,12 @@
 		<description>Space Shuttle (USA)</description>
 		<rom name="Space Shuttle (USA).bin" size="617508192" crc="95ba1ee7" md5="ff72985c2eb8c80faa9cd0ed0cddfc47" sha1="84dfbd290647584793ef8dadcd79a78cb6072054"/>
 		<rom name="Space Shuttle (USA).cue" size="108" crc="7bf0fd49" md5="08fffa311c5b35b44463d4793220eb6d" sha1="405f228553213f757b488adecbf7026dd10bd836"/>
+	</game>
+	<game name="Space Shuttle Mission Simulator - The Collector's Edition (USA)" id="136984">
+		<category>Games</category>
+		<description>Space Shuttle Mission Simulator - The Collector's Edition (USA)</description>
+		<rom name="Space Shuttle Mission Simulator - The Collector's Edition (USA).bin" size="199066224" crc="27e79d96" md5="8249b2d6a0615ef5ecd47257b214d377" sha1="e9ae09e1a036d8b5093046170562f00f96011a3b"/>
+		<rom name="Space Shuttle Mission Simulator - The Collector's Edition (USA).cue" size="129" crc="c06d9ab8" md5="01cb31a61dd3daf8fcee1fb88a25fd36" sha1="5a2d35fcbc916b33e774991b54111da86ad81b30"/>
 	</game>
 	<game name="Space Siege (USA)" id="66311">
 		<category>Games</category>

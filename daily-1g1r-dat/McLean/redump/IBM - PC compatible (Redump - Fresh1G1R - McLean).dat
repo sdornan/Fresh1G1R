@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,371) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-13 02-06-54) (Retool)</description>
-		<version>2026-08-13 02-06-54</version>
-		<date>2026-08-13 04-34-40</date>
+		<description>IBM - PC compatible (13,376) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-13 21-36-54) (Retool)</description>
+		<version>2026-08-13 21-36-54</version>
+		<date>2026-08-14 04-36-02</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -13446,6 +13446,12 @@
 		<category>Games</category>
 		<description>Casino, Inc. (Russia) (En,Ru)</description>
 		<rom name="Casino, Inc. (Russia) (En,Ru).iso" size="996573184" crc="7a8a5976" md5="97b35ec5067b16e5f683bb5e076ad212" sha1="7aa6349fb72514d990f71ef7448ce9358067748f"/>
+	</game>
+	<game name="Casper - The Interactive Adventure (USA)" id="136972">
+		<category>Games</category>
+		<description>Casper - The Interactive Adventure (USA)</description>
+		<rom name="Casper - The Interactive Adventure (USA).bin" size="651668640" crc="3109c931" md5="13500f01f10c01a40b087d0b928c3d67" sha1="718a7eef294f47b7dd71cc7155cd8dd3fadb4144"/>
+		<rom name="Casper - The Interactive Adventure (USA).cue" size="106" crc="e6e147f9" md5="93ae817e8023f3a057ce0e868ddf9203" sha1="807bca50557591bb14e7b7bc2b996278340e9787"/>
 	</game>
 	<game name="Castle - Never Judge a Book by Its Cover (USA)" id="83018">
 		<category>Games</category>
@@ -32202,6 +32208,12 @@
 		<description>Galactic Assault - Prisoner of Power (Europe)</description>
 		<rom name="Galactic Assault - Prisoner of Power (Europe).iso" size="1732378624" crc="31ad7d56" md5="56398030ba11169679929597e163d88b" sha1="cc423f9935718062b93208f00bdca29276d10681"/>
 	</game>
+	<game name="Galactic Bowling - The Ultimate Extreme Sport (USA)" id="136971">
+		<category>Games</category>
+		<description>Galactic Bowling - The Ultimate Extreme Sport (USA)</description>
+		<rom name="Galactic Bowling - The Ultimate Extreme Sport (USA).bin" size="683606448" crc="213d50c8" md5="814509b153aa7197d54917054b37f5b9" sha1="b3b53d06b9e79e3185bc6919b3e752a14ff7c3e8"/>
+		<rom name="Galactic Bowling - The Ultimate Extreme Sport (USA).cue" size="117" crc="b2874c4e" md5="3cbe9539f9559699664d30932e696289" sha1="e019965fcb998592a0915bf029c7115392562e10"/>
+	</game>
 	<game name="Galactic Civilizations (USA) (Rev 1)" id="43047">
 		<category>Games</category>
 		<description>Galactic Civilizations (USA) (Rev 1)</description>
@@ -44835,6 +44847,12 @@
 		<rom name="Largo Winch - Empire Under Threat (Europe) (En,De,Es,It).bin" size="788886672" crc="648889b0" md5="c4acb6c153c91ca16884f48ce3cec598" sha1="54b32dc20f5fc8c36d656a84c67282c42c1155b4"/>
 		<rom name="Largo Winch - Empire Under Threat (Europe) (En,De,Es,It).cue" size="122" crc="882a6115" md5="118d38a4ea9405d26809a681a73f4bc1" sha1="4248abc3b71ddd1fc1b616c671986352341e6fda"/>
 	</game>
+	<game name="Larry Bond's Harpoon - Commander's Edition (USA)" id="136983">
+		<category>Games</category>
+		<description>Larry Bond's Harpoon - Commander's Edition (USA)</description>
+		<rom name="Larry Bond's Harpoon - Commander's Edition (USA).bin" size="116946144" crc="766e96a3" md5="26ad6052180c4baa7eeb8b4d4fc1409b" sha1="ec7eba3c383cb3b561c04e53541447ff04ddbffe"/>
+		<rom name="Larry Bond's Harpoon - Commander's Edition (USA).cue" size="114" crc="95962990" md5="807c51276ed38c5d1258929e023010e5" sha1="445fa6ac5c108a702f225795c136d46666534f41"/>
+	</game>
 	<game name="Las Vegas Casino - Player's Collection (USA)" id="131432">
 		<category>Games</category>
 		<description>Las Vegas Casino - Player's Collection (USA)</description>
@@ -47264,6 +47282,12 @@
 		<description>Lost Treasures of Infocom II, The (USA)</description>
 		<rom name="Lost Treasures of Infocom II, The (USA).bin" size="14288400" crc="6657aaf2" md5="c938d59e07de5a95b9699108c1dc5d62" sha1="8246cbc924a3923ea7fa745bcd58260c90cfac10"/>
 		<rom name="Lost Treasures of Infocom II, The (USA).cue" size="105" crc="0e2bca27" md5="14d84c774c387e67e676c0b2b9515b97" sha1="5db79a80a049f7d77c44316e38f1418196eeb8ef"/>
+	</game>
+	<game name="Lost Treasures of Infocom, The (USA)" id="136985">
+		<category>Games</category>
+		<description>Lost Treasures of Infocom, The (USA)</description>
+		<rom name="Lost Treasures of Infocom, The (USA).bin" size="9513840" crc="c620fb84" md5="7cf50b5eef9eba8f4809f776f3256716" sha1="a23a447b1b8683aa00a6c91053e50c24ce9da8db"/>
+		<rom name="Lost Treasures of Infocom, The (USA).cue" size="125" crc="b45f717f" md5="c1234da392703f1b08c1644b5e6790ad" sha1="51939603de20664748fa8b4377fbe561648c7e5b"/>
 	</game>
 	<game name="Lost Vikings 2 - Norse by Norsewest (Europe) (En,Fr,De)" id="58520">
 		<category>Games</category>
@@ -75740,6 +75764,12 @@
 		<description>Space Shuttle (USA)</description>
 		<rom name="Space Shuttle (USA).bin" size="617508192" crc="95ba1ee7" md5="ff72985c2eb8c80faa9cd0ed0cddfc47" sha1="84dfbd290647584793ef8dadcd79a78cb6072054"/>
 		<rom name="Space Shuttle (USA).cue" size="108" crc="7bf0fd49" md5="08fffa311c5b35b44463d4793220eb6d" sha1="405f228553213f757b488adecbf7026dd10bd836"/>
+	</game>
+	<game name="Space Shuttle Mission Simulator - The Collector's Edition (USA)" id="136984">
+		<category>Games</category>
+		<description>Space Shuttle Mission Simulator - The Collector's Edition (USA)</description>
+		<rom name="Space Shuttle Mission Simulator - The Collector's Edition (USA).bin" size="199066224" crc="27e79d96" md5="8249b2d6a0615ef5ecd47257b214d377" sha1="e9ae09e1a036d8b5093046170562f00f96011a3b"/>
+		<rom name="Space Shuttle Mission Simulator - The Collector's Edition (USA).cue" size="129" crc="c06d9ab8" md5="01cb31a61dd3daf8fcee1fb88a25fd36" sha1="5a2d35fcbc916b33e774991b54111da86ad81b30"/>
 	</game>
 	<game name="Space Siege (USA)" id="66311">
 		<category>Games</category>
