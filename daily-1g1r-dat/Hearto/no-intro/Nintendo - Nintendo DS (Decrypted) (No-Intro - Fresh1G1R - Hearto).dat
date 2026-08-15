@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,941) (-y) [-aAbBcefkmMoprv] (20260810-214407) (Retool)</description>
-		<version>20260810-214407</version>
-		<date>2026-08-14 04-29-46</date>
-		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,941) (-y) [-aAbBcefkmMoprv] (20260814-040944) (Retool)</description>
+		<version>20260814-040944</version>
+		<date>2026-08-15 03-08-10</date>
+		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -2850,7 +2850,7 @@
 	<game name="Clever Kids - Creepy Crawlies (Europe) (En,Fr,De,Es,It)" id="5313">
 		<category>Games</category>
 		<description>Clever Kids - Creepy Crawlies (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Clever Kids - Creepy Crawlies (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="7c68814b" md5="4c8d6be9c2361b8b5fbabe3de1357396" sha1="afa2f059c1621d42ae33d013c305202598e6291e"/>
+		<rom name="Clever Kids - Creepy Crawlies (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="7c68814b" md5="4c8d6be9c2361b8b5fbabe3de1357396" sha1="afa2f059c1621d42ae33d013c305202598e6291e" sha256="cb6deebad555233d51fc22021805badf96ba53b8b0caa0d7505fc6ae780cec8d"/>
 	</game>
 	<game name="Clever Kids - Dino Land (Europe) (En,Fr,De,Es,It,Pt)" id="1593">
 		<category>Games</category>
@@ -5850,7 +5850,7 @@
 	<game name="Gesundheits Coach, Der - Wohlfuehlen Jeden Tag (Germany)" id="4842">
 		<category>Games</category>
 		<description>Gesundheits Coach, Der - Wohlfuehlen Jeden Tag (Germany)</description>
-		<rom name="Gesundheits Coach, Der - Wohlfuehlen Jeden Tag (Germany).nds" size="16777216" crc="a64b50a4" md5="7b572fafdb177686a8aaa297463a1b5e" sha1="2e3df00141ef9b53e88386db8a7f03bbf62e0bf4"/>
+		<rom name="Gesundheits Coach, Der - Wohlfuehlen Jeden Tag (Germany).nds" size="16777216" crc="a64b50a4" md5="7b572fafdb177686a8aaa297463a1b5e" sha1="2e3df00141ef9b53e88386db8a7f03bbf62e0bf4" sha256="56d4f4644628446027cd892f25fa77379f96def699ea26288a93fa737ee6be30"/>
 	</game>
 	<game name="Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It)" id="5478">
 		<category>Games</category>

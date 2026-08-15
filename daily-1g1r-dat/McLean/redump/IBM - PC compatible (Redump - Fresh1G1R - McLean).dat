@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,376) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-13 21-36-54) (Retool)</description>
-		<version>2026-08-13 21-36-54</version>
-		<date>2026-08-14 04-36-02</date>
+		<description>IBM - PC compatible (13,378) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-14 22-16-54) (Retool)</description>
+		<version>2026-08-14 22-16-54</version>
+		<date>2026-08-15 03-14-09</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -10920,6 +10920,12 @@
 		<rom name="Braveheart (USA) (Rev 1).bin" size="708111936" crc="51d03e88" md5="7312b73a0aa4823f5cbc147bb4251c3b" sha1="92a81dfbe44dd129a1b77522bb81d474ca305bef"/>
 		<rom name="Braveheart (USA) (Rev 1).cue" size="90" crc="0d431597" md5="e7cc20f0648c34a1a5a3cdd9faf19d2b" sha1="1014f9e8539bebfa4928f1de95f0103bab67c614"/>
 	</game>
+	<game name="Brazilian Drug Dealer 3 - I Opened a Portal to Hell in the Favela Trying to Revive Mit Aia I Need to Close It (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Tr,Ro)" id="136997">
+		<category>Games</category>
+		<description>Brazilian Drug Dealer 3 - I Opened a Portal to Hell in the Favela Trying to Revive Mit Aia I Need to Close It (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Tr,Ro)</description>
+		<rom name="Brazilian Drug Dealer 3 - I Opened a Portal to Hell in the Favela Trying to Revive Mit Aia I Need to Close It (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Tr,Ro).bin" size="363384000" crc="35026a60" md5="f5fd4ce217cf9de99daa3ad09ca8f463" sha1="d8f9d1deb2e260414a7e7c1c853d67f102d02dfe"/>
+		<rom name="Brazilian Drug Dealer 3 - I Opened a Portal to Hell in the Favela Trying to Revive Mit Aia I Need to Close It (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Tr,Ro).cue" size="225" crc="0d193b88" md5="4318b9fa355c8fdc01cdf09a3434b958" sha1="6cfe1efd659fbeeada1db5406f0ac28a24d5e74f"/>
+	</game>
 	<game name="Breach (USA)" id="135812">
 		<category>Games</category>
 		<description>Breach (USA)</description>
@@ -17117,6 +17123,12 @@
 		<description>Crazy Machines 1.5 (USA) (Rev 1)</description>
 		<rom name="Crazy Machines 1.5 (USA) (Rev 1).bin" size="122160528" crc="7439dfd2" md5="e828bcee7867cf1b771f505ec6a0ee92" sha1="4a3ed77e28cffd9aa3e78d176edae9bf60f7f626"/>
 		<rom name="Crazy Machines 1.5 (USA) (Rev 1).cue" size="98" crc="fde65f56" md5="da59c9657e24305261a8e88e2105cab8" sha1="6863505928f03a2c83474f4d868d9153bf319995"/>
+	</game>
+	<game name="Crazy Machines 2 - Essential Puzzle Pack (USA)" id="136993">
+		<category>Games</category>
+		<description>Crazy Machines 2 - Essential Puzzle Pack (USA)</description>
+		<rom name="Crazy Machines 2 - Essential Puzzle Pack (USA).bin" size="729620976" crc="764b6471" md5="5f07d966f07f984676b2035de9357aaa" sha1="fc2dffac1a6100eacb9d5399d073a4f5324247d6"/>
+		<rom name="Crazy Machines 2 - Essential Puzzle Pack (USA).cue" size="112" crc="0f6cee5b" md5="71db17b15270699051cb08e7298a1e59" sha1="9ba0d5d79d0b1a6a3b267f1daf9ec1b559c0915e"/>
 	</game>
 	<game name="Crazy Machines 2 Complete (USA)" id="93762">
 		<category>Games</category>

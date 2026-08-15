@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii (Retool)</name>
-		<description>Nintendo - Wii (1,443) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-13 19-16-54) (Retool)</description>
-		<version>2026-08-13 19-16-54</version>
-		<date>2026-08-14 04-37-38</date>
+		<description>Nintendo - Wii (1,443) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-14 17-16-53) (Retool)</description>
+		<version>2026-08-14 17-16-53</version>
+		<date>2026-08-15 03-15-49</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2925,7 +2925,7 @@
 	<game name="Game Party 2 (USA) (En,Fr,Es)" id="46070">
 		<category>Games</category>
 		<description>Game Party 2 (USA) (En,Fr,Es)</description>
-		<serial>RVL-RV2E-USA-B1</serial>
+		<serial>RVL-RV2E-USA-B1, RVL-RV2E-USA-B0</serial>
 		<rom name="Game Party 2 (USA) (En,Fr,Es).iso" size="4699979776" crc="2169d975" md5="a1377851164b3f835b223527915a8d86" sha1="9fa1f249260a80112d0386dbbbbeec32990226ac"/>
 	</game>
 	<game name="Game Party 3 (USA) (En,Fr,Es)" id="46342">
@@ -4513,7 +4513,7 @@
 	<game name="M&amp;M's Beach Party (USA)" id="48272">
 		<category>Games</category>
 		<description>M&amp;M's Beach Party (USA)</description>
-		<serial>RVL-RXWE-USA</serial>
+		<serial>RVL-RXWE-USA, RVL-RXWE-USA-B0</serial>
 		<rom name="M&amp;M's Beach Party (USA).iso" size="4699979776" crc="64420947" md5="0934febc223f83d7303eb56852ed456d" sha1="d99af6758fae234d26797e8778368ed4cbbc73ae"/>
 	</game>
 	<game name="M&amp;M's Kart Racing (USA)" id="46746">

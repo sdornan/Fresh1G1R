@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,359) (-y) [-aAbBcdkmMpPuv] (2026-08-13 21-36-54) (Retool)</description>
-		<version>2026-08-13 21-36-54</version>
-		<date>2026-08-14 04-45-39</date>
+		<description>IBM - PC compatible (26,365) (-y) [-aAbBcdkmMpPuv] (2026-08-14 22-16-54) (Retool)</description>
+		<version>2026-08-14 22-16-54</version>
+		<date>2026-08-15 03-24-08</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -9148,6 +9148,12 @@
 		<description>Animal Koi Koi Hanafuda (Japan)</description>
 		<rom name="Animal Koi Koi Hanafuda (Japan).bin" size="52795344" crc="48f68487" md5="8339018adaebcb6b2fbd6329ef857780" sha1="ddf16d197433e5e7868b2d9a494757f4a0aed7b2"/>
 		<rom name="Animal Koi Koi Hanafuda (Japan).cue" size="97" crc="011ce7fe" md5="09878333668cbeb00a40825f566c2753" sha1="7c662c5f654e57ee1c797085e949f51f3c47fc52"/>
+	</game>
+	<game name="Animal Paradise (Japan)" id="136994">
+		<category>Games</category>
+		<description>Animal Paradise (Japan)</description>
+		<rom name="Animal Paradise (Japan).bin" size="688846704" crc="14297a9c" md5="8c5f7ea48314e841b92b8feeca588d93" sha1="3b0d646a4bfb6278f7fb5d620006b3b2356d75ac"/>
+		<rom name="Animal Paradise (Japan).cue" size="89" crc="467a3db8" md5="d7bd171e3a7714f681a314d393e56d7d" sha1="f0e3c5cfaf562e8fc349cf24dd1b712aff0d8ab9"/>
 	</game>
 	<game name="Animal Planet Air (Russia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Fi,Zh,Ru,Hr,Cs,Hu,Sl,Ar,Tr,Mk,Id,Sr,Sq,Bg)" id="118197">
 		<category>Games</category>
@@ -21427,6 +21433,12 @@
 		<rom name="Braveheart (USA) (Rev 1).bin" size="708111936" crc="51d03e88" md5="7312b73a0aa4823f5cbc147bb4251c3b" sha1="92a81dfbe44dd129a1b77522bb81d474ca305bef"/>
 		<rom name="Braveheart (USA) (Rev 1).cue" size="90" crc="0d431597" md5="e7cc20f0648c34a1a5a3cdd9faf19d2b" sha1="1014f9e8539bebfa4928f1de95f0103bab67c614"/>
 	</game>
+	<game name="Brazilian Drug Dealer 3 - I Opened a Portal to Hell in the Favela Trying to Revive Mit Aia I Need to Close It (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Tr,Ro)" id="136997">
+		<category>Games</category>
+		<description>Brazilian Drug Dealer 3 - I Opened a Portal to Hell in the Favela Trying to Revive Mit Aia I Need to Close It (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Tr,Ro)</description>
+		<rom name="Brazilian Drug Dealer 3 - I Opened a Portal to Hell in the Favela Trying to Revive Mit Aia I Need to Close It (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Tr,Ro).bin" size="363384000" crc="35026a60" md5="f5fd4ce217cf9de99daa3ad09ca8f463" sha1="d8f9d1deb2e260414a7e7c1c853d67f102d02dfe"/>
+		<rom name="Brazilian Drug Dealer 3 - I Opened a Portal to Hell in the Favela Trying to Revive Mit Aia I Need to Close It (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Tr,Ro).cue" size="225" crc="0d193b88" md5="4318b9fa355c8fdc01cdf09a3434b958" sha1="6cfe1efd659fbeeada1db5406f0ac28a24d5e74f"/>
+	</game>
 	<game name="Breach (USA)" id="135812">
 		<category>Games</category>
 		<description>Breach (USA)</description>
@@ -32090,6 +32102,12 @@
 		<description>Crazy Machines 1.5 (USA) (Rev 1)</description>
 		<rom name="Crazy Machines 1.5 (USA) (Rev 1).bin" size="122160528" crc="7439dfd2" md5="e828bcee7867cf1b771f505ec6a0ee92" sha1="4a3ed77e28cffd9aa3e78d176edae9bf60f7f626"/>
 		<rom name="Crazy Machines 1.5 (USA) (Rev 1).cue" size="98" crc="fde65f56" md5="da59c9657e24305261a8e88e2105cab8" sha1="6863505928f03a2c83474f4d868d9153bf319995"/>
+	</game>
+	<game name="Crazy Machines 2 - Essential Puzzle Pack (USA)" id="136993">
+		<category>Games</category>
+		<description>Crazy Machines 2 - Essential Puzzle Pack (USA)</description>
+		<rom name="Crazy Machines 2 - Essential Puzzle Pack (USA).bin" size="729620976" crc="764b6471" md5="5f07d966f07f984676b2035de9357aaa" sha1="fc2dffac1a6100eacb9d5399d073a4f5324247d6"/>
+		<rom name="Crazy Machines 2 - Essential Puzzle Pack (USA).cue" size="112" crc="0f6cee5b" md5="71db17b15270699051cb08e7298a1e59" sha1="9ba0d5d79d0b1a6a3b267f1daf9ec1b559c0915e"/>
 	</game>
 	<game name="Crazy Machines 2 Complete (USA)" id="93762">
 		<category>Games</category>
@@ -70688,10 +70706,10 @@
 		<description>Heroes of Might and Magic V - Gold Edition (USA, Europe) (En,Fr,De,Es,It) (Disc 1)</description>
 		<rom name="Heroes of Might and Magic V - Gold Edition (USA, Europe) (En,Fr,De,Es,It) (Disc 1).iso" size="4393500672" crc="29a75c1e" md5="52ed94b3b21fd95e0e795f304dfc1fe4" sha1="fa0c875259a5cf7f87053d0671951e035cebeb7f"/>
 	</game>
-	<game name="Heroes of Might and Magic V - Hammers of Fate (Expansion Pack) (Europe) (Es,It)" id="116344">
+	<game name="Heroes of Might and Magic V - Hammers of Fate (Expansion Pack) (Europe)" id="136989">
 		<category>Add-Ons</category>
-		<description>Heroes of Might and Magic V - Hammers of Fate (Expansion Pack) (Europe) (Es,It)</description>
-		<rom name="Heroes of Might and Magic V - Hammers of Fate (Expansion Pack) (Europe) (Es,It).iso" size="1211953152" crc="9532bb87" md5="f5dde423787fdf82cc8ec9162a48e0ce" sha1="8c96e80bce125bf3ef77c7edce793b1fde56b52e"/>
+		<description>Heroes of Might and Magic V - Hammers of Fate (Expansion Pack) (Europe)</description>
+		<rom name="Heroes of Might and Magic V - Hammers of Fate (Expansion Pack) (Europe).iso" size="1695279104" crc="5b904167" md5="e880f3d81c04167bd4d92913e5fc7ad3" sha1="5624aab1452e6bb3067915db9d4b4fb7609433a8"/>
 	</game>
 	<game name="Heroes of Might and Magic V - Hammers of Fate (Expansion Pack) (USA) (Disc 1)" id="83314">
 		<category>Add-Ons</category>
@@ -93258,12 +93276,6 @@
 		<rom name="M.A.X. 2 - Mechanized Assault &amp; Exploration (USA).bin" size="780337152" crc="d541d4d6" md5="f896a8e0328796f564366015e60f9506" sha1="e934bc0d9911d31fd9de95b4dcbdcf25f6784ae2"/>
 		<rom name="M.A.X. 2 - Mechanized Assault &amp; Exploration (USA).cue" size="115" crc="bd4a9aaa" md5="451e06b69477e9d2320c2b02546267c5" sha1="9d88b7d80b5df2142ecb67f0f2992344d15534ac"/>
 	</game>
-	<game name="M.A.X.2 (Germany)" id="136976">
-		<category>Games</category>
-		<description>M.A.X.2 (Germany)</description>
-		<rom name="M.A.X.2 (Germany).bin" size="776336400" crc="7b8f2db6" md5="a73411d509cc3406496931d501b6bd54" sha1="09071ba67a5e8ad91cdc748500ecd3f9ab594f15"/>
-		<rom name="M.A.X.2 (Germany).cue" size="83" crc="aef6589a" md5="db0710d5cc8f6f3713fd85a4b57f81c0" sha1="3ee251c370fcdd0701507cb88e12c20c71f3ea9d"/>
-	</game>
 	<game name="M.I.A. - Missing in Action (Europe)" id="31815">
 		<category>Games</category>
 		<description>M.I.A. - Missing in Action (Europe)</description>
@@ -112805,6 +112817,47 @@
 		<description>Nile - Passage to Egypt (USA)</description>
 		<rom name="Nile - Passage to Egypt (USA).bin" size="775722528" crc="b6cb6f8c" md5="49345f4e0a3bd0222edd53c0663b3519" sha1="13763f1a07c404c184483d00e57ff0d3736665a9"/>
 		<rom name="Nile - Passage to Egypt (USA).cue" size="95" crc="764e0f7d" md5="000f124e5543ab706dc8d05b8cddaa9a" sha1="790c305c4b299b0b01b2be062cf8105e80a2f806"/>
+	</game>
+	<game name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc)" id="136995">
+		<category>Games</category>
+		<description>Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc)</description>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 01).bin" size="88338768" crc="958af5e6" md5="99579361d09e82549fd4015c8188e986" sha1="94486a78081f86f9e3da3871121195a7c75614cc"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 02).bin" size="25389840" crc="3916cc1a" md5="f98cbd312b047c8dfaa31e079fe5afa6" sha1="23e258858b04e5a7ced6978381a50167573f140d"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 03).bin" size="55384896" crc="2af8533c" md5="d9013b38571ffc047caa7c3b612fb42f" sha1="988cd55712a4674d9b9bf992170dde0836cbcbe4"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 04).bin" size="16854432" crc="9f00a71a" md5="a3111b9818236e50c423a8057814ec21" sha1="aa5beae9de4b8059ee5a2f1638682aefef8ceae0"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 05).bin" size="14911680" crc="a1cece70" md5="5f58a833a299356b5ff8b53c9549f5e4" sha1="7ec501bc6d852a1860c8a75cbfdef89cb6784606"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 06).bin" size="27650112" crc="66fb0baa" md5="0ad4e584225633fbfd4b41ea2ee7d9da" sha1="0ffd780eb16de80234758e5d878e3fa99b8404f0"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 07).bin" size="18164496" crc="e118efac" md5="a26eef2a63a86b56fc94f18f84c6eb92" sha1="117cc3274715eaaa6bea56cd6bd2985165a0372d"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 08).bin" size="15803088" crc="fa297d08" md5="fd20e3ba7a38c6975bf024af11af7ea3" sha1="657d240718e2763bf38337eb93d8684a7375728b"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 09).bin" size="24505488" crc="abff56d4" md5="e905be27d73f6b5091795ca3631b3747" sha1="2d113385b94d977a752c14b371b3420b106b4ea8"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 10).bin" size="18387936" crc="cbb169c9" md5="20dcf7f957981498400524a45e7bc3ce" sha1="6f9228f8ff424058db73db7386635d5221750d16"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 11).bin" size="23849280" crc="1125c734" md5="a70253d7ccfbf06812675e2b6e7ccd68" sha1="8c00570957bd8b31badcee67a65ee6c0fd00b3d5"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 12).bin" size="16186464" crc="112e6bd9" md5="59557555c0df874f819cbdb749fb5f4c" sha1="41dc0b0fab3307ebff27d22ef223d977e3f9a913"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 13).bin" size="13100640" crc="8379a66a" md5="1b42a29ec9ae695c5d3c66f122d2c19e" sha1="33b8f3a02151a1168567aecdd9410f1f3a08a1dd"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 14).bin" size="20420064" crc="1e0446da" md5="4bc2b3014454b718b9bdca479dd26644" sha1="5c578f335ac42cec9be13bc2657fb2ca52460206"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 15).bin" size="19810896" crc="e54f3c91" md5="d9f7cb3fa6315448988a0a1a3c3066f6" sha1="fa6e893f82ec35e48e8fa2b33c146fad3f624f9c"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 16).bin" size="35044800" crc="9f2b28e4" md5="f4620a585e610f31ed0f797624e1fc2a" sha1="8c269f8d56f1e76181155d89ef7866a4ba483c00"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 17).bin" size="20551776" crc="f1f6caec" md5="3ce0e3cdaef9d9a8a1c458e1cc7c84e1" sha1="3b47b1d85f94da2c83f625a3a3c52bbc73755d11"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 18).bin" size="3909024" crc="fbfcd4a1" md5="57a2405853e20a6ec5ffa282c686eea2" sha1="7174cbf35e6e567fa0213778c9bfb70f65db86d7"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 19).bin" size="17825808" crc="c08cb203" md5="2ec3d827a31d8f70315fce930b0c1aca" sha1="f706ed322d0f5a1114012bc2462f8a88e49dcded"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 20).bin" size="30324336" crc="65fd48c3" md5="4e5a00c8aaa682af1e580846ef0c32ed" sha1="69519d6b8aae47a7a134b16f4765906484282e83"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 21).bin" size="26841024" crc="aea69c0d" md5="e93a7ebbf578009557469fe796f6e771" sha1="e55ac39bda33f5bcd8d7a799101339bcdcca0c09"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 22).bin" size="19759152" crc="d1e83ace" md5="cddd7d7c28d643419b23ce9605f8a421" sha1="4ca949c67dbc308f946a8189e693f1d78375a6da"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 23).bin" size="31987200" crc="4d54f50a" md5="e8c229f10604e81903765d6ad739e9fa" sha1="7ca8b7956687ffaf61ccadfc5243897bbd2d6083"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 24).bin" size="29616384" crc="d9a5ef1a" md5="44e0fa6be419a05fcb3b215c92be9b2b" sha1="398a32bce1a3b042b837abb49b7c965f0a8bc4d5"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 25).bin" size="28174608" crc="3ff3aefc" md5="4a326299daeca18e4684e15c98b5ef18" sha1="c2c5c0923d8aba35c80085987bd2071cc13d1465"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 26).bin" size="10828608" crc="8b44e141" md5="a67411d340750e99eac2c9199deab95e" sha1="ecf80aec853b1b3793451aeff66c56fd03023991"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 27).bin" size="2693040" crc="2d454d25" md5="a6bfc995ea8f9880cd0fe323e4eda3d0" sha1="40909a0019c9e12bd153d6fb7a52c44d3938a669"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 28).bin" size="46245024" crc="dd02966c" md5="036598e44e4a1fab0284d48dda724e3f" sha1="a5fbfe6f6912ce3858d3f5f273f34b8393419245"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 29).bin" size="19488672" crc="f31da1fd" md5="c6160d5d4477e8d996c2c5f68881d68e" sha1="463b0be45dc57378e3d43bbd4aaed354141b66b6"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc) (Track 30).bin" size="12173952" crc="459ca898" md5="f01a163d0dcbf9d0139abd2571eec176" sha1="4ad04cbd628a73ea782d702e6f070c0c465b8967"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 1) (Game Disc).cue" size="4452" crc="2787e88e" md5="2f70ffff0103d9339691f2b18c9f9e5c" sha1="19de0fe2c0d49666b072d5047f515793d5f183f3"/>
+	</game>
+	<game name="Nimai de Kango Shichau zo (Japan) (Disc 2) (Voice Plus Disc)" id="136996">
+		<category>Games</category>
+		<description>Nimai de Kango Shichau zo (Japan) (Disc 2) (Voice Plus Disc)</description>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 2) (Voice Plus Disc).bin" size="798896784" crc="cdb6f097" md5="4d0514f43147a9956ba6e8dc5e3f3e8e" sha1="71a20bce943d0ed6953be1de2c41d510965689ff"/>
+		<rom name="Nimai de Kango Shichau zo (Japan) (Disc 2) (Voice Plus Disc).cue" size="126" crc="c3b69159" md5="66846eb4809e09eec00c4199a64118af" sha1="916a87ff2f7aa8d8ee613248977caa87e3ba4ce8"/>
 	</game>
 	<game name="Nina - Dnevniki specagenta (Russia)" id="109982">
 		<category>Games</category>
@@ -148207,10 +148260,10 @@
 		<rom name="Sims 2, The - Pets (Expansion Pack) (USA) (Disc 2).bin" size="242538240" crc="0f1bd5ab" md5="e37cb89cc6b6cb84b41caf0a603a4360" sha1="9098eaabe07909319f55895f72832e2cc0049d27"/>
 		<rom name="Sims 2, The - Pets (Expansion Pack) (USA) (Disc 2).cue" size="116" crc="fdb40289" md5="bea01dc08e388c6a1c5565c1803093e6" sha1="94303599e3146d1e1c3f95b4c6a4c92fd24d93e7"/>
 	</game>
-	<game name="Sims 2, The - Pets (Expansion Pack) (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Europe, Australia, Latin America)" id="48349">
+	<game name="Sims 2, The - Pets (Expansion Pack) (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)" id="48349">
 		<category>Add-Ons</category>
-		<description>Sims 2, The - Pets (Expansion Pack) (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Europe, Australia, Latin America)</description>
-		<rom name="Sims 2, The - Pets (Expansion Pack) (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Europe, Australia, Latin America).iso" size="719683584" crc="bdae36cf" md5="4d593064ba4ba836b5cb42a6bb20d6d9" sha1="3b9e18721a4b194d92b23ac3703569874594a36c"/>
+		<description>Sims 2, The - Pets (Expansion Pack) (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)</description>
+		<rom name="Sims 2, The - Pets (Expansion Pack) (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso" size="719683584" crc="bdae36cf" md5="4d593064ba4ba836b5cb42a6bb20d6d9" sha1="3b9e18721a4b194d92b23ac3703569874594a36c"/>
 	</game>
 	<game name="Sims 2, The - Seasons (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)" id="48351">
 		<category>Add-Ons</category>
@@ -148257,6 +148310,18 @@
 		<description>Sims 2, The - University (Expansion Pack) (USA) (En,Es) (Disc 2) (Rerelease)</description>
 		<rom name="Sims 2, The - University (Expansion Pack) (USA) (En,Es) (Disc 2) (Rerelease).bin" size="271867680" crc="dd41f853" md5="7c017426442efdbf17bc8c8acb65a8b2" sha1="15e016e3cbd80730dbaef455e94760d175e422d2"/>
 		<rom name="Sims 2, The - University (Expansion Pack) (USA) (En,Es) (Disc 2) (Rerelease).cue" size="142" crc="90ffce4a" md5="62162cd58f7c93896c9864f470a82206" sha1="49d1158bbf463db64f9d7cf9021fa9e95548ffef"/>
+	</game>
+	<game name="Sims 2, The - University (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1) (Expansion Pack)" id="136998">
+		<category>Add-Ons</category>
+		<description>Sims 2, The - University (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1) (Expansion Pack)</description>
+		<rom name="Sims 2, The - University (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1) (Expansion Pack).bin" size="783248928" crc="7c0ceaf5" md5="da962a5caa76dc0b5e5f0686c9decbca" sha1="39531ec12694832a34b17cec3d21c374731f80af"/>
+		<rom name="Sims 2, The - University (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1) (Expansion Pack).cue" size="162" crc="946ddb96" md5="2eb14a5f18ca930d5652e750f6f0a9d5" sha1="78d5417d44cce8b7729d2700b4489f148e34f24c"/>
+	</game>
+	<game name="Sims 2, The - University (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2) (Expansion Pack)" id="136999">
+		<category>Add-Ons</category>
+		<description>Sims 2, The - University (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2) (Expansion Pack)</description>
+		<rom name="Sims 2, The - University (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2) (Expansion Pack).bin" size="186330144" crc="91e18b75" md5="3056acadff955e5af194d98b0a4d91b7" sha1="f81521247d2032a1571d9d5b8675c7a1608ae5c8"/>
+		<rom name="Sims 2, The - University (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2) (Expansion Pack).cue" size="162" crc="48664265" md5="855ca05d574cde478e60d289b30872e6" sha1="a861563d299ae3a063fa14c2a06f89695e003009"/>
 	</game>
 	<game name="Sims 2, The - University Life Collection (USA) (En,Es)" id="92926">
 		<category>Add-Ons</category>
