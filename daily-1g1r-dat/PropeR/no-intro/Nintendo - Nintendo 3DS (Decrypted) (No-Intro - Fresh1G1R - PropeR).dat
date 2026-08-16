@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (936) (-y) [-aAbBcdkmMpPuv] (20260813-210655) (Retool)</description>
-		<version>20260813-210655</version>
-		<date>2026-08-15 03-29-08</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (936) (-y) [-aAbBcdkmMpPuv] (20260815-042508) (Retool)</description>
+		<version>20260815-042508</version>
+		<date>2026-08-16 03-32-04</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1466,7 +1466,7 @@
 		<category>Games</category>
 		<description>Fantasy Life Link! (Japan)</description>
 		<game_id>00040000000E9C00</game_id>
-		<rom name="Fantasy Life Link! (Japan).3ds" size="1073741824" crc="ee44d520" md5="96789be06b9d5eb6b01f7a529b367562" sha1="21b8cf896c05e4568f2136828809f1a6c8b1939b"/>
+		<rom name="Fantasy Life Link! (Japan).3ds" size="1073741824" crc="ee44d520" md5="96789be06b9d5eb6b01f7a529b367562" sha1="21b8cf896c05e4568f2136828809f1a6c8b1939b" sha256="4ac41345254289ecbbcbd025a687bbc59f18dc4af646bd828cc5abd37ae3866c"/>
 	</game>
 	<game name="Farming Simulator 14 (USA) (En,Fr,Es,Pt)" id="0985">
 		<category>Games</category>
@@ -3345,7 +3345,7 @@
 		<category>Games</category>
 		<description>Mystery Case Files - Ravenhearst (Europe) (En,Fr,De,Nl)</description>
 		<game_id>00040000000D6F00</game_id>
-		<rom name="Mystery Case Files - Ravenhearst (Europe) (En,Fr,De,Nl).3ds" size="268435456" crc="dc8a21a0" md5="841bb592bec6a8de9f796f24724bd350" sha1="f0c75142a6bff67ad4742ab0dd5ca3ab2904e445"/>
+		<rom name="Mystery Case Files - Ravenhearst (Europe) (En,Fr,De,Nl).3ds" size="268435456" crc="dc8a21a0" md5="841bb592bec6a8de9f796f24724bd350" sha1="f0c75142a6bff67ad4742ab0dd5ca3ab2904e445" sha256="62ab2a115e7c4fcaa0955317e126d869a95d9304825cdba16cfede0dd7668512"/>
 	</game>
 	<game name="Mystery Case Files - Return to Ravenhearst (Europe) (En,Fr,De,Es,It,Nl)" id="0877">
 		<category>Games</category>

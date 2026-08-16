@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (606) (-ly) [-aAbBcdDefkmMopPruv] (20260813-013110) (Retool)</description>
-		<version>20260813-013110</version>
-		<date>2026-08-15 03-17-44</date>
+		<description>Nintendo - Game Boy (606) (-ly) [-aAbBcdDefkmMopPruv] (20260814-115131) (Retool)</description>
+		<version>20260814-115131</version>
+		<date>2026-08-16 03-22-57</date>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -971,10 +971,10 @@
 		<description>Game &amp; Watch Gallery (USA) (Rev 1) (SGB Enhanced)</description>
 		<rom name="Game &amp; Watch Gallery (USA) (Rev 1) (SGB Enhanced).gb" size="262144" crc="9e6cdc96" md5="7727f43d66a77fe0284bf1b8ffede7dd" sha1="4e4da0ed89c2baaed64600f7eaca90aeeadc084e" sha256="f2099eb0fc0bbee1351e4937be69d8e92410dfc23950b42bc45b9b9b3cb6c7df"/>
 	</game>
-	<game name="Game Boy Gallery - 5 Games in 1 (Europe) (SGB Enhanced)" id="0419">
+	<game name="Game Boy Gallery - 5 Games in 1 (Europe, Australia) (SGB Enhanced)" id="0419">
 		<category>Games</category>
-		<description>Game Boy Gallery - 5 Games in 1 (Europe) (SGB Enhanced)</description>
-		<rom name="Game Boy Gallery - 5 Games in 1 (Europe) (SGB Enhanced).gb" size="131072" crc="263fd152" md5="b6d1139fb8d57cd47f173faef592c813" sha1="07b6174a413858f84bfc480169945c7fd1a372b9" sha256="ad53582f0afad53dc3b9c74c0239b46f8d5d3795dc2c86d320748bdef99d349c"/>
+		<description>Game Boy Gallery - 5 Games in 1 (Europe, Australia) (SGB Enhanced)</description>
+		<rom name="Game Boy Gallery - 5 Games in 1 (Europe, Australia) (SGB Enhanced).gb" size="131072" crc="263fd152" md5="b6d1139fb8d57cd47f173faef592c813" sha1="07b6174a413858f84bfc480169945c7fd1a372b9" sha256="ad53582f0afad53dc3b9c74c0239b46f8d5d3795dc2c86d320748bdef99d349c"/>
 	</game>
 	<game name="Game of Harmony, The (USA)" id="0430">
 		<category>Games</category>

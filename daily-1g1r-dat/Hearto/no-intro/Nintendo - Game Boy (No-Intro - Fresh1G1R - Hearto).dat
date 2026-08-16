@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (1,128) (-y) [-aAbBcefkmMoprv] (20260813-013110) (Retool)</description>
-		<version>20260813-013110</version>
-		<date>2026-08-15 03-07-18</date>
+		<description>Nintendo - Game Boy (1,128) (-y) [-aAbBcefkmMoprv] (20260814-115131) (Retool)</description>
+		<version>20260814-115131</version>
+		<date>2026-08-16 03-14-48</date>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1649,10 +1649,10 @@
 		<description>Game Boy Digital Sampling Oscilloscope (Europe) (Demo) (Unl)</description>
 		<rom name="Game Boy Digital Sampling Oscilloscope (Europe) (Demo) (Unl).gb" size="32768" crc="a800444b" md5="142a57ae12384a07ec4b1e1b567f6915" sha1="db3e76bced7bd9844aedf23345c4307403006600" sha256="b99093af5a9f05cbdfcda25c1f6a5de43cf6f6a3b9495e1a3c2319853c5935c3"/>
 	</game>
-	<game name="Game Boy Gallery - 5 Games in 1 (Europe) (SGB Enhanced)" id="0419">
+	<game name="Game Boy Gallery - 5 Games in 1 (Europe, Australia) (SGB Enhanced)" id="0419">
 		<category>Games</category>
-		<description>Game Boy Gallery - 5 Games in 1 (Europe) (SGB Enhanced)</description>
-		<rom name="Game Boy Gallery - 5 Games in 1 (Europe) (SGB Enhanced).gb" size="131072" crc="263fd152" md5="b6d1139fb8d57cd47f173faef592c813" sha1="07b6174a413858f84bfc480169945c7fd1a372b9" sha256="ad53582f0afad53dc3b9c74c0239b46f8d5d3795dc2c86d320748bdef99d349c"/>
+		<description>Game Boy Gallery - 5 Games in 1 (Europe, Australia) (SGB Enhanced)</description>
+		<rom name="Game Boy Gallery - 5 Games in 1 (Europe, Australia) (SGB Enhanced).gb" size="131072" crc="263fd152" md5="b6d1139fb8d57cd47f173faef592c813" sha1="07b6174a413858f84bfc480169945c7fd1a372b9" sha256="ad53582f0afad53dc3b9c74c0239b46f8d5d3795dc2c86d320748bdef99d349c"/>
 	</game>
 	<game name="Game Boy Gallery 2 (Japan) (SGB Enhanced)" id="0422">
 		<category>Games</category>

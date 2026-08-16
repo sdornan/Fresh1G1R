@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,829) (-y) [-aAbBcefkmMoprv] (2026-08-14 22-16-54) (Retool)</description>
-		<version>2026-08-14 22-16-54</version>
-		<date>2026-08-15 03-03-35</date>
+		<description>IBM - PC compatible (25,841) (-y) [-aAbBcefkmMoprv] (2026-08-16 02-36-54) (Retool)</description>
+		<version>2026-08-16 02-36-54</version>
+		<date>2026-08-16 03-11-40</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -11949,6 +11949,12 @@
 		<rom name="Artur en het Spookschip (Belgium, Netherlands).bin" size="843610656" crc="5b656271" md5="10c46f2450a9bd59caafd3c5080c511e" sha1="c4ceec018a34be12f2a362bd2b403fca45be5f57"/>
 		<rom name="Artur en het Spookschip (Belgium, Netherlands).cue" size="112" crc="4acbeaea" md5="766e93f168bf640e6b6009c18bc9ca9a" sha1="b050626a8c53e478f94834b597be79d35bb5dc71"/>
 	</game>
+	<game name="Artus contre le Demon du Musee (France)" id="137013">
+		<category>Games</category>
+		<description>Artus contre le Demon du Musee (France)</description>
+		<rom name="Artus contre le Demon du Musee (France).bin" size="329216496" crc="8814af95" md5="17ece503781f9d2e8f1700d8c6155695" sha1="7a97796b835d1c69663a44eecd367ecac71bfd69"/>
+		<rom name="Artus contre le Demon du Musee (France).cue" size="105" crc="a502d3db" md5="912b3a520780a26bb9c50d39e8f6b8cd" sha1="e46e55eee48d6a167c363866c9d1428f229b2fa7"/>
+	</game>
 	<game name="Arvet Fran Rosemond Hill (Sweden)" id="111783">
 		<category>Games</category>
 		<description>Arvet Fran Rosemond Hill (Sweden)</description>
@@ -12795,6 +12801,30 @@
 		<description>Atlantis - Det forsvunna riket (Sweden) (Disc 4)</description>
 		<rom name="Atlantis - Det forsvunna riket (Sweden) (Disc 4).bin" size="642124224" crc="1af3ba3c" md5="56d981814bc69942f662041cef6e72b1" sha1="1b6cd1bbe2024cf476379dce90259400f3a6262a"/>
 		<rom name="Atlantis - Det forsvunna riket (Sweden) (Disc 4).cue" size="137" crc="662b716d" md5="2d1fb5b644f9cfe454fdf487b1d6fcc3" sha1="da323771fb6634dfdef69f4fee0b537f088a35e1"/>
+	</game>
+	<game name="Atlantis - Secrets d'un monde oublie (France) (Disc 1)" id="137030">
+		<category>Games</category>
+		<description>Atlantis - Secrets d'un monde oublie (France) (Disc 1)</description>
+		<rom name="Atlantis - Secrets d'un monde oublie (France) (Disc 1).bin" size="751527504" crc="2d699e38" md5="8e56393bfed398ea264b2de399f3e34e" sha1="54f00d624e957d6c3d37ac56a7a551decd36663a"/>
+		<rom name="Atlantis - Secrets d'un monde oublie (France) (Disc 1).cue" size="120" crc="11e8f5f2" md5="34122e35448fb6da932733164247fd20" sha1="20f27d654813e597d9264a1f0cb7694e381b83a4"/>
+	</game>
+	<game name="Atlantis - Secrets d'un monde oublie (France) (Disc 2)" id="137031">
+		<category>Games</category>
+		<description>Atlantis - Secrets d'un monde oublie (France) (Disc 2)</description>
+		<rom name="Atlantis - Secrets d'un monde oublie (France) (Disc 2).bin" size="677129040" crc="e1eb4fec" md5="c5cd33137836834e5e1f7a323936392e" sha1="070fa82b7262da52d5b88f0b8c265234ebc0edc4"/>
+		<rom name="Atlantis - Secrets d'un monde oublie (France) (Disc 2).cue" size="120" crc="10b5d323" md5="d5011e085beb407cb17ba6109838c90a" sha1="64d485eb98ecffb896c64db8640e954f64663200"/>
+	</game>
+	<game name="Atlantis - Secrets d'un monde oublie (France) (Disc 3)" id="137032">
+		<category>Games</category>
+		<description>Atlantis - Secrets d'un monde oublie (France) (Disc 3)</description>
+		<rom name="Atlantis - Secrets d'un monde oublie (France) (Disc 3).bin" size="732683280" crc="c58f1251" md5="aacff9ab361dad802814027f28256f2a" sha1="d58262039b3e25e3e1e8756fd3a6db15377c08b6"/>
+		<rom name="Atlantis - Secrets d'un monde oublie (France) (Disc 3).cue" size="120" crc="a6ae3353" md5="12a6360263ceb481553a1e715e306852" sha1="39033221b5ba48373104ef61031ffcddbc4b16cb"/>
+	</game>
+	<game name="Atlantis - Secrets d'un monde oublie (France) (Disc 4)" id="137033">
+		<category>Games</category>
+		<description>Atlantis - Secrets d'un monde oublie (France) (Disc 4)</description>
+		<rom name="Atlantis - Secrets d'un monde oublie (France) (Disc 4).bin" size="641315136" crc="1ddec16d" md5="68838883f5dfcc77256f505155fd38d7" sha1="98188dbdcbbd8a8a80b0a9b1057edc5b3a766e64"/>
+		<rom name="Atlantis - Secrets d'un monde oublie (France) (Disc 4).cue" size="120" crc="120f9e81" md5="c52e3600a81477d05e1cd4f7c9d99450" sha1="142e9dc50d78fa1c07a9640499ad67978d7a033b"/>
 	</game>
 	<game name="Atlantis - Segreti d'un Mondo Perduto (Italy) (Disc 1)" id="73772">
 		<category>Games</category>
@@ -37977,17 +38007,11 @@
 		<rom name="Deus Ex (USA) (Demo).bin" size="439414752" crc="4af7b3f9" md5="706f2ccfa2569d1af46325388f8f5e1d" sha1="f9c433c0c8dd9862ff20d9ba43afeb568a397f8f"/>
 		<rom name="Deus Ex (USA) (Demo).cue" size="86" crc="a3b4003c" md5="5c6d7df2be06f4b2c39ff62211990c53" sha1="49a83f4fb17674c9b2a3a5663227666b5b36b1c7"/>
 	</game>
-	<game name="Deus Ex (USA) (Game of the Year Edition) (1112f)" id="30089">
+	<game name="Deus Ex (USA) (Game of the Year Edition) (v1112f)" id="30089">
 		<category>Games</category>
-		<description>Deus Ex (USA) (Game of the Year Edition) (1112f)</description>
-		<rom name="Deus Ex (USA) (Game of the Year Edition) (1112f).bin" size="773168256" crc="2f8f39e2" md5="196674293be1a57b64824742698ff1db" sha1="39255d93dcef4dbcd77a6be0fa19aa3ab43ba626"/>
-		<rom name="Deus Ex (USA) (Game of the Year Edition) (1112f).cue" size="114" crc="6ace7a17" md5="fd5d17385f9940f7c361306a16bbdbe5" sha1="b41ce9e1c7e7e10ee3544242f73d45e03fb1c8fd"/>
-	</game>
-	<game name="Deus Ex (USA) (Game of the Year Edition) (v1109f)" id="132483">
-		<category>Games</category>
-		<description>Deus Ex (USA) (Game of the Year Edition) (v1109f)</description>
-		<rom name="Deus Ex (USA) (Game of the Year Edition) (v1109f).bin" size="773248224" crc="0c7e2d37" md5="e9c24fe5ed409b5a4d986177ffb20243" sha1="4d6ad10489a2db569c3199485c6dc8870738457d"/>
-		<rom name="Deus Ex (USA) (Game of the Year Edition) (v1109f).cue" size="115" crc="bf8386cf" md5="cea36cfe64d15a3838549918026c28fc" sha1="1a60bea5490252f21e57ca34815b499dfd04a1a8"/>
+		<description>Deus Ex (USA) (Game of the Year Edition) (v1112f)</description>
+		<rom name="Deus Ex (USA) (Game of the Year Edition) (v1112f).bin" size="773168256" crc="2f8f39e2" md5="196674293be1a57b64824742698ff1db" sha1="39255d93dcef4dbcd77a6be0fa19aa3ab43ba626"/>
+		<rom name="Deus Ex (USA) (Game of the Year Edition) (v1112f).cue" size="115" crc="3a43716e" md5="86726d86c521e9a5bc31801ecdb750e7" sha1="12bc8a00573dc600bb402e53ede0c7471f12753d"/>
 	</game>
 	<game name="Deus Ex - Antologia (Poland)" id="126268">
 		<category>Games</category>
@@ -51601,6 +51625,12 @@
 		<description>F1 World Grand Prix - 1999 Season (Europe) (Demo)</description>
 		<rom name="F1 World Grand Prix - 1999 Season (Europe) (Demo).bin" size="76320048" crc="3a946e2d" md5="13240c3ef2a9c56977447b344a634c4d" sha1="3ee8b28a0d1dff6bd39a0bff97dc49efc569e790"/>
 		<rom name="F1 World Grand Prix - 1999 Season (Europe) (Demo).cue" size="115" crc="aca30140" md5="187517f4298b7527a5316fe5245369bf" sha1="39829ffb92e3dc04c3d14943a0b5696bba688a33"/>
+	</game>
+	<game name="F22 Lightning II (France)" id="137015">
+		<category>Games</category>
+		<description>F22 Lightning II (France)</description>
+		<rom name="F22 Lightning II (France).bin" size="480007920" crc="91e4aed9" md5="b6ba07e847feb4e9d3756738fa62178a" sha1="0aa89536d74db136c05bd2daace1ec6c294e338f"/>
+		<rom name="F22 Lightning II (France).cue" size="114" crc="d6dfd8fb" md5="a313cfa0228f45e78cf60d63d3e2c9ff" sha1="a0be475e77d1e089fed2a805d24e0ae1c05034a3"/>
 	</game>
 	<game name="F9F Panther (UK)" id="132509">
 		<category>Add-Ons</category>
@@ -85248,6 +85278,18 @@
 		<rom name="LVF 2004 Volleyball (Italy) (En,It).bin" size="136300752" crc="a88e3170" md5="cf73c95b0d865dd986065bddcb83c52e" sha1="042591738fa0d9c78eb44f64be3cdf0037a86c0e"/>
 		<rom name="LVF 2004 Volleyball (Italy) (En,It).cue" size="101" crc="a27b56e1" md5="02540449b77aac028d854b5186b04384" sha1="1a18da6c4b1309015697e4fe9c4aeb3a251f8bed"/>
 	</game>
+	<game name="La Quete de l'Eau (France)" id="137018">
+		<category>Games</category>
+		<description>La Quete de l'Eau (France)</description>
+		<rom name="La Quete de l'Eau (France).bin" size="724096128" crc="5b4eaaf6" md5="43b5ec1735e6b5967a8ae8b7ceb53356" sha1="ffc59b96384011fa1b6c52b4ea15a9bc52d30cbb"/>
+		<rom name="La Quete de l'Eau (France).cue" size="92" crc="e10d1864" md5="0bc15e5a9a7087f5bb26f267e45b7458" sha1="375ea36dd022113479834be15767c1b5a0a76dd0"/>
+	</game>
+	<game name="La ferme de Paille la Canaille (France)" id="137017">
+		<category>Games</category>
+		<description>La ferme de Paille la Canaille (France)</description>
+		<rom name="La ferme de Paille la Canaille (France).bin" size="793310784" crc="32261a72" md5="0570a5cfe65f0642db11b4b160c0a28d" sha1="1f6ffcfbe27d70cc435e049ae283f47c211450c1"/>
+		<rom name="La ferme de Paille la Canaille (France).cue" size="105" crc="d169e09f" md5="d396f9191fda66725c8bba4c3ee2a643" sha1="57d78849e7f543dac01d72768f13bea0304096b1"/>
+	</game>
 	<game name="Laapbat Siusan (Asia)" id="81922">
 		<category>Games</category>
 		<description>Laapbat Siusan (Asia)</description>
@@ -99592,6 +99634,12 @@
 		<rom name="Might and Magic Trilogy (USA, Europe).bin" size="353369184" crc="dc4b7d13" md5="402293f9dcdaf9dc54675ebd81a88c85" sha1="677e0f21930fc1890c0d68c870ef5fa48a2cb01d"/>
 		<rom name="Might and Magic Trilogy (USA, Europe).cue" size="126" crc="23dc18fb" md5="2908626b97d2a3a86ec5d1d9082be24d" sha1="1ce36109836a7069e17d30ebb15d622766d9d23c"/>
 	</game>
+	<game name="Might and Magic V - Darkside of Xeen (Germany)" id="137011">
+		<category>Games</category>
+		<description>Might and Magic V - Darkside of Xeen (Germany)</description>
+		<rom name="Might and Magic V - Darkside of Xeen (Germany).bin" size="118484352" crc="58137c1e" md5="3de940a784bdc80c8501f860f82e7a61" sha1="a896ea6e0b1e880e29a1b9c6cb53297f0ca5c28f"/>
+		<rom name="Might and Magic V - Darkside of Xeen (Germany).cue" size="112" crc="82feb617" md5="f47b47c848894ad06e5c4dd6ca317bda" sha1="fe4dceb789536b1efffe51a12c00673dc0747a15"/>
+	</game>
 	<game name="Might and Magic VI - The Mandate of Heaven (Europe) (Disc 2) (Play)" id="97609">
 		<category>Games</category>
 		<description>Might and Magic VI - The Mandate of Heaven (Europe) (Disc 2) (Play)</description>
@@ -101650,6 +101698,12 @@
 		<description>Momotarou Densetsu (Japan)</description>
 		<rom name="Momotarou Densetsu (Japan).bin" size="234513216" crc="c1512546" md5="c15a7a3d0bd902c73c33c64331afc1d1" sha1="0d96aa4b267986b37f98cf97b3556743dc21c136"/>
 		<rom name="Momotarou Densetsu (Japan).cue" size="92" crc="3043a9dd" md5="71fbc5919e88d222beacd5829ccb33c2" sha1="16840fd9a793ae58ffdea38ac60e7602eac1babf"/>
+	</game>
+	<game name="Mon Atelier de Cinema en 3D (France)" id="137038">
+		<category>Games</category>
+		<description>Mon Atelier de Cinema en 3D (France)</description>
+		<rom name="Mon Atelier de Cinema en 3D (France).bin" size="381651984" crc="9c5305b0" md5="ec2974787186d23b4f5b2113e4a8e124" sha1="a349aaedba8713961a4f050472220e7b476bd2ef"/>
+		<rom name="Mon Atelier de Cinema en 3D (France).cue" size="125" crc="32fbc575" md5="6d0a93114220417ed23041305c33e6dc" sha1="0dd2c4de853d3406c66dc0bef50159fd6555f9b8"/>
 	</game>
 	<game name="Mona-kun Otakara CD-ROM (Japan)" id="109552">
 		<category>Demos</category>
@@ -111245,11 +111299,11 @@
 		<rom name="Oh No! More Creatures (Germany).bin" size="328254528" crc="beddea09" md5="386113428ab11544d60ed552a8cc47ad" sha1="33f5530d9308ea3e3870f47fa6b1f97fbce653bf"/>
 		<rom name="Oh No! More Creatures (Germany).cue" size="120" crc="23181422" md5="35cc10b7e7bb94628540407be19a178b" sha1="dfb93f8fa5eacd7bca7af42cc97e010f9d06b560"/>
 	</game>
-	<game name="Oh!Type (Japan)" id="132436">
+	<game name="Oh! Type (Japan)" id="132436">
 		<category>Games</category>
-		<description>Oh!Type (Japan)</description>
-		<rom name="Oh!Type (Japan).bin" size="17592960" crc="b4075bd6" md5="35a2c1bb0af8ee2398d5198b4602e330" sha1="468811fe4d9256ff4474d908a51a67f025de19e4"/>
-		<rom name="Oh!Type (Japan).cue" size="81" crc="43b81d12" md5="b43ce7d1eac9812a115179cdfdb8a290" sha1="70fab02d44740afe3e3085ac599304f8e90ca17a"/>
+		<description>Oh! Type (Japan)</description>
+		<rom name="Oh! Type (Japan).bin" size="17592960" crc="b4075bd6" md5="35a2c1bb0af8ee2398d5198b4602e330" sha1="468811fe4d9256ff4474d908a51a67f025de19e4"/>
+		<rom name="Oh! Type (Japan).cue" size="82" crc="34d2c847" md5="06127410b4908f567670833d511f6d0c" sha1="da355fd4493b19edb8630fb7aab9cb4b51650105"/>
 	</game>
 	<game name="Ohinasama - Shiawase wa Suigin no Aji (Japan)" id="121392">
 		<category>Games</category>
@@ -114850,11 +114904,11 @@
 		<rom name="Paperopolis (USA).bin" size="562022160" crc="1fe14152" md5="cee35b3a6cdd87288133a11e920a072c" sha1="4ed6054a679e810efb58828f08eb631f64ec4673"/>
 		<rom name="Paperopolis (USA).cue" size="106" crc="1a88e685" md5="d9e173186f074a52408cf08c7aed6142" sha1="3e97c5450fe19a1d8da77eb08163ed4ec5f7b554"/>
 	</game>
-	<game name="Papyrus - La Malediction de Seth (France)" id="66835">
+	<game name="Papyrus - La malediction de Seth (France)" id="137019">
 		<category>Games</category>
-		<description>Papyrus - La Malediction de Seth (France)</description>
-		<rom name="Papyrus - La Malediction de Seth (France).bin" size="629642160" crc="afdaf318" md5="3fb35d541af93d0f10e4f1c4a4e766fe" sha1="05414ccf037d9ce3dbccd5d168ff59779c982df2"/>
-		<rom name="Papyrus - La Malediction de Seth (France).cue" size="107" crc="b2daec2f" md5="53c3772d88a843ce479ada2b7be05c71" sha1="67d49873338ae5b45afd53ccde64e89eb8892665"/>
+		<description>Papyrus - La malediction de Seth (France)</description>
+		<rom name="Papyrus - La malediction de Seth (France).bin" size="805644672" crc="6c83f78c" md5="3eb0407324326a3ed0c348593f2160c4" sha1="9aae3fa5cfe13f9e08be512a4e481611abe29552"/>
+		<rom name="Papyrus - La malediction de Seth (France).cue" size="107" crc="4addc881" md5="a49969f9ecf529a757b83b0ab2bb2e82" sha1="031ec821fd2c6891b9ae578ae3988b637cbd8d4c"/>
 	</game>
 	<game name="Para Para Paradise (Japan) (Disc A)" id="71658">
 		<category>Games</category>
@@ -115493,11 +115547,11 @@
 		<rom name="Pax Romana (USA).bin" size="755389488" crc="d3b37f6b" md5="befd1c8f05c04094f49b316402037774" sha1="6942d7d543cc28aa921a24fa7f5799b0d0d50f79"/>
 		<rom name="Pax Romana (USA).cue" size="82" crc="f1952e25" md5="9a5fbc3b90c4b6bbbbf002d7b8befe5b" sha1="104a716de22151297bc675970755870ae52b7365"/>
 	</game>
-	<game name="Payuta (France) (En,Fr,De)" id="74374">
+	<game name="Payuta et le Dieu des Tempetes (France) (En,Fr,De)" id="74374">
 		<category>Games</category>
-		<description>Payuta (France) (En,Fr,De)</description>
-		<rom name="Payuta (France) (En,Fr,De).bin" size="732633888" crc="9029e8fe" md5="2d2a8d3ea0798d826a3b4de58a0577f5" sha1="3a4a67147451f77fbf1b334dc5719f30df181b19"/>
-		<rom name="Payuta (France) (En,Fr,De).cue" size="115" crc="c044717b" md5="1b812cb655342be0206e88c98958c732" sha1="f76532618e64dd4c7c4edc9b7c467b620bf01370"/>
+		<description>Payuta et le Dieu des Tempetes (France) (En,Fr,De)</description>
+		<rom name="Payuta et le Dieu des Tempetes (France) (En,Fr,De).bin" size="732633888" crc="9029e8fe" md5="2d2a8d3ea0798d826a3b4de58a0577f5" sha1="3a4a67147451f77fbf1b334dc5719f30df181b19"/>
+		<rom name="Payuta et le Dieu des Tempetes (France) (En,Fr,De).cue" size="139" crc="de5b99ca" md5="a8b5cba4f82eb4f18a1e300b34977cc2" sha1="21ccdd12457f98d391e9995db343e6be5c60777a"/>
 	</game>
 	<game name="Payuta i Bog Lodu (Poland) (Rerelease)" id="47177">
 		<category>Games</category>
@@ -137990,6 +138044,12 @@
 		<rom name="Sethi - Abenteuer im Mittelalter (Germany).bin" size="709255008" crc="5a785139" md5="b874ccb7f9a748c4767c4b84e05be90b" sha1="be6bec096b5d3333e850ab6bb398ec4bbea64237"/>
 		<rom name="Sethi - Abenteuer im Mittelalter (Germany).cue" size="108" crc="857ea89c" md5="e04090cd118b4615219685d1135904fc" sha1="fc6a7dc465f0c131c187f9c9dfb3b59c6cf9f0a6"/>
 	</game>
+	<game name="Sethi et la Couronne d'Egypte (France)" id="137024">
+		<category>Games</category>
+		<description>Sethi et la Couronne d'Egypte (France)</description>
+		<rom name="Sethi et la Couronne d'Egypte (France).bin" size="533377152" crc="a9fe82b7" md5="a8db72511095616be23b69e010d69906" sha1="1b4570a370b831a1005a606c27512acb311a6662"/>
+		<rom name="Sethi et la Couronne d'Egypte (France).cue" size="104" crc="43001508" md5="f6826596340ede3e2e4e91f048b351c1" sha1="e94b75dc4e91f0889a37f82dfd22dfe3e8bb4bd8"/>
+	</game>
 	<game name="Sethi und das Geheimnis der Neandertaler (Germany)" id="88480">
 		<category>Games</category>
 		<description>Sethi und das Geheimnis der Neandertaler (Germany)</description>
@@ -144455,6 +144515,12 @@
 		<rom name="Sintesoft Rompecabezas Animado (Argentina) (En,Es,Pt).bin" size="182985600" crc="e39b111c" md5="38008d5d46468aedb25c350cd7d4c6e0" sha1="9a50c27bf39fdf987ebfb515ba981b61a7e56bf6"/>
 		<rom name="Sintesoft Rompecabezas Animado (Argentina) (En,Es,Pt).cue" size="142" crc="f45a4873" md5="82a06576af8dcbf5cdd967957152dae2" sha1="57788a6cbbb88fe14671bd435d6c0a80cf12f690"/>
 	</game>
+	<game name="Sirtech Demos - Fall-Winter 1996 (USA)" id="137040">
+		<category>Demos</category>
+		<description>Sirtech Demos - Fall-Winter 1996 (USA)</description>
+		<rom name="Sirtech Demos - Fall-Winter 1996 (USA).bin" size="246992928" crc="5a1aa63a" md5="e66a3d7783b4ba429a391dc9c513d1e5" sha1="1573cb72212a7d85e9dd8c9e0ebd636492a7b086"/>
+		<rom name="Sirtech Demos - Fall-Winter 1996 (USA).cue" size="127" crc="217b9b3f" md5="8c32769aad25d48b685750dc9cf64fca" sha1="c1af7e1f8df47987f5cab724870074137c70acd2"/>
+	</game>
 	<game name="Sirus Trilogie - Auf den Spuren der Dogon (Germany)" id="100397">
 		<category>Games</category>
 		<description>Sirus Trilogie - Auf den Spuren der Dogon (Germany)</description>
@@ -150353,15 +150419,15 @@
 		<rom name="Star Wars - Empire at War - Forces of Corruption (USA) (Disc 2).bin" size="503389152" crc="ceae4de3" md5="9710a9b6075b832a2879370b61085947" sha1="2c54e0b46e0b2c56cbf191fa7ffd80a56545963d"/>
 		<rom name="Star Wars - Empire at War - Forces of Corruption (USA) (Disc 2).cue" size="129" crc="8818c680" md5="077de1bc3dce4b8fdb3c17dbd495ce9b" sha1="76b690433e264e238300020033e73c4456413f70"/>
 	</game>
-	<game name="Star Wars - Empire at War - Gold Pack (USA)" id="50163">
-		<category>Games</category>
-		<description>Star Wars - Empire at War - Gold Pack (USA)</description>
-		<rom name="Star Wars - Empire at War - Gold Pack (USA).iso" size="3066433536" crc="ea1990e8" md5="927b202207f493594f6ebc58b80a5b79" sha1="2daf2bdc4da37c0c099cbff2f40fbc262aff7b99"/>
-	</game>
 	<game name="Star Wars - Empire at War - Gold Pack (USA) (Cosmi) (Alt)" id="43757">
 		<category>Games</category>
 		<description>Star Wars - Empire at War - Gold Pack (USA) (Cosmi) (Alt)</description>
 		<rom name="Star Wars - Empire at War - Gold Pack (USA) (Cosmi) (Alt).iso" size="3115296768" crc="48b545e2" md5="797b0b2171407ae15fe99c10e8743ad8" sha1="f8e84a3f1d94e1df0d504f0b9e6e4ab036b38aa6"/>
+	</game>
+	<game name="Star Wars - Empire at War - Gold Pack (USA) (En,Fr)" id="50163">
+		<category>Games</category>
+		<description>Star Wars - Empire at War - Gold Pack (USA) (En,Fr)</description>
+		<rom name="Star Wars - Empire at War - Gold Pack (USA) (En,Fr).iso" size="3066433536" crc="ea1990e8" md5="927b202207f493594f6ebc58b80a5b79" sha1="2daf2bdc4da37c0c099cbff2f40fbc262aff7b99"/>
 	</game>
 	<game name="Star Wars - Episode I - Battle for Naboo (Europe)" id="61735">
 		<category>Games</category>
@@ -157955,6 +158021,20 @@
 		<description>Thandor - The Invasion (Europe)</description>
 		<rom name="Thandor - The Invasion (Europe).bin" size="683023152" crc="fae4487e" md5="e9fe0ad87d116fbaf9b5e1eee51e71f9" sha1="55ca44344d1548f33dd1c2c86d3826e8ee932f30"/>
 		<rom name="Thandor - The Invasion (Europe).cue" size="97" crc="a2e9bc13" md5="bacc80c5340097068573ada5acc0f211" sha1="a07592739db664f3e0a8541f18a523ca81a9910a"/>
+	</game>
+	<game name="The Fifth Element (France) (En,Fr,De,Es,It)" id="137026">
+		<category>Games</category>
+		<description>The Fifth Element (France) (En,Fr,De,Es,It)</description>
+		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 1).bin" size="339238368" crc="b636ee7d" md5="f277b4e9bf4e836a39d919391b3db383" sha1="e5b16a84bfa3d6c8c9dbef35fa198996b5f98cc1"/>
+		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 2).bin" size="45186624" crc="cd45ff3c" md5="9eb59e46ad527ed634872da6854eb61e" sha1="da7e76201ddebdfcc3212bcf9327712cedd30f1b"/>
+		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 3).bin" size="42836976" crc="54d2d2eb" md5="5d16a0e52a5fd5010f467fe5124044b1" sha1="fcc4c1605f6c08beb98f87f3f0a352de005d052d"/>
+		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 4).bin" size="43232112" crc="1e9a1a63" md5="80ac419072521f3819ab054691f224f1" sha1="a1765b5d68206ab2df0d46613b893ebf047d4c85"/>
+		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 5).bin" size="50671488" crc="96133ae9" md5="d0589afc244c4dd07a429d3d7afd374c" sha1="7c3e2c9eca7352e12b39c46c0f441339706be409"/>
+		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 6).bin" size="43225056" crc="8094a905" md5="73024ce7b12c71d5662f172a10b72cbd" sha1="be70c1d23dee66459333029e12ce13ecfb6cf6a5"/>
+		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 7).bin" size="27995856" crc="7b0e3fcc" md5="4c7c85c54654def9b417052e4f107d7f" sha1="f8ad6c678ef9c7d5adcd226fe8d7966866c311b3"/>
+		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 8).bin" size="43537872" crc="b097b5ac" md5="980625eac87543ea3fab992f9386b969" sha1="9f658d213f72a6bf00853741eed5a9c601b7d98d"/>
+		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 9).bin" size="19916736" crc="9b1332fa" md5="ae9e21d8519e5e9ffb5d7803b8748533" sha1="8f0acbe1631361cc1e228c5b3dd468942036eccb"/>
+		<rom name="The Fifth Element (France) (En,Fr,De,Es,It).cue" size="1215" crc="d05d303e" md5="e98ef5ee88540dc30bf25541018b70c4" sha1="c73d678339819bfbd41873417eca74d9651ccb5d"/>
 	</game>
 	<game name="TheHunter - Call of the Wild (USA) (Disc 1)" id="114373">
 		<category>Games</category>

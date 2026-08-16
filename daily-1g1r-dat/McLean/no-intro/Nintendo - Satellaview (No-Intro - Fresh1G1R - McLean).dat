@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (16) (-ly) [-aAbBcdDefkmMopPruv] (20260813-134347) (Retool)</description>
-		<version>20260813-134347</version>
-		<date>2026-08-15 03-22-25</date>
+		<description>Nintendo - Satellaview (18) (-ly) [-aAbBcdDefkmMopPruv] (20260814-103513) (Retool)</description>
+		<version>20260814-103513</version>
+		<date>2026-08-16 03-25-32</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21,20 +21,30 @@
 		<description>Darius Force (Japan) (En) (3-3)</description>
 		<rom name="Darius Force (Japan) (En) (3-3).bs" size="1048576" crc="7df6d760" md5="4e7e618fc4b8dff76b49c37bc7a4b52b" sha1="7901392a2f6516fbf53487be6d7a1dddd51fe8a1" sha256="f0dd4cd042e46ea65bd4230f8722ed8d92373e2757a0065b480564a72faf1dc1"/>
 	</game>
-	<game name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (7-26)" id="3754">
+	<game name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-4-30)" id="3446">
 		<category>Games</category>
-		<description>Dezaemon BSX Version - BS-X Shooting (Japan) (En) (7-26)</description>
-		<rom name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (7-26).bs" size="1048576" crc="592da4c3" md5="7aa01ad1f142f18f446d921567b99a76" sha1="e0de9533b3b9577bd7ce7eca5064ca6fa53913d8" sha256="42e5ddc17795f6c6e303aab4077700fec128620002bdc33ef19fd8fd7ddeff72"/>
+		<description>Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-4-30)</description>
+		<rom name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-4-30).bs" size="1048576" crc="5a9be5a8" md5="7328c333cc54aee986b981f816e30830" sha1="e52d59e800c17c678711a681d3308f0804c238e0" sha256="e492e80c7f8457046430eb8920c6f8fa9b96c7d418db1670d6cc4a9f4f3a272e"/>
 	</game>
-	<game name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En)" id="3715">
+	<game name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-7-26)" id="3754">
 		<category>Games</category>
-		<description>Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En)</description>
-		<rom name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En).bs" size="1048576" crc="62b6016d" md5="15ccc1ff74b8a737f92f3f3b406d8068" sha1="f65f5b5090ea8ec1bbf6660186b4050f2472ed67" sha256="5324cdd64868d9ad8c4a04c315dc3e3c6026c5f76ba5223f979c0d0b86323806"/>
+		<description>Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-7-26)</description>
+		<rom name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-7-26).bs" size="1048576" crc="592da4c3" md5="7aa01ad1f142f18f446d921567b99a76" sha1="e0de9533b3b9577bd7ce7eca5064ca6fa53913d8" sha256="42e5ddc17795f6c6e303aab4077700fec128620002bdc33ef19fd8fd7ddeff72"/>
 	</game>
-	<game name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (12-19)" id="3855">
+	<game name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En) (1996-4-19)" id="3715">
 		<category>Games</category>
-		<description>Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (12-19)</description>
-		<rom name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (12-19).bs" size="1048576" crc="4c2f09e3" md5="6dae9c7fdbd49d9e1fc1c8770dade30b" sha1="a6ad57a82bcba09463390a22609cfdd13dcd7070" sha256="3a40d2bd97a573e09777667aea5fd3ea89bff2c4229d8dda8f300e96194faa13"/>
+		<description>Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En) (1996-4-19)</description>
+		<rom name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En) (1996-4-19).bs" size="1048576" crc="62b6016d" md5="15ccc1ff74b8a737f92f3f3b406d8068" sha1="f65f5b5090ea8ec1bbf6660186b4050f2472ed67" sha256="5324cdd64868d9ad8c4a04c315dc3e3c6026c5f76ba5223f979c0d0b86323806"/>
+	</game>
+	<game name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-12-19)" id="3855">
+		<category>Games</category>
+		<description>Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-12-19)</description>
+		<rom name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-12-19).bs" size="1048576" crc="4c2f09e3" md5="6dae9c7fdbd49d9e1fc1c8770dade30b" sha1="a6ad57a82bcba09463390a22609cfdd13dcd7070" sha256="3a40d2bd97a573e09777667aea5fd3ea89bff2c4229d8dda8f300e96194faa13"/>
+	</game>
+	<game name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-7-8)" id="3640">
+		<category>Games</category>
+		<description>Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-7-8)</description>
+		<rom name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-7-8).bs" size="1048576" crc="c8813eb9" md5="07e471a0ebf67977f63673e4d5377cd2" sha1="3d917791ff4c19d464b00cf03d83761f46ff75e8" sha256="0f8fe002b318a10191f61fc136549846670ccb0ca975cb58f3b8206d5fedeff1"/>
 	</game>
 	<game name="Dr. Mario BS (Japan) (En) (6-29)" id="3897">
 		<category>Games</category>

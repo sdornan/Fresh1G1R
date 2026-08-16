@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (321) (-y) [-aAbBcdkmMpPuv] (20260813-134347) (Retool)</description>
-		<version>20260813-134347</version>
-		<date>2026-08-15 03-33-02</date>
+		<description>Nintendo - Satellaview (326) (-y) [-aAbBcdkmMpPuv] (20260814-103513) (Retool)</description>
+		<version>20260814-103513</version>
+		<date>2026-08-16 03-33-33</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -472,20 +472,30 @@
 		<description>DerbyStal 96 - Taiou 97-nendo Ban (Japan) (11-24) (Data Pack)</description>
 		<rom name="DerbyStal 96 - Taiou 97-nendo Ban (Japan) (11-24) (Data Pack).bs" size="1048576" crc="1c19967c" md5="4b8f24e1d8106f0fb830b8a56678262b" sha1="9c1dfe24be936943a4b4a7902265942b0b70bf00" sha256="faca2e427be96f9fb536d2a15b612857af6d3bcf0867ba9b12284de763e95729"/>
 	</game>
-	<game name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (7-26)" id="3754">
+	<game name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-4-30)" id="3446">
 		<category>Games</category>
-		<description>Dezaemon BSX Version - BS-X Shooting (Japan) (En) (7-26)</description>
-		<rom name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (7-26).bs" size="1048576" crc="592da4c3" md5="7aa01ad1f142f18f446d921567b99a76" sha1="e0de9533b3b9577bd7ce7eca5064ca6fa53913d8" sha256="42e5ddc17795f6c6e303aab4077700fec128620002bdc33ef19fd8fd7ddeff72"/>
+		<description>Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-4-30)</description>
+		<rom name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-4-30).bs" size="1048576" crc="5a9be5a8" md5="7328c333cc54aee986b981f816e30830" sha1="e52d59e800c17c678711a681d3308f0804c238e0" sha256="e492e80c7f8457046430eb8920c6f8fa9b96c7d418db1670d6cc4a9f4f3a272e"/>
 	</game>
-	<game name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En)" id="3715">
+	<game name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-7-26)" id="3754">
 		<category>Games</category>
-		<description>Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En)</description>
-		<rom name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En).bs" size="1048576" crc="62b6016d" md5="15ccc1ff74b8a737f92f3f3b406d8068" sha1="f65f5b5090ea8ec1bbf6660186b4050f2472ed67" sha256="5324cdd64868d9ad8c4a04c315dc3e3c6026c5f76ba5223f979c0d0b86323806"/>
+		<description>Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-7-26)</description>
+		<rom name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (1996-7-26).bs" size="1048576" crc="592da4c3" md5="7aa01ad1f142f18f446d921567b99a76" sha1="e0de9533b3b9577bd7ce7eca5064ca6fa53913d8" sha256="42e5ddc17795f6c6e303aab4077700fec128620002bdc33ef19fd8fd7ddeff72"/>
 	</game>
-	<game name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (12-19)" id="3855">
+	<game name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En) (1996-4-19)" id="3715">
 		<category>Games</category>
-		<description>Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (12-19)</description>
-		<rom name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (12-19).bs" size="1048576" crc="4c2f09e3" md5="6dae9c7fdbd49d9e1fc1c8770dade30b" sha1="a6ad57a82bcba09463390a22609cfdd13dcd7070" sha256="3a40d2bd97a573e09777667aea5fd3ea89bff2c4229d8dda8f300e96194faa13"/>
+		<description>Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En) (1996-4-19)</description>
+		<rom name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En) (1996-4-19).bs" size="1048576" crc="62b6016d" md5="15ccc1ff74b8a737f92f3f3b406d8068" sha1="f65f5b5090ea8ec1bbf6660186b4050f2472ed67" sha256="5324cdd64868d9ad8c4a04c315dc3e3c6026c5f76ba5223f979c0d0b86323806"/>
+	</game>
+	<game name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-12-19)" id="3855">
+		<category>Games</category>
+		<description>Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-12-19)</description>
+		<rom name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-12-19).bs" size="1048576" crc="4c2f09e3" md5="6dae9c7fdbd49d9e1fc1c8770dade30b" sha1="a6ad57a82bcba09463390a22609cfdd13dcd7070" sha256="3a40d2bd97a573e09777667aea5fd3ea89bff2c4229d8dda8f300e96194faa13"/>
+	</game>
+	<game name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-7-8)" id="3640">
+		<category>Games</category>
+		<description>Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-7-8)</description>
+		<rom name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (1996-7-8).bs" size="1048576" crc="c8813eb9" md5="07e471a0ebf67977f63673e4d5377cd2" sha1="3d917791ff4c19d464b00cf03d83761f46ff75e8" sha256="0f8fe002b318a10191f61fc136549846670ccb0ca975cb58f3b8206d5fedeff1"/>
 	</game>
 	<game name="Do-Re-Mi de Faa~! Vol. 1 (Japan) (1997-3-30) (SoundLink Magazine)" id="3624">
 		<category>Magazines</category>
@@ -592,11 +602,11 @@
 		<description>Gambler Jiko Chuushinha 2 - Dorapon Quest (Japan) (12-20)</description>
 		<rom name="Gambler Jiko Chuushinha 2 - Dorapon Quest (Japan) (12-20).bs" size="1048576" crc="f9e8a8ee" md5="8d78a51cccd33613a88a1c80acee9ddc" sha1="a4999b026cd05ae71b6f0a8ede1ce1bf86215d08" sha256="f60b51c4590a550f4e9a6b1386b091be2032d7707339fc0c0c1a426f4bf885e6"/>
 	</game>
-	<game name="Game Tora no Chou Ooana (1995-6-23, Part 2) + Undake 30 - Same Game Daisakusen - Mario Version (10-30) (Japan) (SoundLink Magazine, Game)" id="3990">
+	<game name="Game Tora no Chou Ooana (1995-6-23, Part 2) + Undake 30 - Same Game Daisakusen - Mario Version (1995-10-30) (Japan) (SoundLink Magazine, Game)" id="3990">
 		<category>Games</category>
 		<category>Magazines</category>
-		<description>Game Tora no Chou Ooana (1995-6-23, Part 2) + Undake 30 - Same Game Daisakusen - Mario Version (10-30) (Japan) (SoundLink Magazine, Game)</description>
-		<rom name="Game Tora no Chou Ooana (1995-6-23, Part 2) + Undake 30 - Same Game Daisakusen - Mario Version (10-30) (Japan) (SoundLink Magazine, Game).bs" size="1048576" crc="081dc413" md5="dd3fc0a856516de538deb68593c22f1c" sha1="dcb0d76b279ddb3702eccac9c04c556a91850edb" sha256="96f7dd7eb863ffb9cfd1a90434781fa3e612473724f8beecc8a0d8ffb3833c79"/>
+		<description>Game Tora no Chou Ooana (1995-6-23, Part 2) + Undake 30 - Same Game Daisakusen - Mario Version (1995-10-30) (Japan) (SoundLink Magazine, Game)</description>
+		<rom name="Game Tora no Chou Ooana (1995-6-23, Part 2) + Undake 30 - Same Game Daisakusen - Mario Version (1995-10-30) (Japan) (SoundLink Magazine, Game).bs" size="1048576" crc="081dc413" md5="dd3fc0a856516de538deb68593c22f1c" sha1="dcb0d76b279ddb3702eccac9c04c556a91850edb" sha256="96f7dd7eb863ffb9cfd1a90434781fa3e612473724f8beecc8a0d8ffb3833c79"/>
 	</game>
 	<game name="Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (9-8) (Japan) (SoundLink Magazine, Magazine)" id="3835">
 		<category>Magazines</category>
@@ -683,10 +693,20 @@
 		<description>Jissen! Pachi-Slot Hisshouhou! Yamasa Densetsu (Japan)</description>
 		<rom name="Jissen! Pachi-Slot Hisshouhou! Yamasa Densetsu (Japan).bs" size="1048576" crc="02bd3715" md5="4d433f0ac95e28e4d9ef037e58dead85" sha1="e23d4e1ac43aebac39f148127059ff1cc87018b9" sha256="331217ae4c52ca0d8501638e2ef2689d7201e72333b4f822198c78195c11a21d"/>
 	</game>
-	<game name="Kaizou Choujin Shubibinman Zero (Japan) (6-8)" id="3859">
+	<game name="Kaizou Choujin Shubibinman Zero (Japan) (1997-6-4)" id="1299">
 		<category>Games</category>
-		<description>Kaizou Choujin Shubibinman Zero (Japan) (6-8)</description>
-		<rom name="Kaizou Choujin Shubibinman Zero (Japan) (6-8).bs" size="1048576" crc="772c6234" md5="cff0c7c32adea7ca7c7598a8eb538200" sha1="2aba8629ab87a76aa79167a15caa02c52709c4ee" sha256="3b0cbc988c7356feb42e5c978ff66eed7aa4f4e5a89aaa7b4e7b13db0c0d6615"/>
+		<description>Kaizou Choujin Shubibinman Zero (Japan) (1997-6-4)</description>
+		<rom name="Kaizou Choujin Shubibinman Zero (Japan) (1997-6-4).bs" size="1048576" crc="26a4f6c3" md5="db4dd0305051f7d3ca7bd2e114f4f1dd" sha1="dd084021a7e2afd939fee3b6426778f6e5c2f333" sha256="10ea8692eab26992850669796d32b55091314b6c64855a60f111836484490581"/>
+	</game>
+	<game name="Kaizou Choujin Shubibinman Zero (Japan) (1997-6-8)" id="3859">
+		<category>Games</category>
+		<description>Kaizou Choujin Shubibinman Zero (Japan) (1997-6-8)</description>
+		<rom name="Kaizou Choujin Shubibinman Zero (Japan) (1997-6-8).bs" size="1048576" crc="772c6234" md5="cff0c7c32adea7ca7c7598a8eb538200" sha1="2aba8629ab87a76aa79167a15caa02c52709c4ee" sha256="3b0cbc988c7356feb42e5c978ff66eed7aa4f4e5a89aaa7b4e7b13db0c0d6615"/>
+	</game>
+	<game name="Kaizou Choujin Shubibinman Zero (Japan) (1998-2-28)" id="3978">
+		<category>Games</category>
+		<description>Kaizou Choujin Shubibinman Zero (Japan) (1998-2-28)</description>
+		<rom name="Kaizou Choujin Shubibinman Zero (Japan) (1998-2-28).bs" size="1048576" crc="137999cd" md5="a2278b07baf74642cdcb76b92f848b39" sha1="01ee6bf358d39b7346f97e6c0f0ce20e293b8f4a" sha256="962c3e4cda101c48b11cd9b1c924208e147e64d0cdfffd5a31df587233892fab"/>
 	</game>
 	<game name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (8-3)" id="3487">
 		<category>Games</category>
@@ -1423,25 +1443,30 @@
 		<description>Uchida Yuki Yuugure Street Kids (Japan) (1995-9-9) (SoundLink Magazine)</description>
 		<rom name="Uchida Yuki Yuugure Street Kids (Japan) (1995-9-9) (SoundLink Magazine).bs" size="1048576" crc="0fd1f689" md5="103a67f4e233dabffa8aa93494921f23" sha1="9afcbedc2fe497d6e14ba7df826d0e71c2b8b84f" sha256="c16071238612986a6f8fcb5027b56c6521321648ca5202188ccdf226d1b9c9f5"/>
 	</game>
-	<game name="Undake 30 - Same Game Daisakusen - Mario Version (11-16) + Waiwai Check (Rerun) (1995-11-22, 11-24) (Japan)" id="3574">
+	<game name="Undake 30 - Same Game Daisakusen - Mario Version (1995-11-16) + Waiwai Check (Rerun) (1995-11-22, 11-24) (Japan)" id="3574">
 		<category>Games</category>
-		<description>Undake 30 - Same Game Daisakusen - Mario Version (11-16) + Waiwai Check (Rerun) (1995-11-22, 11-24) (Japan)</description>
-		<rom name="Undake 30 - Same Game Daisakusen - Mario Version (11-16) + Waiwai Check (Rerun) (1995-11-22, 11-24) (Japan).bs" size="1048576" crc="839dc25a" md5="b76c93ccfbae8ac77770b06aa5fbc42d" sha1="e190880ffd9ecd57810925ed82077307a0e10e12" sha256="98bae346671c067d36cef338a7375af5614c9d034bc77d28a989352543fc2853"/>
+		<description>Undake 30 - Same Game Daisakusen - Mario Version (1995-11-16) + Waiwai Check (Rerun) (1995-11-22, 11-24) (Japan)</description>
+		<rom name="Undake 30 - Same Game Daisakusen - Mario Version (1995-11-16) + Waiwai Check (Rerun) (1995-11-22, 11-24) (Japan).bs" size="1048576" crc="839dc25a" md5="b76c93ccfbae8ac77770b06aa5fbc42d" sha1="e190880ffd9ecd57810925ed82077307a0e10e12" sha256="98bae346671c067d36cef338a7375af5614c9d034bc77d28a989352543fc2853"/>
 	</game>
-	<game name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (11-16)" id="3739">
+	<game name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (1995-11-16)" id="3739">
 		<category>Games</category>
-		<description>Undake 30 - Same Game Daisakusen - Mario Version (Japan) (11-16)</description>
-		<rom name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (11-16).bs" size="1048576" crc="9491ae73" md5="5f55facde772392681c107d5e5f0834e" sha1="ddb701615e2ad0916954ff1dc5fbdf13f141936d" sha256="9c7d5f1e4907971496f5c0e41b2c65e142da342a588d1aa24e3e1245ea010ed3"/>
+		<description>Undake 30 - Same Game Daisakusen - Mario Version (Japan) (1995-11-16)</description>
+		<rom name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (1995-11-16).bs" size="1048576" crc="9491ae73" md5="5f55facde772392681c107d5e5f0834e" sha1="ddb701615e2ad0916954ff1dc5fbdf13f141936d" sha256="9c7d5f1e4907971496f5c0e41b2c65e142da342a588d1aa24e3e1245ea010ed3"/>
 	</game>
-	<game name="Undake 30 - Uragame Daisakusen (7-24) + Kouryaku Casino Bar Kinyoubi - Slots (10-13) (Japan)" id="3726">
+	<game name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (1996-5-29)" id="3737">
 		<category>Games</category>
-		<description>Undake 30 - Uragame Daisakusen (7-24) + Kouryaku Casino Bar Kinyoubi - Slots (10-13) (Japan)</description>
-		<rom name="Undake 30 - Uragame Daisakusen (7-24) + Kouryaku Casino Bar Kinyoubi - Slots (10-13) (Japan).bs" size="1048576" crc="3c996c12" md5="9124f6d1501aa212805c68913a7fe1a5" sha1="aa98147d815f37e88135e5819cc328f1aedd50aa" sha256="023bb77f1c671cdaf6548cfec927c5794a2e98ef384ddd95207effc2604576aa"/>
+		<description>Undake 30 - Same Game Daisakusen - Mario Version (Japan) (1996-5-29)</description>
+		<rom name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (1996-5-29).bs" size="1048576" crc="d8484292" md5="a421b292294c3e0c1204b7d169e9a0a0" sha1="d70cea5312b908bb8f0dba164b04c0a0a202d0a3" sha256="adec0f08331f1e878e9c40217a2bb0f88dfe71d1c2e3f8575c54f08f777b8c72"/>
 	</game>
-	<game name="Undake 30 - Uragame Daisakusen (Japan) (7-24)" id="3727">
+	<game name="Undake 30 - Uragame Daisakusen (1995-7-24) + Kouryaku Casino Bar Kinyoubi - Slots (10-13) (Japan)" id="3726">
 		<category>Games</category>
-		<description>Undake 30 - Uragame Daisakusen (Japan) (7-24)</description>
-		<rom name="Undake 30 - Uragame Daisakusen (Japan) (7-24).bs" size="524288" crc="737eee85" md5="0b90749285a67f8f23e166af0dd074ee" sha1="c9fa2a0773dbb7d5fa9943d2fd5a7171a63520dd" sha256="7be7b73c81b1a4a630f0743001686592e6f4bae378d0ba3a6cf61c50c4ceac9f"/>
+		<description>Undake 30 - Uragame Daisakusen (1995-7-24) + Kouryaku Casino Bar Kinyoubi - Slots (10-13) (Japan)</description>
+		<rom name="Undake 30 - Uragame Daisakusen (1995-7-24) + Kouryaku Casino Bar Kinyoubi - Slots (10-13) (Japan).bs" size="1048576" crc="3c996c12" md5="9124f6d1501aa212805c68913a7fe1a5" sha1="aa98147d815f37e88135e5819cc328f1aedd50aa" sha256="023bb77f1c671cdaf6548cfec927c5794a2e98ef384ddd95207effc2604576aa"/>
+	</game>
+	<game name="Undake 30 - Uragame Daisakusen (Japan) (1995-7-24)" id="3727">
+		<category>Games</category>
+		<description>Undake 30 - Uragame Daisakusen (Japan) (1995-7-24)</description>
+		<rom name="Undake 30 - Uragame Daisakusen (Japan) (1995-7-24).bs" size="524288" crc="737eee85" md5="0b90749285a67f8f23e166af0dd074ee" sha1="c9fa2a0773dbb7d5fa9943d2fd5a7171a63520dd" sha256="7be7b73c81b1a4a630f0743001686592e6f4bae378d0ba3a6cf61c50c4ceac9f"/>
 	</game>
 	<game name="User Same Game (Japan) (3-17) (Data Pack)" id="3723">
 		<category>Add-Ons</category>

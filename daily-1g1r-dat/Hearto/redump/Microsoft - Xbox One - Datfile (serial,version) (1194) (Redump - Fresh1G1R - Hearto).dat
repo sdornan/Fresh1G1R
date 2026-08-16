@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (897) (-y) [-aAbBcefkmMoprv] (2026-08-13 20-58-22) (Retool)</description>
-		<version>2026-08-13 20-58-22</version>
-		<date>2026-08-15 03-04-52</date>
+		<description>Microsoft - Xbox One (897) (-y) [-aAbBcefkmMoprv] (2026-08-15 16-08-34) (Retool)</description>
+		<version>2026-08-15 16-08-34</version>
+		<date>2026-08-16 03-12-40</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1527,10 +1527,11 @@
 		<description>Garfield Lasagna Party (USA)</description>
 		<rom name="Garfield Lasagna Party (USA).iso" size="20688111616" crc="395dd631" md5="c58e950ec65a5fda68e1de932903a3d0" sha1="b74e02f9dd6113be7a55a1e6350884caadadef40"/>
 	</game>
-	<game name="Gears 5 (Germany)" id="68507">
+	<game name="Gears 5 (Europe)" id="68507">
 		<category>Games</category>
-		<description>Gears 5 (Germany)</description>
-		<rom name="Gears 5 (Germany).iso" size="49999802368" crc="cab8a1c7" md5="e8f019010759210ec0284c72a35a13b3" sha1="ec297d7202f8ec8be5b6528e27110fca9b08deba"/>
+		<description>Gears 5 (Europe)</description>
+		<serial>x22-09458-01</serial>
+		<rom name="Gears 5 (Europe).iso" size="49999802368" crc="cab8a1c7" md5="e8f019010759210ec0284c72a35a13b3" sha1="ec297d7202f8ec8be5b6528e27110fca9b08deba"/>
 	</game>
 	<game name="Gears of War - Ultimate Edition (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="44867">
 		<category>Games</category>
