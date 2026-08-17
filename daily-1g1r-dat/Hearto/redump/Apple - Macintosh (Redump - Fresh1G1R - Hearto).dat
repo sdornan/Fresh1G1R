@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (612) (-y) [-aAbBcefkmMoprv] (2026-08-15 17-46-53) (Retool)</description>
-		<version>2026-08-15 17-46-53</version>
-		<date>2026-08-16 03-10-26</date>
+		<description>Apple - Macintosh (612) (-y) [-aAbBcefkmMoprv] (2026-08-16 16-46-53) (Retool)</description>
+		<version>2026-08-16 16-46-53</version>
+		<date>2026-08-17 03-10-34</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2224,11 +2224,11 @@
 		<rom name="Lunicus (USA).bin" size="662327904" crc="53f1cb6d" md5="b3e5485a14028b6ba8ac8d7a2510c4ad" sha1="e5952c3800a3420223da0ccf059e909a43fee272"/>
 		<rom name="Lunicus (USA).cue" size="102" crc="38b9b424" md5="29c5586de02395be57885bca17ad57e7" sha1="b0f218996892ff09a2ae4334f9a1d63927b3d3c7"/>
 	</game>
-	<game name="MDK (Europe)" id="66912">
+	<game name="MDK (USA, Europe)" id="66912">
 		<category>Games</category>
-		<description>MDK (Europe)</description>
-		<rom name="MDK (Europe).bin" size="289740528" crc="b688cb71" md5="4fa380aecce577fdb9a10be07a9ba4a2" sha1="cec1497eccf6c2a4b9a10dd6bdfad31138f52889"/>
-		<rom name="MDK (Europe).cue" size="78" crc="24026494" md5="5951c4e7f5a1f1b3a3ca79e294ca9dc5" sha1="a769e34f2a013e108b62c6f8a18a3dbae475b3db"/>
+		<description>MDK (USA, Europe)</description>
+		<rom name="MDK (USA, Europe).bin" size="289740528" crc="b688cb71" md5="4fa380aecce577fdb9a10be07a9ba4a2" sha1="cec1497eccf6c2a4b9a10dd6bdfad31138f52889"/>
+		<rom name="MDK (USA, Europe).cue" size="106" crc="e8e783c9" md5="bf9def36218b66046b1fa3283ab65c28" sha1="8632a8aa26aa4041c4977db1da6cd5f023310822"/>
 	</game>
 	<game name="Ma-ri-a - Ningyoukan no Noroi (Japan) (Disc 1)" id="119228">
 		<category>Games</category>

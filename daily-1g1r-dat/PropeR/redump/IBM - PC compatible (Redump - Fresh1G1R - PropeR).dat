@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,380) (-y) [-aAbBcdkmMpPuv] (2026-08-16 02-36-54) (Retool)</description>
-		<version>2026-08-16 02-36-54</version>
-		<date>2026-08-16 03-27-36</date>
+		<description>IBM - PC compatible (26,382) (-y) [-aAbBcdkmMpPuv] (2026-08-17 01-36-54) (Retool)</description>
+		<version>2026-08-17 01-36-54</version>
+		<date>2026-08-17 03-31-58</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -28934,12 +28934,6 @@
 		<category>Games</category>
 		<description>Code of Honor Compilation (USA)</description>
 		<rom name="Code of Honor Compilation (USA).iso" size="2537193472" crc="bdcdbd04" md5="fbe9872868c93b0cc3783661ce7e13b6" sha1="bb99386a2b6ce7ddee75cf7377c4f3df650c03c5"/>
-	</game>
-	<game name="CodeWarrior for PlayStation Release 5 (USA)" id="48800">
-		<category>Games</category>
-		<description>CodeWarrior for PlayStation Release 5 (USA)</description>
-		<rom name="CodeWarrior for PlayStation Release 5 (USA).bin" size="184225104" crc="d50916b7" md5="b8cd89edc11649a066789ddfba5ce97b" sha1="1d4432415c758bb7120ec3725950745cbab3cc27"/>
-		<rom name="CodeWarrior for PlayStation Release 5 (USA).cue" size="109" crc="ecefae9b" md5="1195cc12253e9f451d931b8ba86406bf" sha1="ac01a63ec72071aa56930231ac8391e42f8d90d8"/>
 	</game>
 	<game name="Codebreaker (Europe)" id="91978">
 		<category>Games</category>
@@ -61888,6 +61882,12 @@
 		<rom name="Gangsters 2 (USA).bin" size="625789584" crc="7e6c65cb" md5="8010d04876508749b38fb8ab2b59235d" sha1="59efe0e226a97c88b75702b562659e4875de8ffb"/>
 		<rom name="Gangsters 2 (USA).cue" size="106" crc="4a9751c5" md5="ee8e3ec1580a9a6a93e6fdd049c8b6a2" sha1="2e979c3406c5ac10d0211da0976ae9ad57a298a1"/>
 	</game>
+	<game name="Gap Snow Day (USA)" id="137063">
+		<category>Games</category>
+		<description>Gap Snow Day (USA)</description>
+		<rom name="Gap Snow Day (USA).bin" size="84523824" crc="7c22881f" md5="a1f6d25e81d27e3752b035e4547330ab" sha1="30538f8ab2c6ee0761be37fd0dee3073753d7e91"/>
+		<rom name="Gap Snow Day (USA).cue" size="84" crc="560dbf40" md5="44a8a0cee3f5b569d5bf3e49759d0ec3" sha1="90fed25a29528d03e220bcd491c89a315cfc01d9"/>
+	</game>
 	<game name="GapKids Adventure (USA)" id="132817">
 		<category>Games</category>
 		<description>GapKids Adventure (USA)</description>
@@ -66425,6 +66425,11 @@
 		<category>Games</category>
 		<description>Guild 2, The - Antologia (Poland)</description>
 		<rom name="Guild 2, The - Antologia (Poland).iso" size="4634017792" crc="1ab723c9" md5="c4fbbc615e3d5e8fcbb3596560cc2cbc" sha1="508b5e20deec16f5d96f0b27bf48805e1b364819"/>
+	</game>
+	<game name="Guild 2, The - Gold Edition (Europe)" id="137071">
+		<category>Games</category>
+		<description>Guild 2, The - Gold Edition (Europe)</description>
+		<rom name="Guild 2, The - Gold Edition (Europe).iso" size="1935966208" crc="4433d214" md5="96fed34c758b5db227e2099acd1746ec" sha1="149fefbf7923afb9ebaa9684541e76a105e3d4dd"/>
 	</game>
 	<game name="Guild 2, The - Pirates of the European Seas (Australia)" id="131611">
 		<category>Add-Ons</category>
@@ -87107,18 +87112,6 @@
 		<rom name="LVF 2004 Volleyball (Italy) (En,It).bin" size="136300752" crc="a88e3170" md5="cf73c95b0d865dd986065bddcb83c52e" sha1="042591738fa0d9c78eb44f64be3cdf0037a86c0e"/>
 		<rom name="LVF 2004 Volleyball (Italy) (En,It).cue" size="101" crc="a27b56e1" md5="02540449b77aac028d854b5186b04384" sha1="1a18da6c4b1309015697e4fe9c4aeb3a251f8bed"/>
 	</game>
-	<game name="La Quete de l'Eau (France)" id="137018">
-		<category>Games</category>
-		<description>La Quete de l'Eau (France)</description>
-		<rom name="La Quete de l'Eau (France).bin" size="724096128" crc="5b4eaaf6" md5="43b5ec1735e6b5967a8ae8b7ceb53356" sha1="ffc59b96384011fa1b6c52b4ea15a9bc52d30cbb"/>
-		<rom name="La Quete de l'Eau (France).cue" size="92" crc="e10d1864" md5="0bc15e5a9a7087f5bb26f267e45b7458" sha1="375ea36dd022113479834be15767c1b5a0a76dd0"/>
-	</game>
-	<game name="La ferme de Paille la Canaille (France)" id="137017">
-		<category>Games</category>
-		<description>La ferme de Paille la Canaille (France)</description>
-		<rom name="La ferme de Paille la Canaille (France).bin" size="793310784" crc="32261a72" md5="0570a5cfe65f0642db11b4b160c0a28d" sha1="1f6ffcfbe27d70cc435e049ae283f47c211450c1"/>
-		<rom name="La ferme de Paille la Canaille (France).cue" size="105" crc="d169e09f" md5="d396f9191fda66725c8bba4c3ee2a643" sha1="57d78849e7f543dac01d72768f13bea0304096b1"/>
-	</game>
 	<game name="Laapbat Siusan (Asia)" id="81922">
 		<category>Games</category>
 		<description>Laapbat Siusan (Asia)</description>
@@ -102553,6 +102546,28 @@
 		<rom name="Might and Magic VI - The Mandate of Heaven (Europe) (Disc 2) (Play) (Track 15).bin" size="35087136" crc="11ad0641" md5="1b7030318a1154c85fddb1274f9c51d9" sha1="fdade8fb3a7d477ea40b1a588f1bcc293fed5d26"/>
 		<rom name="Might and Magic VI - The Mandate of Heaven (Europe) (Disc 2) (Play) (Track 16).bin" size="34891920" crc="3c45c1f2" md5="63dc958ed6aef8bc8ce16640275af547" sha1="a2c99dd2b44304beb4f04f1988ccd6b9d609294a"/>
 		<rom name="Might and Magic VI - The Mandate of Heaven (Europe) (Disc 2) (Play).cue" size="2597" crc="14d788e4" md5="7c2db902877a6bb0fe018bdb3115dfe5" sha1="754d16e43dee12492c91cefca5c1e06680022d33"/>
+	</game>
+	<game name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold)" id="137048">
+		<category>Games</category>
+		<description>Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold)</description>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 01).bin" size="244107024" crc="3c3bf24d" md5="b8af72ff37919a85c178bf636c85b971" sha1="fb4869e5781e70d16eb950bc40d214fd052ce0fe"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 02).bin" size="34176912" crc="502b73f5" md5="8583afeb660ec43c82554c55e2f9ec10" sha1="a4603f7132111d21147843fb1f6479a852ba4d00"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 03).bin" size="43048656" crc="4a31627b" md5="bb8328b8d4429e5771f1278a27a19cc9" sha1="045ab085d40eb3ed413fcac2ee89533224db1fbb"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 04).bin" size="43048656" crc="39f1bbbc" md5="6c50889c6254490173b184844767d752" sha1="b9727847d3b3a27d9c5fbcdf7a55c332d603e81d"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 05).bin" size="23642304" crc="e2efa43b" md5="1531f5dcfc64ef6042789a2d60d4c469" sha1="3d507a63e4ff9843135ffc1ecea70dd889dc28d2"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 06).bin" size="43048656" crc="8e6e338f" md5="11f7673dfe772c3c18ea147e6d293cc4" sha1="f832a9558e6e0fb0462d7a7e981bb6ccfa24994b"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 07).bin" size="33299616" crc="bcfa6733" md5="2a26c07de2fb855a3ce06e8f111854a3" sha1="10fcd1d85774372dcd73e060bfd7fb4625376247"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 08).bin" size="31382736" crc="11ff786a" md5="9e6977bdd05137b90e069bb0a186bc68" sha1="702e01831c2628cf2a8aec2afdad75397ef1dc6a"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 09).bin" size="31973088" crc="8fc64da0" md5="8f72a0a4ce8b7e572df447c67fdad7a8" sha1="c127d53bf0170b9d6f5534c901191499619b0735"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 10).bin" size="45774624" crc="1cd2c8db" md5="c5091c6cb29b8ce80b022e5c93101290" sha1="98c22e030de0afd8b73ba5bf651300decb26ee23"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 11).bin" size="33581856" crc="6390983b" md5="afb20d88d82cfc51ebb1a1c4e509337e" sha1="57332fefae48776073b8bfc885061676d406b7cf"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 12).bin" size="43048656" crc="c6122a25" md5="5bd30790b6c19bf81485ad142afc64de" sha1="7449bc40e0b6ad63c6794bf9b355603f44fca5d4"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 13).bin" size="33217296" crc="e055089a" md5="be573eeefea50d5a6a06b6e0e236e8c9" sha1="bd94d82c45ac412501a9b1e9da4204dd8b184405"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 14).bin" size="35708064" crc="f44008d3" md5="c17a661aaf985cc4ca82a460963f7996" sha1="ba17546242874dbf0504d109221764bdfe8d21b8"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 15).bin" size="35444640" crc="313c17ab" md5="6b968d748e99c2c2ed76d8d9ef97dd96" sha1="b934c67a6a8661bc344dfec866414fad45fea678"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 16).bin" size="34896624" crc="22a5372d" md5="bc0b9181482cce46c998f8f3550707b1" sha1="0d72e9b76fa54c6836ff128d0fd9405dca7b2c6d"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold) (Track 17).bin" size="34891920" crc="5e090a8e" md5="5a3ce99ddf73ec47936accc7c8828a22" sha1="ec8e2af2ab1b2f0a8ca1ff3ebefd4f17ab161386"/>
+		<rom name="Might and Magic VI - The Mandate of Heaven (Germany) (Disc 2) (Classique Gold).cue" size="2923" crc="65378dde" md5="880862906c68c99f57fb252a895aeaf2" sha1="cb8d3dc3fd3b7874024250a36e44112ecc73750f"/>
 	</game>
 	<game name="Might and Magic VI - The Mandate of Heaven (Italy) (Gioco)" id="79462">
 		<category>Games</category>
@@ -128088,6 +128103,12 @@
 		<rom name="Questerium - Sinister Trinity - Collector's Edition (Germany).bin" size="803993568" crc="49c377a3" md5="e035031d59c3a02a6dc1c64cd439169f" sha1="17c04a11865d2ba6678f0f7816086bd4f18c011a"/>
 		<rom name="Questerium - Sinister Trinity - Collector's Edition (Germany).cue" size="127" crc="5c460656" md5="76b74d749439aecab9f81450f82131e3" sha1="e841496da8dcf8bceb16802dda5009a705da9f65"/>
 	</game>
+	<game name="Quete de l'Eau, La (France)" id="137018">
+		<category>Games</category>
+		<description>Quete de l'Eau, La (France)</description>
+		<rom name="Quete de l'Eau, La (France).bin" size="724096128" crc="5b4eaaf6" md5="43b5ec1735e6b5967a8ae8b7ceb53356" sha1="ffc59b96384011fa1b6c52b4ea15a9bc52d30cbb"/>
+		<rom name="Quete de l'Eau, La (France).cue" size="93" crc="23ad4abd" md5="d3cd57c980fb1f0e2edce066e466fc3f" sha1="12216a8e47c1332cd831c2c355edbcebd7c031b4"/>
+	</game>
 	<game name="Qui Veut Gagner des Millions - Junior (France)" id="87703">
 		<category>Games</category>
 		<description>Qui Veut Gagner des Millions - Junior (France)</description>
@@ -152891,11 +152912,24 @@
 		<description>SpellForce - Platinum Edition (USA) (Rev 1)</description>
 		<rom name="SpellForce - Platinum Edition (USA) (Rev 1).iso" size="3332210688" crc="c05bef5f" md5="85d144163da73316214a301efdfe85eb" sha1="21d6f96ce1020c9fa769746000d7fa0954d5fc4f"/>
 	</game>
-	<game name="SpellForce - The Breath of Winter (Germany)" id="108219">
+	<game name="SpellForce - Shadow of the Phoenix (Germany) (Disc 1) (Install CD1-Play CD)" id="137057">
+		<category>Add-Ons</category>
+		<description>SpellForce - Shadow of the Phoenix (Germany) (Disc 1) (Install CD1-Play CD)</description>
+		<rom name="SpellForce - Shadow of the Phoenix (Germany) (Disc 1) (Install CD1-Play CD) (Track 1).bin" size="771594768" crc="71f8af85" md5="1c5bd839aaa8e7e58d4b0bbdd950b485" sha1="61354e32f9658736ec2134c04a1d07e6dd07027e"/>
+		<rom name="SpellForce - Shadow of the Phoenix (Germany) (Disc 1) (Install CD1-Play CD) (Track 2).bin" size="1411200" crc="7c796e5c" md5="531f27d858afd674aa25bdf021a5fb84" sha1="b57a61b60950fe9bccefeed353ec77e38c2340c4"/>
+		<rom name="SpellForce - Shadow of the Phoenix (Germany) (Disc 1) (Install CD1-Play CD).cue" size="325" crc="7079922f" md5="214fda509e5e43325836de85f531f57f" sha1="24a3acdbd4971da1bb24f31d58c8523a05142e1c"/>
+	</game>
+	<game name="SpellForce - Shadow of the Phoenix (Germany) (Disc 2) (Install CD2)" id="137058">
+		<category>Add-Ons</category>
+		<description>SpellForce - Shadow of the Phoenix (Germany) (Disc 2) (Install CD2)</description>
+		<rom name="SpellForce - Shadow of the Phoenix (Germany) (Disc 2) (Install CD2).bin" size="795072432" crc="d20c5d5b" md5="ed820a100d5914c5349257a362731a85" sha1="02fc9aaa5c69e100de9c39946e68616b87f72e85"/>
+		<rom name="SpellForce - Shadow of the Phoenix (Germany) (Disc 2) (Install CD2).cue" size="133" crc="a8ba48b0" md5="71133870c96ee36a4f5020ff84380994" sha1="2809813922269f534bb6eaba02310412ffe0897d"/>
+	</game>
+	<game name="SpellForce - The Breath of Winter (Germany)" id="137056">
 		<category>Add-Ons</category>
 		<description>SpellForce - The Breath of Winter (Germany)</description>
 		<rom name="SpellForce - The Breath of Winter (Germany) (Track 1).bin" size="829007088" crc="ad33b8e5" md5="9e7c635fa9e8ecb49690d01d9b45d998" sha1="ad130cfcf0dd6c97e0c519350469c68395cabb9c"/>
-		<rom name="SpellForce - The Breath of Winter (Germany) (Track 2).bin" size="1411200" crc="d7760fcd" md5="d942f28b3800e693817e466b50519537" sha1="4464ec3557d120b60ae8ff0173453e6fed5e8c8e"/>
+		<rom name="SpellForce - The Breath of Winter (Germany) (Track 2).bin" size="1411200" crc="c9155a8d" md5="c79901db96145740fbe0af4629847e0e" sha1="2c846f564008efb710ab00ebb0026a9f1ef45c52"/>
 		<rom name="SpellForce - The Breath of Winter (Germany).cue" size="261" crc="6853dd82" md5="87fb0301e00fd3c2fdd9922209015947" sha1="c606ad01841c6d62c476f38e6fbf494c66080818"/>
 	</game>
 	<game name="SpellForce - The Order of Dawn (Europe) (Disc 1) (Install-Play CD)" id="11931">
@@ -152916,23 +152950,17 @@
 		<rom name="SpellForce - The Order of Dawn (Germany) (Disc 1) (Install CD1 &amp; Play CD) (Rerelease) (2005-01-19).bin" size="844024608" crc="4f1302a8" md5="263a38e887bf1f863fbb55862a1baebe" sha1="83765df48467944fa95c0dd5ffb83a2c7a7f4d35"/>
 		<rom name="SpellForce - The Order of Dawn (Germany) (Disc 1) (Install CD1 &amp; Play CD) (Rerelease) (2005-01-19).cue" size="164" crc="2698a4d9" md5="492f570d904a7895982eb3500ca22bf2" sha1="3b9d3125b346edfada3b1db7acd1537c6f7766a4"/>
 	</game>
-	<game name="SpellForce - The Order of Dawn (Germany) (Disc 1) (Install-Play)" id="84654">
-		<category>Games</category>
-		<description>SpellForce - The Order of Dawn (Germany) (Disc 1) (Install-Play)</description>
-		<rom name="SpellForce - The Order of Dawn (Germany) (Disc 1) (Install-Play).bin" size="844828992" crc="9960d0c3" md5="c8708a2d89693e4e8ea6b773bd94917d" sha1="61c6ab0788a0fdc5dc36b08f9738d64a369d31bb"/>
-		<rom name="SpellForce - The Order of Dawn (Germany) (Disc 1) (Install-Play).cue" size="130" crc="dd235ae8" md5="8dfde1a1d12eff287d9bdbd17b11bf39" sha1="9db5c6c95b0305d8f202ded43e18745306d59a5c"/>
-	</game>
 	<game name="SpellForce - The Order of Dawn (Germany) (Disc 2) (Install CD2) (Rerelease) (2005-01-19)" id="113158">
 		<category>Games</category>
 		<description>SpellForce - The Order of Dawn (Germany) (Disc 2) (Install CD2) (Rerelease) (2005-01-19)</description>
 		<rom name="SpellForce - The Order of Dawn (Germany) (Disc 2) (Install CD2) (Rerelease) (2005-01-19).bin" size="770397600" crc="e7f0deba" md5="b56833bf65ecaf4431e10bb25debe518" sha1="033544b78d080cbd593643c2ecda28bd3b77accb"/>
 		<rom name="SpellForce - The Order of Dawn (Germany) (Disc 2) (Install CD2) (Rerelease) (2005-01-19).cue" size="154" crc="d15b9dd5" md5="1f9f7c89398ad0cd5edfd9a80ff8469d" sha1="08751330ba90b4a410742301fd623102ad484694"/>
 	</game>
-	<game name="SpellForce - The Order of Dawn (Germany) (Disc 2) (Play)" id="84653">
+	<game name="SpellForce - The Order of Dawn (Germany) (Disc 2) (Play CD)" id="84653">
 		<category>Games</category>
-		<description>SpellForce - The Order of Dawn (Germany) (Disc 2) (Play)</description>
-		<rom name="SpellForce - The Order of Dawn (Germany) (Disc 2) (Play).bin" size="721579488" crc="02b37f8d" md5="7189c4f6ad8a23bcf4b77dd05473f4ef" sha1="b6b1d9f25907113489cbaaab62f706100955f9e2"/>
-		<rom name="SpellForce - The Order of Dawn (Germany) (Disc 2) (Play).cue" size="122" crc="ce6302d0" md5="ee2964c7761b604c8892cab1e30ef39e" sha1="f77383d5cda5f13fe56f1157026b154831270148"/>
+		<description>SpellForce - The Order of Dawn (Germany) (Disc 2) (Play CD)</description>
+		<rom name="SpellForce - The Order of Dawn (Germany) (Disc 2) (Play CD).bin" size="721579488" crc="02b37f8d" md5="7189c4f6ad8a23bcf4b77dd05473f4ef" sha1="b6b1d9f25907113489cbaaab62f706100955f9e2"/>
+		<rom name="SpellForce - The Order of Dawn (Germany) (Disc 2) (Play CD).cue" size="125" crc="fcacada0" md5="51e394c0bd348c404a50266ab189217d" sha1="1bd5a66e5f857b789c8ec770a8bcb40bc6f76e0f"/>
 	</game>
 	<game name="SpellForce - The Order of Dawn (Germany) (Disc 3) (Install CD3) (Rerelease) (2004-08-19)" id="83755">
 		<category>Games</category>
@@ -162222,20 +162250,6 @@
 		<description>Thandor - The Invasion (Europe)</description>
 		<rom name="Thandor - The Invasion (Europe).bin" size="683023152" crc="fae4487e" md5="e9fe0ad87d116fbaf9b5e1eee51e71f9" sha1="55ca44344d1548f33dd1c2c86d3826e8ee932f30"/>
 		<rom name="Thandor - The Invasion (Europe).cue" size="97" crc="a2e9bc13" md5="bacc80c5340097068573ada5acc0f211" sha1="a07592739db664f3e0a8541f18a523ca81a9910a"/>
-	</game>
-	<game name="The Fifth Element (France) (En,Fr,De,Es,It)" id="137026">
-		<category>Games</category>
-		<description>The Fifth Element (France) (En,Fr,De,Es,It)</description>
-		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 1).bin" size="339238368" crc="b636ee7d" md5="f277b4e9bf4e836a39d919391b3db383" sha1="e5b16a84bfa3d6c8c9dbef35fa198996b5f98cc1"/>
-		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 2).bin" size="45186624" crc="cd45ff3c" md5="9eb59e46ad527ed634872da6854eb61e" sha1="da7e76201ddebdfcc3212bcf9327712cedd30f1b"/>
-		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 3).bin" size="42836976" crc="54d2d2eb" md5="5d16a0e52a5fd5010f467fe5124044b1" sha1="fcc4c1605f6c08beb98f87f3f0a352de005d052d"/>
-		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 4).bin" size="43232112" crc="1e9a1a63" md5="80ac419072521f3819ab054691f224f1" sha1="a1765b5d68206ab2df0d46613b893ebf047d4c85"/>
-		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 5).bin" size="50671488" crc="96133ae9" md5="d0589afc244c4dd07a429d3d7afd374c" sha1="7c3e2c9eca7352e12b39c46c0f441339706be409"/>
-		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 6).bin" size="43225056" crc="8094a905" md5="73024ce7b12c71d5662f172a10b72cbd" sha1="be70c1d23dee66459333029e12ce13ecfb6cf6a5"/>
-		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 7).bin" size="27995856" crc="7b0e3fcc" md5="4c7c85c54654def9b417052e4f107d7f" sha1="f8ad6c678ef9c7d5adcd226fe8d7966866c311b3"/>
-		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 8).bin" size="43537872" crc="b097b5ac" md5="980625eac87543ea3fab992f9386b969" sha1="9f658d213f72a6bf00853741eed5a9c601b7d98d"/>
-		<rom name="The Fifth Element (France) (En,Fr,De,Es,It) (Track 9).bin" size="19916736" crc="9b1332fa" md5="ae9e21d8519e5e9ffb5d7803b8748533" sha1="8f0acbe1631361cc1e228c5b3dd468942036eccb"/>
-		<rom name="The Fifth Element (France) (En,Fr,De,Es,It).cue" size="1215" crc="d05d303e" md5="e98ef5ee88540dc30bf25541018b70c4" sha1="c73d678339819bfbd41873417eca74d9651ccb5d"/>
 	</game>
 	<game name="TheHunter - Call of the Wild (USA) (Disc 1)" id="114373">
 		<category>Games</category>
@@ -187197,6 +187211,12 @@
 		<description>fantastiska kroppen, Den (Sweden)</description>
 		<rom name="fantastiska kroppen, Den (Sweden).bin" size="582183504" crc="05ea5ad2" md5="1e4b008c106041409e3c68db10090e70" sha1="98e719a8b683f1adf778bf03ed2d90dc839b37f9"/>
 		<rom name="fantastiska kroppen, Den (Sweden).cue" size="122" crc="e2fdeff9" md5="38b2b0f304732604472cf4efac295c14" sha1="309674267824fec84eca7bff78d0667c9316e305"/>
+	</game>
+	<game name="ferme de Paille la Canaille, La (France)" id="137017">
+		<category>Games</category>
+		<description>ferme de Paille la Canaille, La (France)</description>
+		<rom name="ferme de Paille la Canaille, La (France).bin" size="793310784" crc="32261a72" md5="0570a5cfe65f0642db11b4b160c0a28d" sha1="1f6ffcfbe27d70cc435e049ae283f47c211450c1"/>
+		<rom name="ferme de Paille la Canaille, La (France).cue" size="106" crc="932f2289" md5="d28f61e4deef00b61d9ad39d96f316d4" sha1="184255f7d5fb0d1a75f1a277e53c219bb10090b0"/>
 	</game>
 	<game name="grosse Abenteuer, Das (Germany) (En,Fr,De,Es,It)" id="130824">
 		<category>Games</category>

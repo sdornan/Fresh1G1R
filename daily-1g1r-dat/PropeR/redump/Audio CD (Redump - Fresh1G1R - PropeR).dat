@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Audio CD (Retool)</name>
-		<description>Audio CD (2,347) (-y) [-aAbBcdkmMpPuv] (2026-08-15 22-26-53) (Retool)</description>
-		<version>2026-08-15 22-26-53</version>
-		<date>2026-08-16 03-26-34</date>
+		<description>Audio CD (2,348) (-y) [-aAbBcdkmMpPuv] (2026-08-16 16-26-53) (Retool)</description>
+		<version>2026-08-16 16-26-53</version>
+		<date>2026-08-17 03-30-38</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -6154,15 +6154,6 @@
 		<rom name="Chaos Field Original Soundtrack - Comic Market76 Bonus CD (Japan) (Track 2).bin" size="35872704" crc="e3b5fc61" md5="a11892e7dc13588918ab0340fd16f9e6" sha1="dcc62708bec73aefda7ab34cf0148687c4e23cb9"/>
 		<rom name="Chaos Field Original Soundtrack - Comic Market76 Bonus CD (Japan).cue" size="364" crc="ed9373b2" md5="42ea5a0feb08f9ae8befd53c976a2c48" sha1="2dab7596c19a76f3d7752fbf43be8559ee5dcd90"/>
 	</game>
-	<game name="Chaos Field Special Bonus CD (Japan)" id="98707">
-		<category>Bonus Discs</category>
-		<description>Chaos Field Special Bonus CD (Japan)</description>
-		<rom name="Chaos Field Special Bonus CD (Japan) (Track 1).bin" size="29070720" crc="74dc92e6" md5="4d4c27c0997152ae1b2b11a9541c09b7" sha1="b76b89e2713325acd0c0227726f0c35eb879b0bd"/>
-		<rom name="Chaos Field Special Bonus CD (Japan) (Track 2).bin" size="16929696" crc="7f5e48a7" md5="5e3286f7e560df8f29e3f82d88dc368b" sha1="6a8ef2d35fa53f7aa2acf368dcf7f0ba367f17ca"/>
-		<rom name="Chaos Field Special Bonus CD (Japan) (Track 3).bin" size="23233056" crc="8967b687" md5="d410a8cb8f87f7dd718c08fb20238a5f" sha1="dd6728b2fd32bf7b41f5cc42de8b528813159bf5"/>
-		<rom name="Chaos Field Special Bonus CD (Japan) (Track 4).bin" size="59797248" crc="5cda401c" md5="3d2f94780b6457eb482c4f430184800c" sha1="a8f0291f5e4cd0ccc3a65912722d4f5a2cc94739"/>
-		<rom name="Chaos Field Special Bonus CD (Japan).cue" size="511" crc="2bbf107c" md5="67610d876f28509eea4612a23b9592b8" sha1="bc1490ae708be81de93772b07268d6e7b2f93b86"/>
-	</game>
 	<game name="Chaos Field Special Bonus CD Vol.2 (Japan)" id="66143">
 		<category>Bonus Discs</category>
 		<description>Chaos Field Special Bonus CD Vol.2 (Japan)</description>
@@ -6180,6 +6171,15 @@
 		<rom name="Chaos;Head Noah - Character Song Album CD (Japan) (Xbox 360 Game Bundle) (Track 5).bin" size="21426720" crc="9f0a1e0a" md5="5b8126c69a8c3242adc04e12af1613bf" sha1="a1c6d98710246a8ac97c0eef7d345a586b8ab7f7"/>
 		<rom name="Chaos;Head Noah - Character Song Album CD (Japan) (Xbox 360 Game Bundle) (Track 6).bin" size="25568592" crc="8cb31d8d" md5="ae41d01f50bf8f28d013ad807f082a08" sha1="af07739ef7dce9ca47f6fcdb4b84b9361b027c6a"/>
 		<rom name="Chaos;Head Noah - Character Song Album CD (Japan) (Xbox 360 Game Bundle).cue" size="973" crc="e52dc397" md5="9ca70cf2408dda9504b49957d6464927" sha1="98d42363672132ffe54f758d4e70bf54bed4ed81"/>
+	</game>
+	<game name="ChaosField Special Bonus CD (Japan)" id="98707">
+		<category>Bonus Discs</category>
+		<description>ChaosField Special Bonus CD (Japan)</description>
+		<rom name="ChaosField Special Bonus CD (Japan) (Track 1).bin" size="29070720" crc="74dc92e6" md5="4d4c27c0997152ae1b2b11a9541c09b7" sha1="b76b89e2713325acd0c0227726f0c35eb879b0bd"/>
+		<rom name="ChaosField Special Bonus CD (Japan) (Track 2).bin" size="16929696" crc="7f5e48a7" md5="5e3286f7e560df8f29e3f82d88dc368b" sha1="6a8ef2d35fa53f7aa2acf368dcf7f0ba367f17ca"/>
+		<rom name="ChaosField Special Bonus CD (Japan) (Track 3).bin" size="23233056" crc="8967b687" md5="d410a8cb8f87f7dd718c08fb20238a5f" sha1="dd6728b2fd32bf7b41f5cc42de8b528813159bf5"/>
+		<rom name="ChaosField Special Bonus CD (Japan) (Track 4).bin" size="59797248" crc="5cda401c" md5="3d2f94780b6457eb482c4f430184800c" sha1="a8f0291f5e4cd0ccc3a65912722d4f5a2cc94739"/>
+		<rom name="ChaosField Special Bonus CD (Japan).cue" size="507" crc="2089c49d" md5="dee8a051341c9f1a4a0a7bd389092359" sha1="22c20d5cc8a94040cbb39a0144df40a8e5f9afc7"/>
 	</game>
 	<game name="Chariot - Official Soundtrack (USA) (PC Game Bundle)" id="65196">
 		<category>Bonus Discs</category>
@@ -6655,6 +6655,14 @@
 		<description>Chronostacia - Genteiban Tokuten Drama CD - Chronostacia Quest - Ryaku Shite Chroque (Japan) (PSP Game Bundle)</description>
 		<rom name="Chronostacia - Genteiban Tokuten Drama CD - Chronostacia Quest - Ryaku Shite Chroque (Japan) (PSP Game Bundle).bin" size="406420896" crc="9603fa5f" md5="2a3e475c6b6638bffc841d6f6cdc79be" sha1="1288e5e20aeb457e59271f49eaaeeb95166104ae"/>
 		<rom name="Chronostacia - Genteiban Tokuten Drama CD - Chronostacia Quest - Ryaku Shite Chroque (Japan) (PSP Game Bundle).cue" size="171" crc="0f3c2f99" md5="5bb45d0ead0d3dfe269888a4509421de" sha1="c7bc6d66326f66eb237b6ca64dc6adfe7d525d92"/>
+	</game>
+	<game name="Cinquieme Element, Le - The Diva Dance (France) (PC Game Bundle)" id="137046">
+		<category>Bonus Discs</category>
+		<description>Cinquieme Element, Le - The Diva Dance (France) (PC Game Bundle)</description>
+		<rom name="Cinquieme Element, Le - The Diva Dance (France) (PC Game Bundle) (Track 1).bin" size="37697856" crc="fd7ee1f4" md5="555a0a8365cc671d3962a56947083836" sha1="e015420aaf57052bd3ff2fe88660f7214ac65b75"/>
+		<rom name="Cinquieme Element, Le - The Diva Dance (France) (PC Game Bundle) (Track 2).bin" size="66585120" crc="33e27d33" md5="9c088007bb922ac189c80326b5c15bbe" sha1="3e6f136ff6afc10eb497c771ef1c9009febd7fee"/>
+		<rom name="Cinquieme Element, Le - The Diva Dance (France) (PC Game Bundle) (Track 3).bin" size="66467520" crc="38d9d8c6" md5="ffa373cf0667342938004619b102fcb7" sha1="b6d6e6181725dba5191d94f3554eaacabb9ca8f4"/>
+		<rom name="Cinquieme Element, Le - The Diva Dance (France) (PC Game Bundle).cue" size="474" crc="a13f58f2" md5="1db37e533886a2d4548e9886c9f9befa" sha1="3d86fa070a92606153e116b7d6318203526ab2d4"/>
 	</game>
 	<game name="Clock Zero - Shuuen no Ichibyou - ExTime - Yoyaku Tokuten Drama CD - Omiai Soudou Rival wa Dare Da (Japan)" id="118548">
 		<category>Bonus Discs</category>
@@ -21930,39 +21938,22 @@
 		<rom name="Killer Cuts (USA) (SNES Game Bundle) (Track 30).bin" size="7081872" crc="5bee751b" md5="fb1637bb61d7100016a96f7293beaa9c" sha1="931e0b7846e0295eec0cbfa00b93ca7b62869c5b"/>
 		<rom name="Killer Cuts (USA) (SNES Game Bundle).cue" size="3240" crc="d5f4970b" md5="da69452536efbf755930ff95ec411602" sha1="56dfea8e0576ff7c7645340ff5c71cea046e22c5"/>
 	</game>
-	<game name="Killer Instinct (Europe) (Original Soundtrack)" id="71299">
+	<game name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle)" id="71299">
 		<category>Bonus Discs</category>
-		<description>Killer Instinct (Europe) (Original Soundtrack)</description>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 01).bin" size="72942576" crc="0a2112cd" md5="5cbdb9d9bc91b3d5d380cd48b4bc2945" sha1="e54f01d29bfea054ce07942c247749f4f2fbb19d"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 02).bin" size="93423792" crc="ce1683df" md5="d93c99b26e9af3e54460bc1f97387240" sha1="5b11e73747a3af618b7afb67925c2bfdfb0c53b3"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 03).bin" size="47171712" crc="4b1843a9" md5="5cb92fb9d7f90ef4cde7727dfbf89596" sha1="65f67ab2b45cbe32cf061a1a8502debadc042f65"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 04).bin" size="76294176" crc="755f3948" md5="9d7e4fb42665ced3db3832043ebba5c6" sha1="e81693a095b67a69e8add844466afdd8712271fd"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 05).bin" size="50803200" crc="541ef7a8" md5="22bc1aca43635138bd46250986f1dae2" sha1="5d216a55adf9c41372fa56470bb97dfb1f97feeb"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 06).bin" size="61427184" crc="2446052e" md5="ce4f83268190c37688de6f97e12506b8" sha1="14007ac2fe2895b66e04dd71856ce772fc7de73b"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 07).bin" size="61930512" crc="48f5f934" md5="5eb87aa1ed529e94097d6ac06bb41415" sha1="be23a8a87210fdc4365723f9df20ef4a9e7c65fb"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 08).bin" size="46764816" crc="84dc8374" md5="bfe77f9882799f31106b201dfa3d1688" sha1="2bdab664c444808f4b477d0ea77b7ab3628aa4b7"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 09).bin" size="68111568" crc="41d0bffe" md5="6e6c2537523c7debd2dbb7bd389a8754" sha1="1c736a67e107a309b0f60faa605669541f5a303f"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 10).bin" size="76818672" crc="6381b25f" md5="3ebfc720b6af83103fb271a9497645bd" sha1="29ca1ef03d4855e384c4c9cc2b3e7f8fb89d8e15"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 11).bin" size="56299824" crc="14d5c134" md5="895a1681144c934f37cfbef29c16487e" sha1="f861031534b53b91672ea29efd0947f5343a6c6f"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack) (Track 12).bin" size="70635264" crc="d19242bf" md5="04ecb9055669ec0e0e97578ada9360a5" sha1="4f6c1b178a6cc8da68acfe60b47feb8ae100e401"/>
-		<rom name="Killer Instinct (Europe) (Original Soundtrack).cue" size="1416" crc="d6eee71c" md5="151b59424fbc8b3ed74e81ab4cdb0df3" sha1="f13d54a8223abccecbbc1ab11df227bfabaf8e45"/>
-	</game>
-	<game name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle)" id="110606">
-		<category>Bonus Discs</category>
-		<description>Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle)</description>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 01).bin" size="72942576" crc="092db329" md5="abd1686c064ff16b0b31352672f2bed7" sha1="73b00337d2ce09e955b1ebd785702bf8fc55f70d"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 02).bin" size="93423792" crc="02bbb174" md5="5f65712dc8e3929a517e852d17608596" sha1="4ea3b6f7133b3b1f3aec0604621560883392c787"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 03).bin" size="47171712" crc="7e7a1dc4" md5="0f5f00c380788606865c4e59bfd7856d" sha1="97750feeee1774d06d613af72af9a5f07ab45ff5"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 04).bin" size="76294176" crc="b4f98b26" md5="cec7662228689eb0912f533921b7e685" sha1="0dcf5094993df7b1348647fdc2454cd1f0f35a16"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 05).bin" size="50803200" crc="5920cf46" md5="1eb4cbb930448da73dd53374ce59df09" sha1="d8f65dbddc9556c69e30f4d31fadcd32fde47190"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 06).bin" size="61427184" crc="f7e072f8" md5="5074722bd6e99e393546e8e0f68f339a" sha1="2d2c3054f381779a276686d21ff8e93f36d1a153"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 07).bin" size="61930512" crc="c35d8ff0" md5="66fc5be01482c5b8322479fc899d7060" sha1="f42da5fa07087bd6756d007b1790fe737a6375c7"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 08).bin" size="46764816" crc="5e100840" md5="5be3db6d49e39ac6151371ca609db0c3" sha1="67060b2aaaffa122a50233f35b4d26541e2b770f"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 09).bin" size="68111568" crc="dd5b1129" md5="22c324078c6fa9db0e97a468182946e9" sha1="702437454b5bf18f2e04ab252de2c82f4497b1c9"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 10).bin" size="76818672" crc="02d8c33a" md5="114c88432936ed459aa1df7e19933f6d" sha1="4a6842271a48dec84b6fd3c5e19e25b8cb40f524"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 11).bin" size="56299824" crc="748e9cb4" md5="2f9c5826af37e2aa878f0ec7755c26b3" sha1="3637d7f81f68159d4091d170b27c042ed9c7f0e5"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle) (Track 12).bin" size="70635264" crc="da290bac" md5="470a0b0f73efb05aecafec4bd743a0d9" sha1="3668cb2410db950a668bda06c9237208941a942b"/>
-		<rom name="Killer Instinct (USA) (Original Soundtrack) (Xbox One Game Bundle).cue" size="1656" crc="521977dd" md5="66850e851a252e4ec75cd69336c860e9" sha1="a9560a9e92dc6b681986b0090c8a4856fa10ed25"/>
+		<description>Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle)</description>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 01).bin" size="72942576" crc="0a2112cd" md5="5cbdb9d9bc91b3d5d380cd48b4bc2945" sha1="e54f01d29bfea054ce07942c247749f4f2fbb19d"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 02).bin" size="93423792" crc="ce1683df" md5="d93c99b26e9af3e54460bc1f97387240" sha1="5b11e73747a3af618b7afb67925c2bfdfb0c53b3"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 03).bin" size="47171712" crc="4b1843a9" md5="5cb92fb9d7f90ef4cde7727dfbf89596" sha1="65f67ab2b45cbe32cf061a1a8502debadc042f65"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 04).bin" size="76294176" crc="755f3948" md5="9d7e4fb42665ced3db3832043ebba5c6" sha1="e81693a095b67a69e8add844466afdd8712271fd"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 05).bin" size="50803200" crc="541ef7a8" md5="22bc1aca43635138bd46250986f1dae2" sha1="5d216a55adf9c41372fa56470bb97dfb1f97feeb"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 06).bin" size="61427184" crc="2446052e" md5="ce4f83268190c37688de6f97e12506b8" sha1="14007ac2fe2895b66e04dd71856ce772fc7de73b"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 07).bin" size="61930512" crc="48f5f934" md5="5eb87aa1ed529e94097d6ac06bb41415" sha1="be23a8a87210fdc4365723f9df20ef4a9e7c65fb"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 08).bin" size="46764816" crc="84dc8374" md5="bfe77f9882799f31106b201dfa3d1688" sha1="2bdab664c444808f4b477d0ea77b7ab3628aa4b7"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 09).bin" size="68111568" crc="41d0bffe" md5="6e6c2537523c7debd2dbb7bd389a8754" sha1="1c736a67e107a309b0f60faa605669541f5a303f"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 10).bin" size="76818672" crc="6381b25f" md5="3ebfc720b6af83103fb271a9497645bd" sha1="29ca1ef03d4855e384c4c9cc2b3e7f8fb89d8e15"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 11).bin" size="56299824" crc="14d5c134" md5="895a1681144c934f37cfbef29c16487e" sha1="f861031534b53b91672ea29efd0947f5343a6c6f"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle) (Track 12).bin" size="70635264" crc="d19242bf" md5="04ecb9055669ec0e0e97578ada9360a5" sha1="4f6c1b178a6cc8da68acfe60b47feb8ae100e401"/>
+		<rom name="Killer Instinct (USA, Europe) (Original Soundtrack) (Xbox One Game Bundle).cue" size="1752" crc="3326254a" md5="992c6406df4734a3a9bf1ed78b7129eb" sha1="b4f870ff2e974ea982ce19652f5b2ccb37e79a15"/>
 	</game>
 	<game name="Kimagure Temptation 2 - Yuuyami Kaikitan - Fanza Gentei Tori-oroshi Drama CD - Kimagure Temptation 1.5 (Japan) (PC Game Bundle)" id="122012">
 		<category>Bonus Discs</category>
@@ -35804,6 +35795,18 @@
 		<description>Rikujou Boueitai Mao-chan - Drama CD (Japan) (PSX Game Bundle)</description>
 		<rom name="Rikujou Boueitai Mao-chan - Drama CD (Japan) (PSX Game Bundle).bin" size="296831808" crc="0e28e05a" md5="538341edf44fb133f64f41816e7c6e2d" sha1="6b8c0bd94588c431245f0dfed4b0423d746e654d"/>
 		<rom name="Rikujou Boueitai Mao-chan - Drama CD (Japan) (PSX Game Bundle).cue" size="123" crc="84114e26" md5="5a2ff0482cdd536919bf1796eb5febf1" sha1="11fc1306a77ffc34077c6418ceb30c063adb4785"/>
+	</game>
+	<game name="Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle)" id="137045">
+		<category>Bonus Discs</category>
+		<description>Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle)</description>
+		<rom name="Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle) (Track 1).bin" size="108474240" crc="ed76dd63" md5="417da901d7e589ccab3fe295b5db9d58" sha1="4f320d2a00f8b335e71574549532ad99c459cee0"/>
+		<rom name="Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle) (Track 2).bin" size="67554144" crc="4ce1ba43" md5="879b76cf7a8473281aa275948f4658bb" sha1="e460cdff1f206a36391f7408a04626f40959f28c"/>
+		<rom name="Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle) (Track 3).bin" size="50144640" crc="5ce5b418" md5="c66fe1cdf75b744b1bdd82444c789b1f" sha1="678b0ba9fef71fc8c8b07359980ef319ea3f6830"/>
+		<rom name="Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle) (Track 4).bin" size="150170496" crc="b15e78f4" md5="68def64888ae4ec7a5cd3e1cba07cf9a" sha1="efe54b4e09fea5be0cbe2c3cc26b12a8355d2ea2"/>
+		<rom name="Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle) (Track 5).bin" size="54507600" crc="7d5f611e" md5="1079d17fa3167b9e95979bc8850a8c5c" sha1="ad7fb63bda46012dc4da7ceb3ed95719bec222aa"/>
+		<rom name="Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle) (Track 6).bin" size="83089104" crc="c7c183fb" md5="b303b4280f7b8427c3120056efb1df60" sha1="102d88c7a4becbad96c35d97a529760c9db04ab5"/>
+		<rom name="Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle) (Track 7).bin" size="217101360" crc="43c5d306" md5="b097d95573e6d2c320f0c6cb85d8005f" sha1="5cd2b30a55e29e736b55477ab1c16d0f9481a48e"/>
+		<rom name="Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle).cue" size="1274" crc="7282aeec" md5="34c9594c5b398ad2a6d8ded273d076f0" sha1="e6141f8b7f3c0036393237ae5d9f405c08006cac"/>
 	</game>
 	<game name="Risk of Rain - Official Game Soundtrack (USA) (PC Game Bundle)" id="122941">
 		<category>Bonus Discs</category>
