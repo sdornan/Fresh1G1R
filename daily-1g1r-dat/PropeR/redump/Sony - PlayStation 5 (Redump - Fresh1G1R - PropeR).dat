@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (336) (-y) [-aAbBcdkmMpPuv] (2026-08-16 12-46-53) (Retool)</description>
-		<version>2026-08-16 12-46-53</version>
-		<date>2026-08-17 03-35-18</date>
+		<description>Sony - PlayStation 5 (337) (-y) [-aAbBcdkmMpPuv] (2026-08-17 18-38-26) (Retool)</description>
+		<version>2026-08-17 18-38-26</version>
+		<date>2026-08-18 03-30-49</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -155,6 +155,11 @@
 		<category>Games</category>
 		<description>Battlefield 6 (Europe)</description>
 		<rom name="Battlefield 6 (Europe).iso" size="44865093632" crc="4922e1e1" md5="f85ad4f0d538bc17d9eefb944908d3f7" sha1="c43eb3a96bd7240d3e895e13a4186bd1c737bc78"/>
+	</game>
+	<game name="Beast of Reincarnation (Japan)" id="137073">
+		<category>Games</category>
+		<description>Beast of Reincarnation (Japan)</description>
+		<rom name="Beast of Reincarnation (Japan).iso" size="40008351744" crc="6c6fdf20" md5="7179a08c4e2ab6eace1fec1c30f7b496" sha1="c13113e6e8f38206482a214130a3834938e56324"/>
 	</game>
 	<game name="Biohazard - Requiem (Japan)" id="132877">
 		<category>Games</category>

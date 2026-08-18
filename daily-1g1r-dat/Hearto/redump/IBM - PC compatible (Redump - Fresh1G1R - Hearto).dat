@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,843) (-y) [-aAbBcefkmMoprv] (2026-08-17 01-36-54) (Retool)</description>
-		<version>2026-08-17 01-36-54</version>
-		<date>2026-08-17 03-12-02</date>
+		<description>IBM - PC compatible (25,844) (-y) [-aAbBcefkmMoprv] (2026-08-18 00-16-54) (Retool)</description>
+		<version>2026-08-18 00-16-54</version>
+		<date>2026-08-18 03-07-05</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -24779,6 +24779,12 @@
 		<rom name="Carmageddon - Splat Pack (USA) (Track 8).bin" size="1234800" crc="d42c677c" md5="e0c43bd80fcf62f0a3d3a4ed930312f1" sha1="37276f79e8923d659b24ed3ab916b9191e89f5c6"/>
 		<rom name="Carmageddon - Splat Pack (USA).cue" size="974" crc="cf30e1a5" md5="f6885a8476a501edd9887fca2f55b0bf" sha1="61ae572ec6cbea840af27b621b0c6bac7acd80fb"/>
 	</game>
+	<game name="Carmageddon - Splat Pack (USA) (Interactive Preview)" id="137080">
+		<category>Demos</category>
+		<description>Carmageddon - Splat Pack (USA) (Interactive Preview)</description>
+		<rom name="Carmageddon - Splat Pack (USA) (Interactive Preview).bin" size="90316800" crc="0129a04f" md5="d89c6a4f2077f707529ec48e319a0707" sha1="984b45aabece4d20fb960cb3a492a449c9821799"/>
+		<rom name="Carmageddon - Splat Pack (USA) (Interactive Preview).cue" size="118" crc="41242ead" md5="50121a5bb28971cd1f4108df3bed82e1" sha1="ecd37420bf47f78e9922fe713d29315b3c152f80"/>
+	</game>
 	<game name="Carmageddon 2 - Carpocalypse Now (USA)" id="41923">
 		<category>Games</category>
 		<description>Carmageddon 2 - Carpocalypse Now (USA)</description>
@@ -35608,11 +35614,11 @@
 		<rom name="Dawn Patrol (USA, Europe).bin" size="45471216" crc="19ee091a" md5="f6b6cac76bb72da22ad492d630a4a76e" sha1="50d992d13710a7dbfc07c2c4b7578aa52b7bade8"/>
 		<rom name="Dawn Patrol (USA, Europe).cue" size="114" crc="84acbf46" md5="185ec05a012718e722781b0c185c7e79" sha1="f14390d272df5094c35a98aad565c189563d1fc8"/>
 	</game>
-	<game name="Dawn Patrol - Head to Head (Germany)" id="94399">
+	<game name="Dawn Patrol - Head to Head (Europe)" id="137078">
 		<category>Games</category>
-		<description>Dawn Patrol - Head to Head (Germany)</description>
-		<rom name="Dawn Patrol - Head to Head (Germany).bin" size="118529040" crc="cd044379" md5="69f89878e5ccf9fe96ba567de45821b2" sha1="2efc1126c630dd0bff83e74b9caaf9cf49fa46c3"/>
-		<rom name="Dawn Patrol - Head to Head (Germany).cue" size="102" crc="41e565d7" md5="d17b27b2fc751b84915cc02f25ece965" sha1="2e44a601793744210ad16208445f934128ca5c34"/>
+		<description>Dawn Patrol - Head to Head (Europe)</description>
+		<rom name="Dawn Patrol - Head to Head (Europe).bin" size="107966208" crc="7775d9ec" md5="093946f98ec1e1542d897f592f8a7fb3" sha1="4d53cb247a60ce07e0058588b9b0474e7e07f811"/>
+		<rom name="Dawn Patrol - Head to Head (Europe).cue" size="101" crc="17307aaf" md5="ebe38e681092213e2e5371ae01c4d641" sha1="424ef1abb47f130dcb09f8dbefc42da42cd4ac91"/>
 	</game>
 	<game name="Dawn of Aces &amp; WarBirds (Germany)" id="112500">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,614) (-y) [-aAbBcefkmMoprv] (2026-08-16 15-26-56) (Retool)</description>
-		<version>2026-08-16 15-26-56</version>
-		<date>2026-08-17 03-13-11</date>
+		<description>Microsoft - Xbox 360 (1,614) (-y) [-aAbBcefkmMoprv] (2026-08-17 18-47-11) (Retool)</description>
+		<version>2026-08-17 18-47-11</version>
+		<date>2026-08-18 03-08-15</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -4511,15 +4511,15 @@
 		<description>Mercenaries 2 - World in Flames (USA) (En,Fr)</description>
 		<rom name="Mercenaries 2 - World in Flames (USA) (En,Fr).iso" size="7835492352" crc="cbc441f0" md5="381356fb3a5688a5c1642fb6bb04d26b" sha1="93cf6b6ed22f2334e00b5dfd11faa13e1d2bcab3"/>
 	</game>
-	<game name="Metal Gear Rising - Revengeance (USA, Europe) (En,Ja,Fr,De,Es,It,Pt)" id="39033">
-		<category>Games</category>
-		<description>Metal Gear Rising - Revengeance (USA, Europe) (En,Ja,Fr,De,Es,It,Pt)</description>
-		<rom name="Metal Gear Rising - Revengeance (USA, Europe) (En,Ja,Fr,De,Es,It,Pt).iso" size="8738846720" crc="7524ae2b" md5="d674877aea3144ae08e75ceb4d5ad0ac" sha1="81021826b07d93d1714dcd4574108a99b57410c6"/>
-	</game>
 	<game name="Metal Gear Rising - Revengeance (USA, Europe) (En,Ja,Fr,De,Es,It,Pt) (Demo)" id="63133">
 		<category>Demos</category>
 		<description>Metal Gear Rising - Revengeance (USA, Europe) (En,Ja,Fr,De,Es,It,Pt) (Demo)</description>
 		<rom name="Metal Gear Rising - Revengeance (USA, Europe) (En,Ja,Fr,De,Es,It,Pt) (Demo).iso" size="7838695424" crc="3e0373a3" md5="ca453e0c6c61f7ca7af8ffe147601ac3" sha1="e329c4f7a97c181cc2f3494b3e2b1c87f781f004"/>
+	</game>
+	<game name="Metal Gear Rising - Revengeance (World) (En,Ja,Fr,De,Es,It,Pt)" id="39033">
+		<category>Games</category>
+		<description>Metal Gear Rising - Revengeance (World) (En,Ja,Fr,De,Es,It,Pt)</description>
+		<rom name="Metal Gear Rising - Revengeance (World) (En,Ja,Fr,De,Es,It,Pt).iso" size="8738846720" crc="7524ae2b" md5="d674877aea3144ae08e75ceb4d5ad0ac" sha1="81021826b07d93d1714dcd4574108a99b57410c6"/>
 	</game>
 	<game name="Metal Gear Solid - HD Collection (USA) (En,Fr,Es) (Disc 1)" id="50573">
 		<category>Games</category>
@@ -4781,10 +4781,10 @@
 		<description>Mushihimesama Futari Ver 1.5 (Japan)</description>
 		<rom name="Mushihimesama Futari Ver 1.5 (Japan).iso" size="7838695424" crc="05fd421f" md5="ea3c61391dfc19515ccae462f28d046a" sha1="97922e43e2076b211739ff4021227ca858ddbe4c"/>
 	</game>
-	<game name="Musou Orochi 2 (Japan)" id="61906">
+	<game name="Musou Orochi 2 (Japan, Asia)" id="61906">
 		<category>Games</category>
-		<description>Musou Orochi 2 (Japan)</description>
-		<rom name="Musou Orochi 2 (Japan).iso" size="8738846720" crc="f243fd12" md5="b9e88decd3953d4b6bdd3e524c86de65" sha1="3d69c8fa0ec1a79ec51e22d7aabd2206eb627d64"/>
+		<description>Musou Orochi 2 (Japan, Asia)</description>
+		<rom name="Musou Orochi 2 (Japan, Asia).iso" size="8738846720" crc="f243fd12" md5="b9e88decd3953d4b6bdd3e524c86de65" sha1="3d69c8fa0ec1a79ec51e22d7aabd2206eb627d64"/>
 	</game>
 	<game name="Mussang Orochi - Mawang Jaerim (Korea)" id="136811">
 		<category>Games</category>
@@ -6476,10 +6476,10 @@
 		<description>Silent Hill - Downpour (USA, Europe) (En,Fr,De,Es,It,Pt)</description>
 		<rom name="Silent Hill - Downpour (USA, Europe) (En,Fr,De,Es,It,Pt).iso" size="7838695424" crc="85dd4166" md5="4067f22d42014dad7746be15b52f4e13" sha1="341db3ee003daee8c26719867b1ab7cda42b9c6d"/>
 	</game>
-	<game name="Silent Hill - HD Collection (USA, Europe) (En,Fr,De,Es,It)" id="58139">
+	<game name="Silent Hill - HD Collection (World) (En,Fr,De,Es,It)" id="58139">
 		<category>Games</category>
-		<description>Silent Hill - HD Collection (USA, Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Silent Hill - HD Collection (USA, Europe) (En,Fr,De,Es,It).iso" size="8738846720" crc="26bd82e5" md5="23ce163949231bdafe918dd7d6fa2c1d" sha1="713311c8d479364fe5050189c920c62c5f1f754a"/>
+		<description>Silent Hill - HD Collection (World) (En,Fr,De,Es,It)</description>
+		<rom name="Silent Hill - HD Collection (World) (En,Fr,De,Es,It).iso" size="8738846720" crc="26bd82e5" md5="23ce163949231bdafe918dd7d6fa2c1d" sha1="713311c8d479364fe5050189c920c62c5f1f754a"/>
 	</game>
 	<game name="Silent Hill - Homecoming (USA) (En,Fr,De,Es,It)" id="16782">
 		<category>Games</category>
