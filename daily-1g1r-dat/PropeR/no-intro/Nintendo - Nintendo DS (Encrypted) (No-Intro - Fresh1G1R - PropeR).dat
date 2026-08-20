@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,714) (-y) [-aAbBcdkmMpPuv] (20260815-040425) (Retool)</description>
-		<version>20260815-040425</version>
-		<date>2026-08-18 03-33-00</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,715) (-y) [-aAbBcdkmMpPuv] (20260818-030245) (Retool)</description>
+		<version>20260818-030245</version>
+		<date>2026-08-20 03-34-46</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4345,6 +4345,11 @@
 		<category>Games</category>
 		<description>Eindeloos Backgammon (Netherlands)</description>
 		<rom name="Eindeloos Backgammon (Netherlands).nds" size="8388608" crc="dfb6652d" md5="24b8ef4337b42019d7c0f36181e0f354" sha1="d8f9dd1a3b154f9701b1bf91dc28dae73bc3e4e9"/>
+	</game>
+	<game name="Einer Gegen 100 (Germany)" id="3382">
+		<category>Games</category>
+		<description>Einer Gegen 100 (Germany)</description>
+		<rom name="Einer Gegen 100 (Germany).nds" size="8388608" crc="1ba31b2a" md5="df5ef9d2d48f1e1c54c121a1bada1dd9" sha1="9b45d97691e92af7faddad9b0322df12332abc14" sha256="dbf3b49f583d5ec101b0fe75cd34c949940edb667d87e5d10ef4eaa6addf25e2"/>
 	</game>
 	<game name="Eitango Target 1900 DS (Japan) (Rev 1)" id="z248">
 		<category>Games</category>

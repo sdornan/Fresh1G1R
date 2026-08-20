@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (344) (-y) [-aAbBcefkmMoprv] (20260814-103513) (Retool)</description>
-		<version>20260814-103513</version>
-		<date>2026-08-18 03-14-45</date>
+		<description>Nintendo - Satellaview (345) (-y) [-aAbBcefkmMoprv] (20260818-141423) (Retool)</description>
+		<version>20260818-141423</version>
+		<date>2026-08-20 03-13-42</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1546,6 +1546,11 @@
 		<category>Games</category>
 		<description>Ultra Baseball Jitsumei Ban 3 (Japan) (Demo) (1995-10-27)</description>
 		<rom name="Ultra Baseball Jitsumei Ban 3 (Japan) (Demo) (1995-10-27).bs" size="1048576" crc="b3a1f758" md5="abedb92456755b0e5fb470973e359c8d" sha1="4b2b9aa79f0fa13a4b6e59c61e21541c50c52621" sha256="5df40ca332084309e3603cba326881ec3332aee98998a424caf312b8713a97bc"/>
+	</game>
+	<game name="Umatarou Gennarin Daibouken (Japan) (1996-6-26)" id="3992">
+		<category>Games</category>
+		<description>Umatarou Gennarin Daibouken (Japan) (1996-6-26)</description>
+		<rom name="Umatarou Gennarin Daibouken (Japan) (1996-6-26).bs" size="1048576" crc="5476720c" md5="a6bd88b2786e0a28722bcd30ac643986" sha1="12b389c35551843109fab8226ebeabf2d857b175" sha256="de5d462af6ce2f9c52ac2b84f2fd24cb560a4381aed676bf2fc6f34180fd7038"/>
 	</game>
 	<game name="Umi no Nushi Tsuri (Japan) (Demo) (1996-7-7)" id="3945">
 		<category>Demos</category>

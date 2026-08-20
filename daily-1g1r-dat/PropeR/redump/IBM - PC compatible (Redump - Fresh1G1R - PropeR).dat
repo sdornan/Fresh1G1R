@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,382) (-y) [-aAbBcdkmMpPuv] (2026-08-18 00-16-54) (Retool)</description>
-		<version>2026-08-18 00-16-54</version>
-		<date>2026-08-18 03-27-27</date>
+		<description>IBM - PC compatible (26,384) (-y) [-aAbBcdkmMpPuv] (2026-08-19 20-56-54) (Retool)</description>
+		<version>2026-08-19 20-56-54</version>
+		<date>2026-08-20 03-29-23</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -17073,36 +17073,6 @@
 		<rom name="Beast Within, The - Um Misterio de Gabriel Knight (Brazil) (En,Pt) (Disc 6).bin" size="714838656" crc="8e814a8f" md5="2bbf94d875aed18db3834571c2a09158" sha1="e35bd36bb9d5203e2d0c351cebaf101907cbddcf"/>
 		<rom name="Beast Within, The - Um Misterio de Gabriel Knight (Brazil) (En,Pt) (Disc 6).cue" size="141" crc="375ca615" md5="ecd24d6d820f51b4403862245ed59f45" sha1="94f7d5a39f9eae33352caf622ca1e59cf132238c"/>
 	</game>
-	<game name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 1)" id="21956">
-		<category>Games</category>
-		<description>Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 1)</description>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 1).bin" size="773746848" crc="14b20bd2" md5="f78fc08fd3585d48861afdc9b1a40054" sha1="3edc670fe951f7beb18f10922aa8b441a3e60590"/>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 1).cue" size="134" crc="7dbfbcfb" md5="f33368529e81d7663cc2f892a5465fb7" sha1="f5a9a345e5cdc06a4f92635b6fb9f2d3f0600aba"/>
-	</game>
-	<game name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 2)" id="21957">
-		<category>Games</category>
-		<description>Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 2)</description>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 2).bin" size="667993872" crc="9e92a1b5" md5="56d356cb6b8399953a2d200eba4a9f4f" sha1="91dbbd6831ac89a633d33544fa45b0a2ba67deb9"/>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 2).cue" size="134" crc="7ce29a2a" md5="d255051e8a464ce5d9c4cabb0f1af1bf" sha1="0c4205c7e0a3aa74fb5824c4780d712489fc0ba6"/>
-	</game>
-	<game name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 3)" id="21958">
-		<category>Games</category>
-		<description>Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 3)</description>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 3).bin" size="774755856" crc="d43a1889" md5="a359dae34866c7e591f99e6877a1fd5d" sha1="5d29256e786072ab7623abc6010f2e6eff443ad8"/>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 3).cue" size="134" crc="caf97a5a" md5="b0b1c612b7d0af90821d1bff046b6185" sha1="32ac75a67a6c3fe49e0d2bee215bf85305a709a1"/>
-	</game>
-	<game name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 4)" id="21959">
-		<category>Games</category>
-		<description>Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 4)</description>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 4).bin" size="769165152" crc="d0de7cd1" md5="6d88aa63a963ed9f899050c78d1ef1fe" sha1="9d52c6a616908b9d60841f6b8f6c7c6b2d62fd5a"/>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 4).cue" size="134" crc="7e58d788" md5="c1465ea9e4038124f6944b1e0b4ecffd" sha1="35ce0c7ba4937c5eb352a2e838a9dcbb9369e426"/>
-	</game>
-	<game name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 5)" id="21960">
-		<category>Games</category>
-		<description>Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 5)</description>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 5).bin" size="780224256" crc="bff910f8" md5="e8e51279fd79030f60d5335f17d085b1" sha1="7fe0ad86190e39f8adb892731138eed980b3f1aa"/>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 5).cue" size="134" crc="c84337f8" md5="bd93d96ffba25a1fefe88dceca8cbf37" sha1="593177db286027bcc22edf1a077f6b712b367b6c"/>
-	</game>
 	<game name="Beasts and Bumpkins (Europe) (En,Fr,De,Es,It)" id="39961">
 		<category>Games</category>
 		<description>Beasts and Bumpkins (Europe) (En,Fr,De,Es,It)</description>
@@ -22499,6 +22469,16 @@
 		<description>Building &amp; Co - You Are the Architect! (Europe)</description>
 		<rom name="Building &amp; Co - You Are the Architect! (Europe).bin" size="781569600" crc="f2839f14" md5="e02c944484a674dc83fc5cf75f69a6d4" sha1="5e3cce01aba63f720a3ed96baa77fcc9b796504a"/>
 		<rom name="Building &amp; Co - You Are the Architect! (Europe).cue" size="113" crc="b6bfb8e6" md5="7a4fd2cde695c8712f448452da32e768" sha1="42930a7813bd3dec801bdf96907967861e15fc39"/>
+	</game>
+	<game name="Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 1)" id="137090">
+		<category>Games</category>
+		<description>Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 1)</description>
+		<rom name="Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 1).iso" size="8533311488" crc="62e37972" md5="5df49d44f1db6514c0ed94f7c2b00078" sha1="e5c80439e01af409bee65973ddd0d9893a366f75"/>
+	</game>
+	<game name="Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 2)" id="137091">
+		<category>Games</category>
+		<description>Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 2)</description>
+		<rom name="Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 2).iso" size="7561674752" crc="8676d618" md5="58ab5dc06e1dd472d0bc8bad50c6324d" sha1="ee318f26273e19fc98f3cff9e7b5b580c19de5af"/>
 	</game>
 	<game name="Bullet Butlers (Japan)" id="123256">
 		<category>Games</category>
@@ -28899,10 +28879,10 @@
 		<rom name="Code Head - Calculated Risk (USA).bin" size="372189888" crc="5ef82f47" md5="42f645f86af37bd6dbdc43931e4c92f3" sha1="0142c4d12dcb1a038aa4cacef54511add0ca8159"/>
 		<rom name="Code Head - Calculated Risk (USA).cue" size="99" crc="ef060401" md5="04ea1a1e163805880b2ed04828fb9ee0" sha1="c0ad46af5a47d0f5f96b2c0caad2bb5224c000e4"/>
 	</game>
-	<game name="Code Head - X-Treme Culture (USA)" id="129108">
+	<game name="Code Head - X-Treme Culture (USA)" id="137106">
 		<category>Educational</category>
 		<description>Code Head - X-Treme Culture (USA)</description>
-		<rom name="Code Head - X-Treme Culture (USA).bin" size="464966880" crc="59bce36b" md5="a41bc2ea97703a884f60d9bda1f4ccd8" sha1="4bb60309de95d2e97237a639fa89947a1f22453f"/>
+		<rom name="Code Head - X-Treme Culture (USA).bin" size="478029888" crc="384b98f9" md5="d52a5b54016c07b9ab185e8866648861" sha1="ee900a6279bba09667bc08e39168fec03c7b18e6"/>
 		<rom name="Code Head - X-Treme Culture (USA).cue" size="99" crc="3bbfcf05" md5="6aac3ba34052edc2fc808c30911df5e2" sha1="f5bf823e27b4f8f730bd2f414e70bffb82b0f049"/>
 	</game>
 	<game name="Code of Honor - The French Foreign Legion (Russia)" id="110398">
@@ -40958,12 +40938,6 @@
 		<rom name="Disney Magic Artist - Cartoon Maker (USA).bin" size="713556816" crc="4624ebb5" md5="d9a49ebedbaa5a78f09139653bb1815d" sha1="39f2effc3cafdf9c2d14e6965ba2d22239c565cd"/>
 		<rom name="Disney Magic Artist - Cartoon Maker (USA).cue" size="107" crc="14969d59" md5="e4701e4e4763fc5a067bd5367592d9ef" sha1="0de61c91aa2f545523764e723cacfa315c60a4ff"/>
 	</game>
-	<game name="Disney Magic Artist 3D (USA)" id="102476">
-		<category>Educational</category>
-		<description>Disney Magic Artist 3D (USA)</description>
-		<rom name="Disney Magic Artist 3D (USA).bin" size="135797424" crc="2e59dbd7" md5="78a7b1e958106d429ec10caf1a4b05f9" sha1="454be285b742f639562b4ece52a30beb8d379ad7"/>
-		<rom name="Disney Magic Artist 3D (USA).cue" size="94" crc="5ab06272" md5="1c01a3a7d6928f52c020b970ee74634d" sha1="831d903e0c213fc36d1a0b64375efe09cd011249"/>
-	</game>
 	<game name="Disney Magiczna Kolekcja - Kopciuszek - Zostan ksiezniczka (Poland)" id="70074">
 		<category>Games</category>
 		<description>Disney Magiczna Kolekcja - Kopciuszek - Zostan ksiezniczka (Poland)</description>
@@ -41730,6 +41704,12 @@
 		<description>Disney's Lilo &amp; Stitch Pinball (USA)</description>
 		<rom name="Disney's Lilo &amp; Stitch Pinball (USA).bin" size="483916944" crc="e4c90329" md5="d9af78525485bc76a5006c77ec69ed67" sha1="3660618ff5a9885d09c4ae69ff65b3b5be857a31"/>
 		<rom name="Disney's Lilo &amp; Stitch Pinball (USA).cue" size="102" crc="dd7eea6f" md5="db42d476c745b485d08bcbae473f2b99" sha1="76ffc4b53e54f7eaab8727eb0ad56f73ca956a30"/>
+	</game>
+	<game name="Disney's Magic Artist 3D (USA)" id="102476">
+		<category>Educational</category>
+		<description>Disney's Magic Artist 3D (USA)</description>
+		<rom name="Disney's Magic Artist 3D (USA).bin" size="135797424" crc="2e59dbd7" md5="78a7b1e958106d429ec10caf1a4b05f9" sha1="454be285b742f639562b4ece52a30beb8d379ad7"/>
+		<rom name="Disney's Magic Artist 3D (USA).cue" size="96" crc="c2a4c2f0" md5="95094e6d6a498c5fc03a59655edc13ed" sha1="5b63ff4017fe5ebd1c3e777e955af7a19a46bb96"/>
 	</game>
 	<game name="Disney's Magic Artist Deluxe (USA)" id="95391">
 		<category>Educational</category>
@@ -72109,6 +72089,12 @@
 		<rom name="Hokuto de Bon!! Vader Kanzenban (Japan).bin" size="200310432" crc="2b95594b" md5="bd3e0c2d89b2e7af1ae3214adfd12eba" sha1="36ce19c8061205f168550bd500f3f7f3aa1e87df"/>
 		<rom name="Hokuto de Bon!! Vader Kanzenban (Japan).cue" size="105" crc="5532521d" md5="37413f2979ebc6180dd10c7d625d07ae" sha1="8018169588213e759e7588dfd13931016c1c6dab"/>
 	</game>
+	<game name="Hole in One (Italy)" id="137083">
+		<category>Games</category>
+		<description>Hole in One (Italy)</description>
+		<rom name="Hole in One (Italy).bin" size="211270752" crc="950cf6df" md5="9d9faaccb4b0fe09e76971e56fc4fcd4" sha1="6a0fd6f7b451c7be193262abd32042d9c45925d5"/>
+		<rom name="Hole in One (Italy).cue" size="85" crc="b5532876" md5="e58296a84b85dc7fcbc94fee68a40302" sha1="7143c0af49b0c67e84c2c5d8b49454d68837fc39"/>
+	</game>
 	<game name="Holiday Island (Germany)" id="44382">
 		<category>Games</category>
 		<description>Holiday Island (Germany)</description>
@@ -77171,11 +77157,17 @@
 		<rom name="Interactive English Junior (Italy) (En,It) (Disc 2).bin" size="436615872" crc="4e4aa38e" md5="19539e24555ecddca1c03ccb05477aad" sha1="5964933c8534acdd22bc7e6981c1ba0665402ae6"/>
 		<rom name="Interactive English Junior (Italy) (En,It) (Disc 2).cue" size="117" crc="34e4756a" md5="0e70e288ce8970c5846f98ad2fc272b7" sha1="98beb5e862f616ddd100d96397021e74b3c6e975"/>
 	</game>
-	<game name="Interactive English Junior - Al Ristorante (Italy) (En,It)" id="136306">
+	<game name="Interactive English Junior - Al Ristorante (Italy)" id="136306">
 		<category>Educational</category>
-		<description>Interactive English Junior - Al Ristorante (Italy) (En,It)</description>
-		<rom name="Interactive English Junior - Al Ristorante (Italy) (En,It).bin" size="262276224" crc="378a23d9" md5="0157b8d75e78cb4014b21dd417e2fb24" sha1="43091a1b9d4c4527a1e7a53a59516eefcfcffc0b"/>
-		<rom name="Interactive English Junior - Al Ristorante (Italy) (En,It).cue" size="124" crc="74046709" md5="4b6964bf4e5d03fd382ddea443ce541a" sha1="f2694271ecde38e0f49e6cb88165c0454df9b773"/>
+		<description>Interactive English Junior - Al Ristorante (Italy)</description>
+		<rom name="Interactive English Junior - Al Ristorante (Italy).bin" size="262276224" crc="378a23d9" md5="0157b8d75e78cb4014b21dd417e2fb24" sha1="43091a1b9d4c4527a1e7a53a59516eefcfcffc0b"/>
+		<rom name="Interactive English Junior - Al Ristorante (Italy).cue" size="116" crc="0344eef0" md5="de9e86f3c5872a37733c8ffbdbf5f5a0" sha1="9a6597f56ec47a0b224a1bddd2c36e8372e11d5c"/>
+	</game>
+	<game name="Interactive English Junior - In Viaggio (Italy)" id="137097">
+		<category>Educational</category>
+		<description>Interactive English Junior - In Viaggio (Italy)</description>
+		<rom name="Interactive English Junior - In Viaggio (Italy).bin" size="179055408" crc="d0d834f8" md5="95db015b97e8378ffdec50dfdcdaba3b" sha1="77ae8c334798afa461f959ffdf42ad8e6036abc5"/>
+		<rom name="Interactive English Junior - In Viaggio (Italy).cue" size="113" crc="a6d21e20" md5="b28f23f0e72fe556f1c044af27f06c6d" sha1="170748f89dbe5150cd89c28062e58d52d3fa7217"/>
 	</game>
 	<game name="Interactive Math Journey (USA)" id="125613">
 		<category>Educational</category>
@@ -112542,11 +112534,11 @@
 		<rom name="Nigel's World Adventures in World Geography (USA).bin" size="87633168" crc="490b0074" md5="f8fb98a4adfa160e7691aeb24081fc33" sha1="f097d2a8822abffd78092c43180dfa8da397910d"/>
 		<rom name="Nigel's World Adventures in World Geography (USA).cue" size="138" crc="12757a4f" md5="dc5abef3e769744e411c832da3f4652b" sha1="5751451f5778b796cbc146a2c71b15e0f91ac48e"/>
 	</game>
-	<game name="Night Light (Canada)" id="116005">
+	<game name="Night Light (USA)" id="137104">
 		<category>Educational</category>
-		<description>Night Light (Canada)</description>
-		<rom name="Night Light (Canada).bin" size="484399104" crc="09b88658" md5="6f4e1308ab220ebf6524a7ed5462d4e9" sha1="c7c52412ae54ae11e4835cb93f471777f01f1e9c"/>
-		<rom name="Night Light (Canada).cue" size="109" crc="772b68af" md5="a12d89b78fba9b6b60d060bb0183b770" sha1="327a6119314d91bf709aed0eb11bff4bb61c95ea"/>
+		<description>Night Light (USA)</description>
+		<rom name="Night Light (USA).bin" size="484046304" crc="a7474402" md5="8e8ac693d2ef43c3990ba214d964f05f" sha1="627bcb7b11c590bc497809e26b94bba172d87aeb"/>
+		<rom name="Night Light (USA).cue" size="106" crc="9cfe532d" md5="03875b18d2107d33438601735f87bf69" sha1="a27e4580a5379b0ff505ea73e53f39663a1631d7"/>
 	</game>
 	<game name="Night Mysteries - Das Geheimnis der Amphore (Germany)" id="89406">
 		<category>Games</category>
@@ -116700,6 +116692,12 @@
 		<description>Oz - The Magical Adventure (USA)</description>
 		<rom name="Oz - The Magical Adventure (USA).bin" size="719312160" crc="9409de5b" md5="8b792ff953bbb1a38f751d99bb6a41cd" sha1="93d8132ef55186aee9afaf4268e9d68051b750ec"/>
 		<rom name="Oz - The Magical Adventure (USA).cue" size="98" crc="32146896" md5="aee4981801938a3231f0e4bb4f59e9ab" sha1="1a2f1c007ec2aaf74e1290e7c01ea5be1672afdd"/>
+	</game>
+	<game name="Ozzie's Funtime Garden (USA)" id="137100">
+		<category>Educational</category>
+		<description>Ozzie's Funtime Garden (USA)</description>
+		<rom name="Ozzie's Funtime Garden (USA).bin" size="48806352" crc="ed62e288" md5="b0b78f8f8af6ca638e3f5104b9c95235" sha1="ed4230c75fd1424b2303567ac033693b7f628d40"/>
+		<rom name="Ozzie's Funtime Garden (USA).cue" size="94" crc="528fbe94" md5="61d8a022b3a62580bf67655d057c322e" sha1="53bc06e34eb23cc0da6a8a584b76c9e4a6d8697d"/>
 	</game>
 	<game name="Ozzie's World (USA)" id="84948">
 		<category>Educational</category>
@@ -125983,6 +125981,12 @@
 		<rom name="Professor Tim's Incredible Machines (Germany) (En,Fr,De) (Track 21).bin" size="31434480" crc="0d70dbce" md5="90e43ee76c2d6e4c2e1dde975cf26ac8" sha1="0baf0152fe353c518c34af72248ea08a80215545"/>
 		<rom name="Professor Tim's Incredible Machines (Germany) (En,Fr,De) (Track 22).bin" size="1058400" crc="648c227c" md5="dc35d6b52ac7add94a6d52f480bf89d4" sha1="729c8d0d2eb161d068c48a84826268f9ec790222"/>
 		<rom name="Professor Tim's Incredible Machines (Germany) (En,Fr,De).cue" size="3159" crc="69a89e61" md5="1f491a0c75189f15e6b31c94bebda506" sha1="53ff11bf5979d82f723a15fba8fdb56cdae7fe88"/>
+	</game>
+	<game name="Professor Wise and his XRay Eyes (USA)" id="137103">
+		<category>Educational</category>
+		<description>Professor Wise and his XRay Eyes (USA)</description>
+		<rom name="Professor Wise and his XRay Eyes (USA).bin" size="574184352" crc="28043099" md5="33cbe92e0911b975867a948dea7fe30c" sha1="3bd3352d4993ecd92b68ed71b1ab3ea85bbe8a6d"/>
+		<rom name="Professor Wise and his XRay Eyes (USA).cue" size="127" crc="706bd4fd" md5="26fcf8cc8751b2c1d8f4b01b56f80303" sha1="e9e868472c7538e57c49f8c03184a5dad2b3785d"/>
 	</game>
 	<game name="Profi-Rom Games Vol. 3 (Germany) (En,De)" id="13781">
 		<category>Games</category>
@@ -174657,6 +174661,18 @@
 		<description>Vitae (Italy)</description>
 		<rom name="Vitae (Italy).bin" size="501455808" crc="20edab9b" md5="2fd4cef050f35c81b78cfdf0b599c409" sha1="7cf142c155bb354ced169eb647135b6325cec6cf"/>
 		<rom name="Vitae (Italy).cue" size="102" crc="8df790a0" md5="210f97ac8fb663fa7b1f7ac83ebc1220" sha1="f9580c9910b2a1480e3a7984f3025495c4f992f5"/>
+	</game>
+	<game name="Vitsie Visits the Ocean (USA)" id="137102">
+		<category>Educational</category>
+		<description>Vitsie Visits the Ocean (USA)</description>
+		<rom name="Vitsie Visits the Ocean (USA) (Track 1).bin" size="527901696" crc="ed237821" md5="2d0dc2e1b41731708f50cd5f3a5144a1" sha1="29419daa37ed510459f842df95b60c2caafa9bb0"/>
+		<rom name="Vitsie Visits the Ocean (USA) (Track 2).bin" size="9777264" crc="312ca3a5" md5="e8deb87eb2e7d6fc4114fb6a66142619" sha1="ba1a39a0b31df9691bc7679796b8bd16c9af5d88"/>
+		<rom name="Vitsie Visits the Ocean (USA) (Track 3).bin" size="24585456" crc="4ea80229" md5="fa7eeb569203f1dd1f2944f53210faec" sha1="01cc5678d422860b9f008617177c8f705c8a340a"/>
+		<rom name="Vitsie Visits the Ocean (USA) (Track 4).bin" size="13822704" crc="c1015ab0" md5="fadfdbb44253c26068c9fa85d45a416e" sha1="5444bc5b0e1ed305b7f788875e0bfe6e1370faa8"/>
+		<rom name="Vitsie Visits the Ocean (USA) (Track 5).bin" size="28289856" crc="12fee75e" md5="65684d1b7a67314c827c8faf9d5748b7" sha1="2eae8aec0e9d5d5a580cd24c67c9dd2741ed4781"/>
+		<rom name="Vitsie Visits the Ocean (USA) (Track 6).bin" size="17000256" crc="de646376" md5="4583663a9de301f9e159d41dcda45336" sha1="df5da34f10813d92ee66aebb755644014496e05b"/>
+		<rom name="Vitsie Visits the Ocean (USA) (Track 7).bin" size="13723920" crc="b1db3b46" md5="61d7484e48b2e3f644f1b3e3e17a0220" sha1="c187a5c01b1f8c1c2acf0f445836bece4ae8b67c"/>
+		<rom name="Vitsie Visits the Ocean (USA).cue" size="866" crc="1e9c1d58" md5="c165f14c5884f8f3d7b30c464c0bb7fd" sha1="1738ff27a701b292e50a7653644bab0690ed2eaa"/>
 	</game>
 	<game name="Viva Adventure Anthology, The (USA)" id="126343">
 		<category>Games</category>

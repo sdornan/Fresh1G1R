@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,844) (-y) [-aAbBcefkmMoprv] (2026-08-18 00-16-54) (Retool)</description>
-		<version>2026-08-18 00-16-54</version>
-		<date>2026-08-18 03-07-05</date>
+		<description>IBM - PC compatible (25,842) (-y) [-aAbBcefkmMoprv] (2026-08-19 20-56-54) (Retool)</description>
+		<version>2026-08-19 20-56-54</version>
+		<date>2026-08-20 03-10-05</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -16987,36 +16987,6 @@
 		<rom name="Beast Within, The - Um Misterio de Gabriel Knight (Brazil) (En,Pt) (Disc 6).bin" size="714838656" crc="8e814a8f" md5="2bbf94d875aed18db3834571c2a09158" sha1="e35bd36bb9d5203e2d0c351cebaf101907cbddcf"/>
 		<rom name="Beast Within, The - Um Misterio de Gabriel Knight (Brazil) (En,Pt) (Disc 6).cue" size="141" crc="375ca615" md5="ecd24d6d820f51b4403862245ed59f45" sha1="94f7d5a39f9eae33352caf622ca1e59cf132238c"/>
 	</game>
-	<game name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 1)" id="21956">
-		<category>Games</category>
-		<description>Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 1)</description>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 1).bin" size="773746848" crc="14b20bd2" md5="f78fc08fd3585d48861afdc9b1a40054" sha1="3edc670fe951f7beb18f10922aa8b441a3e60590"/>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 1).cue" size="134" crc="7dbfbcfb" md5="f33368529e81d7663cc2f892a5465fb7" sha1="f5a9a345e5cdc06a4f92635b6fb9f2d3f0600aba"/>
-	</game>
-	<game name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 2)" id="21957">
-		<category>Games</category>
-		<description>Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 2)</description>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 2).bin" size="667993872" crc="9e92a1b5" md5="56d356cb6b8399953a2d200eba4a9f4f" sha1="91dbbd6831ac89a633d33544fa45b0a2ba67deb9"/>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 2).cue" size="134" crc="7ce29a2a" md5="d255051e8a464ce5d9c4cabb0f1af1bf" sha1="0c4205c7e0a3aa74fb5824c4780d712489fc0ba6"/>
-	</game>
-	<game name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 3)" id="21958">
-		<category>Games</category>
-		<description>Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 3)</description>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 3).bin" size="774755856" crc="d43a1889" md5="a359dae34866c7e591f99e6877a1fd5d" sha1="5d29256e786072ab7623abc6010f2e6eff443ad8"/>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 3).cue" size="134" crc="caf97a5a" md5="b0b1c612b7d0af90821d1bff046b6185" sha1="32ac75a67a6c3fe49e0d2bee215bf85305a709a1"/>
-	</game>
-	<game name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 4)" id="21959">
-		<category>Games</category>
-		<description>Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 4)</description>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 4).bin" size="769165152" crc="d0de7cd1" md5="6d88aa63a963ed9f899050c78d1ef1fe" sha1="9d52c6a616908b9d60841f6b8f6c7c6b2d62fd5a"/>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 4).cue" size="134" crc="7e58d788" md5="c1465ea9e4038124f6944b1e0b4ecffd" sha1="35ce0c7ba4937c5eb352a2e838a9dcbb9369e426"/>
-	</game>
-	<game name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 5)" id="21960">
-		<category>Games</category>
-		<description>Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 5)</description>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 5).bin" size="780224256" crc="bff910f8" md5="e8e51279fd79030f60d5335f17d085b1" sha1="7fe0ad86190e39f8adb892731138eed980b3f1aa"/>
-		<rom name="Beast Within, The - Un Mystere avec Gabriel Knight (France) (Disc 5).cue" size="134" crc="c84337f8" md5="bd93d96ffba25a1fefe88dceca8cbf37" sha1="593177db286027bcc22edf1a077f6b712b367b6c"/>
-	</game>
 	<game name="Beasts and Bumpkins (Europe) (En,Fr,De,Es,It)" id="39961">
 		<category>Games</category>
 		<description>Beasts and Bumpkins (Europe) (En,Fr,De,Es,It)</description>
@@ -22381,6 +22351,16 @@
 		<description>Building &amp; Co - You Are the Architect! (Europe)</description>
 		<rom name="Building &amp; Co - You Are the Architect! (Europe).bin" size="781569600" crc="f2839f14" md5="e02c944484a674dc83fc5cf75f69a6d4" sha1="5e3cce01aba63f720a3ed96baa77fcc9b796504a"/>
 		<rom name="Building &amp; Co - You Are the Architect! (Europe).cue" size="113" crc="b6bfb8e6" md5="7a4fd2cde695c8712f448452da32e768" sha1="42930a7813bd3dec801bdf96907967861e15fc39"/>
+	</game>
+	<game name="Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 1)" id="137090">
+		<category>Games</category>
+		<description>Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 1)</description>
+		<rom name="Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 1).iso" size="8533311488" crc="62e37972" md5="5df49d44f1db6514c0ed94f7c2b00078" sha1="e5c80439e01af409bee65973ddd0d9893a366f75"/>
+	</game>
+	<game name="Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 2)" id="137091">
+		<category>Games</category>
+		<description>Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 2)</description>
+		<rom name="Buka 20 let - Jubilejnaja kollekcija (Russia) (Disc 2).iso" size="7561674752" crc="8676d618" md5="58ab5dc06e1dd472d0bc8bad50c6324d" sha1="ee318f26273e19fc98f3cff9e7b5b580c19de5af"/>
 	</game>
 	<game name="Bullet Butlers (Japan)" id="123256">
 		<category>Games</category>
@@ -42994,11 +42974,11 @@
 		<rom name="Doom (USA).bin" size="24667776" crc="063077a3" md5="d1ba0b953ba5790d1a239c1a645317d3" sha1="835584067781e65a663f96c6023cce4fc327f4c4"/>
 		<rom name="Doom (USA).cue" size="99" crc="213fbf5c" md5="d6f5879d9b6e44f2adfd7d0be30e4066" sha1="bd7275a5f0186648ad32c86566dd57b282eb1e70"/>
 	</game>
-	<game name="Doom (USA) (Demo) (v1.8)" id="4464">
+	<game name="Doom (USA) (Demo) (v1.8) (1995-01-16)" id="4464">
 		<category>Demos</category>
-		<description>Doom (USA) (Demo) (v1.8)</description>
-		<rom name="Doom (USA) (Demo) (v1.8).bin" size="3123456" crc="e7ea862d" md5="4c17733465e55d35565f291ca77d672d" sha1="41661966e52ad1cf14385d16b63446af7f601704"/>
-		<rom name="Doom (USA) (Demo) (v1.8).cue" size="113" crc="6ebcd2cf" md5="39bafd2e6f90779a255aeb6a59050b26" sha1="fffc541721b2a70f425bbe710bef9240d55aee4e"/>
+		<description>Doom (USA) (Demo) (v1.8) (1995-01-16)</description>
+		<rom name="Doom (USA) (Demo) (v1.8) (1995-01-16).bin" size="3123456" crc="e7ea862d" md5="4c17733465e55d35565f291ca77d672d" sha1="41661966e52ad1cf14385d16b63446af7f601704"/>
+		<rom name="Doom (USA) (Demo) (v1.8) (1995-01-16).cue" size="126" crc="9b739af5" md5="86b2dbe7e9377ecb5fd481deb4fd51be" sha1="edcf2c9e11e30e4d14d2455cf16b65adcac6337e"/>
 	</game>
 	<game name="Doom (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (2016)" id="67022">
 		<category>Games</category>
@@ -71449,6 +71429,12 @@
 		<description>Hokuto de Bon!! Vader Kanzenban (Japan)</description>
 		<rom name="Hokuto de Bon!! Vader Kanzenban (Japan).bin" size="200310432" crc="2b95594b" md5="bd3e0c2d89b2e7af1ae3214adfd12eba" sha1="36ce19c8061205f168550bd500f3f7f3aa1e87df"/>
 		<rom name="Hokuto de Bon!! Vader Kanzenban (Japan).cue" size="105" crc="5532521d" md5="37413f2979ebc6180dd10c7d625d07ae" sha1="8018169588213e759e7588dfd13931016c1c6dab"/>
+	</game>
+	<game name="Hole in One (Italy)" id="137083">
+		<category>Games</category>
+		<description>Hole in One (Italy)</description>
+		<rom name="Hole in One (Italy).bin" size="211270752" crc="950cf6df" md5="9d9faaccb4b0fe09e76971e56fc4fcd4" sha1="6a0fd6f7b451c7be193262abd32042d9c45925d5"/>
+		<rom name="Hole in One (Italy).cue" size="85" crc="b5532876" md5="e58296a84b85dc7fcbc94fee68a40302" sha1="7143c0af49b0c67e84c2c5d8b49454d68837fc39"/>
 	</game>
 	<game name="Holiday Island (Germany)" id="44382">
 		<category>Games</category>

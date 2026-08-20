@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (326) (-y) [-aAbBcdkmMpPuv] (20260814-103513) (Retool)</description>
-		<version>20260814-103513</version>
-		<date>2026-08-18 03-35-10</date>
+		<description>Nintendo - Satellaview (327) (-y) [-aAbBcdkmMpPuv] (20260818-141423) (Retool)</description>
+		<version>20260818-141423</version>
+		<date>2026-08-20 03-33-06</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1442,6 +1442,11 @@
 		<category>Magazines</category>
 		<description>Uchida Yuki Yuugure Street Kids (Japan) (1995-9-9) (SoundLink Magazine)</description>
 		<rom name="Uchida Yuki Yuugure Street Kids (Japan) (1995-9-9) (SoundLink Magazine).bs" size="1048576" crc="0fd1f689" md5="103a67f4e233dabffa8aa93494921f23" sha1="9afcbedc2fe497d6e14ba7df826d0e71c2b8b84f" sha256="c16071238612986a6f8fcb5027b56c6521321648ca5202188ccdf226d1b9c9f5"/>
+	</game>
+	<game name="Umatarou Gennarin Daibouken (Japan) (1996-6-26)" id="3992">
+		<category>Games</category>
+		<description>Umatarou Gennarin Daibouken (Japan) (1996-6-26)</description>
+		<rom name="Umatarou Gennarin Daibouken (Japan) (1996-6-26).bs" size="1048576" crc="5476720c" md5="a6bd88b2786e0a28722bcd30ac643986" sha1="12b389c35551843109fab8226ebeabf2d857b175" sha256="de5d462af6ce2f9c52ac2b84f2fd24cb560a4381aed676bf2fc6f34180fd7038"/>
 	</game>
 	<game name="Undake 30 - Same Game Daisakusen - Mario Version (1995-11-16) + Waiwai Check (Rerun) (1995-11-22, 11-24) (Japan)" id="3574">
 		<category>Games</category>
