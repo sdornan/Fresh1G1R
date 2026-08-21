@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,384) (-y) [-aAbBcdkmMpPuv] (2026-08-19 20-56-54) (Retool)</description>
-		<version>2026-08-19 20-56-54</version>
-		<date>2026-08-20 03-29-23</date>
+		<description>IBM - PC compatible (26,386) (-y) [-aAbBcdkmMpPuv] (2026-08-21 00-16-54) (Retool)</description>
+		<version>2026-08-21 00-16-54</version>
+		<date>2026-08-21 03-34-42</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -82714,11 +82714,11 @@
 		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden).bin" size="345833376" crc="dc312ef5" md5="6e4792d63723bde4b9dfac09f4e2f24f" sha1="4ce8fa789067df5a40ae4b26ace876943bfd3649"/>
 		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden).cue" size="107" crc="871f33d8" md5="df685dfc6e90a1cecab3e79165860518" sha1="f17d7ac7d28cf75ce417ff08e705e8bdd81a975d"/>
 	</game>
-	<game name="Kalle Kunskap - Lar dig Engelska (Sweden) (En,Sv) (Max)" id="115076">
+	<game name="Kalle Kunskap - Lar dig Engelska (Sweden) (Max)" id="115076">
 		<category>Educational</category>
-		<description>Kalle Kunskap - Lar dig Engelska (Sweden) (En,Sv) (Max)</description>
-		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden) (En,Sv) (Max).bin" size="740322576" crc="aebe8cb7" md5="2b35ec7815bf1fd5014c07e973723437" sha1="e5a61ad0cca68adbb7dbf2f53ed2219d1a6f6a8b"/>
-		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden) (En,Sv) (Max).cue" size="121" crc="2afb2b92" md5="5313d09cf2f9557df6579d04b1d71c51" sha1="15417be8d2824796f2f25c8d19cac187c49ef5fc"/>
+		<description>Kalle Kunskap - Lar dig Engelska (Sweden) (Max)</description>
+		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden) (Max).bin" size="740322576" crc="aebe8cb7" md5="2b35ec7815bf1fd5014c07e973723437" sha1="e5a61ad0cca68adbb7dbf2f53ed2219d1a6f6a8b"/>
+		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden) (Max).cue" size="113" crc="0c13f7ff" md5="a46b4dd7b3a59e361439c3ea22f276fe" sha1="ab61e48dcb23f14b1f9a30a3fa17ece5936e87b5"/>
 	</game>
 	<game name="Kalle Kunskap - Lekstuga (Sweden)" id="113768">
 		<category>Educational</category>
@@ -89653,6 +89653,12 @@
 		<description>Library Train (Japan)</description>
 		<rom name="Library Train (Japan).bin" size="195352416" crc="6e263f05" md5="f2c4f08e358257b24b989c125a3f840a" sha1="1c4c64c651a178c53438517d61400218561e235c"/>
 		<rom name="Library Train (Japan).cue" size="87" crc="36fb83be" md5="d3232238b76248b2d5eb51b767d9d9ef" sha1="6ebacd6c833537c96c04cdc51314629fa9a35ca5"/>
+	</game>
+	<game name="Libro Parlante, Il (Italy)" id="137149">
+		<category>Educational</category>
+		<description>Libro Parlante, Il (Italy)</description>
+		<rom name="Libro Parlante, Il (Italy).bin" size="146607216" crc="c1e285d8" md5="c37c7139089b170034ffb2e8a8ded6ee" sha1="51290a8e3840f19aea5e9155a7a9ffa4c45e44ae"/>
+		<rom name="Libro Parlante, Il (Italy).cue" size="92" crc="6990fa8c" md5="a61917cee15cee2ec1e19418a834c976" sha1="a4711fbe1b112f2cf2607b1ab4b6318e987f9060"/>
 	</game>
 	<game name="Libros Vivos - Casper, El Pequeno Fantasma (Spain)" id="112576">
 		<category>Educational</category>
@@ -97758,6 +97764,12 @@
 		<rom name="Mavis Beacon Teaches Typing Platinum - Version 20 (USA).bin" size="248324160" crc="c2ce16d1" md5="1e0b2a640dfb5d95b56534049005ae2f" sha1="49e00ddff08d884fe0f834ea9c6956bcb4831524"/>
 		<rom name="Mavis Beacon Teaches Typing Platinum - Version 20 (USA).cue" size="121" crc="18403214" md5="98095e60f594f68a097c4233a7103df3" sha1="ad49dfc98c6a06e9088752b857a08a8a5e693c8e"/>
 	</game>
+	<game name="Mavis Beacon Teaches Typing Version 10 - Special Edition (USA)" id="137151">
+		<category>Educational</category>
+		<description>Mavis Beacon Teaches Typing Version 10 - Special Edition (USA)</description>
+		<rom name="Mavis Beacon Teaches Typing Version 10 - Special Edition (USA).bin" size="226817472" crc="a5601bd5" md5="3fb7618e1289e8e9b49f3e035304df84" sha1="01c09dbdb6d1e2a64a993033a4cbe906824a0a07"/>
+		<rom name="Mavis Beacon Teaches Typing Version 10 - Special Edition (USA).cue" size="128" crc="27ab84af" md5="440c05684f12e27a04f6be72a1c9662a" sha1="0d1374f2fe618d4aaa485887b210f5957e3a0773"/>
+	</game>
 	<game name="Mavis Beacon Teaches Typing! For Kids (USA)" id="106378">
 		<category>Educational</category>
 		<description>Mavis Beacon Teaches Typing! For Kids (USA)</description>
@@ -102101,15 +102113,15 @@
 		<description>Might &amp; Magic Heroes VI (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Might &amp; Magic Heroes VI (USA, Europe) (En,Fr,De,Es,It).iso" size="6267666432" crc="6968b484" md5="6df5cbe8d973c592fa56eff1b42afaec" sha1="a1ee0f538805622742059aa9ce54f285f7723d4a"/>
 	</game>
-	<game name="Might &amp; Magic Heroes VI - Complete Edition (Europe) (En,Fr,De,Es,It) (Disc 1)" id="135704">
+	<game name="Might &amp; Magic Heroes VI - Shades of Darkness (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu) (Disc 1)" id="135704">
 		<category>Games</category>
-		<description>Might &amp; Magic Heroes VI - Complete Edition (Europe) (En,Fr,De,Es,It) (Disc 1)</description>
-		<rom name="Might &amp; Magic Heroes VI - Complete Edition (Europe) (En,Fr,De,Es,It) (Disc 1).iso" size="8545992704" crc="482201f3" md5="b0ae55410cb79bcd80d08a0b7f379c0d" sha1="fc661708ea39c2da233d8291869bcf87fb987150"/>
+		<description>Might &amp; Magic Heroes VI - Shades of Darkness (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu) (Disc 1)</description>
+		<rom name="Might &amp; Magic Heroes VI - Shades of Darkness (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu) (Disc 1).iso" size="8545992704" crc="482201f3" md5="b0ae55410cb79bcd80d08a0b7f379c0d" sha1="fc661708ea39c2da233d8291869bcf87fb987150"/>
 	</game>
-	<game name="Might &amp; Magic Heroes VI - Complete Edition (Europe) (En,Fr,De,Es,It) (Disc 2) (Shades of Darkness)" id="135705">
+	<game name="Might &amp; Magic Heroes VI - Shades of Darkness (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu) (Disc 2)" id="135705">
 		<category>Games</category>
-		<description>Might &amp; Magic Heroes VI - Complete Edition (Europe) (En,Fr,De,Es,It) (Disc 2) (Shades of Darkness)</description>
-		<rom name="Might &amp; Magic Heroes VI - Complete Edition (Europe) (En,Fr,De,Es,It) (Disc 2) (Shades of Darkness).iso" size="959676416" crc="7746eb66" md5="1e2a5bcc09f04aa2e2fdd33232bdb492" sha1="a58d2512ff91e22fab0fa280c25647edbeaeb4f6"/>
+		<description>Might &amp; Magic Heroes VI - Shades of Darkness (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu) (Disc 2)</description>
+		<rom name="Might &amp; Magic Heroes VI - Shades of Darkness (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu) (Disc 2).iso" size="959676416" crc="7746eb66" md5="1e2a5bcc09f04aa2e2fdd33232bdb492" sha1="a58d2512ff91e22fab0fa280c25647edbeaeb4f6"/>
 	</game>
 	<game name="Might &amp; Magic Heroes VII (Australia) (Disc 1)" id="129181">
 		<category>Games</category>
@@ -169716,10 +169728,10 @@
 		<description>Two Worlds (USA) (Rev 1)</description>
 		<rom name="Two Worlds (USA) (Rev 1).iso" size="4262363136" crc="571f38fb" md5="43ba23096712174e5a517397e19fb80e" sha1="f5fa7de4e403085c8d7eb178a7170fb63aedc589"/>
 	</game>
-	<game name="Two Worlds - Game of the Year Edition (Poland)" id="23793">
+	<game name="Two Worlds - Game of the Year Edition (Turkey) (En,Fr,De,Es,It)" id="137153">
 		<category>Games</category>
-		<description>Two Worlds - Game of the Year Edition (Poland)</description>
-		<rom name="Two Worlds - Game of the Year Edition (Poland).iso" size="4450746368" crc="f6022849" md5="d981fdb74cf38ed92228e52327eae384" sha1="ec929bda785dc6959d465e9e18ce58fe011d9a09"/>
+		<description>Two Worlds - Game of the Year Edition (Turkey) (En,Fr,De,Es,It)</description>
+		<rom name="Two Worlds - Game of the Year Edition (Turkey) (En,Fr,De,Es,It).iso" size="3928588288" crc="e2b2efaa" md5="db3161912cb4758919d01a87d8b12800" sha1="50a9f63266892913735ab25f7c359f8005bb7074"/>
 	</game>
 	<game name="Two Worlds II (Europe)" id="125387">
 		<category>Games</category>

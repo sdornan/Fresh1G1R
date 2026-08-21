@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Atari - Atari 2600 (Retool)</name>
-		<description>Atari - Atari 2600 (496) (-y) [-aAbBcdkmMpPuv] (20260813-145826) (Retool)</description>
-		<version>20260813-145826</version>
-		<date>2026-08-20 03-33-43</date>
+		<description>Atari - Atari 2600 (496) (-y) [-aAbBcdkmMpPuv] (20260819-100511) (Retool)</description>
+		<version>20260819-100511</version>
+		<date>2026-08-21 03-42-24</date>
 		<author>1988reload, ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2004,7 +2004,7 @@
 	<game name="Star Raiders (USA)" id="0447">
 		<category>Games</category>
 		<description>Star Raiders (USA)</description>
-		<rom name="Star Raiders (USA).a26" size="8192" crc="2ae193ee" md5="cbd981a23c592fb9ab979223bb368cd5" sha1="e10cce1a438c82bd499e1eb31a3f07d7254198f5"/>
+		<rom name="Star Raiders (USA).a26" size="8192" crc="2ae193ee" md5="cbd981a23c592fb9ab979223bb368cd5" sha1="e10cce1a438c82bd499e1eb31a3f07d7254198f5" sha256="09d2dc1512889713da8e9cacdfcfe9d3eab122eb538fe7c0bbb8e97968533e6a"/>
 	</game>
 	<game name="Star Ship ~ Outer Space (USA)" id="0448">
 		<category>Games</category>

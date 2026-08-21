@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (345) (-y) [-aAbBcefkmMoprv] (20260818-141423) (Retool)</description>
-		<version>20260818-141423</version>
-		<date>2026-08-20 03-13-42</date>
+		<description>Nintendo - Satellaview (346) (-y) [-aAbBcefkmMoprv] (20260819-131805) (Retool)</description>
+		<version>20260819-131805</version>
+		<date>2026-08-21 03-20-59</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -80,6 +80,11 @@
 		<category>Games</category>
 		<description>BS F-Zero Grand Prix 2 - Practice (Japan) (10-23)</description>
 		<rom name="BS F-Zero Grand Prix 2 - Practice (Japan) (10-23).bs" size="1048576" crc="14756b56" md5="95338a78fb51efc0ae04edfde8034a26" sha1="78aef2f69c972e86cd20324ac888558eb9e2f70e" sha256="bfaa5e672be19417c99b069e7a8c418bbfa62ce9fea215aa57d98e664ba0b90b"/>
+	</game>
+	<game name="BS F-Zero Grand Prix 2 - Practice (Japan) (Premiere) (1997-6-7)" id="3709">
+		<category>Games</category>
+		<description>BS F-Zero Grand Prix 2 - Practice (Japan) (Premiere) (1997-6-7)</description>
+		<rom name="BS F-Zero Grand Prix 2 - Practice (Japan) (Premiere) (1997-6-7).bs" size="1048576" crc="b86dd6a2" md5="4e6275ac5f7ec73d2dc41c70a82c038f" sha1="e8eeb60f0a7009205ecf0bd9aaeb21c8c391a17f" sha256="aa9b96b80b0aa0d5b384bb3a41a4fa145085902e319c54661e16ff29492c6bd1"/>
 	</game>
 	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (9-29) (SoundLink)" id="0313">
 		<category>Games</category>
