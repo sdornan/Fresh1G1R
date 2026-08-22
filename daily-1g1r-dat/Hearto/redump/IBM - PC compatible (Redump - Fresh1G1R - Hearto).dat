@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,842) (-y) [-aAbBcefkmMoprv] (2026-08-21 00-16-54) (Retool)</description>
-		<version>2026-08-21 00-16-54</version>
-		<date>2026-08-21 03-14-54</date>
+		<description>IBM - PC compatible (25,843) (-y) [-aAbBcefkmMoprv] (2026-08-22 02-36-54) (Retool)</description>
+		<version>2026-08-22 02-36-54</version>
+		<date>2026-08-22 03-04-05</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -159097,6 +159097,12 @@
 		<description>Tiger Woods PGA Tour 2000 (USA) (Sampler Disc)</description>
 		<rom name="Tiger Woods PGA Tour 2000 (USA) (Sampler Disc).bin" size="409405584" crc="5e05341d" md5="92797c76e6509cb2237493f9931e28b3" sha1="b33d48afedea1400ef9030355c498257f38a33b7"/>
 		<rom name="Tiger Woods PGA Tour 2000 (USA) (Sampler Disc).cue" size="112" crc="9fb01dd2" md5="362920848904785d367ac2e74880c3b5" sha1="6ee07232c16d8f2ea0b8894464da3f135a696ca9"/>
+	</game>
+	<game name="Tiger Woods PGA Tour 2000 (USA) (Sampler Disc) (Wheaties)" id="137161">
+		<category>Demos</category>
+		<description>Tiger Woods PGA Tour 2000 (USA) (Sampler Disc) (Wheaties)</description>
+		<rom name="Tiger Woods PGA Tour 2000 (USA) (Sampler Disc) (Wheaties).bin" size="409410288" crc="aae80200" md5="db6f0cd095092238959ae23bfaf03b81" sha1="0d82cd25c7ad464aeda783cc3326e0723e9e8648"/>
+		<rom name="Tiger Woods PGA Tour 2000 (USA) (Sampler Disc) (Wheaties).cue" size="123" crc="6b92c311" md5="20145cf59e22c02cdc88088bfe67a91a" sha1="00b9a28f1bb97f71ab2f4bbd77d50c34946be207"/>
 	</game>
 	<game name="Tiger Woods PGA Tour 2001 (Europe) (En,Fr,De) (OEM)" id="76933">
 		<category>Games</category>

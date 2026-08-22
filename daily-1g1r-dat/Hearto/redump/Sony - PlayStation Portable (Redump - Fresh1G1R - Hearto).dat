@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,875) (-y) [-aAbBcefkmMoprv] (2026-08-20 20-18-36) (Retool)</description>
-		<version>2026-08-20 20-18-36</version>
-		<date>2026-08-21 03-18-12</date>
+		<description>Sony - PlayStation Portable (1,881) (-y) [-aAbBcefkmMoprv] (2026-08-21 14-56-53) (Retool)</description>
+		<version>2026-08-21 14-56-53</version>
+		<date>2026-08-22 03-06-53</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3031,6 +3031,11 @@
 		<description>Harry Potter and the Order of the Phoenix (USA)</description>
 		<rom name="Harry Potter and the Order of the Phoenix (USA).iso" size="763461632" crc="efa07038" md5="d601ecf8b4a6388365da49c498d82e98" sha1="01e83e67a56006cf9cd86a5f5f300dfb663462cb"/>
 	</game>
+	<game name="Harukanaru Toki no Naka de - Hachiyou-shou (Japan)" id="137154">
+		<category>Games</category>
+		<description>Harukanaru Toki no Naka de - Hachiyou-shou (Japan)</description>
+		<rom name="Harukanaru Toki no Naka de - Hachiyou-shou (Japan).iso" size="701890560" crc="4cb67f58" md5="aa4bab4a7cb0175698bcf4a2156980d7" sha1="1430042d4ff1c9b5e9a0e15715abf48ff6dd9332"/>
+	</game>
 	<game name="Harukanaru Toki no Naka de - Iroetebako (Japan)" id="119963">
 		<category>Games</category>
 		<description>Harukanaru Toki no Naka de - Iroetebako (Japan)</description>
@@ -3795,6 +3800,11 @@
 		<category>Games</category>
 		<description>Kamisama to Koi Gokoro (Japan)</description>
 		<rom name="Kamisama to Koi Gokoro (Japan).iso" size="986808320" crc="2e9fafe3" md5="d088ec0578b74081bee63badb8a258b7" sha1="adeaca5941831384da8f0a510c3f6f46b96feb9f"/>
+	</game>
+	<game name="Kana - Imouto (Japan)" id="137155">
+		<category>Games</category>
+		<description>Kana - Imouto (Japan)</description>
+		<rom name="Kana - Imouto (Japan).iso" size="779976704" crc="8cd40a08" md5="c67a87c3b73a06d96da358ef0f876a20" sha1="3649fa092f4a178faf72482633ea1bea692fd081"/>
 	</game>
 	<game name="Kanji Trainer Portable (Japan)" id="3199">
 		<category>Games</category>
@@ -4775,6 +4785,11 @@
 		<category>Games</category>
 		<description>MediEvil - Resurrection (USA)</description>
 		<rom name="MediEvil - Resurrection (USA).iso" size="1189937152" crc="adc64af9" md5="e6014369dc873fbe088ffe7168875ce1" sha1="e4a9730b1599952e4d6c4cceeb30edeb7ca0f551"/>
+	</game>
+	<game name="Medical 91 for Portable (Japan)" id="137156">
+		<category>Games</category>
+		<description>Medical 91 for Portable (Japan)</description>
+		<rom name="Medical 91 for Portable (Japan).iso" size="573997056" crc="ae88fe8d" md5="ed07c0d1bc3af510c05c161c25b31e16" sha1="7e2b07401370067dbf48ced15c878029d26f0236"/>
 	</game>
 	<game name="Mega Man - Maverick Hunter X (USA)" id="4258">
 		<category>Games</category>
@@ -6116,6 +6131,11 @@
 		<description>Pipe Mania (USA) (En,Fr)</description>
 		<rom name="Pipe Mania (USA) (En,Fr).iso" size="321847296" crc="85322bc9" md5="21d4b49a7f0a237c6450dce3faa95546" sha1="c6c3951a03073d6d8763ef3e8aecb0469a8a4dd1"/>
 	</game>
+	<game name="Piposaru Academia 2 - Aiai Saruge Janken Battle! (Japan)" id="2987">
+		<category>Games</category>
+		<description>Piposaru Academia 2 - Aiai Saruge Janken Battle! (Japan)</description>
+		<rom name="Piposaru Academia 2 - Aiai Saruge Janken Battle! (Japan).iso" size="347865088" crc="99a91fbe" md5="ddb05d3ccd9006ad079f802e31117895" sha1="0e1b4e57519a09351563493f9f5f076ff2752896"/>
+	</game>
 	<game name="Pirates of the Caribbean - Dead Man's Chest (USA) (En,Fr)" id="19759">
 		<category>Games</category>
 		<description>Pirates of the Caribbean - Dead Man's Chest (USA) (En,Fr)</description>
@@ -6890,6 +6910,16 @@
 		<category>Games</category>
 		<description>Sangoku Hime 2 - Tenka Hatou - Shishi no Keishousha (Japan)</description>
 		<rom name="Sangoku Hime 2 - Tenka Hatou - Shishi no Keishousha (Japan).iso" size="1171456000" crc="82e1fcbd" md5="02b8b83602838aec340df9b2c877b424" sha1="aefcec5457bbbd1f2c358b84fed0c2b8a6eedb82"/>
+	</game>
+	<game name="Sangoku Rensenki - Omoidegaeshi - CS Edition (Japan) (Disc 1)" id="137157">
+		<category>Games</category>
+		<description>Sangoku Rensenki - Omoidegaeshi - CS Edition (Japan) (Disc 1)</description>
+		<rom name="Sangoku Rensenki - Omoidegaeshi - CS Edition (Japan) (Disc 1).iso" size="829128704" crc="8d0057b7" md5="ee6a00e65afd5b39c666967400655c99" sha1="1b3d296c2db538c5189faeb8c7540a2cc8972502"/>
+	</game>
+	<game name="Sangoku Rensenki - Omoidegaeshi - CS Edition (Japan) (Disc 2)" id="137158">
+		<category>Games</category>
+		<description>Sangoku Rensenki - Omoidegaeshi - CS Edition (Japan) (Disc 2)</description>
+		<rom name="Sangoku Rensenki - Omoidegaeshi - CS Edition (Japan) (Disc 2).iso" size="1502871552" crc="0f408e97" md5="f630e25cf27372e65b61becd683e64e2" sha1="bf5eb111309cdac9a8653b1d810756d5035da417"/>
 	</game>
 	<game name="Sangoku Rensenki - Otome no Heihou! (Japan) (Disc 1)" id="126498">
 		<category>Games</category>

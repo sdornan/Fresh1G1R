@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,941) (-y) [-aAbBcefkmMoprv] (20260819-093500) (Retool)</description>
-		<version>20260819-093500</version>
-		<date>2026-08-21 03-22-38</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,941) (-y) [-aAbBcefkmMoprv] (20260821-054501) (Retool)</description>
+		<version>20260821-054501</version>
+		<date>2026-08-22 03-07-51</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -510,7 +510,7 @@
 	<game name="Akai Ito Destiny DS (Japan)" id="3601">
 		<category>Games</category>
 		<description>Akai Ito Destiny DS (Japan)</description>
-		<rom name="Akai Ito Destiny DS (Japan).nds" size="134217728" crc="6b485fc9" md5="210bc0cb987b045295ed465773bc7291" sha1="30328b0bfbe1dfeb76c2e156d34094d09c9032b2"/>
+		<rom name="Akai Ito Destiny DS (Japan).nds" size="134217728" crc="6b485fc9" md5="210bc0cb987b045295ed465773bc7291" sha1="30328b0bfbe1dfeb76c2e156d34094d09c9032b2" sha256="dae707a64834c75b14e9a4f7e75e5b1c7752d5f356cbc43698cada4e5626f6cb"/>
 	</game>
 	<game name="Akko de Pon! - Ikasama Hourouki (Japan)" id="3280">
 		<category>Games</category>
@@ -857,7 +857,7 @@
 	<game name="Anpanman to Asobo - Aiueo Kyoushitsu DX (Japan) (Rev 1)" id="z165">
 		<category>Games</category>
 		<description>Anpanman to Asobo - Aiueo Kyoushitsu DX (Japan) (Rev 1)</description>
-		<rom name="Anpanman to Asobo - Aiueo Kyoushitsu DX (Japan) (Rev 1).nds" size="67108864" crc="7fc70463" md5="2553a559a3c8b9860bd99ae6213de095" sha1="9d51b179c9abaceab497421a928f61684af50942"/>
+		<rom name="Anpanman to Asobo - Aiueo Kyoushitsu DX (Japan) (Rev 1).nds" size="67108864" crc="7fc70463" md5="2553a559a3c8b9860bd99ae6213de095" sha1="9d51b179c9abaceab497421a928f61684af50942" sha256="ab2ad9fb619ed6bff29ab151051e78b6277ad00e80da2cbe08e3ea47a76abfbe"/>
 	</game>
 	<game name="Anpanman to Touch de Waku Waku Training (Japan)" id="4188">
 		<category>Games</category>
@@ -3827,7 +3827,7 @@
 	<game name="Derby Stallion DS (Japan)" id="2397">
 		<category>Games</category>
 		<description>Derby Stallion DS (Japan)</description>
-		<rom name="Derby Stallion DS (Japan).nds" size="33554432" crc="f825c28c" md5="9814440bdd73a9a7df4c9a6a0e508f5e" sha1="2e55a146f087f356e30b52e46731a7d77d1bef29"/>
+		<rom name="Derby Stallion DS (Japan).nds" size="33554432" crc="f825c28c" md5="9814440bdd73a9a7df4c9a6a0e508f5e" sha1="2e55a146f087f356e30b52e46731a7d77d1bef29" sha256="ff124835c1dd9f721505a281ae83937017250948d603e8e5d32756daa779626b"/>
 	</game>
 	<game name="Desktop Tower Defense (USA)" id="3764">
 		<category>Games</category>
@@ -8539,7 +8539,7 @@
 	<game name="Kira Kira Pop Princess (Europe) (En,Fr,It)" id="2075">
 		<category>Games</category>
 		<description>Kira Kira Pop Princess (Europe) (En,Fr,It)</description>
-		<rom name="Kira Kira Pop Princess (Europe) (En,Fr,It).nds" size="134217728" crc="8bf705c0" md5="832f739430add89f925dade2ad5a0ab2" sha1="34b0b184c592ab5995ea16821e90158e6e1fe0b4"/>
+		<rom name="Kira Kira Pop Princess (Europe) (En,Fr,It).nds" size="134217728" crc="8bf705c0" md5="832f739430add89f925dade2ad5a0ab2" sha1="34b0b184c592ab5995ea16821e90158e6e1fe0b4" sha256="079acf46e6fe7eead8fc006613244e85a0dec214882e1c1288c9b2662026ac33"/>
 	</game>
 	<game name="Kirarin Revolution - Atsumete Change! - Cool Kira Coord (Japan)" id="3218">
 		<category>Games</category>
@@ -9455,7 +9455,7 @@
 	<game name="Live Battle Card - Live On DS (Japan)" id="4118">
 		<category>Games</category>
 		<description>Live Battle Card - Live On DS (Japan)</description>
-		<rom name="Live Battle Card - Live On DS (Japan).nds" size="67108864" crc="a68054ba" md5="54d627e672e31e66d42eeb86c834a00b" sha1="8afa2c30fda40d8a51a92f7ee1303c666f1c6f3f"/>
+		<rom name="Live Battle Card - Live On DS (Japan).nds" size="67108864" crc="a68054ba" md5="54d627e672e31e66d42eeb86c834a00b" sha1="8afa2c30fda40d8a51a92f7ee1303c666f1c6f3f" sha256="8f4d4bf37a351551ea72d429ce9b8ca22f1c95ffe1898139f138792aeee97d15"/>
 	</game>
 	<game name="Livly Garden (Japan)" id="4683">
 		<category>Games</category>
@@ -11703,7 +11703,7 @@
 	<game name="Nakayoshi All-Stars - Mezase Gakuen Idol (Japan)" id="3216">
 		<category>Games</category>
 		<description>Nakayoshi All-Stars - Mezase Gakuen Idol (Japan)</description>
-		<rom name="Nakayoshi All-Stars - Mezase Gakuen Idol (Japan).nds" size="16777216" crc="5b4c919e" md5="f5fb897dddeb45b76e399dcc212de236" sha1="4002dad1aa6bd2227d3402bf0d0d355425b7fa0f"/>
+		<rom name="Nakayoshi All-Stars - Mezase Gakuen Idol (Japan).nds" size="16777216" crc="5b4c919e" md5="f5fb897dddeb45b76e399dcc212de236" sha1="4002dad1aa6bd2227d3402bf0d0d355425b7fa0f" sha256="5ae849ffff63d1975ffac13b1303088ae964b99c1f1618ec6dec2822f16108de"/>
 	</game>
 	<game name="Nakayoshi Kids no Oshigoto Theme Park - Oshigoto Taiken Game (Japan)" id="6655">
 		<category>Games</category>
@@ -12309,7 +12309,7 @@
 	<game name="Nippon Shuzan Renmei Kanshuu - Itsudemo Soroban DS (Japan)" id="3035">
 		<category>Games</category>
 		<description>Nippon Shuzan Renmei Kanshuu - Itsudemo Soroban DS (Japan)</description>
-		<rom name="Nippon Shuzan Renmei Kanshuu - Itsudemo Soroban DS (Japan).nds" size="33554432" crc="f0ae61bc" md5="e49fda3908e37d4f07b75517d04ce64f" sha1="27b9b1f8ac1aa217f60f46434dc821b74ecfa020"/>
+		<rom name="Nippon Shuzan Renmei Kanshuu - Itsudemo Soroban DS (Japan).nds" size="33554432" crc="f0ae61bc" md5="e49fda3908e37d4f07b75517d04ce64f" sha1="27b9b1f8ac1aa217f60f46434dc821b74ecfa020" sha256="13390fb4caeee1dfc1391521225d39f2cafcc7091e6f294fd09c0caa4398ee97"/>
 	</game>
 	<game name="Nippon Suugaku Kentei Kyoukai Kounin - Suken DS - Otona ga Tokenai! Kodomo no Sansuu (Japan) (Rev 1)" id="z246">
 		<category>Games</category>
@@ -18323,7 +18323,7 @@
 	<game name="Tsubasa Chronicle Vol. 2 (Japan)" id="0410">
 		<category>Games</category>
 		<description>Tsubasa Chronicle Vol. 2 (Japan)</description>
-		<rom name="Tsubasa Chronicle Vol. 2 (Japan).nds" size="67108864" crc="36c7c5c3" md5="b8a89f518eca31523941c2d0fdb82a53" sha1="e485efc362962361d792f9be4d9468f7ad29041e"/>
+		<rom name="Tsubasa Chronicle Vol. 2 (Japan).nds" size="67108864" crc="36c7c5c3" md5="b8a89f518eca31523941c2d0fdb82a53" sha1="e485efc362962361d792f9be4d9468f7ad29041e" sha256="cd01dd9fd3b241c13a03e3f63887ab1c8d4e2b31627aa7ee1953a03d4c507e43"/>
 	</game>
 	<game name="Tsuji Gakuen Tsuji Cooking Kanshuu - Koharu no DS Uchigohan. - Shokuji Balance Guide Tsuki (Japan)" id="1883">
 		<category>Games</category>

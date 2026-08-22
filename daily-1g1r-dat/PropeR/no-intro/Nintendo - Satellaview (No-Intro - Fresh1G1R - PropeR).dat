@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (328) (-y) [-aAbBcdkmMpPuv] (20260819-131805) (Retool)</description>
-		<version>20260819-131805</version>
-		<date>2026-08-21 03-40-55</date>
+		<description>Nintendo - Satellaview (326) (-y) [-aAbBcdkmMpPuv] (20260821-092927) (Retool)</description>
+		<version>20260821-092927</version>
+		<date>2026-08-22 03-25-34</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -26,10 +26,10 @@
 		<description>Actraiser (Japan) (9-12)</description>
 		<rom name="Actraiser (Japan) (9-12).bs" size="1048576" crc="b9a968ff" md5="1151741068304ec8a1e9df033ccf8bd7" sha1="1d94b555e3a5a018dabf5fe2ea62ba73c2927a82" sha256="ee9aa8d3fda46d15fa2cc28dcdc6c791214097bbb6a224bc585247f3985e413d"/>
 	</game>
-	<game name="Air Management II - Koukuu Ou wo Mezase (Japan) (4-14)" id="3695">
+	<game name="Air Management II - Koukuu Ou o Mezase (Japan) (4-14)" id="3695">
 		<category>Games</category>
-		<description>Air Management II - Koukuu Ou wo Mezase (Japan) (4-14)</description>
-		<rom name="Air Management II - Koukuu Ou wo Mezase (Japan) (4-14).bs" size="1048576" crc="93ed1bf7" md5="5741abedd74de2a82fbdd4d960ad5158" sha1="b81d55fb51dd0258feb91e3f43d3aa19bc15d521" sha256="a328ca2872777d9ec2f0e2cad42bead39d9194c81e299600d5d47d92642e3833"/>
+		<description>Air Management II - Koukuu Ou o Mezase (Japan) (4-14)</description>
+		<rom name="Air Management II - Koukuu Ou o Mezase (Japan) (4-14).bs" size="1048576" crc="93ed1bf7" md5="5741abedd74de2a82fbdd4d960ad5158" sha1="b81d55fb51dd0258feb91e3f43d3aa19bc15d521" sha256="a328ca2872777d9ec2f0e2cad42bead39d9194c81e299600d5d47d92642e3833"/>
 	</game>
 	<game name="Albert Odyssey (Japan) (8-23)" id="3929">
 		<category>Games</category>
@@ -416,11 +416,6 @@
 		<category>Games</category>
 		<description>Chaos Seed BS Ban (Japan) (1996-3-11)</description>
 		<rom name="Chaos Seed BS Ban (Japan) (1996-3-11).bs" size="1048576" crc="3ef8064b" md5="c9a14af343999edaecfb11c8ee6fcee7" sha1="c8a8b93e74d695d0088a37554cdbba610bb3a425" sha256="4d1133e99a53a205456d4eb37dbb2e82d29acfc391be50ccc30acb847582d311"/>
-	</game>
-	<game name="Chou Aniki - Bakuretsu Rantou Hen (Japan)" id="3618">
-		<category>Games</category>
-		<description>Chou Aniki - Bakuretsu Rantou Hen (Japan)</description>
-		<rom name="Chou Aniki - Bakuretsu Rantou Hen (Japan).bs" size="1048576" crc="0f68f2d4" md5="79aee68ad4103937716100bdbf957d05" sha1="e36b17e7a0bcc185df289cbea059b91eea19574f" sha256="0c908b4d289316299b32db94233c1aeca935499e38a15a9c284f8d11dae32473"/>
 	</game>
 	<game name="Chou Makai Taisen! Dorabocchan (Japan)" id="3782">
 		<category>Games</category>
@@ -884,11 +879,6 @@
 		<description>Machi Magazine (Japan) (1995-11-4) (SoundLink Magazine)</description>
 		<rom name="Machi Magazine (Japan) (1995-11-4) (SoundLink Magazine).bs" size="1048576" crc="a6db7b75" md5="8300c91b6946f37b1d2f6f9de13328eb" sha1="fde9b363cabad6230d34fd67454376edb43c14ff" sha256="3b749fca560e75d6f3982fd90f79721e2c7aec404f0a47cb663ee222bb0d39a0"/>
 	</game>
-	<game name="Madou Monogatari - Hanamaru Daiyouchienji (Japan)" id="3731">
-		<category>Games</category>
-		<description>Madou Monogatari - Hanamaru Daiyouchienji (Japan)</description>
-		<rom name="Madou Monogatari - Hanamaru Daiyouchienji (Japan).bs" size="1048576" crc="6e863251" md5="1d1f08c8588ac235c27d55a970057b21" sha1="f55f3a5ac5fba32699ed65ace25023d8fe7246e3" sha256="e5b44116136b09d2fe3b98dd1c852b6362ddfec9bfe9653267129235f61602cc"/>
-	</game>
 	<game name="Mario Paint - BS Ban (Japan) (8-14)" id="3860">
 		<category>Games</category>
 		<description>Mario Paint - BS Ban (Japan) (8-14)</description>
@@ -1228,10 +1218,10 @@
 		<description>Super Bowling (Japan) (En) (10-10)</description>
 		<rom name="Super Bowling (Japan) (En) (10-10).bs" size="1048576" crc="0966aac3" md5="52385971dff5026f9264f2bb081c62d5" sha1="872e931eb23b58bdeb889d8b1330f862441d721f" sha256="1c4c65452ae3c4207f09ebbac54cde2f95cbb6ff28c256fb66196c732ec3e969"/>
 	</game>
-	<game name="Super E.D.F. (Japan)" id="2645">
+	<game name="Super E.D.F. (Japan) (En)" id="2645">
 		<category>Games</category>
-		<description>Super E.D.F. (Japan)</description>
-		<rom name="Super E.D.F. (Japan).bs" size="1048576" crc="2dd53ba4" md5="ab09f131dc565a9f2d4258cf52f27d2e" sha1="5301ae75b3707df9c60e4c7b1a2e6b90bece1e6e" sha256="f0222e946d8de4123f3922d2a44a6bcdba87b1e1ac99bb261532c4a9b6944780"/>
+		<description>Super E.D.F. (Japan) (En)</description>
+		<rom name="Super E.D.F. (Japan) (En).bs" size="1048576" crc="2dd53ba4" md5="ab09f131dc565a9f2d4258cf52f27d2e" sha1="5301ae75b3707df9c60e4c7b1a2e6b90bece1e6e" sha256="f0222e946d8de4123f3922d2a44a6bcdba87b1e1ac99bb261532c4a9b6944780"/>
 	</game>
 	<game name="Super Famicom Wars BS Ban - Hagoromo-jima (Japan)" id="3610">
 		<category>Games</category>
@@ -1263,10 +1253,10 @@
 		<description>Super Formation Soccer (Japan) (8-5)</description>
 		<rom name="Super Formation Soccer (Japan) (8-5).bs" size="524288" crc="e8190c48" md5="3471535b39c71b929fe010911036ad93" sha1="c78b2f0212da88eb7cc8c7ce8d182e0d634cb711" sha256="a8aad99e7d804c682f0fb8960288d6cc1cf85d5372d525a5d59edc99468cbfc9"/>
 	</game>
-	<game name="Super Gomoku Narabe Renju (Japan)" id="3921">
+	<game name="Super Gomoku Narabe - Renju (Japan)" id="3921">
 		<category>Games</category>
-		<description>Super Gomoku Narabe Renju (Japan)</description>
-		<rom name="Super Gomoku Narabe Renju (Japan).bs" size="1048576" crc="d770c34c" md5="510bf81472a202f72d3f81c5b3b7f587" sha1="6892b3296a754b26a0ffc45028eb985a2afa19f5" sha256="3e3183410746cab828e1cf8094dd99f63ef201674f69e4f5f5be39f9dea13092"/>
+		<description>Super Gomoku Narabe - Renju (Japan)</description>
+		<rom name="Super Gomoku Narabe - Renju (Japan).bs" size="1048576" crc="d770c34c" md5="510bf81472a202f72d3f81c5b3b7f587" sha1="6892b3296a754b26a0ffc45028eb985a2afa19f5" sha256="3e3183410746cab828e1cf8094dd99f63ef201674f69e4f5f5be39f9dea13092"/>
 	</game>
 	<game name="Super Mahjong Taikai (9-27) + Super Bowling (9-27) (Japan)" id="3841">
 		<category>Games</category>
@@ -1355,10 +1345,10 @@
 		<description>Sutte Hakkun - Event Version (Japan) (11-24)</description>
 		<rom name="Sutte Hakkun - Event Version (Japan) (11-24).bs" size="1048576" crc="90435bfa" md5="7f55de01ad491a02debc190b79ecba8b" sha1="c124b3ff1bac9ce25d45f7520851d62aa174a384" sha256="90af1f0282696615ea1142775070cff7c4a14e2bc68a2fc1d63fdd9e979dde3a"/>
 	</game>
-	<game name="Table Game Daisyugo!! Shougi Mahjong Hanafuda (Japan) (6-2)" id="3472">
+	<game name="Table Game Daishuugou!! (Japan) (6-2)" id="3472">
 		<category>Games</category>
-		<description>Table Game Daisyugo!! Shougi Mahjong Hanafuda (Japan) (6-2)</description>
-		<rom name="Table Game Daisyugo!! Shougi Mahjong Hanafuda (Japan) (6-2).bs" size="1048576" crc="47e3047e" md5="b7bb06a4e57af668a80e48d23bc186f3" sha1="00ddbd9471f9b22b927a2361c672d7e4081fb69d" sha256="c1dc1d21c7348c829ea74ed542a4a99b5c2e76119a125d2b5a999aa484786815"/>
+		<description>Table Game Daishuugou!! (Japan) (6-2)</description>
+		<rom name="Table Game Daishuugou!! (Japan) (6-2).bs" size="1048576" crc="47e3047e" md5="b7bb06a4e57af668a80e48d23bc186f3" sha1="00ddbd9471f9b22b927a2361c672d7e4081fb69d" sha256="c1dc1d21c7348c829ea74ed542a4a99b5c2e76119a125d2b5a999aa484786815"/>
 	</game>
 	<game name="Takahashi Meijin no Daibouken-jima (Japan) (En)" id="3784">
 		<category>Games</category>
@@ -1585,10 +1575,10 @@
 		<description>Wild Guns (Japan)</description>
 		<rom name="Wild Guns (Japan).bs" size="1048576" crc="5ce5fe02" md5="86565e955fcc9c17811ab66be3b3e9c2" sha1="246b0d967a2fb397984c4f78fefc02a22d2379e1" sha256="bf8829c9eaddca3102737cdd653e81a25a301414d6e437e595f25c6da6273c7f"/>
 	</game>
-	<game name="Wizardry V - Saika no Chuushin (Japan)" id="3298">
+	<game name="Wizardry V - Saika no Chuushin (Japan) (En,Ja)" id="3298">
 		<category>Games</category>
-		<description>Wizardry V - Saika no Chuushin (Japan)</description>
-		<rom name="Wizardry V - Saika no Chuushin (Japan).bs" size="1048576" crc="a04f1544" md5="ff44467b4a669c118168ffc7ca6919cb" sha1="ae5064743d4dba2c4618ba51fbcce1d25b4e5b41" sha256="105ad027fabc604dde6a415c822e01ad912d54632e2cffd6731c4ddafdad8429"/>
+		<description>Wizardry V - Saika no Chuushin (Japan) (En,Ja)</description>
+		<rom name="Wizardry V - Saika no Chuushin (Japan) (En,Ja).bs" size="1048576" crc="a04f1544" md5="ff44467b4a669c118168ffc7ca6919cb" sha1="ae5064743d4dba2c4618ba51fbcce1d25b4e5b41" sha256="105ad027fabc604dde6a415c822e01ad912d54632e2cffd6731c4ddafdad8429"/>
 	</game>
 	<game name="Yoshi no Panepon - BS Ban (Japan) (En,Ja) (12-29)" id="3942">
 		<category>Games</category>

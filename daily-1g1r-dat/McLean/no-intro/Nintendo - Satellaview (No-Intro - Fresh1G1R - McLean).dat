@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (18) (-ly) [-aAbBcdDefkmMopPruv] (20260819-131805) (Retool)</description>
-		<version>20260819-131805</version>
-		<date>2026-08-21 03-30-49</date>
+		<description>Nintendo - Satellaview (20) (-ly) [-aAbBcdDefkmMopPruv] (20260821-092927) (Retool)</description>
+		<version>20260821-092927</version>
+		<date>2026-08-22 03-17-19</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -81,6 +81,11 @@
 		<description>Super Bowling (Japan) (En) (10-10)</description>
 		<rom name="Super Bowling (Japan) (En) (10-10).bs" size="1048576" crc="0966aac3" md5="52385971dff5026f9264f2bb081c62d5" sha1="872e931eb23b58bdeb889d8b1330f862441d721f" sha256="1c4c65452ae3c4207f09ebbac54cde2f95cbb6ff28c256fb66196c732ec3e969"/>
 	</game>
+	<game name="Super E.D.F. (Japan) (En)" id="2645">
+		<category>Games</category>
+		<description>Super E.D.F. (Japan) (En)</description>
+		<rom name="Super E.D.F. (Japan) (En).bs" size="1048576" crc="2dd53ba4" md5="ab09f131dc565a9f2d4258cf52f27d2e" sha1="5301ae75b3707df9c60e4c7b1a2e6b90bece1e6e" sha256="f0222e946d8de4123f3922d2a44a6bcdba87b1e1ac99bb261532c4a9b6944780"/>
+	</game>
 	<game name="Super Pinball - Behind the Mask (Japan) (En)" id="3890">
 		<category>Games</category>
 		<description>Super Pinball - Behind the Mask (Japan) (En)</description>
@@ -95,6 +100,11 @@
 		<category>Games</category>
 		<description>Top Racer 2 (Japan) (En)</description>
 		<rom name="Top Racer 2 (Japan) (En).bs" size="1048576" crc="c8d54976" md5="0210c2628d721b5e212e21b679334258" sha1="7d6a70b68a7d9fb7cf48a889b96934d276ab2383" sha256="cd8c0a4e78145b33df8b9e291954d400b98a838a79b58380d10053216eb60fca"/>
+	</game>
+	<game name="Wizardry V - Saika no Chuushin (Japan) (En,Ja)" id="3298">
+		<category>Games</category>
+		<description>Wizardry V - Saika no Chuushin (Japan) (En,Ja)</description>
+		<rom name="Wizardry V - Saika no Chuushin (Japan) (En,Ja).bs" size="1048576" crc="a04f1544" md5="ff44467b4a669c118168ffc7ca6919cb" sha1="ae5064743d4dba2c4618ba51fbcce1d25b4e5b41" sha256="105ad027fabc604dde6a415c822e01ad912d54632e2cffd6731c4ddafdad8429"/>
 	</game>
 	<game name="Yoshi no Panepon - BS Ban (Japan) (En,Ja) (12-29)" id="3942">
 		<category>Games</category>

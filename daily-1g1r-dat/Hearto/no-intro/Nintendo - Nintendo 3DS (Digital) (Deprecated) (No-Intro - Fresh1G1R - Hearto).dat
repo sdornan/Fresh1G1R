@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Digital) (Deprecated) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Digital) (Deprecated) (526) (-y) [-aAbBcefkmMoprv] (20240623-225059) (Retool)</description>
-		<version>20240623-225059</version>
-		<date>2026-08-17 03-17-59</date>
-		<author>aci68, C. V. Reynolds, coraz, Densetsu, einstein95, Gefflon, Hiccup, Jack, jimmsu, MeguCocoa, norkmetnoil577, rarenight, relax, Rifu, SonGoku, Xenirina, xuom2</author>
+		<description>Nintendo - Nintendo 3DS (Digital) (Deprecated) (526) (-y) [-aAbBcefkmMoprv] (20260816-235137) (Retool)</description>
+		<version>20260816-235137</version>
+		<date>2026-08-22 03-08-24</date>
+		<author>1988reload, aci68, C. V. Reynolds, coraz, Densetsu, einstein95, Gefflon, Hiccup, Jack, jimmsu, MeguCocoa, norkmetnoil577, rarenight, relax, Rifu, SonGoku, Xenirina, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -2589,7 +2589,7 @@
 	<game name="Xeodrifter (USA) (eShop)" id="0249">
 		<category>Games</category>
 		<description>Xeodrifter (USA) (eShop)</description>
-		<rom name="Xeodrifter (USA) (eShop).3ds" size="134217728" crc="a2d83768" md5="f9b950fa411a3dc68cc1ef0055a6fbb2" sha1="7170881b705cc6e8299c7547a2a2513309e41dde"/>
+		<rom name="Xeodrifter (USA) (eShop).3ds" size="134217728" crc="a2d83768" md5="f9b950fa411a3dc68cc1ef0055a6fbb2" sha1="7170881b705cc6e8299c7547a2a2513309e41dde" sha256="74c604054f78b0009ea1e88498fbef6caf3c07c84000f079135f519165ab4b7a"/>
 	</game>
 	<game name="Yo-Kai Watch (USA) (Legit CIA)" id="z028">
 		<category>Games</category>

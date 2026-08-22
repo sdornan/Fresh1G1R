@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,824) (-y) [-aAbBcefkmMoprv] (20260820-001850) (Retool)</description>
-		<version>20260820-001850</version>
-		<date>2026-08-21 03-21-51</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,827) (-y) [-aAbBcefkmMoprv] (20260821-045634) (Retool)</description>
+		<version>20260821-045634</version>
+		<date>2026-08-22 03-07-29</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -40,6 +40,11 @@
 		<category>Games</category>
 		<description>1991 Du Ma Racing (Taiwan) (Super Mega) (Unl)</description>
 		<rom name="1991 Du Ma Racing (Taiwan) (Super Mega) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 c1 a8 00 00 00 00 00 00 00 01" crc="fe316fce" md5="6ce6e67cce25901a92a0164aa79b1589" sha1="5142de15fe48908c2f4b69188b4045e654fdebcc" sha256="903574765b29d32aaca265626cf7d0d78a86b52988dcccd23d61807bbb663ba0"/>
+	</game>
+	<game name="1993 Super Fighter 22-in-1 (Asia) (Unl)" id="8517">
+		<category>Games</category>
+		<description>1993 Super Fighter 22-in-1 (Asia) (Unl)</description>
+		<rom name="1993 Super Fighter 22-in-1 (Asia) (Unl).nes" size="524304" header="4e 45 53 1a 10 20 c0 68 02 00 00 00 00 00 00 01" crc="6813020a" md5="103dc1ebec42908bfc057f83014df184" sha1="ecc0eb3469927a0b3ee21a338e83d428ac2040e1" sha256="cde1a698f11bcfd139073a43fece0501aaee3fe55c3126cc623728d6f30a1783"/>
 	</game>
 	<game name="1999 - Hore, Mitakotoka! Seikimatsu (Japan)" id="0010">
 		<category>Games</category>
@@ -640,10 +645,10 @@
 		<description>Bao Qingtian (Taiwan) (Unl)</description>
 		<rom name="Bao Qingtian (Taiwan) (Unl).nes" size="524304" header="4e 45 53 1a 10 20 30 78 00 00 00 00 00 00 00 01" crc="dfd274ba" md5="880639b03fa0d000e6b8859297bd43f9" sha1="9f4f9dfb615194eb3fbeb43d4aac026a942e9415" sha256="640cf99d71d78aa9485ffe1579511874d71b01d0c6b7dcf87eaf8b3cd9c1f341"/>
 	</game>
-	<game name="Baoxiao Sanguo (China) (Unl)" id="2770">
+	<game name="Baoxiao Sanguo - Jacks in Tri-Empire (China) (v1.1) (Unl)" id="2770">
 		<category>Games</category>
-		<description>Baoxiao Sanguo (China) (Unl)</description>
-		<rom name="Baoxiao Sanguo (China) (Unl).nes" size="1048592" header="4e 45 53 1a 40 00 02 b8 20 00 90 07 03 00 00 01" crc="fda8c9c3" md5="a4c231b8854a7a59564cb67b722db680" sha1="75abf768050b6edfb50555b9ad8ab6bd80757219" sha256="64e0d6ddd2eed7ad80517e5c9cc5095b8e02b445e3129af972fd26f935b18223"/>
+		<description>Baoxiao Sanguo - Jacks in Tri-Empire (China) (v1.1) (Unl)</description>
+		<rom name="Baoxiao Sanguo - Jacks in Tri-Empire (China) (v1.1) (Unl).nes" size="1048592" header="4e 45 53 1a 40 00 02 b8 20 00 90 07 03 00 00 01" crc="fda8c9c3" md5="a4c231b8854a7a59564cb67b722db680" sha1="75abf768050b6edfb50555b9ad8ab6bd80757219" sha256="64e0d6ddd2eed7ad80517e5c9cc5095b8e02b445e3129af972fd26f935b18223"/>
 	</game>
 	<game name="Barbie (USA) (Rev 1)" id="0181">
 		<category>Games</category>
@@ -6991,6 +6996,11 @@
 		<description>Shadowgate (USA) (Sample)</description>
 		<rom name="Shadowgate (USA) (Sample).nes" size="262160" header="4e 45 53 1a 08 10 42 08 00 00 70 00 00 00 00 01" crc="43be89ce" md5="d9adcc425d50765c53506e82470fcadf" sha1="bbbe0a8091ac152bc0a2928d82ebbbfb9417583d" sha256="f99f609fea43b9a75c3d73b148e2d9c101aa782dfd6a4f1a49a2e64cac33088a"/>
 	</game>
+	<game name="Shanggu Shen Jian (China) (Hengge) (Unl)" id="1953">
+		<category>Games</category>
+		<description>Shanggu Shen Jian (China) (Hengge) (Unl)</description>
+		<rom name="Shanggu Shen Jian (China) (Hengge) (Unl).nes" size="1048592" header="4e 45 53 1a 40 00 12 b8 00 00 70 07 03 00 00 01" crc="36a5c8b2" md5="bc28f885639626c8698c8da20c3572d3" sha1="3569f35e7b3531087e57767da8b7661d23b1680b" sha256="395d603b7bf579e935769b276421a34fc52f72a6785896a08fe285ba1e4dad48"/>
+	</game>
 	<game name="Shanghai (Japan) (En)" id="1954">
 		<category>Games</category>
 		<description>Shanghai (Japan) (En)</description>
@@ -8734,6 +8744,11 @@
 		<category>Games</category>
 		<description>Wait and See! (Asia) (En) (Unl)</description>
 		<rom name="Wait and See! (Asia) (En) (Unl).nes" size="393232" header="4e 45 53 1a 10 10 40 08 00 00 00 00 02 00 00 01" crc="bc372511" md5="c94e27031c6814ffbe532585bb8d2f22" sha1="7b986e118f0dd395a17c5a706c9f74181fe359eb" sha256="000fa415dc5b97c261f292e9354f00a5a2f89f6e1aebba2c16b37271e8e634b7"/>
+	</game>
+	<game name="Waixing Zhanshi 2 (China) (Unl)" id="8518">
+		<category>Games</category>
+		<description>Waixing Zhanshi 2 (China) (Unl)</description>
+		<rom name="Waixing Zhanshi 2 (China) (Unl).nes" size="1048592" header="4e 45 53 1a 40 00 32 e8 00 00 70 07 03 00 00 01" crc="dcafeaa8" md5="8fd7af8592bd1735854f50205314d33a" sha1="54357d59b17427fe789e4f271cc94d1d4cc790d5" sha256="bd1e242db5f73bc18acbf6ec21906185a61a3d780b88502302ce621d87af6a9e"/>
 	</game>
 	<game name="Wall Street Kid (USA)" id="2440">
 		<category>Games</category>
