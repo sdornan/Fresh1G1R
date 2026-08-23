@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (995) (-y) [-aAbBcdkmMpPuv] (2026-08-21 11-16-53) (Retool)</description>
-		<version>2026-08-21 11-16-53</version>
-		<date>2026-08-22 03-19-43</date>
+		<description>DVD-Video (996) (-y) [-aAbBcdkmMpPuv] (2026-08-22 22-56-53) (Retool)</description>
+		<version>2026-08-22 22-56-53</version>
+		<date>2026-08-23 03-33-16</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -521,15 +521,15 @@
 		<description>Call of Duty 2 (USA) (Collector's Bonus DVD) (Multisystem Game Bundle)</description>
 		<rom name="Call of Duty 2 (USA) (Collector's Bonus DVD) (Multisystem Game Bundle).iso" size="2283800576" crc="66e88571" md5="f24a1758359e502da7efd2666d9c4219" sha1="7b6ce823240b07a7a85183bfe13af2f37114fdaf"/>
 	</game>
-	<game name="Call of Duty 3 (USA) (Bonus Disc) (PS2 Game Bundle)" id="53886">
-		<category>Bonus Discs</category>
-		<description>Call of Duty 3 (USA) (Bonus Disc) (PS2 Game Bundle)</description>
-		<rom name="Call of Duty 3 (USA) (Bonus Disc) (PS2 Game Bundle).iso" size="629766144" crc="1712ad3a" md5="823bd8d5e6dfffb5da5b8d2c340c0b8e" sha1="ddfeb67172d816904199b1bceb004d5425343fe1"/>
-	</game>
 	<game name="Call of Duty 3 (USA) (Bonus Disc) (Xbox 360 Game Bundle)" id="71574">
 		<category>Bonus Discs</category>
 		<description>Call of Duty 3 (USA) (Bonus Disc) (Xbox 360 Game Bundle)</description>
 		<rom name="Call of Duty 3 (USA) (Bonus Disc) (Xbox 360 Game Bundle).iso" size="1825253376" crc="3de1bb51" md5="23a25ca74331d2e41ae82201e460e82c" sha1="0bc50a81956f7a66d3f125b95e0d13185a7c8711"/>
+	</game>
+	<game name="Call of Duty 3 - Bonus Disc (USA) (PS2 Game Bundle)" id="53886">
+		<category>Bonus Discs</category>
+		<description>Call of Duty 3 - Bonus Disc (USA) (PS2 Game Bundle)</description>
+		<rom name="Call of Duty 3 - Bonus Disc (USA) (PS2 Game Bundle).iso" size="629766144" crc="1712ad3a" md5="823bd8d5e6dfffb5da5b8d2c340c0b8e" sha1="ddfeb67172d816904199b1bceb004d5425343fe1"/>
 	</game>
 	<game name="Call of Duty 3 - Sneak Peek into Call of Duty 3 DVD (USA)" id="110538">
 		<category>Bonus Discs</category>
@@ -836,10 +836,10 @@
 		<description>Dante's Inferno - Death Edition (Europe) (En,Fr,De,Es,It) (Bonus Disc) (Multisystem Game Bundle)</description>
 		<rom name="Dante's Inferno - Death Edition (Europe) (En,Fr,De,Es,It) (Bonus Disc) (Multisystem Game Bundle).iso" size="2641494016" crc="5d6ab715" md5="dc072875f0d746332a053316831e369e" sha1="28ed5087bebc1b01651154940fea86c2c45b489e"/>
 	</game>
-	<game name="Dark Messiah - Might and Magic (USA) (Making of Video &amp; Game Trailers Disc) (PC Game Bundle)" id="79649">
+	<game name="Dark Messiah - Might and Magic (USA) (Making of Video &amp; Game Trailers) (PC Game Bundle)" id="79649">
 		<category>Bonus Discs</category>
-		<description>Dark Messiah - Might and Magic (USA) (Making of Video &amp; Game Trailers Disc) (PC Game Bundle)</description>
-		<rom name="Dark Messiah - Might and Magic (USA) (Making of Video &amp; Game Trailers Disc) (PC Game Bundle).iso" size="2991030272" crc="721b0314" md5="2f3b36fcdd94c7ea7d1ba64f803c7a7e" sha1="abe0af7a5226cd423d62cd798a2db55792ac92de"/>
+		<description>Dark Messiah - Might and Magic (USA) (Making of Video &amp; Game Trailers) (PC Game Bundle)</description>
+		<rom name="Dark Messiah - Might and Magic (USA) (Making of Video &amp; Game Trailers) (PC Game Bundle).iso" size="2991030272" crc="721b0314" md5="2f3b36fcdd94c7ea7d1ba64f803c7a7e" sha1="abe0af7a5226cd423d62cd798a2db55792ac92de"/>
 	</game>
 	<game name="Dark Souls - Behind The Scenes (Europe) (En,Fr,De,Es,It)" id="67553">
 		<category>Bonus Discs</category>
@@ -1860,6 +1860,11 @@
 		<category>Bonus Discs</category>
 		<description>Hellgate - London (Korea) (Bonus Disc, Making Film &amp; Soundtrack) (PC Game Bundle)</description>
 		<rom name="Hellgate - London (Korea) (Bonus Disc, Making Film &amp; Soundtrack) (PC Game Bundle).iso" size="4119955456" crc="afee4259" md5="c56218a8866801a57c3edf34fcc86a46" sha1="d2b0d1b8d2c9ebaf5fcc5ed0cb0aa7f7802fa820"/>
+	</game>
+	<game name="Hellgate - London - Bonus Disc (USA)" id="137209">
+		<category>Bonus Discs</category>
+		<description>Hellgate - London - Bonus Disc (USA)</description>
+		<rom name="Hellgate - London - Bonus Disc (USA).iso" size="3645898752" crc="9d1a53c5" md5="957a526e2c445934c144113e32d09ab9" sha1="9289a517273626052e2ba8be6d1a1881f77479d6"/>
 	</game>
 	<game name="Hiiro no Kakera - Shin Tamayori-hime Denshou - Cast Interview DVD (Japan) (PS2 Game Bundle)" id="75570">
 		<category>Bonus Discs</category>

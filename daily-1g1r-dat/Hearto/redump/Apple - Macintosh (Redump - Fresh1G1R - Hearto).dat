@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (613) (-y) [-aAbBcefkmMoprv] (2026-08-20 09-16-53) (Retool)</description>
-		<version>2026-08-20 09-16-53</version>
-		<date>2026-08-22 03-02-48</date>
+		<description>Apple - Macintosh (615) (-y) [-aAbBcefkmMoprv] (2026-08-22 14-56-53) (Retool)</description>
+		<version>2026-08-22 14-56-53</version>
+		<date>2026-08-23 03-11-45</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2344,6 +2344,18 @@
 		<description>Macintosh - Demo Soft Zenshuu - Shinseihin Tokushuugou (Japan)</description>
 		<rom name="Macintosh - Demo Soft Zenshuu - Shinseihin Tokushuugou (Japan).bin" size="753357360" crc="e2417376" md5="914b85cde24d4b05843564eeae008bbf" sha1="540bbc1093afdaa87b8c260c4e3cbf9e121d2915"/>
 		<rom name="Macintosh - Demo Soft Zenshuu - Shinseihin Tokushuugou (Japan).cue" size="128" crc="cc938fd6" md5="d5c531257d72854fafe9da77e6754536" sha1="62f57942c21805c2266490ad6014e47865f16fc6"/>
+	</game>
+	<game name="Macintosh Demo Applications CD, The (USA)" id="137174">
+		<category>Demos</category>
+		<description>Macintosh Demo Applications CD, The (USA)</description>
+		<rom name="Macintosh Demo Applications CD, The (USA).bin" size="765011520" crc="9f3adcbc" md5="711b87d05be36310daa4189b0f6393b3" sha1="29ff877aec16e3e1e86588e21553a57c3200ed85"/>
+		<rom name="Macintosh Demo Applications CD, The (USA).cue" size="130" crc="a500ed57" md5="e18d83aa5a81803859e45953c4b64afb" sha1="27394d024799f83b4a8e67807c7eea86f752bb76"/>
+	</game>
+	<game name="Macintosh Demo Games CD, The (USA)" id="137173">
+		<category>Demos</category>
+		<description>Macintosh Demo Games CD, The (USA)</description>
+		<rom name="Macintosh Demo Games CD, The (USA).bin" size="206371536" crc="1d4c00f3" md5="8f849e9a1aabcaa659beb688b95042d1" sha1="d2f3477da53c3a83974f8983ebec68378ef03999"/>
+		<rom name="Macintosh Demo Games CD, The (USA).cue" size="123" crc="f1a11339" md5="2315c896d756538b85c7732fb8f427a8" sha1="266ddfcd259e48d8e5e801ba9ad8a2277fa6f556"/>
 	</game>
 	<game name="Macintosh Game 50+ Millennium - Vol.3 (Japan)" id="116139">
 		<category>Demos</category>

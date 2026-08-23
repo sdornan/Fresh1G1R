@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,386) (-y) [-aAbBcdkmMpPuv] (2026-08-22 02-36-54) (Retool)</description>
-		<version>2026-08-22 02-36-54</version>
-		<date>2026-08-22 03-20-31</date>
+		<description>IBM - PC compatible (26,400) (-y) [-aAbBcdkmMpPuv] (2026-08-23 02-56-54) (Retool)</description>
+		<version>2026-08-23 02-56-54</version>
+		<date>2026-08-23 03-34-19</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -59958,11 +59958,17 @@
 		<rom name="GE'G 2 - Nazad v budushhee (Russia).bin" size="829491600" crc="24d9a473" md5="68e3663233d5be5ee2d9c5f79d61e572" sha1="49272cf3fd7f19ee61da259244539cfcd5a5bd4e"/>
 		<rom name="GE'G 2 - Nazad v budushhee (Russia).cue" size="124" crc="345b61c2" md5="cc0797dd20001dd6dbf71ee2df1ebf11" sha1="76d13ad0d0161064d7e7dbbe707b45044ee9fefc"/>
 	</game>
-	<game name="GEG+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia) (Rev 1)" id="66633">
+	<game name="GE'G+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia) (Rev 1)" id="66633">
 		<category>Games</category>
-		<description>GEG+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia) (Rev 1)</description>
-		<rom name="GEG+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia) (Rev 1).bin" size="759940608" crc="9971c0be" md5="b6a6421bbacfdcb2692918e612a34d12" sha1="0c48a60a88644dee7a4c706655eff99028ffbda3"/>
-		<rom name="GEG+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia) (Rev 1).cue" size="131" crc="c02f5b8b" md5="d1a10d1cc79bda2b6afd6a1843ecdf62" sha1="64c350a5ccf23f8eecf72efeedca0ecb2242f476"/>
+		<description>GE'G+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia) (Rev 1)</description>
+		<rom name="GE'G+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia) (Rev 1).bin" size="759940608" crc="9971c0be" md5="b6a6421bbacfdcb2692918e612a34d12" sha1="0c48a60a88644dee7a4c706655eff99028ffbda3"/>
+		<rom name="GE'G+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia) (Rev 1).cue" size="132" crc="95246600" md5="c41867c10ea3c464ea5fe2c263f2663f" sha1="a2c937baaf1218ca20cc6c67daad03b76d8d0411"/>
+	</game>
+	<game name="GEG+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia)" id="111673">
+		<category>Games</category>
+		<description>GEG+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia)</description>
+		<rom name="GEG+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia).bin" size="759940608" crc="3f41d4e2" md5="f2018de205c0737358d4d3016f0fc623" sha1="893c67955d2bb62f748e4c5c07445278522ea2fb"/>
+		<rom name="GEG+ - Otvyaznoe priklyuchenie - Garri v otpuske (Russia).cue" size="123" crc="f1d27c06" md5="40bb72bee212611ba78cb8ee41631eb8" sha1="e0e4a3c2ae59de77fc1d297847063f7130ccec85"/>
 	</game>
 	<game name="GM Rally (Europe)" id="135448">
 		<category>Games</category>
@@ -64351,6 +64357,12 @@
 		<description>Gorcy - Bitva za Shotlandiyu (Russia)</description>
 		<rom name="Gorcy - Bitva za Shotlandiyu (Russia).bin" size="772989504" crc="c69eafbe" md5="dcca5264a2e5bb9d50f59b97df2a51c3" sha1="55cae74f7a3f0d74c9925afcf0e2add6cafbe8ab"/>
 		<rom name="Gorcy - Bitva za Shotlandiyu (Russia).cue" size="103" crc="39e9c447" md5="e806e59a7e67aeb1763cdd26f736bea0" sha1="879c6d572e3f0dd6cdc8dfd2ef5d82258228fec9"/>
+	</game>
+	<game name="Gordi e la Matematica (Italy)" id="137210">
+		<category>Educational</category>
+		<description>Gordi e la Matematica (Italy)</description>
+		<rom name="Gordi e la Matematica (Italy).bin" size="329971488" crc="9f692c8a" md5="7259ffab27752a71b02a0025b47dcca9" sha1="95c71b73edb513ff8d0fdbd2dd0c186c9949918d"/>
+		<rom name="Gordi e la Matematica (Italy).cue" size="95" crc="ed22e61d" md5="6f7dbacb415813457b63fefc075c050c" sha1="388af30473c8e0acaac343b368f907289fb59c68"/>
 	</game>
 	<game name="Gore (Portugal) (Covermount)" id="97946">
 		<category>Games</category>
@@ -90498,12 +90510,6 @@
 		<rom name="Lion (USA).bin" size="357412272" crc="5b72782a" md5="c7dd37c0bc97ef47d8ca101ba94eefe9" sha1="c189984812a98031080b3c802ec43d59e1e56eac"/>
 		<rom name="Lion (USA).cue" size="99" crc="58a25fa5" md5="08fee27e240ebbf4f404ea2f75640e24" sha1="06e979e7fd21bc26fe28d774bae0265b6941e9c9"/>
 	</game>
-	<game name="Lionheart - Legacy of the Crusader (USA) (Bonus Disc)" id="85095">
-		<category>Bonus Discs</category>
-		<description>Lionheart - Legacy of the Crusader (USA) (Bonus Disc)</description>
-		<rom name="Lionheart - Legacy of the Crusader (USA) (Bonus Disc).bin" size="56930160" crc="f08ca878" md5="23b92ed49b3a2329828ffb8b44fc3796" sha1="05f926bcb8b34f47e4f043d30d96851571174db5"/>
-		<rom name="Lionheart - Legacy of the Crusader (USA) (Bonus Disc).cue" size="119" crc="ec0945b9" md5="a5ec42a5ee3a98f2044ad293faf04b09" sha1="ef7b4ce5ad7c826bd3b603e8f6aef9c3b64b28d9"/>
-	</game>
 	<game name="Lionheart - Legacy of the Crusader (USA) (Disc 1)" id="47235">
 		<category>Games</category>
 		<description>Lionheart - Legacy of the Crusader (USA) (Disc 1)</description>
@@ -90515,6 +90521,12 @@
 		<description>Lionheart - Legacy of the Crusader (USA) (Disc 2)</description>
 		<rom name="Lionheart - Legacy of the Crusader (USA) (Disc 2).bin" size="270505872" crc="6f997743" md5="b3cf35da2bb07d75fb9a23d584d0ea70" sha1="fb4b01437367f4f6c51d37f2c88426917f4a6a5e"/>
 		<rom name="Lionheart - Legacy of the Crusader (USA) (Disc 2).cue" size="115" crc="2deeb8f8" md5="584ea9fca9698897050ad5b902e57557" sha1="ccb5059eb73be30cd0cff5bd8529b7b180e13d47"/>
+	</game>
+	<game name="Lionheart - Legacy of the Crusader - Bonus Disc (USA)" id="85095">
+		<category>Bonus Discs</category>
+		<description>Lionheart - Legacy of the Crusader - Bonus Disc (USA)</description>
+		<rom name="Lionheart - Legacy of the Crusader - Bonus Disc (USA).bin" size="56930160" crc="f08ca878" md5="23b92ed49b3a2329828ffb8b44fc3796" sha1="05f926bcb8b34f47e4f043d30d96851571174db5"/>
+		<rom name="Lionheart - Legacy of the Crusader - Bonus Disc (USA).cue" size="119" crc="ffa386e2" md5="77920229bcb7aaed5affd1ff63811232" sha1="69070ef59f32de492f0abd09d9a46d007d60a594"/>
 	</game>
 	<game name="Lionheart Kings' Crusade (Europe)" id="131825">
 		<category>Games</category>
@@ -127335,17 +127347,17 @@
 		<rom name="Pyramid - Il Sogno del Faraone (Italy) (Disc 2).bin" size="638076432" crc="a84e4667" md5="2cdfe35eb0093f6b99ab5e06024fdf19" sha1="0a3702377b8f68e0410dd9ecab3c623337e29cf5"/>
 		<rom name="Pyramid - Il Sogno del Faraone (Italy) (Disc 2).cue" size="136" crc="47c29835" md5="dd333ea842573550b9a92004bde654fc" sha1="adb94a2fb8c13c39ab56e0beb7d3bd4d8c03490c"/>
 	</game>
-	<game name="Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 1)" id="118918">
+	<game name="Pyramiden - Gatan vid Nilens strand (Sweden) (Disc 1)" id="118918">
 		<category>Games</category>
-		<description>Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 1)</description>
-		<rom name="Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 1).bin" size="498499344" crc="92e2bca1" md5="2d1f11a70f662f0a305d9117badc522b" sha1="ad6b437340b090a045b15243fa7788d8bd562fd3"/>
-		<rom name="Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 1).cue" size="119" crc="085b767b" md5="81d8032985b82a9a8187ddc3efab2176" sha1="2b023f6be6e57f0f44ba83db9e011f5e6ad9ae24"/>
+		<description>Pyramiden - Gatan vid Nilens strand (Sweden) (Disc 1)</description>
+		<rom name="Pyramiden - Gatan vid Nilens strand (Sweden) (Disc 1).bin" size="498499344" crc="92e2bca1" md5="2d1f11a70f662f0a305d9117badc522b" sha1="ad6b437340b090a045b15243fa7788d8bd562fd3"/>
+		<rom name="Pyramiden - Gatan vid Nilens strand (Sweden) (Disc 1).cue" size="119" crc="93f04e54" md5="a2ebc3191eee3f5ed25fa76c258abe1b" sha1="c903353a36ffd929457729e0b25fa75bc70fd45c"/>
 	</game>
-	<game name="Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 2)" id="118919">
+	<game name="Pyramiden - Gatan vid Nilens strand (Sweden) (Disc 2)" id="118919">
 		<category>Educational</category>
-		<description>Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 2)</description>
-		<rom name="Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 2).bin" size="599313120" crc="ee406ade" md5="16143f3d910ecde24586350557013298" sha1="e500152d36242f54596c05cb15eeb712a89c1ad7"/>
-		<rom name="Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 2).cue" size="119" crc="090650aa" md5="79cfb096fb70eb0921a0a3fc54a3305c" sha1="47859dfbe48b9a43f354e53bacd12682c26dca70"/>
+		<description>Pyramiden - Gatan vid Nilens strand (Sweden) (Disc 2)</description>
+		<rom name="Pyramiden - Gatan vid Nilens strand (Sweden) (Disc 2).bin" size="599313120" crc="ee406ade" md5="16143f3d910ecde24586350557013298" sha1="e500152d36242f54596c05cb15eeb712a89c1ad7"/>
+		<rom name="Pyramiden - Gatan vid Nilens strand (Sweden) (Disc 2).cue" size="119" crc="92ad6885" md5="349d750af84aab8713593cc3ce897681" sha1="e8403ec50732dfd1d3dd8ab232348eebbcea17cf"/>
 	</game>
 	<game name="Pyrates - Command the Crew, Rule the Seas! Volume 1 (Europe) (En,Fr,De,Es)" id="116630">
 		<category>Games</category>
@@ -130514,6 +130526,12 @@
 		<description>Reaches (USA)</description>
 		<rom name="Reaches (USA).bin" size="737862384" crc="0126e623" md5="d333e539b7c40862886f4f712fd69d88" sha1="0036b48f29c8e30d02dd60ca158809520266eb20"/>
 		<rom name="Reaches (USA).cue" size="79" crc="07da69cc" md5="7911000435a67c806c9d0cdc69571521" sha1="36fcfb1edb7edd509ec6bef6cf771f80a9425928"/>
+	</game>
+	<game name="Reactor (Italy)" id="137206">
+		<category>Games</category>
+		<description>Reactor (Italy)</description>
+		<rom name="Reactor (Italy).bin" size="217861056" crc="fe506896" md5="52e684c8b6094cdd46a4f01c7da3d92b" sha1="9115ddc09b40ba7de01f9548d88a0a8c45dcfa36"/>
+		<rom name="Reactor (Italy).cue" size="81" crc="11b48699" md5="1d836ef54358d2909f952501446eebd1" sha1="ecf35931dc55d7a3b035912a724813a0e2d76418"/>
 	</game>
 	<game name="Read with Me 1&amp;2 &amp; Memphis Math (USA) (OEM)" id="79507">
 		<category>Games</category>
@@ -143003,6 +143021,11 @@
 		<category>Games</category>
 		<description>Settlers, The - Rise of an Empire (USA) (En,Fr,Es)</description>
 		<rom name="Settlers, The - Rise of an Empire (USA) (En,Fr,Es).iso" size="3373115392" crc="723f78f1" md5="4feb2ac54c533aeff508e21ac36f0035" sha1="dc810a124d5c79a72b0b352de54a0cf7ab9d9f3e"/>
+	</game>
+	<game name="Settlers, The - Rise of an Empire - Bonus DVD (Europe) (PC Game Bundle)" id="137214">
+		<category>Bonus Discs</category>
+		<description>Settlers, The - Rise of an Empire - Bonus DVD (Europe) (PC Game Bundle)</description>
+		<rom name="Settlers, The - Rise of an Empire - Bonus DVD (Europe) (PC Game Bundle).iso" size="435617792" crc="dd8f4fb6" md5="62d4fe5d8b8cf978c473fc9334281760" sha1="5fb1781350dc612cb22463ca2606669224bd4b99"/>
 	</game>
 	<game name="Settlers, The - Rise of an Empire - Gold Edition (USA) (En,Fr,Es)" id="132585">
 		<category>Games</category>
@@ -155776,6 +155799,48 @@
 		<description>Star Wars Galaxies - The Complete Online Adventures (USA, Europe) (Bonus DVD)</description>
 		<rom name="Star Wars Galaxies - The Complete Online Adventures (USA, Europe) (Bonus DVD).iso" size="2911633408" crc="f27e2062" md5="c4972db1a7783df0a241286e0105b396" sha1="dc64555752e3d28194260aad241a8bd90dde08a8"/>
 	</game>
+	<game name="Star Wars Galaxies - The Total Experience (USA) (Disc 2)" id="137191">
+		<category>Games</category>
+		<description>Star Wars Galaxies - The Total Experience (USA) (Disc 2)</description>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 2).bin" size="832596240" crc="fe9c38ac" md5="320be1035f4f4be7a0fce707af7f9295" sha1="289a8e7bbf313183f4f60d572231940424a931c1"/>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 2).cue" size="122" crc="6b4c1940" md5="6465ad5d895e9d8b296e1da6b38c49df" sha1="297b95fe9a7dfbdd7e02bb3757dbb2d4fe1b7f3f"/>
+	</game>
+	<game name="Star Wars Galaxies - The Total Experience (USA) (Disc 3)" id="137190">
+		<category>Games</category>
+		<description>Star Wars Galaxies - The Total Experience (USA) (Disc 3)</description>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 3).bin" size="832596240" crc="5041755b" md5="442efd1db8d3a2800fb3f4315ee921d3" sha1="ebe56a2a5ebaed90e0a36339731c3734b55faa72"/>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 3).cue" size="122" crc="dd57f930" md5="667aaceb3dec475290795d28a87a977c" sha1="605ab81b06e5f86529cf4a6d774377b145a3da34"/>
+	</game>
+	<game name="Star Wars Galaxies - The Total Experience (USA) (Disc 4)" id="137189">
+		<category>Games</category>
+		<description>Star Wars Galaxies - The Total Experience (USA) (Disc 4)</description>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 4).bin" size="832596240" crc="8ecb4151" md5="3d121fa997aa63693da38f6a9727cff9" sha1="db9f17e5a6ee336f733c4eea5e08ce35a3f38f00"/>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 4).cue" size="122" crc="69f654e2" md5="46d13b0cfdb397176536a0c1caeb0e78" sha1="ac3a287a9b2ab157cf526965bac2c24f553da727"/>
+	</game>
+	<game name="Star Wars Galaxies - The Total Experience (USA) (Disc 5)" id="137188">
+		<category>Games</category>
+		<description>Star Wars Galaxies - The Total Experience (USA) (Disc 5)</description>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 5).bin" size="560081760" crc="61252242" md5="2c901349ccab0c0ae61c5c1ff45ca834" sha1="3f5b98e94d4687e4a7c7f81e4112d4abb9a77870"/>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 5).cue" size="122" crc="dfedb492" md5="280250c175691c4af0bc73f486aabbeb" sha1="e94414937dcdb48667dbc7d0512e2dfed7bc3a32"/>
+	</game>
+	<game name="Star Wars Galaxies Starter Kit (USA) (Disc 1)" id="137187">
+		<category>Games</category>
+		<description>Star Wars Galaxies Starter Kit (USA) (Disc 1)</description>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 1).bin" size="839908608" crc="498bd235" md5="ab6702653e314a485e97c3bcb2d649ee" sha1="729b6b2aab135e01535e5efda85ef2ca83f3f4b8"/>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 1).cue" size="111" crc="a006fc76" md5="2677a7dc9e46c3686812a8b52e27656f" sha1="8cd2afad06ce25a12ef7174079a707e9c59ff8ed"/>
+	</game>
+	<game name="Star Wars Galaxies Starter Kit (USA) (Disc 2)" id="137186">
+		<category>Games</category>
+		<description>Star Wars Galaxies Starter Kit (USA) (Disc 2)</description>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 2).bin" size="831634272" crc="11fee02b" md5="fdcb453c4e062ab77258d44f08194821" sha1="e8101e59b9148c850cb8bf3c50d35dd3b4a15693"/>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 2).cue" size="111" crc="a15bdaa7" md5="a7810d335579df3e495a5f2679728c38" sha1="5052e694132709c1686776c1bb8d443be25b3a25"/>
+	</game>
+	<game name="Star Wars Galaxies Starter Kit (USA) (Disc 3)" id="137185">
+		<category>Games</category>
+		<description>Star Wars Galaxies Starter Kit (USA) (Disc 3)</description>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 3).bin" size="831634272" crc="788690b0" md5="c408869a4157846124127f4cd87626d3" sha1="1cf8dd6618c52f2837e94fa2cfc28776b68dfe1c"/>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 3).cue" size="111" crc="17403ad7" md5="abdd9574e807c5f24621ace8f6385964" sha1="17c5f79ab44c706f2d4fc8e92e21366934c5dc92"/>
+	</game>
 	<game name="Star Wars Galaxies Starter Kit (USA) (Disc 4)" id="135775">
 		<category>Games</category>
 		<description>Star Wars Galaxies Starter Kit (USA) (Disc 4)</description>
@@ -167818,6 +167883,11 @@
 		<rom name="Traitors Gate 2 (USA).bin" size="731704848" crc="9b79314f" md5="a72d0d45686e60397a1e99473060e51b" sha1="54d6eefd3d2131fb48711e568d1f74354bb6ee29"/>
 		<rom name="Traitors Gate 2 (USA).cue" size="87" crc="cef2c650" md5="6c8fe8ff1bf3b771823ef36c8c3323ee" sha1="7afba2f040c45384323bebdf49a765bfe1eff78d"/>
 	</game>
+	<game name="TramSim Munich (Germany)" id="137198">
+		<category>Games</category>
+		<description>TramSim Munich (Germany)</description>
+		<rom name="TramSim Munich (Germany).iso" size="4423680" crc="61a9dd2c" md5="a7c9137e99e07f908a8e2b644cfe51b5" sha1="56da3b48c58a153fac810bc76d8bb8aafc894c4f"/>
+	</game>
 	<game name="Trans Europe Express &amp; Graue Maus (Switzerland)" id="136951">
 		<category>Add-Ons</category>
 		<description>Trans Europe Express &amp; Graue Maus (Switzerland)</description>
@@ -168849,11 +168919,11 @@
 		<rom name="Trudovoj e'kstaz - Zhenskij kollektiv (Russia).bin" size="841576176" crc="8b72d434" md5="7c2db9e39ad2de9b0edd21e71e633ae3" sha1="7ccb954d50d20239616c371841ce295c906694c7"/>
 		<rom name="Trudovoj e'kstaz - Zhenskij kollektiv (Russia).cue" size="112" crc="128746ec" md5="11d7d9a5f38e387ac770d4e073fdb202" sha1="0a57f4dfaf6ac8c96d323d567f53b6e1433716c8"/>
 	</game>
-	<game name="Trudy's Time &amp; Place House (USA)" id="84977">
+	<game name="Trudy's Time &amp; Place House (USA)" id="137217">
 		<category>Educational</category>
 		<description>Trudy's Time &amp; Place House (USA)</description>
-		<rom name="Trudy's Time &amp; Place House (USA).bin" size="542093664" crc="cca1d271" md5="00deb7a3c6cf6ba99701316b36e728bf" sha1="c9cf7160c8600fead8aee6f4bf0a36097c8bcbaa"/>
-		<rom name="Trudy's Time &amp; Place House (USA).cue" size="98" crc="f2e14b13" md5="d607b5e4ee207028492c02cd9c42b2a1" sha1="444566bae9d55c91ba5fd32b083f6de4565c8f5a"/>
+		<rom name="Trudy's Time &amp; Place House (USA).bin" size="560241696" crc="feb53a81" md5="eda5a38c97eecbb6bf83b4ce5cd8d99c" sha1="967f967bcb26da7b2002fcfcd52864765d226e8d"/>
+		<rom name="Trudy's Time &amp; Place House (USA).cue" size="121" crc="0fe4bdd1" md5="bf36975afc1b367acef6d510369c6ec9" sha1="ef9066224aab5d9ccc7c07004f091f1828f5f685"/>
 	</game>
 	<game name="True Crime - New York City (Europe)" id="29648">
 		<category>Games</category>
@@ -170030,6 +170100,18 @@
 		<description>UEFA Euro 2000 (Italy)</description>
 		<rom name="UEFA Euro 2000 (Italy).bin" size="600096336" crc="4259bed6" md5="8afc46c77ba13c81f2fe0a2034c76b89" sha1="cdbb8629eb1a3b271526aeaa7c93ea85d1f3f097"/>
 		<rom name="UEFA Euro 2000 (Italy).cue" size="88" crc="579f387f" md5="38c498e3239f0d0113c59154213b9dbc" sha1="ae7f22ba1e39de7a0a16fa36706760945e90afdb"/>
+	</game>
+	<game name="UEFA Euro 2004 - Portugal (Italy) (Disc 1)" id="137196">
+		<category>Games</category>
+		<description>UEFA Euro 2004 - Portugal (Italy) (Disc 1)</description>
+		<rom name="UEFA Euro 2004 - Portugal (Italy) (Disc 1).bin" size="824441856" crc="b67aa791" md5="4703db5f608820f13f5d5d1d144be41e" sha1="9219fc86bfc85ef80f71bae9646f355a7179551d"/>
+		<rom name="UEFA Euro 2004 - Portugal (Italy) (Disc 1).cue" size="108" crc="3e069bb4" md5="cfcdce75a42d67c0bf0ae677e53a4a04" sha1="2664ca456e4e5d6be6e3a382b039a371d748a497"/>
+	</game>
+	<game name="UEFA Euro 2004 - Portugal (Italy) (Disc 2)" id="137197">
+		<category>Games</category>
+		<description>UEFA Euro 2004 - Portugal (Italy) (Disc 2)</description>
+		<rom name="UEFA Euro 2004 - Portugal (Italy) (Disc 2).bin" size="577670016" crc="23e3157d" md5="2c9588f39e46ebb2b063f33482d744fc" sha1="f0e07e8d80d1bc605603f6613bbcda57035d3860"/>
+		<rom name="UEFA Euro 2004 - Portugal (Italy) (Disc 2).cue" size="108" crc="3f5bbd65" md5="3497ad01533ddc22303be615f0583db8" sha1="166cd8819013a547c5cffa09363a0cd405a2eee4"/>
 	</game>
 	<game name="UEFA Euro 2008 - Austria-Switzerland (Europe) (En,Nl,Sv,Pl,Ru)" id="118372">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD (Retool)</name>
-		<description>Commodore - Amiga CD (78) (-y) [-aAbBcefkmMoprv] (2026-08-13 18-06-55) (Retool)</description>
-		<version>2026-08-13 18-06-55</version>
-		<date>2026-08-22 03-03-09</date>
+		<description>Commodore - Amiga CD (79) (-y) [-aAbBcefkmMoprv] (2026-08-22 22-16-53) (Retool)</description>
+		<version>2026-08-22 22-16-53</version>
+		<date>2026-08-23 03-12-10</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -70,6 +70,12 @@
 		<description>Code Name Hell Squad (Europe)</description>
 		<rom name="Code Name Hell Squad (Europe).bin" size="497892528" crc="9b0ffb99" md5="5b6ee505e71d2d5fa80c2118c0da4b14" sha1="86252aec3ca2e863b5727b3f67f1a036f1459772"/>
 		<rom name="Code Name Hell Squad (Europe).cue" size="95" crc="ff778d75" md5="98053eae6837e48cfdf818cbf7c20356" sha1="675c2e0914133b4341adb2edc9feed6d226229f5"/>
+	</game>
+	<game name="Demomania I (Germany) (En,De)" id="78395">
+		<category>Demos</category>
+		<description>Demomania I (Germany) (En,De)</description>
+		<rom name="Demomania I (Germany) (En,De).bin" size="313747392" crc="78b38466" md5="3ab0696064f980aab415e57b4827f0e9" sha1="8281f05c38dddf0181e6da262e9e3d474ee0dc6e"/>
+		<rom name="Demomania I (Germany) (En,De).cue" size="118" crc="12ab0f13" md5="fb552db1933583e62e299823b3a5237a" sha1="14ce47f8ac0cd7743e576ce07573e2a28a5eacba"/>
 	</game>
 	<game name="Descent - FreeSpace - The Great War (Europe)" id="58950">
 		<category>Games</category>

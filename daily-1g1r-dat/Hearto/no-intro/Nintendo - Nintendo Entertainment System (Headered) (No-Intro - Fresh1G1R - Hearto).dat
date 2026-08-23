@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,827) (-y) [-aAbBcefkmMoprv] (20260821-045634) (Retool)</description>
-		<version>20260821-045634</version>
-		<date>2026-08-22 03-07-29</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,826) (-y) [-aAbBcefkmMoprv] (20260822-034651) (Retool)</description>
+		<version>20260822-034651</version>
+		<date>2026-08-23 03-17-11</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6272,20 +6272,10 @@
 		<description>Puzslot (Japan)</description>
 		<rom name="Puzslot (Japan).nes" size="262160" header="4e 45 53 1a 08 10 10 08 00 00 00 00 00 00 00 01" crc="08449023" md5="71a1e83a46701ad26839c35b61fbe8ae" sha1="8d0fcbeadd4524d5f648b88c2bf47506025d466a" sha256="e59a6d5e4291d6840a9c28c96b76b774bd713fd5ff0e325381522e814c365881"/>
 	</game>
-	<game name="Puzzle (USA) (1 EPROM) (Unl)" id="8316">
+	<game name="Puzzle (USA) (v1.1) (Unl)" id="8530">
 		<category>Games</category>
-		<description>Puzzle (USA) (1 EPROM) (Unl)</description>
-		<rom name="Puzzle (USA) (1 EPROM) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 f0 48 00 00 00 00 00 00 00 01" crc="ccc39fba" md5="dd5011fcf7327c5b9a42204e0f624bbc" sha1="4053b4d994f3ebaf98e6e9ab2d12d3af584e7beb" sha256="326591a3359e176fdb7e8262d8ada231b8d4395bfd55a6be9b567ecb14f53db7"/>
-	</game>
-	<game name="Puzzle (USA) (2 EPROMs) (Unl)" id="8315">
-		<category>Games</category>
-		<description>Puzzle (USA) (2 EPROMs) (Unl)</description>
-		<rom name="Puzzle (USA) (2 EPROMs) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 f0 48 00 00 00 00 00 00 00 01" crc="ea3683a6" md5="82de4071ec443df0e3e7149acecefed2" sha1="a001a799541c195aba55479045668fe9323f93b4" sha256="d003892185b350ce3999de4f5a5d78b3590020b771bf0a552f1aa27ed7061758"/>
-	</game>
-	<game name="Puzzle (USA) (Unl)" id="1743">
-		<category>Games</category>
-		<description>Puzzle (USA) (Unl)</description>
-		<rom name="Puzzle (USA) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 f0 48 00 00 00 00 00 00 00 01" crc="e1c17037" md5="a863dbea87b24dc522a13c625d875f82" sha1="715eb765cf369b00585e5080ad03398488a73b93" sha256="03f60c1d620a914cf1a71ec391e621e320d50e0cd71bdc4cc927e86be53690ad"/>
+		<description>Puzzle (USA) (v1.1) (Unl)</description>
+		<rom name="Puzzle (USA) (v1.1) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 f0 48 00 00 00 00 00 00 00 01" crc="205634a7" md5="08c45923e6d89b8e4689842d4b121887" sha1="4a222b5fb82791ebd1e811a6d7d130aba8efaa0b" sha256="9b6b692720e2832845fff677bbda11c49b6f3bb637b2ceb3ec9e243f7057196d"/>
 	</game>
 	<game name="Puzznic (USA)" id="1747">
 		<category>Games</category>
@@ -6652,10 +6642,10 @@
 		<description>Roundball - 2-on-2 Challenge (USA)</description>
 		<rom name="Roundball - 2-on-2 Challenge (USA).nes" size="262160" header="4e 45 53 1a 08 10 40 08 00 00 07 00 00 00 00 02" crc="2a6ec35b" md5="ba468562f172a28ab6bb74dd1f7e29cf" sha1="eb23642fd7edd4916fc61a1f9ae8c16b36f0f950" sha256="570da4e543e7887cd0416e5a0d05f55b021e965d84725d60fd69bd2e6fb5c29d"/>
 	</game>
-	<game name="Route-16 Turbo (Japan)" id="1867">
+	<game name="Route-16 Turbo (Japan) (En) (Rev 1)" id="8540">
 		<category>Games</category>
-		<description>Route-16 Turbo (Japan)</description>
-		<rom name="Route-16 Turbo (Japan).nes" size="40976" header="4e 45 53 1a 02 01 00 08 00 00 00 00 00 00 00 01" crc="114e118f" md5="d6b632dd54713077ccbd28150feda8d4" sha1="94a57b4d3d7033bacfa0ac9b0b0adaf03bdfd5ea" sha256="20cb0d8e549a629bc853b6fb22b83cf78bc75d38e9b327455394d3538e60548b"/>
+		<description>Route-16 Turbo (Japan) (En) (Rev 1)</description>
+		<rom name="Route-16 Turbo (Japan) (En) (Rev 1).nes" size="40976" header="4e 45 53 1a 02 01 00 08 00 00 00 00 00 00 00 01" crc="75b24d19" md5="9fb658b7acc0d6a6bcceaaccab98baeb" sha1="a595708513c885a5430c4ab91da36c937d6e8346" sha256="b7bdfb633dd4e93fae6535604e93d1e9daefa505c0b44066cf288258f8ee9929"/>
 	</game>
 	<game name="Rush'n Attack (USA)" id="1872">
 		<category>Games</category>
@@ -8790,6 +8780,13 @@
 		<category>Games</category>
 		<description>Wario's Woods (USA)</description>
 		<rom name="Wario's Woods (USA).nes" size="524304" header="4e 45 53 1a 10 20 42 08 00 00 70 00 00 00 00 01" crc="0f8d9597" md5="6d3b1536daad89bef456600c2abe79e5" sha1="0d6bc457ca0da0210ff45f966dc8116e407e1336" sha256="6f265e6433ba432e033eb397b11abf3f759178742dc644fd21e6ac29d1f8b3a6"/>
+	</game>
+	<game name="Wario's Woods (USA) (Sample)" id="8521">
+		<category>Demos</category>
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Wario's Woods (USA) (Sample)</description>
+		<rom name="Wario's Woods (USA) (Sample).nes" size="524304" header="4e 45 53 1a 10 20 42 08 00 00 70 00 00 00 00 01" crc="ce5e3451" md5="aaf8cd26a343928487d57a080eef4403" sha1="93da8b98d499bf4037795628098c06fddf091533" sha256="7d843b98571ed84394e15947ded58c05351042b0cb2dba725eabd11fd9fadc05"/>
 	</game>
 	<game name="Warpman (Japan) (En)" id="2449">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Philips - CD-i (Retool)</name>
-		<description>Philips - CD-i (297) (-y) [-aAbBcefkmMoprv] (2026-08-19 20-58-34) (Retool)</description>
-		<version>2026-08-19 20-58-34</version>
-		<date>2026-08-22 03-05-37</date>
+		<description>Philips - CD-i (297) (-y) [-aAbBcefkmMoprv] (2026-08-22 22-16-55) (Retool)</description>
+		<version>2026-08-22 22-16-55</version>
+		<date>2026-08-23 03-15-12</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -393,7 +393,7 @@
 		<serial>3104 128 90811</serial>
 		<version>1.01</version>
 		<rom name="CDI 450 - Tutorial Disc (Europe) (En,Fr,De,Es,It,Nl,Pt).bin" size="532904400" crc="59163833" md5="b706cb7d4ccb69fb479f8cd9c4fa4c90" sha1="71b9e82245ce904a6da7522c5b41163fce954aed"/>
-		<rom name="CDI 450 - Tutorial Disc (Europe) (En,Fr,De,Es,It,Nl,Pt).cue" size="142" crc="3dd0c41d" md5="65a4154a60938b690a915d25ea152db8" sha1="d8b2c3d867b27a0770a9a4678f03a3ea0c7bb63d"/>
+		<rom name="CDI 450 - Tutorial Disc (Europe) (En,Fr,De,Es,It,Nl,Pt).cue" size="144" crc="8b722c90" md5="db9f1514e0188e04aaa63ec363c122a5" sha1="22db82be44fb2e687181e466a4d0c31a55b21ea8"/>
 	</game>
 	<game name="CDI 470 - Tutorial Disc (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" id="47126">
 		<category>Demos</category>
@@ -1675,7 +1675,7 @@
 		<description>Pinball (World)</description>
 		<serial>310-690-034-2, 310-690-157-2, 310690034-2, 699 034-2, 813 0006, 814 0041, 815 0016, PCIM-00003</serial>
 		<rom name="Pinball (World).bin" size="88552800" crc="0f949411" md5="0bc117af3a3f025bd0245330c289cacd" sha1="7f51ccf082e06b7fa1867cf8d2dce7b207759bb2"/>
-		<rom name="Pinball (World).cue" size="79" crc="000ad5b9" md5="221f05799c0ccde16f312ecbf8946a6e" sha1="99448b9a19b00932727c4e564e378b790458ac74"/>
+		<rom name="Pinball (World).cue" size="81" crc="2ba94855" md5="506f60c340adf7f64c9a53bcefccc038" sha1="83672d9ce580de27fa608f0546afe8b12182c9bc"/>
 	</game>
 	<game name="Plunderball (USA) (Unl)" id="78869">
 		<category>Games</category>
@@ -1751,7 +1751,7 @@
 		<description>Salis Cirkus Aventyr (Sweden)</description>
 		<serial>817 0011</serial>
 		<rom name="Salis Cirkus Aventyr (Sweden).bin" size="485989056" crc="7c9a0bdb" md5="0ccb052e6542f81f335247a377e526d2" sha1="5e4e8d49bcc6afe0597b25a2b34fb5a5b1370557"/>
-		<rom name="Salis Cirkus Aventyr (Sweden).cue" size="116" crc="f3662da8" md5="897348896444db90227729e2f447b799" sha1="406f78cad033d4af16bef4137a76d7cf23acd481"/>
+		<rom name="Salis Cirkus Aventyr (Sweden).cue" size="118" crc="cb16e207" md5="9c2f08369e65afd92ed3a3f4faae26a3" sha1="1c65fbaa9f253b76edee8f226cbd3816cb30274b"/>
 	</game>
 	<game name="Sandy's Circus Adventure (USA, Europe)" id="72900">
 		<category>Games</category>

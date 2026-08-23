@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (897) (-y) [-aAbBcefkmMoprv] (2026-08-20 09-28-19) (Retool)</description>
-		<version>2026-08-20 09-28-19</version>
-		<date>2026-08-22 03-05-07</date>
+		<description>Microsoft - Xbox One (899) (-y) [-aAbBcefkmMoprv] (2026-08-22 20-06-53) (Retool)</description>
+		<version>2026-08-22 20-06-53</version>
+		<date>2026-08-23 03-14-35</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -421,10 +421,15 @@
 		<description>Biomutant (Russia)</description>
 		<rom name="Biomutant (Russia).iso" size="22978238464" crc="2dcbb628" md5="1cc7b04485b4e22fedae106602b31c29" sha1="84ef928dcf7bb66995e2036e81efa8eb81e94e26"/>
 	</game>
-	<game name="Black Mirror (USA)" id="103090">
+	<game name="Black Desert (Germany) (En,Ja,Fr,De,Es,Zh,Ko)" id="137180">
 		<category>Games</category>
-		<description>Black Mirror (USA)</description>
-		<rom name="Black Mirror (USA).iso" size="22978238464" crc="f7e6f00f" md5="4441ba74d40d341977c297e1440ddbbc" sha1="1adc34d2039fe33bb1751ff1466c27c1ed760555"/>
+		<description>Black Desert (Germany) (En,Ja,Fr,De,Es,Zh,Ko)</description>
+		<rom name="Black Desert (Germany) (En,Ja,Fr,De,Es,Zh,Ko).iso" size="49999802368" crc="e8a0543e" md5="3dba26e414389fd75cad7f345a585746" sha1="3c492f9ea741dfc01369e30a3bef264787cd1a3f"/>
+	</game>
+	<game name="Black Mirror (USA, Europe)" id="103090">
+		<category>Games</category>
+		<description>Black Mirror (USA, Europe)</description>
+		<rom name="Black Mirror (USA, Europe).iso" size="22978238464" crc="f7e6f00f" md5="4441ba74d40d341977c297e1440ddbbc" sha1="1adc34d2039fe33bb1751ff1466c27c1ed760555"/>
 	</game>
 	<game name="Blackguards 2 (USA)" id="103036">
 		<category>Games</category>
@@ -2775,6 +2780,11 @@
 		<category>Games</category>
 		<description>Nickelodeon Kart Racers 3 - Slime Speedway (USA)</description>
 		<rom name="Nickelodeon Kart Racers 3 - Slime Speedway (USA).iso" size="22978238464" crc="14e12449" md5="5169ef597e7eb40d9a92b889309f71d4" sha1="62dd5d320287008ac21e822b54645dbf1c34dfe1"/>
+	</game>
+	<game name="Nickelodeon SpongeBob SquarePants - The Cosmic Shake (USA)" id="137193">
+		<category>Games</category>
+		<description>Nickelodeon SpongeBob SquarePants - The Cosmic Shake (USA)</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - The Cosmic Shake (USA).iso" size="22978238464" crc="ede281fb" md5="ea06a5cc03dcf84587f3894dea9a8597" sha1="55cbfb8d78cb2c41309eb568a3208698413e51cd"/>
 	</game>
 	<game name="Nier Replicant Ver. 1.22474487139... (USA)" id="86549">
 		<category>Games</category>

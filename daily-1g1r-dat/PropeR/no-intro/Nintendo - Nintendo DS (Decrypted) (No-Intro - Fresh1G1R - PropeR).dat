@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,715) (-y) [-aAbBcdkmMpPuv] (20260821-054501) (Retool)</description>
-		<version>20260821-054501</version>
-		<date>2026-08-22 03-27-27</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,715) (-y) [-aAbBcdkmMpPuv] (20260822-034803) (Retool)</description>
+		<version>20260822-034803</version>
+		<date>2026-08-23 03-41-58</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -119,7 +119,7 @@
 	<game name="1500 DS Spirits - Shougi V (Japan)" id="4549">
 		<category>Games</category>
 		<description>1500 DS Spirits - Shougi V (Japan)</description>
-		<rom name="1500 DS Spirits - Shougi V (Japan).nds" size="8388608" crc="14410f3c" md5="acf38a337bc848b7186065925f34b4c5" sha1="bd43c2669cfd86806750e55da0b4db8fe6ef925e"/>
+		<rom name="1500 DS Spirits - Shougi V (Japan).nds" size="8388608" crc="14410f3c" md5="acf38a337bc848b7186065925f34b4c5" sha1="bd43c2669cfd86806750e55da0b4db8fe6ef925e" sha256="843bb8890a3b9429e5c0e71324f3d88685b9309d6ad235b033de7db8e4d95a48"/>
 	</game>
 	<game name="1500 DS Spirits Vol. 1 - Mahjong (Japan)" id="1314">
 		<category>Games</category>
@@ -329,7 +329,7 @@
 	<game name="ALC no 10-punkan Eigo Master - Joukyuu (Japan) (Rev 1)" id="1254">
 		<category>Games</category>
 		<description>ALC no 10-punkan Eigo Master - Joukyuu (Japan) (Rev 1)</description>
-		<rom name="ALC no 10-punkan Eigo Master - Joukyuu (Japan) (Rev 1).nds" size="67108864" crc="4a363f2e" md5="c263c80f3725b79b80d45ae760f5f437" sha1="56c0215accd51092d05f12179609ad9a519604e6"/>
+		<rom name="ALC no 10-punkan Eigo Master - Joukyuu (Japan) (Rev 1).nds" size="67108864" crc="4a363f2e" md5="c263c80f3725b79b80d45ae760f5f437" sha1="56c0215accd51092d05f12179609ad9a519604e6" sha256="ad43d4cdffb7ba6ce7c3c83f51bceb46c412d00db1984ab6c515e866e5f19208"/>
 	</game>
 	<game name="ALC no 10-punkan Eigo Master - Shokyuu (Japan) (Rev 1)" id="6752">
 		<category>Games</category>
@@ -1219,7 +1219,7 @@
 	<game name="Bakusou Dekotora Densetsu Black (Japan)" id="2175">
 		<category>Games</category>
 		<description>Bakusou Dekotora Densetsu Black (Japan)</description>
-		<rom name="Bakusou Dekotora Densetsu Black (Japan).nds" size="67108864" crc="e124c9ae" md5="c48e121e7a9cca7561da62b263af38e5" sha1="de31d82f6cfff60a87f457a3225f5dbdfec803a2"/>
+		<rom name="Bakusou Dekotora Densetsu Black (Japan).nds" size="67108864" crc="e124c9ae" md5="c48e121e7a9cca7561da62b263af38e5" sha1="de31d82f6cfff60a87f457a3225f5dbdfec803a2" sha256="72f9c015a396e6bb4a10504170e7559714c3c78de97e385f0224d18bcb0acad2"/>
 	</game>
 	<game name="Balloon Pop (USA)" id="4563">
 		<category>Games</category>
@@ -2254,7 +2254,7 @@
 	<game name="Center Shiken - Eigo Listening - Sokushuu DS (Japan)" id="5555">
 		<category>Games</category>
 		<description>Center Shiken - Eigo Listening - Sokushuu DS (Japan)</description>
-		<rom name="Center Shiken - Eigo Listening - Sokushuu DS (Japan).nds" size="268435456" crc="445297b3" md5="203e69e637d0e94ae47d3c54336f3b1a" sha1="c224265d2c6996757f7b9623ed05b6eedf80416a"/>
+		<rom name="Center Shiken - Eigo Listening - Sokushuu DS (Japan).nds" size="268435456" crc="445297b3" md5="203e69e637d0e94ae47d3c54336f3b1a" sha1="c224265d2c6996757f7b9623ed05b6eedf80416a" sha256="3616da20deb4cfb69621d3928f581c6adc9c132c0e0fa930437413e178902a4d"/>
 	</game>
 	<game name="Cesar Millan's Dog Whisperer (USA) (En,Fr,Es)" id="3160">
 		<category>Games</category>
@@ -3224,7 +3224,7 @@
 	<game name="DS Yukemuri Suspense Series - Free Writer Tachibana Maki - Touyako, Nanatsu no Yu, Okuyu no Sato - Shuzai Techou (Japan)" id="2259">
 		<category>Games</category>
 		<description>DS Yukemuri Suspense Series - Free Writer Tachibana Maki - Touyako, Nanatsu no Yu, Okuyu no Sato - Shuzai Techou (Japan)</description>
-		<rom name="DS Yukemuri Suspense Series - Free Writer Tachibana Maki - Touyako, Nanatsu no Yu, Okuyu no Sato - Shuzai Techou (Japan).nds" size="134217728" crc="affaf6e4" md5="b633b8af1897bab463fa21ff97d31bd9" sha1="24960fa457b962683b7872cc5a3c12a7da720421"/>
+		<rom name="DS Yukemuri Suspense Series - Free Writer Tachibana Maki - Touyako, Nanatsu no Yu, Okuyu no Sato - Shuzai Techou (Japan).nds" size="134217728" crc="affaf6e4" md5="b633b8af1897bab463fa21ff97d31bd9" sha1="24960fa457b962683b7872cc5a3c12a7da720421" sha256="34d6bb965f290f2343a18a748ac8ec8e95076a8bce1f099d1fd2f58041a69072"/>
 	</game>
 	<game name="DS de Yomu Series - Tezuka Osamu - Hi no Tori - Daiikkan (Japan)" id="2590">
 		<category>Games</category>
@@ -3309,7 +3309,7 @@
 	<game name="Daredemo Kantan! - Jo Chihun no Tsumego (Japan)" id="0558">
 		<category>Games</category>
 		<description>Daredemo Kantan! - Jo Chihun no Tsumego (Japan)</description>
-		<rom name="Daredemo Kantan! - Jo Chihun no Tsumego (Japan).nds" size="16777216" crc="5caa0cd7" md5="69ec87735ad2847bf9923f5a58aaa068" sha1="60ab7e7685f88e84bf5ad0a9a542b7f52275206b"/>
+		<rom name="Daredemo Kantan! - Jo Chihun no Tsumego (Japan).nds" size="16777216" crc="5caa0cd7" md5="69ec87735ad2847bf9923f5a58aaa068" sha1="60ab7e7685f88e84bf5ad0a9a542b7f52275206b" sha256="e40a9771d0d9348b992da40dfa644e60cd63f205a9d48b4f3319c67e5fc6d52f"/>
 	</game>
 	<game name="Daredemo Kantan! - Watanabe Akira no Tsumeshougi (Japan)" id="0790">
 		<category>Games</category>
@@ -4539,7 +4539,7 @@
 	<game name="Everything's Rosie (Europe)" id="6309">
 		<category>Games</category>
 		<description>Everything's Rosie (Europe)</description>
-		<rom name="Everything's Rosie (Europe).nds" size="8388608" crc="dc719938" md5="5eb0e3c02ef82cb027046eb9962cfa99" sha1="4c0eb18459d564072eac860debad8e33c8a244ba"/>
+		<rom name="Everything's Rosie (Europe).nds" size="8388608" crc="dc719938" md5="5eb0e3c02ef82cb027046eb9962cfa99" sha1="4c0eb18459d564072eac860debad8e33c8a244ba" sha256="d7ec321a4f3cd5b75cf7bf45f32c1b25dfc80f302fec0d0714709f1aaabf69cb"/>
 	</game>
 	<game name="Exit DS (USA) (En,Fr,De,Es,It)" id="2876">
 		<category>Games</category>
@@ -5059,7 +5059,7 @@
 	<game name="Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice (Japan)" id="5402">
 		<category>Games</category>
 		<description>Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice (Japan)</description>
-		<rom name="Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice (Japan).nds" size="67108864" crc="83ac95e9" md5="3ccffc6c9b2123832f568d619187cac4" sha1="2a13ecfd2c028cb03aef578b1c890949d4d94bcd"/>
+		<rom name="Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice (Japan).nds" size="67108864" crc="83ac95e9" md5="3ccffc6c9b2123832f568d619187cac4" sha1="2a13ecfd2c028cb03aef578b1c890949d4d94bcd" sha256="9ade495e6e92b35c10e2607575c3a8debcecc509768b5322cab7ebf266233334"/>
 	</game>
 	<game name="Fushigi no Dungeon - Fuurai no Shiren DS 2 - Sabaku no Majou (Japan)" id="2903">
 		<category>Games</category>
@@ -5879,7 +5879,7 @@
 	<game name="Harobots Action!! (Japan)" id="0247">
 		<category>Games</category>
 		<description>Harobots Action!! (Japan)</description>
-		<rom name="Harobots Action!! (Japan).nds" size="33554432" crc="e497d7bd" md5="8183eb014edeb8b576cadd668c58d5b3" sha1="0e230865908be84821a0f7f3d36e36b9c50a9a91"/>
+		<rom name="Harobots Action!! (Japan).nds" size="33554432" crc="e497d7bd" md5="8183eb014edeb8b576cadd668c58d5b3" sha1="0e230865908be84821a0f7f3d36e36b9c50a9a91" sha256="116bf946a35ae436e8a43ac5cfc1f87b92d52189ec3641afc303b3dd75dac8a2"/>
 	</game>
 	<game name="Harry Potter and the Deathly Hallows - Part 1 (USA) (En,Fr,Es)" id="5429">
 		<category>Games</category>
@@ -6199,7 +6199,7 @@
 	<game name="Hiromichi Oniisan no Oyako Taisou Navi - Oyako no Skin-Ship &amp; Tairyoku Zukuri (Japan)" id="2140">
 		<category>Games</category>
 		<description>Hiromichi Oniisan no Oyako Taisou Navi - Oyako no Skin-Ship &amp; Tairyoku Zukuri (Japan)</description>
-		<rom name="Hiromichi Oniisan no Oyako Taisou Navi - Oyako no Skin-Ship &amp; Tairyoku Zukuri (Japan).nds" size="67108864" crc="d3185af1" md5="d50d33795139a2d6875ead0efa3d44a9" sha1="b5aedfc5f4eb78307c84a1c420b2f1053c89a175"/>
+		<rom name="Hiromichi Oniisan no Oyako Taisou Navi - Oyako no Skin-Ship &amp; Tairyoku Zukuri (Japan).nds" size="67108864" crc="d3185af1" md5="d50d33795139a2d6875ead0efa3d44a9" sha1="b5aedfc5f4eb78307c84a1c420b2f1053c89a175" sha256="f4661bb4c8f30574c75c109bc46067194aafb319915673b687f8f695dbc047c0"/>
 	</game>
 	<game name="Hissatsu Kung Fu - Kanji Dragon (Japan)" id="1281">
 		<category>Games</category>
@@ -6755,12 +6755,12 @@
 	<game name="Imasugu Tsukaeru Mamechishiki - Quiz Zatsugaku-ou DS (Japan)" id="4761">
 		<category>Games</category>
 		<description>Imasugu Tsukaeru Mamechishiki - Quiz Zatsugaku-ou DS (Japan)</description>
-		<rom name="Imasugu Tsukaeru Mamechishiki - Quiz Zatsugaku-ou DS (Japan).nds" size="67108864" crc="4df5dd85" md5="3198be662e5ca6e7565a2c8a894cc225" sha1="bb50eef572f60680fdddb49b86523e3f5225ce1f"/>
+		<rom name="Imasugu Tsukaeru Mamechishiki - Quiz Zatsugaku-ou DS (Japan).nds" size="67108864" crc="4df5dd85" md5="3198be662e5ca6e7565a2c8a894cc225" sha1="bb50eef572f60680fdddb49b86523e3f5225ce1f" sha256="d9f7b6928fdb32583401b5e991506dbfed50deacde04d4295dd358cbe31a99e2"/>
 	</game>
 	<game name="Imi made Wakaru - Otona no Jukugo Renshuu - Kadokawa Ruigo Shin Jiten kara 5-man Mon (Japan)" id="4983">
 		<category>Games</category>
 		<description>Imi made Wakaru - Otona no Jukugo Renshuu - Kadokawa Ruigo Shin Jiten kara 5-man Mon (Japan)</description>
-		<rom name="Imi made Wakaru - Otona no Jukugo Renshuu - Kadokawa Ruigo Shin Jiten kara 5-man Mon (Japan).nds" size="16777216" crc="b030280d" md5="92cbcc69c3ac4a8c8cc339e1b746744d" sha1="d01f5fecfe334068e76c1fbee3a043c71b6e89a0"/>
+		<rom name="Imi made Wakaru - Otona no Jukugo Renshuu - Kadokawa Ruigo Shin Jiten kara 5-man Mon (Japan).nds" size="16777216" crc="b030280d" md5="92cbcc69c3ac4a8c8cc339e1b746744d" sha1="d01f5fecfe334068e76c1fbee3a043c71b6e89a0" sha256="e0101785f38ecb0e8b9bed4e81b20b345ba33013235555ff565cf93ff62f853a"/>
 	</game>
 	<game name="Impossible Mission (USA)" id="1874">
 		<category>Games</category>
@@ -7320,7 +7320,7 @@
 	<game name="Jishin DS 72-jikan (Japan)" id="4391">
 		<category>Games</category>
 		<description>Jishin DS 72-jikan (Japan)</description>
-		<rom name="Jishin DS 72-jikan (Japan).nds" size="16777216" crc="15c9a658" md5="15a67ff935a9c784fb3aa843e04a2463" sha1="af18500c34bc94c5e1172d60908f2a97dbe58f68"/>
+		<rom name="Jishin DS 72-jikan (Japan).nds" size="16777216" crc="15c9a658" md5="15a67ff935a9c784fb3aa843e04a2463" sha1="af18500c34bc94c5e1172d60908f2a97dbe58f68" sha256="7b87262ca67c0b57aa81ff9cd1d05b979d6fb67f3849e3df911156d23910b394"/>
 	</game>
 	<game name="Jissen Pachi-Slot Hisshouhou! DS - Aladdin II Evolution (Japan)" id="0384">
 		<category>Games</category>
@@ -7665,7 +7665,7 @@
 	<game name="Kankyou Jidai no Koushiki Kentei - Eco Kentei DS - Tokyo Shoukou Kaigisho Kanshuu (Japan)" id="2848">
 		<category>Games</category>
 		<description>Kankyou Jidai no Koushiki Kentei - Eco Kentei DS - Tokyo Shoukou Kaigisho Kanshuu (Japan)</description>
-		<rom name="Kankyou Jidai no Koushiki Kentei - Eco Kentei DS - Tokyo Shoukou Kaigisho Kanshuu (Japan).nds" size="8388608" crc="1b218060" md5="79e316e8ef89ab9bb2ceeec07462d8b0" sha1="4ced5f20342fa30745c66a0f198a38941a3ad13d"/>
+		<rom name="Kankyou Jidai no Koushiki Kentei - Eco Kentei DS - Tokyo Shoukou Kaigisho Kanshuu (Japan).nds" size="8388608" crc="1b218060" md5="79e316e8ef89ab9bb2ceeec07462d8b0" sha1="4ced5f20342fa30745c66a0f198a38941a3ad13d" sha256="06e0246d585642bd2637f35e5fbea701c11c524507db6c76e3e395d12a80c78d"/>
 	</game>
 	<game name="Kanshuu - Shuukan Pro Wrestling - Pro Wrestling Kentei DS (Japan)" id="5154">
 		<category>Games</category>
@@ -7680,7 +7680,7 @@
 	<game name="Kantan! Tanoshii! - Okashi Navi DS (Japan)" id="2285">
 		<category>Games</category>
 		<description>Kantan! Tanoshii! - Okashi Navi DS (Japan)</description>
-		<rom name="Kantan! Tanoshii! - Okashi Navi DS (Japan).nds" size="67108864" crc="396cf124" md5="89ec24baf3d3d85cbcd14658ed191eb3" sha1="9da216075121a0110116f65419af993ff6d4317d"/>
+		<rom name="Kantan! Tanoshii! - Okashi Navi DS (Japan).nds" size="67108864" crc="396cf124" md5="89ec24baf3d3d85cbcd14658ed191eb3" sha1="9da216075121a0110116f65419af993ff6d4317d" sha256="51566bf1ebfcde3d24f5d7bb41661aec9229bcf95f0361306f622f59031a53ae"/>
 	</game>
 	<game name="Karada Support Kenkyuujo - Tounyoubyou Hen (Japan)" id="z050">
 		<category>Games</category>
@@ -8235,7 +8235,7 @@
 	<game name="Kou Rate Ura Mahjong Retsuden - Mukoubuchi - Goburei, Last Desu ne (Japan)" id="1881">
 		<category>Games</category>
 		<description>Kou Rate Ura Mahjong Retsuden - Mukoubuchi - Goburei, Last Desu ne (Japan)</description>
-		<rom name="Kou Rate Ura Mahjong Retsuden - Mukoubuchi - Goburei, Last Desu ne (Japan).nds" size="67108864" crc="3bef3a36" md5="408ae529b36b85e55e044436ed7e242f" sha1="273782c467dc200b1791a7cbdb6202cfc0d3c737"/>
+		<rom name="Kou Rate Ura Mahjong Retsuden - Mukoubuchi - Goburei, Last Desu ne (Japan).nds" size="67108864" crc="3bef3a36" md5="408ae529b36b85e55e044436ed7e242f" sha1="273782c467dc200b1791a7cbdb6202cfc0d3c737" sha256="aa6094db4b816e21ac1323b88453ccdd346928ad6832127f9163fbf252ff304a"/>
 	</game>
 	<game name="Kou-chan no Shiawase! Kantan! Oryouri Recipe (Japan) (Rev 1)" id="z362">
 		<category>Games</category>
@@ -9555,7 +9555,7 @@
 	<game name="Maru Goukaku - Shikaku Dasshu! 2011-Nendohan Jouhou Security Specialist Shiken - Network Specialist Shiken (Japan)" id="6579">
 		<category>Games</category>
 		<description>Maru Goukaku - Shikaku Dasshu! 2011-Nendohan Jouhou Security Specialist Shiken - Network Specialist Shiken (Japan)</description>
-		<rom name="Maru Goukaku - Shikaku Dasshu! 2011-Nendohan Jouhou Security Specialist Shiken - Network Specialist Shiken (Japan).nds" size="67108864" crc="a8060048" md5="53f57c1eba48940e01b26919053025c9" sha1="6b116c009ae29dafa74ce19c3b07d05909ef2ca7"/>
+		<rom name="Maru Goukaku - Shikaku Dasshu! 2011-Nendohan Jouhou Security Specialist Shiken - Network Specialist Shiken (Japan).nds" size="67108864" crc="a8060048" md5="53f57c1eba48940e01b26919053025c9" sha1="6b116c009ae29dafa74ce19c3b07d05909ef2ca7" sha256="8444894d7cdcb0be5acda4fb12103643e750951024f3b4d5cd5bf5dcfcc8a7d4"/>
 	</game>
 	<game name="Maru Goukaku - Shikaku Dasshu! 2011-Nendohan Takken Shiken (Japan)" id="6695">
 		<category>Games</category>
@@ -9570,7 +9570,7 @@
 	<game name="Maru Goukaku - Shikaku Dasshu! Chuushoukigyou Shindanshi Shiken (Japan)" id="6728">
 		<category>Games</category>
 		<description>Maru Goukaku - Shikaku Dasshu! Chuushoukigyou Shindanshi Shiken (Japan)</description>
-		<rom name="Maru Goukaku - Shikaku Dasshu! Chuushoukigyou Shindanshi Shiken (Japan).nds" size="67108864" crc="9fd11d27" md5="bad5e626933f80adb029be6cbf743ca9" sha1="d1680634af8f6091c86681af4e12536875ee87f8"/>
+		<rom name="Maru Goukaku - Shikaku Dasshu! Chuushoukigyou Shindanshi Shiken (Japan).nds" size="67108864" crc="9fd11d27" md5="bad5e626933f80adb029be6cbf743ca9" sha1="d1680634af8f6091c86681af4e12536875ee87f8" sha256="f4e74af958eb7821b6fe1eeac843dfbe0cfa4e01b25b776853d04b966b2dfcff"/>
 	</game>
 	<game name="Maru Goukaku - Shikaku Dasshu! Financial Planning Ginou Kentei Shiken 2-kyuu, 3-kyuu (Japan)" id="5039">
 		<category>Games</category>
@@ -9965,7 +9965,7 @@
 	<game name="Metal Max 3 (Japan)" id="5134">
 		<category>Games</category>
 		<description>Metal Max 3 (Japan)</description>
-		<rom name="Metal Max 3 (Japan).nds" size="67108864" crc="03440034" md5="36cdcc2a5319144e149420d30b91fdf1" sha1="320901ad2778842e40a2c0c7871bb6bd2804cd75"/>
+		<rom name="Metal Max 3 (Japan).nds" size="67108864" crc="03440034" md5="36cdcc2a5319144e149420d30b91fdf1" sha1="320901ad2778842e40a2c0c7871bb6bd2804cd75" sha256="ac9964b13915eb2576dcbde0aedaf879716954207c90c3ceb79b342d41569522"/>
 	</game>
 	<game name="Metal Saga - Hagane no Kisetsu (Japan)" id="0460">
 		<category>Games</category>
@@ -11050,7 +11050,7 @@
 	<game name="Nanashi no Geemu Me (Japan)" id="4133">
 		<category>Games</category>
 		<description>Nanashi no Geemu Me (Japan)</description>
-		<rom name="Nanashi no Geemu Me (Japan).nds" size="67108864" crc="f6d7cf2a" md5="438bfbcc06fa7e96263da2608ed37aaa" sha1="da94eea45d8639a8b0689e40595e0874c733d62d"/>
+		<rom name="Nanashi no Geemu Me (Japan).nds" size="67108864" crc="f6d7cf2a" md5="438bfbcc06fa7e96263da2608ed37aaa" sha1="da94eea45d8639a8b0689e40595e0874c733d62d" sha256="886eb03366318de6d41f9f2ed1482cbe8fa0eab96b979a23728ccd8095df4684"/>
 	</game>
 	<game name="Nanatsuiro Drops DS - Touch de Hajimaru Hatsukoi Monogatari (Japan)" id="2349">
 		<category>Games</category>
@@ -12681,7 +12681,7 @@
 	<game name="Pocket Chikyuugi DS - Sawatte Tanoshimu Jinrui 5000 Nen no Ayumi (Japan) (Rev 1)" id="3708">
 		<category>Games</category>
 		<description>Pocket Chikyuugi DS - Sawatte Tanoshimu Jinrui 5000 Nen no Ayumi (Japan) (Rev 1)</description>
-		<rom name="Pocket Chikyuugi DS - Sawatte Tanoshimu Jinrui 5000 Nen no Ayumi (Japan) (Rev 1).nds" size="67108864" crc="72e2c8c6" md5="ccb195d1653f97d48756879582d6d561" sha1="77ba9f71903b0127bd0024a1b2f478881ab2e6f0"/>
+		<rom name="Pocket Chikyuugi DS - Sawatte Tanoshimu Jinrui 5000 Nen no Ayumi (Japan) (Rev 1).nds" size="67108864" crc="72e2c8c6" md5="ccb195d1653f97d48756879582d6d561" sha1="77ba9f71903b0127bd0024a1b2f478881ab2e6f0" sha256="467deb83a05d218f55bac1ba4f443f500860dd3d1f889e39c65b086dab2b49f3"/>
 	</game>
 	<game name="Pocket Scenario Series - Harukanaru Toki no Naka de - Mai Hitoyo (Japan)" id="0725">
 		<category>Games</category>
@@ -13441,7 +13441,7 @@
 	<game name="Quiz Present Variety Q-Sama!! DS - Pressure Study x Atama Ga Yokunaru Drill SP (Japan)" id="6687">
 		<category>Games</category>
 		<description>Quiz Present Variety Q-Sama!! DS - Pressure Study x Atama Ga Yokunaru Drill SP (Japan)</description>
-		<rom name="Quiz Present Variety Q-Sama!! DS - Pressure Study x Atama Ga Yokunaru Drill SP (Japan).nds" size="67108864" crc="6b595c3b" md5="bfde22a9a80cb2898bc7837441749a7e" sha1="7ff99e7fdbde931d788bd2abba7527907bff0911"/>
+		<rom name="Quiz Present Variety Q-Sama!! DS - Pressure Study x Atama Ga Yokunaru Drill SP (Japan).nds" size="67108864" crc="6b595c3b" md5="bfde22a9a80cb2898bc7837441749a7e" sha1="7ff99e7fdbde931d788bd2abba7527907bff0911" sha256="493e7564a721bebdaaa821ba4e228bb0bb6af68e9a7b335287b0a09ef6a4f70c"/>
 	</game>
 	<game name="Quiz Taxi (Germany)" id="3804">
 		<category>Games</category>
@@ -13646,7 +13646,7 @@
 	<game name="Red Stone DS - Akaki Ishi ni Michibikareshi Mono-tachi (Japan)" id="5784">
 		<category>Games</category>
 		<description>Red Stone DS - Akaki Ishi ni Michibikareshi Mono-tachi (Japan)</description>
-		<rom name="Red Stone DS - Akaki Ishi ni Michibikareshi Mono-tachi (Japan).nds" size="33554432" crc="feee663c" md5="12cb408971b6126ce2c99042fe736742" sha1="eb6458a9fbeffd1f099cfee744baa1d838f5c768"/>
+		<rom name="Red Stone DS - Akaki Ishi ni Michibikareshi Mono-tachi (Japan).nds" size="33554432" crc="feee663c" md5="12cb408971b6126ce2c99042fe736742" sha1="eb6458a9fbeffd1f099cfee744baa1d838f5c768" sha256="ef5b9c066357bec4752fb074d3f477f2df14641c73034975fde0293525095a62"/>
 	</game>
 	<game name="Rekishi Adventure - Quiz Sangokushi Tsuu DS (Japan)" id="3705">
 		<category>Games</category>
@@ -14036,7 +14036,7 @@
 	<game name="Sakura Note - Ima ni Tsunagaru Mirai (Japan)" id="4369">
 		<category>Games</category>
 		<description>Sakura Note - Ima ni Tsunagaru Mirai (Japan)</description>
-		<rom name="Sakura Note - Ima ni Tsunagaru Mirai (Japan).nds" size="67108864" crc="006c9ef3" md5="6c98fc0f19dd67d11a660c7d8b75b82a" sha1="911782fa06c3006cd66818914c7684d6422d200c"/>
+		<rom name="Sakura Note - Ima ni Tsunagaru Mirai (Japan).nds" size="67108864" crc="006c9ef3" md5="6c98fc0f19dd67d11a660c7d8b75b82a" sha1="911782fa06c3006cd66818914c7684d6422d200c" sha256="fa37e5365991331ad04f4a15a1575641eb1c779eb1849f540a7e012eab7c28e1"/>
 	</game>
 	<game name="Sakusaku Jinkou Kokyuu Care Training DS (Japan)" id="4870">
 		<category>Games</category>
@@ -15926,7 +15926,7 @@
 	<game name="Tago Akira no Atama no Taisou - Dai-4-shuu - Time Machine no Nazotoki Daibouken (Japan)" id="4271">
 		<category>Games</category>
 		<description>Tago Akira no Atama no Taisou - Dai-4-shuu - Time Machine no Nazotoki Daibouken (Japan)</description>
-		<rom name="Tago Akira no Atama no Taisou - Dai-4-shuu - Time Machine no Nazotoki Daibouken (Japan).nds" size="67108864" crc="5ccbf50f" md5="a3ae17f6819fca1f99ccf8cf3065094f" sha1="3e3a1d042ec0a60d30298574e11e36cb349699be"/>
+		<rom name="Tago Akira no Atama no Taisou - Dai-4-shuu - Time Machine no Nazotoki Daibouken (Japan).nds" size="67108864" crc="5ccbf50f" md5="a3ae17f6819fca1f99ccf8cf3065094f" sha1="3e3a1d042ec0a60d30298574e11e36cb349699be" sha256="11d4cd119ab197d998e507b2dd3e232264188053be732cc59b348e406d8f1f74"/>
 	</game>
 	<game name="Taiheiyou no Arashi DS - Senkan Yamato, Akatsuki ni Shutsugeki Su! (Japan)" id="3339">
 		<category>Games</category>
@@ -15946,12 +15946,12 @@
 	<game name="Taisen!! Kato-chan no Kololon Pe (Japan)" id="3208">
 		<category>Games</category>
 		<description>Taisen!! Kato-chan no Kololon Pe (Japan)</description>
-		<rom name="Taisen!! Kato-chan no Kololon Pe (Japan).nds" size="67108864" crc="75dc9df3" md5="adfdb10a31c124aa2fb88435fcc22651" sha1="1e51f724987d6d8fa8cf3074396f21daf72335ac"/>
+		<rom name="Taisen!! Kato-chan no Kololon Pe (Japan).nds" size="67108864" crc="75dc9df3" md5="adfdb10a31c124aa2fb88435fcc22651" sha1="1e51f724987d6d8fa8cf3074396f21daf72335ac" sha256="af3cfa44963498682f014946afe389eb5a9e3d85eb46925ec87673e2e3565bcf"/>
 	</game>
 	<game name="Taitsu-kun - Joushi ga Okori-nikui Sawayaka Manners (Japan)" id="0994">
 		<category>Games</category>
 		<description>Taitsu-kun - Joushi ga Okori-nikui Sawayaka Manners (Japan)</description>
-		<rom name="Taitsu-kun - Joushi ga Okori-nikui Sawayaka Manners (Japan).nds" size="16777216" crc="8804452f" md5="9f01824ac92aca37bc0edcaa712ac746" sha1="9447ebae4d8018fe9280bb4e53269f91945bdad1"/>
+		<rom name="Taitsu-kun - Joushi ga Okori-nikui Sawayaka Manners (Japan).nds" size="16777216" crc="8804452f" md5="9f01824ac92aca37bc0edcaa712ac746" sha1="9447ebae4d8018fe9280bb4e53269f91945bdad1" sha256="3c882e071956f6d6724b191a7e9454194e56dc40983fd7b512e954dcfd550b68"/>
 	</game>
 	<game name="Tak - Mojo Mistake (USA)" id="2795">
 		<category>Games</category>
@@ -16536,7 +16536,7 @@
 	<game name="Tokuten Ryoku Gakushuu DS - Chuu 2 Eigo (Japan) (YXBJ)" id="2556">
 		<category>Games</category>
 		<description>Tokuten Ryoku Gakushuu DS - Chuu 2 Eigo (Japan) (YXBJ)</description>
-		<rom name="Tokuten Ryoku Gakushuu DS - Chuu 2 Eigo (Japan) (YXBJ).nds" size="134217728" crc="18b1583f" md5="f4f2c4de2619c74fd6e048bb4381f970" sha1="341f5983cc9e3b76a715ab43e1d13590be59945e"/>
+		<rom name="Tokuten Ryoku Gakushuu DS - Chuu 2 Eigo (Japan) (YXBJ).nds" size="134217728" crc="18b1583f" md5="f4f2c4de2619c74fd6e048bb4381f970" sha1="341f5983cc9e3b76a715ab43e1d13590be59945e" sha256="31dea7df6e18a546a867aada4722ebb66d04b9de2be71f2673a7becebb98759d"/>
 	</game>
 	<game name="Tokuten Ryoku Gakushuu DS - Chuu 2 Eisuukoku Pack (Japan)" id="4074">
 		<category>Games</category>
@@ -17231,7 +17231,7 @@
 	<game name="Tsuji Gakuen Tsuji Cooking Kanshuu - Koharu no DS Uchigohan. - Shokuji Balance Guide Tsuki (Japan)" id="1883">
 		<category>Games</category>
 		<description>Tsuji Gakuen Tsuji Cooking Kanshuu - Koharu no DS Uchigohan. - Shokuji Balance Guide Tsuki (Japan)</description>
-		<rom name="Tsuji Gakuen Tsuji Cooking Kanshuu - Koharu no DS Uchigohan. - Shokuji Balance Guide Tsuki (Japan).nds" size="67108864" crc="40fa237c" md5="d1dffbd9b5d21525fd19e1b079b35ef0" sha1="8f68fc18291628ceebe611bb2f5027517b82a063"/>
+		<rom name="Tsuji Gakuen Tsuji Cooking Kanshuu - Koharu no DS Uchigohan. - Shokuji Balance Guide Tsuki (Japan).nds" size="67108864" crc="40fa237c" md5="d1dffbd9b5d21525fd19e1b079b35ef0" sha1="8f68fc18291628ceebe611bb2f5027517b82a063" sha256="13181c97f9ead59b4eb915b85acc0d0465a25c61be1f4f9a5e0858b2fa061025"/>
 	</game>
 	<game name="Tsuji Gakuen Tsuji Cooking Kanshuu - Koharu no DS Uchigohan. - Shokuji Balance Guide Tsuki (Japan) (Promo)" id="x135">
 		<category>Games</category>
@@ -17291,7 +17291,7 @@
 	<game name="Uchi no 3 Shimai no Karaoke Utagassen &amp; Party Game (Japan)" id="5681">
 		<category>Games</category>
 		<description>Uchi no 3 Shimai no Karaoke Utagassen &amp; Party Game (Japan)</description>
-		<rom name="Uchi no 3 Shimai no Karaoke Utagassen &amp; Party Game (Japan).nds" size="67108864" crc="c4afbf61" md5="61ad15add1c99a3b10b9888f3b5944a7" sha1="30703147d011a3c73b4504fda8a8903df7a940c2"/>
+		<rom name="Uchi no 3 Shimai no Karaoke Utagassen &amp; Party Game (Japan).nds" size="67108864" crc="c4afbf61" md5="61ad15add1c99a3b10b9888f3b5944a7" sha1="30703147d011a3c73b4504fda8a8903df7a940c2" sha256="99003b69577125c829ec13f2a28d25483505f2ff71cbb462affb5c99b8c48dde"/>
 	</game>
 	<game name="Uchida Yasuo DS Mystery - Meitantei Asami Mitsuhiko Series 'Fukutoshin Renzoku Satsujin Jiken' (Japan)" id="3444">
 		<category>Games</category>
@@ -17411,7 +17411,7 @@
 	<game name="Uranai Demo Shite Miyouka DS (Japan)" id="1324">
 		<category>Games</category>
 		<description>Uranai Demo Shite Miyouka DS (Japan)</description>
-		<rom name="Uranai Demo Shite Miyouka DS (Japan).nds" size="33554432" crc="73db25a1" md5="093c39efe7b32548c512b50e6300305d" sha1="69eb634dbf47565ee50b146cd773eadb34886ec8"/>
+		<rom name="Uranai Demo Shite Miyouka DS (Japan).nds" size="33554432" crc="73db25a1" md5="093c39efe7b32548c512b50e6300305d" sha1="69eb634dbf47565ee50b146cd773eadb34886ec8" sha256="3ebb00ff537ae7eaeaffe7913de8e45625b425775bf4a85f465155e21db5a857"/>
 	</game>
 	<game name="Urbz, The - Sims in the City (USA)" id="0045">
 		<category>Games</category>
@@ -18401,7 +18401,7 @@
 	<game name="Zettai Zetsumei Dangerous Jiisan DS - Dangerous Sensation (Japan)" id="0282">
 		<category>Games</category>
 		<description>Zettai Zetsumei Dangerous Jiisan DS - Dangerous Sensation (Japan)</description>
-		<rom name="Zettai Zetsumei Dangerous Jiisan DS - Dangerous Sensation (Japan).nds" size="67108864" crc="387fc7d5" md5="ae904d3757870318c3e78e5d153857ef" sha1="807abfb4b27212807ce7e8cd903894de2519ea8f"/>
+		<rom name="Zettai Zetsumei Dangerous Jiisan DS - Dangerous Sensation (Japan).nds" size="67108864" crc="387fc7d5" md5="ae904d3757870318c3e78e5d153857ef" sha1="807abfb4b27212807ce7e8cd903894de2519ea8f" sha256="eb1d0057699c0929dea9b519113cae20acbaf020d67e4b20cbd28fd7f5cd8955"/>
 	</game>
 	<game name="Zhu Zhu Pets (USA)" id="4864">
 		<category>Games</category>

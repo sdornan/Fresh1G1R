@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii (Retool)</name>
-		<description>Nintendo - Wii (1,663) (-y) [-aAbBcdkmMpPuv] (2026-08-19 16-16-56) (Retool)</description>
-		<version>2026-08-19 16-16-56</version>
-		<date>2026-08-22 03-21-53</date>
+		<description>Nintendo - Wii (1,663) (-y) [-aAbBcdkmMpPuv] (2026-08-22 15-56-53) (Retool)</description>
+		<version>2026-08-22 15-56-53</version>
+		<date>2026-08-23 03-36-06</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -7216,12 +7216,12 @@
 		<serial>RVL-SP9P-EUR-B0</serial>
 		<rom name="Pucca's Race for Kisses (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).iso" size="4699979776" crc="edd60c30" md5="223b7d056dfdfb075057df01fed573fa" sha1="3717d55881d610bb3c0e43fa80db9107bda86c38"/>
 	</game>
-	<game name="Punch-Out!! (USA) (En,Fr,Es) (Rev 1)" id="57045">
+	<game name="Punch-Out!! (USA, Asia) (En,Fr,Es) (Rev 1)" id="57045">
 		<category>Games</category>
-		<description>Punch-Out!! (USA) (En,Fr,Es) (Rev 1)</description>
-		<serial>RVL-R7PE-USA</serial>
+		<description>Punch-Out!! (USA, Asia) (En,Fr,Es) (Rev 1)</description>
+		<serial>RVL-R7PE-USA, RVL-R7PE-MDE-B0</serial>
 		<version>Rev 1</version>
-		<rom name="Punch-Out!! (USA) (En,Fr,Es) (Rev 1).iso" size="4699979776" crc="513a489c" md5="af66c25de5828672bdae802487e9b589" sha1="8c0c30caeb6e2ee0b29f7193852cb03920140a20"/>
+		<rom name="Punch-Out!! (USA, Asia) (En,Fr,Es) (Rev 1).iso" size="4699979776" crc="513a489c" md5="af66c25de5828672bdae802487e9b589" sha1="8c0c30caeb6e2ee0b29f7193852cb03920140a20"/>
 	</game>
 	<game name="Puppy Luv - Your New Best Friend (USA)" id="48467">
 		<category>Games</category>

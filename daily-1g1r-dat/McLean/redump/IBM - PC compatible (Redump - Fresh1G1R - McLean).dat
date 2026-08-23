@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,380) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-22 02-36-54) (Retool)</description>
-		<version>2026-08-22 02-36-54</version>
-		<date>2026-08-22 03-12-31</date>
+		<description>IBM - PC compatible (13,387) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-23 02-56-54) (Retool)</description>
+		<version>2026-08-23 02-56-54</version>
+		<date>2026-08-23 03-24-05</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -77931,6 +77931,48 @@
 		<category>Games</category>
 		<description>Star Wars Galaxies - The Complete Online Adventures (USA) (Disc 1)</description>
 		<rom name="Star Wars Galaxies - The Complete Online Adventures (USA) (Disc 1).iso" size="4538859520" crc="262342ec" md5="c6d58ce1456b6403b1b6fea5d6a27658" sha1="12073d8d1415ad5c91feacf7d00d38d59e1c767e"/>
+	</game>
+	<game name="Star Wars Galaxies - The Total Experience (USA) (Disc 2)" id="137191">
+		<category>Games</category>
+		<description>Star Wars Galaxies - The Total Experience (USA) (Disc 2)</description>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 2).bin" size="832596240" crc="fe9c38ac" md5="320be1035f4f4be7a0fce707af7f9295" sha1="289a8e7bbf313183f4f60d572231940424a931c1"/>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 2).cue" size="122" crc="6b4c1940" md5="6465ad5d895e9d8b296e1da6b38c49df" sha1="297b95fe9a7dfbdd7e02bb3757dbb2d4fe1b7f3f"/>
+	</game>
+	<game name="Star Wars Galaxies - The Total Experience (USA) (Disc 3)" id="137190">
+		<category>Games</category>
+		<description>Star Wars Galaxies - The Total Experience (USA) (Disc 3)</description>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 3).bin" size="832596240" crc="5041755b" md5="442efd1db8d3a2800fb3f4315ee921d3" sha1="ebe56a2a5ebaed90e0a36339731c3734b55faa72"/>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 3).cue" size="122" crc="dd57f930" md5="667aaceb3dec475290795d28a87a977c" sha1="605ab81b06e5f86529cf4a6d774377b145a3da34"/>
+	</game>
+	<game name="Star Wars Galaxies - The Total Experience (USA) (Disc 4)" id="137189">
+		<category>Games</category>
+		<description>Star Wars Galaxies - The Total Experience (USA) (Disc 4)</description>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 4).bin" size="832596240" crc="8ecb4151" md5="3d121fa997aa63693da38f6a9727cff9" sha1="db9f17e5a6ee336f733c4eea5e08ce35a3f38f00"/>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 4).cue" size="122" crc="69f654e2" md5="46d13b0cfdb397176536a0c1caeb0e78" sha1="ac3a287a9b2ab157cf526965bac2c24f553da727"/>
+	</game>
+	<game name="Star Wars Galaxies - The Total Experience (USA) (Disc 5)" id="137188">
+		<category>Games</category>
+		<description>Star Wars Galaxies - The Total Experience (USA) (Disc 5)</description>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 5).bin" size="560081760" crc="61252242" md5="2c901349ccab0c0ae61c5c1ff45ca834" sha1="3f5b98e94d4687e4a7c7f81e4112d4abb9a77870"/>
+		<rom name="Star Wars Galaxies - The Total Experience (USA) (Disc 5).cue" size="122" crc="dfedb492" md5="280250c175691c4af0bc73f486aabbeb" sha1="e94414937dcdb48667dbc7d0512e2dfed7bc3a32"/>
+	</game>
+	<game name="Star Wars Galaxies Starter Kit (USA) (Disc 1)" id="137187">
+		<category>Games</category>
+		<description>Star Wars Galaxies Starter Kit (USA) (Disc 1)</description>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 1).bin" size="839908608" crc="498bd235" md5="ab6702653e314a485e97c3bcb2d649ee" sha1="729b6b2aab135e01535e5efda85ef2ca83f3f4b8"/>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 1).cue" size="111" crc="a006fc76" md5="2677a7dc9e46c3686812a8b52e27656f" sha1="8cd2afad06ce25a12ef7174079a707e9c59ff8ed"/>
+	</game>
+	<game name="Star Wars Galaxies Starter Kit (USA) (Disc 2)" id="137186">
+		<category>Games</category>
+		<description>Star Wars Galaxies Starter Kit (USA) (Disc 2)</description>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 2).bin" size="831634272" crc="11fee02b" md5="fdcb453c4e062ab77258d44f08194821" sha1="e8101e59b9148c850cb8bf3c50d35dd3b4a15693"/>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 2).cue" size="111" crc="a15bdaa7" md5="a7810d335579df3e495a5f2679728c38" sha1="5052e694132709c1686776c1bb8d443be25b3a25"/>
+	</game>
+	<game name="Star Wars Galaxies Starter Kit (USA) (Disc 3)" id="137185">
+		<category>Games</category>
+		<description>Star Wars Galaxies Starter Kit (USA) (Disc 3)</description>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 3).bin" size="831634272" crc="788690b0" md5="c408869a4157846124127f4cd87626d3" sha1="1cf8dd6618c52f2837e94fa2cfc28776b68dfe1c"/>
+		<rom name="Star Wars Galaxies Starter Kit (USA) (Disc 3).cue" size="111" crc="17403ad7" md5="abdd9574e807c5f24621ace8f6385964" sha1="17c5f79ab44c706f2d4fc8e92e21366934c5dc92"/>
 	</game>
 	<game name="Star Wars Galaxies Starter Kit (USA) (Disc 4)" id="135775">
 		<category>Games</category>

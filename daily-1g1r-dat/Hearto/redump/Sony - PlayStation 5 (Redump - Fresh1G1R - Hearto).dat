@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (337) (-y) [-aAbBcefkmMoprv] (2026-08-21 12-16-53) (Retool)</description>
-		<version>2026-08-21 12-16-53</version>
-		<date>2026-08-22 03-06-49</date>
+		<description>Sony - PlayStation 5 (339) (-y) [-aAbBcefkmMoprv] (2026-08-22 20-38-24) (Retool)</description>
+		<version>2026-08-22 20-38-24</version>
+		<date>2026-08-23 03-16-44</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -120,6 +120,11 @@
 		<category>Games</category>
 		<description>Autobahn Police Simulator 3 (Europe)</description>
 		<rom name="Autobahn Police Simulator 3 (Europe).iso" size="40008351744" crc="b36c7046" md5="8fcefe587508c4ff038fe431cb0c6ba4" sha1="b8ec84bdece7f8f1991932380ea802fa63535cb4"/>
+	</game>
+	<game name="Avatar - Frontiers of Pandora (Japan)" id="137200">
+		<category>Games</category>
+		<description>Avatar - Frontiers of Pandora (Japan)</description>
+		<rom name="Avatar - Frontiers of Pandora (Japan).iso" size="75846909952" crc="4c20bf10" md5="134e2a34a4e16c9d8c77a54c5d3b874e" sha1="70fc09031e7b4467da8a2dc151e5e711aaa64687"/>
 	</game>
 	<game name="Babylon's Fall (USA) (En,Ja,Fr,De)" id="133370">
 		<category>Games</category>
@@ -480,6 +485,11 @@
 		<category>Games</category>
 		<description>F1 2021 (Europe)</description>
 		<rom name="F1 2021 (Europe).iso" size="55372218368" crc="8ac2bd7a" md5="25af6bdb2361d4ec6a65eb58ac8131d7" sha1="73ead07145af9e03f9e7f1d016d8a24156c6ed4b"/>
+	</game>
+	<game name="F1 22 (Japan)" id="137205">
+		<category>Games</category>
+		<description>F1 22 (Japan)</description>
+		<rom name="F1 22 (Japan).iso" size="47798550528" crc="f58d56fc" md5="ecb583f941423fa2ba37893a7bf78495" sha1="04b160242c9deef490bd31da6e24c8e2977830b2"/>
 	</game>
 	<game name="F1 24 (USA)" id="115835">
 		<category>Games</category>
