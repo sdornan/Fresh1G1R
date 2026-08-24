@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,400) (-y) [-aAbBcdkmMpPuv] (2026-08-23 02-56-54) (Retool)</description>
-		<version>2026-08-23 02-56-54</version>
-		<date>2026-08-23 03-34-19</date>
+		<description>IBM - PC compatible (26,412) (-y) [-aAbBcdkmMpPuv] (2026-08-24 01-26-54) (Retool)</description>
+		<version>2026-08-24 01-26-54</version>
+		<date>2026-08-24 03-34-13</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -7378,6 +7378,55 @@
 		<rom name="Alley 19 Bowling (USA) (Track 5).bin" size="52529568" crc="e2cb6999" md5="35716e1dde3466e16086c22066a8a353" sha1="3429b25193ed6ff736f7b61e48699c217c5f2b00"/>
 		<rom name="Alley 19 Bowling (USA).cue" size="562" crc="51459a21" md5="ccb8a5322572d2e75552eb9419bb1031" sha1="8f3d3ed3a183879447dcf59166454c4eca71161a"/>
 	</game>
+	<game name="Allie's Playhouse (USA)" id="137237">
+		<category>Educational</category>
+		<description>Allie's Playhouse (USA)</description>
+		<rom name="Allie's Playhouse (USA) (Track 01).bin" size="32582256" crc="c46be072" md5="53c697be00391ef40c53eb51d8684cf1" sha1="1a4c431779fd5a7f26bef2b628dcde0866a690e4"/>
+		<rom name="Allie's Playhouse (USA) (Track 02).bin" size="12115152" crc="9f0e5c96" md5="b36d2e42e05bfc4c3a485e712e0467d7" sha1="5d0f02074f16376abe2fad5dec151e535dce1d67"/>
+		<rom name="Allie's Playhouse (USA) (Track 03).bin" size="2264976" crc="d6389866" md5="a72317b5e2088ee076289377d7d84dfb" sha1="3cdef9e06ac86663ef62254a6d6ae41befbe2b25"/>
+		<rom name="Allie's Playhouse (USA) (Track 04).bin" size="339076080" crc="157ad390" md5="94785d8a3420594ff22f51c732e73fb9" sha1="960dd310a57d164a3fbb01bd087f2d124373e30f"/>
+		<rom name="Allie's Playhouse (USA) (Track 05).bin" size="3676176" crc="5dcd9efa" md5="ead220744c27f0c47f7991a15f93222f" sha1="a89b8ec7a9658ad892f513d112555bddd284c9ed"/>
+		<rom name="Allie's Playhouse (USA) (Track 06).bin" size="1853376" crc="a146ea07" md5="a3151bfbb6c45652a2fcc22e9800c1cf" sha1="be764ffc0fa76c0063597867a1a043d125a4298b"/>
+		<rom name="Allie's Playhouse (USA) (Track 07).bin" size="1881600" crc="66ab4041" md5="83b58467eeea68b48c8b11b6caa5317b" sha1="46ec2a16d8740b61e939d30a04fa166703af920e"/>
+		<rom name="Allie's Playhouse (USA) (Track 08).bin" size="1705200" crc="119e87e9" md5="2323050b538de65ec20077a6ae3dbb5d" sha1="2909abb54a8f22e224e7cd51fe1190ac18cbe71e"/>
+		<rom name="Allie's Playhouse (USA) (Track 09).bin" size="1752240" crc="49dcf75b" md5="e03e6e356c6e040432661896854d7359" sha1="2187b0654a943fc7e29018df9012948b3a00da51"/>
+		<rom name="Allie's Playhouse (USA) (Track 10).bin" size="26993904" crc="e5ffc0d8" md5="dcffc71eac98541f14a8f78e819e79a9" sha1="d429989dd4ccd899dcc6b3d5ce18d05650ead9dd"/>
+		<rom name="Allie's Playhouse (USA) (Track 11).bin" size="26114256" crc="a7944ceb" md5="5ac025d390928b6a165a12ef5d8d0f03" sha1="28367cbb4cb1cbfb0af8624b164b37dade545774"/>
+		<rom name="Allie's Playhouse (USA) (Track 12).bin" size="12896016" crc="814eca8a" md5="45bfceb6f3bfe1ddfd99e42400600306" sha1="9848b8f7e9996574d4691442660350503ef72923"/>
+		<rom name="Allie's Playhouse (USA) (Track 13).bin" size="3946656" crc="13a8b72f" md5="e7de6c548f9b0ff8211de0f158733a18" sha1="6167919b3f17a148ae0d0c434d3242405e9059fc"/>
+		<rom name="Allie's Playhouse (USA) (Track 14).bin" size="4014864" crc="c6efd6d0" md5="c8338bfe045b715ffc8ecaa2b6e35025" sha1="343ef0055fd15200cdbca7b64493cbcb87c5eb96"/>
+		<rom name="Allie's Playhouse (USA) (Track 15).bin" size="6816096" crc="050615a1" md5="cca7440fd1b236e5123c23599e5d2420" sha1="d7e1b2e5b75fc74722ae2e5ca7ddd46f555e1a06"/>
+		<rom name="Allie's Playhouse (USA) (Track 16).bin" size="6860784" crc="b3361593" md5="c39cab49956966b50f1f6ae7b3b0916d" sha1="c0be9fc2cc1e2c9878ba0b507eb63ada717e55e1"/>
+		<rom name="Allie's Playhouse (USA) (Track 17).bin" size="14587104" crc="e5bfb402" md5="af34e685ac56b234ac10b48e56ad63d8" sha1="035023b2676ea1183d24f4798e99db86a3f4c43c"/>
+		<rom name="Allie's Playhouse (USA) (Track 18).bin" size="14794080" crc="1060feb2" md5="955923c843d99a69f1189c187738162a" sha1="9cf48f23a79b7616e3ed490ea8c4434ed6827045"/>
+		<rom name="Allie's Playhouse (USA) (Track 19).bin" size="4297104" crc="2db82388" md5="e57d709dcb2dd109bb16d331936fc8ce" sha1="5961d456f14c39b0e7bc3d400baaaabb9a896c18"/>
+		<rom name="Allie's Playhouse (USA) (Track 20).bin" size="4351200" crc="d13db0c0" md5="16e10fa1ce1fb6ba08e007528f711d98" sha1="cfb800ccafa151063daa45eef005dc49ae35e20c"/>
+		<rom name="Allie's Playhouse (USA) (Track 21).bin" size="7839216" crc="b98057df" md5="1ade999935883ea99c2b667d9af938e8" sha1="108c728e7c5d1e715a12b6ff659034b2bc23675d"/>
+		<rom name="Allie's Playhouse (USA) (Track 22).bin" size="7954464" crc="abe3f8eb" md5="c118248d79c9c9b94129c759d914ef97" sha1="60d21582ef7839c387a4fd9d08d1e3a5c96ad4d7"/>
+		<rom name="Allie's Playhouse (USA) (Track 23).bin" size="3464496" crc="77aaf684" md5="8817b274acaee8a165a1013c2cf00cd5" sha1="bdb57fab4b7c8e050311c1f9f36c4c8b1b8c01a9"/>
+		<rom name="Allie's Playhouse (USA) (Track 24).bin" size="3480960" crc="a6ccd2fd" md5="e1276c3abe347b0b2ef496df96c77a17" sha1="58a90f93eb72ccb7ff3c3b59e58d53cfd341e0ff"/>
+		<rom name="Allie's Playhouse (USA) (Track 25).bin" size="21925344" crc="3bedccae" md5="ec751a681c0b94863c150ff6eee8a6a8" sha1="76866b6b474f571061b033910c291da3a3f933bd"/>
+		<rom name="Allie's Playhouse (USA) (Track 26).bin" size="22068816" crc="a0a50bb6" md5="6276f8e47f85ba574b7ae40f5c1070aa" sha1="9ebcb22f2b2c4740e15e4c3a7c689e44320732d3"/>
+		<rom name="Allie's Playhouse (USA) (Track 27).bin" size="6428016" crc="44c41677" md5="d062d0fc6858156448c12c9604803222" sha1="964a19c13ea56426f6b0aeedf3ce87ba69abae04"/>
+		<rom name="Allie's Playhouse (USA) (Track 28).bin" size="6498576" crc="ce06cad8" md5="db525ab65fe0ccfca73f4db10f3d8daa" sha1="a0b97d60ba2f0bf4802420f8b703d12c44b70aca"/>
+		<rom name="Allie's Playhouse (USA) (Track 29).bin" size="5703600" crc="18861d37" md5="1873c5565ad1de263d5ce6f0ed1687bb" sha1="035722d03ca43fae54733cc2a325a50f85d5b244"/>
+		<rom name="Allie's Playhouse (USA) (Track 30).bin" size="5792976" crc="ac3ef563" md5="5fd34046917175c3d2e192f9a3625004" sha1="c3fc8bfa6feb0462e6a2e024f1146926599b42f8"/>
+		<rom name="Allie's Playhouse (USA) (Track 31).bin" size="5379024" crc="08298ed3" md5="33c4cff3b9a15fbe1acf2a0f4dae2ec3" sha1="b0ecc629164c7de60d1bf461a6c72ad57c6985c3"/>
+		<rom name="Allie's Playhouse (USA) (Track 32).bin" size="5433120" crc="5951207a" md5="f0b6c302d94901b85e570a66d8f1498d" sha1="5465250f82d4a2f5b35443ff7485148622fd10df"/>
+		<rom name="Allie's Playhouse (USA) (Track 33).bin" size="20196624" crc="a62c45ef" md5="dd3550f78d1f1948b0904e23e4f439e7" sha1="4938c821dac10f41ad24708b450c1ae9e12dd749"/>
+		<rom name="Allie's Playhouse (USA) (Track 34).bin" size="20274240" crc="45da1dc3" md5="c2cb49539ef59cf3dea136caa54c90b7" sha1="741accd377c0d66726d0753848b3ba4964986240"/>
+		<rom name="Allie's Playhouse (USA) (Track 35).bin" size="4424112" crc="0ef57f04" md5="2f65963582599c0e4259f4add23be219" sha1="5ecfec5951a7ae2c73077f0de6db4cb67b8b746b"/>
+		<rom name="Allie's Playhouse (USA) (Track 36).bin" size="4478208" crc="f79d285e" md5="535ad4d6e256d82cd0834e2e610acffe" sha1="562fbb7d0f489b0979e2e8b502708bf81563ebd2"/>
+		<rom name="Allie's Playhouse (USA) (Track 37).bin" size="3746736" crc="d4705b77" md5="9c5478aa4ba6adc35cf69fdd1c5b39ba" sha1="bd1d6e1dffadf31a8ea22d08382544531fb26e9e"/>
+		<rom name="Allie's Playhouse (USA) (Track 38).bin" size="3833760" crc="bd27f32f" md5="73dfaa6cb77b31632d0656b9704ec34d" sha1="394a26d8c93e0802268c520408251700a766c756"/>
+		<rom name="Allie's Playhouse (USA) (Track 39).bin" size="2664816" crc="905ae586" md5="a9eb359c3c9cc25784234230e3782a8c" sha1="c14da375919be64396d9ad414a9e0c864930be99"/>
+		<rom name="Allie's Playhouse (USA) (Track 40).bin" size="2775360" crc="df3f3973" md5="d6c7d54765058ecb750d6077db370433" sha1="062e68e514d7907888e2dd887923528be3fad7ae"/>
+		<rom name="Allie's Playhouse (USA) (Track 41).bin" size="10207680" crc="c3aa485a" md5="d3c7dfdec0f96c999d733fa08aa5d38a" sha1="d85b78a962ae2fce4a5f0fd55b731a86f3b88bc8"/>
+		<rom name="Allie's Playhouse (USA) (Track 42).bin" size="10294704" crc="2152a976" md5="c826ea2b08655d37b97581f597472021" sha1="52cec2551bfe56e66ea251fdf7be7b7af5d48ac5"/>
+		<rom name="Allie's Playhouse (USA) (Track 43).bin" size="3979584" crc="1a5f62b4" md5="9a0a6aff5806dc458c8135beebbdb0f0" sha1="5a3e2e6797d4b087b4d022111a9bdd860123e530"/>
+		<rom name="Allie's Playhouse (USA) (Track 44).bin" size="4814544" crc="ef83aef0" md5="a3f9ec954dd69bb444356e9b39918121" sha1="6047057fb6a0c0893c0af798a7a962259e871a78"/>
+		<rom name="Allie's Playhouse (USA).cue" size="4254" crc="2383b559" md5="84b9a3adfface0a3678f0adb7cbdbb7a" sha1="f9e513672828c7bd776a4c0a172a210a794ae7cb"/>
+	</game>
 	<game name="Allied General (USA)" id="80650">
 		<category>Games</category>
 		<description>Allied General (USA)</description>
@@ -13142,6 +13191,12 @@
 		<rom name="Atomowki - Atak Klonow Straszliwego Mojo Jojo (Poland).bin" size="528964800" crc="0cad7efb" md5="dabbc3461032e08c53897bfc053b985d" sha1="44c7fafe16881a31ce3c82aed68cbe474fc4f147"/>
 		<rom name="Atomowki - Atak Klonow Straszliwego Mojo Jojo (Poland).cue" size="120" crc="e71e5764" md5="47833bacd6fa96a5bb92cbfd13fc5387" sha1="36558cb3e37194afffaffb62ce4a07b2825e946c"/>
 	</game>
+	<game name="Atout Clic - CE2 CM1 CM2 (France)" id="137267">
+		<category>Educational</category>
+		<description>Atout Clic - CE2 CM1 CM2 (France)</description>
+		<rom name="Atout Clic - CE2 CM1 CM2 (France).bin" size="622085184" crc="d1d93a7c" md5="a48599ae8c96c8d571242524db027505" sha1="e002acece4cd929cc15774264978d463e23cd549"/>
+		<rom name="Atout Clic - CE2 CM1 CM2 (France).cue" size="122" crc="123bf6d5" md5="014aabb1174cce0968159ba622ebe21c" sha1="054a3331a967d162ccf297e26b225bab781aa90f"/>
+	</game>
 	<game name="Atri - My Dear Moments (Japan) (En,Ja,Zh) (Game Disc)" id="135805">
 		<category>Bonus Discs</category>
 		<description>Atri - My Dear Moments (Japan) (En,Ja,Zh) (Game Disc)</description>
@@ -14007,6 +14062,12 @@
 		<rom name="BMP GoGo West! (Japan) (Track 7).bin" size="39866400" crc="cb7fb84d" md5="9da7b84cfcac98994a81ac6a9bbf513d" sha1="2223f54f611566abd4497f0cbd4e53ffbb9b5264"/>
 		<rom name="BMP GoGo West! (Japan) (Track 8).bin" size="19404000" crc="85da8001" md5="d25f716c2712ad587718a930c8679e03" sha1="ce9fb62003c6df0147b443f76d13a6eca736ee3f"/>
 		<rom name="BMP GoGo West! (Japan).cue" size="933" crc="2eb816ba" md5="e6a60927e4bee8fadb49c5ccfc67531b" sha1="0b3ad0367805683081519d13f0102bbc78f4409f"/>
+	</game>
+	<game name="BR spel (Sweden)" id="137228">
+		<category>Games</category>
+		<description>BR spel (Sweden)</description>
+		<rom name="BR spel (Sweden).bin" size="10344096" crc="0a995375" md5="c1022072b358cc33659c2a7e99162541" sha1="db17fbc12cd56477c613da16d7aea3742174a228"/>
+		<rom name="BR spel (Sweden).cue" size="82" crc="6241c8b6" md5="499961e9a61d3ca6b8a7552a336f0a98" sha1="d099f5e99b5341b1e6b7dc10eec40ad6f503bf6b"/>
 	</game>
 	<game name="BSE Bomber - Der reine Wahnsinn! (Germany)" id="68231">
 		<category>Games</category>
@@ -49851,6 +49912,12 @@
 		<rom name="Eric's Ultimate Solitaire CD (USA).bin" size="79979760" crc="53c6ae34" md5="36346590b5892174daf40ec593585a96" sha1="280e9e3bd3018977b78ce8ef244f8817c05e350d"/>
 		<rom name="Eric's Ultimate Solitaire CD (USA).cue" size="100" crc="8a989b15" md5="4c3177aa57d4e34102fd14c278e836f7" sha1="d821efe6f8c710df07fdc9f17ae8b3128e70c78f"/>
 	</game>
+	<game name="Ernie - Pank i Bayonne (Sweden)" id="137236">
+		<category>Games</category>
+		<description>Ernie - Pank i Bayonne (Sweden)</description>
+		<rom name="Ernie - Pank i Bayonne (Sweden).bin" size="700632576" crc="0b34cc5e" md5="f1c8944a4aa861ad9a3ab2db749bdddf" sha1="e58b4c727b2fc6e776e37457a682890de4d85381"/>
+		<rom name="Ernie - Pank i Bayonne (Sweden).cue" size="120" crc="fe25eb37" md5="ea21738d65965bac43c81031f22833c0" sha1="153a13a498de42b1e781078d69248b1a6e73629b"/>
+	</game>
 	<game name="Eroberer, Die (Germany)" id="100292">
 		<category>Add-Ons</category>
 		<description>Eroberer, Die (Germany)</description>
@@ -67766,11 +67833,11 @@
 		<rom name="Halvan - Har Kommer Bargningsbilen (Sweden) (Rerelease).bin" size="788886672" crc="e5356a44" md5="5e721502e6a45db12813f13ebe994d24" sha1="44ea0e06072f2b5030c2b819b0d3e74d9abd8929"/>
 		<rom name="Halvan - Har Kommer Bargningsbilen (Sweden) (Rerelease).cue" size="121" crc="9fa4974e" md5="466cc88da59fdd62c8eae9c967b3178e" sha1="e6c5da21c839a3d8ef5902cd82df8bf886e68ac4"/>
 	</game>
-	<game name="Halvan - Har Kommer Brandbilen (Sweden) (Rerelease)" id="120469">
+	<game name="Halvan - Har Kommer Brandbilen (Sweden)" id="120469">
 		<category>Educational</category>
-		<description>Halvan - Har Kommer Brandbilen (Sweden) (Rerelease)</description>
-		<rom name="Halvan - Har Kommer Brandbilen (Sweden) (Rerelease).bin" size="139083168" crc="a8f08394" md5="92255f2d9e2a3db5cbc90ba018d3b0b8" sha1="7b89b497bfea02c07efb5ba8cef425597c60eb9a"/>
-		<rom name="Halvan - Har Kommer Brandbilen (Sweden) (Rerelease).cue" size="117" crc="602c9fc2" md5="8758d3aeb6412efda51148d8b283dc63" sha1="193409ff4aadb7da1908bc4bf05feb902cb65760"/>
+		<description>Halvan - Har Kommer Brandbilen (Sweden)</description>
+		<rom name="Halvan - Har Kommer Brandbilen (Sweden).bin" size="139083168" crc="a8f08394" md5="92255f2d9e2a3db5cbc90ba018d3b0b8" sha1="7b89b497bfea02c07efb5ba8cef425597c60eb9a"/>
+		<rom name="Halvan - Har Kommer Brandbilen (Sweden).cue" size="105" crc="21af75d9" md5="1fbd93873a783ba68063729f6dd5d11c" sha1="10433a1aab5d24cd977468730fd5d73a071f4282"/>
 	</game>
 	<game name="Halvan - Har Kommer Polisbilen (Sweden)" id="113050">
 		<category>Educational</category>
@@ -71669,6 +71736,12 @@
 		<description>Hinterland (Russia)</description>
 		<rom name="Hinterland (Russia).bin" size="831267360" crc="9db584b4" md5="e6e0e0666817455f85195866c6b592a2" sha1="0507b58609115cfc06c8385a6bb441c07250e98f"/>
 		<rom name="Hinterland (Russia).cue" size="85" crc="b4b9f616" md5="ef95cb364a85b50704fbe95842678b90" sha1="8a4e693bd80fef3d195950c4b164c0a2cc3b8e1b"/>
+	</game>
+	<game name="Hinterland - A New Kingdom (Turkey) (En,Fr,De,Es)" id="137263">
+		<category>Games</category>
+		<description>Hinterland - A New Kingdom (Turkey) (En,Fr,De,Es)</description>
+		<rom name="Hinterland - A New Kingdom (Turkey) (En,Fr,De,Es).bin" size="276465840" crc="ed015567" md5="b493304e7005d06dc72733cd8ba84a9f" sha1="b3cf43a1711b86ded0e6de2723b7cde3588bd99c"/>
+		<rom name="Hinterland - A New Kingdom (Turkey) (En,Fr,De,Es).cue" size="115" crc="4251ec63" md5="340281f10e867c7c5484d7973b1a65ac" sha1="561c89d45144b6f72064bce132490837a0a938e4"/>
 	</game>
 	<game name="Hinterland - Orc Lords (USA)" id="125675">
 		<category>Games</category>
@@ -83455,21 +83528,21 @@
 		<description>Keep on Truckin' Collection (Australia)</description>
 		<rom name="Keep on Truckin' Collection (Australia).iso" size="2334720000" crc="865062e9" md5="6fde5ee8a358785d90dd2403b7c066b8" sha1="3c450f96873c9f44d65dd6c7856c28e49aac072b"/>
 	</game>
-	<game name="Keep the Balance! (Europe)" id="64521">
+	<game name="Keep the Balance! (Europe) (Rev 1)" id="72129">
 		<category>Games</category>
-		<description>Keep the Balance! (Europe)</description>
-		<rom name="Keep the Balance! (Europe) (Track 01).bin" size="230272560" crc="25c39ee1" md5="5d1b7bb0bd7d9dc8e09185adfb7e145c" sha1="d847347f203a1a30ae741df6ffdfe4eba7c01417"/>
-		<rom name="Keep the Balance! (Europe) (Track 02).bin" size="21880656" crc="a2dadc59" md5="21c1d9e839e9785b22a0c791af22523d" sha1="fc6a0bda44b7ba90fae97f45afb27f1d5c8a6702"/>
-		<rom name="Keep the Balance! (Europe) (Track 03).bin" size="21645456" crc="d74a7273" md5="a507050a34f52da3fb652b0e824ffe9c" sha1="ef880b74c2e77790e58e84c2626fba886572e160"/>
-		<rom name="Keep the Balance! (Europe) (Track 04).bin" size="17997504" crc="fa23a1d3" md5="d2147d530977a400790ddf480c06c03b" sha1="7bb5d12887f76303e8d2de142c49a3f5b1da4a9d"/>
-		<rom name="Keep the Balance! (Europe) (Track 05).bin" size="16311120" crc="2a65263d" md5="f319f5d3cc423a6a2109956358f04f54" sha1="5b8e503d3c908beed7d1ffac261def1119cc2191"/>
-		<rom name="Keep the Balance! (Europe) (Track 06).bin" size="17630592" crc="5135795d" md5="899407e675e5f15d29fb4d4ee6f4f2dc" sha1="9cb25717f0bc25cf4abd022912c68429c2d355a3"/>
-		<rom name="Keep the Balance! (Europe) (Track 07).bin" size="24952368" crc="0005a98e" md5="995eacf39807d334d46ea4429a4ddd6b" sha1="1ade00af71512e89b60feae4a95316eb0c6997a0"/>
-		<rom name="Keep the Balance! (Europe) (Track 08).bin" size="17644704" crc="d07b227c" md5="a3a67f4e77ff8df13f72420ade4443ef" sha1="70b6fd52883480b8f0562a2c020aab87efa37627"/>
-		<rom name="Keep the Balance! (Europe) (Track 09).bin" size="17698800" crc="ae5843ec" md5="6f4a9f56affaa3c1a7ffcf11259c1163" sha1="37b4125146c50c5349925e859499f4741852dc04"/>
-		<rom name="Keep the Balance! (Europe) (Track 10).bin" size="23289504" crc="b9879e29" md5="4a54c0fe7f4e4c19d980710c0baece4b" sha1="84f9ce774e2b0c010e8cc1773c3dcfccec76fa26"/>
-		<rom name="Keep the Balance! (Europe) (Track 11).bin" size="19408704" crc="2bad360f" md5="bca4b15845073c0de8e1c48b31be2c51" sha1="d8fab9410c18925a98af4c90dd3a7f436fb60b32"/>
-		<rom name="Keep the Balance! (Europe).cue" size="1313" crc="88de4b86" md5="316c3c21095067ebfbf1b251d21604ea" sha1="77bd82466ce4f27bd8887646154406e8f2647c12"/>
+		<description>Keep the Balance! (Europe) (Rev 1)</description>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 01).bin" size="230272560" crc="c7585b48" md5="92252a50fefa81c7f51673f7e59229cc" sha1="1970069944b47d2c20bd20a2a324ac5adec9c95f"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 02).bin" size="21875952" crc="429b30d7" md5="a1ddcecc92ed3b4ac4fb0c801ea5ce19" sha1="2680c9de709990fd5756c165fcdeb656de74bb19"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 03).bin" size="21640752" crc="b4b910f1" md5="8249625e9b5a00a75f2560d71f058368" sha1="afed904ee619473d5d82498dd48669c6f9c5a4a5"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 04).bin" size="17992800" crc="7c273ee2" md5="9c06863c4c75460a948035b3639b6957" sha1="b68a0a1babc257d7a2b251439d36b839e1c2c783"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 05).bin" size="16306416" crc="3a64c91b" md5="cc0d4e63422bccba33686f2e49fd63a4" sha1="f305ed516a034a0b336666ecdd147d6dbf6340bf"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 06).bin" size="17625888" crc="a447b193" md5="e4d36c831970d64f1b60fc40d12bd184" sha1="828fb037e7bce4da06ee056a71b417798bf62975"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 07).bin" size="24947664" crc="f37e4cb8" md5="6f943fd8766bb4b206764a73ea802a98" sha1="39e9fd3109b4e9c3bd4afbd4f39b106964435fe1"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 08).bin" size="17640000" crc="22dadec9" md5="0cbfeffc1dbcfcf7a3619ce8bda79208" sha1="d56fcbf5a30a49220b678a1a3f9a33538be9f654"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 09).bin" size="17694096" crc="bc5d755f" md5="26999cea3c5cd1d4c32cee34790d0b8b" sha1="255ab334e1399fa9ded45a6a3c7113b4954312de"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 10).bin" size="23284800" crc="9845f76c" md5="ab52881ffa1ff90b0318eeb7c8660e0a" sha1="1cd0350a6baf8bcc38e080ae005b2fe07417fe3b"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 11).bin" size="19404000" crc="c83f0593" md5="a862455fe42027090ac3f5cf0b10aa11" sha1="a420298b6d25c93a5d2ff61f9eb4da9ab1bbca5a"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1).cue" size="1401" crc="01e2f647" md5="ef9aab3c344a48b3c2423f1f6bdb3238" sha1="3866a873d17451c3f84505518b9043d950d27335"/>
 	</game>
 	<game name="Keepsake (Europe)" id="92846">
 		<category>Games</category>
@@ -87893,11 +87966,11 @@
 		<rom name="Lattjo Lajban - Serie 6 (Sweden) (6B).bin" size="696267264" crc="087a6ee3" md5="3d3bdd06cb9c7a2fbae126823344c55d" sha1="58128053ef21da237ca6319fbf6799fef3611afe"/>
 		<rom name="Lattjo Lajban - Serie 6 (Sweden) (6B).cue" size="103" crc="d735e437" md5="7b04aa503d18097512e92c425139467c" sha1="479312ae27f77990a1615c14ac768a068610030e"/>
 	</game>
-	<game name="Lattjo Lajban - Serie 7 (Sweden)" id="101271">
+	<game name="Lattjo Lajban - Serie 7 &amp; 8 (Sweden) (8B)" id="101271">
 		<category>Games</category>
-		<description>Lattjo Lajban - Serie 7 (Sweden)</description>
-		<rom name="Lattjo Lajban - Serie 7 (Sweden).bin" size="522299232" crc="7ab13a4b" md5="f96073fe7ee32c8cf50967dbc8706e30" sha1="5d9f325a3b066fdc10f74bf2b509ab165283a228"/>
-		<rom name="Lattjo Lajban - Serie 7 (Sweden).cue" size="98" crc="4f3446bd" md5="cc0bdcb512be7ead1894a78ae802ea42" sha1="f9c1aba317a88789f342fb9e0785efd1c214ff37"/>
+		<description>Lattjo Lajban - Serie 7 &amp; 8 (Sweden) (8B)</description>
+		<rom name="Lattjo Lajban - Serie 7 &amp; 8 (Sweden) (8B).bin" size="522299232" crc="7ab13a4b" md5="f96073fe7ee32c8cf50967dbc8706e30" sha1="5d9f325a3b066fdc10f74bf2b509ab165283a228"/>
+		<rom name="Lattjo Lajban - Serie 7 &amp; 8 (Sweden) (8B).cue" size="107" crc="02a82886" md5="1757d1e70bdb23b5fcea724319b61be8" sha1="344617c15d49a2f69389326d3065c487a729a7f4"/>
 	</game>
 	<game name="Launch - The New Millennium Business Game (Japan)" id="106858">
 		<category>Games</category>
@@ -89051,6 +89124,14 @@
 		<description>Lek &amp; Lar for de minsta (Sweden)</description>
 		<rom name="Lek &amp; Lar for de minsta (Sweden).bin" size="776865600" crc="38c8356f" md5="7c6c1c36e4f7f0519d1014203afe8891" sha1="bef19c867f582879e798c03f0b648bdae850ad07"/>
 		<rom name="Lek &amp; Lar for de minsta (Sweden).cue" size="98" crc="750c287d" md5="7da933bb00a97608b49f0503bef2cb4b" sha1="85091d0ce4b90095876f8bbf16facd1de85b858e"/>
+	</game>
+	<game name="Lek &amp; lar med Spoket Laban (Scandinavia)" id="137233">
+		<category>Games</category>
+		<description>Lek &amp; lar med Spoket Laban (Scandinavia)</description>
+		<rom name="Lek &amp; lar med Spoket Laban (Scandinavia) (Track 1).bin" size="503490288" crc="532afefa" md5="ec8008de7ce62d8fc21a0609fa8c8c8a" sha1="1becfcd7b2a655b0a8883eab8b25c8d0c1a99d6c"/>
+		<rom name="Lek &amp; lar med Spoket Laban (Scandinavia) (Track 2).bin" size="24157392" crc="f24cfcdc" md5="6b569600c757b527522a6177ee9dcf7f" sha1="02ea90cd953ae2a721d23df11e10c9bfe96a9c65"/>
+		<rom name="Lek &amp; lar med Spoket Laban (Scandinavia) (Track 3).bin" size="34350960" crc="a38345b6" md5="bb5b008698b7afb59645578381583a39" sha1="e27f2056f8bf10924aa3cb9733a5400822bdaecb"/>
+		<rom name="Lek &amp; lar med Spoket Laban (Scandinavia).cue" size="384" crc="8e00302e" md5="92c8617057ea4bb1c037bc8636d1384c" sha1="2ca32b09c63a9c7ce802eb67b3db64901d2a5c59"/>
 	</game>
 	<game name="Lek &amp; tenk (Norway) (Sv,No)" id="122183">
 		<category>Games</category>
@@ -106608,6 +106689,11 @@
 		<description>MotoGP 08 (Poland) (Pl,Cs)</description>
 		<rom name="MotoGP 08 (Poland) (Pl,Cs).iso" size="3754622976" crc="cb681cfd" md5="526fd43cbd9be1bee6b83489b27842ed" sha1="221000f1ec0a1ea0c015cf47de4766a7906b588a"/>
 	</game>
+	<game name="MotoGP 13 (Europe) (En,Fr,De,Es,It)" id="137268">
+		<category>Games</category>
+		<description>MotoGP 13 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="MotoGP 13 (Europe) (En,Fr,De,Es,It).iso" size="5739413504" crc="ed18cbd0" md5="88ca133834cbb44553d6833d0fc778b0" sha1="1a9cce32636af17264141b0b127f34e049441a92"/>
+	</game>
 	<game name="MotoGP 2 (Europe) (En,Fr,De,Es,It)" id="135769">
 		<category>Games</category>
 		<description>MotoGP 2 (Europe) (En,Fr,De,Es,It)</description>
@@ -114839,6 +114925,21 @@
 		<rom name="Olympiad Qiaosai 2 (Taiwan).bin" size="74377296" crc="c10ccab0" md5="600f55ca525e115fb278be19e7a53890" sha1="a844043485e3ff4fd7ef0e95ebe35fa0c8cbbf75"/>
 		<rom name="Olympiad Qiaosai 2 (Taiwan).cue" size="93" crc="6f2300d4" md5="2b67fdaa15a1501f88896e231d080532" sha1="adab58535611a62a20dc4e680767e85417a79576"/>
 	</game>
+	<game name="Olympic Games (Europe)" id="137235">
+		<category>Games</category>
+		<description>Olympic Games (Europe)</description>
+		<rom name="Olympic Games (Europe) (Track 01).bin" size="121266768" crc="07f4bf23" md5="9fdd92d7bd5ad2897f8d195ea655f999" sha1="c907af9726e662380ac017e7ce8339749838bd02"/>
+		<rom name="Olympic Games (Europe) (Track 02).bin" size="46087440" crc="c4336eaf" md5="b435fd2c4bc32e36c0a1d46fdeef5c86" sha1="68f9e4c573117894bdf3a3bbd90d4f861f3f1f67"/>
+		<rom name="Olympic Games (Europe) (Track 03).bin" size="38511648" crc="ccaa65a5" md5="e19dfac360641527a8ea7e1a26999aeb" sha1="4074ea15755645b9413924df5dc33a233da4429d"/>
+		<rom name="Olympic Games (Europe) (Track 04).bin" size="65935968" crc="be9cf8ae" md5="9465075ba478a9dd8be5d79d8654bbb1" sha1="0f3595b1a479f6642abdd1ae62b6ae64b4388b26"/>
+		<rom name="Olympic Games (Europe) (Track 05).bin" size="36862896" crc="9d52cafb" md5="b58eab0b3edb52a38aa9ceeb1c19b5c4" sha1="21649ad6e8ab4cbe7b9714a5ee16863087fdf2ab"/>
+		<rom name="Olympic Games (Europe) (Track 06).bin" size="27607776" crc="f0c9a1ef" md5="c5f2454a0ab806f5bb08648a0cd3c031" sha1="b79373f5bf4d0d85fbc4cf7c0d3801247c1149f3"/>
+		<rom name="Olympic Games (Europe) (Track 07).bin" size="35618688" crc="91793678" md5="47bc89ef807e8c0d4afc1b949555e10a" sha1="d3af031a510b453b4af3ab962fc0012dbe468b04"/>
+		<rom name="Olympic Games (Europe) (Track 08).bin" size="35858592" crc="9518da03" md5="d3beaa07de568c26b5f0061925d3e8a6" sha1="0fd08f786e50f73a669850c224952ad817640ea5"/>
+		<rom name="Olympic Games (Europe) (Track 09).bin" size="1159536" crc="5e0074c6" md5="f59ee5b222fc85835fc57b86bea5747c" sha1="ee142d48267b4590cc593208636cc17e1f90fb5f"/>
+		<rom name="Olympic Games (Europe) (Track 10).bin" size="37935408" crc="0034ad9e" md5="dba7913d5326b778ad6d9e680131b3c0" sha1="ebada14e06311f0d5ad63bd1bc852fa4fba315ff"/>
+		<rom name="Olympic Games (Europe).cue" size="991" crc="9cd9f6dc" md5="7e0e5bb7064c6c914309e7073a3f0774" sha1="068432c0329451ec209f268b658db4f9f4c726f0"/>
+	</game>
 	<game name="Olympic Games - Atlanta 1996 (Europe)" id="100368">
 		<category>Games</category>
 		<description>Olympic Games - Atlanta 1996 (Europe)</description>
@@ -118099,12 +118200,6 @@
 		<description>Pandora's Box (USA)</description>
 		<rom name="Pandora's Box (USA).bin" size="674003232" crc="e6bcf247" md5="9f5ebcd4ff971a0d8093c5bb1617220a" sha1="988ca650e3db2bec906f345df904facc14c5cc95"/>
 		<rom name="Pandora's Box (USA).cue" size="85" crc="a827b7b8" md5="3eac5cadc9be72ab3aab3e5ead7ccd31" sha1="58f0ca543a7fe23fd232a3095fee5494e72da996"/>
-	</game>
-	<game name="Pandora's Box (USA) (Puzzle Game of the Year Edition)" id="32751">
-		<category>Games</category>
-		<description>Pandora's Box (USA) (Puzzle Game of the Year Edition)</description>
-		<rom name="Pandora's Box (USA) (Puzzle Game of the Year Edition).bin" size="655236624" crc="9e26ffe2" md5="b2419fc00ad491f882ed30d24dbe181a" sha1="31eaf603a8f335c71e236820ccea148ecc27cfb3"/>
-		<rom name="Pandora's Box (USA) (Puzzle Game of the Year Edition).cue" size="119" crc="8df853dc" md5="8268b7571e16bcd6769337f2c07946ed" sha1="384f3dfbe64276aaa089ecdb082d6fbb780e8503"/>
 	</game>
 	<game name="Panic in the Park (USA) (Disc 1)" id="106062">
 		<category>Games</category>
@@ -122572,6 +122667,12 @@
 		<description>PoiPon (Japan)</description>
 		<rom name="PoiPon (Japan).bin" size="119806176" crc="8624cd21" md5="b6ec651c4ae7dd515253e38f50489493" sha1="db14d569aa00783a72a3aacb77a7d10cb19037de"/>
 		<rom name="PoiPon (Japan).cue" size="80" crc="df1c2b5f" md5="0e64a450c24504e0863250b93dc61911" sha1="ba0ac779341bc791f9278e2aaccaa606d2f307ee"/>
+	</game>
+	<game name="Point Software Games 2 (Europe)" id="137234">
+		<category>Games</category>
+		<description>Point Software Games 2 (Europe)</description>
+		<rom name="Point Software Games 2 (Europe).bin" size="29606976" crc="5dd2f642" md5="82f506ff03ddb2e13a07eb12db3bf299" sha1="09339d7eccb0ba18841560db0be95120b517cb52"/>
+		<rom name="Point Software Games 2 (Europe).cue" size="135" crc="f41442ed" md5="5693354efe1d31d7b7e4532cd123e02f" sha1="9c62378ed52afb53ee5407ec54899edcf5cb5b15"/>
 	</game>
 	<game name="Pointsoft Six Pack (Germany)" id="124985">
 		<category>Games</category>
@@ -152112,6 +152213,12 @@
 		<description>Space Bar, The (USA) (PC Disc 3)</description>
 		<rom name="Space Bar, The (USA) (PC Disc 3).bin" size="753820704" crc="da3911f7" md5="bd3549cf46b28f9872b942ed504a6c8f" sha1="e3b5c7f79b8d82f5183f7ca0626a84661b19d7b3"/>
 		<rom name="Space Bar, The (USA) (PC Disc 3).cue" size="98" crc="72955f60" md5="5628956d70f4df76145dda802852acd4" sha1="5dfc57bf92069f407b6a8fa6d1d7dcfd4ce2ad01"/>
+	</game>
+	<game name="Space Bastards - Sudden Justice! (UK)" id="137232">
+		<category>Games</category>
+		<description>Space Bastards - Sudden Justice! (UK)</description>
+		<rom name="Space Bastards - Sudden Justice! (UK).bin" size="265992384" crc="baefd451" md5="203a4d8d2a73834c7e893d32b42534bc" sha1="452b89221ef5962543186649610ef2d60b672d6d"/>
+		<rom name="Space Bastards - Sudden Justice! (UK).cue" size="126" crc="26747813" md5="4c4a6c91c1c69f3bc78438d0e56a09ad" sha1="8b135eb6885e258ff934b9870ea5a38c07fb8bb3"/>
 	</game>
 	<game name="Space Blaster (Germany)" id="100475">
 		<category>Games</category>
@@ -182548,10 +182655,10 @@
 		<rom name="X3D's Model Trains (USA).bin" size="87407376" crc="cd69e056" md5="f048c78d697a0d6d8a9abf430c790c43" sha1="1bba3aebb175b6a3ae502466f6090318b50c2856"/>
 		<rom name="X3D's Model Trains (USA).cue" size="90" crc="9e9868b7" md5="cd8e89b44a491b980749b0debfb7ac80" sha1="4988b6eeab4e02d8096cb9711c31b0b1c9136c12"/>
 	</game>
-	<game name="XCOM - Enemy Unknown (Europe, Australia) (Disc 2)" id="131994">
+	<game name="XCOM - Enemy Unknown (Australia, Germany) (Disc 2)" id="131994">
 		<category>Games</category>
-		<description>XCOM - Enemy Unknown (Europe, Australia) (Disc 2)</description>
-		<rom name="XCOM - Enemy Unknown (Europe, Australia) (Disc 2).iso" size="5812781056" crc="ae8861dd" md5="ea0ca2f1e54e2ab35f04df8d81c36678" sha1="df6d83f7a25fbf3f949a842f72bf7ef0127dfce3"/>
+		<description>XCOM - Enemy Unknown (Australia, Germany) (Disc 2)</description>
+		<rom name="XCOM - Enemy Unknown (Australia, Germany) (Disc 2).iso" size="5812781056" crc="ae8861dd" md5="ea0ca2f1e54e2ab35f04df8d81c36678" sha1="df6d83f7a25fbf3f949a842f72bf7ef0127dfce3"/>
 	</game>
 	<game name="XCOM - Enemy Unknown (Russia) (Disc 3)" id="91358">
 		<category>Games</category>
@@ -182567,6 +182674,21 @@
 		<category>Games</category>
 		<description>XCOM - Enemy Unknown (World) (En,Fr) (Disc 1)</description>
 		<rom name="XCOM - Enemy Unknown (World) (En,Fr) (Disc 1).iso" size="8077639680" crc="cf5ef018" md5="68b497aa5cbcde3b0daf5bc21586c299" sha1="b29282b1e118c9e18d7c1706bdd3e8e18ab9a6fb"/>
+	</game>
+	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 1)" id="137250">
+		<category>Games</category>
+		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 1)</description>
+		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 1).iso" size="8096317440" crc="8e287d35" md5="da68d2e17574bd4ad66fa355187461d2" sha1="ec2ca2f2d1047d760cac1e9ff6ef9c81f653c9bb"/>
+	</game>
+	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 2)" id="137251">
+		<category>Games</category>
+		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 2)</description>
+		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 2).iso" size="7864909824" crc="9745d164" md5="c26ba9688e4034ae7d279551c47395d7" sha1="8f3e239e09982170534a2cb7b1f0037d9217fee4"/>
+	</game>
+	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 3)" id="137252">
+		<category>Games</category>
+		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 3)</description>
+		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 3).iso" size="3728998400" crc="70e7f269" md5="c50b789c98c4a60e1076acefc7c88a01" sha1="dad3a5bb5d4d7fe0a2dc5d66019b73822fdbb78e"/>
 	</game>
 	<game name="XCOM - Enemy Within (Europe, Canada)" id="91359">
 		<category>Add-Ons</category>

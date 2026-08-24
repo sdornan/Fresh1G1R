@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,387) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-23 02-56-54) (Retool)</description>
-		<version>2026-08-23 02-56-54</version>
-		<date>2026-08-23 03-24-05</date>
+		<description>IBM - PC compatible (13,395) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-24 01-26-54) (Retool)</description>
+		<version>2026-08-24 01-26-54</version>
+		<date>2026-08-24 03-24-21</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -37662,6 +37662,12 @@
 		<rom name="Hind - The Russian Combat Helicopter Simulation (USA).bin" size="564162480" crc="2077186f" md5="198e48cd5f47652bc1ee0a874806eb3f" sha1="ba9b6cca70b03d9d5a08832252bfb05ecc49847e"/>
 		<rom name="Hind - The Russian Combat Helicopter Simulation (USA).cue" size="142" crc="bec758ed" md5="809edfc3ea06f16da5b90e01fad5f8d9" sha1="3f295fda74f69343a9768df94b9846bfbd0a91b7"/>
 	</game>
+	<game name="Hinterland - A New Kingdom (Turkey) (En,Fr,De,Es)" id="137263">
+		<category>Games</category>
+		<description>Hinterland - A New Kingdom (Turkey) (En,Fr,De,Es)</description>
+		<rom name="Hinterland - A New Kingdom (Turkey) (En,Fr,De,Es).bin" size="276465840" crc="ed015567" md5="b493304e7005d06dc72733cd8ba84a9f" sha1="b3cf43a1711b86ded0e6de2723b7cde3588bd99c"/>
+		<rom name="Hinterland - A New Kingdom (Turkey) (En,Fr,De,Es).cue" size="115" crc="4251ec63" md5="340281f10e867c7c5484d7973b1a65ac" sha1="561c89d45144b6f72064bce132490837a0a938e4"/>
+	</game>
 	<game name="Hinterland - Orc Lords (USA)" id="125675">
 		<category>Games</category>
 		<description>Hinterland - Orc Lords (USA)</description>
@@ -43442,21 +43448,21 @@
 		<description>Keep on Truckin' Collection (Australia)</description>
 		<rom name="Keep on Truckin' Collection (Australia).iso" size="2334720000" crc="865062e9" md5="6fde5ee8a358785d90dd2403b7c066b8" sha1="3c450f96873c9f44d65dd6c7856c28e49aac072b"/>
 	</game>
-	<game name="Keep the Balance! (Europe)" id="64521">
+	<game name="Keep the Balance! (Europe) (Rev 1)" id="72129">
 		<category>Games</category>
-		<description>Keep the Balance! (Europe)</description>
-		<rom name="Keep the Balance! (Europe) (Track 01).bin" size="230272560" crc="25c39ee1" md5="5d1b7bb0bd7d9dc8e09185adfb7e145c" sha1="d847347f203a1a30ae741df6ffdfe4eba7c01417"/>
-		<rom name="Keep the Balance! (Europe) (Track 02).bin" size="21880656" crc="a2dadc59" md5="21c1d9e839e9785b22a0c791af22523d" sha1="fc6a0bda44b7ba90fae97f45afb27f1d5c8a6702"/>
-		<rom name="Keep the Balance! (Europe) (Track 03).bin" size="21645456" crc="d74a7273" md5="a507050a34f52da3fb652b0e824ffe9c" sha1="ef880b74c2e77790e58e84c2626fba886572e160"/>
-		<rom name="Keep the Balance! (Europe) (Track 04).bin" size="17997504" crc="fa23a1d3" md5="d2147d530977a400790ddf480c06c03b" sha1="7bb5d12887f76303e8d2de142c49a3f5b1da4a9d"/>
-		<rom name="Keep the Balance! (Europe) (Track 05).bin" size="16311120" crc="2a65263d" md5="f319f5d3cc423a6a2109956358f04f54" sha1="5b8e503d3c908beed7d1ffac261def1119cc2191"/>
-		<rom name="Keep the Balance! (Europe) (Track 06).bin" size="17630592" crc="5135795d" md5="899407e675e5f15d29fb4d4ee6f4f2dc" sha1="9cb25717f0bc25cf4abd022912c68429c2d355a3"/>
-		<rom name="Keep the Balance! (Europe) (Track 07).bin" size="24952368" crc="0005a98e" md5="995eacf39807d334d46ea4429a4ddd6b" sha1="1ade00af71512e89b60feae4a95316eb0c6997a0"/>
-		<rom name="Keep the Balance! (Europe) (Track 08).bin" size="17644704" crc="d07b227c" md5="a3a67f4e77ff8df13f72420ade4443ef" sha1="70b6fd52883480b8f0562a2c020aab87efa37627"/>
-		<rom name="Keep the Balance! (Europe) (Track 09).bin" size="17698800" crc="ae5843ec" md5="6f4a9f56affaa3c1a7ffcf11259c1163" sha1="37b4125146c50c5349925e859499f4741852dc04"/>
-		<rom name="Keep the Balance! (Europe) (Track 10).bin" size="23289504" crc="b9879e29" md5="4a54c0fe7f4e4c19d980710c0baece4b" sha1="84f9ce774e2b0c010e8cc1773c3dcfccec76fa26"/>
-		<rom name="Keep the Balance! (Europe) (Track 11).bin" size="19408704" crc="2bad360f" md5="bca4b15845073c0de8e1c48b31be2c51" sha1="d8fab9410c18925a98af4c90dd3a7f436fb60b32"/>
-		<rom name="Keep the Balance! (Europe).cue" size="1313" crc="88de4b86" md5="316c3c21095067ebfbf1b251d21604ea" sha1="77bd82466ce4f27bd8887646154406e8f2647c12"/>
+		<description>Keep the Balance! (Europe) (Rev 1)</description>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 01).bin" size="230272560" crc="c7585b48" md5="92252a50fefa81c7f51673f7e59229cc" sha1="1970069944b47d2c20bd20a2a324ac5adec9c95f"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 02).bin" size="21875952" crc="429b30d7" md5="a1ddcecc92ed3b4ac4fb0c801ea5ce19" sha1="2680c9de709990fd5756c165fcdeb656de74bb19"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 03).bin" size="21640752" crc="b4b910f1" md5="8249625e9b5a00a75f2560d71f058368" sha1="afed904ee619473d5d82498dd48669c6f9c5a4a5"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 04).bin" size="17992800" crc="7c273ee2" md5="9c06863c4c75460a948035b3639b6957" sha1="b68a0a1babc257d7a2b251439d36b839e1c2c783"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 05).bin" size="16306416" crc="3a64c91b" md5="cc0d4e63422bccba33686f2e49fd63a4" sha1="f305ed516a034a0b336666ecdd147d6dbf6340bf"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 06).bin" size="17625888" crc="a447b193" md5="e4d36c831970d64f1b60fc40d12bd184" sha1="828fb037e7bce4da06ee056a71b417798bf62975"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 07).bin" size="24947664" crc="f37e4cb8" md5="6f943fd8766bb4b206764a73ea802a98" sha1="39e9fd3109b4e9c3bd4afbd4f39b106964435fe1"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 08).bin" size="17640000" crc="22dadec9" md5="0cbfeffc1dbcfcf7a3619ce8bda79208" sha1="d56fcbf5a30a49220b678a1a3f9a33538be9f654"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 09).bin" size="17694096" crc="bc5d755f" md5="26999cea3c5cd1d4c32cee34790d0b8b" sha1="255ab334e1399fa9ded45a6a3c7113b4954312de"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 10).bin" size="23284800" crc="9845f76c" md5="ab52881ffa1ff90b0318eeb7c8660e0a" sha1="1cd0350a6baf8bcc38e080ae005b2fe07417fe3b"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1) (Track 11).bin" size="19404000" crc="c83f0593" md5="a862455fe42027090ac3f5cf0b10aa11" sha1="a420298b6d25c93a5d2ff61f9eb4da9ab1bbca5a"/>
+		<rom name="Keep the Balance! (Europe) (Rev 1).cue" size="1401" crc="01e2f647" md5="ef9aab3c344a48b3c2423f1f6bdb3238" sha1="3866a873d17451c3f84505518b9043d950d27335"/>
 	</game>
 	<game name="Keepsake (Europe)" id="92846">
 		<category>Games</category>
@@ -45698,6 +45704,14 @@
 		<description>Leisure Suit Larry's Greatest Hits and Misses! (USA)</description>
 		<rom name="Leisure Suit Larry's Greatest Hits and Misses! (USA).bin" size="180285504" crc="32880885" md5="e62d2c7ab04989e8568c18bc3995a950" sha1="be23e0b34d9cf9bc28368036f9fcad4b327e2bbd"/>
 		<rom name="Leisure Suit Larry's Greatest Hits and Misses! (USA).cue" size="118" crc="94c086ce" md5="cf9660e9faf253f1780d856655610872" sha1="45b88ec424ad8015affb5f28ce372490360fb124"/>
+	</game>
+	<game name="Lek &amp; lar med Spoket Laban (Scandinavia)" id="137233">
+		<category>Games</category>
+		<description>Lek &amp; lar med Spoket Laban (Scandinavia)</description>
+		<rom name="Lek &amp; lar med Spoket Laban (Scandinavia) (Track 1).bin" size="503490288" crc="532afefa" md5="ec8008de7ce62d8fc21a0609fa8c8c8a" sha1="1becfcd7b2a655b0a8883eab8b25c8d0c1a99d6c"/>
+		<rom name="Lek &amp; lar med Spoket Laban (Scandinavia) (Track 2).bin" size="24157392" crc="f24cfcdc" md5="6b569600c757b527522a6177ee9dcf7f" sha1="02ea90cd953ae2a721d23df11e10c9bfe96a9c65"/>
+		<rom name="Lek &amp; lar med Spoket Laban (Scandinavia) (Track 3).bin" size="34350960" crc="a38345b6" md5="bb5b008698b7afb59645578381583a39" sha1="e27f2056f8bf10924aa3cb9733a5400822bdaecb"/>
+		<rom name="Lek &amp; lar med Spoket Laban (Scandinavia).cue" size="384" crc="8e00302e" md5="92c8617057ea4bb1c037bc8636d1384c" sha1="2ca32b09c63a9c7ce802eb67b3db64901d2a5c59"/>
 	</game>
 	<game name="Lemmings &amp; Lemmings 2 - The Tribes (Europe)" id="30719">
 		<category>Games</category>
@@ -54191,6 +54205,11 @@
 		<rom name="MotoGP - Ultimate Racing Technology 3 (Europe) (En,Fr,De,Es).bin" size="794684352" crc="ff105adc" md5="fb2fd2e06563e96bdcf692a582d6a278" sha1="d354b2e2aedbe7f99bcb2d1b1b3a22d226c2946d"/>
 		<rom name="MotoGP - Ultimate Racing Technology 3 (Europe) (En,Fr,De,Es).cue" size="126" crc="a6c67743" md5="8207d3c6b1ac4b6217327411252c1666" sha1="4f2eae58e7b169d74200933241c3a4e15f5b94cb"/>
 	</game>
+	<game name="MotoGP 13 (Europe) (En,Fr,De,Es,It)" id="137268">
+		<category>Games</category>
+		<description>MotoGP 13 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="MotoGP 13 (Europe) (En,Fr,De,Es,It).iso" size="5739413504" crc="ed18cbd0" md5="88ca133834cbb44553d6833d0fc778b0" sha1="1a9cce32636af17264141b0b127f34e049441a92"/>
+	</game>
 	<game name="MotoGP 2 (Europe) (En,Fr,De,Es,It)" id="135769">
 		<category>Games</category>
 		<description>MotoGP 2 (Europe) (En,Fr,De,Es,It)</description>
@@ -58334,6 +58353,21 @@
 		<rom name="Ollo in the Sunny Valley Fair (Sweden) (En,Sv,No,Da,Fi).bin" size="537664848" crc="ec14313c" md5="334afaaf96e9f6236ce4bda8ed8fd3d1" sha1="0f99ea3788dbab43125c258c46c81fbbcf8b3672"/>
 		<rom name="Ollo in the Sunny Valley Fair (Sweden) (En,Sv,No,Da,Fi).cue" size="144" crc="4c8dd0a6" md5="1a3d83b48742839b31a9534b0ed353b3" sha1="51f6700fe52ae6d513e0fb93985ca4a65d385f1f"/>
 	</game>
+	<game name="Olympic Games (Europe)" id="137235">
+		<category>Games</category>
+		<description>Olympic Games (Europe)</description>
+		<rom name="Olympic Games (Europe) (Track 01).bin" size="121266768" crc="07f4bf23" md5="9fdd92d7bd5ad2897f8d195ea655f999" sha1="c907af9726e662380ac017e7ce8339749838bd02"/>
+		<rom name="Olympic Games (Europe) (Track 02).bin" size="46087440" crc="c4336eaf" md5="b435fd2c4bc32e36c0a1d46fdeef5c86" sha1="68f9e4c573117894bdf3a3bbd90d4f861f3f1f67"/>
+		<rom name="Olympic Games (Europe) (Track 03).bin" size="38511648" crc="ccaa65a5" md5="e19dfac360641527a8ea7e1a26999aeb" sha1="4074ea15755645b9413924df5dc33a233da4429d"/>
+		<rom name="Olympic Games (Europe) (Track 04).bin" size="65935968" crc="be9cf8ae" md5="9465075ba478a9dd8be5d79d8654bbb1" sha1="0f3595b1a479f6642abdd1ae62b6ae64b4388b26"/>
+		<rom name="Olympic Games (Europe) (Track 05).bin" size="36862896" crc="9d52cafb" md5="b58eab0b3edb52a38aa9ceeb1c19b5c4" sha1="21649ad6e8ab4cbe7b9714a5ee16863087fdf2ab"/>
+		<rom name="Olympic Games (Europe) (Track 06).bin" size="27607776" crc="f0c9a1ef" md5="c5f2454a0ab806f5bb08648a0cd3c031" sha1="b79373f5bf4d0d85fbc4cf7c0d3801247c1149f3"/>
+		<rom name="Olympic Games (Europe) (Track 07).bin" size="35618688" crc="91793678" md5="47bc89ef807e8c0d4afc1b949555e10a" sha1="d3af031a510b453b4af3ab962fc0012dbe468b04"/>
+		<rom name="Olympic Games (Europe) (Track 08).bin" size="35858592" crc="9518da03" md5="d3beaa07de568c26b5f0061925d3e8a6" sha1="0fd08f786e50f73a669850c224952ad817640ea5"/>
+		<rom name="Olympic Games (Europe) (Track 09).bin" size="1159536" crc="5e0074c6" md5="f59ee5b222fc85835fc57b86bea5747c" sha1="ee142d48267b4590cc593208636cc17e1f90fb5f"/>
+		<rom name="Olympic Games (Europe) (Track 10).bin" size="37935408" crc="0034ad9e" md5="dba7913d5326b778ad6d9e680131b3c0" sha1="ebada14e06311f0d5ad63bd1bc852fa4fba315ff"/>
+		<rom name="Olympic Games (Europe).cue" size="991" crc="9cd9f6dc" md5="7e0e5bb7064c6c914309e7073a3f0774" sha1="068432c0329451ec209f268b658db4f9f4c726f0"/>
+	</game>
 	<game name="Olympic Games - Atlanta 1996 (Europe)" id="100368">
 		<category>Games</category>
 		<description>Olympic Games - Atlanta 1996 (Europe)</description>
@@ -59961,12 +59995,6 @@
 		<description>Pandora's Box (USA)</description>
 		<rom name="Pandora's Box (USA).bin" size="674003232" crc="e6bcf247" md5="9f5ebcd4ff971a0d8093c5bb1617220a" sha1="988ca650e3db2bec906f345df904facc14c5cc95"/>
 		<rom name="Pandora's Box (USA).cue" size="85" crc="a827b7b8" md5="3eac5cadc9be72ab3aab3e5ead7ccd31" sha1="58f0ca543a7fe23fd232a3095fee5494e72da996"/>
-	</game>
-	<game name="Pandora's Box (USA) (Puzzle Game of the Year Edition)" id="32751">
-		<category>Games</category>
-		<description>Pandora's Box (USA) (Puzzle Game of the Year Edition)</description>
-		<rom name="Pandora's Box (USA) (Puzzle Game of the Year Edition).bin" size="655236624" crc="9e26ffe2" md5="b2419fc00ad491f882ed30d24dbe181a" sha1="31eaf603a8f335c71e236820ccea148ecc27cfb3"/>
-		<rom name="Pandora's Box (USA) (Puzzle Game of the Year Edition).cue" size="119" crc="8df853dc" md5="8268b7571e16bcd6769337f2c07946ed" sha1="384f3dfbe64276aaa089ecdb082d6fbb780e8503"/>
 	</game>
 	<game name="Panic in the Park (USA) (Disc 1)" id="106062">
 		<category>Games</category>
@@ -61949,6 +61977,12 @@
 		<description>Pogo Family Fun Pack (USA)</description>
 		<rom name="Pogo Family Fun Pack (USA).bin" size="109201008" crc="cbf3b184" md5="286ec29076794ee7d35faab90787cdc9" sha1="57c6eafaf53065dd1d3c8dae7538dd544bb8c590"/>
 		<rom name="Pogo Family Fun Pack (USA).cue" size="92" crc="c6aed2a6" md5="3989a72b9f82d16e84448bca40024711" sha1="b663999cca6527b11dd75f36a68f4fb7cf2af4a5"/>
+	</game>
+	<game name="Point Software Games 2 (Europe)" id="137234">
+		<category>Games</category>
+		<description>Point Software Games 2 (Europe)</description>
+		<rom name="Point Software Games 2 (Europe).bin" size="29606976" crc="5dd2f642" md5="82f506ff03ddb2e13a07eb12db3bf299" sha1="09339d7eccb0ba18841560db0be95120b517cb52"/>
+		<rom name="Point Software Games 2 (Europe).cue" size="135" crc="f41442ed" md5="5693354efe1d31d7b7e4532cd123e02f" sha1="9c62378ed52afb53ee5407ec54899edcf5cb5b15"/>
 	</game>
 	<game name="PokeROM - Arbok (USA)" id="89755">
 		<category>Games</category>
@@ -75570,6 +75604,12 @@
 		<description>Space Bar, The (USA) (PC Disc 3)</description>
 		<rom name="Space Bar, The (USA) (PC Disc 3).bin" size="753820704" crc="da3911f7" md5="bd3549cf46b28f9872b942ed504a6c8f" sha1="e3b5c7f79b8d82f5183f7ca0626a84661b19d7b3"/>
 		<rom name="Space Bar, The (USA) (PC Disc 3).cue" size="98" crc="72955f60" md5="5628956d70f4df76145dda802852acd4" sha1="5dfc57bf92069f407b6a8fa6d1d7dcfd4ce2ad01"/>
+	</game>
+	<game name="Space Bastards - Sudden Justice! (UK)" id="137232">
+		<category>Games</category>
+		<description>Space Bastards - Sudden Justice! (UK)</description>
+		<rom name="Space Bastards - Sudden Justice! (UK).bin" size="265992384" crc="baefd451" md5="203a4d8d2a73834c7e893d32b42534bc" sha1="452b89221ef5962543186649610ef2d60b672d6d"/>
+		<rom name="Space Bastards - Sudden Justice! (UK).cue" size="126" crc="26747813" md5="4c4a6c91c1c69f3bc78438d0e56a09ad" sha1="8b135eb6885e258ff934b9870ea5a38c07fb8bb3"/>
 	</game>
 	<game name="Space Blaster (Germany)" id="100475">
 		<category>Games</category>
@@ -92850,10 +92890,10 @@
 		<rom name="X3D's Model Trains (USA).bin" size="87407376" crc="cd69e056" md5="f048c78d697a0d6d8a9abf430c790c43" sha1="1bba3aebb175b6a3ae502466f6090318b50c2856"/>
 		<rom name="X3D's Model Trains (USA).cue" size="90" crc="9e9868b7" md5="cd8e89b44a491b980749b0debfb7ac80" sha1="4988b6eeab4e02d8096cb9711c31b0b1c9136c12"/>
 	</game>
-	<game name="XCOM - Enemy Unknown (Europe, Australia) (Disc 2)" id="131994">
+	<game name="XCOM - Enemy Unknown (Australia, Germany) (Disc 2)" id="131994">
 		<category>Games</category>
-		<description>XCOM - Enemy Unknown (Europe, Australia) (Disc 2)</description>
-		<rom name="XCOM - Enemy Unknown (Europe, Australia) (Disc 2).iso" size="5812781056" crc="ae8861dd" md5="ea0ca2f1e54e2ab35f04df8d81c36678" sha1="df6d83f7a25fbf3f949a842f72bf7ef0127dfce3"/>
+		<description>XCOM - Enemy Unknown (Australia, Germany) (Disc 2)</description>
+		<rom name="XCOM - Enemy Unknown (Australia, Germany) (Disc 2).iso" size="5812781056" crc="ae8861dd" md5="ea0ca2f1e54e2ab35f04df8d81c36678" sha1="df6d83f7a25fbf3f949a842f72bf7ef0127dfce3"/>
 	</game>
 	<game name="XCOM - Enemy Unknown (USA, Europe) (En,Fr) (Disc 2) (Special Edition)" id="31023">
 		<category>Games</category>
@@ -92864,6 +92904,21 @@
 		<category>Games</category>
 		<description>XCOM - Enemy Unknown (World) (En,Fr) (Disc 1)</description>
 		<rom name="XCOM - Enemy Unknown (World) (En,Fr) (Disc 1).iso" size="8077639680" crc="cf5ef018" md5="68b497aa5cbcde3b0daf5bc21586c299" sha1="b29282b1e118c9e18d7c1706bdd3e8e18ab9a6fb"/>
+	</game>
+	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 1)" id="137250">
+		<category>Games</category>
+		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 1)</description>
+		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 1).iso" size="8096317440" crc="8e287d35" md5="da68d2e17574bd4ad66fa355187461d2" sha1="ec2ca2f2d1047d760cac1e9ff6ef9c81f653c9bb"/>
+	</game>
+	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 2)" id="137251">
+		<category>Games</category>
+		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 2)</description>
+		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 2).iso" size="7864909824" crc="9745d164" md5="c26ba9688e4034ae7d279551c47395d7" sha1="8f3e239e09982170534a2cb7b1f0037d9217fee4"/>
+	</game>
+	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 3)" id="137252">
+		<category>Games</category>
+		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 3)</description>
+		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 3).iso" size="3728998400" crc="70e7f269" md5="c50b789c98c4a60e1076acefc7c88a01" sha1="dad3a5bb5d4d7fe0a2dc5d66019b73822fdbb78e"/>
 	</game>
 	<game name="XCar - Experimental Racing (USA)" id="31586">
 		<category>Games</category>

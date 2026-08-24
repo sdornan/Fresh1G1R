@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (898) (-y) [-aAbBcdkmMpPuv] (2026-08-22 20-06-53) (Retool)</description>
-		<version>2026-08-22 20-06-53</version>
-		<date>2026-08-23 03-35-38</date>
+		<description>Microsoft - Xbox One (898) (-y) [-aAbBcdkmMpPuv] (2026-08-24 01-28-44) (Retool)</description>
+		<version>2026-08-24 01-28-44</version>
+		<date>2026-08-24 03-35-30</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1231,10 +1231,10 @@
 		<description>Evil Within, The (USA)</description>
 		<rom name="Evil Within, The (USA).iso" size="45957781504" crc="68cda605" md5="3f3f5f3ea4fae59cb8bdef021d88eae5" sha1="91692b49308745527bfc566886b7fd835ab1d982"/>
 	</game>
-	<game name="Evolve (USA, Europe)" id="45971">
+	<game name="Evolve (World)" id="45971">
 		<category>Games</category>
-		<description>Evolve (USA, Europe)</description>
-		<rom name="Evolve (USA, Europe).iso" size="44919785472" crc="9c8a2a3b" md5="dd906d486f9e708aaac3ec33f1b1fdeb" sha1="7fbd94d98f68002c8bda7c8c2d5324984cb9361e"/>
+		<description>Evolve (World)</description>
+		<rom name="Evolve (World).iso" size="44919785472" crc="9c8a2a3b" md5="dd906d486f9e708aaac3ec33f1b1fdeb" sha1="7fbd94d98f68002c8bda7c8c2d5324984cb9361e"/>
 	</game>
 	<game name="F1 2015 (USA, Europe)" id="62448">
 		<category>Games</category>
@@ -2386,15 +2386,15 @@
 		<description>Mighty No. 9 (USA, Europe)</description>
 		<rom name="Mighty No. 9 (USA, Europe).iso" size="22978238464" crc="0200aff4" md5="eebe17f33245ff60009f4abcf6b9ada5" sha1="e271e2ad625fd20701d092ecc29c25cb851c4f0c"/>
 	</game>
+	<game name="Minecraft (USA)" id="48379">
+		<category>Games</category>
+		<description>Minecraft (USA)</description>
+		<rom name="Minecraft (USA).iso" size="18869225472" crc="7d1a7316" md5="ff38a5544190ae842b542f8a86c26759" sha1="0513a8d386cd8ddc06205fddbbfd90400d648561"/>
+	</game>
 	<game name="Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (USA)" id="115090">
 		<category>Games</category>
 		<description>Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (USA)</description>
 		<rom name="Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (USA).iso" size="22978983936" crc="51b3fdd0" md5="73f59ca7aeb10e4fcdd6aca3ee2be793" sha1="ea81bf9dd7e432b411362e31093dce02eb743305"/>
-	</game>
-	<game name="Minecraft - Xbox One Edition (USA) (Includes Explorer Pack)" id="48379">
-		<category>Games</category>
-		<description>Minecraft - Xbox One Edition (USA) (Includes Explorer Pack)</description>
-		<rom name="Minecraft - Xbox One Edition (USA) (Includes Explorer Pack).iso" size="18869225472" crc="7d1a7316" md5="ff38a5544190ae842b542f8a86c26759" sha1="0513a8d386cd8ddc06205fddbbfd90400d648561"/>
 	</game>
 	<game name="Minecraft - Xbox One Edition (USA, Europe)" id="108856">
 		<category>Games</category>
@@ -4056,10 +4056,10 @@
 		<description>Town of Light, The (USA)</description>
 		<rom name="Town of Light, The (USA).iso" size="22978238464" crc="c0bfdb58" md5="49abf35e7a6e0679f210b356f540de2e" sha1="8bd52ea82f92db8347f0f7cbcc9e0f6ce11a43f5"/>
 	</game>
-	<game name="Toy Soldiers - War Chest - Hall of Fame Edition (USA)" id="44593">
+	<game name="Toy Soldiers - War Chest (USA)" id="44593">
 		<category>Games</category>
-		<description>Toy Soldiers - War Chest - Hall of Fame Edition (USA)</description>
-		<rom name="Toy Soldiers - War Chest - Hall of Fame Edition (USA).iso" size="22978238464" crc="260347ed" md5="62be9e424ebfaa030e687fb93838427a" sha1="56d56d62c4dbe0318a10acae0b1144fca2584661"/>
+		<description>Toy Soldiers - War Chest (USA)</description>
+		<rom name="Toy Soldiers - War Chest (USA).iso" size="22978238464" crc="260347ed" md5="62be9e424ebfaa030e687fb93838427a" sha1="56d56d62c4dbe0318a10acae0b1144fca2584661"/>
 	</game>
 	<game name="Trackmania Turbo (USA, Europe)" id="46199">
 		<category>Games</category>
@@ -4191,10 +4191,10 @@
 		<description>Vampyr (USA)</description>
 		<rom name="Vampyr (USA).iso" size="22978238464" crc="6baf5a1b" md5="8b2e37866dfc0203cfcc8954d73f2dbc" sha1="29211822cce4642b879471a95a6231d37086336c"/>
 	</game>
-	<game name="Victor Vran - Overkill Edition (Europe)" id="58852">
+	<game name="Victor Vran (Europe)" id="58852">
 		<category>Games</category>
-		<description>Victor Vran - Overkill Edition (Europe)</description>
-		<rom name="Victor Vran - Overkill Edition (Europe).iso" size="22978238464" crc="647eb343" md5="5c82706591ec640b5e0d577e96f84a68" sha1="db1c912dbf578dec611284a6b5b0d6c682819513"/>
+		<description>Victor Vran (Europe)</description>
+		<rom name="Victor Vran (Europe).iso" size="22978238464" crc="647eb343" md5="5c82706591ec640b5e0d577e96f84a68" sha1="db1c912dbf578dec611284a6b5b0d6c682819513"/>
 	</game>
 	<game name="Vikings - Wolves of Midgard (USA)" id="104971">
 		<category>Games</category>

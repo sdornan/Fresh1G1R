@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (976) (-y) [-aAbBcefkmMoprv] (20260821-022446) (Retool)</description>
-		<version>20260821-022446</version>
-		<date>2026-08-23 03-18-59</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (977) (-y) [-aAbBcefkmMoprv] (20260822-113458) (Retool)</description>
+		<version>20260822-113458</version>
+		<date>2026-08-24 03-19-21</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2352,6 +2352,12 @@
 		<description>Jikkyou Powerful Pro Yakyuu Heroes (Japan)</description>
 		<game_id>00040000001A7400</game_id>
 		<rom name="Jikkyou Powerful Pro Yakyuu Heroes (Japan).3ds" size="1073741824" crc="0170c6d3" md5="f121ef5a9adbcda70c79d17e3d50db04" sha1="dc42892bb216efce8100464ed1fb6c208dc51a57"/>
+	</game>
+	<game name="Johnny All-Star (USA) (Proto)" id="1872">
+		<category>Preproduction</category>
+		<description>Johnny All-Star (USA) (Proto)</description>
+		<game_id>00040000000D1900</game_id>
+		<rom name="Johnny All-Star (USA) (Proto).3ds" size="2147483648" crc="3457fcc9" md5="f02c51d6d4bd4e7b00e683304130acb4" sha1="9ed88ba88abd003f0615100e35dd767011698f65" sha256="d7ae7803f8e87fb63645ec0430bdba283bb92d7a65a49f313e65d8e2604c30fa"/>
 	</game>
 	<game name="Jukugo - Sokubiki Jiten Yomenai Kanji mo Raku Raku Yomeru (Japan) (Rev 1)" id="0990">
 		<category>Games</category>
