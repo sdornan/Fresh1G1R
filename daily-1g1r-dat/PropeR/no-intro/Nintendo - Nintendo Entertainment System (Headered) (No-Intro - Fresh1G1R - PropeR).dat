@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,401) (-y) [-aAbBcdkmMpPuv] (20260822-234046) (Retool)</description>
-		<version>20260822-234046</version>
-		<date>2026-08-24 03-40-02</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,405) (-y) [-aAbBcdkmMpPuv] (20260823-115538) (Retool)</description>
+		<version>20260823-115538</version>
+		<date>2026-08-25 03-36-49</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -791,10 +791,30 @@
 		<description>Bokosuka Wars (Japan) (En)</description>
 		<rom name="Bokosuka Wars (Japan) (En).nes" size="40976" header="4e 45 53 1a 02 01 01 08 00 00 00 00 00 00 00 01" crc="847232f6" md5="475b158da1827b1aaff41e89f0db7916" sha1="70ed35e325eb8b587ce72b485dce07fec21458c6" sha256="8228b0a6613aa49dcc62bb0e448d061469a29504c159259f0ae02ce2c049b132"/>
 	</game>
+	<game name="Bomberman (Japan) (En) (Super Bomberman Collection)" id="8599">
+		<category>Games</category>
+		<description>Bomberman (Japan) (En) (Super Bomberman Collection)</description>
+		<rom name="Bomberman (Japan) (En) (Super Bomberman Collection).nes" size="40976" header="4e 45 53 1a 02 01 01 08 00 00 00 00 00 00 00 01" crc="0344672e" md5="e38d7f0a8e42e422e906b15f2329855b" sha1="3dc81fe5ce50132d39b564991d94929f9b1ad390" sha256="89a28bccf4b35fef4c2a778f4d867cafebb122ed4cbf0d9acdcbbc31c3adaa45"/>
+	</game>
 	<game name="Bomberman (USA)" id="0287">
 		<category>Games</category>
 		<description>Bomberman (USA)</description>
 		<rom name="Bomberman (USA).nes" size="24592" header="4e 45 53 1a 01 01 01 08 00 00 00 00 00 00 00 01" crc="f5daaf10" md5="775f664b177e561b34615614d160dfb7" sha1="1a38860f7583e4619dacd293e80d80e7bd4ee021" sha256="c36cba4fd0cb894bc3202f995d00bb62993d6ec92ca0e038512f542bd2c90157"/>
+	</game>
+	<game name="Bomberman II (Japan) (En) (Super Bomberman Collection)" id="8600">
+		<category>Games</category>
+		<description>Bomberman II (Japan) (En) (Super Bomberman Collection)</description>
+		<rom name="Bomberman II (Japan) (En) (Super Bomberman Collection).nes" size="131088" header="4e 45 53 1a 08 00 10 08 00 00 07 07 00 00 00 03" crc="506240e2" md5="aefd486e8853b53295b42eca52da4e32" sha1="a6b69a1f8a935339eb0237783e7d3afea138b25c" sha256="a29a69c2fe2db0fcd18511eee9c4ab6ab443d85b023bcfd27321e09845d2e971"/>
+	</game>
+	<game name="Bomberman II (Japan) (En) (Super Bomberman Collection) (PS5)" id="8601">
+		<category>Games</category>
+		<description>Bomberman II (Japan) (En) (Super Bomberman Collection) (PS5)</description>
+		<rom name="Bomberman II (Japan) (En) (Super Bomberman Collection) (PS5).nes" size="131088" header="4e 45 53 1a 08 00 10 08 00 00 07 07 00 00 00 03" crc="dd1286ae" md5="a4b578e85b0fe8af2c048887d4359c33" sha1="29bf7a93a78270608842a0ca4a66299e23f22890" sha256="04f897231436fec43707739481cc8fdcec290796fee89520c0a272c9ac7cdc49"/>
+	</game>
+	<game name="Bomberman II (Japan) (En) (Super Bomberman Collection) (XBOX)" id="8603">
+		<category>Games</category>
+		<description>Bomberman II (Japan) (En) (Super Bomberman Collection) (XBOX)</description>
+		<rom name="Bomberman II (Japan) (En) (Super Bomberman Collection) (XBOX).nes" size="131088" header="4e 45 53 1a 08 00 10 08 00 00 07 07 00 00 00 03" crc="c2af9926" md5="de9804ff61dc456d04938bb6f1d5407d" sha1="2055ca092e2a58006f8ec48f1010018d58bff5df" sha256="4ccc52d03ee179b931bf516f99fdc14df5c56417cf9ad3fafc94bfdc14750aac"/>
 	</game>
 	<game name="Bomberman II (USA)" id="0289">
 		<category>Games</category>

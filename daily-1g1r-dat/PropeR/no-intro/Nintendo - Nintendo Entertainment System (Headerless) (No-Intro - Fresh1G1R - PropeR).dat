@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,401) (-y) [-aAbBcdkmMpPuv] (20260822-234046) (Retool)</description>
-		<version>20260822-234046</version>
-		<date>2026-08-24 03-39-41</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,405) (-y) [-aAbBcdkmMpPuv] (20260823-115538) (Retool)</description>
+		<version>20260823-115538</version>
+		<date>2026-08-25 03-38-23</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -791,10 +791,30 @@
 		<description>Bokosuka Wars (Japan) (En)</description>
 		<rom name="Bokosuka Wars (Japan) (En).unh" size="40960" crc="fe18e6b6" md5="d6bc9ee65276001c46e3693660d0da42" sha1="8a5e699f33926e521b589025465fd536564902a3" sha256="822da78ef1ccb37bfa68373a83f7434960de388e4b5b53661b479953a5085322"/>
 	</game>
+	<game name="Bomberman (Japan) (En) (Super Bomberman Collection)" id="8599">
+		<category>Games</category>
+		<description>Bomberman (Japan) (En) (Super Bomberman Collection)</description>
+		<rom name="Bomberman (Japan) (En) (Super Bomberman Collection).unh" size="40960" crc="792eb36e" md5="e56e41e7a91c3bce93c8d87ce4007022" sha1="bcc630029dc824e422dd8297774396128cd74977" sha256="308bb0c91b531ef42d4bdc4eadee0a346759efc6d9184511c73990bf7f14ce12"/>
+	</game>
 	<game name="Bomberman (USA)" id="0287">
 		<category>Games</category>
 		<description>Bomberman (USA)</description>
 		<rom name="Bomberman (USA).unh" size="24576" crc="db9dcf89" md5="0f9c8d3d3099c70368411f6df9ef49c1" sha1="d2bf7bd570430902114f1e3393f1feb8b1c76e4d" sha256="2967746c2a434c97a074b14d894ea132fab8e443899f6ca870718eeee1669039"/>
+	</game>
+	<game name="Bomberman II (Japan) (En) (Super Bomberman Collection)" id="8600">
+		<category>Games</category>
+		<description>Bomberman II (Japan) (En) (Super Bomberman Collection)</description>
+		<rom name="Bomberman II (Japan) (En) (Super Bomberman Collection).unh" size="131072" crc="f7de62e4" md5="8e57eed3dabdf9405b0622d4f8e71ff3" sha1="a63aeef14e4ba2ac2ac2641c1e9576ff91d9fdf8" sha256="1745bf24e1d79c13efe74f54b7420d92ce08995c944c4505d32c98c9d30a34a3"/>
+	</game>
+	<game name="Bomberman II (Japan) (En) (Super Bomberman Collection) (PS5)" id="8601">
+		<category>Games</category>
+		<description>Bomberman II (Japan) (En) (Super Bomberman Collection) (PS5)</description>
+		<rom name="Bomberman II (Japan) (En) (Super Bomberman Collection) (PS5).unh" size="131072" crc="7aaea4a8" md5="613aa739ec3672a5ea3d4fae4dac1afb" sha1="b7642a45a09ab7c810b868f18d51a5ca8f5bf1ed" sha256="289c66efc9ffdffac800a6b0730d628d69d6ffa2d5790801849d96ab7f871da6"/>
+	</game>
+	<game name="Bomberman II (Japan) (En) (Super Bomberman Collection) (XBOX)" id="8603">
+		<category>Games</category>
+		<description>Bomberman II (Japan) (En) (Super Bomberman Collection) (XBOX)</description>
+		<rom name="Bomberman II (Japan) (En) (Super Bomberman Collection) (XBOX).unh" size="131072" crc="6513bb20" md5="69d2a2bdd864ad68bf0c13ff4aa4b00e" sha1="23206405af2308b97b4843b7e39bb7a26010a0f9" sha256="9532699e75d37dedff703728e2e1034ba5bc025920de4b8fe02401f4049881b6"/>
 	</game>
 	<game name="Bomberman II (USA)" id="0289">
 		<category>Games</category>

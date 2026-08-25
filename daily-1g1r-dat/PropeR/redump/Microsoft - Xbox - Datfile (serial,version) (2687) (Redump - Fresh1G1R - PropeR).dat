@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox (Retool)</name>
-		<description>Microsoft - Xbox (1,034) (-y) [-aAbBcdkmMpPuv] (2026-08-23 06-16-53) (Retool)</description>
-		<version>2026-08-23 06-16-53</version>
-		<date>2026-08-24 03-35-21</date>
+		<description>Microsoft - Xbox (1,034) (-y) [-aAbBcdkmMpPuv] (2026-08-24 18-26-53) (Retool)</description>
+		<version>2026-08-24 18-26-53</version>
+		<date>2026-08-25 03-30-26</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2373,6 +2373,7 @@
 		<category>Games</category>
 		<description>Halo 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)</description>
 		<serial>MS-100</serial>
+		<version>1.03</version>
 		<rom name="Halo 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).iso" size="7825162240" crc="51838b47" md5="5f91d0b7e5b07fd500cff9ab02997711" sha1="8335b9010b651b07fb0ca4cb9d0b2f0adf2cbd21"/>
 	</game>
 	<game name="Halo 2 Multiplayer Map Pack (World) (En,Ja,Fr,De,Es,It,Zh,Ko)" id="27161">
@@ -4365,6 +4366,7 @@
 		<category>Games</category>
 		<description>R-Racing Evolution (USA)</description>
 		<serial>NM-008</serial>
+		<version>1.02</version>
 		<rom name="R-Racing Evolution (USA).iso" size="7825162240" crc="6291db13" md5="c0ff000dedd4e27a179bead080318ac7" sha1="c1b010c17c9486b5203d72cc35609d54baac570c"/>
 	</game>
 	<game name="RLH - Run Like Hell (USA)" id="47830">
@@ -5191,6 +5193,7 @@
 		<category>Games</category>
 		<description>Sudeki (World) (En,Fr,De,Es,It)</description>
 		<serial>MS-010</serial>
+		<version>1.01</version>
 		<rom name="Sudeki (World) (En,Fr,De,Es,It).iso" size="7825162240" crc="f47c16f9" md5="ad00d7dcb377b8a8d0588741d1d925fe" sha1="364143dffc22677f5b1ec63f44e463127812e1fc"/>
 	</game>
 	<game name="Suffering, The (USA)" id="13636">
@@ -5295,11 +5298,11 @@
 		<serial>IG-013</serial>
 		<rom name="Taz - Wanted (USA).iso" size="7825162240" crc="b53338c3" md5="7d1246f7f6e13092c6022a64d4f97b6e" sha1="f45a8bc370983a8dac75a81b8f5d922bbaa5afc9"/>
 	</game>
-	<game name="Tecmo Classic Arcade (USA, Japan) (En,Ja)" id="48320">
+	<game name="Tecmo Classic Arcade (USA, Asia) (En,Ja)" id="48320">
 		<category>Games</category>
-		<description>Tecmo Classic Arcade (USA, Japan) (En,Ja)</description>
+		<description>Tecmo Classic Arcade (USA, Asia) (En,Ja)</description>
 		<serial>TC-014</serial>
-		<rom name="Tecmo Classic Arcade (USA, Japan) (En,Ja).iso" size="7825162240" crc="4a25d86d" md5="16ff92339a599188b3e8a17247368f08" sha1="a70eacf4ec50ae38a5b7fd90d52ca80558997e79"/>
+		<rom name="Tecmo Classic Arcade (USA, Asia) (En,Ja).iso" size="7825162240" crc="4a25d86d" md5="16ff92339a599188b3e8a17247368f08" sha1="a70eacf4ec50ae38a5b7fd90d52ca80558997e79"/>
 	</game>
 	<game name="Teen Titans (USA)" id="54505">
 		<category>Games</category>
@@ -6098,12 +6101,14 @@
 		<category>Games</category>
 		<description>Worms 4 - Mayhem (USA)</description>
 		<serial>MJ-023</serial>
+		<version>1.01</version>
 		<rom name="Worms 4 - Mayhem (USA).iso" size="7825162240" crc="adbf5c5d" md5="7f1b688cef9325b07d7b35955f3c459a" sha1="a398240b192a64b2ad6c045d2e0e8a33a118edc1"/>
 	</game>
 	<game name="Worms Forts - Under Siege (USA) (En,Fr)" id="42910">
 		<category>Games</category>
 		<description>Worms Forts - Under Siege (USA) (En,Fr)</description>
 		<serial>SE-053</serial>
+		<version>1.03</version>
 		<rom name="Worms Forts - Under Siege (USA) (En,Fr).iso" size="7825162240" crc="23bad44a" md5="2fe1116d1649fdcf0db222400fbb6894" sha1="f095669a3ced45b7449de603fb33170239752d6a"/>
 	</game>
 	<game name="Wrath Unleashed (USA)" id="54201">

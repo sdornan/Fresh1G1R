@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,412) (-y) [-aAbBcdkmMpPuv] (2026-08-24 01-26-54) (Retool)</description>
-		<version>2026-08-24 01-26-54</version>
-		<date>2026-08-24 03-34-13</date>
+		<description>IBM - PC compatible (26,418) (-y) [-aAbBcdkmMpPuv] (2026-08-24 22-56-54) (Retool)</description>
+		<version>2026-08-24 22-56-54</version>
+		<date>2026-08-25 03-29-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -26842,6 +26842,16 @@
 		<rom name="Chess (Australia).bin" size="327666528" crc="88b761da" md5="e65816b55abcbd5fadbf8747f3fe807b" sha1="3b3dd524efcf425b0271a21ed0cf5cb913390d27"/>
 		<rom name="Chess (Australia).cue" size="83" crc="82921f5c" md5="427297074ad76517de699097861d1d20" sha1="083eca5251d621b9eebf224206308e10f3e7f752"/>
 	</game>
+	<game name="Chess 3000 (Turkey)" id="137271">
+		<category>Games</category>
+		<description>Chess 3000 (Turkey)</description>
+		<rom name="Chess 3000 (Turkey) (Track 1).bin" size="75640320" crc="e1819cae" md5="3a104611bd9f4f3d22b2cc927864034d" sha1="4aa5bebec83c825a57be49643d006b61a7a2853f"/>
+		<rom name="Chess 3000 (Turkey) (Track 2).bin" size="27551328" crc="ebe21a62" md5="719d5853073bb534179ae883bc1f09b5" sha1="5be26502f62357a16d75de68cb57357bb7cbe0e0"/>
+		<rom name="Chess 3000 (Turkey) (Track 3).bin" size="22884960" crc="1f1d35e1" md5="27043953ec415a77ab0283158af42bcd" sha1="10a5d25759c455e96f2a3d95a4af80e2bdee07e5"/>
+		<rom name="Chess 3000 (Turkey) (Track 4).bin" size="28386288" crc="7b931518" md5="da0ec0b3d0b9a886ab197114f6e0cad2" sha1="e8a5ee8107738617a911ca28ba9ae4b36d852a89"/>
+		<rom name="Chess 3000 (Turkey) (Track 5).bin" size="43502592" crc="8014a49c" md5="f6d6ac03c3e40164bfbbd7e28a856101" sha1="df928ce4227f947ce8f97ca7ee9ea4d2a5786d39"/>
+		<rom name="Chess 3000 (Turkey).cue" size="478" crc="4936dc1c" md5="95101dadd294ba753c70ab9da8ff7270" sha1="60c9554ff0fa7ea6675ae3e447417cb781fdf91c"/>
+	</game>
 	<game name="Chess Advantage (USA) (Disc 1) (Maurice Ashely Teaches Chess, Chess Master 4000, Grandmaster Chess, and Internet Chess Club)" id="59594">
 		<category>Games</category>
 		<description>Chess Advantage (USA) (Disc 1) (Maurice Ashely Teaches Chess, Chess Master 4000, Grandmaster Chess, and Internet Chess Club)</description>
@@ -46339,6 +46349,18 @@
 		<description>Dungeons &amp; Dragons - Dragonshard (USA) (Disc 2)</description>
 		<rom name="Dungeons &amp; Dragons - Dragonshard (USA) (Disc 2).bin" size="801312288" crc="62e075bf" md5="eda6b83236ba5ff05f702acace61742a" sha1="daa81cb207c45fe2f5cb33a8e9547b8bc8b5a3b4"/>
 		<rom name="Dungeons &amp; Dragons - Dragonshard (USA) (Disc 2).cue" size="113" crc="3fc73059" md5="26e24ddd4a56bd993b0293aa1c6d7a8d" sha1="c87509f696ac17cc0342bc3aa71de31d25a59856"/>
+	</game>
+	<game name="Dungeons &amp; Dragons - The Temple of Elemental Evil (Europe) (Disc 1) (Rerelease)" id="28846">
+		<category>Games</category>
+		<description>Dungeons &amp; Dragons - The Temple of Elemental Evil (Europe) (Disc 1) (Rerelease)</description>
+		<rom name="Dungeons &amp; Dragons - The Temple of Elemental Evil (Europe) (Disc 1) (Rerelease).bin" size="783317136" crc="431bc1e2" md5="071c9b1933c3ee15f930b401b92ac204" sha1="5ee1116e511eb84c411860823e4870f9a46ef4e5"/>
+		<rom name="Dungeons &amp; Dragons - The Temple of Elemental Evil (Europe) (Disc 1) (Rerelease).cue" size="145" crc="cb9a950b" md5="c0e1a18af51438bba292faf621308470" sha1="39514752b4a091005088ce0c30a278032d6c7acf"/>
+	</game>
+	<game name="Dungeons &amp; Dragons - The Temple of Elemental Evil (Europe) (Disc 2) (Rerelease)" id="28847">
+		<category>Games</category>
+		<description>Dungeons &amp; Dragons - The Temple of Elemental Evil (Europe) (Disc 2) (Rerelease)</description>
+		<rom name="Dungeons &amp; Dragons - The Temple of Elemental Evil (Europe) (Disc 2) (Rerelease).bin" size="757409856" crc="aa603fc2" md5="0d121ec5f092e4df0d40557f0dc42825" sha1="f7fc7e03bc5f82e6cc6f4105bcd40e61fafa94ea"/>
+		<rom name="Dungeons &amp; Dragons - The Temple of Elemental Evil (Europe) (Disc 2) (Rerelease).cue" size="145" crc="393bb0a7" md5="7a62d21894d38831050b42c4b73c6c92" sha1="7280dcf76c96320d20f20c02bfe9b04e92d8d8d9"/>
 	</game>
 	<game name="Dungeons &amp; Dragons Anthology - The Master Collection (USA) (Disc 1)" id="80293">
 		<category>Games</category>
@@ -84087,11 +84109,11 @@
 		<rom name="Kid's Typing (USA) (Rerelease).bin" size="47992560" crc="6cf9235c" md5="5bd63440572d220905b217e0cb7cb2ee" sha1="1356aacc0abc9ad4fbc99bd555c7a2dfacd2cbc1"/>
 		<rom name="Kid's Typing (USA) (Rerelease).cue" size="119" crc="5eaa9abf" md5="759c2b29fea30d393ef5dbe991032707" sha1="4bc21fafaf6149dde69c71d476c83b491412235f"/>
 	</game>
-	<game name="Kid's Wincube - Logic (USA)" id="126618">
+	<game name="Kid's Wincube - Logic (USA) (Rev 1)" id="126618">
 		<category>Games</category>
-		<description>Kid's Wincube - Logic (USA)</description>
-		<rom name="Kid's Wincube - Logic (USA).bin" size="45165456" crc="43b58b7e" md5="b8e831a0671c2e4556cdce409f222a1e" sha1="8b93b976a9fd5c508cea411de820b7eabd0b88f4"/>
-		<rom name="Kid's Wincube - Logic (USA).cue" size="93" crc="0ed3b51f" md5="bca640bccfa5dc0a85b26a7d64be42ef" sha1="32f6ffc388b3ac78a7b9470f946cd07d6dc76817"/>
+		<description>Kid's Wincube - Logic (USA) (Rev 1)</description>
+		<rom name="Kid's Wincube - Logic (USA) (Rev 1).bin" size="45165456" crc="43b58b7e" md5="b8e831a0671c2e4556cdce409f222a1e" sha1="8b93b976a9fd5c508cea411de820b7eabd0b88f4"/>
+		<rom name="Kid's Wincube - Logic (USA) (Rev 1).cue" size="101" crc="fb66bffa" md5="0d1989c9789d547b26f270b4844f066d" sha1="b8ce444365d29cdd72794339a9bed8b958b128ff"/>
 	</game>
 	<game name="Kid's Zoo - A Baby Animal Adventure (USA)" id="85987">
 		<category>Educational</category>
@@ -176867,6 +176889,21 @@
 		<description>Warhammer 40,000 - Dawn of War II - Retribution (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Warhammer 40,000 - Dawn of War II - Retribution (Europe) (En,Fr,De,Es,It).iso" size="7959281664" crc="6c8bd38e" md5="3297ac8f2819e85c3b6eb82228fe0947" sha1="3bfcd8edb82a98388b9b93a78abcd0d9169fa6d7"/>
 	</game>
+	<game name="Warhammer 40,000 - Dawn of War III (Asia) (Disc 1)" id="137274">
+		<category>Games</category>
+		<description>Warhammer 40,000 - Dawn of War III (Asia) (Disc 1)</description>
+		<rom name="Warhammer 40,000 - Dawn of War III (Asia) (Disc 1).iso" size="6303580160" crc="8038e296" md5="cf3dd95635148b56aede6f08bdd0a89c" sha1="21ce790b5301951d087f2ff7ae048ded910e4cb5"/>
+	</game>
+	<game name="Warhammer 40,000 - Dawn of War III (Asia) (Disc 2)" id="137275">
+		<category>Games</category>
+		<description>Warhammer 40,000 - Dawn of War III (Asia) (Disc 2)</description>
+		<rom name="Warhammer 40,000 - Dawn of War III (Asia) (Disc 2).iso" size="6291324928" crc="ab7ce970" md5="6a88d28b968ba72f290d0798e4bd284d" sha1="45bc16b4344bef03f8b2cdae5d6e847f2ebace47"/>
+	</game>
+	<game name="Warhammer 40,000 - Dawn of War III (Asia) (Disc 4)" id="137276">
+		<category>Games</category>
+		<description>Warhammer 40,000 - Dawn of War III (Asia) (Disc 4)</description>
+		<rom name="Warhammer 40,000 - Dawn of War III (Asia) (Disc 4).iso" size="4595253248" crc="66fc69c1" md5="68883d1f32b4a2498a6eb53b6a19c448" sha1="907fbd1022cdfbff4b4b7b861337aec1db1aaf46"/>
+	</game>
 	<game name="Warhammer 40,000 - Fire Warrior (USA) (En,Fr,De,Es,It) (Disc 1)" id="81622">
 		<category>Games</category>
 		<description>Warhammer 40,000 - Fire Warrior (USA) (En,Fr,De,Es,It) (Disc 1)</description>
@@ -182675,20 +182712,20 @@
 		<description>XCOM - Enemy Unknown (World) (En,Fr) (Disc 1)</description>
 		<rom name="XCOM - Enemy Unknown (World) (En,Fr) (Disc 1).iso" size="8077639680" crc="cf5ef018" md5="68b497aa5cbcde3b0daf5bc21586c299" sha1="b29282b1e118c9e18d7c1706bdd3e8e18ab9a6fb"/>
 	</game>
-	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 1)" id="137250">
+	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (En,Ja,Fr,De,Es,It,Ko,Pl,Ru) (Disc 1)" id="137250">
 		<category>Games</category>
-		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 1)</description>
-		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 1).iso" size="8096317440" crc="8e287d35" md5="da68d2e17574bd4ad66fa355187461d2" sha1="ec2ca2f2d1047d760cac1e9ff6ef9c81f653c9bb"/>
+		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (En,Ja,Fr,De,Es,It,Ko,Pl,Ru) (Disc 1)</description>
+		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (En,Ja,Fr,De,Es,It,Ko,Pl,Ru) (Disc 1).iso" size="8096317440" crc="8e287d35" md5="da68d2e17574bd4ad66fa355187461d2" sha1="ec2ca2f2d1047d760cac1e9ff6ef9c81f653c9bb"/>
 	</game>
-	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 2)" id="137251">
+	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (En,Ja,Fr,De,Es,It,Ko,Pl,Ru) (Disc 2)" id="137251">
 		<category>Games</category>
-		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 2)</description>
-		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 2).iso" size="7864909824" crc="9745d164" md5="c26ba9688e4034ae7d279551c47395d7" sha1="8f3e239e09982170534a2cb7b1f0037d9217fee4"/>
+		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (En,Ja,Fr,De,Es,It,Ko,Pl,Ru) (Disc 2)</description>
+		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (En,Ja,Fr,De,Es,It,Ko,Pl,Ru) (Disc 2).iso" size="7864909824" crc="9745d164" md5="c26ba9688e4034ae7d279551c47395d7" sha1="8f3e239e09982170534a2cb7b1f0037d9217fee4"/>
 	</game>
-	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 3)" id="137252">
+	<game name="XCOM - Enemy Unknown - The Complete Edition (USA) (En,Ja,Fr,De,Es,It,Ko,Pl,Ru) (Disc 3)" id="137252">
 		<category>Games</category>
-		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 3)</description>
-		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (Disc 3).iso" size="3728998400" crc="70e7f269" md5="c50b789c98c4a60e1076acefc7c88a01" sha1="dad3a5bb5d4d7fe0a2dc5d66019b73822fdbb78e"/>
+		<description>XCOM - Enemy Unknown - The Complete Edition (USA) (En,Ja,Fr,De,Es,It,Ko,Pl,Ru) (Disc 3)</description>
+		<rom name="XCOM - Enemy Unknown - The Complete Edition (USA) (En,Ja,Fr,De,Es,It,Ko,Pl,Ru) (Disc 3).iso" size="3728998400" crc="70e7f269" md5="c50b789c98c4a60e1076acefc7c88a01" sha1="dad3a5bb5d4d7fe0a2dc5d66019b73822fdbb78e"/>
 	</game>
 	<game name="XCOM - Enemy Within (Europe, Canada)" id="91359">
 		<category>Add-Ons</category>
