@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,885) (-y) [-aAbBcefkmMoprv] (2026-08-24 22-56-54) (Retool)</description>
-		<version>2026-08-24 22-56-54</version>
-		<date>2026-08-25 03-08-43</date>
+		<description>IBM - PC compatible (25,895) (-y) [-aAbBcefkmMoprv] (2026-08-26 01-06-54) (Retool)</description>
+		<version>2026-08-26 01-06-54</version>
+		<date>2026-08-26 03-14-41</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2516,10 +2516,10 @@
 		<description>707 Great Games (USA)</description>
 		<rom name="707 Great Games (USA).iso" size="2527756288" crc="61d18a86" md5="12b9db5f88ae4acdb376397bde07f660" sha1="df975b9e8f8c942e5377bdd3c7861575e3a4efe1"/>
 	</game>
-	<game name="737 - Pilot in Command (Europe)" id="115986">
+	<game name="737 - Pilot in Command (Europe) (2008-01-17)" id="115986">
 		<category>Add-Ons</category>
-		<description>737 - Pilot in Command (Europe)</description>
-		<rom name="737 - Pilot in Command (Europe).iso" size="3683876864" crc="d855937e" md5="e5c0d5d9c45f9a180d64bc4d6e0f06b5" sha1="2cc832b5c4b1672c5695728854c631af429daa18"/>
+		<description>737 - Pilot in Command (Europe) (2008-01-17)</description>
+		<rom name="737 - Pilot in Command (Europe) (2008-01-17).iso" size="3683876864" crc="d855937e" md5="e5c0d5d9c45f9a180d64bc4d6e0f06b5" sha1="2cc832b5c4b1672c5695728854c631af429daa18"/>
 	</game>
 	<game name="747 (Europe)" id="125181">
 		<category>Add-Ons</category>
@@ -12669,6 +12669,12 @@
 		<description>Atari Anniversary Edition (USA)</description>
 		<rom name="Atari Anniversary Edition (USA).bin" size="753672528" crc="f0655299" md5="d61786f5f1e3c2bcb3d4030dad4b13d7" sha1="d793657a9c59c13fccb8349459a2fa1b3dfbbc3f"/>
 		<rom name="Atari Anniversary Edition (USA).cue" size="97" crc="8ebb28cb" md5="946a11936b25e220ded0032b5dddca95" sha1="5e9a700e980cbe043e198d46a9782253f98691dc"/>
+	</game>
+	<game name="Atari Arcade Hits - Volume 2 (Europe)" id="137303">
+		<category>Games</category>
+		<description>Atari Arcade Hits - Volume 2 (Europe)</description>
+		<rom name="Atari Arcade Hits - Volume 2 (Europe).bin" size="153216336" crc="b8bcfe77" md5="9a6d640a9fc0f480f75fd30ed025a524" sha1="c9d998e5f39b532b3e49cce3f0af2bd357f1699b"/>
+		<rom name="Atari Arcade Hits - Volume 2 (Europe).cue" size="103" crc="d55b6d0b" md5="36515f5c7122fee4f98c6d5d8733974e" sha1="4028ab643054c6af5e1641d5aa0859a4e4802ac7"/>
 	</game>
 	<game name="Atari Arcade Hits 1 (USA, Canada) (En,Fr,De,Es) (v1.1) (1999-07-08)" id="90282">
 		<category>Games</category>
@@ -39698,10 +39704,10 @@
 		<rom name="Disciples II Gold (USA) (Disc 4).bin" size="776994960" crc="c2e5f223" md5="57ab7dad63dbcfcc2630d52a7c65818f" sha1="5695a7e8faf9c8ddb3ab889927a3b44344a2d294"/>
 		<rom name="Disciples II Gold (USA) (Disc 4).cue" size="98" crc="e52f63f5" md5="7b4ee627f01fe84f018181aa2be06c8a" sha1="094e8609c625431b645e489f9a0bd30261d6ce33"/>
 	</game>
-	<game name="Disciples III - Gold Edition (USA)" id="99109">
+	<game name="Disciples III - Gold Edition (USA, Europe)" id="99109">
 		<category>Games</category>
-		<description>Disciples III - Gold Edition (USA)</description>
-		<rom name="Disciples III - Gold Edition (USA).iso" size="7625768960" crc="fc1bb478" md5="e181bb1b555c2bb8d01389173f116771" sha1="8ed6e9ccc1163f4dcac96b139417f95c6c44fc92"/>
+		<description>Disciples III - Gold Edition (USA, Europe)</description>
+		<rom name="Disciples III - Gold Edition (USA, Europe).iso" size="7625768960" crc="fc1bb478" md5="e181bb1b555c2bb8d01389173f116771" sha1="8ed6e9ccc1163f4dcac96b139417f95c6c44fc92"/>
 	</game>
 	<game name="Disciples III - Odrodzenie (Poland) (Rerelease)" id="125008">
 		<category>Games</category>
@@ -41665,6 +41671,12 @@
 		<description>Disney-Pixar A Bug's Life - Active Play (USA)</description>
 		<rom name="Disney-Pixar A Bug's Life - Active Play (USA).bin" size="730251312" crc="087dcb30" md5="b4c099fc1dce397b3930db87243158a2" sha1="027f38ecbf72bdfe7234b44e9fde24c026e255b6"/>
 		<rom name="Disney-Pixar A Bug's Life - Active Play (USA).cue" size="134" crc="39224b50" md5="467480498a0618f348536f4405e1ac0b" sha1="b8aa849465b049a9e7b47bf93a3faa1a0084c072"/>
+	</game>
+	<game name="Disney-Pixar A Bug's Life - Active Play - CD-ROM Preview (USA)" id="137314">
+		<category>Demos</category>
+		<description>Disney-Pixar A Bug's Life - Active Play - CD-ROM Preview (USA)</description>
+		<rom name="Disney-Pixar A Bug's Life - Active Play - CD-ROM Preview (USA).bin" size="175703808" crc="d1553a31" md5="3ba1e2eeba70ace1d7a44cc959b3474f" sha1="da2bd7c0dbe5a80c7007255ce9c29b029321b766"/>
+		<rom name="Disney-Pixar A Bug's Life - Active Play - CD-ROM Preview (USA).cue" size="151" crc="315f231f" md5="2e6472238208242126cc8126ab9ba432" sha1="5398fd9082c8b7dc8875e040164d2d05a235ae28"/>
 	</game>
 	<game name="Disney-Pixar A Bug's Life - Megaminimondo (Italy)" id="71290">
 		<category>Games</category>
@@ -49439,11 +49451,10 @@
 		<rom name="Euro Truck Simulator (Europe).bin" size="384606096" crc="3c29b113" md5="2850b40aec5f6fbe10187c88d34a33b1" sha1="39a8437bd21a47cfd15c03691b28039bd072c953"/>
 		<rom name="Euro Truck Simulator (Europe).cue" size="95" crc="680a94e0" md5="7d3ec909ad33da90a3a9e723e10fcc11" sha1="0c7a66f432b2663bea5803c3f04c803c27b191a0"/>
 	</game>
-	<game name="Euro Truck Simulator 2 (Scandinavia) (En,Sv,No,Da,Fi)" id="60403">
+	<game name="Euro Truck Simulator 2 (Europe) (En,It,Nl,Tr,Ro)" id="137296">
 		<category>Games</category>
-		<description>Euro Truck Simulator 2 (Scandinavia) (En,Sv,No,Da,Fi)</description>
-		<rom name="Euro Truck Simulator 2 (Scandinavia) (En,Sv,No,Da,Fi).bin" size="624665328" crc="691cb6aa" md5="09a86a950fff469992c3b3ac709e7a2a" sha1="fa9cfe28bf96f4aa55c69afe8150d979780f408c"/>
-		<rom name="Euro Truck Simulator 2 (Scandinavia) (En,Sv,No,Da,Fi).cue" size="119" crc="c84f574d" md5="0d327d3252166ba35409840deba2effa" sha1="bdaa3de944e8ff10237c7499cbdb7c8ef0f37dab"/>
+		<description>Euro Truck Simulator 2 (Europe) (En,It,Nl,Tr,Ro)</description>
+		<rom name="Euro Truck Simulator 2 (Europe) (En,It,Nl,Tr,Ro).iso" size="649789440" crc="34744bbc" md5="7f1938ad5c78342bd3ad5b32e08b8837" sha1="62dd956681f3fce1018c98c3e7ec31f722c10500"/>
 	</game>
 	<game name="Euro Truck Simulator 2 - Going East! (Scandinavia) (En,Sv,No,Da,Fi)" id="60404">
 		<category>Add-Ons</category>
@@ -54250,6 +54261,12 @@
 		<description>Fem Myror ar fler an fyra elefanter - Forsta delen (Sweden)</description>
 		<rom name="Fem Myror ar fler an fyra elefanter - Forsta delen (Sweden).bin" size="515306736" crc="b50a8b23" md5="eebf9b8ddf4802380dbf44df6896917c" sha1="e74f85dfc6db8ed2456fa78925cde847fecc05c4"/>
 		<rom name="Fem Myror ar fler an fyra elefanter - Forsta delen (Sweden).cue" size="125" crc="548752d4" md5="3b69fd84b24c6bcdafe93fc032702bac" sha1="0a096f3411c199dd34e0a107a0fff1e56d137fff"/>
+	</game>
+	<game name="Fem myror ar fler an fyra elefanter (Sweden) (Hemglass)" id="137298">
+		<category>Demos</category>
+		<description>Fem myror ar fler an fyra elefanter (Sweden) (Hemglass)</description>
+		<rom name="Fem myror ar fler an fyra elefanter (Sweden) (Hemglass).bin" size="360164112" crc="7048196a" md5="ef0802942b458f316a4631abc83b1413" sha1="2d78cecd8ff12fb5f4145c2a93784017f6b6fd80"/>
+		<rom name="Fem myror ar fler an fyra elefanter (Sweden) (Hemglass).cue" size="121" crc="24aeab96" md5="994e41b5ea93dc15e42d244bd0ccafdb" sha1="cbc88a4a77c11fb35ebe754fa0a36b0927b1edfb"/>
 	</game>
 	<game name="Feng Zhi Tansuozhe (Taiwan)" id="103768">
 		<category>Games</category>
@@ -66058,22 +66075,22 @@
 		<rom name="Guru Logi Champ (Japan) (Taikenban).bin" size="1930992" crc="fff2e472" md5="ec2d9021eaa91c08dd41dc5f9afbed14" sha1="1a073ce1fe7778e582ee236899f3126ce5446d4f"/>
 		<rom name="Guru Logi Champ (Japan) (Taikenban).cue" size="101" crc="ce5bf7db" md5="48a08f266367d8e7b88e9873ee1ff96b" sha1="96f51564df8094370323d8d5243857e17ec5e1da"/>
 	</game>
-	<game name="Gurumin (China) (Disc 1)" id="96477">
-		<category>Games</category>
-		<description>Gurumin (China) (Disc 1)</description>
-		<rom name="Gurumin (China) (Disc 1).bin" size="489639360" crc="37822bf0" md5="d1ec6e2dc9d374c7f1f1ec71aa4dd259" sha1="5e17645316d9606e8631d59587518327f42cf678"/>
-		<rom name="Gurumin (China) (Disc 1).cue" size="105" crc="91227d9a" md5="da268ab182667d217267b2dfc6f38467" sha1="342a3bbcb46f855fcc9032e5678ae94bb88e3743"/>
-	</game>
-	<game name="Gurumin (China) (Disc 2)" id="96478">
-		<category>Games</category>
-		<description>Gurumin (China) (Disc 2)</description>
-		<rom name="Gurumin (China) (Disc 2).bin" size="638838480" crc="737ceaa6" md5="57f50f35b4dba3c48bdda5a9f8538fef" sha1="433c62b8363f63db8995b12576b66610de71251d"/>
-		<rom name="Gurumin (China) (Disc 2).cue" size="105" crc="08629af5" md5="05f9cabb6f3a96970574f7a1d224bb7d" sha1="665ff9100881a404416d5457a0cdfc644f7a25a5"/>
-	</game>
 	<game name="Gurumin (Japan)" id="96232">
 		<category>Games</category>
 		<description>Gurumin (Japan)</description>
 		<rom name="Gurumin (Japan).iso" size="3930085376" crc="81346bf2" md5="3bc47ab22abd72a7d175a38970c07602" sha1="022031eb32813cac6ccf90aaf408d1efa96155d2"/>
+	</game>
+	<game name="Gurumin (Japan) (Disc 1)" id="137293">
+		<category>Games</category>
+		<description>Gurumin (Japan) (Disc 1)</description>
+		<rom name="Gurumin (Japan) (Disc 1).bin" size="754754448" crc="e4002b9f" md5="0c8a20e8251412e1a8a2fb403491bbba" sha1="7816b4f57d95a59a59a7794c29e873394f9d681a"/>
+		<rom name="Gurumin (Japan) (Disc 1).cue" size="90" crc="e6bcdb56" md5="72848596685a691b669706cd34525d7d" sha1="3e2be0588ad614956542431e5c7d236a4aacb9bf"/>
+	</game>
+	<game name="Gurumin (Japan) (Disc 2)" id="137294">
+		<category>Games</category>
+		<description>Gurumin (Japan) (Disc 2)</description>
+		<rom name="Gurumin (Japan) (Disc 2).bin" size="728059248" crc="79a95bdf" md5="e3dd6b551d80f93f7dd08b0405d9b91f" sha1="40b6c5cedb969e88c2c9c2e2ea179cb2a9f2d504"/>
+		<rom name="Gurumin (Japan) (Disc 2).cue" size="90" crc="e7e1fd87" md5="a1deb1f0a23bc474f280b4af97c4e446" sha1="71689b54d13828196f833a5afd8280e2647c8f5b"/>
 	</game>
 	<game name="Gurumin Demo Movie &amp; Benchmark Soft (Japan)" id="96233">
 		<category>Demos</category>
@@ -72202,6 +72219,12 @@
 		<rom name="Hot Wheels - Velocity X (USA).bin" size="695321760" crc="0a704d69" md5="bd3d16f58cc03b8a354820ceaa572df8" sha1="f1fbab881168c036e1a6abbbbfcd78f6f6bea81e"/>
 		<rom name="Hot Wheels - Velocity X (USA).cue" size="95" crc="6f4b9122" md5="bd035aadb5f215c6a6a92c0ef9a4cfdf" sha1="0a5ed9839e35961c935ae3e4e08371b629a7d9c0"/>
 	</game>
+	<game name="Hot Wheels - World Adventure - Sampler CD-ROM (USA)" id="137313">
+		<category>Demos</category>
+		<description>Hot Wheels - World Adventure - Sampler CD-ROM (USA)</description>
+		<rom name="Hot Wheels - World Adventure - Sampler CD-ROM (USA).bin" size="212566704" crc="4975d971" md5="2d07e4a4edb11c31faa759f7d23286e7" sha1="91115c7ab1b86d4aecb957b48b91c634dd73dae1"/>
+		<rom name="Hot Wheels - World Adventure - Sampler CD-ROM (USA).cue" size="140" crc="eae979f4" md5="c4b6465f863859f168fd4e8bedc3ddb5" sha1="e9e660ed810c8c8d3d685099cd114b9a6e51c1f6"/>
+	</game>
 	<game name="Hot Wheels - World Race (USA)" id="20750">
 		<category>Games</category>
 		<description>Hot Wheels - World Race (USA)</description>
@@ -72968,17 +72991,11 @@
 		<rom name="Hue (USA).bin" size="614304768" crc="a862d3cd" md5="e0ce9913b37f0674d8f8267a6e0b4f76" sha1="9b33916c9f5a1147085d0e5c28a2e139714a4652"/>
 		<rom name="Hue (USA).cue" size="75" crc="a24019ad" md5="5d976e9401ed5a4aafb0d6629504c68f" sha1="e7e0fbe3c625a5cf8d99177e20dafea45e7a04bb"/>
 	</game>
-	<game name="Hugo (Germany)" id="68751">
+	<game name="Hugo (Denmark) (En,Sv,No,Da) (1998-12-08)" id="137299">
 		<category>Games</category>
-		<description>Hugo (Germany)</description>
-		<rom name="Hugo (Germany).bin" size="679365792" crc="4c32e962" md5="8271d4470cd14e2484fc2217f89bdf19" sha1="2dc445cf0a7e7ab59e75ac221b7d44785b1aa2da"/>
-		<rom name="Hugo (Germany).cue" size="103" crc="a54b9875" md5="f1d8e1a9f634510fcc8163198cba5dc2" sha1="2b90f2dabb5926ff09cdb90e8e8a89c671908185"/>
-	</game>
-	<game name="Hugo - Aventyret Gar Vidare... (Sweden) (Rerelease)" id="64637">
-		<category>Games</category>
-		<description>Hugo - Aventyret Gar Vidare... (Sweden) (Rerelease)</description>
-		<rom name="Hugo - Aventyret Gar Vidare... (Sweden) (Rerelease).bin" size="305811744" crc="2fa0d4a3" md5="ebd79bca710b79c0fa3e1a10823c9779" sha1="4caa30084ad264944fa64a6c50501ea44c04aa79"/>
-		<rom name="Hugo - Aventyret Gar Vidare... (Sweden) (Rerelease).cue" size="140" crc="89f0312a" md5="9aa6557b581f0c4194813554a6635603" sha1="49476fc839489cb6756be8bb9dc57ae312f8f2c2"/>
+		<description>Hugo (Denmark) (En,Sv,No,Da) (1998-12-08)</description>
+		<rom name="Hugo (Denmark) (En,Sv,No,Da) (1998-12-08).bin" size="778925952" crc="1dff97df" md5="e354471740801fb68e20bcaaaf5af45a" sha1="5c6145327613de766c9bf48600e7e0c64a2e3f05"/>
+		<rom name="Hugo (Denmark) (En,Sv,No,Da) (1998-12-08).cue" size="107" crc="5360404a" md5="ff4aadba5f7013ed3654d30827d95ba5" sha1="866ebca9e6539e7d57e184f0a9e90e2ca4fc103b"/>
 	</game>
 	<game name="Hugo - Black Diamond Fever (Israel)" id="80862">
 		<category>Games</category>
@@ -73021,6 +73038,12 @@
 		<description>Hugo - Ensimmaiset Merkit (Finland)</description>
 		<rom name="Hugo - Ensimmaiset Merkit (Finland).bin" size="447677328" crc="b108e218" md5="a684fc47323dea0927689ce46b4c08f3" sha1="0c2931ae78419a4259a31b097fde3631b10fa2a0"/>
 		<rom name="Hugo - Ensimmaiset Merkit (Finland).cue" size="101" crc="3b9de182" md5="b3ce889fe4ea3cdd107ae1def1acaf5c" sha1="c4393b82754d4bf67debd7c99f804a699d19ea01"/>
+	</game>
+	<game name="Hugo - Fallskarm-Slade-Berget-Stock Hopp (Rerelease) (Sweden)" id="89931">
+		<category>Games</category>
+		<description>Hugo - Fallskarm-Slade-Berget-Stock Hopp (Rerelease) (Sweden)</description>
+		<rom name="Hugo - Fallskarm-Slade-Berget-Stock Hopp (Rerelease) (Sweden).bin" size="825246240" crc="c595470c" md5="1fad4ff8f761a41a351dba7b33346d4d" sha1="584ec6b1ad102827fd89a50c94f09cd3b772e012"/>
+		<rom name="Hugo - Fallskarm-Slade-Berget-Stock Hopp (Rerelease) (Sweden).cue" size="127" crc="67ae7798" md5="2ca5f9d049aac8146f0ddf8baf9d6a9e" sha1="3019430628ddf4ae5b49d12d53bd54ee41afe592"/>
 	</game>
 	<game name="Hugo - Goraczka Czarnych Diamentow (Poland)" id="106122">
 		<category>Games</category>
@@ -73091,6 +73114,12 @@
 		<description>Hugo - Smakkaball (UK) (En,Sv,No,Da,Fi)</description>
 		<rom name="Hugo - Smakkaball (UK) (En,Sv,No,Da,Fi).bin" size="517595232" crc="ad4fc7b2" md5="c14a63996a7fd1e7c3e2cc025f02e829" sha1="b229ea3d1c39f29064a51cc13aab1fe2def7ffdb"/>
 		<rom name="Hugo - Smakkaball (UK) (En,Sv,No,Da,Fi).cue" size="105" crc="200bf48b" md5="c7a893b0c01ceb8fc1e5e4e5f42a1ad2" sha1="50eab2e68b760a326533bc5969db7e23468ebbd8"/>
+	</game>
+	<game name="Hugo - Snowboard-Nimbus-Underjorden-Ballong (Sweden) (Rerelease)" id="64637">
+		<category>Games</category>
+		<description>Hugo - Snowboard-Nimbus-Underjorden-Ballong (Sweden) (Rerelease)</description>
+		<rom name="Hugo - Snowboard-Nimbus-Underjorden-Ballong (Sweden) (Rerelease).bin" size="305811744" crc="2fa0d4a3" md5="ebd79bca710b79c0fa3e1a10823c9779" sha1="4caa30084ad264944fa64a6c50501ea44c04aa79"/>
+		<rom name="Hugo - Snowboard-Nimbus-Underjorden-Ballong (Sweden) (Rerelease).cue" size="153" crc="2bd62375" md5="53c0118303bb540ff417b2a8e04d13b1" sha1="0130d96cf0af4a7358dc60265f7239a60aa97854"/>
 	</game>
 	<game name="Hugo - The Evil Mirror (Israel)" id="76902">
 		<category>Games</category>
@@ -73243,12 +73272,6 @@
 		<description>Hugo na Neve (Portugal)</description>
 		<rom name="Hugo na Neve (Portugal).bin" size="234254496" crc="40e7277d" md5="4094d62944ddb35983b2eac8cbf2cb6e" sha1="ad5a5a231794ceed77ab41cff8c019071fe87dee"/>
 		<rom name="Hugo na Neve (Portugal).cue" size="89" crc="084f08ce" md5="e21af578e48f542e01dbf325e0ae77d3" sha1="def013800ff36f812e9d9b446df10a5f6c95fe0f"/>
-	</game>
-	<game name="Hugo pa Farligt Uppdrag (Sweden)" id="89931">
-		<category>Games</category>
-		<description>Hugo pa Farligt Uppdrag (Sweden)</description>
-		<rom name="Hugo pa Farligt Uppdrag (Sweden).bin" size="825246240" crc="c595470c" md5="1fad4ff8f761a41a351dba7b33346d4d" sha1="584ec6b1ad102827fd89a50c94f09cd3b772e012"/>
-		<rom name="Hugo pa Farligt Uppdrag (Sweden).cue" size="98" crc="6e5be89d" md5="56266136e8c554a9ddc2f86a81889da3" sha1="6eb790b18a413bd396177c377361968ee5a18f88"/>
 	</game>
 	<game name="Hugo pa Nya Aventyr (Sweden) (Rerelease)" id="64502">
 		<category>Games</category>
@@ -73493,6 +73516,12 @@
 		<description>Hunting Unlimited 3 (USA)</description>
 		<rom name="Hunting Unlimited 3 (USA).bin" size="409596096" crc="0542fe9d" md5="cacd9a411f0bb33e0af18b61c2457b64" sha1="5ddf5a7df86ada7c1e06966345b9354a64961702"/>
 		<rom name="Hunting Unlimited 3 (USA).cue" size="91" crc="59aa5cb2" md5="4120aa8e3d001a910fd581a55cd8f896" sha1="3328f7c2b0441e1a09bdc6251861072900d524e5"/>
+	</game>
+	<game name="Hunting Unlimited 4 (Russia)" id="137286">
+		<category>Games</category>
+		<description>Hunting Unlimited 4 (Russia)</description>
+		<rom name="Hunting Unlimited 4 (Russia).bin" size="494573856" crc="c7e8950f" md5="fa4015fc3a5340de33be205335599337" sha1="d7397eb3bce5d5a3263a9f82adc11e9fb9d5f6b1"/>
+		<rom name="Hunting Unlimited 4 (Russia).cue" size="94" crc="99ffeb95" md5="ccab8532ab3985e7cd1f9dc7d4700b99" sha1="c3ccf854504583b85c40f1da535707906d6560e3"/>
 	</game>
 	<game name="Huo-Ji (China)" id="62386">
 		<category>Games</category>
@@ -110583,6 +110612,12 @@
 		<rom name="Novye Bremenskie (Russia).bin" size="693992880" crc="b35bed7e" md5="cb5c747df0b24534c16748dd79efed12" sha1="0c1f0934ee7ef681f13e56c6d47e3c0061c94d9a"/>
 		<rom name="Novye Bremenskie (Russia).cue" size="106" crc="ca0cbc2d" md5="051c54b841f82bb4dbb61c8e6863b3c0" sha1="ff21ba97c3d97a61a223c8b018e8c7699ba34eda"/>
 	</game>
+	<game name="Novye Priklyucheniya Alisy (Russia)" id="137285">
+		<category>Games</category>
+		<description>Novye Priklyucheniya Alisy (Russia)</description>
+		<rom name="Novye Priklyucheniya Alisy (Russia).bin" size="532488096" crc="2b784838" md5="a5c1273f18bc629e88f8fff11005768f" sha1="7dfaa7c76ea06c73dfc368f3b47f4de8824acebf"/>
+		<rom name="Novye Priklyucheniya Alisy (Russia).cue" size="101" crc="9ec45808" md5="cfc9dc64b0da5ffd904f3dc19f16e591" sha1="b91ebabdaacf14c2d1e74536c6face4ebe9bbd66"/>
+	</game>
 	<game name="Novye amazonki (Russia) (Disc 1) (Igrovoj disk)" id="97152">
 		<category>Games</category>
 		<description>Novye amazonki (Russia) (Disc 1) (Igrovoj disk)</description>
@@ -120451,11 +120486,11 @@
 		<rom name="Poseidon - Master of Atlantis (Europe).bin" size="677256048" crc="f2ac41ac" md5="47ce6936613d96603c8cd76742af72e7" sha1="b6cbdb4d3fdda0a4f2aa333f000f08d385ce3feb"/>
 		<rom name="Poseidon - Master of Atlantis (Europe).cue" size="104" crc="16b09757" md5="74a580ccaf25193a06bab89bb837c92c" sha1="a8dd87329af11feb11361a868926c4c10b1beb2f"/>
 	</game>
-	<game name="Poseidon - Zeus Official Expansion (USA) (Rerelease)" id="45691">
+	<game name="Poseidon - Zeus Official Expansion (USA)" id="137288">
 		<category>Add-Ons</category>
-		<description>Poseidon - Zeus Official Expansion (USA) (Rerelease)</description>
-		<rom name="Poseidon - Zeus Official Expansion (USA) (Rerelease).bin" size="623802144" crc="ca6766ac" md5="684166938534039fac0aa856dbfeb005" sha1="e4301de0e5ffae2e3c3a7605a98b10dca9ec6aa9"/>
-		<rom name="Poseidon - Zeus Official Expansion (USA) (Rerelease).cue" size="118" crc="5eda57ee" md5="49eae334bf1dc7f5db5662be19e4a325" sha1="578129d9c519bcc06d84400aacc4ead582352a32"/>
+		<description>Poseidon - Zeus Official Expansion (USA)</description>
+		<rom name="Poseidon - Zeus Official Expansion (USA).bin" size="604047696" crc="aff1d14f" md5="c3444260884959e47ee6f6b1ebf669de" sha1="69214f289e60b0ff6155751b377dacf36338e081"/>
+		<rom name="Poseidon - Zeus Official Expansion (USA).cue" size="106" crc="174efedf" md5="d142a2c2726da3fc59e4f6bafb050acb" sha1="538ad1728d4499ad680e60747e2e9d50316fbb1f"/>
 	</game>
 	<game name="Poselency - Zakoldovannye zemli (Russia)" id="112272">
 		<category>Games</category>
@@ -130738,6 +130773,11 @@
 		<rom name="Road to India - Sacrificio alla Dea Kali (Italy) (Disc 2).bin" size="765611280" crc="0d8a8d15" md5="e03753d9129b2f13636e89e1ac4d8d2e" sha1="98f7280fef285644fa2f1780c606a57b482db001"/>
 		<rom name="Road to India - Sacrificio alla Dea Kali (Italy) (Disc 2).cue" size="123" crc="34a65ba9" md5="03431b89d6cf22a749e7c7741bb12220" sha1="1c50f41092db9a0d3c9ce525f45d1af16fa2c8b6"/>
 	</game>
+	<game name="Roads &amp; Rivers of Europe (Europe)" id="137307">
+		<category>Add-Ons</category>
+		<description>Roads &amp; Rivers of Europe (Europe)</description>
+		<rom name="Roads &amp; Rivers of Europe (Europe).iso" size="1858273280" crc="66df25e0" md5="f73aae901c8927ffb0b72dc78293d6a2" sha1="40bc91fe202a442cbebdaaae40d52d7dae948af7"/>
+	</game>
 	<game name="Robbie Konijn 1e Leerjaar (Belgium)" id="129906">
 		<category>Games</category>
 		<description>Robbie Konijn 1e Leerjaar (Belgium)</description>
@@ -139973,6 +140013,11 @@
 		<category>Games</category>
 		<description>Sherlock Holmes Chronicles (USA)</description>
 		<rom name="Sherlock Holmes Chronicles (USA).iso" size="3556999168" crc="2487fc92" md5="f5787b6a9d389da1a761b6c0bb63f0c3" sha1="fd1ba21464c413d37ccf8f899d87c74c3ab29583"/>
+	</game>
+	<game name="Sherlock Holmes Collection (Europe)" id="137308">
+		<category>Games</category>
+		<description>Sherlock Holmes Collection (Europe)</description>
+		<rom name="Sherlock Holmes Collection (Europe).iso" size="7098236928" crc="da67d467" md5="4e89a9c392150a8d67dac6a91336ee86" sha1="c9c55876cdcd9667d694df831e8aa6971aa73777"/>
 	</game>
 	<game name="Sherlock Holmes Trilogy (Europe)" id="71318">
 		<category>Games</category>
@@ -161090,6 +161135,11 @@
 		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe) (En,Fr,De,Es,It) (Disc 4).bin" size="311804640" crc="fa82523d" md5="2f45a744fa3f9a60e938b7733d2a226c" sha1="789c648f245c28f840916a24dee3144345520db8"/>
 		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe) (En,Fr,De,Es,It) (Disc 4).cue" size="146" crc="12547a1c" md5="a9fe5de87bc358369a50cdf0bdf23df7" sha1="e69f78fc56e4b9c49b6916ae43a18432bdae54a7"/>
 	</game>
+	<game name="Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe, World) (En,Fr,De,Es,It)" id="15144">
+		<category>Games</category>
+		<description>Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe, World) (En,Fr,De,Es,It)</description>
+		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe, World) (En,Fr,De,Es,It).iso" size="2415886336" crc="3d6cfb1c" md5="9a77579ff88f082ddc89ee45613a11cf" sha1="deebbbf62e265d881bb52e091b3ff302ee6ae776"/>
+	</game>
 	<game name="Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (Disc 1)" id="16565">
 		<category>Games</category>
 		<description>Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (Disc 1)</description>
@@ -161107,11 +161157,6 @@
 		<description>Tom Clancy's Splinter Cell - Pandora Tomorrow (USA, Japan) (Disc 2)</description>
 		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (USA, Japan) (Disc 2).bin" size="819295680" crc="15cf1541" md5="e2d8ebc042d9b2e68a509788d9760a72" sha1="7bd8cfc5acbcaa104036eeb9918a0daeb4f37df9"/>
 		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (USA, Japan) (Disc 2).cue" size="133" crc="8cf1a756" md5="e2fa40312be20b9a08a44f67405bf540" sha1="2d6d1a259f73af8fa5fd1448accc33bc7c47eacf"/>
-	</game>
-	<game name="Tom Clancy's Splinter Cell - Pandora Tomorrow (World) (En,Fr,De,Es,It)" id="15144">
-		<category>Games</category>
-		<description>Tom Clancy's Splinter Cell - Pandora Tomorrow (World) (En,Fr,De,Es,It)</description>
-		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (World) (En,Fr,De,Es,It).iso" size="2415886336" crc="3d6cfb1c" md5="9a77579ff88f082ddc89ee45613a11cf" sha1="deebbbf62e265d881bb52e091b3ff302ee6ae776"/>
 	</game>
 	<game name="Tom Clancy's The Division (Europe, Australia) (Disc 5)" id="89147">
 		<category>Games</category>
@@ -169230,6 +169275,12 @@
 		<category>Games</category>
 		<description>Ved'mak 2 - Ubijcy korolej (Russia) (Disc 2) (Igra)</description>
 		<rom name="Ved'mak 2 - Ubijcy korolej (Russia) (Disc 2) (Igra).iso" size="3068362752" crc="e70f3739" md5="679680d3097bcdbb306e82781cc0ab56" sha1="a5131ffec01358f96271812066adf789075b1cdc"/>
+	</game>
+	<game name="Vegas - Make It Big (Europe)" id="137309">
+		<category>Games</category>
+		<description>Vegas - Make It Big (Europe)</description>
+		<rom name="Vegas - Make It Big (Europe).bin" size="788533872" crc="409d43e7" md5="653884273b5b9ab49f47357e5bdeb278" sha1="b57b1d8830b29b95239177dd20924bca9bb30ac8"/>
+		<rom name="Vegas - Make It Big (Europe).cue" size="109" crc="75bad11e" md5="3c2d53a9dd0217ea1fa7ad182cbc5f21" sha1="6eb54732b14e62973a097a6f847ece6f22373fac"/>
 	</game>
 	<game name="Vegas Courses, The (USA)" id="64718">
 		<category>Add-Ons</category>
@@ -177708,6 +177759,12 @@
 		<rom name="X Games Pro Boarder (Europe) (En,Fr,De,Es,It,Sv,No) (Track 10).bin" size="20913984" crc="0107eb53" md5="7db102ba2357f88f91e9f71c587376cb" sha1="1299e1ccdc1e6a7851a36c8af98dac6056a2c9a6"/>
 		<rom name="X Games Pro Boarder (Europe) (En,Fr,De,Es,It,Sv,No) (Track 11).bin" size="16680384" crc="c4186bf5" md5="e14517086d6e70be8591dad814416a1a" sha1="9b6eb690330ba332ed9a34762be9966c5a399325"/>
 		<rom name="X Games Pro Boarder (Europe) (En,Fr,De,Es,It,Sv,No).cue" size="1588" crc="b08d607a" md5="13d71c514dcdce5aca211de7177d31a9" sha1="3fe3193d1a48aeb34036625dbda936f7169e2df0"/>
+	</game>
+	<game name="X Plane Versiya 7 (Russia) (Disc 2)" id="137287">
+		<category>Games</category>
+		<description>X Plane Versiya 7 (Russia) (Disc 2)</description>
+		<rom name="X Plane Versiya 7 (Russia) (Disc 2).bin" size="838415088" crc="ebb9c9b6" md5="a8e715f0f47eeb771ccf72a84615d5b9" sha1="c0d56a20cf92b3b84985d2dc8b930f7508f27270"/>
+		<rom name="X Plane Versiya 7 (Russia) (Disc 2).cue" size="101" crc="f5f3808c" md5="a74480b95e54548857b4fafcd8be4f31" sha1="17f5468e1d339edcbfdf4980e1ae70f58423018b"/>
 	</game>
 	<game name="X-Arcade Midway Classics (USA)" id="67725">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,849) (-y) [-aAbBcefkmMoprv] (2026-08-24 16-36-53) (Retool)</description>
-		<version>2026-08-24 16-36-53</version>
-		<date>2026-08-25 03-12-04</date>
+		<description>Sony - PlayStation 4 (1,850) (-y) [-aAbBcefkmMoprv] (2026-08-25 16-18-35) (Retool)</description>
+		<version>2026-08-25 16-18-35</version>
+		<date>2026-08-26 03-17-58</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5800,6 +5800,11 @@
 		<category>Games</category>
 		<description>New Minna no Golf (Japan)</description>
 		<rom name="New Minna no Golf (Japan).iso" size="8504868864" crc="04aeea5f" md5="28e9578212c86c203def7bda268a31eb" sha1="17ba16a94365eecc3cea079df6d94a966afaf2c4"/>
+	</game>
+	<game name="New Super Lucky's Tales (Europe)" id="137290">
+		<category>Games</category>
+		<description>New Super Lucky's Tales (Europe)</description>
+		<rom name="New Super Lucky's Tales (Europe).iso" size="6995640320" crc="56b90093" md5="c1f18d2e831fe87e8e55566a1eea412b" sha1="361bd5c6f349949097a6c9a1538df25da8b9de6e"/>
 	</game>
 	<game name="New Tales from the Borderlands (USA) (En,Fr,De,Es,It,Pt)" id="110234">
 		<category>Games</category>
