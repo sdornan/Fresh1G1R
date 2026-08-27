@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Benesse - Pocket Challenge V2 (Retool)</name>
-		<description>Benesse - Pocket Challenge V2 (33) (-y) [-aAbBcefkmMoprv] (20260825-091128) (Retool)</description>
-		<version>20260825-091128</version>
-		<date>2026-08-26 03-19-16</date>
+		<description>Benesse - Pocket Challenge V2 (34) (-y) [-aAbBcefkmMoprv] (20260826-031349) (Retool)</description>
+		<version>20260826-031349</version>
+		<date>2026-08-27 12-40-26</date>
 		<author>Arctic Circle System, BigFred, Gefflon, Hiccup, Icyelut, omonim2007, psykopat, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -75,6 +75,11 @@
 		<description>Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (Japan) (6FP313)</description>
 		<game_id>6FP313</game_id>
 		<rom name="Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (Japan) (6FP313).pc2" size="8388608" crc="c14378c8" md5="561dd7ecdf03578371c99eb3b4049b54" sha1="2581babb2c8d3e3d8977e4aa1efea269c606e780" sha256="a119e3891fa167697fa8b2a09874990165862ee8245130f39ece335741d4c83b"/>
+	</game>
+	<game name="Chuu 3 Ei - Suu - Koumin Pack (Sunshine, One World Taiou Ban) (Japan) (6FP302)" id="0073">
+		<category>Games</category>
+		<description>Chuu 3 Ei - Suu - Koumin Pack (Sunshine, One World Taiou Ban) (Japan) (6FP302)</description>
+		<rom name="Chuu 3 Ei - Suu - Koumin Pack (Sunshine, One World Taiou Ban) (Japan) (6FP302).pc2" size="8388608" crc="4b956caf" md5="740d757cce1f32d119f1006100d5b062" sha1="49b2a85a6f38793647359136f23e3a77d79fc8c7"/>
 	</game>
 	<game name="Chuu 3 English (New Horizon, Columbus21 Taiou Ban) (Japan) (4BB311)" id="0055">
 		<category>Games</category>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>18</id>
 		<name>Sega - PICO</name>
@@ -8,6 +8,8 @@
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Connie, FakeShemp, fuzzball, Gefflon, Hiccup, Money_114, omonim2007, Powerpuff, relax, scorp256, TeamEurope, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="101-piki Wan-chan - Wan-chan Daikoushin! (Japan)" id="0020" cloneofid="0109">
@@ -190,14 +192,6 @@
 		<description>Cooking Pico - Minna to Issho ni Hajimete Cooking! (Japan)</description>
 		<rom name="Cooking Pico - Minna to Issho ni Hajimete Cooking! (Japan).md" size="2097152" crc="b94f7d54" md5="850a977da3ccc1a9cd839420f33bde00" sha1="dabeb440adbb7477cc880c51fb0cfc1e5f99d23b" serial="AHPC-6076"/>
 	</game>
-	<game name="Copera no Chikyuu Daisuki (Japan) (Copera)" id="0248">
-		<description>Copera no Chikyuu Daisuki (Japan) (Copera)</description>
-		<rom name="Copera no Chikyuu Daisuki (Japan) (Copera).md" size="1048576" crc="9a5dd562" md5="9d56e4ed21d91630fb7a94090a8d6ac5" sha1="730195fc41efb923a4f8e8acd5228d1ae8b16c16"/>
-	</game>
-	<game name="Copera no Kono Oto Naani (Japan) (Copera)" id="0078">
-		<description>Copera no Kono Oto Naani (Japan) (Copera)</description>
-		<rom name="Copera no Kono Oto Naani (Japan) (Copera).md" size="1048576" crc="1041e52a" md5="b5a6e6d8236e04f644599c51e8b26992" sha1="422f46d670a5f8094267984051ed6f90babe2dce"/>
-	</game>
 	<game name="Copera no Time Machine (Japan) (Copera)" id="0201">
 		<description>Copera no Time Machine (Japan) (Copera)</description>
 		<rom name="Copera no Time Machine (Japan) (Copera).md" size="1048576" crc="a7d33072" md5="cc13b093f0bfa16ea55d3e1525a0008d" sha1="081c61e35478ffdda6eda58f40be056732f35595"/>
@@ -269,10 +263,6 @@
 	<game name="Do Re Mi Fa - Animals no Tanoshii Ensoukai (Japan)" id="0185" cloneofid="0244">
 		<description>Do Re Mi Fa - Animals no Tanoshii Ensoukai (Japan)</description>
 		<rom name="Do Re Mi Fa - Animals no Tanoshii Ensoukai (Japan).md" size="524288" crc="7048409f" md5="a50584e2f68477bfebb54f6104bbc627" sha1="e79b11753822a14b6abe5654cdd768ec144e3ca9" serial="HPC-6011-00"/>
-	</game>
-	<game name="Do Re Mi Fa Densetsu (Japan) (Copera)" id="0200">
-		<description>Do Re Mi Fa Densetsu (Japan) (Copera)</description>
-		<rom name="Do Re Mi Fa Densetsu (Japan) (Copera).md" size="1048576" crc="24aa1251" md5="4613aad140e70f206ba1fe70dd8bc44b" sha1="1a7d5156aa3f2ffba168bce1bbd9436cb0c11510"/>
 	</game>
 	<game name="Donald no Obake Taiji (Japan) (Hajimema Series 1)" id="0153">
 		<description>Donald no Obake Taiji (Japan) (Hajimema Series 1)</description>
@@ -790,10 +780,6 @@
 		<description>McDonald's de Asobo! (Japan)</description>
 		<rom name="McDonald's de Asobo! (Japan).md" size="2097152" crc="474d946e" md5="3cde721d78ba49f685b3d9fa7ea24d54" sha1="3615cf2f28133c3d35003bef16a517d5379e9c20" status="verified" serial="HPC-6079"/>
 	</game>
-	<game name="Melody Land (Japan) (Copera)" id="0199">
-		<description>Melody Land (Japan) (Copera)</description>
-		<rom name="Melody Land (Japan) (Copera).md" size="1048576" crc="9b05acc9" md5="43e1b061f492c0e7c7bf8687dc30528f" sha1="cd4f3260309a1236f6f0d491f385d4dececa349e"/>
-	</game>
 	<game name="Mezase Pro Yakyuu (Japan)" id="0189">
 		<description>Mezase Pro Yakyuu (Japan)</description>
 		<rom name="Mezase Pro Yakyuu (Japan).md" size="1048576" crc="c66d53d2" md5="1dbd567de71a553163e01d89c229e121" sha1="8989810067e9aabc8fe01646fe2e6d9fca4a7059" serial="HPC-6021-00"/>
@@ -889,10 +875,6 @@
 	<game name="Miimi to Taata no Wai Wai Oekaki Doubutsuen!! (Japan)" id="0162">
 		<description>Miimi to Taata no Wai Wai Oekaki Doubutsuen!! (Japan)</description>
 		<rom name="Miimi to Taata no Wai Wai Oekaki Doubutsuen!! (Japan).md" size="524288" crc="070cb5d6" md5="b744e234ab93b94fbdb1920f267dae1a" sha1="b056919eed642d3838c4d9cd71750bce9bf3a999" serial="HPC-6007-00"/>
-	</game>
-	<game name="Mike to Asobou Tobidase Milky Way (Japan) (Copera)" id="0154">
-		<description>Mike to Asobou Tobidase Milky Way (Japan) (Copera)</description>
-		<rom name="Mike to Asobou Tobidase Milky Way (Japan) (Copera).md" size="1048576" crc="0cb5727d" md5="302b85f7e8c526c7c812ab741269021c" sha1="5f271c69f574a761f2c83f8005978dcb0635e81b"/>
 	</game>
 	<game name="Mikiwa Moheomeul Ddeonayo (Korea) (Rev A)" id="0287" cloneofid="0206">
 		<description>Mikiwa Moheomeul Ddeonayo (Korea) (Rev A)</description>
@@ -1063,17 +1045,9 @@
 		<description>Oshare Pico - Suteki ni Henshin! Runa-chan no Oshare Hair Salon (Japan)</description>
 		<rom name="Oshare Pico - Suteki ni Henshin! Runa-chan no Oshare Hair Salon (Japan).md" size="2097152" crc="376cfa05" md5="67a43e2b6a090a2d49810ca82fc8cfdb" sha1="ff7b03a62620ea668ab41fe731af07b78db984fc" serial="HPC-6088"/>
 	</game>
-	<game name="Otto Katachitchi (Japan) (Copera)" id="0202">
-		<description>Otto Katachitchi (Japan) (Copera)</description>
-		<rom name="Otto Katachitchi (Japan) (Copera).md" size="1048576" crc="d1aee834" md5="0a63402c8ea767e9b5419ec386f24b2d" sha1="93c825160286b483904428eece2b14e521c20d15"/>
-	</game>
 	<game name="Ougon Yuusha Goldran Himitsu Daihyakka (Japan)" id="0299">
 		<description>Ougon Yuusha Goldran Himitsu Daihyakka (Japan)</description>
 		<rom name="Ougon Yuusha Goldran Himitsu Daihyakka (Japan).md" size="524288" crc="9a167a43" md5="9ab7ee48c43236f0b16100cbb43fe3e9" sha1="a5c3da1403fc8a17abefa68b8dbcde751cfa74a9" serial="T-103020-00"/>
-	</game>
-	<game name="Outa no Canvas (Japan) (Copera)" id="0155">
-		<description>Outa no Canvas (Japan) (Copera)</description>
-		<rom name="Outa no Canvas (Japan) (Copera).md" size="1048576" crc="b25e7134" md5="098b96c6a2d9c27be529ee00a3b4ca93" sha1="0578314e66b2385e0520a421af695ccfef44f076"/>
 	</game>
 	<game name="Paddington no Sekai Ryokou (Japan)" id="0096">
 		<description>Paddington no Sekai Ryokou (Japan)</description>

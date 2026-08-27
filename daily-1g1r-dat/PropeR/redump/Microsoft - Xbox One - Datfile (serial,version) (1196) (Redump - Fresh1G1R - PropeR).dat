@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (898) (-y) [-aAbBcdkmMpPuv] (2026-08-25 14-48-33) (Retool)</description>
-		<version>2026-08-25 14-48-33</version>
-		<date>2026-08-26 03-36-29</date>
+		<description>Microsoft - Xbox One (901) (-y) [-aAbBcdkmMpPuv] (2026-08-27 04-36-53) (Retool)</description>
+		<version>2026-08-27 04-36-53</version>
+		<date>2026-08-27 12-57-44</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -589,6 +589,11 @@
 		<category>Games</category>
 		<description>Call of Duty - Infinite Warfare (USA, Europe) (En,Fr)</description>
 		<rom name="Call of Duty - Infinite Warfare (USA, Europe) (En,Fr).iso" size="49999802368" crc="c2f3229f" md5="0cf242dc3a532f153b9a3ea41fe0a6ba" sha1="9b4bb6e72d9718cb04510aece13f2b53e1d6bc23"/>
+	</game>
+	<game name="Call of Duty - Infinite Warfare - Legacy Edition (Russia)" id="108858">
+		<category>Games</category>
+		<description>Call of Duty - Infinite Warfare - Legacy Edition (Russia)</description>
+		<rom name="Call of Duty - Infinite Warfare - Legacy Edition (Russia).iso" size="49999806464" crc="7c6b3086" md5="5f790b0836ea65529bc221e51e1bcab9" sha1="fb2c24eb5666e3a9dc8ff175aa55558d6ab0e4ae"/>
 	</game>
 	<game name="Call of Duty - Modern Warfare II (USA)" id="112015">
 		<category>Games</category>
@@ -1663,10 +1668,10 @@
 		<description>Halo Wars 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
 		<rom name="Halo Wars 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="45957781504" crc="5b3cd3de" md5="ea43e4cee5ed9afa1c5dded5fd46eafb" sha1="b745df3d272698c0baf804325bdfce7da65eb8d2"/>
 	</game>
-	<game name="Harry Potter - Quidditch Champions - Deluxe Edition (USA)" id="133976">
+	<game name="Harry Potter - Quidditch Champions (USA)" id="133976">
 		<category>Games</category>
-		<description>Harry Potter - Quidditch Champions - Deluxe Edition (USA)</description>
-		<rom name="Harry Potter - Quidditch Champions - Deluxe Edition (USA).iso" size="22978238464" crc="2c10b2c1" md5="7d610c4606c6120773aa46b9345f9443" sha1="72d28aa3697ddf4449e8624024ef8b88a4369cf4"/>
+		<description>Harry Potter - Quidditch Champions (USA)</description>
+		<rom name="Harry Potter - Quidditch Champions (USA).iso" size="22978238464" crc="2c10b2c1" md5="7d610c4606c6120773aa46b9345f9443" sha1="72d28aa3697ddf4449e8624024ef8b88a4369cf4"/>
 	</game>
 	<game name="Has-Been Heroes (USA)" id="103469">
 		<category>Games</category>
@@ -1818,10 +1823,10 @@
 		<description>Invisible Hours, The (USA)</description>
 		<rom name="Invisible Hours, The (USA).iso" size="22978238464" crc="535eb2f5" md5="610924047708510ed6ae9b28d0dee859" sha1="e42c2676917b35d6334acab3dc048cd9ed436a5e"/>
 	</game>
-	<game name="Isonzo (USA)" id="106356">
+	<game name="Isonzo - Deluxe Edition (USA)" id="106356">
 		<category>Games</category>
-		<description>Isonzo (USA)</description>
-		<rom name="Isonzo (USA).iso" size="22978607104" crc="e557e8d8" md5="ed7557f2c1f973e57d8a71e4225b5e43" sha1="f4045b9165c8a6567adc8dc6fb83150cf651ba60"/>
+		<description>Isonzo - Deluxe Edition (USA)</description>
+		<rom name="Isonzo - Deluxe Edition (USA).iso" size="22978607104" crc="e557e8d8" md5="ed7557f2c1f973e57d8a71e4225b5e43" sha1="f4045b9165c8a6567adc8dc6fb83150cf651ba60"/>
 	</game>
 	<game name="It Takes Two (USA)" id="103444">
 		<category>Games</category>
@@ -2279,10 +2284,10 @@
 		<description>Mafia III (USA, Europe)</description>
 		<rom name="Mafia III (USA, Europe).iso" size="45957781504" crc="77c4b344" md5="8de93017d8bccaa2c734af4e340bdb2c" sha1="54a9760752a85c49a847131400f622d4bd79dcee"/>
 	</game>
-	<game name="Maneater - Apex Edition (USA)" id="106357">
+	<game name="Maneater (USA) (Rev 1)" id="103815">
 		<category>Games</category>
-		<description>Maneater - Apex Edition (USA)</description>
-		<rom name="Maneater - Apex Edition (USA).iso" size="22978238464" crc="2d4f4bbb" md5="9d56f63b6f409660b802e0b451afe7d4" sha1="3254faa5478759c9b9278d9b446e04cbd803369c"/>
+		<description>Maneater (USA) (Rev 1)</description>
+		<rom name="Maneater (USA) (Rev 1).iso" size="22978238464" crc="8bfe6ae4" md5="6a282a585c44eb0d1e3d2305e7865e3b" sha1="be2fc39ee9c9c636fe6960573aa051cbbb630353"/>
 	</game>
 	<game name="Mark McMorris Infinite Air (USA, Europe)" id="111063">
 		<category>Games</category>
@@ -2414,6 +2419,11 @@
 		<category>Games</category>
 		<description>Minecraft (USA)</description>
 		<rom name="Minecraft (USA).iso" size="18869225472" crc="7d1a7316" md5="ff38a5544190ae842b542f8a86c26759" sha1="0513a8d386cd8ddc06205fddbbfd90400d648561"/>
+	</game>
+	<game name="Minecraft - Story Mode - A Telltale Games Series (USA)" id="110471">
+		<category>Games</category>
+		<description>Minecraft - Story Mode - A Telltale Games Series (USA)</description>
+		<rom name="Minecraft - Story Mode - A Telltale Games Series (USA).iso" size="19807086592" crc="8edaff7a" md5="acd6c84af4fa2eecc685f337dfc524c3" sha1="9adba5cce858c03516a5b61d04fbc8fadfa251ea"/>
 	</game>
 	<game name="Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (USA)" id="115090">
 		<category>Games</category>
@@ -3378,10 +3388,15 @@
 		<description>Road Rage (USA)</description>
 		<rom name="Road Rage (USA).iso" size="20744890368" crc="7936e314" md5="489545449474040d8631eae98fc9ac26" sha1="86f26aee5ec5f84b573908c507070d2a9490b3ff"/>
 	</game>
-	<game name="Rocket League (USA) (Rev 1)" id="104893">
+	<game name="Rocket League - Collector's Edition (USA, Europe)" id="65186">
 		<category>Games</category>
-		<description>Rocket League (USA) (Rev 1)</description>
-		<rom name="Rocket League (USA) (Rev 1).iso" size="22979090432" crc="0e0e66ff" md5="2f884efb47298213f3f83dfba206d924" sha1="a3b95669049926df720771c2b2147d73e1d4693a"/>
+		<description>Rocket League - Collector's Edition (USA, Europe)</description>
+		<rom name="Rocket League - Collector's Edition (USA, Europe).iso" size="22978615296" crc="5d779b19" md5="b81bc10162072ccce13086065d9aacd8" sha1="92210baa6f7895d305697bf60fbb5ed8a0618382"/>
+	</game>
+	<game name="Rocket League - Ultimate Edition (USA)" id="104893">
+		<category>Games</category>
+		<description>Rocket League - Ultimate Edition (USA)</description>
+		<rom name="Rocket League - Ultimate Edition (USA).iso" size="22979090432" crc="0e0e66ff" md5="2f884efb47298213f3f83dfba206d924" sha1="a3b95669049926df720771c2b2147d73e1d4693a"/>
 	</game>
 	<game name="Rogue Stormers (USA, Europe)" id="48076">
 		<category>Games</category>

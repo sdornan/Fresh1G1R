@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Handheld - Symbian (Retool)</name>
+		<description>Handheld - Symbian (1) (-y) [-aAbBcdkmMpPuv] (2026-08-26 23-28-46) (Retool)</description>
+		<version>2026-08-26 23-28-46</version>
+		<date>2026-08-27 13-00-01</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Force Unleashed, The (UK)" id="117964">
+		<category>Games</category>
+		<description>Force Unleashed, The (UK)</description>
+		<rom name="Force Unleashed, The (UK).bin" size="225601488" crc="20d4158c" md5="ff1d469c8010aaff42c8a7c7a5b0282a" sha1="daaabcd587253dff4b8dd964ab46f5d680df2d9c"/>
+		<rom name="Force Unleashed, The (UK).cue" size="91" crc="00ae0899" md5="aa8a751d205ecdbcdb85d4d3433fc83f" sha1="7437a7182f09215dd03f044a0104de1967ee44b4"/>
+	</game>
+</datafile>

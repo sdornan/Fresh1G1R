@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>494</id>
+		<name>VTech - Learning Laptop</name>
+		<description>VTech - Learning Laptop</description>
+		<version>20260811-084849</version>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Ordspel (Sweden)" id="0001">
+		<description>Ordspel (Sweden)</description>
+		<rom name="Ordspel (Sweden).bin" size="32768" crc="0c98a692" md5="003113a6484a0131592eb212447b4d3f" sha1="347d68f6cbd0aed451b3742d6822ac5e23ba30b8" sha256="94c46b3c4bd42c764e8ab7b54b676c599c27a7435d733e155a8aa8ffd3ccdb74"/>
+	</game>
+</datafile>

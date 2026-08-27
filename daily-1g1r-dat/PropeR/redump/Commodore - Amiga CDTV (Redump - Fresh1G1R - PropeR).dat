@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CDTV (Retool)</name>
-		<description>Commodore - Amiga CDTV (33) (-y) [-aAbBcdkmMpPuv] (2026-08-13 18-07-15) (Retool)</description>
-		<version>2026-08-13 18-07-15</version>
-		<date>2026-08-26 03-34-03</date>
+		<description>Commodore - Amiga CDTV (34) (-y) [-aAbBcdkmMpPuv] (2026-08-26 12-46-54) (Retool)</description>
+		<version>2026-08-26 12-46-54</version>
+		<date>2026-08-27 12-55-18</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -243,6 +243,16 @@
 		<description>Mud Puddle (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Mud Puddle (USA) (En,Fr,De,Es,It).bin" size="322557984" crc="1485937a" md5="dafe4aac6fd8ac341c1bb357bc3392be" sha1="b5b7c32c7e588cf9c67d80a2d4192cdb21dd1696"/>
 		<rom name="Mud Puddle (USA) (En,Fr,De,Es,It).cue" size="99" crc="ad417b13" md5="c409611544dc299cb7c7ae4da415d442" sha1="368dee815e460cf098558754f3630722a63fca07"/>
+	</game>
+	<game name="North Polar Expedition (Europe)" id="137340">
+		<category>Games</category>
+		<description>North Polar Expedition (Europe)</description>
+		<rom name="North Polar Expedition (Europe) (Track 1).bin" size="287532000" crc="ea6486e1" md5="840993975bce6b6d4745daeabc66a894" sha1="3bc2c089c3f2601fdcd273584365de95b563efaa"/>
+		<rom name="North Polar Expedition (Europe) (Track 2).bin" size="17997504" crc="ed2dc6de" md5="0ae685063a1f1c7561ca5fdeb00bdf38" sha1="838e1970fdb34622d4ef9322e8dc38aa695f76de"/>
+		<rom name="North Polar Expedition (Europe) (Track 3).bin" size="17117856" crc="3232becf" md5="349441d52e9a7993fadd77668aef16f7" sha1="86182a60e1fd48f09fa416fb1b261f0d07b000a6"/>
+		<rom name="North Polar Expedition (Europe) (Track 4).bin" size="16875600" crc="5c26179a" md5="ffd5c262f9480d09416b8ef21c52b55a" sha1="b2a163189ed3e44a35ba46a5c1caacc3b50bdce7"/>
+		<rom name="North Polar Expedition (Europe) (Track 5).bin" size="19514544" crc="364afa8a" md5="4b42216e686d179d4e92bdded6a3a075" sha1="8437061334e72f8375eda0392a7799ea4b2f746d"/>
+		<rom name="North Polar Expedition (Europe).cue" size="607" crc="405e59d6" md5="5a8edb6dba36e1e8e728a86b63f17ded" sha1="bb4d8924d2be9f5c63a98c20a6a211186100ec35"/>
 	</game>
 	<game name="Now That's What I Call Games (UK)" id="111327">
 		<category>Games</category>

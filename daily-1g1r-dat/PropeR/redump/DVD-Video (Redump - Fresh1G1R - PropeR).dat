@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (996) (-y) [-aAbBcdkmMpPuv] (2026-08-26 00-06-54) (Retool)</description>
-		<version>2026-08-26 00-06-54</version>
-		<date>2026-08-26 03-34-08</date>
+		<description>DVD-Video (1,000) (-y) [-aAbBcdkmMpPuv] (2026-08-27 10-38-37) (Retool)</description>
+		<version>2026-08-27 10-38-37</version>
+		<date>2026-08-27 12-55-23</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -291,6 +291,11 @@
 		<description>Assassin's Creed - Brotherhood - Premium Disc (Japan) (Multisystem Game Bundle)</description>
 		<rom name="Assassin's Creed - Brotherhood - Premium Disc (Japan) (Multisystem Game Bundle).iso" size="4658470912" crc="0b411609" md5="25bcf3868a9fd6965b50305498a826f2" sha1="1bc7f1c32606a3c7d6061b71b82c1f2c33538106"/>
 	</game>
+	<game name="Assassin's Creed - Lineage (Australia) (En,Fr,De,Es,It) (PS3 Game Bundle)" id="137374">
+		<category>Bonus Discs</category>
+		<description>Assassin's Creed - Lineage (Australia) (En,Fr,De,Es,It) (PS3 Game Bundle)</description>
+		<rom name="Assassin's Creed - Lineage (Australia) (En,Fr,De,Es,It) (PS3 Game Bundle).iso" size="6835142656" crc="97ea2fdf" md5="e04707456707f16ce827f6d8f39cea79" sha1="ce8399523c0547c3ab0f1781a0e12fcf5941bd52"/>
+	</game>
 	<game name="Assassin's Creed Archive DVD (Japan)" id="123250">
 		<category>Bonus Discs</category>
 		<description>Assassin's Creed Archive DVD (Japan)</description>
@@ -536,15 +541,15 @@
 		<description>Call of Duty 3 - Sneak Peek into Call of Duty 3 DVD (USA)</description>
 		<rom name="Call of Duty 3 - Sneak Peek into Call of Duty 3 DVD (USA).iso" size="1140017152" crc="766c4b2b" md5="cbd05da4da27c884bc7e609c43988fdf" sha1="06475dab3e949330d2b972578a5015dd0826ca77"/>
 	</game>
+	<game name="Call of Duty 4 - Modern Warfare (Europe) (Bonus Disc)" id="133667">
+		<category>Bonus Discs</category>
+		<description>Call of Duty 4 - Modern Warfare (Europe) (Bonus Disc)</description>
+		<rom name="Call of Duty 4 - Modern Warfare (Europe) (Bonus Disc).iso" size="6266880000" crc="71217d4b" md5="c76dfeac979938ecf4aa37fd5321da55" sha1="9edfdb29167d07ae6b78155f8038e28308aabd38"/>
+	</game>
 	<game name="Call of Duty 4 - Modern Warfare (Europe) (Preview DVD)" id="84392">
 		<category>Games</category>
 		<description>Call of Duty 4 - Modern Warfare (Europe) (Preview DVD)</description>
 		<rom name="Call of Duty 4 - Modern Warfare (Europe) (Preview DVD).iso" size="2454061056" crc="5358b8aa" md5="40f81364010c4982d1a937caef997f01" sha1="a2a6a14450e421fb1c4735949af15c9f8d56a41e"/>
-	</game>
-	<game name="Call of Duty 4 - Modern Warfare (UK) (Bonus Disc)" id="133667">
-		<category>Bonus Discs</category>
-		<description>Call of Duty 4 - Modern Warfare (UK) (Bonus Disc)</description>
-		<rom name="Call of Duty 4 - Modern Warfare (UK) (Bonus Disc).iso" size="6266880000" crc="71217d4b" md5="c76dfeac979938ecf4aa37fd5321da55" sha1="9edfdb29167d07ae6b78155f8038e28308aabd38"/>
 	</game>
 	<game name="Capcom Fighting Jam - Master's Disc (Japan)" id="68466">
 		<category>Bonus Discs</category>
@@ -990,6 +995,11 @@
 		<category>Bonus Discs</category>
 		<description>Disney-Pixar Presents - The Best of Fun &amp; Games (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Disney-Pixar Presents - The Best of Fun &amp; Games (Europe) (En,Fr,De,Es,It).iso" size="3789754368" crc="35a833a1" md5="fd4b8304218a70807d4c193ac3c16ce2" sha1="30e28829f79fdb3b6fc6dd0c7d17f9a86fb7ff76"/>
+	</game>
+	<game name="Do M Imouto no Roshutsu Yuugi - Dare ni mo Ienai Himitsu no Asobi (Japan)" id="137331">
+		<category>Games</category>
+		<description>Do M Imouto no Roshutsu Yuugi - Dare ni mo Ienai Himitsu no Asobi (Japan)</description>
+		<rom name="Do M Imouto no Roshutsu Yuugi - Dare ni mo Ienai Himitsu no Asobi (Japan).iso" size="537026560" crc="801a7b0d" md5="f24c9cc0a6f40e1aa2cc5ebbb05bf424" sha1="6110b81c50d9d607d5df17cbd869d3041820f778"/>
 	</game>
 	<game name="Do-Don-Pachi Dai-Fukkatsu - Official DVD (Japan) (Disc 1) (Type-A Bomb Style &amp; Type-A Power Style) (Xbox 360 Game Bundle)" id="109612">
 		<category>Bonus Discs</category>
@@ -1751,6 +1761,11 @@
 		<description>Gyakuten no Kioku - Gyakuten Kenji Promotion Eizoushuu (Japan) (NDS Game Bundle)</description>
 		<rom name="Gyakuten no Kioku - Gyakuten Kenji Promotion Eizoushuu (Japan) (NDS Game Bundle).iso" size="2395131904" crc="20c79556" md5="5a8dd971ce5359892bc3da864f4a082b" sha1="8e4bcbc357f6ab7626759f381e6b774813d31611"/>
 	</game>
+	<game name="Gyaruko-chan to Shippori Onsen Ryokou - H Shimakuri Sanpaku Yokka no Tabi (Japan)" id="137332">
+		<category>Games</category>
+		<description>Gyaruko-chan to Shippori Onsen Ryokou - H Shimakuri Sanpaku Yokka no Tabi (Japan)</description>
+		<rom name="Gyaruko-chan to Shippori Onsen Ryokou - H Shimakuri Sanpaku Yokka no Tabi (Japan).iso" size="1415063552" crc="aa802ffc" md5="e6e932cf3a36c4978744e362f66ac92b" sha1="73326087d6425b9f97f1ae16a395c745739c2758"/>
+	</game>
 	<game name="Hajimete no Super Mario Galaxy 2 (Japan) (Rev 3) (Wii Game Bundle)" id="42984">
 		<category>Bonus Discs</category>
 		<description>Hajimete no Super Mario Galaxy 2 (Japan) (Rev 3) (Wii Game Bundle)</description>
@@ -2190,6 +2205,11 @@
 		<category>Games</category>
 		<description>LEGO World Explorer - A DVD Fantasy Ride for Kids (USA)</description>
 		<rom name="LEGO World Explorer - A DVD Fantasy Ride for Kids (USA).iso" size="1752397824" crc="3e509726" md5="a7494b65e9f86aac3da766e2fbfab727" sha1="efeb22518330ce361398c2061ed2da65312a64db"/>
+	</game>
+	<game name="Ladbrokes pokerskola (Sweden) (PC Game Bundle)" id="137347">
+		<category>Bonus Discs</category>
+		<description>Ladbrokes pokerskola (Sweden) (PC Game Bundle)</description>
+		<rom name="Ladbrokes pokerskola (Sweden) (PC Game Bundle).iso" size="1936588800" crc="1117fd33" md5="a5d9fbcdfffd0290ddebd3e523367c8a" sha1="35a170223d1136ccb1ed3beba29f348c904f4815"/>
 	</game>
 	<game name="Lara Croft Tomb Raider - Anniversary (Europe) (Bonus Disc and Soundtrack)" id="10068">
 		<category>Bonus Discs</category>
