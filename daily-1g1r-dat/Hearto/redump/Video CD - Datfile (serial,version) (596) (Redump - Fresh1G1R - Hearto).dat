@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Video CD (Retool)</name>
+		<description>Video CD (2) (-y) [-aAbBcefkmMoprv] (2026-08-28 10-46-57) (Retool)</description>
+		<version>2026-08-28 10-46-57</version>
+		<date>2026-08-28 14-12-02</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Scrooged (Europe) (Disc 2)" id="116389">
+		<category>Games</category>
+		<description>Scrooged (Europe) (Disc 2)</description>
+		<serial>811 1096</serial>
+		<rom name="Scrooged (Europe) (Disc 2) (Track 1).bin" size="4762800" crc="8feb1cd4" md5="120c1a078d15536f168fbd78f521cc5b" sha1="34e7d823b70e9b7f572e433474b4c784baa3ae3e"/>
+		<rom name="Scrooged (Europe) (Disc 2) (Track 2).bin" size="432718608" crc="09bb3b73" md5="f1c5858dfb895530ffbae7b944725d3a" sha1="9e3f190106080e60eb8d6b181f745c5b3fcd6daa"/>
+		<rom name="Scrooged (Europe) (Disc 2).cue" size="365" crc="b3e21635" md5="cbfbf08ed005a2261861d7f8a2789a80" sha1="12a6b24f7fe1042bf636bb6f698ce6d9123b67eb"/>
+	</game>
+	<game name="Super Game 300 (China)" id="117354">
+		<category>Games</category>
+		<description>Super Game 300 (China)</description>
+		<rom name="Super Game 300 (China).bin" size="57506400" crc="c8a68d5b" md5="98252abc50dcd4f95241a8af4de748f7" sha1="ae459424b0036c63cd397563848ad5cf0390bf9c"/>
+		<rom name="Super Game 300 (China).cue" size="88" crc="ea7ae101" md5="1bea298c92b92891d1e61017a78a9ff3" sha1="acf8442e23e78195e4f183ffaa9a3c3d52b26e53"/>
+	</game>
+</datafile>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,404) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-27 12-27-07) (Retool)</description>
-		<version>2026-08-27 12-27-07</version>
-		<date>2026-08-27 12-46-24</date>
+		<description>IBM - PC compatible (13,422) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-28 13-56-54) (Retool)</description>
+		<version>2026-08-28 13-56-54</version>
+		<date>2026-08-28 14-13-39</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1452,6 +1452,12 @@
 		<description>AFL Live 2003 (Australia)</description>
 		<rom name="AFL Live 2003 (Australia).bin" size="659350272" crc="eef7c462" md5="3e81001ab5b72b0ad51ae1f693a1679f" sha1="120cd920a28e87c6641f906b137d15f054f2471a"/>
 		<rom name="AFL Live 2003 (Australia).cue" size="91" crc="065ca6a6" md5="3f0340cee88a57a221707cc27c919d17" sha1="0c7d12e3f9d5c4a043486aac90a1e4513809d07f"/>
+	</game>
+	<game name="AGEOD's American Civil War - 1861-1865 (Europe) (En,Fr)" id="137544">
+		<category>Games</category>
+		<description>AGEOD's American Civil War - 1861-1865 (Europe) (En,Fr)</description>
+		<rom name="AGEOD's American Civil War - 1861-1865 (Europe) (En,Fr).bin" size="573027168" crc="afcf9c20" md5="540cb9feda7f88406db2a4d52fe1701d" sha1="990764e39ece5c84b71dbf597836b79e37237fd2"/>
+		<rom name="AGEOD's American Civil War - 1861-1865 (Europe) (En,Fr).cue" size="121" crc="f3bd1f94" md5="67f53173da99ff8af2c22df2c90d63e9" sha1="5f71c2fa4f4f3baefc0f06bc3300c9126a635fe2"/>
 	</game>
 	<game name="AGEOD's American Civil War - 1861-1865 - The Blue and the Gray (USA)" id="107485">
 		<category>Games</category>
@@ -4643,6 +4649,12 @@
 		<rom name="Andretti Racing (USA).bin" size="594298656" crc="8ec1626b" md5="22c6e1d0da955154b418f93806481d32" sha1="52f8903f10d0f7f1cace3fc5b179fbb9149bade2"/>
 		<rom name="Andretti Racing (USA).cue" size="110" crc="dc88fe15" md5="c7bfc7ffc00161a182bcad44133a54b5" sha1="05e67ef93dbfc1c585bc62eb13f1f4ad06378f61"/>
 	</game>
+	<game name="Angel Cat Sugar (Europe) (En,Fr,De,Es,It)" id="137547">
+		<category>Games</category>
+		<description>Angel Cat Sugar (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Angel Cat Sugar (Europe) (En,Fr,De,Es,It).bin" size="204224160" crc="493ba1c9" md5="02ea55ec4a2c51b3c187b538b92ea8fe" sha1="4b6338f4bd3b2c3aeae8e03b6590f475cbb64297"/>
+		<rom name="Angel Cat Sugar (Europe) (En,Fr,De,Es,It).cue" size="107" crc="548c609a" md5="0d789e0c95dafbe2fe26bfec6bd3037d" sha1="709f434f853fa79c6f6ec90021dc0d7808727ce4"/>
+	</game>
 	<game name="Angel Devoid - Face of the Enemy (USA) (Disc 1)" id="109778">
 		<category>Games</category>
 		<description>Angel Devoid - Face of the Enemy (USA) (Disc 1)</description>
@@ -7025,11 +7037,11 @@
 		<rom name="Bad Mojo - The Roach Game Redux (USA) (Game CD).bin" size="809316144" crc="3cd2d25f" md5="0ccf55359958a2a894ff19ccd2fc7527" sha1="dbfdbd7b709766864285409e5bcd45bd69d25de5"/>
 		<rom name="Bad Mojo - The Roach Game Redux (USA) (Game CD).cue" size="113" crc="cc1e6106" md5="264049ca6492f92dcdf16bda667a0c24" sha1="03d019a46a7208bb3e3880eaaa6505cfe04cf525"/>
 	</game>
-	<game name="Bad Piggies (Europe)" id="58398">
+	<game name="Bad Piggies (USA)" id="137549">
 		<category>Games</category>
-		<description>Bad Piggies (Europe)</description>
-		<rom name="Bad Piggies (Europe).bin" size="37744896" crc="4f798646" md5="10b9bbe1bb13b251476f9cb59930f1de" sha1="3f4d4d1050f1cf9ab4a4627ce86168f09d8d38b5"/>
-		<rom name="Bad Piggies (Europe).cue" size="86" crc="8de82c37" md5="f6c0c7457173c0b369c4032b7e8c1307" sha1="32b5e8dd36d9e99c9ecd6f9532e4bfa03f0df2ac"/>
+		<description>Bad Piggies (USA)</description>
+		<rom name="Bad Piggies (USA).bin" size="39301920" crc="78efe895" md5="4c8c20566d92114175c042cdaff8a7db" sha1="6977d1f1cda07b1c5e398253e18fe31d5a11ffba"/>
+		<rom name="Bad Piggies (USA).cue" size="83" crc="b4da0e17" md5="55b480934a33a267fbfcf1298963acd8" sha1="f2b7155670623263bac13e33e99e419874e5cc29"/>
 	</game>
 	<game name="Bait (Europe)" id="27750">
 		<category>Games</category>
@@ -7507,6 +7519,12 @@
 		<description>Bass Masters Classic - Tournament Edition (USA)</description>
 		<rom name="Bass Masters Classic - Tournament Edition (USA).bin" size="618825312" crc="c7a22250" md5="f02493d5247e4cb98a650863de873f2f" sha1="caa955bcadd29b9297c8124c852b787630d1ffd5"/>
 		<rom name="Bass Masters Classic - Tournament Edition (USA).cue" size="113" crc="9e181139" md5="95a8ae0097017d94761c605e7ec09c94" sha1="f065838fb0465593e4fcd0992e3e38aa1e7dcde4"/>
+	</game>
+	<game name="Bass Pro Shops - Trophy Hunter 2007 (USA)" id="137550">
+		<category>Games</category>
+		<description>Bass Pro Shops - Trophy Hunter 2007 (USA)</description>
+		<rom name="Bass Pro Shops - Trophy Hunter 2007 (USA).bin" size="608043744" crc="5cb9aedf" md5="b04e374715493cf99ab4adedbe6f6554" sha1="fbd31e8850515db241212502511bca36d8fec3a7"/>
+		<rom name="Bass Pro Shops - Trophy Hunter 2007 (USA).cue" size="107" crc="e0e27458" md5="ecf8e48dd3e8c5c8510098921c38b451" sha1="341ba47b658fe42feb7de582fd8b69afb01f1cb4"/>
 	</game>
 	<game name="Batman - Activity Center (USA)" id="76288">
 		<category>Games</category>
@@ -8895,6 +8913,12 @@
 		<rom name="Best of Poker (USA).bin" size="32368224" crc="904e45fa" md5="d60a8941872c00b073d835fe499994b0" sha1="c7cd929dfa41172d3ab827b906f712bafa3d4e12"/>
 		<rom name="Best of Poker (USA).cue" size="100" crc="28b26e86" md5="104cdbf292464586829b4a4b1fd500a7" sha1="aabf6b060e8f25fe3fa5677a64c9c51baae07122"/>
 	</game>
+	<game name="Best of Shangai, The (Europe) (En,Es)" id="137553">
+		<category>Games</category>
+		<description>Best of Shangai, The (Europe) (En,Es)</description>
+		<rom name="Best of Shangai, The (Europe) (En,Es).bin" size="31770816" crc="ba7cd620" md5="6755c2b42f89945fec42bfdb9a6e744a" sha1="0e1766662c73bd93431b9de025c5131e4ff49253"/>
+		<rom name="Best of Shangai, The (Europe) (En,Es).cue" size="103" crc="da1396ca" md5="d45bba097d3a8df74aa4f3e444bdafc7" sha1="a2cbc176995b408f62e17ec9aee67c8cbb40fd4b"/>
+	</game>
 	<game name="Best of Shanghai, The (USA) (En,Es)" id="109714">
 		<category>Games</category>
 		<description>Best of Shanghai, The (USA) (En,Es)</description>
@@ -8906,6 +8930,12 @@
 		<description>Best of Slots II (USA)</description>
 		<rom name="Best of Slots II (USA).bin" size="309264480" crc="f349ccbc" md5="300ae409adc7d493ff2fc55e09c6ab76" sha1="0f62676c1f97bfa9a9f4de18a3a20b3f43147271"/>
 		<rom name="Best of Slots II (USA).cue" size="88" crc="7d6c8c57" md5="0d60d8cf92afa5a8ce428d30ae3360ff" sha1="6b0c2cf189bbcc2317f8e7ecd87ab61df7327304"/>
+	</game>
+	<game name="Best of eGames, The (Europe)" id="137552">
+		<category>Games</category>
+		<description>Best of eGames, The (Europe)</description>
+		<rom name="Best of eGames, The (Europe).bin" size="180908784" crc="2da1dafa" md5="d17a97f70635ee5117acabf14d2ce59b" sha1="bb7adb8f0f64e06276adfd61c96792c7c9e55255"/>
+		<rom name="Best of eGames, The (Europe).cue" size="94" crc="974bb296" md5="5457ef2a3e54659da5c958672de3658a" sha1="87dc2ad913993fd957b924143b2f19af6ca1194a"/>
 	</game>
 	<game name="Best of, The - Emergency Room - Disaster Strikes (USA)" id="47063">
 		<category>Games</category>
@@ -14786,6 +14816,11 @@
 		<category>Games</category>
 		<description>City Life - 2008 Edition (USA)</description>
 		<rom name="City Life - 2008 Edition (USA).iso" size="2399207424" crc="834e90aa" md5="adfe496c28949380e5e9c014224d9006" sha1="b378a67d292822f6714acac65fdaa796c753a004"/>
+	</game>
+	<game name="City Life - World Edition (USA)" id="137555">
+		<category>Games</category>
+		<description>City Life - World Edition (USA)</description>
+		<rom name="City Life - World Edition (USA).iso" size="4037636096" crc="d48898aa" md5="6cf7e594926db2825004e5e5a7c4d8da" sha1="563b26ab69238cb63677b52ad27fe289e06fbeca"/>
 	</game>
 	<game name="City Life Deluxe (Europe) (En,Fr,It)" id="122584">
 		<category>Games</category>
@@ -21005,6 +21040,11 @@
 		<rom name="Dilbert's Desktop Games (USA) (OEM) (Rev 1).bin" size="49709520" crc="b4b21905" md5="64e38d51ab13c4fe866c1588881aa3ba" sha1="f4c063905cb7bd4b69963cca4dc89486f54890e7"/>
 		<rom name="Dilbert's Desktop Games (USA) (OEM) (Rev 1).cue" size="109" crc="e1ee1d81" md5="9ee7eeb7507b19125e8cc17d4c74f760" sha1="fabf8ce6d4324cc582d53a977e503c44fd8d1437"/>
 	</game>
+	<game name="Dimensity (Europe)" id="137508">
+		<category>Games</category>
+		<description>Dimensity (Europe)</description>
+		<rom name="Dimensity (Europe).iso" size="3619569664" crc="18f505c2" md5="8c3341afbafa42db940e72805a89367f" sha1="d78b7a493ee1a895587faca1778b58247ee199a7"/>
+	</game>
 	<game name="Diner Dash &amp; Diner Dash 2 - Restaurant Rescue (USA)" id="81349">
 		<category>Games</category>
 		<description>Diner Dash &amp; Diner Dash 2 - Restaurant Rescue (USA)</description>
@@ -21136,6 +21176,12 @@
 		<description>Dinosaur Adventure &amp; Space Adventure (USA)</description>
 		<rom name="Dinosaur Adventure &amp; Space Adventure (USA).bin" size="620271792" crc="9281421c" md5="5dad8ccf441326c45b532529b7765686" sha1="32b9d06be0c88c06a5ff5786e9ad837dac23d8d0"/>
 		<rom name="Dinosaur Adventure &amp; Space Adventure (USA).cue" size="125" crc="90ead952" md5="8eb80dc295ad3dd96a0fef9ab18af113" sha1="c7e1315526f27e8b35372a79e108081da13367d5"/>
+	</game>
+	<game name="Dinosaur Battles (USA)" id="137556">
+		<category>Games</category>
+		<description>Dinosaur Battles (USA)</description>
+		<rom name="Dinosaur Battles (USA).bin" size="588331632" crc="1e8688d2" md5="17bcb871ba8e5c3ca8a834ff87de6c2d" sha1="9cfde08e6f0e3a5c9d0ed54ce71cbf901edfae6a"/>
+		<rom name="Dinosaur Battles (USA).cue" size="88" crc="a323d2be" md5="43087d11e54e05e034674217720ccac0" sha1="7915192798f8bff2a88ad270e944285764f282ee"/>
 	</game>
 	<game name="Dinosaur Chess - Learn to Play! (Russia)" id="82814">
 		<category>Games</category>
@@ -21805,6 +21851,12 @@
 		<rom name="Disney's Chicken Little (USA, Thailand) (Disc 1) (Install Disc).bin" size="700691376" crc="32ea3d08" md5="218d3c9cc8ada28706de84150e62c070" sha1="6e3a3456761f0788fdf7887b51051a4dd500d2f6"/>
 		<rom name="Disney's Chicken Little (USA, Thailand) (Disc 1) (Install Disc).cue" size="129" crc="15648bcf" md5="1420c65a093eb21e64e63b1340639534" sha1="873d03cd6d2db1a9ebe517f85b065e7bbd475a9e"/>
 	</game>
+	<game name="Disney's Cinderella - Royal Wedding (Europe)" id="137511">
+		<category>Games</category>
+		<description>Disney's Cinderella - Royal Wedding (Europe)</description>
+		<rom name="Disney's Cinderella - Royal Wedding (Europe).bin" size="652226064" crc="640ef97c" md5="91b5c4ee19514c3d77a69acf86b4e638" sha1="e5ec50109b00c78c862889516db12a3992a92a61"/>
+		<rom name="Disney's Cinderella - Royal Wedding (Europe).cue" size="110" crc="936cb614" md5="7cbe840998dffca42ea89ae4cd03fb1d" sha1="abb9d8e00907d7fd94be260dcaa465d03c3ee144"/>
+	</game>
 	<game name="Disney's Cinderella's Dollhouse (USA)" id="80290">
 		<category>Games</category>
 		<description>Disney's Cinderella's Dollhouse (USA)</description>
@@ -22097,6 +22149,12 @@
 		<rom name="Disney's The Lion King - Activity Center (USA).bin" size="574525392" crc="d2d5af6b" md5="23c106ec332c0c9588659bf5d7e5a3bd" sha1="943adfe8b90b35396002241f4c2c254e809ed0c4"/>
 		<rom name="Disney's The Lion King - Activity Center (USA).cue" size="112" crc="21f98010" md5="d899fc9abde90c3777a496fb718c7b47" sha1="73e13f080116dc704266d9a9bdb799a2a5b0b984"/>
 	</game>
+	<game name="Disney's The Lion King - Operation Prideland (Europe)" id="137512">
+		<category>Games</category>
+		<description>Disney's The Lion King - Operation Prideland (Europe)</description>
+		<rom name="Disney's The Lion King - Operation Prideland (Europe).bin" size="768087936" crc="07c61f28" md5="485a7bffc440127b7159dc3a5e63a9d4" sha1="057bd81d44aa3554377372140f5f66b18afb65a3"/>
+		<rom name="Disney's The Lion King - Operation Prideland (Europe).cue" size="119" crc="d126f60e" md5="c73eaed7b3cd9dff427a96d6dbc57402" sha1="3e42fff89f318329e7b533ef0171e93e60e60cd3"/>
+	</game>
 	<game name="Disney's The Lion King II - Simba's Pride (UK) (Covermount)" id="104603">
 		<category>Games</category>
 		<description>Disney's The Lion King II - Simba's Pride (UK) (Covermount)</description>
@@ -22117,11 +22175,11 @@
 		<rom name="Disney's The Lion King II - Simba's Pride - Paddle Bash Plus Bonus Game Conga Longa (Europe).bin" size="468085632" crc="bfa0af04" md5="041313a18519f95eb7e7a3a6c92268a6" sha1="a24fac763dbbc39e3310678dfd7e6b4ec22eda3f"/>
 		<rom name="Disney's The Lion King II - Simba's Pride - Paddle Bash Plus Bonus Game Conga Longa (Europe).cue" size="158" crc="06a692f6" md5="fb4bef7a3dbbbd268eb5a2a816e5a945" sha1="6bda200d404bdf076956c62fc17c5c56300cfa9f"/>
 	</game>
-	<game name="Disney's The Little Mermaid II - Return to the Sea (Thailand)" id="83487">
+	<game name="Disney's The Little Mermaid II - Return to the Sea (Europe)" id="137513">
 		<category>Games</category>
-		<description>Disney's The Little Mermaid II - Return to the Sea (Thailand)</description>
-		<rom name="Disney's The Little Mermaid II - Return to the Sea (Thailand).bin" size="655137840" crc="6273e435" md5="dd54d93a065a6bcd181e43e7534a0981" sha1="4947a98bbd4529171cb1660a6c9dcf66ffa3b0a8"/>
-		<rom name="Disney's The Little Mermaid II - Return to the Sea (Thailand).cue" size="127" crc="3f60ff42" md5="59c53aa1aae24edea625bb2c45d8218d" sha1="1a9a3d99c0b272190fc92ebdaa8f68bd1111e412"/>
+		<description>Disney's The Little Mermaid II - Return to the Sea (Europe)</description>
+		<rom name="Disney's The Little Mermaid II - Return to the Sea (Europe).bin" size="422292192" crc="cf56ecb3" md5="23b17bfb9c0623da3a1dfad99b7ba605" sha1="fc339d7f0bd1de85de4fbaa7eccd2b25d6102d9b"/>
+		<rom name="Disney's The Little Mermaid II - Return to the Sea (Europe).cue" size="125" crc="b5a34f7f" md5="c5b7e44f4c412befd7ce3c5b8f4db016" sha1="d959ea25a135a8bd5a77373958940d883fc6e311"/>
 	</game>
 	<game name="Disney's Tigger's Honey Hunt (Australia)" id="126435">
 		<category>Games</category>
@@ -25349,6 +25407,11 @@
 		<description>Elements of Destruction (USA)</description>
 		<rom name="Elements of Destruction (USA).bin" size="532436352" crc="79f5d97a" md5="cf5a92a8591c0519f6360ea4804b1140" sha1="5c98169a94fdd5df0bbc261354b2cbb6f2f79897"/>
 		<rom name="Elements of Destruction (USA).cue" size="95" crc="ad421bb1" md5="8838cb899311b0408a649394aa86f587" sha1="9042a41382fec7ac48fb66f7168611c1b5a135bf"/>
+	</game>
+	<game name="Elements of War (Europe)" id="137557">
+		<category>Games</category>
+		<description>Elements of War (Europe)</description>
+		<rom name="Elements of War (Europe).iso" size="4495835136" crc="251025f3" md5="4c7aac8696db6a819547125eeab9b524" sha1="c93c69ac8cc5e602dd3d71a340fbd94476b9a392"/>
 	</game>
 	<game name="Elf Bowling 7 1-7 - The Last Insult (USA)" id="10697">
 		<category>Games</category>
@@ -28960,6 +29023,12 @@
 		<rom name="Farming Manager (Europe).bin" size="174010368" crc="8ce76d3a" md5="0a1c738762e79b0f21e23f32fcab023e" sha1="3fe9274344b0b1abbe6c614211d2e84e4a799e82"/>
 		<rom name="Farming Manager (Europe).cue" size="90" crc="ad58effb" md5="e34520aaede41d695701f83c512f1a69" sha1="5f2826b3f8155ca2bd46bbf7482d1f2b5d2cc2d7"/>
 	</game>
+	<game name="Farming Simulator (USA)" id="137558">
+		<category>Games</category>
+		<description>Farming Simulator (USA)</description>
+		<rom name="Farming Simulator (USA).bin" size="283827600" crc="c925ce9d" md5="75a9a47e677c42457d602c5a6a0f9a8e" sha1="2bacf89b56cbf163837e61650e5f22fb7feda1c8"/>
+		<rom name="Farming Simulator (USA).cue" size="89" crc="1c0b96b4" md5="eca781b46040f2cbaa555f0f6258098f" sha1="d5431f5fd5a48870b5e0a47687804bbb018c8d9e"/>
+	</game>
 	<game name="Farming Simulator 15 (Europe) (En,Fr,Es,It,Nl,Pt)" id="121331">
 		<category>Games</category>
 		<description>Farming Simulator 15 (Europe) (En,Fr,Es,It,Nl,Pt)</description>
@@ -29770,6 +29839,18 @@
 		<rom name="Final Racing - Cyber Space 2001 - Hot Blood Version (Taiwan) (Track 2).bin" size="24952368" crc="79bcb9e5" md5="335c507ef0db8a62f68f9c5c55743e10" sha1="e36939ac88064ed2989ab0ff8c199053796cefb7"/>
 		<rom name="Final Racing - Cyber Space 2001 - Hot Blood Version (Taiwan) (Track 3).bin" size="20834016" crc="95bf63ca" md5="568926417ebbc264ced9f5be3b24aead" sha1="661ae66803241f8c27608c8f050d3ddc2e8a45ac"/>
 		<rom name="Final Racing - Cyber Space 2001 - Hot Blood Version (Taiwan).cue" size="444" crc="76d9570c" md5="afdde8ffb1f6f2bef9aeef2d47135d72" sha1="16c73e873c178781b7a5338301d14272ed7cedd9"/>
+	</game>
+	<game name="Fire Department 3 (Europe) (Disc 1)" id="137514">
+		<category>Games</category>
+		<description>Fire Department 3 (Europe) (Disc 1)</description>
+		<rom name="Fire Department 3 (Europe) (Disc 1).bin" size="820782144" crc="25fb03bf" md5="11e60786941278226620b6faff14e9eb" sha1="198ed0cb5dcd6ffdf7997369774123d47bda4c63"/>
+		<rom name="Fire Department 3 (Europe) (Disc 1).cue" size="101" crc="3768fd5a" md5="27484ad2713d30042f993ec517617c2b" sha1="be420c71bd12517c17d7b1d06b5a9f46a176f501"/>
+	</game>
+	<game name="Fire Department 3 (Europe) (Disc 2)" id="137515">
+		<category>Games</category>
+		<description>Fire Department 3 (Europe) (Disc 2)</description>
+		<rom name="Fire Department 3 (Europe) (Disc 2).bin" size="820782144" crc="36f9c07a" md5="3bf2967d4738442f8613c82fa9ddef7a" sha1="8cc4c6304ee015ccf5d83296f89503d1f55f8091"/>
+		<rom name="Fire Department 3 (Europe) (Disc 2).cue" size="101" crc="3635db8b" md5="cf552b116cfd87700ba51cb0fc2652f5" sha1="897e9e99a70564b234a63a3b0d64ab1697fd7821"/>
 	</game>
 	<game name="Fire Fight (USA)" id="105973">
 		<category>Games</category>
@@ -32511,11 +32592,11 @@
 		<rom name="Galaxy of Mahjongg 2 (USA).bin" size="94101168" crc="9c9933f1" md5="c611159e0d16b4218223e1b7b9b4803f" sha1="6ecfcdb15fad43ada3df9f7f0f30cfa49575cd0c"/>
 		<rom name="Galaxy of Mahjongg 2 (USA).cue" size="92" crc="0e504da4" md5="7e25242b50f1225a3b8eee3e264f4b7e" sha1="1c6c4e1d791f1f0252874d88a3c3222716273bf6"/>
 	</game>
-	<game name="Galaxy of Sports (Scandinavia)" id="112585">
+	<game name="Galaxy of Sports (USA)" id="137561">
 		<category>Games</category>
-		<description>Galaxy of Sports (Scandinavia)</description>
-		<rom name="Galaxy of Sports (Scandinavia).bin" size="823355232" crc="5fd7f46b" md5="ff031a4e18b18bb949f20f37a78f628d" sha1="3299b02810de3a0ce24aa2d54f8b28d7a55186e4"/>
-		<rom name="Galaxy of Sports (Scandinavia).cue" size="96" crc="557bff41" md5="5b14cbe5488d98037785172752b36840" sha1="eb3c670a04b51caac55d7836d186b53e199c14bf"/>
+		<description>Galaxy of Sports (USA)</description>
+		<rom name="Galaxy of Sports (USA).bin" size="823355232" crc="0bd2daff" md5="91e1a2bd70edea07210d829e0f96542a" sha1="e476946dd89b490737115f243b239db9abfcf089"/>
+		<rom name="Galaxy of Sports (USA).cue" size="88" crc="75f45d6b" md5="65bd96b757e4127b2df2e0bce372397f" sha1="0120549071b29bf2fbaa4188f1e2e14bb5e00837"/>
 	</game>
 	<game name="Galaxy of WinGames (USA)" id="109088">
 		<category>Games</category>
@@ -32687,6 +32768,12 @@
 		<description>Games 4 Girls (USA)</description>
 		<rom name="Games 4 Girls (USA).bin" size="668240832" crc="a8a409f3" md5="23534a8d078cbebf4cf0af91b4451c2b" sha1="f7d9bd350b4da30842fb1d41f9fae78ee90bc72e"/>
 		<rom name="Games 4 Girls (USA).cue" size="85" crc="28666935" md5="5d65e53f9028f5bf9e32f572cd2b81cd" sha1="a8fa68835ed62e227694f2745c7c7bc1d2ca7890"/>
+	</game>
+	<game name="Games Arcade (Europe)" id="137562">
+		<category>Games</category>
+		<description>Games Arcade (Europe)</description>
+		<rom name="Games Arcade (Europe).bin" size="619305120" crc="4d3c626f" md5="fdbd16b59ef73af135837eb6d9c962d0" sha1="cbeafc74a585d3f53ee765b1fe458ac576a5d9a7"/>
+		<rom name="Games Arcade (Europe).cue" size="87" crc="16518ed1" md5="bae510763c91de5c75f9fb8a931fee3f" sha1="a7d17fd1cc8b57c88762c7f077c0750141fa547f"/>
 	</game>
 	<game name="Games Giant Vol. 1 - Special Pack 1 (Germany)" id="49920">
 		<category>Games</category>
@@ -37601,6 +37688,11 @@
 		<rom name="Hidden Stroke II - APRM (Europe) (Track 5).bin" size="19528656" crc="06ebaa20" md5="c603391169ce05ce39a740df59b64b53" sha1="725207e0e63fe4c491240875e9a6d201f80a6a6b"/>
 		<rom name="Hidden Stroke II - APRM (Europe).cue" size="612" crc="dc0d6d2d" md5="af337a7b920b99b9f9f1e697dccdff04" sha1="a404843c63c44e17c2fb8b36bc112ca4b009ce1e"/>
 	</game>
+	<game name="Hidden Target (Europe)" id="137563">
+		<category>Games</category>
+		<description>Hidden Target (Europe)</description>
+		<rom name="Hidden Target (Europe).iso" size="1943207936" crc="8e4a1f7e" md5="adcf562dc6152e9f6066efd80d8d00d0" sha1="52895603e4e27c9645fa41453edd971d148c266d"/>
+	</game>
 	<game name="Hidden Wonders of the Depths II &amp; Hidden Wonders of the Depths III - Atlantis Adventure (USA)" id="82497">
 		<category>Games</category>
 		<description>Hidden Wonders of the Depths II &amp; Hidden Wonders of the Depths III - Atlantis Adventure (USA)</description>
@@ -37914,6 +38006,12 @@
 		<description>Holiday Lemmings (USA)</description>
 		<rom name="Holiday Lemmings (USA).bin" size="851424" crc="d4fafe27" md5="3d82e7c2a55e6e7a4cafb451608277a0" sha1="4ea5a999d7d09769aec8d96e75dc3805aa9bb40f"/>
 		<rom name="Holiday Lemmings (USA).cue" size="88" crc="1ef604d4" md5="38dfc63d7ae326924ea8d2f8795f3326" sha1="f528aa90bdf1ab1df0eb44a90b165ac29f45da6a"/>
+	</game>
+	<game name="Holiday World Tycoon (Europe)" id="137564">
+		<category>Games</category>
+		<description>Holiday World Tycoon (Europe)</description>
+		<rom name="Holiday World Tycoon (Europe).bin" size="669517968" crc="3796191c" md5="cb594e2d86368c821774cb006ef0d4e8" sha1="f4d2ff4f8eaca113c2d6d30c07d3392e2032c5f4"/>
+		<rom name="Holiday World Tycoon (Europe).cue" size="95" crc="ef7aae2c" md5="44ab92e50538887ed276453c9486dca4" sha1="80f1fa65ce4c180214970f86454a427bdda30648"/>
 	</game>
 	<game name="Hollow Knight (USA) (En,Fr)" id="81051">
 		<category>Games</category>
@@ -42784,11 +42882,11 @@
 		<rom name="Journey to the Moon (Europe) (Disc 2).bin" size="841886640" crc="642a9ac7" md5="5a60d11873ffeb362301e6db2a1b97db" sha1="dc8f62fdffef8475a6723f6f8f1c3c97268dc0bc"/>
 		<rom name="Journey to the Moon (Europe) (Disc 2).cue" size="103" crc="81f399a0" md5="8caed6f7201ba40bad30e3c9a357da63" sha1="4587e42a4c451c83676294b0ee0db105e09a879f"/>
 	</game>
-	<game name="Journeyman Project 2, The - Buried in Time (USA) (Disc 1)" id="50949">
+	<game name="Journeyman Project 2, The - Buried in Time (USA) (Disc 1) (Rev 1)" id="137569">
 		<category>Games</category>
-		<description>Journeyman Project 2, The - Buried in Time (USA) (Disc 1)</description>
-		<rom name="Journeyman Project 2, The - Buried in Time (USA) (Disc 1).bin" size="580327776" crc="8d245304" md5="bcb8afe8900c3ff2bea8aa8852dc80a3" sha1="2ed216bab0261d6660d7b0b0a1f91ef9ada86998"/>
-		<rom name="Journeyman Project 2, The - Buried in Time (USA) (Disc 1).cue" size="146" crc="48f791aa" md5="56f23a8eb835c221370a5c5fcbe3ad17" sha1="124662416f221bf51b57839f82ffe31cbf60713f"/>
+		<description>Journeyman Project 2, The - Buried in Time (USA) (Disc 1) (Rev 1)</description>
+		<rom name="Journeyman Project 2, The - Buried in Time (USA) (Disc 1) (Rev 1).bin" size="600350352" crc="441030e4" md5="1368ee7981cc3f8eeae706b7d6212c0c" sha1="1e9d3cd7019657f2f75d6206a77a3a5a44327505"/>
+		<rom name="Journeyman Project 2, The - Buried in Time (USA) (Disc 1) (Rev 1).cue" size="154" crc="150c907f" md5="ddbd3a405aaf05d02af218e4a1c2e2ae" sha1="5b10165287c0a70e70bbaa2f2ee167bffe2a4dd3"/>
 	</game>
 	<game name="Journeyman Project 2, The - Buried in Time (USA) (Disc 2)" id="50948">
 		<category>Games</category>
@@ -66723,6 +66821,11 @@
 		<rom name="Reel Deal Slots - 2nd Vol. (USA) (v1.4).bin" size="504344064" crc="c8573b47" md5="f3f4bbd0e1d107cf78a4f4ccc044aa92" sha1="5dd59a33d33d1935eb2b4c2eec0d663f846e6d49"/>
 		<rom name="Reel Deal Slots - 2nd Vol. (USA) (v1.4).cue" size="120" crc="90f36710" md5="48082a6be53c9467923283546c0f2f8d" sha1="c8dd14f1ad51cf2afbe28f72cde863e58da234a8"/>
 	</game>
+	<game name="Reel Deal Slots - Adventure 2-Pack! (USA)" id="137567">
+		<category>Games</category>
+		<description>Reel Deal Slots - Adventure 2-Pack! (USA)</description>
+		<rom name="Reel Deal Slots - Adventure 2-Pack! (USA).iso" size="1379074048" crc="5bf4fd96" md5="256b41b6b0c53940a7d6294e4351a997" sha1="9bdbc87b7f23f6ce2f02ba5be644f7e56eb2174c"/>
+	</game>
 	<game name="Reel Deal Slots - American Adventure (USA)" id="131381">
 		<category>Games</category>
 		<description>Reel Deal Slots - American Adventure (USA)</description>
@@ -84191,11 +84294,11 @@
 		<rom name="Total Annihilation (USA) (Disc 2) (Track 17).bin" size="14086128" crc="4dd0ff5d" md5="407c0522129219d3248e3f6ec2b1c1bc" sha1="574d8c6f154dc1e097870fada56a427ef2ca3ef9"/>
 		<rom name="Total Annihilation (USA) (Disc 2).cue" size="2158" crc="ec1f5d61" md5="5c893bd50e2d074a7330205447f954bb" sha1="f5f2a2768580de79cfd2daf57f240e186dd9426a"/>
 	</game>
-	<game name="Total Annihilation - Kingdoms (USA)" id="26312">
+	<game name="Total Annihilation - Kingdoms (USA, Korea)" id="26312">
 		<category>Games</category>
-		<description>Total Annihilation - Kingdoms (USA)</description>
-		<rom name="Total Annihilation - Kingdoms (USA).bin" size="783220704" crc="b660df6d" md5="807587e63954dbb06df9522668b34326" sha1="cb6b584721180ef13a4cb6b89294833761fd9c86"/>
-		<rom name="Total Annihilation - Kingdoms (USA).cue" size="101" crc="ecc60c99" md5="70ee709f21e226d4edb6c836f3ccad9f" sha1="e2e821fe5475e77e7d04b47fbcdedf2c44d110b5"/>
+		<description>Total Annihilation - Kingdoms (USA, Korea)</description>
+		<rom name="Total Annihilation - Kingdoms (USA, Korea).bin" size="783220704" crc="b660df6d" md5="807587e63954dbb06df9522668b34326" sha1="cb6b584721180ef13a4cb6b89294833761fd9c86"/>
+		<rom name="Total Annihilation - Kingdoms (USA, Korea).cue" size="108" crc="6242dc8f" md5="f0046da35d96e101a5e1f00ee6d7d4d1" sha1="a531dd548ba160c44f3417860f37e13b7f29d41e"/>
 	</game>
 	<game name="Total Club Manager 2003 (Europe)" id="38811">
 		<category>Games</category>

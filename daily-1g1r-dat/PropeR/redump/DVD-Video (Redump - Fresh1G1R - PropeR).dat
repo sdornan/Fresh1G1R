@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (1,000) (-y) [-aAbBcdkmMpPuv] (2026-08-27 10-38-37) (Retool)</description>
-		<version>2026-08-27 10-38-37</version>
-		<date>2026-08-27 12-55-23</date>
+		<description>DVD-Video (1,002) (-y) [-aAbBcdkmMpPuv] (2026-08-28 10-46-53) (Retool)</description>
+		<version>2026-08-28 10-46-53</version>
+		<date>2026-08-28 14-17-45</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1895,6 +1895,11 @@
 		<category>Bonus Discs</category>
 		<description>Hirameki Music Videos (USA) (En,Ja) (DVD Game Bundle)</description>
 		<rom name="Hirameki Music Videos (USA) (En,Ja) (DVD Game Bundle).iso" size="835977216" crc="1f56507d" md5="6c397a4b91470eb00e6d0a26ac57da1d" sha1="dc9387e7c79113cd0176b548c12fdbe4a47e8d6b"/>
+	</game>
+	<game name="Hirohiko Araki 25th Anniversary Project Special Disc (Japan)" id="137470">
+		<category>Bonus Discs</category>
+		<description>Hirohiko Araki 25th Anniversary Project Special Disc (Japan)</description>
+		<rom name="Hirohiko Araki 25th Anniversary Project Special Disc (Japan).iso" size="2313586688" crc="ba7d1e70" md5="9ed49af17b1dd7593f840f5b60b54a64" sha1="39149cf0ee66ab89337cdaf8eaee5bd959527ebd"/>
 	</game>
 	<game name="History Channel, The - Declassified - The Rise and Fall of The Wall (USA) (PC Game Bundle)" id="120354">
 		<category>Bonus Discs</category>
@@ -4215,6 +4220,11 @@
 		<category>Games</category>
 		<description>Suigetsu DVD Players Game (Japan) (Disc D)</description>
 		<rom name="Suigetsu DVD Players Game (Japan) (Disc D).iso" size="7768635392" crc="2012a665" md5="1edcafab25eec02c87aadde5a8393117" sha1="727ca892b4c2216c1a2565f3676f048501155d34"/>
+	</game>
+	<game name="Summon Night Magical Disc (Japan)" id="137471">
+		<category>Bonus Discs</category>
+		<description>Summon Night Magical Disc (Japan)</description>
+		<rom name="Summon Night Magical Disc (Japan).iso" size="627738624" crc="ab41ed9d" md5="fa3054df0d9c59859a4c60edf3818256" sha1="54a373dc71a8a837b418d871f3c387139372833b"/>
 	</game>
 	<game name="Sunny Side Battle (Europe) (Multisystem Game Bundle)" id="53242">
 		<category>Bonus Discs</category>

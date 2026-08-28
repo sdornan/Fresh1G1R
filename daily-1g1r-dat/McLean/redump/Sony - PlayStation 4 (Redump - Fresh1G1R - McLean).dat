@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,591) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-26 23-16-58) (Retool)</description>
-		<version>2026-08-26 23-16-58</version>
-		<date>2026-08-27 12-49-37</date>
+		<description>Sony - PlayStation 4 (1,592) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-27 12-58-29) (Retool)</description>
+		<version>2026-08-27 12-58-29</version>
+		<date>2026-08-28 14-16-46</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1785,6 +1785,11 @@
 		<category>Games</category>
 		<description>Dead by Daylight (USA)</description>
 		<rom name="Dead by Daylight (USA).iso" size="9407037440" crc="ceade75f" md5="ff6fe2272bef2b4032532042407d09bc" sha1="9f8854330edb2298a1202bf54b3fdf9057747c51"/>
+	</game>
+	<game name="Dead by Daylight - Nightmare Edition (USA)" id="137467">
+		<category>Games</category>
+		<description>Dead by Daylight - Nightmare Edition (USA)</description>
+		<rom name="Dead by Daylight - Nightmare Edition (USA).iso" size="46623948800" crc="397bcdc4" md5="8627bda16287db9b14111137fda7f0c6" sha1="11e56042e31427f7c9a02f576e49e5222040dce0"/>
 	</game>
 	<game name="Dead or Alive 5 - Last Round (USA) (En,Ja,Fr,De,Es,It)" id="90196">
 		<category>Games</category>
