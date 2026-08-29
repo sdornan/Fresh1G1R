@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox Series X (Retool)</name>
-		<description>Microsoft - Xbox Series X (107) (-y) [-aAbBcefkmMoprv] (2026-08-27 15-16-53) (Retool)</description>
-		<version>2026-08-27 15-16-53</version>
-		<date>2026-08-28 14-09-48</date>
+		<description>Microsoft - Xbox Series X (108) (-y) [-aAbBcefkmMoprv] (2026-08-28 15-07-23) (Retool)</description>
+		<version>2026-08-28 15-07-23</version>
+		<date>2026-08-29 08-53-13</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -155,6 +155,11 @@
 		<category>Games</category>
 		<description>EA Sports UFC 5 (USA)</description>
 		<rom name="EA Sports UFC 5 (USA).iso" size="45957781504" crc="857bc115" md5="92ed437d2f555f90e101bc61cf5ca647" sha1="599ba47470430268fde8c70416ad204a54493bc3"/>
+	</game>
+	<game name="Elden Ring (USA) (Disc 1)" id="137605">
+		<category>Games</category>
+		<description>Elden Ring (USA) (Disc 1)</description>
+		<rom name="Elden Ring (USA) (Disc 1).iso" size="49999802368" crc="93e24ae7" md5="009a4ced774d534782a86f5359166000" sha1="0d5d042521287db5f6d815baecf49e373902c1aa"/>
 	</game>
 	<game name="Elden Ring (USA) (Disc 2)" id="137468">
 		<category>Games</category>

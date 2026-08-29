@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Benesse - Pocket Challenge V2 (Retool)</name>
-		<description>Benesse - Pocket Challenge V2 (34) (-y) [-aAbBcefkmMoprv] (20260826-031349) (Retool)</description>
-		<version>20260826-031349</version>
-		<date>2026-08-27 12-40-26</date>
+		<description>Benesse - Pocket Challenge V2 (33) (-y) [-aAbBcefkmMoprv] (20260828-023242) (Retool)</description>
+		<version>20260828-023242</version>
+		<date>2026-08-29 08-58-45</date>
 		<author>Arctic Circle System, BigFred, Gefflon, Hiccup, Icyelut, omonim2007, psykopat, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -41,10 +41,11 @@
 		<game_id>2BM110</game_id>
 		<rom name="Chuu 1 Suugaku (Japan) (2BM110).pc2" size="2097152" crc="723a239d" md5="dd9786ec809c53ce0a60b71d1d80a67e" sha1="a21d7c39ef64a37e0055c17d97c2ae7da29b8240" sha256="f674c26749bd05a74cd8686323aecf97dfda1fcb4dc147624398dc4e0f993f0c"/>
 	</game>
-	<game name="Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP213)" id="0071">
+	<game name="Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP203)" id="0034">
 		<category>Games</category>
-		<description>Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP213)</description>
-		<rom name="Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP213).pc2" size="8388608" crc="8114353c" md5="a01939bbbb0fe81fa33940b1ac138bf2" sha1="09229625909348a3bd33cef47b6a835ce12fe9dc"/>
+		<description>Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP203)</description>
+		<game_id>6FP203</game_id>
+		<rom name="Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP203).pc2" size="8388608" crc="1bbb32a0" md5="3336e12e504d9587173e1816425749cd" sha1="9529ba9a06846dc6d9cedf13881363922e63fbe0" sha256="b84b0622285bcb42b57501185306309f0fad8c128bde7a6a3e72d1f71f403d67"/>
 	</game>
 	<game name="Chuu 2 English (New Crown, Total English Taiou Ban) (Japan) (3BB213)" id="0040">
 		<category>Games</category>
@@ -75,11 +76,6 @@
 		<description>Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (Japan) (6FP313)</description>
 		<game_id>6FP313</game_id>
 		<rom name="Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (Japan) (6FP313).pc2" size="8388608" crc="c14378c8" md5="561dd7ecdf03578371c99eb3b4049b54" sha1="2581babb2c8d3e3d8977e4aa1efea269c606e780" sha256="a119e3891fa167697fa8b2a09874990165862ee8245130f39ece335741d4c83b"/>
-	</game>
-	<game name="Chuu 3 Ei - Suu - Koumin Pack (Sunshine, One World Taiou Ban) (Japan) (6FP302)" id="0073">
-		<category>Games</category>
-		<description>Chuu 3 Ei - Suu - Koumin Pack (Sunshine, One World Taiou Ban) (Japan) (6FP302)</description>
-		<rom name="Chuu 3 Ei - Suu - Koumin Pack (Sunshine, One World Taiou Ban) (Japan) (6FP302).pc2" size="8388608" crc="4b956caf" md5="740d757cce1f32d119f1006100d5b062" sha1="49b2a85a6f38793647359136f23e3a77d79fc8c7"/>
 	</game>
 	<game name="Chuu 3 English (New Horizon, Columbus21 Taiou Ban) (Japan) (4BB311)" id="0055">
 		<category>Games</category>

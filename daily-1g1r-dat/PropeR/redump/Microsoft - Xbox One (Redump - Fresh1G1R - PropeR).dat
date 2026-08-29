@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (901) (-y) [-aAbBcdkmMpPuv] (2026-08-27 17-18-21) (Retool)</description>
-		<version>2026-08-27 17-18-21</version>
-		<date>2026-08-28 14-20-03</date>
+		<description>Microsoft - Xbox One (902) (-y) [-aAbBcdkmMpPuv] (2026-08-28 15-07-20) (Retool)</description>
+		<version>2026-08-28 15-07-20</version>
+		<date>2026-08-29 09-13-47</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1185,6 +1185,11 @@
 		<category>Games</category>
 		<description>Elder Scrolls V, The - Skyrim Special Edition (USA) (En,Fr,Es)</description>
 		<rom name="Elder Scrolls V, The - Skyrim Special Edition (USA) (En,Fr,Es).iso" size="22978238464" crc="0f08c85f" md5="9b4265d0e7e3fbeba88c6bdfcf80aa29" sha1="d7e58810454c81170f7cd85b6b750e74e8803614"/>
+	</game>
+	<game name="Elf on the Shelf, The - Christmas Heroes (USA)" id="137606">
+		<category>Games</category>
+		<description>Elf on the Shelf, The - Christmas Heroes (USA)</description>
+		<rom name="Elf on the Shelf, The - Christmas Heroes (USA).iso" size="22978689024" crc="01940097" md5="5fe42cea30c4e167db6e6f37f17f03c7" sha1="322781c67a4a2be126b52d1bb294997b7fc6602a"/>
 	</game>
 	<game name="Elite Dangerous (USA)" id="103528">
 		<category>Games</category>

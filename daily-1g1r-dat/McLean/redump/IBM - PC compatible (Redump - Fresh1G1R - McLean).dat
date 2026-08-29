@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,422) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-28 13-56-54) (Retool)</description>
-		<version>2026-08-28 13-56-54</version>
-		<date>2026-08-28 14-13-39</date>
+		<description>IBM - PC compatible (13,426) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-29 01-06-54) (Retool)</description>
+		<version>2026-08-29 01-06-54</version>
+		<date>2026-08-29 09-02-29</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5145,6 +5145,12 @@
 		<rom name="Arcade Classics &amp; Shoot 'em Ups (USA).bin" size="61660032" crc="493561e5" md5="cf49f60c45de04b9c74ba5973b002a28" sha1="68d88aeb67cf7a9a423361b4fa55d4bdfca89c8c"/>
 		<rom name="Arcade Classics &amp; Shoot 'em Ups (USA).cue" size="103" crc="bc7aaec2" md5="f1df9ac267f232fd19e6eb853f8bde96" sha1="c751567279996144a230b1afae7e0a3b20b88f29"/>
 	</game>
+	<game name="Arcade Classics (Europe)" id="137597">
+		<category>Games</category>
+		<description>Arcade Classics (Europe)</description>
+		<rom name="Arcade Classics (Europe).bin" size="506096304" crc="296c4114" md5="a9f45e06411c92f9ee9c023c3afa7e75" sha1="7e17fe56363d8695784c6c54efef1934b30b8435"/>
+		<rom name="Arcade Classics (Europe).cue" size="90" crc="cfab5b21" md5="0773c61e3611653ff518cdffbbe13d5c" sha1="9e658511664920b0f86de5462526a925c42d20d5"/>
+	</game>
 	<game name="Arcade Companion CD-ROM Vol. 1, The (USA)" id="28763">
 		<category>Games</category>
 		<description>Arcade Companion CD-ROM Vol. 1, The (USA)</description>
@@ -5508,17 +5514,17 @@
 		<rom name="Armed and Dangerous (USA) (Disc 2).bin" size="795039504" crc="5fc1500d" md5="a53df26b879c50eef571aaa382658fc6" sha1="2be08bbaf369c12a4df9985cab19ae33e87a08c5"/>
 		<rom name="Armed and Dangerous (USA) (Disc 2).cue" size="100" crc="c7d19065" md5="2f65d47a46ad460ced504a70a53eeced" sha1="68b222bfcd23e54503c9f6d17336202a43e9c3ba"/>
 	</game>
-	<game name="Armies of Exigo (Europe) (En,Es,It,Pl,Cs,Hu) (Disc 1)" id="39624">
+	<game name="Armies of Exigo (USA) (Disc 1)" id="137594">
 		<category>Games</category>
-		<description>Armies of Exigo (Europe) (En,Es,It,Pl,Cs,Hu) (Disc 1)</description>
-		<rom name="Armies of Exigo (Europe) (En,Es,It,Pl,Cs,Hu) (Disc 1).bin" size="788886672" crc="1f0b37ab" md5="f319b5a795ce650bf3a136fa04b3d4f1" sha1="71034a99a65d554fa1b5e94d11029cf52acfd3d3"/>
-		<rom name="Armies of Exigo (Europe) (En,Es,It,Pl,Cs,Hu) (Disc 1).cue" size="119" crc="df119881" md5="4410ff7078a6cfa622b5d867c671cc5d" sha1="4202a0ab6ec8d6d9fe5a37c79ebcbfc4204b0aee"/>
+		<description>Armies of Exigo (USA) (Disc 1)</description>
+		<rom name="Armies of Exigo (USA) (Disc 1).bin" size="788891376" crc="e796a157" md5="9d6ae787f9845d17774177db7e44457c" sha1="42e692226393516e03d1b40c1593ee8ce19242ca"/>
+		<rom name="Armies of Exigo (USA) (Disc 1).cue" size="96" crc="e02a3f6e" md5="15b22bf4315cc4772a9cc3ed859a433a" sha1="532fa47a7e0147458ab414c55fd14904517a2c02"/>
 	</game>
-	<game name="Armies of Exigo (Europe) (En,Es,It,Pl,Cs,Hu) (Disc 2)" id="39625">
+	<game name="Armies of Exigo (USA) (Disc 2)" id="137595">
 		<category>Games</category>
-		<description>Armies of Exigo (Europe) (En,Es,It,Pl,Cs,Hu) (Disc 2)</description>
-		<rom name="Armies of Exigo (Europe) (En,Es,It,Pl,Cs,Hu) (Disc 2).bin" size="528701376" crc="703beb99" md5="907ae5a092b7e9440644daba736b3530" sha1="2d7397f5dc788bb6e5725f31a86d7216a20268d3"/>
-		<rom name="Armies of Exigo (Europe) (En,Es,It,Pl,Cs,Hu) (Disc 2).cue" size="119" crc="de4cbe50" md5="69cf460e06faba93b9312409c4f8af99" sha1="caeb0b20081842016f38abfedc748e0a6846f3a0"/>
+		<description>Armies of Exigo (USA) (Disc 2)</description>
+		<rom name="Armies of Exigo (USA) (Disc 2).bin" size="529823280" crc="e27eccb3" md5="9618629b59f75b1ff79240baf2d1e8ad" sha1="5c1ed8960f03bd08fb93df9653483dfc851d3764"/>
+		<rom name="Armies of Exigo (USA) (Disc 2).cue" size="96" crc="e17719bf" md5="766d35ed847cb23d1a2e756672160ba6" sha1="bb5e63e11cd7570d1afe984e9e8eb651166ff008"/>
 	</game>
 	<game name="Armikrog. (USA) (The Game)" id="82051">
 		<category>Games</category>
@@ -66204,11 +66210,11 @@
 		<rom name="Real Crimes - Jack the Ripper &amp; Real Crimes - The Unicorn Killer (USA).bin" size="724580640" crc="d6110bce" md5="fe48a844b138a186ee8f291feae19404" sha1="414e4de57a2faa2f91a94e26243d2c0227953032"/>
 		<rom name="Real Crimes - Jack the Ripper &amp; Real Crimes - The Unicorn Killer (USA).cue" size="136" crc="96fbe7ad" md5="2af2db29fd33fac8d683b11cb9292bd6" sha1="349f2215f0381dfdd35b32cd788432e329557ab3"/>
 	</game>
-	<game name="Real Crimes - The Unicorn Killer (Australia)" id="126998">
+	<game name="Real Crimes - The Unicorn Killer (Europe, Australia)" id="126998">
 		<category>Games</category>
-		<description>Real Crimes - The Unicorn Killer (Australia)</description>
-		<rom name="Real Crimes - The Unicorn Killer (Australia).bin" size="242528832" crc="fb04879e" md5="234527c254c88119f72ea308ac5d8006" sha1="b76b2d78f064d6e7355847ea0719c73e829a5ab3"/>
-		<rom name="Real Crimes - The Unicorn Killer (Australia).cue" size="110" crc="c35aaf21" md5="35c1321423b8dba43a5cd179580133b7" sha1="b1170904fcd5fd7343310332258c5b7736f9fff3"/>
+		<description>Real Crimes - The Unicorn Killer (Europe, Australia)</description>
+		<rom name="Real Crimes - The Unicorn Killer (Europe, Australia).bin" size="242528832" crc="fb04879e" md5="234527c254c88119f72ea308ac5d8006" sha1="b76b2d78f064d6e7355847ea0719c73e829a5ab3"/>
+		<rom name="Real Crimes - The Unicorn Killer (Europe, Australia).cue" size="118" crc="645252a8" md5="053d251639704cb4b8c0c7799ef3d244" sha1="0d0634e354c1bd12318a80f46de11dbce9e76896"/>
 	</game>
 	<game name="Real Deal 2, The (USA)" id="112997">
 		<category>Games</category>
@@ -67047,6 +67053,12 @@
 		<description>Requital (Europe)</description>
 		<rom name="Requital (Europe).bin" size="788886672" crc="25ead873" md5="05873b50d57b68d66f873052c37ab3a2" sha1="8d95737f67e936af1313065d3aae9e3d09b7db78"/>
 		<rom name="Requital (Europe).cue" size="83" crc="fcfd2540" md5="74498305602f716cd3e9f9078053c902" sha1="0627daeb179391521025ff1c88a94b3c2df2a4df"/>
+	</game>
+	<game name="Rescue 2 - Everyday Heroes (UK)" id="137578">
+		<category>Games</category>
+		<description>Rescue 2 - Everyday Heroes (UK)</description>
+		<rom name="Rescue 2 - Everyday Heroes (UK).bin" size="571872336" crc="5757c7eb" md5="aa8e5772a95578917b1dd22e0cf5b8fd" sha1="2f74ab56accde5048a9ceaece31e8ba7c0311cae"/>
+		<rom name="Rescue 2 - Everyday Heroes (UK).cue" size="97" crc="b6f9c037" md5="057e01cf7ec976f49ce69260793edd14" sha1="87e01674d515f152d3f9fab6f5f68c1b8bd0ed3d"/>
 	</game>
 	<game name="Rescue the Scientists (USA)" id="122331">
 		<category>Games</category>
@@ -83328,11 +83340,6 @@
 		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe) (En,Fr,De,Es,It) (Disc 4).bin" size="311804640" crc="fa82523d" md5="2f45a744fa3f9a60e938b7733d2a226c" sha1="789c648f245c28f840916a24dee3144345520db8"/>
 		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe) (En,Fr,De,Es,It) (Disc 4).cue" size="146" crc="12547a1c" md5="a9fe5de87bc358369a50cdf0bdf23df7" sha1="e69f78fc56e4b9c49b6916ae43a18432bdae54a7"/>
 	</game>
-	<game name="Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe, World) (En,Fr,De,Es,It)" id="15144">
-		<category>Games</category>
-		<description>Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe, World) (En,Fr,De,Es,It)</description>
-		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe, World) (En,Fr,De,Es,It).iso" size="2415886336" crc="3d6cfb1c" md5="9a77579ff88f082ddc89ee45613a11cf" sha1="deebbbf62e265d881bb52e091b3ff302ee6ae776"/>
-	</game>
 	<game name="Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (Disc 1)" id="16565">
 		<category>Games</category>
 		<description>Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (Disc 1)</description>
@@ -83350,6 +83357,11 @@
 		<description>Tom Clancy's Splinter Cell - Pandora Tomorrow (USA, Japan) (Disc 2)</description>
 		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (USA, Japan) (Disc 2).bin" size="819295680" crc="15cf1541" md5="e2d8ebc042d9b2e68a509788d9760a72" sha1="7bd8cfc5acbcaa104036eeb9918a0daeb4f37df9"/>
 		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (USA, Japan) (Disc 2).cue" size="133" crc="8cf1a756" md5="e2fa40312be20b9a08a44f67405bf540" sha1="2d6d1a259f73af8fa5fd1448accc33bc7c47eacf"/>
+	</game>
+	<game name="Tom Clancy's Splinter Cell - Pandora Tomorrow (World) (En,Fr,De,Es,It)" id="15144">
+		<category>Games</category>
+		<description>Tom Clancy's Splinter Cell - Pandora Tomorrow (World) (En,Fr,De,Es,It)</description>
+		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (World) (En,Fr,De,Es,It).iso" size="2415886336" crc="3d6cfb1c" md5="9a77579ff88f082ddc89ee45613a11cf" sha1="deebbbf62e265d881bb52e091b3ff302ee6ae776"/>
 	</game>
 	<game name="Tom Clancy's The Division (Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 5)" id="85391">
 		<category>Games</category>
@@ -89543,6 +89555,18 @@
 		<rom name="WarGames (USA) (v1.01) (Track 09).bin" size="43843632" crc="ce354f34" md5="82d13d1843f5117a0dd72be6823aca99" sha1="2e9c4ed7c71a2c3521fd78a11378404baee2369d"/>
 		<rom name="WarGames (USA) (v1.01) (Track 10).bin" size="43855392" crc="5559ae42" md5="c524256091c7bac5f73e99c1edb9980d" sha1="d74cd6a9cceef276c28526fd3c52228ef9d207af"/>
 		<rom name="WarGames (USA) (v1.01).cue" size="1152" crc="b2b99e06" md5="2d83039505c319968261830917c0957b" sha1="b41648c6384f395ff138cd5daedfaadbd2b98538"/>
+	</game>
+	<game name="WarPath (USA) (Disc 1)" id="137603">
+		<category>Games</category>
+		<description>WarPath (USA) (Disc 1)</description>
+		<rom name="WarPath (USA) (Disc 1).bin" size="743994048" crc="0008d2e7" md5="cc997445f0a1b82cd31c2cf69c80593c" sha1="7d73293712cbd29ee89dfc6a8838db8d99f29dcf"/>
+		<rom name="WarPath (USA) (Disc 1).cue" size="88" crc="da367f3e" md5="e41bdbe83a38eae0a003d034149bf8b8" sha1="115e2f603ad7c29a9c7c3c31089eeca8f1ad84a5"/>
+	</game>
+	<game name="WarPath (USA) (Disc 2)" id="137604">
+		<category>Games</category>
+		<description>WarPath (USA) (Disc 2)</description>
+		<rom name="WarPath (USA) (Disc 2).bin" size="89726448" crc="0269e911" md5="fbe968330a7b19adf8bbeaed33a212d4" sha1="872979cd34f28281d9e7ae3d3228ff85924c8cc1"/>
+		<rom name="WarPath (USA) (Disc 2).cue" size="88" crc="db6b59ef" md5="de9c91e15b4d4bc85d0a8c956906cae1" sha1="0f161e98bc9b06309489ea5af073d4d696967bd7"/>
 	</game>
 	<game name="Warbirds - Dogfights (USA)" id="135707">
 		<category>Games</category>

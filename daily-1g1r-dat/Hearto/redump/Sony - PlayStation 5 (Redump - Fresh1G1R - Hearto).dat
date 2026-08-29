@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (341) (-y) [-aAbBcefkmMoprv] (2026-08-28 09-59-11) (Retool)</description>
-		<version>2026-08-28 09-59-11</version>
-		<date>2026-08-28 14-11-50</date>
+		<description>Sony - PlayStation 5 (342) (-y) [-aAbBcefkmMoprv] (2026-08-28 14-38-58) (Retool)</description>
+		<version>2026-08-28 14-38-58</version>
+		<date>2026-08-29 08-55-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -970,6 +970,11 @@
 		<category>Games</category>
 		<description>Metal Gear Solid - Master Collection Vol. 1 (USA)</description>
 		<rom name="Metal Gear Solid - Master Collection Vol. 1 (USA).iso" size="40008351744" crc="e0524f78" md5="2ba55a00897c5c2d9da71417a94a2060" sha1="c287e4f022df6aa01036e8b48574dd4d75b0fd12"/>
+	</game>
+	<game name="Metal Gear Solid - Master Collection Vol. 2 (USA)" id="137600">
+		<category>Games</category>
+		<description>Metal Gear Solid - Master Collection Vol. 2 (USA)</description>
+		<rom name="Metal Gear Solid - Master Collection Vol. 2 (USA).iso" size="40008351744" crc="e3c5be33" md5="34b4c989d4b5af4503d5d009cbe9dd3f" sha1="0f8ec1e55664e0d2ce9dae498dabaae00295c8b2"/>
 	</game>
 	<game name="Metal Gear Solid Delta - Snake Eater (World)" id="134340">
 		<category>Games</category>

@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>VTech - Mobigo (Retool)</name>
-		<description>VTech - Mobigo (41) (-y) [-aAbBcdkmMpPuv] (20260316-034813) (Retool)</description>
-		<version>20260316-034813</version>
-		<date>2026-08-27 13-01-04</date>
-		<author>nnssxx, Tauwasser</author>
+		<description>VTech - Mobigo (54) (-y) [-aAbBcdkmMpPuv] (20260828-055318) (Retool)</description>
+		<version>20260828-055318</version>
+		<date>2026-08-29 09-16-28</date>
+		<author>nnssxx, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -46,6 +46,11 @@
 		<description>Chuggington (Germany)</description>
 		<rom name="Chuggington (Germany).bin" size="16777216" crc="62bd91aa" md5="3d018327146ee1a6c0bd2b2f733dd7f7" sha1="b8e185107f1764d469cca37472a18553fe1e55fa" sha256="f29f9f6ab59a6964454fa75910c1e7d2ff5f119421a4019c953fcc1ca88d2add"/>
 	</game>
+	<game name="Dino Train - A la Decouverte du Monde!, Le (France)" id="0057">
+		<category>Games</category>
+		<description>Dino Train - A la Decouverte du Monde!, Le (France)</description>
+		<rom name="Dino Train - A la Decouverte du Monde!, Le (France).bin" size="16777216" crc="65002a9a" md5="e84761a3869337829c3ac7b22c102d2f" sha1="77c936de055459385bc0c2bd95242f44e8365433" sha256="40d220d7e59eb7ec29e5b19dc6bc686bbeef5d07317e7a491abcc06e64a06487"/>
+	</game>
 	<game name="Dino-Zug - Erforsche die Welt (Germany)" id="0019">
 		<category>Games</category>
 		<description>Dino-Zug - Erforsche die Welt (Germany)</description>
@@ -61,15 +66,35 @@
 		<description>Disney Fairies - Tinkerbell - Tal der Feen (Germany)</description>
 		<rom name="Disney Fairies - Tinkerbell - Tal der Feen (Germany).bin" size="16777216" crc="f711f920" md5="eac04f8a0bfac8807b3c7dc8f43e4dc5" sha1="0fc8890d604ec89e061a35a0d577864e937920ce" sha256="af43bc57c7d89b92ed8462180e5fe5a74b6e4ebceb65f2ce06bb6df5e1c3e6d6"/>
 	</game>
+	<game name="Disney Pixar - Cars Toon - Martin se la Raconte (France)" id="0053">
+		<category>Games</category>
+		<description>Disney Pixar - Cars Toon - Martin se la Raconte (France)</description>
+		<rom name="Disney Pixar - Cars Toon - Martin se la Raconte (France).bin" size="16777216" crc="0748406a" md5="d3f178a86a8598ccb4a05bc19827f51d" sha1="d6cb451b870abfc2d8496abb20b2a13ef8e58ad2" sha256="b34921cb0d627a09432d667fe13d1207f3ee40fd6a004374ff1f260ce1aefbf6"/>
+	</game>
+	<game name="Disney Planes (France)" id="0060">
+		<category>Games</category>
+		<description>Disney Planes (France)</description>
+		<rom name="Disney Planes (France).bin" size="16777216" crc="e370c31c" md5="728e1a0439665219191624a1268edcf1" sha1="51b66ad8230d376d6ae3f23055216245c7f27826" sha256="63253a3ce71328ef2dc139a087a709e1e6e455c05c45b068b3c85367d53fe81b"/>
+	</game>
 	<game name="Disney Princess (USA)" id="0032">
 		<category>Games</category>
 		<description>Disney Princess (USA)</description>
 		<rom name="Disney Princess (USA).bin" size="16777216" crc="fd9d04fc" md5="03272b9c02efad17fb50cbaf0661531c" sha1="af9ae160faf3087eb4d3a375c484e569465d4fc4" sha256="c2f6066b90310204c38a84a5c2d259073d3669273f8b05d11664e5499874894c"/>
 	</game>
+	<game name="Disney les Fees - Talents de Fees (France)" id="0051">
+		<category>Games</category>
+		<description>Disney les Fees - Talents de Fees (France)</description>
+		<rom name="Disney les Fees - Talents de Fees (France).bin" size="16777216" crc="d7a2b207" md5="568e6fb49ddb0fbe3b2a410810e33fac" sha1="486b3a7ad99b47ad66535ede17bcb531b2f99a2a" sha256="ced1ecd140270de078b9cf6eb8c2818cd7852c1c702cddb68a609ad342074027"/>
+	</game>
 	<game name="Doc McStuffins - Spielzeugaerztin (Germany)" id="0028">
 		<category>Games</category>
 		<description>Doc McStuffins - Spielzeugaerztin (Germany)</description>
 		<rom name="Doc McStuffins - Spielzeugaerztin (Germany).bin" size="16777216" crc="53100cbe" md5="33ea7cf685f4658223a3933821de8a64" sha1="6d47ff9d2623c8012fa394154cd5a39bb99bc805" sha256="3cb8347ed505e6d30d11b6ba89e953ac3bc6517d822da9c6b3167dcc552ee1ea"/>
+	</game>
+	<game name="Docteur La Peluche (France)" id="0061">
+		<category>Games</category>
+		<description>Docteur La Peluche (France)</description>
+		<rom name="Docteur La Peluche (France).bin" size="16777216" crc="f7e1ace2" md5="8602d06ba21c0091d1f5935207bf8a20" sha1="f080630d33a708cd0fa03e99180209aa47e4cfd5" sha256="f146513e3efe25093117ab422ea423c6d1ff0780d57f4e830346126758e9e0bf"/>
 	</game>
 	<game name="Dora - Tag des Zwillings (Germany)" id="0009">
 		<category>Games</category>
@@ -91,6 +116,11 @@
 		<description>Jake and the Neverland Pirates (USA)</description>
 		<rom name="Jake and the Neverland Pirates (USA).bin" size="16777216" crc="afb1288c" md5="d1d355f0bd23b6c8352c07c0d1627ca7" sha1="355358492787020668daf2cf7cf56fadf3da2710" sha256="b34fa295e806ca4cbd2e6632230d84f84a8c757a622cafc67502149b49e41b10"/>
 	</game>
+	<game name="Jake et les Pirates du Pays Imaginaire (France)" id="0059">
+		<category>Games</category>
+		<description>Jake et les Pirates du Pays Imaginaire (France)</description>
+		<rom name="Jake et les Pirates du Pays Imaginaire (France).bin" size="16777216" crc="3bae692b" md5="383793f34e84236de029afa69d1db0bc" sha1="d67289662df7939130fa1f14df4e58a41f684d04" sha256="6b7f01c26370711195397319a804c7a1bd186c93a648252280422c76fcf4a1dd"/>
+	</game>
 	<game name="Jake und die Nimmerland Piraten (Germany)" id="0024">
 		<category>Games</category>
 		<description>Jake und die Nimmerland Piraten (Germany)</description>
@@ -100,6 +130,11 @@
 		<category>Games</category>
 		<description>Kung Fu Panda 2 (Germany)</description>
 		<rom name="Kung Fu Panda 2 (Germany).bin" size="16777216" crc="88b0b148" md5="dad8007ce1f7fbcfdc8e235026d35e21" sha1="a2ce8915c8acf3a9c7741cae7fcc51aa59895de9" sha256="6ed0795e33a52b4dfadfa94dc9af69d9aa8651c9a70f5daf0a9b73ef755de3d5"/>
+	</game>
+	<game name="Maison de Mickey - La Balle de Pluto, La (France)" id="0050">
+		<category>Games</category>
+		<description>Maison de Mickey - La Balle de Pluto, La (France)</description>
+		<rom name="Maison de Mickey - La Balle de Pluto, La (France).bin" size="16777216" crc="c5f50181" md5="dd56c272062c9194b5ed7d86f1082b4e" sha1="31afd42bb436a7deced2366c739aef2b6d3896f8" sha256="0167f9150c84be9dad08c8bbb3aaad4565e6b9fe1cb891a5b6ec068ef69f6191"/>
 	</game>
 	<game name="Merida - Legende der Highlands (Germany)" id="0022">
 		<category>Games</category>
@@ -121,15 +156,31 @@
 		<description>Minnie (Germany)</description>
 		<rom name="Minnie (Germany).bin" size="16777216" crc="fef9a9a5" md5="278bdc2e9b92a42e3bd380ce038c3cd6" sha1="a3d2afda48defc8520129453e4a3475907746761" sha256="1c1a4b9940adad5ea6029fed459d62b60d84be581719aabdc24252f59d9f6e8f"/>
 	</game>
+	<game name="Mobigo (France)" id="0062">
+		<category>Games</category>
+		<description>Mobigo (France)</description>
+		<rom name="MX25L1606E.u3" size="2097152" crc="31110b90" md5="6bbe57d5411e430b15479b702c5a842d" sha1="b6a3b707d9ff688635be8bc01221b4db503ce159" sha256="6e9b7d7883aa2c0984e74cbb95bef5c22719d3d4b60be39ca9506b3d6025dccd"/>
+		<rom name="mobigo_fr.u5" size="2097152" crc="61d739aa" md5="e2cb09b4bda3f3c30c5c4efd1943575f" sha1="d23d4c806f1b60058c57ea9b339a7c5e3124bafa" sha256="f68e5f2c39ec60236cbbf5a090e555f6e90fbe2d3de4894c8a115cc7c9035065"/>
+	</game>
 	<game name="Mobigo Kiosk (Germany)" id="0047">
 		<category>Games</category>
 		<description>Mobigo Kiosk (Germany)</description>
 		<rom name="Mobigo Kiosk (Germany).bin" size="33554432" crc="8026b80d" md5="442de5b7f14a7167f4f33bbfbdde3da2" sha1="ded9e5dcf89f30b6011e826da466f7cd6bbd5a2d" sha256="282ab536207246f51297cbe7d526b0785e3b132b8406672d148ff47853a46edd"/>
 	</game>
+	<game name="Monsieur Madame - Aventures a Jolieville, Les (France)" id="0048">
+		<category>Games</category>
+		<description>Monsieur Madame - Aventures a Jolieville, Les (France)</description>
+		<rom name="Monsieur Madame - Aventures a Jolieville, Les (France).bin" size="16777216" crc="e1410eed" md5="fde663bf8299eb27743061e2c86176f0" sha1="1acff360ebf323e5e5a8f974f49ac8e773eb64b7" sha256="971b3ec520c29bd625c0ffb8a2f1dfbf0412c176068a96d41fdfea989e72cbad"/>
+	</game>
 	<game name="Penguins of Madagascar, The - Mission Madness (USA)" id="0036">
 		<category>Games</category>
 		<description>Penguins of Madagascar, The - Mission Madness (USA)</description>
 		<rom name="Penguins of Madagascar, The - Mission Madness (USA).bin" size="16777216" crc="b3f0fd02" md5="005b619b835b63239e459c18938f8a25" sha1="ef896a26820ea6f4f79e0c7d9debf6f23c6d10fb" sha256="aa5177c131df4a5ef2a99679792f1d1813ff63f1ac3f27b917dd4ef9fc9202d9"/>
+	</game>
+	<game name="Pingouins de Madagascar - Mission Aventure, Les (France)" id="0049">
+		<category>Games</category>
+		<description>Pingouins de Madagascar - Mission Aventure, Les (France)</description>
+		<rom name="Pingouins de Madagascar - Mission Aventure, Les (France).bin" size="16777216" crc="ee56c618" md5="7a6282d34690a36c672533af7891e0a5" sha1="11b6c083b4e6b30d896455457662aa6b3bb5fbf6" sha256="e4f1609f622a83afb8e32d4774204ee202c83dcecb8078445fcf97c6e4cd294b"/>
 	</game>
 	<game name="Pinguine aus Madagascar, Die - Operation Krone (Germany)" id="0004">
 		<category>Games</category>
@@ -141,10 +192,25 @@
 		<description>Planes (Germany)</description>
 		<rom name="Planes (Germany).bin" size="16777216" crc="f945b3cd" md5="03185da3a308722f73b8a7c5d09e390f" sha1="4b7f17f3d7b7edc1626b4e84e26e01ae67bb4f5a" sha256="d4eff68b9d1e32313665542cdbd758715b3dc3e60e106e33e66749f10cb1cf36"/>
 	</game>
+	<game name="Raiponce (France)" id="0055">
+		<category>Games</category>
+		<description>Raiponce (France)</description>
+		<rom name="Raiponce (France).bin" size="16777216" crc="b9512130" md5="0ff37c63fd1f5132263add2027c6f191" sha1="b65e7e0013ad142af63845af36982059c50c2f37" sha256="674a29ee09d09292746c6d6282a05297760eb993c8bbb6f970e53f6c26ace299"/>
+	</game>
 	<game name="Rapunzel - Neu Verfoehnt (Germany)" id="0015">
 		<category>Games</category>
 		<description>Rapunzel - Neu Verfoehnt (Germany)</description>
 		<rom name="Rapunzel - Neu Verfoehnt (Germany).bin" size="16777216" crc="23cd9cd4" md5="0d6dcbf5dd34cae7b355aad13fa78675" sha1="ef9ee2f21ff741668d65ea343f4b47e4472fada7" sha256="5e60c9cddcb294e2b9d1724040dade8232e8ec4db70b793a795678cbac09f932"/>
+	</game>
+	<game name="Rebelle (France)" id="0058">
+		<category>Games</category>
+		<description>Rebelle (France)</description>
+		<rom name="Rebelle (France).bin" size="16777216" crc="1952cdcc" md5="43f935789b1d84dbcbed0df79d8f0d14" sha1="658f48d75f141f7937e3ff55b376238588f8ffa3" sha256="fd303428f7926409f2da5178dc8122424068f472f830e3f95472332eeba4a670"/>
+	</game>
+	<game name="Scooby-Doo! - Dans la Cite Clandestine (France)" id="0054">
+		<category>Games</category>
+		<description>Scooby-Doo! - Dans la Cite Clandestine (France)</description>
+		<rom name="Scooby-Doo! - Dans la Cite Clandestine (France).bin" size="16777216" crc="3607335b" md5="e680d80d7b85a0c8fc542105dd255e57" sha1="200ed6254a1abdebf24db8b7e4600801d1f6721f" sha256="7fd2e80849750d36c7eabb0d00e7757646150f974cc2ddb28e73129a499bfb42"/>
 	</game>
 	<game name="Scooby-Doo! - Mystery Town (United Kingdom)" id="0014">
 		<category>Games</category>

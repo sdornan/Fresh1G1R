@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,715) (-y) [-aAbBcdkmMpPuv] (20260826-100217) (Retool)</description>
-		<version>20260826-100217</version>
-		<date>2026-08-27 13-05-25</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,716) (-y) [-aAbBcdkmMpPuv] (20260828-231609) (Retool)</description>
+		<version>20260828-231609</version>
+		<date>2026-08-29 09-17-14</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5394,7 +5394,7 @@
 	<game name="Germany's Next Topmodel - Das offizielle Spiel zur Staffel 2011! (Germany) (NDSi Enhanced)" id="6495">
 		<category>Games</category>
 		<description>Germany's Next Topmodel - Das offizielle Spiel zur Staffel 2011! (Germany) (NDSi Enhanced)</description>
-		<rom name="Germany's Next Topmodel - Das offizielle Spiel zur Staffel 2011! (Germany) (NDSi Enhanced).nds" size="33554432" crc="f1831389" md5="c253383914e90e87542bd979625c1bef" sha1="7b8ec13116265cbb10778fc88d013cd021500342"/>
+		<rom name="Germany's Next Topmodel - Das offizielle Spiel zur Staffel 2011! (Germany) (NDSi Enhanced).nds" size="33554432" crc="f1831389" md5="c253383914e90e87542bd979625c1bef" sha1="7b8ec13116265cbb10778fc88d013cd021500342" sha256="b9c0cad8404deff8fee12448f366a9d4f0471988351b0b1b4fa1d85ff0315584"/>
 	</game>
 	<game name="Gesundheits Coach, Der - Wohlfuehlen Jeden Tag (Germany)" id="4842">
 		<category>Games</category>
@@ -16317,6 +16317,12 @@
 		<category>Games</category>
 		<description>Theresia.. (USA)</description>
 		<rom name="Theresia.. (USA).nds" size="67108864" crc="b6066460" md5="de80d5f8ecb2d7b998e0c20fbbb8c54f" sha1="22049917162fe0f546d286818cb6a87db7119e84"/>
+	</game>
+	<game name="Think - Kids - Training fuer den Kopf - Spiel Dich Schlau! (Europe) (En,De)" id="2745">
+		<category>Educational</category>
+		<category>Games</category>
+		<description>Think - Kids - Training fuer den Kopf - Spiel Dich Schlau! (Europe) (En,De)</description>
+		<rom name="Think - Kids - Training fuer den Kopf - Spiel Dich Schlau! (Europe) (En,De).nds" size="16777216" crc="14d952a2" md5="7d03dbbeb27e2a0df2e1b6b6280d7fd0" sha1="4266f5af5c60ed58e8cf97b66eaac94c6ee107f0" sha256="7f38a9d47cfe9d1ec8a5894ea61b76d59f4b0785f514053da8a23b50fe8da6f8"/>
 	</game>
 	<game name="Think - Train Your Senses (Europe) (En,Fr,De,It)" id="3558">
 		<category>Games</category>
