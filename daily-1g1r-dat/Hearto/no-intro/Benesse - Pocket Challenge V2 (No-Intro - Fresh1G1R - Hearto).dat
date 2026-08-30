@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Benesse - Pocket Challenge V2 (Retool)</name>
-		<description>Benesse - Pocket Challenge V2 (33) (-y) [-aAbBcefkmMoprv] (20260828-023242) (Retool)</description>
-		<version>20260828-023242</version>
-		<date>2026-08-29 08-58-45</date>
+		<description>Benesse - Pocket Challenge V2 (34) (-y) [-aAbBcefkmMoprv] (20260829-141111) (Retool)</description>
+		<version>20260829-141111</version>
+		<date>2026-08-30 08-15-54</date>
 		<author>Arctic Circle System, BigFred, Gefflon, Hiccup, Icyelut, omonim2007, psykopat, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -196,6 +196,11 @@
 		<description>Koukou Juken EX (Goukaku Tokkou 700) (Japan) (4FI720)</description>
 		<game_id>4FI720</game_id>
 		<rom name="Koukou Juken EX (Goukaku Tokkou 700) (Japan) (4FI720).pc2" size="8388608" crc="ec11d3ae" md5="7ac6d389bd6afcea1465a31eb85c223f" sha1="f3ba60c38a864491b936abafefca722f5c3d2144"/>
+	</game>
+	<game name="Koukou Juken Kokugo + Nyuushi Kobun Tokkou (Japan) (6FK304)" id="0075">
+		<category>Games</category>
+		<description>Koukou Juken Kokugo + Nyuushi Kobun Tokkou (Japan) (6FK304)</description>
+		<rom name="Koukou Juken Kokugo + Nyuushi Kobun Tokkou (Japan) (6FK304).pc2" size="4194304" crc="a2539bb9" md5="fdab2eaa5c959afd8f28d35b59fe1e8e" sha1="b31aa5d201ba0d40721d0139378e9e18f8f3d989"/>
 	</game>
 	<game name="Koukou Juken V Pack - Koukou Juken (5-kamoku), Koukou Juken EX (Goukaku Tokkou 700) Kanzen Taiou Ban (Japan) (5FI900)" id="0053">
 		<category>Games</category>

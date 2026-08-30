@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (342) (-y) [-aAbBcdkmMpPuv] (2026-08-28 14-38-58) (Retool)</description>
-		<version>2026-08-28 14-38-58</version>
-		<date>2026-08-29 09-15-56</date>
+		<description>Sony - PlayStation 5 (344) (-y) [-aAbBcdkmMpPuv] (2026-08-29 12-46-53) (Retool)</description>
+		<version>2026-08-29 12-46-53</version>
+		<date>2026-08-30 08-33-47</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -55,6 +55,11 @@
 		<category>Games</category>
 		<description>Among Us (Europe) (En,Fr,Es,It)</description>
 		<rom name="Among Us (Europe) (En,Fr,Es,It).iso" size="40008351744" crc="4a049f59" md5="41cca13e8a481aa683052dbf39e78999" sha1="4dfeced1b72d2f64d85fc2e7c6dc7e8f0f124e23"/>
+	</game>
+	<game name="Animal Well (Japan)" id="137640">
+		<category>Games</category>
+		<description>Animal Well (Japan)</description>
+		<rom name="Animal Well (Japan).iso" size="40008351744" crc="0feb9373" md5="ce1fd55b71549d203a8683fbbccf0394" sha1="27589cdf176d24e248045559fc184dba28c73108"/>
 	</game>
 	<game name="Anno - Mutationem (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Ru)" id="133296">
 		<category>Games</category>
@@ -590,6 +595,11 @@
 		<category>Games</category>
 		<description>Five Nights at Freddy's - Security Breach (USA)</description>
 		<rom name="Five Nights at Freddy's - Security Breach (USA).iso" size="40008351744" crc="7df466ea" md5="331ad31ae5101619b8e9e4cca3c4b5d8" sha1="333954d10aa2540fbe7a9376d8e939991adb7815"/>
+	</game>
+	<game name="Flaklypa Grand Prix - Jubileumsutgave (Norway)" id="137641">
+		<category>Games</category>
+		<description>Flaklypa Grand Prix - Jubileumsutgave (Norway)</description>
+		<rom name="Flaklypa Grand Prix - Jubileumsutgave (Norway).iso" size="40008351744" crc="ea10a76a" md5="c799d94be27c07d76bae544c3cdc7173" sha1="7c380cfb22a6aa93d4eb2c6fbb8be5cb5d7cc6e1"/>
 	</game>
 	<game name="Football Manager 26 Console (USA)" id="132457">
 		<category>Games</category>

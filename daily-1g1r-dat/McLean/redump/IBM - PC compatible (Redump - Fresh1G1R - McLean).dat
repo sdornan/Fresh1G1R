@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,426) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-29 01-06-54) (Retool)</description>
-		<version>2026-08-29 01-06-54</version>
-		<date>2026-08-29 09-02-29</date>
+		<description>IBM - PC compatible (13,442) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-30 06-49-02) (Retool)</description>
+		<version>2026-08-30 06-49-02</version>
+		<date>2026-08-30 08-20-13</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -18679,6 +18679,11 @@
 		<description>Dark Eye, The - Drakensang (Australia)</description>
 		<rom name="Dark Eye, The - Drakensang (Australia).iso" size="4051828736" crc="aa4772c6" md5="01c3edd9907edfbb52ef64f790d6b871" sha1="7e808cc7fd839714871d063aec3de0850aa07d26"/>
 	</game>
+	<game name="Dark Fall - Lost Souls (Europe)" id="137642">
+		<category>Games</category>
+		<description>Dark Fall - Lost Souls (Europe)</description>
+		<rom name="Dark Fall - Lost Souls (Europe).iso" size="1249574912" crc="530b9d9e" md5="48f3b8044caef666a4e5aa66e7f9a43c" sha1="64cc8072c61102220a3bc16681cbfd2c5029f0aa"/>
+	</game>
 	<game name="Dark Fall - The Journal (USA)" id="15354">
 		<category>Games</category>
 		<description>Dark Fall - The Journal (USA)</description>
@@ -24626,19 +24631,6 @@
 		<description>EA Compilation (USA) (OEM)</description>
 		<rom name="EA Compilation (USA) (OEM).bin" size="90648432" crc="79e39621" md5="0281e97b88e3fd9416d574261f08cdd8" sha1="162f78a9d2a0ef733b7e8544c604a2ff60381dc7"/>
 		<rom name="EA Compilation (USA) (OEM).cue" size="115" crc="659d52c3" md5="85e5914473246acf185aed0396f1c32e" sha1="63a8554c5f4039dd5e4700e9a02eb49ff01ffd17"/>
-	</game>
-	<game name="EA Sports Rugby 2001 (Australia)" id="134286">
-		<category>Games</category>
-		<description>EA Sports Rugby 2001 (Australia)</description>
-		<rom name="EA Sports Rugby 2001 (Australia) (Track 1).bin" size="498932112" crc="11a10f3c" md5="cd15e346c09c62b82276ed7a5d6cd4ee" sha1="0255906af1b34de3d1df82acd592c9982c1d0a79"/>
-		<rom name="EA Sports Rugby 2001 (Australia) (Track 2).bin" size="36794688" crc="7c7e45b5" md5="f175d8dbe08fa4e2399f47936ac9d75c" sha1="b4b4642d11233c71dc91ab056a545e0a84939e0e"/>
-		<rom name="EA Sports Rugby 2001 (Australia) (Track 3).bin" size="16753296" crc="66abc33a" md5="b83d35598ab39bcffe354f86090e3173" sha1="4b4136e5703bbc7de021b5dfbdfb11e8d4d0bef2"/>
-		<rom name="EA Sports Rugby 2001 (Australia) (Track 4).bin" size="37159248" crc="4550c1d2" md5="209475ade9c7c6f4a6d794f08a328d4d" sha1="195e3a297103c847f505b68347054762f6f4cdcb"/>
-		<rom name="EA Sports Rugby 2001 (Australia) (Track 5).bin" size="31700256" crc="ef33f569" md5="aa7e5b68867ce3bcabc61068eb58e8b0" sha1="516b9684a1cebf679655cb1624b9e4ea8ef24005"/>
-		<rom name="EA Sports Rugby 2001 (Australia) (Track 6).bin" size="28162848" crc="e3f56a9b" md5="dfb5163e28085005940b7a044b928c8a" sha1="c1d356cee81893d8201c8d96c9b4ab78e159a48d"/>
-		<rom name="EA Sports Rugby 2001 (Australia) (Track 7).bin" size="14495376" crc="fd6e9199" md5="446df5427c7f9340497491e06090a4db" sha1="815d97321b4fab3a2e298884b585f398b9a9cde2"/>
-		<rom name="EA Sports Rugby 2001 (Australia) (Track 8).bin" size="17576496" crc="1036ea3b" md5="ff781948856c70fff28701e35fedfda8" sha1="dd3fb77c61da0bda6b76a4bddf2fb49f736096d8"/>
-		<rom name="EA Sports Rugby 2001 (Australia).cue" size="852" crc="c443ceeb" md5="506b40d92467f17037fdfefd08085818" sha1="9b93d602dbb012de78b7a7cef7d96b7ab65db350"/>
 	</game>
 	<game name="EF2000 v2.0 (USA)" id="9346">
 		<category>Games</category>
@@ -33486,12 +33478,6 @@
 		<rom name="Glyph (USA).bin" size="62137488" crc="61bffc7c" md5="1bbf00fc8532146bc96ea5a83ff779b0" sha1="7af429dd04b4b9ec0e94ff0133508bff6743a205"/>
 		<rom name="Glyph (USA).cue" size="77" crc="d96264b8" md5="e1abd2fe1f0d32430db0bbe237b712f1" sha1="e3811ec5ec762be62e6abf8a9e70111dc60412ff"/>
 	</game>
-	<game name="Go Diego Go! Wolf Pup Rescue (USA)" id="126179">
-		<category>Games</category>
-		<description>Go Diego Go! Wolf Pup Rescue (USA)</description>
-		<rom name="Go Diego Go! Wolf Pup Rescue (USA).bin" size="40367376" crc="97a378e8" md5="f2d6bb73486376c08e26ce9a187186fe" sha1="0992727e3b79c97a044065cdb4732471887d7acd"/>
-		<rom name="Go Diego Go! Wolf Pup Rescue (USA).cue" size="100" crc="7c0eaf9d" md5="b03fb653a4fc129a9e33b29c0362673f" sha1="92d0438455f4446a4468357f4d06bc5407ea55ac"/>
-	</game>
 	<game name="Go Figure (USA)" id="108951">
 		<category>Games</category>
 		<description>Go Figure (USA)</description>
@@ -38152,6 +38138,20 @@
 		<rom name="Hooligans - Storm over Europe (USA) (Track 10).bin" size="31011120" crc="ef591e6c" md5="f20798513965cc8723cd74005cad9437" sha1="7a376a1c44db4af1c0086562303d90902f341975"/>
 		<rom name="Hooligans - Storm over Europe (USA).cue" size="1098" crc="e33fd139" md5="a18c1cfd881cd9cb9ae4c4e92a1dbe9c" sha1="749179daa831af716853564622e40ea3f73793cb"/>
 	</game>
+	<game name="Hooters Road Trip (USA)" id="137644">
+		<category>Games</category>
+		<description>Hooters Road Trip (USA)</description>
+		<rom name="Hooters Road Trip (USA) (Track 1).bin" size="417769296" crc="6b6fd6dd" md5="e875595527c2dcee52981071675e5712" sha1="10816e27f9935235e2e06a6aef585d60b7d69cd5"/>
+		<rom name="Hooters Road Trip (USA) (Track 2).bin" size="41823264" crc="bc783c16" md5="0d4db2b1638074aabf8d19cc34a562c0" sha1="b3aae03d1e69a6190e39e05b69ea6b3946bdc29f"/>
+		<rom name="Hooters Road Trip (USA) (Track 3).bin" size="38709216" crc="4c5606dc" md5="2e49e44f50795e3dfccd833e59d6458c" sha1="508ce08017883b323e860ca27bcd81f9e9c0a2c6"/>
+		<rom name="Hooters Road Trip (USA) (Track 4).bin" size="41522208" crc="cc86ba8d" md5="98a5d494c05b1fdb754a33ada6f01dcd" sha1="62adb5238169b2fcf3a0beeb294c83ccd699873d"/>
+		<rom name="Hooters Road Trip (USA) (Track 5).bin" size="37970688" crc="42114415" md5="cf4f42fde82fe69d3544ebb02624a6e1" sha1="51e3f7275cc00aab384d048d4557bcbeb1757a88"/>
+		<rom name="Hooters Road Trip (USA) (Track 6).bin" size="24037440" crc="91f21a29" md5="8d80515a8b188ace1161b750124b2adc" sha1="c63c6cf45353d3a9207b8ac3817e0feb56a9c1ed"/>
+		<rom name="Hooters Road Trip (USA) (Track 7).bin" size="31954272" crc="02665873" md5="0b8b9fb572e5637bac117a3a69699486" sha1="e0b5e91360c11100d72bb5fb0bb3e04f6ae74721"/>
+		<rom name="Hooters Road Trip (USA) (Track 8).bin" size="29120112" crc="316492df" md5="5e9cb570faae11bca62acbbdad88aab7" sha1="77f48d84fcd59fe1587953921cf12cd1a4a9b75f"/>
+		<rom name="Hooters Road Trip (USA) (Track 9).bin" size="17557680" crc="0734410c" md5="0b65a340a0143f6a60c4ca0b4a7cb89c" sha1="d280426f06951f522c08dd97f62b948915f0445d"/>
+		<rom name="Hooters Road Trip (USA).cue" size="1035" crc="a4f9756e" md5="d64dd86e736398c9a2851113dfd05736" sha1="ccf26af2289fe73e7af753639e82b11f050c5f8a"/>
+	</game>
 	<game name="Hooves of Thunder (USA)" id="109827">
 		<category>Games</category>
 		<description>Hooves of Thunder (USA)</description>
@@ -39484,6 +39484,11 @@
 		<rom name="ICC Cricket World Cup England 99 (Europe) (Track 6).bin" size="39297216" crc="149b3eef" md5="daf19680cdf7471c64a965bcf17abac2" sha1="404ef648a8e7afd2504c3e453b1945c363eff3ed"/>
 		<rom name="ICC Cricket World Cup England 99 (Europe) (Track 7).bin" size="25559184" crc="04348e06" md5="379bd0f987191409b86f490af075d314" sha1="8d3e52384a2f6023ef374acdad53ac9b5ec2cf3f"/>
 		<rom name="ICC Cricket World Cup England 99 (Europe).cue" size="927" crc="fe8320fb" md5="10cce27453b5216798acd86e2bb84a15" sha1="0f0b055e0764362f1b16179180b6f38ea3da3048"/>
+	</game>
+	<game name="IGT Slots - Aztec Temple 8 Game Collection (USA)" id="137646">
+		<category>Games</category>
+		<description>IGT Slots - Aztec Temple 8 Game Collection (USA)</description>
+		<rom name="IGT Slots - Aztec Temple 8 Game Collection (USA).iso" size="1409941504" crc="f68d0825" md5="bec67638e4d6c24b0263f41f72ea248a" sha1="728db1c64b750f142cd88f425f8602cd2ad44362"/>
 	</game>
 	<game name="IGT Slots - Cleopatra II (USA)" id="131485">
 		<category>Games</category>
@@ -41197,17 +41202,17 @@
 		<rom name="Interstate '76 (Netherlands) (Disc 2) (Alt) (Track 17).bin" size="10943856" crc="5a75bd9a" md5="a99523409ad273f22489f9f2c70bbacc" sha1="6736dde666334db76090a32d1232356589aec448"/>
 		<rom name="Interstate '76 (Netherlands) (Disc 2) (Alt).cue" size="2351" crc="64b2e114" md5="e28fc0397cbe0153be99e5478799c947" sha1="6e07391bb14c59ad1699269ab9d0a65e1c99767b"/>
 	</game>
-	<game name="Interstate '76 (USA) (Disc 1) (Install CD) (Alt)" id="64227">
-		<category>Games</category>
-		<description>Interstate '76 (USA) (Disc 1) (Install CD) (Alt)</description>
-		<rom name="Interstate '76 (USA) (Disc 1) (Install CD) (Alt).bin" size="429301152" crc="3ba2b267" md5="6f6a952a4e8f3925e598c7c999045f56" sha1="e06350af00cc6412b99e973acd1c2c18c93ab82c"/>
-		<rom name="Interstate '76 (USA) (Disc 1) (Install CD) (Alt).cue" size="114" crc="68aa73a1" md5="f4ae3645268f25a7ddc243dfa909f9c1" sha1="df164c630e2122e22e459c4ce70d53f10491a8a9"/>
-	</game>
 	<game name="Interstate '76 (USA) (Disc 1) (Install CD) (Gold Edition)" id="21615">
 		<category>Games</category>
 		<description>Interstate '76 (USA) (Disc 1) (Install CD) (Gold Edition)</description>
 		<rom name="Interstate '76 (USA) (Disc 1) (Install CD) (Gold Edition).bin" size="459284448" crc="a444ac0f" md5="daf04e5b54bcf59762c26dbe92c0f0d6" sha1="50a247880bbe71ff4a2dfb3c97d75d1c4e609e43"/>
 		<rom name="Interstate '76 (USA) (Disc 1) (Install CD) (Gold Edition).cue" size="146" crc="dab2ca53" md5="24262705a5c5f4be9584350e1fd814a2" sha1="bfc9b1a1f472ff9303f992532f088d9f45cb44cd"/>
+	</game>
+	<game name="Interstate '76 (USA) (Disc 1) (Install CD) (OEM)" id="137647">
+		<category>Games</category>
+		<description>Interstate '76 (USA) (Disc 1) (Install CD) (OEM)</description>
+		<rom name="Interstate '76 (USA) (Disc 1) (Install CD) (OEM).bin" size="579125904" crc="99c457ac" md5="9a917f6fc16349db89b7ba262350ffb7" sha1="5f46ab518518d2307ba7e42ab12c128a60a53a75"/>
+		<rom name="Interstate '76 (USA) (Disc 1) (Install CD) (OEM).cue" size="114" crc="e3403ca5" md5="55a0b3eab1a444d10fc78b574946fae9" sha1="daa1b8778698d911f88ffb286013f1a2d1ca5fb4"/>
 	</game>
 	<game name="Interstate '76 (USA) (Disc 2) (Play CD)" id="21541">
 		<category>Games</category>
@@ -46326,6 +46331,12 @@
 		<rom name="Links Championship Edition (USA) (Disc 4).bin" size="760723824" crc="7c36a897" md5="48b6c01cd46ba4a3978a1bd0f2b95a4a" sha1="a3b8808326095496c637bea65f26d6f063e48b02"/>
 		<rom name="Links Championship Edition (USA) (Disc 4).cue" size="107" crc="27750cb2" md5="dd2a8a1e674be5298129b5a4d01bac5d" sha1="9534f3a9c1e1246ffc74154c79c70d3cd1e6fdd2"/>
 	</game>
+	<game name="Links Collectors CD (USA)" id="137650">
+		<category>Games</category>
+		<description>Links Collectors CD (USA)</description>
+		<rom name="Links Collectors CD (USA).bin" size="8634192" crc="6c9c96cd" md5="0ed97fa89e83dcc33d16c63fc71de305" sha1="7946180454530ff85d4bbfeb9ef5b17d6106167f"/>
+		<rom name="Links Collectors CD (USA).cue" size="114" crc="1ad81f20" md5="e475aecfe7aa0fdfbe50daf6371be364" sha1="64527e452b5d328f1882f1a31ad60e5bda8a21b6"/>
+	</game>
 	<game name="Links Extreme (USA)" id="10988">
 		<category>Games</category>
 		<description>Links Extreme (USA)</description>
@@ -46653,11 +46664,11 @@
 		<rom name="Lock On - Modern Air Combat (USA).bin" size="746656512" crc="f687d01d" md5="e8f6e95a88f58ea25817c9466344f9b6" sha1="c6fb210faaf5422fdf0a19c7be1a7d58c4db9a1f"/>
 		<rom name="Lock On - Modern Air Combat (USA).cue" size="99" crc="513a0f2f" md5="97e7174ea3501dc95eb57d9fbfca2a87" sha1="1e35190330d506db46b19ecce99f65640bf3eb24"/>
 	</game>
-	<game name="Loco-Commotion (Italy) (Covermount)" id="60984">
+	<game name="Loco-Commotion (Europe)" id="60984">
 		<category>Games</category>
-		<description>Loco-Commotion (Italy) (Covermount)</description>
-		<rom name="Loco-Commotion (Italy) (Covermount).bin" size="143599008" crc="d4b74218" md5="e5ba6ac504c3e140cf97cb3648012b83" sha1="0b9ee029e3446b9fc2909944b2bb9d90a90e9dcc"/>
-		<rom name="Loco-Commotion (Italy) (Covermount).cue" size="101" crc="7b74b867" md5="11bb7830fc87155e27ea14f47bde6f6e" sha1="caeca71f688643bebe1547996a9871af53bd6086"/>
+		<description>Loco-Commotion (Europe)</description>
+		<rom name="Loco-Commotion (Europe).bin" size="143599008" crc="d4b74218" md5="e5ba6ac504c3e140cf97cb3648012b83" sha1="0b9ee029e3446b9fc2909944b2bb9d90a90e9dcc"/>
+		<rom name="Loco-Commotion (Europe).cue" size="89" crc="4e89d582" md5="a4d08b82e270a37563f141487876c61a" sha1="ec1f6ec046c854c8f936eb22d67286c7fb2ce2c7"/>
 	</game>
 	<game name="Locos por el surf - El Videojuego (Spain) (En,Fr,De,Es,It)" id="132425">
 		<category>Games</category>
@@ -49249,6 +49260,12 @@
 		<rom name="Manic Karts (Europe) (Sold Out Software) (2001-02-07) (Track 10).bin" size="52858848" crc="853c5779" md5="97553bf5731d5049aa7e453bee9dceb8" sha1="271dd34877e4109efadeec2baa5ac3a89ff51176"/>
 		<rom name="Manic Karts (Europe) (Sold Out Software) (2001-02-07).cue" size="1278" crc="d99a6543" md5="b94b8c98ab3fa25de65f3a3332e04aaa" sha1="f097466a363ef9a381146620c8586ab6e580150b"/>
 	</game>
+	<game name="Mankind (USA)" id="137651">
+		<category>Games</category>
+		<description>Mankind (USA)</description>
+		<rom name="Mankind (USA).bin" size="35588112" crc="42c0bdb6" md5="5e35a34a685e905203c32e16b3b209e4" sha1="9945f097301bda2c6888bba536d9218467f086f5"/>
+		<rom name="Mankind (USA).cue" size="79" crc="268e7492" md5="76de078473a208955e998bdf20051414" sha1="748050f4214ebf4d10072491fceb1da630da25f8"/>
+	</game>
 	<game name="Manx TT SuperBike (USA) (En,Fr,De,Es,It)" id="2294">
 		<category>Games</category>
 		<description>Manx TT SuperBike (USA) (En,Fr,De,Es,It)</description>
@@ -51187,6 +51204,12 @@
 		<rom name="Merit's Galactic Reunion (USA) (En,Fr,De,It).bin" size="161549472" crc="02c082a1" md5="3d7931654b1068413d804034e4a1f627" sha1="2bd6e7dd7f179a8cd9103132930a27bd927625d8"/>
 		<rom name="Merit's Galactic Reunion (USA) (En,Fr,De,It).cue" size="133" crc="3ef6d9a2" md5="29075992adb715e96b2fd33e5debc14d" sha1="3edc42e02063da0ded97431642ded13215d670b1"/>
 	</game>
+	<game name="Merlin Challenge - Britain's Finest Warbird (USA)" id="137652">
+		<category>Games</category>
+		<description>Merlin Challenge - Britain's Finest Warbird (USA)</description>
+		<rom name="Merlin Challenge - Britain's Finest Warbird (USA).bin" size="1768704" crc="640159d5" md5="2f0ff6acf185d705ad753d480ef035ef" sha1="0fc43d7d170ab2dda8a4a6b165465adc8d2edcd1"/>
+		<rom name="Merlin Challenge - Britain's Finest Warbird (USA).cue" size="138" crc="f73cd364" md5="976483a54d682b4234970770b82025db" sha1="145b8e7985c296d3a53dfb2253026b86df7d4685"/>
+	</game>
 	<game name="Merlin's Apprentice (USA)" id="107275">
 		<category>Games</category>
 		<description>Merlin's Apprentice (USA)</description>
@@ -51567,6 +51590,12 @@
 		<description>Microshaft Winblows 98 (USA)</description>
 		<rom name="Microshaft Winblows 98 (USA).bin" size="655422432" crc="5b286982" md5="884c6d40c3d2bf03eabdb9b00b004403" sha1="80addc69f450281fb21e8b8671f224208228a96f"/>
 		<rom name="Microshaft Winblows 98 (USA).cue" size="94" crc="28bd04fd" md5="6a2821a236d667f850b79ff9dfc57222" sha1="566941964af3359736567f07bb95fd4911621e52"/>
+	</game>
+	<game name="Microsoft Baseball 2000 (USA)" id="137653">
+		<category>Games</category>
+		<description>Microsoft Baseball 2000 (USA)</description>
+		<rom name="Microsoft Baseball 2000 (USA).bin" size="711458832" crc="556b39bd" md5="f25c38a3b7fa4689c0a6c762b2b5e13f" sha1="d3186cfd0a881e67d1092e03590cd75ae77757e9"/>
+		<rom name="Microsoft Baseball 2000 (USA).cue" size="95" crc="ded9f85d" md5="329961e13ac0a018abccb7b20f106988" sha1="af261e3aba59b821591c287e15e9ea5dbcc206e8"/>
 	</game>
 	<game name="Microsoft Baseball 2001 (USA)" id="83831">
 		<category>Games</category>
@@ -52788,6 +52817,12 @@
 		<description>Mike Stewart's 360 Beach Bodyboarding (Netherlands)</description>
 		<rom name="Mike Stewart's 360 Beach Bodyboarding (Netherlands).bin" size="198078384" crc="26442f7f" md5="a4aa0efb947eccd7ff82b3aa92e87f73" sha1="06c9a4d1d5a8f9bdfae3f6d8bfe0e5d83f5b844f"/>
 		<rom name="Mike Stewart's 360 Beach Bodyboarding (Netherlands).cue" size="117" crc="2504b755" md5="8f32588fe14dfa6be0e7a97bd0404b19" sha1="cb75c31ee22b92f1269be53fbecaad77042e3b68"/>
+	</game>
+	<game name="Militarism (USA)" id="137654">
+		<category>Games</category>
+		<description>Militarism (USA)</description>
+		<rom name="Militarism (USA).bin" size="570228288" crc="cf6227b4" md5="bfe04099408b309d747b10bcee6402c6" sha1="f657a322132b8b98c9c803fa59b2416a3ab22688"/>
+		<rom name="Militarism (USA).cue" size="82" crc="41fec7dc" md5="d2c16f1321d1f40163a1eea9dc93008a" sha1="3f15c02538144c045af60c6d74faed036c7ba00c"/>
 	</game>
 	<game name="Milky House Memorial Collection (USA)" id="36492">
 		<category>Games</category>
@@ -55803,6 +55838,12 @@
 		<rom name="NBA Live 2001 (USA).bin" size="742140672" crc="1e88c618" md5="1acc6ab985fcf927cb1cb80ac5320ef8" sha1="152b3e4497c4003ef7fee5f958f6437a1f28ba6b"/>
 		<rom name="NBA Live 2001 (USA).cue" size="85" crc="d733f10a" md5="fb0fd620faaa66f1a93fc1b865072900" sha1="0173ce7867c36989df2af6b9b7c694793ab5bc9d"/>
 	</game>
+	<game name="NBA Live 2003 (Europe)" id="137655">
+		<category>Games</category>
+		<description>NBA Live 2003 (Europe)</description>
+		<rom name="NBA Live 2003 (Europe).bin" size="753340896" crc="510f0407" md5="8b80c796174c5e25d4b40caefce3fb64" sha1="0bbd5f1dff5ba64ad3dc67687560482c9a6d2620"/>
+		<rom name="NBA Live 2003 (Europe).cue" size="88" crc="6128cb0f" md5="b5c70929535699ef1b4c56d209708721" sha1="58fb3e9b17c92b2ee70ce9b5a94cee1f442803a5"/>
+	</game>
 	<game name="NBA Live 2004 (USA) (Disc 1)" id="58445">
 		<category>Games</category>
 		<description>NBA Live 2004 (USA) (Disc 1)</description>
@@ -57420,6 +57461,12 @@
 		<rom name="Nick Jr. Dora the Explorer - Lost City Adventure (USA).bin" size="339047856" crc="e82adac2" md5="252842fc81b026d97bfcfc34e2af06fe" sha1="6d8ce93e73404851fee6bcd4ebddb520cbd92901"/>
 		<rom name="Nick Jr. Dora the Explorer - Lost City Adventure (USA).cue" size="120" crc="06a23bbb" md5="f8bd635b5b1c141833db087aac5666e4" sha1="85ce8ca1f2c35fa326f5edd25c6a04605f8bef5b"/>
 	</game>
+	<game name="Nick Jr. Go Diego Go! Wolf Pup Rescue (USA)" id="126179">
+		<category>Games</category>
+		<description>Nick Jr. Go Diego Go! Wolf Pup Rescue (USA)</description>
+		<rom name="Nick Jr. Go Diego Go! Wolf Pup Rescue (USA).bin" size="40367376" crc="97a378e8" md5="f2d6bb73486376c08e26ce9a187186fe" sha1="0992727e3b79c97a044065cdb4732471887d7acd"/>
+		<rom name="Nick Jr. Go Diego Go! Wolf Pup Rescue (USA).cue" size="109" crc="543d33a8" md5="922c55baef4482375f19d510ea40a7ce" sha1="7411875a17da01ee9055753bc6ea258e31b036f6"/>
+	</game>
 	<game name="Nickelodeon 3D Movie Maker (USA) (OEM)" id="125701">
 		<category>Games</category>
 		<description>Nickelodeon 3D Movie Maker (USA) (OEM)</description>
@@ -58097,6 +58144,21 @@
 		<rom name="North vs. South - The Great American Civil War (Europe) (Track 9).bin" size="3640896" crc="303c7eea" md5="55166d923fbe3ec5f59d2c6743549bdc" sha1="6df18fb4f048e53431e5139e599ec19377dd63fc"/>
 		<rom name="North vs. South - The Great American Civil War (Europe).cue" size="1323" crc="e44b3b93" md5="3bc77281b9ccfbd639edfd604fe4aff2" sha1="373782b114e9d7205b669cb3cb9f6fa7c463e3cd"/>
 	</game>
+	<game name="Northland (Europe)" id="137656">
+		<category>Games</category>
+		<description>Northland (Europe)</description>
+		<rom name="Northland (Europe) (Track 01).bin" size="366937872" crc="e17f6c05" md5="3bf51738afe19f19bdb6851482fc6997" sha1="e77cc627595887b69ab77021bcecda1a4b292b53"/>
+		<rom name="Northland (Europe) (Track 02).bin" size="31505040" crc="ce2540ff" md5="b989cff056ce7ccb2e4a8d70c361924e" sha1="7f863aa5f07d5651b48a4b446ade7a565e4dbe02"/>
+		<rom name="Northland (Europe) (Track 03).bin" size="24583104" crc="1970f8cb" md5="43044f1470187930920c1f226ca600e7" sha1="e6058b42e5727154ae0a4b60908bae2fb17b80d8"/>
+		<rom name="Northland (Europe) (Track 04).bin" size="24232656" crc="47685818" md5="46f58201c93507bf0c7118530d1f40e0" sha1="3be14313c5269794044fbdfd85e040ffe1e3ca53"/>
+		<rom name="Northland (Europe) (Track 05).bin" size="23635248" crc="f2e8a5e3" md5="342786fcfc81c6671e3c2cdad1a26872" sha1="8081150a887eb2ef035bac77d4b55885b9516be1"/>
+		<rom name="Northland (Europe) (Track 06).bin" size="29143632" crc="910d7a21" md5="c930e518a500809b4a8fd38e2d80958f" sha1="541ae40ef4a6cb90be49cb1309e8d46e947605eb"/>
+		<rom name="Northland (Europe) (Track 07).bin" size="24987648" crc="962bec87" md5="8644ffe670aa9dcf55721045c63fd696" sha1="3362ad3383c8dcb6bf882044bd5c3214675b1ec8"/>
+		<rom name="Northland (Europe) (Track 08).bin" size="37222752" crc="55401891" md5="4bd6fdcfc8b5e19b4ec5edca482b6195" sha1="eb7fdf7d5349779c0765f623bb9224822900f2bd"/>
+		<rom name="Northland (Europe) (Track 09).bin" size="25742640" crc="105f89d5" md5="9f55462747fc9c1e83ac982b0b8dd05b" sha1="9274ff339a19f60af4c03c7f310837b098b866ef"/>
+		<rom name="Northland (Europe) (Track 10).bin" size="22790880" crc="565af91f" md5="427680e601d987f35f337e6e7d4c57f3" sha1="7cb7dce024e670c2ae557991e850b6c335d01d74"/>
+		<rom name="Northland (Europe).cue" size="1112" crc="4122a0e5" md5="5f1b0502d6527bb61ddbd41b3d75a0fc" sha1="1a68f41e2a3945fb88884cf7c3f17825d7174357"/>
+	</game>
 	<game name="Nosferatu - The Wrath of Malachi (Europe)" id="52399">
 		<category>Games</category>
 		<description>Nosferatu - The Wrath of Malachi (Europe)</description>
@@ -58412,6 +58474,12 @@
 		<description>Off Limits - Mizar (Germany)</description>
 		<rom name="Off Limits - Mizar (Germany).bin" size="8918784" crc="73f20129" md5="35da1b1ee77e9cd4ce5b6227be3cb747" sha1="ee3bf09ce95742cd999cda74495c9c73c6660b13"/>
 		<rom name="Off Limits - Mizar (Germany).cue" size="94" crc="97c82338" md5="af7fa598a6b728cccb15c67edb54ad88" sha1="121093b1485ba7be3970f20bae2561cfbfc818d0"/>
+	</game>
+	<game name="Off Road (Europe) (En,Fr,De,Es,It)" id="137649">
+		<category>Games</category>
+		<description>Off Road (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Off Road (Europe) (En,Fr,De,Es,It).bin" size="558675264" crc="da7ee3d8" md5="b9e054d0f5808b65f650aca1afb8e473" sha1="a43a849865f08f52d11165323fb577a0013c0275"/>
+		<rom name="Off Road (Europe) (En,Fr,De,Es,It).cue" size="100" crc="dec197b1" md5="e86294dddb4639d51f68a4c8a02b05d1" sha1="5ef3aaef1b2188321adcdff945e31fa5063bca4e"/>
 	</game>
 	<game name="Off-Road Redneck Racing (USA)" id="24492">
 		<category>Games</category>
@@ -58976,10 +59044,10 @@
 		<description>Orcs Must Die! (Australia)</description>
 		<rom name="Orcs Must Die! (Australia).iso" size="2889383936" crc="3c3e4c2d" md5="4b1bcf674abdfb1ed8a35e6350e3278f" sha1="d9f6908858c305140898c0369984bb00bc71d38f"/>
 	</game>
-	<game name="Order of War (Australia)" id="125383">
+	<game name="Order of War (Europe) (En,Fr,De,Es,It)" id="137657">
 		<category>Games</category>
-		<description>Order of War (Australia)</description>
-		<rom name="Order of War (Australia).iso" size="3637739520" crc="73aab8e1" md5="1978ca9be13ee10cb247dbd74cda703e" sha1="12c06610717b9274181feebb286e9740cac3a134"/>
+		<description>Order of War (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Order of War (Europe) (En,Fr,De,Es,It).iso" size="3640492032" crc="338c3a24" md5="c7a7c2fccd28f0b2dd50de59d7ea7f63" sha1="4915de3f93c7c12d79b5394a3d0a8086d784d5b4"/>
 	</game>
 	<game name="Oregon Trail 3rd Edition, The - Pioneer Adventures (USA) (DVD-ROM)" id="107344">
 		<category>Games</category>
@@ -69107,6 +69175,19 @@
 		<rom name="Rugby 06 (Europe) (Disc 2).bin" size="538285776" crc="eaa59ce6" md5="e7730db9ec450c425126d39f41c3abe4" sha1="b0bdc068c7e76f69ac15fa3100c577ccd964858d"/>
 		<rom name="Rugby 06 (Europe) (Disc 2).cue" size="92" crc="8277db49" md5="be123c0ae271a1fa18fa72f7e3b89d05" sha1="5b5ab89915d982c165ee1446c4085d7fc3b84288"/>
 	</game>
+	<game name="Rugby 2001 (Australia)" id="134286">
+		<category>Games</category>
+		<description>Rugby 2001 (Australia)</description>
+		<rom name="Rugby 2001 (Australia) (Track 1).bin" size="498932112" crc="11a10f3c" md5="cd15e346c09c62b82276ed7a5d6cd4ee" sha1="0255906af1b34de3d1df82acd592c9982c1d0a79"/>
+		<rom name="Rugby 2001 (Australia) (Track 2).bin" size="36794688" crc="7c7e45b5" md5="f175d8dbe08fa4e2399f47936ac9d75c" sha1="b4b4642d11233c71dc91ab056a545e0a84939e0e"/>
+		<rom name="Rugby 2001 (Australia) (Track 3).bin" size="16753296" crc="66abc33a" md5="b83d35598ab39bcffe354f86090e3173" sha1="4b4136e5703bbc7de021b5dfbdfb11e8d4d0bef2"/>
+		<rom name="Rugby 2001 (Australia) (Track 4).bin" size="37159248" crc="4550c1d2" md5="209475ade9c7c6f4a6d794f08a328d4d" sha1="195e3a297103c847f505b68347054762f6f4cdcb"/>
+		<rom name="Rugby 2001 (Australia) (Track 5).bin" size="31700256" crc="ef33f569" md5="aa7e5b68867ce3bcabc61068eb58e8b0" sha1="516b9684a1cebf679655cb1624b9e4ea8ef24005"/>
+		<rom name="Rugby 2001 (Australia) (Track 6).bin" size="28162848" crc="e3f56a9b" md5="dfb5163e28085005940b7a044b928c8a" sha1="c1d356cee81893d8201c8d96c9b4ab78e159a48d"/>
+		<rom name="Rugby 2001 (Australia) (Track 7).bin" size="14495376" crc="fd6e9199" md5="446df5427c7f9340497491e06090a4db" sha1="815d97321b4fab3a2e298884b585f398b9a9cde2"/>
+		<rom name="Rugby 2001 (Australia) (Track 8).bin" size="17576496" crc="1036ea3b" md5="ff781948856c70fff28701e35fedfda8" sha1="dd3fb77c61da0bda6b76a4bddf2fb49f736096d8"/>
+		<rom name="Rugby 2001 (Australia).cue" size="772" crc="a9977d7b" md5="7e2c2431b3d26d5eae0541aca3e2b3b7" sha1="5fca6e3239b71c85dc8af136d05b0aec62c62798"/>
+	</game>
 	<game name="Rugby 2004 (Europe)" id="92575">
 		<category>Games</category>
 		<description>Rugby 2004 (Europe)</description>
@@ -74893,11 +74974,11 @@
 		<rom name="Soft Kill (USA).bin" size="562819488" crc="1c4258a3" md5="c0ef2485576ce3f09628699101954d07" sha1="93e4162eee4080f364e72e318e33540a691ab897"/>
 		<rom name="Soft Kill (USA).cue" size="104" crc="f4ab471e" md5="b14726183a4af3e227ca9081d3a826c7" sha1="da5ee8b9849fc783f22833c9eeadaab28496c872"/>
 	</game>
-	<game name="Software Jukebox - Fight, Flight &amp; Might (USA)" id="123862">
+	<game name="Software JukeBox - Fight, Flight &amp; Might (USA)" id="123862">
 		<category>Games</category>
-		<description>Software Jukebox - Fight, Flight &amp; Might (USA)</description>
-		<rom name="Software Jukebox - Fight, Flight &amp; Might (USA).bin" size="25519200" crc="d595c2a8" md5="5f0889c20231c67d980d9e8bef7c4b08" sha1="2b149230118e5dbfce00d1ca7085a5cbb17eaa73"/>
-		<rom name="Software Jukebox - Fight, Flight &amp; Might (USA).cue" size="112" crc="71661dda" md5="e1a316afab9cefecb371aa96d9d668d3" sha1="3773d80cbaacfa576360fe4de6f1ca83deb14fed"/>
+		<description>Software JukeBox - Fight, Flight &amp; Might (USA)</description>
+		<rom name="Software JukeBox - Fight, Flight &amp; Might (USA).bin" size="25519200" crc="d595c2a8" md5="5f0889c20231c67d980d9e8bef7c4b08" sha1="2b149230118e5dbfce00d1ca7085a5cbb17eaa73"/>
+		<rom name="Software JukeBox - Fight, Flight &amp; Might (USA).cue" size="112" crc="480b7974" md5="200ed32136b5545dffd48a1eaf0b8475" sha1="74a7cb8bdd7203decc42dbf74939911d7b4d0131"/>
 	</game>
 	<game name="Software Toolworks CD Duo, The (USA)" id="131932">
 		<category>Games</category>
@@ -85062,6 +85143,12 @@
 		<rom name="Treasure Seekers 1 &amp; 2 - The Complete Series (Europe).bin" size="324286704" crc="b60fc5e9" md5="752f8a79b9787f01dcf17447667f17df" sha1="4c923603b7550eeeb7f6965b9c24774c1128f9fe"/>
 		<rom name="Treasure Seekers 1 &amp; 2 - The Complete Series (Europe).cue" size="119" crc="2750f7df" md5="893810c2a1c56d3e6b8b8b398df96ef0" sha1="5e403911d179f674be964d1ddba9328452cb1d93"/>
 	</game>
+	<game name="Treasures of Montezuma 2, The (Europe)" id="137658">
+		<category>Games</category>
+		<description>Treasures of Montezuma 2, The (Europe)</description>
+		<rom name="Treasures of Montezuma 2, The (Europe).bin" size="86831136" crc="9b9bd55b" md5="cfaf9fe3f0a621d33fea7b129244fc67" sha1="769e112dc0f28df17e7788782bd6fa6d6a3f0264"/>
+		<rom name="Treasures of Montezuma 2, The (Europe).cue" size="104" crc="6451c31c" md5="88e6649eebebd98c4b1b49b4905c07d1" sha1="4cbce112e46692e24385c73a3ca7387dac365992"/>
+	</game>
 	<game name="Treasures of Mystery Island 2, The - The Gates of Fate (USA)" id="80644">
 		<category>Games</category>
 		<description>Treasures of Mystery Island 2, The - The Gates of Fate (USA)</description>
@@ -89234,6 +89321,12 @@
 		<description>Walking Dead, The - A Telltale Games Series (Australia)</description>
 		<rom name="Walking Dead, The - A Telltale Games Series (Australia).iso" size="3813933056" crc="d1b7db68" md5="14fdb23ceefd4214271eac11c438b260" sha1="bae52b5e5f35949b1bf98c7e2af97bed05645599"/>
 	</game>
+	<game name="Walking with Beasts - Operation Salvage (Europe)" id="137659">
+		<category>Games</category>
+		<description>Walking with Beasts - Operation Salvage (Europe)</description>
+		<rom name="Walking with Beasts - Operation Salvage (Europe).bin" size="788533872" crc="d2bfba5b" md5="7fa7a916c421d7549ba843ec65a75a64" sha1="69d8f24561e032dbf587133eb19bd51c4dc48481"/>
+		<rom name="Walking with Beasts - Operation Salvage (Europe).cue" size="114" crc="4e6d7e49" md5="69aff1ebda8efacefc541fa21b50ccd0" sha1="fba90cdcb42f2665cd17d30797861bc93d2e024a"/>
+	</game>
 	<game name="Wall Street Trader 2000 (USA)" id="107647">
 		<category>Games</category>
 		<description>Wall Street Trader 2000 (USA)</description>
@@ -92443,10 +92536,10 @@
 		<rom name="X - Beyond the Frontier (USA).bin" size="779088240" crc="30fd0b95" md5="89c813ad8091ec3c2c09dc1098949640" sha1="0a0ecfd3d2020311bb40b0a5bc717f09ada99f46"/>
 		<rom name="X - Beyond the Frontier (USA).cue" size="118" crc="59a8b5c3" md5="d3e51b30836c89451ed91caa2cf7691e" sha1="5482ff30bc4a9e1e313575dd3af470f1de500395"/>
 	</game>
-	<game name="X - Rebirth (Germany) (En,Fr,De,Es,It,Nl,Sv,Zh,Pl,Ru,Cs) (Rerelease)" id="49321">
+	<game name="X - Rebirth (Europe)" id="137673">
 		<category>Games</category>
-		<description>X - Rebirth (Germany) (En,Fr,De,Es,It,Nl,Sv,Zh,Pl,Ru,Cs) (Rerelease)</description>
-		<rom name="X - Rebirth (Germany) (En,Fr,De,Es,It,Nl,Sv,Zh,Pl,Ru,Cs) (Rerelease).iso" size="7503478784" crc="8357ee54" md5="8c7bf0a4dd30d276975bf3618e87d1b1" sha1="70ceca70aa955e47aa1bda5580e444df30445b47"/>
+		<description>X - Rebirth (Europe)</description>
+		<rom name="X - Rebirth (Europe).iso" size="3521773568" crc="59254873" md5="0aa167b21c0bb667f37d165c65d7b610" sha1="fb0b31efb4d663ccc5c5aae88d7eee57a1b19ec1"/>
 	</game>
 	<game name="X - Saga-Box (Germany) (En,Fr,De,It) (X3 - Terran Conflict &amp; X3 - Albion Prelude)" id="49324">
 		<category>Games</category>
@@ -92735,6 +92828,18 @@
 		<description>X-Plane - Versiya 6 (Russia) (En,Ru)</description>
 		<rom name="X-Plane - Versiya 6 (Russia) (En,Ru).bin" size="715052688" crc="906a7bc5" md5="362e687780413692d033f8a9e18d256d" sha1="35b22900aac27c3dbdd8dd8d7b208de288b991f1"/>
 		<rom name="X-Plane - Versiya 6 (Russia) (En,Ru).cue" size="102" crc="45fb3525" md5="c34d4e757256a9f6a09c8151da50b100" sha1="a9097026de8cf33e993130e5a02898a0a356bdce"/>
+	</game>
+	<game name="X-Plane - Versiya 7 (Russia) (En,Fr,De,It,Ru) (Disc 1)" id="137334">
+		<category>Games</category>
+		<description>X-Plane - Versiya 7 (Russia) (En,Fr,De,It,Ru) (Disc 1)</description>
+		<rom name="X-Plane - Versiya 7 (Russia) (En,Fr,De,It,Ru) (Disc 1).bin" size="693339024" crc="aed2a8de" md5="388f0bb090e5787f3dd2ea82cf755eca" sha1="f8ab2256705757bb4b7b3745752715e625186a22"/>
+		<rom name="X-Plane - Versiya 7 (Russia) (En,Fr,De,It,Ru) (Disc 1).cue" size="120" crc="f952a139" md5="7deef03a8c3f223d8847514da380d2e3" sha1="bac4499f149a389b782a6cc52dba6cf9feb79e2c"/>
+	</game>
+	<game name="X-Plane - Versiya 7 (Russia) (En,Fr,De,It,Ru) (Disc 2)" id="137287">
+		<category>Games</category>
+		<description>X-Plane - Versiya 7 (Russia) (En,Fr,De,It,Ru) (Disc 2)</description>
+		<rom name="X-Plane - Versiya 7 (Russia) (En,Fr,De,It,Ru) (Disc 2).bin" size="838415088" crc="ebb9c9b6" md5="a8e715f0f47eeb771ccf72a84615d5b9" sha1="c0d56a20cf92b3b84985d2dc8b930f7508f27270"/>
+		<rom name="X-Plane - Versiya 7 (Russia) (En,Fr,De,It,Ru) (Disc 2).cue" size="120" crc="f80f87e8" md5="c853c69de3344705b0eb7979229bba42" sha1="2139be429a941f5bba29a62643b5412d996361a4"/>
 	</game>
 	<game name="X-Plane 10 (USA) (Disc 1) (rev 2012.05.01)" id="130844">
 		<category>Games</category>
@@ -94318,6 +94423,12 @@
 		<description>iF-22 - The Realistic Simulation of the F-22 Raptor (USA) (Disc 2) (Ukraine Theatre) (1997-06-10)</description>
 		<rom name="iF-22 - The Realistic Simulation of the F-22 Raptor (USA) (Disc 2) (Ukraine Theatre) (1997-06-10).bin" size="539605248" crc="190c8879" md5="b5fb8c036e85f7faee1fd295a1a8b509" sha1="e44363e91075f0cda1ae206a1eb1938a162f63e5"/>
 		<rom name="iF-22 - The Realistic Simulation of the F-22 Raptor (USA) (Disc 2) (Ukraine Theatre) (1997-06-10).cue" size="186" crc="fca581cb" md5="427824553d67b22b06c43ae0537d9b54" sha1="404e6a3f8e7f2633b5bd9dfc4bd0979d2e41fcf7"/>
+	</game>
+	<game name="iF-22 Persian Gulf Version 5.0 (USA)" id="137645">
+		<category>Games</category>
+		<description>iF-22 Persian Gulf Version 5.0 (USA)</description>
+		<rom name="iF-22 Persian Gulf Version 5.0 (USA).bin" size="653228016" crc="8d60b448" md5="08ce2a91e62f4f70ff90f1e2c63167ea" sha1="fdc2fcb8be3147be82de039b3333f8d15e53b323"/>
+		<rom name="iF-22 Persian Gulf Version 5.0 (USA).cue" size="102" crc="512785a0" md5="0631dd8e6e9c1cb4c39f7078d7bb6a2f" sha1="c02f298b1e318cedc13a3124b73315395e45a8af"/>
 	</game>
 	<game name="iF-A-18E Carrier Strike Fighter (USA)" id="127912">
 		<category>Games</category>
