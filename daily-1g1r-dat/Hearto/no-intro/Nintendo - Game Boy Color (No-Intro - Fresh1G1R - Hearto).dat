@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy Color (Retool)</name>
-		<description>Nintendo - Game Boy Color (1,234) (-y) [-aAbBcefkmMoprv] (20260828-013644) (Retool)</description>
-		<version>20260828-013644</version>
-		<date>2026-08-30 08-17-22</date>
+		<description>Nintendo - Game Boy Color (1,235) (-y) [-aAbBcefkmMoprv] (20260830-033249) (Retool)</description>
+		<version>20260830-033249</version>
+		<date>2026-08-31 08-31-57</date>
 		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4309,6 +4309,12 @@
 		<category>Preproduction</category>
 		<description>Resident Evil (World) (Proto 2)</description>
 		<rom name="Resident Evil (World) (Proto 2).gbc" size="4194304" crc="53f7bba1" md5="fd91d5d69c43f2f0406b3626d625b6e6" sha1="bda5a658631a5714e761ee1805baaa0008ee8cdf"/>
+	</game>
+	<game name="Resident Evil (World) (Proto 4)" id="2992">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Resident Evil (World) (Proto 4)</description>
+		<rom name="Resident Evil (World) (Proto 4).gbc" size="4194304" crc="daecc4b5" md5="a026fad833d445bba31675be81904352" sha1="8004edd24efcb2af76fb5b631ab5d74115672ab2" sha256="787283798313200310a445b8b5d08d32fbcd532865d6a45d3380c0f18a09dc22"/>
 	</game>
 	<game name="Resident Evil Gaiden (USA)" id="1011">
 		<category>Games</category>

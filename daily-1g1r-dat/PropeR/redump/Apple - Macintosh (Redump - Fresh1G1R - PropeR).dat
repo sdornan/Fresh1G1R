@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (662) (-y) [-aAbBcdkmMpPuv] (2026-08-26 16-59-43) (Retool)</description>
-		<version>2026-08-26 16-59-43</version>
-		<date>2026-08-30 08-28-45</date>
+		<description>Apple - Macintosh (665) (-y) [-aAbBcdkmMpPuv] (2026-08-30 15-49-02) (Retool)</description>
+		<version>2026-08-30 15-49-02</version>
+		<date>2026-08-31 08-43-33</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -512,15 +512,15 @@
 		<rom name="Barbie Fashion Designer (USA).bin" size="565550160" crc="faf1a109" md5="aee04c7e8ec46fb2aa195143014ab5da" sha1="8fd000232377c2b7369dafe6869598eedcf595a2"/>
 		<rom name="Barbie Fashion Designer (USA).cue" size="118" crc="dd398884" md5="091f6ae8d89ea3705e74170cbd4efb60" sha1="1c21ecb68c669b0716c6e483ec62624362751c5e"/>
 	</game>
-	<game name="Batman - Arkham Asylum (France) (Disc 1)" id="88027">
+	<game name="Batman - Arkham Asylum (Europe) (En,Fr,De,Es,It,Pl) (Disc 2)" id="88028">
 		<category>Games</category>
-		<description>Batman - Arkham Asylum (France) (Disc 1)</description>
-		<rom name="Batman - Arkham Asylum (France) (Disc 1).iso" size="8493465600" crc="4cbb99d9" md5="43ba032f9ffaf5c9ef494684b49bb363" sha1="d2ec0d94d0b53654432c9c647e9392bc856da043"/>
+		<description>Batman - Arkham Asylum (Europe) (En,Fr,De,Es,It,Pl) (Disc 2)</description>
+		<rom name="Batman - Arkham Asylum (Europe) (En,Fr,De,Es,It,Pl) (Disc 2).iso" size="8493465600" crc="2a8d02d5" md5="0eafe184c11bcf5d846e0da15cfcc4a7" sha1="1d0005d01632ab801d6ec949818caf2ad9c1d04a"/>
 	</game>
-	<game name="Batman - Arkham Asylum (France) (Disc 2)" id="88028">
+	<game name="Batman - Arkham Asylum (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 1)" id="88027">
 		<category>Games</category>
-		<description>Batman - Arkham Asylum (France) (Disc 2)</description>
-		<rom name="Batman - Arkham Asylum (France) (Disc 2).iso" size="8493465600" crc="2a8d02d5" md5="0eafe184c11bcf5d846e0da15cfcc4a7" sha1="1d0005d01632ab801d6ec949818caf2ad9c1d04a"/>
+		<description>Batman - Arkham Asylum (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 1)</description>
+		<rom name="Batman - Arkham Asylum (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 1).iso" size="8493465600" crc="4cbb99d9" md5="43ba032f9ffaf5c9ef494684b49bb363" sha1="d2ec0d94d0b53654432c9c647e9392bc856da043"/>
 	</game>
 	<game name="Battlefield 1942 - Deluxe Edition (USA)" id="126194">
 		<category>Games</category>
@@ -685,6 +685,16 @@
 		<description>Bookworm Deluxe (USA)</description>
 		<rom name="Bookworm Deluxe (USA).bin" size="15055152" crc="4eff3001" md5="c1dae667b0266280f44f940a3d2a6041" sha1="3c1e4c2a20da0ef1796d37525f6bc4d4837620af"/>
 		<rom name="Bookworm Deluxe (USA).cue" size="87" crc="2e7e94eb" md5="88986bae762d6b7816082571b1ac3f1a" sha1="f29c6f51442ca9a5da9d13bb16d34147118bbdf1"/>
+	</game>
+	<game name="Borderlands - Game of the Year Edition (Europe) (En,Fr,De,Es,It) (Add-On Content Disc)" id="137749">
+		<category>Games</category>
+		<description>Borderlands - Game of the Year Edition (Europe) (En,Fr,De,Es,It) (Add-On Content Disc)</description>
+		<rom name="Borderlands - Game of the Year Edition (Europe) (En,Fr,De,Es,It) (Add-On Content Disc).iso" size="8493465600" crc="13a0c446" md5="774efd6e54d71b48e071b50686ef5505" sha1="bee57e2ba592d97805a2e1ba768a42fde53bd7c8"/>
+	</game>
+	<game name="Borderlands - Game of the Year Edition (Europe) (En,Fr,De,Es,It) (Game Disc)" id="137748">
+		<category>Games</category>
+		<description>Borderlands - Game of the Year Edition (Europe) (En,Fr,De,Es,It) (Game Disc)</description>
+		<rom name="Borderlands - Game of the Year Edition (Europe) (En,Fr,De,Es,It) (Game Disc).iso" size="8493465600" crc="b7152d92" md5="eb19a2ab387edf3587c18847fc0fb65b" sha1="17f5bfaf67e552790e20565905de94c6e7ed90b3"/>
 	</game>
 	<game name="Bugdom (USA)" id="123481">
 		<category>Games</category>
@@ -3276,6 +3286,11 @@
 		<rom name="Pro Pinball - The Web (Europe) (Track 24).bin" size="2827104" crc="c9df7881" md5="d24f70416aed82a0cedf0064809bbd34" sha1="c65a5bfb0088418c83f70227e085d0f6e48cf4c0"/>
 		<rom name="Pro Pinball - The Web (Europe) (Track 25).bin" size="5823552" crc="dbb91552" md5="b3531fdda9f1041ec3130ece3837cef7" sha1="92d5368ef35f79509567697bc376ee2a1f979e04"/>
 		<rom name="Pro Pinball - The Web (Europe).cue" size="3107" crc="2dbbb449" md5="c86af367171501abe611c5d1d007445f" sha1="ca45968d11a2b4464224774ad445d3d530ff57af"/>
+	</game>
+	<game name="Psychonauts (Europe)" id="137723">
+		<category>Games</category>
+		<description>Psychonauts (Europe)</description>
+		<rom name="Psychonauts (Europe).iso" size="6100746240" crc="4b9d47a3" md5="7c82c62b0eea234ffd94a9d9824ea883" sha1="b5d92e3c3580f82ab8edcfb7c334f583f46bd9d9"/>
 	</game>
 	<game name="Putt-Putt &amp; Fatty Bear's Activity Pack (USA)" id="134847">
 		<category>Games</category>

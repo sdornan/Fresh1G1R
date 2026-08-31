@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,824) (-y) [-aAbBcdkmMpPuv] (2026-08-29 15-56-53) (Retool)</description>
-		<version>2026-08-29 15-56-53</version>
-		<date>2026-08-30 08-33-42</date>
+		<description>Sony - PlayStation 4 (1,825) (-y) [-aAbBcdkmMpPuv] (2026-08-30 19-49-02) (Retool)</description>
+		<version>2026-08-30 19-49-02</version>
+		<date>2026-08-31 08-48-18</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2440,6 +2440,11 @@
 		<category>Games</category>
 		<description>Dragon Fantasy - The Volumes of Westeria (USA)</description>
 		<rom name="Dragon Fantasy - The Volumes of Westeria (USA).iso" size="1165819904" crc="05e2ed77" md5="5c33b096906188c752ad426444ccf063" sha1="af3375b250ad470035272bf7cc93512323d005cd"/>
+	</game>
+	<game name="Dragon Lapis (USA)" id="137751">
+		<category>Games</category>
+		<description>Dragon Lapis (USA)</description>
+		<rom name="Dragon Lapis (USA).iso" size="25024331776" crc="1e04a0e5" md5="445005cd5fdef7bb9a297f402927da3e" sha1="021d0be6a392e9c2a31c2889f0a533110eab796a"/>
 	</game>
 	<game name="Dragon Quest Builders (USA) (En,Fr,De,Es,It)" id="58351">
 		<category>Games</category>
@@ -5086,10 +5091,10 @@
 		<description>Madou Monogatari - Fia to Fushigi na Gakkou (Japan)</description>
 		<rom name="Madou Monogatari - Fia to Fushigi na Gakkou (Japan).iso" size="3344367616" crc="02882863" md5="87f28fb31a9fc60f4423522a58553f13" sha1="e95da1bdfdc827324d5a934b0aea3b0200154ce2"/>
 	</game>
-	<game name="Mafia - Definitive Edition (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)" id="86244">
+	<game name="Mafia - Definitive Edition (USA, Latin America) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)" id="112690">
 		<category>Games</category>
-		<description>Mafia - Definitive Edition (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)</description>
-		<rom name="Mafia - Definitive Edition (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs).iso" size="39944192000" crc="255fce16" md5="c6febe0928ba369151a6a07db65f04c4" sha1="a76fa21b86107ad2cecfe0eca5f93e495c4fa820"/>
+		<description>Mafia - Definitive Edition (USA, Latin America) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)</description>
+		<rom name="Mafia - Definitive Edition (USA, Latin America) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs).iso" size="39956381696" crc="d46b1f81" md5="6d68f1160072201e669617e587d123b7" sha1="4d9933fe20dc823236b4cae2e15e6172809ec145"/>
 	</game>
 	<game name="Mafia II - Definitive Edition (Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)" id="86245">
 		<category>Games</category>

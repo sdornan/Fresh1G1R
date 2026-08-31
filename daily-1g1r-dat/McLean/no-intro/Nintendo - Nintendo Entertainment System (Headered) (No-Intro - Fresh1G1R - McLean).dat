@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (831) (-ly) [-aAbBcdDefkmMopPruv] (20260829-050942) (Retool)</description>
-		<version>20260829-050942</version>
-		<date>2026-08-30 08-28-20</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (831) (-ly) [-aAbBcdDefkmMopPruv] (20260830-085736) (Retool)</description>
+		<version>20260830-085736</version>
+		<date>2026-08-31 08-40-50</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3622,10 +3622,10 @@
 		<description>Terra Cresta (USA)</description>
 		<rom name="Terra Cresta (USA).nes" size="131088" header="4e 45 53 1a 08 00 20 08 20 00 00 07 00 00 00 01" crc="7e760071" md5="55a9ae3277b79c74e159cac40593388d" sha1="7815aa594bcf3300c5c142847433cc895464b176" sha256="69b5c084bd304f6419056545fc1486678317918e4ab8ed1e3257455728d21b9d"/>
 	</game>
-	<game name="Tetris (Bulletproof) (Japan) (En) (Rev 2)" id="2281">
+	<game name="Tetris (Japan) (En) (Rev 2) (Bullet-Proof)" id="2281">
 		<category>Games</category>
-		<description>Tetris (Bulletproof) (Japan) (En) (Rev 2)</description>
-		<rom name="Tetris (Bulletproof) (Japan) (En) (Rev 2).nes" size="49168" header="4e 45 53 1a 02 02 31 08 20 00 00 00 00 00 00 01" crc="4b91412f" md5="0c3644938c9507ba44184a5c44e76571" sha1="bede232928cd6510f2e15fd3758289bce5765465" sha256="326eee81d0bcf31132f00a5ab6d928db03cfac7c80a4ebd02e90a7035cce2202"/>
+		<description>Tetris (Japan) (En) (Rev 2) (Bullet-Proof)</description>
+		<rom name="Tetris (Japan) (En) (Rev 2) (Bullet-Proof).nes" size="49168" header="4e 45 53 1a 02 02 31 08 20 00 00 00 00 00 00 01" crc="4b91412f" md5="0c3644938c9507ba44184a5c44e76571" sha1="bede232928cd6510f2e15fd3758289bce5765465" sha256="326eee81d0bcf31132f00a5ab6d928db03cfac7c80a4ebd02e90a7035cce2202"/>
 	</game>
 	<game name="Tetris (USA)" id="2282">
 		<category>Games</category>

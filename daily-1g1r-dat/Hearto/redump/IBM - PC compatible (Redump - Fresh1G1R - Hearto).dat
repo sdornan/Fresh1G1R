@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,983) (-y) [-aAbBcefkmMoprv] (2026-08-30 06-49-02) (Retool)</description>
-		<version>2026-08-30 06-49-02</version>
-		<date>2026-08-30 08-09-36</date>
+		<description>IBM - PC compatible (26,018) (-y) [-aAbBcefkmMoprv] (2026-08-31 08-19-02) (Retool)</description>
+		<version>2026-08-31 08-19-02</version>
+		<date>2026-08-31 08-25-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -8725,6 +8725,30 @@
 		<category>Games</category>
 		<description>Amerzone, L' (France)</description>
 		<rom name="Amerzone, L' (France).iso" size="3356590080" crc="5d71ea20" md5="fe81f8801a86f978db97f53418fda2a2" sha1="1a6d6f7ff997e2052f927bde187ec38eb15d229d"/>
+	</game>
+	<game name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 1)" id="137764">
+		<category>Games</category>
+		<description>Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 1)</description>
+		<rom name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 1).bin" size="811936272" crc="08a76a21" md5="3fdc53623ad23e7c40abd2db4444461c" sha1="56ea5258f9f9040a2876f30e3b46fbe639a035cb"/>
+		<rom name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 1).cue" size="151" crc="874b3cea" md5="1dabe2b757a2439a7eebd23a465debd5" sha1="7b8ab5313f12cb0711429e234b374548d11c7129"/>
+	</game>
+	<game name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 2)" id="137765">
+		<category>Games</category>
+		<description>Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 2)</description>
+		<rom name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 2).bin" size="380052624" crc="bf2158aa" md5="832445fca721fca777e215e3e75b7751" sha1="25ab3d55135f2d4249e4bed8974fde9279d9d31b"/>
+		<rom name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 2).cue" size="128" crc="992a6d38" md5="ddfdaa420bdeb1ebf7902ba1f8905b0b" sha1="0059d74240ee30939dd96ab23de7f473903b0780"/>
+	</game>
+	<game name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 3)" id="137766">
+		<category>Games</category>
+		<description>Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 3)</description>
+		<rom name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 3).bin" size="749086128" crc="0605c801" md5="2f252757c029049368edf5a89b229b24" sha1="a221b4b6aa0b7defbddff3ecaa59715e62e85cf5"/>
+		<rom name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 3).cue" size="128" crc="2f318d48" md5="7c098709e1b930a0bd709bb302276cbe" sha1="8076d7f31336e488b4ecbdbb06aeab4b71d6c949"/>
+	</game>
+	<game name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 4)" id="137767">
+		<category>Games</category>
+		<description>Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 4)</description>
+		<rom name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 4).bin" size="625740192" crc="98e37b52" md5="29fe60fe25dbf0386b8fde7ce4f79042" sha1="1bb0fec4066a64539a4bc648283ab478117f6cca"/>
+		<rom name="Amerzone, L' - Le Testament de l'Explorateur (France) (Disc 4).cue" size="128" crc="9b90209a" md5="e3143939e6a817f5a48cd603e3dc35be" sha1="f6eed5d306a8f921200b40ffcedf49feade3c90d"/>
 	</game>
 	<game name="Amiga Classix 3 (Germany)" id="125457">
 		<category>Games</category>
@@ -18764,6 +18788,12 @@
 		<rom name="Big Thinkers! 1st Grade (USA).bin" size="500075184" crc="220396a8" md5="59ffd1d50f4bf7e5704f2baef16c2c3a" sha1="d78f491c81e8c2819bc814a2dd9e949e1eee1dd3"/>
 		<rom name="Big Thinkers! 1st Grade (USA).cue" size="95" crc="fa27f7f0" md5="ac50907cab118c6b328537b2d6f12493" sha1="6637e7a9ac69252aa9124d4047a171504c2029fd"/>
 	</game>
+	<game name="Big Top Collection (USA)" id="18229">
+		<category>Games</category>
+		<description>Big Top Collection (USA)</description>
+		<rom name="Big Top Collection (USA).bin" size="212773680" crc="55ce99a5" md5="6e30fed3713047f9ade5e0ee81d3ef8d" sha1="d968a00685b63fca6dce4275c84c39b95f8134d8"/>
+		<rom name="Big Top Collection (USA).cue" size="90" crc="a02ea7e5" md5="9e51e88cb12214164227c570425223bf" sha1="b5771f583d2b45b12260e81d1a29e2a179ee0cdc"/>
+	</game>
 	<game name="Big WIG Software Locker (USA)" id="110145">
 		<category>Games</category>
 		<description>Big WIG Software Locker (USA)</description>
@@ -27996,6 +28026,12 @@
 		<rom name="Clash (Germany).bin" size="528155712" crc="bbef0600" md5="2ffedfc62075cd3a35cde0dccf83e930" sha1="52ce61006acf1279836aa15e66f7853cd39bc37d"/>
 		<rom name="Clash (Germany).cue" size="104" crc="dd035058" md5="20f44b5e16662c71b07195aaa0640989" sha1="04d9c14057c0d68c227ace7a61a1229cf9c74299"/>
 	</game>
+	<game name="Clash of Steel (USA)" id="137680">
+		<category>Games</category>
+		<description>Clash of Steel (USA)</description>
+		<rom name="Clash of Steel (USA).bin" size="35628096" crc="b3b6fc36" md5="9be945e11ceb85de742d7298ea0739e9" sha1="3f5de960f60318d487ba375f21e2279bf827baf5"/>
+		<rom name="Clash of Steel (USA).cue" size="109" crc="899d0680" md5="29c12281938c55897acade961c8c1a8c" sha1="7c92f59c1091e2540f3e4c88e750451e0b3c2bcf"/>
+	</game>
 	<game name="Claspe - Clannad Spelunker (Japan)" id="7040">
 		<category>Games</category>
 		<description>Claspe - Clannad Spelunker (Japan)</description>
@@ -28255,11 +28291,11 @@
 		<rom name="Close Combat - First to Fight (USA) (Disc 3).bin" size="615668928" crc="f2a2a6d5" md5="83f56e52c316c6d750e78866112e12d1" sha1="6d9a98c48ea7a2ddf67ff5a1d359fefad65f9d16"/>
 		<rom name="Close Combat - First to Fight (USA) (Disc 3).cue" size="110" crc="359f2485" md5="63cc5e635920102e6effb7a69347c9ff" sha1="ad4a01a1f1ad0df802d7e316a6bb639315878e98"/>
 	</game>
-	<game name="Close Combat - Invasion Normandy (Europe, Australia)" id="122596">
+	<game name="Close Combat - Invasion Normandy (USA)" id="137681">
 		<category>Games</category>
-		<description>Close Combat - Invasion Normandy (Europe, Australia)</description>
-		<rom name="Close Combat - Invasion Normandy (Europe, Australia).bin" size="761382384" crc="1fb03407" md5="28dbec42dc9d8de5ba6eb48293304fc0" sha1="c3debdd888e6dfc00d3c1796305a5ae6f752a9b9"/>
-		<rom name="Close Combat - Invasion Normandy (Europe, Australia).cue" size="118" crc="f976fa42" md5="6625e18f98392e81f5df938ded36407c" sha1="6e9c3fc7306ffa5633a9699c4eb4cba03985f2ad"/>
+		<description>Close Combat - Invasion Normandy (USA)</description>
+		<rom name="Close Combat - Invasion Normandy (USA).bin" size="777107856" crc="18a0c03e" md5="63f3b4bdb626bcc54a0a26131a7d0023" sha1="2c40f6db171e79974f45fac801909ab361ab45ae"/>
+		<rom name="Close Combat - Invasion Normandy (USA).cue" size="119" crc="3f86bff9" md5="85b59d2189273f6551f9ae91cf7c8286" sha1="7736fb721fb9204de03760f60346d1eba74d597e"/>
 	</game>
 	<game name="Close Combat - Un pont trop loin (France)" id="135253">
 		<category>Games</category>
@@ -38677,12 +38713,6 @@
 		<rom name="Diablo II (Europe) (Disc 2) (Play Disc).bin" size="701147664" crc="f13434e4" md5="26f1da879be8153c931b49684ac9b714" sha1="528a60fec47a8b7a5c36b6a55e698fefe655bf7c"/>
 		<rom name="Diablo II (Europe) (Disc 2) (Play Disc).cue" size="105" crc="a0066a98" md5="b1c86ec4cefa8dfd4544ad08a6bd2036" sha1="2b9a5e24118eafef485d0643fc15918d6113ca3d"/>
 	</game>
-	<game name="Diablo II (Europe) (Disc 3) (Cinematics Disc)" id="7864">
-		<category>Games</category>
-		<description>Diablo II (Europe) (Disc 3) (Cinematics Disc)</description>
-		<rom name="Diablo II (Europe) (Disc 3) (Cinematics Disc).bin" size="509654880" crc="7029a707" md5="97cc46eb410f90b6c1c852188d8908dd" sha1="3eac12eed8ca6febb00cf51abd682eb3dff506ab"/>
-		<rom name="Diablo II (Europe) (Disc 3) (Cinematics Disc).cue" size="111" crc="841336cc" md5="d14ec44fedcda16dc409ef882e23fb3d" sha1="1c78bbba5db768383ab8805724c7201dbb2e7dc7"/>
-	</game>
 	<game name="Diablo II (France) (Disc 1) (Installation)" id="118780">
 		<category>Games</category>
 		<description>Diablo II (France) (Disc 1) (Installation)</description>
@@ -38761,6 +38791,12 @@
 		<rom name="Diablo II (Poland) (Disc 3) (Filmy) (Rerelease).bin" size="522160464" crc="eb8e9e59" md5="37908fa926d0ef172c999344ffaa8006" sha1="06a42a308b4a03e44eae2a44b9ee6c1ca27468f7"/>
 		<rom name="Diablo II (Poland) (Disc 3) (Filmy) (Rerelease).cue" size="113" crc="f52a8408" md5="136d1e092c57552c7d5138d16a0dd6a7" sha1="1d16430f4163e3128c6da51e5effd7151ac11bba"/>
 	</game>
+	<game name="Diablo II (USA) (Cinematics Disc) (Alt)" id="36524">
+		<category>Games</category>
+		<description>Diablo II (USA) (Cinematics Disc) (Alt)</description>
+		<rom name="Diablo II (USA) (Cinematics Disc) (Alt).bin" size="509654880" crc="73bfe019" md5="fa2a281be65583f3de3fd4dcfe24802f" sha1="c5a42573b54dbc2783be4a9ed32b5c6eb16dc178"/>
+		<rom name="Diablo II (USA) (Cinematics Disc) (Alt).cue" size="105" crc="7090a67c" md5="417a5712e89f432fe262fbf7eb5a744f" sha1="ca30f37666d2d306ed1c2dc0cb899be74ad41844"/>
+	</game>
 	<game name="Diablo II (USA) (Disc 1) (Rerelease) (2008-06-23)" id="43833">
 		<category>Games</category>
 		<description>Diablo II (USA) (Disc 1) (Rerelease) (2008-06-23)</description>
@@ -38791,11 +38827,11 @@
 		<rom name="Diablo II (USA) (Play Disc) (Rev 1).bin" size="701147664" crc="2c20537a" md5="6283160e082d1f9ad9501750dd0426f0" sha1="c6bc646505f87d222f633acbb478aa517a74e95d"/>
 		<rom name="Diablo II (USA) (Play Disc) (Rev 1).cue" size="101" crc="84f887b8" md5="4669ebeb02eb874a48ecd52988dd70e8" sha1="d7b63de76164b9d7567752d6697c125adf937382"/>
 	</game>
-	<game name="Diablo II (USA, Asia) (Cinematics Disc)" id="2096">
+	<game name="Diablo II (World) (Disc 3) (Cinematics Disc)" id="2096">
 		<category>Games</category>
-		<description>Diablo II (USA, Asia) (Cinematics Disc)</description>
-		<rom name="Diablo II (USA, Asia) (Cinematics Disc).bin" size="509302080" crc="d509421e" md5="4c33974654fa78e246a9e655b0c22cbc" sha1="3c229aee28d4090046376f349cd4129466bf901e"/>
-		<rom name="Diablo II (USA, Asia) (Cinematics Disc).cue" size="128" crc="7e5dc35c" md5="351e090f496fef841581ee3f8ecff96f" sha1="0d7bbc7417b4786c0cbbf1a6437840c9b4dd8f18"/>
+		<description>Diablo II (World) (Disc 3) (Cinematics Disc)</description>
+		<rom name="Diablo II (World) (Disc 3) (Cinematics Disc).bin" size="509302080" crc="d509421e" md5="4c33974654fa78e246a9e655b0c22cbc" sha1="3c229aee28d4090046376f349cd4129466bf901e"/>
+		<rom name="Diablo II (World) (Disc 3) (Cinematics Disc).cue" size="133" crc="5d5742cf" md5="0efd5c5e1f7de7fcc2fbb749cbfbc3f0" sha1="e018d8f54f1d6d318f9be225595f0d62fe3e6278"/>
 	</game>
 	<game name="Diablo II - Erste-Hilfe-CD (Germany)" id="131399">
 		<category>Add-Ons</category>
@@ -38803,11 +38839,11 @@
 		<rom name="Diablo II - Erste-Hilfe-CD (Germany).bin" size="856469040" crc="782be80b" md5="144468835b667648a8f62d7769169925" sha1="ce527a849dd08e6cce146e3a9264145b0086c22a"/>
 		<rom name="Diablo II - Erste-Hilfe-CD (Germany).cue" size="102" crc="8d554913" md5="d9037d5dd79fd5a9886cacbf09b556ff" sha1="d2b3258ad56669c9e94f730fced219ed26405947"/>
 	</game>
-	<game name="Diablo II - Lord of Destruction (Expansion Set) (USA)" id="5289">
+	<game name="Diablo II - Lord of Destruction (Expansion Set) (USA, Australia) (Rerelease) (2003-02-06)" id="63722">
 		<category>Add-Ons</category>
-		<description>Diablo II - Lord of Destruction (Expansion Set) (USA)</description>
-		<rom name="Diablo II - Lord of Destruction (Expansion Set) (USA).bin" size="662450208" crc="17505510" md5="ed2cfd1120fe58e8c15af18c47c89881" sha1="38553202170e9e66529914e010b5740b07850eb4"/>
-		<rom name="Diablo II - Lord of Destruction (Expansion Set) (USA).cue" size="119" crc="ee7a5e40" md5="dfa67546d84dd3d1a0b18c68c690b530" sha1="a0aace2bc7a32dba29620af16988af849b54d583"/>
+		<description>Diablo II - Lord of Destruction (Expansion Set) (USA, Australia) (Rerelease) (2003-02-06)</description>
+		<rom name="Diablo II - Lord of Destruction (Expansion Set) (USA, Australia) (Rerelease) (2003-02-06).bin" size="653832480" crc="e39220e0" md5="427db548764ba6770c9c761116647051" sha1="fd5759a96353f478d35c18c7c50feeb1d72eef80"/>
+		<rom name="Diablo II - Lord of Destruction (Expansion Set) (USA, Australia) (Rerelease) (2003-02-06).cue" size="155" crc="dc770d09" md5="6ecb3aef992a28ab52537ef027b2102c" sha1="8fec2e50f3e70000fba856b159926d1c96c82f46"/>
 	</game>
 	<game name="Diablo III (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="42315">
 		<category>Games</category>
@@ -41726,6 +41762,15 @@
 		<rom name="Disney's Toy Story (USA) (Track 29).bin" size="2483712" crc="b16391ab" md5="4a2e6872ec04e8493aa178848a953031" sha1="7595b58345ddc4ad718b741fc4905724033b6407"/>
 		<rom name="Disney's Toy Story (USA).cue" size="3853" crc="271655a5" md5="e8acffda16c41fafafa5c594239d9165" sha1="dc80b26cc493a6ab00296d8946b8c36cba464f9c"/>
 	</game>
+	<game name="Disney's Toy Story - Computer Cars CD-ROM Sampler Disc (USA)" id="137776">
+		<category>Demos</category>
+		<description>Disney's Toy Story - Computer Cars CD-ROM Sampler Disc (USA)</description>
+		<rom name="Disney's Toy Story - Computer Cars CD-ROM Sampler Disc (USA) (Track 1).bin" size="50579760" crc="e7529a72" md5="49bcd635401ac8bf26bb3e60316a2a37" sha1="4197521a75953d9d9d9c4f32c649ea89598fb15d"/>
+		<rom name="Disney's Toy Story - Computer Cars CD-ROM Sampler Disc (USA) (Track 2).bin" size="22696800" crc="762ce8fc" md5="07072dedef84c1705cc0fe0945230f7b" sha1="43a34332d8f3b3c3fc10399c95ad46e5407e3f12"/>
+		<rom name="Disney's Toy Story - Computer Cars CD-ROM Sampler Disc (USA) (Track 3).bin" size="27459600" crc="3c1df0f1" md5="42aacfa9ba6de1a82d44d0db9d6b5862" sha1="b9473b2cd85706a63dce3e1ee1d9aaf348a90cf3"/>
+		<rom name="Disney's Toy Story - Computer Cars CD-ROM Sampler Disc (USA) (Track 4).bin" size="27805344" crc="b5f82dcd" md5="7d42bbb7d0d5a06b714f0cfa4b3db799" sha1="676c656dac45862918d9b28aebfdeaf3d6933d49"/>
+		<rom name="Disney's Toy Story - Computer Cars CD-ROM Sampler Disc (USA).cue" size="598" crc="3c2b6864" md5="541ad7c7680c21426996e1028d6aa58d" sha1="6d2364ce82051619d6099ef504ae8e6bd9557ebe"/>
+	</game>
 	<game name="Disney's Treasure Planet - Battle at Procyon (USA)" id="107347">
 		<category>Games</category>
 		<description>Disney's Treasure Planet - Battle at Procyon (USA)</description>
@@ -42035,6 +42080,11 @@
 		<rom name="Disney-Pixar Monsters, Inc. - Skrammaron (Sweden).bin" size="540753024" crc="459b99d3" md5="40c20ca6d08bc84fad3652d81babb0e0" sha1="96322b33908060f20640e5c3cc2e26c5612b7a08"/>
 		<rom name="Disney-Pixar Monsters, Inc. - Skrammaron (Sweden).cue" size="115" crc="c89be751" md5="d6bc0db8162ef0b0fbcb4d58d081a16d" sha1="5e796a1e9cd465767e03b6f00cac5df9760ad130"/>
 	</game>
+	<game name="Disney-Pixar Ratatouille (Europe, Australia) (En,Sv,No,Da)" id="133709">
+		<category>Games</category>
+		<description>Disney-Pixar Ratatouille (Europe, Australia) (En,Sv,No,Da)</description>
+		<rom name="Disney-Pixar Ratatouille (Europe, Australia) (En,Sv,No,Da).iso" size="1547501568" crc="ea997b9e" md5="a78643e4f4b5c52eff413df8cd9f5933" sha1="e95efb12386bbdbc6817d27313008a8fa5ab69ae"/>
+	</game>
 	<game name="Disney-Pixar Ratatouille (Italy) (Disc 1)" id="115919">
 		<category>Games</category>
 		<description>Disney-Pixar Ratatouille (Italy) (Disc 1)</description>
@@ -42046,11 +42096,6 @@
 		<description>Disney-Pixar Ratatouille (Italy) (Disc 2)</description>
 		<rom name="Disney-Pixar Ratatouille (Italy) (Disc 2).bin" size="840306096" crc="378be4e5" md5="d9c0d38b2a585a6217b5c74efd0a7770" sha1="157a9a47a147917247217b89f2400867095f6235"/>
 		<rom name="Disney-Pixar Ratatouille (Italy) (Disc 2).cue" size="107" crc="cdfad85b" md5="936a9ee1d63cd3e57648c470e0ca660d" sha1="340285316a6116fc4ec9cf0ee5a1d3e3f3acbb86"/>
-	</game>
-	<game name="Disney-Pixar Ratatouille (Sweden) (En,Sv,No,Da)" id="133709">
-		<category>Games</category>
-		<description>Disney-Pixar Ratatouille (Sweden) (En,Sv,No,Da)</description>
-		<rom name="Disney-Pixar Ratatouille (Sweden) (En,Sv,No,Da).iso" size="1547501568" crc="ea997b9e" md5="a78643e4f4b5c52eff413df8cd9f5933" sha1="e95efb12386bbdbc6817d27313008a8fa5ab69ae"/>
 	</game>
 	<game name="Disney-Pixar Ratatouille (UK) (Demo)" id="137541">
 		<category>Demos</category>
@@ -54138,6 +54183,12 @@
 		<rom name="Fatal Racing 3D &amp; Actua Soccer 3D (Europe) (Track 6).bin" size="48865152" crc="851a6eea" md5="7a959d1a06dd0b19c0dcc58b5b2c9a34" sha1="1ce46443158e508fbfdf8f78cf57f48f7673d4cf"/>
 		<rom name="Fatal Racing 3D &amp; Actua Soccer 3D (Europe).cue" size="888" crc="388bca3c" md5="978c899187a663c6635b0c77e58fc73f" sha1="52be4f85efccedb39f378b17c1a3af261b4757d7"/>
 	</game>
+	<game name="Fatal Relations (USA)" id="137718">
+		<category>Games</category>
+		<description>Fatal Relations (USA)</description>
+		<rom name="Fatal Relations (USA).bin" size="176468208" crc="d5591fd9" md5="52c9cb8356cb36b5abb06d845b02d0f4" sha1="04fd4933feaae2ccece7cf85920925b43e210b4a"/>
+		<rom name="Fatal Relations (USA).cue" size="110" crc="89e61953" md5="80275f2da4bc293881f469b493636d4b" sha1="b1615413f94629702822de15a7ec938b778470b7"/>
+	</game>
 	<game name="Fatal Twelve (USA)" id="136424">
 		<category>Games</category>
 		<description>Fatal Twelve (USA)</description>
@@ -62702,11 +62753,17 @@
 		<rom name="Gladiator - Schwert der Rache (Germany) (En,Fr,De,Es,It) (Disc 2).bin" size="521633616" crc="d6c88cbc" md5="945e2f7f581f783ca7dc2c1284829d3e" sha1="f3afd18e59a6ffb6cced3a80820b3fc73b61f3be"/>
 		<rom name="Gladiator - Schwert der Rache (Germany) (En,Fr,De,Es,It) (Disc 2).cue" size="131" crc="058e90d1" md5="6eb84b24047442b81e1a23998eb8dced" sha1="8f0f15de6d85495c5315895eb0553cec31268824"/>
 	</game>
-	<game name="Gladiator - Sword of Vengeance (Europe) (Disc 1)" id="84101">
+	<game name="Gladiator - Sword of Vengeance (USA) (En,Fr,De,Es,It) (Disc 1)" id="137682">
 		<category>Games</category>
-		<description>Gladiator - Sword of Vengeance (Europe) (Disc 1)</description>
-		<rom name="Gladiator - Sword of Vengeance (Europe) (Disc 1).bin" size="621866448" crc="9afaae58" md5="a5827c43db8a1ba29b2a98c22e7bb1a2" sha1="de527ef6bc026682d83b653f4e279181490038ce"/>
-		<rom name="Gladiator - Sword of Vengeance (Europe) (Disc 1).cue" size="114" crc="de67e2f9" md5="a5400e50bd1101090b1e0843ba25d918" sha1="2e6fc7e65c422468972fba3b12a416cacdb00b02"/>
+		<description>Gladiator - Sword of Vengeance (USA) (En,Fr,De,Es,It) (Disc 1)</description>
+		<rom name="Gladiator - Sword of Vengeance (USA) (En,Fr,De,Es,It) (Disc 1).bin" size="621866448" crc="50d4019d" md5="e203b3843a531eaa9242b5337ab72627" sha1="b4fdf94b5c8c8a712621c50144f6eff5ab570d43"/>
+		<rom name="Gladiator - Sword of Vengeance (USA) (En,Fr,De,Es,It) (Disc 1).cue" size="128" crc="e58c50c2" md5="d3eeb6e19adcb2699973ed1dfe09ca70" sha1="7c0bee7d5b838d7e027b3bd8d4ed6fdbe6f53b28"/>
+	</game>
+	<game name="Gladiator - Sword of Vengeance (USA) (En,Fr,De,Es,It) (Disc 2)" id="137683">
+		<category>Games</category>
+		<description>Gladiator - Sword of Vengeance (USA) (En,Fr,De,Es,It) (Disc 2)</description>
+		<rom name="Gladiator - Sword of Vengeance (USA) (En,Fr,De,Es,It) (Disc 2).bin" size="503605536" crc="1be34225" md5="d2f853fc7f019457f50ff276f7a1ae01" sha1="c6dddbeec849f19fcf16264ec7e8ec2c3a3b4a82"/>
+		<rom name="Gladiator - Sword of Vengeance (USA) (En,Fr,De,Es,It) (Disc 2).cue" size="128" crc="e4d17613" md5="984ba746e5e721c57f5ae5a8336299fa" sha1="47810a7731018dc50e6721d43cd762ad02a7137c"/>
 	</game>
 	<game name="Gladiatorerna (Sweden)" id="76481">
 		<category>Games</category>
@@ -69237,12 +69294,6 @@
 		<description>Hellgate - London (USA) (En,Fr,Es,It,Pl,Ru,Cs,Hu)</description>
 		<rom name="Hellgate - London (USA) (En,Fr,Es,It,Pl,Ru,Cs,Hu).iso" size="7347175424" crc="452bddba" md5="6c27d044ce5c12193f3ae96913aa1ce7" sha1="3581d5b95b255023d991ff16048c77f9efca8637"/>
 	</game>
-	<game name="Hello Kitty - Big Fun Deluxe (USA)" id="18229">
-		<category>Games</category>
-		<description>Hello Kitty - Big Fun Deluxe (USA)</description>
-		<rom name="Hello Kitty - Big Fun Deluxe (USA).bin" size="212773680" crc="55ce99a5" md5="6e30fed3713047f9ade5e0ee81d3ef8d" sha1="d968a00685b63fca6dce4275c84c39b95f8134d8"/>
-		<rom name="Hello Kitty - Big Fun Deluxe (USA).cue" size="100" crc="59157ca2" md5="9d46ff06ab0c16a7cb911d0e27486227" sha1="ce739ff07bc7bdc20d19f995db88db89454c3725"/>
-	</game>
 	<game name="Hello Kitty - Bubblegum Girlfriends (USA)" id="18235">
 		<category>Games</category>
 		<description>Hello Kitty - Bubblegum Girlfriends (USA)</description>
@@ -73619,12 +73670,6 @@
 		<description>Humongous Classics Collection (USA)</description>
 		<rom name="Humongous Classics Collection (USA).bin" size="679299936" crc="521ccb5e" md5="8bdc72e5a85c45dc57b3f3aee4a1da0b" sha1="1524ed063e2a5c683ed7232edc31b633fa5a3f08"/>
 		<rom name="Humongous Classics Collection (USA).cue" size="101" crc="280c6b5c" md5="1dcb42657524aee8e1ab84c76c74e59d" sha1="221555e8b6988122c0fc5294c908a579eadcb3c9"/>
-	</game>
-	<game name="Humongous Demo Sampler (USA)" id="102513">
-		<category>Demos</category>
-		<description>Humongous Demo Sampler (USA)</description>
-		<rom name="Humongous Demo Sampler (USA).bin" size="248110128" crc="1d3f47fe" md5="2ac0635452f0da53c6abb374bfaa0628" sha1="06145e47af44bc941f315528dca55cf63e0c6ca8"/>
-		<rom name="Humongous Demo Sampler (USA).cue" size="117" crc="877c37cd" md5="0bfd9e2bf82f085072b0cc678c6dbf1f" sha1="5c8d65c8e07ac04867788460affb57c3062aff10"/>
 	</game>
 	<game name="Humongous Entertainment - Interactive Demo Sampler (USA)" id="135048">
 		<category>Demos</category>
@@ -87728,11 +87773,11 @@
 		<rom name="Lernsoftware-Box, Die (Germany) (Track 13).bin" size="49904736" crc="3d69d574" md5="34d29ca739657292cffbbf737b90a016" sha1="e413960b0a4d0623de89dc4af367ee0c6ce75df8"/>
 		<rom name="Lernsoftware-Box, Die (Germany).cue" size="1620" crc="04355c74" md5="a21d2d6666fd6962e932ea7a12de15fd" sha1="dbff139af62f8e370d26a748952a8df08482150e"/>
 	</game>
-	<game name="Let's Explore The Farm &amp; Putt-Putt Joins The Parade &amp; Freddie Fish &amp; The Case Of The Missing Kelp Seeds &amp; Putt-Putt &amp; Fatty Bear's Activity Pack (USA)" id="135022">
-		<category>Demos</category>
-		<description>Let's Explore The Farm &amp; Putt-Putt Joins The Parade &amp; Freddie Fish &amp; The Case Of The Missing Kelp Seeds &amp; Putt-Putt &amp; Fatty Bear's Activity Pack (USA)</description>
-		<rom name="Let's Explore The Farm &amp; Putt-Putt Joins The Parade &amp; Freddie Fish &amp; The Case Of The Missing Kelp Seeds &amp; Putt-Putt &amp; Fatty Bear's Activity Pack (USA).bin" size="475626144" crc="70ce10d3" md5="3a0ce2ac0169227d60a847cf786aa2a1" sha1="4fd03361aaaa9c83d228c4cfd68bdb81673c48f2"/>
-		<rom name="Let's Explore The Farm &amp; Putt-Putt Joins The Parade &amp; Freddie Fish &amp; The Case Of The Missing Kelp Seeds &amp; Putt-Putt &amp; Fatty Bear's Activity Pack (USA).cue" size="216" crc="d6ce5e08" md5="0095f751d424ccf3e05824a7b14bd984" sha1="7b8fd5f1e7d8717b199f997bbe327ab4df560580"/>
+	<game name="Let's Explore the Farm &amp; Putt-Putt Joins the Parade &amp; Freddie Fish &amp; the Case of the Missing Kelp Seeds &amp; Putt-Putt &amp; Fatty Bear's Activity Pack (USA)" id="135022">
+		<category>Games</category>
+		<description>Let's Explore the Farm &amp; Putt-Putt Joins the Parade &amp; Freddie Fish &amp; the Case of the Missing Kelp Seeds &amp; Putt-Putt &amp; Fatty Bear's Activity Pack (USA)</description>
+		<rom name="Let's Explore the Farm &amp; Putt-Putt Joins the Parade &amp; Freddie Fish &amp; the Case of the Missing Kelp Seeds &amp; Putt-Putt &amp; Fatty Bear's Activity Pack (USA).bin" size="475626144" crc="70ce10d3" md5="3a0ce2ac0169227d60a847cf786aa2a1" sha1="4fd03361aaaa9c83d228c4cfd68bdb81673c48f2"/>
+		<rom name="Let's Explore the Farm &amp; Putt-Putt Joins the Parade &amp; Freddie Fish &amp; the Case of the Missing Kelp Seeds &amp; Putt-Putt &amp; Fatty Bear's Activity Pack (USA).cue" size="216" crc="f55827fb" md5="e2528f21c165dce9a81fb28cffeba719" sha1="d3c61d7b39851ffc1ccd1e9a8d81bcaf99172943"/>
 	</game>
 	<game name="Let's Explore the Farm with Buzzy the Knowledge Bug (USA) (Rerelease)" id="51043">
 		<category>Games</category>
@@ -104339,6 +104384,11 @@
 		<rom name="Mozaika zhelanij (Russia).bin" size="715661856" crc="ec86252f" md5="296c936bf688aa03c39d80d02f9d045c" sha1="7896be9402ae8c63b59f2ebfadb97d1a5eb432a0"/>
 		<rom name="Mozaika zhelanij (Russia).cue" size="106" crc="39867726" md5="dbbdce7553c3c25ef17cb4c964fdc7c0" sha1="fdc442ec9d624a6320b76c4dc04f0a11a0ce4fb6"/>
 	</game>
+	<game name="Mozart - Le Dernier Secret (France)" id="137768">
+		<category>Games</category>
+		<description>Mozart - Le Dernier Secret (France)</description>
+		<rom name="Mozart - Le Dernier Secret (France).iso" size="4621893632" crc="2f79ab1c" md5="fb3b3c2223c45fc3264c7021c95a06bc" sha1="30861696a812009a05d4bb2931b571dad18b6841"/>
+	</game>
 	<game name="Mr. Bounce Presents - Demolition (Europe) (En,Fr)" id="27830">
 		<category>Games</category>
 		<description>Mr. Bounce Presents - Demolition (Europe) (En,Fr)</description>
@@ -109036,6 +109086,12 @@
 		<rom name="New Kids Nitro Racer (Netherlands).bin" size="819554400" crc="be9c77cd" md5="708ef10ff67fb95e08991be277723651" sha1="efe82d59821c38db1faa49a6feeb766a9595a7d4"/>
 		<rom name="New Kids Nitro Racer (Netherlands).cue" size="100" crc="5aee069a" md5="6de5fb8f5818d958136424f87374b3be" sha1="034d11df4ea0b65908327ef20c3e9d2eb9727f85"/>
 	</game>
+	<game name="New PC Essentials (USA)" id="137730">
+		<category>Games</category>
+		<description>New PC Essentials (USA)</description>
+		<rom name="New PC Essentials (USA).bin" size="732520992" crc="cf5c4ee5" md5="f5425bbcc24d3b807bdc22d1e23df0a5" sha1="b20ba9ff5bf631d1955387ddb425c1d9d1c4abab"/>
+		<rom name="New PC Essentials (USA).cue" size="89" crc="9e3a0ce0" md5="cb93fcc9294a125f5ae300abb8ae9690" sha1="f7cd5a6e16cad00c5d1a7a326f5616957654d060"/>
+	</game>
 	<game name="New World Order (Europe) (Deluxe Edition)" id="2114">
 		<category>Games</category>
 		<description>New World Order (Europe) (Deluxe Edition)</description>
@@ -110058,6 +110114,12 @@
 		<description>Nina - Kroniki Agenta - Tunele Afganistanu (Poland)</description>
 		<rom name="Nina - Kroniki Agenta - Tunele Afganistanu (Poland).bin" size="327396048" crc="1899781f" md5="a1c8db43f0550dd1dda746721bc6f43a" sha1="834127bdbfc75d6e83e9941e032e6fbfede75618"/>
 		<rom name="Nina - Kroniki Agenta - Tunele Afganistanu (Poland).cue" size="117" crc="8ceee7fd" md5="673cb42c6567b214baddccf1aa1ff9f8" sha1="6fb76c83fa3c5f039c738d33bc1a9fc35170509a"/>
+	</game>
+	<game name="NingPo MahJong Deluxe (USA) (Linux)" id="137720">
+		<category>Games</category>
+		<description>NingPo MahJong Deluxe (USA) (Linux)</description>
+		<rom name="NingPo MahJong Deluxe (USA) (Linux).bin" size="23788128" crc="611caad1" md5="e4ee7c54929ff4a3acce7bf324dff947" sha1="bed20bbff5a5b0ff6aee6f74b9a546d0be7ef489"/>
+		<rom name="NingPo MahJong Deluxe (USA) (Linux).cue" size="124" crc="5d794cfb" md5="bd3037865ca9007ac98baab1dcd9b284" sha1="66f0d48abeb84b1471c822e94f1af1da6f732cb6"/>
 	</game>
 	<game name="Ningen Mechanism (Japan)" id="113872">
 		<category>Games</category>
@@ -114503,6 +114565,12 @@
 		<rom name="Pachinko da yo Daiku no Gen-san (Japan).bin" size="43925952" crc="de78f06b" md5="3fe065a7d0435c59de97ce9dfa117a84" sha1="67f7c944bb5415fbe3bf847cb00b8e12375f7488"/>
 		<rom name="Pachinko da yo Daiku no Gen-san (Japan).cue" size="105" crc="2ca750b0" md5="2c31f53b3e2a44db7670b22c46b71b9f" sha1="f70913e4c6c12c881fea39009f904d848f78068a"/>
 	</game>
+	<game name="Pacific Combat Pilot (Europe) (En,Fr,De)" id="137684">
+		<category>Add-Ons</category>
+		<description>Pacific Combat Pilot (Europe) (En,Fr,De)</description>
+		<rom name="Pacific Combat Pilot (Europe) (En,Fr,De).bin" size="91934976" crc="5d7d16fd" md5="902523960a6dc639a7b62cc43f471462" sha1="fd8060dfbb68f48996fb4e35730376952bcdfa88"/>
+		<rom name="Pacific Combat Pilot (Europe) (En,Fr,De).cue" size="106" crc="e964797e" md5="9e064e4985837164d33e77d99377cef8" sha1="b6e95d0e5571ca7b53e1bc15181e481fa4a9e1f8"/>
+	</game>
 	<game name="Pacific Fighters (USA) (En,Fr,De) (Disc 1)" id="81282">
 		<category>Games</category>
 		<description>Pacific Fighters (USA) (En,Fr,De) (Disc 1)</description>
@@ -115422,6 +115490,12 @@
 		<rom name="Panzer General (USA).bin" size="248373552" crc="8a08edfd" md5="7e6628001d9238e15ecf34ad769a482b" sha1="6bcbe2dd4dc66ffba01c8c558aca4a31bdd0640c"/>
 		<rom name="Panzer General (USA).cue" size="109" crc="6705d4b9" md5="8c381b3fc0de2d2e2aa331c4d0669e4d" sha1="debf208ef04207e5a56fb6c1ee4ce438c571f062"/>
 	</game>
+	<game name="Panzer General 3D Assault (Scandinavia)" id="137685">
+		<category>Games</category>
+		<description>Panzer General 3D Assault (Scandinavia)</description>
+		<rom name="Panzer General 3D Assault (Scandinavia).bin" size="616997808" crc="ec85ba97" md5="23d306b38f3f4a127670c25cc26ecd70" sha1="832f939dbde57f96dc637d27ea7c67eb5b2a9aac"/>
+		<rom name="Panzer General 3D Assault (Scandinavia).cue" size="105" crc="0a822f6e" md5="8021ff64de5dfc2595aca3019112acb6" sha1="471490aedc01d3a363cbacaafd90b5c1e5b60318"/>
+	</game>
 	<game name="Panzer General II (USA) (v1.01)" id="73189">
 		<category>Games</category>
 		<description>Panzer General II (USA) (v1.01)</description>
@@ -116183,11 +116257,11 @@
 		<rom name="Pearl Harbor - Defend the Fleet (USA).bin" size="86029104" crc="b3d6f5f3" md5="7e01a18af0916f5159aef5dd8e09394f" sha1="ec0bd6b218fec240d1b3cee0fe012d3c05853046"/>
 		<rom name="Pearl Harbor - Defend the Fleet (USA).cue" size="103" crc="24c0e45e" md5="4ab7de73b06b02f0e6548e6097494f00" sha1="dc8c009c191b63be7925c01b0cf74b3924dca8ff"/>
 	</game>
-	<game name="Pearl Harbor - Strike at Dawn (Germany)" id="120613">
+	<game name="Pearl Harbor - Strike at Dawn (Europe)" id="137686">
 		<category>Games</category>
-		<description>Pearl Harbor - Strike at Dawn (Germany)</description>
-		<rom name="Pearl Harbor - Strike at Dawn (Germany).bin" size="807291072" crc="7dcf5c39" md5="c4cd430491485457194562e987f7d35e" sha1="ef7caf06c5fd84b0307f0b9737c5f1b7ae47cd2c"/>
-		<rom name="Pearl Harbor - Strike at Dawn (Germany).cue" size="105" crc="12cadf88" md5="805ab1fc4bd0a78a8d146e9aedea1b44" sha1="7ccd3ea9b2f957131de81277c8551b4e11425da8"/>
+		<description>Pearl Harbor - Strike at Dawn (Europe)</description>
+		<rom name="Pearl Harbor - Strike at Dawn (Europe).bin" size="206272752" crc="037be245" md5="cde93f513b3ce52436ba249dffb52d51" sha1="6632450550552c0383ca67b597ba4b08697fabe6"/>
+		<rom name="Pearl Harbor - Strike at Dawn (Europe).cue" size="104" crc="98312c2e" md5="d9db53eb22b5ab7947de7cafdded18c9" sha1="2732a1a7167cd34d2175ffcb8fb10d1fe98a2b08"/>
 	</game>
 	<game name="Pearl Harbor - The Day of Infamy (USA)" id="105890">
 		<category>Games</category>
@@ -119222,11 +119296,11 @@
 		<rom name="Planet Hot Wheels.com (USA) (Disc 2) (Chemical Energy).bin" size="732742080" crc="d728a576" md5="c5d91cd6cfe9da32304071d78533c0a1" sha1="7ff1f8973241017f4d5cbfcf963903a3f7090d8a"/>
 		<rom name="Planet Hot Wheels.com (USA) (Disc 2) (Chemical Energy).cue" size="120" crc="c7a7c705" md5="d639d65d2ccb4ec523228c7dd90e4477" sha1="453c81bebeb7a3d3d22c6b18699f6364b3fe1da9"/>
 	</game>
-	<game name="Planet Hot Wheels.com (USA) (Disc 3) (Protonic Energy)" id="76719">
+	<game name="Planet Hot Wheels.com (USA) (Disc 3) (Protonic Energy) (Rev 1)" id="137722">
 		<category>Games</category>
-		<description>Planet Hot Wheels.com (USA) (Disc 3) (Protonic Energy)</description>
-		<rom name="Planet Hot Wheels.com (USA) (Disc 3) (Protonic Energy).bin" size="704586288" crc="8ac04214" md5="98202398325d80f601febc6f23b239be" sha1="93eed845babb7ed5c36cbd150dc7eddb5ddfaf8e"/>
-		<rom name="Planet Hot Wheels.com (USA) (Disc 3) (Protonic Energy).cue" size="120" crc="b4cb0487" md5="8580e0dfc1e1c2ccef15b33969491689" sha1="92ba515a6cb955b3c9dd5affbb7e5cd20c79a72b"/>
+		<description>Planet Hot Wheels.com (USA) (Disc 3) (Protonic Energy) (Rev 1)</description>
+		<rom name="Planet Hot Wheels.com (USA) (Disc 3) (Protonic Energy) (Rev 1).bin" size="718258464" crc="d0a7e4f4" md5="80cbf62e27890b6f48b67be8a6de2cc7" sha1="20cb1ff62241c13382cbbe928deec2eba5bb2a3f"/>
+		<rom name="Planet Hot Wheels.com (USA) (Disc 3) (Protonic Energy) (Rev 1).cue" size="128" crc="27dbfd9a" md5="7a1c30858e9d8bc363a90300c72911b9" sha1="14d7741a706085edcaa6f40df1c72aae00a975af"/>
 	</game>
 	<game name="Planet Hot Wheels.com (USA) (Disc 4) (Geothermal Energy)" id="76720">
 		<category>Games</category>
@@ -119240,11 +119314,11 @@
 		<rom name="Planet Hot Wheels.com (USA) (Disc 5) (Particle Energy).bin" size="709398480" crc="b0006a96" md5="eb4a0bfbed66324b1b28b3b82162ddd8" sha1="5a0dd5a158666dbf2dd8199d16c4b28638e6544a"/>
 		<rom name="Planet Hot Wheels.com (USA) (Disc 5) (Particle Energy).cue" size="120" crc="975f732f" md5="3166dcee358b7ee961d0bd52084982ce" sha1="714f8a740ac305906690272823c10662889cb10c"/>
 	</game>
-	<game name="Planet Hot Wheels.com (USA) (Disc 6) (Cyber Energy)" id="76722">
+	<game name="Planet Hot Wheels.com (USA) (Disc 6) (Cyber Energy) (Rev 1)" id="137721">
 		<category>Games</category>
-		<description>Planet Hot Wheels.com (USA) (Disc 6) (Cyber Energy)</description>
-		<rom name="Planet Hot Wheels.com (USA) (Disc 6) (Cyber Energy).bin" size="728778960" crc="d05fedf4" md5="de31fa84272e4b71dc10b1745911a7b7" sha1="525216190ab10aa94e56ed5e850c2269eb2da628"/>
-		<rom name="Planet Hot Wheels.com (USA) (Disc 6) (Cyber Energy).cue" size="117" crc="3768cc66" md5="e92de3bb20272296060e584a0f4ab024" sha1="0576a4cba7bad1303ad48e2f357d6aa0e7268a4b"/>
+		<description>Planet Hot Wheels.com (USA) (Disc 6) (Cyber Energy) (Rev 1)</description>
+		<rom name="Planet Hot Wheels.com (USA) (Disc 6) (Cyber Energy) (Rev 1).bin" size="742451136" crc="63425c91" md5="9de0523a2f17cf60daa8db2caa4d5b7a" sha1="df68ad1094597ea3b8f69d8b61f31bdb33fcd7ab"/>
+		<rom name="Planet Hot Wheels.com (USA) (Disc 6) (Cyber Energy) (Rev 1).cue" size="125" crc="fe9da08b" md5="44c694529156589386bee0b17c2e5bf4" sha1="f6da6f1bf12a16c6d91ebab3075fb7267f82d982"/>
 	</game>
 	<game name="Planet of War (Germany)" id="120478">
 		<category>Add-Ons</category>
@@ -125876,6 +125950,11 @@
 		<description>Rail Simulator (Europe)</description>
 		<rom name="Rail Simulator (Europe).iso" size="1941475328" crc="c3f20566" md5="19ccadf801f7a272151606bca3381545" sha1="aea9423cb651f6db0ce716e0e381f1ea0969e771"/>
 	</game>
+	<game name="Rail Simulator Expansion Pack - Voyager (World) (En,Fr,De)" id="137687">
+		<category>Add-Ons</category>
+		<description>Rail Simulator Expansion Pack - Voyager (World) (En,Fr,De)</description>
+		<rom name="Rail Simulator Expansion Pack - Voyager (World) (En,Fr,De).iso" size="2232745984" crc="cae68ce8" md5="78e3ca31c9d8146c73ba23fd80fade03" sha1="99ffedb2c4c3ac8cc84fc73bca344242226c0416"/>
+	</game>
 	<game name="Railking's Railroad Simulator (Australia)" id="126887">
 		<category>Games</category>
 		<description>Railking's Railroad Simulator (Australia)</description>
@@ -128633,6 +128712,11 @@
 		<rom name="Reel Deal Casino - Shuffle Master Edition (USA).bin" size="504833280" crc="7c673f01" md5="4c65d8c855b8c76e09f23aa58d402e8a" sha1="167eea34a86f3f10d865243154e5b63b5d9b5257"/>
 		<rom name="Reel Deal Casino - Shuffle Master Edition (USA).cue" size="136" crc="124b8a2b" md5="6e54b6356d29a348795427ea8a18ae66" sha1="8c276a2952fcac876dfcfee22d5c6d0216e72171"/>
 	</game>
+	<game name="Reel Deal Classic Games (USA)" id="137688">
+		<category>Games</category>
+		<description>Reel Deal Classic Games (USA)</description>
+		<rom name="Reel Deal Classic Games (USA).iso" size="3461677056" crc="08d22168" md5="80c399706629724d08d2bb3bc3a55cfa" sha1="e3fcaca8232ba40f30ab11c10a31b75d700874c6"/>
+	</game>
 	<game name="Reel Deal Poker Challenge! (USA)" id="107610">
 		<category>Games</category>
 		<description>Reel Deal Poker Challenge! (USA)</description>
@@ -128685,6 +128769,11 @@
 		<rom name="Reel Deal Slots - Bonus Mania! (USA) (Disc 2).bin" size="424533648" crc="24fb8815" md5="7a20855b92c6ea6f595e65f2b04f2853" sha1="d37549b09c43779992aecc7fe6e1f7781c53ddec"/>
 		<rom name="Reel Deal Slots - Bonus Mania! (USA) (Disc 2).cue" size="111" crc="f265ed97" md5="3ed1c69dcf761355aa6f2e53b38689bb" sha1="d7491c56b6f081ce440f97b8efa8a2bcb03d2f9e"/>
 	</game>
+	<game name="Reel Deal Slots - Combo Pack! (USA)" id="137690">
+		<category>Games</category>
+		<description>Reel Deal Slots - Combo Pack! (USA)</description>
+		<rom name="Reel Deal Slots - Combo Pack! (USA).iso" size="4247715840" crc="cc4dea89" md5="ba3bcee4f4d54ffc98249122acea22ce" sha1="908384d90b7e5bb8b80b15d395b071ec305ba31b"/>
+	</game>
 	<game name="Reel Deal Slots - Enchanted Realms (USA)" id="131382">
 		<category>Games</category>
 		<description>Reel Deal Slots - Enchanted Realms (USA)</description>
@@ -128730,6 +128819,11 @@
 		<category>Games</category>
 		<description>Reel Deal Slots - Treasures of the Far East (USA)</description>
 		<rom name="Reel Deal Slots - Treasures of the Far East (USA).iso" size="3275620352" crc="c2ef7a22" md5="62dd5b9226ec0f9249941c0e88f67211" sha1="ba892582cb3b2939396ca6109fcb3e69eec4bb2e"/>
+	</game>
+	<game name="Reel Deal Slots 4 Pack (USA)" id="137689">
+		<category>Games</category>
+		<description>Reel Deal Slots 4 Pack (USA)</description>
+		<rom name="Reel Deal Slots 4 Pack (USA).iso" size="2841313280" crc="bc425bb5" md5="9f0db98381a899e6c319e90a33182af7" sha1="d42880fb86bde8e56832a0f559972c6d6dc8a646"/>
 	</game>
 	<game name="RefRain - Prism Memories (Japan) (C70 Taikenban)" id="123564">
 		<category>Demos</category>
@@ -137163,6 +137257,12 @@
 		<description>Seal of Evil (USA)</description>
 		<rom name="Seal of Evil (USA).iso" size="1615659008" crc="2f61ff02" md5="d28ced0fa6acc1d25cc41bb49804305b" sha1="e47921ad554fa9053f0f97bcc7f70abf2338788e"/>
 	</game>
+	<game name="Search &amp; Rescue - Coastal Heroes (USA)" id="137692">
+		<category>Games</category>
+		<description>Search &amp; Rescue - Coastal Heroes (USA)</description>
+		<rom name="Search &amp; Rescue - Coastal Heroes (USA).bin" size="474153792" crc="c60e0a59" md5="6c2a81a56827f4d5bcb491f31b278d56" sha1="0e2b8997cd52a1ed2a47de2cd3c17e3521b47f4f"/>
+		<rom name="Search &amp; Rescue - Coastal Heroes (USA).cue" size="104" crc="72f7a3f7" md5="e0e1e2361db9446ed9885244083a459a" sha1="35d1755c155452f5b3e9de21489d71c0be1f5294"/>
+	</game>
 	<game name="Search &amp; Rescue 2 (USA) (En,Fr,De,Es,It)" id="128181">
 		<category>Games</category>
 		<description>Search &amp; Rescue 2 (USA) (En,Fr,De,Es,It)</description>
@@ -137191,6 +137291,12 @@
 		<rom name="Search and Rescue (USA) (Track 5).bin" size="58722384" crc="4fb79de8" md5="df61298ae93f865dccb2d6e1eefbd700" sha1="57a070306b81c8669fcfccd8feefa9d44d84db9e"/>
 		<rom name="Search and Rescue (USA) (Track 6).bin" size="1063104" crc="63db21fb" md5="df6cd67210f1497841ca6b211765cb0b" sha1="d943f082baee9759f6489ecb0856bbf537e820aa"/>
 		<rom name="Search and Rescue (USA).cue" size="774" crc="60080e26" md5="80d7e9b37f7f16fc8eaec449ab6105a5" sha1="179e3b930ddfb54a1b3ae5be2495b1aa7149cc60"/>
+	</game>
+	<game name="Search and Rescue - SAR4 (Europe) (En,Fr,De)" id="137693">
+		<category>Games</category>
+		<description>Search and Rescue - SAR4 (Europe) (En,Fr,De)</description>
+		<rom name="Search and Rescue - SAR4 (Europe) (En,Fr,De).bin" size="788886672" crc="2797e660" md5="69d4228b0ed92609df2009679b9666f5" sha1="a4aa8c796c67cfbd2d8f710880102ed00616b8cd"/>
+		<rom name="Search and Rescue - SAR4 (Europe) (En,Fr,De).cue" size="110" crc="2ac06785" md5="6f9d9bd175f6e152fac80ca5ff099480" sha1="a29a54265cc730991123b9deb240e9f9014052bd"/>
 	</game>
 	<game name="Search and Rescue - Vietnam MedEvac (USA)" id="121276">
 		<category>Games</category>
@@ -138244,6 +138350,12 @@
 		<description>Semper Fi (Europe)</description>
 		<rom name="Semper Fi (Europe).bin" size="285497520" crc="5ae8700a" md5="39a87330183465d170d4bdfcf4abb377" sha1="2930a843ed9a1041ca5c9e586dcd721dcf2e26a4"/>
 		<rom name="Semper Fi (Europe).cue" size="84" crc="b2587138" md5="23c437d105c4cfda07cdbb473a234162" sha1="5e91f76ed5a026b96270effca7c1752727892cf7"/>
+	</game>
+	<game name="Semper Fidelis - Marine Corps (USA)" id="137694">
+		<category>Games</category>
+		<description>Semper Fidelis - Marine Corps (USA)</description>
+		<rom name="Semper Fidelis - Marine Corps (USA).bin" size="718982880" crc="1be5b1c6" md5="1b6ec3ff94a04dff77efafb26c5385ff" sha1="94d9443a4fdd4f0e89ff3ca56393fdb505baf053"/>
+		<rom name="Semper Fidelis - Marine Corps (USA).cue" size="101" crc="64eeee46" md5="b7e7dcb1b54a0696a5fe06a3efd0e74e" sha1="e7e617235a4a5c21b293309a8c8d0283d0975d15"/>
 	</game>
 	<game name="Sengoku Hime - Hana - Shinroku Tenka wo Kirisaku Hikari to Kage (Japan)" id="127355">
 		<category>Games</category>
@@ -141665,6 +141777,12 @@
 		<rom name="Shopmania (USA).bin" size="345386496" crc="d588b02c" md5="06e1251c2551a62d5d0aacf82d26f4c6" sha1="87c62126d37a4f29b33620c99fa5d147a3806e22"/>
 		<rom name="Shopmania (USA).cue" size="81" crc="fc4f36e5" md5="785b0e81a1e87ef783b30aa90a6ccc89" sha1="3722b1976be4bb979debdee97406cb2d3ebd15b3"/>
 	</game>
+	<game name="Shopping Centre Tycoon (Europe) (En,Fr,De)" id="137695">
+		<category>Games</category>
+		<description>Shopping Centre Tycoon (Europe) (En,Fr,De)</description>
+		<rom name="Shopping Centre Tycoon (Europe) (En,Fr,De).bin" size="166119408" crc="80541047" md5="de33a21fbf7ff59b13b035a541583169" sha1="e7711b6a5331147d30db8f1ed2005f5f1e5549ae"/>
+		<rom name="Shopping Centre Tycoon (Europe) (En,Fr,De).cue" size="108" crc="3d2d020a" md5="b92878d8cfff2c4eed60d27558309f96" sha1="fafc9109fdb187011967faaae0c69ae197505f83"/>
+	</game>
 	<game name="Shorox (Russia)" id="115339">
 		<category>Games</category>
 		<description>Shorox (Russia)</description>
@@ -144224,6 +144342,12 @@
 		<rom name="Simpsons, The - Virtual Springfield (USA, Europe).bin" size="776096496" crc="6ed4187a" md5="a1fef63c09f7e902ce6f6493d55d3210" sha1="65b9a52283188ce2ab14c63f796a208e2329ea8a"/>
 		<rom name="Simpsons, The - Virtual Springfield (USA, Europe).cue" size="115" crc="6bbb2b6e" md5="a76f8be1fc2f84fa60e7b97d40e1cf3d" sha1="26acf2ed99373e770f42718eca60879b0574eb42"/>
 	</game>
+	<game name="Sims 2 Sampler, The - Create-a-Sim (USA)" id="137770">
+		<category>Demos</category>
+		<description>Sims 2 Sampler, The - Create-a-Sim (USA)</description>
+		<rom name="Sims 2 Sampler, The - Create-a-Sim (USA).bin" size="340268544" crc="f916f5ae" md5="c33e443f20bdbd817cd38382b4a4d553" sha1="962178dbf67ea7d3a000695e2fc381eff810b8cb"/>
+		<rom name="Sims 2 Sampler, The - Create-a-Sim (USA).cue" size="106" crc="e1e4cdeb" md5="3c6c1fc4543630eb79623e78cbb658e6" sha1="f95c8cfcfad42bac0a47e5dab62b0bbc72be747a"/>
+	</game>
 	<game name="Sims 2, Die (Germany) (Disc 1) (Rerelease)" id="132073">
 		<category>Games</category>
 		<description>Sims 2, Die (Germany) (Disc 1) (Rerelease)</description>
@@ -145470,6 +145594,12 @@
 		<rom name="Ski-Doo X-Team Racing (USA).bin" size="356814864" crc="10986e06" md5="a966f03629430d1483c2bafabad1cedc" sha1="0c15c5a279e861023c6b34eb7abd1ead7255ba6c"/>
 		<rom name="Ski-Doo X-Team Racing (USA).cue" size="93" crc="bed3550a" md5="2d3b667b873c538e039d63d6ff9ff141" sha1="eff42b59bfef9daa3b6fbc12c67e03d91ed33328"/>
 	</game>
+	<game name="Ski-World Simulator 2012 (Europe)" id="137696">
+		<category>Games</category>
+		<description>Ski-World Simulator 2012 (Europe)</description>
+		<rom name="Ski-World Simulator 2012 (Europe).bin" size="558157824" crc="c9199ce3" md5="1fce8163a639375b1af195e992c2899c" sha1="182d1c9d112ea8c34ad055d605c1ef492627d261"/>
+		<rom name="Ski-World Simulator 2012 (Europe).cue" size="99" crc="a610867a" md5="e3ed8e20452c57a201a834fef72e59d0" sha1="c33a8384176e40913d3375833db4ff56b0b99be0"/>
+	</game>
 	<game name="Skill Traps (USA)" id="127276">
 		<category>Games</category>
 		<description>Skill Traps (USA)</description>
@@ -145650,6 +145780,12 @@
 		<category>Games</category>
 		<description>Sky &amp; Heart Last Survival (Japan)</description>
 		<rom name="Sky &amp; Heart Last Survival (Japan).iso" size="4464050176" crc="3bc52700" md5="975fd1e386959d9313c15b4c1440b9aa" sha1="4638e92505004e2166a030d80bf9e180dc1b3071"/>
+	</game>
+	<game name="Sky Aces - Heroes of the Great War (Europe)" id="137697">
+		<category>Games</category>
+		<description>Sky Aces - Heroes of the Great War (Europe)</description>
+		<rom name="Sky Aces - Heroes of the Great War (Europe).bin" size="21043344" crc="7c0e3f3c" md5="c8a36cf553788c901bf9e5f41535fb1a" sha1="305e47d4ab07b9c9b2607da5feb1ed014005179f"/>
+		<rom name="Sky Aces - Heroes of the Great War (Europe).cue" size="109" crc="2ead541b" md5="678e9bfdb66247b69e32c91adfaa1900" sha1="0fc4591967f4078a130e22f93a00911559c9adc2"/>
 	</game>
 	<game name="Sky Aces - Westfront (Germany)" id="112176">
 		<category>Games</category>
@@ -145995,6 +146131,11 @@
 		<description>Slot City 2 Plus Video Poker (USA)</description>
 		<rom name="Slot City 2 Plus Video Poker (USA).bin" size="267514128" crc="d0782004" md5="a5b439affaa0217b9784e160734d3464" sha1="596d1c545f91ed158a520505fd435ae4f4d56823"/>
 		<rom name="Slot City 2 Plus Video Poker (USA).cue" size="100" crc="fbf11934" md5="36be68b9479702d48629f0700359e70c" sha1="ff6f6ffb7d303b1e32f333157ab0c29d168c436b"/>
+	</game>
+	<game name="Slot Quest 3 Pack (USA)" id="137698">
+		<category>Games</category>
+		<description>Slot Quest 3 Pack (USA)</description>
+		<rom name="Slot Quest 3 Pack (USA).iso" size="1083703296" crc="73e12703" md5="c95b6664a8f3ebe8dc7c97e8eb717d49" sha1="621031032260b91369a0d5b847d09fa0a9a43de6"/>
 	</game>
 	<game name="Slot Shite kara ne (Japan)" id="109196">
 		<category>Games</category>
@@ -148327,6 +148468,20 @@
 		<description>Space Hack (Poland) (Covermount)</description>
 		<rom name="Space Hack (Poland) (Covermount).bin" size="785107008" crc="7e93fbb4" md5="f31e6db26c05e9d3142ef11a3806a3ff" sha1="94cb8f982a9ad84dc2be44f4a620c9502e87ca0a"/>
 		<rom name="Space Hack (Poland) (Covermount).cue" size="98" crc="ea8f44a7" md5="6f14954942226488fff252fc23981dae" sha1="a45697bd254f66ac28d5040e7c208e7c1be88f96"/>
+	</game>
+	<game name="Space Haste 2 (USA)" id="137699">
+		<category>Games</category>
+		<description>Space Haste 2 (USA)</description>
+		<rom name="Space Haste 2 (USA) (Track 1).bin" size="142773456" crc="39beb6d4" md5="9a1de5bf50d8324734a27125f5b17708" sha1="9625e0d852e38184a2b1dc7f6ae1d3bd0e900850"/>
+		<rom name="Space Haste 2 (USA) (Track 2).bin" size="93877728" crc="ad779b63" md5="393f5e48eda6038224500bffeec2a143" sha1="57ecc08b88a5050030a5329d92fd41ac9b11a73e"/>
+		<rom name="Space Haste 2 (USA) (Track 3).bin" size="71413776" crc="89cc401b" md5="cce86c8eb6b1450019ee5810d6ee9fda" sha1="d6aa4dec5b916768f6d42fee9a2645c925474671"/>
+		<rom name="Space Haste 2 (USA) (Track 4).bin" size="89535936" crc="d478e3d3" md5="14b0a49edc50f4d1439ef961de50d2fc" sha1="24a7cc3e1251d7cb1f0605c201b9adf03892f0b9"/>
+		<rom name="Space Haste 2 (USA) (Track 5).bin" size="78074640" crc="8646eebc" md5="eaabf6af8e05be78e49dc2368cc94f23" sha1="f6ee56dd6cb38d4bc17f976e0ab355d130d7ec15"/>
+		<rom name="Space Haste 2 (USA) (Track 6).bin" size="114986928" crc="33eccd61" md5="f2ce8bc1b3dd24fde1ec0de46d68861b" sha1="14a91a71ed3fc2b6a7d9835a93218614c16e7777"/>
+		<rom name="Space Haste 2 (USA) (Track 7).bin" size="71225616" crc="7ff24891" md5="67f953c049a4d8fe4074910aceb31504" sha1="9114254799949889480daaee62ceb390ba102efd"/>
+		<rom name="Space Haste 2 (USA) (Track 8).bin" size="81854304" crc="24523d0b" md5="ec541c3829eac2a3ffd5d099b8c70bcf" sha1="224188f5a80fbd337f063e4366d163faaa5da3dc"/>
+		<rom name="Space Haste 2 (USA) (Track 9).bin" size="83952288" crc="2030c701" md5="ecffa9e756d6534c827f9ea31adb722a" sha1="3dd7e8975f06a802181fb1f2395d922f361dae77"/>
+		<rom name="Space Haste 2 (USA).cue" size="838" crc="a47a04b5" md5="966de6556578986d9de1809f64dfcd73" sha1="0b79593e1b46a7f019e2f6783c867364a992107b"/>
 	</game>
 	<game name="Space Hulk (USA)" id="127736">
 		<category>Games</category>
@@ -152587,35 +152742,65 @@
 		<rom name="Starshot - Panic in Space Circus (Europe) (En,Fr,De,Es,It,Nl).bin" size="464404752" crc="c6ccb632" md5="0eef6bfd851d5638ad8f0252d385024f" sha1="2492a6f7d5b0905cb717017b2fd28975055d24d8"/>
 		<rom name="Starshot - Panic in Space Circus (Europe) (En,Fr,De,Es,It,Nl).cue" size="127" crc="dbe90622" md5="8873b5b6aa5783e9d25e47c8bf183a24" sha1="436cfe625c69a734c28bf287cf6b90bb8f6ddc1a"/>
 	</game>
-	<game name="Starsiege (USA) (Disc 1)" id="26303">
+	<game name="Starsiege (Europe) (Disc 1)" id="54522">
 		<category>Games</category>
-		<description>Starsiege (USA) (Disc 1)</description>
-		<rom name="Starsiege (USA) (Disc 1) (Track 1).bin" size="498259440" crc="f3693534" md5="bbcc54d29171b9e54f722ddc91eb46e7" sha1="60effe17d9223a540b05262ee0a8a419737d8114"/>
-		<rom name="Starsiege (USA) (Disc 1) (Track 2).bin" size="13253520" crc="c5eb4c68" md5="cfa7b6b128c3eead2983edba2f948987" sha1="2da0671033f7ef18e95ac3ca3155b9748816ec0a"/>
-		<rom name="Starsiege (USA) (Disc 1) (Track 3).bin" size="33158496" crc="ca42b545" md5="2bfcecc5014bd4b0d7a1c4d39088f7b2" sha1="da77b63fc594faa0c877fb57f23e855ddfde107c"/>
-		<rom name="Starsiege (USA) (Disc 1) (Track 4).bin" size="26123664" crc="20a7f043" md5="08f7f15297eb340452d65d474bf1ac00" sha1="ca336bcf0b8549ed15aa025aa815f6cbb3442f0e"/>
-		<rom name="Starsiege (USA) (Disc 1) (Track 5).bin" size="28868448" crc="b751672d" md5="a82ad031c0cf12715dfc52180daba103" sha1="8b3d80871a0a42dc7dac389338824ced70b0b4b2"/>
-		<rom name="Starsiege (USA) (Disc 1) (Track 6).bin" size="33057360" crc="57b14da4" md5="b1ece016c75725d3cdf2e34e750ce101" sha1="0b9054fafc41e0f3039a8bb6659cd5cc8e9a15d3"/>
-		<rom name="Starsiege (USA) (Disc 1) (Track 7).bin" size="28630896" crc="a49364b1" md5="9e43d361963b13b4aaa06b70dcbb2da3" sha1="21f0268db179cdc6263f7e07113a318f2e5e1ea7"/>
-		<rom name="Starsiege (USA) (Disc 1).cue" size="808" crc="186b244e" md5="66531b9bec016e31f96f04b225f75b92" sha1="2723322a8d662320c2dd0fb54b77a2eb5d29686e"/>
+		<description>Starsiege (Europe) (Disc 1)</description>
+		<rom name="Starsiege (Europe) (Disc 1) (Track 1).bin" size="459286800" crc="78edd72e" md5="77e951cd29726ccc2a338d036be71cdf" sha1="1034e2906857f4c6bee6954dc3d2a3d42b45947c"/>
+		<rom name="Starsiege (Europe) (Disc 1) (Track 2).bin" size="13255872" crc="13dbf1c0" md5="b4907b4ac6898f30f5f017be5e4c318c" sha1="c063f852f3ceaa6c69193f3354e78a0703241ebb"/>
+		<rom name="Starsiege (Europe) (Disc 1) (Track 3).bin" size="33158496" crc="ba34a276" md5="fca4e9f50bb540ffa153575ee842e169" sha1="8c48ab5bfefd3a0c1349d483412bdc194a8f08c0"/>
+		<rom name="Starsiege (Europe) (Disc 1) (Track 4).bin" size="26123664" crc="9e7854bc" md5="c543acd4dee6911dcd1cc842ca175ca1" sha1="ec023e514266e563be5a72b4c76768ae83cc9e86"/>
+		<rom name="Starsiege (Europe) (Disc 1) (Track 5).bin" size="28868448" crc="cc8e4f83" md5="3c3837eb9cb411842af0c47757826ee3" sha1="61ec89ee0259743169aa9d126a717af2e5a8a86d"/>
+		<rom name="Starsiege (Europe) (Disc 1) (Track 6).bin" size="33057360" crc="0443b71f" md5="eac5175b72ab4a4f4453d52b3a27f4aa" sha1="d6f588a3d429fbb935df1ae1334179138cd57a98"/>
+		<rom name="Starsiege (Europe) (Disc 1) (Track 7).bin" size="28628544" crc="7a606426" md5="946dc1c32f3fdaa736aae5c9eb1b3894" sha1="556c0d4650554cd10fdc2748f703c53cf2737340"/>
+		<rom name="Starsiege (Europe) (Disc 1).cue" size="829" crc="99123483" md5="4d50b22a6f60d5149b5e125d2d9a13af" sha1="f6e34c13b444c5f9024c1d2960e0175a2b67f66b"/>
 	</game>
-	<game name="Starsiege (USA) (Disc 2)" id="26304">
+	<game name="Starsiege (Europe) (Disc 2)" id="54523">
 		<category>Games</category>
-		<description>Starsiege (USA) (Disc 2)</description>
-		<rom name="Starsiege (USA) (Disc 2) (Track 01).bin" size="265199760" crc="7b268677" md5="21da8030ebc5af0d819d7fb5e5a69793" sha1="b45dfedb88f935a7800a1640ce6433d0a4da8280"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 02).bin" size="25131120" crc="3016ad1d" md5="72066f22a4246f32b5aa8e5b975f1bfa" sha1="80a068ec35784cd671ab1f1d8f52becbef3c142e"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 03).bin" size="31991904" crc="fd355977" md5="294189a56b01966b26b816384ab41a48" sha1="e80338c7a661159a81a2eed55806b1f96aca45cb"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 04).bin" size="35336448" crc="4af8f95d" md5="63cef75240f10cf2e9402a71cbce32d8" sha1="3cd61f919241ca5dd5398ecec858381d0aaca48e"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 05).bin" size="27824160" crc="3d138214" md5="34b6cde697f9528457a20ed40bd136b3" sha1="4a56084646bd2685a3c033217e6ea1d80900554f"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 06).bin" size="24286752" crc="05c5aa92" md5="49c833080fe4877e84d92dba4de7f1aa" sha1="32b519785df23d3f64def5e03aed8f9c646c5384"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 07).bin" size="33882912" crc="58116d8d" md5="123ec187043347bbd866151c2bdd5615" sha1="526fa56e123b123fd159405d3a68828aaa0dfa06"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 08).bin" size="27748896" crc="4b2d4a0b" md5="1d28e40e85faab57d5efefad240ed4cc" sha1="6f33011a111dfc6ed5940784fcee37930cd8a5a5"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 09).bin" size="30197328" crc="16b03eb6" md5="956721ccc3b12595993b85bd98313ebc" sha1="35497fa1f1b76ad2296da1774080db34629a9636"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 10).bin" size="32003664" crc="3cc93576" md5="90702acaac01709f2c93f9356d83409f" sha1="9a4aa89162b4dd0ba7a13827e087086483711cc7"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 11).bin" size="34440336" crc="fe529930" md5="8dab685e46ec1935d3864b5ae12814bd" sha1="082318cc5bc2fb811b1cac84d6683743c06268ab"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 12).bin" size="34214544" crc="9acf8977" md5="9f68d1c852f7f61411c3bb6e7791a5b3" sha1="6314898971b3a043b772d1626ee8f9bd769c520b"/>
-		<rom name="Starsiege (USA) (Disc 2) (Track 13).bin" size="34106352" crc="f4e1911d" md5="d2d27a1e55c8d86cedc5f64dabf5c14f" sha1="ecf669ec056c75881701a2fbbddc5d06ff54a838"/>
-		<rom name="Starsiege (USA) (Disc 2).cue" size="1529" crc="172caf46" md5="ff5b211bad0040006ab0412d9b8f4e4f" sha1="c73846a05efbe0206c9bf80668b4b94927d0c75f"/>
+		<description>Starsiege (Europe) (Disc 2)</description>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 01).bin" size="289488864" crc="20c4b406" md5="d023f04402055280d2a8a0e84aa10224" sha1="a38e802871964b94880ef8e44150474208fbb26b"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 02).bin" size="25133472" crc="928212ff" md5="b6363a37dbc3d5181c70646803845545" sha1="7cc13ce592975782bd1161c582f8df267f567787"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 03).bin" size="31991904" crc="20506573" md5="91b70ef7ebf9392b822f64f8039a0ccf" sha1="4fa6ab6bfab64587981c95f53dc0018890297f0c"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 04).bin" size="35336448" crc="c9adcb6e" md5="61385b213b135c81d75a42237f08afc7" sha1="d8f287a59fcd8c358b0335bbedb0c2d1629573f2"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 05).bin" size="27824160" crc="6f9bb50f" md5="248099e7de6bd8be20601fc11c3ae996" sha1="73c671c7e683af52e88c9289cfd7bbd661cafdb0"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 06).bin" size="24286752" crc="47a90746" md5="80b40f5685bc03b7b7224a2ed73fc21a" sha1="cb6983bb6f72d9d221e777b86f5133016a667e8b"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 07).bin" size="33882912" crc="4838b7e5" md5="e8df64015ea5009d487c304900454bb0" sha1="2ca9a002807241f69cfc7cb7dff2f18103ba66ef"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 08).bin" size="27748896" crc="011be4a6" md5="48f5dd7a10416c95aa4d3caa11097cba" sha1="32666f09e4239ca133257affbc85eb90280ca103"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 09).bin" size="30197328" crc="014994cb" md5="7481fa5d0de438c917f35240dfd0915f" sha1="100acbfb2b1a53a2c17f4598247e66e940d703ff"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 10).bin" size="32003664" crc="9af6d765" md5="8c868208cc31d7e177158761ffac89bc" sha1="0bcb34f1422dd719ad556b1f636ba2c6ba96af7f"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 11).bin" size="34440336" crc="ea6b93e8" md5="cc889cc864510709cfe9c2ae2d822c1c" sha1="d15be46c2142d72dd15b981dba538f9e01149a30"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 12).bin" size="34214544" crc="8673c858" md5="1ba596b49f05969d1a32968d979159fe" sha1="7ce3f7a9f9ff532a933800989bfaac2f5ab1ecda"/>
+		<rom name="Starsiege (Europe) (Disc 2) (Track 13).bin" size="34104000" crc="a463e236" md5="34392d10792f36ae8f40334e600510b2" sha1="e36df2d48c3fbee699a68b655b7537522de434ed"/>
+		<rom name="Starsiege (Europe) (Disc 2).cue" size="1568" crc="c524c5ad" md5="03a727c7a24e37d969eeeef9a278413d" sha1="e9cb5480e4e2d10ecbb89bc14e8d2f4e159aeaf8"/>
+	</game>
+	<game name="Starsiege (USA) (Disc 1) (Buddy)" id="26303">
+		<category>Games</category>
+		<description>Starsiege (USA) (Disc 1) (Buddy)</description>
+		<rom name="Starsiege (USA) (Disc 1) (Buddy) (Track 1).bin" size="498259440" crc="f3693534" md5="bbcc54d29171b9e54f722ddc91eb46e7" sha1="60effe17d9223a540b05262ee0a8a419737d8114"/>
+		<rom name="Starsiege (USA) (Disc 1) (Buddy) (Track 2).bin" size="13253520" crc="c5eb4c68" md5="cfa7b6b128c3eead2983edba2f948987" sha1="2da0671033f7ef18e95ac3ca3155b9748816ec0a"/>
+		<rom name="Starsiege (USA) (Disc 1) (Buddy) (Track 3).bin" size="33158496" crc="ca42b545" md5="2bfcecc5014bd4b0d7a1c4d39088f7b2" sha1="da77b63fc594faa0c877fb57f23e855ddfde107c"/>
+		<rom name="Starsiege (USA) (Disc 1) (Buddy) (Track 4).bin" size="26123664" crc="20a7f043" md5="08f7f15297eb340452d65d474bf1ac00" sha1="ca336bcf0b8549ed15aa025aa815f6cbb3442f0e"/>
+		<rom name="Starsiege (USA) (Disc 1) (Buddy) (Track 5).bin" size="28868448" crc="b751672d" md5="a82ad031c0cf12715dfc52180daba103" sha1="8b3d80871a0a42dc7dac389338824ced70b0b4b2"/>
+		<rom name="Starsiege (USA) (Disc 1) (Buddy) (Track 6).bin" size="33057360" crc="57b14da4" md5="b1ece016c75725d3cdf2e34e750ce101" sha1="0b9054fafc41e0f3039a8bb6659cd5cc8e9a15d3"/>
+		<rom name="Starsiege (USA) (Disc 1) (Buddy) (Track 7).bin" size="28630896" crc="a49364b1" md5="9e43d361963b13b4aaa06b70dcbb2da3" sha1="21f0268db179cdc6263f7e07113a318f2e5e1ea7"/>
+		<rom name="Starsiege (USA) (Disc 1) (Buddy).cue" size="864" crc="7f22c020" md5="a5fbd1d3729a0c7ed95f74e61a8731ef" sha1="98352e6eca3b2aad4f484d5b756533777f5cf61a"/>
+	</game>
+	<game name="Starsiege (USA) (Disc 2) (Campaign)" id="26304">
+		<category>Games</category>
+		<description>Starsiege (USA) (Disc 2) (Campaign)</description>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 01).bin" size="265199760" crc="7b268677" md5="21da8030ebc5af0d819d7fb5e5a69793" sha1="b45dfedb88f935a7800a1640ce6433d0a4da8280"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 02).bin" size="25131120" crc="3016ad1d" md5="72066f22a4246f32b5aa8e5b975f1bfa" sha1="80a068ec35784cd671ab1f1d8f52becbef3c142e"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 03).bin" size="31991904" crc="fd355977" md5="294189a56b01966b26b816384ab41a48" sha1="e80338c7a661159a81a2eed55806b1f96aca45cb"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 04).bin" size="35336448" crc="4af8f95d" md5="63cef75240f10cf2e9402a71cbce32d8" sha1="3cd61f919241ca5dd5398ecec858381d0aaca48e"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 05).bin" size="27824160" crc="3d138214" md5="34b6cde697f9528457a20ed40bd136b3" sha1="4a56084646bd2685a3c033217e6ea1d80900554f"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 06).bin" size="24286752" crc="05c5aa92" md5="49c833080fe4877e84d92dba4de7f1aa" sha1="32b519785df23d3f64def5e03aed8f9c646c5384"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 07).bin" size="33882912" crc="58116d8d" md5="123ec187043347bbd866151c2bdd5615" sha1="526fa56e123b123fd159405d3a68828aaa0dfa06"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 08).bin" size="27748896" crc="4b2d4a0b" md5="1d28e40e85faab57d5efefad240ed4cc" sha1="6f33011a111dfc6ed5940784fcee37930cd8a5a5"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 09).bin" size="30197328" crc="16b03eb6" md5="956721ccc3b12595993b85bd98313ebc" sha1="35497fa1f1b76ad2296da1774080db34629a9636"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 10).bin" size="32003664" crc="3cc93576" md5="90702acaac01709f2c93f9356d83409f" sha1="9a4aa89162b4dd0ba7a13827e087086483711cc7"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 11).bin" size="34440336" crc="fe529930" md5="8dab685e46ec1935d3864b5ae12814bd" sha1="082318cc5bc2fb811b1cac84d6683743c06268ab"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 12).bin" size="34214544" crc="9acf8977" md5="9f68d1c852f7f61411c3bb6e7791a5b3" sha1="6314898971b3a043b772d1626ee8f9bd769c520b"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign) (Track 13).bin" size="34106352" crc="f4e1911d" md5="d2d27a1e55c8d86cedc5f64dabf5c14f" sha1="ecf669ec056c75881701a2fbbddc5d06ff54a838"/>
+		<rom name="Starsiege (USA) (Disc 2) (Campaign).cue" size="1672" crc="c4c443de" md5="f1ad08a72a13ec64cf7b102723544771" sha1="9b94ec82602b9e69dbbe6c64da2002cfee799865"/>
 	</game>
 	<game name="Starsiege (USA) (v1.02)" id="83175">
 		<category>Games</category>
@@ -156074,6 +156259,11 @@
 		<description>TMNT - Mutant Melee (USA) (Disc 2)</description>
 		<rom name="TMNT - Mutant Melee (USA) (Disc 2).bin" size="469271040" crc="8f20f423" md5="3a0353e786f1cb7b808e99164750c69b" sha1="cf0eac70971aab335342b036e430977bec4376a6"/>
 		<rom name="TMNT - Mutant Melee (USA) (Disc 2).cue" size="100" crc="8af3e518" md5="ae0ab85fb0eeade269f5f5e471587db6" sha1="b60a7f5680ebf00d3f5e3f3f28f47f7c93961d7e"/>
+	</game>
+	<game name="TMNT - Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It)" id="137752">
+		<category>Games</category>
+		<description>TMNT - Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="TMNT - Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It).iso" size="1964343296" crc="20c1d4a6" md5="03d8603ee2bcccba21688a71d02725df" sha1="098d8c977c1cdd07a9356941c4411d3390a3c501"/>
 	</game>
 	<game name="TOCA 2 - Touring Car Challenge (USA) (En,Fr,Es)" id="67091">
 		<category>Games</category>
@@ -160231,6 +160421,12 @@
 		<description>Timeline (USA, Canada)</description>
 		<rom name="Timeline (USA, Canada).bin" size="624173760" crc="1e5e7ad4" md5="5d8e9031068bb5f91b216bf73dee6866" sha1="4793cb25910ae77bc0da5a47e187e4390ebbfde4"/>
 		<rom name="Timeline (USA, Canada).cue" size="88" crc="90275d13" md5="9bec367d220f840e1b51f0a2d7bebe9a" sha1="971d12676a2ca7f50a2e365acb05649cea75b9e2"/>
+	</game>
+	<game name="Times Software Collection, The - Bridge (Europe)" id="137701">
+		<category>Games</category>
+		<description>Times Software Collection, The - Bridge (Europe)</description>
+		<rom name="Times Software Collection, The - Bridge (Europe).bin" size="22407504" crc="6de3c0fb" md5="e209ee4401b0cc6e505d871ec5de8835" sha1="f37154d0f0f5cf04a131f24fcacc026bd9114505"/>
+		<rom name="Times Software Collection, The - Bridge (Europe).cue" size="114" crc="3980b1d1" md5="a0f7ec07e2fa44f92848e7b752f5214d" sha1="4c756d001d68f445b3d525b513586b32aaa058ba"/>
 	</game>
 	<game name="Timez Attack (USA)" id="131855">
 		<category>Games</category>
@@ -166364,6 +166560,12 @@
 		<rom name="Twilight Refrain (Japan) (C73 Taikenban).bin" size="107135952" crc="9835626b" md5="1590d2325bea808dca2b2111ea3c524d" sha1="a1622a6a2611967c650ae1c274eb5199786361c7"/>
 		<rom name="Twilight Refrain (Japan) (C73 Taikenban).cue" size="106" crc="4aaa70d6" md5="d8c08eedf01e8f82c7633a5346a22930" sha1="a8d86d92dc28234efbddd773fc187a686cb754a2"/>
 	</game>
+	<game name="Twin (Europe)" id="137702">
+		<category>Add-Ons</category>
+		<description>Twin (Europe)</description>
+		<rom name="Twin (Europe).bin" size="15883056" crc="b5db673d" md5="6fde9650423c933f76e02ef4c6563314" sha1="8103f54e751cc2d5a02602134a1d8d3f62d5b8b7"/>
+		<rom name="Twin (Europe).cue" size="79" crc="00618a89" md5="e71d3b1d9c97d1c6cb043c95e397fe5e" sha1="050a4122b3d285035417e9f83f3f1e38236168d3"/>
+	</game>
 	<game name="Twin Calibre (UK)" id="114471">
 		<category>Games</category>
 		<description>Twin Calibre (UK)</description>
@@ -169805,6 +170007,12 @@
 		<rom name="Vechnye goroda - Deti Nila (Russia) (Disc 2).bin" size="511644672" crc="d56ec78c" md5="54a93459bdfa420af25624c8ed616118" sha1="a0c25e403dac13c6dc1f9e75abcf9e9955759626"/>
 		<rom name="Vechnye goroda - Deti Nila (Russia) (Disc 2).cue" size="110" crc="560bcc1c" md5="603441e92213b3e099b6689e629e9850" sha1="da6a2bc1444d1d7695e0c4413e5ddbe3300dbabd"/>
 	</game>
+	<game name="Vectroids (Europe)" id="137703">
+		<category>Games</category>
+		<description>Vectroids (Europe)</description>
+		<rom name="Vectroids (Europe).bin" size="2450784" crc="b9aa1dbf" md5="524532cf77857977e60ab70e92d13ced" sha1="8ddcc24cc952c3cd538f3735a8d5985b232f5fa9"/>
+		<rom name="Vectroids (Europe).cue" size="84" crc="65bb12da" md5="2f4410418b70cde427e507c322251b98" sha1="340ae2966a80ef710491b7877ecf964a2e494d4e"/>
+	</game>
 	<game name="Ved'mak (Russia)" id="95878">
 		<category>Games</category>
 		<description>Ved'mak (Russia)</description>
@@ -170179,6 +170387,18 @@
 		<description>Versailles - Complotto alla Corte del Re Sole (Italy) (Disc 2)</description>
 		<rom name="Versailles - Complotto alla Corte del Re Sole (Italy) (Disc 2).bin" size="645061872" crc="f0ab8821" md5="df01d7353dd931cc19577cdd8ab815e9" sha1="c1908f16be39a769083117d8c49e5d906e3f7229"/>
 		<rom name="Versailles - Complotto alla Corte del Re Sole (Italy) (Disc 2).cue" size="151" crc="a4dbbdc0" md5="2897a9857c2c1fd54917ae4d088a6296" sha1="240ff97ef41ce8ca5fead35e4fe7f00a9a08d462"/>
+	</game>
+	<game name="Versailles 1685 - Intrigue at the Court of Louis XIV (USA) (Disc 1)" id="137731">
+		<category>Games</category>
+		<description>Versailles 1685 - Intrigue at the Court of Louis XIV (USA) (Disc 1)</description>
+		<rom name="Versailles 1685 - Intrigue at the Court of Louis XIV (USA) (Disc 1).bin" size="784137984" crc="c001e4ff" md5="45299037ae692a94aa6cdaaba7c3a6e1" sha1="c0459ad3a5928642b3aca0e4dcbdd4f188926afc"/>
+		<rom name="Versailles 1685 - Intrigue at the Court of Louis XIV (USA) (Disc 1).cue" size="133" crc="b856870b" md5="2528a6122a919efe194b882cc5e17c5c" sha1="3e9124b70836194decdd56f4348b49ad7095228e"/>
+	</game>
+	<game name="Versailles 1685 - Intrigue at the Court of Louis XIV (USA) (Disc 2)" id="137732">
+		<category>Games</category>
+		<description>Versailles 1685 - Intrigue at the Court of Louis XIV (USA) (Disc 2)</description>
+		<rom name="Versailles 1685 - Intrigue at the Court of Louis XIV (USA) (Disc 2).bin" size="784039200" crc="edf529e9" md5="08938f8699d6a96bce0c2da932ce7bce" sha1="8d3d5adaceef98f89bab7ebbe5e4f48c77b012b9"/>
+		<rom name="Versailles 1685 - Intrigue at the Court of Louis XIV (USA) (Disc 2).cue" size="133" crc="b90ba1da" md5="609ba8e39c23cd1cf85e2301b6991725" sha1="e8d0d7348ad8d55b8e2d0e6adcf6ff884aae2144"/>
 	</game>
 	<game name="Versailles 1685 - Verschworung am Hof (Germany) (Disc 1)" id="59357">
 		<category>Games</category>
@@ -170654,6 +170874,12 @@
 		<description>Viktoriya - Revolyucii (Russia)</description>
 		<rom name="Viktoriya - Revolyucii (Russia).bin" size="840411936" crc="0800f0b5" md5="34739825350f279a8baa9b28b7f2e90c" sha1="6d9b55e3c82e39201badc7255dc6185dcda9b680"/>
 		<rom name="Viktoriya - Revolyucii (Russia).cue" size="97" crc="0bd27db0" md5="65759c3c8c84c4cf25ae7100dc797bfd" sha1="3e5f62c929a6f02ed0c0975ca20b9f5a8b341ee3"/>
+	</game>
+	<game name="Vil du bli millionaer (Norway)" id="137772">
+		<category>Games</category>
+		<description>Vil du bli millionaer (Norway)</description>
+		<rom name="Vil du bli millionaer (Norway).bin" size="416473344" crc="c3d55162" md5="d93a57ed76df68281907adb7986dbb91" sha1="b0d57dcaf521960401b2f20c6becbd4c6650032a"/>
+		<rom name="Vil du bli millionaer (Norway).cue" size="96" crc="77e38612" md5="a82f64acafe759c48f4145289ac08782" sha1="27a545c31b725c84b208a83c8f98bbb158c2c0ea"/>
 	</game>
 	<game name="Vinci alle Slot Machines! (Italy)" id="106544">
 		<category>Games</category>
@@ -177170,6 +177396,11 @@
 		<rom name="World Airports 2 (Europe).bin" size="788886672" crc="4085f133" md5="3e6199cb13307e8996392103d9eced22" sha1="33f1bcf6353d98dda50e900b24f7142e46c71ef7"/>
 		<rom name="World Airports 2 (Europe).cue" size="91" crc="2f5a0ebb" md5="d15dbd04e1fb5e54e8ffec3523a8eab3" sha1="d8a79c644d4f0ae575c957940e9303ac98f6becf"/>
 	</game>
+	<game name="World Airports 3 - North America (World) (En,Fr,De)" id="137705">
+		<category>Add-Ons</category>
+		<description>World Airports 3 - North America (World) (En,Fr,De)</description>
+		<rom name="World Airports 3 - North America (World) (En,Fr,De).iso" size="1526759424" crc="6c984dc7" md5="9a4059a9a850739af76020e99adfd8cd" sha1="3e9e9fb143e138fb89c2b1c1bd97efa23de8d970"/>
+	</game>
 	<game name="World Car Championship (Germany)" id="31504">
 		<category>Games</category>
 		<description>World Car Championship (Germany)</description>
@@ -178738,40 +178969,40 @@
 		<description>X-Plane 10 (USA) (Disc 1) (rev 2012.05.01)</description>
 		<rom name="X-Plane 10 (USA) (Disc 1) (rev 2012.05.01).iso" size="7161741312" crc="1e7ae593" md5="3c1b963bd9e141ee124ba5483bf5d6c5" sha1="0916e501f61cf80e60b6dab32c52ca0af1d0c4cc"/>
 	</game>
-	<game name="X-Plane 10 (USA, Germany) (Disc 2)" id="80317">
+	<game name="X-Plane 10 (USA, Europe) (Disc 2)" id="80317">
 		<category>Games</category>
-		<description>X-Plane 10 (USA, Germany) (Disc 2)</description>
-		<rom name="X-Plane 10 (USA, Germany) (Disc 2).iso" size="7680360448" crc="063a076e" md5="59b3acc62795ff999056c6e76b0cdd04" sha1="bf9240e2e6e0cc76d8b0cc9985ea29d31058d21c"/>
+		<description>X-Plane 10 (USA, Europe) (Disc 2)</description>
+		<rom name="X-Plane 10 (USA, Europe) (Disc 2).iso" size="7680360448" crc="063a076e" md5="59b3acc62795ff999056c6e76b0cdd04" sha1="bf9240e2e6e0cc76d8b0cc9985ea29d31058d21c"/>
 	</game>
-	<game name="X-Plane 10 (USA, Germany) (Disc 3)" id="80318">
+	<game name="X-Plane 10 (USA, Europe) (Disc 3)" id="80318">
 		<category>Games</category>
-		<description>X-Plane 10 (USA, Germany) (Disc 3)</description>
-		<rom name="X-Plane 10 (USA, Germany) (Disc 3).iso" size="7684521984" crc="0107f647" md5="82a747d4b5a71cdb856972fe1e1954de" sha1="c794650c8193a4d231c02e4ef7a14c0adb0b549f"/>
+		<description>X-Plane 10 (USA, Europe) (Disc 3)</description>
+		<rom name="X-Plane 10 (USA, Europe) (Disc 3).iso" size="7684521984" crc="0107f647" md5="82a747d4b5a71cdb856972fe1e1954de" sha1="c794650c8193a4d231c02e4ef7a14c0adb0b549f"/>
 	</game>
-	<game name="X-Plane 10 (USA, Germany) (Disc 4)" id="80319">
+	<game name="X-Plane 10 (USA, Europe) (Disc 4)" id="80319">
 		<category>Games</category>
-		<description>X-Plane 10 (USA, Germany) (Disc 4)</description>
-		<rom name="X-Plane 10 (USA, Germany) (Disc 4).iso" size="7688683520" crc="9d61372d" md5="10f5cdfd1dc4d960e86617296f9da1bd" sha1="fda4f43f7858850f666acea7b8534b4abd6fc57c"/>
+		<description>X-Plane 10 (USA, Europe) (Disc 4)</description>
+		<rom name="X-Plane 10 (USA, Europe) (Disc 4).iso" size="7688683520" crc="9d61372d" md5="10f5cdfd1dc4d960e86617296f9da1bd" sha1="fda4f43f7858850f666acea7b8534b4abd6fc57c"/>
 	</game>
-	<game name="X-Plane 10 (USA, Germany) (Disc 5)" id="80320">
+	<game name="X-Plane 10 (USA, Europe) (Disc 5)" id="80320">
 		<category>Games</category>
-		<description>X-Plane 10 (USA, Germany) (Disc 5)</description>
-		<rom name="X-Plane 10 (USA, Germany) (Disc 5).iso" size="7681146880" crc="804f2138" md5="9a62cdcf61aa5361039593b904438d91" sha1="c63ba0250c72665ed93bc77dcb23d241014a0012"/>
+		<description>X-Plane 10 (USA, Europe) (Disc 5)</description>
+		<rom name="X-Plane 10 (USA, Europe) (Disc 5).iso" size="7681146880" crc="804f2138" md5="9a62cdcf61aa5361039593b904438d91" sha1="c63ba0250c72665ed93bc77dcb23d241014a0012"/>
 	</game>
-	<game name="X-Plane 10 (USA, Germany) (Disc 6)" id="80321">
+	<game name="X-Plane 10 (USA, Europe) (Disc 6)" id="80321">
 		<category>Games</category>
-		<description>X-Plane 10 (USA, Germany) (Disc 6)</description>
-		<rom name="X-Plane 10 (USA, Germany) (Disc 6).iso" size="7684292608" crc="9e0567c4" md5="5612ea4ac1fb045efc8623b61f4fb804" sha1="4c94aa5aa6b8fa8dd00826fca4589f962deafacd"/>
+		<description>X-Plane 10 (USA, Europe) (Disc 6)</description>
+		<rom name="X-Plane 10 (USA, Europe) (Disc 6).iso" size="7684292608" crc="9e0567c4" md5="5612ea4ac1fb045efc8623b61f4fb804" sha1="4c94aa5aa6b8fa8dd00826fca4589f962deafacd"/>
 	</game>
-	<game name="X-Plane 10 (USA, Germany) (Disc 7)" id="80322">
+	<game name="X-Plane 10 (USA, Europe) (Disc 7)" id="80322">
 		<category>Games</category>
-		<description>X-Plane 10 (USA, Germany) (Disc 7)</description>
-		<rom name="X-Plane 10 (USA, Germany) (Disc 7).iso" size="7682129920" crc="dc38a889" md5="48c86867a226335ad3587db848334ee6" sha1="154623061c06b6e97fa2465a7415e8f1a7c48dac"/>
+		<description>X-Plane 10 (USA, Europe) (Disc 7)</description>
+		<rom name="X-Plane 10 (USA, Europe) (Disc 7).iso" size="7682129920" crc="dc38a889" md5="48c86867a226335ad3587db848334ee6" sha1="154623061c06b6e97fa2465a7415e8f1a7c48dac"/>
 	</game>
-	<game name="X-Plane 10 (USA, Germany) (Disc 8)" id="80316">
+	<game name="X-Plane 10 (USA, Europe) (Disc 8)" id="80316">
 		<category>Games</category>
-		<description>X-Plane 10 (USA, Germany) (Disc 8)</description>
-		<rom name="X-Plane 10 (USA, Germany) (Disc 8).iso" size="7258996736" crc="b68b121a" md5="f1e770060c43818553abde90b94f5d62" sha1="48bbcc7593082e4a86a98cfcc5adade7d43ac438"/>
+		<description>X-Plane 10 (USA, Europe) (Disc 8)</description>
+		<rom name="X-Plane 10 (USA, Europe) (Disc 8).iso" size="7258996736" crc="b68b121a" md5="f1e770060c43818553abde90b94f5d62" sha1="48bbcc7593082e4a86a98cfcc5adade7d43ac438"/>
 	</game>
 	<game name="X-Plane 11 (Germany) (Disc 9) (Add-On DVD)" id="102838">
 		<category>Add-Ons</category>

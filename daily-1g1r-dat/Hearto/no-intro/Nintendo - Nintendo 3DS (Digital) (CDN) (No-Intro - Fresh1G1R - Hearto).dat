@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Digital) (CDN) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Digital) (CDN) (6,532) (-y) [-aAbBcefkmMoprv] (20260829-051954) (Retool)</description>
+		<description>Nintendo - Nintendo 3DS (Digital) (CDN) (6,533) (-y) [-aAbBcefkmMoprv] (20260829-051954) (Retool)</description>
 		<version>20260829-051954</version>
-		<date>2026-08-30 08-13-32</date>
+		<date>2026-08-31 08-29-02</date>
 		<author>1988reload, ajshell1, Arctic Circle System, Aringon, bikerspade, buckwheat, C. V. Reynolds, Gefflon, Hiccup, Hiccup and DarkMatterCore, Icyelut, InternalLoss, Jack, Jarvik7, Just001Kim, MeguCocoa, MisterSheeple, niemand, nnssxx, norkmetnoil577, number, rarenight, root, SonGoku, u53r123, Whovian9369, xprism, xuom2, ZeroSkill, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -66880,6 +66880,14 @@
 		<rom name="00000002" size="276439040" crc="2dd78337" md5="c855db72e81c375ca60f1a6fdd3ff733" sha1="06ec37fc925c6aef470a1a14e2cb101bfb0ae3f2"/>
 		<rom name="tmd.0" size="4708" crc="dfcce5c4" md5="ae5091ae3f59fe7d8454ef0ca82b1d06" sha1="49ea4760db2a92113d5e88957fc3d42b214259bd"/>
 		<rom name="tmd.1040" size="4708" crc="1be7c315" md5="3812fddf3aa4cb06161c4a2fae600286" sha1="802c9819f6aec48ee7c31c0b8b77c2e518c8d3da"/>
+	</game>
+	<game name="Nintendo Presents - New Style Boutique 3 - Styling Star (Europe)" id="04308">
+		<category>Games</category>
+		<description>Nintendo Presents - New Style Boutique 3 - Styling Star (Europe)</description>
+		<game_id>00040000001c2600</game_id>
+		<rom name="00000000" size="814632960" crc="35fe0464" md5="72c459c4eccee62dcd87ab4363051132" sha1="35be7977ea3b805737695ceac811974eec8332a0"/>
+		<rom name="00000001" size="2379776" crc="1c13c24f" md5="6462b46c4039cc2b289482627e46172e" sha1="54112294f87dc4a94c08368d23fcd22406633dfe"/>
+		<rom name="tmd.0" size="4708" crc="10d5be8e" md5="4085e3685a5fa071aa5c51d01423e0d3" sha1="15b6b76ca94c898e37d7ee8bdab47c955e098752"/>
 	</game>
 	<game name="Nintendo Presents New Style Boutique 3 (World) (Demo)" id="05373">
 		<category>Demos</category>
