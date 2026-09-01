@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (606) (-ly) [-aAbBcdDefkmMopPruv] (20260828-172824) (Retool)</description>
-		<version>20260828-172824</version>
-		<date>2026-08-31 08-42-34</date>
+		<description>Nintendo - Game Boy (606) (-ly) [-aAbBcdDefkmMopPruv] (20260831-163205) (Retool)</description>
+		<version>20260831-163205</version>
+		<date>2026-09-01 07-50-42</date>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -844,7 +844,7 @@
 	<game name="Fastest Lap (USA)" id="1670">
 		<category>Games</category>
 		<description>Fastest Lap (USA)</description>
-		<rom name="Fastest Lap (USA).gb" size="131072" crc="a9ba7875" md5="ef2f6c817d762dab848362c4cf7c1c32" sha1="25bf89b112c9b134b2e4d07354d1a762ab0d4e92"/>
+		<rom name="Fastest Lap (USA).gb" size="131072" crc="a9ba7875" md5="ef2f6c817d762dab848362c4cf7c1c32" sha1="25bf89b112c9b134b2e4d07354d1a762ab0d4e92" sha256="4e6aba29aa4d30e1437aefe4995839231843e255c4dd1db6a3cf21a2722a3e1d"/>
 	</game>
 	<game name="Felix the Cat (USA, Europe)" id="0375">
 		<category>Games</category>

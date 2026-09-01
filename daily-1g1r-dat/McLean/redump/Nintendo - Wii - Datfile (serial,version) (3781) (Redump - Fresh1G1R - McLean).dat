@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii (Retool)</name>
-		<description>Nintendo - Wii (1,443) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-30 14-39-02) (Retool)</description>
-		<version>2026-08-30 14-39-02</version>
-		<date>2026-08-31 08-37-01</date>
+		<description>Nintendo - Wii (1,443) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-01 06-09-02) (Retool)</description>
+		<version>2026-09-01 06-09-02</version>
+		<date>2026-09-01 07-47-01</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1964,12 +1964,6 @@
 		<serial>RVL-RUEE-USA-B0</serial>
 		<rom name="Disney G-Force (USA) (En,Fr,Es).iso" size="4699979776" crc="10d9742b" md5="848ca4e6a9400ba5e322afe64544be5e" sha1="72d5a4f1817440de690480d7de1852640bd7cf1e"/>
 	</game>
-	<game name="Disney Guilty Party - Mystery Fun for Everyone! (USA)" id="15607">
-		<category>Games</category>
-		<description>Disney Guilty Party - Mystery Fun for Everyone! (USA)</description>
-		<serial>RVL-SGUE-USA-B0</serial>
-		<rom name="Disney Guilty Party - Mystery Fun for Everyone! (USA).iso" size="4699979776" crc="4c4d4de4" md5="ae8e2f0254a4bf6022c0ea923a0eb7fb" sha1="713c226718c83675d2034d03976be0b61ccc1b0c"/>
-	</game>
 	<game name="Disney Hannah Montana - Spotlight World Tour (USA)" id="34485">
 		<category>Games</category>
 		<description>Disney Hannah Montana - Spotlight World Tour (USA)</description>
@@ -3169,6 +3163,12 @@
 		<description>Guilty Gear XX Accent Core Plus (USA)</description>
 		<serial>RVL-R3NE-USA</serial>
 		<rom name="Guilty Gear XX Accent Core Plus (USA).iso" size="4699979776" crc="e59b5d66" md5="ff7bdd553f93b1a0f3bf8ff774493c1c" sha1="1c4656ab931bbf989d3827447c55c30bd0dd2555"/>
+	</game>
+	<game name="Guilty Party - Mystery Fun for Everyone! (USA)" id="15607">
+		<category>Games</category>
+		<description>Guilty Party - Mystery Fun for Everyone! (USA)</description>
+		<serial>RVL-SGUE-USA-B0</serial>
+		<rom name="Guilty Party - Mystery Fun for Everyone! (USA).iso" size="4699979776" crc="4c4d4de4" md5="ae8e2f0254a4bf6022c0ea923a0eb7fb" sha1="713c226718c83675d2034d03976be0b61ccc1b0c"/>
 	</game>
 	<game name="Guinness World Records - The Videogame (USA) (En,Fr,Es)" id="9045">
 		<category>Games</category>

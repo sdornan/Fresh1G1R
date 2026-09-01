@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - GameCube (Retool)</name>
-		<description>Nintendo - GameCube (815) (-y) [-aAbBcefkmMoprv] (2026-08-31 02-29-02) (Retool)</description>
-		<version>2026-08-31 02-29-02</version>
-		<date>2026-08-31 08-26-49</date>
+		<description>Nintendo - GameCube (819) (-y) [-aAbBcefkmMoprv] (2026-09-01 05-39-17) (Retool)</description>
+		<version>2026-09-01 05-39-17</version>
+		<date>2026-09-01 07-36-24</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -53,6 +53,30 @@
 		<description>18 Wheeler - American Pro Trucker (USA)</description>
 		<serial>DL-DOL-GWEE-USA</serial>
 		<rom name="18 Wheeler - American Pro Trucker (USA).iso" size="1459978240" crc="f827ab43" md5="0581d5e7a897de3b1c999e823b31287d" sha1="5fea37dc1e9b4e7112f14e81bfda67e38410bd11"/>
+	</game>
+	<game name="2 Games in 1 - Die Unglaublichen + Findet Nemo (Germany) (Disc 1)" id="4734">
+		<category>Games</category>
+		<description>2 Games in 1 - Die Unglaublichen + Findet Nemo (Germany) (Disc 1)</description>
+		<serial>DL-DOL-GU2D-0-NOE</serial>
+		<rom name="2 Games in 1 - Die Unglaublichen + Findet Nemo (Germany) (Disc 1).iso" size="1459978240" crc="30127b72" md5="91ebe9828eb044a2e52242acb7f8ceef" sha1="af6fd8297768fb208cd8e701dbce853e1da737f1"/>
+	</game>
+	<game name="2 Games in 1 - Die Unglaublichen + Findet Nemo (Germany) (Disc 2)" id="4735">
+		<category>Games</category>
+		<description>2 Games in 1 - Die Unglaublichen + Findet Nemo (Germany) (Disc 2)</description>
+		<serial>DL-DOL-GU2D-1-NOE</serial>
+		<rom name="2 Games in 1 - Die Unglaublichen + Findet Nemo (Germany) (Disc 2).iso" size="1459978240" crc="e5d67d74" md5="c1ae965be09edfe7733351da3ac5f02b" sha1="6a4356967af7bb6b2012a5dfd25de0ccf637c531"/>
+	</game>
+	<game name="2 Games in 1 - Les Indestructibles + Le Monde de Nemo (France) (Disc 1) (Les Indestructibles)" id="24105">
+		<category>Games</category>
+		<description>2 Games in 1 - Les Indestructibles + Le Monde de Nemo (France) (Disc 1) (Les Indestructibles)</description>
+		<serial>DL-DOL-GU2F-0-FRA</serial>
+		<rom name="2 Games in 1 - Les Indestructibles + Le Monde de Nemo (France) (Disc 1) (Les Indestructibles).iso" size="1459978240" crc="6a6e66ee" md5="4e51d0bec2705a23b61284e4bc338ff9" sha1="683a5dd7d75a4c5c4f966dce6ec274da492bdfc5"/>
+	</game>
+	<game name="2 Games in 1 - Les Indestructibles + Le Monde de Nemo (France) (Disc 2) (Le Monde de Nemo)" id="24106">
+		<category>Games</category>
+		<description>2 Games in 1 - Les Indestructibles + Le Monde de Nemo (France) (Disc 2) (Le Monde de Nemo)</description>
+		<serial>DL-DOL-GU2F-1-FRA</serial>
+		<rom name="2 Games in 1 - Les Indestructibles + Le Monde de Nemo (France) (Disc 2) (Le Monde de Nemo).iso" size="1459978240" crc="f957ee96" md5="2aff07d9d37a3acd0e4d9d1021f944a1" sha1="dd2b753bbe3ec69ce743692ce35ad6941bf3eda6"/>
 	</game>
 	<game name="2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon Tak 2 - Der Stab der Traume (Germany) (Disc 1)" id="4732">
 		<category>Games</category>

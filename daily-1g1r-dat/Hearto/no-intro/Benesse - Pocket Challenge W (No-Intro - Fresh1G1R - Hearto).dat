@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Benesse - Pocket Challenge W (Retool)</name>
-		<description>Benesse - Pocket Challenge W (34) (-y) [-aAbBcefkmMoprv] (20241116-140635) (Retool)</description>
-		<version>20241116-140635</version>
-		<date>2026-08-31 08-33-08</date>
-		<author>Gefflon, Hiccup, Icyelut, psykopat, rarenight, relax, SonGoku, UnlockerPT, xuom2</author>
+		<description>Benesse - Pocket Challenge W (34) (-y) [-aAbBcefkmMoprv] (20260831-094334) (Retool)</description>
+		<version>20260831-094334</version>
+		<date>2026-09-01 07-39-11</date>
+		<author>1988reload, Gefflon, Hiccup, Icyelut, psykopat, rarenight, relax, SonGoku, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -75,7 +75,7 @@
 		<category>Games</category>
 		<description>Shinkenzemi Chuugaku Kouza - Chuu 1 Suugaku (Japan) (1BM111)</description>
 		<game_id>1BM111</game_id>
-		<rom name="Shinkenzemi Chuugaku Kouza - Chuu 1 Suugaku (Japan) (1BM111).pcw" size="2097152" crc="5db9b999" md5="6cf2cbe32d5409c802b91ed59a63c069" sha1="57545c3fd0533fced5a2c371d0dc957452695a67"/>
+		<rom name="Shinkenzemi Chuugaku Kouza - Chuu 1 Suugaku (Japan) (1BM111).pcw" size="2097152" crc="5db9b999" md5="6cf2cbe32d5409c802b91ed59a63c069" sha1="57545c3fd0533fced5a2c371d0dc957452695a67" sha256="a4d19e6beaf377c77b0da2aee0b414f5303a22b8ebc62a7ffe94d7b8928bab53"/>
 	</game>
 	<game name="Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (0BB215OW - 7BB215OW)" id="0078">
 		<category>Games</category>
@@ -117,7 +117,7 @@
 		<category>Games</category>
 		<description>Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu (Japan) (1BK401)</description>
 		<game_id>1BK401</game_id>
-		<rom name="Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu (Japan) (1BK401).pcw" size="4194304" crc="b0444c88" md5="98217fe8495f84af98265857d52f77bc" sha1="e2eb6c6eca3c489d230f7fbff5b9c5bc3758fc00"/>
+		<rom name="Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu (Japan) (1BK401).pcw" size="4194304" crc="b0444c88" md5="98217fe8495f84af98265857d52f77bc" sha1="e2eb6c6eca3c489d230f7fbff5b9c5bc3758fc00" sha256="23f7749e08b1d07dc0eba22a2cdccd128234a8c66688a21cd4931acaaebc1740"/>
 	</game>
 	<game name="Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (0BE310 - 7BE310)" id="0024">
 		<category>Games</category>

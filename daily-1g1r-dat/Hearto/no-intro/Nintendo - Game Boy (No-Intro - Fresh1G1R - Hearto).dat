@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (1,128) (-y) [-aAbBcefkmMoprv] (20260828-172824) (Retool)</description>
-		<version>20260828-172824</version>
-		<date>2026-08-31 08-32-56</date>
+		<description>Nintendo - Game Boy (1,129) (-y) [-aAbBcefkmMoprv] (20260831-163205) (Retool)</description>
+		<version>20260831-163205</version>
+		<date>2026-09-01 07-40-36</date>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -546,6 +546,11 @@
 		<category>Games</category>
 		<description>Bishoujo Senshi Sailor Moon R (Japan)</description>
 		<rom name="Bishoujo Senshi Sailor Moon R (Japan).gb" size="262144" crc="ea759875" md5="84634fb36156bb1b9e54bc62fbaf3525" sha1="959f384998c43072ca154e531917e9aaa80a694d" sha256="493d372b9bbe9bb10fea0635298f43effc6fa9ecc58b2b97598a07f93a1e83d7"/>
+	</game>
+	<game name="Bitamina Oukoku Monogatari (Japan)" id="1476">
+		<category>Games</category>
+		<description>Bitamina Oukoku Monogatari (Japan)</description>
+		<rom name="Bitamina Oukoku Monogatari (Japan).gb" size="262144" crc="89a7aeca" md5="d3d63bf466e63af0601016f87ffc3ee2" sha1="d4195257a2debe78aa4dd433a324aec335ad36d1" sha256="2c4fd2c2f08d19f256b836623ca7da8489d36b673d3fbf81fe954b6396b3fad0"/>
 	</game>
 	<game name="Black Bass - Lure Fishing (USA)" id="0137">
 		<category>Games</category>
@@ -1462,7 +1467,7 @@
 	<game name="Fastest Lap (USA)" id="1670">
 		<category>Games</category>
 		<description>Fastest Lap (USA)</description>
-		<rom name="Fastest Lap (USA).gb" size="131072" crc="a9ba7875" md5="ef2f6c817d762dab848362c4cf7c1c32" sha1="25bf89b112c9b134b2e4d07354d1a762ab0d4e92"/>
+		<rom name="Fastest Lap (USA).gb" size="131072" crc="a9ba7875" md5="ef2f6c817d762dab848362c4cf7c1c32" sha1="25bf89b112c9b134b2e4d07354d1a762ab0d4e92" sha256="4e6aba29aa4d30e1437aefe4995839231843e255c4dd1db6a3cf21a2722a3e1d"/>
 	</game>
 	<game name="Felix the Cat (USA, Europe)" id="0375">
 		<category>Games</category>
@@ -2572,7 +2577,7 @@
 	<game name="Klustar (Europe) (Proto)" id="1763">
 		<category>Preproduction</category>
 		<description>Klustar (Europe) (Proto)</description>
-		<rom name="Klustar (Europe) (Proto).gb" size="32768" crc="279dd6cc" md5="909d684debea0c9fb04435178c55ced7" sha1="6a5e51bfb4d989fb31f5ed6572d08e5a8b703a8d"/>
+		<rom name="Klustar (Europe) (Proto).gb" size="32768" crc="279dd6cc" md5="909d684debea0c9fb04435178c55ced7" sha1="6a5e51bfb4d989fb31f5ed6572d08e5a8b703a8d" sha256="a57535bd6fb14c63b92ee4b062c7dd92f8c0dbe90091a884816e503f1976c265"/>
 	</game>
 	<game name="Knight Quest (USA)" id="0660">
 		<category>Games</category>
@@ -4149,7 +4154,7 @@
 	<game name="Rap Quest (USA) (Proto)" id="1727">
 		<category>Preproduction</category>
 		<description>Rap Quest (USA) (Proto)</description>
-		<rom name="Rap Quest (USA) (Proto).gb" size="131072" crc="37de1978" md5="5a11855f9184ab27fa8127f2effc9950" sha1="7f9a253ae9fd283c94181483b0b8d2db60f6cc66"/>
+		<rom name="Rap Quest (USA) (Proto).gb" size="131072" crc="37de1978" md5="5a11855f9184ab27fa8127f2effc9950" sha1="7f9a253ae9fd283c94181483b0b8d2db60f6cc66" sha256="2891674fed48ce65263798294fcb87d0d4dfcc56998203394ec1ad2466afadb4"/>
 	</game>
 	<game name="Ray-Thunder (Japan)" id="1113">
 		<category>Games</category>
@@ -4359,7 +4364,7 @@
 	<game name="Sarakon (Europe) (Proto)" id="1696">
 		<category>Preproduction</category>
 		<description>Sarakon (Europe) (Proto)</description>
-		<rom name="Sarakon (Europe) (Proto).gb" size="131072" crc="c8c5f76f" md5="5b52c57d9cffe2ada5fadb5ae841faea" sha1="09c0795e45b84e9d8d017d7d38f4806422d6ea23"/>
+		<rom name="Sarakon (Europe) (Proto).gb" size="131072" crc="c8c5f76f" md5="5b52c57d9cffe2ada5fadb5ae841faea" sha1="09c0795e45b84e9d8d017d7d38f4806422d6ea23" sha256="d2265d5b95bdf573d7ccff0914bef88c256d01c54bca1b28d6245cecbeb23e37"/>
 	</game>
 	<game name="Scotland Yard (Japan)" id="1171">
 		<category>Games</category>

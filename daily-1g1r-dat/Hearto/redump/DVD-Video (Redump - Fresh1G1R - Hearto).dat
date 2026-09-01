@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (465) (-y) [-aAbBcefkmMoprv] (2026-08-31 08-09-02) (Retool)</description>
-		<version>2026-08-31 08-09-02</version>
-		<date>2026-08-31 08-24-19</date>
+		<description>DVD-Video (465) (-y) [-aAbBcefkmMoprv] (2026-09-01 05-29-02) (Retool)</description>
+		<version>2026-09-01 05-29-02</version>
+		<date>2026-09-01 07-33-48</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1166,11 +1166,6 @@
 		<description>Nickelodeon SpongeBob SquarePants - Fact or Fishy - Trivia with Attitude! (USA)</description>
 		<rom name="Nickelodeon SpongeBob SquarePants - Fact or Fishy - Trivia with Attitude! (USA).iso" size="8127006720" crc="fb96ce74" md5="ada3dbfbc24a6fab06ac7eb6cc8252ea" sha1="b1924621d0ae851d3efe9a819c34de846c354b7c"/>
 	</game>
-	<game name="Nickelodeon The Penguins of Madagascar DreamWorks (USA) (En,Fr,Es)" id="100901">
-		<category>Demos</category>
-		<description>Nickelodeon The Penguins of Madagascar DreamWorks (USA) (En,Fr,Es)</description>
-		<rom name="Nickelodeon The Penguins of Madagascar DreamWorks (USA) (En,Fr,Es).iso" size="2670546944" crc="27bae74d" md5="7d0a448787ef916cc1b3aae1b04e7a87" sha1="3481dff639b0c51584a1c3a1dcb4467d00c8cb01"/>
-	</game>
 	<game name="Nickelodeon The SpongeBob SquarePants Movie (USA) (En,Fr,Es) (Fullscreen)" id="132242">
 		<category>Demos</category>
 		<description>Nickelodeon The SpongeBob SquarePants Movie (USA) (En,Fr,Es) (Fullscreen)</description>
@@ -1280,6 +1275,11 @@
 		<category>Games</category>
 		<description>Penalty Shootout (UK)</description>
 		<rom name="Penalty Shootout (UK).iso" size="164102144" crc="5c8eee63" md5="3c0edff4166dfe34c32bf36c6964b5b1" sha1="bdc9f5c5a6b396239b0aca80880959efb78426b6"/>
+	</game>
+	<game name="Penguins of Madagascar, The (USA) (En,Fr,Es)" id="100901">
+		<category>Demos</category>
+		<description>Penguins of Madagascar, The (USA) (En,Fr,Es)</description>
+		<rom name="Penguins of Madagascar, The (USA) (En,Fr,Es).iso" size="2670546944" crc="27bae74d" md5="7d0a448787ef916cc1b3aae1b04e7a87" sha1="3481dff639b0c51584a1c3a1dcb4467d00c8cb01"/>
 	</game>
 	<game name="Pepsi Chart - Music Quiz (UK)" id="134247">
 		<category>Games</category>

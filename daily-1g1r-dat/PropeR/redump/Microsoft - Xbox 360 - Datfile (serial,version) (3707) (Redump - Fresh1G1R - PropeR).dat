@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,567) (-y) [-aAbBcdkmMpPuv] (2026-08-30 14-20-37) (Retool)</description>
-		<version>2026-08-30 14-20-37</version>
-		<date>2026-08-31 08-46-18</date>
+		<description>Microsoft - Xbox 360 (1,568) (-y) [-aAbBcdkmMpPuv] (2026-09-01 00-09-02) (Retool)</description>
+		<version>2026-09-01 00-09-02</version>
+		<date>2026-09-01 07-56-33</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3538,17 +3538,23 @@
 		<serial>MS-2598</serial>
 		<rom name="Gears of War - Judgment (USA, Europe) (En,Fr,Es,Nl,No,Da,Fi,Zh,Ko,Pl,Cs,Hu).iso" size="8738846720" crc="7c8f2095" md5="1afa75ce6573ee5fe9ddc8acb14b2b5b" sha1="4a4e03239858bf71ca219c4d610deee10c390533"/>
 	</game>
+	<game name="Gears of War 2 (Japan) (En,Ja) (Limited Edition Bonus Disc)" id="91269">
+		<category>Bonus Discs</category>
+		<description>Gears of War 2 (Japan) (En,Ja) (Limited Edition Bonus Disc)</description>
+		<serial>MS-2260</serial>
+		<rom name="Gears of War 2 (Japan) (En,Ja) (Limited Edition Bonus Disc).iso" size="7838695424" crc="60dae6e9" md5="ec530a7fc881c65d576b949a194a7c2e" sha1="e692c9e35f045b188d94aef88fe70ab9433b0cc0"/>
+	</game>
 	<game name="Gears of War 2 (USA, Canada) (En,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu)" id="12491">
 		<category>Games</category>
 		<description>Gears of War 2 (USA, Canada) (En,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu)</description>
 		<serial>MS-2093</serial>
 		<rom name="Gears of War 2 (USA, Canada) (En,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu).iso" size="7835492352" crc="40aa5253" md5="efd6aab7725e3978cefac76dbb14f9b2" sha1="e9f08fb2b77d9fa290a1c6ee3b4e0c52f4f688e4"/>
 	</game>
-	<game name="Gears of War 2 (USA, Europe) (En,Fr,De,Es,It) (Limited Edition Bonus Disc)" id="87938">
+	<game name="Gears of War 2 - Limited Edition Bonus Disc (USA, Europe) (En,Fr,De,Es,It) (Xbox 360 Game Bundle)" id="87938">
 		<category>Bonus Discs</category>
-		<description>Gears of War 2 (USA, Europe) (En,Fr,De,Es,It) (Limited Edition Bonus Disc)</description>
+		<description>Gears of War 2 - Limited Edition Bonus Disc (USA, Europe) (En,Fr,De,Es,It) (Xbox 360 Game Bundle)</description>
 		<serial>MS-2166</serial>
-		<rom name="Gears of War 2 (USA, Europe) (En,Fr,De,Es,It) (Limited Edition Bonus Disc).iso" size="7835492352" crc="1b738df2" md5="fd32db4c8612d605890c810d2400ab5f" sha1="3fa4f3871c53847abc19bd91f129b591a30a5aba"/>
+		<rom name="Gears of War 2 - Limited Edition Bonus Disc (USA, Europe) (En,Fr,De,Es,It) (Xbox 360 Game Bundle).iso" size="7835492352" crc="1b738df2" md5="fd32db4c8612d605890c810d2400ab5f" sha1="3fa4f3871c53847abc19bd91f129b591a30a5aba"/>
 	</game>
 	<game name="Gears of War 3 (World) (En,Fr,Pt,Zh,Ko,Pl,Ru,Cs,Hu)" id="55016">
 		<category>Games</category>

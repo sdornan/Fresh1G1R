@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,700) (-y) [-aAbBcefkmMoprv] (2026-08-31 07-59-02) (Retool)</description>
-		<version>2026-08-31 07-59-02</version>
-		<date>2026-08-31 08-27-57</date>
+		<description>Sony - PlayStation (5,701) (-y) [-aAbBcefkmMoprv] (2026-09-01 05-50-41) (Retool)</description>
+		<version>2026-09-01 05-50-41</version>
+		<date>2026-09-01 07-37-34</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5073,6 +5073,13 @@
 		<serial>SLUS-00968</serial>
 		<rom name="BoomBots (USA).bin" size="341849088" crc="779b9bd7" md5="0f32f104a3715ecbf2d86f26a21eb918" sha1="3595f6be1aedb62e246707aaa4fafed50c20b0c8"/>
 		<rom name="BoomBots (USA).cue" size="80" crc="388cd8ff" md5="289d27a39463be9508f9c71e6677fca4" sha1="38380ccab524396ebeb23dd99914a89f6f971f31"/>
+	</game>
+	<game name="Bottega dei Giochi - A Bug's Life - Megaminimondo (Italy)" id="45994">
+		<category>Games</category>
+		<description>Bottega dei Giochi - A Bug's Life - Megaminimondo (Italy)</description>
+		<serial>SCES-02461</serial>
+		<rom name="Bottega dei Giochi - A Bug's Life - Megaminimondo (Italy).bin" size="286781712" crc="d2743551" md5="1cb34798ef641375964a617a325d2f40" sha1="658eb53b301f519fb03590728d180d6c7946cbaf"/>
+		<rom name="Bottega dei Giochi - A Bug's Life - Megaminimondo (Italy).cue" size="123" crc="09f5d542" md5="5349365e2c12edab1353a00ac29bc26e" sha1="9949c95d98852ba5714079425d17a87990462c4d"/>
 	</game>
 	<game name="Bottom of the 9th '97 (USA)" id="15416">
 		<category>Games</category>
@@ -12529,27 +12536,6 @@
 		<rom name="E3 Demo 2002 (Europe) (Track 6).bin" size="32474064" crc="9ec0e731" md5="c41371a0a2913ed6ea1cbb99d8092800" sha1="88aa669545d4b2a14e14bbbf78bcff4305d8141c"/>
 		<rom name="E3 Demo 2002 (Europe) (Track 7).bin" size="32356464" crc="f6f33c3b" md5="f69392e9568b55dc52d1aebb900c2a61" sha1="0fd16cbb03e546647dee93fdd2a62a916efbcac6"/>
 		<rom name="E3 Demo 2002 (Europe).cue" size="787" crc="583e8f66" md5="19294338b3f03d82a4fa473b3e6648e9" sha1="2a1f4a71af5d2c7a78a80385a21d58f1482b15d7"/>
-	</game>
-	<game name="EA Sports Superbike 2000 (USA)" id="15529">
-		<category>Games</category>
-		<description>EA Sports Superbike 2000 (USA)</description>
-		<serial>SLUS-01052</serial>
-		<rom name="EA Sports Superbike 2000 (USA).bin" size="734696592" crc="78977caf" md5="0b4561c58e916c53a87684f554f76d4c" sha1="cdf1f91db5daf69397ed6bfb6354450386484e1c"/>
-		<rom name="EA Sports Superbike 2000 (USA).cue" size="96" crc="623bf4f5" md5="ccde2737314252988f6c35ac6f55ead3" sha1="886064712364fdecf4e24e302e0fee143cc0cef8"/>
-	</game>
-	<game name="EA Sports Supercross (USA)" id="15516">
-		<category>Games</category>
-		<description>EA Sports Supercross (USA)</description>
-		<serial>SLUS-01319</serial>
-		<rom name="EA Sports Supercross (USA).bin" size="335479872" crc="cab6a003" md5="6dbe8fd207bf8d427efaf9cb8110b0f9" sha1="77370bf7894b23e56a80d822ad4350bfcfda0f0a"/>
-		<rom name="EA Sports Supercross (USA).cue" size="92" crc="bff40d99" md5="2f6d4929212cac866d5cbf4883b051bc" sha1="e7332c41b5378a921c2209e0cd73b971a5ecfbe0"/>
-	</game>
-	<game name="EA Sports Supercross 2000 (USA)" id="11132">
-		<category>Games</category>
-		<description>EA Sports Supercross 2000 (USA)</description>
-		<serial>SLUS-01005</serial>
-		<rom name="EA Sports Supercross 2000 (USA).bin" size="177079728" crc="9101c3a1" md5="834bb5caa2b88e690c93a43dc80c9d63" sha1="8f1993f639c0f660bd6a0960353a588f8cf56bc4"/>
-		<rom name="EA Sports Supercross 2000 (USA).cue" size="97" crc="4671e5a9" md5="1c70925035fd1ca2d5f5a3d493f360d8" sha1="c98c7af531795f4cfeee330eb8d0f49ab483593f"/>
 	</game>
 	<game name="ECW Anarchy Rulz (USA)" id="13335">
 		<category>Games</category>
@@ -50880,6 +50866,13 @@
 		<rom name="SuperLite Gold Series - Otenami Haiken (Japan).bin" size="67620000" crc="73b318cc" md5="c902f0e62abd77c2224eef1f201c86f4" sha1="be94109b8764aac72a9acef3ef5237dc4a07f22a"/>
 		<rom name="SuperLite Gold Series - Otenami Haiken (Japan).cue" size="112" crc="3a97671b" md5="fa868cc11efb783c23ff5774f8b10537" sha1="84a4995d1428ca4ba764aff3563f13e9fa9ebcfb"/>
 	</game>
+	<game name="Superbike 2000 (USA)" id="15529">
+		<category>Games</category>
+		<description>Superbike 2000 (USA)</description>
+		<serial>SLUS-01052</serial>
+		<rom name="Superbike 2000 (USA).bin" size="734696592" crc="78977caf" md5="0b4561c58e916c53a87684f554f76d4c" sha1="cdf1f91db5daf69397ed6bfb6354450386484e1c"/>
+		<rom name="Superbike 2000 (USA).cue" size="86" crc="07414c98" md5="75f74157b1406dbb0128832160b86baa" sha1="6d4ceeedaf98b739cf072c58d0f3202b819a76f1"/>
+	</game>
 	<game name="Superbike Masters (Europe)" id="31320">
 		<category>Games</category>
 		<description>Superbike Masters (Europe)</description>
@@ -50897,6 +50890,20 @@
 		<rom name="Superbike Masters (Europe) (Track 11).bin" size="85024800" crc="e5eb9507" md5="0a4c5d00fa2db63c25f76906a9a35794" sha1="b1399d076856470846830c6b9e85a68f53049d9a"/>
 		<rom name="Superbike Masters (Europe) (Track 12).bin" size="32302368" crc="e6ce5ea3" md5="afadcd27514f92953a2a00448cab31a4" sha1="461cd8a7f61a6b36745fd827ffe8696dd75ad742"/>
 		<rom name="Superbike Masters (Europe).cue" size="1434" crc="be4cdceb" md5="35f5e71dfb0e660d72b42277c16644d4" sha1="75b479d32a9b1d62fa35153ee36de2b4b4df862e"/>
+	</game>
+	<game name="Supercross (USA)" id="15516">
+		<category>Games</category>
+		<description>Supercross (USA)</description>
+		<serial>SLUS-01319</serial>
+		<rom name="Supercross (USA).bin" size="335479872" crc="cab6a003" md5="6dbe8fd207bf8d427efaf9cb8110b0f9" sha1="77370bf7894b23e56a80d822ad4350bfcfda0f0a"/>
+		<rom name="Supercross (USA).cue" size="82" crc="a956dabf" md5="975e6298f71cec2462443bea3f4dfd66" sha1="1c736727c5fd15660e5336756d1ce7c15026ba4e"/>
+	</game>
+	<game name="Supercross 2000 (USA)" id="11132">
+		<category>Games</category>
+		<description>Supercross 2000 (USA)</description>
+		<serial>SLUS-01005</serial>
+		<rom name="Supercross 2000 (USA).bin" size="177079728" crc="9101c3a1" md5="834bb5caa2b88e690c93a43dc80c9d63" sha1="8f1993f639c0f660bd6a0960353a588f8cf56bc4"/>
+		<rom name="Supercross 2000 (USA).cue" size="87" crc="751782f4" md5="894a51e97ad0ad457dee074c21dbda7b" sha1="a4fa3f123b2b788bd82d5a2fb977ab592186e00d"/>
 	</game>
 	<game name="Superman (USA) (Proto) (1999-10-29)" id="56036">
 		<category>Preproduction</category>

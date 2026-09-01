@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,468) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-31 08-19-02) (Retool)</description>
-		<version>2026-08-31 08-19-02</version>
-		<date>2026-08-31 08-35-25</date>
+		<description>IBM - PC compatible (13,470) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-01 05-59-02) (Retool)</description>
+		<version>2026-09-01 05-59-02</version>
+		<date>2026-09-01 07-45-21</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -21673,36 +21673,6 @@
 		<rom name="Disney Presents Piglet's Big Game (USA).bin" size="720231792" crc="677f4897" md5="51b241ece7e2fed7582627e82135632c" sha1="2f00cc3820fffa56cfb3eda6cea555fe804fccdc"/>
 		<rom name="Disney Presents Piglet's Big Game (USA).cue" size="105" crc="60ff7030" md5="777321e0a9bea536827c729592d3e771" sha1="93d1a2d22ebbb2ee5fa5d2b9ab286413562dce50"/>
 	</game>
-	<game name="Disney Presents a Pixar Film - The Incredibles (UK) (Disc 1) (Install)" id="114990">
-		<category>Games</category>
-		<description>Disney Presents a Pixar Film - The Incredibles (UK) (Disc 1) (Install)</description>
-		<rom name="Disney Presents a Pixar Film - The Incredibles (UK) (Disc 1) (Install).bin" size="810423936" crc="b5856c46" md5="ab295698cf38edaaa9c543737924718d" sha1="2eaa884b37cc08ea334108f09bf0cd59549500ea"/>
-		<rom name="Disney Presents a Pixar Film - The Incredibles (UK) (Disc 1) (Install).cue" size="136" crc="7a4d66c8" md5="5c8d76cfecba31444284c4493412439f" sha1="ef6b077cd9df9cc531f3ce0a059c7c852d125c28"/>
-	</game>
-	<game name="Disney Presents a Pixar Film - The Incredibles (UK) (Disc 2) (Play)" id="114991">
-		<category>Games</category>
-		<description>Disney Presents a Pixar Film - The Incredibles (UK) (Disc 2) (Play)</description>
-		<rom name="Disney Presents a Pixar Film - The Incredibles (UK) (Disc 2) (Play).bin" size="612263232" crc="6c4a54eb" md5="f5206a3f4e1717b0754345056af4ce7d" sha1="141b3038c7f678b94a1665637e09d4c54f0ca9d8"/>
-		<rom name="Disney Presents a Pixar Film - The Incredibles (UK) (Disc 2) (Play).cue" size="133" crc="9bf43e1f" md5="2e40e2fe92b445fb32b883c754a30960" sha1="c1c5f90af2d47123ee1ce868fad0bfaa152872d8"/>
-	</game>
-	<game name="Disney Presents a Pixar Film - The Incredibles (USA) (Disc 2)" id="61198">
-		<category>Games</category>
-		<description>Disney Presents a Pixar Film - The Incredibles (USA) (Disc 2)</description>
-		<rom name="Disney Presents a Pixar Film - The Incredibles (USA) (Disc 2).bin" size="612263232" crc="c221c8d2" md5="b3c97f986085b50c49f66b6fdf9ab5f6" sha1="dcfe5bb41b9fd285e73d9e44b4927cc6be17d261"/>
-		<rom name="Disney Presents a Pixar Film - The Incredibles (USA) (Disc 2).cue" size="127" crc="c15321c9" md5="db8b57372f1567172b4aa2794a591ac8" sha1="ab8a61b3dfc0d7d7cacc802624a4bdf4fbdce2af"/>
-	</game>
-	<game name="Disney Presents a Pixar Film - The Incredibles (USA, Australia) (Disc 1)" id="61199">
-		<category>Games</category>
-		<description>Disney Presents a Pixar Film - The Incredibles (USA, Australia) (Disc 1)</description>
-		<rom name="Disney Presents a Pixar Film - The Incredibles (USA, Australia) (Disc 1).bin" size="763343952" crc="aad64e25" md5="73c370af252cb98ac722ed04c73f60ac" sha1="03ac779f8e1bd35cc9d1c8051d8b2337183e583e"/>
-		<rom name="Disney Presents a Pixar Film - The Incredibles (USA, Australia) (Disc 1).cue" size="138" crc="a21d5dda" md5="fe882d76ccb2ab7890344bbceabb492e" sha1="79252057262c91d294372f6fc5771b5b0adf7e6b"/>
-	</game>
-	<game name="Disney Presents a Pixar Film - The Incredibles - When Danger Calls (USA)" id="59470">
-		<category>Games</category>
-		<description>Disney Presents a Pixar Film - The Incredibles - When Danger Calls (USA)</description>
-		<rom name="Disney Presents a Pixar Film - The Incredibles - When Danger Calls (USA).bin" size="589636992" crc="99939be5" md5="3e2a011005ce2514ae65e53910cce5da" sha1="ae35e0faaebc894c20333b647cff0d7fe484a16d"/>
-		<rom name="Disney Presents a Pixar Film - The Incredibles - When Danger Calls (USA).cue" size="138" crc="76a6c21e" md5="f52581c64d11532396902dc9c1ad9d47" sha1="dfe8836ca56dd7cf43a468aa05c67dce6542afce"/>
-	</game>
 	<game name="Disney Princess (Scandinavia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="133618">
 		<category>Games</category>
 		<description>Disney Princess (Scandinavia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
@@ -40337,6 +40307,36 @@
 		<rom name="Incredible Toon Machine, The (USA) (Track 24).bin" size="23964528" crc="a555bb1d" md5="d1e3e621866b57d3cc6287c944f9a234" sha1="58cc97f1a812eeff902ce5fa460aa6e14878525b"/>
 		<rom name="Incredible Toon Machine, The (USA) (Track 25).bin" size="23679936" crc="091433b1" md5="9ecf126396e0f65a6fed125271cdc7ed" sha1="5afd59af39ab5895e4ea0dc44e29786b8a42de8b"/>
 		<rom name="Incredible Toon Machine, The (USA).cue" size="3184" crc="1af38ae1" md5="a4ca8e89efbe478908d152c3ebb6dbe5" sha1="d98fad3a3a0146ba12bd7d657324bf44df8f1e48"/>
+	</game>
+	<game name="Incredibles, The (UK) (Disc 1) (Install)" id="114990">
+		<category>Games</category>
+		<description>Incredibles, The (UK) (Disc 1) (Install)</description>
+		<rom name="Incredibles, The (UK) (Disc 1) (Install).bin" size="810423936" crc="b5856c46" md5="ab295698cf38edaaa9c543737924718d" sha1="2eaa884b37cc08ea334108f09bf0cd59549500ea"/>
+		<rom name="Incredibles, The (UK) (Disc 1) (Install).cue" size="106" crc="d769f558" md5="74a893d664c01e7cd4e5121a53117712" sha1="245b9fb1ef845da1b38790b292cadec210acdcdf"/>
+	</game>
+	<game name="Incredibles, The (UK) (Disc 2) (Play)" id="114991">
+		<category>Games</category>
+		<description>Incredibles, The (UK) (Disc 2) (Play)</description>
+		<rom name="Incredibles, The (UK) (Disc 2) (Play).bin" size="612263232" crc="6c4a54eb" md5="f5206a3f4e1717b0754345056af4ce7d" sha1="141b3038c7f678b94a1665637e09d4c54f0ca9d8"/>
+		<rom name="Incredibles, The (UK) (Disc 2) (Play).cue" size="103" crc="a393d3d9" md5="0cca2324111592f9faddc8131044dc08" sha1="943b9d2891cfc85d70d7784c8a4ea78772c3ca86"/>
+	</game>
+	<game name="Incredibles, The (USA) (Disc 2)" id="61198">
+		<category>Games</category>
+		<description>Incredibles, The (USA) (Disc 2)</description>
+		<rom name="Incredibles, The (USA) (Disc 2).bin" size="612263232" crc="c221c8d2" md5="b3c97f986085b50c49f66b6fdf9ab5f6" sha1="dcfe5bb41b9fd285e73d9e44b4927cc6be17d261"/>
+		<rom name="Incredibles, The (USA) (Disc 2).cue" size="97" crc="65145fe3" md5="3340fca980ad0689bc43d8aad765697c" sha1="520141da3e648ad789a480c0c5c505a49b8c2b97"/>
+	</game>
+	<game name="Incredibles, The (USA, Australia) (Disc 1)" id="61199">
+		<category>Games</category>
+		<description>Incredibles, The (USA, Australia) (Disc 1)</description>
+		<rom name="Incredibles, The (USA, Australia) (Disc 1).bin" size="763343952" crc="aad64e25" md5="73c370af252cb98ac722ed04c73f60ac" sha1="03ac779f8e1bd35cc9d1c8051d8b2337183e583e"/>
+		<rom name="Incredibles, The (USA, Australia) (Disc 1).cue" size="108" crc="ba5ab81a" md5="3c4499e01a624542e55b65fe5591c2c3" sha1="8cff6976aa2fa2f2e5eacf71682f19526a93713c"/>
+	</game>
+	<game name="Incredibles, The - When Danger Calls (USA)" id="59470">
+		<category>Games</category>
+		<description>Incredibles, The - When Danger Calls (USA)</description>
+		<rom name="Incredibles, The - When Danger Calls (USA).bin" size="589636992" crc="99939be5" md5="3e2a011005ce2514ae65e53910cce5da" sha1="ae35e0faaebc894c20333b647cff0d7fe484a16d"/>
+		<rom name="Incredibles, The - When Danger Calls (USA).cue" size="108" crc="6ee127de" md5="4322edc7f4cad3a19a0c4b6f6652e420" sha1="308afcec42dffebba288ae56932f56f70ae6c271"/>
 	</game>
 	<game name="Incubation - Battle Isle Phase Four (Europe)" id="52352">
 		<category>Games</category>
@@ -71994,6 +71994,11 @@
 		<rom name="Settlers IV, The - Gold Edition (UK) (Disc 2).bin" size="788886672" crc="2db7ce1d" md5="434da585ee2620643621fc1851d3a605" sha1="d1127148b49e47b842d4c8d3c4322ff3b2fa8f19"/>
 		<rom name="Settlers IV, The - Gold Edition (UK) (Disc 2).cue" size="111" crc="bb97c606" md5="0dd0c189e4aca02b17b59fb8f087211b" sha1="44ca839477574d187df47ebe2ca0ba954557e600"/>
 	</game>
+	<game name="Settlers Online, The (Europe) (En,Fr,De,Pl)" id="137794">
+		<category>Games</category>
+		<description>Settlers Online, The (Europe) (En,Fr,De,Pl)</description>
+		<rom name="Settlers Online, The (Europe) (En,Fr,De,Pl).iso" size="2686517248" crc="0cec26b6" md5="7e19d4de068bf074c632fa6db80ba1bf" sha1="fa9acd3485601c734a1bed85fc1890f4451708f0"/>
+	</game>
 	<game name="Settlers, The (Europe) (Rerelease)" id="38416">
 		<category>Games</category>
 		<description>Settlers, The (Europe) (Rerelease)</description>
@@ -74169,6 +74174,11 @@
 		<description>Simsala Grimm - Het Dappere Snijdertje (Belgium, Netherlands) (En,Nl)</description>
 		<rom name="Simsala Grimm - Het Dappere Snijdertje (Belgium, Netherlands) (En,Nl).bin" size="395277120" crc="570fea96" md5="9df44d851ff8485811ba0c1c78414896" sha1="cd2b8fff848a24c4f5765fcee06fcb9bcb2f8f7e"/>
 		<rom name="Simsala Grimm - Het Dappere Snijdertje (Belgium, Netherlands) (En,Nl).cue" size="135" crc="254df8ea" md5="98b6691adb76b768c4ba4f6363e28ea2" sha1="1639bf03e4d10da0abdfeaacef6accb17aecebf4"/>
+	</game>
+	<game name="Simulator Pack - 10 Games (USA)" id="137807">
+		<category>Games</category>
+		<description>Simulator Pack - 10 Games (USA)</description>
+		<rom name="Simulator Pack - 10 Games (USA).iso" size="5188651008" crc="5fcc3013" md5="b3fc390abf016ec6f4ab9b9f214ed695" sha1="c65d67c0dffde2e22c4f53d556b11aa610cfb012"/>
 	</game>
 	<game name="Sin (USA) (Linux)" id="80721">
 		<category>Games</category>
