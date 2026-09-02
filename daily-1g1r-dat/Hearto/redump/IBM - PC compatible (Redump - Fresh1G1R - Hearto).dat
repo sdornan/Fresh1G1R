@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,027) (-y) [-aAbBcefkmMoprv] (2026-09-01 05-59-02) (Retool)</description>
-		<version>2026-09-01 05-59-02</version>
-		<date>2026-09-01 07-34-48</date>
+		<description>IBM - PC compatible (26,042) (-y) [-aAbBcefkmMoprv] (2026-09-02 02-29-02) (Retool)</description>
+		<version>2026-09-02 02-29-02</version>
+		<date>2026-09-02 07-04-23</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1266,11 +1266,6 @@
 		<description>250 Spiele (Germany) (CD 9 von 15)</description>
 		<rom name="250 Spiele (Germany) (CD 9 von 15).bin" size="833704032" crc="647fd67f" md5="fd303279c196ec546bd50676e79e3e44" sha1="415abddf25466dc163fd6a584305196a128cb5b6"/>
 		<rom name="250 Spiele (Germany) (CD 9 von 15).cue" size="100" crc="864a72a6" md5="c21bdbfc5028af8e0f4c74947776a130" sha1="b6c1924ccd012a31c7279a872d80233321a7f154"/>
-	</game>
-	<game name="2K Sports Major League Baseball 2K9 (USA)" id="59967">
-		<category>Games</category>
-		<description>2K Sports Major League Baseball 2K9 (USA)</description>
-		<rom name="2K Sports Major League Baseball 2K9 (USA).iso" size="6966214656" crc="b6f498b6" md5="416d0842dadea996a07a1ef4b344a237" sha1="081abaf361abaa8822e36402baf1e58002e31976"/>
 	</game>
 	<game name="3 Day Eventing - The Ultimate Riding Adventure (USA)" id="134158">
 		<category>Games</category>
@@ -18974,6 +18969,12 @@
 		<description>Biniku no Kaori - Netori Netorare Yari Yarare (Japan)</description>
 		<rom name="Biniku no Kaori - Netori Netorare Yari Yarare (Japan).iso" size="2261952512" crc="c0e36945" md5="55e6f3eb1dbd9b651e1d7246e516ba82" sha1="2ca019b27044a5362923ff9b11990696a7726b4e"/>
 	</game>
+	<game name="Bio Hazard (Japan)" id="131541">
+		<category>Games</category>
+		<description>Bio Hazard (Japan)</description>
+		<rom name="Bio Hazard (Japan).bin" size="745767456" crc="c27fa704" md5="0d6f9505501ab0992b2ff56c47cd1aac" sha1="bb119b39dab21d45cffb26160fb9015fcd45944b"/>
+		<rom name="Bio Hazard (Japan).cue" size="84" crc="b84faf0b" md5="62a7aa6ee4f277e04ca73209d01df0f1" sha1="b31dbd897a8fa95093bf06b49fbf20719e469b5e"/>
+	</game>
 	<game name="BioBattler (Japan)" id="105503">
 		<category>Games</category>
 		<description>BioBattler (Japan)</description>
@@ -19017,12 +19018,6 @@
 		<category>Games</category>
 		<description>BioShock Infinite (Europe) (En,Ja,Fr,De,Es,It,Pt) (Disc 3)</description>
 		<rom name="BioShock Infinite (Europe) (En,Ja,Fr,De,Es,It,Pt) (Disc 3).iso" size="808583168" crc="655242fb" md5="4d50751b3366303ed914effc04a4800a" sha1="8c7b9f5e26874a62accb710227de77dacb3ef509"/>
-	</game>
-	<game name="Biohazard (Japan)" id="131541">
-		<category>Games</category>
-		<description>Biohazard (Japan)</description>
-		<rom name="Biohazard (Japan).bin" size="745767456" crc="c27fa704" md5="0d6f9505501ab0992b2ff56c47cd1aac" sha1="bb119b39dab21d45cffb26160fb9015fcd45944b"/>
-		<rom name="Biohazard (Japan).cue" size="83" crc="8d2190c4" md5="0723add8e723fdaa05de06b52c950fa1" sha1="ac30cba84535683e5f66da49547f5ceef5c28702"/>
 	</game>
 	<game name="Biohazard - Gun Survivor (Taiwan)" id="9576">
 		<category>Games</category>
@@ -25178,18 +25173,6 @@
 		<description>Cartoon Network Power Pack (UK) (Power Pack 2) (Side A)</description>
 		<rom name="Cartoon Network Power Pack (UK) (Power Pack 2) (Side A).iso" size="83197952" crc="02939a7c" md5="5553b935bb9cb2f860e0b2d4eeef11b7" sha1="dcaf6e2358dd6fc64b4c29d828a44be50c637f75"/>
 	</game>
-	<game name="Cartoon Network Scooby-Doo! Activity Challenge (USA)" id="60175">
-		<category>Games</category>
-		<description>Cartoon Network Scooby-Doo! Activity Challenge (USA)</description>
-		<rom name="Cartoon Network Scooby-Doo! Activity Challenge (USA).bin" size="266451024" crc="cf287130" md5="c56237e272ec806fb6d33b19cd6215f9" sha1="da1fb65091b4a08e921de67b2cfe4eeebccd33a8"/>
-		<rom name="Cartoon Network Scooby-Doo! Activity Challenge (USA).cue" size="118" crc="c0f9789e" md5="3945e74bbf1cf1248900819e9ad552c0" sha1="7ceb1fd39c2bcbdf32dc4b616c0f3e2f061f9c04"/>
-	</game>
-	<game name="Cartoon Network Scooby-Doo! Showdown in Ghost Town (USA)" id="56764">
-		<category>Games</category>
-		<description>Cartoon Network Scooby-Doo! Showdown in Ghost Town (USA)</description>
-		<rom name="Cartoon Network Scooby-Doo! Showdown in Ghost Town (USA).bin" size="731072160" crc="cb1a3ac0" md5="b17b5689ccd4cdb8f639561224f53865" sha1="456bfb5baf6b2368a9c65d8ff042cb2b404e40b6"/>
-		<rom name="Cartoon Network Scooby-Doo! Showdown in Ghost Town (USA).cue" size="122" crc="5b4f9d3d" md5="f34e6029cdcdad62f9dae2ef18fec664" sha1="2bd2e648d11e1c6a7875c9e8e100e6bb4f66c090"/>
-	</game>
 	<game name="Cartoon Network Universe - FusionFall (USA)" id="90899">
 		<category>Games</category>
 		<description>Cartoon Network Universe - FusionFall (USA)</description>
@@ -26832,6 +26815,12 @@
 		<description>Chessmaster 4000 Turbo, The (Europe)</description>
 		<rom name="Chessmaster 4000 Turbo, The (Europe).bin" size="676922064" crc="b4f77825" md5="6f0ddd572f543485b80d5c2d8f8cf45c" sha1="257c77b3180fc7135bc4a69c19264a171a259d59"/>
 		<rom name="Chessmaster 4000 Turbo, The (Europe).cue" size="125" crc="6e4ce30d" md5="2e170376a30da60764a9bfd6218dd207" sha1="d3b961fb789eb9f760c6846771334604ea731e73"/>
+	</game>
+	<game name="Chessmaster 4000, The (USA)" id="137832">
+		<category>Games</category>
+		<description>Chessmaster 4000, The (USA)</description>
+		<rom name="Chessmaster 4000, The (USA).bin" size="54100704" crc="b5a496b5" md5="5b25a148d71b5324c6bc3994e8603457" sha1="02c9f9d3b444ae2b30577acc9ef18f5f93da2c7b"/>
+		<rom name="Chessmaster 4000, The (USA).cue" size="93" crc="10a47a63" md5="852e0bbc267dce0d990a7eb8d1e4422e" sha1="fff51a20d99c824b6bcfa413b3ad7aebffa63184"/>
 	</game>
 	<game name="Chessmaster 4000, The - Windows 95 Edition (USA)" id="72679">
 		<category>Games</category>
@@ -56494,11 +56483,11 @@
 		<rom name="Flunkerne pa Manen (Denmark).bin" size="431916576" crc="df143bd8" md5="55be1afe9ac1a456e30082b2edd7bdd9" sha1="a9de8c824205ca2c435d1204dd2bd7677fe38df0"/>
 		<rom name="Flunkerne pa Manen (Denmark).cue" size="94" crc="13d1df4c" md5="a9ba59d7a40f8555fb19f4bbd29e82e1" sha1="350f369ad09f106360bfd2460b0b430e3a4c71f5"/>
 	</game>
-	<game name="Flux Family Secrets - The Ripple Effect &amp; Flux Family Secrets - The Rabbit Hole (USA)" id="82993">
+	<game name="Flux Family Secrets - The Ripple Effect &amp; Flux Family Secrets - The Rabbit Hole (USA) (Rev 1)" id="82993">
 		<category>Games</category>
-		<description>Flux Family Secrets - The Ripple Effect &amp; Flux Family Secrets - The Rabbit Hole (USA)</description>
-		<rom name="Flux Family Secrets - The Ripple Effect &amp; Flux Family Secrets - The Rabbit Hole (USA).bin" size="571176144" crc="9dcb97dd" md5="3d10daf2084c0c5710d4d2f904503ae4" sha1="57fea069f949e0402fcaf2325f9eaab4382087f3"/>
-		<rom name="Flux Family Secrets - The Ripple Effect &amp; Flux Family Secrets - The Rabbit Hole (USA).cue" size="151" crc="a3c13b18" md5="742f601d490368bea87a6b014b492fec" sha1="f0f38da373ff2dd300ea52efc48808f2a648bb4f"/>
+		<description>Flux Family Secrets - The Ripple Effect &amp; Flux Family Secrets - The Rabbit Hole (USA) (Rev 1)</description>
+		<rom name="Flux Family Secrets - The Ripple Effect &amp; Flux Family Secrets - The Rabbit Hole (USA) (Rev 1).bin" size="571176144" crc="9dcb97dd" md5="3d10daf2084c0c5710d4d2f904503ae4" sha1="57fea069f949e0402fcaf2325f9eaab4382087f3"/>
+		<rom name="Flux Family Secrets - The Ripple Effect &amp; Flux Family Secrets - The Rabbit Hole (USA) (Rev 1).cue" size="159" crc="ef23dffb" md5="b7190ea7fa4402e63e5f9a609d6aa94d" sha1="f2f5f1e96f9c1ef9d4313c3a13f57faacd8a9c17"/>
 	</game>
 	<game name="Flux Family Secrets - The Ripple Effect (Australia)" id="126997">
 		<category>Games</category>
@@ -58711,6 +58700,12 @@
 		<rom name="Fun Sampler (Germany).bin" size="229602240" crc="3dc0d459" md5="93cec901ec57bb051d17fa3180d8ff17" sha1="72a1a727ba41284871e216588e94c75bcb169943"/>
 		<rom name="Fun Sampler (Germany).cue" size="87" crc="785fbe41" md5="ffbb19ade8ef1702c7efe3456a7d9555" sha1="7468b7416eae59998c6a95417b971aa917b0d709"/>
 	</game>
+	<game name="FunPack 3D (USA)" id="137820">
+		<category>Games</category>
+		<description>FunPack 3D (USA)</description>
+		<rom name="FunPack 3D (USA).bin" size="83954640" crc="2f5c2bca" md5="bc3bf305df0ec970e2722e7ca4dcd7ec" sha1="97800c43e44c815b2c42c3d80963081c8d61b2d3"/>
+		<rom name="FunPack 3D (USA).cue" size="82" crc="0d3b46a1" md5="ebeb50639d7d451d76835cc3edd7ebc0" sha1="ce664f3c747814de6c27e476a04a6db58c43c3a6"/>
+	</game>
 	<game name="Funfte Element, Das (Germany) (Rerelease)" id="83269">
 		<category>Games</category>
 		<description>Funfte Element, Das (Germany) (Rerelease)</description>
@@ -60537,7 +60532,7 @@
 		<category>Games</category>
 		<description>Game Series 41, The - Souko Mania (Japan)</description>
 		<rom name="Game Series 41, The - Souko Mania (Japan).bin" size="24068016" crc="6abe73cd" md5="924e9333aca56f3f581272144204e97c" sha1="08024914404e9c764a061d0b71f246814caed4b4"/>
-		<rom name="Game Series 41, The - Souko Mania (Japan).cue" size="101" crc="8ed197f7" md5="b5915558b1598bf05d909750c6652fb1" sha1="9a544e2f1773976212de26d14ff327c6053b5d2f"/>
+		<rom name="Game Series 41, The - Souko Mania (Japan).cue" size="107" crc="c64b378d" md5="5d7caee1f76625576cb8867e0caf53ce" sha1="3cc302c2627dfcbc206d03296ac47a411c748cc4"/>
 	</game>
 	<game name="Game Series 42, The - Nyaa Nyaa Nyaa (Japan)" id="136221">
 		<category>Games</category>
@@ -79776,6 +79771,12 @@
 		<rom name="Jewel Quest Solitaire II &amp; III (USA).bin" size="613472160" crc="4aabee60" md5="d29ee02815f62bc039f8d4f50e62471b" sha1="905b3b2680995fb48216a988f2da70e0369dd0f1"/>
 		<rom name="Jewel Quest Solitaire II &amp; III (USA).cue" size="102" crc="f454820a" md5="78a1125369626003c8426f3e85cbe55e" sha1="ae150f7f7c6df9dddaa4921ca01d1ffc7ebaccdc"/>
 	</game>
+	<game name="Jewel Quest Solitaire III (USA)" id="137833">
+		<category>Games</category>
+		<description>Jewel Quest Solitaire III (USA)</description>
+		<rom name="Jewel Quest Solitaire III (USA).bin" size="510341664" crc="1bf045e7" md5="13b53a39135b1ae188cc3639f626a271" sha1="3a9f02be8b35dd75512f385d343477b395fbe118"/>
+		<rom name="Jewel Quest Solitaire III (USA).cue" size="97" crc="a1e42608" md5="f9e0a19ea877c5b02e863c1763c4f9c3" sha1="78970cbe6a45a3cca33e600ba84eb5a6e0d0a494"/>
+	</game>
 	<game name="Jewel Time Deluxe (Europe)" id="87411">
 		<category>Games</category>
 		<description>Jewel Time Deluxe (Europe)</description>
@@ -87849,6 +87850,12 @@
 		<rom name="Let's Ride! Friends Forever (USA).bin" size="423526992" crc="8eb4461d" md5="eb9cb5f71a917c9f612a0b12e44ed552" sha1="cdb703b62dd364bd225ed0c91d313cf3f80ac6ee"/>
 		<rom name="Let's Ride! Friends Forever (USA).cue" size="99" crc="a9e51c2d" md5="4b2d0b8e29d223e0a92ceaf9235ada3c" sha1="b5fafa4576c730e424586113d66928ffbd583ddf"/>
 	</game>
+	<game name="Let's Ride! Riding Star (USA)" id="137837">
+		<category>Games</category>
+		<description>Let's Ride! Riding Star (USA)</description>
+		<rom name="Let's Ride! Riding Star (USA).bin" size="786193632" crc="e8807abe" md5="86e06589b598789598ff916df5b9c537" sha1="bd3be0e6649da22f200b7e5095f1762865d2410e"/>
+		<rom name="Let's Ride! Riding Star (USA).cue" size="95" crc="a36d3dd5" md5="88d56c88fdbf763280f4c6dee0424b12" sha1="c96b822ae5ed55590a0234fe26e68f1ecc006420"/>
+	</game>
 	<game name="Let's Ride! Silver Buckle Stables (USA)" id="88191">
 		<category>Games</category>
 		<description>Let's Ride! Silver Buckle Stables (USA)</description>
@@ -91283,17 +91290,17 @@
 		<rom name="Luxor - Quest for the Afterlife (USA).bin" size="575066352" crc="2163c18f" md5="d704e86885c9d0d73bca3e57e01aead7" sha1="59065ce5ac3f0660206e5cb6255ded0e0a42a1f7"/>
 		<rom name="Luxor - Quest for the Afterlife (USA).cue" size="103" crc="ce6bfc7d" md5="374b1edaa030516b06c897a5216b66f9" sha1="4d8f93631de9bdb9ca42b902cc4e2678a0c9049b"/>
 	</game>
+	<game name="Luxor - The King's Collection (USA)" id="132378">
+		<category>Games</category>
+		<description>Luxor - The King's Collection (USA)</description>
+		<rom name="Luxor - The King's Collection (USA).bin" size="229536384" crc="4222f38f" md5="815a9f93cf1da426881796af5ef00cbf" sha1="3178e2a9a2b7d38f13818e0ca4941b2c1d7d54cc"/>
+		<rom name="Luxor - The King's Collection (USA).cue" size="101" crc="a2c01b9f" md5="225a908c14d7a0b40ca3438afbd35ec4" sha1="cd80043fb3c4597550c42725751317293684bce7"/>
+	</game>
 	<game name="Luxor - The King's Collection - 3 Games in One (Australia)" id="125316">
 		<category>Games</category>
 		<description>Luxor - The King's Collection - 3 Games in One (Australia)</description>
 		<rom name="Luxor - The King's Collection - 3 Games in One (Australia).bin" size="47524512" crc="d1e11391" md5="f54430ec24f83a47e93fa3bd34ee9e25" sha1="9c8c8d56f06bcfa954a9523fab16e82fba98e75e"/>
 		<rom name="Luxor - The King's Collection - 3 Games in One (Australia).cue" size="124" crc="ba295889" md5="c7fd95f1b3954a2cfbac8a5de2b32026" sha1="22d041e29e9d7dffa324c5cbe4f18308dabeeec5"/>
-	</game>
-	<game name="Luxor - The King's Collection - 4 Games in One (USA)" id="132378">
-		<category>Games</category>
-		<description>Luxor - The King's Collection - 4 Games in One (USA)</description>
-		<rom name="Luxor - The King's Collection - 4 Games in One (USA).bin" size="229536384" crc="4222f38f" md5="815a9f93cf1da426881796af5ef00cbf" sha1="3178e2a9a2b7d38f13818e0ca4941b2c1d7d54cc"/>
-		<rom name="Luxor - The King's Collection - 4 Games in One (USA).cue" size="118" crc="8653e669" md5="8087fd3c976e8158f9d4c9fddfc46cca" sha1="bdacc5312377526ec406cc17f225d4bb67967ca2"/>
 	</game>
 	<game name="Luxor 2 (USA)" id="86713">
 		<category>Games</category>
@@ -93766,6 +93773,11 @@
 		<category>Games</category>
 		<description>Major League Baseball 2K11 (USA)</description>
 		<rom name="Major League Baseball 2K11 (USA).iso" size="5141823488" crc="2be69d97" md5="b1d8cbcbe0f61a05624a45ae2964a8b7" sha1="f178710535b9354dce82512529db3b06d2aa8ef0"/>
+	</game>
+	<game name="Major League Baseball 2K9 (USA)" id="59967">
+		<category>Games</category>
+		<description>Major League Baseball 2K9 (USA)</description>
+		<rom name="Major League Baseball 2K9 (USA).iso" size="6966214656" crc="b6f498b6" md5="416d0842dadea996a07a1ef4b344a237" sha1="081abaf361abaa8822e36402baf1e58002e31976"/>
 	</game>
 	<game name="Major Stryker (USA)" id="41984">
 		<category>Games</category>
@@ -118365,6 +118377,50 @@
 		<rom name="Pinball Madness 3 (USA) (Slam Tilt Pinball &amp; 3-D Ultra Pinball - Creep Night) (Track 15).bin" size="23110752" crc="4348960e" md5="e9887581c2eabb9332bc5ec2a9e61a0d" sha1="167efdd4d4dbd5b88c243a92283af3e0c4eefddc"/>
 		<rom name="Pinball Madness 3 (USA) (Slam Tilt Pinball &amp; 3-D Ultra Pinball - Creep Night).cue" size="2562" crc="298582c0" md5="36a9c7082627d8d5ecf7a1d3d19ead51" sha1="958a71b44fb1b599ac8de96475ed326ce993d5a4"/>
 	</game>
+	<game name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island)" id="137834">
+		<category>Games</category>
+		<description>Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island)</description>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 01).bin" size="219587424" crc="23267529" md5="a2ef8f2858e00152c5453453b149d180" sha1="39c09ebd3fa5b9278c132d732b625f21d47cbd6b"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 02).bin" size="15255072" crc="4f2ea81b" md5="6bad70ae35313a384a014b7604ec389c" sha1="b9ea6a2fbe22f6bf6dd53922b76f552f74b0e4a6"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 03).bin" size="31815504" crc="7bfc3ef9" md5="a9eb27bb2d7376d2c0b6747b61c0087e" sha1="ea3b16724d71bd18f0297b39020a706aeceeb331"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 04).bin" size="44302272" crc="1f7c8886" md5="a6320854a66f1af2a9f273c5fee92e14" sha1="6576e050c8099eab6d5e0205a1d50f3d99990c35"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 05).bin" size="52920000" crc="6bcd381c" md5="99cc57c8c4a3c2a001a4965acb753df2" sha1="f0667963d1c509638a5f6a69648882595ddd3055"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 06).bin" size="52920000" crc="2795b053" md5="257bced8ffe52221ab5d4ebc024bb6bd" sha1="65461fb410d9d76750fdb35383c6d37426e469f6"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 07).bin" size="47893776" crc="1ac779b2" md5="c7107db1be97a2ba104a3dc5999966d2" sha1="8cf8c626e188d04ec2e45517ea94e1060a124fd2"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 08).bin" size="46877712" crc="53a6a225" md5="ce39911f548811869d38bd45d10dd108" sha1="847c810b07ea34219e3362569122d40b9e589761"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 09).bin" size="44365776" crc="ada3a4f0" md5="7502d5ad39d4bc866ac4ec3fafd40df5" sha1="da45e1e9fe37c0707b483c29a96b2307e05e3c0b"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 10).bin" size="46082736" crc="ef652580" md5="6585b3819854cd5df7221070e8e35ed9" sha1="f6519fd6203c1cf3723b33b34e8f51e7f0429d2e"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 11).bin" size="40753104" crc="71e03b46" md5="96d06e42cd6dfdcc6ffdf32aaf339c9b" sha1="9cf82253cd57b14e5bccc74ce97dadb26ff36b09"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 12).bin" size="40038096" crc="39993ec5" md5="da2514ea400f9375c090345043662c25" sha1="82347e7c7d9a75edb03aa0d65701fff3a96cd7ee"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island) (Track 13).bin" size="30460752" crc="5679e1b6" md5="9b8d1a6cda713840460ea9107aa45031" sha1="50aac96dad352a774817263215aea00a5873552c"/>
+		<rom name="Pinball Madness 4 (USA) (Adventure Pinball - Forgotten Island).cue" size="2023" crc="0e759530" md5="ea2f76716d3f613bc8c5f04abf8ece5e" sha1="a37211c8e0d6f49f5a3b51bd241ce4f053af8d54"/>
+	</game>
+	<game name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball)" id="137836">
+		<category>Games</category>
+		<description>Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball)</description>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 01).bin" size="52590720" crc="7e32d272" md5="00c105cd786b5bb76c90faf91596b19e" sha1="3ca7fe2aba542f80af4fe5f446b941edb88a3b87"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 02).bin" size="34793136" crc="2b2ea739" md5="f18aa286d3e414bab102835b2d3485bd" sha1="f084d1f58424f0674514e3672bcf7f9c9b8d0fed"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 03).bin" size="6025824" crc="28c4a350" md5="7022c68935ce4503f45426a1b123df1b" sha1="447f09226a1fc3d46acf942be2247c44a2a7125a"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 04).bin" size="33379584" crc="3fb1df27" md5="a2da457f2711bc2d9f7511bb2d3ffd4e" sha1="8f6395e7007565a2d1364245498d992d65f743b6"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 05).bin" size="26485872" crc="f8bbae87" md5="a8655f3ea222b49e1f95c63aa94d4dcb" sha1="556af56ea5cc542eafb2e78adcc4e2aa4ae68b88"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 06).bin" size="27024480" crc="9baf54d9" md5="c2d7e59a85edaf3166bdb5ac2d50e3e5" sha1="da0193b9affab919b9a88a4549930f050b26dc72"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 07).bin" size="26841024" crc="af3a8f7d" md5="c3ca7661a77c54f28009174a574327e7" sha1="3d59eb7943d15feec60e49e781525bf1e4561237"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 08).bin" size="6731424" crc="9cb5d9c9" md5="9ec8a7abe736c30f5b27e0b9cb8f13d1" sha1="d0649beac4eca01da453589cab8edd1f00940585"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 09).bin" size="6025824" crc="7a34094d" md5="ac662e55cbd32c892b9427a6d27d6a99" sha1="84d395c4091682f8a71c3c713678706fc9f12834"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 10).bin" size="40245072" crc="2bffb142" md5="f0527be5004624c1e8df5cb663041ad5" sha1="09995426d3c28347de1a8c46f7e22a5fc1820ee2"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 11).bin" size="24016272" crc="de652dca" md5="e190d24d6a0c5e852da77bb155a194b8" sha1="1b114e48f9329e596d8271216184d2c0e64c5046"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 12).bin" size="27897072" crc="f0cd3ac8" md5="8a13a626747315491d096125c5ebdcad" sha1="0a82a57c95e41019756bf4961374b44ba8016ae8"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 13).bin" size="28605024" crc="ffa2e72d" md5="d1fdd6a1c91fae5cc6b157c31f969dea" sha1="8aebb913020a255480dfa7fbd9f12eaac9a0e152"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 14).bin" size="19432224" crc="79d42713" md5="65679fa04c8c1af782e8d100488af9a2" sha1="1afeaeec90b09978384fd51ba4288318c40fdb3e"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball) (Track 15).bin" size="22793232" crc="73d00fbb" md5="142a770eddc583e6bed0f10820237da9" sha1="b4618f760f5580e383d49b325bab01068f2ec19e"/>
+		<rom name="Pinball Madness 4 (USA) (Platinum Pinball - Slam Tilt - Pinball Mania - Absolute Pinball).cue" size="2952" crc="c0cd8f7e" md5="358d7c37100bf8f4b7fa422ea47e0f55" sha1="c07d88c6fbc4a1d0f5933204abb718ce5eb91978"/>
+	</game>
+	<game name="Pinball Madness 4 (USA) (Pro Pinball - Fantastic Journey)" id="137835">
+		<category>Games</category>
+		<description>Pinball Madness 4 (USA) (Pro Pinball - Fantastic Journey)</description>
+		<rom name="Pinball Madness 4 (USA) (Pro Pinball - Fantastic Journey).bin" size="778497888" crc="19806bdc" md5="da3fd07befb858c89d27a1ca5f1b2812" sha1="7687ae8937f1c900aaa4ffe934b35c8c766c30f0"/>
+		<rom name="Pinball Madness 4 (USA) (Pro Pinball - Fantastic Journey).cue" size="123" crc="9c44950f" md5="4696b81b7a16b62ee424e9e623082c3b" sha1="4adae3225975ea1a59d08a093869c5821fefeb26"/>
+	</game>
 	<game name="Pinball Mania (USA)" id="43828">
 		<category>Games</category>
 		<description>Pinball Mania (USA)</description>
@@ -130322,10 +130378,10 @@
 		<rom name="Rider's World - I Want to Ride (USA).bin" size="122543904" crc="a8d264ef" md5="b9b0bc9eb96a3156a55e0909689e54b7" sha1="1874aadbf0e68e2d9eb4e0e9e047d48ff8386469"/>
 		<rom name="Rider's World - I Want to Ride (USA).cue" size="102" crc="81d9cb5f" md5="d4d1d8554207219a1052333ce2d2aa88" sha1="b8cd9d9d4f47dceec4eb0a5ec26121f464d287c7"/>
 	</game>
-	<game name="Ridge Racer Unbounded (Europe) (En,Fr,De,Es,It)" id="64505">
+	<game name="Ridge Racer Unbounded (Europe) (En,Fr,De,Es,It,Ru)" id="64505">
 		<category>Games</category>
-		<description>Ridge Racer Unbounded (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Ridge Racer Unbounded (Europe) (En,Fr,De,Es,It).iso" size="1561657344" crc="bfd0fd31" md5="ca801a32eb081bdbf061211ff6bd464f" sha1="bf1b6ba5adfd0e5b6e5657e1ecd194a0e11861f6"/>
+		<description>Ridge Racer Unbounded (Europe) (En,Fr,De,Es,It,Ru)</description>
+		<rom name="Ridge Racer Unbounded (Europe) (En,Fr,De,Es,It,Ru).iso" size="1561657344" crc="bfd0fd31" md5="ca801a32eb081bdbf061211ff6bd464f" sha1="bf1b6ba5adfd0e5b6e5657e1ecd194a0e11861f6"/>
 	</game>
 	<game name="Riding Star (Germany)" id="121001">
 		<category>Games</category>
@@ -136826,6 +136882,12 @@
 		<rom name="Scooby-Doo 2 - Monsters Unleashed (USA).bin" size="662240880" crc="eec7408c" md5="d8975fa54f605c2dae9a4f84ae31211c" sha1="3f325fa2418119b9e695918bae84784387786f91"/>
 		<rom name="Scooby-Doo 2 - Monsters Unleashed (USA).cue" size="105" crc="6033c216" md5="7be5ac910826ca163f5e78911983447e" sha1="5ac2ca34dfb1c3a1dc9f59fa1fb4bebae43533bc"/>
 	</game>
+	<game name="Scooby-Doo! Activity Challenge (USA)" id="60175">
+		<category>Games</category>
+		<description>Scooby-Doo! Activity Challenge (USA)</description>
+		<rom name="Scooby-Doo! Activity Challenge (USA).bin" size="266451024" crc="cf287130" md5="c56237e272ec806fb6d33b19cd6215f9" sha1="da1fb65091b4a08e921de67b2cfe4eeebccd33a8"/>
+		<rom name="Scooby-Doo! Activity Challenge (USA).cue" size="102" crc="48aa3763" md5="51f07d4a1365245f4447abb7fbc98f58" sha1="90d2806d8cbafcb110d82bcac9444fc83d134029"/>
+	</game>
 	<game name="Scooby-Doo! CD-ROM Sampler (USA)" id="121887">
 		<category>Demos</category>
 		<description>Scooby-Doo! CD-ROM Sampler (USA)</description>
@@ -136889,11 +136951,11 @@
 		<rom name="Scooby-Doo! Priklyucheniya v gorode prizrakov (Russia).bin" size="581379120" crc="8cf2947a" md5="17b2b65ef73100e9cc97a120e2e6a648" sha1="4009823aed26501ac2e90666fb5b3f77ee16e303"/>
 		<rom name="Scooby-Doo! Priklyucheniya v gorode prizrakov (Russia).cue" size="120" crc="a35b8377" md5="a6354bc2108c6adfd9408f56600219e5" sha1="44a1836a79861f26138341338a6830505fa36716"/>
 	</game>
-	<game name="Scooby-Doo! Showdown in Ghost Town (Europe)" id="69951">
+	<game name="Scooby-Doo! Showdown in Ghost Town (USA)" id="56764">
 		<category>Games</category>
-		<description>Scooby-Doo! Showdown in Ghost Town (Europe)</description>
-		<rom name="Scooby-Doo! Showdown in Ghost Town (Europe).bin" size="777117264" crc="ccdc8f0b" md5="f7f23813eb166b0f709343581cb70991" sha1="46cb48aa9d9acd70e77aa686e5ff6a1bde80fc40"/>
-		<rom name="Scooby-Doo! Showdown in Ghost Town (Europe).cue" size="109" crc="cec29993" md5="236d86e8831f62ea388250eb7b2788de" sha1="4b286be65de7a4b10f7179fd073fd2fcdcb90c42"/>
+		<description>Scooby-Doo! Showdown in Ghost Town (USA)</description>
+		<rom name="Scooby-Doo! Showdown in Ghost Town (USA).bin" size="731072160" crc="cb1a3ac0" md5="b17b5689ccd4cdb8f639561224f53865" sha1="456bfb5baf6b2368a9c65d8ff042cb2b404e40b6"/>
+		<rom name="Scooby-Doo! Showdown in Ghost Town (USA).cue" size="106" crc="26709c3f" md5="5efb2ce4ada9f73b5d6855396be5a872" sha1="2120168c836dddd15628d7ce7ec38996aa42942f"/>
 	</game>
 	<game name="Scooter Pro (Europe)" id="38794">
 		<category>Games</category>
@@ -146683,6 +146745,12 @@
 		<rom name="Sno-Cross Extreme (Europe) (Rerelease) (Track 15).bin" size="14754096" crc="ced03e58" md5="a49551fa19a9693e0cf9a0db5bd1e8e5" sha1="32dda05fb1c2ea7f91b31223df6acc7527f334e4"/>
 		<rom name="Sno-Cross Extreme (Europe) (Rerelease).cue" size="1678" crc="d886f56c" md5="3afb6226dc9707c6497bcbdb709e2399" sha1="df269edb340593b51c50563779c53e833509fb9b"/>
 	</game>
+	<game name="Snood Deluxe (USA)" id="137816">
+		<category>Games</category>
+		<description>Snood Deluxe (USA)</description>
+		<rom name="Snood Deluxe (USA).bin" size="99974112" crc="d53e93a0" md5="8fd5390e85c1757c5f1c3730ae3c7f08" sha1="7ecb762f9dda8229b13c6752cb1cdd9371f2af42"/>
+		<rom name="Snood Deluxe (USA).cue" size="84" crc="902d3df1" md5="be99bb9dc7ac9239419275f42e5994bc" sha1="8113f710afc3838ecdb36bdbb547bfb4e414e8f3"/>
+	</game>
 	<game name="Snoopy vs. the Red Baron (USA)" id="90019">
 		<category>Games</category>
 		<description>Snoopy vs. the Red Baron (USA)</description>
@@ -152604,6 +152672,12 @@
 		<rom name="Starmageddon (Australia).bin" size="205837632" crc="81577d8f" md5="7e59040486ead367806a90bb994d1703" sha1="f6c4bd8ff7d290c43e0341f2d2634370a8501188"/>
 		<rom name="Starmageddon (Australia).cue" size="90" crc="232d4c5c" md5="24e9c339b2bc98f022f37cd77d02c8a5" sha1="774f98a518fe76d64e7d410788a4962b1bbcedfb"/>
 	</game>
+	<game name="Starmageddon - Project Earth (France)" id="137818">
+		<category>Games</category>
+		<description>Starmageddon - Project Earth (France)</description>
+		<rom name="Starmageddon - Project Earth (France).bin" size="789239472" crc="84c89692" md5="b7040054e34c5d749486bb3f1ec0085b" sha1="71843a1230271d360f9fb12997ed41490ff64833"/>
+		<rom name="Starmageddon - Project Earth (France).cue" size="103" crc="7ae7dfb9" md5="766e6b5ead12c231c3fdcc97f337fb26" sha1="3a016423082cf4d7aa13baee2a2099fcb644d955"/>
+	</game>
 	<game name="Starmageddon 2 - Project Freedom (Poland)" id="79546">
 		<category>Games</category>
 		<description>Starmageddon 2 - Project Freedom (Poland)</description>
@@ -152913,6 +152987,26 @@
 		<description>StateShift (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="StateShift (Europe) (En,Fr,De,Es,It).bin" size="781569600" crc="0b6bdcac" md5="c7824553aa09d91ceb1d890193370255" sha1="e7f123cadfb2dd8d2e1e1d80629b5b1f70c6a71b"/>
 		<rom name="StateShift (Europe) (En,Fr,De,Es,It).cue" size="102" crc="4c00bc6d" md5="20a3f835932aa207b5e984bcaab8c7c7" sha1="e1e18f3282ccc40cbd6fa0ff77d24711f881c89b"/>
+	</game>
+	<game name="Station Access Collection, The (USA) (Disc 1)" id="137827">
+		<category>Games</category>
+		<description>Station Access Collection, The (USA) (Disc 1)</description>
+		<rom name="Station Access Collection, The (USA) (Disc 1).iso" size="4244441088" crc="e48e3611" md5="f25cb22be0b446cb393bedb85feb197d" sha1="127c606061b7c9cc96dcca75ea7025e346ec813d"/>
+	</game>
+	<game name="Station Access Collection, The (USA) (Disc 2)" id="137828">
+		<category>Games</category>
+		<description>Station Access Collection, The (USA) (Disc 2)</description>
+		<rom name="Station Access Collection, The (USA) (Disc 2).iso" size="4295585792" crc="446acc42" md5="d3201642011198a373003f22f3a3360c" sha1="d4c36192fa0e85dbe6c3246ee222371481b151ee"/>
+	</game>
+	<game name="Station Access Collection, The (USA) (Disc 3)" id="137829">
+		<category>Games</category>
+		<description>Station Access Collection, The (USA) (Disc 3)</description>
+		<rom name="Station Access Collection, The (USA) (Disc 3).iso" size="4295585792" crc="f5b7b699" md5="0bc084e3b86994eeee131aae4676f99f" sha1="d0e852329dabd62ddc7ad36c87902537db927175"/>
+	</game>
+	<game name="Station Access Collection, The (USA) (Disc 4)" id="137830">
+		<category>Games</category>
+		<description>Station Access Collection, The (USA) (Disc 4)</description>
+		<rom name="Station Access Collection, The (USA) (Disc 4).iso" size="984233984" crc="dba8bbe3" md5="49d57065008671d9b75e981f5331259b" sha1="dd4d42a656cc04cb1a8bdf1e88643a2f89bc39ae"/>
 	</game>
 	<game name="Stay Tooned! (USA)" id="64405">
 		<category>Games</category>
@@ -169540,6 +169634,31 @@
 		<rom name="VR Sports Powerboat Racing (USA) (Rev 1) (Track 20).bin" size="14464800" crc="fedb0dcf" md5="66df0590aa4f829d5146c9f8555b181b" sha1="d69106e3e91ce4ee38c33ca4c4a01da77a5e7e65"/>
 		<rom name="VR Sports Powerboat Racing (USA) (Rev 1).cue" size="2682" crc="4b75d7b4" md5="4ac2432eac545a48623f9c2757405d1a" sha1="d2e30486ac83fbc191cb14b595a60f28f31a0206"/>
 	</game>
+	<game name="VR Sports Powerboat Racing - Pure Power (USA)" id="137831">
+		<category>Demos</category>
+		<description>VR Sports Powerboat Racing - Pure Power (USA)</description>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 01).bin" size="168944160" crc="a3201407" md5="078486a014b0edd153a934fd91c91aa8" sha1="ea9f95d2a470ef2b8c7a6bc8a3d84752c0016bc7"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 02).bin" size="60681600" crc="3e0a3eb7" md5="7062dd1c949bfa8ed1b3472099ce21cc" sha1="2c077c637a884fe28c76491cf71d58abf7be6409"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 03).bin" size="64738800" crc="fad469ad" md5="cf110d9c0169d77b5d804befe7f21824" sha1="aa29aeb568341eafad1560cc7c42f10cbfbcb137"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 04).bin" size="64033200" crc="d2dea202" md5="e5421e2cc9466a18e0871699605b4996" sha1="99e7dacf4f94a16eb4e492c8efe68cef33de5c05"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 05).bin" size="61740000" crc="79d17725" md5="4967d30ea6dd8236f3900bdb632e42fd" sha1="514ba1474a4fdaae22c579d813d19752eb0fda7d"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 06).bin" size="58388400" crc="b11f1222" md5="26a655f0ec5107460a2b08b02d5188e1" sha1="b44b04c7bd6bce51eee24490587f3909f45e98b0"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 07).bin" size="59270400" crc="637b2242" md5="c993abcb1c9cc96e452b59b5336004c9" sha1="655a1138db68d62ceb90ba9a8ab2393aa8f0e001"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 08).bin" size="1764000" crc="c3ab8475" md5="4048c1e0aeb4653f93de2ef8c6d266fb" sha1="38d4f39f4fd36fccefdb7350e5119d9413826b86"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 09).bin" size="1764000" crc="4c2afcf4" md5="3ba521d85710e1dbd162aa8f1216f3ae" sha1="44631f3cd3dbf64526d4256205ba005fc2d9cbb5"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 10).bin" size="1764000" crc="cefcc4ad" md5="5d5d64f90aab59c1f51b8b114e83b262" sha1="6c43355f279fd434f1aa7a19a3e5630e22507c5f"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 11).bin" size="20991600" crc="5e270a72" md5="f1e96f9739fbe96c744fccf8e3f81686" sha1="8e9667bbf9747882b22e9bcb0a9932607d2db96b"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 12).bin" size="14994000" crc="d33ea724" md5="5c8f6e1ab046c407c7a1e2aa01048f71" sha1="5c4bcecaaad45e075439664dfc19674ed7864379"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 13).bin" size="32457600" crc="c35ce437" md5="b64e940946b943afa8c221bdfae646e4" sha1="9b2621bf1c4aa7f87649969716e669f2b8ff97f5"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 14).bin" size="1764000" crc="4c39ebc0" md5="f00ecd1c6df9c619eb23c820df3d9a46" sha1="723954f053ece9078fbf58a3d720a89c75640c5f"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 15).bin" size="1764000" crc="761770c9" md5="cb836388bdc23fb3d844a6358ef457ac" sha1="5bfb05b3b8d9989e3a22394e55214536244e777e"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 16).bin" size="1764000" crc="366cd1b8" md5="34c9925e8f39c0b55783a495a4ae2fb8" sha1="58e159a11f1e7b99225b87cd4478f066cb71f3cd"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 17).bin" size="1764000" crc="5a7ab6ba" md5="ad3f7aeea6753cb71556018eb01b8cbc" sha1="8ab8f6a8ab882615773ab9774ad77ab64078118b"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 18).bin" size="2116800" crc="962fd6e8" md5="d37b30f568b79c91b5f807f2139c8ba0" sha1="6637820bd132c7910607912029caac633f4a3deb"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 19).bin" size="1764000" crc="77e9012b" md5="38e1f24f1ec6926b0d76e0759cf11efd" sha1="d522c611d9b7cfa34828c978efdadb8613f573e1"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA) (Track 20).bin" size="14464800" crc="d32fc106" md5="0dfed1b82fc11fd4326c9cf04fa60311" sha1="b24d5328d59fab099a0acdf86e8a4154d7a43d14"/>
+		<rom name="VR Sports Powerboat Racing - Pure Power (USA).cue" size="2782" crc="961fe03b" md5="5e3a7da66fffda5f3b755f1016eeacb9" sha1="9b18f9b2cb18ede9697604195bd38aed863b474d"/>
+	</game>
 	<game name="VR Tejing 2 (China)" id="79390">
 		<category>Games</category>
 		<description>VR Tejing 2 (China)</description>
@@ -177816,6 +177935,12 @@
 		<rom name="World War Zero (Russia) (Disc 2).bin" size="826450464" crc="651ba8d0" md5="a23927dcbeaefd029ed2ced299d3fa03" sha1="51e3be021ed8cadd6d87b1c33e804e60d3aba0e1"/>
 		<rom name="World War Zero (Russia) (Disc 2).cue" size="98" crc="b5fd1f6e" md5="c3a3f964338d0e3bdff6d8c7293aa2f8" sha1="0044ba3a2cf7d75f8a9abca5dcecfd494a219608"/>
 	</game>
+	<game name="World Wide Rally (Argentina) (En,Es) (Covermount)" id="137823">
+		<category>Games</category>
+		<description>World Wide Rally (Argentina) (En,Es) (Covermount)</description>
+		<rom name="World Wide Rally (Argentina) (En,Es) (Covermount).bin" size="157553424" crc="fd0db8e5" md5="c11005dacd37159587fbdfb80893ddc0" sha1="f04d545585f200e6f9c61dd4fb9e9fa798e6fa32"/>
+		<rom name="World Wide Rally (Argentina) (En,Es) (Covermount).cue" size="115" crc="2e2b5966" md5="d3c666fc6489755f913343551151e4d0" sha1="c5630f6050a351b7e7186ba70cfa858d23ac726f"/>
+	</game>
 	<game name="World in Conflict (Germany) (Demo)" id="86223">
 		<category>Demos</category>
 		<description>World in Conflict (Germany) (Demo)</description>
@@ -182695,6 +182820,12 @@
 		<description>Zen-Ichi (Japan) (Demo)</description>
 		<rom name="Zen-Ichi (Japan) (Demo).bin" size="15283296" crc="a80c0a19" md5="02971405113d23466cdca714764d0715" sha1="823a304e8aeb6ac60ebe120fc09db5d66a91593f"/>
 		<rom name="Zen-Ichi (Japan) (Demo).cue" size="89" crc="136c25a9" md5="a83581cb46c6bedb8f0c4497e9c3ca07" sha1="ebb0583ad537b6ea7d2771ab69268b0a6e5662ed"/>
+	</game>
+	<game name="ZenGems (USA)" id="137838">
+		<category>Games</category>
+		<description>ZenGems (USA)</description>
+		<rom name="ZenGems (USA).bin" size="24870048" crc="eccbcd2f" md5="9195abc3a87c7f14ee72159ef0aa6568" sha1="178c53d15b7e520e81439e6a634a997e9656f54d"/>
+		<rom name="ZenGems (USA).cue" size="79" crc="27aa119d" md5="f893f9f9690c3f38632b69491665bb9f" sha1="504d177c94e6d7860f71485a7e1b26da569d4e6c"/>
 	</game>
 	<game name="Zenerchi (Russia)" id="87039">
 		<category>Games</category>

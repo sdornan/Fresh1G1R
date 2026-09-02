@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>BD-Video (Retool)</name>
+		<description>BD-Video (3) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-01 18-49-02) (Retool)</description>
+		<version>2026-09-01 18-49-02</version>
+		<date>2026-09-02 07-13-24</date>
+		<author>redump.info</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://redump.info/</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="Dragon's Lair II - Time Warp (Canada) (En,Fr,De,Es,It)" id="102942">
+		<category>Games</category>
+		<description>Dragon's Lair II - Time Warp (Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Dragon's Lair II - Time Warp (Canada) (En,Fr,De,Es,It).iso" size="22593142784" crc="dd9f1330" md5="090bc9caf5c439fd54e214f7b6e3ab48" sha1="35740932be50ecc64f2e739ae46c488445c133dc"/>
+	</game>
+	<game name="Space Ace (Canada) (En,Fr,De,Es,It)" id="102943">
+		<category>Games</category>
+		<description>Space Ace (Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Space Ace (Canada) (En,Fr,De,Es,It).iso" size="22607560704" crc="4cc87e4c" md5="fc66be3fdb9f6f2f86890467f3da2e77" sha1="c5ab484fa271b93ee7cd3704ffe1eb2256d990f5"/>
+	</game>
+	<game name="Sudokia (Germany) (En,De)" id="102826">
+		<category>Games</category>
+		<description>Sudokia (Germany) (En,De)</description>
+		<rom name="Sudokia (Germany) (En,De).iso" size="16999514112" crc="2bc6df71" md5="2d98a1d541b7e78ae4e197f2c1b92c01" sha1="b7b063307174231285efb1950f8650ce61950ebc"/>
+	</game>
+</datafile>

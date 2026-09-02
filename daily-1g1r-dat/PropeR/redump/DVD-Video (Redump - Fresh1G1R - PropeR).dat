@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (1,008) (-y) [-aAbBcdkmMpPuv] (2026-09-01 05-29-02) (Retool)</description>
-		<version>2026-09-01 05-29-02</version>
-		<date>2026-09-01 07-54-16</date>
+		<description>DVD-Video (1,008) (-y) [-aAbBcdkmMpPuv] (2026-09-01 13-29-02) (Retool)</description>
+		<version>2026-09-01 13-29-02</version>
+		<date>2026-09-02 07-23-02</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -446,11 +446,6 @@
 		<description>Bing &amp; Bong's Tiny Planets - Universums Hjaltar (Sweden)</description>
 		<rom name="Bing &amp; Bong's Tiny Planets - Universums Hjaltar (Sweden).iso" size="4002480128" crc="cc090c5a" md5="18b7ae5f1cdf9247b72ec8d216bb8acb" sha1="278e56b3bedb40786c328e38cef745086a1a12f4"/>
 	</game>
-	<game name="Bio Hazard EX (Japan)" id="137804">
-		<category>Bonus Discs</category>
-		<description>Bio Hazard EX (Japan)</description>
-		<rom name="Bio Hazard EX (Japan).iso" size="4483442688" crc="fe09bef7" md5="23f1d4c2237a5728d19b6db28d5c046f" sha1="23c8fd86da0b1e162a5643bcf728feabaa24c2a1"/>
-	</game>
 	<game name="BioShock - Welcome to Rapture (Europe) (En,Fr,De,Es,It) (Making Of) (PC Game Bundle)" id="75983">
 		<category>Bonus Discs</category>
 		<description>BioShock - Welcome to Rapture (Europe) (En,Fr,De,Es,It) (Making Of) (PC Game Bundle)</description>
@@ -470,6 +465,11 @@
 		<category>Bonus Discs</category>
 		<description>Biohazard 6 - Special Eizou DVD (Japan) (PS3 Game Bundle)</description>
 		<rom name="Biohazard 6 - Special Eizou DVD (Japan) (PS3 Game Bundle).iso" size="3443427328" crc="5615d3e1" md5="fa4438a078e54534eb9fa2af5bb062c0" sha1="3025b74466a6afa001b4d10f2d6fbbf21e79f7ac"/>
+	</game>
+	<game name="Biohazard EX (Japan)" id="137804">
+		<category>Bonus Discs</category>
+		<description>Biohazard EX (Japan)</description>
+		<rom name="Biohazard EX (Japan).iso" size="4483442688" crc="fe09bef7" md5="23f1d4c2237a5728d19b6db28d5c046f" sha1="23c8fd86da0b1e162a5643bcf728feabaa24c2a1"/>
 	</game>
 	<game name="Blankety Blank (UK)" id="111120">
 		<category>Games</category>
