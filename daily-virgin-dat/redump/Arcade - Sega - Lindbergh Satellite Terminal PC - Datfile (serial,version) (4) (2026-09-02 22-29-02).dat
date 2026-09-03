@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - Lindbergh Satellite Terminal PC</name>
+		<description>Arcade - Sega - Lindbergh Satellite Terminal PC - Datfile (serial,version) (4) (2026-09-02 22-29-02)</description>
+		<version>2026-09-02 22-29-02</version>
+		<date>2026-09-02 22-29-02</date>
+		<author>redump.info</author>
+		<homepage>redump.info</homepage>
+		<url>https://redump.info/</url>
+	</header>
+	<game name="Sangokushi Taisen 2 (Japan) (DVD SGT)" id="135454">
+		<category>Applications</category>
+		<serial>CDV-10029</serial>
+		<version>057</version>
+		<description>Sangokushi Taisen 2 (Japan) (DVD SGT)</description>
+		<rom name="Sangokushi Taisen 2 (Japan) (DVD SGT).iso" size="1174437888" crc="3d92922d" md5="9563e959f1b9e054357f7913d879dfae" sha1="fb3f0e8cbf0e3cbf564bb2e45eb8e546c3adfe3c"/>
+	</game>
+	<game name="Sangokushi Taisen 2 (Japan) (DVD SGT) (Rev A)" id="137883">
+		<category>Applications</category>
+		<serial>CDV-10029A</serial>
+		<version>060</version>
+		<description>Sangokushi Taisen 2 (Japan) (DVD SGT) (Rev A)</description>
+		<rom name="Sangokushi Taisen 2 (Japan) (DVD SGT) (Rev A).iso" size="1176207360" crc="a5513090" md5="2387b75d4b8576e67e6c9fdaddb1d0e9" sha1="d350e46950408e417e92dddaf905a0c86cb620c0"/>
+	</game>
+	<game name="Sangokushi Taisen 3 (Japan) (DVD SGU)" id="135455">
+		<category>Applications</category>
+		<serial>CDV-10036J</serial>
+		<version>090</version>
+		<description>Sangokushi Taisen 3 (Japan) (DVD SGU)</description>
+		<rom name="Sangokushi Taisen 3 (Japan) (DVD SGU).iso" size="2631532544" crc="8c02ee11" md5="ab7573be155afe0a7c576e4ca092c2ab" sha1="ac418d97bdcd46bc12cda0ee5156d4febbecc066"/>
+	</game>
+	<game name="Sangokushi Taisen 3 - War Begins (Japan) (DVD SGU 3.59)" id="135456">
+		<category>Applications</category>
+		<serial>CDV-10041</serial>
+		<version>092</version>
+		<description>Sangokushi Taisen 3 - War Begins (Japan) (DVD SGU 3.59)</description>
+		<rom name="Sangokushi Taisen 3 - War Begins (Japan) (DVD SGU 3.59).iso" size="2980315136" crc="611b815e" md5="a065f1f39d86fe14ea5fdba4def92b98" sha1="6526933f33c21dd38b3c05f04e03b908750a9670"/>
+	</game>
+</datafile>

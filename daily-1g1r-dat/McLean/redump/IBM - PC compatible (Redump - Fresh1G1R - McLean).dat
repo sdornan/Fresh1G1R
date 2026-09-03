@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,483) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-02 02-29-02) (Retool)</description>
-		<version>2026-09-02 02-29-02</version>
-		<date>2026-09-02 07-14-30</date>
+		<description>IBM - PC compatible (13,485) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-02 22-39-02) (Retool)</description>
+		<version>2026-09-02 22-39-02</version>
+		<date>2026-09-03 07-14-41</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -35024,11 +35024,11 @@
 		<rom name="Guilty Gear X2 Reload - The Midnight Carnival (Europe).bin" size="838558560" crc="b72176f1" md5="83059c7ffcda462c3033ba38b437f8e4" sha1="ddf6fa67c8d59c8f3b258d732c64752c195313b0"/>
 		<rom name="Guilty Gear X2 Reload - The Midnight Carnival (Europe).cue" size="120" crc="99679871" md5="6e4db911afc20913b649a0817419d852" sha1="96d007d119a9bf0b53ca49d02836a12b04a32003"/>
 	</game>
-	<game name="Guimo (Europe) (Rerelease)" id="38910">
+	<game name="Guimo (Europe)" id="137880">
 		<category>Games</category>
-		<description>Guimo (Europe) (Rerelease)</description>
-		<rom name="Guimo (Europe) (Rerelease).bin" size="377670048" crc="9611f279" md5="1c95d315e81ec253cadbf58bac65cdb7" sha1="2d465e492f56db7e223614f10d06086b253d9535"/>
-		<rom name="Guimo (Europe) (Rerelease).cue" size="92" crc="2c8ac3ad" md5="13602ab3e4771b662a43f2f1322be628" sha1="55b4de2b58234bafd4803127657a2ad80bc69258"/>
+		<description>Guimo (Europe)</description>
+		<rom name="Guimo (Europe).bin" size="38445792" crc="c049078f" md5="a02df8323bd4f50b6a3948f2b6700647" sha1="f327bb1c63977e8c95d026affb9daeb173069e0e"/>
+		<rom name="Guimo (Europe).cue" size="80" crc="45daff1c" md5="79989974b8fbd849d093409df68456c8" sha1="e2b7b789fe90281ceea7ec7175223f679c32ced6"/>
 	</game>
 	<game name="Guitar Hero - Aerosmith (USA) (En,Fr,De,Es,It) (PC Install Disc, PC-Mac Play Disc)" id="101779">
 		<category>Games</category>
@@ -37272,6 +37272,16 @@
 		<category>Games</category>
 		<description>Heroes of Might and Magic V - Gold Edition (USA, Europe) (En,Fr,De,Es,It) (Disc 1)</description>
 		<rom name="Heroes of Might and Magic V - Gold Edition (USA, Europe) (En,Fr,De,Es,It) (Disc 1).iso" size="4393500672" crc="29a75c1e" md5="52ed94b3b21fd95e0e795f304dfc1fe4" sha1="fa0c875259a5cf7f87053d0671951e035cebeb7f"/>
+	</game>
+	<game name="Heroes of Might and Magic V - Limited Edition (USA) (Disc 1) (Might and Magic - Heroes V)" id="137845">
+		<category>Games</category>
+		<description>Heroes of Might and Magic V - Limited Edition (USA) (Disc 1) (Might and Magic - Heroes V)</description>
+		<rom name="Heroes of Might and Magic V - Limited Edition (USA) (Disc 1) (Might and Magic - Heroes V).iso" size="2612461568" crc="94ac832f" md5="d97b8576fe86b0e6287f3cf42b23a8b8" sha1="4e02b61b8d25188d4409df08161c8c4326dc9877"/>
+	</game>
+	<game name="Heroes of Might and Magic V - Limited Edition (USA) (Disc 2) (Heroes of Might and Magic IV &amp; Heroes of Might and Magic III)" id="137846">
+		<category>Games</category>
+		<description>Heroes of Might and Magic V - Limited Edition (USA) (Disc 2) (Heroes of Might and Magic IV &amp; Heroes of Might and Magic III)</description>
+		<rom name="Heroes of Might and Magic V - Limited Edition (USA) (Disc 2) (Heroes of Might and Magic IV &amp; Heroes of Might and Magic III).iso" size="1376354304" crc="f933a4d9" md5="97d6414431944a79532260c3fad295aa" sha1="d87955b8f3cf99f254067e5472e3109de38415d8"/>
 	</game>
 	<game name="Heroes of Might and Magic V - Tribes of the East (Italy) (En,Fr,De,Es,It) (Covermount)" id="116340">
 		<category>Games</category>
@@ -61203,17 +61213,17 @@
 		<rom name="Phonics 1b - Consonants Sounds (USA) (Track 28).bin" size="12627888" crc="35c21768" md5="cdb5a07edf9575e3c3d9f9fd28f17987" sha1="745114a41cb2a3643497bd951cdba996f07fe2d1"/>
 		<rom name="Phonics 1b - Consonants Sounds (USA).cue" size="3052" crc="6677c8c3" md5="d22919305f806709ce76b3b47c8312b3" sha1="d92062b301e25261aa261dcf302ffa07fa59d1cb"/>
 	</game>
-	<game name="Physicus - Save the World with Science! (USA) (Disc 1) (Rerelease)" id="47647">
+	<game name="Physicus (USA) (Disc 1) (Rerelease)" id="47647">
 		<category>Games</category>
-		<description>Physicus - Save the World with Science! (USA) (Disc 1) (Rerelease)</description>
-		<rom name="Physicus - Save the World with Science! (USA) (Disc 1) (Rerelease).bin" size="785045856" crc="fbdd781c" md5="db9f89bc4b54c5d299af71f5baac1036" sha1="d54d1bf81de31a8f9e970f2bdcdcd25806248cb6"/>
-		<rom name="Physicus - Save the World with Science! (USA) (Disc 1) (Rerelease).cue" size="132" crc="3c46e22c" md5="3c9b9f1d24fde3dd664e6ff1f78ec9e2" sha1="ce11c538998f05f93884e4eb4674118f2ded80e5"/>
+		<description>Physicus (USA) (Disc 1) (Rerelease)</description>
+		<rom name="Physicus (USA) (Disc 1) (Rerelease).bin" size="785045856" crc="fbdd781c" md5="db9f89bc4b54c5d299af71f5baac1036" sha1="d54d1bf81de31a8f9e970f2bdcdcd25806248cb6"/>
+		<rom name="Physicus (USA) (Disc 1) (Rerelease).cue" size="101" crc="ff74668c" md5="bc9650eb71ad7b131ad8bb0b31364e90" sha1="428ca058c4e11e302c50eac53baf53b6e276ca77"/>
 	</game>
-	<game name="Physicus - Save the World with Science! (USA) (Disc 2) (Rerelease)" id="47648">
+	<game name="Physicus (USA) (Disc 2) (Rerelease)" id="47648">
 		<category>Games</category>
-		<description>Physicus - Save the World with Science! (USA) (Disc 2) (Rerelease)</description>
-		<rom name="Physicus - Save the World with Science! (USA) (Disc 2) (Rerelease).bin" size="757254624" crc="06b2bc6a" md5="9900a7a2ec94c292e5cbea03b68bb4d2" sha1="721ce2a5a53180da86ffc7197f60ce1a8910bc03"/>
-		<rom name="Physicus - Save the World with Science! (USA) (Disc 2) (Rerelease).cue" size="132" crc="cee7c780" md5="57500070da70376b017845b3c7f17690" sha1="798dafa5adde7266f2fecfc55725b9c497683580"/>
+		<description>Physicus (USA) (Disc 2) (Rerelease)</description>
+		<rom name="Physicus (USA) (Disc 2) (Rerelease).bin" size="757254624" crc="06b2bc6a" md5="9900a7a2ec94c292e5cbea03b68bb4d2" sha1="721ce2a5a53180da86ffc7197f60ce1a8910bc03"/>
+		<rom name="Physicus (USA) (Disc 2) (Rerelease).cue" size="101" crc="0dd54320" md5="2eedb925b41de075e84c242b0a1b57bf" sha1="b8e29365b83cf143fa30439a71041814afe3a461"/>
 	</game>
 	<game name="Pick Me, Honey! (USA) (Game Disc)" id="36493">
 		<category>Games</category>
@@ -66219,11 +66229,11 @@
 		<description>ReCore - Definitive Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 2)</description>
 		<rom name="ReCore - Definitive Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 2).iso" size="7205621760" crc="22ee7108" md5="c4855fe395b706d851111775804c9702" sha1="5ef810c6e6b5916f1e7985bbc60f55d4d16dcc66"/>
 	</game>
-	<game name="Reach for the Stars (Germany)" id="51106">
+	<game name="Reach for the Stars (USA)" id="137853">
 		<category>Games</category>
-		<description>Reach for the Stars (Germany)</description>
-		<rom name="Reach for the Stars (Germany).bin" size="456840720" crc="f6f96728" md5="5710944c55519536e0c3882e40acbe9b" sha1="83831cf615451a1fdb023e500b1cad7b7107ecb0"/>
-		<rom name="Reach for the Stars (Germany).cue" size="95" crc="fae213d3" md5="2ec6d4dadcece77ac1d2014e2ee42076" sha1="ce4901082b1f6f9b05624e236032c18c8c9d2983"/>
+		<description>Reach for the Stars (USA)</description>
+		<rom name="Reach for the Stars (USA).bin" size="455561232" crc="5dc48854" md5="27ea5c00f6e528e8bce651dc2d919b68" sha1="dd31666b71847428952d09765c01e77f7668a06a"/>
+		<rom name="Reach for the Stars (USA).cue" size="91" crc="25ce888e" md5="9314f5bbf5f4264a2d4bcb33a686c310" sha1="9710fb9519ef4ee06c4e34cd37cb60142f011477"/>
 	</game>
 	<game name="Reaches (USA)" id="108794">
 		<category>Games</category>

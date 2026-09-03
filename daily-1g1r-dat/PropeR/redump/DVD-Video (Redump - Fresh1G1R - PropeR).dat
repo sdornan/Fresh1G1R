@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (1,008) (-y) [-aAbBcdkmMpPuv] (2026-09-01 13-29-02) (Retool)</description>
-		<version>2026-09-01 13-29-02</version>
-		<date>2026-09-02 07-23-02</date>
+		<description>DVD-Video (1,009) (-y) [-aAbBcdkmMpPuv] (2026-09-02 21-09-02) (Retool)</description>
+		<version>2026-09-02 21-09-02</version>
+		<date>2026-09-03 07-21-37</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1890,6 +1890,11 @@
 		<category>Bonus Discs</category>
 		<description>Hellgate - London - Bonus Disc (USA)</description>
 		<rom name="Hellgate - London - Bonus Disc (USA).iso" size="3645898752" crc="9d1a53c5" md5="957a526e2c445934c144113e32d09ab9" sha1="9289a517273626052e2ba8be6d1a1881f77479d6"/>
+	</game>
+	<game name="Heroes of Might and Magic V - Limited Edition (USA) (Disc 3) (Might and Magic - Limited Edition DVD)" id="137847">
+		<category>Bonus Discs</category>
+		<description>Heroes of Might and Magic V - Limited Edition (USA) (Disc 3) (Might and Magic - Limited Edition DVD)</description>
+		<rom name="Heroes of Might and Magic V - Limited Edition (USA) (Disc 3) (Might and Magic - Limited Edition DVD).iso" size="3086221312" crc="96cd7afe" md5="a4f2972d0f459ca0b4cd62dd5a8d7858" sha1="0e98989cac7d5d5fb27b7b4eee2b1a46ca19e79a"/>
 	</game>
 	<game name="Hiiro no Kakera - Shin Tamayori-hime Denshou - Cast Interview DVD (Japan) (PS2 Game Bundle)" id="75570">
 		<category>Bonus Discs</category>

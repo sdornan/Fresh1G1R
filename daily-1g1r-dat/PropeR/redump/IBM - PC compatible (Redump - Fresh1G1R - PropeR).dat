@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,573) (-y) [-aAbBcdkmMpPuv] (2026-09-02 02-29-02) (Retool)</description>
-		<version>2026-09-02 02-29-02</version>
-		<date>2026-09-02 07-24-03</date>
+		<description>IBM - PC compatible (26,585) (-y) [-aAbBcdkmMpPuv] (2026-09-02 22-39-02) (Retool)</description>
+		<version>2026-09-02 22-39-02</version>
+		<date>2026-09-03 07-22-25</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -240,6 +240,12 @@
 		<description>1001 Puzzles - The Puzzle Collection (Australia)</description>
 		<rom name="1001 Puzzles - The Puzzle Collection (Australia).bin" size="41439888" crc="dcec6baa" md5="8727ea89694b90925df9411976c70993" sha1="0f71ad4ae3068a4046d424b51f791f1e3d0fbf4e"/>
 		<rom name="1001 Puzzles - The Puzzle Collection (Australia).cue" size="114" crc="1b1683e8" md5="63fd6c8d5b2f8a65b914b0c2b8f8750b" sha1="a7abcb228d0bbcfa5c067abd2cf2075b69b9f6d5"/>
+	</game>
+	<game name="100man-nin no Tame no Mahjong (Japan)" id="137850">
+		<category>Games</category>
+		<description>100man-nin no Tame no Mahjong (Japan)</description>
+		<rom name="100man-nin no Tame no Mahjong (Japan).bin" size="101573472" crc="c69260f8" md5="7daa1cfbe3e2aebecdc2f7cb8c918cac" sha1="cd4d806ea4532aa39f7bdac031775501874509fe"/>
+		<rom name="100man-nin no Tame no Mahjong (Japan).cue" size="103" crc="26327e85" md5="3d46ab3e0004ba81bb0c2d4857980df9" sha1="1e927e086034220afa4c438a4881485fd790afc0"/>
 	</game>
 	<game name="101 - The Airborne Invasion of Normandy (USA) (v1.5.0)" id="125597">
 		<category>Games</category>
@@ -54776,6 +54782,11 @@
 		<description>Farming Simulator 2013 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs,Hu)</description>
 		<rom name="Farming Simulator 2013 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs,Hu).iso" size="1621006336" crc="0491c3c7" md5="7e71228596ddabc68d92cf2143ca0def" sha1="3eb5365424389bc292c71335b39d7e953893b24f"/>
 	</game>
+	<game name="Farming Simulator 2013 - Modding Tutorials (Germany)" id="137841">
+		<category>Add-Ons</category>
+		<description>Farming Simulator 2013 - Modding Tutorials (Germany)</description>
+		<rom name="Farming Simulator 2013 - Modding Tutorials (Germany).iso" size="4591124480" crc="f74416f7" md5="097c7bf3aeacfe55d1eabeae1bbda0ce" sha1="d6a0bd6e71b21da50dd32d8e1acdd7e679cffd2e"/>
+	</game>
 	<game name="Farming Simulator 2013 - Titanium Edition (USA) (En,Fr,De,It)" id="123783">
 		<category>Games</category>
 		<description>Farming Simulator 2013 - Titanium Edition (USA) (En,Fr,De,It)</description>
@@ -62421,6 +62432,12 @@
 		<rom name="Garri Potter i uznik Azkabana (Russia).bin" size="668882928" crc="ce8bd3ad" md5="536d1d66dd73a69a6c317ad4d3863287" sha1="7ca8c435a4023edfbc8cd1a9fcb648e38a9753a1"/>
 		<rom name="Garri Potter i uznik Azkabana (Russia).cue" size="104" crc="ed69c5bf" md5="cbe4727e782c69d66b470f7d8b5f01f7" sha1="a751c031e4d8a3eae888b378503044ab8c31dc83"/>
 	</game>
+	<game name="Garten-Simulator 2010 (Germany)" id="137842">
+		<category>Games</category>
+		<description>Garten-Simulator 2010 (Germany)</description>
+		<rom name="Garten-Simulator 2010 (Germany).bin" size="194101152" crc="c7acbdf3" md5="c9d6a9f7ecd30bc23f91a8ea49429511" sha1="77f22733001ba19f2fff54ca161da96e0eca7a2d"/>
+		<rom name="Garten-Simulator 2010 (Germany).cue" size="97" crc="139204ed" md5="f692f4fdee05c50a5169334ebe322008" sha1="f957d2b95903bf42609a68538a162b4760a791bc"/>
+	</game>
 	<game name="Gary Grigsby's World at War (USA)" id="107140">
 		<category>Games</category>
 		<description>Gary Grigsby's World at War (USA)</description>
@@ -66968,11 +66985,11 @@
 		<rom name="Guilty Gear XX Reload - The Midnight Carnival (Japan).bin" size="745369968" crc="f0d584d6" md5="65315a278ba1713cfcc99fbefa6df659" sha1="0e31456d1ecc79290239e2013a67b0507eee720d"/>
 		<rom name="Guilty Gear XX Reload - The Midnight Carnival (Japan).cue" size="119" crc="fc58c2ec" md5="677a5039c15ad51689ed34d62c03eda1" sha1="d8dc8fe30af83c7722a0ebbe3a97e43e75db5c4f"/>
 	</game>
-	<game name="Guimo (Europe) (Rerelease)" id="38910">
+	<game name="Guimo (Europe)" id="137880">
 		<category>Games</category>
-		<description>Guimo (Europe) (Rerelease)</description>
-		<rom name="Guimo (Europe) (Rerelease).bin" size="377670048" crc="9611f279" md5="1c95d315e81ec253cadbf58bac65cdb7" sha1="2d465e492f56db7e223614f10d06086b253d9535"/>
-		<rom name="Guimo (Europe) (Rerelease).cue" size="92" crc="2c8ac3ad" md5="13602ab3e4771b662a43f2f1322be628" sha1="55b4de2b58234bafd4803127657a2ad80bc69258"/>
+		<description>Guimo (Europe)</description>
+		<rom name="Guimo (Europe).bin" size="38445792" crc="c049078f" md5="a02df8323bd4f50b6a3948f2b6700647" sha1="f327bb1c63977e8c95d026affb9daeb173069e0e"/>
+		<rom name="Guimo (Europe).cue" size="80" crc="45daff1c" md5="79989974b8fbd849d093409df68456c8" sha1="e2b7b789fe90281ceea7ec7175223f679c32ced6"/>
 	</game>
 	<game name="Guitar Hero - Aerosmith (USA) (En,Fr,De,Es,It) (PC Install Disc, PC-Mac Play Disc)" id="101779">
 		<category>Games</category>
@@ -71133,6 +71150,16 @@
 		<description>Heroes of Might and Magic V - Hammers of Fate (Expansion Pack) (USA) (Disc 3)</description>
 		<rom name="Heroes of Might and Magic V - Hammers of Fate (Expansion Pack) (USA) (Disc 3).bin" size="461492976" crc="6abac5b7" md5="2ed3289463434dc9bf6bd14b008bbb46" sha1="a3abd2f76f53ad6f21406487edb96817f14330d7"/>
 		<rom name="Heroes of Might and Magic V - Hammers of Fate (Expansion Pack) (USA) (Disc 3).cue" size="143" crc="ab56c774" md5="54efd7fa7eeb8bd5baff6f3f8a477077" sha1="48d32dc4003690647d3f0f968f84df60d4b14944"/>
+	</game>
+	<game name="Heroes of Might and Magic V - Limited Edition (USA) (Disc 1) (Might and Magic - Heroes V)" id="137845">
+		<category>Games</category>
+		<description>Heroes of Might and Magic V - Limited Edition (USA) (Disc 1) (Might and Magic - Heroes V)</description>
+		<rom name="Heroes of Might and Magic V - Limited Edition (USA) (Disc 1) (Might and Magic - Heroes V).iso" size="2612461568" crc="94ac832f" md5="d97b8576fe86b0e6287f3cf42b23a8b8" sha1="4e02b61b8d25188d4409df08161c8c4326dc9877"/>
+	</game>
+	<game name="Heroes of Might and Magic V - Limited Edition (USA) (Disc 2) (Heroes of Might and Magic IV &amp; Heroes of Might and Magic III)" id="137846">
+		<category>Games</category>
+		<description>Heroes of Might and Magic V - Limited Edition (USA) (Disc 2) (Heroes of Might and Magic IV &amp; Heroes of Might and Magic III)</description>
+		<rom name="Heroes of Might and Magic V - Limited Edition (USA) (Disc 2) (Heroes of Might and Magic IV &amp; Heroes of Might and Magic III).iso" size="1376354304" crc="f933a4d9" md5="97d6414431944a79532260c3fad295aa" sha1="d87955b8f3cf99f254067e5472e3109de38415d8"/>
 	</game>
 	<game name="Heroes of Might and Magic V - Tribes of the East (Italy) (En,Fr,De,Es,It) (Covermount)" id="116340">
 		<category>Games</category>
@@ -77623,6 +77650,12 @@
 		<description>Interactive English Junior - In Viaggio (Italy)</description>
 		<rom name="Interactive English Junior - In Viaggio (Italy).bin" size="179055408" crc="d0d834f8" md5="95db015b97e8378ffdec50dfdcdaba3b" sha1="77ae8c334798afa461f959ffdf42ad8e6036abc5"/>
 		<rom name="Interactive English Junior - In Viaggio (Italy).cue" size="113" crc="a6d21e20" md5="b28f23f0e72fe556f1c044af27f06c6d" sha1="170748f89dbe5150cd89c28062e58d52d3fa7217"/>
+	</game>
+	<game name="Interactive English Junior - La Mappa del Mistero (Italy)" id="137878">
+		<category>Educational</category>
+		<description>Interactive English Junior - La Mappa del Mistero (Italy)</description>
+		<rom name="Interactive English Junior - La Mappa del Mistero (Italy).bin" size="220241280" crc="1009776d" md5="3107fd26a52bb5f17c53985f8b90d039" sha1="b4cd8f248f5dee33c6b1a8025d877396af728aad"/>
+		<rom name="Interactive English Junior - La Mappa del Mistero (Italy).cue" size="123" crc="6ca0a974" md5="cfe394989d41b26ebcb320d6e039f56f" sha1="bc4539239e509d9b0217afced3f2b5a522b4747b"/>
 	</game>
 	<game name="Interactive Math Journey (USA)" id="125613">
 		<category>Educational</category>
@@ -107188,6 +107221,16 @@
 		<rom name="MotoGP 2 (Europe) (En,Fr,De,Es,It) (Track 3).bin" size="3290448" crc="967f5ed3" md5="63ea94709539647798320af0327cee23" sha1="66c97749f7e9a4ccd7a654187cfb8ad89a979c51"/>
 		<rom name="MotoGP 2 (Europe) (En,Fr,De,Es,It).cue" size="371" crc="54b7fb68" md5="fff5e9ebebe105f2c857c943836c70e0" sha1="02df491eda558c39c6f032d0d773691acb0b80b6"/>
 	</game>
+	<game name="MotoGP 20 (Italy) (Disc 2)" id="137879">
+		<category>Games</category>
+		<description>MotoGP 20 (Italy) (Disc 2)</description>
+		<rom name="MotoGP 20 (Italy) (Disc 2).iso" size="8388739072" crc="64191c06" md5="3c99ef738fee678719a6cc2a91c472c9" sha1="1865bf1f0d21fbb27050de6c7fa986770897c380"/>
+	</game>
+	<game name="MotoGP 20 (Italy) (Disc 3)" id="137855">
+		<category>Games</category>
+		<description>MotoGP 20 (Italy) (Disc 3)</description>
+		<rom name="MotoGP 20 (Italy) (Disc 3).iso" size="2046492672" crc="2c225d9d" md5="5d27443860786779a3a8c1f135e7aadb" sha1="6871eacd0a4064d83e28b9b6aa6aa0d05a33d4d7"/>
+	</game>
 	<game name="MotoGP 3 (USA) (En,Fr,De,Es) (Rev 1)" id="97671">
 		<category>Games</category>
 		<description>MotoGP 3 (USA) (En,Fr,De,Es) (Rev 1)</description>
@@ -121153,6 +121196,18 @@
 		<rom name="Photo Genic (Korea) (Track 2).bin" size="3652656" crc="f483e763" md5="fa972d55dd6d7362c3faf4eec69fae2f" sha1="4cba94e8f4827327626daaebb954f23a6ab20856"/>
 		<rom name="Photo Genic (Korea).cue" size="208" crc="ca7974cc" md5="3e0c4db55a6b4a60e48ce71bab8831fc" sha1="569194d7fc6d4559b02cfd9bd2e7661cf00eca35"/>
 	</game>
+	<game name="Physicus (USA) (Disc 1) (Rerelease)" id="47647">
+		<category>Games</category>
+		<description>Physicus (USA) (Disc 1) (Rerelease)</description>
+		<rom name="Physicus (USA) (Disc 1) (Rerelease).bin" size="785045856" crc="fbdd781c" md5="db9f89bc4b54c5d299af71f5baac1036" sha1="d54d1bf81de31a8f9e970f2bdcdcd25806248cb6"/>
+		<rom name="Physicus (USA) (Disc 1) (Rerelease).cue" size="101" crc="ff74668c" md5="bc9650eb71ad7b131ad8bb0b31364e90" sha1="428ca058c4e11e302c50eac53baf53b6e276ca77"/>
+	</game>
+	<game name="Physicus (USA) (Disc 2) (Rerelease)" id="47648">
+		<category>Games</category>
+		<description>Physicus (USA) (Disc 2) (Rerelease)</description>
+		<rom name="Physicus (USA) (Disc 2) (Rerelease).bin" size="757254624" crc="06b2bc6a" md5="9900a7a2ec94c292e5cbea03b68bb4d2" sha1="721ce2a5a53180da86ffc7197f60ce1a8910bc03"/>
+		<rom name="Physicus (USA) (Disc 2) (Rerelease).cue" size="101" crc="0dd54320" md5="2eedb925b41de075e84c242b0a1b57bf" sha1="b8e29365b83cf143fa30439a71041814afe3a461"/>
+	</game>
 	<game name="Physicus - Die Ruckkehr (Germany) (Disc 1)" id="82585">
 		<category>Games</category>
 		<description>Physicus - Die Ruckkehr (Germany) (Disc 1)</description>
@@ -121164,18 +121219,6 @@
 		<description>Physicus - Die Ruckkehr (Germany) (Disc 2)</description>
 		<rom name="Physicus - Die Ruckkehr (Germany) (Disc 2).bin" size="824067888" crc="eb2e1929" md5="47c8f0fbbec6decee0da78f7c42e2e64" sha1="b515b935318f3f7b4439a97b280501ff955610dc"/>
 		<rom name="Physicus - Die Ruckkehr (Germany) (Disc 2).cue" size="108" crc="8335cfd2" md5="45e2791b8246304bd632abd73fd8ea92" sha1="266b8e75cd1a1b73101d38aecc85a64d1ee0d597"/>
-	</game>
-	<game name="Physicus - Save the World with Science! (USA) (Disc 1) (Rerelease)" id="47647">
-		<category>Games</category>
-		<description>Physicus - Save the World with Science! (USA) (Disc 1) (Rerelease)</description>
-		<rom name="Physicus - Save the World with Science! (USA) (Disc 1) (Rerelease).bin" size="785045856" crc="fbdd781c" md5="db9f89bc4b54c5d299af71f5baac1036" sha1="d54d1bf81de31a8f9e970f2bdcdcd25806248cb6"/>
-		<rom name="Physicus - Save the World with Science! (USA) (Disc 1) (Rerelease).cue" size="132" crc="3c46e22c" md5="3c9b9f1d24fde3dd664e6ff1f78ec9e2" sha1="ce11c538998f05f93884e4eb4674118f2ded80e5"/>
-	</game>
-	<game name="Physicus - Save the World with Science! (USA) (Disc 2) (Rerelease)" id="47648">
-		<category>Games</category>
-		<description>Physicus - Save the World with Science! (USA) (Disc 2) (Rerelease)</description>
-		<rom name="Physicus - Save the World with Science! (USA) (Disc 2) (Rerelease).bin" size="757254624" crc="06b2bc6a" md5="9900a7a2ec94c292e5cbea03b68bb4d2" sha1="721ce2a5a53180da86ffc7197f60ce1a8910bc03"/>
-		<rom name="Physicus - Save the World with Science! (USA) (Disc 2) (Rerelease).cue" size="132" crc="cee7c780" md5="57500070da70376b017845b3c7f17690" sha1="798dafa5adde7266f2fecfc55725b9c497683580"/>
 	</game>
 	<game name="Physikus (Germany) (Disc 1) (Rerelease)" id="70628">
 		<category>Games</category>
@@ -121469,6 +121512,18 @@
 		<rom name="Pilot (Germany) (Track 13).bin" size="11176704" crc="7480859b" md5="810ca6a76de66d00f4ccf759419deef2" sha1="8b6899660cabcb80d19d08f1eeb2704f064a3f38"/>
 		<rom name="Pilot (Germany) (Track 14).bin" size="15876000" crc="9a6e891b" md5="a44a748d99bbb2fa163697c53b818048" sha1="3e48a42d2b9b552fb6da84977d609f3c7977c222"/>
 		<rom name="Pilot (Germany).cue" size="1545" crc="7f5a1128" md5="944948479d5ae699d90c128b9de7c545" sha1="3c20a8a25f12a121d9a08a041a2dd7d6865be648"/>
+	</game>
+	<game name="Pilot Brothers (Germany)" id="137885">
+		<category>Games</category>
+		<description>Pilot Brothers (Germany)</description>
+		<rom name="Pilot Brothers (Germany).bin" size="74890032" crc="d95e27cf" md5="7b2c7b42f781e7e83ab2c31f79cf5c5c" sha1="dc779858a1eae080f381c43fb2e394add85877dd"/>
+		<rom name="Pilot Brothers (Germany).cue" size="113" crc="6c03d426" md5="b3a01c93a1c406ac1c96f309796d4eba" sha1="d8ab6452355c8132acd1317b90849a6fa6f0a02e"/>
+	</game>
+	<game name="Pilot Brothers Vol. 2 (Germany)" id="137886">
+		<category>Games</category>
+		<description>Pilot Brothers Vol. 2 (Germany)</description>
+		<rom name="Pilot Brothers Vol. 2 (Germany).bin" size="86473632" crc="83435363" md5="6b95f69d79df1b8459edcfd726d73e40" sha1="70baa4478fbeae6564931a13fbe22b2d017cf0b0"/>
+		<rom name="Pilot Brothers Vol. 2 (Germany).cue" size="97" crc="ec86b18e" md5="878e30e1dd94d1a1f0ca02b7aebba4c4" sha1="91ee506dc9591a8387ce24c91ccd93cccdf3ecb1"/>
 	</game>
 	<game name="Pilot Down - Behind Enemy Lines (Europe) (En,Fr,De,Es,It)" id="85452">
 		<category>Games</category>
@@ -126622,6 +126677,12 @@
 		<rom name="ProSieben Mystery - Der vergessene Gott (Germany) (Disc 3).bin" size="727452432" crc="45ffe533" md5="640203d6af991c89e04f951024b8fd0a" sha1="0fd44a3fac822a6cec562343919688b8a624608e"/>
 		<rom name="ProSieben Mystery - Der vergessene Gott (Germany) (Disc 3).cue" size="124" crc="31931a83" md5="14afb30170ed580db39e1839079bef6a" sha1="803572c6ad070961b642c635d1aa5fb67026a174"/>
 	</game>
+	<game name="ProTrain 4 - Hamburg - Berlin (Germany)" id="137859">
+		<category>Add-Ons</category>
+		<description>ProTrain 4 - Hamburg - Berlin (Germany)</description>
+		<rom name="ProTrain 4 - Hamburg - Berlin (Germany).bin" size="472394496" crc="a86fb51f" md5="3f27dfb517923242da08ad2f15e313bf" sha1="a175a3cf82e0cf2a46524bd9d395348b3d4680d0"/>
+		<rom name="ProTrain 4 - Hamburg - Berlin (Germany).cue" size="105" crc="f186d604" md5="e07ba880c21bda1d9967bf918ba1ff32" sha1="400a49496cd920bfd6535637d29e940079d7f7ba"/>
+	</game>
 	<game name="ProTrain Perfect 2 - Der Eisenbahnsimulator (Germany)" id="112370">
 		<category>Games</category>
 		<description>ProTrain Perfect 2 - Der Eisenbahnsimulator (Germany)</description>
@@ -131282,11 +131343,11 @@
 		<rom name="ReVolte (Japan) (Track 12).bin" size="42538272" crc="0449429b" md5="4da42d436e451290a0b86803745b3716" sha1="3cda2826ed2781693aca252448c4c98723371fa1"/>
 		<rom name="ReVolte (Japan).cue" size="1325" crc="11cb458f" md5="3932d0d71d77d8aa21ebd645c6f9ed08" sha1="5b4458c9c5c14338da12c285435482b0c1daf354"/>
 	</game>
-	<game name="Reach for the Stars (Germany)" id="51106">
+	<game name="Reach for the Stars (USA)" id="137853">
 		<category>Games</category>
-		<description>Reach for the Stars (Germany)</description>
-		<rom name="Reach for the Stars (Germany).bin" size="456840720" crc="f6f96728" md5="5710944c55519536e0c3882e40acbe9b" sha1="83831cf615451a1fdb023e500b1cad7b7107ecb0"/>
-		<rom name="Reach for the Stars (Germany).cue" size="95" crc="fae213d3" md5="2ec6d4dadcece77ac1d2014e2ee42076" sha1="ce4901082b1f6f9b05624e236032c18c8c9d2983"/>
+		<description>Reach for the Stars (USA)</description>
+		<rom name="Reach for the Stars (USA).bin" size="455561232" crc="5dc48854" md5="27ea5c00f6e528e8bce651dc2d919b68" sha1="dd31666b71847428952d09765c01e77f7668a06a"/>
+		<rom name="Reach for the Stars (USA).cue" size="91" crc="25ce888e" md5="9314f5bbf5f4264a2d4bcb33a686c310" sha1="9710fb9519ef4ee06c4e34cd37cb60142f011477"/>
 	</game>
 	<game name="Reaches (USA)" id="108794">
 		<category>Games</category>
@@ -146678,6 +146739,12 @@
 		<category>Games</category>
 		<description>Shunkyoku no Tyrhhia - What a Beautiful Dawn (Japan)</description>
 		<rom name="Shunkyoku no Tyrhhia - What a Beautiful Dawn (Japan).iso" size="4693241856" crc="f21b658a" md5="6cf7fccecd76eee9e5865269821a2ae3" sha1="bd3d1c0f31c10dc4fd96cb6a3b10ed3136a2ca74"/>
+	</game>
+	<game name="Shuppoppo (Japan)" id="137851">
+		<category>Games</category>
+		<description>Shuppoppo (Japan)</description>
+		<rom name="Shuppoppo (Japan).bin" size="167469456" crc="740a3d7e" md5="784337837a4f2f497a5f6f2ecff92621" sha1="dd9b5f778265ca24b98d3f93099e0e3a01ed0c17"/>
+		<rom name="Shuppoppo (Japan).cue" size="83" crc="f7f8c3db" md5="71f66385c5bdbf70678ce4d81363aa8d" sha1="00be9782ce211b46915b899f088b27c80075b47b"/>
 	</game>
 	<game name="Shuppoppo II (Japan)" id="103552">
 		<category>Games</category>
