@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,053) (-y) [-aAbBcefkmMoprv] (2026-09-02 22-39-02) (Retool)</description>
-		<version>2026-09-02 22-39-02</version>
-		<date>2026-09-03 07-06-33</date>
+		<description>IBM - PC compatible (26,059) (-y) [-aAbBcefkmMoprv] (2026-09-04 01-29-17) (Retool)</description>
+		<version>2026-09-04 01-29-17</version>
+		<date>2026-09-04 07-10-36</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -6706,6 +6706,12 @@
 		<description>Alexey's Dwice (USA)</description>
 		<rom name="Alexey's Dwice (USA).bin" size="17901072" crc="1088cfbf" md5="1911c179284b7e5af1ce860c635f1ecb" sha1="cadb748ce5ce0a59f496bbdd403eef6869c14de4"/>
 		<rom name="Alexey's Dwice (USA).cue" size="86" crc="3defa7d3" md5="5ec91e0ec487b0fe2c74a6c5402b910f" sha1="c03248d343215de3267b999d66aa05f160507182"/>
+	</game>
+	<game name="Alfee Good Luck Slot Destiny, The (Japan)" id="137894">
+		<category>Games</category>
+		<description>Alfee Good Luck Slot Destiny, The (Japan)</description>
+		<rom name="Alfee Good Luck Slot Destiny, The (Japan).bin" size="304160640" crc="f1517e33" md5="7faf34d7e80f6c4b4d4934c618a9b7ac" sha1="b8f17edfe2473a70ebff3b027caa2600cac61e8e"/>
+		<rom name="Alfee Good Luck Slot Destiny, The (Japan).cue" size="130" crc="cd50cfed" md5="b1358b542deb20f22d30778de2f76ff6" sha1="58028a82f90d4669010df74c11728d039ca1510e"/>
 	</game>
 	<game name="Alfons Aberg Bara overallt! (Sweden)" id="122811">
 		<category>Games</category>
@@ -18082,17 +18088,17 @@
 		<description>Beyond Good &amp; Evil (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Beyond Good &amp; Evil (USA) (En,Fr,De,Es,It,Nl).iso" size="2040430592" crc="eb789938" md5="7c998b852e0d688dec235da13813b191" sha1="c7ec39c4e05d3a674d76a95c19fc2c2a77cf0387"/>
 	</game>
-	<game name="Beyond Good &amp; Evil (USA) (En,Fr,De,Es,It,Nl) (Disc 1)" id="45940">
+	<game name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 1)" id="45940">
 		<category>Games</category>
-		<description>Beyond Good &amp; Evil (USA) (En,Fr,De,Es,It,Nl) (Disc 1)</description>
-		<rom name="Beyond Good &amp; Evil (USA) (En,Fr,De,Es,It,Nl) (Disc 1).bin" size="795371136" crc="6336bc2b" md5="334482e471dd599b6965a6a491fc728c" sha1="f11b706d4d0c4e44a91dc4f7b86095f7d1b71fad"/>
-		<rom name="Beyond Good &amp; Evil (USA) (En,Fr,De,Es,It,Nl) (Disc 1).cue" size="119" crc="2ec23577" md5="a28b9bd6a3b214520602736cb74f3781" sha1="a6d282c03ef70af3f3f46ad34fca21f4af03cf96"/>
+		<description>Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 1)</description>
+		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 1).bin" size="795371136" crc="6336bc2b" md5="334482e471dd599b6965a6a491fc728c" sha1="f11b706d4d0c4e44a91dc4f7b86095f7d1b71fad"/>
+		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 1).cue" size="127" crc="ba99d590" md5="027f4a0454844a75ccdc55495c6b5649" sha1="e61726df218386e48d3579f81c6eeab0e236d2cd"/>
 	</game>
-	<game name="Beyond Good &amp; Evil (USA) (En,Fr,De,Es,It,Nl) (Disc 2)" id="45941">
+	<game name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 2)" id="45941">
 		<category>Games</category>
-		<description>Beyond Good &amp; Evil (USA) (En,Fr,De,Es,It,Nl) (Disc 2)</description>
-		<rom name="Beyond Good &amp; Evil (USA) (En,Fr,De,Es,It,Nl) (Disc 2).bin" size="795425232" crc="09a77928" md5="02fa38e82fa1338b51956778aecbcc0e" sha1="bd2e28b733df7567d1cb59cc20e86bf21f9787f1"/>
-		<rom name="Beyond Good &amp; Evil (USA) (En,Fr,De,Es,It,Nl) (Disc 2).cue" size="119" crc="2f9f13a6" md5="d43721f2ac0e068a5c0b3143614f0e8d" sha1="a8481c0b7ed87c848648a5a0a1f2482b38a69d09"/>
+		<description>Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 2)</description>
+		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 2).bin" size="795425232" crc="09a77928" md5="02fa38e82fa1338b51956778aecbcc0e" sha1="bd2e28b733df7567d1cb59cc20e86bf21f9787f1"/>
+		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 2).cue" size="127" crc="bbc4f341" md5="4c6f0ce82bb22605be7d14de2ad6b93e" sha1="f4fd96e3103b5fd1aaecf0136ec71b137ef2f92a"/>
 	</game>
 	<game name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 3)" id="8776">
 		<category>Games</category>
@@ -24555,6 +24561,18 @@
 		<description>Cap &amp; Co - Detectivebureau (Belgium, Netherlands)</description>
 		<rom name="Cap &amp; Co - Detectivebureau (Belgium, Netherlands).bin" size="388510416" crc="730825c1" md5="f8e140e3c530f22d4b4bfdedbcd23cb7" sha1="e8295154a735591b82a257cd1680f672064a0ca0"/>
 		<rom name="Cap &amp; Co - Detectivebureau (Belgium, Netherlands).cue" size="138" crc="3cd02e64" md5="99859317a7cad394348150342e089d47" sha1="255813841071c89afcef85fe96fcbf6cb6cdbdc6"/>
+	</game>
+	<game name="Cap sur l'ile au tresor (France) (En,Fr) (Disc 1)" id="137899">
+		<category>Games</category>
+		<description>Cap sur l'ile au tresor (France) (En,Fr) (Disc 1)</description>
+		<rom name="Cap sur l'ile au tresor (France) (En,Fr) (Disc 1).bin" size="833073696" crc="0c8e5558" md5="9509c33caf7803d6716c37d0eb8093d2" sha1="327b5e734d17fdadf428f9cc97561a11489d1f72"/>
+		<rom name="Cap sur l'ile au tresor (France) (En,Fr) (Disc 1).cue" size="115" crc="6078965e" md5="810e1d0352897faa15fce12a3107eae9" sha1="0ae8c2d69e17043574859bdb1fe6050ef4ffd1eb"/>
+	</game>
+	<game name="Cap sur l'ile au tresor (France) (En,Fr) (Disc 2)" id="137900">
+		<category>Games</category>
+		<description>Cap sur l'ile au tresor (France) (En,Fr) (Disc 2)</description>
+		<rom name="Cap sur l'ile au tresor (France) (En,Fr) (Disc 2).bin" size="811362384" crc="7f6480a8" md5="eaa77450112b75a475bb90f8b197d3e3" sha1="66c3b01bdf6b9972012418dda5cee0c93f93850f"/>
+		<rom name="Cap sur l'ile au tresor (France) (En,Fr) (Disc 2).cue" size="115" crc="6125b08f" md5="b7dbc08d723fc5ad1f0c7dd2a7ce340e" sha1="63354e7baeec7c3ba7b7bf952f75f2a5edaac78e"/>
 	</game>
 	<game name="Cap'n Crunch's Crunchling Adventure (USA)" id="28732">
 		<category>Games</category>
@@ -104129,6 +104147,11 @@
 		<rom name="MotoGP 2 (Europe) (En,Fr,De,Es,It) (Track 3).bin" size="3290448" crc="967f5ed3" md5="63ea94709539647798320af0327cee23" sha1="66c97749f7e9a4ccd7a654187cfb8ad89a979c51"/>
 		<rom name="MotoGP 2 (Europe) (En,Fr,De,Es,It).cue" size="371" crc="54b7fb68" md5="fff5e9ebebe105f2c857c943836c70e0" sha1="02df491eda558c39c6f032d0d773691acb0b80b6"/>
 	</game>
+	<game name="MotoGP 20 (Italy) (Disc 1)" id="137902">
+		<category>Games</category>
+		<description>MotoGP 20 (Italy) (Disc 1)</description>
+		<rom name="MotoGP 20 (Italy) (Disc 1).iso" size="8388608000" crc="da9416c9" md5="6ea2df354c52b86bca31f09f6bd52bf8" sha1="2fb399e998134eae268127b63ef45d4776c9c721"/>
+	</game>
 	<game name="MotoGP 20 (Italy) (Disc 2)" id="137879">
 		<category>Games</category>
 		<description>MotoGP 20 (Italy) (Disc 2)</description>
@@ -114226,6 +114249,12 @@
 		<category>Games</category>
 		<description>PC Igry - 02-2006 (26) (Russia) (Disc 1)</description>
 		<rom name="PC Igry - 02-2006 (26) (Russia) (Disc 1).iso" size="8543666176" crc="157aad58" md5="281cbb34bb8500175a8001c56e5cf1d1" sha1="0fe7c02578561d902f41b358bbeec8de901f2ddd"/>
+	</game>
+	<game name="PC Magazine Gaming MegaPac (USA)" id="137903">
+		<category>Games</category>
+		<description>PC Magazine Gaming MegaPac (USA)</description>
+		<rom name="PC Magazine Gaming MegaPac (USA).bin" size="523287072" crc="60b7af80" md5="ebe6a9fe2f65602d5e5cfa93dd108111" sha1="6a87ad76f0a2cb4f32c73d77fb4db98758c60730"/>
+		<rom name="PC Magazine Gaming MegaPac (USA).cue" size="121" crc="4737f73f" md5="8fb1d989bda155ba2f9593f78a211870" sha1="1384790580bb54711f1308bf1b402982c9520493"/>
 	</game>
 	<game name="PC Magazine Gaming MegaPac Volume 2 (USA)" id="135927">
 		<category>Games</category>
@@ -130449,10 +130478,10 @@
 		<rom name="Riding Star (Germany) (Track 6).bin" size="4219488" crc="3732bd10" md5="644c450b0efb1e0b602ba216085bf1bb" sha1="3de7b3fdda2dbe8305a76e47e9aad376cf40b411"/>
 		<rom name="Riding Star (Germany).cue" size="672" crc="716c3812" md5="e47dcd08fd7e0986d3910b9a1d50eaed" sha1="cce2b9054bb2767f5fe467051b130e2a3849778c"/>
 	</game>
-	<game name="Rift (Australia) (En,Fr,De)" id="31388">
+	<game name="Rift (Europe) (En,Fr,De)" id="70376">
 		<category>Games</category>
-		<description>Rift (Australia) (En,Fr,De)</description>
-		<rom name="Rift (Australia) (En,Fr,De).iso" size="8030257152" crc="4b95e3c3" md5="2ad33553bfc15113f860e7c92fe8094f" sha1="aa2aee6767d2b375dccdd5bc763462f3d0bd0f79"/>
+		<description>Rift (Europe) (En,Fr,De)</description>
+		<rom name="Rift (Europe) (En,Fr,De).iso" size="8030060544" crc="e8c049ac" md5="b3e2623b1394a3704701424867b95520" sha1="d000871ed4562217cf05f97949a6b64347b28626"/>
 	</game>
 	<game name="Rift (USA, Europe) (En,Fr,De) (Game Disc)" id="42715">
 		<category>Games</category>
@@ -171603,6 +171632,12 @@
 		<rom name="Virtual Pool (USA) (v1.8.0.4) (1998-10-22) (Track 7).bin" size="40395600" crc="34b50ed9" md5="72fa76592820bb9a2007de6ca725dc6e" sha1="0bf90542424373c079840bfdad66825033012fc3"/>
 		<rom name="Virtual Pool (USA) (v1.8.0.4) (1998-10-22) (Track 8).bin" size="27694800" crc="0b3de078" md5="98df58d7d165337cd8c8519ecb0b7e1e" sha1="e0660d069ef7dd16b0cae7d4e78cc8a843e96d02"/>
 		<rom name="Virtual Pool (USA) (v1.8.0.4) (1998-10-22).cue" size="1070" crc="ff160d0e" md5="60b13c6bc8e00e88f1fc231e8ddd0877" sha1="407953e279e0a10f496fa50c4941a314c465ae8e"/>
+	</game>
+	<game name="Virtual Pool - Straight-8 (USA) (OEM)" id="137901">
+		<category>Demos</category>
+		<description>Virtual Pool - Straight-8 (USA) (OEM)</description>
+		<rom name="Virtual Pool - Straight-8 (USA) (OEM).bin" size="522407424" crc="7d14d1ee" md5="63902926f3f3617305bc56d0f83b15e7" sha1="acc40291f0c6b6d4cd5926063318a40dd49c8cb0"/>
+		<rom name="Virtual Pool - Straight-8 (USA) (OEM).cue" size="126" crc="730f88f2" md5="a98e9b60a7e54a3700a1bf31d572e0a6" sha1="12146778141fe6f50be4637b20813ecd2dbf16a4"/>
 	</game>
 	<game name="Virtual Pool 2 (USA)" id="68514">
 		<category>Games</category>

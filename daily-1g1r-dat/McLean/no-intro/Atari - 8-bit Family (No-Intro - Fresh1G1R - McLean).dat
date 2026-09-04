@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Atari - 8-bit Family (Retool)</name>
-		<description>Atari - 8-bit Family (37) (-ly) [-aAbBcdDefkmMopPruv] (20260614-065043) (Retool)</description>
-		<version>20260614-065043</version>
-		<date>2026-09-03 07-19-20</date>
+		<description>Atari - 8-bit Family (38) (-ly) [-aAbBcdDefkmMopPruv] (20260903-131744) (Retool)</description>
+		<version>20260903-131744</version>
+		<date>2026-09-04 07-22-50</date>
 		<author>Arctic Circle System, FakeShemp, Gefflon, MeguCocoa, rarenight, smesgr, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -75,6 +75,11 @@
 		<category>Games</category>
 		<description>Desert Falcon (USA, Europe)</description>
 		<rom name="Desert Falcon (USA, Europe).bin" size="65536" crc="a8f9324d" md5="cbb80479b6c87b9e341c3662635a3af4" sha1="fd4666796a4498339835d75ddb63c7b99d1d93bb" sha256="92e0233d5e2ca26cca4a0e9896ac29fe786e1adc95c5d5eeafaf2896c8965661"/>
+	</game>
+	<game name="E.T. Phone Home! (USA)" id="0044">
+		<category>Games</category>
+		<description>E.T. Phone Home! (USA)</description>
+		<rom name="E.T. Phone Home! (USA).bin" size="16384" crc="bce4ef51" md5="8b8fb5cfdd26b7f352198af07402f3f5" sha1="c4a10ce59ee183ef4299e50a0825ec23b4315b56" sha256="d4e7c1ad9033ffe43ce0c66095aef476388f8c89e1d159330fc1ef2f42e99671"/>
 	</game>
 	<game name="Eastern Front (1941) (USA)" id="0036">
 		<category>Games</category>

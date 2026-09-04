@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Atari - Atari 2600 (Retool)</name>
-		<description>Atari - Atari 2600 (496) (-y) [-aAbBcdkmMpPuv] (20260901-132711) (Retool)</description>
-		<version>20260901-132711</version>
-		<date>2026-09-03 07-29-00</date>
+		<description>Atari - Atari 2600 (496) (-y) [-aAbBcdkmMpPuv] (20260903-044236) (Retool)</description>
+		<version>20260903-044236</version>
+		<date>2026-09-04 07-30-50</date>
 		<author>1988reload, ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1204,7 +1204,7 @@
 	<game name="Midnight Magic (USA)" id="0264">
 		<category>Games</category>
 		<description>Midnight Magic (USA)</description>
-		<rom name="Midnight Magic (USA).a26" size="16384" crc="5c5447b9" md5="f1554569321dc933c87981cf5c239c43" sha1="7fcf95459ea597a332bf5b6f56c8f891307b45b4"/>
+		<rom name="Midnight Magic (USA).a26" size="16384" crc="5c5447b9" md5="f1554569321dc933c87981cf5c239c43" sha1="7fcf95459ea597a332bf5b6f56c8f891307b45b4" sha256="fe6493171a94abd7d43724f8865f8500152d568580a084e769dd2811dd618277"/>
 	</game>
 	<game name="Millipede (USA)" id="0265">
 		<category>Games</category>
