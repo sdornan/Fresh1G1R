@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Atari - Jaguar CD Interactive Multimedia System (Retool)</name>
-		<description>Atari - Jaguar CD Interactive Multimedia System (30) (-y) [-aAbBcefkmMoprv] (2026-08-13 18-06-56) (Retool)</description>
-		<version>2026-08-13 18-06-56</version>
-		<date>2026-09-04 07-09-28</date>
+		<description>Atari - Jaguar CD Interactive Multimedia System (33) (-y) [-aAbBcefkmMoprv] (2026-09-04 10-40-37) (Retool)</description>
+		<version>2026-09-04 10-40-37</version>
+		<date>2026-09-05 06-54-08</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -274,6 +274,36 @@
 		<rom name="Iron Soldier 2 (USA) (Songbird) (Track 19).bin" size="26147184" crc="e6ddaee0" md5="87b4472c7d89ba09a58513b443b3c9d1" sha1="0f2f3113e3a4e93ad6a742587673d73bbf63f34e"/>
 		<rom name="Iron Soldier 2 (USA) (Songbird) (Track 20).bin" size="1404144" crc="5d114d8a" md5="f656ad90b4c4da17036692613e12470a" sha1="3f815173b2c0192cfb358bedef5256c34246ae18"/>
 		<rom name="Iron Soldier 2 (USA) (Songbird).cue" size="2806" crc="8e080e75" md5="aef8830fcf9a264c36c2bee8e5116d4c" sha1="72d2b4e6745902f8afeea7d0fa40d6355db032ab"/>
+	</game>
+	<game name="Jaguar Extremist Pack 1 (USA) (Disc 1) (Unl)" id="137917">
+		<category>Preproduction</category>
+		<description>Jaguar Extremist Pack 1 (USA) (Disc 1) (Unl)</description>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 1) (Unl).bin" size="5414304" crc="0a836424" md5="a1a3a4d9dc07ed599435812202f047eb" sha1="567190af053cf6dcc4f9313d22f01a17a353368c"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 1) (Unl).cue" size="110" crc="6c30f8be" md5="2d32b72fe34a239341fdc5068534c5e7" sha1="b28506bb12b54a176a6b806cb0ba1648d864af94"/>
+	</game>
+	<game name="Jaguar Extremist Pack 1 (USA) (Disc 2) (Unl)" id="137918">
+		<category>Preproduction</category>
+		<description>Jaguar Extremist Pack 1 (USA) (Disc 2) (Unl)</description>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 2) (Unl) (Track 1).bin" size="1053696" crc="191c88d7" md5="d8c807af59fd9f3cbe071b59e9b77d50" sha1="07a9ff97156b46dbb07eba3c5a248647908e23ac"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 2) (Unl) (Track 2).bin" size="1406496" crc="b9687408" md5="441332c47ab524a523c091de2fa4050f" sha1="ab5ae603d4cbe154dd67ce097a64b4916b485bbd"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 2) (Unl) (Track 3).bin" size="23108400" crc="f5c995c8" md5="b0831a2160a605596a0e55497ade3f63" sha1="3559c3960d9fd08ff61ee161eba310d02cb0b07b"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 2) (Unl) (Track 4).bin" size="640698912" crc="829360a4" md5="63440a3a571bbe1be763f00c34a37037" sha1="05fd5e7a5d232d5bd74287ae165f68f823552ad5"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 2) (Unl).cue" size="538" crc="7e7f86e9" md5="c78605a39af74354326686ea4f1f258b" sha1="549c2cb89c341a4e2092704577c78aa231b544a2"/>
+	</game>
+	<game name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl)" id="137919">
+		<category>Preproduction</category>
+		<description>Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl)</description>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl) (Track 01).bin" size="9699648" crc="8ea77a75" md5="43cb675d669f670f8e5a2ef40963b08a" sha1="9304d7bcd6544c93798cedb89c24f049209394f9"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl) (Track 02).bin" size="1404144" crc="143642e5" md5="cd980a76d7d71116098f219adfa32b47" sha1="c77e50cb52a162c9eab6479c7e6128c460116126"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl) (Track 03).bin" size="138274080" crc="39f43922" md5="d2bd557f5121ec233573b78d79d329be" sha1="93b3c65be12179cd073d8e09be00757030d72f59"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl) (Track 04).bin" size="52096800" crc="de7dea74" md5="408379efbe5c0511ef5dd3672d0675cd" sha1="c9f7f9393257069b2ff2388d1afcc2a332439cd0"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl) (Track 05).bin" size="82764528" crc="c5fc6e9e" md5="c974ff8a36902cdf74b0f827eb05a409" sha1="e39273ac893e54b67aff4f21e15f5b10b081f8bf"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl) (Track 06).bin" size="82646928" crc="d7ebf549" md5="ab58616993fcd01d31635219a065c909" sha1="6c64b196a6d22af30c076caf17e527cbd7f766dc"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl) (Track 07).bin" size="82811568" crc="c10faa1d" md5="8038f613aef3a97186f2bf405923c692" sha1="3774e6f2c6720511fb6dafc4acd87d5a4381c331"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl) (Track 08).bin" size="82000128" crc="2aae8c16" md5="809b2d1b4d101c5bbbb45cb9a96f6f4f" sha1="1f1aca3fd8d8bd1a8428816c9ac0abfe717bce9e"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl) (Track 09).bin" size="82764528" crc="28aafcc4" md5="f61c6faadbec197f39a731dd2ac94103" sha1="fbe05b370a72b27f978c509c8fd66e69a7eb96b3"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl) (Track 10).bin" size="1051344" crc="904c78df" md5="e963c32d5713aa975f72d4a199022f2c" sha1="1612903adbd26c829af1ae277abe494c7fcbb388"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 3) (Unl).cue" size="1422" crc="9fab3769" md5="e4071bdc70ea84150e2f1ee9dd3ef268" sha1="61c8bbfd759c9b50ba2eb54c33096ae12700d8ff"/>
 	</game>
 	<game name="Klax (USA) (Unl)" id="96329">
 		<category>Games</category>

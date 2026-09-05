@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,059) (-y) [-aAbBcefkmMoprv] (2026-09-04 01-29-17) (Retool)</description>
-		<version>2026-09-04 01-29-17</version>
-		<date>2026-09-04 07-10-36</date>
+		<description>IBM - PC compatible (26,080) (-y) [-aAbBcefkmMoprv] (2026-09-05 01-22-03) (Retool)</description>
+		<version>2026-09-05 01-22-03</version>
+		<date>2026-09-05 06-55-33</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -13754,6 +13754,12 @@
 		<rom name="Azada - In Libro (Germany).bin" size="674847600" crc="0765dad2" md5="e52b4e78a64ee38924bf1ec94e2f1358" sha1="079a821d4be3bc80da0aa6afe7a18f6bb5a5bb33"/>
 		<rom name="Azada - In Libro (Germany).cue" size="92" crc="765fafc5" md5="65e7714374acffaf874ded5c33001f47" sha1="20405f707606f47b2f837cfd0c7c57b49841381c"/>
 	</game>
+	<game name="Azada - Kniga tajn (Russia)" id="137925">
+		<category>Games</category>
+		<description>Azada - Kniga tajn (Russia)</description>
+		<rom name="Azada - Kniga tajn (Russia).bin" size="652839936" crc="0f36fcee" md5="ace01ea9217798ce0bff6ebb13ce2a97" sha1="28f89797565d70d448844f8c7e8993815f3fdb91"/>
+		<rom name="Azada - Kniga tajn (Russia).cue" size="93" crc="cf6e6da8" md5="f2ce38703118703419b632d7b7f75bb3" sha1="8f95b45108384a03bec684aa89ca047ede056cb7"/>
+	</game>
 	<game name="Azartnyj igrok (Russia)" id="97001">
 		<category>Games</category>
 		<description>Azartnyj igrok (Russia)</description>
@@ -20778,6 +20784,12 @@
 		<rom name="Boggle (USA) (En,Fr,De,Es,Nl) (General Mills) (2001-01-08).bin" size="422830800" crc="326db8c4" md5="1113892dd8d7d07b973b9b8fa1beb68c" sha1="28e41b220a9aeb71c500f9dd281587b42cab11cd"/>
 		<rom name="Boggle (USA) (En,Fr,De,Es,Nl) (General Mills) (2001-01-08).cue" size="124" crc="c9feba46" md5="f7e423053749ab04aaad2d16cbf4c645" sha1="db45a60949e84c0779ca4fec14c8199a6c13c480"/>
 	</game>
+	<game name="Boggle, Upwords, Hangman, and Word Hunter (USA)" id="85676">
+		<category>Games</category>
+		<description>Boggle, Upwords, Hangman, and Word Hunter (USA)</description>
+		<rom name="Boggle, Upwords, Hangman, and Word Hunter (USA).bin" size="353924256" crc="99494a01" md5="0b63d6061380e2cd45bfcb71360b5e76" sha1="0bc2c58773df39a50debc7ab040988ce7af86c0f"/>
+		<rom name="Boggle, Upwords, Hangman, and Word Hunter (USA).cue" size="113" crc="f5727a79" md5="04308123c91448ee92abb5279fcada60" sha1="aa747a37c86d10c4bb1d5b75959321e9188d50bf"/>
+	</game>
 	<game name="Boi bez pravil (Russia)" id="108411">
 		<category>Games</category>
 		<description>Boi bez pravil (Russia)</description>
@@ -21986,6 +21998,11 @@
 		<description>Broken Sword - La Leyenda de los Templarios (Spain) (Disk 2)</description>
 		<rom name="Broken Sword - La Leyenda de los Templarios (Spain) (Disk 2).bin" size="659028048" crc="b1652716" md5="938cc6f52c2ae91313763a6daf04715e" sha1="81b5dda17d84c0d24407f9ff97240fcaf08d74e7"/>
 		<rom name="Broken Sword - La Leyenda de los Templarios (Spain) (Disk 2).cue" size="126" crc="a6d51e5f" md5="73363be920024ed0919dae2abf5938f8" sha1="25b581b1726a706fbf85815e51c8200bbbe80d3f"/>
+	</game>
+	<game name="Broken Sword - Shadow of the Templars - Reforged (Europe) (En,Fr,De,Es,It)" id="137910">
+		<category>Games</category>
+		<description>Broken Sword - Shadow of the Templars - Reforged (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Broken Sword - Shadow of the Templars - Reforged (Europe) (En,Fr,De,Es,It).iso" size="7750756352" crc="7609884b" md5="de6e48d193de12671f99a50a49d4a859" sha1="4a680585785f7382514d3282f4899570b9ef5aa5"/>
 	</game>
 	<game name="Broken Sword - The Angel of Death (Europe) (En,Fr,De,Es,It)" id="17893">
 		<category>Games</category>
@@ -26213,6 +26230,12 @@
 		<description>Championship Manager 5 (Europe) (En,Fr,It)</description>
 		<rom name="Championship Manager 5 (Europe) (En,Fr,It).bin" size="205444848" crc="7a28c415" md5="0547e4215a87473d21ed45c80abdae44" sha1="6680288851545b77b7022ed868b72faa456da102"/>
 		<rom name="Championship Manager 5 (Europe) (En,Fr,It).cue" size="108" crc="6d05a77d" md5="c0fe88b28d4ee43fb6b46a3689cb7235" sha1="1b50e5669a94a5a62f62e4d1efff475f46ba8a1d"/>
+	</game>
+	<game name="Championship Pool (USA)" id="137937">
+		<category>Games</category>
+		<description>Championship Pool (USA)</description>
+		<rom name="Championship Pool (USA).bin" size="2229696" crc="f593396b" md5="bdede3c2e8f64ebc672f8383bd142b9b" sha1="bf6470a8b507da95fd26cf2f43fc7d4308ace371"/>
+		<rom name="Championship Pool (USA).cue" size="112" crc="50c5dfa2" md5="2805fabaedb4a5d7e51a8ad79c5d2837" sha1="e4acc860b557fb2c1b70d739f3342a383c6dde59"/>
 	</game>
 	<game name="Championship Surfer (Brazil)" id="120059">
 		<category>Games</category>
@@ -58437,6 +58460,12 @@
 		<rom name="Fruitis (Germany).bin" size="181374480" crc="ad3ad8c5" md5="f96d91f56ca40d24622ed755cc399cee" sha1="5e95b1e4e1e66d5ae52948609d3d07fb8dde5b4b"/>
 		<rom name="Fruitis (Germany).cue" size="106" crc="0ca5a89f" md5="ba348449602f441c9e045f88e30ca95f" sha1="9990f0a745e3ce2b4a6160a8e950a2968c512f0a"/>
 	</game>
+	<game name="Fruktovye ostrova (Russia)" id="137930">
+		<category>Games</category>
+		<description>Fruktovye ostrova (Russia)</description>
+		<rom name="Fruktovye ostrova (Russia).bin" size="187661376" crc="8aa64480" md5="7d44613fff8a915bd5dad631dbd2df0c" sha1="3e71c2611339fdfc18b69febed6895b1cb870cb2"/>
+		<rom name="Fruktovye ostrova (Russia).cue" size="92" crc="3ebc9934" md5="10ee4ab55cb81ce2c20acb08071087b8" sha1="4cda4714b03c1a129455614acc20db5337eb5e59"/>
+	</game>
 	<game name="Fu Ji Wa Ra Te I Ka no Hyakunin Isshu - Karuta de Ojaru (Japan)" id="83922">
 		<category>Games</category>
 		<description>Fu Ji Wa Ra Te I Ka no Hyakunin Isshu - Karuta de Ojaru (Japan)</description>
@@ -62025,10 +62054,10 @@
 		<rom name="Genghis Khan - Aoki Ookami to Shiroki Mejika IV (Japan) (Track 19).bin" size="10600464" crc="93f22acd" md5="df1614858d3eb556e17cd9fbd3543fe4" sha1="7397fa7bab438d98b83dac97bfba17e267f2094f"/>
 		<rom name="Genghis Khan - Aoki Ookami to Shiroki Mejika IV (Japan).cue" size="2464" crc="8e113aad" md5="73f1d1698562610fdfbe8a08f67e13d8" sha1="01ffc4d059bc941a34a2ac0c57004f967d5df798"/>
 	</game>
-	<game name="Geniu$ - The Tech Tycoon Game (USA)" id="45331">
+	<game name="Geniu$ - The Tech Tycoon Game (USA)" id="137960">
 		<category>Games</category>
 		<description>Geniu$ - The Tech Tycoon Game (USA)</description>
-		<rom name="Geniu$ - The Tech Tycoon Game (USA).bin" size="812785344" crc="eaa653ff" md5="fd385da7d3dbc8aba316b27d4afb0e79" sha1="8a64d537d5dce74209ef9307285a237fc1f42ce3"/>
+		<rom name="Geniu$ - The Tech Tycoon Game (USA).bin" size="812790048" crc="7e5d9b0c" md5="9d076f98bb185281ee5e25acc78d10fa" sha1="86af1179230c478afb96f27341c23de1b6a79d0b"/>
 		<rom name="Geniu$ - The Tech Tycoon Game (USA).cue" size="101" crc="c6183433" md5="ba06a841bf418e99db6425db281daa84" sha1="5143e852fffbef01a86d1d81918d078b9df7a53e"/>
 	</game>
 	<game name="Genjuu Shuushuudan (Japan)" id="96205">
@@ -63351,6 +63380,12 @@
 		<description>Golden 10 (Europe)</description>
 		<rom name="Golden 10 (Europe).bin" size="113262912" crc="956f1f43" md5="1c8d58010a99e1c523cede3aa0e62798" sha1="a4fa663f34125b0265c85f52cf23de0364d41c05"/>
 		<rom name="Golden 10 (Europe).cue" size="107" crc="bc70b28b" md5="658c67b8715ae02de7211ebed7a79125" sha1="fbb0ffe68ad0a89f20b621d081a8653eee1d35c1"/>
+	</game>
+	<game name="Golden Age of Racing (Germany)" id="137911">
+		<category>Games</category>
+		<description>Golden Age of Racing (Germany)</description>
+		<rom name="Golden Age of Racing (Germany).bin" size="403831344" crc="b932180c" md5="6210c29c5b63d58ad804240b5df201b5" sha1="e5402627d3750b78d8728270e3831817cbb6ed30"/>
+		<rom name="Golden Age of Racing (Germany).cue" size="96" crc="ca150119" md5="26cf1bda7efa423564889125b57c2a8b" sha1="1d4ddc42057997fb5949d45ffe85f2aa54fcc781"/>
 	</game>
 	<game name="Golden Collection 1 (Germany) (Disc 1)" id="104748">
 		<category>Games</category>
@@ -74897,6 +74932,12 @@
 		<rom name="Igromania - Luchshee dlya Quake III Arena (Russia).bin" size="756005712" crc="736cf780" md5="a0c3aa71a4d2e7c41e45b36d324d6484" sha1="06c8e7f0591c427cead302bea47d6cf1da1e8f81"/>
 		<rom name="Igromania - Luchshee dlya Quake III Arena (Russia).cue" size="116" crc="e5226231" md5="1a2802ef450836ae6635cdbc959466f5" sha1="3c6a8a477bb2d4909371b382fb45905394da25af"/>
 	</game>
+	<game name="Igrovoj klub - Gonki (Russia)" id="137931">
+		<category>Games</category>
+		<description>Igrovoj klub - Gonki (Russia)</description>
+		<rom name="Igrovoj klub - Gonki (Russia).bin" size="72709728" crc="9974fad7" md5="f94aa63b62c687f1069d63ba830ea727" sha1="5aadece7e68eeb749796e1ec8367aba5589f45d3"/>
+		<rom name="Igrovoj klub - Gonki (Russia).cue" size="95" crc="23c7ad0c" md5="86377b582b55fe805db991eb2e0cb16c" sha1="74398c014c227e2580e0ee8b2f32b20cb8d65894"/>
+	</game>
 	<game name="Igrovoj klub - Kartochnye igry (Russia)" id="98450">
 		<category>Games</category>
 		<description>Igrovoj klub - Kartochnye igry (Russia)</description>
@@ -84880,6 +84921,12 @@
 		<rom name="Krzyzowki dla Najmlodszych - Wydanie Specjalne (Poland).bin" size="83759424" crc="ee485c8b" md5="ef2aea40faeb0f7e81a9cc35b4f69971" sha1="3b6913da83f69387b537370d44881218efddbb01"/>
 		<rom name="Krzyzowki dla Najmlodszych - Wydanie Specjalne (Poland).cue" size="121" crc="5c7f675e" md5="f1f8e356ed2735a6ba5f12c9082e1a00" sha1="d42df8a315f980702de8f13380f574daa21f94bd"/>
 	</game>
+	<game name="Ksorbik (Russia)" id="137914">
+		<category>Games</category>
+		<description>Ksorbik (Russia)</description>
+		<rom name="Ksorbik (Russia).bin" size="344295168" crc="1f11e6b0" md5="a7797c45a335746da6cf716a04545d4e" sha1="f6ecba627e53a6d5ab4679d6ac8579bf0bb48995"/>
+		<rom name="Ksorbik (Russia).cue" size="82" crc="f33a6c1d" md5="6b337d318674d80872d6d29858fc025c" sha1="99e6214cd6c558a4578a147ad38e1a6e3382a78f"/>
+	</game>
 	<game name="Kuai Di Zhai Ji Bian (Taiwan)" id="29783">
 		<category>Games</category>
 		<description>Kuai Di Zhai Ji Bian (Taiwan)</description>
@@ -93256,6 +93303,12 @@
 		<rom name="MahJongg Master 7 (Germany).bin" size="107251200" crc="47d468d8" md5="8d0596bb6b6630a05babc42eee96ddce" sha1="c6654107766dad49d05facbc8d2a570fd136343b"/>
 		<rom name="MahJongg Master 7 (Germany).cue" size="93" crc="4a168c04" md5="82bf40f250734dde8ad026b26231e6c0" sha1="55d08e16be021fde0e2ebad9c85817a8ff61805d"/>
 	</game>
+	<game name="MahJongg Mega Pack (Germany)" id="137921">
+		<category>Games</category>
+		<description>MahJongg Mega Pack (Germany)</description>
+		<rom name="MahJongg Mega Pack (Germany).bin" size="123244800" crc="3e6979e3" md5="6ef2c472fdd6923fb784b86b7fd44a12" sha1="d5289689e0862c383bb53d24452aea9fbc7d4216"/>
+		<rom name="MahJongg Mega Pack (Germany).cue" size="117" crc="181dbdd6" md5="8f2869e1c1425424b0d0929d366c3526" sha1="efdb5d592284d5f2e86900c9126be35e7de9ae4c"/>
+	</game>
 	<game name="Mahjong (Japan)" id="111604">
 		<category>Games</category>
 		<description>Mahjong (Japan)</description>
@@ -98683,27 +98736,6 @@
 		<rom name="Mia - The Kidnap Caper (Canada) (Disc 2).bin" size="788846688" crc="dc408757" md5="19a7ea32578516069edb2d0a9dca6fb6" sha1="b61fb2322d4839d822b4566683142525690b2499"/>
 		<rom name="Mia - The Kidnap Caper (Canada) (Disc 2).cue" size="106" crc="f3ff0b58" md5="5bf9ff094f6f4bb2ebd7ac47201272ac" sha1="12de4548a2ded27447e0dbbacc851d4ecf975c58"/>
 	</game>
-	<game name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It)" id="101006">
-		<category>Games</category>
-		<description>Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It)</description>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 01).bin" size="109344480" crc="b40eee41" md5="b5c1eb7ec8da75f0fcf227e0f72f0025" sha1="30d7e777d775b8c69dbe153e0ec2cbc8958e6b09"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 02).bin" size="37749600" crc="c83431f0" md5="c8da1d95502cab666a9e721a684c6af5" sha1="9f5a4d749cec06cc969595638aff73fd6b1e69f3"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 03).bin" size="19227600" crc="9938fccf" md5="8db73f54ffe1dc676e3bf2bbe9e94a67" sha1="6f38f73da43ffeecbb96a52977843e6ae5516bae"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 04).bin" size="56977200" crc="2204bf56" md5="6608b9932c2775638a61cf5865ca673c" sha1="26eec57b0019131e82f04189b3a6b3ae24fb093c"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 05).bin" size="13759200" crc="1c1d847d" md5="f9924c541dbc552fcf3b1a86636a3453" sha1="bd89fee7fccd567a651eba114a0177a261ccaf52"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 06).bin" size="29809248" crc="8aa7956a" md5="3eee31d8c96128ac3889df0f19b65f69" sha1="5260aadd6a8e4570b807c327a40c29cead42c12b"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 07).bin" size="32986800" crc="b55c7e6f" md5="bb2ac18cf171198424c8c25c29b9fb09" sha1="393ab84718d4bf794d2163c2a262aff132b768b0"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 08).bin" size="33868800" crc="13aa3a12" md5="c6bcd706b3e0871cb11b0694d7dbd712" sha1="33e1d86a7fb7dc29c98243043ed26b5c85359b79"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 09).bin" size="16934400" crc="c07c5c97" md5="ad876d71728bd1047d86ab83aeb10a5c" sha1="12efbcf1474c3e722b1a79d8bfa604855563c03d"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 10).bin" size="24872400" crc="b234830d" md5="9339a7a4d123095fcc8f8b8bc73ebbde" sha1="0969c46c9dbc82deb9036b7f9fc715afe897ed65"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 11).bin" size="43218000" crc="1c96520d" md5="05b214c620cd5f22323aa44be76d7c72" sha1="214e88acef5c9ad43f45ed4494f8fd97e974292e"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 12).bin" size="37396800" crc="f34fb376" md5="a94d07e40214d54531ee23cdc7e6f11b" sha1="a35c7d85e2ee62f76e6f3398c39f938ba4b4d734"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 13).bin" size="50097600" crc="97af96db" md5="e771201b45b7599d853cd85337a79c83" sha1="cfa23450e5894b2aefaf53c7a9370656c0cdfa10"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 14).bin" size="6526800" crc="ca9bb8d0" md5="e9465a42e84599eb965a9a6ef3ce5b1a" sha1="f08993fa30c1dd4c35975b0af8cc52ac60c87a10"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 15).bin" size="49392000" crc="d360163f" md5="8c2eb8e4c248e281f9a37d6236b28c46" sha1="c723fb1af4edad4ae4e5c82866036601b17da1cb"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 16).bin" size="35609280" crc="aef21079" md5="8894f43213a50f24a98ea2af092528fb" sha1="8d77f37e3a5054b5f1ef9b7acded020497045efc"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It).cue" size="2364" crc="6d44f9eb" md5="439f837de6e0698e5a15724e5f12b06a" sha1="5926a85369d92dfaa83a0309a0785cb53a63d24a"/>
-	</game>
 	<game name="Miami Powerboat Racer (Europe) (En,Fr,De,Es,It,Nl)" id="43243">
 		<category>Games</category>
 		<description>Miami Powerboat Racer (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -101932,6 +101964,12 @@
 		<description>Mode (Canada) (Disc 3)</description>
 		<rom name="Mode (Canada) (Disc 3).bin" size="601213536" crc="7b4bb9d9" md5="aa22ea9674270e470e54dddd614b5449" sha1="e3b3d2bab7eb07d9cdb49c6d28fc587e10e4fe28"/>
 		<rom name="Mode (Canada) (Disc 3).cue" size="111" crc="7579810f" md5="d844ca85108b902465f29a32209b5f1d" sha1="6b2e285454064d395432b131d9f91d0309670fe9"/>
+	</game>
+	<game name="Model'noe agentstvo Superstar (Russia)" id="137920">
+		<category>Games</category>
+		<description>Model'noe agentstvo Superstar (Russia)</description>
+		<rom name="Model'noe agentstvo Superstar (Russia).bin" size="180934656" crc="762c73d9" md5="8430bb9b2e338eb00597a8819cd86a70" sha1="779824e1642dbbbb3dc0c28b1299218eee5dd8a5"/>
+		<rom name="Model'noe agentstvo Superstar (Russia).cue" size="104" crc="168677ac" md5="59a424dc01e61eddf215208bc5b66b77" sha1="6ade83ad87e2675df72c3b09cc01de41e6a65463"/>
 	</game>
 	<game name="Moderate Party (Japan)" id="85129">
 		<category>Games</category>
@@ -123188,6 +123226,12 @@
 		<rom name="ProSieben Mystery - Der vergessene Gott (Germany) (Disc 3).bin" size="727452432" crc="45ffe533" md5="640203d6af991c89e04f951024b8fd0a" sha1="0fd44a3fac822a6cec562343919688b8a624608e"/>
 		<rom name="ProSieben Mystery - Der vergessene Gott (Germany) (Disc 3).cue" size="124" crc="31931a83" md5="14afb30170ed580db39e1839079bef6a" sha1="803572c6ad070961b642c635d1aa5fb67026a174"/>
 	</game>
+	<game name="ProTrain 3 (Germany)" id="137932">
+		<category>Add-Ons</category>
+		<description>ProTrain 3 (Germany)</description>
+		<rom name="ProTrain 3 (Germany).bin" size="616456848" crc="7da55d33" md5="9da305b631d7ba3df197949e7d08dc38" sha1="fb950ddd97a737b8d6a938eb932c723eacb26755"/>
+		<rom name="ProTrain 3 (Germany).cue" size="86" crc="8f14ea75" md5="342eb51d6096ae02ae55b4bc26c7a95d" sha1="7d705479688a00dfe3a808cd3a1e4d97ec4ffcc2"/>
+	</game>
 	<game name="ProTrain 4 - Hamburg - Berlin (Germany)" id="137859">
 		<category>Add-Ons</category>
 		<description>ProTrain 4 - Hamburg - Berlin (Germany)</description>
@@ -123333,6 +123377,12 @@
 		<description>Profiler, The - The Hopscotch Killer (Germany)</description>
 		<rom name="Profiler, The - The Hopscotch Killer (Germany).bin" size="808960992" crc="1b44647b" md5="ea64ba13aa99375b71194b1530bd1105" sha1="3ba23951917dbd9256724627a997910162310604"/>
 		<rom name="Profiler, The - The Hopscotch Killer (Germany).cue" size="112" crc="a4ed74f5" md5="f6650d6b354ae72a93ecee207af09e07" sha1="5d93055b5a693ef76c2aec96c75df5a8dc673b98"/>
+	</game>
+	<game name="Progulki verxom (Russia)" id="137926">
+		<category>Games</category>
+		<description>Progulki verxom (Russia)</description>
+		<rom name="Progulki verxom (Russia).bin" size="512512560" crc="17ef5f51" md5="4305a00c1c7532af0c5ae46825edddb3" sha1="50e6466682de8d8a9b96dfd29eb1ad800eb1bc23"/>
+		<rom name="Progulki verxom (Russia).cue" size="90" crc="7962030c" md5="04ac2a79cf21816a839742a02d4259fa" sha1="f16a47bd08e931b4a58dcd9d67478f5d47d1fd9f"/>
 	</game>
 	<game name="Project - Snowblind (USA) (En,Fr,De,Es,It)" id="115086">
 		<category>Games</category>
@@ -133156,6 +133206,12 @@
 		<description>Runes of Magic - Sonsuz Macera (Turkey) (Covermount)</description>
 		<rom name="Runes of Magic - Sonsuz Macera (Turkey) (Covermount).iso" size="4466638848" crc="9942f74b" md5="b13ce6f51caf1458ea222f48984b7172" sha1="4e55484741bbbe0a027500c144fb29c331a569e0"/>
 	</game>
+	<game name="Rusalochka - Svad'ba (Russia)" id="137935">
+		<category>Games</category>
+		<description>Rusalochka - Svad'ba (Russia)</description>
+		<rom name="Rusalochka - Svad'ba (Russia).bin" size="491887872" crc="5d61c094" md5="f09e345408acb44600b51119be19512a" sha1="f427d5c670fcf4217574b6fdad062b69acd281a5"/>
+		<rom name="Rusalochka - Svad'ba (Russia).cue" size="95" crc="7803240c" md5="9aab49e62c6137fba75eb0a90743f99b" sha1="2433ee8c40b90ed8fb7474aa679a609cc0222d7b"/>
+	</game>
 	<game name="Rush for Berlin (UK)" id="134414">
 		<category>Games</category>
 		<description>Rush for Berlin (UK)</description>
@@ -137034,6 +137090,12 @@
 		<description>Scooby-Doo! Priklyucheniya v gorode prizrakov (Russia)</description>
 		<rom name="Scooby-Doo! Priklyucheniya v gorode prizrakov (Russia).bin" size="581379120" crc="8cf2947a" md5="17b2b65ef73100e9cc97a120e2e6a648" sha1="4009823aed26501ac2e90666fb5b3f77ee16e303"/>
 		<rom name="Scooby-Doo! Priklyucheniya v gorode prizrakov (Russia).cue" size="120" crc="a35b8377" md5="a6354bc2108c6adfd9408f56600219e5" sha1="44a1836a79861f26138341338a6830505fa36716"/>
+	</game>
+	<game name="Scooby-Doo! Sak nr. 2 - Den Selvlysende billemannen (Norway)" id="137944">
+		<category>Games</category>
+		<description>Scooby-Doo! Sak nr. 2 - Den Selvlysende billemannen (Norway)</description>
+		<rom name="Scooby-Doo! Sak nr. 2 - Den Selvlysende billemannen (Norway).bin" size="359839536" crc="72af1c1c" md5="9ec656e27230c8c2abef3931f2d3d7f3" sha1="4b0fcdc45334c4ddf25fe850cfe60e6e960f57f3"/>
+		<rom name="Scooby-Doo! Sak nr. 2 - Den Selvlysende billemannen (Norway).cue" size="126" crc="d1da8ccc" md5="c2a8e7938ee10df2f6daabb7f64958e8" sha1="51ba6840c9d8aaccde4f5666af9e8a273c93a0cf"/>
 	</game>
 	<game name="Scooby-Doo! Showdown in Ghost Town (USA)" id="56764">
 		<category>Games</category>
@@ -148751,6 +148813,12 @@
 		<description>Space Overlords (Europe)</description>
 		<rom name="Space Overlords (Europe).iso" size="681771008" crc="ee05cef6" md5="d15401b029ae3f3930ee1b303cbbcbf3" sha1="16ec4b4cdf266f308b0dd2833719831edaaf7aa8"/>
 	</game>
+	<game name="Space Pirates (Russia)" id="137916">
+		<category>Games</category>
+		<description>Space Pirates (Russia)</description>
+		<rom name="Space Pirates (Russia).bin" size="628200384" crc="5614b31f" md5="28ee1514228fa424668855fce50b962d" sha1="574812cbe7fd18c82c0cfb76999cca2b470870b5"/>
+		<rom name="Space Pirates (Russia).cue" size="88" crc="3be84757" md5="4f8e9a6c1520d2fae83e152ec75e89f1" sha1="075cfaf861ee8e4288ab9a603354076d15ea3b16"/>
+	</game>
 	<game name="Space Quest - Collection Series (USA, Israel) (Disc 1)" id="14773">
 		<category>Games</category>
 		<description>Space Quest - Collection Series (USA, Israel) (Disc 1)</description>
@@ -153607,10 +153675,10 @@
 		<rom name="Stranger (Europe).bin" size="781569600" crc="140e637f" md5="cfbbd3754ceb0804057f285e6a9819c0" sha1="d9b8c26b095ffbfe21a3840afb60768f8875fa94"/>
 		<rom name="Stranger (Europe).cue" size="83" crc="e048db56" md5="c4d2a522c5616e085e296656bce70955" sha1="c47fd03a9d61159a294e7781a8fd3c62d4c7271d"/>
 	</game>
-	<game name="Stranger (Russia) (Disc 1)" id="79471">
+	<game name="Stranger (Russia) (Disc 1)" id="137924">
 		<category>Games</category>
 		<description>Stranger (Russia) (Disc 1)</description>
-		<rom name="Stranger (Russia) (Disc 1).bin" size="781569600" crc="375a1944" md5="24ed5297e9a93d912fbe2e8399fc5f3b" sha1="7932ae87dc839b9f735039ab152a881f1ef0cd08"/>
+		<rom name="Stranger (Russia) (Disc 1).bin" size="781569600" crc="41f5e141" md5="d8528ee5fc3944229df1d7bea78d47c0" sha1="a88d80da63743344b126f7212151214c74dd82f3"/>
 		<rom name="Stranger (Russia) (Disc 1).cue" size="92" crc="30480144" md5="a6ce9d19898731483f1139a7fef01e61" sha1="be08613b98781736cbeb5ace95c4e19b847e8045"/>
 	</game>
 	<game name="Stranger (Russia) (Disc 2)" id="79472">
@@ -156034,6 +156102,36 @@
 		<rom name="Swiss Soccer Quiz (Switzerland).bin" size="68078640" crc="27334e3d" md5="d25d4a7bed9a3635405aa935daabb328" sha1="aba54a9a6a2516adefe2a5641a992584543265f5"/>
 		<rom name="Swiss Soccer Quiz (Switzerland).cue" size="97" crc="271c8e8a" md5="f9d4bc9558d96c9dda917809872c446a" sha1="30862c44d6d05580071469b35d8c9af66dfd91d8"/>
 	</game>
+	<game name="SwissVFR 4 (Switzerland) (Setup)" id="137938">
+		<category>Add-Ons</category>
+		<description>SwissVFR 4 (Switzerland) (Setup)</description>
+		<rom name="SwissVFR 4 (Switzerland) (Setup).bin" size="753594912" crc="0db93447" md5="dd6c9740b50b847e1289c741b626d539" sha1="637c65d985cf059af7e3532d014da6c7e803d6a0"/>
+		<rom name="SwissVFR 4 (Switzerland) (Setup).cue" size="98" crc="5b0c8a4c" md5="69a451cf141f18fa244aaf8cbca6e5ac" sha1="efe85611e244c0e25f3add9202baa793e081c7b9"/>
+	</game>
+	<game name="SwissVFR 4 (Switzerland) (Texture 1)" id="137939">
+		<category>Add-Ons</category>
+		<description>SwissVFR 4 (Switzerland) (Texture 1)</description>
+		<rom name="SwissVFR 4 (Switzerland) (Texture 1).bin" size="732965520" crc="b7675265" md5="091dba614c1986fc9feccc50e7a20f38" sha1="f5e05228d909fb33cd496e3038b5851e11e6c0ec"/>
+		<rom name="SwissVFR 4 (Switzerland) (Texture 1).cue" size="102" crc="7769db5a" md5="c5c0677720fc662f2fd65fa5617c0c51" sha1="ccc575252dffc7b959c2e464504b1a8257f0273a"/>
+	</game>
+	<game name="SwissVFR 4 (Switzerland) (Texture 2)" id="137940">
+		<category>Add-Ons</category>
+		<description>SwissVFR 4 (Switzerland) (Texture 2)</description>
+		<rom name="SwissVFR 4 (Switzerland) (Texture 2).bin" size="794787840" crc="b674c6be" md5="77f0e87c0ef114179ca034494c667689" sha1="2ca5e18bc2369b76fcbe173420e512cbcc791395"/>
+		<rom name="SwissVFR 4 (Switzerland) (Texture 2).cue" size="102" crc="7634fd8b" md5="defa7f20ff399b86df095f51dc6f7430" sha1="16cef25a3b1882b1522b697f62ba4d32be5167de"/>
+	</game>
+	<game name="SwissVFR 4 (Switzerland) (Texture 3)" id="137941">
+		<category>Add-Ons</category>
+		<description>SwissVFR 4 (Switzerland) (Texture 3)</description>
+		<rom name="SwissVFR 4 (Switzerland) (Texture 3).bin" size="757315776" crc="b9996417" md5="ba755a88109afe542ef6471af79e745e" sha1="8be261c44d614eac55ba763bf92453a786f715e0"/>
+		<rom name="SwissVFR 4 (Switzerland) (Texture 3).cue" size="102" crc="c02f1dfb" md5="032a7cf8bd081367a4691ba539695885" sha1="648b0a42f59d83036f475ed6131b8a7895621e3e"/>
+	</game>
+	<game name="SwissVFR 4 (Switzerland) (Texture 4)" id="137942">
+		<category>Add-Ons</category>
+		<description>SwissVFR 4 (Switzerland) (Texture 4)</description>
+		<rom name="SwissVFR 4 (Switzerland) (Texture 4).bin" size="755013168" crc="59358093" md5="3b588f9b9ba7c889afc9aa1f73bce554" sha1="59da1c54df7cf111370a8cc46feb0be46fc050eb"/>
+		<rom name="SwissVFR 4 (Switzerland) (Texture 4).cue" size="102" crc="748eb029" md5="1bed689ff4142f850f8344cae3549c65" sha1="e1828731949f7eb54b834e7a317e7623427e167e"/>
+	</game>
 	<game name="Switchball (USA)" id="84711">
 		<category>Games</category>
 		<description>Switchball (USA)</description>
@@ -156448,12 +156546,6 @@
 		<rom name="TFX - The Cutting Edge of Aerial Combat (Germany) (Track 14).bin" size="49638960" crc="f9457bc2" md5="866d2a0e8add45849a7d2835dec6fe9a" sha1="649f118d4631de0125208c2eae8c4062dc8443f3"/>
 		<rom name="TFX - The Cutting Edge of Aerial Combat (Germany) (Track 15).bin" size="11722368" crc="eba56bda" md5="f023231df57c296e39445cc49e20d138" sha1="a9b999c377025a2e178b819bc2035220e7526b44"/>
 		<rom name="TFX - The Cutting Edge of Aerial Combat (Germany).cue" size="1843" crc="4fd20490" md5="d88259b36145c241562ee16d7386e66c" sha1="586d055771c988c4b20fcd172b0383c2b4b5c867"/>
-	</game>
-	<game name="THQ Boggle, Upwords, Hangman, and Word Hunter (USA)" id="85676">
-		<category>Games</category>
-		<description>THQ Boggle, Upwords, Hangman, and Word Hunter (USA)</description>
-		<rom name="THQ Boggle, Upwords, Hangman, and Word Hunter (USA).bin" size="353924256" crc="99494a01" md5="0b63d6061380e2cd45bfcb71360b5e76" sha1="0bc2c58773df39a50debc7ab040988ce7af86c0f"/>
-		<rom name="THQ Boggle, Upwords, Hangman, and Word Hunter (USA).cue" size="117" crc="c56ff7b5" md5="19744169dab6f8c4fadced833407f455" sha1="76bdfbea01591059a2e8c741dbc47cff455301bc"/>
 	</game>
 	<game name="THQ Triple Demo Disc (USA) (PC Game Bundle)" id="104026">
 		<category>Demos</category>
@@ -157722,6 +157814,12 @@
 		<description>Tartarus (Korea)</description>
 		<rom name="Tartarus (Korea).bin" size="524771184" crc="d753874d" md5="f63a03ea7d5975c850841457a987e07d" sha1="879aa4974bd743a8591380b14d5846ffe83b2736"/>
 		<rom name="Tartarus (Korea).cue" size="105" crc="30589704" md5="85c1a260b3269363fc6e71995540c215" sha1="28d84f1db77a320223c520225ce2bf902c60cd9a"/>
+	</game>
+	<game name="Tarzan - Igry v dzhunglyax (Russia)" id="137945">
+		<category>Games</category>
+		<description>Tarzan - Igry v dzhunglyax (Russia)</description>
+		<rom name="Tarzan - Igry v dzhunglyax (Russia).bin" size="503821920" crc="d83ff989" md5="05bd9af2de8bc8a4fd26ed280469fe7f" sha1="0290c3e6a19674aa63de508d4266329bcda89082"/>
+		<rom name="Tarzan - Igry v dzhunglyax (Russia).cue" size="101" crc="093b54aa" md5="94b83b1eb2abea804b28fea800ed926a" sha1="1b3b3a15a83de7492ef05a21d426eafa18758e6c"/>
 	</game>
 	<game name="Task Force 1942 &amp; Red Storm Rising (USA)" id="128184">
 		<category>Games</category>
@@ -170298,6 +170396,12 @@
 		<description>Ved'mak 2 - Ubijcy korolej (Russia) (Disc 2) (Igra)</description>
 		<rom name="Ved'mak 2 - Ubijcy korolej (Russia) (Disc 2) (Igra).iso" size="3068362752" crc="e70f3739" md5="679680d3097bcdbb306e82781cc0ab56" sha1="a5131ffec01358f96271812066adf789075b1cdc"/>
 	</game>
+	<game name="Vega$ - Make It Big (Russia)" id="137943">
+		<category>Games</category>
+		<description>Vega$ - Make It Big (Russia)</description>
+		<rom name="Vega$ - Make It Big (Russia).bin" size="649471872" crc="d935ed56" md5="88fbabe0eef39e9c11afc86f3802ca5d" sha1="9242acda5ad4af9f936493a8b58d9c7aadc79083"/>
+		<rom name="Vega$ - Make It Big (Russia).cue" size="94" crc="bd8ff900" md5="795551f2834bde713a8b37b8d01dafb3" sha1="d03b8f9952e7031d128f848cb8b496684a83e0cb"/>
+	</game>
 	<game name="Vegas - Make It Big (Europe)" id="137309">
 		<category>Games</category>
 		<description>Vegas - Make It Big (Europe)</description>
@@ -177276,6 +177380,12 @@
 		<description>Wladca Pierscieni - Druzyna Pierscienia (Poland) (Rerelease)</description>
 		<rom name="Wladca Pierscieni - Druzyna Pierscienia (Poland) (Rerelease).bin" size="823879728" crc="7f024c11" md5="2efd107b8656f1756ebe139144afa196" sha1="27d3cd2b8c008f2d7961aeb4b5445465826b3e21"/>
 		<rom name="Wladca Pierscieni - Druzyna Pierscienia (Poland) (Rerelease).cue" size="126" crc="fda0b755" md5="d529b16055c1d5b8aa039a1cd708f5b2" sha1="9a142f635d9b8d314d678da94929282a79fae711"/>
+	</game>
+	<game name="Wlatcy Moch - Battle Arena (Poland)" id="137912">
+		<category>Games</category>
+		<description>Wlatcy Moch - Battle Arena (Poland)</description>
+		<rom name="Wlatcy Moch - Battle Arena (Poland).bin" size="132610464" crc="d7ffa9a8" md5="322a23957ad362d0a95abc71c3754caf" sha1="843f682f583470a197627b3cfb6c04692362504b"/>
+		<rom name="Wlatcy Moch - Battle Arena (Poland).cue" size="101" crc="2ecdb669" md5="a120f2b75c2cd2d302f7d6fe8b8823ee" sha1="9f2a4f04ed8dd5b639e4a26fcb4c5f1650399441"/>
 	</game>
 	<game name="Wlatcy Moch - Wrzod na Dopie (Poland)" id="85881">
 		<category>Games</category>

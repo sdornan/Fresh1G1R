@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,701) (-y) [-aAbBcefkmMoprv] (2026-09-04 00-29-02) (Retool)</description>
-		<version>2026-09-04 00-29-02</version>
-		<date>2026-09-04 07-12-36</date>
+		<description>Sony - PlayStation (5,702) (-y) [-aAbBcefkmMoprv] (2026-09-05 01-23-36) (Retool)</description>
+		<version>2026-09-05 01-23-36</version>
+		<date>2026-09-05 06-58-04</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -18146,6 +18146,19 @@
 		<description>HardBall 5 (USA)</description>
 		<rom name="HardBall 5 (USA).bin" size="130152624" crc="e7244b6a" md5="252e1cf845bc3921209bb1fdc9f2e4a7" sha1="3900c5037607eb210a215e1e5e6bc4bd4fef7e19"/>
 		<rom name="HardBall 5 (USA).cue" size="82" crc="d5fa0dd1" md5="6aeafef85cdbb1d3b72b3539130461dc" sha1="ddfd0a74edfee0abb3e7fd705e157cdd42dcdd87"/>
+	</game>
+	<game name="Hardcore 4x4 (Europe) (En,Fr,De)" id="691">
+		<category>Games</category>
+		<description>Hardcore 4x4 (Europe) (En,Fr,De)</description>
+		<rom name="Hardcore 4x4 (Europe) (En,Fr,De) (Track 1).bin" size="96867120" crc="f738b75e" md5="eea2cbd91cbfafed934907bdc32a4afd" sha1="1533f970ad77c0d6e309ab3941485e5a5aa97b6f"/>
+		<rom name="Hardcore 4x4 (Europe) (En,Fr,De) (Track 2).bin" size="42989856" crc="c46c1229" md5="547da093489ff66968890a1671208876" sha1="a08357a43e3f314a2c0dd373c666ea308d9ab3b9"/>
+		<rom name="Hardcore 4x4 (Europe) (En,Fr,De) (Track 3).bin" size="34692000" crc="7288eb17" md5="fa738f8a8244a900b8a3330b83bbf815" sha1="6679be4331f854da6de34bb07635b22b6e122ba1"/>
+		<rom name="Hardcore 4x4 (Europe) (En,Fr,De) (Track 4).bin" size="47933760" crc="e94fcbc4" md5="2f324dadaf8bbe12b7fbdf93a49347c2" sha1="5d4de3fd3492102bb5cd47749c426f42ec688a12"/>
+		<rom name="Hardcore 4x4 (Europe) (En,Fr,De) (Track 5).bin" size="50055264" crc="43d8f3ee" md5="382f7ff5fa29954e1697cade1847f629" sha1="74ddd77f78f69086fee365e99ba86cec4bc8d3af"/>
+		<rom name="Hardcore 4x4 (Europe) (En,Fr,De) (Track 6).bin" size="36091440" crc="a8c0ffa5" md5="ff7d9127a33ead2546a8f1b235fc20a5" sha1="d7a762238316307248e944d16fce5f5f8e68874c"/>
+		<rom name="Hardcore 4x4 (Europe) (En,Fr,De) (Track 7).bin" size="43951824" crc="4db99d68" md5="7d6505350be27873ddc8468c2a4f4681" sha1="e43fd1069c6b5e1a63a474e79af31389e7b03546"/>
+		<rom name="Hardcore 4x4 (Europe) (En,Fr,De) (Track 8).bin" size="43051008" crc="26008b05" md5="a4ffabaeeb0d81db49c980f197b3ee95" sha1="2c4614a6ed40dafc6eae20b4919b73e4b82c9363"/>
+		<rom name="Hardcore 4x4 (Europe) (En,Fr,De).cue" size="990" crc="03e5ae86" md5="99aa2fc15011f913fa8348b4ae6fe2a7" sha1="f8220ddf06e79019fbd92a88025ed011b2bc4f6e"/>
 	</game>
 	<game name="Harlem Beat - You're the One (Japan)" id="36294">
 		<category>Games</category>
@@ -46225,34 +46238,34 @@
 		<rom name="TIZ - Tokyo Insect Zoo (Japan) (Demo) (Track 3).bin" size="33908784" crc="857edda8" md5="369ff3006396bbca8d9a1fb9cc125af9" sha1="28a06c34d53442f736fed283c086340d7c56321e"/>
 		<rom name="TIZ - Tokyo Insect Zoo (Japan) (Demo).cue" size="375" crc="9d3cf0a0" md5="8b0117ca832578a22be3d91024d5ee11" sha1="4696357de2b41c206d67f55252ca72b57a8c9001"/>
 	</game>
-	<game name="TNN Motor Sports HardCore 4X4 (USA)" id="12005">
+	<game name="TNN Motorsports Hardcore 4x4 (USA)" id="12005">
 		<category>Games</category>
-		<description>TNN Motor Sports HardCore 4X4 (USA)</description>
-		<rom name="TNN Motor Sports HardCore 4X4 (USA) (Track 1).bin" size="96975312" crc="7f9700c6" md5="f034e093711ab46b371bbde5f486015a" sha1="e13541c45c49241d034f4b239d5b246a0de7ce35"/>
-		<rom name="TNN Motor Sports HardCore 4X4 (USA) (Track 2).bin" size="42989856" crc="c46c1229" md5="547da093489ff66968890a1671208876" sha1="a08357a43e3f314a2c0dd373c666ea308d9ab3b9"/>
-		<rom name="TNN Motor Sports HardCore 4X4 (USA) (Track 3).bin" size="34692000" crc="7288eb17" md5="fa738f8a8244a900b8a3330b83bbf815" sha1="6679be4331f854da6de34bb07635b22b6e122ba1"/>
-		<rom name="TNN Motor Sports HardCore 4X4 (USA) (Track 4).bin" size="47933760" crc="e94fcbc4" md5="2f324dadaf8bbe12b7fbdf93a49347c2" sha1="5d4de3fd3492102bb5cd47749c426f42ec688a12"/>
-		<rom name="TNN Motor Sports HardCore 4X4 (USA) (Track 5).bin" size="50055264" crc="43d8f3ee" md5="382f7ff5fa29954e1697cade1847f629" sha1="74ddd77f78f69086fee365e99ba86cec4bc8d3af"/>
-		<rom name="TNN Motor Sports HardCore 4X4 (USA) (Track 6).bin" size="36091440" crc="a8c0ffa5" md5="ff7d9127a33ead2546a8f1b235fc20a5" sha1="d7a762238316307248e944d16fce5f5f8e68874c"/>
-		<rom name="TNN Motor Sports HardCore 4X4 (USA) (Track 7).bin" size="43951824" crc="4db99d68" md5="7d6505350be27873ddc8468c2a4f4681" sha1="e43fd1069c6b5e1a63a474e79af31389e7b03546"/>
-		<rom name="TNN Motor Sports HardCore 4X4 (USA) (Track 8).bin" size="43051008" crc="26008b05" md5="a4ffabaeeb0d81db49c980f197b3ee95" sha1="2c4614a6ed40dafc6eae20b4919b73e4b82c9363"/>
-		<rom name="TNN Motor Sports HardCore 4X4 (USA).cue" size="1014" crc="9f6e29c5" md5="abb31957fefb00a0107f663521abf437" sha1="805f48cf67158e2a1cbc208b22ab3779bcc74c76"/>
+		<description>TNN Motorsports Hardcore 4x4 (USA)</description>
+		<rom name="TNN Motorsports Hardcore 4x4 (USA) (Track 1).bin" size="96975312" crc="7f9700c6" md5="f034e093711ab46b371bbde5f486015a" sha1="e13541c45c49241d034f4b239d5b246a0de7ce35"/>
+		<rom name="TNN Motorsports Hardcore 4x4 (USA) (Track 2).bin" size="42989856" crc="c46c1229" md5="547da093489ff66968890a1671208876" sha1="a08357a43e3f314a2c0dd373c666ea308d9ab3b9"/>
+		<rom name="TNN Motorsports Hardcore 4x4 (USA) (Track 3).bin" size="34692000" crc="7288eb17" md5="fa738f8a8244a900b8a3330b83bbf815" sha1="6679be4331f854da6de34bb07635b22b6e122ba1"/>
+		<rom name="TNN Motorsports Hardcore 4x4 (USA) (Track 4).bin" size="47933760" crc="e94fcbc4" md5="2f324dadaf8bbe12b7fbdf93a49347c2" sha1="5d4de3fd3492102bb5cd47749c426f42ec688a12"/>
+		<rom name="TNN Motorsports Hardcore 4x4 (USA) (Track 5).bin" size="50055264" crc="43d8f3ee" md5="382f7ff5fa29954e1697cade1847f629" sha1="74ddd77f78f69086fee365e99ba86cec4bc8d3af"/>
+		<rom name="TNN Motorsports Hardcore 4x4 (USA) (Track 6).bin" size="36091440" crc="a8c0ffa5" md5="ff7d9127a33ead2546a8f1b235fc20a5" sha1="d7a762238316307248e944d16fce5f5f8e68874c"/>
+		<rom name="TNN Motorsports Hardcore 4x4 (USA) (Track 7).bin" size="43951824" crc="4db99d68" md5="7d6505350be27873ddc8468c2a4f4681" sha1="e43fd1069c6b5e1a63a474e79af31389e7b03546"/>
+		<rom name="TNN Motorsports Hardcore 4x4 (USA) (Track 8).bin" size="43051008" crc="26008b05" md5="a4ffabaeeb0d81db49c980f197b3ee95" sha1="2c4614a6ed40dafc6eae20b4919b73e4b82c9363"/>
+		<rom name="TNN Motorsports Hardcore 4x4 (USA).cue" size="1006" crc="f35a3a52" md5="45d5f22bb06aeba99544f196e7b0769c" sha1="b8723c4c6a1f1933f5943301cf9866ca9f5ec11a"/>
 	</game>
-	<game name="TNN Motorsports HardCore TR (USA)" id="20549">
+	<game name="TNN Motorsports Hardcore TR (USA)" id="20549">
 		<category>Games</category>
-		<description>TNN Motorsports HardCore TR (USA)</description>
-		<rom name="TNN Motorsports HardCore TR (USA) (Track 01).bin" size="104188896" crc="86a60298" md5="153caad1b9a063183cf8cc51d151719d" sha1="6db9582f58cb88517ecef6444342a7f311ac4176"/>
-		<rom name="TNN Motorsports HardCore TR (USA) (Track 02).bin" size="70585872" crc="553f4df3" md5="6b969af2070fc3e4c7b54c175fa84a7b" sha1="79e84e073da6051b84148139d8dc273b0f06f7f8"/>
-		<rom name="TNN Motorsports HardCore TR (USA) (Track 03).bin" size="53141088" crc="b8c46557" md5="983bc844ee4320e39268fd1146a1d41b" sha1="614df17a0d37478fb0ef18af2d77eb81c5de1a87"/>
-		<rom name="TNN Motorsports HardCore TR (USA) (Track 04).bin" size="60815664" crc="f440a7f4" md5="c38910810ba933ca3e518bd114eecdc7" sha1="a47a23582339ec0feb055cca5146d3d1b6ef55e2"/>
-		<rom name="TNN Motorsports HardCore TR (USA) (Track 05).bin" size="57090096" crc="005d2af3" md5="ddf655c7a206ebcc1f487350d06c83ea" sha1="6c4af0800d71816b50c7503647722908b1ed8992"/>
-		<rom name="TNN Motorsports HardCore TR (USA) (Track 06).bin" size="66415776" crc="15cdc632" md5="a7c3f4bf28d473c0f5b88b2d93b068ca" sha1="6d721573fa23d67466faa9d267b1c696ad4f4aea"/>
-		<rom name="TNN Motorsports HardCore TR (USA) (Track 07).bin" size="56010528" crc="e3572b38" md5="6c97a479ff43594a5f660d8d84ddc727" sha1="307704f308a5e01a6cff2403f77fab0a8597d55e"/>
-		<rom name="TNN Motorsports HardCore TR (USA) (Track 08).bin" size="59973648" crc="e0698844" md5="ae808ffa73dd097b10f8a21cd4800c7e" sha1="fcf8a33eb2ca190e87985f9a770664e37d8d91c9"/>
-		<rom name="TNN Motorsports HardCore TR (USA) (Track 09).bin" size="59823120" crc="8d532c3d" md5="8a86437992467871c450117f92070352" sha1="ec4110cde671d1b9bf9fe167b4f099e9b4140248"/>
-		<rom name="TNN Motorsports HardCore TR (USA) (Track 10).bin" size="57927408" crc="5b86f9f2" md5="5d6f258b16e6855a44c93bc76f2a317e" sha1="8f606ffb90ba05e9c6ded343c7a3e6c2490a8041"/>
-		<rom name="TNN Motorsports HardCore TR (USA) (Track 11).bin" size="40809552" crc="25e8f262" md5="f3c361b37fb54fd3f71b432f3b32a856" sha1="ce19d88a42c875985136945ff0925a211b9dd05b"/>
-		<rom name="TNN Motorsports HardCore TR (USA).cue" size="1390" crc="93330012" md5="581e6f24cd770da77f438739fc3c1ce4" sha1="d8844a40832b8c20a4bb9a3186be78e051ef29f8"/>
+		<description>TNN Motorsports Hardcore TR (USA)</description>
+		<rom name="TNN Motorsports Hardcore TR (USA) (Track 01).bin" size="104188896" crc="86a60298" md5="153caad1b9a063183cf8cc51d151719d" sha1="6db9582f58cb88517ecef6444342a7f311ac4176"/>
+		<rom name="TNN Motorsports Hardcore TR (USA) (Track 02).bin" size="70585872" crc="553f4df3" md5="6b969af2070fc3e4c7b54c175fa84a7b" sha1="79e84e073da6051b84148139d8dc273b0f06f7f8"/>
+		<rom name="TNN Motorsports Hardcore TR (USA) (Track 03).bin" size="53141088" crc="b8c46557" md5="983bc844ee4320e39268fd1146a1d41b" sha1="614df17a0d37478fb0ef18af2d77eb81c5de1a87"/>
+		<rom name="TNN Motorsports Hardcore TR (USA) (Track 04).bin" size="60815664" crc="f440a7f4" md5="c38910810ba933ca3e518bd114eecdc7" sha1="a47a23582339ec0feb055cca5146d3d1b6ef55e2"/>
+		<rom name="TNN Motorsports Hardcore TR (USA) (Track 05).bin" size="57090096" crc="005d2af3" md5="ddf655c7a206ebcc1f487350d06c83ea" sha1="6c4af0800d71816b50c7503647722908b1ed8992"/>
+		<rom name="TNN Motorsports Hardcore TR (USA) (Track 06).bin" size="66415776" crc="15cdc632" md5="a7c3f4bf28d473c0f5b88b2d93b068ca" sha1="6d721573fa23d67466faa9d267b1c696ad4f4aea"/>
+		<rom name="TNN Motorsports Hardcore TR (USA) (Track 07).bin" size="56010528" crc="e3572b38" md5="6c97a479ff43594a5f660d8d84ddc727" sha1="307704f308a5e01a6cff2403f77fab0a8597d55e"/>
+		<rom name="TNN Motorsports Hardcore TR (USA) (Track 08).bin" size="59973648" crc="e0698844" md5="ae808ffa73dd097b10f8a21cd4800c7e" sha1="fcf8a33eb2ca190e87985f9a770664e37d8d91c9"/>
+		<rom name="TNN Motorsports Hardcore TR (USA) (Track 09).bin" size="59823120" crc="8d532c3d" md5="8a86437992467871c450117f92070352" sha1="ec4110cde671d1b9bf9fe167b4f099e9b4140248"/>
+		<rom name="TNN Motorsports Hardcore TR (USA) (Track 10).bin" size="57927408" crc="5b86f9f2" md5="5d6f258b16e6855a44c93bc76f2a317e" sha1="8f606ffb90ba05e9c6ded343c7a3e6c2490a8041"/>
+		<rom name="TNN Motorsports Hardcore TR (USA) (Track 11).bin" size="40809552" crc="25e8f262" md5="f3c361b37fb54fd3f71b432f3b32a856" sha1="ce19d88a42c875985136945ff0925a211b9dd05b"/>
+		<rom name="TNN Motorsports Hardcore TR (USA).cue" size="1390" crc="f5d6e4d0" md5="89037c85e2a54b00a5ac9cc0d8cc377d" sha1="4cdd37eba6e497bfc68230c26b3cddd04a849563"/>
 	</game>
 	<game name="TOCA 2 - Touring Car Challenge (USA) (En,Fr,Es)" id="19430">
 		<category>Games</category>

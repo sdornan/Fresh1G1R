@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (902) (-y) [-aAbBcdkmMpPuv] (2026-09-01 13-49-02) (Retool)</description>
-		<version>2026-09-01 13-49-02</version>
-		<date>2026-09-04 07-27-08</date>
+		<description>Microsoft - Xbox One (902) (-y) [-aAbBcdkmMpPuv] (2026-09-05 04-42-02) (Retool)</description>
+		<version>2026-09-05 04-42-02</version>
+		<date>2026-09-05 07-16-32</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -346,10 +346,10 @@
 		<description>Battlefield 1 (USA, Europe)</description>
 		<rom name="Battlefield 1 (USA, Europe).iso" size="45957781504" crc="42ecb350" md5="81652f3588c20b72ce971d20151c737a" sha1="3f7867146681315cc404c66210e2f724139b24f9"/>
 	</game>
-	<game name="Battlefield 4 (USA, Europe)" id="45597">
+	<game name="Battlefield 4 (USA) (Rev 1)" id="137913">
 		<category>Games</category>
-		<description>Battlefield 4 (USA, Europe)</description>
-		<rom name="Battlefield 4 (USA, Europe).iso" size="36145528832" crc="90887fac" md5="cdc9cdefeac50b559f37cd0a643b0312" sha1="721a8d3d2e674a6f5077e254d07bb7d242e31878"/>
+		<description>Battlefield 4 (USA) (Rev 1)</description>
+		<rom name="Battlefield 4 (USA) (Rev 1).iso" size="38245433344" crc="8ac279bc" md5="82a2e212f67794ae45490614b7c1f8fa" sha1="9b7c383c69d2893abe9fd9ca5781f2d687a78a74"/>
 	</game>
 	<game name="Battlefield Hardline (World)" id="45888">
 		<category>Games</category>
@@ -2881,15 +2881,15 @@
 		<description>Outer Worlds, The (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
 		<rom name="Outer Worlds, The (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="45957781504" crc="bec12d71" md5="430638caf926dbff13c7612006258610" sha1="bf85a6f6b72568dd23a482a4f831a08c2a2a6241"/>
 	</game>
-	<game name="Outlast + Outlast - Whistleblower (USA, Korea)" id="104655">
+	<game name="Outlast Trinity (USA, Korea) (Outlast + Outlast - Whistleblower)" id="104655">
 		<category>Games</category>
-		<description>Outlast + Outlast - Whistleblower (USA, Korea)</description>
-		<rom name="Outlast + Outlast - Whistleblower (USA, Korea).iso" size="22978619392" crc="18b33609" md5="41380430284d1c39b3b43f96b4601714" sha1="7c11f2dd22a0d3578d9b7a81637bc001a110a371"/>
+		<description>Outlast Trinity (USA, Korea) (Outlast + Outlast - Whistleblower)</description>
+		<rom name="Outlast Trinity (USA, Korea) (Outlast + Outlast - Whistleblower).iso" size="22978619392" crc="18b33609" md5="41380430284d1c39b3b43f96b4601714" sha1="7c11f2dd22a0d3578d9b7a81637bc001a110a371"/>
 	</game>
-	<game name="Outlast II (USA, Korea)" id="104656">
+	<game name="Outlast Trinity (USA, Korea) (Outlast II)" id="104656">
 		<category>Games</category>
-		<description>Outlast II (USA, Korea)</description>
-		<rom name="Outlast II (USA, Korea).iso" size="22978238464" crc="bf3b040c" md5="0d21e683d2062f4aae90f5a62583424b" sha1="b667b1e534a2827762414f47096783ff90924c57"/>
+		<description>Outlast Trinity (USA, Korea) (Outlast II)</description>
+		<rom name="Outlast Trinity (USA, Korea) (Outlast II).iso" size="22978238464" crc="bf3b040c" md5="0d21e683d2062f4aae90f5a62583424b" sha1="b667b1e534a2827762414f47096783ff90924c57"/>
 	</game>
 	<game name="Outriders (Russia)" id="108319">
 		<category>Games</category>

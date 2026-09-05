@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,488) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-04 01-29-17) (Retool)</description>
-		<version>2026-09-04 01-29-17</version>
-		<date>2026-09-04 07-18-36</date>
+		<description>IBM - PC compatible (13,489) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-05 01-22-03) (Retool)</description>
+		<version>2026-09-05 01-22-03</version>
+		<date>2026-09-05 07-05-40</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -10650,6 +10650,12 @@
 		<rom name="Boggle (USA) (En,Fr,De,Es,Nl) (General Mills) (2001-01-08).bin" size="422830800" crc="326db8c4" md5="1113892dd8d7d07b973b9b8fa1beb68c" sha1="28e41b220a9aeb71c500f9dd281587b42cab11cd"/>
 		<rom name="Boggle (USA) (En,Fr,De,Es,Nl) (General Mills) (2001-01-08).cue" size="124" crc="c9feba46" md5="f7e423053749ab04aaad2d16cbf4c645" sha1="db45a60949e84c0779ca4fec14c8199a6c13c480"/>
 	</game>
+	<game name="Boggle, Upwords, Hangman, and Word Hunter (USA)" id="85676">
+		<category>Games</category>
+		<description>Boggle, Upwords, Hangman, and Word Hunter (USA)</description>
+		<rom name="Boggle, Upwords, Hangman, and Word Hunter (USA).bin" size="353924256" crc="99494a01" md5="0b63d6061380e2cd45bfcb71360b5e76" sha1="0bc2c58773df39a50debc7ab040988ce7af86c0f"/>
+		<rom name="Boggle, Upwords, Hangman, and Word Hunter (USA).cue" size="113" crc="f5727a79" md5="04308123c91448ee92abb5279fcada60" sha1="aa747a37c86d10c4bb1d5b75959321e9188d50bf"/>
+	</game>
 	<game name="Boiling Point (USA)" id="70724">
 		<category>Games</category>
 		<description>Boiling Point (USA)</description>
@@ -11315,6 +11321,11 @@
 		<rom name="Broken Land, The (USA) (Track 10).bin" size="54103056" crc="69dbe064" md5="823473df0f880604aecf732c9881c7f5" sha1="1329fe8909baf7b6355c838b13d8c86bb0070856"/>
 		<rom name="Broken Land, The (USA) (Track 11).bin" size="49676592" crc="e6b735f5" md5="e3c76bc8d6798d439de5ec500df604eb" sha1="819278014f9dc5e5e37e275b86a7e40a7c975aaf"/>
 		<rom name="Broken Land, The (USA).cue" size="1269" crc="db5fbd37" md5="7ca5f87c76b6b30b0493601a2fd90cc6" sha1="ed5aad22a4e738bf25c66132241a9208a7404baf"/>
+	</game>
+	<game name="Broken Sword - Shadow of the Templars - Reforged (Europe) (En,Fr,De,Es,It)" id="137910">
+		<category>Games</category>
+		<description>Broken Sword - Shadow of the Templars - Reforged (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Broken Sword - Shadow of the Templars - Reforged (Europe) (En,Fr,De,Es,It).iso" size="7750756352" crc="7609884b" md5="de6e48d193de12671f99a50a49d4a859" sha1="4a680585785f7382514d3282f4899570b9ef5aa5"/>
 	</game>
 	<game name="Broken Sword - The Angel of Death (Europe) (En,Fr,De,Es,It)" id="17893">
 		<category>Games</category>
@@ -13946,6 +13957,12 @@
 		<description>Championship Manager 5 (Europe) (En,Fr,It)</description>
 		<rom name="Championship Manager 5 (Europe) (En,Fr,It).bin" size="205444848" crc="7a28c415" md5="0547e4215a87473d21ed45c80abdae44" sha1="6680288851545b77b7022ed868b72faa456da102"/>
 		<rom name="Championship Manager 5 (Europe) (En,Fr,It).cue" size="108" crc="6d05a77d" md5="c0fe88b28d4ee43fb6b46a3689cb7235" sha1="1b50e5669a94a5a62f62e4d1efff475f46ba8a1d"/>
+	</game>
+	<game name="Championship Pool (USA)" id="137937">
+		<category>Games</category>
+		<description>Championship Pool (USA)</description>
+		<rom name="Championship Pool (USA).bin" size="2229696" crc="f593396b" md5="bdede3c2e8f64ebc672f8383bd142b9b" sha1="bf6470a8b507da95fd26cf2f43fc7d4308ace371"/>
+		<rom name="Championship Pool (USA).cue" size="112" crc="50c5dfa2" md5="2805fabaedb4a5d7e51a8ad79c5d2837" sha1="e4acc860b557fb2c1b70d739f3342a383c6dde59"/>
 	</game>
 	<game name="Championship Surfer (Brazil)" id="120059">
 		<category>Games</category>
@@ -33105,10 +33122,10 @@
 		<rom name="Genewars (Europe) (En,Fr,De,Es,It,Sv) (Track 5).bin" size="50843184" crc="e0cd1c35" md5="8aa088fc5023a742b60d35731c600cf6" sha1="987335a05689a3b2b640967f817a63598a26928e"/>
 		<rom name="Genewars (Europe) (En,Fr,De,Es,It,Sv).cue" size="637" crc="4ed78d5d" md5="08cec636d8e622897f9104c6f0be53f1" sha1="f83597f9c55e392bb50540674b93c284bb584957"/>
 	</game>
-	<game name="Geniu$ - The Tech Tycoon Game (USA)" id="45331">
+	<game name="Geniu$ - The Tech Tycoon Game (USA)" id="137960">
 		<category>Games</category>
 		<description>Geniu$ - The Tech Tycoon Game (USA)</description>
-		<rom name="Geniu$ - The Tech Tycoon Game (USA).bin" size="812785344" crc="eaa653ff" md5="fd385da7d3dbc8aba316b27d4afb0e79" sha1="8a64d537d5dce74209ef9307285a237fc1f42ce3"/>
+		<rom name="Geniu$ - The Tech Tycoon Game (USA).bin" size="812790048" crc="7e5d9b0c" md5="9d076f98bb185281ee5e25acc78d10fa" sha1="86af1179230c478afb96f27341c23de1b6a79d0b"/>
 		<rom name="Geniu$ - The Tech Tycoon Game (USA).cue" size="101" crc="c6183433" md5="ba06a841bf418e99db6425db281daa84" sha1="5143e852fffbef01a86d1d81918d078b9df7a53e"/>
 	</game>
 	<game name="Genocide - Remixed Version (Europe)" id="37316">
@@ -51511,27 +51528,6 @@
 		<description>Mia - The Kidnap Caper (Canada) (Disc 2)</description>
 		<rom name="Mia - The Kidnap Caper (Canada) (Disc 2).bin" size="788846688" crc="dc408757" md5="19a7ea32578516069edb2d0a9dca6fb6" sha1="b61fb2322d4839d822b4566683142525690b2499"/>
 		<rom name="Mia - The Kidnap Caper (Canada) (Disc 2).cue" size="106" crc="f3ff0b58" md5="5bf9ff094f6f4bb2ebd7ac47201272ac" sha1="12de4548a2ded27447e0dbbacc851d4ecf975c58"/>
-	</game>
-	<game name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It)" id="101006">
-		<category>Games</category>
-		<description>Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It)</description>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 01).bin" size="109344480" crc="b40eee41" md5="b5c1eb7ec8da75f0fcf227e0f72f0025" sha1="30d7e777d775b8c69dbe153e0ec2cbc8958e6b09"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 02).bin" size="37749600" crc="c83431f0" md5="c8da1d95502cab666a9e721a684c6af5" sha1="9f5a4d749cec06cc969595638aff73fd6b1e69f3"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 03).bin" size="19227600" crc="9938fccf" md5="8db73f54ffe1dc676e3bf2bbe9e94a67" sha1="6f38f73da43ffeecbb96a52977843e6ae5516bae"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 04).bin" size="56977200" crc="2204bf56" md5="6608b9932c2775638a61cf5865ca673c" sha1="26eec57b0019131e82f04189b3a6b3ae24fb093c"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 05).bin" size="13759200" crc="1c1d847d" md5="f9924c541dbc552fcf3b1a86636a3453" sha1="bd89fee7fccd567a651eba114a0177a261ccaf52"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 06).bin" size="29809248" crc="8aa7956a" md5="3eee31d8c96128ac3889df0f19b65f69" sha1="5260aadd6a8e4570b807c327a40c29cead42c12b"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 07).bin" size="32986800" crc="b55c7e6f" md5="bb2ac18cf171198424c8c25c29b9fb09" sha1="393ab84718d4bf794d2163c2a262aff132b768b0"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 08).bin" size="33868800" crc="13aa3a12" md5="c6bcd706b3e0871cb11b0694d7dbd712" sha1="33e1d86a7fb7dc29c98243043ed26b5c85359b79"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 09).bin" size="16934400" crc="c07c5c97" md5="ad876d71728bd1047d86ab83aeb10a5c" sha1="12efbcf1474c3e722b1a79d8bfa604855563c03d"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 10).bin" size="24872400" crc="b234830d" md5="9339a7a4d123095fcc8f8b8bc73ebbde" sha1="0969c46c9dbc82deb9036b7f9fc715afe897ed65"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 11).bin" size="43218000" crc="1c96520d" md5="05b214c620cd5f22323aa44be76d7c72" sha1="214e88acef5c9ad43f45ed4494f8fd97e974292e"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 12).bin" size="37396800" crc="f34fb376" md5="a94d07e40214d54531ee23cdc7e6f11b" sha1="a35c7d85e2ee62f76e6f3398c39f938ba4b4d734"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 13).bin" size="50097600" crc="97af96db" md5="e771201b45b7599d853cd85337a79c83" sha1="cfa23450e5894b2aefaf53c7a9370656c0cdfa10"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 14).bin" size="6526800" crc="ca9bb8d0" md5="e9465a42e84599eb965a9a6ef3ce5b1a" sha1="f08993fa30c1dd4c35975b0af8cc52ac60c87a10"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 15).bin" size="49392000" crc="d360163f" md5="8c2eb8e4c248e281f9a37d6236b28c46" sha1="c723fb1af4edad4ae4e5c82866036601b17da1cb"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It) (Track 16).bin" size="35609280" crc="aef21079" md5="8894f43213a50f24a98ea2af092528fb" sha1="8d77f37e3a5054b5f1ef9b7acded020497045efc"/>
-		<rom name="Mia Prima Lezione di Inglese, La - My First English Lesson (Italy) (En,It).cue" size="2364" crc="6d44f9eb" md5="439f837de6e0698e5a15724e5f12b06a" sha1="5926a85369d92dfaa83a0309a0785cb53a63d24a"/>
 	</game>
 	<game name="Miami Powerboat Racer (Europe) (En,Fr,De,Es,It,Nl)" id="43243">
 		<category>Games</category>
@@ -80878,12 +80874,6 @@
 		<rom name="TFX - Tactical Fighter eXperiment (USA) (En,Fr,De,Es,It) (Rev 1) (Track 14).bin" size="49638960" crc="45abe178" md5="48dd1f0ab759322bb87ca3b6706f308d" sha1="f6cd1dcdeba3c41a5320f761548aa57901198cc6"/>
 		<rom name="TFX - Tactical Fighter eXperiment (USA) (En,Fr,De,Es,It) (Rev 1) (Track 15).bin" size="11722368" crc="185f1e57" md5="00d24a9cbc4a382ed196e0dc397ec9ac" sha1="dc2e422ff2ba4c4f85756f9bd9ff5cf7d1c36cfa"/>
 		<rom name="TFX - Tactical Fighter eXperiment (USA) (En,Fr,De,Es,It) (Rev 1).cue" size="2390" crc="4aa20f11" md5="9ca3d5a23a2b59f35e6f7d89f998c63b" sha1="98b2dcb60d154053f65a7d18c944fc384f67b905"/>
-	</game>
-	<game name="THQ Boggle, Upwords, Hangman, and Word Hunter (USA)" id="85676">
-		<category>Games</category>
-		<description>THQ Boggle, Upwords, Hangman, and Word Hunter (USA)</description>
-		<rom name="THQ Boggle, Upwords, Hangman, and Word Hunter (USA).bin" size="353924256" crc="99494a01" md5="0b63d6061380e2cd45bfcb71360b5e76" sha1="0bc2c58773df39a50debc7ab040988ce7af86c0f"/>
-		<rom name="THQ Boggle, Upwords, Hangman, and Word Hunter (USA).cue" size="117" crc="c56ff7b5" md5="19744169dab6f8c4fadced833407f455" sha1="76bdfbea01591059a2e8c741dbc47cff455301bc"/>
 	</game>
 	<game name="TMNT (USA) (En,Fr,De,Es,It) (Rerelease)" id="67144">
 		<category>Games</category>
