@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (1,009) (-y) [-aAbBcdkmMpPuv] (2026-09-04 21-52-03) (Retool)</description>
-		<version>2026-09-04 21-52-03</version>
-		<date>2026-09-05 07-14-20</date>
+		<description>DVD-Video (1,010) (-y) [-aAbBcdkmMpPuv] (2026-09-05 13-02-18) (Retool)</description>
+		<version>2026-09-05 13-02-18</version>
+		<date>2026-09-06 07-25-16</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2814,6 +2814,12 @@
 		<description>Making of Metal Gear Solid 2, The - Sons of Liberty (Europe) (PS2 Game Bundle) (En)</description>
 		<serial>SS0001</serial>
 		<rom name="Making of Metal Gear Solid 2, The - Sons of Liberty (Europe) (PS2 Game Bundle) (En).iso" size="4274487296" crc="369a2b23" md5="c786a900bc971a1e0bab798c8f38bd83" sha1="cac06d5675451b288b55c4fdf1fb61c54e569ee3"/>
+	</game>
+	<game name="Making of Onimusha (Japan)" id="35061">
+		<category>Bonus Discs</category>
+		<description>Making of Onimusha (Japan)</description>
+		<serial>CAPJ-10125</serial>
+		<rom name="Making of Onimusha (Japan).iso" size="3373531136" crc="592009f7" md5="1416d867e2fdf27db18599075f4a7c6f" sha1="40bfa5b4eba7cd345ef51f28df3e244f2178ddcc"/>
 	</game>
 	<game name="Making of Onimusha 3 (Japan)" id="84265">
 		<category>Bonus Discs</category>

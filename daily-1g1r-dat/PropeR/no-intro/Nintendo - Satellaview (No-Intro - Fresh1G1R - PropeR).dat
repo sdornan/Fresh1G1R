@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (326) (-y) [-aAbBcdkmMpPuv] (20260903-132858) (Retool)</description>
-		<version>20260903-132858</version>
-		<date>2026-09-05 07-23-53</date>
+		<description>Nintendo - Satellaview (327) (-y) [-aAbBcdkmMpPuv] (20260904-145235) (Retool)</description>
+		<version>20260904-145235</version>
+		<date>2026-09-06 07-30-43</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -788,15 +788,20 @@
 		<description>Koi wa Balance - Tatoeba K-kun no Tabou na Ichinichi Hen (Japan)</description>
 		<rom name="Koi wa Balance - Tatoeba K-kun no Tabou na Ichinichi Hen (Japan).bs" size="1048576" crc="60293e16" md5="222606c1e051aef58a49bc9507ceb2c8" sha1="6d687f7b6c7c82c479e52459b7c8e1c8955fc9f5" sha256="5e9e4eb7d9e11c74e132312cd250c5ec6f22adeb0e4332fd5158d873c90e9705"/>
 	</game>
-	<game name="Konae-chan no Dokidoki Penguin Kazoku (Japan) (12-22)" id="3676">
+	<game name="Konae-chan no Dokidoki Penguin Kazoku (Japan) (1996-12-22)" id="3676">
 		<category>Games</category>
-		<description>Konae-chan no Dokidoki Penguin Kazoku (Japan) (12-22)</description>
-		<rom name="Konae-chan no Dokidoki Penguin Kazoku (Japan) (12-22).bs" size="1048576" crc="265e1c47" md5="e496a0a829fcb793296a173cca67ea86" sha1="67d4f92fc81f58b3f04a06dce1e4b059ccbb745f" sha256="1daa6baa45196bfb26f18a72196f0f952effda96dc0dccd63891c7de0702b49d"/>
+		<description>Konae-chan no Dokidoki Penguin Kazoku (Japan) (1996-12-22)</description>
+		<rom name="Konae-chan no Dokidoki Penguin Kazoku (Japan) (1996-12-22).bs" size="1048576" crc="265e1c47" md5="e496a0a829fcb793296a173cca67ea86" sha1="67d4f92fc81f58b3f04a06dce1e4b059ccbb745f" sha256="1daa6baa45196bfb26f18a72196f0f952effda96dc0dccd63891c7de0702b49d"/>
 	</game>
-	<game name="Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1-7)" id="3626">
+	<game name="Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1996-1-4)" id="1388">
 		<category>Games</category>
-		<description>Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1-7)</description>
-		<rom name="Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1-7).bs" size="262144" crc="525a7925" md5="a227dd2c0678bd70c15e9b19ed035170" sha1="b29292dfc58d803664835900e409418861b8f8e9" sha256="5ee0de42a56ec1fa167d5db87c215608b01324e3f4514a6b47a95b0b5a9236f9"/>
+		<description>Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1996-1-4)</description>
+		<rom name="Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1996-1-4).bs" size="262144" crc="218b11f8" md5="66b7cab6599dd0bf840baddb2a2e5fe7" sha1="6193ad723ba3d2434bfe8fc70a593d1eabe821de" sha256="c0b0e30d93f1933582ad424e3e3acee58ba7f492af09365e233077562076af5a"/>
+	</game>
+	<game name="Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1996-1-7)" id="3626">
+		<category>Games</category>
+		<description>Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1996-1-7)</description>
+		<rom name="Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1996-1-7).bs" size="262144" crc="525a7925" md5="a227dd2c0678bd70c15e9b19ed035170" sha1="b29292dfc58d803664835900e409418861b8f8e9" sha256="5ee0de42a56ec1fa167d5db87c215608b01324e3f4514a6b47a95b0b5a9236f9"/>
 	</game>
 	<game name="Kouryaku Casino Bar Kinyoubi - Slots (Japan) (10-13)" id="3728">
 		<category>Games</category>
@@ -1172,16 +1177,16 @@
 		<description>Square Magazine (Japan) (1995-11-7) (SoundLink Magazine) (Standalone Fix)</description>
 		<rom name="Square Magazine (Japan) (1995-11-7) (SoundLink Magazine) (Standalone Fix).bs" size="1048576" crc="a08893ae" md5="e5bbc1338f388d258d51bd216d56b1e4" sha1="56d2786972469f95cd4e1eb8bf8de470469326c8" sha256="7e2ff96a46fd5a2bc03618a04a83594819318aa8b8eb416c571346c7bf14030d"/>
 	</game>
-	<game name="St. GIGA Choujou Kessen (2-15) + Konae-chan no Dokidoki Penguin Kazoku (12-22) (Japan) (SoundLink Magazine, Game)" id="3985">
+	<game name="St. GIGA Choujou Kessen (1997-2-15) + Konae-chan no Dokidoki Penguin Kazoku (1996-12-22) (Japan) (SoundLink Magazine, Game)" id="3985">
 		<category>Games</category>
 		<category>Magazines</category>
-		<description>St. GIGA Choujou Kessen (2-15) + Konae-chan no Dokidoki Penguin Kazoku (12-22) (Japan) (SoundLink Magazine, Game)</description>
-		<rom name="St. GIGA Choujou Kessen (2-15) + Konae-chan no Dokidoki Penguin Kazoku (12-22) (Japan) (SoundLink Magazine, Game).bs" size="1048576" crc="572168c1" md5="8f38d32b045d0d992e5b8a9786ec2e74" sha1="e7a791b092117faf49f6134790e858134010e9bd" sha256="8abd88970e0b66d627ec685ebffa7a21783a5b9bc38e59980ec4a146c91634b8"/>
+		<description>St. GIGA Choujou Kessen (1997-2-15) + Konae-chan no Dokidoki Penguin Kazoku (1996-12-22) (Japan) (SoundLink Magazine, Game)</description>
+		<rom name="St. GIGA Choujou Kessen (1997-2-15) + Konae-chan no Dokidoki Penguin Kazoku (1996-12-22) (Japan) (SoundLink Magazine, Game).bs" size="1048576" crc="572168c1" md5="8f38d32b045d0d992e5b8a9786ec2e74" sha1="e7a791b092117faf49f6134790e858134010e9bd" sha256="8abd88970e0b66d627ec685ebffa7a21783a5b9bc38e59980ec4a146c91634b8"/>
 	</game>
-	<game name="St. GIGA Choujou Kessen (Japan) (2-15) (SoundLink Magazine)" id="3675">
+	<game name="St. GIGA Choujou Kessen (Japan) (1997-2-15) (SoundLink Magazine)" id="3675">
 		<category>Magazines</category>
-		<description>St. GIGA Choujou Kessen (Japan) (2-15) (SoundLink Magazine)</description>
-		<rom name="St. GIGA Choujou Kessen (Japan) (2-15) (SoundLink Magazine).bs" size="524288" crc="cc1707ac" md5="0427056604119580225e3326f08722ac" sha1="3f747742015b8671661ff1c5ca85eac4ec91b798" sha256="98c4afd53d25c2238256da3123dfae2be273b886775bdd759a42c68cce2358b4"/>
+		<description>St. GIGA Choujou Kessen (Japan) (1997-2-15) (SoundLink Magazine)</description>
+		<rom name="St. GIGA Choujou Kessen (Japan) (1997-2-15) (SoundLink Magazine).bs" size="524288" crc="cc1707ac" md5="0427056604119580225e3326f08722ac" sha1="3f747742015b8671661ff1c5ca85eac4ec91b798" sha256="98c4afd53d25c2238256da3123dfae2be273b886775bdd759a42c68cce2358b4"/>
 	</game>
 	<game name="Star Soldier - 2 Minute Mode (Japan) (En)" id="3591">
 		<category>Games</category>
@@ -1595,10 +1600,11 @@
 		<description>Yusuke Akamatsu Theater (Japan) (5-7) (SoundLink Magazine)</description>
 		<rom name="Yusuke Akamatsu Theater (Japan) (5-7) (SoundLink Magazine).bs" size="524288" crc="2533e4a4" md5="5f455d6e56f78f1f752c464b255db886" sha1="a74fe703303f30fd55a5759f99ffb927bbd339f2" sha256="2e7c2134b89545038d7d1ae4c9966340f9500431539b4859d1282a8336200efe"/>
 	</game>
-	<game name="Yuuki Nae no GE-MU no Tsubo (1996-12-22) + Konae-chan no Dokidoki Penguin Kazoku (12-22) (Japan) (SoundLink Magazine, Game)" id="3697">
+	<game name="Yuuki Nae no GE-MU no Tsubo (1996-12-22) + Konae-chan no Dokidoki Penguin Kazoku (1996-12-22) (Japan) (SoundLink Magazine, Game)" id="3697">
 		<category>Games</category>
-		<description>Yuuki Nae no GE-MU no Tsubo (1996-12-22) + Konae-chan no Dokidoki Penguin Kazoku (12-22) (Japan) (SoundLink Magazine, Game)</description>
-		<rom name="Yuuki Nae no GE-MU no Tsubo (1996-12-22) + Konae-chan no Dokidoki Penguin Kazoku (12-22) (Japan) (SoundLink Magazine, Game).bs" size="1048576" crc="f0f15875" md5="b8538fe4d64fb83421720381039bcd18" sha1="04367dbc1f3448fa20aa19bf351deb7f9a1a5a13" sha256="0a36ed80380a33d8f41135106f2bd548da79c14a8bcabd6ab69bf4110b479b37"/>
+		<category>Magazines</category>
+		<description>Yuuki Nae no GE-MU no Tsubo (1996-12-22) + Konae-chan no Dokidoki Penguin Kazoku (1996-12-22) (Japan) (SoundLink Magazine, Game)</description>
+		<rom name="Yuuki Nae no GE-MU no Tsubo (1996-12-22) + Konae-chan no Dokidoki Penguin Kazoku (1996-12-22) (Japan) (SoundLink Magazine, Game).bs" size="1048576" crc="f0f15875" md5="b8538fe4d64fb83421720381039bcd18" sha1="04367dbc1f3448fa20aa19bf351deb7f9a1a5a13" sha256="0a36ed80380a33d8f41135106f2bd548da79c14a8bcabd6ab69bf4110b479b37"/>
 	</game>
 	<game name="Yuuki Nae no GE-MU no Tsubo (1996-6-2) + Game Tora no Chou Ooana (1996-6-2, Part 1) (Japan) (SoundLink Magazine)" id="3915">
 		<category>Magazines</category>

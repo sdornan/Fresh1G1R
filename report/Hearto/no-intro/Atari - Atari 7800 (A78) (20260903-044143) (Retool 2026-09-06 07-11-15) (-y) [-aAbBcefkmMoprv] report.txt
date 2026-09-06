@@ -1,0 +1,33 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BAD DUMP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Super Stunt Cycle (USA) (Proto) (1989-05-26)
+  - Super Stunt Cycle (USA) (Proto) (1988-11-03)
+  - Super Stunt Cycle (USA) (Proto) (1989-04-14)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Commando (USA) (Beta) (1988-04-29)
++ Desert Falcon (USA) (Beta) (1987-03-25)
++ Hat Trick (USA) (Beta) (1987-05-01)
++ Impossible Mission (USA) (Rev 1) (Proto)
+
+BAD DUMP REMOVES
+================
+These titles were removed because the user excluded bad dump titles.
+
+- Desert Falcon (USA) (Beta) (1987-03-09) [b]

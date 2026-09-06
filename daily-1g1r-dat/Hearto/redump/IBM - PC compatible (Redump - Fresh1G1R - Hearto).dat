@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,080) (-y) [-aAbBcefkmMoprv] (2026-09-05 01-22-03) (Retool)</description>
-		<version>2026-09-05 01-22-03</version>
-		<date>2026-09-05 06-55-33</date>
+		<description>IBM - PC compatible (26,089) (-y) [-aAbBcefkmMoprv] (2026-09-06 02-42-03) (Retool)</description>
+		<version>2026-09-06 02-42-03</version>
+		<date>2026-09-06 07-06-22</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5102,19 +5102,19 @@
 		<rom name="Age of Empires II - The Conquerors Expansion (Taiwan) (Gold Edition) (Track 2).bin" size="326516400" crc="5fe98100" md5="9e97d8f6158ddc9c8f8c7eef0d4411dd" sha1="3febc8337ce1b4088e233410c4541ffe0b352e40"/>
 		<rom name="Age of Empires II - The Conquerors Expansion (Taiwan) (Gold Edition).cue" size="306" crc="857fbee3" md5="b3e55f2fd4418ac9c073fc5e55f1d5dc" sha1="3b7fc94f74ed187cb30a63f2550d1ff398d6fb1b"/>
 	</game>
-	<game name="Age of Empires II - The Conquerors Expansion (USA)" id="21478">
-		<category>Add-Ons</category>
-		<description>Age of Empires II - The Conquerors Expansion (USA)</description>
-		<rom name="Age of Empires II - The Conquerors Expansion (USA) (Track 1).bin" size="359891280" crc="3867de6d" md5="78dc31da564529abb96da5d83668f2d9" sha1="6003642f59b4daffd003c7e9f9fa51b05a206d51"/>
-		<rom name="Age of Empires II - The Conquerors Expansion (USA) (Track 2).bin" size="326718672" crc="654335a4" md5="7aff82d9fca09e0952f2e2e368bde29b" sha1="94403ecd51f5ffafd3b54270c2838c4c7227e748"/>
-		<rom name="Age of Empires II - The Conquerors Expansion (USA).cue" size="270" crc="21574ba1" md5="b3a402e42ffddf55d9bf6d0175b45e9b" sha1="09874b3d3fd453c1971387bf5047fb0fdc791bb2"/>
-	</game>
 	<game name="Age of Empires II - The Conquerors Expansion (USA) (Sneak Preview)" id="51895">
 		<category>Preproduction</category>
 		<description>Age of Empires II - The Conquerors Expansion (USA) (Sneak Preview)</description>
 		<rom name="Age of Empires II - The Conquerors Expansion (USA) (Sneak Preview) (Track 1).bin" size="364675248" crc="22730554" md5="fce1be292a998175454967fa16276b11" sha1="d5793f3104f5d677356d4d70e89db9e7519dcfcc"/>
 		<rom name="Age of Empires II - The Conquerors Expansion (USA) (Sneak Preview) (Track 2).bin" size="326365872" crc="52b422c6" md5="12b8238392f627803d7480855d6a6b89" sha1="979b9e72ce656ad6354b920576c83e9916bb5bfd"/>
 		<rom name="Age of Empires II - The Conquerors Expansion (USA) (Sneak Preview).cue" size="302" crc="9c249ed7" md5="53ab04bc74ffb39123a29018f8a833b7" sha1="292148b9434edd5602b970a25b239c90531d137c"/>
+	</game>
+	<game name="Age of Empires II - The Conquerors Expansion (USA, Europe) (Alt)" id="66318">
+		<category>Add-Ons</category>
+		<description>Age of Empires II - The Conquerors Expansion (USA, Europe) (Alt)</description>
+		<rom name="Age of Empires II - The Conquerors Expansion (USA, Europe) (Alt) (Track 1).bin" size="359891280" crc="3867de6d" md5="78dc31da564529abb96da5d83668f2d9" sha1="6003642f59b4daffd003c7e9f9fa51b05a206d51"/>
+		<rom name="Age of Empires II - The Conquerors Expansion (USA, Europe) (Alt) (Track 2).bin" size="326365872" crc="a66ccac2" md5="2628e6d60578021ea3274e50956f28c8" sha1="b795700baa6446e0951eadf8fba7db1c2ae67ce7"/>
+		<rom name="Age of Empires II - The Conquerors Expansion (USA, Europe) (Alt).cue" size="298" crc="e4319cd1" md5="c5d08a0efc08c04db3613220986b1e0b" sha1="e9a453701fd27798289ea845e11b050509a32014"/>
 	</game>
 	<game name="Age of Empires II - Von Kimbern und Teutonen (Germany)" id="65741">
 		<category>Add-Ons</category>
@@ -21545,6 +21545,12 @@
 		<rom name="BreakNeck (USA) (Track 5).bin" size="38405808" crc="9e0e492a" md5="f8d84d79c848823eba6789ef44d863d2" sha1="38f96719ef753bcd724f84ec62b336d334859866"/>
 		<rom name="BreakNeck (USA).cue" size="527" crc="61c59316" md5="663f64ae787e4cd314f80e3a54d1d42a" sha1="4abe049100faadc1451ef3afcb1bae46b91d59b4"/>
 	</game>
+	<game name="BreakQuest (Russia)" id="137987">
+		<category>Games</category>
+		<description>BreakQuest (Russia)</description>
+		<rom name="BreakQuest (Russia).bin" size="767182416" crc="8da8a3c3" md5="59fe9e71df437837f8b7b2349167598e" sha1="4f82199bf5d0476c1369b07003b84364174aba7b"/>
+		<rom name="BreakQuest (Russia).cue" size="85" crc="cfe6e8b8" md5="37f20d52b52edb1d18dbec0c61bdfc79" sha1="5ae8d74adaefd0a9bc7f4df0157e8175552b4305"/>
+	</game>
 	<game name="Breakout (USA)" id="24299">
 		<category>Games</category>
 		<description>Breakout (USA)</description>
@@ -37443,6 +37449,12 @@
 		<description>Dengeki Stryker (Japan) (Taikenban)</description>
 		<rom name="Dengeki Stryker (Japan) (Taikenban).bin" size="405221376" crc="f67b703c" md5="b2087a0177d6e2dae5a26ec5f437ea1a" sha1="14e24228853973336a5167b04ebe2ad897012a3b"/>
 		<rom name="Dengeki Stryker (Japan) (Taikenban).cue" size="101" crc="00f11cd7" md5="2d30b52bcf9af08fd9baaa06873e4e05" sha1="7e1b09606818d9824154f0d4732069269aff9e71"/>
+	</game>
+	<game name="Deniska i volshebnyj kamen' (Russia)" id="137972">
+		<category>Games</category>
+		<description>Deniska i volshebnyj kamen' (Russia)</description>
+		<rom name="Deniska i volshebnyj kamen' (Russia).bin" size="772347408" crc="6312a992" md5="dab07b99105d3fb21758b8a088fee91e" sha1="9d9a1a2e34a0993dab0336e648759a569cfd1f36"/>
+		<rom name="Deniska i volshebnyj kamen' (Russia).cue" size="102" crc="45eb8795" md5="4cac5ccf5786cf8c70a0e5b538ef98fd" sha1="f8bdee57ba6f54043b14ad65ea6814fc8a1e188b"/>
 	</game>
 	<game name="Dennis &amp; Bellini - De forsvunna kaninerna (Sweden) (Sv,No,Da,Fi)" id="132863">
 		<category>Games</category>
@@ -85018,6 +85030,12 @@
 		<rom name="Kujira Monogatari (Japan) (Track 38).bin" size="23075472" crc="543e55e6" md5="6c402d4341d418dc7d1228ae6ce29074" sha1="0490bcb936d8b3fe5bea848424991d8669078827"/>
 		<rom name="Kujira Monogatari (Japan).cue" size="4542" crc="c9efceab" md5="21a82762143fb50cb6a592160642f69c" sha1="5b87df52f7a5933731b128e6615b86e2351a7449"/>
 	</game>
+	<game name="Kuklovody - Gorod radosti (Russia)" id="137969">
+		<category>Games</category>
+		<description>Kuklovody - Gorod radosti (Russia)</description>
+		<rom name="Kuklovody - Gorod radosti (Russia).bin" size="680236032" crc="11a2fe53" md5="52d63f9fc981832ec538545aad8f6963" sha1="33b5605e266f8040bd07a40b8eafd9aaf1bf814a"/>
+		<rom name="Kuklovody - Gorod radosti (Russia).cue" size="100" crc="461f75c8" md5="7f7b6fbcccb5b3fa3757141922c51946" sha1="82a4f604f219a082847f78fe6c0cba0427706cdc"/>
+	</game>
 	<game name="Kul't - Korolevstva Eresi (Russia)" id="2149">
 		<category>Games</category>
 		<description>Kul't - Korolevstva Eresi (Russia)</description>
@@ -107544,6 +107562,12 @@
 		<description>Nasledie Kaina - Defiance (Russia)</description>
 		<rom name="Nasledie Kaina - Defiance (Russia).iso" size="1778876416" crc="9ee6e958" md5="7564e3cfef884aef2a233b06ff0ada5c" sha1="01b1585a279c554ed7a1c4f3a0fe4ec906a3976a"/>
 	</game>
+	<game name="Natali Bruks - Sokrovishha zateryannogo korolevstva (Russia)" id="137971">
+		<category>Games</category>
+		<description>Natali Bruks - Sokrovishha zateryannogo korolevstva (Russia)</description>
+		<rom name="Natali Bruks - Sokrovishha zateryannogo korolevstva (Russia).bin" size="410407536" crc="5c360eaf" md5="baf26e29ce1d9e5e9b6999e3b7753c0b" sha1="f1d26c8f899e11b309e67f3812fea14e3399cdf5"/>
+		<rom name="Natali Bruks - Sokrovishha zateryannogo korolevstva (Russia).cue" size="126" crc="4f555323" md5="6ec92091c704f6fe9c7a65240b6abc09" sha1="45130ca2d8ca2f84e724eaf38dacdb20391b80cc"/>
+	</game>
 	<game name="Natalie Brooks - Secrets of the Treasure House (USA)" id="131350">
 		<category>Games</category>
 		<description>Natalie Brooks - Secrets of the Treasure House (USA)</description>
@@ -119985,6 +120009,12 @@
 		<rom name="Pogranich'e (Russia) (Disc 3).bin" size="444831408" crc="63605dde" md5="e2f10c8c030b3926005ba07e9f473b9c" sha1="070159a3ca08c257739addebedaf206677e9a110"/>
 		<rom name="Pogranich'e (Russia) (Disc 3).cue" size="95" crc="6334f3b4" md5="61fc3a12752484e9a67df7639daf3276" sha1="de90835a2a3d3c964a8b88ad05ba45b3043678d6"/>
 	</game>
+	<game name="Pogranichnyj patrul' (Russia)" id="137975">
+		<category>Games</category>
+		<description>Pogranichnyj patrul' (Russia)</description>
+		<rom name="Pogranichnyj patrul' (Russia).bin" size="791798448" crc="708d491e" md5="2a6e714ee7a73b28cece75e3543f4f44" sha1="a27570332582b0ebf161b6e022bf575a11fe2729"/>
+		<rom name="Pogranichnyj patrul' (Russia).cue" size="95" crc="8bf89511" md5="1831bc981959066a4ceac4fccb16f19a" sha1="78584853f2583b76e364984278dff2e260069e97"/>
+	</game>
 	<game name="PoiPon (Japan)" id="54352">
 		<category>Games</category>
 		<description>PoiPon (Japan)</description>
@@ -122414,11 +122444,11 @@
 		<rom name="Prince of Persia - Warrior Within (Europe, Australia) (En,Fr,De,Es,It,Nl) (Play Disc).bin" size="832880832" crc="b7b3f18e" md5="3e444294b8e539136f250a72b6d7522b" sha1="e707856ce93de74f1a519397981830616511a6d6"/>
 		<rom name="Prince of Persia - Warrior Within (Europe, Australia) (En,Fr,De,Es,It,Nl) (Play Disc).cue" size="151" crc="0304d437" md5="950516b375a34ce17cfd1aad8dc92224" sha1="aa78138db758ce428fd487a3b1df2a007e0637dd"/>
 	</game>
-	<game name="Prince of Persia - Warrior Within (Russia) (Disc 3) (Igrovoj)" id="37350">
+	<game name="Prince of Persia - Warrior Within (Russia, Ukraine) (Disc 3) (Igrovoj)" id="37350">
 		<category>Games</category>
-		<description>Prince of Persia - Warrior Within (Russia) (Disc 3) (Igrovoj)</description>
-		<rom name="Prince of Persia - Warrior Within (Russia) (Disc 3) (Igrovoj).bin" size="833007840" crc="1d3c17e4" md5="8f270db2a4fcc1e8035b53577e26124f" sha1="c4c8138a78b89d190c514e5fde58529543a63dc3"/>
-		<rom name="Prince of Persia - Warrior Within (Russia) (Disc 3) (Igrovoj).cue" size="127" crc="9f7302e4" md5="fb5efa667cb290d716b1c310955b3e27" sha1="2c159eb747e2fa446057a3454b3eefb7a53fc015"/>
+		<description>Prince of Persia - Warrior Within (Russia, Ukraine) (Disc 3) (Igrovoj)</description>
+		<rom name="Prince of Persia - Warrior Within (Russia, Ukraine) (Disc 3) (Igrovoj).bin" size="833007840" crc="1d3c17e4" md5="8f270db2a4fcc1e8035b53577e26124f" sha1="c4c8138a78b89d190c514e5fde58529543a63dc3"/>
+		<rom name="Prince of Persia - Warrior Within (Russia, Ukraine) (Disc 3) (Igrovoj).cue" size="136" crc="fcc95374" md5="93df121fd6f6e7eb03b43f56da171a21" sha1="6fa05eef4c4d92000daf1575b1741d404e0fc102"/>
 	</game>
 	<game name="Prince of Persia - Warrior Within (USA) (En,Fr,Es) (Disc 1)" id="8754">
 		<category>Games</category>
@@ -148152,6 +148182,12 @@
 		<rom name="Sortileges - Rage of Mages II (France).bin" size="788886672" crc="92e3d671" md5="be73915f0987407ed99aaceddcbc7af5" sha1="fd8841b5580bdd55a2f9c82c64bd5de24a2c9ca1"/>
 		<rom name="Sortileges - Rage of Mages II (France).cue" size="104" crc="24a418f7" md5="3580aacee473f8792994340f3c31b71c" sha1="fb2fc5a82c8306e4884c69a6a12c901eee1776f9"/>
 	</game>
+	<game name="Sorvancy - Dikij futbol (Russia)" id="137976">
+		<category>Games</category>
+		<description>Sorvancy - Dikij futbol (Russia)</description>
+		<rom name="Sorvancy - Dikij futbol (Russia).bin" size="590281440" crc="58080cef" md5="afcbd819171060b69c1ab44f26ebf0b5" sha1="7b0bbbc600e341b7491ba82d203517935eb94b53"/>
+		<rom name="Sorvancy - Dikij futbol (Russia).cue" size="98" crc="02141c9f" md5="43bc7ff74e078d481f0c2b6fec21f812" sha1="4fc02dca230954d734c9951e0f2defd5a21de819"/>
+	</game>
 	<game name="Sostojanie Vojny 2 (Russia) (Disc 1) (Igrovoj)" id="26031">
 		<category>Games</category>
 		<description>Sostojanie Vojny 2 (Russia) (Disc 1) (Igrovoj)</description>
@@ -172356,6 +172392,12 @@
 		<rom name="Volshebnyj E'liksir (Russia).bin" size="259470288" crc="3c120361" md5="4cceffa5a4adf1848cc871575d177415" sha1="d7ea7ef752c1e106d891dea36a9bc3bf9cbba909"/>
 		<rom name="Volshebnyj E'liksir (Russia).cue" size="94" crc="2d7acfff" md5="cfa91158a75af0701d65f3e2b28c845a" sha1="20d6842f728b2e0b6d18195155628fdb98269eec"/>
 	</game>
+	<game name="Volshebnyj shar 4 (Russia)" id="137986">
+		<category>Games</category>
+		<description>Volshebnyj shar 4 (Russia)</description>
+		<rom name="Volshebnyj shar 4 (Russia).bin" size="268699536" crc="2e55c106" md5="fa28bdae46c52c63f6adeb6f1d01bb12" sha1="74de2f1fc6146b772fd0c41a78ef24eb2d398ae9"/>
+		<rom name="Volshebnyj shar 4 (Russia).cue" size="92" crc="60b06c59" md5="1d5804c4cdbba1e846b2e4946ba460d0" sha1="3ba176338a069e6e50f45690a17e726ebdc9df55"/>
+	</game>
 	<game name="Voodoo Chronicles - First Sign (USA)" id="117862">
 		<category>Games</category>
 		<description>Voodoo Chronicles - First Sign (USA)</description>
@@ -184234,6 +184276,18 @@
 		<description>Zvezdnye Piligrimy (Russia)</description>
 		<rom name="Zvezdnye Piligrimy (Russia).bin" size="804010032" crc="457102ac" md5="09fb28593622fe5e4513a94d40bb49b9" sha1="6d1de61983ef3dbcba363682137348cd7411594b"/>
 		<rom name="Zvezdnye Piligrimy (Russia).cue" size="93" crc="713ca5ea" md5="9d63d50cc4f23b4601deea7dbfe818dd" sha1="3f691276256332c3b8f34efbad1715af474f686d"/>
+	</game>
+	<game name="Zvezdnyj Legion (Russia) (Disc 1)" id="137973">
+		<category>Games</category>
+		<description>Zvezdnyj Legion (Russia) (Disc 1)</description>
+		<rom name="Zvezdnyj Legion (Russia) (Disc 1).bin" size="810979008" crc="b94ea48c" md5="d9c34fe9b511e7c1c5f2f696bf6f5d52" sha1="83822d2524869b7102c1f117c58e6ff3f6aaabfd"/>
+		<rom name="Zvezdnyj Legion (Russia) (Disc 1).cue" size="99" crc="28a9df95" md5="aa85facd8d5fcaf7891b211cf6e866d0" sha1="f105e97e29e403ec9f0aaf9c8c3d2fb9f1283183"/>
+	</game>
+	<game name="Zvezdnyj Legion (Russia) (Disc 2)" id="137974">
+		<category>Games</category>
+		<description>Zvezdnyj Legion (Russia) (Disc 2)</description>
+		<rom name="Zvezdnyj Legion (Russia) (Disc 2).bin" size="827664096" crc="41a5c1d1" md5="2ade8f42cfc091c8451c870e5b24b672" sha1="10288b625b1930e4886bd038e0dd319f33d35e42"/>
+		<rom name="Zvezdnyj Legion (Russia) (Disc 2).cue" size="99" crc="29f4f944" md5="ad2b44388ec766d676a13fed61839baa" sha1="ec5189b71c7a097f1c5ccda68d6ee4d2de95722e"/>
 	</game>
 	<game name="Zvyozdnye nacii (Russia) (Disc 1) (Ustanovochnyj)" id="112129">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,830) (-y) [-aAbBcefkmMoprv] (20260903-221223) (Retool)</description>
-		<version>20260903-221223</version>
-		<date>2026-09-05 07-04-06</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,830) (-y) [-aAbBcefkmMoprv] (20260905-212529) (Retool)</description>
+		<version>20260905-212529</version>
+		<date>2026-09-06 07-09-59</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1682,7 +1682,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Crossbow (USA) (Proto) (Unl)</description>
-		<rom name="Crossbow (USA) (Proto) (Unl).nes" size="98320" header="4e 45 53 1a 02 08 b1 08 00 00 00 00 00 00 00 09" crc="3fcc3733" md5="a15a4755b3105cca1821f451b173891e" sha1="905593f3982337661bb682588476b929d094f281" sha256="6811eb11190971e66bbab1c6d699a61e5181beff4bf54ad382cb16562029d17a"/>
+		<rom name="Crossbow (USA) (Proto) (Unl).nes" size="98320" header="4e 45 53 1a 02 08 b1 08 00 00 00 00 00 00 00 08" crc="c25b1bfc" md5="d39c5e119b1945c153a92a1daff7235c" sha1="c1a636ce083d83a60edd5040fdc0db2d13137182" sha256="092ec1e41137104b4f7fd06331508c81d1680a378c98b9a18e3f646fabf5917e"/>
 	</game>
 	<game name="Crystal Commando (Korea) (En) (Unl)" id="2796">
 		<category>Games</category>
@@ -3596,7 +3596,7 @@
 	<game name="Hoppin' Mad (USA) (Proto)" id="3989">
 		<category>Preproduction</category>
 		<description>Hoppin' Mad (USA) (Proto)</description>
-		<rom name="Hoppin' Mad (USA) (Proto).nes" size="40976" header="4e 45 53 1a 02 01 00 08 00 00 00 00 00 00 00 01" crc="41c91ed4" md5="90de29efbd2e651cc0ef677e9b0b67d9" sha1="9bf486ca5666f42c1ba672bc0b573d658f48c285" sha256="1cfcbc02453a2630d8da92472ac45df0ace7443e42d315d5319a681f28b5d81e"/>
+		<rom name="Hoppin' Mad (USA) (Proto).nes" size="40976" header="4e 45 53 1a 02 01 01 08 00 00 00 00 00 00 00 01" crc="58662196" md5="9de7f621b46e9bb6a80c6b0910a255dd" sha1="b9ea1e0c04bb6efd1ec84de3b8d7ba37efa90350" sha256="8d5c608e579a24b25cadf2dfc249575f02e817fb12a528c822f40aa6eb6e12fe"/>
 	</game>
 	<game name="Hoshi o Miru Hito (Japan)" id="0991">
 		<category>Games</category>
@@ -3631,7 +3631,7 @@
 	<game name="Huge Insect (Taiwan) (En) (Unl)" id="1006">
 		<category>Games</category>
 		<description>Huge Insect (Taiwan) (En) (Unl)</description>
-		<rom name="Huge Insect (Taiwan) (En) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 31 08 20 00 00 00 02 00 00 01" crc="23a2bda7" md5="852ba800076613e4b61dd8b1d260e20f" sha1="6397333fdfc21a7e6374d2bb44991ab124732be1" sha256="3433cf3ccae1a4b20d1860bc9c66a91cb4b77ecd0090bc1b5a8877f8aab818d7"/>
+		<rom name="Huge Insect (Taiwan) (En) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 30 08 20 00 00 00 02 00 00 01" crc="b596d2ea" md5="8991bb8c79382a5d0426a2759588c5aa" sha1="e7c0fe77a0dea6279b9c329fa70efae9d937e288" sha256="0b9bad44a3a079929775d1d07a24b0d3a2673ee656309165ea0b91d0289b27fd"/>
 	</game>
 	<game name="Hunt for Red October, The (USA) (Rev 1)" id="1009">
 		<category>Games</category>
@@ -5548,7 +5548,7 @@
 	<game name="Namco Prism Zone - Dream Master (Japan)" id="0622">
 		<category>Games</category>
 		<description>Namco Prism Zone - Dream Master (Japan)</description>
-		<rom name="Namco Prism Zone - Dream Master (Japan).nes" size="524304" header="4e 45 53 1a 10 20 20 d8 10 00 00 00 00 00 00 01" crc="7906bdc7" md5="7c3fcf66917c7e176407a7c29a4f7a62" sha1="5f69472c3685bdabcb0d03b5d00d75edc599098b" sha256="5bf59802a549a781fc47f9d4b95b2cceed2b5c06122583b3ad5e9c9e528bcd38"/>
+		<rom name="Namco Prism Zone - Dream Master (Japan).nes" size="524304" header="4e 45 53 1a 10 20 20 d8 20 00 00 00 00 00 00 01" crc="8f668691" md5="2b2e425c2d4ef16c268c0464d0c733b9" sha1="c55768b2fc2ce3f175172782031422f53bd3e0d4" sha256="aeb8edcc145df7980411c8b5992f0c53e3b4d090266e90f241a7e035ba496360"/>
 	</game>
 	<game name="Namcot Mahjong III - Mahjong Tengoku (Japan)" id="1537">
 		<category>Games</category>
@@ -7742,7 +7742,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Super Kick Off (Europe) (Proto)</description>
-		<rom name="Super Kick Off (Europe) (Proto).nes" size="131088" header="4e 45 53 1a 08 00 10 08 00 00 07 07 01 00 00 01" crc="cd3b7606" md5="c15bda65ae3c468663a40c44d0e1e1e7" sha1="37fce6752f93a53b1548bcf8f54720c120c38511" sha256="205b210ebdf360f9f260539ca1a96e58dd90829b55c58d95cbf0b777cfd928b3"/>
+		<rom name="Super Kick Off (Europe) (Proto).nes" size="131088" header="4e 45 53 1a 08 00 10 08 00 00 00 07 01 00 00 01" crc="3b0d2d3b" md5="83aa3c3048a00c7de6d8f561b1b7f31c" sha1="aca57e20f2beee1e3c350ae89161386c70d7d34e" sha256="cfbe7df8afc139a20f87a168b232000df618c0443a5a20b707ca2d305203da2e"/>
 	</game>
 	<game name="Super Mario Bros. (World)" id="2147">
 		<category>Games</category>
@@ -8753,7 +8753,7 @@
 	<game name="Wait and See! (Asia) (En) (Unl)" id="2439">
 		<category>Games</category>
 		<description>Wait and See! (Asia) (En) (Unl)</description>
-		<rom name="Wait and See! (Asia) (En) (Unl).nes" size="393232" header="4e 45 53 1a 10 10 40 08 00 00 00 00 02 00 00 01" crc="bc372511" md5="c94e27031c6814ffbe532585bb8d2f22" sha1="7b986e118f0dd395a17c5a706c9f74181fe359eb" sha256="000fa415dc5b97c261f292e9354f00a5a2f89f6e1aebba2c16b37271e8e634b7"/>
+		<rom name="Wait and See! (Asia) (En) (Unl).nes" size="393232" header="4e 45 53 1a 10 10 40 08 00 00 00 00 03 00 00 01" crc="433976d0" md5="dc6520c9d4e719fb09176eba0cdce225" sha1="ce62e6dd05ac8dd8aa25f4dc328ee45f4bc1b885" sha256="65e20cac02954bfd7962ef2f2f5e08759597a538b3acaba54484299fc6f2ca28"/>
 	</game>
 	<game name="Waixing Zhanshi 2 (China) (Unl)" id="8518">
 		<category>Games</category>
@@ -9027,7 +9027,7 @@
 	<game name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl)" id="1978">
 		<category>Games</category>
 		<description>Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl)</description>
-		<rom name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl).nes" size="196624" header="4e 45 53 1a 08 08 00 b8 00 00 00 00 03 00 00 40" crc="f828e645" md5="d2ac54add4373425f69f90a47e51c4ad" sha1="a318b88b9ad7d0323a166fa99aa4a360e5e0e311" sha256="c6d9e30fe42b83951680a94f01e260af94c8b5acc4000c781c95a6430b5f314a"/>
+		<rom name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl).nes" size="196624" header="4e 45 53 1a 08 08 00 b8 00 00 00 00 03 00 00 00" crc="28733128" md5="2a1516ebd262e8099f1d8473e96f3f6e" sha1="fa5c26c2f524e6fcd8efda024c6047628db14cdd" sha256="20d6f2b25b391e62f94f21acbc0f40ab11095be08e78aa5c485cc89dd81af024"/>
 	</game>
 	<game name="Xiao Mali (Taiwan) (En) (Nei-Hu) (Unl)" id="2781">
 		<category>Games</category>
