@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (296) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-29 12-46-53) (Retool)</description>
-		<version>2026-08-29 12-46-53</version>
-		<date>2026-09-06 07-19-42</date>
+		<description>Sony - PlayStation 5 (297) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-06 13-27-40) (Retool)</description>
+		<version>2026-09-06 13-27-40</version>
+		<date>2026-09-07 07-23-25</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -876,10 +876,10 @@
 		<description>Monster Energy Supercross 5 - The Official Videogame (Europe)</description>
 		<rom name="Monster Energy Supercross 5 - The Official Videogame (Europe).iso" size="40008351744" crc="f6268c25" md5="a7b9d87f65e060dbcead3653eb5e52f3" sha1="1f505c933faf426bf0ca0de8dc091bab797f88e7"/>
 	</game>
-	<game name="Monster Hunter Wilds (USA)" id="124803">
+	<game name="Monster Hunter Wilds (USA, Europe)" id="124803">
 		<category>Games</category>
-		<description>Monster Hunter Wilds (USA)</description>
-		<rom name="Monster Hunter Wilds (USA).iso" size="53032452096" crc="e67a2410" md5="2f656a6ff4d102b9a85d78dfabf8fbc2" sha1="2dd7ba22e4c387141e2eb5789e2e73a5f7ba2e24"/>
+		<description>Monster Hunter Wilds (USA, Europe)</description>
+		<rom name="Monster Hunter Wilds (USA, Europe).iso" size="53032452096" crc="e67a2410" md5="2f656a6ff4d102b9a85d78dfabf8fbc2" sha1="2dd7ba22e4c387141e2eb5789e2e73a5f7ba2e24"/>
 	</game>
 	<game name="Monster Truck Championship (Europe)" id="107876">
 		<category>Games</category>
@@ -1330,6 +1330,11 @@
 		<category>Games</category>
 		<description>Terminator - Resistance Enhanced (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)</description>
 		<rom name="Terminator - Resistance Enhanced (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru).iso" size="40008351744" crc="5326bd94" md5="e0e96c43561127bf370599bbd3393f0b" sha1="0f03a90f4b5a49db65ffc47bdded87a22935a047"/>
+	</game>
+	<game name="Test Drive Unlimited - Solar Crown (UK)" id="137998">
+		<category>Games</category>
+		<description>Test Drive Unlimited - Solar Crown (UK)</description>
+		<rom name="Test Drive Unlimited - Solar Crown (UK).iso" size="47535816704" crc="c303637d" md5="5e2bd5a6b46b2bbf45f854c2ee1534d3" sha1="18b6f1413e9ff062b262721486d86f774d3ea20d"/>
 	</game>
 	<game name="Them's Fightin' Herds (USA)" id="132614">
 		<category>Games</category>

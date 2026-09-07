@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,089) (-y) [-aAbBcefkmMoprv] (2026-09-06 02-42-03) (Retool)</description>
-		<version>2026-09-06 02-42-03</version>
-		<date>2026-09-06 07-06-22</date>
+		<description>IBM - PC compatible (26,105) (-y) [-aAbBcefkmMoprv] (2026-09-07 02-07-29) (Retool)</description>
+		<version>2026-09-07 02-07-29</version>
+		<date>2026-09-07 07-14-34</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -9380,6 +9380,12 @@
 		<rom name="Animotosi e la Macchina Motante, Gli (Italy).bin" size="385704480" crc="4e179879" md5="c61742054f00850553fa39858e425da0" sha1="16126fc35bfd7b3cc391dc0109a50c2d8b103b2d"/>
 		<rom name="Animotosi e la Macchina Motante, Gli (Italy).cue" size="110" crc="1b73a5ae" md5="3a636a8d96bc98479e58d04ae23238fd" sha1="db423b06ca49abfcbadbc3c4af7c3a83533dd603"/>
 	</game>
+	<game name="Anito (Ukraine) (Disc 1)" id="138005">
+		<category>Games</category>
+		<description>Anito (Ukraine) (Disc 1)</description>
+		<rom name="Anito (Ukraine) (Disc 1).bin" size="785226960" crc="1494d1ea" md5="a7e93f270845aaca8b23c658a1f91cfc" sha1="70f4cdc885ae5f50ea6c321101e93971054ebb6e"/>
+		<rom name="Anito (Ukraine) (Disc 1).cue" size="90" crc="bb3864c9" md5="eec3e9a146448fba6c22919a622e8f96" sha1="73a732de0ffa7e1ec39eca13ca537743d8c8f0ac"/>
+	</game>
 	<game name="Anito - Defend a Land Enraged (Philippines) (Disc 1) (Install Disc)" id="107824">
 		<category>Games</category>
 		<description>Anito - Defend a Land Enraged (Philippines) (Disc 1) (Install Disc)</description>
@@ -16547,6 +16553,24 @@
 		<description>Battlefield Hardline (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs) (Disc 5)</description>
 		<rom name="Battlefield Hardline (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs) (Disc 5).iso" size="7964794880" crc="0d1ba8cf" md5="06e1a9e3263901993166ea0adbde530a" sha1="9e1ed7a3684937b29b88da19b0bdc723010491da"/>
 	</game>
+	<game name="Battlefield Vietnam (Europe) (Disc 1) (Play) (Alt)" id="137993">
+		<category>Games</category>
+		<description>Battlefield Vietnam (Europe) (Disc 1) (Play) (Alt)</description>
+		<rom name="Battlefield Vietnam (Europe) (Disc 1) (Play) (Alt).bin" size="762725376" crc="fd57da22" md5="94f7268dfa6fe52f4a91589f9d09c0d2" sha1="29102227f169482a9d176fe2a6c4118b79c4ba27"/>
+		<rom name="Battlefield Vietnam (Europe) (Disc 1) (Play) (Alt).cue" size="116" crc="7b786edd" md5="879abaaa0c2ea726c3a03ddb76134ede" sha1="f98d0e63de4b651bb9efe881602d3b0b2c2f1e37"/>
+	</game>
+	<game name="Battlefield Vietnam (Europe) (Disc 2) (Install) (Alt)" id="137994">
+		<category>Games</category>
+		<description>Battlefield Vietnam (Europe) (Disc 2) (Install) (Alt)</description>
+		<rom name="Battlefield Vietnam (Europe) (Disc 2) (Install) (Alt).bin" size="760834368" crc="c385c8c8" md5="ce606db1d9f514e2d7226a493424a62e" sha1="88b1cdc7721c22cbc0e075190b950940695aceed"/>
+		<rom name="Battlefield Vietnam (Europe) (Disc 2) (Install) (Alt).cue" size="119" crc="4bbc1570" md5="80995fdb035792d94af50a81ae319c3b" sha1="15deab231130bd768a463f9dc566f2a433f2bb4e"/>
+	</game>
+	<game name="Battlefield Vietnam (Europe) (Disc 3) (Install) (Alt)" id="137995">
+		<category>Games</category>
+		<description>Battlefield Vietnam (Europe) (Disc 3) (Install) (Alt)</description>
+		<rom name="Battlefield Vietnam (Europe) (Disc 3) (Install) (Alt).bin" size="586174848" crc="247bc801" md5="c37509de53c7da5b3681539fdf512b88" sha1="faae32c87db2c49924b7f107f1f9412c6506b745"/>
+		<rom name="Battlefield Vietnam (Europe) (Disc 3) (Install) (Alt).cue" size="119" crc="b61f0355" md5="a0b982fc4abb5126526d42970bc73bcc" sha1="2ba55c8732bb9552c0e13b8537fe9b4ac115c234"/>
+	</game>
 	<game name="Battlefield Vietnam (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko) (Disc 4) (Bonus Disc)" id="104640">
 		<category>Games</category>
 		<description>Battlefield Vietnam (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko) (Disc 4) (Bonus Disc)</description>
@@ -21436,6 +21460,12 @@
 		<description>Brat 2 - Obratno v Ameriku (Russia)</description>
 		<rom name="Brat 2 - Obratno v Ameriku (Russia).bin" size="393052128" crc="308c8f16" md5="b89314e813c4f26471a9446774714560" sha1="10144f06dbaff574af0d1fa490edfa442ae243ae"/>
 		<rom name="Brat 2 - Obratno v Ameriku (Russia).cue" size="101" crc="999ea86d" md5="630637a2566cffd4e203aefef9ea2acf" sha1="3b4c15ed78a9429274640cad8660fd1e3dbefb14"/>
+	</game>
+	<game name="Brat'ya Piloty - Po sledam Polosatogo Slona (Ukraine)" id="138009">
+		<category>Games</category>
+		<description>Brat'ya Piloty - Po sledam Polosatogo Slona (Ukraine)</description>
+		<rom name="Brat'ya Piloty - Po sledam Polosatogo Slona (Ukraine).bin" size="135498720" crc="39fbe1e5" md5="28803433b2dfe1b3191b5cfe51d8b500" sha1="398f24d0775340a654a44625060c7f0fbfe43566"/>
+		<rom name="Brat'ya Piloty - Po sledam Polosatogo Slona (Ukraine).cue" size="119" crc="34f797bf" md5="1a7d4988dda04db81ebf2150a7feec07" sha1="960e7ed4aceba0f01469b2826fce421971436fdd"/>
 	</game>
 	<game name="Brat'ya Piloty' 3D - Delo ob Ogorodny'x vreditelyax (Ukraine) (Disc 1)" id="109041">
 		<category>Games</category>
@@ -37083,17 +37113,17 @@
 		<rom name="Delta Force - Operaciya Chyornyj Yastreb (Russia) (Disc 2).bin" size="762163248" crc="85dde4c9" md5="8c485ae674a7fc422db2729929929cb5" sha1="9a5f26879383ee861cbe9e6cc7eccb96d28be13f"/>
 		<rom name="Delta Force - Operaciya Chyornyj Yastreb (Russia) (Disc 2).cue" size="124" crc="e06e64b1" md5="1d3b060fa1fd74f830faa60b211eb474" sha1="62d82579ae6d33d5ad8e44f76f55a64dfa8be49b"/>
 	</game>
-	<game name="Delta Force - Operaciya Kartel' (Russia) (Disc 1)" id="112195">
+	<game name="Delta Force - Operaciya Kartel' (Russia, Ukraine) (Disc 1)" id="112195">
 		<category>Games</category>
-		<description>Delta Force - Operaciya Kartel' (Russia) (Disc 1)</description>
-		<rom name="Delta Force - Operaciya Kartel' (Russia) (Disc 1).bin" size="827499456" crc="e9ac087b" md5="5bcffd5d6adcccba60e8d2deb0eb3e21" sha1="9ce5d246f4b4bef24e3254a07aa0ea1fb0faebca"/>
-		<rom name="Delta Force - Operaciya Kartel' (Russia) (Disc 1).cue" size="115" crc="845efdb4" md5="4131525f59528976e4d91a2530d4c0ad" sha1="b23eb4cd13b272fb3b30f55afedb53b3c1f6afe2"/>
+		<description>Delta Force - Operaciya Kartel' (Russia, Ukraine) (Disc 1)</description>
+		<rom name="Delta Force - Operaciya Kartel' (Russia, Ukraine) (Disc 1).bin" size="827499456" crc="e9ac087b" md5="5bcffd5d6adcccba60e8d2deb0eb3e21" sha1="9ce5d246f4b4bef24e3254a07aa0ea1fb0faebca"/>
+		<rom name="Delta Force - Operaciya Kartel' (Russia, Ukraine) (Disc 1).cue" size="124" crc="7f13b951" md5="2d917426445d826c01bd413e005449fc" sha1="9a8e6f3709de2c49502a804b0d3f216609aca8db"/>
 	</game>
-	<game name="Delta Force - Operaciya Kartel' (Russia) (Disc 2)" id="112196">
+	<game name="Delta Force - Operaciya Kartel' (Russia, Ukraine) (Disc 2)" id="112196">
 		<category>Games</category>
-		<description>Delta Force - Operaciya Kartel' (Russia) (Disc 2)</description>
-		<rom name="Delta Force - Operaciya Kartel' (Russia) (Disc 2).bin" size="804282864" crc="d616ad7d" md5="502d1c97b075190bad7816e582873107" sha1="46a93bb1621220eb02d825e7e5040a1f8766e7d6"/>
-		<rom name="Delta Force - Operaciya Kartel' (Russia) (Disc 2).cue" size="115" crc="8503db65" md5="0d06704400810650d79bb9c2c675a9dc" sha1="8478348489490fb67ace6ca98b68a5e79a2fe4fc"/>
+		<description>Delta Force - Operaciya Kartel' (Russia, Ukraine) (Disc 2)</description>
+		<rom name="Delta Force - Operaciya Kartel' (Russia, Ukraine) (Disc 2).bin" size="804282864" crc="d616ad7d" md5="502d1c97b075190bad7816e582873107" sha1="46a93bb1621220eb02d825e7e5040a1f8766e7d6"/>
+		<rom name="Delta Force - Operaciya Kartel' (Russia, Ukraine) (Disc 2).cue" size="124" crc="7e4e9f80" md5="3372754537161687b83f245163701247" sha1="d2c3083ec99b9a979a45c6ffc8a8bdc957055c35"/>
 	</game>
 	<game name="Delta Force - Operaciya Specnaz (Russia)" id="86492">
 		<category>Games</category>
@@ -43795,6 +43825,12 @@
 		<description>Dr. Brain Nonogram PC (Germany)</description>
 		<rom name="Dr. Brain Nonogram PC (Germany).bin" size="59237472" crc="005d48da" md5="4d1ce0cec7f3e13f690033b3433a2ecb" sha1="6022fbafab05f42fb0f31ed25e56754fad803b28"/>
 		<rom name="Dr. Brain Nonogram PC (Germany).cue" size="97" crc="4a5c4a89" md5="1dd310a0d9e26d7f4135c9573565b610" sha1="85d55c3f3ab70678174312e2290d485ce7a47d9c"/>
+	</game>
+	<game name="Dr. Brain Thinking Games - Adventure Laboratory (USA)" id="138000">
+		<category>Demos</category>
+		<description>Dr. Brain Thinking Games - Adventure Laboratory (USA)</description>
+		<rom name="Dr. Brain Thinking Games - Adventure Laboratory (USA).bin" size="71449056" crc="57d486d4" md5="53a5b95eea60c399d343d4970a3edbd1" sha1="5d8ebc889f3ec99422b0e2b906c6cb9d5c74c66c"/>
+		<rom name="Dr. Brain Thinking Games - Adventure Laboratory (USA).cue" size="119" crc="8ba1e1c6" md5="c5b85152791c4e5c21f5d4bb3f21c9e5" sha1="ad7c03c3a29f2e130f42cec7feac346c05f42a1c"/>
 	</game>
 	<game name="Dr. Brain Thinking Games - I.Q. Adventure (USA)" id="93866">
 		<category>Games</category>
@@ -82327,6 +82363,12 @@
 		<rom name="Kaze no Tansakusha 2 - Shadow Kingdom (Japan).bin" size="58315488" crc="8d98a05f" md5="4acdacf02d729f41daff66e554f5d158" sha1="404d1a085a42814703af23b9a4df674d9a9af2e5"/>
 		<rom name="Kaze no Tansakusha 2 - Shadow Kingdom (Japan).cue" size="111" crc="94c1f10d" md5="8ee27f1053fd89bfcda1c5f2640da1b1" sha1="adfc27e506d391666063855f2ab00808da4aa3f7"/>
 	</game>
+	<game name="Ke'rol Rids - Devushka-detektiv - Istoriya pervaya (Russia)" id="137991">
+		<category>Games</category>
+		<description>Ke'rol Rids - Devushka-detektiv - Istoriya pervaya (Russia)</description>
+		<rom name="Ke'rol Rids - Devushka-detektiv - Istoriya pervaya (Russia).bin" size="429249408" crc="47415253" md5="a19064ec1083349df03434b59aa09816" sha1="b13e320527c119cf248ada6d5fe27ca330eacc85"/>
+		<rom name="Ke'rol Rids - Devushka-detektiv - Istoriya pervaya (Russia).cue" size="125" crc="7232f97d" md5="32e5b7568fb967c0cefcf313574b957c" sha1="3112aec06b0fba5c65c5256efe3b78243e0336e6"/>
+	</game>
 	<game name="Keep Out (Japan)" id="85324">
 		<category>Games</category>
 		<description>Keep Out (Japan)</description>
@@ -84156,6 +84198,18 @@
 		<rom name="Kolonisten van Catan incl. Zeevaarders, De (Netherlands) (Rerelease).bin" size="517324752" crc="3a2e88e9" md5="0306b9725ff7b53e0203f6fa71e2c7ee" sha1="705cbf2d84dd5888fa542c87ad54b6d0e7aa616b"/>
 		<rom name="Kolonisten van Catan incl. Zeevaarders, De (Netherlands) (Rerelease).cue" size="134" crc="f4b3fd07" md5="7b9668345dcc8882c942f3087c210588" sha1="3415c8f08e632ff5df1c4da2a2035b2390ac79c2"/>
 	</game>
+	<game name="Kolonizaciya - Bitva za novye zemli (Ukraine) (Disc 1)" id="138006">
+		<category>Games</category>
+		<description>Kolonizaciya - Bitva za novye zemli (Ukraine) (Disc 1)</description>
+		<rom name="Kolonizaciya - Bitva za novye zemli (Ukraine) (Disc 1).bin" size="667605792" crc="9d69508f" md5="4c58fd9153404b372146423176590fec" sha1="8e6cf8ef0735faf48c106e388dac1f783581655e"/>
+		<rom name="Kolonizaciya - Bitva za novye zemli (Ukraine) (Disc 1).cue" size="120" crc="7b7c1f35" md5="4fd323622f275fb2d0d80760d90372db" sha1="d2ca38060a879d84e39b304efe88606ca7491c18"/>
+	</game>
+	<game name="Kolonizaciya - Bitva za novye zemli (Ukraine) (Disc 2)" id="138007">
+		<category>Games</category>
+		<description>Kolonizaciya - Bitva za novye zemli (Ukraine) (Disc 2)</description>
+		<rom name="Kolonizaciya - Bitva za novye zemli (Ukraine) (Disc 2).bin" size="397996032" crc="0f3d0538" md5="b92598e6676832a53a7b6d834d392e85" sha1="364ef17dead3baca7e962a7601151c4a0228049f"/>
+		<rom name="Kolonizaciya - Bitva za novye zemli (Ukraine) (Disc 2).cue" size="120" crc="7a2139e4" md5="f6445f4f2682dc54c4ccf9645628ebb2" sha1="6bac5b985ffda1648f15472b60d39e281939fab7"/>
+	</game>
 	<game name="Kolonizatory - Geroi Kosmosa (Russia)" id="80570">
 		<category>Games</category>
 		<description>Kolonizatory - Geroi Kosmosa (Russia)</description>
@@ -84633,6 +84687,18 @@
 		<description>Kosmoyozhiki (Russia)</description>
 		<rom name="Kosmoyozhiki (Russia).bin" size="368607792" crc="84f6ce3a" md5="cf239388edc215f1354a1ed8d997225b" sha1="8ee7de6db89500babc0348125ffd611ac42aaadd"/>
 		<rom name="Kosmoyozhiki (Russia).cue" size="87" crc="35e702eb" md5="4450fe9be6bb5387a5f20ea3ab058a0f" sha1="919c139aece4faccad08efe51f5ac25b3c50ce76"/>
+	</game>
+	<game name="Kot Leopol'd - Dogonyalki (Ukraine) (Disc 1)" id="138001">
+		<category>Games</category>
+		<description>Kot Leopol'd - Dogonyalki (Ukraine) (Disc 1)</description>
+		<rom name="Kot Leopol'd - Dogonyalki (Ukraine) (Disc 1).bin" size="744970128" crc="1dcd23ac" md5="fee0b5b13f44ec6fef5964f7cd0a5dec" sha1="fce0a9f189ce16b77e10a50222752bad6624555a"/>
+		<rom name="Kot Leopol'd - Dogonyalki (Ukraine) (Disc 1).cue" size="110" crc="f5c7f808" md5="bd9c1caf352e8f110df0752be5c2da8a" sha1="35c5c2ca226a4f5ef045cbfa42179232da3826d3"/>
+	</game>
+	<game name="Kot Leopol'd - Dogonyalki (Ukraine) (Disc 2)" id="138002">
+		<category>Games</category>
+		<description>Kot Leopol'd - Dogonyalki (Ukraine) (Disc 2)</description>
+		<rom name="Kot Leopol'd - Dogonyalki (Ukraine) (Disc 2).bin" size="644182224" crc="c4913208" md5="7df2a42be2fb7fec68ac5a8e620f7be6" sha1="02f08769ab740d05591d766e1091cd4d0992ddea"/>
+		<rom name="Kot Leopol'd - Dogonyalki (Ukraine) (Disc 2).cue" size="110" crc="f49aded9" md5="8190c42d7a6147d3e56f30b203a2777c" sha1="8eeb8e0a38a9c1586dbc759269af7c3ee5c39115"/>
 	</game>
 	<game name="Kotobuki (Japan)" id="54348">
 		<category>Games</category>
@@ -98216,17 +98282,17 @@
 		<rom name="Merit's Galactic Reunion (USA) (En,Fr,De,It).bin" size="161549472" crc="02c082a1" md5="3d7931654b1068413d804034e4a1f627" sha1="2bd6e7dd7f179a8cd9103132930a27bd927625d8"/>
 		<rom name="Merit's Galactic Reunion (USA) (En,Fr,De,It).cue" size="133" crc="3ef6d9a2" md5="29075992adb715e96b2fd33e5debc14d" sha1="3edc42e02063da0ded97431642ded13215d670b1"/>
 	</game>
-	<game name="Merkurij-8 (Russia) (Disc 1) (Ustanovochnyj)" id="112229">
+	<game name="Merkurij-8 (Russia, Ukraine) (Disc 1) (Ustanovochnyj)" id="112229">
 		<category>Games</category>
-		<description>Merkurij-8 (Russia) (Disc 1) (Ustanovochnyj)</description>
-		<rom name="Merkurij-8 (Russia) (Disc 1) (Ustanovochnyj).bin" size="825855408" crc="9f840a01" md5="2a216edd56ed9161aebd71d18abda949" sha1="bc6d7c8cba2e307b985d40f3d9d4e749e94802a7"/>
-		<rom name="Merkurij-8 (Russia) (Disc 1) (Ustanovochnyj).cue" size="110" crc="68fbd1aa" md5="62b74af477de2b5b3930aa0a26c9f516" sha1="34ff9bd37cc5672751a94261c668e2ad54d0e803"/>
+		<description>Merkurij-8 (Russia, Ukraine) (Disc 1) (Ustanovochnyj)</description>
+		<rom name="Merkurij-8 (Russia, Ukraine) (Disc 1) (Ustanovochnyj).bin" size="825855408" crc="9f840a01" md5="2a216edd56ed9161aebd71d18abda949" sha1="bc6d7c8cba2e307b985d40f3d9d4e749e94802a7"/>
+		<rom name="Merkurij-8 (Russia, Ukraine) (Disc 1) (Ustanovochnyj).cue" size="119" crc="b8aa2925" md5="f48b8aae19d8823c1a3356882e9e7201" sha1="24927ce0c3e2f1e4776fb27fb4e7e91e97d1aa2b"/>
 	</game>
-	<game name="Merkurij-8 (Russia) (Disc 2) (Igrovoj)" id="4620">
+	<game name="Merkurij-8 (Russia, Ukraine) (Disc 2) (Igrovoj)" id="4620">
 		<category>Games</category>
-		<description>Merkurij-8 (Russia) (Disc 2) (Igrovoj)</description>
-		<rom name="Merkurij-8 (Russia) (Disc 2) (Igrovoj).bin" size="845974416" crc="ce1c7403" md5="3c865ca96bf8fb0cd50fbaf1de76f90f" sha1="1bc0b641345259f471a0decf7e848c47d651eece"/>
-		<rom name="Merkurij-8 (Russia) (Disc 2) (Igrovoj).cue" size="104" crc="013e1abe" md5="66b7c9b8615d7d541be448f3343b8554" sha1="ddea6dccd3c9070377f20cf560e0c1e3dc8688ad"/>
+		<description>Merkurij-8 (Russia, Ukraine) (Disc 2) (Igrovoj)</description>
+		<rom name="Merkurij-8 (Russia, Ukraine) (Disc 2) (Igrovoj).bin" size="845974416" crc="ce1c7403" md5="3c865ca96bf8fb0cd50fbaf1de76f90f" sha1="1bc0b641345259f471a0decf7e848c47d651eece"/>
+		<rom name="Merkurij-8 (Russia, Ukraine) (Disc 2) (Igrovoj).cue" size="113" crc="7591416f" md5="cbc2386406945d81c53333fdec94c28a" sha1="f3c02b49a129a9c7a301f3e650e818e73081702c"/>
 	</game>
 	<game name="Merlin Challenge - Britain's Finest Warbird (USA)" id="137652">
 		<category>Games</category>
@@ -109377,17 +109443,17 @@
 		<description>Neyuki no Gen'ei - Shirahanasou no Hitobito (Japan)</description>
 		<rom name="Neyuki no Gen'ei - Shirahanasou no Hitobito (Japan).iso" size="4072013824" crc="2fe54a8e" md5="11467a3541f1ec74ae856647f2ce68b8" sha1="c7e5b2faff392a45dd18205f50f9619b6c638460"/>
 	</game>
-	<game name="Neznajka i Barrabass (Russia) (Disc 1)" id="108420">
+	<game name="Neznajka i Barrabass (Russia, Ukraine) (Disc 1)" id="108420">
 		<category>Games</category>
-		<description>Neznajka i Barrabass (Russia) (Disc 1)</description>
-		<rom name="Neznajka i Barrabass (Russia) (Disc 1).bin" size="389971008" crc="e5d9969c" md5="03f7c1bf591bdef0248fab3c5dadff68" sha1="8b72e9a9e6b5a9267cc53bca2853c9b24cac55cf"/>
-		<rom name="Neznajka i Barrabass (Russia) (Disc 1).cue" size="104" crc="f66e4fbb" md5="a3638ef3e9ebe28379475c74d1b651e4" sha1="6a7fc8058b5f389370d44826d2f66ec50c618719"/>
+		<description>Neznajka i Barrabass (Russia, Ukraine) (Disc 1)</description>
+		<rom name="Neznajka i Barrabass (Russia, Ukraine) (Disc 1).bin" size="389971008" crc="e5d9969c" md5="03f7c1bf591bdef0248fab3c5dadff68" sha1="8b72e9a9e6b5a9267cc53bca2853c9b24cac55cf"/>
+		<rom name="Neznajka i Barrabass (Russia, Ukraine) (Disc 1).cue" size="113" crc="daf0aec2" md5="048f7a6f88f7204a9bcefc4f6c28b1f2" sha1="7ed95ad0a1c3942cf63102bfd2844a815d879a7f"/>
 	</game>
-	<game name="Neznajka i Barrabass (Russia) (Disc 2)" id="108421">
+	<game name="Neznajka i Barrabass (Russia, Ukraine) (Disc 2)" id="108421">
 		<category>Games</category>
-		<description>Neznajka i Barrabass (Russia) (Disc 2)</description>
-		<rom name="Neznajka i Barrabass (Russia) (Disc 2).bin" size="511635264" crc="4e9d94b6" md5="b910a82061399ae6bc194144de3abcaf" sha1="eecb696e4ba94407a274ce3b9dcbcfe2ba912754"/>
-		<rom name="Neznajka i Barrabass (Russia) (Disc 2).cue" size="104" crc="f733696a" md5="f3df7caea30d4665442cb1b7dbd47955" sha1="6f4f60c1eb5251c1c58105d4a3afb0d9c07a6581"/>
+		<description>Neznajka i Barrabass (Russia, Ukraine) (Disc 2)</description>
+		<rom name="Neznajka i Barrabass (Russia, Ukraine) (Disc 2).bin" size="511635264" crc="4e9d94b6" md5="b910a82061399ae6bc194144de3abcaf" sha1="eecb696e4ba94407a274ce3b9dcbcfe2ba912754"/>
+		<rom name="Neznajka i Barrabass (Russia, Ukraine) (Disc 2).cue" size="113" crc="dbad8813" md5="c5d8d0b8a3111dc91f7f43c7985e56cb" sha1="67308477890ad8dc6e66475eadb4fe8e5d3893dc"/>
 	</game>
 	<game name="Ne~Tsuma - Happy Life &amp; H Lesson (Japan)" id="129191">
 		<category>Games</category>
@@ -123281,6 +123347,14 @@
 		<rom name="Produzent, Der &amp; Kick Off 97 (Germany) (Track 3).bin" size="371150304" crc="dad82cfd" md5="f2017cc230ecb891041f5562617d176b" sha1="c484e2241a34c0c6fc3667383e817dfc35559d30"/>
 		<rom name="Produzent, Der &amp; Kick Off 97 (Germany) (Track 4).bin" size="1644048" crc="4072b6fd" md5="7c352081d074acdbbe4561fb2831c7ec" sha1="a701b115f14a61b5711a068164c19253c2e722a0"/>
 		<rom name="Produzent, Der &amp; Kick Off 97 (Germany).cue" size="524" crc="c89f7fd8" md5="4edfb9ecfb03e6c7ca07813b4ee58b38" sha1="e60a69bf7b27be6373cbaca21dceb554c8a66f50"/>
+	</game>
+	<game name="Produzent, Der (Germany)" id="137996">
+		<category>Games</category>
+		<description>Produzent, Der (Germany)</description>
+		<rom name="Produzent, Der (Germany) (Track 1).bin" size="154486416" crc="60ee4a0b" md5="e5b098f7bd70e160be5a391c4848ea3c" sha1="e158489cf9e8ab4b258faf66e2b6f45b8a7421ad"/>
+		<rom name="Produzent, Der (Germany) (Track 2).bin" size="370802208" crc="fa4c6c84" md5="a7f7f50a68ab5a41f83f47ae9fef92ad" sha1="4786a1ace1ac311609b0958983e598137813982f"/>
+		<rom name="Produzent, Der (Germany) (Track 3).bin" size="1938048" crc="d8e513d3" md5="b40e5151774c76def47ca1d683f0f54f" sha1="996b19f6c660d30ba2a372df1cc34e77c4d1359c"/>
+		<rom name="Produzent, Der (Germany).cue" size="359" crc="b4b10b87" md5="3dcef5c681c7b6432d21d7fb41748edf" sha1="e7dcfc68357e6134f0e5eb29737214db5104f2cd"/>
 	</game>
 	<game name="Produzent, Der - Die Welt des Films (Germany) (Disc 1) (Daten)" id="50223">
 		<category>Games</category>
@@ -143005,6 +143079,11 @@
 		<rom name="Sid Meier's Pirates! (USA) (Disc 2).bin" size="395152464" crc="34c18e0a" md5="80a8a92abf85a6e57d15a3b580401d11" sha1="ccb48f6d3a63244f84625050b8339e3077989275"/>
 		<rom name="Sid Meier's Pirates! (USA) (Disc 2).cue" size="101" crc="70c27312" md5="85abcb2e20ff22e81883eca78b70be3f" sha1="87fa6b49ba162e7f69049f4b9230e7a2ad15184e"/>
 	</game>
+	<game name="Sid Meier's Pirates! Limited Edition DVD (USA)" id="137997">
+		<category>Games</category>
+		<description>Sid Meier's Pirates! Limited Edition DVD (USA)</description>
+		<rom name="Sid Meier's Pirates! Limited Edition DVD (USA).iso" size="2605131776" crc="352e91b3" md5="d651889b63ee05aa1e57f4f6834948b2" sha1="d38e2aa4bb686704bedc118520f5908f793123ed"/>
+	</game>
 	<game name="Sid Meier's Railroad Tycoon (USA) (Rerelease)" id="86388">
 		<category>Games</category>
 		<description>Sid Meier's Railroad Tycoon (USA) (Rerelease)</description>
@@ -153483,23 +153562,23 @@
 		<rom name="Steven Spielberg no Director's Chair (Japan) (Disc 3).bin" size="753023376" crc="50593ec4" md5="5e48cf79209a3e00fb6ea7566fbf0fa1" sha1="bb3aa9c12779042a12bd5c8d52af55eb094530a2"/>
 		<rom name="Steven Spielberg no Director's Chair (Japan) (Disc 3).cue" size="119" crc="50a7f6a1" md5="6ee363c7252df8e549c2b6e442fc8bca" sha1="4c8d363ffd3b9065707ff5b42e25f21fbee0719c"/>
 	</game>
-	<game name="Steven Spielberg's Director's Chair (USA) (Disc 1)" id="107736">
+	<game name="Steven Spielberg's Director's Chair (USA, Canada) (Disc 1)" id="107736">
 		<category>Games</category>
-		<description>Steven Spielberg's Director's Chair (USA) (Disc 1)</description>
-		<rom name="Steven Spielberg's Director's Chair (USA) (Disc 1).bin" size="691631472" crc="1e98cfee" md5="07a6aa5d56fcfbece43d29ceb76983e0" sha1="4c5c27bd08ec81ff0045102386a98a89b3169c4b"/>
-		<rom name="Steven Spielberg's Director's Chair (USA) (Disc 1).cue" size="116" crc="d4ca5e62" md5="3314b265f0c7afc72c7cfb435ad81187" sha1="c8b013c7f3272585225d0110065e690db4102a24"/>
+		<description>Steven Spielberg's Director's Chair (USA, Canada) (Disc 1)</description>
+		<rom name="Steven Spielberg's Director's Chair (USA, Canada) (Disc 1).bin" size="691631472" crc="1e98cfee" md5="07a6aa5d56fcfbece43d29ceb76983e0" sha1="4c5c27bd08ec81ff0045102386a98a89b3169c4b"/>
+		<rom name="Steven Spielberg's Director's Chair (USA, Canada) (Disc 1).cue" size="124" crc="2b99695f" md5="ac82df3881b9d40e9eefb85906ec994c" sha1="fc56eab4e3c0980c2e3a591ba9b16a0f59e69be7"/>
 	</game>
-	<game name="Steven Spielberg's Director's Chair (USA) (Disc 2)" id="107737">
+	<game name="Steven Spielberg's Director's Chair (USA, Canada) (Disc 2)" id="107737">
 		<category>Games</category>
-		<description>Steven Spielberg's Director's Chair (USA) (Disc 2)</description>
-		<rom name="Steven Spielberg's Director's Chair (USA) (Disc 2).bin" size="711418848" crc="b68d300b" md5="4e9688253ea0a3f50d593bb5ff481b2c" sha1="e44fdf4744d3b368afd83190f03034d9f99fb12e"/>
-		<rom name="Steven Spielberg's Director's Chair (USA) (Disc 2).cue" size="116" crc="d59778b3" md5="5c5979e48f63744006329b3922705b8b" sha1="e6b04916bbc869c337c41481d6053a24766ead41"/>
+		<description>Steven Spielberg's Director's Chair (USA, Canada) (Disc 2)</description>
+		<rom name="Steven Spielberg's Director's Chair (USA, Canada) (Disc 2).bin" size="711418848" crc="b68d300b" md5="4e9688253ea0a3f50d593bb5ff481b2c" sha1="e44fdf4744d3b368afd83190f03034d9f99fb12e"/>
+		<rom name="Steven Spielberg's Director's Chair (USA, Canada) (Disc 2).cue" size="124" crc="2ac44f8e" md5="9d0402fe41d31a3bc3cb119daa1bdbde" sha1="134617410c74e5b02fbc6ee44be592df1f9c2165"/>
 	</game>
-	<game name="Steven Spielberg's Director's Chair (USA) (Disc 3)" id="107738">
+	<game name="Steven Spielberg's Director's Chair (USA, Canada) (Disc 3)" id="107738">
 		<category>Games</category>
-		<description>Steven Spielberg's Director's Chair (USA) (Disc 3)</description>
-		<rom name="Steven Spielberg's Director's Chair (USA) (Disc 3).bin" size="755375376" crc="d0a8f5f1" md5="b1faca5aef3ade5fb6a0d7e50b9b22fb" sha1="2df28aa74842c13d52e4b4e8bf000b8cfdba5355"/>
-		<rom name="Steven Spielberg's Director's Chair (USA) (Disc 3).cue" size="139" crc="c53e523f" md5="0ebb25d59372e7641a39a9413bb51eee" sha1="db8b7ef28179cff84a2d3af12bbf26a3d6dcea45"/>
+		<description>Steven Spielberg's Director's Chair (USA, Canada) (Disc 3)</description>
+		<rom name="Steven Spielberg's Director's Chair (USA, Canada) (Disc 3).bin" size="755375376" crc="d0a8f5f1" md5="b1faca5aef3ade5fb6a0d7e50b9b22fb" sha1="2df28aa74842c13d52e4b4e8bf000b8cfdba5355"/>
+		<rom name="Steven Spielberg's Director's Chair (USA, Canada) (Disc 3).cue" size="147" crc="f413b676" md5="fee5a737a173d3521f205358c951ff4b" sha1="ae9caacd4c21b4aac7c9b4844fbb24cf2214d0b3"/>
 	</game>
 	<game name="Stil'nye devchonki - Biznes ledi (Russia)" id="116455">
 		<category>Games</category>
@@ -170362,20 +170441,20 @@
 		<rom name="Vantage Master (Japan) (Track 20).bin" size="70148400" crc="c2242097" md5="2c85b54fd3d57bcca7c860134b331b33" sha1="777707bf65b201d502cf926a92d4bbd2fba18762"/>
 		<rom name="Vantage Master (Japan).cue" size="2345" crc="704deb9e" md5="23805ea842464e16f5099d31f0b11f61" sha1="d03c5b0fbed03d801e0c706982a091324f83f675"/>
 	</game>
-	<game name="Varyagi - Severnye druzhiny (Russia)" id="112186">
+	<game name="Varyagi - Severnye druzhiny (Russia, Ukraine)" id="112186">
 		<category>Games</category>
-		<description>Varyagi - Severnye druzhiny (Russia)</description>
-		<rom name="Varyagi - Severnye druzhiny (Russia) (Track 01).bin" size="600380928" crc="3b3ff167" md5="ba670b729341b538eaf659cab946dd61" sha1="90baa56ff94518e9c6612e975a03c69c472d6511"/>
-		<rom name="Varyagi - Severnye druzhiny (Russia) (Track 02).bin" size="10266480" crc="dabe864c" md5="2e7f9918412cbd68b2bbdf8c7c45498a" sha1="d2616ba08b02e756ab4ffb5cfec56471ba1808d0"/>
-		<rom name="Varyagi - Severnye druzhiny (Russia) (Track 03).bin" size="14530656" crc="5c821c6b" md5="399ccb84f034ac63748fda8055730e07" sha1="bcef0d68736150eb104437c0d9c8ce5b38c8cbd7"/>
-		<rom name="Varyagi - Severnye druzhiny (Russia) (Track 04).bin" size="10529904" crc="7ab18cf3" md5="73909c2e031c74af96c2398c47f76b08" sha1="0f1cc0154e6725725b68a01760196f67288bf4b8"/>
-		<rom name="Varyagi - Severnye druzhiny (Russia) (Track 05).bin" size="42827568" crc="72483c59" md5="95d67c958e1e35af364d31646bfe8044" sha1="a1551a3826e6aaa63a9c17372a824040d750cab2"/>
-		<rom name="Varyagi - Severnye druzhiny (Russia) (Track 06).bin" size="10113600" crc="1d703692" md5="d52046d98d3ef1f288a5911ba19caf24" sha1="44f0cffbf3efb14ab6ab70cd3032dd2f50353149"/>
-		<rom name="Varyagi - Severnye druzhiny (Russia) (Track 07).bin" size="27532512" crc="645b07bf" md5="a59420958e820f18ec954bb1b77e6412" sha1="07667ead6e928fdc1c0fc281c1faf1fbd17ea3d4"/>
-		<rom name="Varyagi - Severnye druzhiny (Russia) (Track 08).bin" size="20725824" crc="3b9bd193" md5="4515c235a2dc55726ae5c88e18046748" sha1="0f97e30a59281483fc947105c3fa02a093596418"/>
-		<rom name="Varyagi - Severnye druzhiny (Russia) (Track 09).bin" size="24028032" crc="48ca793f" md5="bd071e588be942e19c73eed59c59c8a8" sha1="d65932945ece621da81e524b648e7f68ce5072df"/>
-		<rom name="Varyagi - Severnye druzhiny (Russia) (Track 10).bin" size="23458848" crc="c00c3b0d" md5="69213b783657f48e1b8db321dc6cbfc2" sha1="5821f016fcbcc3c5558c6d557c004c196797496e"/>
-		<rom name="Varyagi - Severnye druzhiny (Russia).cue" size="1292" crc="ea08ba0a" md5="739c2e65ae90812366e8e1453eb0c6da" sha1="2469386f6ac786f3726a8b8340a74863812d3f5d"/>
+		<description>Varyagi - Severnye druzhiny (Russia, Ukraine)</description>
+		<rom name="Varyagi - Severnye druzhiny (Russia, Ukraine) (Track 01).bin" size="600380928" crc="3b3ff167" md5="ba670b729341b538eaf659cab946dd61" sha1="90baa56ff94518e9c6612e975a03c69c472d6511"/>
+		<rom name="Varyagi - Severnye druzhiny (Russia, Ukraine) (Track 02).bin" size="10266480" crc="dabe864c" md5="2e7f9918412cbd68b2bbdf8c7c45498a" sha1="d2616ba08b02e756ab4ffb5cfec56471ba1808d0"/>
+		<rom name="Varyagi - Severnye druzhiny (Russia, Ukraine) (Track 03).bin" size="14530656" crc="5c821c6b" md5="399ccb84f034ac63748fda8055730e07" sha1="bcef0d68736150eb104437c0d9c8ce5b38c8cbd7"/>
+		<rom name="Varyagi - Severnye druzhiny (Russia, Ukraine) (Track 04).bin" size="10529904" crc="7ab18cf3" md5="73909c2e031c74af96c2398c47f76b08" sha1="0f1cc0154e6725725b68a01760196f67288bf4b8"/>
+		<rom name="Varyagi - Severnye druzhiny (Russia, Ukraine) (Track 05).bin" size="42827568" crc="72483c59" md5="95d67c958e1e35af364d31646bfe8044" sha1="a1551a3826e6aaa63a9c17372a824040d750cab2"/>
+		<rom name="Varyagi - Severnye druzhiny (Russia, Ukraine) (Track 06).bin" size="10113600" crc="1d703692" md5="d52046d98d3ef1f288a5911ba19caf24" sha1="44f0cffbf3efb14ab6ab70cd3032dd2f50353149"/>
+		<rom name="Varyagi - Severnye druzhiny (Russia, Ukraine) (Track 07).bin" size="27532512" crc="645b07bf" md5="a59420958e820f18ec954bb1b77e6412" sha1="07667ead6e928fdc1c0fc281c1faf1fbd17ea3d4"/>
+		<rom name="Varyagi - Severnye druzhiny (Russia, Ukraine) (Track 08).bin" size="20725824" crc="3b9bd193" md5="4515c235a2dc55726ae5c88e18046748" sha1="0f97e30a59281483fc947105c3fa02a093596418"/>
+		<rom name="Varyagi - Severnye druzhiny (Russia, Ukraine) (Track 09).bin" size="24028032" crc="48ca793f" md5="bd071e588be942e19c73eed59c59c8a8" sha1="d65932945ece621da81e524b648e7f68ce5072df"/>
+		<rom name="Varyagi - Severnye druzhiny (Russia, Ukraine) (Track 10).bin" size="23458848" crc="c00c3b0d" md5="69213b783657f48e1b8db321dc6cbfc2" sha1="5821f016fcbcc3c5558c6d557c004c196797496e"/>
+		<rom name="Varyagi - Severnye druzhiny (Russia, Ukraine).cue" size="1382" crc="9d879e91" md5="d6aa7728257588a243b79f90f9e04ba6" sha1="7f73824473298a46caa4d45faff6ef37dd6649ce"/>
 	</game>
 	<game name="Vechera na xutore bliz Dikan'ki 2 - Vecher nakanune Ivana Kupala (Russia) (Disc 1)" id="110956">
 		<category>Games</category>
@@ -172397,6 +172476,18 @@
 		<description>Volshebnyj shar 4 (Russia)</description>
 		<rom name="Volshebnyj shar 4 (Russia).bin" size="268699536" crc="2e55c106" md5="fa28bdae46c52c63f6adeb6f1d01bb12" sha1="74de2f1fc6146b772fd0c41a78ef24eb2d398ae9"/>
 		<rom name="Volshebnyj shar 4 (Russia).cue" size="92" crc="60b06c59" md5="1d5804c4cdbba1e846b2e4946ba460d0" sha1="3ba176338a069e6e50f45690a17e726ebdc9df55"/>
+	</game>
+	<game name="Volya i razum (Ukraine) (Disc 1)" id="138003">
+		<category>Games</category>
+		<description>Volya i razum (Ukraine) (Disc 1)</description>
+		<rom name="Volya i razum (Ukraine) (Disc 1).bin" size="808681104" crc="119947c9" md5="4368575e6ffcabcadee4cb34ebf3f66f" sha1="a2170305294d72be535744cf0ffe70a6d26988a6"/>
+		<rom name="Volya i razum (Ukraine) (Disc 1).cue" size="98" crc="9cd72538" md5="9563611c1f4050e2463a193f8b4c3f3f" sha1="809f7a0252396d69df00ebda3fe97c1f853ac246"/>
+	</game>
+	<game name="Volya i razum (Ukraine) (Disc 2)" id="138004">
+		<category>Games</category>
+		<description>Volya i razum (Ukraine) (Disc 2)</description>
+		<rom name="Volya i razum (Ukraine) (Disc 2).bin" size="499282560" crc="91d4accb" md5="96dc15791fb8b74d4fefbff360e5a39e" sha1="06c745b295d54e2ee7d90a51f579505f0a38f743"/>
+		<rom name="Volya i razum (Ukraine) (Disc 2).cue" size="98" crc="9d8a03e9" md5="8a8cfb79859c0e1fbae811ba13882ef4" sha1="163b6861a240f63af866158f9830cccd1baec508"/>
 	</game>
 	<game name="Voodoo Chronicles - First Sign (USA)" id="117862">
 		<category>Games</category>
@@ -182669,6 +182760,12 @@
 		<rom name="Zagadki Nostradamusa - V poiskax kol'ca Sud'by (Russia).bin" size="603417360" crc="19a80580" md5="bdeceb17b612028a1cfa5d64eaba477f" sha1="7c38c6ffd90ed865b79aef7ec4ec4c7e09f11928"/>
 		<rom name="Zagadki Nostradamusa - V poiskax kol'ca Sud'by (Russia).cue" size="121" crc="8d2c1d95" md5="7b442da131deab0660201339df90e890" sha1="19320919d5f6ffc77e8cbdace6c734163de6314e"/>
 	</game>
+	<game name="Zagadochnaya e'kspediciya - V poiskax Slezy Boga (Russia)" id="137992">
+		<category>Games</category>
+		<description>Zagadochnaya e'kspediciya - V poiskax Slezy Boga (Russia)</description>
+		<rom name="Zagadochnaya e'kspediciya - V poiskax Slezy Boga (Russia).bin" size="230615952" crc="0f4f387a" md5="bf2fc44f58342e6d5dcac78192664459" sha1="1d1ef6615b6badcb2ca9cf380899c83f16659f27"/>
+		<rom name="Zagadochnaya e'kspediciya - V poiskax Slezy Boga (Russia).cue" size="123" crc="d2c1cdea" md5="8876da9cdf728e1d93ebddf9b9490225" sha1="f1f06de38a9ded68d8d6c420331020f59a6e2417"/>
+	</game>
 	<game name="Zagovor Vampirov (Russia)" id="107517">
 		<category>Games</category>
 		<description>Zagovor Vampirov (Russia)</description>
@@ -183513,11 +183610,11 @@
 		<rom name="Zhenskij kollektiv - Ofis naslazhdenij (Russia).bin" size="826535136" crc="92d292a1" md5="1395424b1da7acaab86c842b825b133f" sha1="08621e5b1cd39f2912e8cb805c3bcb44e48af4bf"/>
 		<rom name="Zhenskij kollektiv - Ofis naslazhdenij (Russia).cue" size="113" crc="b9f6f4a0" md5="37b98943397d2789a9b8e133dd4a9426" sha1="197dffe4441b047e8f7715ea0af70e414cacd340"/>
 	</game>
-	<game name="Zhertvoprinoshenie (Russia)" id="94159">
+	<game name="Zhertvoprinoshenie (Russia, Ukraine)" id="94159">
 		<category>Games</category>
-		<description>Zhertvoprinoshenie (Russia)</description>
-		<rom name="Zhertvoprinoshenie (Russia).bin" size="795394656" crc="8f47402b" md5="c1abe7159bf7f542e0ceec3c3b45960c" sha1="6d09254f0b55a6cfc49b4252f8a41168fcc95ce8"/>
-		<rom name="Zhertvoprinoshenie (Russia).cue" size="93" crc="ab896bd8" md5="91aeea470c421ef4409ad9ef80a20eae" sha1="3038c37727503318e6fb6ae723f728595a97be3b"/>
+		<description>Zhertvoprinoshenie (Russia, Ukraine)</description>
+		<rom name="Zhertvoprinoshenie (Russia, Ukraine).bin" size="795394656" crc="8f47402b" md5="c1abe7159bf7f542e0ceec3c3b45960c" sha1="6d09254f0b55a6cfc49b4252f8a41168fcc95ce8"/>
+		<rom name="Zhertvoprinoshenie (Russia, Ukraine).cue" size="102" crc="8e423284" md5="464a5521befbc67ca7ffad8993e4515d" sha1="94c2a632c6838c8f7d6503807b07b7fefda6d5af"/>
 	</game>
 	<game name="Zhest' (Russia)" id="110023">
 		<category>Games</category>
