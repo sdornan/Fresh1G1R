@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,502) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-07 02-07-29) (Retool)</description>
-		<version>2026-09-07 02-07-29</version>
-		<date>2026-09-07 07-21-20</date>
+		<description>IBM - PC compatible (13,513) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-07 23-37-25) (Retool)</description>
+		<version>2026-09-07 23-37-25</version>
+		<date>2026-09-08 07-21-00</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -9238,11 +9238,11 @@
 		<rom name="Beyond the Third Dimension - The 3D World &amp; Game Builder (USA) (En,Ja,Fr,De,Es,It,Zh) (OEM).bin" size="646708272" crc="1321ea69" md5="53ff09223ccef969d7c79f610106d980" sha1="4b0e1d7d93409e81bf456a29d86f4372aea3c0c5"/>
 		<rom name="Beyond the Third Dimension - The 3D World &amp; Game Builder (USA) (En,Ja,Fr,De,Es,It,Zh) (OEM).cue" size="180" crc="a004c9f2" md5="76006ca729ce4aee83f7f803e0d34d4c" sha1="4c9ab16a412fd2e5d48461b2862c241527831b93"/>
 	</game>
-	<game name="Beyond the Wall of Stars (USA)" id="53583">
+	<game name="Beyond the Wall of Stars (USA) (Rev 1)" id="138032">
 		<category>Games</category>
-		<description>Beyond the Wall of Stars (USA)</description>
-		<rom name="Beyond the Wall of Stars (USA).bin" size="404595744" crc="6ddf1b2a" md5="7a8b4e56533601d2e73c70be5434356e" sha1="f44f2132140a8444a22eaa560c5d53b5e9207f8d"/>
-		<rom name="Beyond the Wall of Stars (USA).cue" size="119" crc="710a3777" md5="86a6bd5b330f2bf9dd4b3a7ccc7e6e2f" sha1="ceba9083ca834ac3da02a9dca6f7e514452592c2"/>
+		<description>Beyond the Wall of Stars (USA) (Rev 1)</description>
+		<rom name="Beyond the Wall of Stars (USA) (Rev 1).bin" size="400122240" crc="4062819b" md5="e9a4215ed9622551668768a36dd4d0bc" sha1="a52a7b9cb56af5cb761af8046055f7f7c616b905"/>
+		<rom name="Beyond the Wall of Stars (USA) (Rev 1).cue" size="127" crc="a952c5d6" md5="789fb4ab3214d35ee51cf0f3e338de12" sha1="5b71387b27fbb51e38f8d14e00119fdfcc55279b"/>
 	</game>
 	<game name="Bible Activities (USA)" id="93765">
 		<category>Games</category>
@@ -10015,6 +10015,11 @@
 		<description>Blackhawk (Europe) (En,Fr,De)</description>
 		<rom name="Blackhawk (Europe) (En,Fr,De).bin" size="6218688" crc="8fe67eb5" md5="d1259beb9eb449cab1b0c1dd9dfe1c01" sha1="0bee0c935c00ec7564610ad365288c6a32bf1664"/>
 		<rom name="Blackhawk (Europe) (En,Fr,De).cue" size="95" crc="daf74d25" md5="4b09e40a73e71d3c03ed1efb1f89f139" sha1="5b069e6a4c2f673f4462b1d92f771429565de5d3"/>
+	</game>
+	<game name="Blacksad - Under the Skin (Europe)" id="138026">
+		<category>Games</category>
+		<description>Blacksad - Under the Skin (Europe)</description>
+		<rom name="Blacksad - Under the Skin (Europe).iso" size="4148363264" crc="f2409b31" md5="4a0b0d44971287c6d7175d5d8f930b9a" sha1="950dfab8ff38c06e03143f5231172e7e2b1ed08c"/>
 	</game>
 	<game name="Blackthorne (USA)" id="29012">
 		<category>Games</category>
@@ -13356,6 +13361,12 @@
 		<description>Carriers at War (USA)</description>
 		<rom name="Carriers at War (USA).bin" size="183352512" crc="56022c30" md5="67f8ee8a63f09226b02e92ef7fc8bd20" sha1="c0d6fd922cb0cb3779cb0fb6bdbe39a6df09bda8"/>
 		<rom name="Carriers at War (USA).cue" size="87" crc="14e47aee" md5="63118f17614265d0adf8db230b043b60" sha1="880e2124a6d58b1d88da8f936b71532d3fecb8e3"/>
+	</game>
+	<game name="Cars - Radiator Springs Adventures (Australia)" id="138038">
+		<category>Games</category>
+		<description>Cars - Radiator Springs Adventures (Australia)</description>
+		<rom name="Cars - Radiator Springs Adventures (Australia).bin" size="580595904" crc="48e9a428" md5="8c037b246854eaa1a9112305702fc502" sha1="644a717ced1ee87f9c213f61da56e2acb3c5ab04"/>
+		<rom name="Cars - Radiator Springs Adventures (Australia).cue" size="112" crc="71a9ad14" md5="c1f5fd7a82114ec8d7612066e4c1f5b4" sha1="d66a9fb74be071ef2d0605a9a37f2a03e111c306"/>
 	</game>
 	<game name="Cartoon History of the Universe Volumes 1-7, The (USA) (Disc 1)" id="135196">
 		<category>Games</category>
@@ -24638,6 +24649,12 @@
 		<description>Dynasty Warriors 6 (Russia)</description>
 		<rom name="Dynasty Warriors 6 (Russia).iso" size="4494327808" crc="79bf56fa" md5="cf45b1e9ba5a7decc6391d4aa8dcadf3" sha1="2c48479a476813eb9dbb95dc5576f7df35fd7ae1"/>
 	</game>
+	<game name="Dzhonni D. (Ukraine)" id="138044">
+		<category>Games</category>
+		<description>Dzhonni D. (Ukraine)</description>
+		<rom name="Dzhonni D. (Ukraine).bin" size="772354464" crc="c72bbd90" md5="17ebe8836fa8625a4fe67774993d9329" sha1="c1db9483304fd9d26f09eed86678556d29139539"/>
+		<rom name="Dzhonni D. (Ukraine).cue" size="86" crc="703d2363" md5="d2d49dd51b065d5cbbe4730cc46b3e82" sha1="bb716000614edd27349f151010a38b430d097a1b"/>
+	</game>
 	<game name="E.R. Mania (USA)" id="130759">
 		<category>Games</category>
 		<description>E.R. Mania (USA)</description>
@@ -27286,11 +27303,11 @@
 		<rom name="Exorcist (USA).bin" size="268541952" crc="f28fb823" md5="27420b1bc093d70f9fba6c0fa4ff058d" sha1="5fbf2d14c63321862f63fbbe55916d3c179bb671"/>
 		<rom name="Exorcist (USA).cue" size="80" crc="2fb46570" md5="9d624e597cb1f76c09f2a73c2556586b" sha1="8869d0afbbddb1422d7e082b740a039721185d31"/>
 	</game>
-	<game name="Expect No Mercy (Canada)" id="2050">
+	<game name="Expect No Mercy (USA)" id="138034">
 		<category>Games</category>
-		<description>Expect No Mercy (Canada)</description>
-		<rom name="Expect No Mercy (Canada).bin" size="477376032" crc="2f440ec3" md5="e0dc1ae6f98a8e58ea7ce68b4638a375" sha1="c4fa241e960bf00b651d20a34c354c43e43cc3f9"/>
-		<rom name="Expect No Mercy (Canada).cue" size="113" crc="3a49d0f0" md5="b45220124829350786e9c978825a78aa" sha1="452d8018e3fecfe028cea08ae147c85e827a3598"/>
+		<description>Expect No Mercy (USA)</description>
+		<rom name="Expect No Mercy (USA).bin" size="477376032" crc="65181b50" md5="e97fbd03026d22dacba89f1780ba0214" sha1="fc9d2052a8f397ce3abfc9ebe3efe189bdaaa0ad"/>
+		<rom name="Expect No Mercy (USA).cue" size="110" crc="ebbdbf5b" md5="268a50e1cae83a9fc5887f4d4d305275" sha1="dfaec83a77ace28a22b31eb156e3f7823fc14eed"/>
 	</game>
 	<game name="Expendable (USA) (En,Fr,De,Es,It,Nl,Pt,Sv) (OEM)" id="23262">
 		<category>Games</category>
@@ -62911,6 +62928,12 @@
 		<rom name="Police Tactical Training (Japan).bin" size="580405392" crc="b7c3ec63" md5="8bbf55049eba5cab59ebd3af24e4afc2" sha1="af7af55d1458fe209deeb1d6b4a98e50eb258147"/>
 		<rom name="Police Tactical Training (Japan).cue" size="98" crc="e9c39ab4" md5="4247f795aef1a812bb25cee3b2e37b02" sha1="347fc8302d9b89f1bbb4c904edd6f2aa6094a4dc"/>
 	</game>
+	<game name="Policiya Majami - Otdel nravov (Ukraine)" id="138043">
+		<category>Games</category>
+		<description>Policiya Majami - Otdel nravov (Ukraine)</description>
+		<rom name="Policiya Majami - Otdel nravov (Ukraine).bin" size="407665104" crc="04438cda" md5="2a5aaaf34f4c988c49bbb383ae81366f" sha1="604ec710a7e831dfc991d92fdf4770908f9d40d7"/>
+		<rom name="Policiya Majami - Otdel nravov (Ukraine).cue" size="106" crc="846d6f6a" md5="44a13b7bf21b1df64ffd08a3248c17c2" sha1="e028393fc87f84e92bba1e06a2b0f0df31375544"/>
+	</game>
 	<game name="Political Machine 2008, The (USA)" id="64618">
 		<category>Games</category>
 		<description>Political Machine 2008, The (USA)</description>
@@ -65745,6 +65768,12 @@
 		<rom name="Rainbow Islands - The Story of Bubble Bobble 2 (Japan) (En,Ja).bin" size="41028288" crc="c2596644" md5="907c8af8f10d0c1cc0c1f90f2b0534d4" sha1="9c4ec97f3686b5229670c299ba6be9710036c646"/>
 		<rom name="Rainbow Islands - The Story of Bubble Bobble 2 (Japan) (En,Ja).cue" size="128" crc="155bf7ff" md5="1cc0dd1083a8984fb43533a0db5971af" sha1="33ac76be782fd69a4b43b1e0078ff9b5c88a8c6c"/>
 	</game>
+	<game name="Raj i Ad (Ukraine)" id="138042">
+		<category>Games</category>
+		<description>Raj i Ad (Ukraine)</description>
+		<rom name="Raj i Ad (Ukraine).bin" size="627715872" crc="8c6b90af" md5="f4daececcfaecfa28c76c5c93f0e5d3c" sha1="0eb8cac4e537c3ea5ab8d29f71b26ac5ad552214"/>
+		<rom name="Raj i Ad (Ukraine).cue" size="84" crc="56d0bdab" md5="d42ca267efbcb7dec20dddd527e651aa" sha1="e7e5779648a4a75ef6b5cb32983956943201f7ef"/>
+	</game>
 	<game name="RalliSport Challenge (USA) (Disc 1)" id="63228">
 		<category>Games</category>
 		<description>RalliSport Challenge (USA) (Disc 1)</description>
@@ -67499,6 +67528,12 @@
 		<description>Restaurant Empire (USA) (v1.21) (2003-08-28)</description>
 		<rom name="Restaurant Empire (USA) (v1.21) (2003-08-28).bin" size="555565920" crc="aa5589b7" md5="f4c5a73d3addcaab3ab9463a1dec78c4" sha1="062eaa2db2cc744afd1232f97fde303fd5ad5d36"/>
 		<rom name="Restaurant Empire (USA) (v1.21) (2003-08-28).cue" size="110" crc="59389e33" md5="82de1d377420a67a00f64c7a7f185324" sha1="3b50777295501379f7cadbb6a8f7d9694a6034ed"/>
+	</game>
+	<game name="Restorannaya imperiya (Ukraine)" id="138046">
+		<category>Games</category>
+		<description>Restorannaya imperiya (Ukraine)</description>
+		<rom name="Restorannaya imperiya (Ukraine).bin" size="764265936" crc="c2b91837" md5="559ecbfb7ddd9f914bd29b59267c3468" sha1="fcfcc575b23bacd0640e099e0982b985b21cb5ee"/>
+		<rom name="Restorannaya imperiya (Ukraine).cue" size="97" crc="11470d48" md5="54bc96a198babadc5c64ad181e5083a0" sha1="d4b511c4603a630b1bd1cea1e560a76c71cf7875"/>
 	</game>
 	<game name="Restricted Area (Europe)" id="122360">
 		<category>Games</category>
@@ -74615,6 +74650,12 @@
 		<description>Skoki Narciarskie 2001 - Polski Zwyciezca (Poland) (En,Pl)</description>
 		<rom name="Skoki Narciarskie 2001 - Polski Zwyciezca (Poland) (En,Pl).bin" size="351972096" crc="1423805a" md5="d03f01e206d0adffd3dc553565c0c26d" sha1="a9e833723e82ea9c9eab5132887853a3bdd20ceb"/>
 		<rom name="Skoki Narciarskie 2001 - Polski Zwyciezca (Poland) (En,Pl).cue" size="139" crc="12d80893" md5="9ab80a472ce650281a844574f31836d1" sha1="58531d4128d7b4d2da13bb80f4325fe4ca44d1c2"/>
+	</game>
+	<game name="Skubi-Du! Kitajskij drakon (Ukraine)" id="138045">
+		<category>Games</category>
+		<description>Skubi-Du! Kitajskij drakon (Ukraine)</description>
+		<rom name="Skubi-Du! Kitajskij drakon (Ukraine).bin" size="741846672" crc="6d56705b" md5="a3fb85169cdbdac89e11880d695dc84c" sha1="1ee9044b7fbc8817beadcb232f406580823fcb66"/>
+		<rom name="Skubi-Du! Kitajskij drakon (Ukraine).cue" size="102" crc="f04a9147" md5="abe20c1d370cd53aca741cddea8736a2" sha1="b13c383988712e6bdca333747e59bf14e18e646c"/>
 	</game>
 	<game name="Skunny (USA) (En,Fr,De)" id="51018">
 		<category>Games</category>
@@ -86713,6 +86754,11 @@
 		<rom name="USS Ticonderoga - Life and Death on the High Seas (Europe) (Windows 95).bin" size="348679296" crc="50ade563" md5="226801810cce1ed1de6b3d532c82be22" sha1="8ba3d5cb082bc4448e8f194477625d128b84ac03"/>
 		<rom name="USS Ticonderoga - Life and Death on the High Seas (Europe) (Windows 95).cue" size="137" crc="fd3f3940" md5="df1b8a23f2e0292ece3d486c144c792a" sha1="5ed11f721b7be9863585839c3ddb6cf4765b7201"/>
 	</game>
+	<game name="UberSoldier (Germany) (En,De)" id="138028">
+		<category>Games</category>
+		<description>UberSoldier (Germany) (En,De)</description>
+		<rom name="UberSoldier (Germany) (En,De).iso" size="4509204480" crc="b3871cf5" md5="184f59c36d6adb08c731021845285054" sha1="14c212428a6e95deaa1d9a34acf805a37b0ed64b"/>
+	</game>
 	<game name="UberSoldier (USA) (Disc 1)" id="68940">
 		<category>Games</category>
 		<description>UberSoldier (USA) (Disc 1)</description>
@@ -94360,6 +94406,24 @@
 		<description>Zeus - Master of Olympus (USA)</description>
 		<rom name="Zeus - Master of Olympus (USA).bin" size="567516432" crc="99817db8" md5="9771a4d0273e5e4c98366896e0181bac" sha1="ec42d9da2ca2684f81989324dc5c8370c2f420c6"/>
 		<rom name="Zeus - Master of Olympus (USA).cue" size="96" crc="7a6563a4" md5="48039a6c72c2f2d79c7f3730093e706f" sha1="8561f570ae39249b3b78b2560fc6ed7bd57641f7"/>
+	</game>
+	<game name="Zhest' (Ukraine) (Disc 1)" id="138047">
+		<category>Games</category>
+		<description>Zhest' (Ukraine) (Disc 1)</description>
+		<rom name="Zhest' (Ukraine) (Disc 1).bin" size="838657344" crc="d2318fc8" md5="f22b318e6b065fd56652e88b68d98ee4" sha1="10b1e8ef4b7fc50942d94ada27fdd6e23dd611a3"/>
+		<rom name="Zhest' (Ukraine) (Disc 1).cue" size="91" crc="4385c83e" md5="ee62301a8cad60f5d3142b945601b918" sha1="17f69552cfbf0c9c6f26fb527e633dd966e1a279"/>
+	</game>
+	<game name="Zhest' (Ukraine) (Disc 2)" id="138048">
+		<category>Games</category>
+		<description>Zhest' (Ukraine) (Disc 2)</description>
+		<rom name="Zhest' (Ukraine) (Disc 2).bin" size="837359040" crc="34a53085" md5="8a296be70b9a9220bfedf79ef4e31e80" sha1="da3a522d4c010c06353a39c2245591804443f4e1"/>
+		<rom name="Zhest' (Ukraine) (Disc 2).cue" size="91" crc="42d8eeef" md5="94ee61c399f9e3ce9fdafdd919f0c698" sha1="da7a8c304d086fc20d6859958fa32c5f18dfb449"/>
+	</game>
+	<game name="Zhest' (Ukraine) (Disc 3)" id="138049">
+		<category>Games</category>
+		<description>Zhest' (Ukraine) (Disc 3)</description>
+		<rom name="Zhest' (Ukraine) (Disc 3).bin" size="833191296" crc="ccae8f94" md5="70361a1962528fdfbfc14b4bf6292399" sha1="a8038e90cdf7a1ce967d39e5abd86602e43aa96e"/>
+		<rom name="Zhest' (Ukraine) (Disc 3).cue" size="91" crc="f4c30e9f" md5="3d583c5a1dbef286992f7aaabc3b2e66" sha1="75c525fe9199a4faf7c5d628cd71489f4f280930"/>
 	</game>
 	<game name="Zhongji Dongyuanling - Hongse Jingjie 3 (Taiwan) (En,Zh)" id="83675">
 		<category>Games</category>

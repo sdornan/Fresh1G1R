@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (353) (-y) [-aAbBcefkmMoprv] (20260906-121108) (Retool)</description>
-		<version>20260906-121108</version>
-		<date>2026-09-07 07-20-14</date>
+		<description>Nintendo - Satellaview (356) (-y) [-aAbBcefkmMoprv] (20260907-103436) (Retool)</description>
+		<version>20260907-103436</version>
+		<date>2026-09-08 07-16-38</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -201,10 +201,15 @@
 		<description>BS Nichibutsu Mahjong - Renshuu Mahjong - Nimantou (Japan) (SoundLink)</description>
 		<rom name="BS Nichibutsu Mahjong - Renshuu Mahjong - Nimantou (Japan) (SoundLink).bs" size="1048576" crc="c56b108e" md5="d632edc8cd733894ccf9438a67a98d4b" sha1="ba28d3dee878c11a2a83cde7190730b88885b67e" sha256="4e73b5721b2f92880a2fe5739c75645985f40d0f7501f16073740dd5b50fb492"/>
 	</game>
-	<game name="BS Parlor! Parlor! - Dai-2-shuu (Japan) (5-13) (SoundLink)" id="3605">
+	<game name="BS Parlor! Parlor! - Dai-2-shuu (Japan) (1998-5-13) (SoundLink)" id="3605">
 		<category>Games</category>
-		<description>BS Parlor! Parlor! - Dai-2-shuu (Japan) (5-13) (SoundLink)</description>
-		<rom name="BS Parlor! Parlor! - Dai-2-shuu (Japan) (5-13) (SoundLink).bs" size="1048576" crc="c0f38b87" md5="1ebf70be8a08e17f89fa903d017514e8" sha1="12acd209c5bd7875b2e01ad25253f96695c3f1b8" sha256="183a9fac70c9a335e0b21d449c581b84400ce89ae35be1455cafa478b7e11fb0"/>
+		<description>BS Parlor! Parlor! - Dai-2-shuu (Japan) (1998-5-13) (SoundLink)</description>
+		<rom name="BS Parlor! Parlor! - Dai-2-shuu (Japan) (1998-5-13) (SoundLink).bs" size="1048576" crc="c0f38b87" md5="1ebf70be8a08e17f89fa903d017514e8" sha1="12acd209c5bd7875b2e01ad25253f96695c3f1b8" sha256="183a9fac70c9a335e0b21d449c581b84400ce89ae35be1455cafa478b7e11fb0"/>
+	</game>
+	<game name="BS Parlor! Parlor! - Dai-2-shuu (Japan) (Premiere) (1998-3-13) (SoundLink)" id="3604">
+		<category>Games</category>
+		<description>BS Parlor! Parlor! - Dai-2-shuu (Japan) (Premiere) (1998-3-13) (SoundLink)</description>
+		<rom name="BS Parlor! Parlor! - Dai-2-shuu (Japan) (Premiere) (1998-3-13) (SoundLink).bs" size="1048576" crc="661e61f9" md5="b1da15a76b46f6f534c3dd37d183c51e" sha1="2d011b6960d1dd75696f61d23ba6b5abe8130234" sha256="edfeb794b07c2bab7a8457e9a1bcaf6ffc3a3423d45884017bc0233c61f20f9e"/>
 	</game>
 	<game name="BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink)" id="3977">
 		<category>Games</category>
@@ -463,10 +468,15 @@
 		<description>Clockwerx (Demo) (1995-11-22) + Game Tora no Ooana Special (1996-1-24) (Japan) (Game, SoundLink Magazine)</description>
 		<rom name="Clockwerx (Demo) (1995-11-22) + Game Tora no Ooana Special (1996-1-24) (Japan) (Game, SoundLink Magazine).bs" size="1048576" crc="69417f17" md5="ff937fb77ae0b8171dad4136dceb36aa" sha1="e6be9be9706d80159aa06fd50251f1ae3c9f7eb4" sha256="c2c5e2e9e00798921edfe39086dbdf616435a1f762c7112cdee3f97f6a4b0c87"/>
 	</game>
-	<game name="Cock-A-Doodle-Do (Japan) (8-10) (Data Pack)" id="3765">
-		<category>Games</category>
-		<description>Cock-A-Doodle-Do (Japan) (8-10) (Data Pack)</description>
-		<rom name="Cock-A-Doodle-Do (Japan) (8-10) (Data Pack).bs" size="1048576" crc="94567274" md5="aa757052f9930e0cd53ad3904c7d0cd9" sha1="dc5d429b5145918e6084ae7911f210157d4c72e4" sha256="2705d8b04745408d755cbbde21d7831f7e5c67f27aaf97ccafa76e52580d047c"/>
+	<game name="Cock-A-Doodle-Do (Japan) (1996-4-27) (Data Pack)" id="3538">
+		<category>Add-Ons</category>
+		<description>Cock-A-Doodle-Do (Japan) (1996-4-27) (Data Pack)</description>
+		<rom name="Cock-A-Doodle-Do (Japan) (1996-4-27) (Data Pack).bs" size="1048576" crc="2e831a4d" md5="7ea34dc2a233d7adc13297dae563c053" sha1="1ea437e679549f76a362619657a0875d25d3a4ef" sha256="9d39c45a92d4831bd0c664e1ea992c9b0e4dc3f92854ecb3beab5d3eed631791"/>
+	</game>
+	<game name="Cock-A-Doodle-Do (Japan) (1996-8-10) (Data Pack)" id="3765">
+		<category>Add-Ons</category>
+		<description>Cock-A-Doodle-Do (Japan) (1996-8-10) (Data Pack)</description>
+		<rom name="Cock-A-Doodle-Do (Japan) (1996-8-10) (Data Pack).bs" size="1048576" crc="94567274" md5="aa757052f9930e0cd53ad3904c7d0cd9" sha1="dc5d429b5145918e6084ae7911f210157d4c72e4" sha256="2705d8b04745408d755cbbde21d7831f7e5c67f27aaf97ccafa76e52580d047c"/>
 	</game>
 	<game name="Cooly Skunk (Japan) (Demo) (1996-2-5)" id="3638">
 		<category>Demos</category>
@@ -1494,15 +1504,15 @@
 		<description>Takahashi Meijin no Daibouken-jima (Japan) (En)</description>
 		<rom name="Takahashi Meijin no Daibouken-jima (Japan) (En).bs" size="1048576" crc="54a2041e" md5="0c222b3b6c804eec04eacb51eec4fc1e" sha1="a4dfaa99d49c0298d1820ad9d697361b630b64ba" sha256="a4e7e8522ac185d35c3e3749cbab1129c8a2b537ab1f8be12813b323ad8bb7ce"/>
 	</game>
-	<game name="Takara-Hai Oozumou Eisei Bashou (Hatsuba) (Japan) (6-3) (SoundLink)" id="3733">
+	<game name="Takara-Hai Oozumou Eisei Bashou (Hatsuba) (Japan) (1996-6-3) (SoundLink)" id="3733">
 		<category>Games</category>
-		<description>Takara-Hai Oozumou Eisei Bashou (Hatsuba) (Japan) (6-3) (SoundLink)</description>
-		<rom name="Takara-Hai Oozumou Eisei Bashou (Hatsuba) (Japan) (6-3) (SoundLink).bs" size="1048576" crc="88edd53d" md5="a1df442de8ceccceb587203151e74b7f" sha1="cfaeafe7d52020db2076a3efc829423a352110f0" sha256="3ceba891b9ab63c44251fd0f5c0ab1257377581262fc6a16498de8234df15aff"/>
+		<description>Takara-Hai Oozumou Eisei Bashou (Hatsuba) (Japan) (1996-6-3) (SoundLink)</description>
+		<rom name="Takara-Hai Oozumou Eisei Bashou (Hatsuba) (Japan) (1996-6-3) (SoundLink).bs" size="1048576" crc="88edd53d" md5="a1df442de8ceccceb587203151e74b7f" sha1="cfaeafe7d52020db2076a3efc829423a352110f0" sha256="3ceba891b9ab63c44251fd0f5c0ab1257377581262fc6a16498de8234df15aff"/>
 	</game>
-	<game name="Takara-Hai Oozumou Eisei Bashou (Natsuba) (Japan) (6-20) (SoundLink)" id="3732">
+	<game name="Takara-Hai Oozumou Eisei Bashou (Natsuba) (Japan) (1996-6-20) (SoundLink)" id="3732">
 		<category>Games</category>
-		<description>Takara-Hai Oozumou Eisei Bashou (Natsuba) (Japan) (6-20) (SoundLink)</description>
-		<rom name="Takara-Hai Oozumou Eisei Bashou (Natsuba) (Japan) (6-20) (SoundLink).bs" size="1048576" crc="08ece941" md5="15c5e6d299d05e7744b53a908b9a9761" sha1="d8913771fd0a316803db611e34e7ed8ca67b0cbe" sha256="b9b782b4fb8c605d8da1ed6fff2c3e76af291a0d08fa60ed1fd4e7fc19b5e79a"/>
+		<description>Takara-Hai Oozumou Eisei Bashou (Natsuba) (Japan) (1996-6-20) (SoundLink)</description>
+		<rom name="Takara-Hai Oozumou Eisei Bashou (Natsuba) (Japan) (1996-6-20) (SoundLink).bs" size="1048576" crc="08ece941" md5="15c5e6d299d05e7744b53a908b9a9761" sha1="d8913771fd0a316803db611e34e7ed8ca67b0cbe" sha256="b9b782b4fb8c605d8da1ed6fff2c3e76af291a0d08fa60ed1fd4e7fc19b5e79a"/>
 	</game>
 	<game name="Tamori no Picross (1995-5-10) + Waiwai Check (1995-8-26, 8-26) (Japan)" id="3742">
 		<category>Games</category>
@@ -1625,10 +1635,15 @@
 		<description>Undake 30 - Uragame Daisakusen (Japan) (1995-7-24)</description>
 		<rom name="Undake 30 - Uragame Daisakusen (Japan) (1995-7-24).bs" size="524288" crc="737eee85" md5="0b90749285a67f8f23e166af0dd074ee" sha1="c9fa2a0773dbb7d5fa9943d2fd5a7171a63520dd" sha256="7be7b73c81b1a4a630f0743001686592e6f4bae378d0ba3a6cf61c50c4ceac9f"/>
 	</game>
-	<game name="User Same Game (Japan) (3-17) (Data Pack)" id="3723">
+	<game name="User Same Game (Japan) (1996-3-10) (Data Pack)" id="3768">
 		<category>Add-Ons</category>
-		<description>User Same Game (Japan) (3-17) (Data Pack)</description>
-		<rom name="User Same Game (Japan) (3-17) (Data Pack).bs" size="1048576" crc="a4bc3179" md5="417cac7b169d44e68346d2e5bfe874cc" sha1="020f96a5c56615a058a8a2ebce8cc421da7bdb44" sha256="9d16204c0e5bcf89ecedbc86828ecf57a958c77090ddf7025906e8231d7753a7"/>
+		<description>User Same Game (Japan) (1996-3-10) (Data Pack)</description>
+		<rom name="User Same Game (Japan) (1996-3-10) (Data Pack).bs" size="1048576" crc="751cf97d" md5="6bfc1aebbcdcb0617c2e702eda5d4c58" sha1="73ed5d9f7adb27a08ae61e3065cc2dc07c8455b1" sha256="7ca6a9b9490ed0b2ee05d79dea41e02748270b1a01b964a6877ff46e681b2c47"/>
+	</game>
+	<game name="User Same Game (Japan) (1996-3-17) (Data Pack)" id="3723">
+		<category>Add-Ons</category>
+		<description>User Same Game (Japan) (1996-3-17) (Data Pack)</description>
+		<rom name="User Same Game (Japan) (1996-3-17) (Data Pack).bs" size="1048576" crc="a4bc3179" md5="417cac7b169d44e68346d2e5bfe874cc" sha1="020f96a5c56615a058a8a2ebce8cc421da7bdb44" sha256="9d16204c0e5bcf89ecedbc86828ecf57a958c77090ddf7025906e8231d7753a7"/>
 	</game>
 	<game name="Waiwai Check (1996-3-21, 3-27) (Rerun) + Yuki no Waiwai Kids (1996-3-16) (Japan)" id="3540">
 		<category>Games</category>

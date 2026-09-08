@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (665) (-y) [-aAbBcdkmMpPuv] (2026-09-06 02-32-02) (Retool)</description>
-		<version>2026-09-06 02-32-02</version>
-		<date>2026-09-07 07-26-41</date>
+		<description>Apple - Macintosh (666) (-y) [-aAbBcdkmMpPuv] (2026-09-07 12-17-25) (Retool)</description>
+		<version>2026-09-07 12-17-25</version>
+		<date>2026-09-08 07-29-29</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -4189,6 +4189,12 @@
 		<description>Stan et la Baguette magique (France)</description>
 		<rom name="Stan et la Baguette magique (France).bin" size="249714192" crc="2379ae48" md5="ba56f2e74f788fc8c10bcfb37997f2d3" sha1="afb075fb226eac49c635a3154b32c64154fce6a0"/>
 		<rom name="Stan et la Baguette magique (France).cue" size="125" crc="6ee1ad61" md5="4764a0b32cf601b02a3b6a8b151b60ce" sha1="b895e15b158429647201da6f60132a27ffcc758e"/>
+	</game>
+	<game name="Star Control 3 (USA)" id="138033">
+		<category>Games</category>
+		<description>Star Control 3 (USA)</description>
+		<rom name="Star Control 3 (USA).bin" size="766319232" crc="279c9e8f" md5="b04298d30bf29235209c80157ce00ea4" sha1="39870e1fc90cc7795780b55aa8daa49e2d27cb3b"/>
+		<rom name="Star Control 3 (USA).cue" size="86" crc="eef69dab" md5="7539db311335ada968ae3e36f5c9cd09" sha1="23ea0303d5f80ab3e8720cced13a5625d6beabf8"/>
 	</game>
 	<game name="Star Fighter (USA)" id="46683">
 		<category>Games</category>

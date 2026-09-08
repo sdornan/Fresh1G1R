@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (831) (-ly) [-aAbBcdDefkmMopPruv] (20260906-121821) (Retool)</description>
-		<version>20260906-121821</version>
-		<date>2026-09-07 07-25-02</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (831) (-ly) [-aAbBcdDefkmMopPruv] (20260907-220930) (Retool)</description>
+		<version>20260907-220930</version>
+		<date>2026-09-08 07-28-00</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1951,10 +1951,10 @@
 		<description>Jaws (USA)</description>
 		<rom name="Jaws (USA).nes" size="65552" header="4e 45 53 1a 02 04 30 08 20 00 00 00 00 00 00 01" crc="d0190958" md5="89cd417134089abd87c2592b3e5bf7f1" sha1="c102da80b2ded9364ebd707df14cbc3bd40bd65a" sha256="0c65060d6b9551bb470653b9a7ae364b277a0a79c688a7880da3334709a299ee"/>
 	</game>
-	<game name="Jaws - Retro Edition (World)" id="8476">
+	<game name="Jaws - Retro Edition (World) (Steam)" id="8476">
 		<category>Games</category>
-		<description>Jaws - Retro Edition (World)</description>
-		<rom name="Jaws - Retro Edition (World).nes" size="65552" header="4e 45 53 1a 02 04 30 08 10 00 00 00 00 00 00 01" crc="6bfa9a28" md5="bf438f528eff5e3b16e0ad551732d81f" sha1="9099e9adf40f548d94c015a86bd8eddb39d40784" sha256="bbc03ef8c822e0d99bf48b6baac6ac0a1aea27012a47d6a9530e64dc317a26dc"/>
+		<description>Jaws - Retro Edition (World) (Steam)</description>
+		<rom name="Jaws - Retro Edition (World) (Steam).nes" size="65552" header="4e 45 53 1a 02 04 30 08 10 00 00 00 00 00 00 01" crc="6bfa9a28" md5="bf438f528eff5e3b16e0ad551732d81f" sha1="9099e9adf40f548d94c015a86bd8eddb39d40784" sha256="bbc03ef8c822e0d99bf48b6baac6ac0a1aea27012a47d6a9530e64dc317a26dc"/>
 	</game>
 	<game name="Jeopardy! (USA) (Rev 1)" id="1096">
 		<category>Games</category>

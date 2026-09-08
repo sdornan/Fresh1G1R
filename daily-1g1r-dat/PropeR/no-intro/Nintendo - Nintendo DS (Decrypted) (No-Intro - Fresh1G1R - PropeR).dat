@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,716) (-y) [-aAbBcdkmMpPuv] (20260901-210618) (Retool)</description>
-		<version>20260901-210618</version>
-		<date>2026-09-07 07-30-45</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,716) (-y) [-aAbBcdkmMpPuv] (20260907-133513) (Retool)</description>
+		<version>20260907-133513</version>
+		<date>2026-09-08 07-35-07</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1919,7 +1919,7 @@
 	<game name="Brigitte - ErnaehrungsCoach (Germany)" id="5077">
 		<category>Games</category>
 		<description>Brigitte - ErnaehrungsCoach (Germany)</description>
-		<rom name="Brigitte - ErnaehrungsCoach (Germany).nds" size="67108864" crc="c8acca66" md5="22790132f2ff107b1a0a0870994bebf9" sha1="8fc7afc67aa18f8b23b389029d20650bb1f00f14"/>
+		<rom name="Brigitte - ErnaehrungsCoach (Germany).nds" size="67108864" crc="c8acca66" md5="22790132f2ff107b1a0a0870994bebf9" sha1="8fc7afc67aa18f8b23b389029d20650bb1f00f14" sha256="790af56970f19d15bc4e51aeabcb307d563cd2de65dd28eb6186793243d6f42a"/>
 	</game>
 	<game name="Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,De,Es,It)" id="3776">
 		<category>Games</category>
@@ -2849,7 +2849,7 @@
 	<game name="Cornelsen Trainer - Mathe - Klasse 5 (Europe) (En,De)" id="4290">
 		<category>Games</category>
 		<description>Cornelsen Trainer - Mathe - Klasse 5 (Europe) (En,De)</description>
-		<rom name="Cornelsen Trainer - Mathe - Klasse 5 (Europe) (En,De).nds" size="16777216" crc="6bb316f8" md5="71fab8a3e622d32fd9f6ff6121fd1b5b" sha1="d5e12d489ec88d20fbbe8801eb45ebfc5a7ec54d"/>
+		<rom name="Cornelsen Trainer - Mathe - Klasse 5 (Europe) (En,De).nds" size="16777216" crc="6bb316f8" md5="71fab8a3e622d32fd9f6ff6121fd1b5b" sha1="d5e12d489ec88d20fbbe8801eb45ebfc5a7ec54d" sha256="413b872c4bf77688600fe9cb03d7e77914471f39e7a9ca6e4d38cfecf1ff0e5c"/>
 	</game>
 	<game name="Cornelsen Trainer - Mathe - Klasse 5 + 6 (Europe) (En,De)" id="5860">
 		<category>Games</category>
@@ -4639,7 +4639,7 @@
 	<game name="Famous - The Road to Glory! (Europe) (En,Fr,De,Es,It,Nl)" id="5165">
 		<category>Games</category>
 		<description>Famous - The Road to Glory! (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Famous - The Road to Glory! (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="f93638de" md5="d21f809165dcfbea03e0663a0b127fa5" sha1="c01c48598a6d58810246a270bc6b02ae188bd443"/>
+		<rom name="Famous - The Road to Glory! (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="f93638de" md5="d21f809165dcfbea03e0663a0b127fa5" sha1="c01c48598a6d58810246a270bc6b02ae188bd443" sha256="c74cb3ca7e3b5d29dc6960660e9bde5d60af2371109895c8f4dcb42ec9a767ec"/>
 	</game>
 	<game name="Fancy Nancy - Tea Party Time! (USA) (NDSi Enhanced)" id="5921">
 		<category>Games</category>
@@ -5859,7 +5859,7 @@
 	<game name="Happy Hippo's World Tour (Europe) (En,Fr,De,Es,It)" id="1651">
 		<category>Games</category>
 		<description>Happy Hippo's World Tour (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Happy Hippo's World Tour (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="2761d933" md5="b911e720707a2c0024dbfbbe0fd66108" sha1="9ad46c15e4a0658a4a60dea3479f06fcf8d944f6"/>
+		<rom name="Happy Hippo's World Tour (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="2761d933" md5="b911e720707a2c0024dbfbbe0fd66108" sha1="9ad46c15e4a0658a4a60dea3479f06fcf8d944f6" sha256="e63f5c29b1855adc7f68b7180c00d770ba480e63da742ce81338c06947be8dd3"/>
 	</game>
 	<game name="Happy My Sweets (Japan)" id="3220">
 		<category>Games</category>
@@ -10165,7 +10165,7 @@
 	<game name="Mini Golf Resort (Germany)" id="6300">
 		<category>Games</category>
 		<description>Mini Golf Resort (Germany)</description>
-		<rom name="Mini Golf Resort (Germany).nds" size="16777216" crc="558422b2" md5="07d42c12613532b6da60669f22c590f8" sha1="c5252ca7073f11bf2f24cd3e08cef335d1581f0b"/>
+		<rom name="Mini Golf Resort (Germany).nds" size="16777216" crc="558422b2" md5="07d42c12613532b6da60669f22c590f8" sha1="c5252ca7073f11bf2f24cd3e08cef335d1581f0b" sha256="1d0110e645363f20cf3d806e6b9b8e8925208765858976871bb254ab5f85dd4a"/>
 	</game>
 	<game name="Mini Ninjas (USA) (En,Fr,Es)" id="4167">
 		<category>Games</category>

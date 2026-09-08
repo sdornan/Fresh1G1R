@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (885) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-05 04-42-02) (Retool)</description>
-		<version>2026-09-05 04-42-02</version>
-		<date>2026-09-07 07-22-09</date>
+		<description>Microsoft - Xbox One (885) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-07 23-57-25) (Retool)</description>
+		<version>2026-09-07 23-57-25</version>
+		<date>2026-09-08 07-22-18</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1131,6 +1131,11 @@
 		<category>Games</category>
 		<description>EA Sports UFC 3 (USA)</description>
 		<rom name="EA Sports UFC 3 (USA).iso" size="22978238464" crc="c4490839" md5="1e70fafde7af4a6d9d7412ab48afa9e4" sha1="b7a9ccdabb764fcdc21c8f1e6c08761877bbf9a2"/>
+	</game>
+	<game name="EA Sports UFC 4 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="133586">
+		<category>Games</category>
+		<description>EA Sports UFC 4 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
+		<rom name="EA Sports UFC 4 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="45957781504" crc="4ff8d936" md5="658ff56892990ab18e3cedcfdc0f4688" sha1="2d2f3c6cda7fed3780252e274e7fae7de1174a44"/>
 	</game>
 	<game name="ELEX (USA)" id="103376">
 		<category>Games</category>
@@ -3725,10 +3730,10 @@
 		<description>Steep (USA, Europe)</description>
 		<rom name="Steep (USA, Europe).iso" size="22978238464" crc="e39c3d5d" md5="3716bdb92dd62799549ddb70e9367d49" sha1="14e1311e63386e63d089de345ba150d5590d3104"/>
 	</game>
-	<game name="Steven Universe - Save the Light &amp; OK K.O.! Let's Play Heroes 2 Games in 1 (USA)" id="105179">
+	<game name="Steven Universe - Save the Light &amp; OK K.O.! Let's Play Heroes (USA)" id="105179">
 		<category>Games</category>
-		<description>Steven Universe - Save the Light &amp; OK K.O.! Let's Play Heroes 2 Games in 1 (USA)</description>
-		<rom name="Steven Universe - Save the Light &amp; OK K.O.! Let's Play Heroes 2 Games in 1 (USA).iso" size="22978242560" crc="8e478fc5" md5="a985f0011dce1b4b9fb032154777d895" sha1="2e771cf4d165ae5ef0d384d49acaa727c7d55182"/>
+		<description>Steven Universe - Save the Light &amp; OK K.O.! Let's Play Heroes (USA)</description>
+		<rom name="Steven Universe - Save the Light &amp; OK K.O.! Let's Play Heroes (USA).iso" size="22978242560" crc="8e478fc5" md5="a985f0011dce1b4b9fb032154777d895" sha1="2e771cf4d165ae5ef0d384d49acaa727c7d55182"/>
 	</game>
 	<game name="Story of Seasons - Friends of Mineral Town (USA)" id="105548">
 		<category>Games</category>
@@ -4130,11 +4135,6 @@
 		<category>Games</category>
 		<description>Truck Racing Championship (USA)</description>
 		<rom name="Truck Racing Championship (USA).iso" size="22978238464" crc="3df8b541" md5="75d5fbbf5570ae87db2c8d657cc2273c" sha1="01ce448af8b8b90c0fcb675b8a9bd8e3b341543d"/>
-	</game>
-	<game name="UFC 4 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="133586">
-		<category>Games</category>
-		<description>UFC 4 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
-		<rom name="UFC 4 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="45957781504" crc="4ff8d936" md5="658ff56892990ab18e3cedcfdc0f4688" sha1="2d2f3c6cda7fed3780252e274e7fae7de1174a44"/>
 	</game>
 	<game name="UglyDolls - An Imperfect Adventure (USA)" id="102125">
 		<category>Games</category>

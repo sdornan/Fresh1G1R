@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,702) (-y) [-aAbBcefkmMoprv] (2026-09-05 14-23-40) (Retool)</description>
-		<version>2026-09-05 14-23-40</version>
-		<date>2026-09-07 07-16-21</date>
+		<description>Sony - PlayStation (5,702) (-y) [-aAbBcefkmMoprv] (2026-09-07 22-47-25) (Retool)</description>
+		<version>2026-09-07 22-47-25</version>
+		<date>2026-09-08 07-13-11</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -51877,7 +51877,7 @@
 	<game name="Tatsunoko Fight (Japan)" id="37119">
 		<category>Games</category>
 		<description>Tatsunoko Fight (Japan)</description>
-		<serial>SLPS 02939</serial>
+		<serial>SLPS 02939, SLPM 87243</serial>
 		<rom name="Tatsunoko Fight (Japan) (Track 1).bin" size="508678800" crc="935caf67" md5="69577b0318ab9b61c6a1954b1300b095" sha1="5a1ddffe9838d932e13fbb447db223c62a494d55"/>
 		<rom name="Tatsunoko Fight (Japan) (Track 2).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
 		<rom name="Tatsunoko Fight (Japan).cue" size="216" crc="dd8e9bb9" md5="894836707ec51f2a030951a7eaf74b56" sha1="36b9de7ba281e68909f954cab8667ebfdebe4aa5"/>

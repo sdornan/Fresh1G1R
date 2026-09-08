@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,859) (-y) [-aAbBcefkmMoprv] (2026-09-07 00-07-25) (Retool)</description>
-		<version>2026-09-07 00-07-25</version>
-		<date>2026-09-07 07-16-41</date>
+		<description>Sony - PlayStation 4 (1,861) (-y) [-aAbBcefkmMoprv] (2026-09-08 05-47-25) (Retool)</description>
+		<version>2026-09-08 05-47-25</version>
+		<date>2026-09-08 07-13-42</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5466,6 +5466,11 @@
 		<description>Monster Energy Supercross 2 - The Official Videogame (USA)</description>
 		<rom name="Monster Energy Supercross 2 - The Official Videogame (USA).iso" size="10563289088" crc="b9a31ac3" md5="837c1aca948dad3b34d4e812358bab5a" sha1="9a0dbaf43449c7f354e87cdd057dfbae3093269e"/>
 	</game>
+	<game name="Monster Harvest (Europe)" id="138025">
+		<category>Games</category>
+		<description>Monster Harvest (Europe)</description>
+		<rom name="Monster Harvest (Europe).iso" size="25024331776" crc="3848a5a8" md5="22fabb2b35ac444f1c092eeb11981a8e" sha1="2cbaa4cc8ad9edeb5e262e415bbd394c49246dc0"/>
+	</game>
 	<game name="Monster Hunter Stories (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Ar)" id="132217">
 		<category>Games</category>
 		<description>Monster Hunter Stories (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Ar)</description>
@@ -6244,7 +6249,7 @@
 	<game name="PS4 IDU - 2017 Spring Refresh - LEGO Dimensions (USA)" id="133001">
 		<category>Demos</category>
 		<description>PS4 IDU - 2017 Spring Refresh - LEGO Dimensions (USA)</description>
-		<rom name="PS4 IDU - 2017 Spring Refresh - LEGO Dimensions (USA).iso" size="24220008448" crc="038c14e1" md5="4447f3c25b48dd4966886bad20f14b45" sha1="ba3e27dbe94ec157e52c86aafbd73d08f531e90d"/>
+		<rom name="PS4 IDU - 2017 Spring Refresh - LEGO Dimensions (USA).iso" size="13172543488" crc="ab498759" md5="ead1e16f072e55dcbe526497cdfed189" sha1="855fda13f78cb38b6b23acddf3c37142e37912a6"/>
 	</game>
 	<game name="PS4 IDU - 2017 Summer Refresh - GameStop (USA)" id="62154">
 		<category>Demos</category>
@@ -6315,6 +6320,11 @@
 		<category>Demos</category>
 		<description>PS4 IDU - 2019 Winter Refresh - Walmart (USA)</description>
 		<rom name="PS4 IDU - 2019 Winter Refresh - Walmart (USA).iso" size="29016588288" crc="f8721f8d" md5="69b39dd196d8b14502aed04f98f36792" sha1="4cbea123f737434379321492e4cdb329861bffe6"/>
+	</game>
+	<game name="PS4 IDU - Disney Infinity 3.0 Edition - Holiday 2015 - Version 2 (USA)" id="138053">
+		<category>Demos</category>
+		<description>PS4 IDU - Disney Infinity 3.0 Edition - Holiday 2015 - Version 2 (USA)</description>
+		<rom name="PS4 IDU - Disney Infinity 3.0 Edition - Holiday 2015 - Version 2 (USA).iso" size="15146250240" crc="c15b9a5c" md5="e81e86d4ae096bb300bb74ed78cd8e1a" sha1="f6e0c238b74b5c774cc586a6df839618ea98f860"/>
 	</game>
 	<game name="PaRappa the Rapper (Japan) (En,Ja)" id="82964">
 		<category>Games</category>

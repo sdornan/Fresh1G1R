@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,830) (-y) [-aAbBcefkmMoprv] (20260906-121821) (Retool)</description>
-		<version>20260906-121821</version>
-		<date>2026-09-07 07-18-27</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,830) (-y) [-aAbBcefkmMoprv] (20260907-220930) (Retool)</description>
+		<version>20260907-220930</version>
+		<date>2026-09-08 07-17-47</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2691,10 +2691,10 @@
 		<description>Fengkuang Jidan Zi - Flighty Chicken (China) (Unl)</description>
 		<rom name="Fengkuang Jidan Zi - Flighty Chicken (China) (Unl).nes" size="393232" header="4e 45 53 1a 08 20 42 08 00 00 70 00 03 00 00 01" crc="95d3f0de" md5="9a5014b1e9129169828e4f89fdbc725d" sha1="5063c3e20cd933a74727d292ee5ea90c7daeb177" sha256="e445c9f3af9d67e797eb913821a019cf0fb2460a32e09fa4217def1290922c6b"/>
 	</game>
-	<game name="Fengshenbang (Asia) (C&amp;E) (Simplified) (Unl)" id="5543">
+	<game name="Fengshenbang (Taiwan) (C&amp;E) (Unl)" id="0744">
 		<category>Games</category>
-		<description>Fengshenbang (Asia) (C&amp;E) (Simplified) (Unl)</description>
-		<rom name="Fengshenbang (Asia) (C&amp;E) (Simplified) (Unl).nes" size="1048592" header="4e 45 53 1a 20 40 62 f8 00 00 50 00 00 00 00 01" crc="ec5812f0" md5="eaa51f398a1de47b9b4efe448d62cadb" sha1="a585d7f5b429431e7382a17b26b9dd90eec49994" sha256="afa430872eade8ee9dfac7db206d28b82859b90de01ede0d465e91f66434ddfe"/>
+		<description>Fengshenbang (Taiwan) (C&amp;E) (Unl)</description>
+		<rom name="Fengshenbang (Taiwan) (C&amp;E) (Unl).nes" size="1048592" header="4e 45 53 1a 20 40 62 f8 00 00 50 00 00 00 00 01" crc="c1fc3207" md5="4d5048c5f6c50dfcd95bcc58ae83d7da" sha1="c963a93d91b3335182a1a1ddaad28a5487cecb63" sha256="dfd58bd82d2601c5e325e7d14e4d5da6e77f37f73ad6d224ec9fd4522a02a705"/>
 	</game>
 	<game name="Fengyun - Traitor Legend (China) (970100684) (43-406 PCB) (Unl)" id="7175">
 		<category>Games</category>
@@ -3930,10 +3930,10 @@
 		<description>Jaws (USA)</description>
 		<rom name="Jaws (USA).nes" size="65552" header="4e 45 53 1a 02 04 30 08 20 00 00 00 00 00 00 01" crc="d0190958" md5="89cd417134089abd87c2592b3e5bf7f1" sha1="c102da80b2ded9364ebd707df14cbc3bd40bd65a" sha256="0c65060d6b9551bb470653b9a7ae364b277a0a79c688a7880da3334709a299ee"/>
 	</game>
-	<game name="Jaws - Retro Edition (World)" id="8476">
+	<game name="Jaws - Retro Edition (World) (Steam)" id="8476">
 		<category>Games</category>
-		<description>Jaws - Retro Edition (World)</description>
-		<rom name="Jaws - Retro Edition (World).nes" size="65552" header="4e 45 53 1a 02 04 30 08 10 00 00 00 00 00 00 01" crc="6bfa9a28" md5="bf438f528eff5e3b16e0ad551732d81f" sha1="9099e9adf40f548d94c015a86bd8eddb39d40784" sha256="bbc03ef8c822e0d99bf48b6baac6ac0a1aea27012a47d6a9530e64dc317a26dc"/>
+		<description>Jaws - Retro Edition (World) (Steam)</description>
+		<rom name="Jaws - Retro Edition (World) (Steam).nes" size="65552" header="4e 45 53 1a 02 04 30 08 10 00 00 00 00 00 00 01" crc="6bfa9a28" md5="bf438f528eff5e3b16e0ad551732d81f" sha1="9099e9adf40f548d94c015a86bd8eddb39d40784" sha256="bbc03ef8c822e0d99bf48b6baac6ac0a1aea27012a47d6a9530e64dc317a26dc"/>
 	</game>
 	<game name="Jeopardy! (USA) (Rev 1)" id="1096">
 		<category>Games</category>
@@ -6119,11 +6119,10 @@
 		<description>Pocket Zaurus - Juu Ouken no Nazo (Japan)</description>
 		<rom name="Pocket Zaurus - Juu Ouken no Nazo (Japan).nes" size="262160" header="4e 45 53 1a 08 10 80 98 00 00 00 00 00 00 00 01" crc="c7a10910" md5="160d6e1266728c2d2e9cc3693af134e1" sha1="97f330772ebff916361e9fbb00d538caab1ea4a9" sha256="784424ae2698e4481528a707b6875a203cffb60d55c2448e636ea5e455a32fcc"/>
 	</game>
-	<game name="Poke Block (USA) (Proto) (Unl)" id="1693">
+	<game name="Poke Block (Taiwan) (Unl)" id="8607">
 		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Poke Block (USA) (Proto) (Unl)</description>
-		<rom name="Poke Block (USA) (Proto) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 f0 48 00 00 00 00 00 00 00 01" crc="a6290ae9" md5="bd272a4bf8bd13ae6f7a954cf90e7f5d" sha1="78b08df55438777f9d78b0c08454f0f146fbb3ca" sha256="a354b013baad92a20294fee0893e0a485a9bdfeeb1cd09f350f77527ebdb43a8"/>
+		<description>Poke Block (Taiwan) (Unl)</description>
+		<rom name="Poke Block (Taiwan) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 40 88 00 00 00 00 00 00 00 01" crc="188006ee" md5="995d8ba4b2058a6417a8e72cf8d04ffd" sha1="b22aad508ff45da0a887d7c89433cdb60d5d5eb6" sha256="015f6e0b327e5b5d46c6733503bcadb0510c459ecb7629c3e4e2f5b7e4708f6b"/>
 	</game>
 	<game name="Poker II (Asia) (En) (Unl)" id="1694">
 		<category>Games</category>
