@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,661) (-y) [-aAbBcdkmMpPuv] (2026-09-07 23-37-25) (Retool)</description>
-		<version>2026-09-07 23-37-25</version>
-		<date>2026-09-08 07-31-05</date>
+		<description>IBM - PC compatible (26,679) (-y) [-aAbBcdkmMpPuv] (2026-09-09 06-27-25) (Retool)</description>
+		<version>2026-09-09 06-27-25</version>
+		<date>2026-09-09 07-39-49</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3580,6 +3580,12 @@
 		<rom name="Action Euro Soccer 96 (Germany) (Track 15).bin" size="5924688" crc="e5f34741" md5="faa62d9e800b730fbd152d4543853553" sha1="e2ceb1ef9ee0ecd47679846cd506944ff09517db"/>
 		<rom name="Action Euro Soccer 96 (Germany) (Track 16).bin" size="6910176" crc="5e9e8d3d" md5="03d639010c3e80b25a6c33d36ac2c9e0" sha1="462216afa102f03c1ee29058f65ef4e6a0e88bfd"/>
 		<rom name="Action Euro Soccer 96 (Germany).cue" size="2021" crc="5e5ab5f4" md5="d309a9b844781f93120222c673e77d25" sha1="0342a5a615aa90b05ee64feec3a4a8f3bbbee65d"/>
+	</game>
+	<game name="Action Games (Europe)" id="138062">
+		<category>Games</category>
+		<description>Action Games (Europe)</description>
+		<rom name="Action Games (Europe).bin" size="391448064" crc="bf17db0b" md5="9de6d8f89c6f78f97cf71b9cdd8f4afb" sha1="3a56c7e94e4de64219e66eba7b0aee7a78f62111"/>
+		<rom name="Action Games (Europe).cue" size="110" crc="840e7355" md5="2b6b595f13b05d43763850bf707580d4" sha1="b61c8b3ae5b74eaa34f90ca56ac3b919154c6f35"/>
 	</game>
 	<game name="Action Man (USA)" id="122241">
 		<category>Games</category>
@@ -29536,6 +29542,11 @@
 		<description>Colin McRae - Dirt (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Colin McRae - Dirt (Europe) (En,Fr,De,Es,It).iso" size="8543305728" crc="b597f46f" md5="6e42ce6f6931fcaabd287da5b0136d48" sha1="fb5c48f9b9abfd452cc9d7d248ebccf2d646ae63"/>
 	</game>
+	<game name="Colin McRae - Dirt 2 (Poland)" id="138092">
+		<category>Games</category>
+		<description>Colin McRae - Dirt 2 (Poland)</description>
+		<rom name="Colin McRae - Dirt 2 (Poland).iso" size="6811484160" crc="dd7cdfcc" md5="576a13063c79ebe24f5e200386862085" sha1="3ed5b7d9082724f35ade780651e4a3bce7509c24"/>
+	</game>
 	<game name="Colin McRae Rally (Europe) (En,Fr,De,Es) (Rev 1)" id="67546">
 		<category>Games</category>
 		<description>Colin McRae Rally (Europe) (En,Fr,De,Es) (Rev 1)</description>
@@ -32580,6 +32591,12 @@
 		<description>Crazy Taxi 3 - High Roller (Japan)</description>
 		<rom name="Crazy Taxi 3 - High Roller (Japan).bin" size="788886672" crc="a8e67193" md5="63e44a63a6419cd0dc91e275fb8d7334" sha1="5323745ff70b9557694170ed647fda2bac70dc2a"/>
 		<rom name="Crazy Taxi 3 - High Roller (Japan).cue" size="100" crc="55f4963c" md5="178d991e49c6c66e31b8550b6a47ae50" sha1="6e8d96f97211682383b840871ad9590746e46f93"/>
+	</game>
+	<game name="Crazy Tetris (Netherlands)" id="138063">
+		<category>Games</category>
+		<description>Crazy Tetris (Netherlands)</description>
+		<rom name="Crazy Tetris (Netherlands).bin" size="648681600" crc="978728c4" md5="7a2005918844b605e449dc837b16824e" sha1="fbc9694475eb15cb024c10486cb31e7c81f49d50"/>
+		<rom name="Crazy Tetris (Netherlands).cue" size="92" crc="f0b0e952" md5="88ab40c5d76c7b14e7deb4b605add8a5" sha1="6250d5637847ef2bb72f530dc06a49050335b58f"/>
 	</game>
 	<game name="Crazy Toons Video Puzzle Vol. 1 (Germany)" id="9311">
 		<category>Games</category>
@@ -41106,11 +41123,11 @@
 		<rom name="Disney Girlfriends (USA).bin" size="752407152" crc="f637bd8f" md5="7fc1bc38edd1d8bbcffb87445ad6e328" sha1="11f1b64ac867ed6e03018d387f1544e4ffd4ac58"/>
 		<rom name="Disney Girlfriends (USA).cue" size="90" crc="904a8406" md5="499a1b4a4695008a06d17ecc4b0f5011" sha1="0f8c3d95634ee1d925c8e3abd72bda4115912b71"/>
 	</game>
-	<game name="Disney Hippo Hop (Italy)" id="75966">
+	<game name="Disney Hippo Hop (Europe)" id="75966">
 		<category>Games</category>
-		<description>Disney Hippo Hop (Italy)</description>
-		<rom name="Disney Hippo Hop (Italy).bin" size="244027056" crc="de3c4dbf" md5="a7f0d2b2a5f61018f253d4d98fc093a8" sha1="8aeb937db30008019ef5bf20bd4d99b1acd95ea7"/>
-		<rom name="Disney Hippo Hop (Italy).cue" size="90" crc="a45c64e3" md5="269d80fe497951682ad4c09f72f3dd61" sha1="c738aed400cc02a8f43ee4f6c1006c83a861b240"/>
+		<description>Disney Hippo Hop (Europe)</description>
+		<rom name="Disney Hippo Hop (Europe).bin" size="244027056" crc="de3c4dbf" md5="a7f0d2b2a5f61018f253d4d98fc093a8" sha1="8aeb937db30008019ef5bf20bd4d99b1acd95ea7"/>
+		<rom name="Disney Hippo Hop (Europe).cue" size="91" crc="825ac530" md5="6d2964e389558309a021ca21e6e60d44" sha1="f0f9317b29efd0a6b03d79f6cbb6b303175fa508"/>
 	</game>
 	<game name="Disney Il Gobbo di Notre Dame - Il Bowling di Djali (Italy)" id="75892">
 		<category>Games</category>
@@ -59810,7 +59827,7 @@
 		<category>Games</category>
 		<description>Full Throttle &amp; Dark Forces - 3-Level Special Edition (USA, Europe)</description>
 		<rom name="Full Throttle &amp; Dark Forces - 3-Level Special Edition (USA, Europe).bin" size="633207792" crc="ed02a062" md5="6b0cef3b99d5961cd563a2feff1705a3" sha1="7b864cbbdaa2dfc63578bd9de06d851607e7a06d"/>
-		<rom name="Full Throttle &amp; Dark Forces - 3-Level Special Edition (USA, Europe).cue" size="133" crc="8d8583b9" md5="5ac47dfe0d3ecd0b401f493d412c1cb1" sha1="d69f882de5a37bf75626ffbcaff0ca0c5cb1dfb9"/>
+		<rom name="Full Throttle &amp; Dark Forces - 3-Level Special Edition (USA, Europe).cue" size="156" crc="dce67326" md5="76cd516991f8f99ceceb16f0dc0d9108" sha1="01a1243cc58e43c9d5c7d8341e47d09087132ceb"/>
 	</game>
 	<game name="Full Throttle (USA, Europe)" id="14721">
 		<category>Games</category>
@@ -64281,6 +64298,21 @@
 		<description>Gold Games 8 (Germany)</description>
 		<rom name="Gold Games 8 (Germany).iso" size="7133003776" crc="33992137" md5="80780f4f2f80b6f273da8b30e7895ed6" sha1="5d375047ecfe5bfe29db7d5f5412dfdd388ad2a4"/>
 	</game>
+	<game name="Gold Games 9 (Germany) (CSI - Crime Scene Investigation - Dark Motives &amp; Silent Hunter III &amp; Beyond Divinity &amp; Conflict Vietnam)" id="138055">
+		<category>Games</category>
+		<description>Gold Games 9 (Germany) (CSI - Crime Scene Investigation - Dark Motives &amp; Silent Hunter III &amp; Beyond Divinity &amp; Conflict Vietnam)</description>
+		<rom name="Gold Games 9 (Germany) (CSI - Crime Scene Investigation - Dark Motives &amp; Silent Hunter III &amp; Beyond Divinity &amp; Conflict Vietnam).iso" size="8054341632" crc="3320a5c1" md5="4fe82b886086b30ff8d726f87801370f" sha1="14008d0a766d60b1a798aad83e4b690e2ee210b1"/>
+	</game>
+	<game name="Gold Games 9 (Germany) (Die Siedler - Das Erbe der Konige)" id="138061">
+		<category>Games</category>
+		<description>Gold Games 9 (Germany) (Die Siedler - Das Erbe der Konige)</description>
+		<rom name="Gold Games 9 (Germany) (Die Siedler - Das Erbe der Konige).iso" size="2359984128" crc="c806271a" md5="1bc9253b3a980c212364434c957442fb" sha1="c4335b472542dba1e9f4245d941055afe08605f5"/>
+	</game>
+	<game name="Gold Games 9 (Germany) (Prince of Persia - Warrior Within &amp; Codename - Panzers Phase One &amp; Ski Alpin 2005)" id="138056">
+		<category>Games</category>
+		<description>Gold Games 9 (Germany) (Prince of Persia - Warrior Within &amp; Codename - Panzers Phase One &amp; Ski Alpin 2005)</description>
+		<rom name="Gold Games 9 (Germany) (Prince of Persia - Warrior Within &amp; Codename - Panzers Phase One &amp; Ski Alpin 2005).iso" size="6794412032" crc="28d31069" md5="54361226f01e8ba17ff6730f307bd6de" sha1="c803bd6b636931a8595fc54074aeb4db04fee6f4"/>
+	</game>
 	<game name="Gold Games CD Nr. 10 (Germany)" id="49813">
 		<category>Games</category>
 		<description>Gold Games CD Nr. 10 (Germany)</description>
@@ -64781,17 +64813,17 @@
 		<rom name="Goosebumps - Attack of the Mutant (USA).bin" size="543707136" crc="22398929" md5="77af033e8817cdaed597a0fb2a3bb794" sha1="46b810bb6af3ca62ffb7aa1c965c088bc60f88a5"/>
 		<rom name="Goosebumps - Attack of the Mutant (USA).cue" size="105" crc="c768dc00" md5="e1799734425ef8d1cde2636c4622af18" sha1="ce712dcd069c624b3597b2adbe41ef549008010b"/>
 	</game>
-	<game name="Goosebumps - Escape from HorrorLand (USA) (Disc 1) (Start-Up CD)" id="120673">
+	<game name="Goosebumps - Escape from HorrorLand (USA) (Disc 1)" id="120673">
 		<category>Games</category>
-		<description>Goosebumps - Escape from HorrorLand (USA) (Disc 1) (Start-Up CD)</description>
-		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 1) (Start-Up CD).bin" size="758969232" crc="a9f29c3b" md5="629169de8d55b82ed7edc3bd20a7fd4a" sha1="86319960be0df6a4a7a7d8434deb2e553d27f7a8"/>
-		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 1) (Start-Up CD).cue" size="130" crc="92a8e428" md5="9c685b42deaab77d281012cf45ef7565" sha1="ef620ed9eb175db3c60f1d251f808bece4b48f5a"/>
+		<description>Goosebumps - Escape from HorrorLand (USA) (Disc 1)</description>
+		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 1).bin" size="758969232" crc="a9f29c3b" md5="629169de8d55b82ed7edc3bd20a7fd4a" sha1="86319960be0df6a4a7a7d8434deb2e553d27f7a8"/>
+		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 1).cue" size="116" crc="a7460f41" md5="9c6ce148511af4a42490ce98a8ded4f2" sha1="f4c07e97d3ec8b16c95b0faa71595a8a848d4e01"/>
 	</game>
-	<game name="Goosebumps - Escape from HorrorLand (USA) (Disc 2) (Start-Up CD)" id="107800">
+	<game name="Goosebumps - Escape from HorrorLand (USA) (Disc 2)" id="107800">
 		<category>Games</category>
-		<description>Goosebumps - Escape from HorrorLand (USA) (Disc 2) (Start-Up CD)</description>
-		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 2) (Start-Up CD).bin" size="744934848" crc="4935eac9" md5="81b9d6cdc98671701ded1cc936e106b9" sha1="11911f30001b91e4704c036858747639346b41e8"/>
-		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 2) (Start-Up CD).cue" size="130" crc="db1e312b" md5="443a4b0aeddb5987daa77cc9c70b5d5b" sha1="a46eb0aaf81c80dbfe58c32c2346e95222c3beae"/>
+		<description>Goosebumps - Escape from HorrorLand (USA) (Disc 2)</description>
+		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 2).bin" size="744934848" crc="4935eac9" md5="81b9d6cdc98671701ded1cc936e106b9" sha1="11911f30001b91e4704c036858747639346b41e8"/>
+		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 2).cue" size="116" crc="a61b2990" md5="9b92a87d5847fbaea102568c348272f0" sha1="380e5575d1a508a94b3b2e597e51b1547d24a8f5"/>
 	</game>
 	<game name="Gor'kij-17 (Russia)" id="99495">
 		<category>Games</category>
@@ -72872,6 +72904,23 @@
 		<description>Homura Combat (Japan)</description>
 		<rom name="Homura Combat (Japan).bin" size="811804560" crc="f0947156" md5="575b9e42ba7adfdc8a630f4d3b6cabb0" sha1="8a0b3a8a2af4265afefea6b31c368634cce6050a"/>
 		<rom name="Homura Combat (Japan).cue" size="87" crc="6e959c7d" md5="d60665cb8fc2ce787017ac460b8a3c30" sha1="a78a9f099a2de501f87a16d9f4ae137fa50b768e"/>
+	</game>
+	<game name="Homura Combat Blaze (Japan)" id="138074">
+		<category>Add-Ons</category>
+		<description>Homura Combat Blaze (Japan)</description>
+		<rom name="Homura Combat Blaze (Japan) (Track 1).bin" size="391325760" crc="829ab2ad" md5="56ea9700e94f969c70bd917f333dfc20" sha1="a2a7e02c3052cb6c2088d6aab7fd6d3916ad639a"/>
+		<rom name="Homura Combat Blaze (Japan) (Track 2).bin" size="18138624" crc="b42fb9bb" md5="ea231be1578d25495b0e24fb119094b6" sha1="ab5934184d2c731be2fef06decdc11b4b913f7d7"/>
+		<rom name="Homura Combat Blaze (Japan) (Track 3).bin" size="33694752" crc="98671547" md5="732228480d58339485b7448b784720dc" sha1="11cffc049fe1a0b79f5052580f50bd9e2a422221"/>
+		<rom name="Homura Combat Blaze (Japan) (Track 4).bin" size="40915392" crc="13d16139" md5="880f288a2b174cba3624258a83b674e6" sha1="d4bd4979aad1a7a900efade14687021d0cea6840"/>
+		<rom name="Homura Combat Blaze (Japan) (Track 5).bin" size="36481872" crc="8d272cfc" md5="04db650b1342a36b42bbbd3090f17419" sha1="349f0db008e41693c1d4119d469bd153d0fc879e"/>
+		<rom name="Homura Combat Blaze (Japan) (Track 6).bin" size="28400400" crc="8b1967d8" md5="00f8d8aec7f88f65a06d91e309bb9b97" sha1="f5947b84996753635e0cb60aba283811f1408587"/>
+		<rom name="Homura Combat Blaze (Japan) (Track 7).bin" size="45614688" crc="e356adee" md5="5c048f7c67abd0cd1ebc2575616e5338" sha1="6c993b20cf8dd1acd927f7ea537f13f2b2c780d5"/>
+		<rom name="Homura Combat Blaze (Japan).cue" size="829" crc="abf5a876" md5="49c207cf441a8bceeefd53d7b6fd37cd" sha1="a77781f902fb8b8bd98bfd7da093dc1905d97d8e"/>
+	</game>
+	<game name="Homura Combat Plus (Japan)" id="138073">
+		<category>Games</category>
+		<description>Homura Combat Plus (Japan)</description>
+		<rom name="Homura Combat Plus (Japan).iso" size="2922119168" crc="6a47a48e" md5="7171d5aefcdeae97c690ab42bb122f2d" sha1="cd7a6cf9803662023174f0b3278b1c79c8144751"/>
 	</game>
 	<game name="Honey Monster - Mountain Rescue (Scandinavia) (En,Fr,De,Sv,Da) (Blue)" id="128376">
 		<category>Games</category>
@@ -97631,11 +97680,11 @@
 		<rom name="Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).bin" size="408876384" crc="96777cfc" md5="9e28f02e027db9d000def2b7f14ec047" sha1="e4145fdc62be6566110465c3be0ac6a888f7789d"/>
 		<rom name="Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).cue" size="113" crc="44a0098c" md5="196673db04cb35a7d0b9cdb3f6e9100a" sha1="e75e834a1c7e6f1d9603c7697ad24cf0383713f7"/>
 	</game>
-	<game name="Mashina vremeni. E'volyuciya (Russia)" id="86880">
+	<game name="Mashina vremeni - E'volyuciya (Russia)" id="86880">
 		<category>Games</category>
-		<description>Mashina vremeni. E'volyuciya (Russia)</description>
-		<rom name="Mashina vremeni. E'volyuciya (Russia).bin" size="268151520" crc="8806a677" md5="856cb1d963bd4a610360f84ec65add04" sha1="9cdaaff7986d995d0bc031f27cc6ad0a8fa2b5e4"/>
-		<rom name="Mashina vremeni. E'volyuciya (Russia).cue" size="103" crc="ad862251" md5="c30c0e88642991c1e266d38305fbf3a0" sha1="4d12954ce3a6dfaf5b8a6656515ad4aad4b9c99e"/>
+		<description>Mashina vremeni - E'volyuciya (Russia)</description>
+		<rom name="Mashina vremeni - E'volyuciya (Russia).bin" size="268151520" crc="8806a677" md5="856cb1d963bd4a610360f84ec65add04" sha1="9cdaaff7986d995d0bc031f27cc6ad0a8fa2b5e4"/>
+		<rom name="Mashina vremeni - E'volyuciya (Russia).cue" size="104" crc="fc9593e3" md5="a168ba1213294c59a6fa2a55bd6a2ea8" sha1="0761d61102451c60bb3072ee8dfb9e0db9878568"/>
 	</game>
 	<game name="Mashinarium (Russia) (Igrovoj disk)" id="93463">
 		<category>Games</category>
@@ -100507,6 +100556,11 @@
 		<rom name="Mega Math Blaster (USA) (Disc 2).bin" size="295651104" crc="c4dc1b0c" md5="16ed29912aacab79f30b648876959ea0" sha1="95e312fffc807ece4c96280626610d7c9d9ab590"/>
 		<rom name="Mega Math Blaster (USA) (Disc 2).cue" size="121" crc="23113864" md5="2d8e97054c5657b54052f16166214801" sha1="33a1f8a02ff5146dfa08e6d243327490fa5f0c76"/>
 	</game>
+	<game name="Mega Pack Vol. 1 (UK)" id="138087">
+		<category>Games</category>
+		<description>Mega Pack Vol. 1 (UK)</description>
+		<rom name="Mega Pack Vol. 1 (UK).iso" size="4045635584" crc="95df5c77" md5="47a478452f159e8a8f91f66e14eb803b" sha1="c8d2dd78445d0ad9935d03456acf5d4ed24d956b"/>
+	</game>
 	<game name="Mega Pak DVD (Poland)" id="72970">
 		<category>Games</category>
 		<description>Mega Pak DVD (Poland)</description>
@@ -100728,6 +100782,12 @@
 		<category>Games</category>
 		<description>Mein neues Leben - Abenteuer auf Tropicana (Germany)</description>
 		<rom name="Mein neues Leben - Abenteuer auf Tropicana (Germany).iso" size="2892693504" crc="0acc57d5" md5="7b597b4edd6cc24ba11322391abae166" sha1="670805b788107159790f411a8596e3f91cc72841"/>
+	</game>
+	<game name="Meine Lernwelt - 1. Klasse Mathematik (Germany)" id="138054">
+		<category>Educational</category>
+		<description>Meine Lernwelt - 1. Klasse Mathematik (Germany)</description>
+		<rom name="Meine Lernwelt - 1. Klasse Mathematik (Germany).bin" size="321250272" crc="ab78a9f8" md5="336b543f756a839cf26d197217c31bde" sha1="dc01f2aa157a906849462eaecb7f972b6185edb5"/>
+		<rom name="Meine Lernwelt - 1. Klasse Mathematik (Germany).cue" size="113" crc="62411592" md5="5f07e82e6636744e29e69fe2e02e8112" sha1="3b2d1191a2ba253f67a4638760f5abbc81c894db"/>
 	</game>
 	<game name="Meine Tierklinik (Germany)" id="130444">
 		<category>Games</category>
@@ -106257,6 +106317,11 @@
 		<description>Monster Hunter Frontier Online - Season 4.0 (Japan)</description>
 		<rom name="Monster Hunter Frontier Online - Season 4.0 (Japan).bin" size="742992096" crc="ea261532" md5="68954f5258cfded1a3bceb50090be0e4" sha1="386f6a0329d52657e7d55a961200e2c27ca351f1"/>
 		<rom name="Monster Hunter Frontier Online - Season 4.0 (Japan).cue" size="117" crc="4f1f4d96" md5="0a8883c343428c062c00b26a8fdd33c8" sha1="b70996a639a01dd457180010a8095f85c08a2acb"/>
+	</game>
+	<game name="Monster Hunter Frontier Online - Season 9.0 (Japan)" id="138077">
+		<category>Games</category>
+		<description>Monster Hunter Frontier Online - Season 9.0 (Japan)</description>
+		<rom name="Monster Hunter Frontier Online - Season 9.0 (Japan).iso" size="2095677440" crc="820c62cb" md5="8129be8cf3dabd41825d76da8854d913" sha1="af2b8cab0bdc2b66da3f707ff0f9cc001b4983b7"/>
 	</game>
 	<game name="Monster Jam (USA)" id="100836">
 		<category>Games</category>
@@ -116740,6 +116805,12 @@
 		<rom name="Oregon Trail, The - Classic Edition (USA).bin" size="7413504" crc="7e79a453" md5="35cd12bdcf699c4d790f88b52b266b8b" sha1="50f8f087ca68ee0319dafe08d8af585b7ba69c51"/>
 		<rom name="Oregon Trail, The - Classic Edition (USA).cue" size="130" crc="ab418a1d" md5="7b7bbeccec07674778a45606b841c2f4" sha1="b32e0dade609ecb73ad3210dcaddd874b5652c43"/>
 	</game>
+	<game name="Oreimo Plus (Japan)" id="138072">
+		<category>Games</category>
+		<description>Oreimo Plus (Japan)</description>
+		<rom name="Oreimo Plus (Japan).bin" size="493193232" crc="8431713b" md5="2a152467d37e9522c27272794f552a72" sha1="7ae481d0395bc574d1515f750b993595fad6fe89"/>
+		<rom name="Oreimo Plus (Japan).cue" size="85" crc="d0e505f5" md5="88a26e96a2e4425cb9f33ebc0d62b0f2" sha1="b3d0ec3b3cdd579bb7ec52fd0002832becefe3c5"/>
+	</game>
 	<game name="OrganWise Guys, The - OrganWise-ology Game (USA)" id="131467">
 		<category>Educational</category>
 		<description>OrganWise Guys, The - OrganWise-ology Game (USA)</description>
@@ -125730,6 +125801,12 @@
 		<description>Praetorians (USA)</description>
 		<rom name="Praetorians (USA).bin" size="676792704" crc="a980a206" md5="c561b9026e566dd99c1bf1820b4116ae" sha1="903e0bd7eaabd47791c1f2016c587c05b8078b25"/>
 		<rom name="Praetorians (USA).cue" size="83" crc="aecc7379" md5="a33e01e5bc2956bc05871c9b555e5654" sha1="0e04ad7ffae6b07fbfa0c5e703f65adf84af84bd"/>
+	</game>
+	<game name="Pranksters - Il Tesoro degli Indiani (Italy)" id="138090">
+		<category>Games</category>
+		<description>Pranksters - Il Tesoro degli Indiani (Italy)</description>
+		<rom name="Pranksters - Il Tesoro degli Indiani (Italy).bin" size="329689248" crc="1ee70ad4" md5="676838b644f8ecc91dd95986cb3ccc07" sha1="6668165e02d6866fe889d90e43a3d958fe5c233c"/>
+		<rom name="Pranksters - Il Tesoro degli Indiani (Italy).cue" size="110" crc="7b7bd483" md5="088ab9e44029e7833d61ce7f32f38df9" sha1="223dc73a02c99b56210cd2746bb4cdfd6d49ca4b"/>
 	</game>
 	<game name="Pray for Death (USA)" id="27837">
 		<category>Games</category>
@@ -138153,11 +138230,11 @@
 		<rom name="Saban's Power Rangers - Time Force (USA, Australia).bin" size="233722944" crc="19f06997" md5="f3d1b11a24e637b69cea01cd62facd53" sha1="72d13f75f53c5c0ff4326667512847e89b50da37"/>
 		<rom name="Saban's Power Rangers - Time Force (USA, Australia).cue" size="117" crc="8f272590" md5="8b49fd934b6ec3a36ed6699d6811e257" sha1="0496e3f25bf6d0db46ed9a9d12044372d46d8c5a"/>
 	</game>
-	<game name="Saban's Power Rangers Zeo Versus the Machine Empire (Italy)" id="65264">
+	<game name="Saban's Power Rangers Zeo Versus the Machine Empire (Europe)" id="65264">
 		<category>Games</category>
-		<description>Saban's Power Rangers Zeo Versus the Machine Empire (Italy)</description>
-		<rom name="Saban's Power Rangers Zeo Versus the Machine Empire (Italy).bin" size="440400240" crc="d25fd1bf" md5="df4cd33deecb84312dba4983b5b85cbd" sha1="566f00c20a2c16cc8a4bde2a7b2c475d434e8030"/>
-		<rom name="Saban's Power Rangers Zeo Versus the Machine Empire (Italy).cue" size="148" crc="dc07378b" md5="fa82a71aba5c2e28cf848bc8bed411dd" sha1="f7a59f70fd5494c2066f503dc36048a092116c4b"/>
+		<description>Saban's Power Rangers Zeo Versus the Machine Empire (Europe)</description>
+		<rom name="Saban's Power Rangers Zeo Versus the Machine Empire (Europe).bin" size="440400240" crc="d25fd1bf" md5="df4cd33deecb84312dba4983b5b85cbd" sha1="566f00c20a2c16cc8a4bde2a7b2c475d434e8030"/>
+		<rom name="Saban's Power Rangers Zeo Versus the Machine Empire (Europe).cue" size="149" crc="c14b7709" md5="d0746685614891850740ade5c541376a" sha1="ac9d1b7144b3a4107604f3da466d3a9fe9ea4d4d"/>
 	</game>
 	<game name="Sable Maze - Forbidden Garden &amp; Twelve Fears (USA)" id="117675">
 		<category>Games</category>
@@ -141480,6 +141557,21 @@
 		<rom name="Schwarzschild GXR - Toki no Tsukaibito (Japan) (Track 44).bin" size="29496432" crc="802e2301" md5="9f4bc761ae243e8c220d84faba0f31f9" sha1="995b5ff0bdb189b8a37e2e224b107153232aea86"/>
 		<rom name="Schwarzschild GXR - Toki no Tsukaibito (Japan) (Track 45).bin" size="8662416" crc="3b013b77" md5="6d0536372911f5686cf586807d62234f" sha1="11ba6138aa36532f8d3dfd1e3df709198b656c09"/>
 		<rom name="Schwarzschild GXR - Toki no Tsukaibito (Japan).cue" size="5361" crc="8f3f6e65" md5="016ea9c1b7edce83c1fdcc69e5efb1a3" sha1="e0e7edec24df7401e5a90a154605d23f306862db"/>
+	</game>
+	<game name="Schwarzschild III Truth (Japan)" id="138071">
+		<category>Games</category>
+		<description>Schwarzschild III Truth (Japan)</description>
+		<rom name="Schwarzschild III Truth (Japan) (Track 01).bin" size="69816768" crc="ed9330e4" md5="c80e7d13b630c9df1bbe31fc16f127fc" sha1="aa11b4ec6db89b759c35975b5f0383fcba95021e"/>
+		<rom name="Schwarzschild III Truth (Japan) (Track 02).bin" size="42251328" crc="7f515fa3" md5="45d77f217d9e6753504ee3dc455627d3" sha1="de4a063340b5187ee35e206e0f02869bfa5eddea"/>
+		<rom name="Schwarzschild III Truth (Japan) (Track 03).bin" size="43060416" crc="c9ae45c7" md5="773cd40909ebd809e4c4ba1603b269b6" sha1="f262f03cee93eaa62be8a112f395c8868e79e36d"/>
+		<rom name="Schwarzschild III Truth (Japan) (Track 04).bin" size="54742800" crc="a7484df0" md5="7432a7ff17adc9db018c58f39976b6cb" sha1="54af4f32b4ac9e76042383ee009fb521423c3bdb"/>
+		<rom name="Schwarzschild III Truth (Japan) (Track 05).bin" size="53929008" crc="efbe4976" md5="536a152cf5be6e0184dab41f1d5a1633" sha1="bc73e1980641dae41918071506bec6de9e8a6d07"/>
+		<rom name="Schwarzschild III Truth (Japan) (Track 06).bin" size="51501744" crc="929d2a2b" md5="71756c9e5b8d319585f472707770a597" sha1="599807eb48a67642663c70b620f14ba7a9efd377"/>
+		<rom name="Schwarzschild III Truth (Japan) (Track 07).bin" size="72643872" crc="278eeb1c" md5="3a446ed2cf390136a0ec2c82b0e2b788" sha1="646573f0616299960a4a27d8bbf23cc089823c66"/>
+		<rom name="Schwarzschild III Truth (Japan) (Track 08).bin" size="42891072" crc="5934ae3e" md5="a8611d633b1850f6190fc7fbeeaa7529" sha1="1c6b10665ae0de3ab0ec64d6f3c9929d6a916860"/>
+		<rom name="Schwarzschild III Truth (Japan) (Track 09).bin" size="42582960" crc="b2fe6374" md5="03ff0dd807f164aeb243d5fa2099dfda" sha1="56d3e920d1b8d9fbe899a60e14f2553c3ab96e30"/>
+		<rom name="Schwarzschild III Truth (Japan) (Track 10).bin" size="42792288" crc="1ac1ad24" md5="207eae459b22595f60c130e670886813" sha1="47227e2ec779e95d0e2ff50b996617819fcaaac1"/>
+		<rom name="Schwarzschild III Truth (Japan).cue" size="1242" crc="d356b6e7" md5="e9cb62cf4698d91f2ed660b2306e4ec9" sha1="eccdfaccf9255780460db88660b4ef54d36671f5"/>
 	</game>
 	<game name="Schweizer Gletscherpilot X (Switzerland)" id="132759">
 		<category>Add-Ons</category>
@@ -163129,6 +163221,12 @@
 		<rom name="Tennis Masters Series - Battleground of Champions (USA).bin" size="550109280" crc="97effca9" md5="01eba09b7e14290712415117a8d92bf6" sha1="bf8edd89e738f9c08c8149daa7844bccd5ad8cad"/>
 		<rom name="Tennis Masters Series - Battleground of Champions (USA).cue" size="121" crc="fa6b5ca9" md5="4f71118c8f63d488fe8196b926aa00c5" sha1="ac8d6ccbe141fa7c27d825335cedb5573ad8e9fa"/>
 	</game>
+	<game name="Tennis Masters Series 2003 (Italy) (Covermount)" id="138085">
+		<category>Games</category>
+		<description>Tennis Masters Series 2003 (Italy) (Covermount)</description>
+		<rom name="Tennis Masters Series 2003 (Italy) (Covermount).bin" size="662219712" crc="6c7c8fcc" md5="f7ac1d49ad366f79e064bf03b0f2addd" sha1="200f72eeb528b9d00e9d24ab2793f05424301dcf"/>
+		<rom name="Tennis Masters Series 2003 (Italy) (Covermount).cue" size="113" crc="4bec78d3" md5="a4fd4de80121d9d493233f4c5aca7659" sha1="554ec80ea779e61bc742ce65ede1fd436ca541f0"/>
+	</game>
 	<game name="Tennis Titans (USA)" id="110977">
 		<category>Games</category>
 		<description>Tennis Titans (USA)</description>
@@ -175852,6 +175950,12 @@
 		<rom name="Virtual Casino - Poker &amp; Roulette (USA).bin" size="655076688" crc="d16377ca" md5="4332560370d78d84c4133c87ea1834dd" sha1="c647809fcbb026f15ac0cf8c1643c2bfecd8da8a"/>
 		<rom name="Virtual Casino - Poker &amp; Roulette (USA).cue" size="128" crc="19645f4a" md5="c676cb625121f59a01641c9520aa7c5a" sha1="906057a4c1f3b09d26618c222ba439b401a77a79"/>
 	</game>
+	<game name="Virtual Casino - Video Poker &amp; Slots (USA)" id="138066">
+		<category>Games</category>
+		<description>Virtual Casino - Video Poker &amp; Slots (USA)</description>
+		<rom name="Virtual Casino - Video Poker &amp; Slots (USA).bin" size="655001424" crc="dc96ccbf" md5="c5ffcfad1543867d5688b051542cc7ba" sha1="2ae79976bd94afeb87a0f3f00db2c1f43b2ac471"/>
+		<rom name="Virtual Casino - Video Poker &amp; Slots (USA).cue" size="131" crc="68069d14" md5="a6b872fcc714b256cf9e693c66ddc393" sha1="3c7d8bf6cbe9302270dd4ef3482c0bea33ab4565"/>
+	</game>
 	<game name="Virtual Chess (Europe) (En,Fr,De,Es,It,Nl) (OEM)" id="107886">
 		<category>Games</category>
 		<description>Virtual Chess (Europe) (En,Fr,De,Es,It,Nl) (OEM)</description>
@@ -188151,6 +188255,16 @@
 		<description>Zoku Gekka Bijin - Ouka no Koro (Japan)</description>
 		<rom name="Zoku Gekka Bijin - Ouka no Koro (Japan).bin" size="768243168" crc="2d89bba3" md5="ee6cb2e75ecaadf64020cb33f6e5153c" sha1="4df77be67e2734ae92517b7ba96747bd25aac1bb"/>
 		<rom name="Zoku Gekka Bijin - Ouka no Koro (Japan).cue" size="128" crc="bfaea518" md5="e32844f461709286674abf73dc53e64b" sha1="996bb9b7070c040098a080fae3f922d53747b0dc"/>
+	</game>
+	<game name="Zoku Sono Higurashi no Naku Koro ni Vs Touhou Universe 2 - Ultimate Special Edition (Japan)" id="138075">
+		<category>Games</category>
+		<description>Zoku Sono Higurashi no Naku Koro ni Vs Touhou Universe 2 - Ultimate Special Edition (Japan)</description>
+		<rom name="Zoku Sono Higurashi no Naku Koro ni Vs Touhou Universe 2 - Ultimate Special Edition (Japan).iso" size="1031675904" crc="f31d2732" md5="cc1c0ffe16fdb669a8d5adc3d54aef56" sha1="bb2710adc73cf1ec0c5f7dbbc4ea0852fff16ea6"/>
+	</game>
+	<game name="Zoku Sono Higurashi no Naku Koro ni Vs Touhou Universe 2 - Ultimate Special Edition (Japan) (Ibento-ban)" id="138076">
+		<category>Games</category>
+		<description>Zoku Sono Higurashi no Naku Koro ni Vs Touhou Universe 2 - Ultimate Special Edition (Japan) (Ibento-ban)</description>
+		<rom name="Zoku Sono Higurashi no Naku Koro ni Vs Touhou Universe 2 - Ultimate Special Edition (Japan) (Ibento-ban).iso" size="456654848" crc="fbe24b4c" md5="24c051310d0a84eb9b7a9fb313e9fe8e" sha1="92cc519eba2d6a87e35f0fa20ba02f220d498520"/>
 	</game>
 	<game name="Zoldiras (Japan) (v2.02)" id="133748">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,513) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-07 23-37-25) (Retool)</description>
-		<version>2026-09-07 23-37-25</version>
-		<date>2026-09-08 07-21-00</date>
+		<description>IBM - PC compatible (13,517) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-09 06-27-25) (Retool)</description>
+		<version>2026-09-09 06-27-25</version>
+		<date>2026-09-09 07-29-58</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1720,6 +1720,12 @@
 		<description>Action &amp; Arcade Compendium (Australia)</description>
 		<rom name="Action &amp; Arcade Compendium (Australia).bin" size="432593952" crc="efde8018" md5="8cfe72700b4893aaead26bc075d03bac" sha1="22341b1c6e7ecb602ea33d7f2060e050f0054a6f"/>
 		<rom name="Action &amp; Arcade Compendium (Australia).cue" size="104" crc="995d4ba9" md5="40020465bf5d256d46f133cb898bb570" sha1="9e3ca66f138e7021dd6b62c084ac355599bd070f"/>
+	</game>
+	<game name="Action Games (Europe)" id="138062">
+		<category>Games</category>
+		<description>Action Games (Europe)</description>
+		<rom name="Action Games (Europe).bin" size="391448064" crc="bf17db0b" md5="9de6d8f89c6f78f97cf71b9cdd8f4afb" sha1="3a56c7e94e4de64219e66eba7b0aee7a78f62111"/>
+		<rom name="Action Games (Europe).cue" size="110" crc="840e7355" md5="2b6b595f13b05d43763850bf707580d4" sha1="b61c8b3ae5b74eaa34f90ca56ac3b919154c6f35"/>
 	</game>
 	<game name="Action Man (USA)" id="122241">
 		<category>Games</category>
@@ -21668,11 +21674,11 @@
 		<rom name="Disney Girlfriends (USA).bin" size="752407152" crc="f637bd8f" md5="7fc1bc38edd1d8bbcffb87445ad6e328" sha1="11f1b64ac867ed6e03018d387f1544e4ffd4ac58"/>
 		<rom name="Disney Girlfriends (USA).cue" size="90" crc="904a8406" md5="499a1b4a4695008a06d17ecc4b0f5011" sha1="0f8c3d95634ee1d925c8e3abd72bda4115912b71"/>
 	</game>
-	<game name="Disney Hippo Hop (Italy)" id="75966">
+	<game name="Disney Hippo Hop (Europe)" id="75966">
 		<category>Games</category>
-		<description>Disney Hippo Hop (Italy)</description>
-		<rom name="Disney Hippo Hop (Italy).bin" size="244027056" crc="de3c4dbf" md5="a7f0d2b2a5f61018f253d4d98fc093a8" sha1="8aeb937db30008019ef5bf20bd4d99b1acd95ea7"/>
-		<rom name="Disney Hippo Hop (Italy).cue" size="90" crc="a45c64e3" md5="269d80fe497951682ad4c09f72f3dd61" sha1="c738aed400cc02a8f43ee4f6c1006c83a861b240"/>
+		<description>Disney Hippo Hop (Europe)</description>
+		<rom name="Disney Hippo Hop (Europe).bin" size="244027056" crc="de3c4dbf" md5="a7f0d2b2a5f61018f253d4d98fc093a8" sha1="8aeb937db30008019ef5bf20bd4d99b1acd95ea7"/>
+		<rom name="Disney Hippo Hop (Europe).cue" size="91" crc="825ac530" md5="6d2964e389558309a021ca21e6e60d44" sha1="f0f9317b29efd0a6b03d79f6cbb6b303175fa508"/>
 	</game>
 	<game name="Disney Il Gobbo di Notre Dame - Il Bowling di Djali (Italy)" id="75892">
 		<category>Games</category>
@@ -31952,7 +31958,7 @@
 		<category>Games</category>
 		<description>Full Throttle &amp; Dark Forces - 3-Level Special Edition (USA, Europe)</description>
 		<rom name="Full Throttle &amp; Dark Forces - 3-Level Special Edition (USA, Europe).bin" size="633207792" crc="ed02a062" md5="6b0cef3b99d5961cd563a2feff1705a3" sha1="7b864cbbdaa2dfc63578bd9de06d851607e7a06d"/>
-		<rom name="Full Throttle &amp; Dark Forces - 3-Level Special Edition (USA, Europe).cue" size="133" crc="8d8583b9" md5="5ac47dfe0d3ecd0b401f493d412c1cb1" sha1="d69f882de5a37bf75626ffbcaff0ca0c5cb1dfb9"/>
+		<rom name="Full Throttle &amp; Dark Forces - 3-Level Special Edition (USA, Europe).cue" size="156" crc="dce67326" md5="76cd516991f8f99ceceb16f0dc0d9108" sha1="01a1243cc58e43c9d5c7d8341e47d09087132ceb"/>
 	</game>
 	<game name="Full Throttle (USA, Europe)" id="14721">
 		<category>Games</category>
@@ -33890,17 +33896,17 @@
 		<rom name="Goosebumps - Attack of the Mutant (USA).bin" size="543707136" crc="22398929" md5="77af033e8817cdaed597a0fb2a3bb794" sha1="46b810bb6af3ca62ffb7aa1c965c088bc60f88a5"/>
 		<rom name="Goosebumps - Attack of the Mutant (USA).cue" size="105" crc="c768dc00" md5="e1799734425ef8d1cde2636c4622af18" sha1="ce712dcd069c624b3597b2adbe41ef549008010b"/>
 	</game>
-	<game name="Goosebumps - Escape from HorrorLand (USA) (Disc 1) (Start-Up CD)" id="120673">
+	<game name="Goosebumps - Escape from HorrorLand (USA) (Disc 1)" id="120673">
 		<category>Games</category>
-		<description>Goosebumps - Escape from HorrorLand (USA) (Disc 1) (Start-Up CD)</description>
-		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 1) (Start-Up CD).bin" size="758969232" crc="a9f29c3b" md5="629169de8d55b82ed7edc3bd20a7fd4a" sha1="86319960be0df6a4a7a7d8434deb2e553d27f7a8"/>
-		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 1) (Start-Up CD).cue" size="130" crc="92a8e428" md5="9c685b42deaab77d281012cf45ef7565" sha1="ef620ed9eb175db3c60f1d251f808bece4b48f5a"/>
+		<description>Goosebumps - Escape from HorrorLand (USA) (Disc 1)</description>
+		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 1).bin" size="758969232" crc="a9f29c3b" md5="629169de8d55b82ed7edc3bd20a7fd4a" sha1="86319960be0df6a4a7a7d8434deb2e553d27f7a8"/>
+		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 1).cue" size="116" crc="a7460f41" md5="9c6ce148511af4a42490ce98a8ded4f2" sha1="f4c07e97d3ec8b16c95b0faa71595a8a848d4e01"/>
 	</game>
-	<game name="Goosebumps - Escape from HorrorLand (USA) (Disc 2) (Start-Up CD)" id="107800">
+	<game name="Goosebumps - Escape from HorrorLand (USA) (Disc 2)" id="107800">
 		<category>Games</category>
-		<description>Goosebumps - Escape from HorrorLand (USA) (Disc 2) (Start-Up CD)</description>
-		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 2) (Start-Up CD).bin" size="744934848" crc="4935eac9" md5="81b9d6cdc98671701ded1cc936e106b9" sha1="11911f30001b91e4704c036858747639346b41e8"/>
-		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 2) (Start-Up CD).cue" size="130" crc="db1e312b" md5="443a4b0aeddb5987daa77cc9c70b5d5b" sha1="a46eb0aaf81c80dbfe58c32c2346e95222c3beae"/>
+		<description>Goosebumps - Escape from HorrorLand (USA) (Disc 2)</description>
+		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 2).bin" size="744934848" crc="4935eac9" md5="81b9d6cdc98671701ded1cc936e106b9" sha1="11911f30001b91e4704c036858747639346b41e8"/>
+		<rom name="Goosebumps - Escape from HorrorLand (USA) (Disc 2).cue" size="116" crc="a61b2990" md5="9b92a87d5847fbaea102568c348272f0" sha1="380e5575d1a508a94b3b2e597e51b1547d24a8f5"/>
 	</game>
 	<game name="Gorasul - The Legacy of the Dragon (USA, Europe) (Disc 1)" id="65870">
 		<category>Games</category>
@@ -51045,6 +51051,12 @@
 		<description>Medieval - Total War - Gold Edition (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Medieval - Total War - Gold Edition (Europe) (En,Fr,De,Es,It).iso" size="2596012032" crc="8141fb59" md5="5bf4c14b5bf1e1e2f88f6ff2d24e0fab" sha1="242d5699416f192635a8fb63d853db709b8efe18"/>
 	</game>
+	<game name="Medieval - Total War - Viking Invasion Expansion Pack (UK)" id="138057">
+		<category>Games</category>
+		<description>Medieval - Total War - Viking Invasion Expansion Pack (UK)</description>
+		<rom name="Medieval - Total War - Viking Invasion Expansion Pack (UK).bin" size="597384480" crc="c6fac857" md5="627949019e4957b8f7d264b03df7fd2a" sha1="fda7c16d0279a4064b8bcaaeee66aa78fad934ad"/>
+		<rom name="Medieval - Total War - Viking Invasion Expansion Pack (UK).cue" size="124" crc="fec2bce7" md5="3359e78a5791f019ef13584613e6f5bd" sha1="6bb8d492bc7a217330428ec4e788cd5f957f0f94"/>
+	</game>
 	<game name="Medieval Conquest (Europe)" id="53582">
 		<category>Games</category>
 		<description>Medieval Conquest (Europe)</description>
@@ -51165,6 +51177,11 @@
 		<description>Mega Match (USA)</description>
 		<rom name="Mega Match (USA).bin" size="157882704" crc="0eb586ff" md5="1a109062642aa62b618fb138c3cdd857" sha1="52cc96cb44b0ab95f578289a294322c51e5caf57"/>
 		<rom name="Mega Match (USA).cue" size="82" crc="5a5490e2" md5="de1820b0ad447be8a68ba85f4bb27838" sha1="332a540e6c9402920369f65f05a90de6b1e44409"/>
+	</game>
+	<game name="Mega Pack Vol. 1 (UK)" id="138087">
+		<category>Games</category>
+		<description>Mega Pack Vol. 1 (UK)</description>
+		<rom name="Mega Pack Vol. 1 (UK).iso" size="4045635584" crc="95df5c77" md5="47a478452f159e8a8f91f66e14eb803b" sha1="c8d2dd78445d0ad9935d03456acf5d4ed24d956b"/>
 	</game>
 	<game name="Mega Pinball (USA)" id="92169">
 		<category>Games</category>
@@ -69867,11 +69884,11 @@
 		<rom name="Saban's Power Rangers - Time Force (USA, Australia).bin" size="233722944" crc="19f06997" md5="f3d1b11a24e637b69cea01cd62facd53" sha1="72d13f75f53c5c0ff4326667512847e89b50da37"/>
 		<rom name="Saban's Power Rangers - Time Force (USA, Australia).cue" size="117" crc="8f272590" md5="8b49fd934b6ec3a36ed6699d6811e257" sha1="0496e3f25bf6d0db46ed9a9d12044372d46d8c5a"/>
 	</game>
-	<game name="Saban's Power Rangers Zeo Versus the Machine Empire (Italy)" id="65264">
+	<game name="Saban's Power Rangers Zeo Versus the Machine Empire (Europe)" id="65264">
 		<category>Games</category>
-		<description>Saban's Power Rangers Zeo Versus the Machine Empire (Italy)</description>
-		<rom name="Saban's Power Rangers Zeo Versus the Machine Empire (Italy).bin" size="440400240" crc="d25fd1bf" md5="df4cd33deecb84312dba4983b5b85cbd" sha1="566f00c20a2c16cc8a4bde2a7b2c475d434e8030"/>
-		<rom name="Saban's Power Rangers Zeo Versus the Machine Empire (Italy).cue" size="148" crc="dc07378b" md5="fa82a71aba5c2e28cf848bc8bed411dd" sha1="f7a59f70fd5494c2066f503dc36048a092116c4b"/>
+		<description>Saban's Power Rangers Zeo Versus the Machine Empire (Europe)</description>
+		<rom name="Saban's Power Rangers Zeo Versus the Machine Empire (Europe).bin" size="440400240" crc="d25fd1bf" md5="df4cd33deecb84312dba4983b5b85cbd" sha1="566f00c20a2c16cc8a4bde2a7b2c475d434e8030"/>
+		<rom name="Saban's Power Rangers Zeo Versus the Machine Empire (Europe).cue" size="149" crc="c14b7709" md5="d0746685614891850740ade5c541376a" sha1="ac9d1b7144b3a4107604f3da466d3a9fe9ea4d4d"/>
 	</game>
 	<game name="Sable Maze - Forbidden Garden &amp; Twelve Fears (USA)" id="117675">
 		<category>Games</category>
@@ -89033,6 +89050,12 @@
 		<description>Virtual Casino - Poker &amp; Roulette (USA)</description>
 		<rom name="Virtual Casino - Poker &amp; Roulette (USA).bin" size="655076688" crc="d16377ca" md5="4332560370d78d84c4133c87ea1834dd" sha1="c647809fcbb026f15ac0cf8c1643c2bfecd8da8a"/>
 		<rom name="Virtual Casino - Poker &amp; Roulette (USA).cue" size="128" crc="19645f4a" md5="c676cb625121f59a01641c9520aa7c5a" sha1="906057a4c1f3b09d26618c222ba439b401a77a79"/>
+	</game>
+	<game name="Virtual Casino - Video Poker &amp; Slots (USA)" id="138066">
+		<category>Games</category>
+		<description>Virtual Casino - Video Poker &amp; Slots (USA)</description>
+		<rom name="Virtual Casino - Video Poker &amp; Slots (USA).bin" size="655001424" crc="dc96ccbf" md5="c5ffcfad1543867d5688b051542cc7ba" sha1="2ae79976bd94afeb87a0f3f00db2c1f43b2ac471"/>
+		<rom name="Virtual Casino - Video Poker &amp; Slots (USA).cue" size="131" crc="68069d14" md5="a6b872fcc714b256cf9e693c66ddc393" sha1="3c7d8bf6cbe9302270dd4ef3482c0bea33ab4565"/>
 	</game>
 	<game name="Virtual Chess (Europe) (En,Fr,De,Es,It,Nl) (OEM)" id="107886">
 		<category>Games</category>

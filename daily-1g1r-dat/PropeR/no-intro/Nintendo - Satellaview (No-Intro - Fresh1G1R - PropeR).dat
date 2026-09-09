@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (336) (-y) [-aAbBcdkmMpPuv] (20260907-103436) (Retool)</description>
-		<version>20260907-103436</version>
-		<date>2026-09-08 07-37-26</date>
+		<description>Nintendo - Satellaview (341) (-y) [-aAbBcdkmMpPuv] (20260908-132846) (Retool)</description>
+		<version>20260908-132846</version>
+		<date>2026-09-09 07-47-24</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -211,35 +211,55 @@
 		<description>BS Parlor! Parlor! - Dai-2-shuu (Japan) (Premiere) (1998-3-13) (SoundLink)</description>
 		<rom name="BS Parlor! Parlor! - Dai-2-shuu (Japan) (Premiere) (1998-3-13) (SoundLink).bs" size="1048576" crc="661e61f9" md5="b1da15a76b46f6f534c3dd37d183c51e" sha1="2d011b6960d1dd75696f61d23ba6b5abe8130234" sha256="edfeb794b07c2bab7a8457e9a1bcaf6ffc3a3423d45884017bc0233c61f20f9e"/>
 	</game>
-	<game name="BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink)" id="3977">
+	<game name="BS Shin Onigashima - Dai-1-wa (Japan) (1996-12-2) (SoundLink)" id="3977">
 		<category>Games</category>
-		<description>BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink)</description>
-		<rom name="BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink).bs" size="1048576" crc="d53d8fa7" md5="a8f1ce37cf343f4659471f1d5262a80a" sha1="b34c78d095171f68db378927ee21ecccff1617e2" sha256="8f600eef7119b657ee4f09186de79af67effe9450a95831d56fbb41ec19cbc90"/>
+		<description>BS Shin Onigashima - Dai-1-wa (Japan) (1996-12-2) (SoundLink)</description>
+		<rom name="BS Shin Onigashima - Dai-1-wa (Japan) (1996-12-2) (SoundLink).bs" size="1048576" crc="d53d8fa7" md5="a8f1ce37cf343f4659471f1d5262a80a" sha1="b34c78d095171f68db378927ee21ecccff1617e2" sha256="8f600eef7119b657ee4f09186de79af67effe9450a95831d56fbb41ec19cbc90"/>
 	</game>
-	<game name="BS Shin Onigashima - Dai-2-wa (Japan) (SoundLink)" id="0333">
+	<game name="BS Shin Onigashima - Dai-1-wa (Japan) (1999-1-11) (SoundLink)" id="0332">
 		<category>Games</category>
-		<description>BS Shin Onigashima - Dai-2-wa (Japan) (SoundLink)</description>
-		<rom name="BS Shin Onigashima - Dai-2-wa (Japan) (SoundLink).bs" size="1048576" crc="25317cb6" md5="67d0ee2b18c696cf0e611c34ca363a69" sha1="a94e9367db4c8af243da85e63142987540e7fb1c" sha256="a268df9b6e6033213b6e4f4a339b1632310c1f59395375da6d361b4511c140f4"/>
+		<description>BS Shin Onigashima - Dai-1-wa (Japan) (1999-1-11) (SoundLink)</description>
+		<rom name="BS Shin Onigashima - Dai-1-wa (Japan) (1999-1-11) (SoundLink).bs" size="1048576" crc="654ec9b9" md5="ed11cd88da8985aa345e4572c2e45cc8" sha1="f842884cebf7e1fee7f23d7dcacecd7a5b01cc35" sha256="b64a91ebd64f4f0feb13ca7bca8c382cf495afad7e043c73a26f325e5dbd965a"/>
 	</game>
-	<game name="BS Shin Onigashima - Dai-3-wa (Japan) (1-27) (SoundLink)" id="0334">
+	<game name="BS Shin Onigashima - Dai-2-wa (Japan) (1999-1-18) (SoundLink)" id="0333">
 		<category>Games</category>
-		<description>BS Shin Onigashima - Dai-3-wa (Japan) (1-27) (SoundLink)</description>
-		<rom name="BS Shin Onigashima - Dai-3-wa (Japan) (1-27) (SoundLink).bs" size="1048576" crc="a612849d" md5="66427eff5c50838769ef499240868c1a" sha1="c0546cbaf4780df086f7c9a65b06a701bf318991" sha256="61d0177003125ab685260876585f475aa2ae41d84245a7663fdbb407a8fa6b04"/>
+		<description>BS Shin Onigashima - Dai-2-wa (Japan) (1999-1-18) (SoundLink)</description>
+		<rom name="BS Shin Onigashima - Dai-2-wa (Japan) (1999-1-18) (SoundLink).bs" size="1048576" crc="25317cb6" md5="67d0ee2b18c696cf0e611c34ca363a69" sha1="a94e9367db4c8af243da85e63142987540e7fb1c" sha256="a268df9b6e6033213b6e4f4a339b1632310c1f59395375da6d361b4511c140f4"/>
 	</game>
-	<game name="BS Shin Onigashima - Dai-4-wa (Japan) (2-1) (SoundLink)" id="3691">
+	<game name="BS Shin Onigashima - Dai-3-wa (Japan) (1999-1-24) (SoundLink)" id="3690">
 		<category>Games</category>
-		<description>BS Shin Onigashima - Dai-4-wa (Japan) (2-1) (SoundLink)</description>
-		<rom name="BS Shin Onigashima - Dai-4-wa (Japan) (2-1) (SoundLink).bs" size="1048576" crc="e3e8261b" md5="d074b296792927cad88f2c07ca990bd2" sha1="2bbdca6d4a213473f885c5541465a98f2163fda5" sha256="26cb0e1c462c2fa4b98ef940923a9eff261d257024c7d488a67bfb5dc5d9e379"/>
+		<description>BS Shin Onigashima - Dai-3-wa (Japan) (1999-1-24) (SoundLink)</description>
+		<rom name="BS Shin Onigashima - Dai-3-wa (Japan) (1999-1-24) (SoundLink).bs" size="1048576" crc="519e1ebd" md5="020a6f9f9254ab28ffd97366017cb85e" sha1="af8d16c50952a1e62919b7bbe63e964000f24e71" sha256="787e0e490d821bfa4feda48ee51578b6f6f27c8a78d96384499bb9e0fa558c10"/>
+	</game>
+	<game name="BS Shin Onigashima - Dai-3-wa (Japan) (1999-1-27) (SoundLink)" id="0334">
+		<category>Games</category>
+		<description>BS Shin Onigashima - Dai-3-wa (Japan) (1999-1-27) (SoundLink)</description>
+		<rom name="BS Shin Onigashima - Dai-3-wa (Japan) (1999-1-27) (SoundLink).bs" size="1048576" crc="a612849d" md5="66427eff5c50838769ef499240868c1a" sha1="c0546cbaf4780df086f7c9a65b06a701bf318991" sha256="61d0177003125ab685260876585f475aa2ae41d84245a7663fdbb407a8fa6b04"/>
+	</game>
+	<game name="BS Shin Onigashima - Dai-4-wa (Japan) (1999-1-31) (SoundLink)" id="0335">
+		<category>Games</category>
+		<description>BS Shin Onigashima - Dai-4-wa (Japan) (1999-1-31) (SoundLink)</description>
+		<rom name="BS Shin Onigashima - Dai-4-wa (Japan) (1999-1-31) (SoundLink).bs" size="1048576" crc="8fdc1257" md5="73ef2061e65da04d141a2d86836bfa49" sha1="20ed8f6e671b63b022919aa9cb56a116c2078e45" sha256="196452a995fa16a90471beb5d3d85218cd9fec5b8cafdaebd7d08b8074f0240b"/>
+	</game>
+	<game name="BS Shin Onigashima - Dai-4-wa (Japan) (1999-2-1) (SoundLink)" id="3691">
+		<category>Games</category>
+		<description>BS Shin Onigashima - Dai-4-wa (Japan) (1999-2-1) (SoundLink)</description>
+		<rom name="BS Shin Onigashima - Dai-4-wa (Japan) (1999-2-1) (SoundLink).bs" size="1048576" crc="e3e8261b" md5="d074b296792927cad88f2c07ca990bd2" sha1="2bbdca6d4a213473f885c5541465a98f2163fda5" sha256="26cb0e1c462c2fa4b98ef940923a9eff261d257024c7d488a67bfb5dc5d9e379"/>
 	</game>
 	<game name="BS Sim City - Scenario 3 (Japan) (SoundLink)" id="3635">
 		<category>Games</category>
 		<description>BS Sim City - Scenario 3 (Japan) (SoundLink)</description>
 		<rom name="BS Sim City - Scenario 3 (Japan) (SoundLink).bs" size="1048576" crc="1f253aa5" md5="fd2918585a74ecb34a9f036ff77ec529" sha1="5169e468c4a54fb262154859f26a2200d1787bc5" sha256="85eef3ed7bb921ce9b805b193bf39e3576e4407772de39dc1a760e937ed55308"/>
 	</game>
-	<game name="BS Super Mario Collection - Dai-3-shuu (Japan) (3-18) (SoundLink)" id="3853">
+	<game name="BS Super Mario Collection - Dai-3-shuu (Japan) (1998-3-17) (SoundLink)" id="0337">
 		<category>Games</category>
-		<description>BS Super Mario Collection - Dai-3-shuu (Japan) (3-18) (SoundLink)</description>
-		<rom name="BS Super Mario Collection - Dai-3-shuu (Japan) (3-18) (SoundLink).bs" size="1048576" crc="f1ddaaeb" md5="d468777f29065fba36dc8d5696e83c54" sha1="7d470471329fd697af6a073d870a4d2033615b63" sha256="36f42c0097cf2ad5cb505e19b1cbc701984eed697ef4767c8a17b86773d09d8f"/>
+		<description>BS Super Mario Collection - Dai-3-shuu (Japan) (1998-3-17) (SoundLink)</description>
+		<rom name="BS Super Mario Collection - Dai-3-shuu (Japan) (1998-3-17) (SoundLink).bs" size="1048576" crc="81042dab" md5="c6cc3a6005d8bf1b24185ea9baa21b68" sha1="dc46efaea7fa27f514aa04f21c82f33db0930f13" sha256="7447dba68ccafcdedeb282ba92df4fb47a76844294afb861de90364b81f8af27"/>
+	</game>
+	<game name="BS Super Mario Collection - Dai-3-shuu (Japan) (1998-3-18) (SoundLink)" id="3853">
+		<category>Games</category>
+		<description>BS Super Mario Collection - Dai-3-shuu (Japan) (1998-3-18) (SoundLink)</description>
+		<rom name="BS Super Mario Collection - Dai-3-shuu (Japan) (1998-3-18) (SoundLink).bs" size="1048576" crc="f1ddaaeb" md5="d468777f29065fba36dc8d5696e83c54" sha1="7d470471329fd697af6a073d870a4d2033615b63" sha256="36f42c0097cf2ad5cb505e19b1cbc701984eed697ef4767c8a17b86773d09d8f"/>
 	</game>
 	<game name="BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink)" id="0338">
 		<category>Games</category>
@@ -261,25 +281,30 @@
 		<description>BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink)</description>
 		<rom name="BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink).bs" size="1048576" crc="d05b537c" md5="f08e24ffd1c2b1f0c85cd81ba72c66bd" sha1="0f8cba643d66d8da0d8d05faefcf65a79b081efc" sha256="4b550501f40ce3184b8d856d3695517bf5dba128aca16b82971012444d6c35d5"/>
 	</game>
-	<game name="BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (6-20) (SoundLink)" id="0342">
+	<game name="BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (1998-6-14) (SoundLink)" id="3682">
 		<category>Games</category>
-		<description>BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (6-20) (SoundLink)</description>
-		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (6-20) (SoundLink).bs" size="1048576" crc="67568b74" md5="9dfd7cfe35e6df67a28197c68213ecab" sha1="e88c6f7c140c57d6388c18a4c2e9d241779800d1" sha256="0779a32b31809c32dec351884f2fab7d55e70512635f9d167bce01ad5e459e69"/>
+		<description>BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (1998-6-14) (SoundLink)</description>
+		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (1998-6-14) (SoundLink).bs" size="1048576" crc="e64ea557" md5="829a305c852b77b0e12571416204a4ff" sha1="d6168b93248e017029a856dbd9ab18d35a401e27" sha256="80818008ef076151e4f9c6e8480cb36a0e727d58a28a50f4bedf95d07a339bfa"/>
+	</game>
+	<game name="BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (1998-6-20) (SoundLink)" id="0342">
+		<category>Games</category>
+		<description>BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (1998-6-20) (SoundLink)</description>
+		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (1998-6-20) (SoundLink).bs" size="1048576" crc="67568b74" md5="9dfd7cfe35e6df67a28197c68213ecab" sha1="e88c6f7c140c57d6388c18a4c2e9d241779800d1" sha256="0779a32b31809c32dec351884f2fab7d55e70512635f9d167bce01ad5e459e69"/>
 	</game>
 	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-5-1) (SoundLink)" id="3971">
 		<category>Games</category>
 		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-5-1) (SoundLink)</description>
 		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-5-1) (SoundLink).bs" size="1048576" crc="78336cd9" md5="de2d8f871ac7e7dd9b209dacd690a0bb" sha1="8ac1ae61dc9094eab79b69ddbd9a38deca0f2ddf" sha256="b6639b06a678aba6e1cbd1c262b647b4c9f842d2315632c52decfc22f5735a00"/>
 	</game>
-	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-22) (SoundLink)" id="3939">
+	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1998-6-22) (SoundLink)" id="3939">
 		<category>Games</category>
-		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-22) (SoundLink)</description>
-		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-22) (SoundLink).bs" size="1048576" crc="b5fd446d" md5="cbd73501db873b78c73a6886df49bec4" sha1="2beec53e0f69e51168d5916100ce41176c7e65a8" sha256="3a9f819cc0576bc23f9e2e85c6fbe5f3f0d36d5fc6042050371449328189c835"/>
+		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1998-6-22) (SoundLink)</description>
+		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1998-6-22) (SoundLink).bs" size="1048576" crc="b5fd446d" md5="cbd73501db873b78c73a6886df49bec4" sha1="2beec53e0f69e51168d5916100ce41176c7e65a8" sha256="3a9f819cc0576bc23f9e2e85c6fbe5f3f0d36d5fc6042050371449328189c835"/>
 	</game>
-	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-25) (SoundLink)" id="3988">
+	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1998-6-25) (SoundLink)" id="3988">
 		<category>Games</category>
-		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-25) (SoundLink)</description>
-		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-25) (SoundLink).bs" size="1048576" crc="c8b081d9" md5="1a3028970cee12b724b21ba692fc3b2e" sha1="3efab7fe2bfcc55060ea5301ce0453514ed9f5d2" sha256="acf616452bac0699781b800da8848fd4bac7d1af88ba2351efc9cc44f2447d40"/>
+		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1998-6-25) (SoundLink)</description>
+		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1998-6-25) (SoundLink).bs" size="1048576" crc="c8b081d9" md5="1a3028970cee12b724b21ba692fc3b2e" sha1="3efab7fe2bfcc55060ea5301ce0453514ed9f5d2" sha256="acf616452bac0699781b800da8848fd4bac7d1af88ba2351efc9cc44f2447d40"/>
 	</game>
 	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (Premiere) (1997-2-23) (SoundLink)" id="3771">
 		<category>Games</category>
@@ -291,10 +316,10 @@
 		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (Premiere) (1997-2-24) (SoundLink)</description>
 		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (Premiere) (1997-2-24) (SoundLink).bs" size="1048576" crc="834055a7" md5="b0cea32bdbc29e8790da7636ccd6a2ff" sha1="d61bfb8118c647043525d7e848cc7c5464ce6c17" sha256="3572df59ab3e7e1e7bdb8981be50ed742cfe10b533662e4692f49df172a9c0fd"/>
 	</game>
-	<game name="BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (SoundLink)" id="0344">
+	<game name="BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (1998-12-29) (SoundLink)" id="0344">
 		<category>Games</category>
-		<description>BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (SoundLink)</description>
-		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (SoundLink).bs" size="1048576" crc="dc3354e8" md5="43d983147366f82cfbc2ae1162031449" sha1="c082f21c81c0a3648d448e68c0fcf59af8e73a59" sha256="3aa00fe6a820255dd98b1f655e7295de3d323c693e8aeb04550c64c8e85c2fab"/>
+		<description>BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (1998-12-29) (SoundLink)</description>
+		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (1998-12-29) (SoundLink).bs" size="1048576" crc="dc3354e8" md5="43d983147366f82cfbc2ae1162031449" sha1="c082f21c81c0a3648d448e68c0fcf59af8e73a59" sha256="3aa00fe6a820255dd98b1f655e7295de3d323c693e8aeb04550c64c8e85c2fab"/>
 	</game>
 	<game name="BS Zelda no Densetsu - Dai-1-wa (Japan) (Rerun) (SoundLink)" id="3648">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,861) (-y) [-aAbBcefkmMoprv] (2026-09-08 05-47-25) (Retool)</description>
-		<version>2026-09-08 05-47-25</version>
-		<date>2026-09-08 07-13-42</date>
+		<description>Sony - PlayStation 4 (1,867) (-y) [-aAbBcefkmMoprv] (2026-09-09 04-27-25) (Retool)</description>
+		<version>2026-09-09 04-27-25</version>
+		<date>2026-09-09 07-22-45</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5981,6 +5981,11 @@
 		<description>Observer - System Redux (Japan) (En,Ja,Zh,Ko)</description>
 		<rom name="Observer - System Redux (Japan) (En,Ja,Zh,Ko).iso" size="8803188736" crc="6266d2ae" md5="828719d2eab76d65a3b2942eb2746f23" sha1="087a2975c33a42798b41d1655ec382ea8e45a859"/>
 	</game>
+	<game name="Octopath Traveler 0 (Japan)" id="138067">
+		<category>Games</category>
+		<description>Octopath Traveler 0 (Japan)</description>
+		<rom name="Octopath Traveler 0 (Japan).iso" size="25024331776" crc="0e7f356b" md5="b410e75683513396e4cdb6ecad343190" sha1="d7a13ae843fb079286651c564c985e4e1ff47cc2"/>
+	</game>
 	<game name="Octopath Traveler II (Europe)" id="133674">
 		<category>Games</category>
 		<description>Octopath Traveler II (Europe)</description>
@@ -6221,6 +6226,11 @@
 		<description>PS4 IDU - 2016 Holiday Refresh - GameStop (USA)</description>
 		<rom name="PS4 IDU - 2016 Holiday Refresh - GameStop (USA).iso" size="48440016896" crc="263f4f22" md5="acaed903492d77c44cf992247879da62" sha1="a1e359435e5640b05cfb6d6cc38e11a2b395571e"/>
 	</game>
+	<game name="PS4 IDU - 2016 Holiday Refresh - LEGO Dimensions (USA)" id="138096">
+		<category>Demos</category>
+		<description>PS4 IDU - 2016 Holiday Refresh - LEGO Dimensions (USA)</description>
+		<rom name="PS4 IDU - 2016 Holiday Refresh - LEGO Dimensions (USA).iso" size="14662189056" crc="8e6abdba" md5="5563bf97268bfc8f38a88bd06fd16d92" sha1="39c3d9d4934756f521287e2360cd7135c13d20f6"/>
+	</game>
 	<game name="PS4 IDU - 2016 Spring Refresh - GameStop (USA)" id="62251">
 		<category>Demos</category>
 		<description>PS4 IDU - 2016 Spring Refresh - GameStop (USA)</description>
@@ -6240,6 +6250,11 @@
 		<category>Demos</category>
 		<description>PS4 IDU - 2017 Holiday Refresh - GameStop (USA)</description>
 		<rom name="PS4 IDU - 2017 Holiday Refresh - GameStop (USA).iso" size="48596942848" crc="03fd2843" md5="5283760b72c644cb56cb21a3df5c6acd" sha1="3225512d4f07a14cc08bd3b31aaaee4f42a8ec9a"/>
+	</game>
+	<game name="PS4 IDU - 2017 Spring Refresh - Best Buy (USA)" id="138093">
+		<category>Demos</category>
+		<description>PS4 IDU - 2017 Spring Refresh - Best Buy (USA)</description>
+		<rom name="PS4 IDU - 2017 Spring Refresh - Best Buy (USA).iso" size="42756798464" crc="5700171c" md5="5b2c607cd618a0ffb4dfd839e2cf2bef" sha1="0d7af0d36ad3d8d0af0a05928b75b0827d442e80"/>
 	</game>
 	<game name="PS4 IDU - 2017 Spring Refresh - GameStop (USA)" id="62108">
 		<category>Demos</category>
@@ -6265,6 +6280,11 @@
 		<category>Demos</category>
 		<description>PS4 IDU - 2017 Winter Refresh - GameStop (USA)</description>
 		<rom name="PS4 IDU - 2017 Winter Refresh - GameStop (USA).iso" size="47515138048" crc="96593009" md5="151d8dbe078405143bed2a2d5a10ea3a" sha1="33aac0e9e30fdfab224b03bc933e0b01d1d21310"/>
+	</game>
+	<game name="PS4 IDU - 2017 Winter Refresh - LEGO Dimensions (USA)" id="138095">
+		<category>Demos</category>
+		<description>PS4 IDU - 2017 Winter Refresh - LEGO Dimensions (USA)</description>
+		<rom name="PS4 IDU - 2017 Winter Refresh - LEGO Dimensions (USA).iso" size="14659338240" crc="89f08041" md5="c574137f7537c9f8c9fbb89008e1e6df" sha1="0de0accc195bbf8e75deb3ba6040f1881465395a"/>
 	</game>
 	<game name="PS4 IDU - 2018 Holiday Refresh - GameStop (USA)" id="69128">
 		<category>Demos</category>
@@ -6299,7 +6319,7 @@
 	<game name="PS4 IDU - 2019 Holiday Refresh - GameStop (USA)" id="79222">
 		<category>Demos</category>
 		<description>PS4 IDU - 2019 Holiday Refresh - GameStop (USA)</description>
-		<rom name="PS4 IDU - 2019 Holiday Refresh - GameStop (USA).iso" size="48440016896" crc="f6977bd2" md5="1848f10f87241ef4f37d6662656269a7" sha1="50114e137e0576624d12626746570c82999bf3c4"/>
+		<rom name="PS4 IDU - 2019 Holiday Refresh - GameStop (USA).iso" size="45615992832" crc="0d6d19df" md5="2e4ef33618f941e71dcf0330d76f6d36" sha1="8fb9b3c3e0ed96a1bce1e9aaee86c491846bac1d"/>
 	</game>
 	<game name="PS4 IDU - 2019 Spring Refresh - GameStop (USA)" id="93204">
 		<category>Demos</category>
@@ -6361,10 +6381,10 @@
 		<description>Patapon (Japan)</description>
 		<rom name="Patapon (Japan).iso" size="1646592000" crc="a93177a6" md5="a323d5c198fddd22f14a81ea78e24d81" sha1="ebba1ae5bfd33339b184404d99a1fdfc35bf987f"/>
 	</game>
-	<game name="Pathfinder - Kingmaker - Definitive Edition (Europe) (En,Fr,De,Zh,Ru)" id="93594">
+	<game name="Pathfinder - Kingmaker - Definitive Edition (Japan, Europe) (En,Fr,De,Zh,Ru)" id="93594">
 		<category>Games</category>
-		<description>Pathfinder - Kingmaker - Definitive Edition (Europe) (En,Fr,De,Zh,Ru)</description>
-		<rom name="Pathfinder - Kingmaker - Definitive Edition (Europe) (En,Fr,De,Zh,Ru).iso" size="42333175808" crc="84bbc11a" md5="0f2956b36e1ecf4346a250bbd20c3ddf" sha1="50e3d2fd08c1c656244b66d69c331a56a37d500a"/>
+		<description>Pathfinder - Kingmaker - Definitive Edition (Japan, Europe) (En,Fr,De,Zh,Ru)</description>
+		<rom name="Pathfinder - Kingmaker - Definitive Edition (Japan, Europe) (En,Fr,De,Zh,Ru).iso" size="42333175808" crc="84bbc11a" md5="0f2956b36e1ecf4346a250bbd20c3ddf" sha1="50e3d2fd08c1c656244b66d69c331a56a37d500a"/>
 	</game>
 	<game name="Paw Patrol - On a Roll! (USA) (En,Fr,De,Es,It,Nl,Pt,Pl)" id="85179">
 		<category>Games</category>
@@ -8656,6 +8676,11 @@
 		<description>Under Night In-Birth Exe-Late[cl-r] (USA)</description>
 		<rom name="Under Night In-Birth Exe-Late[cl-r] (USA).iso" size="5606932480" crc="d77477a0" md5="b191d183e3ca154bfa0839e6452f8c9e" sha1="e47f65cf1ad2cb36caf09d85c8db6eee90f7d62e"/>
 	</game>
+	<game name="Unicorn Princess, The (Europe)" id="138084">
+		<category>Games</category>
+		<description>Unicorn Princess, The (Europe)</description>
+		<rom name="Unicorn Princess, The (Europe).iso" size="3473997824" crc="ff90d5d6" md5="57cdbb18543c487463bc7883b301ebff" sha1="0dc72a7dc85eee1b1d7a49db8a565084a3412905"/>
+	</game>
 	<game name="Unravel - Yarny Bundle (Europe)" id="132541">
 		<category>Games</category>
 		<description>Unravel - Yarny Bundle (Europe)</description>
@@ -9135,6 +9160,11 @@
 		<category>Games</category>
 		<description>Xin Yinghua Dazhan (Asia)</description>
 		<rom name="Xin Yinghua Dazhan (Asia).iso" size="46754824192" crc="4c776d34" md5="4af8803536604998dc61a550b084f897" sha1="6a8315384e61beb11535df6699a12ef32889d0e8"/>
+	</game>
+	<game name="Xinshiji Zhanjia Dasai (China)" id="138058">
+		<category>Games</category>
+		<description>Xinshiji Zhanjia Dasai (China)</description>
+		<rom name="Xinshiji Zhanjia Dasai (China).iso" size="19195166720" crc="8c19c259" md5="659b3095dc692ea649d2f7574960ddce" sha1="9c2bb11b38345ec9d6d0659edc3c6d7a8c307a75"/>
 	</game>
 	<game name="Xuan Yuan 7 (Europe)" id="134652">
 		<category>Games</category>

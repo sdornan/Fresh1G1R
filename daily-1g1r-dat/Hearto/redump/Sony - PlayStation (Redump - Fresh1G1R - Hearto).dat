@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,702) (-y) [-aAbBcefkmMoprv] (2026-09-07 22-47-25) (Retool)</description>
-		<version>2026-09-07 22-47-25</version>
-		<date>2026-09-08 07-13-01</date>
+		<description>Sony - PlayStation (5,703) (-y) [-aAbBcefkmMoprv] (2026-09-08 13-27-29) (Retool)</description>
+		<version>2026-09-08 13-27-29</version>
+		<date>2026-09-09 07-22-05</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -19617,6 +19617,12 @@
 		<rom name="Impact Racing (USA) (Track 10).bin" size="62657280" crc="71acd444" md5="b43f32e86b56cba40acf61ce0e9a86a9" sha1="1dccf0d6f9627fc8f331af998dd021a44fd017f3"/>
 		<rom name="Impact Racing (USA) (Track 11).bin" size="32163600" crc="9eb22530" md5="88aa16698a904e9841f2279a4e9beb23" sha1="bea344b803475b463195df6fd60834069afe246e"/>
 		<rom name="Impact Racing (USA).cue" size="1236" crc="069f0589" md5="900438a32d37405616f3327d5f4b5055" sha1="70ad7f4576b7dac8b7798e1997e09af67eb7eb5d"/>
+	</game>
+	<game name="In Cold Blood (Europe) (Beta) (2000-03-24)" id="138081">
+		<category>Preproduction</category>
+		<description>In Cold Blood (Europe) (Beta) (2000-03-24)</description>
+		<rom name="In Cold Blood (Europe) (Beta) (2000-03-24).bin" size="544956048" crc="18eda366" md5="fcd09c1a00c7dae71022db0353a9b790" sha1="0939992a8931a13193c1ad585de6a35061ee63e4"/>
+		<rom name="In Cold Blood (Europe) (Beta) (2000-03-24).cue" size="108" crc="c36e3b2b" md5="1820b31bcb1f661db91b835ddee12897" sha1="42e503c571b7b7e5722ff78b84d6f7a247c94fde"/>
 	</game>
 	<game name="In Cold Blood (USA) (Disc 1)" id="1849">
 		<category>Games</category>

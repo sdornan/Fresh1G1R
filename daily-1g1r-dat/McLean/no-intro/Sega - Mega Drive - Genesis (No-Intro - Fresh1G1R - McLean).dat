@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (836) (-ly) [-aAbBcdDefkmMopPruv] (20260828-164800) (Retool)</description>
-		<version>20260828-164800</version>
-		<date>2026-09-08 07-27-50</date>
+		<description>Sega - Mega Drive - Genesis (837) (-ly) [-aAbBcdDefkmMopPruv] (20260908-105300) (Retool)</description>
+		<version>20260908-105300</version>
+		<date>2026-09-09 07-37-33</date>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -585,6 +585,11 @@
 		<category>Games</category>
 		<description>Captain Planet and the Planeteers (Europe)</description>
 		<rom name="Captain Planet and the Planeteers (Europe).md" size="524288" crc="7672efa5" md5="4f95573c08f905466e01cf8e1bc59a73" sha1="b048f922db83802a4a78d1e8197a5ec52b73a89f" sha256="a56b87942d1aa192ebcb6e11aae0571454ed45c9e156498fbd7531f795198d60"/>
+	</game>
+	<game name="Cascade (World) (Super Fighter Team)" id="1806">
+		<category>Games</category>
+		<description>Cascade (World) (Super Fighter Team)</description>
+		<rom name="Cascade (World) (Super Fighter Team).md" size="524288" crc="e7b287fe" md5="4408176afb26e255014f0123ec03deb1" sha1="36179d64524b3be797946a7679dc0b8b9b92daa7"/>
 	</game>
 	<game name="Castle of Illusion Starring Mickey Mouse (USA, Europe)" id="0254">
 		<category>Games</category>

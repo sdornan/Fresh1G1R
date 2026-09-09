@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,405) (-y) [-aAbBcdkmMpPuv] (20260907-220930) (Retool)</description>
-		<version>20260907-220930</version>
-		<date>2026-09-08 07-38-37</date>
-		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,407) (-y) [-aAbBcdkmMpPuv] (20260908-214833) (Retool)</description>
+		<version>20260908-214833</version>
+		<date>2026-09-09 07-48-37</date>
+		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -5082,6 +5082,16 @@
 		<category>Games</category>
 		<description>Ripple Island (World) (Red Art Games)</description>
 		<rom name="Ripple Island (World) (Red Art Games).nes" size="262160" header="4e 45 53 1a 10 00 10 08 00 00 00 07 00 00 00 01" crc="62d1967f" md5="c1fff04c9356dfc1558df1e7b4c20fbd" sha1="f04ec19755288a11ac2f96884759ce5b55fbccbb" sha256="b38514cafaed26e1fa6872f0b5900beb005a3186d9acd0f3ebc8b4ec3e6ce8f2"/>
+	</game>
+	<game name="River City Basketball - Let's Go Dunk Heroes! (USA, Europe) (Retro-Bit)" id="8614">
+		<category>Games</category>
+		<description>River City Basketball - Let's Go Dunk Heroes! (USA, Europe) (Retro-Bit)</description>
+		<rom name="River City Basketball - Let's Go Dunk Heroes! (USA, Europe) (Retro-Bit).nes" size="262160" header="4e 45 53 1a 08 10 c0 08 01 00 00 00 00 00 00 03" crc="2da93111" md5="898f4896bd96210abb57cffc3b2f17cb" sha1="11a16faa14973ffa203015dcd2a42f1f20739077" sha256="0019af3e6b7b356637af8eb37216c3aa2bd95ba3a80225f65098066b721255d4"/>
+	</game>
+	<game name="River City Fighting Legend (USA, Europe) (Retro-Bit)" id="8615">
+		<category>Games</category>
+		<description>River City Fighting Legend (USA, Europe) (Retro-Bit)</description>
+		<rom name="River City Fighting Legend (USA, Europe) (Retro-Bit).nes" size="262160" header="4e 45 53 1a 08 10 c0 08 01 00 00 00 00 00 00 03" crc="29458c23" md5="29c3402e90b79d1579a6b873e79cf9be" sha1="585c245532daccf9f40d763b39f17633e4bba042" sha256="f37c4d93ae462134c9a62c473c7352deb54c2b00910835797352421afad33715"/>
 	</game>
 	<game name="River City Ransom (USA)" id="1810">
 		<category>Games</category>
