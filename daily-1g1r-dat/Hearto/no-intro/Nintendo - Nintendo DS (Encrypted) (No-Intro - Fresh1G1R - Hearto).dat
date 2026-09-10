@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,941) (-y) [-aAbBcefkmMoprv] (20260907-133513) (Retool)</description>
-		<version>20260907-133513</version>
-		<date>2026-09-09 07-24-06</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,941) (-y) [-aAbBcefkmMoprv] (20260909-230845) (Retool)</description>
+		<version>20260909-230845</version>
+		<date>2026-09-10 07-22-46</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2395,7 +2395,7 @@
 	<game name="Catan (Europe) (En,De)" id="3908">
 		<category>Games</category>
 		<description>Catan (Europe) (En,De)</description>
-		<rom name="Catan (Europe) (En,De).nds" size="16777216" crc="85bd935b" md5="2a8ce843919de73813d089dab47a46d3" sha1="3e138fac8f4b3579d8347b720cf77f1d3ae933ca"/>
+		<rom name="Catan (Europe) (En,De).nds" size="16777216" crc="85bd935b" md5="2a8ce843919de73813d089dab47a46d3" sha1="3e138fac8f4b3579d8347b720cf77f1d3ae933ca" sha256="f3306867c983125e52fe3e59bbba2e10b4cd105c6609bc33833627e108aec12f"/>
 	</game>
 	<game name="Catch! Touch! Yoshi! (Japan) (Demo) (Kiosk)" id="z226">
 		<category>Demos</category>
@@ -7733,7 +7733,7 @@
 	<game name="Jewel Quest Mysteries 2 - Trail of the Midnight Heart (Europe) (En,Fr,De,Nl)" id="5970">
 		<category>Games</category>
 		<description>Jewel Quest Mysteries 2 - Trail of the Midnight Heart (Europe) (En,Fr,De,Nl)</description>
-		<rom name="Jewel Quest Mysteries 2 - Trail of the Midnight Heart (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="be0a22e2" md5="1dbe003f5000e26fd5dc56b5a36e4a3d" sha1="e594871b74391c12dae0b13050f2589483a10bcf"/>
+		<rom name="Jewel Quest Mysteries 2 - Trail of the Midnight Heart (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="be0a22e2" md5="1dbe003f5000e26fd5dc56b5a36e4a3d" sha1="e594871b74391c12dae0b13050f2589483a10bcf" sha256="a2aaddd9230fdaddbadcd1fc6cf9acc4ec7a777d82a2e560d3af5a7acace8f16"/>
 	</game>
 	<game name="Jewel Time Deluxe (USA) (En,Fr)" id="5875">
 		<category>Games</category>
@@ -9210,7 +9210,7 @@
 	<game name="Lernerfolg Grundschule - Deutsch - Klasse 1+2 (Europe) (De,Tr)" id="6238">
 		<category>Games</category>
 		<description>Lernerfolg Grundschule - Deutsch - Klasse 1+2 (Europe) (De,Tr)</description>
-		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 1+2 (Europe) (De,Tr).nds" size="33554432" crc="feec0e83" md5="78864ecb2b1b4270e073462710394094" sha1="5a874ed9cfa1f2d97a034bc6e33288a463692711"/>
+		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 1+2 (Europe) (De,Tr).nds" size="33554432" crc="feec0e83" md5="78864ecb2b1b4270e073462710394094" sha1="5a874ed9cfa1f2d97a034bc6e33288a463692711" sha256="f738c15baad2fa270372c6abe8dc6e080a7756af1ca4f947a1d8440dba3a1a7a"/>
 	</game>
 	<game name="Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Europe) (De,Tr) (Rev 1)" id="5983">
 		<category>Games</category>
@@ -9876,7 +9876,7 @@
 	<game name="Mahjong Mysteries - Ancient Athena (Europe) (En,Fr,De,Es,It,Nl)" id="6050">
 		<category>Games</category>
 		<description>Mahjong Mysteries - Ancient Athena (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Mahjong Mysteries - Ancient Athena (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="7436b290" md5="bcd92bba988a59d62d82ac2e91927181" sha1="138ed50fad177b6c3f1d375003c4797ddc97d507"/>
+		<rom name="Mahjong Mysteries - Ancient Athena (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="7436b290" md5="bcd92bba988a59d62d82ac2e91927181" sha1="138ed50fad177b6c3f1d375003c4797ddc97d507" sha256="3fa460b3761db436fbe5797c6eb46f5ea175576a97a60d6a29620663a7ca3de7"/>
 	</game>
 	<game name="Mahjong Navi DS (Japan)" id="4081">
 		<category>Games</category>
@@ -10397,7 +10397,7 @@
 	<game name="Mathematik und Deutsch - 1.-4. Klasse - 2014 (Germany)" id="6425">
 		<category>Games</category>
 		<description>Mathematik und Deutsch - 1.-4. Klasse - 2014 (Germany)</description>
-		<rom name="Mathematik und Deutsch - 1.-4. Klasse - 2014 (Germany).nds" size="8388608" crc="d0590b4b" md5="0767d67b52af957de842b3249ce6adf5" sha1="4550a9266496fe65ad1db5edce6caeaf8c083535"/>
+		<rom name="Mathematik und Deutsch - 1.-4. Klasse - 2014 (Germany).nds" size="8388608" crc="d0590b4b" md5="0767d67b52af957de842b3249ce6adf5" sha1="4550a9266496fe65ad1db5edce6caeaf8c083535" sha256="965984b59908d3c5e0997a40bdcaebd71f18b02c9dfd9d54ceeb7c185d544053"/>
 	</game>
 	<game name="Mathematik und Deutsch 1.-4. Klasse 2013 (Germany)" id="6424">
 		<category>Games</category>
@@ -13316,7 +13316,7 @@
 	<game name="Picture Puzzle Collection (Europe) (En,Fr,De,Es,It,Nl)" id="5414">
 		<category>Games</category>
 		<description>Picture Puzzle Collection (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Picture Puzzle Collection (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="882008eb" md5="26aeb89561870931de1e3bff32f78ae9" sha1="4bdbbf7294e26a0b792a92b1503f67cd697c8f7c"/>
+		<rom name="Picture Puzzle Collection (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="882008eb" md5="26aeb89561870931de1e3bff32f78ae9" sha1="4bdbbf7294e26a0b792a92b1503f67cd697c8f7c" sha256="bb619337968133eb3788615d3039acc313f23e12deeb1e0aae332023caa3627c"/>
 	</game>
 	<game name="Pig Tails (USA) (Auto Demo)" id="z680">
 		<category>Demos</category>
@@ -13361,7 +13361,7 @@
 	<game name="Pippi Longstocking (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi)" id="6047">
 		<category>Games</category>
 		<description>Pippi Longstocking (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi)</description>
-		<rom name="Pippi Longstocking (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi).nds" size="67108864" crc="8fde95c6" md5="e4f21959e84003ca3d8e32d731a6ab4f" sha1="e80202111ac800e390d36c958820b30843a040c3"/>
+		<rom name="Pippi Longstocking (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi).nds" size="67108864" crc="8fde95c6" md5="e4f21959e84003ca3d8e32d731a6ab4f" sha1="e80202111ac800e390d36c958820b30843a040c3" sha256="9af0727448be14aaf7baa174863a6d0f9c21f97a84d6b8e4438894374146e385"/>
 	</game>
 	<game name="Pirates (USA) (En,Fr,De,Es,Nl)" id="4713">
 		<category>Games</category>

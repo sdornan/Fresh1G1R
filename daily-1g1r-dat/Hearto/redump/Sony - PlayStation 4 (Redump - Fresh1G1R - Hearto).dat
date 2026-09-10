@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,867) (-y) [-aAbBcefkmMoprv] (2026-09-09 04-27-25) (Retool)</description>
-		<version>2026-09-09 04-27-25</version>
-		<date>2026-09-09 07-22-45</date>
+		<description>Sony - PlayStation 4 (1,868) (-y) [-aAbBcefkmMoprv] (2026-09-10 03-07-25) (Retool)</description>
+		<version>2026-09-10 03-07-25</version>
+		<date>2026-09-10 07-19-26</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -6240,6 +6240,11 @@
 		<category>Demos</category>
 		<description>PS4 IDU - 2016 Summer Refresh - GameStop (USA)</description>
 		<rom name="PS4 IDU - 2016 Summer Refresh - GameStop (USA).iso" size="40971384832" crc="a43b8044" md5="1fef1d743ba901d27c44b2fa19a1afe5" sha1="32a04442ed41b26e66f71bb50067660a6c3cc988"/>
+	</game>
+	<game name="PS4 IDU - 2016 Winter Refresh - Best Buy (USA)" id="138123">
+		<category>Demos</category>
+		<description>PS4 IDU - 2016 Winter Refresh - Best Buy (USA)</description>
+		<rom name="PS4 IDU - 2016 Winter Refresh - Best Buy (USA).iso" size="39894867968" crc="9df58317" md5="724e07905fde8b5d37b7a7a2c39427a7" sha1="e29d966d199201447723c464d39e992e5115916f"/>
 	</game>
 	<game name="PS4 IDU - 2016 Winter Refresh - GameStop (USA)" id="62073">
 		<category>Demos</category>

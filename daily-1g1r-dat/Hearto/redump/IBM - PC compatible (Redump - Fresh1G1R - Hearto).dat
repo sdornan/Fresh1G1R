@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,137) (-y) [-aAbBcefkmMoprv] (2026-09-09 06-27-25) (Retool)</description>
-		<version>2026-09-09 06-27-25</version>
-		<date>2026-09-09 07-19-29</date>
+		<description>IBM - PC compatible (26,148) (-y) [-aAbBcefkmMoprv] (2026-09-10 01-37-25) (Retool)</description>
+		<version>2026-09-10 01-37-25</version>
+		<date>2026-09-10 07-16-12</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3077,6 +3077,12 @@
 		<description>A320 Airbus - Edition USA (Germany)</description>
 		<rom name="A320 Airbus - Edition USA (Germany).bin" size="32060112" crc="853dbc1e" md5="dd0dab7a0e7f132abbae40460dcf02af" sha1="e30f2208d66980a9faea862dacca3d45a6bc48b7"/>
 		<rom name="A320 Airbus - Edition USA (Germany).cue" size="124" crc="99a80d28" md5="1e7bc1c19fa39fa80dc926e87f718c26" sha1="e6744023af294381837b9b05567251261d738494"/>
+	</game>
+	<game name="A380 Airbus - The Special Edition (Europe)" id="138110">
+		<category>Add-Ons</category>
+		<description>A380 Airbus - The Special Edition (Europe)</description>
+		<rom name="A380 Airbus - The Special Edition (Europe).bin" size="424354896" crc="836e3296" md5="707e8a2ae9fecc5b44174de0a896d713" sha1="84453809ad9d73d2ca6838d2bf4a3d7b5b9fd52e"/>
+		<rom name="A380 Airbus - The Special Edition (Europe).cue" size="108" crc="4091c801" md5="3533be17ceb74248a8682820d5a4d260" sha1="6e17bd0dd194fbc64a6fa4183a517245abdb9f27"/>
 	</game>
 	<game name="A400 Airlifter (UK)" id="122571">
 		<category>Add-Ons</category>
@@ -39703,10 +39709,10 @@
 		<description>Dirt 2 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Dirt 2 (Europe) (En,Fr,De,Es,It).iso" size="7332888576" crc="05ae70fd" md5="4e54295095cd60cfa5046b1e9b80f675" sha1="d5732861de09582d6c8dfb2ab1254dea54dc9f1e"/>
 	</game>
-	<game name="Dirt 3 (Hungary) (En,Fr,De,Es,It)" id="128463">
+	<game name="Dirt 3 (Hungary, Poland) (En,Fr,De,Es,It)" id="128463">
 		<category>Games</category>
-		<description>Dirt 3 (Hungary) (En,Fr,De,Es,It)</description>
-		<rom name="Dirt 3 (Hungary) (En,Fr,De,Es,It).iso" size="7940833280" crc="82add7e0" md5="cc955d65c867af9b030db0d6031ed475" sha1="1aa2127786f910793750814a022adc10bed3f956"/>
+		<description>Dirt 3 (Hungary, Poland) (En,Fr,De,Es,It)</description>
+		<rom name="Dirt 3 (Hungary, Poland) (En,Fr,De,Es,It).iso" size="7940833280" crc="82add7e0" md5="cc955d65c867af9b030db0d6031ed475" sha1="1aa2127786f910793750814a022adc10bed3f956"/>
 	</game>
 	<game name="Dirt Bike Racing (USA)" id="30248">
 		<category>Games</category>
@@ -41433,11 +41439,11 @@
 		<rom name="Disney's Extremt Langbenta Skateboarding (Sweden).bin" size="267815184" crc="b0eae150" md5="a2c3dd0482685ad2ab26befe90e60e5d" sha1="fb9fecb4e32b3943bb1fa4d5299a05690e8d1af7"/>
 		<rom name="Disney's Extremt Langbenta Skateboarding (Sweden).cue" size="115" crc="b2f81d55" md5="05a851dda41ce346039d25e6ee357bc6" sha1="8ebc632df65621bb54b1178730302cab4f6f6e87"/>
 	</game>
-	<game name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA)" id="65557">
+	<game name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA, Europe)" id="65557">
 		<category>Games</category>
-		<description>Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA)</description>
-		<rom name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA).bin" size="73290672" crc="d05b51a8" md5="b5640c18b2a26f036e683975bc7077c1" sha1="f44b04ff177c1a1eb2881f8e2024885045573a9a"/>
-		<rom name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA).cue" size="121" crc="69c30dd5" md5="4196f344d972dc2d7a1c33d1dee551a0" sha1="bb032e8ec97db482c6ed582e9c283182576421f0"/>
+		<description>Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA, Europe)</description>
+		<rom name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA, Europe).bin" size="73290672" crc="d05b51a8" md5="b5640c18b2a26f036e683975bc7077c1" sha1="f44b04ff177c1a1eb2881f8e2024885045573a9a"/>
+		<rom name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA, Europe).cue" size="129" crc="bcb85ff8" md5="6a88371d4dc76ff1d235d00321266c18" sha1="30c5ca3ab4a31485aab2193464c224a624dfa35a"/>
 	</game>
 	<game name="Disney's GameMania! Timon &amp; Pumbaa's Jungle Games (Japan)" id="120861">
 		<category>Games</category>
@@ -52850,6 +52856,12 @@
 		<description>Faery - Legends of Avalon (Spain)</description>
 		<rom name="Faery - Legends of Avalon (Spain).iso" size="935264256" crc="5a54caf8" md5="e13379e930703eb3daaac0b3268ee8f9" sha1="cd49d285c55a9fd2a83026ebba17db9b80d310d5"/>
 	</game>
+	<game name="Fahr-Simulator 2009 (Germany)" id="138112">
+		<category>Games</category>
+		<description>Fahr-Simulator 2009 (Germany)</description>
+		<rom name="Fahr-Simulator 2009 (Germany).bin" size="778768368" crc="66da9dbe" md5="11446b2d461ceea1379545931e636951" sha1="6a2708b654fa0d341650bc2aba70d5ec6e2e0caf"/>
+		<rom name="Fahr-Simulator 2009 (Germany).cue" size="95" crc="e6ae612f" md5="720d06910718d6f6260597eb13810142" sha1="a302e1a5cc4d362dd186a894613b0dfaa8f2f062"/>
+	</game>
 	<game name="Fahrenheit (Europe) (En,Fr,De,Es,It) (Rerelease) (2007-02-20)" id="90583">
 		<category>Games</category>
 		<description>Fahrenheit (Europe) (En,Fr,De,Es,It) (Rerelease) (2007-02-20)</description>
@@ -57606,6 +57618,12 @@
 		<description>Fox Kids Presents eGames Pack 2 (USA)</description>
 		<rom name="Fox Kids Presents eGames Pack 2 (USA).bin" size="409433808" crc="5ea99bc7" md5="00e90622103f6e2d540970a7c7b28bdd" sha1="1b4c50b1139301fd7b1f74c9f89f1148800cc4b7"/>
 		<rom name="Fox Kids Presents eGames Pack 2 (USA).cue" size="103" crc="ef1a4c3e" md5="c1c85ae47317733c6f0faf98d5d41a5d" sha1="00a338a1d8506112c6fc0145f146f62e622f8899"/>
+	</game>
+	<game name="Fox Sports Soccer '99 (USA) (En,Es)" id="138101">
+		<category>Games</category>
+		<description>Fox Sports Soccer '99 (USA) (En,Es)</description>
+		<rom name="Fox Sports Soccer '99 (USA) (En,Es).bin" size="657892032" crc="b031b5cf" md5="8921c3e6379f6c27bbf3da26dbb96d7e" sha1="413342fdffdb4224a743fa26335d6e7b7809147b"/>
+		<rom name="Fox Sports Soccer '99 (USA) (En,Es).cue" size="101" crc="c55dfae2" md5="0ad71685c93855e8c643e57a70fe0a8d" sha1="b4af9f5e5fc1595bedcf693d125d1993cf404118"/>
 	</game>
 	<game name="Fractured Fairy Tales - The Frog Prince (USA)" id="125203">
 		<category>Games</category>
@@ -83218,6 +83236,12 @@
 		<rom name="King Solomon's Word Games (USA).bin" size="119900256" crc="fe39a968" md5="19c386a94c2959d679b6051f1d67f9d8" sha1="e09386f345482f7352154d6aa713c86ec4f9ca58"/>
 		<rom name="King Solomon's Word Games (USA).cue" size="97" crc="00fed005" md5="2ac1b117407e894155f1e607f1e14cb7" sha1="889c06403368b94acf8240c65374fad181a15f5f"/>
 	</game>
+	<game name="King and I, The - Thinking Adventure (USA)" id="138117">
+		<category>Games</category>
+		<description>King and I, The - Thinking Adventure (USA)</description>
+		<rom name="King and I, The - Thinking Adventure (USA).bin" size="189345408" crc="5a06ba3b" md5="11f23c46ccd3724333fef636a9ff8661" sha1="e9c7f60c69cd53aa82af4e377681d79ffa2ad041"/>
+		<rom name="King and I, The - Thinking Adventure (USA).cue" size="108" crc="ddac378e" md5="49818473123e13ac1a7f6047cdd19b9b" sha1="0f6a0af953a5862636b068a6d532b7e6e9831c72"/>
+	</game>
 	<game name="King of Dragon Pass (USA) (Rerelease)" id="70371">
 		<category>Games</category>
 		<description>King of Dragon Pass (USA) (Rerelease)</description>
@@ -88327,6 +88351,18 @@
 		<rom name="Licze z Reksiem (Poland).bin" size="796462464" crc="059d83cb" md5="d1bd2ec7f14d94ad65dc71363b91ff5e" sha1="82bd24a92a7cbe5cd7c45d050966c86d701b6174"/>
 		<rom name="Licze z Reksiem (Poland).cue" size="90" crc="d1bdc9e0" md5="70beb4fac1e183e9556cad1e0b50efcd" sha1="7da9d0ef99da2c0bfc396ecbae9bad5bab6fb054"/>
 	</game>
+	<game name="Lie, The (USA)" id="138118">
+		<category>Games</category>
+		<description>Lie, The (USA)</description>
+		<rom name="Lie, The (USA) (Track 1).bin" size="311207232" crc="594adc4c" md5="ec21014f8d76e412c71c2891ef34a1e7" sha1="79931f2f3f54a23eb1a6b75d828a959ef9f13031"/>
+		<rom name="Lie, The (USA) (Track 2).bin" size="6465648" crc="51b48ed3" md5="a4c3e142860a2770b4861938cc556a5a" sha1="5204acf965338ab3b33068d918b593bb4d437545"/>
+		<rom name="Lie, The (USA) (Track 3).bin" size="11338992" crc="6ea79f34" md5="990ae88c62195fdc9d694556a6e63ac2" sha1="d9bf2485b3423c798265494bd85bec6ef26b73a0"/>
+		<rom name="Lie, The (USA) (Track 4).bin" size="7354704" crc="90bd7ead" md5="2074751f6f2ac326359c493a1a9f0517" sha1="908efb39060e7857ea03ba23c1a3a8bc224c038c"/>
+		<rom name="Lie, The (USA) (Track 5).bin" size="11837616" crc="1f5d7b7e" md5="959b3e833fa29dd5f1b64101ad097e4c" sha1="3736728daf69f6a2ae4b236edf401ae86d870125"/>
+		<rom name="Lie, The (USA) (Track 6).bin" size="10162992" crc="b14fa40b" md5="a8124994e0a1755e55654934babd4f5a" sha1="f6d23f0251b1d9d5cf5163810e7319cb93d4e805"/>
+		<rom name="Lie, The (USA) (Track 7).bin" size="6950160" crc="c2ec59ee" md5="a1f9051198c7ec1090bbfbabe5ce7c96" sha1="4d98940576ed3c370cdc2e64ffb29555d2d1a161"/>
+		<rom name="Lie, The (USA).cue" size="646" crc="ac271d1a" md5="553d1eebe408ec0b06b0efaa32f79c58" sha1="fa6bf51a18fc314fd0e2588484560ba5575628b4"/>
+	</game>
 	<game name="Liesha Qianhang II (China)" id="78767">
 		<category>Games</category>
 		<description>Liesha Qianhang II (China)</description>
@@ -93405,11 +93441,11 @@
 		<rom name="Mah Jong Quest II (USA).bin" size="281793120" crc="1aa2262a" md5="2534eac5b5c7257591c1f01da65e0e66" sha1="34bb1ae6736570ed9c04bc2638c547795521059a"/>
 		<rom name="Mah Jong Quest II (USA).cue" size="89" crc="5b4e4fbe" md5="41725b0b9a002b7bb295c1ebb7926770" sha1="88ff14bca0ea7faefd890301bbe0cfccab2da35a"/>
 	</game>
-	<game name="Mah Jong Quest III (Australia)" id="106080">
+	<game name="Mah Jong Quest III (Europe)" id="138111">
 		<category>Games</category>
-		<description>Mah Jong Quest III (Australia)</description>
-		<rom name="Mah Jong Quest III (Australia).bin" size="111856416" crc="36ec1f9c" md5="2f95a47cbe7ee58d9a3333edf6416a33" sha1="f81b42ea449b9ca7bbbd45f22ec96e45385a01ce"/>
-		<rom name="Mah Jong Quest III (Australia).cue" size="96" crc="452a9266" md5="b7afb5690648d812de73af7a7976ce6a" sha1="5f4aa27fc72c47cacb0dc4da40c566e31a41f4be"/>
+		<description>Mah Jong Quest III (Europe)</description>
+		<rom name="Mah Jong Quest III (Europe).bin" size="221842992" crc="9aba3b14" md5="bfdf1b0aff18e4773f65c0bb1e7bfc58" sha1="35143416b2f343f8498e05fbacfb7c8aeec38ba2"/>
+		<rom name="Mah Jong Quest III (Europe).cue" size="93" crc="2a158b1a" md5="ee3095a48e5bc32f33b9841eb4c670ec" sha1="6d60ab4297ca908e477cfabeacca9ea65bdfa171"/>
 	</game>
 	<game name="Mah Jong Quest III - Balance of Life (USA)" id="108709">
 		<category>Games</category>
@@ -102609,6 +102645,12 @@
 		<rom name="Monarch Monarch (Japan) (Track 14).bin" size="44295216" crc="6c7406c6" md5="d2bb8e860a76800017d66928f936a4cf" sha1="d15929e4f6f917e28a745a49cb3b0bbb31954ef7"/>
 		<rom name="Monarch Monarch (Japan).cue" size="1634" crc="c43f8df3" md5="53e2d230829a6e16867511480db0cb77" sha1="cd0c62dca381115bbe4766d11a822bd2f7b24401"/>
 	</game>
+	<game name="Monde de Narnia, Le - Le Lion, la Sorciere blanche et l'Armoire magique (France) (Demo)" id="138098">
+		<category>Demos</category>
+		<description>Monde de Narnia, Le - Le Lion, la Sorciere blanche et l'Armoire magique (France) (Demo)</description>
+		<rom name="Monde de Narnia, Le - Le Lion, la Sorciere blanche et l'Armoire magique (France) (Demo).bin" size="464120160" crc="e6bfd0c2" md5="6a6a01373520d7f27ee6b4d2d737f2be" sha1="f6ddd41bdd4ed028488e95a87979405dbfe811b5"/>
+		<rom name="Monde de Narnia, Le - Le Lion, la Sorciere blanche et l'Armoire magique (France) (Demo).cue" size="153" crc="5d41c7db" md5="fc8fe4503e6f08f9eb52d9b0b89d0870" sha1="c8ce496df5e4afd136a5a497233d518d81945531"/>
+	</game>
 	<game name="Monde des Pat'amis, Le (France)" id="136566">
 		<category>Games</category>
 		<description>Monde des Pat'amis, Le (France)</description>
@@ -104908,11 +104950,11 @@
 		<rom name="Mumintrollen - Jakten pa trollkarlens rubin (Sweden).bin" size="526829184" crc="5d604d24" md5="5e9265fbeb8f298728b03635b75d221c" sha1="286cedd32401419ea48197eb1b03ced596981b49"/>
 		<rom name="Mumintrollen - Jakten pa trollkarlens rubin (Sweden).cue" size="118" crc="0de51743" md5="3aa77961a806cadc292a4f03231398c9" sha1="2b909851c370a04674ea1c5661fd642ba0252625"/>
 	</game>
-	<game name="Mumintrollen - Pa kryss med Haffsorkestern (Sweden)" id="75356">
+	<game name="Mumintrollen - Pa kryss med Haffsorkestern (Sweden) (Sv,No,Da,Fi)" id="138108">
 		<category>Games</category>
-		<description>Mumintrollen - Pa kryss med Haffsorkestern (Sweden)</description>
-		<rom name="Mumintrollen - Pa kryss med Haffsorkestern (Sweden).bin" size="690441360" crc="2bc8152f" md5="d0542db1591de51e61c3c73808355d3e" sha1="4f5f351b75fd5ecf062c645af8a6939800c4f957"/>
-		<rom name="Mumintrollen - Pa kryss med Haffsorkestern (Sweden).cue" size="117" crc="8bdf9423" md5="d247c2d66969730e0f5f075eb2d5803a" sha1="975272c05b7a269e85e3921a368d91bccc909ed9"/>
+		<description>Mumintrollen - Pa kryss med Haffsorkestern (Sweden) (Sv,No,Da,Fi)</description>
+		<rom name="Mumintrollen - Pa kryss med Haffsorkestern (Sweden) (Sv,No,Da,Fi).bin" size="440680128" crc="6c81e1af" md5="cc593104809d0b1ec4e2e044c1f1a5b7" sha1="eccefd9e6f74efbb5fcf11fdab5347e60469ac3f"/>
+		<rom name="Mumintrollen - Pa kryss med Haffsorkestern (Sweden) (Sv,No,Da,Fi).cue" size="131" crc="4057d811" md5="8d0bfcffd14b438757db46fb6df55641" sha1="6ccfe7c63e0d292be7e39ab9e641f6bec75e9a6e"/>
 	</game>
 	<game name="Mumintrollen - Vinter i Mumindalen (Sweden)" id="114915">
 		<category>Games</category>
@@ -109714,11 +109756,11 @@
 		<rom name="Nickelodeon CatDog - Quest for the Golden Hydrant (USA).bin" size="192040800" crc="63431b6c" md5="8af7e205bc033d918958ff4e94e9503a" sha1="a8045f77890c3265765320f7e265b57188fe9f71"/>
 		<rom name="Nickelodeon CatDog - Quest for the Golden Hydrant (USA).cue" size="121" crc="3a08644b" md5="65695d1197a3359661bbdfc468979bec" sha1="21077463409f46a8634593fae656dbc247e04b93"/>
 	</game>
-	<game name="Nickelodeon Director's Lab (Australia)" id="20776">
+	<game name="Nickelodeon Director's Lab (USA, Australia)" id="20776">
 		<category>Games</category>
-		<description>Nickelodeon Director's Lab (Australia)</description>
-		<rom name="Nickelodeon Director's Lab (Australia).bin" size="224338464" crc="3dbe94d1" md5="d073c5d49d1072a8f7881fbd5f18e01f" sha1="f426d3041073ce7060aac256ff8e3f1586a023ae"/>
-		<rom name="Nickelodeon Director's Lab (Australia).cue" size="104" crc="63eb0502" md5="0cf8825e5373770794488539862235fc" sha1="4bef388e93a1f0928a3c2bd83af8e8057635c453"/>
+		<description>Nickelodeon Director's Lab (USA, Australia)</description>
+		<rom name="Nickelodeon Director's Lab (USA, Australia).bin" size="224338464" crc="3dbe94d1" md5="d073c5d49d1072a8f7881fbd5f18e01f" sha1="f426d3041073ce7060aac256ff8e3f1586a023ae"/>
+		<rom name="Nickelodeon Director's Lab (USA, Australia).cue" size="132" crc="737a797b" md5="d713711c0b9e14258bc58c432d6774a5" sha1="af02db243d81734e008b6243db1e6e436663b3fb"/>
 	</game>
 	<game name="Nickelodeon Jimmy Neutron - Boy Genius (USA)" id="70261">
 		<category>Games</category>
@@ -123439,6 +123481,24 @@
 		<description>ProSieben Mystery - Der vergessene Gott (Germany) (Disc 3)</description>
 		<rom name="ProSieben Mystery - Der vergessene Gott (Germany) (Disc 3).bin" size="727452432" crc="45ffe533" md5="640203d6af991c89e04f951024b8fd0a" sha1="0fd44a3fac822a6cec562343919688b8a624608e"/>
 		<rom name="ProSieben Mystery - Der vergessene Gott (Germany) (Disc 3).cue" size="124" crc="31931a83" md5="14afb30170ed580db39e1839079bef6a" sha1="803572c6ad070961b642c635d1aa5fb67026a174"/>
+	</game>
+	<game name="ProTrain (Germany) (Disc 1)" id="138113">
+		<category>Add-Ons</category>
+		<description>ProTrain (Germany) (Disc 1)</description>
+		<rom name="ProTrain (Germany) (Disc 1).bin" size="477543024" crc="900732f8" md5="506569412eb3fc80375df17bd5cb1f9a" sha1="81469ba5b66da029bbf960d851fc9393eb6d9e27"/>
+		<rom name="ProTrain (Germany) (Disc 1).cue" size="93" crc="7dba0779" md5="46a3399fcdc47877da1614c9b774f8ec" sha1="1070586e9ed519ea841c87ec3432e2baa5ef8e03"/>
+	</game>
+	<game name="ProTrain (Germany) (Disc 2)" id="138114">
+		<category>Add-Ons</category>
+		<description>ProTrain (Germany) (Disc 2)</description>
+		<rom name="ProTrain (Germany) (Disc 2).bin" size="666276912" crc="3d4a4634" md5="0775b06b8080e469521190c1ff055225" sha1="6136ead940b03dd6400fb03baaebf36ddbccc7d6"/>
+		<rom name="ProTrain (Germany) (Disc 2).cue" size="93" crc="7ce721a8" md5="ac9dce8fab46d9e2c485838c07cd3d2b" sha1="b6dc28ef3256af305086cd720075228cc36b505f"/>
+	</game>
+	<game name="ProTrain 2 (Germany)" id="138115">
+		<category>Add-Ons</category>
+		<description>ProTrain 2 (Germany)</description>
+		<rom name="ProTrain 2 (Germany).bin" size="289168992" crc="983ecfbc" md5="82ab4c0d8e4b6ec4a0b759a1c3912bb0" sha1="e928e9896fcb007e6fdff999e939c746cd2444fa"/>
+		<rom name="ProTrain 2 (Germany).cue" size="86" crc="552d349d" md5="a71307b2e8b2337cefccb92fa34e958e" sha1="fbe975289a3360a588f00c58e7bf25d4a3a4708c"/>
 	</game>
 	<game name="ProTrain 3 (Germany)" id="137932">
 		<category>Add-Ons</category>
@@ -137638,6 +137698,12 @@
 		<description>Scudetto 4 - Championship Manager - Stagione 2002-2003 (Italy) (En,It)</description>
 		<rom name="Scudetto 4 - Championship Manager - Stagione 2002-2003 (Italy) (En,It).bin" size="299028576" crc="3e590ed5" md5="d0fb573613879a3823580e850b8370b2" sha1="6e3b184bb0776ce2bc793061e0b047acbdc37701"/>
 		<rom name="Scudetto 4 - Championship Manager - Stagione 2002-2003 (Italy) (En,It).cue" size="136" crc="8c13b99c" md5="d3abba1f1b3fefeb7faf76f6117453e3" sha1="331fc1f813816026b89fa55d093ce5674978048a"/>
+	</game>
+	<game name="Scudetto 97-98 - European Leagues (Italy)" id="138099">
+		<category>Games</category>
+		<description>Scudetto 97-98 - European Leagues (Italy)</description>
+		<rom name="Scudetto 97-98 - European Leagues (Italy).bin" size="104680464" crc="88e9be1f" md5="a74908e78b8318e7d2dcd4619e7ae87f" sha1="4ed5340f452d6b62e9e51a08e65174c97d6ae1ab"/>
+		<rom name="Scudetto 97-98 - European Leagues (Italy).cue" size="107" crc="e7171030" md5="bdb55a5b4be86b6ddb6a440e95fb7568" sha1="7c3a14a116f5a02ad4f7043e3b9af92d7666b86c"/>
 	</game>
 	<game name="Sea Adventure (Canada) (En,Fr) (Rerelease)" id="121402">
 		<category>Games</category>
@@ -164045,6 +164111,12 @@
 		<description>Total Club Manager 2004 (Europe) (En,Fr,De,Es) (Disc 2)</description>
 		<rom name="Total Club Manager 2004 (Europe) (En,Fr,De,Es) (Disc 2).bin" size="601655712" crc="5bf91076" md5="51bad284ac8a54acf40df2480db84ba2" sha1="3e53c724171cc3866f469d6619fdde502ed4d3dd"/>
 		<rom name="Total Club Manager 2004 (Europe) (En,Fr,De,Es) (Disc 2).cue" size="121" crc="c4205177" md5="fbce9ee78da8834baf406f9e046692a0" sha1="fd5671fa0345c6d63c14c5d5b14c0a3667ae28e9"/>
+	</game>
+	<game name="Total Club Manager 2004 (Sweden)" id="138107">
+		<category>Demos</category>
+		<description>Total Club Manager 2004 (Sweden)</description>
+		<rom name="Total Club Manager 2004 (Sweden).bin" size="799075536" crc="12657b5f" md5="173bb915695109da74b1756d8d1c02fd" sha1="f32f22b4a4ce5bd0401806eb42be6264ef2b29cd"/>
+		<rom name="Total Club Manager 2004 (Sweden).cue" size="98" crc="8b7d91aa" md5="304928c963d8415b9cc6fd05ec8e6bf6" sha1="c0a37dbdd5bc5693ade757c5425cd529f376584e"/>
 	</game>
 	<game name="Total Club Manager 2005 (Italy) (Disc 1)" id="101334">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (361) (-y) [-aAbBcefkmMoprv] (20260908-132846) (Retool)</description>
-		<version>20260908-132846</version>
-		<date>2026-09-09 07-26-59</date>
+		<description>Nintendo - Satellaview (363) (-y) [-aAbBcefkmMoprv] (20260909-143303) (Retool)</description>
+		<version>20260909-143303</version>
+		<date>2026-09-10 07-24-18</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -626,50 +626,60 @@
 		<description>Estpolis Denki (Japan)</description>
 		<rom name="Estpolis Denki (Japan).bs" size="1048576" crc="12be0709" md5="4bd95374318351bc6047122cbe4a2ba8" sha1="e2ca50446ead7fed917f2df43a3ea83b17b83e11" sha256="0771ca8293a153e4aa6c4854b959ee1507d2588924ea83a406c9b72f5c9da735"/>
 	</game>
-	<game name="Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (6-30) (SoundLink)" id="0728">
-		<category>Games</category>
-		<description>Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (6-30) (SoundLink)</description>
-		<rom name="Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (6-30) (SoundLink).bs" size="1048576" crc="6e6d087c" md5="272968c6a21f5b558dbcaabe09ae693b" sha1="c65ccf7c0766b8eb9b8d0d2de339021d5217027f" sha256="a22163ddd3d07f01101e885297568d1863db0639e5b1b97fc84dff253dee2089"/>
-	</game>
 	<game name="Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (Premiere) (1997-5-11) (SoundLink)" id="3826">
 		<category>Games</category>
 		<description>Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (Premiere) (1997-5-11) (SoundLink)</description>
 		<rom name="Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (Premiere) (1997-5-11) (SoundLink).bs" size="1048576" crc="6d9a5494" md5="cab0124a09863b2fd7f60e8fc12c5d34" sha1="3e235c057d8dec28f336cad6294bf3f93e1d864e" sha256="d4f4061ee28a69aa4769390aa4720d732e99006e0bc4bce4d6f7ad537fe8b998"/>
 	</game>
-	<game name="Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (7-6) (SoundLink)" id="0729">
+	<game name="Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (Rev 2) (1998-6-29) (SoundLink)" id="3688">
 		<category>Games</category>
-		<description>Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (7-6) (SoundLink)</description>
-		<rom name="Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (7-6) (SoundLink).bs" size="1048576" crc="ff355121" md5="4dbb2cb2da2057586f8d0f06c6ae7315" sha1="964ffe8fdd80f194f076ad066f5c22314a8343b8" sha256="a932b8f1858eca86f8c1042fb183281e465e45b7748fb5fa43d199c1bae0780c"/>
+		<description>Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (Rev 2) (1998-6-29) (SoundLink)</description>
+		<rom name="Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (Rev 2) (1998-6-29) (SoundLink).bs" size="1048576" crc="1eb48f3c" md5="a7e069ba52773a8f6838e64d064d9d37" sha1="84b186da0ac8802428dfbeb56ab47a465cc6fe18" sha256="7c6d825978d12c822eab9b766c9dd090eef39ff9a41156db934dab2fe37738ef"/>
+	</game>
+	<game name="Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (Rev 2) (1998-6-30) (SoundLink)" id="0728">
+		<category>Games</category>
+		<description>Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (Rev 2) (1998-6-30) (SoundLink)</description>
+		<rom name="Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (Rev 2) (1998-6-30) (SoundLink).bs" size="1048576" crc="6e6d087c" md5="272968c6a21f5b558dbcaabe09ae693b" sha1="c65ccf7c0766b8eb9b8d0d2de339021d5217027f" sha256="a22163ddd3d07f01101e885297568d1863db0639e5b1b97fc84dff253dee2089"/>
 	</game>
 	<game name="Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (Premiere) (1997-5-18) (SoundLink)" id="3595">
 		<category>Games</category>
 		<description>Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (Premiere) (1997-5-18) (SoundLink)</description>
 		<rom name="Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (Premiere) (1997-5-18) (SoundLink).bs" size="1048576" crc="59d5e1c5" md5="eded0f4634737a072c1774e649344368" sha1="39882254a57f7c71373bfe92ba80b5fda6874f3d" sha256="0fd33e2f2d4d6492e0214d93c0b878ce5f81385243525848db8ffc6ade2f32cb"/>
 	</game>
-	<game name="Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (2-8) (SoundLink)" id="0731">
+	<game name="Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (Rev 2) (1998-7-6) (SoundLink)" id="0729">
 		<category>Games</category>
-		<description>Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (2-8) (SoundLink)</description>
-		<rom name="Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (2-8) (SoundLink).bs" size="1048576" crc="3250dd13" md5="ca0811ec969841eaba612c2b59b076d8" sha1="c64e0328293058f23027c8c0094c48865f5b7a7f" sha256="76069aecca7369e5ad3e7d4242ce5e81e794c4788409cc09eabe013c2fe29b5e"/>
+		<description>Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (Rev 2) (1998-7-6) (SoundLink)</description>
+		<rom name="Excitebike - Bunbun Mario Battle - Stadium 2 (Japan) (Rev 2) (1998-7-6) (SoundLink).bs" size="1048576" crc="ff355121" md5="4dbb2cb2da2057586f8d0f06c6ae7315" sha1="964ffe8fdd80f194f076ad066f5c22314a8343b8" sha256="a932b8f1858eca86f8c1042fb183281e465e45b7748fb5fa43d199c1bae0780c"/>
 	</game>
 	<game name="Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Premiere) (1997-11-5) (SoundLink)" id="3596">
 		<category>Games</category>
 		<description>Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Premiere) (1997-11-5) (SoundLink)</description>
 		<rom name="Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Premiere) (1997-11-5) (SoundLink).bs" size="1048576" crc="84d46ca9" md5="b72c19c195c7fcf5a2ffb6822bf9948c" sha1="28bf86b4db58b6020e854b6359df9c8b4cd57768" sha256="072e053c3fa74fc954b0b1b6e11bdee7219f6323be97abf869f7da3c11ca9247"/>
 	</game>
-	<game name="Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Rerun) (1-11) (SoundLink)" id="0730">
+	<game name="Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Rev 1) (1998-1-11) (SoundLink)" id="0730">
 		<category>Games</category>
-		<description>Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Rerun) (1-11) (SoundLink)</description>
-		<rom name="Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Rerun) (1-11) (SoundLink).bs" size="1048576" crc="0a4a6d4d" md5="c0759a86b895718634a08ec9dd14cb63" sha1="0950b637edde3e44dbffd4541d368febc21dc6b7" sha256="90d5896d8b4f498d85ce3a68bdeb316892f239a77289bee214b6408c91a45e29"/>
+		<description>Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Rev 1) (1998-1-11) (SoundLink)</description>
+		<rom name="Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Rev 1) (1998-1-11) (SoundLink).bs" size="1048576" crc="0a4a6d4d" md5="c0759a86b895718634a08ec9dd14cb63" sha1="0950b637edde3e44dbffd4541d368febc21dc6b7" sha256="90d5896d8b4f498d85ce3a68bdeb316892f239a77289bee214b6408c91a45e29"/>
 	</game>
-	<game name="Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (2-18) (SoundLink)" id="0732">
+	<game name="Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Rev 2) (1999-2-8) (SoundLink)" id="0731">
 		<category>Games</category>
-		<description>Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (2-18) (SoundLink)</description>
-		<rom name="Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (2-18) (SoundLink).bs" size="1048576" crc="c747fc3b" md5="6c5c2343d96bc234a3d8cd37b37b9515" sha1="deaca5600afa6f2698f688cceab26efb39d58bfc" sha256="d689aacff0aa4b6357ff23de592980b286464be774f6bcdeea7da07d39de00ea"/>
+		<description>Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Rev 2) (1999-2-8) (SoundLink)</description>
+		<rom name="Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (Rev 2) (1999-2-8) (SoundLink).bs" size="1048576" crc="3250dd13" md5="ca0811ec969841eaba612c2b59b076d8" sha1="c64e0328293058f23027c8c0094c48865f5b7a7f" sha256="76069aecca7369e5ad3e7d4242ce5e81e794c4788409cc09eabe013c2fe29b5e"/>
 	</game>
-	<game name="Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rerun) (1-18) (SoundLink)" id="3797">
+	<game name="Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rev 1) (1998-1-18) (SoundLink)" id="3797">
 		<category>Games</category>
-		<description>Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rerun) (1-18) (SoundLink)</description>
-		<rom name="Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rerun) (1-18) (SoundLink).bs" size="1048576" crc="1c528459" md5="d1af6163e840cf74349efdd1e79d2cee" sha1="e47f81bb79377d33f87d004d0a4e89d9a2e6caee" sha256="c19481b76b9c3451e34a2e6fd7d61c323ffb4ffd1201df484edab8146e40c6c8"/>
+		<description>Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rev 1) (1998-1-18) (SoundLink)</description>
+		<rom name="Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rev 1) (1998-1-18) (SoundLink).bs" size="1048576" crc="1c528459" md5="d1af6163e840cf74349efdd1e79d2cee" sha1="e47f81bb79377d33f87d004d0a4e89d9a2e6caee" sha256="c19481b76b9c3451e34a2e6fd7d61c323ffb4ffd1201df484edab8146e40c6c8"/>
+	</game>
+	<game name="Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rev 2) (1999-2-17) (SoundLink)" id="3689">
+		<category>Games</category>
+		<description>Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rev 2) (1999-2-17) (SoundLink)</description>
+		<rom name="Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rev 2) (1999-2-17) (SoundLink).bs" size="1048576" crc="b79e7b7b" md5="ede3c54b15718a469b5c946d81e1b9eb" sha1="b1081fbe23cec8431b35780fe9bd5ba8013e9c9b" sha256="323ca5c8f20d7d57ca1e3f5d78f4921615f7f0cf1efc45112526a2b2a07a7dbd"/>
+	</game>
+	<game name="Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rev 2) (1999-2-18) (SoundLink)" id="0732">
+		<category>Games</category>
+		<description>Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rev 2) (1999-2-18) (SoundLink)</description>
+		<rom name="Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (Rev 2) (1999-2-18) (SoundLink).bs" size="1048576" crc="c747fc3b" md5="6c5c2343d96bc234a3d8cd37b37b9515" sha1="deaca5600afa6f2698f688cceab26efb39d58bfc" sha256="d689aacff0aa4b6357ff23de592980b286464be774f6bcdeea7da07d39de00ea"/>
 	</game>
 	<game name="F-Zero (Japan) (10-30)" id="3849">
 		<category>Games</category>

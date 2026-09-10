@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260907-133513) (Retool)</description>
-		<version>20260907-133513</version>
-		<date>2026-09-09 07-33-45</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260909-230845) (Retool)</description>
+		<version>20260909-230845</version>
+		<date>2026-09-10 07-33-47</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1534,7 +1534,7 @@
 	<game name="Catan (Europe) (En,De)" id="3908">
 		<category>Games</category>
 		<description>Catan (Europe) (En,De)</description>
-		<rom name="Catan (Europe) (En,De).nds" size="16777216" crc="6bfc6439" md5="4c414101cee30b6efa95c02f13bc846c" sha1="4fab9d29d424da45aa5267a115db21c0687e15ec"/>
+		<rom name="Catan (Europe) (En,De).nds" size="16777216" crc="6bfc6439" md5="4c414101cee30b6efa95c02f13bc846c" sha1="4fab9d29d424da45aa5267a115db21c0687e15ec" sha256="b199a03d83609a6a0c70c1bb097e65b7d6134930fb66552d2b779743c1bf7047"/>
 	</game>
 	<game name="Cate West - The Vanishing Files (USA)" id="3289">
 		<category>Games</category>
@@ -4614,7 +4614,7 @@
 	<game name="Jewel Quest Mysteries 2 - Trail of the Midnight Heart (Europe) (En,Fr,De,Nl)" id="5970">
 		<category>Games</category>
 		<description>Jewel Quest Mysteries 2 - Trail of the Midnight Heart (Europe) (En,Fr,De,Nl)</description>
-		<rom name="Jewel Quest Mysteries 2 - Trail of the Midnight Heart (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="580346bc" md5="c7c783abebefeb4634f32b383256811b" sha1="d1df97f674063ed5782e06b30061c81205a69b96"/>
+		<rom name="Jewel Quest Mysteries 2 - Trail of the Midnight Heart (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="580346bc" md5="c7c783abebefeb4634f32b383256811b" sha1="d1df97f674063ed5782e06b30061c81205a69b96" sha256="98e8eda238abb2aa38f2472f26f6b08bb975b31be95c27dfe686207b926cff04"/>
 	</game>
 	<game name="Jewel Time Deluxe (USA) (En,Fr)" id="5875">
 		<category>Games</category>
@@ -5619,7 +5619,7 @@
 	<game name="Mahjong Mysteries - Ancient Athena (Europe) (En,Fr,De,Es,It,Nl)" id="6050">
 		<category>Games</category>
 		<description>Mahjong Mysteries - Ancient Athena (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Mahjong Mysteries - Ancient Athena (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="48e78d76" md5="b768ed053b7d15e495166ffbc2f91d46" sha1="65ff3882d65f9d98aea9bb8a08a2b3b8fc07a999"/>
+		<rom name="Mahjong Mysteries - Ancient Athena (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="48e78d76" md5="b768ed053b7d15e495166ffbc2f91d46" sha1="65ff3882d65f9d98aea9bb8a08a2b3b8fc07a999" sha256="a6e5871c5e03a7f38ef1367e19aab914e3621cf8b94a80cf6069515ab0591f59"/>
 	</game>
 	<game name="Mahjongg DS (Europe) (En,Fr,De,Es,It,Nl)" id="2655">
 		<category>Games</category>
@@ -7439,7 +7439,7 @@
 	<game name="Picture Puzzle Collection (Europe) (En,Fr,De,Es,It,Nl)" id="5414">
 		<category>Games</category>
 		<description>Picture Puzzle Collection (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Picture Puzzle Collection (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="641000cc" md5="724a195bedf17c9e7866165e13349f81" sha1="33b5db2a7a9ff0d2e6c5388936cb5250e45dc559"/>
+		<rom name="Picture Puzzle Collection (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="641000cc" md5="724a195bedf17c9e7866165e13349f81" sha1="33b5db2a7a9ff0d2e6c5388936cb5250e45dc559" sha256="55a50d17078ec9a1a2fb11651072fdf6677f4a11d370e3a81b11b01535a2e5c7"/>
 	</game>
 	<game name="Pillow Pets (USA)" id="6474">
 		<category>Games</category>
@@ -7474,7 +7474,7 @@
 	<game name="Pippi Longstocking (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi)" id="6047">
 		<category>Games</category>
 		<description>Pippi Longstocking (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi)</description>
-		<rom name="Pippi Longstocking (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi).nds" size="67108864" crc="c7f961b6" md5="dfc902c450e4875a53f0c360881e84aa" sha1="61c84be2c434de25abbb68d8887f2e76bc7f64fb"/>
+		<rom name="Pippi Longstocking (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi).nds" size="67108864" crc="c7f961b6" md5="dfc902c450e4875a53f0c360881e84aa" sha1="61c84be2c434de25abbb68d8887f2e76bc7f64fb" sha256="93beb5efd2104873b2f57b75d10d5fd6bfc91305aa2b62ef8903f9487b0dff09"/>
 	</game>
 	<game name="Pirates (USA) (En,Fr,De,Es,Nl)" id="4713">
 		<category>Games</category>

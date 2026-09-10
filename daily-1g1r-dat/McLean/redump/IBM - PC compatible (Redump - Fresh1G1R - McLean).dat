@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,517) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-09 06-27-25) (Retool)</description>
-		<version>2026-09-09 06-27-25</version>
-		<date>2026-09-09 07-29-58</date>
+		<description>IBM - PC compatible (13,520) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-10 01-37-25) (Retool)</description>
+		<version>2026-09-10 01-37-25</version>
+		<date>2026-09-10 07-26-32</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -21317,10 +21317,10 @@
 		<description>Dirt 2 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Dirt 2 (Europe) (En,Fr,De,Es,It).iso" size="7332888576" crc="05ae70fd" md5="4e54295095cd60cfa5046b1e9b80f675" sha1="d5732861de09582d6c8dfb2ab1254dea54dc9f1e"/>
 	</game>
-	<game name="Dirt 3 (Hungary) (En,Fr,De,Es,It)" id="128463">
+	<game name="Dirt 3 (Hungary, Poland) (En,Fr,De,Es,It)" id="128463">
 		<category>Games</category>
-		<description>Dirt 3 (Hungary) (En,Fr,De,Es,It)</description>
-		<rom name="Dirt 3 (Hungary) (En,Fr,De,Es,It).iso" size="7940833280" crc="82add7e0" md5="cc955d65c867af9b030db0d6031ed475" sha1="1aa2127786f910793750814a022adc10bed3f956"/>
+		<description>Dirt 3 (Hungary, Poland) (En,Fr,De,Es,It)</description>
+		<rom name="Dirt 3 (Hungary, Poland) (En,Fr,De,Es,It).iso" size="7940833280" crc="82add7e0" md5="cc955d65c867af9b030db0d6031ed475" sha1="1aa2127786f910793750814a022adc10bed3f956"/>
 	</game>
 	<game name="Dirt Bike Racing (USA)" id="30248">
 		<category>Games</category>
@@ -22018,11 +22018,11 @@
 		<rom name="Disney's Extremely Goofy Skateboarding (USA).bin" size="115278576" crc="a9523357" md5="6e4acd555fc67c80bddff2493d9ba352" sha1="bff56be6f5d78f3dd366fbc2a13067dc9052fe79"/>
 		<rom name="Disney's Extremely Goofy Skateboarding (USA).cue" size="110" crc="05e0534f" md5="1dd58e95363a0019341f6916652ac320" sha1="64557222f54f7849e9b1c15fc6b98a35092d7d23"/>
 	</game>
-	<game name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA)" id="65557">
+	<game name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA, Europe)" id="65557">
 		<category>Games</category>
-		<description>Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA)</description>
-		<rom name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA).bin" size="73290672" crc="d05b51a8" md5="b5640c18b2a26f036e683975bc7077c1" sha1="f44b04ff177c1a1eb2881f8e2024885045573a9a"/>
-		<rom name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA).cue" size="121" crc="69c30dd5" md5="4196f344d972dc2d7a1c33d1dee551a0" sha1="bb032e8ec97db482c6ed582e9c283182576421f0"/>
+		<description>Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA, Europe)</description>
+		<rom name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA, Europe).bin" size="73290672" crc="d05b51a8" md5="b5640c18b2a26f036e683975bc7077c1" sha1="f44b04ff177c1a1eb2881f8e2024885045573a9a"/>
+		<rom name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA, Europe).cue" size="129" crc="bcb85ff8" md5="6a88371d4dc76ff1d235d00321266c18" sha1="30c5ca3ab4a31485aab2193464c224a624dfa35a"/>
 	</game>
 	<game name="Disney's Hercules Action Game (USA)" id="64876">
 		<category>Games</category>
@@ -31356,6 +31356,12 @@
 		<description>Fox Kids Presents eGames Pack 2 (USA)</description>
 		<rom name="Fox Kids Presents eGames Pack 2 (USA).bin" size="409433808" crc="5ea99bc7" md5="00e90622103f6e2d540970a7c7b28bdd" sha1="1b4c50b1139301fd7b1f74c9f89f1148800cc4b7"/>
 		<rom name="Fox Kids Presents eGames Pack 2 (USA).cue" size="103" crc="ef1a4c3e" md5="c1c85ae47317733c6f0faf98d5d41a5d" sha1="00a338a1d8506112c6fc0145f146f62e622f8899"/>
+	</game>
+	<game name="Fox Sports Soccer '99 (USA) (En,Es)" id="138101">
+		<category>Games</category>
+		<description>Fox Sports Soccer '99 (USA) (En,Es)</description>
+		<rom name="Fox Sports Soccer '99 (USA) (En,Es).bin" size="657892032" crc="b031b5cf" md5="8921c3e6379f6c27bbf3da26dbb96d7e" sha1="413342fdffdb4224a743fa26335d6e7b7809147b"/>
+		<rom name="Fox Sports Soccer '99 (USA) (En,Es).cue" size="101" crc="c55dfae2" md5="0ad71685c93855e8c643e57a70fe0a8d" sha1="b4af9f5e5fc1595bedcf693d125d1993cf404118"/>
 	</game>
 	<game name="Fractured Fairy Tales - The Frog Prince (USA)" id="125203">
 		<category>Games</category>
@@ -43974,6 +43980,12 @@
 		<rom name="King Solomon's Word Games (USA).bin" size="119900256" crc="fe39a968" md5="19c386a94c2959d679b6051f1d67f9d8" sha1="e09386f345482f7352154d6aa713c86ec4f9ca58"/>
 		<rom name="King Solomon's Word Games (USA).cue" size="97" crc="00fed005" md5="2ac1b117407e894155f1e607f1e14cb7" sha1="889c06403368b94acf8240c65374fad181a15f5f"/>
 	</game>
+	<game name="King and I, The - Thinking Adventure (USA)" id="138117">
+		<category>Games</category>
+		<description>King and I, The - Thinking Adventure (USA)</description>
+		<rom name="King and I, The - Thinking Adventure (USA).bin" size="189345408" crc="5a06ba3b" md5="11f23c46ccd3724333fef636a9ff8661" sha1="e9c7f60c69cd53aa82af4e377681d79ffa2ad041"/>
+		<rom name="King and I, The - Thinking Adventure (USA).cue" size="108" crc="ddac378e" md5="49818473123e13ac1a7f6047cdd19b9b" sha1="0f6a0af953a5862636b068a6d532b7e6e9831c72"/>
+	</game>
 	<game name="King of Dragon Pass (USA) (Rerelease)" id="70371">
 		<category>Games</category>
 		<description>King of Dragon Pass (USA) (Rerelease)</description>
@@ -46221,6 +46233,18 @@
 		<rom name="Liberation Day (USA) (Track 09).bin" size="35872704" crc="77383728" md5="66f2566d39140b3b793bab5db04a5cd7" sha1="cc114061a7145b38cdc4dc74d2be3336ac414250"/>
 		<rom name="Liberation Day (USA) (Track 10).bin" size="28191072" crc="8fcc17c5" md5="fef72595fc678c84da4dccb949001fd9" sha1="6252184963dcd88576a202aa470d35e48084bf44"/>
 		<rom name="Liberation Day (USA).cue" size="948" crc="5f086b97" md5="71dfbae0e73db8712ec5a9baea037d7b" sha1="f3de52fc79223d124ae73d42ff8e263a5759650b"/>
+	</game>
+	<game name="Lie, The (USA)" id="138118">
+		<category>Games</category>
+		<description>Lie, The (USA)</description>
+		<rom name="Lie, The (USA) (Track 1).bin" size="311207232" crc="594adc4c" md5="ec21014f8d76e412c71c2891ef34a1e7" sha1="79931f2f3f54a23eb1a6b75d828a959ef9f13031"/>
+		<rom name="Lie, The (USA) (Track 2).bin" size="6465648" crc="51b48ed3" md5="a4c3e142860a2770b4861938cc556a5a" sha1="5204acf965338ab3b33068d918b593bb4d437545"/>
+		<rom name="Lie, The (USA) (Track 3).bin" size="11338992" crc="6ea79f34" md5="990ae88c62195fdc9d694556a6e63ac2" sha1="d9bf2485b3423c798265494bd85bec6ef26b73a0"/>
+		<rom name="Lie, The (USA) (Track 4).bin" size="7354704" crc="90bd7ead" md5="2074751f6f2ac326359c493a1a9f0517" sha1="908efb39060e7857ea03ba23c1a3a8bc224c038c"/>
+		<rom name="Lie, The (USA) (Track 5).bin" size="11837616" crc="1f5d7b7e" md5="959b3e833fa29dd5f1b64101ad097e4c" sha1="3736728daf69f6a2ae4b236edf401ae86d870125"/>
+		<rom name="Lie, The (USA) (Track 6).bin" size="10162992" crc="b14fa40b" md5="a8124994e0a1755e55654934babd4f5a" sha1="f6d23f0251b1d9d5cf5163810e7319cb93d4e805"/>
+		<rom name="Lie, The (USA) (Track 7).bin" size="6950160" crc="c2ec59ee" md5="a1f9051198c7ec1090bbfbabe5ce7c96" sha1="4d98940576ed3c370cdc2e64ffb29555d2d1a161"/>
+		<rom name="Lie, The (USA).cue" size="646" crc="ac271d1a" md5="553d1eebe408ec0b06b0efaa32f79c58" sha1="fa6bf51a18fc314fd0e2588484560ba5575628b4"/>
 	</game>
 	<game name="Life Quest &amp; My Tribe (USA)" id="88764">
 		<category>Games</category>
@@ -48849,11 +48873,11 @@
 		<rom name="Mah Jong Quest II (USA).bin" size="281793120" crc="1aa2262a" md5="2534eac5b5c7257591c1f01da65e0e66" sha1="34bb1ae6736570ed9c04bc2638c547795521059a"/>
 		<rom name="Mah Jong Quest II (USA).cue" size="89" crc="5b4e4fbe" md5="41725b0b9a002b7bb295c1ebb7926770" sha1="88ff14bca0ea7faefd890301bbe0cfccab2da35a"/>
 	</game>
-	<game name="Mah Jong Quest III (Australia)" id="106080">
+	<game name="Mah Jong Quest III (Europe)" id="138111">
 		<category>Games</category>
-		<description>Mah Jong Quest III (Australia)</description>
-		<rom name="Mah Jong Quest III (Australia).bin" size="111856416" crc="36ec1f9c" md5="2f95a47cbe7ee58d9a3333edf6416a33" sha1="f81b42ea449b9ca7bbbd45f22ec96e45385a01ce"/>
-		<rom name="Mah Jong Quest III (Australia).cue" size="96" crc="452a9266" md5="b7afb5690648d812de73af7a7976ce6a" sha1="5f4aa27fc72c47cacb0dc4da40c566e31a41f4be"/>
+		<description>Mah Jong Quest III (Europe)</description>
+		<rom name="Mah Jong Quest III (Europe).bin" size="221842992" crc="9aba3b14" md5="bfdf1b0aff18e4773f65c0bb1e7bfc58" sha1="35143416b2f343f8498e05fbacfb7c8aeec38ba2"/>
+		<rom name="Mah Jong Quest III (Europe).cue" size="93" crc="2a158b1a" md5="ee3095a48e5bc32f33b9841eb4c670ec" sha1="6d60ab4297ca908e477cfabeacca9ea65bdfa171"/>
 	</game>
 	<game name="Mah Jong Quest III - Balance of Life (USA)" id="108709">
 		<category>Games</category>
@@ -57669,11 +57693,11 @@
 		<rom name="Nickelodeon CatDog - Quest for the Golden Hydrant (USA).bin" size="192040800" crc="63431b6c" md5="8af7e205bc033d918958ff4e94e9503a" sha1="a8045f77890c3265765320f7e265b57188fe9f71"/>
 		<rom name="Nickelodeon CatDog - Quest for the Golden Hydrant (USA).cue" size="121" crc="3a08644b" md5="65695d1197a3359661bbdfc468979bec" sha1="21077463409f46a8634593fae656dbc247e04b93"/>
 	</game>
-	<game name="Nickelodeon Director's Lab (Australia)" id="20776">
+	<game name="Nickelodeon Director's Lab (USA, Australia)" id="20776">
 		<category>Games</category>
-		<description>Nickelodeon Director's Lab (Australia)</description>
-		<rom name="Nickelodeon Director's Lab (Australia).bin" size="224338464" crc="3dbe94d1" md5="d073c5d49d1072a8f7881fbd5f18e01f" sha1="f426d3041073ce7060aac256ff8e3f1586a023ae"/>
-		<rom name="Nickelodeon Director's Lab (Australia).cue" size="104" crc="63eb0502" md5="0cf8825e5373770794488539862235fc" sha1="4bef388e93a1f0928a3c2bd83af8e8057635c453"/>
+		<description>Nickelodeon Director's Lab (USA, Australia)</description>
+		<rom name="Nickelodeon Director's Lab (USA, Australia).bin" size="224338464" crc="3dbe94d1" md5="d073c5d49d1072a8f7881fbd5f18e01f" sha1="f426d3041073ce7060aac256ff8e3f1586a023ae"/>
+		<rom name="Nickelodeon Director's Lab (USA, Australia).cue" size="132" crc="737a797b" md5="d713711c0b9e14258bc58c432d6774a5" sha1="af02db243d81734e008b6243db1e6e436663b3fb"/>
 	</game>
 	<game name="Nickelodeon Jimmy Neutron - Boy Genius (USA)" id="70261">
 		<category>Games</category>

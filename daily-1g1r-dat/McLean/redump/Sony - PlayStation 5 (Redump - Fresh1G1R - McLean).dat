@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (297) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-08 11-57-28) (Retool)</description>
-		<version>2026-09-08 11-57-28</version>
-		<date>2026-09-09 07-33-11</date>
+		<description>Sony - PlayStation 5 (298) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-09 07-59-02) (Retool)</description>
+		<version>2026-09-09 07-59-02</version>
+		<date>2026-09-10 07-29-44</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1070,6 +1070,11 @@
 		<category>Games</category>
 		<description>Renzo Racer (Europe)</description>
 		<rom name="Renzo Racer (Europe).iso" size="40008351744" crc="b5122649" md5="7ac9b20c374f76c68e1609c9180647eb" sha1="2816215acc77a02a6f1f4705d4d61ff1375195cb"/>
+	</game>
+	<game name="Resident Evil - Requiem (USA)" id="138097">
+		<category>Games</category>
+		<description>Resident Evil - Requiem (USA)</description>
+		<rom name="Resident Evil - Requiem (USA).iso" size="57463472128" crc="2787e3c0" md5="b38b03b01ee804fe05076ed4ff87b3ab" sha1="b6e12f27743ac4cd93ca755dc00042b7f1f1efc4"/>
 	</game>
 	<game name="Resident Evil - Village (USA)" id="101356">
 		<category>Games</category>

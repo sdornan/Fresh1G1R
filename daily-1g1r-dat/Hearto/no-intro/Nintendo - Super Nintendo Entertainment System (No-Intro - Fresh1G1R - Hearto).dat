@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,866) (-y) [-aAbBcefkmMoprv] (20260818-050713) (Retool)</description>
-		<version>20260818-050713</version>
-		<date>2026-09-09 07-27-41</date>
-		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
+		<description>Nintendo - Super Nintendo Entertainment System (1,867) (-y) [-aAbBcefkmMoprv] (20260909-175238) (Retool)</description>
+		<version>20260909-175238</version>
+		<date>2026-09-10 07-24-28</date>
+		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -1734,6 +1734,11 @@
 		<category>Games</category>
 		<description>Drakkhen (USA)</description>
 		<rom name="Drakkhen (USA).sfc" size="1048576" crc="7dae5c2a" md5="dbbf6ea2e52c988a1d519029ae4e731c" sha1="42915d0f261d400ffbdb8ee7e6410b2d2d0a71f4" sha256="74910ce01d19d25cb97a243a51f21c3d522f02fb116682f60440da3292bb14f7"/>
+	</game>
+	<game name="Dream - Land of Giants (Europe) (Proto)" id="4604">
+		<category>Preproduction</category>
+		<description>Dream - Land of Giants (Europe) (Proto)</description>
+		<rom name="Dream - Land of Giants (Europe) (Proto).sfc" size="2097152" crc="058de651" md5="8c0eedf8bd3d59bef20e7ba62d633087" sha1="2675d7afe886f20462337aa1ee3aa5c3135fff3a" sha256="40c08a3c84f46919eb34e5396037d9a942d892ddf7da7882855dc333f7195809"/>
 	</game>
 	<game name="Dream Basketball - Dunk &amp; Hoop (Japan)" id="0665">
 		<category>Games</category>
