@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (805) (-ly) [-aAbBcdDefkmMopPruv] (20260909-175238) (Retool)</description>
-		<version>20260909-175238</version>
-		<date>2026-09-10 07-34-15</date>
+		<description>Nintendo - Super Nintendo Entertainment System (806) (-ly) [-aAbBcdDefkmMopPruv] (20260910-040312) (Retool)</description>
+		<version>20260910-040312</version>
+		<date>2026-09-11 07-32-32</date>
 		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3905,6 +3905,11 @@
 		<category>Games</category>
 		<description>Wizard of Oz, The (USA)</description>
 		<rom name="Wizard of Oz, The (USA).sfc" size="1048576" crc="d5ce2db5" md5="8368318eeab856695f8c49b4c204c64e" sha1="eceeb210a3df9b53697ad25332a72019e875698d" sha256="025dd3047c474d879e69b91a3918add9cdabedf4182e1c1e10e5f0c13a124bf9"/>
+	</game>
+	<game name="Wizardry I-II-III - Story of Llylgamyn (Japan) (En,Ja) (NP)" id="3295">
+		<category>Games</category>
+		<description>Wizardry I-II-III - Story of Llylgamyn (Japan) (En,Ja) (NP)</description>
+		<rom name="Wizardry I-II-III - Story of Llylgamyn (Japan) (En,Ja) (NP).sfc" size="4194304" crc="b8a72553" md5="5987975fb59733089149003c506810af" sha1="6b63c968aec822c0728513c01cd729ffd45dbab7" sha256="cf9284501fd2d1abc4719d2305add92b6cff11e3e98c7b49d21cb78b179e2290"/>
 	</game>
 	<game name="Wizardry V - Heart of the Maelstrom (USA)" id="3296">
 		<category>Games</category>

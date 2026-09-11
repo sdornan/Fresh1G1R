@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Enhanced CD (Retool)</name>
-		<description>Enhanced CD (55) (-y) [-aAbBcdkmMpPuv] (2026-09-02 15-49-02) (Retool)</description>
-		<version>2026-09-02 15-49-02</version>
-		<date>2026-09-10 07-35-23</date>
+		<description>Enhanced CD (56) (-y) [-aAbBcdkmMpPuv] (2026-09-10 13-07-25) (Retool)</description>
+		<version>2026-09-10 13-07-25</version>
+		<date>2026-09-11 07-34-14</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -781,6 +781,30 @@
 		<rom name="Suikoden Tierkreis - Digital Artbook &amp; Soundtrack (USA) (Track 18).bin" size="55770624" crc="6d614e84" md5="c3233ce129865b094ff5618ea740f304" sha1="ecd8ccf7ed8762228e53ceb8fe25ee897730de2e"/>
 		<rom name="Suikoden Tierkreis - Digital Artbook &amp; Soundtrack (USA) (Track 19).bin" size="81522672" crc="d2c00c21" md5="838358c18f525a6f2b9cdbdc7c4df004" sha1="90c4e5518a2e0043a3382ae04abe51f1a656f067"/>
 		<rom name="Suikoden Tierkreis - Digital Artbook &amp; Soundtrack (USA).cue" size="4466" crc="16574dab" md5="81e051403736908b1a195dba178750c8" sha1="5d8961c857f18cee14e9fdc180c77b6dc807fb35"/>
+	</game>
+	<game name="TRC Compilation (Italy)" id="138143">
+		<category>Games</category>
+		<description>TRC Compilation (Italy)</description>
+		<rom name="TRC Compilation (Italy) (Track 01).bin" size="47557440" crc="2c10552e" md5="f847130b9bcd9fec0b778fe458b27111" sha1="ae0a203365d3a70796aaa37985db7b9b3f6299be"/>
+		<rom name="TRC Compilation (Italy) (Track 02).bin" size="47503344" crc="8c81086e" md5="df3399fdabc283128f3968831c99c7be" sha1="6e03df684ae4444bf3e79372ab41019926c9f5fc"/>
+		<rom name="TRC Compilation (Italy) (Track 03).bin" size="37582608" crc="0a6d0a07" md5="b9e7bb372dca3c22e451c60456050d38" sha1="54ea1a0bc89811b56904426859062d449c15d141"/>
+		<rom name="TRC Compilation (Italy) (Track 04).bin" size="59707872" crc="8921010d" md5="fc7305d6b190419e9b11024159fcaef1" sha1="b6b17848abe59b60788ce5e8ae5246f9b09250a0"/>
+		<rom name="TRC Compilation (Italy) (Track 05).bin" size="33673584" crc="f6f769e5" md5="f2d2dc56e34ed9fbdd1ded5d5586a3fc" sha1="89d6c0195766cd1bf7e6ecc0deb5004a2da24808"/>
+		<rom name="TRC Compilation (Italy) (Track 06).bin" size="61394256" crc="8d0e079e" md5="78f764e14de72554637ee66a5aa304f9" sha1="35835bf74c71ea144a29ecca1fec3076de0cfc76"/>
+		<rom name="TRC Compilation (Italy) (Track 07).bin" size="32067168" crc="f5241b10" md5="d4504009cf5dcfdd5c31c411afbc708f" sha1="77cbdcf6d905621c307b019a995f95e1106e478e"/>
+		<rom name="TRC Compilation (Italy) (Track 08).bin" size="45967488" crc="9e91ee33" md5="4b3169d723e7aee22f5205638f037c9d" sha1="fad11f333abf0e0bbc8abe06997c6948d8324699"/>
+		<rom name="TRC Compilation (Italy) (Track 09).bin" size="58331952" crc="1350dcea" md5="45d53301bdc113e3c920600294c9294a" sha1="5f441d528cb0b3b4934f4b181a4bc61cb121e5f1"/>
+		<rom name="TRC Compilation (Italy) (Track 10).bin" size="35223552" crc="1ae547cc" md5="3579b54f67f7358d94a76b47e12d3418" sha1="cfe9ad95d5dc280256058ff5e0a928130c9fc9c8"/>
+		<rom name="TRC Compilation (Italy) (Track 11).bin" size="55596576" crc="f7e4bc00" md5="676e6799d4804bf2ef4f6696f2349c79" sha1="f548fa6603d5cbd36ea1c2a7b20d79d7fdef8f6d"/>
+		<rom name="TRC Compilation (Italy) (Track 12).bin" size="29051904" crc="d255fd8e" md5="1e89f19965600e33286dbb2967e2f493" sha1="d0f04dfb82ab2859a373f058408930be3bbb276e"/>
+		<rom name="TRC Compilation (Italy) (Track 13).bin" size="53442144" crc="dbb88773" md5="ed9b835adf85966a1bf84d8a5493b68a" sha1="84e10a2eb9f30e7f2623bdcf19441c0f2825de1d"/>
+		<rom name="TRC Compilation (Italy) (Track 14).bin" size="43867152" crc="231b0d6f" md5="677fb3079749a361bfce820c9cdae05d" sha1="f0cc75c09332d975b650fcc494815d197a299781"/>
+		<rom name="TRC Compilation (Italy) (Track 15).bin" size="22948464" crc="586ec259" md5="9084159c0e27132b90cf080eb70012f3" sha1="d15a9ab5b6e47b0afb810870aafad48384318a23"/>
+		<rom name="TRC Compilation (Italy) (Track 16).bin" size="33271392" crc="31ea92a3" md5="49d32870bd4bf2746d1b6f0975319674" sha1="1ea5f92a62d87c5e94404bfcbbf6153520a0905f"/>
+		<rom name="TRC Compilation (Italy) (Track 17).bin" size="41225856" crc="e085b389" md5="6790f8187183bf1d548be461e91f415b" sha1="03619b6e31e613df54b5647a72fab05978eb9aa4"/>
+		<rom name="TRC Compilation (Italy) (Track 18).bin" size="36312528" crc="88cb321e" md5="5f17a25b9af5367520e2ab617431b2a3" sha1="5089e45b4e68df6a35c72d7761a41c6b65f9fa46"/>
+		<rom name="TRC Compilation (Italy) (Track 19).bin" size="12571440" crc="6028b3ad" md5="36a6d0316e0d543b91838b394c6b51e1" sha1="68d6e4c21e16dbbb75227ba04271e4bb0ca66b3d"/>
+		<rom name="TRC Compilation (Italy).cue" size="1842" crc="9c33dfd9" md5="91063e873e536d211704c4507616b56d" sha1="42b1d98e5f2e590632b2eb32d9fe3cd970f1c732"/>
 	</game>
 	<game name="Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan)" id="125929">
 		<category>Bonus Discs</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,520) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-10 01-37-25) (Retool)</description>
-		<version>2026-09-10 01-37-25</version>
-		<date>2026-09-10 07-26-32</date>
+		<description>IBM - PC compatible (13,525) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-11 01-47-25) (Retool)</description>
+		<version>2026-09-11 01-47-25</version>
+		<date>2026-09-11 07-25-12</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -21555,6 +21555,18 @@
 		<description>Disney - Pixar Buzz Lightyear of Star Command (USA, Australia)</description>
 		<rom name="Disney - Pixar Buzz Lightyear of Star Command (USA, Australia).bin" size="646802352" crc="e78e7c87" md5="4d66a4b7f4691f2aa9621264e3b2d6e7" sha1="b469f28011cba6b2c01cb17f5e1bb9a9d61619a6"/>
 		<rom name="Disney - Pixar Buzz Lightyear of Star Command (USA, Australia).cue" size="143" crc="0f2b11a1" md5="8a57316da30daddfa575375723fe6e73" sha1="e33afae0cbb10c7091d50f8750701a4830f6df17"/>
+	</game>
+	<game name="Disney - Pixar Cars (UK) (Disc 1)" id="138137">
+		<category>Games</category>
+		<description>Disney - Pixar Cars (UK) (Disc 1)</description>
+		<rom name="Disney - Pixar Cars (UK) (Disc 1).bin" size="818632416" crc="689fc556" md5="97260b341b36dab870ea4e62b75165d6" sha1="fb4830717f7d805e2b7c477130faddf8fe6baeeb"/>
+		<rom name="Disney - Pixar Cars (UK) (Disc 1).cue" size="99" crc="482c14c7" md5="b124a6c23972b97ca5eade0d1e425367" sha1="74e60040e7e2ec7abd58b6c7b589ca329ec0c3c6"/>
+	</game>
+	<game name="Disney - Pixar Cars (UK) (Disc 2)" id="138138">
+		<category>Games</category>
+		<description>Disney - Pixar Cars (UK) (Disc 2)</description>
+		<rom name="Disney - Pixar Cars (UK) (Disc 2).bin" size="604499280" crc="c0b9d606" md5="6e55cd2993da8b6b940f1901ce0c9273" sha1="9ea3a3e866e2897e7abc9d07c2f026a0e9ee4dc3"/>
+		<rom name="Disney - Pixar Cars (UK) (Disc 2).cue" size="99" crc="49713216" md5="3eee3237c9fdb244eda698fa59b4125a" sha1="9a858defe3a958de7693a5567f2b991e38498394"/>
 	</game>
 	<game name="Disney - Pixar Cars - Radiator Springs Adventures (USA)" id="59848">
 		<category>Games</category>
@@ -65514,6 +65526,28 @@
 		<rom name="Racing Pack (Germany) (Track 13).bin" size="26267136" crc="b3f0e94a" md5="794e4dcec268093a187bf692788cf0be" sha1="2af22c2aa6deb9e1e89fb9dde4d4ea9c83c385e1"/>
 		<rom name="Racing Pack (Germany).cue" size="1513" crc="ef9f5c36" md5="27f70ada9b7860efc234547d969cbd5b" sha1="711ccbe2b24020191b4a50905bc85f6de5ef4bb2"/>
 	</game>
+	<game name="Racing Simulation 1 (Sweden) (En,Fr,De)" id="138159">
+		<category>Games</category>
+		<description>Racing Simulation 1 (Sweden) (En,Fr,De)</description>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 01).bin" size="473963280" crc="16fcabc2" md5="fe4bff8e15d47dd4c272eca2e7cf70ee" sha1="a85951617357c68862fd565a3f725a9efab09105"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 02).bin" size="3339840" crc="80bcad76" md5="470ba25d52f7026d634598e920f042ff" sha1="9a764ce31e7dccea30665b1f8ae9aa04cd3d96d0"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 03).bin" size="3163440" crc="aa1b350b" md5="be14958c3f04d1248e2ae174bf8585c1" sha1="778fb88306490dd71283833f0b4706913666bd8e"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 04).bin" size="2657760" crc="c27a7537" md5="fa16d827b46ad36c1a1fa5dcd7c4579e" sha1="9313bbf8ce6c0a2ec19ddd07cf58b30633a51aed"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 05).bin" size="2695392" crc="0f1ae6f3" md5="580839daab54647421b0fb9f66a4160b" sha1="56614ea111c72708d478f13b754080b49638ba87"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 06).bin" size="3135216" crc="aef44e04" md5="09840ab1907c6098259cb8c7bf6bd3e6" sha1="5902594279683ca1b3a7634dba1d819ad3d02190"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 07).bin" size="3069360" crc="d59c052b" md5="9270720b4dc985f8dcf98018ae4d7a80" sha1="ae75e3ff138500e2b46211404ab5ef20b81ce24f"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 08).bin" size="3125808" crc="9c90784d" md5="b68b85151bdf0f50f7d074d14109c964" sha1="5dee649e0bac85c28ab812f439ef57f3a98ce844"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 09).bin" size="3168144" crc="a0f8277f" md5="540567bc49d89ab75c8274551cd6863a" sha1="85869de002b47d23dd64b375a189ca771710f442"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 10).bin" size="2975280" crc="cb1c1545" md5="209cb8bd0f58ef54d64a01c3af7ea429" sha1="c1f64a07495062805fc3a0c5d4c4803cf9c0dbf4"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 11).bin" size="3734976" crc="2426011e" md5="b3b7d821257ea2f35b56e472d0dbcf35" sha1="964300ee4e2bf2eaddec321e6d08a6041d515f95"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 12).bin" size="3455088" crc="79bb32da" md5="cb3d2401430b82626db60ae94bfd2cda" sha1="e73e9acfd2d5c0157d0cdcb3c550c609a1512484"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 13).bin" size="3059952" crc="2a775624" md5="1ee578612f8ea109bfb42c4db5a69a9f" sha1="644cd916bbdce5517a4247825015258c009ef62f"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 14).bin" size="2782416" crc="6075ef03" md5="3d8d9051f406cc066d7b0e4a14c29247" sha1="bbd593faf4e5591b47d49ccbf1f422a4e305f467"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 15).bin" size="3391584" crc="48c5809f" md5="021d18f7266c93ac7921ff845bb87959" sha1="d232c40b5b26d93e06bdc669c7b0fde5fdfb8c65"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 16).bin" size="3405696" crc="6cf2cb63" md5="0c3105c734078bc891731f00d6670b7f" sha1="8f781f36764e2ac01f889ee976b7a47b42df1a25"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 17).bin" size="3436272" crc="10c3688f" md5="69c7f04ec636cd02dfd73c084ae9aaf9" sha1="d9e6bb050d8ca4810a8de6a97126ebf55f7c6001"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De).cue" size="2178" crc="086db5a6" md5="dc0aa5faa87c33830cd58a75c97390ec" sha1="afe7f5baa7cc60508a2d5b37ea01d30863fc56fa"/>
+	</game>
 	<game name="Racing Simulation 2 (Europe) (En,Fr,De,Es,It,Nl)" id="84466">
 		<category>Games</category>
 		<description>Racing Simulation 2 (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -72789,6 +72823,11 @@
 		<description>ShellShock 2 - Blood Trails (USA) (En,Fr,De,Es,It)</description>
 		<rom name="ShellShock 2 - Blood Trails (USA) (En,Fr,De,Es,It).iso" size="4572905472" crc="2d5c21ba" md5="28baa6e2953e0508897cd0e664e0bf5e" sha1="ab8df12a4ce32acf1ed90926dd0685d93a589d0b"/>
 	</game>
+	<game name="ShellShock 2 - Sciezki Krwi (Poland) (En,Pl)" id="138132">
+		<category>Games</category>
+		<description>ShellShock 2 - Sciezki Krwi (Poland) (En,Pl)</description>
+		<rom name="ShellShock 2 - Sciezki Krwi (Poland) (En,Pl).iso" size="3876126720" crc="59aed9a9" md5="b797c022742f5f7beb77ec2d4a9f79f0" sha1="ee64c301cb7ce9fb35ba054972d6759d6efc012c"/>
+	</game>
 	<game name="Shellshock (Europe)" id="59368">
 		<category>Games</category>
 		<description>Shellshock (Europe)</description>
@@ -73516,10 +73555,10 @@
 		<description>Silent Heroes - Elite Troops of WWII (USA)</description>
 		<rom name="Silent Heroes - Elite Troops of WWII (USA).iso" size="1087766528" crc="3fe15bd9" md5="9d08d6c92de5231ecbb99567d7cc5a4f" sha1="6568078ec96cb12deb6cf4d8a0ce3cd0b2b5facc"/>
 	</game>
-	<game name="Silent Hill - Homecoming (Europe, Australia) (En,Fr,De,Es,It)" id="28247">
+	<game name="Silent Hill - Homecoming (Europe, Australia) (En,Fr,De,Es,It)" id="82480">
 		<category>Games</category>
 		<description>Silent Hill - Homecoming (Europe, Australia) (En,Fr,De,Es,It)</description>
-		<rom name="Silent Hill - Homecoming (Europe, Australia) (En,Fr,De,Es,It).iso" size="5414289408" crc="1ac28659" md5="528c789d252fde6e81d3a363217d6add" sha1="bd45bdbda8a320cd5f84e88f0abe72dad752b118"/>
+		<rom name="Silent Hill - Homecoming (Europe, Australia) (En,Fr,De,Es,It).iso" size="5414289408" crc="4345bfad" md5="283ce55ebf27eba0717fb8d171b5c64b" sha1="5f97e965cb51a0797076c67cebfcb1774b88e76d"/>
 	</game>
 	<game name="Silent Hill 2 (USA) (Disc 1)" id="67777">
 		<category>Games</category>
@@ -83528,6 +83567,12 @@
 		<rom name="Tom Clancy's Rainbow Six (Brazil) (Disco 1) (Covermount) (Track 15).bin" size="8034432" crc="5f973e04" md5="7a55e1ffd48bad0d430547519b5179ab" sha1="438c5c5ae74dea800b6389a0aa27bf67287586f5"/>
 		<rom name="Tom Clancy's Rainbow Six (Brazil) (Disco 1) (Covermount) (Track 16).bin" size="6714960" crc="79b9e2b7" md5="fc9182b82d6c3c3f59d6af91495c51e0" sha1="1e32146d4bdaf8085396fa7a33da874562027933"/>
 		<rom name="Tom Clancy's Rainbow Six (Brazil) (Disco 1) (Covermount).cue" size="2421" crc="ef583041" md5="4c459ba5b2fb39bf35e76d71b8f86c0c" sha1="5fe99a8470d01475e45216241c629504de760b7b"/>
+	</game>
+	<game name="Tom Clancy's Rainbow Six (Europe) (Disc 1) (Installation &amp; Game) (Xplosiv)" id="34971">
+		<category>Games</category>
+		<description>Tom Clancy's Rainbow Six (Europe) (Disc 1) (Installation &amp; Game) (Xplosiv)</description>
+		<rom name="Tom Clancy's Rainbow Six (Europe) (Disc 1) (Installation &amp; Game) (Xplosiv).bin" size="479619840" crc="6ea8a551" md5="042bf5254b20b5d977cce83e8fc6c19f" sha1="ae9925501d22212d570a2c11caff15b4f1324066"/>
+		<rom name="Tom Clancy's Rainbow Six (Europe) (Disc 1) (Installation &amp; Game) (Xplosiv).cue" size="140" crc="1b49bcda" md5="f6d80ad9c45a7b6a750143d6f5dfc578" sha1="5d4ebb4e8cca1c11dbe5a2fd68b2c266c3d5707d"/>
 	</game>
 	<game name="Tom Clancy's Rainbow Six (USA) (v1.03)" id="11400">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,148) (-y) [-aAbBcefkmMoprv] (2026-09-10 01-37-25) (Retool)</description>
-		<version>2026-09-10 01-37-25</version>
-		<date>2026-09-10 07-16-12</date>
+		<description>IBM - PC compatible (26,159) (-y) [-aAbBcefkmMoprv] (2026-09-11 01-47-25) (Retool)</description>
+		<version>2026-09-11 01-47-25</version>
+		<date>2026-09-11 07-14-30</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2096,11 +2096,6 @@
 		<rom name="4th Unit Act. 5, The - D-Again (Japan) (Track 17).bin" size="24152688" crc="ede7ccf7" md5="b9e99739ec791d62e708117548d9ebcc" sha1="a40dfe4c430dd3928b42de10d4393af934c60f52"/>
 		<rom name="4th Unit Act. 5, The - D-Again (Japan).cue" size="1898" crc="f5fc2570" md5="772eeadc6f7859841a913d83c73fa282" sha1="c408004676c7a9ebea14c47b2a25c0894231a14e"/>
 	</game>
-	<game name="4x4 - Hummer (Turkey)" id="136050">
-		<category>Games</category>
-		<description>4x4 - Hummer (Turkey)</description>
-		<rom name="4x4 - Hummer (Turkey).iso" size="3023765504" crc="15782a2d" md5="f40fd4753b96ee9d6804ba3fea6fe5da" sha1="6304e2a5faa734bc807e23937843633ce41cbceb"/>
-	</game>
 	<game name="4x4 Challenge (USA)" id="26313">
 		<category>Games</category>
 		<description>4x4 Challenge (USA)</description>
@@ -2133,6 +2128,11 @@
 		<description>4x4 Evo 2 (USA, Europe) (En,Fr,De)</description>
 		<rom name="4x4 Evo 2 (USA, Europe) (En,Fr,De).bin" size="536154864" crc="32c7ffd3" md5="fcbf1c24866432b3e1c0cc2b91ce6984" sha1="b5f1efd969f5ec929fe2a2b3aa73ce3dc0005209"/>
 		<rom name="4x4 Evo 2 (USA, Europe) (En,Fr,De).cue" size="100" crc="50ffc3b3" md5="fd3858928693124fceda022b7c07d80d" sha1="95db0964ae884c1e8d08313f7e2662583fb95fc4"/>
+	</game>
+	<game name="4x4 Hummer (Turkey)" id="136050">
+		<category>Games</category>
+		<description>4x4 Hummer (Turkey)</description>
+		<rom name="4x4 Hummer (Turkey).iso" size="3023765504" crc="15782a2d" md5="f40fd4753b96ee9d6804ba3fea6fe5da" sha1="6304e2a5faa734bc807e23937843633ce41cbceb"/>
 	</game>
 	<game name="5 Free Demos (UK)" id="114605">
 		<category>Demos</category>
@@ -24391,6 +24391,11 @@
 		<description>Call of Juarez - The Cartel (USA) (En,Fr,De,Es,It,Nl,Pl,Ru,Cs)</description>
 		<rom name="Call of Juarez - The Cartel (USA) (En,Fr,De,Es,It,Nl,Pl,Ru,Cs).iso" size="7386693632" crc="f399cbac" md5="426a80f9af40f7b583516d3f0330497d" sha1="5795dd768ecb97dced712ba69a6d95dab420b963"/>
 	</game>
+	<game name="Call of Juarez - Wiezy Krwi (Poland)" id="138146">
+		<category>Games</category>
+		<description>Call of Juarez - Wiezy Krwi (Poland)</description>
+		<rom name="Call of Juarez - Wiezy Krwi (Poland).iso" size="3233087488" crc="cb9e6335" md5="dc3b3b4ada6a6c45d120456bdc27c18d" sha1="8621892d5ac5b209e44d2a4d61e4176da2217ede"/>
+	</game>
 	<game name="Call of Juarez - Wild West Pack (Poland)" id="84812">
 		<category>Games</category>
 		<description>Call of Juarez - Wild West Pack (Poland)</description>
@@ -40193,6 +40198,18 @@
 		<category>Games</category>
 		<description>Disney - Pixar Carros (Portugal)</description>
 		<rom name="Disney - Pixar Carros (Portugal).iso" size="1188626432" crc="cacb065c" md5="208018de989e51fb0480a267ed01d68e" sha1="5bb0c2e2d3cc069a56ef4bf86955cb74036434ab"/>
+	</game>
+	<game name="Disney - Pixar Cars (UK) (Disc 1)" id="138137">
+		<category>Games</category>
+		<description>Disney - Pixar Cars (UK) (Disc 1)</description>
+		<rom name="Disney - Pixar Cars (UK) (Disc 1).bin" size="818632416" crc="689fc556" md5="97260b341b36dab870ea4e62b75165d6" sha1="fb4830717f7d805e2b7c477130faddf8fe6baeeb"/>
+		<rom name="Disney - Pixar Cars (UK) (Disc 1).cue" size="99" crc="482c14c7" md5="b124a6c23972b97ca5eade0d1e425367" sha1="74e60040e7e2ec7abd58b6c7b589ca329ec0c3c6"/>
+	</game>
+	<game name="Disney - Pixar Cars (UK) (Disc 2)" id="138138">
+		<category>Games</category>
+		<description>Disney - Pixar Cars (UK) (Disc 2)</description>
+		<rom name="Disney - Pixar Cars (UK) (Disc 2).bin" size="604499280" crc="c0b9d606" md5="6e55cd2993da8b6b940f1901ce0c9273" sha1="9ea3a3e866e2897e7abc9d07c2f026a0e9ee4dc3"/>
+		<rom name="Disney - Pixar Cars (UK) (Disc 2).cue" size="99" crc="49713216" md5="3eee3237c9fdb244eda698fa59b4125a" sha1="9a858defe3a958de7693a5567f2b991e38498394"/>
 	</game>
 	<game name="Disney - Pixar Cars - Radiator Springs Adventures (USA)" id="59848">
 		<category>Games</category>
@@ -67657,6 +67674,12 @@
 		<category>Games</category>
 		<description>Handball Manager 2009 World Edition (Europe)</description>
 		<rom name="Handball Manager 2009 World Edition (Europe).iso" size="3083894784" crc="f7ebc2ea" md5="559891ae60ed37066f8b87ee92ee458a" sha1="b41f0a890c05a62d01f305dfcc18e16f7b8663be"/>
+	</game>
+	<game name="Handball-Simulator - European Tournament 2010 (Sweden)" id="138135">
+		<category>Games</category>
+		<description>Handball-Simulator - European Tournament 2010 (Sweden)</description>
+		<rom name="Handball-Simulator - European Tournament 2010 (Sweden).bin" size="758138976" crc="5e6d4c2e" md5="514b72f7244ef91111a5b7ef77f51ec8" sha1="ed6e9c53cd6ddf8ddbc35fcbe3822ca898abed86"/>
+		<rom name="Handball-Simulator - European Tournament 2010 (Sweden).cue" size="120" crc="54b8e4eb" md5="5fb142d82adac0d622762086b01333b7" sha1="210d94de1194121431aea57b884be021bbd04dcd"/>
 	</game>
 	<game name="Handful of Missions (USA)" id="26002">
 		<category>Add-Ons</category>
@@ -104737,10 +104760,10 @@
 		<rom name="Mozaika zhelanij 2 (Russia).bin" size="576992640" crc="aa13de95" md5="0d924f426a9e95e99a4bef29fa52923c" sha1="6b2178ba63a6533a9813898219bd6d29217baa62"/>
 		<rom name="Mozaika zhelanij 2 (Russia).cue" size="93" crc="61557fec" md5="fc0f79a3e7f551be522e0b85eb4f2e53" sha1="4868b91be20d96f4b766441cc4e308fdc76f8869"/>
 	</game>
-	<game name="Mozart - Le Dernier Secret (France)" id="137768">
+	<game name="Mozart - Le dernier secret (France)" id="137768">
 		<category>Games</category>
-		<description>Mozart - Le Dernier Secret (France)</description>
-		<rom name="Mozart - Le Dernier Secret (France).iso" size="4621893632" crc="2f79ab1c" md5="fb3b3c2223c45fc3264c7021c95a06bc" sha1="30861696a812009a05d4bb2931b571dad18b6841"/>
+		<description>Mozart - Le dernier secret (France)</description>
+		<rom name="Mozart - Le dernier secret (France).iso" size="4621893632" crc="2f79ab1c" md5="fb3b3c2223c45fc3264c7021c95a06bc" sha1="30861696a812009a05d4bb2931b571dad18b6841"/>
 	</game>
 	<game name="Mr. Bounce Presents - Demolition (Europe) (En,Fr)" id="27830">
 		<category>Games</category>
@@ -126082,6 +126105,28 @@
 		<rom name="Racing Pack (Germany) (Track 13).bin" size="26267136" crc="b3f0e94a" md5="794e4dcec268093a187bf692788cf0be" sha1="2af22c2aa6deb9e1e89fb9dde4d4ea9c83c385e1"/>
 		<rom name="Racing Pack (Germany).cue" size="1513" crc="ef9f5c36" md5="27f70ada9b7860efc234547d969cbd5b" sha1="711ccbe2b24020191b4a50905bc85f6de5ef4bb2"/>
 	</game>
+	<game name="Racing Simulation 1 (Sweden) (En,Fr,De)" id="138159">
+		<category>Games</category>
+		<description>Racing Simulation 1 (Sweden) (En,Fr,De)</description>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 01).bin" size="473963280" crc="16fcabc2" md5="fe4bff8e15d47dd4c272eca2e7cf70ee" sha1="a85951617357c68862fd565a3f725a9efab09105"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 02).bin" size="3339840" crc="80bcad76" md5="470ba25d52f7026d634598e920f042ff" sha1="9a764ce31e7dccea30665b1f8ae9aa04cd3d96d0"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 03).bin" size="3163440" crc="aa1b350b" md5="be14958c3f04d1248e2ae174bf8585c1" sha1="778fb88306490dd71283833f0b4706913666bd8e"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 04).bin" size="2657760" crc="c27a7537" md5="fa16d827b46ad36c1a1fa5dcd7c4579e" sha1="9313bbf8ce6c0a2ec19ddd07cf58b30633a51aed"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 05).bin" size="2695392" crc="0f1ae6f3" md5="580839daab54647421b0fb9f66a4160b" sha1="56614ea111c72708d478f13b754080b49638ba87"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 06).bin" size="3135216" crc="aef44e04" md5="09840ab1907c6098259cb8c7bf6bd3e6" sha1="5902594279683ca1b3a7634dba1d819ad3d02190"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 07).bin" size="3069360" crc="d59c052b" md5="9270720b4dc985f8dcf98018ae4d7a80" sha1="ae75e3ff138500e2b46211404ab5ef20b81ce24f"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 08).bin" size="3125808" crc="9c90784d" md5="b68b85151bdf0f50f7d074d14109c964" sha1="5dee649e0bac85c28ab812f439ef57f3a98ce844"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 09).bin" size="3168144" crc="a0f8277f" md5="540567bc49d89ab75c8274551cd6863a" sha1="85869de002b47d23dd64b375a189ca771710f442"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 10).bin" size="2975280" crc="cb1c1545" md5="209cb8bd0f58ef54d64a01c3af7ea429" sha1="c1f64a07495062805fc3a0c5d4c4803cf9c0dbf4"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 11).bin" size="3734976" crc="2426011e" md5="b3b7d821257ea2f35b56e472d0dbcf35" sha1="964300ee4e2bf2eaddec321e6d08a6041d515f95"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 12).bin" size="3455088" crc="79bb32da" md5="cb3d2401430b82626db60ae94bfd2cda" sha1="e73e9acfd2d5c0157d0cdcb3c550c609a1512484"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 13).bin" size="3059952" crc="2a775624" md5="1ee578612f8ea109bfb42c4db5a69a9f" sha1="644cd916bbdce5517a4247825015258c009ef62f"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 14).bin" size="2782416" crc="6075ef03" md5="3d8d9051f406cc066d7b0e4a14c29247" sha1="bbd593faf4e5591b47d49ccbf1f422a4e305f467"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 15).bin" size="3391584" crc="48c5809f" md5="021d18f7266c93ac7921ff845bb87959" sha1="d232c40b5b26d93e06bdc669c7b0fde5fdfb8c65"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 16).bin" size="3405696" crc="6cf2cb63" md5="0c3105c734078bc891731f00d6670b7f" sha1="8f781f36764e2ac01f889ee976b7a47b42df1a25"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De) (Track 17).bin" size="3436272" crc="10c3688f" md5="69c7f04ec636cd02dfd73c084ae9aaf9" sha1="d9e6bb050d8ca4810a8de6a97126ebf55f7c6001"/>
+		<rom name="Racing Simulation 1 (Sweden) (En,Fr,De).cue" size="2178" crc="086db5a6" md5="dc0aa5faa87c33830cd58a75c97390ec" sha1="afe7f5baa7cc60508a2d5b37ea01d30863fc56fa"/>
+	</game>
 	<game name="Racing Simulation 2 (Europe) (En,Fr,De,Es,It,Nl)" id="84466">
 		<category>Games</category>
 		<description>Racing Simulation 2 (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -133683,6 +133728,11 @@
 		<description>S.T.A.L.K.E.R. - Call of Pripyat (USA) (En,Fr,De,Es,It)</description>
 		<rom name="S.T.A.L.K.E.R. - Call of Pripyat (USA) (En,Fr,De,Es,It).iso" size="4663574528" crc="0bd71229" md5="aece0ffaff42c14569767618bfbb38e0" sha1="d69c9105a775de0950ebbd5c2f9ce1da979e8453"/>
 	</game>
+	<game name="S.T.A.L.K.E.R. - Cien Czarnobyla (Poland)" id="138154">
+		<category>Games</category>
+		<description>S.T.A.L.K.E.R. - Cien Czarnobyla (Poland)</description>
+		<rom name="S.T.A.L.K.E.R. - Cien Czarnobyla (Poland).iso" size="3257563136" crc="f2025d2f" md5="564204e520a68f40e37b2a6d787b68b7" sha1="4b0f2f28bb328aa83008d82a18e59dae260ec0c3"/>
+	</game>
 	<game name="S.T.A.L.K.E.R. - Clear Sky (USA) (En,Fr)" id="13457">
 		<category>Games</category>
 		<description>S.T.A.L.K.E.R. - Clear Sky (USA) (En,Fr)</description>
@@ -136813,6 +136863,11 @@
 		<rom name="Scarab (USA) (Track 7).bin" size="21473760" crc="bc52cdd4" md5="343cd74822ba511123e80c2c01dd6cc3" sha1="52289819c5b580a7042c1985cab67cbb435052be"/>
 		<rom name="Scarab (USA) (Track 8).bin" size="26554080" crc="db3b7d35" md5="8151acd2e4efd32afaec078a925ea125" sha1="195d4cf721089d3ec082fcfd0947f683d2607df7"/>
 		<rom name="Scarab (USA).cue" size="715" crc="d952f165" md5="17e7400f12a277b6451fd3a4534df10b" sha1="24dc1c98dbe02ef3bfb03eb0168cefa0b5bed4cb"/>
+	</game>
+	<game name="Scarface - Czlowiek z Blizna (Poland)" id="138155">
+		<category>Games</category>
+		<description>Scarface - Czlowiek z Blizna (Poland)</description>
+		<rom name="Scarface - Czlowiek z Blizna (Poland).iso" size="2940993536" crc="29e6c5c7" md5="f09fced3382db6a7e4ffe6b5897de17b" sha1="672613760bfeb6ae2f12acfc415c9cafcdd21884"/>
 	</game>
 	<game name="Scarface - The World Is Yours (USA)" id="65879">
 		<category>Games</category>
@@ -140825,6 +140880,11 @@
 		<description>ShellShock 2 - Blood Trails (USA) (En,Fr,De,Es,It)</description>
 		<rom name="ShellShock 2 - Blood Trails (USA) (En,Fr,De,Es,It).iso" size="4572905472" crc="2d5c21ba" md5="28baa6e2953e0508897cd0e664e0bf5e" sha1="ab8df12a4ce32acf1ed90926dd0685d93a589d0b"/>
 	</game>
+	<game name="ShellShock 2 - Sciezki Krwi (Poland) (En,Pl)" id="138132">
+		<category>Games</category>
+		<description>ShellShock 2 - Sciezki Krwi (Poland) (En,Pl)</description>
+		<rom name="ShellShock 2 - Sciezki Krwi (Poland) (En,Pl).iso" size="3876126720" crc="59aed9a9" md5="b797c022742f5f7beb77ec2d4a9f79f0" sha1="ee64c301cb7ce9fb35ba054972d6759d6efc012c"/>
+	</game>
 	<game name="Shellshock (Europe)" id="59368">
 		<category>Games</category>
 		<description>Shellshock (Europe)</description>
@@ -143845,10 +143905,10 @@
 		<description>Silent Heroes - Elite Troops of WWII (USA)</description>
 		<rom name="Silent Heroes - Elite Troops of WWII (USA).iso" size="1087766528" crc="3fe15bd9" md5="9d08d6c92de5231ecbb99567d7cc5a4f" sha1="6568078ec96cb12deb6cf4d8a0ce3cd0b2b5facc"/>
 	</game>
-	<game name="Silent Hill - Homecoming (Europe, Australia) (En,Fr,De,Es,It)" id="28247">
+	<game name="Silent Hill - Homecoming (Europe, Australia) (En,Fr,De,Es,It)" id="82480">
 		<category>Games</category>
 		<description>Silent Hill - Homecoming (Europe, Australia) (En,Fr,De,Es,It)</description>
-		<rom name="Silent Hill - Homecoming (Europe, Australia) (En,Fr,De,Es,It).iso" size="5414289408" crc="1ac28659" md5="528c789d252fde6e81d3a363217d6add" sha1="bd45bdbda8a320cd5f84e88f0abe72dad752b118"/>
+		<rom name="Silent Hill - Homecoming (Europe, Australia) (En,Fr,De,Es,It).iso" size="5414289408" crc="4345bfad" md5="283ce55ebf27eba0717fb8d171b5c64b" sha1="5f97e965cb51a0797076c67cebfcb1774b88e76d"/>
 	</game>
 	<game name="Silent Hill 2 (USA) (Disc 1)" id="67777">
 		<category>Games</category>
@@ -147922,6 +147982,12 @@
 		<description>Solitaire XXL (Germany)</description>
 		<rom name="Solitaire XXL (Germany).bin" size="98238336" crc="b02ae2c3" md5="d417e8e546694461276f18c8508d10cc" sha1="425e6fa17874950e1207ae4f84d46868de31984f"/>
 		<rom name="Solitaire XXL (Germany).cue" size="112" crc="6d69c967" md5="1a47daeea5dd5931910f8c994b94fc12" sha1="334955c4f1f0778e62dbcab343f793d235ecdd6b"/>
+	</game>
+	<game name="Solitari della Tavola Rotonda, I (Italy)" id="138139">
+		<category>Games</category>
+		<description>Solitari della Tavola Rotonda, I (Italy)</description>
+		<rom name="Solitari della Tavola Rotonda, I (Italy).bin" size="66326400" crc="aa98f84e" md5="ce5d1aaa9c1b08b0c3e628169b40cb4e" sha1="a0e9f420762bc20f42da528ab91f9fd22cc8e3ac"/>
+		<rom name="Solitari della Tavola Rotonda, I (Italy).cue" size="106" crc="541d9727" md5="7d4c9a7a4fba1513c636bb8475617edc" sha1="9af20423d644177ae975941994384446a6ca2da0"/>
 	</game>
 	<game name="Solnce Xalkiona (Russia)" id="99489">
 		<category>Games</category>
@@ -162065,6 +162131,12 @@
 		<rom name="Tom Clancy's Rainbow Six (Brazil) (Disco 1) (Covermount) (Track 16).bin" size="6714960" crc="79b9e2b7" md5="fc9182b82d6c3c3f59d6af91495c51e0" sha1="1e32146d4bdaf8085396fa7a33da874562027933"/>
 		<rom name="Tom Clancy's Rainbow Six (Brazil) (Disco 1) (Covermount).cue" size="2421" crc="ef583041" md5="4c459ba5b2fb39bf35e76d71b8f86c0c" sha1="5fe99a8470d01475e45216241c629504de760b7b"/>
 	</game>
+	<game name="Tom Clancy's Rainbow Six (Europe) (Disc 1) (Installation &amp; Game) (Xplosiv)" id="34971">
+		<category>Games</category>
+		<description>Tom Clancy's Rainbow Six (Europe) (Disc 1) (Installation &amp; Game) (Xplosiv)</description>
+		<rom name="Tom Clancy's Rainbow Six (Europe) (Disc 1) (Installation &amp; Game) (Xplosiv).bin" size="479619840" crc="6ea8a551" md5="042bf5254b20b5d977cce83e8fc6c19f" sha1="ae9925501d22212d570a2c11caff15b4f1324066"/>
+		<rom name="Tom Clancy's Rainbow Six (Europe) (Disc 1) (Installation &amp; Game) (Xplosiv).cue" size="140" crc="1b49bcda" md5="f6d80ad9c45a7b6a750143d6f5dfc578" sha1="5d4ebb4e8cca1c11dbe5a2fd68b2c266c3d5707d"/>
+	</game>
 	<game name="Tom Clancy's Rainbow Six (USA) (v1.03)" id="11400">
 		<category>Games</category>
 		<description>Tom Clancy's Rainbow Six (USA) (v1.03)</description>
@@ -162312,6 +162384,27 @@
 		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Brazil) (En,Fr,De) (Disco 2) (Covermount) (Track 15).bin" size="8034432" crc="5f973e04" md5="7a55e1ffd48bad0d430547519b5179ab" sha1="438c5c5ae74dea800b6389a0aa27bf67287586f5"/>
 		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Brazil) (En,Fr,De) (Disco 2) (Covermount) (Track 16).bin" size="6714960" crc="79b9e2b7" md5="fc9182b82d6c3c3f59d6af91495c51e0" sha1="1e32146d4bdaf8085396fa7a33da874562027933"/>
 		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Brazil) (En,Fr,De) (Disco 2) (Covermount).cue" size="3029" crc="acc4b2ef" md5="e5cd71c2637f9cbf8bd4d2ea7e19a18b" sha1="a58ad1e9db0c5445d8907a85969fedda9ea14a7b"/>
+	</game>
+	<game name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv)" id="34975">
+		<category>Add-Ons</category>
+		<description>Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv)</description>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 01).bin" size="500764320" crc="5b25902f" md5="4c6e4407527622c47d94d24c732d4e94" sha1="803fa78f4aed3d5bfe5e424d0715313c0a808dcf"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 02).bin" size="16727424" crc="4cb73665" md5="d0052a572285d9f964eb42ec701f04b2" sha1="62cf20eda1e01202f04818e11cae9b4b04784596"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 03).bin" size="4638144" crc="7ec94b0b" md5="ea5447467bfbde662ada206867f8cd60" sha1="dafb8ff2947c7e4531b8fc165403ef7bc4726bb0"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 04).bin" size="5404896" crc="c0eb008d" md5="faf8f2d460e98d8955a6dae3caa7ba3c" sha1="2cf950a43b07498bcb4612d1107c3a0805b5a321"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 05).bin" size="6199872" crc="1e645c37" md5="b7a4ffacc12907950db117501606756a" sha1="26d762dd3f8246e1d4e78b8faa6a03a1dc844719"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 06).bin" size="5383728" crc="0a9ff63a" md5="78977695c0d9fb3dc9efe96c81a291d2" sha1="4f855facde558ac45d45110b80dfdbbc216ae34b"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 07).bin" size="23945712" crc="49843afd" md5="cb7141c34bf00ba3960ebde44a592091" sha1="1d595d64b2548b3e6b5757ca0669c8608a783a84"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 08).bin" size="23211888" crc="f24f8ade" md5="2cf22a28fba4a93ce6209969dc2dfba6" sha1="54faa5bb9896a1ce8b1706a480f36858ad1dc017"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 09).bin" size="21539616" crc="d4980768" md5="a7db41d969daee53bee129497a7841f0" sha1="1ac6ab96ae454d373833800818e7efadc1e07eb1"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 10).bin" size="24314976" crc="68d9c0b8" md5="3ba0f4e144d95a4466d697c629045fc0" sha1="2fe1e83c44aefa1130fa0492bdf4c455fdf7c5d1"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 11).bin" size="25467456" crc="92deabb3" md5="c1bddda937ad9d63d3af9e1dfc6b067c" sha1="e6b09ad554588c6b0b9981fb6db567344365d1b2"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 12).bin" size="5832960" crc="f763087a" md5="8f2fdf9615496c2d57d2e0a7bdda4a57" sha1="9dc788c99b2294e1e2bc916b30d5226e183359a1"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 13).bin" size="3838464" crc="7b56a84e" md5="3c50b12d536feb5ab72b2e2d87deadf3" sha1="7dbac32960255d56bc3b3d53b9f4417cb32270b2"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 14).bin" size="4887456" crc="e652d386" md5="7859cc9b068c980eb30302442478bf0e" sha1="772d83d367967c57caa1e26dc3ed922aa3168222"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 15).bin" size="7305312" crc="b677d84c" md5="ca32bb73468365affb0cff9cb306bc0a" sha1="b39ea4cf887349319b7019fa222d4c93d70e8915"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv) (Track 16).bin" size="6703200" crc="5b03835e" md5="21179b28ac2b7eccd79304f1f13a14b4" sha1="49f78b98508db172fa3e2f7712def08dfa5d2558"/>
+		<rom name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Europe) (En,Fr,De) (Disc 2) (Mission Pack) (Xplosiv).cue" size="2860" crc="8b3b2180" md5="e0b60223570f90d722e296e5733e7b86" sha1="a38d1a74d76b77a410ee9638a1c7ecb54b93eba6"/>
 	</game>
 	<game name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (USA)" id="11397">
 		<category>Add-Ons</category>

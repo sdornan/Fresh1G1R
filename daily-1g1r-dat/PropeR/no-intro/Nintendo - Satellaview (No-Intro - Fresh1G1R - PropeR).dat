@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (343) (-y) [-aAbBcdkmMpPuv] (20260909-143303) (Retool)</description>
-		<version>20260909-143303</version>
-		<date>2026-09-10 07-44-36</date>
+		<description>Nintendo - Satellaview (348) (-y) [-aAbBcdkmMpPuv] (20260910-141939) (Retool)</description>
+		<version>20260910-141939</version>
+		<date>2026-09-11 07-41-02</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -46,25 +46,35 @@
 		<description>BS Dragon Quest I (Japan) (Rev 2) (SoundLink)</description>
 		<rom name="BS Dragon Quest I (Japan) (Rev 2) (SoundLink).bs" size="1048576" crc="4a5593d8" md5="cd9169ae35246def5ac06a7b7014df5a" sha1="ced98291413694471a82f3d0ccac4e1946ab2a55" sha256="dc8847302f249fc7caaa45a96989712fa3a58d19b807fa5af0f4f6da49161ea7"/>
 	</game>
-	<game name="BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (11-3) (SoundLink)" id="0310">
+	<game name="BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (1998-11-1) (SoundLink)" id="3687">
 		<category>Games</category>
-		<description>BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (11-3) (SoundLink)</description>
-		<rom name="BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (11-3) (SoundLink).bs" size="1048576" crc="83034d82" md5="f3cda6f47165db1e1f7f23c4f983e80a" sha1="d8940f36d2a8f8a12154ca9ca7575217477c0c9e" sha256="2c429068e4cfc7e2d6597ce71cd851dd367399dfa47120372542fe5ed7ba19e1"/>
+		<description>BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (1998-11-1) (SoundLink)</description>
+		<rom name="BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (1998-11-1) (SoundLink).bs" size="1048576" crc="64a67ad5" md5="3627ac63b0df2fe15a39b9a966b26af1" sha1="253364935d543714d8cd6e769b0395abf7c5f41d" sha256="be050a98820c1f6d1031e557372af3bc2dc6f36a077ac81564b39f7ea58f822e"/>
 	</game>
-	<game name="BS F-Zero Grand Prix - Dai-2-shuu - Queen League (Japan) (SoundLink)" id="0311">
+	<game name="BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (1998-11-3) (SoundLink)" id="0310">
 		<category>Games</category>
-		<description>BS F-Zero Grand Prix - Dai-2-shuu - Queen League (Japan) (SoundLink)</description>
-		<rom name="BS F-Zero Grand Prix - Dai-2-shuu - Queen League (Japan) (SoundLink).bs" size="1048576" crc="d81b85d7" md5="e767a6a198fcc265b80915fb8c6011ba" sha1="2201a4bbc06f7880267aab2a05bfc41032394b46" sha256="325f5a3b2c3e2c4c1d1b882213ff31899c154028b38624784077a1796b479a75"/>
+		<description>BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (1998-11-3) (SoundLink)</description>
+		<rom name="BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (1998-11-3) (SoundLink).bs" size="1048576" crc="83034d82" md5="f3cda6f47165db1e1f7f23c4f983e80a" sha1="d8940f36d2a8f8a12154ca9ca7575217477c0c9e" sha256="2c429068e4cfc7e2d6597ce71cd851dd367399dfa47120372542fe5ed7ba19e1"/>
 	</game>
-	<game name="BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (11-19) (SoundLink)" id="0309">
+	<game name="BS F-Zero Grand Prix - Dai-2-shuu - Queen League (Japan) (1998-11-8) (SoundLink)" id="0311">
 		<category>Games</category>
-		<description>BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (11-19) (SoundLink)</description>
-		<rom name="BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (11-19) (SoundLink).bs" size="1048576" crc="8fcc8355" md5="aa61f7b072173b05a4efb81116d665c1" sha1="7177d26581c4e23814cdb05a2867bde723a72e6a" sha256="81562709e0144bc73f7c3515d2dc8506b0e23c9236ab59dc36b8be5149aaf6e8"/>
+		<description>BS F-Zero Grand Prix - Dai-2-shuu - Queen League (Japan) (1998-11-8) (SoundLink)</description>
+		<rom name="BS F-Zero Grand Prix - Dai-2-shuu - Queen League (Japan) (1998-11-8) (SoundLink).bs" size="1048576" crc="d81b85d7" md5="e767a6a198fcc265b80915fb8c6011ba" sha1="2201a4bbc06f7880267aab2a05bfc41032394b46" sha256="325f5a3b2c3e2c4c1d1b882213ff31899c154028b38624784077a1796b479a75"/>
 	</game>
-	<game name="BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (11-25) (SoundLink)" id="0308">
+	<game name="BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (1997-3-20) (SoundLink)" id="3844">
 		<category>Games</category>
-		<description>BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (11-25) (SoundLink)</description>
-		<rom name="BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (11-25) (SoundLink).bs" size="1048576" crc="7442ad93" md5="a6971afd9854a4bb9b7eeb2e0e454e75" sha1="a7e2b57b13b86093d94ae5f09ec618177171d919" sha256="caa268f995fe70270853f6021b24fef0ea93767521d886f9913e9bbaee702f52"/>
+		<description>BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (1997-3-20) (SoundLink)</description>
+		<rom name="BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (1997-3-20) (SoundLink).bs" size="1048576" crc="43338739" md5="1950e995113972b235504a5cd27abd74" sha1="f9c9287d6f882708e4b43b9c29ab41357d33585c" sha256="b9f5b15cb2abda0233c1534295ee7a5997d25310a17ce88acfe308e7469ea848"/>
+	</game>
+	<game name="BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (1998-11-19) (SoundLink)" id="0309">
+		<category>Games</category>
+		<description>BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (1998-11-19) (SoundLink)</description>
+		<rom name="BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (1998-11-19) (SoundLink).bs" size="1048576" crc="8fcc8355" md5="aa61f7b072173b05a4efb81116d665c1" sha1="7177d26581c4e23814cdb05a2867bde723a72e6a" sha256="81562709e0144bc73f7c3515d2dc8506b0e23c9236ab59dc36b8be5149aaf6e8"/>
+	</game>
+	<game name="BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (1998-11-25) (SoundLink)" id="0308">
+		<category>Games</category>
+		<description>BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (1998-11-25) (SoundLink)</description>
+		<rom name="BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (1998-11-25) (SoundLink).bs" size="1048576" crc="7442ad93" md5="a6971afd9854a4bb9b7eeb2e0e454e75" sha1="a7e2b57b13b86093d94ae5f09ec618177171d919" sha256="caa268f995fe70270853f6021b24fef0ea93767521d886f9913e9bbaee702f52"/>
 	</game>
 	<game name="BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (Premiere) (1997-1-19) (SoundLink)" id="3825">
 		<category>Games</category>
@@ -441,6 +451,11 @@
 		<category>Games</category>
 		<description>Bounty Sword - Satellaview Special Time Attack Version (Japan)</description>
 		<rom name="Bounty Sword - Satellaview Special Time Attack Version (Japan).bs" size="1048576" crc="588e828f" md5="d286964f93371fe1f264444a79c3f1c2" sha1="f3975e723b02f74c1a2259b746c681d4d8050985" sha256="caa93797897b831e73abdd2d48d30af35b4105b2cc0f172d39aa829308bfde13"/>
+	</game>
+	<game name="Cameltry (Japan)" id="3993">
+		<category>Games</category>
+		<description>Cameltry (Japan)</description>
+		<rom name="Cameltry (Japan).bs" size="1048576" crc="3e770643" md5="6e839bfe9069f998087b748a72ede300" sha1="fe34aa7ac2ac5ce978ef1d19333ac926a079cb01" sha256="8f6387c0b1ab8f5aba1dc8ce1383cac322d59e0aee2718df57ea10ba12f23fa5"/>
 	</game>
 	<game name="Chaos Seed BS Ban (Japan) (1996-3-11)" id="3734">
 		<category>Games</category>
@@ -1081,10 +1096,10 @@
 		<description>Ryouma de Yuku - Graphics (Japan) (Data Pack)</description>
 		<rom name="Ryouma de Yuku - Graphics (Japan) (Data Pack).bs" size="1048576" crc="3e3dc383" md5="edf4577ef852850ca1b086748c61feca" sha1="bc87d6189ec30a4375c9d631f709ff4ffc1cb995" sha256="6289c83832d3bc74812113c355bcc21850d16dc88a0df45126bde846400aa705"/>
 	</game>
-	<game name="Ryouma de Yuku - Kanaderu Score (5-7) + Yusuke Akamatsu Theater (5-7) (Japan) (Data, SoundLink Magazine)" id="3694">
-		<category>Games</category>
-		<description>Ryouma de Yuku - Kanaderu Score (5-7) + Yusuke Akamatsu Theater (5-7) (Japan) (Data, SoundLink Magazine)</description>
-		<rom name="Ryouma de Yuku - Kanaderu Score (5-7) + Yusuke Akamatsu Theater (5-7) (Japan) (Data, SoundLink Magazine).bs" size="1048576" crc="41047583" md5="00bc5f17a65dc60e8a02f966d1456d02" sha1="c1075404a05f3a4eaee137b16b48af5e3a5998b4" sha256="6bb5f7457d59b4bf26e1bab9923738434b8f3693b830c928108fcf310575136a"/>
+	<game name="Ryouma de Yuku - Kanaderu Score (5-7) + Yusuke Akamatsu Theater (1996-5-7) (Japan) (Data, SoundLink Magazine)" id="3694">
+		<category>Magazines</category>
+		<description>Ryouma de Yuku - Kanaderu Score (5-7) + Yusuke Akamatsu Theater (1996-5-7) (Japan) (Data, SoundLink Magazine)</description>
+		<rom name="Ryouma de Yuku - Kanaderu Score (5-7) + Yusuke Akamatsu Theater (1996-5-7) (Japan) (Data, SoundLink Magazine).bs" size="1048576" crc="41047583" md5="00bc5f17a65dc60e8a02f966d1456d02" sha1="c1075404a05f3a4eaee137b16b48af5e3a5998b4" sha256="6bb5f7457d59b4bf26e1bab9923738434b8f3693b830c928108fcf310575136a"/>
 	</game>
 	<game name="Ryouma de Yuku - Kanaderu Score (6-30) + Ryouma de Yuku - Kanaderu Score (8-4) (Japan) (Data Pack)" id="3671">
 		<category>Add-Ons</category>
@@ -1347,6 +1362,11 @@
 		<category>Games</category>
 		<description>Super Mahjong Taikai (Japan) (5-27)</description>
 		<rom name="Super Mahjong Taikai (Japan) (5-27).bs" size="1048576" crc="881a70fd" md5="6a2f02a0ce635f05dc27c6891fe30332" sha1="0816e71285c4c14ae7f985a4fadbade911d88893" sha256="7b4dc7c2c56cc034dcd98c1a02fe67388c6d9f928615c904cbe620c5674ffe3a"/>
+	</game>
+	<game name="Super Momotarou Dentetsu II (Japan)" id="3994">
+		<category>Games</category>
+		<description>Super Momotarou Dentetsu II (Japan)</description>
+		<rom name="Super Momotarou Dentetsu II (Japan).bs" size="1048576" crc="c15f835f" md5="e96b5f105786bd8fb0a99c0e1d6db34f" sha1="30fc6fd215875be3919a76d68010860f352682ea" sha256="e7085cf77a856a54e400739a9e2c13c14758bd9636022cfff50bbb77c140047c"/>
 	</game>
 	<game name="Super Nazo Puyo - Rulue no Roux (Japan) (10-20)" id="3852">
 		<category>Games</category>
@@ -1675,10 +1695,15 @@
 		<description>Yuki no Jigsaw Kids (1995-5-6) (Japan) (Rerun) (5-10)</description>
 		<rom name="Yuki no Jigsaw Kids (1995-5-6) (Japan) (Rerun) (5-10).bs" size="1048576" crc="f0aa7ae6" md5="809127d5db75a413afc7c7db9c4c42be" sha1="34d663c23ecb408dc761936450869356dc2ea168" sha256="f534b6d445f10ba9a814af4f3040a4c21451a1db8f55138336ad4ff25cd8150a"/>
 	</game>
-	<game name="Yusuke Akamatsu Theater (Japan) (5-7) (SoundLink Magazine)" id="3693">
+	<game name="Yusuke Akamatsu Theater (Japan) (1996-4-1) (SoundLink Magazine)" id="3996">
 		<category>Magazines</category>
-		<description>Yusuke Akamatsu Theater (Japan) (5-7) (SoundLink Magazine)</description>
-		<rom name="Yusuke Akamatsu Theater (Japan) (5-7) (SoundLink Magazine).bs" size="524288" crc="2533e4a4" md5="5f455d6e56f78f1f752c464b255db886" sha1="a74fe703303f30fd55a5759f99ffb927bbd339f2" sha256="2e7c2134b89545038d7d1ae4c9966340f9500431539b4859d1282a8336200efe"/>
+		<description>Yusuke Akamatsu Theater (Japan) (1996-4-1) (SoundLink Magazine)</description>
+		<rom name="Yusuke Akamatsu Theater (Japan) (1996-4-1) (SoundLink Magazine).bs" size="1048576" crc="10f8f3b8" md5="6c6597a48ce7a868ecec0591890de937" sha1="52d198a84a11e4e31142412ec7bcab391aca661e" sha256="4d18034492cf525b304a06e18f2ed4109122652f1ddaec4d99794c98f052dcc0"/>
+	</game>
+	<game name="Yusuke Akamatsu Theater (Japan) (1996-5-7) (SoundLink Magazine)" id="3693">
+		<category>Magazines</category>
+		<description>Yusuke Akamatsu Theater (Japan) (1996-5-7) (SoundLink Magazine)</description>
+		<rom name="Yusuke Akamatsu Theater (Japan) (1996-5-7) (SoundLink Magazine).bs" size="524288" crc="2533e4a4" md5="5f455d6e56f78f1f752c464b255db886" sha1="a74fe703303f30fd55a5759f99ffb927bbd339f2" sha256="2e7c2134b89545038d7d1ae4c9966340f9500431539b4859d1282a8336200efe"/>
 	</game>
 	<game name="Yuuki Nae no GE-MU no Tsubo (1996-12-22) + Konae-chan no Dokidoki Penguin Kazoku (1996-12-22) (Japan) (SoundLink Magazine, Game)" id="3697">
 		<category>Games</category>

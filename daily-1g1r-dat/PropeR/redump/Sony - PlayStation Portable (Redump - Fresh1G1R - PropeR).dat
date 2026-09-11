@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,826) (-y) [-aAbBcdkmMpPuv] (2026-09-08 10-59-04) (Retool)</description>
-		<version>2026-09-08 10-59-04</version>
-		<date>2026-09-10 07-39-48</date>
+		<description>Sony - PlayStation Portable (1,830) (-y) [-aAbBcdkmMpPuv] (2026-09-11 01-48-58) (Retool)</description>
+		<version>2026-09-11 01-48-58</version>
+		<date>2026-09-11 07-38-45</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -4651,6 +4651,16 @@
 		<description>Maru Goukaku Shikaku Dasshu! Shouken Gaimuin Shiken Portable (Japan)</description>
 		<rom name="Maru Goukaku Shikaku Dasshu! Shouken Gaimuin Shiken Portable (Japan).iso" size="165478400" crc="8ea6a969" md5="42e11b58afb6df6c3fba5211e25edb77" sha1="38491a8f25ffd3c2f71da7fc240c90afe4f32bc7"/>
 	</game>
+	<game name="Maru Goukaku Shikaku Dasshu! TOEIC Test Portable (Japan)" id="138163">
+		<category>Educational</category>
+		<description>Maru Goukaku Shikaku Dasshu! TOEIC Test Portable (Japan)</description>
+		<rom name="Maru Goukaku Shikaku Dasshu! TOEIC Test Portable (Japan).iso" size="392658944" crc="b328b3ce" md5="643d3ce786d20be93605888d343c6847" sha1="e2461850e639fe4c602fc1289cc9118b26499bbc"/>
+	</game>
+	<game name="Maru Goukaku Shikaku Dasshu! Takken Shiken Portable (Japan)" id="138165">
+		<category>Educational</category>
+		<description>Maru Goukaku Shikaku Dasshu! Takken Shiken Portable (Japan)</description>
+		<rom name="Maru Goukaku Shikaku Dasshu! Takken Shiken Portable (Japan).iso" size="152272896" crc="af7497fb" md5="2ee5c005a3ec7cccd01ce3887d84b351" sha1="32e5c58f7a6610ec2653416b0cec965b0dd83dd4"/>
+	</game>
 	<game name="Marvel - Ultimate Alliance (USA) (v2.00)" id="30584">
 		<category>Games</category>
 		<description>Marvel - Ultimate Alliance (USA) (v2.00)</description>
@@ -6580,6 +6590,16 @@
 		<category>Games</category>
 		<description>Saigo no Yakusoku no Monogatari (Japan)</description>
 		<rom name="Saigo no Yakusoku no Monogatari (Japan).iso" size="394330112" crc="09ab0a2b" md5="aa03b6361d836f873e971f45c7e5dd40" sha1="b59877c6e9766cb0425f096e78b0d6301d709996"/>
+	</game>
+	<game name="Saikyou Shogi Bonanza (Japan)" id="138168">
+		<category>Games</category>
+		<description>Saikyou Shogi Bonanza (Japan)</description>
+		<rom name="Saikyou Shogi Bonanza (Japan).iso" size="160497664" crc="ecc4dd0f" md5="34075e4545655736217036a2698d5c01" sha1="4dba7dfee8451db00c3a78e3c8a83d6939001278"/>
+	</game>
+	<game name="Saikyou Toudai Shogi Deluxe (Japan)" id="138169">
+		<category>Games</category>
+		<description>Saikyou Toudai Shogi Deluxe (Japan)</description>
+		<rom name="Saikyou Toudai Shogi Deluxe (Japan).iso" size="275087360" crc="8d628dae" md5="345b70c12ca5c7c022ed52dd76173216" sha1="49b015a5cfa99adc5f2bc44271181f1a8de3474e"/>
 	</game>
 	<game name="Saikyou Toudai Shougi Portable (Japan)" id="128076">
 		<category>Games</category>

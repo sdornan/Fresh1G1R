@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,881) (-y) [-aAbBcefkmMoprv] (2026-09-08 10-59-04) (Retool)</description>
-		<version>2026-09-08 10-59-04</version>
-		<date>2026-09-10 07-19-35</date>
+		<description>Sony - PlayStation Portable (1,883) (-y) [-aAbBcefkmMoprv] (2026-09-11 01-48-58) (Retool)</description>
+		<version>2026-09-11 01-48-58</version>
+		<date>2026-09-11 07-18-01</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -6830,6 +6830,16 @@
 		<category>Games</category>
 		<description>Saigo no Yakusoku no Monogatari (Japan)</description>
 		<rom name="Saigo no Yakusoku no Monogatari (Japan).iso" size="394330112" crc="09ab0a2b" md5="aa03b6361d836f873e971f45c7e5dd40" sha1="b59877c6e9766cb0425f096e78b0d6301d709996"/>
+	</game>
+	<game name="Saikyou Shogi Bonanza (Japan)" id="138168">
+		<category>Games</category>
+		<description>Saikyou Shogi Bonanza (Japan)</description>
+		<rom name="Saikyou Shogi Bonanza (Japan).iso" size="160497664" crc="ecc4dd0f" md5="34075e4545655736217036a2698d5c01" sha1="4dba7dfee8451db00c3a78e3c8a83d6939001278"/>
+	</game>
+	<game name="Saikyou Toudai Shogi Deluxe (Japan)" id="138169">
+		<category>Games</category>
+		<description>Saikyou Toudai Shogi Deluxe (Japan)</description>
+		<rom name="Saikyou Toudai Shogi Deluxe (Japan).iso" size="275087360" crc="8d628dae" md5="345b70c12ca5c7c022ed52dd76173216" sha1="49b015a5cfa99adc5f2bc44271181f1a8de3474e"/>
 	</game>
 	<game name="Saikyou Toudai Shougi Portable (Japan)" id="128076">
 		<category>Games</category>
