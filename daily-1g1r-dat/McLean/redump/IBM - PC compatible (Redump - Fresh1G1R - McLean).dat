@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,525) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-11 01-47-25) (Retool)</description>
-		<version>2026-09-11 01-47-25</version>
-		<date>2026-09-11 07-25-12</date>
+		<description>IBM - PC compatible (13,523) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-12 02-01-27) (Retool)</description>
+		<version>2026-09-12 02-01-27</version>
+		<date>2026-09-12 07-18-32</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -58737,18 +58737,6 @@
 		<rom name="Okano Software Classics - Volume 2 (Europe).bin" size="7695744" crc="799ca0bf" md5="da36540540dbd0323db475df2648d76b" sha1="6579d99d579892c1dd6c9349b1c1875e2467a3fa"/>
 		<rom name="Okano Software Classics - Volume 2 (Europe).cue" size="109" crc="26eb2109" md5="f2584649a0d0c9207b037641baf79f96" sha1="53859f1246e1e2e6a9edab06a36e2872f1d6ba35"/>
 	</game>
-	<game name="Old Master Q Monopoly (Asia) (Disc 1)" id="136247">
-		<category>Games</category>
-		<description>Old Master Q Monopoly (Asia) (Disc 1)</description>
-		<rom name="Old Master Q Monopoly (Asia) (Disc 1).bin" size="323649312" crc="32be5819" md5="54950cf022b8b72d1c53160f9b7a2176" sha1="45fa3fadccec22c669edc93fb205e704490551c5"/>
-		<rom name="Old Master Q Monopoly (Asia) (Disc 1).cue" size="103" crc="a7fd53af" md5="9f5365895c752e79ab7c4b2f6e07d716" sha1="791e12c018deadafe5eab6c8cec769fa08fcc8f4"/>
-	</game>
-	<game name="Old Master Q Monopoly (Asia) (Disc 2)" id="136248">
-		<category>Games</category>
-		<description>Old Master Q Monopoly (Asia) (Disc 2)</description>
-		<rom name="Old Master Q Monopoly (Asia) (Disc 2).bin" size="530140800" crc="bd438789" md5="e137deb28a629adec186aabf39766e06" sha1="36d1beb1363dda602a78abf2fa6731e945d87f89"/>
-		<rom name="Old Master Q Monopoly (Asia) (Disc 2).cue" size="126" crc="31a1daa5" md5="7c65382828a4051de754edeb3afd4ae9" sha1="ee16cf84e8a3e393d2b3a23860734098c5e40b80"/>
-	</game>
 	<game name="Ollo in the Sunny Valley Fair (Sweden) (En,Sv,No,Da,Fi)" id="120212">
 		<category>Games</category>
 		<description>Ollo in the Sunny Valley Fair (Sweden) (En,Sv,No,Da,Fi)</description>
@@ -71312,18 +71300,6 @@
 		<rom name="Secret of the Nautilus, The (Europe).bin" size="744965424" crc="08f3e099" md5="fdf687ee575c08315acd3b2b691db3d5" sha1="9c676ae7125d2414e06cbfcee317a878472c5128"/>
 		<rom name="Secret of the Nautilus, The (Europe).cue" size="102" crc="c9b8b4bb" md5="ac0bdfb4ee9d28533071e9d66eb0e4db" sha1="1f7a65b687e58150621d5156cbeedb680cc1892a"/>
 	</game>
-	<game name="Secret of the Silver Earring (UK) (Disc 2)" id="92198">
-		<category>Games</category>
-		<description>Secret of the Silver Earring (UK) (Disc 2)</description>
-		<rom name="Secret of the Silver Earring (UK) (Disc 2).bin" size="794721984" crc="c7374e4e" md5="658f534aaa0fdb029d0c9794a06d576b" sha1="3eb1072788fd5e61bad9b87eb23018c72fd38050"/>
-		<rom name="Secret of the Silver Earring (UK) (Disc 2).cue" size="108" crc="b2f42f58" md5="2516e70a6fb8e590eeaddcd172fe1253" sha1="1246713dec97de918e3c3f92875f80feceb6e94d"/>
-	</game>
-	<game name="Secret of the Silver Earring (UK) (Installation Disc)" id="92197">
-		<category>Games</category>
-		<description>Secret of the Silver Earring (UK) (Installation Disc)</description>
-		<rom name="Secret of the Silver Earring (UK) (Installation Disc).bin" size="798273504" crc="8feabd7d" md5="0bb1793d804fb16b1e79747730ee6902" sha1="b8d0959419026876f5ab253bcdaab4972bfdf47a"/>
-		<rom name="Secret of the Silver Earring (UK) (Installation Disc).cue" size="119" crc="0af6b596" md5="757e2e57e7dd607aa3f961e10a55889a" sha1="7b12d290bc21078da5673097c07ea6461444fafa"/>
-	</game>
 	<game name="Secret of the Silver Earring, The (USA) (Disc 1)" id="111027">
 		<category>Games</category>
 		<description>Secret of the Silver Earring, The (USA) (Disc 1)</description>
@@ -72907,6 +72883,18 @@
 		<category>Games</category>
 		<description>Sherlock Holmes - The Awakened - Remastered Edition (UK) (Rerelease) (2010-01-20)</description>
 		<rom name="Sherlock Holmes - The Awakened - Remastered Edition (UK) (Rerelease) (2010-01-20).iso" size="1598095360" crc="7c537a92" md5="830b3e66afaa8ffbbcd32926bd149f70" sha1="b4cf13a86f3dc6d6845e5c8161bfea06332155ab"/>
+	</game>
+	<game name="Sherlock Holmes - The Case of the Silver Earring (Europe) (Disc 2)" id="92198">
+		<category>Games</category>
+		<description>Sherlock Holmes - The Case of the Silver Earring (Europe) (Disc 2)</description>
+		<rom name="Sherlock Holmes - The Case of the Silver Earring (Europe) (Disc 2).bin" size="794721984" crc="c7374e4e" md5="658f534aaa0fdb029d0c9794a06d576b" sha1="3eb1072788fd5e61bad9b87eb23018c72fd38050"/>
+		<rom name="Sherlock Holmes - The Case of the Silver Earring (Europe) (Disc 2).cue" size="132" crc="a6679320" md5="39230ea84ae3bc3083da922a0728c976" sha1="817924f59750fe932585bdad7d7ff7499e996781"/>
+	</game>
+	<game name="Sherlock Holmes - The Case of the Silver Earring (Europe) (Installation Disc)" id="92197">
+		<category>Games</category>
+		<description>Sherlock Holmes - The Case of the Silver Earring (Europe) (Installation Disc)</description>
+		<rom name="Sherlock Holmes - The Case of the Silver Earring (Europe) (Installation Disc).bin" size="798273504" crc="8feabd7d" md5="0bb1793d804fb16b1e79747730ee6902" sha1="b8d0959419026876f5ab253bcdaab4972bfdf47a"/>
+		<rom name="Sherlock Holmes - The Case of the Silver Earring (Europe) (Installation Disc).cue" size="143" crc="d1342cbd" md5="678a9e18396695fe55da1a17e0fb674b" sha1="3a90e3b3400987fc0efc40085f72151900ae3e7b"/>
 	</game>
 	<game name="Sherlock Holmes - The Mystery of the Mummy (Europe)" id="92580">
 		<category>Games</category>

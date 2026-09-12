@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,883) (-y) [-aAbBcefkmMoprv] (2026-09-11 01-48-58) (Retool)</description>
-		<version>2026-09-11 01-48-58</version>
-		<date>2026-09-11 07-18-04</date>
+		<description>Sony - PlayStation Portable (1,883) (-y) [-aAbBcefkmMoprv] (2026-09-11 23-32-37) (Retool)</description>
+		<version>2026-09-11 23-32-37</version>
+		<date>2026-09-12 07-11-21</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -172,19 +172,19 @@
 		<version>1.01</version>
 		<rom name="AKB1-149 - Ren'ai Sousenkyo (Japan) (Game Disc).iso" size="1806827520" crc="ba38d5c9" md5="bef4f3245e3eb70f88824cbf939b4004" sha1="45417f37c43683ec6dde1760d706db7970ecdd88"/>
 	</game>
+	<game name="AKB1-48 - Idol to Guam de Koishitara... (Japan)" id="33141">
+		<category>Games</category>
+		<description>AKB1-48 - Idol to Guam de Koishitara... (Japan)</description>
+		<serial>ULJS 00412, ULJS 00413, ULJS 00414</serial>
+		<version>1.02</version>
+		<rom name="AKB1-48 - Idol to Guam de Koishitara... (Japan).iso" size="1808400384" crc="e77bee97" md5="ae1ff1773ad24183d6c75874746486e1" sha1="10d26042f45020b258c1b1b531ca640cf8cf5ac0"/>
+	</game>
 	<game name="AKB1-48 - Idol to Koishitara... (Japan)" id="33142">
 		<category>Games</category>
 		<description>AKB1-48 - Idol to Koishitara... (Japan)</description>
 		<serial>ULJS 00348, ULJS 00480</serial>
 		<version>1.02</version>
 		<rom name="AKB1-48 - Idol to Koishitara... (Japan).iso" size="1784250368" crc="7c09447d" md5="fbc8c967eef355df0b1e497a6377a857" sha1="c40347f06a43d4468ebb7e1c7d46c4e36cdbd5ee"/>
-	</game>
-	<game name="AKB1-48+10 - Idol to Guam de Koishitara... (Japan)" id="33141">
-		<category>Games</category>
-		<description>AKB1-48+10 - Idol to Guam de Koishitara... (Japan)</description>
-		<serial>ULJS 00412, ULJS 00413, ULJS 00414</serial>
-		<version>1.02</version>
-		<rom name="AKB1-48+10 - Idol to Guam de Koishitara... (Japan).iso" size="1808400384" crc="e77bee97" md5="ae1ff1773ad24183d6c75874746486e1" sha1="10d26042f45020b258c1b1b531ca640cf8cf5ac0"/>
 	</game>
 	<game name="ATV Offroad Fury - Blazin' Trails (USA)" id="9673">
 		<category>Games</category>

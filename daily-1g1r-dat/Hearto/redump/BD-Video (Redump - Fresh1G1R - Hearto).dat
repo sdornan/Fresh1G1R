@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>BD-Video (Retool)</name>
-		<description>BD-Video (23) (-y) [-aAbBcefkmMoprv] (2026-09-10 00-07-25) (Retool)</description>
-		<version>2026-09-10 00-07-25</version>
-		<date>2026-09-11 07-13-20</date>
+		<description>BD-Video (24) (-y) [-aAbBcefkmMoprv] (2026-09-12 01-52-38) (Retool)</description>
+		<version>2026-09-12 01-52-38</version>
+		<date>2026-09-12 07-06-37</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -70,6 +70,11 @@
 		<category>Games</category>
 		<description>Kira-Kira (Japan)</description>
 		<rom name="Kira-Kira (Japan).iso" size="10258612224" crc="6faf08b3" md5="cf4ac743c136a974361c860839765a65" sha1="f984cb65052c02bf43b87f63fe1f7979ada558cd"/>
+	</game>
+	<game name="Little Busters! - Refrain - Nishizono Mio Misshitsu Satsujin Jiken (Japan)" id="138230">
+		<category>Games</category>
+		<description>Little Busters! - Refrain - Nishizono Mio Misshitsu Satsujin Jiken (Japan)</description>
+		<rom name="Little Busters! - Refrain - Nishizono Mio Misshitsu Satsujin Jiken (Japan).iso" size="3948806144" crc="6a571e03" md5="83ea81992d8839a1da6e157186dc6e27" sha1="63494eab25cc1827c4ec0aaaf476e25feb95adcd"/>
 	</game>
 	<game name="Men in Black II (USA) (En,Fr,Es,Pt)" id="111774">
 		<category>Demos</category>
