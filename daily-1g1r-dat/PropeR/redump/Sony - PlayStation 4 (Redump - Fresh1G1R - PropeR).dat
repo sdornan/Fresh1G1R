@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,834) (-y) [-aAbBcdkmMpPuv] (2026-09-11 23-51-19) (Retool)</description>
-		<version>2026-09-11 23-51-19</version>
-		<date>2026-09-12 07-32-08</date>
+		<description>Sony - PlayStation 4 (1,835) (-y) [-aAbBcdkmMpPuv] (2026-09-13 03-01-07) (Retool)</description>
+		<version>2026-09-13 03-01-07</version>
+		<date>2026-09-13 07-50-04</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2440,6 +2440,11 @@
 		<category>Games</category>
 		<description>Dragon Ball Z - Kakarot (USA)</description>
 		<rom name="Dragon Ball Z - Kakarot (USA).iso" size="47962324992" crc="314a176c" md5="9221f9d87d08d564a53219de2cec6b6e" sha1="725a769ec4e655f5b029ee12ff47954f5436eb2d"/>
+	</game>
+	<game name="Dragon Crown Pro (Japan)" id="138265">
+		<category>Games</category>
+		<description>Dragon Crown Pro (Japan)</description>
+		<rom name="Dragon Crown Pro (Japan).iso" size="6385631232" crc="c6d10c84" md5="3b733cadb02a32031075254f2b15be3b" sha1="4db4d55d641cd56ac199a5eb8bbed565c3a4860d"/>
 	</game>
 	<game name="Dragon Fantasy - The Black Tome of Ice - Special Edition (USA)" id="63046">
 		<category>Games</category>
@@ -6901,10 +6906,10 @@
 		<description>Rock of Ages III - Make &amp; Break (Europe)</description>
 		<rom name="Rock of Ages III - Make &amp; Break (Europe).iso" size="4479582208" crc="d0b20a02" md5="ee74ddbe261663a4522822d12caf5e46" sha1="f03e43926d4b9a6e32061a85d508c3e20200a58d"/>
 	</game>
-	<game name="Rocket Arena (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="105266">
+	<game name="Rocket Arena (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="105266">
 		<category>Games</category>
-		<description>Rocket Arena (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
-		<rom name="Rocket Arena (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="9121497088" crc="31a93796" md5="65a7e3c97a8827a312dac8591d5e530c" sha1="41003b81c1e2f1efcedb15d624f430930d5246b2"/>
+		<description>Rocket Arena (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
+		<rom name="Rocket Arena (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="9121497088" crc="31a93796" md5="65a7e3c97a8827a312dac8591d5e530c" sha1="41003b81c1e2f1efcedb15d624f430930d5246b2"/>
 	</game>
 	<game name="Rocket League (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko,Ru) (CUSA-10690)" id="57477">
 		<category>Games</category>

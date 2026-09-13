@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,728) (-y) [-aAbBcdkmMpPuv] (2026-09-12 02-01-27) (Retool)</description>
-		<version>2026-09-12 02-01-27</version>
-		<date>2026-09-12 07-28-43</date>
+		<description>IBM - PC compatible (26,756) (-y) [-aAbBcdkmMpPuv] (2026-09-13 01-51-07) (Retool)</description>
+		<version>2026-09-13 01-51-07</version>
+		<date>2026-09-13 07-46-39</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -19227,10 +19227,10 @@
 		<rom name="Biohazard 3 - Last Escape (Japan).bin" size="571867632" crc="3d27d799" md5="3ae8e3558582f4f4f1c7967467285801" sha1="27edee21f7a4d3bf967618930d34880882b756d9"/>
 		<rom name="Biohazard 3 - Last Escape (Japan).cue" size="99" crc="cc3afcfd" md5="7fcc292073a9d0511f7d0bc6d0cc61c5" sha1="25b04fa43354771ae4c33ec662d3395d4a98ddd3"/>
 	</game>
-	<game name="Biohazard 4 (Asia) (En)" id="134513">
+	<game name="Biohazard 4 (Hong Kong) (En)" id="134513">
 		<category>Games</category>
-		<description>Biohazard 4 (Asia) (En)</description>
-		<rom name="Biohazard 4 (Asia) (En).iso" size="3310649344" crc="1f2cb79b" md5="abc665ac1f8fc07bafb05d72ebb130d3" sha1="c6139752fc53a84f8797806a5010443c92464380"/>
+		<description>Biohazard 4 (Hong Kong) (En)</description>
+		<rom name="Biohazard 4 (Hong Kong) (En).iso" size="3310649344" crc="1f2cb79b" md5="abc665ac1f8fc07bafb05d72ebb130d3" sha1="c6139752fc53a84f8797806a5010443c92464380"/>
 	</game>
 	<game name="Biohazard 5 (Japan) (En,Ja,Fr,De,Es,It,Pl,Ru,Cs)" id="11434">
 		<category>Games</category>
@@ -40879,6 +40879,12 @@
 		<description>Disney - Pixar WALL-E - Der Letzte raumt die Erde auf (Germany)</description>
 		<rom name="Disney - Pixar WALL-E - Der Letzte raumt die Erde auf (Germany).iso" size="3747512320" crc="8e2c0cc7" md5="613d9d0c510bf76d5bfc8b7092a8dc1a" sha1="a6d48f39529eec4d60d88ab99b6c41dea9dba57f"/>
 	</game>
+	<game name="Disney 102 Dalmatas - Juego de Accion (Spain)" id="138262">
+		<category>Games</category>
+		<description>Disney 102 Dalmatas - Juego de Accion (Spain)</description>
+		<rom name="Disney 102 Dalmatas - Juego de Accion (Spain).bin" size="693675360" crc="c42a8445" md5="6c53edc06c743ba6645af01b7be11cbb" sha1="e8602d8d6ee5fe58b0e392767ca0c34aec6b2bf8"/>
+		<rom name="Disney 102 Dalmatas - Juego de Accion (Spain).cue" size="111" crc="85975fdf" md5="d930298e5f7295ad8bf921bab7d63880" sha1="906a0dd31bb596f61c787053ccd05dc969712dd6"/>
+	</game>
 	<game name="Disney 3D Creations (UK)" id="119478">
 		<category>Games</category>
 		<description>Disney 3D Creations (UK)</description>
@@ -44124,21 +44130,21 @@
 		<rom name="Dora Utforskaren - Ryggsacksaventyret (Sweden).bin" size="346402560" crc="62ddfc4f" md5="6fe16b2ca1c1fb90daf8194d88d754e1" sha1="4b6add2cb536faddfc12c0ff71bba46cba109a8f"/>
 		<rom name="Dora Utforskaren - Ryggsacksaventyret (Sweden).cue" size="112" crc="2c28bb93" md5="457246c48e9522be520eb5e61f6d179a" sha1="426abe8ae8229bddaf925a99a526329cea515263"/>
 	</game>
-	<game name="Doraemon Monopoly (Asia)" id="134511">
+	<game name="Doraemon Monopoly (Hong Kong)" id="134511">
 		<category>Games</category>
-		<description>Doraemon Monopoly (Asia)</description>
-		<rom name="Doraemon Monopoly (Asia) (Track 01).bin" size="240520224" crc="906e102f" md5="5e47fa188de96fa113bdc4735d1645a2" sha1="00ec45ae64d983172823e09a9f1ea87dd3134715"/>
-		<rom name="Doraemon Monopoly (Asia) (Track 02).bin" size="59858400" crc="cd028e11" md5="c67b75b19c43b8ce9218eba79128694c" sha1="2c3c5bbe01267429254e32363e2694c22164ccc4"/>
-		<rom name="Doraemon Monopoly (Asia) (Track 03).bin" size="22927296" crc="2ffdbced" md5="14f262889cad952f1bc3fdc0c4e1949f" sha1="6eb77e33c0779aecfa64e7705eca864b32eff3cb"/>
-		<rom name="Doraemon Monopoly (Asia) (Track 04).bin" size="7399392" crc="09d53315" md5="6d5645207df4eb25b329a94a28c8f934" sha1="199f0d75454925dec1ea7ff6ee9c502e19225d44"/>
-		<rom name="Doraemon Monopoly (Asia) (Track 05).bin" size="19159392" crc="e45c459b" md5="25f9fc3a04515096481bfca9a32acfdb" sha1="cb97fff120371501a2d050f9ef0a02283890798b"/>
-		<rom name="Doraemon Monopoly (Asia) (Track 06).bin" size="1392384" crc="37b8e4e4" md5="42096cbf8f4c82727aaa806548716eb9" sha1="28aa8c603623e2c338e818e0e93b21aab995bec3"/>
-		<rom name="Doraemon Monopoly (Asia) (Track 07).bin" size="17042592" crc="f029dada" md5="fb40971ea55857e53fdc025232c3dfcf" sha1="4bbe91460d33e3a1cd46157bb1136c89b9c60587"/>
-		<rom name="Doraemon Monopoly (Asia) (Track 08).bin" size="12333888" crc="175a5ba2" md5="7b182f20b3a7d73129e49d8f5b0eb124" sha1="2dbc072a7dee81b845f43c703bea63159333cdd2"/>
-		<rom name="Doraemon Monopoly (Asia) (Track 09).bin" size="11014416" crc="4455fe63" md5="a051ff4b2d889285f26cc6d2cae43931" sha1="f77af8d244206547286ae16d97be1f717ab5e8c1"/>
-		<rom name="Doraemon Monopoly (Asia) (Track 10).bin" size="15231552" crc="e3bf99c0" md5="51e8be23a85c3b170d5b9f43001f07ac" sha1="99bc45c6df652999852abbd2f42494e6e21637c1"/>
-		<rom name="Doraemon Monopoly (Asia) (Track 11).bin" size="3175200" crc="758ab1e6" md5="c6bd329b85e4deaf88209aa9d89ccebb" sha1="6d1c9db55499a0524df02b2fc3cdfdc39c9f7322"/>
-		<rom name="Doraemon Monopoly (Asia).cue" size="1291" crc="88c04f25" md5="ec5559a326f73801db54bb06f28bd940" sha1="5c409df53bd6bbff5936026c275ab67810a59353"/>
+		<description>Doraemon Monopoly (Hong Kong)</description>
+		<rom name="Doraemon Monopoly (Hong Kong) (Track 01).bin" size="240520224" crc="906e102f" md5="5e47fa188de96fa113bdc4735d1645a2" sha1="00ec45ae64d983172823e09a9f1ea87dd3134715"/>
+		<rom name="Doraemon Monopoly (Hong Kong) (Track 02).bin" size="59858400" crc="cd028e11" md5="c67b75b19c43b8ce9218eba79128694c" sha1="2c3c5bbe01267429254e32363e2694c22164ccc4"/>
+		<rom name="Doraemon Monopoly (Hong Kong) (Track 03).bin" size="22927296" crc="2ffdbced" md5="14f262889cad952f1bc3fdc0c4e1949f" sha1="6eb77e33c0779aecfa64e7705eca864b32eff3cb"/>
+		<rom name="Doraemon Monopoly (Hong Kong) (Track 04).bin" size="7399392" crc="09d53315" md5="6d5645207df4eb25b329a94a28c8f934" sha1="199f0d75454925dec1ea7ff6ee9c502e19225d44"/>
+		<rom name="Doraemon Monopoly (Hong Kong) (Track 05).bin" size="19159392" crc="e45c459b" md5="25f9fc3a04515096481bfca9a32acfdb" sha1="cb97fff120371501a2d050f9ef0a02283890798b"/>
+		<rom name="Doraemon Monopoly (Hong Kong) (Track 06).bin" size="1392384" crc="37b8e4e4" md5="42096cbf8f4c82727aaa806548716eb9" sha1="28aa8c603623e2c338e818e0e93b21aab995bec3"/>
+		<rom name="Doraemon Monopoly (Hong Kong) (Track 07).bin" size="17042592" crc="f029dada" md5="fb40971ea55857e53fdc025232c3dfcf" sha1="4bbe91460d33e3a1cd46157bb1136c89b9c60587"/>
+		<rom name="Doraemon Monopoly (Hong Kong) (Track 08).bin" size="12333888" crc="175a5ba2" md5="7b182f20b3a7d73129e49d8f5b0eb124" sha1="2dbc072a7dee81b845f43c703bea63159333cdd2"/>
+		<rom name="Doraemon Monopoly (Hong Kong) (Track 09).bin" size="11014416" crc="4455fe63" md5="a051ff4b2d889285f26cc6d2cae43931" sha1="f77af8d244206547286ae16d97be1f717ab5e8c1"/>
+		<rom name="Doraemon Monopoly (Hong Kong) (Track 10).bin" size="15231552" crc="e3bf99c0" md5="51e8be23a85c3b170d5b9f43001f07ac" sha1="99bc45c6df652999852abbd2f42494e6e21637c1"/>
+		<rom name="Doraemon Monopoly (Hong Kong) (Track 11).bin" size="3175200" crc="758ab1e6" md5="c6bd329b85e4deaf88209aa9d89ccebb" sha1="6d1c9db55499a0524df02b2fc3cdfdc39c9f7322"/>
+		<rom name="Doraemon Monopoly (Hong Kong).cue" size="1346" crc="91ce11dd" md5="65130d3c04ccb2c8a4f2e5745798e375" sha1="487106c80d3155e9b28923665434697820f7c48b"/>
 	</game>
 	<game name="Dorei Toushi F - Battle Slave Fantasia (Japan)" id="115174">
 		<category>Games</category>
@@ -46480,11 +46486,11 @@
 		<description>Dungeon Lords (Germany) (Rerelease)</description>
 		<rom name="Dungeon Lords (Germany) (Rerelease).iso" size="1802043392" crc="ba2263bf" md5="8099afd59136c287c5f9f4d242935583" sha1="4262b5391b3f0e3d90cbc8e0a9dac560ab83bdf6"/>
 	</game>
-	<game name="Dungeon Lords (Russia) (Disc 4)" id="116654">
+	<game name="Dungeon Lords (Russia, Ukraine) (Disc 4)" id="116654">
 		<category>Games</category>
-		<description>Dungeon Lords (Russia) (Disc 4)</description>
-		<rom name="Dungeon Lords (Russia) (Disc 4).bin" size="361396560" crc="dead66ad" md5="7f59c90685b6659a87adce378175d559" sha1="156cad43af1f1a695f11349e6a06348e45b02348"/>
-		<rom name="Dungeon Lords (Russia) (Disc 4).cue" size="97" crc="f2a297f3" md5="fa1d93c0560827f644ab8cd854a4a21b" sha1="e2d802325903f221184b811a0a9e8549080bd996"/>
+		<description>Dungeon Lords (Russia, Ukraine) (Disc 4)</description>
+		<rom name="Dungeon Lords (Russia, Ukraine) (Disc 4).bin" size="361396560" crc="dead66ad" md5="7f59c90685b6659a87adce378175d559" sha1="156cad43af1f1a695f11349e6a06348e45b02348"/>
+		<rom name="Dungeon Lords (Russia, Ukraine) (Disc 4).cue" size="106" crc="fdb51724" md5="1f03c53d06bfb25e710433f88ec812a9" sha1="241291da3769e281f76f9e34fefd351888521ed1"/>
 	</game>
 	<game name="Dungeon Lords (USA) (Disc 1) (Collector's Edition)" id="22277">
 		<category>Games</category>
@@ -48906,6 +48912,12 @@
 		<description>Emerald Quest (USA)</description>
 		<rom name="Emerald Quest (USA).bin" size="84041664" crc="7e161b36" md5="6e3dfce746a6308fece411d8589b423b" sha1="7d3733fab59db15c879b6bb2f10c460da2b3ab70"/>
 		<rom name="Emerald Quest (USA).cue" size="85" crc="4b255d05" md5="939ef7267fd9fd1a91eb2b492d0fe2ec" sha1="e0bbe2793d3dd81c410b8dff12bd503f976a9eee"/>
+	</game>
+	<game name="Emerald Tale (Russia) (En,De,Ru,Uk)" id="138247">
+		<category>Games</category>
+		<description>Emerald Tale (Russia) (En,De,Ru,Uk)</description>
+		<rom name="Emerald Tale (Russia) (En,De,Ru,Uk).bin" size="103725552" crc="e87ea979" md5="a4467f8792b71842041a857266cc7af0" sha1="2ee98231d50d81726036a4b695d470a37f310fde"/>
+		<rom name="Emerald Tale (Russia) (En,De,Ru,Uk).cue" size="101" crc="dcd196b0" md5="4a2c85dd05201a411a8c3e0a2407f2b7" sha1="a8d0ad796d99ce26bada37dd6cae8b92a2e0d81e"/>
 	</game>
 	<game name="Emergency (Italy) (Covermount)" id="87388">
 		<category>Games</category>
@@ -51808,6 +51820,18 @@
 		<description>Ex Machina (Russia) (Disc 2) (Igrovoj)</description>
 		<rom name="Ex Machina (Russia) (Disc 2) (Igrovoj).bin" size="827654688" crc="e77825de" md5="c167d6f399351cb34e67fb453cd6ed2d" sha1="1641e7b0d3408187650f71fca5e0b5b34ff148f1"/>
 		<rom name="Ex Machina (Russia) (Disc 2) (Igrovoj).cue" size="104" crc="5bd4d58f" md5="4db0737f73db2d800e4c54720321d4c7" sha1="2b1f33631a4a2b061408369b36de29ef43c90b8a"/>
+	</game>
+	<game name="Ex Machina - Meridian 113 (Russia) (Disc 1)" id="138232">
+		<category>Games</category>
+		<description>Ex Machina - Meridian 113 (Russia) (Disc 1)</description>
+		<rom name="Ex Machina - Meridian 113 (Russia) (Disc 1).bin" size="755100192" crc="44a825c3" md5="dc2e41c372a93cd68b77dcab87c2f21d" sha1="16d45c77902d391c5315991688d7ed49a6ccf2bd"/>
+		<rom name="Ex Machina - Meridian 113 (Russia) (Disc 1).cue" size="109" crc="99c53a42" md5="64fc9d747554daeecaf630650b110d53" sha1="803b4962a0f1756340e92055534b3de167a8db72"/>
+	</game>
+	<game name="Ex Machina - Meridian 113 (Russia) (Disc 2)" id="138233">
+		<category>Games</category>
+		<description>Ex Machina - Meridian 113 (Russia) (Disc 2)</description>
+		<rom name="Ex Machina - Meridian 113 (Russia) (Disc 2).bin" size="825246240" crc="232d8298" md5="74bd4fc17e4f48faddd1a75d9aa6df44" sha1="633042ffe701b431af0ab1819b7e454e33bece11"/>
+		<rom name="Ex Machina - Meridian 113 (Russia) (Disc 2).cue" size="109" crc="98981c93" md5="9b031ca872469160f797d65cd03ffbd7" sha1="967f5b29bd113ccc1ce8f056cf45fd66c81f26a3"/>
 	</game>
 	<game name="ExcaliBug (Russia) (Disc 1) (Instalyacionnyj disk)" id="127877">
 		<category>Games</category>
@@ -58077,6 +58101,11 @@
 		<category>Games</category>
 		<description>Football Manager 2018 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Ko,Pl,Ru,Cs)</description>
 		<rom name="Football Manager 2018 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Ko,Pl,Ru,Cs).iso" size="2089615360" crc="6f922fab" md5="a28dae27c042bc4c4fe77aba73670869" sha1="9ee565316a56b1b64148dbb102fbb8fd0698eba2"/>
+	</game>
+	<game name="Football Manager 2019 (Europe)" id="138261">
+		<category>Games</category>
+		<description>Football Manager 2019 (Europe)</description>
+		<rom name="Football Manager 2019 (Europe).iso" size="2427125760" crc="e41b40f5" md5="fa8cc2d8df815d62c4901f5d9d0a02e8" sha1="48267632a5d442231811c2cfa49aad0661477ea8"/>
 	</game>
 	<game name="Football Masters 2000 (Belgium, Netherlands) (Fr,Nl) (Rerelease)" id="121601">
 		<category>Games</category>
@@ -66307,6 +66336,46 @@
 		<category>Games</category>
 		<description>Grid (Europe) (En,Fr,Es,It) (Bestsellers)</description>
 		<rom name="Grid (Europe) (En,Fr,Es,It) (Bestsellers).iso" size="6907658240" crc="40b42ab9" md5="8aa2d2cca9722ac7dc3b100ef89f3a4e" sha1="7aaf160eba47d565e4fc641f9d14763926443751"/>
+	</game>
+	<game name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 1) (2019)" id="138255">
+		<category>Games</category>
+		<description>Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 1) (2019)</description>
+		<rom name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 1) (2019).iso" size="8446803968" crc="24dda4b1" md5="a7f493e48c57b17ef166dbbcb65c2e92" sha1="e7e1a0fa3014d4b5b8522756720c6b094d2da586"/>
+	</game>
+	<game name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 2) (2019)" id="138256">
+		<category>Games</category>
+		<description>Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 2) (2019)</description>
+		<rom name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 2) (2019).iso" size="8440250368" crc="fd0b8788" md5="d8b9bb92c72e071a25e1fd2cec2ede89" sha1="03cc3da7fa740030fde427848598c85e32431106"/>
+	</game>
+	<game name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 3) (2019)" id="138257">
+		<category>Games</category>
+		<description>Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 3) (2019)</description>
+		<rom name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 3) (2019).iso" size="8440446976" crc="234b7b59" md5="9c0eb2c05aeec95734bdaaf47d763804" sha1="74d19aca4622c02eeea1ab70885f64e6bda008da"/>
+	</game>
+	<game name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 4) (2019)" id="138258">
+		<category>Games</category>
+		<description>Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 4) (2019)</description>
+		<rom name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 4) (2019).iso" size="8441036800" crc="a1f0c610" md5="c2f33d77d8ead740ae2783e4fdea1d2b" sha1="dc638ebbd4f914312e468c98bd700521f72b4234"/>
+	</game>
+	<game name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 5) (2019)" id="138259">
+		<category>Games</category>
+		<description>Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 5) (2019)</description>
+		<rom name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 5) (2019).iso" size="8441036800" crc="0dd02d76" md5="6fd3817f3e2a9618e61fe4dd837c4c40" sha1="b82d2416c6cd2075f895bb494e4a13eec2e42f6f"/>
+	</game>
+	<game name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 6) (2019)" id="138260">
+		<category>Games</category>
+		<description>Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 6) (2019)</description>
+		<rom name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 6) (2019).iso" size="7568687104" crc="a080f9c2" md5="e83caddf689ca87e94be1e72c02906a7" sha1="a3bbaae432809b93923014ecd38db21f055ffa9d"/>
+	</game>
+	<game name="Grid 2 (Poland)" id="138253">
+		<category>Games</category>
+		<description>Grid 2 (Poland)</description>
+		<rom name="Grid 2 (Poland).iso" size="6190432256" crc="23fd3617" md5="f475febcbe1e33fe150df168d13767d0" sha1="533d9d492398f3d883e9281192a901458877261f"/>
+	</game>
+	<game name="Grid Autosport (Poland)" id="138254">
+		<category>Games</category>
+		<description>Grid Autosport (Poland)</description>
+		<rom name="Grid Autosport (Poland).iso" size="7992868864" crc="decb187d" md5="616029c6254c4727b694eb8cf1995ed2" sha1="1f06f19f40a7827d279879a2bf352503d246d307"/>
 	</game>
 	<game name="Grid Run (Europe)" id="84089">
 		<category>Games</category>
@@ -113129,6 +113198,24 @@
 		<rom name="NiBiRu - Age of Secrets (USA, Canada) (Disc 2).bin" size="329263536" crc="578c8972" md5="499d5944a3966c3acc8af0f64ad68b03" sha1="08fcad55ed62c1a2117ff354f0c3a6fd147a22ca"/>
 		<rom name="NiBiRu - Age of Secrets (USA, Canada) (Disc 2).cue" size="112" crc="d3593ab3" md5="e2a6c5eef279cce291a65bc6165b34fe" sha1="9edecd367a5cae74f2d78083522dd2a54577f2a0"/>
 	</game>
+	<game name="Nibiru - Poslannik bogov (Russia) (Disc 1)" id="138235">
+		<category>Games</category>
+		<description>Nibiru - Poslannik bogov (Russia) (Disc 1)</description>
+		<rom name="Nibiru - Poslannik bogov (Russia) (Disc 1).bin" size="843457776" crc="326e6130" md5="f5e0e56a6e9be38567025b428d3b2dd4" sha1="20cf5280a00bd01cc5e99ac06542a7037fe46c90"/>
+		<rom name="Nibiru - Poslannik bogov (Russia) (Disc 1).cue" size="108" crc="e8222585" md5="d3bbfa52b16b45ab67cdbda8b1823452" sha1="b3533ff974f7d18271a3a18ad03187c3d045b8d5"/>
+	</game>
+	<game name="Nibiru - Poslannik bogov (Russia) (Disc 2)" id="138236">
+		<category>Games</category>
+		<description>Nibiru - Poslannik bogov (Russia) (Disc 2)</description>
+		<rom name="Nibiru - Poslannik bogov (Russia) (Disc 2).bin" size="843464832" crc="d93b93df" md5="6e7311d179d75b0a456e2f98990d960b" sha1="8699acf2a0b84278b617db35cb333867c9d31524"/>
+		<rom name="Nibiru - Poslannik bogov (Russia) (Disc 2).cue" size="108" crc="e97f0354" md5="fb891799d9918ef082d2837ad301070d" sha1="86da7d036fb649f9d7551b2b4a4de89ed3e3c782"/>
+	</game>
+	<game name="Nibiru - Poslannik bogov (Russia) (Disc 3)" id="138237">
+		<category>Games</category>
+		<description>Nibiru - Poslannik bogov (Russia) (Disc 3)</description>
+		<rom name="Nibiru - Poslannik bogov (Russia) (Disc 3).bin" size="838191648" crc="3bb300e6" md5="25e47d9ced41a0e295194db6ac09385e" sha1="99a8180fa7ed2ee11ca6a31e3ca0f77ec1adbacb"/>
+		<rom name="Nibiru - Poslannik bogov (Russia) (Disc 3).cue" size="108" crc="5f64e324" md5="fd5ae1d908cbdc5fe99bdcc4fd150c9e" sha1="36d4e63755a422f58844763c21d002f93b67f3cc"/>
+	</game>
 	<game name="Nice! Billiard (Japan)" id="134067">
 		<category>Games</category>
 		<description>Nice! Billiard (Japan)</description>
@@ -119487,6 +119574,36 @@
 		<category>Games</category>
 		<description>ParaWorld (Europe)</description>
 		<rom name="ParaWorld (Europe).iso" size="3166013440" crc="afcce3d9" md5="608c30dcc4a82a71ce46b74ba93b4418" sha1="3411965668d070bc90cd16ddbea25f60529d5d3a"/>
+	</game>
+	<game name="ParaWorld (Russia) (Disc 1)" id="138248">
+		<category>Games</category>
+		<description>ParaWorld (Russia) (Disc 1)</description>
+		<rom name="ParaWorld (Russia) (Disc 1).bin" size="798019488" crc="142ddaa8" md5="4f3467e6c00dfb66fbf1ff781b597280" sha1="f070ccb924c033d00c4ea65eb550f8e5e714fbde"/>
+		<rom name="ParaWorld (Russia) (Disc 1).cue" size="93" crc="3ada5395" md5="263aa73f26b64ed25e3f0334b994ce74" sha1="f2bf010d52cd5ea11ab660ae353e0217d7fe949e"/>
+	</game>
+	<game name="ParaWorld (Russia) (Disc 2)" id="138249">
+		<category>Games</category>
+		<description>ParaWorld (Russia) (Disc 2)</description>
+		<rom name="ParaWorld (Russia) (Disc 2).bin" size="795211200" crc="749c1a12" md5="02a545e12c9e2fc589b5b5c8938dc0dc" sha1="7f11ab62f8b27354f33471ac834a8e3595b1b674"/>
+		<rom name="ParaWorld (Russia) (Disc 2).cue" size="93" crc="3b877544" md5="cb9e6ca1fc8d3338d50c70bc8064785f" sha1="9a8197741dd3819870f7217d44d12bc8b6b23ef9"/>
+	</game>
+	<game name="ParaWorld (Russia) (Disc 3)" id="138250">
+		<category>Games</category>
+		<description>ParaWorld (Russia) (Disc 3)</description>
+		<rom name="ParaWorld (Russia) (Disc 3).bin" size="795211200" crc="dfd13f40" md5="217ba15e8c6d39dcded858600974e03e" sha1="8a4cf7ff657d85c1c0441eb7d0e362d58bc5817a"/>
+		<rom name="ParaWorld (Russia) (Disc 3).cue" size="93" crc="8d9c9534" md5="43cae6fb64736bc83f5dd66291c0f81c" sha1="f6871db828052f2115febc644dc91837c84111a6"/>
+	</game>
+	<game name="ParaWorld (Russia) (Disc 4)" id="138251">
+		<category>Games</category>
+		<description>ParaWorld (Russia) (Disc 4)</description>
+		<rom name="ParaWorld (Russia) (Disc 4).bin" size="795211200" crc="2b9e9a54" md5="751b6b9a356bf280bf47047224ea989a" sha1="7c923fde9ed4273938af70b3426fc5412156b0e9"/>
+		<rom name="ParaWorld (Russia) (Disc 4).cue" size="93" crc="393d38e6" md5="87dc5acdd3a02aff522f891226d30154" sha1="4635e97c180df1c9f06ce0f109dd245cd673d007"/>
+	</game>
+	<game name="ParaWorld (Russia) (Disc 5) (Igrovoj)" id="138252">
+		<category>Games</category>
+		<description>ParaWorld (Russia) (Disc 5) (Igrovoj)</description>
+		<rom name="ParaWorld (Russia) (Disc 5) (Igrovoj).bin" size="781569600" crc="99095ba0" md5="7bbd8c4fb4bf44571c3b092a4af2e85b" sha1="2340d57c81cd126c23005a6c051f6945b87cb332"/>
+		<rom name="ParaWorld (Russia) (Disc 5) (Igrovoj).cue" size="103" crc="f0cff016" md5="8a91f7f7876db81b2a27e80746ef7fc8" sha1="e429f776af3dde7bddcaed9245c5a70ba4775f94"/>
 	</game>
 	<game name="ParaWorld - Gold Edition (Germany)" id="55905">
 		<category>Games</category>
@@ -139565,6 +139682,12 @@
 		<description>Samuraj Po-Xi (Poland)</description>
 		<rom name="Samuraj Po-Xi (Poland).bin" size="813378048" crc="b7bfbcfd" md5="f969d1817810654e86fbec5d2cbecff6" sha1="d67604c846e3450c35c3b08fc3284e056a848a0b"/>
 		<rom name="Samuraj Po-Xi (Poland).cue" size="88" crc="ff5780d0" md5="9304371e54aedd1480970cada2095ea9" sha1="385dafd41f77fdc8c0d538f1c7f7adaad50284d8"/>
+	</game>
+	<game name="Samyj umnyj - Generator krossvordov (Russia)" id="138246">
+		<category>Games</category>
+		<description>Samyj umnyj - Generator krossvordov (Russia)</description>
+		<rom name="Samyj umnyj - Generator krossvordov (Russia).bin" size="241679760" crc="84afbf7c" md5="302d33272c1d39abeac6e3d095c03caf" sha1="8cb9737edc25a396c28b3627084e5d010a64c9cd"/>
+		<rom name="Samyj umnyj - Generator krossvordov (Russia).cue" size="110" crc="86b89700" md5="d39d7718c6ba118d694b90b2261d10cc" sha1="89e458a377a5b9a33e25e6d066b0b8204959e7d1"/>
 	</game>
 	<game name="San Diego Zoo Presents, The... The Animals! (USA) (Rerelease)" id="126422">
 		<category>Educational</category>
@@ -160400,6 +160523,12 @@
 		<rom name="Super Taxi Driver (Europe) (En,Fr,De,Es,It,Nl).bin" size="233109072" crc="ae2b5b12" md5="22d1bc1c99468c064355014e86eed578" sha1="ce651c3abc732607b5614a44e72203fe382d058f"/>
 		<rom name="Super Taxi Driver (Europe) (En,Fr,De,Es,It,Nl).cue" size="112" crc="dee41753" md5="64e040043559bff78926c78e187170d0" sha1="223fe4f4e4be2b63f1dc73fa0fac458cfb303b12"/>
 	</game>
+	<game name="Super Taxi Driver 2006 (Russia)" id="138234">
+		<category>Games</category>
+		<description>Super Taxi Driver 2006 (Russia)</description>
+		<rom name="Super Taxi Driver 2006 (Russia).bin" size="182893872" crc="e600598f" md5="2463d4ca90310d44349ad7e49249296f" sha1="bb6fbde3eecb2fa311141889cf3b963479f435a1"/>
+		<rom name="Super Taxi Driver 2006 (Russia).cue" size="97" crc="4533b7f2" md5="8e4a8f2a17d818a8656ae2b76fdbdb9d" sha1="6d379721fe248e658948f3cc7e6f2d5fc5ac3ce0"/>
+	</game>
 	<game name="Super Tetris 2 + Bombliss (Japan)" id="136272">
 		<category>Games</category>
 		<description>Super Tetris 2 + Bombliss (Japan)</description>
@@ -175542,6 +175671,12 @@
 		<rom name="Veselaya ferma (Russia).bin" size="620702208" crc="2c2728c9" md5="1e0008f295a3f0b61fed3890d158e205" sha1="6ad8ca75c685cb23a09442b4d7f671611b569a17"/>
 		<rom name="Veselaya ferma (Russia).cue" size="89" crc="2f382a87" md5="b117bb7482021e3ac0c35af461a275d3" sha1="1cf21a6fb8556289230a005e49a87f59253019d0"/>
 	</game>
+	<game name="Veselaya ferma - Drevnij Rim (Russia)" id="138245">
+		<category>Games</category>
+		<description>Veselaya ferma - Drevnij Rim (Russia)</description>
+		<rom name="Veselaya ferma - Drevnij Rim (Russia).bin" size="694606752" crc="49440550" md5="c737e86ee284958b8f89050266e8e15d" sha1="f2b666ffd191da2e4ff9a6a8ea0f1f4e65dcd13e"/>
+		<rom name="Veselaya ferma - Drevnij Rim (Russia).cue" size="103" crc="8a282b2b" md5="ce456b51d137f3047f4cd7412ef7c043" sha1="c6c0ac39d0dae9c32ce8ffc13330a52f30ea931e"/>
+	</game>
 	<game name="Veselaya ferma 2 (Russia)" id="86987">
 		<category>Games</category>
 		<description>Veselaya ferma 2 (Russia)</description>
@@ -185489,6 +185624,30 @@
 		<category>Games</category>
 		<description>Xrom - Zolotoe izdanie (Russia)</description>
 		<rom name="Xrom - Zolotoe izdanie (Russia).iso" size="1412071424" crc="079f9a73" md5="59859950702912391c59688cf6ad048a" sha1="e117c5c538b4541338ab264ba9910cfdded6590a"/>
+	</game>
+	<game name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 1)" id="138241">
+		<category>Games</category>
+		<description>Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 1)</description>
+		<rom name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 1).bin" size="544304544" crc="0290f787" md5="f4a13382b2c7090344fab0a06bbbcd85" sha1="01ab11c1b86bda3484c9fd0b0949d74800847d48"/>
+		<rom name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 1).cue" size="134" crc="c9c92d56" md5="d9a8ba7b43f87c536d472626d311f0b6" sha1="582e8d31b516a46e7fca0a623fb5d2616afd5fd3"/>
+	</game>
+	<game name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 2)" id="138242">
+		<category>Games</category>
+		<description>Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 2)</description>
+		<rom name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 2).bin" size="765651264" crc="d2f8a73d" md5="5ff49a5f77329f3175e07a5df9661799" sha1="8e551b43b1f0b2f9ae7efd15fbfe40c59c4ca2a1"/>
+		<rom name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 2).cue" size="134" crc="c8940b87" md5="bb66472cfeb9b2f97c32449fbfda65c7" sha1="a8f0b6756eb01a7dede9d02009c04d4ccec74577"/>
+	</game>
+	<game name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 3)" id="138243">
+		<category>Games</category>
+		<description>Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 3)</description>
+		<rom name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 3).bin" size="807192288" crc="2014880f" md5="af8024070b791582488d060924a2709f" sha1="2a481677e12e8151f25dcb25f8bd7b2c9b98309a"/>
+		<rom name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 3).cue" size="134" crc="7e8febf7" md5="e36e0c0ab70218f9770c9916c60b0c42" sha1="07ba752bada2e614bef2d028109d8d18bf40be9e"/>
+	</game>
+	<game name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 4)" id="138244">
+		<category>Games</category>
+		<description>Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 4)</description>
+		<rom name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 4).bin" size="830705232" crc="34ce766d" md5="f8d9fb4af7ebea3e03b9fa98abd503d1" sha1="4e248996a81f34bba4415324e00a167a298ff41e"/>
+		<rom name="Xroniki Narnii - Lev, Koldun'ya i Volshebnyj Shkaf (Russia) (Disc 4).cue" size="134" crc="ca2e4625" md5="b345a6893e8ff7ad5ad4b0437f80be2e" sha1="bda28c9b70cb2b9c052a1264ae8308c4f248eeb3"/>
 	</game>
 	<game name="Xroniki Riddika (Russia)" id="84569">
 		<category>Games</category>
