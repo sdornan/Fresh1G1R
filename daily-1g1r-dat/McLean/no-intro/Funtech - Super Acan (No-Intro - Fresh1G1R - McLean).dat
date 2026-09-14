@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Funtech - Super Acan (Retool)</name>
-		<description>Funtech - Super Acan (1) (-ly) [-aAbBcdDefkmMopPruv] (20240927-111000) (Retool)</description>
-		<version>20240927-111000</version>
-		<date>2026-09-13 07-40-19</date>
-		<author>BitLooter, ElBarto, relax, TeamEurope</author>
+		<description>Funtech - Super Acan (1) (-ly) [-aAbBcdDefkmMopPruv] (20260913-064553) (Retool)</description>
+		<version>20260913-064553</version>
+		<date>2026-09-14 08-06-26</date>
+		<author>bikerspade, BitLooter, ElBarto, relax, TeamEurope</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -15,6 +15,6 @@
 		<category>Games</category>
 		<description>Rebel Star (Taiwan) (En)</description>
 		<game_id>F-012</game_id>
-		<rom name="Rebel Star (Taiwan) (En).bin" size="2097152" crc="a3469172" md5="1f141c905d771a95e929c109b5ab6ba0" sha1="3a1b093d7aee6d5b1f260723499d4c283a2a0169" sha256="2aa8b3afbc858af13ca1bdac73506b69afa844cc5d9142b5f30c70e9afb37214"/>
+		<rom name="Rebel Star (Taiwan) (En).bin" size="2097152" crc="9e243c91" md5="951b5bb4e5cbc4427fab0b893b24a119" sha1="fce6fe629e74c6547901fd208a65ee2eff5e2fbb" sha256="64090e3f693aea32624ea62bf3e6baf5120096263a088e3c15bc3ecda718a7ff"/>
 	</game>
 </datafile>

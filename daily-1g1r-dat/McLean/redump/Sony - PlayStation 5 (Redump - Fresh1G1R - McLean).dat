@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (300) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-12 23-51-18) (Retool)</description>
-		<version>2026-09-12 23-51-18</version>
-		<date>2026-09-13 07-39-49</date>
+		<description>Sony - PlayStation 5 (301) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-13 08-42-33) (Retool)</description>
+		<version>2026-09-13 08-42-33</version>
+		<date>2026-09-14 08-03-52</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -351,6 +351,11 @@
 		<description>Dragon Quest III - Soshite Densetsu e... (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)</description>
 		<rom name="Dragon Quest III - Soshite Densetsu e... (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko).iso" size="40008351744" crc="bac71f19" md5="119f2209c46503acf421098b5cf30904" sha1="1cc1524d75a7ac47317af0eca361709944a8e80c"/>
 	</game>
+	<game name="Dragon's Dogma II (Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru,Ar)" id="138269">
+		<category>Games</category>
+		<description>Dragon's Dogma II (Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru,Ar)</description>
+		<rom name="Dragon's Dogma II (Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru,Ar).iso" size="63290408960" crc="42406ed7" md5="cec748f4a6bfbd98aa5d3aab8ffe37c9" sha1="f50f1c7d8d713933a29e9d908c81923619a5875c"/>
+	</game>
 	<game name="Dying Light 2 - Stay Human (Europe) (En,Fr,De,Es,It,Pt,Ko,Pl,Ru,Cs,Ar,Tr)" id="121456">
 		<category>Games</category>
 		<description>Dying Light 2 - Stay Human (Europe) (En,Fr,De,Es,It,Pt,Ko,Pl,Ru,Cs,Ar,Tr)</description>
@@ -666,10 +671,10 @@
 		<description>In Nightmare (USA)</description>
 		<rom name="In Nightmare (USA).iso" size="40008351744" crc="23de3458" md5="cdacacb22a63e2e923cff56acebec00e" sha1="26d49b0fa32ddf7169b0c3d36bef4dcfb0a01128"/>
 	</game>
-	<game name="Indiana Jones and the Great Circle (USA)" id="130843">
+	<game name="Indiana Jones and the Great Circle (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar)" id="130843">
 		<category>Games</category>
-		<description>Indiana Jones and the Great Circle (USA)</description>
-		<rom name="Indiana Jones and the Great Circle (USA).iso" size="40008351744" crc="529a58a5" md5="2ee6c6fcf76db4091cabc12593c69921" sha1="ea5f31b3c9b1a1fd095c5f5e065fe3369d8adf12"/>
+		<description>Indiana Jones and the Great Circle (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar)</description>
+		<rom name="Indiana Jones and the Great Circle (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar).iso" size="40008351744" crc="529a58a5" md5="2ee6c6fcf76db4091cabc12593c69921" sha1="ea5f31b3c9b1a1fd095c5f5e065fe3369d8adf12"/>
 	</game>
 	<game name="Indika (USA)" id="132957">
 		<category>Games</category>

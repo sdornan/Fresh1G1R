@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Funtech - Super Acan (Retool)</name>
-		<description>Funtech - Super Acan (12) (-y) [-aAbBcdkmMpPuv] (20240927-111000) (Retool)</description>
-		<version>20240927-111000</version>
-		<date>2026-09-13 07-50-40</date>
-		<author>BitLooter, ElBarto, relax, TeamEurope</author>
+		<description>Funtech - Super Acan (12) (-y) [-aAbBcdkmMpPuv] (20260913-064553) (Retool)</description>
+		<version>20260913-064553</version>
+		<date>2026-09-14 08-16-38</date>
+		<author>bikerspade, BitLooter, ElBarto, relax, TeamEurope</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -51,7 +51,7 @@
 		<category>Games</category>
 		<description>Rebel Star (Taiwan) (En)</description>
 		<game_id>F-012</game_id>
-		<rom name="Rebel Star (Taiwan) (En).bin" size="2097152" crc="a3469172" md5="1f141c905d771a95e929c109b5ab6ba0" sha1="3a1b093d7aee6d5b1f260723499d4c283a2a0169" sha256="2aa8b3afbc858af13ca1bdac73506b69afa844cc5d9142b5f30c70e9afb37214"/>
+		<rom name="Rebel Star (Taiwan) (En).bin" size="2097152" crc="9e243c91" md5="951b5bb4e5cbc4427fab0b893b24a119" sha1="fce6fe629e74c6547901fd208a65ee2eff5e2fbb" sha256="64090e3f693aea32624ea62bf3e6baf5120096263a088e3c15bc3ecda718a7ff"/>
 	</game>
 	<game name="Sango Fighter (Taiwan)" id="0004">
 		<category>Games</category>
@@ -69,8 +69,7 @@
 		<category>Games</category>
 		<description>Super Dragon Force (Taiwan)</description>
 		<game_id>F-007</game_id>
-		<rom name="08002 (Taiwan).bin" size="1048576" crc="fc79f05f" md5="927f0738d3ebe5f0d9267d05bf96b1da" sha1="7ce2e23ea3fd25764935708be4d47bf1a9843938"/>
-		<rom name="16007 (Taiwan).bin" size="2097152" crc="56c1c3fb" md5="7e7e1321ad9e4f3e1a512ab4fe3abb0c" sha1="249e2ad6d8d40ecd31eda5a1bd5e5d0f47174a27"/>
+		<rom name="Super Dragon Force (Taiwan).bin" size="3145728" crc="c4fe1ca1" md5="91d4b8df6208fc156c8b86ddf4e92742" sha1="bfa3d5e86dd26b71646414f205521c6fdd7e9d97" sha256="c466ef1f923c1facc70ce2738ac9b85bf16ff16f099b69f4cd1c98dee68aa8ea"/>
 	</game>
 	<game name="Super Taiwanese Baseball League (Taiwan)" id="0005">
 		<category>Games</category>
