@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - amiibo (Retool)</name>
-		<description>Nintendo - amiibo (946) (-y) [-aAbBcdkmMpPuv] (20260901-075228) (Retool)</description>
-		<version>20260901-075228</version>
-		<date>2026-09-14 08-16-16</date>
-		<author>1988reload, Bumpfi, kyndigs, rarenight, SonGoku</author>
+		<description>Nintendo - amiibo (946) (-y) [-aAbBcdkmMpPuv] (20260914-232138) (Retool)</description>
+		<version>20260914-232138</version>
+		<date>2026-09-15 07-52-20</date>
+		<author>1988reload, baldjared, Bumpfi, kyndigs, rarenight, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -3168,6 +3168,12 @@
 		<game_id>03ea0001030b0502</game_id>
 		<rom name="Animal Crossing - New Leaf - 37 - Leopold (World) (Welcome amiibo) (Animal Crossing) (Card).bin" size="540" crc="fb93430b" md5="fe1a7e2ec006cd699c53519824bdb4f5" sha1="a37bf08af71bcf7a0656c5493787d94b9555c815" sha256="315a3121844a76b9b77d44a41430ed79517be428ba6457b63e3b692c50f23786"/>
 	</game>
+	<game name="Animal Crossing - New Leaf - 38 - Spike (World) (Welcome amiibo) (Animal Crossing) (Card)" id="0631">
+		<category>Add-Ons</category>
+		<description>Animal Crossing - New Leaf - 38 - Spike (World) (Welcome amiibo) (Animal Crossing) (Card)</description>
+		<game_id>04b40001030c0502</game_id>
+		<rom name="Animal Crossing - New Leaf - 38 - Spike (World) (Welcome amiibo) (Animal Crossing) (Card).bin" size="540" crc="61ca7481" md5="9ae5d1987f3e1d36624c4520372649b8" sha1="2811b1e78353b16d3eff85f564f5e3ecf80ef630" sha256="52da7465b1838a09241c055ea016290c3765c79cace2ce576c656ce7d6d7c3d0"/>
+	</game>
 	<game name="Animal Crossing - New Leaf - 39 - Cashmere (World) (Welcome amiibo) (Animal Crossing) (Card)" id="0632">
 		<category>Add-Ons</category>
 		<description>Animal Crossing - New Leaf - 39 - Cashmere (World) (Welcome amiibo) (Animal Crossing) (Card)</description>
@@ -3239,12 +3245,6 @@
 		<description>Animal Crossing - New Leaf - 50 - Tasha (World) (Welcome amiibo) (Animal Crossing) (Card)</description>
 		<game_id>04ea000103180502</game_id>
 		<rom name="Animal Crossing - New Leaf - 50 - Tasha (World) (Welcome amiibo) (Animal Crossing) (Card).bin" size="540" crc="2c1d5da0" md5="a79b584723653d0b25e1503b7b98e468" sha1="7d34381869451e3ec5549c84616ba84c0b78493f" sha256="0f3c6f576b68d4e3a714f28404e8ed126214ed49018e842816307f6de1902565"/>
-	</game>
-	<game name="Animal Crossing - New Leaf . 38 - Spike (World) (Welcome amiibo) (Animal Crossing) (Card)" id="0631">
-		<category>Add-Ons</category>
-		<description>Animal Crossing - New Leaf . 38 - Spike (World) (Welcome amiibo) (Animal Crossing) (Card)</description>
-		<game_id>04b40001030c0502</game_id>
-		<rom name="Animal Crossing - New Leaf . 38 - Spike (World) (Welcome amiibo) (Animal Crossing) (Card).bin" size="540" crc="61ca7481" md5="9ae5d1987f3e1d36624c4520372649b8" sha1="2811b1e78353b16d3eff85f564f5e3ecf80ef630" sha256="52da7465b1838a09241c055ea016290c3765c79cace2ce576c656ce7d6d7c3d0"/>
 	</game>
 	<game name="Animal Crossing - Reese (World) (Animal Crossing) (Figurine)" id="0441">
 		<category>Add-Ons</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Philips - CD-i (Retool)</name>
-		<description>Philips - CD-i (298) (-y) [-aAbBcefkmMoprv] (2026-09-09 23-47-25) (Retool)</description>
-		<version>2026-09-09 23-47-25</version>
-		<date>2026-09-14 07-51-56</date>
+		<description>Philips - CD-i (302) (-y) [-aAbBcefkmMoprv] (2026-09-15 06-01-07) (Retool)</description>
+		<version>2026-09-15 06-01-07</version>
+		<date>2026-09-15 07-32-41</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -433,6 +433,12 @@
 		<description>Clue - The Mysteries Continue (USA)</description>
 		<rom name="Clue - The Mysteries Continue (USA).bin" size="654267600" crc="119c152e" md5="47e0508381d9f5ba95f0738bfe1353a1" sha1="869bf6348ef70fc3fbe6ba11c96a3062eed2537e"/>
 		<rom name="Clue - The Mysteries Continue (USA).cue" size="122" crc="f89c3732" md5="a3528cef008c4e72750f1792f91d94c4" sha1="1d86600f22d1e6c87b50dbfbf7ed8603ec573d61"/>
+	</game>
+	<game name="Comic Pinball (Europe) (Proto) (1994-05-26)" id="138330">
+		<category>Preproduction</category>
+		<description>Comic Pinball (Europe) (Proto) (1994-05-26)</description>
+		<rom name="Comic Pinball (Europe) (Proto) (1994-05-26).bin" size="49043904" crc="656dbc29" md5="3ba711e2fe22541f28e15db8729b1740" sha1="d6c5693140fb7abef1f7c09ad5ed4fc8e7198dbe"/>
+		<rom name="Comic Pinball (Europe) (Proto) (1994-05-26).cue" size="109" crc="05e51cd3" md5="2307fbb43e0d5f355f49ca1a17ea157d" sha1="36793800e9bd8d47e6c624f43082e8bfa48e2c41"/>
 	</game>
 	<game name="Concise Oxford Dictionary &amp; Oxford Thesaurus, The (Europe) (Beta) (1994-09-20)" id="82842">
 		<category>Preproduction</category>
@@ -1517,6 +1523,12 @@
 		<rom name="Rise of the Robots (Europe).bin" size="305877600" crc="ae6a3fe4" md5="3c18191ff226d4cb7d281b5505b01762" sha1="cc109ead9bf4204eab3345a89347f0d6c37cc117"/>
 		<rom name="Rise of the Robots (Europe).cue" size="114" crc="26654be5" md5="874e40611dfad5eeb121bc3a1fa6701d" sha1="7fba83443db8091045a551c7421b71fd4f461105"/>
 	</game>
+	<game name="Rollerbollen II (Netherlands) (Proto) (1999-01-27)" id="138332">
+		<category>Preproduction</category>
+		<description>Rollerbollen II (Netherlands) (Proto) (1999-01-27)</description>
+		<rom name="Rollerbollen II (Netherlands) (Proto) (1999-01-27).bin" size="713662656" crc="92ef363b" md5="69ffb0acd798d1e959e7730660f08be5" sha1="f37abae269f4997c57fd492d1e7565b051035f0a"/>
+		<rom name="Rollerbollen II (Netherlands) (Proto) (1999-01-27).cue" size="116" crc="17ad9209" md5="bb9acebc3c88ac464309e4bf9f012e54" sha1="a914aedfc38513aad8c4e0ecce9f7f30c845af95"/>
+	</game>
 	<game name="Salis Cirkus Aventyr (Sweden)" id="73997">
 		<category>Games</category>
 		<description>Salis Cirkus Aventyr (Sweden)</description>
@@ -1749,11 +1761,18 @@
 		<rom name="Tim et Ted au Cinema (France).bin" size="753580800" crc="2795d14b" md5="b4558f0987645d1a734aaeb2d4345473" sha1="ed646f8805d9dd4ebfe6bb9739370ac5b2518e43"/>
 		<rom name="Tim et Ted au Cinema (France).cue" size="116" crc="038a9c55" md5="f68bfa7a659bd74b3a00bccb586702ee" sha1="ef13b56189348556983e1575046102f4e00aed16"/>
 	</game>
-	<game name="Titan (USA)" id="126393">
+	<game name="Titan (USA) (Proto) (1989-10-23)" id="126393">
 		<category>Games</category>
-		<description>Titan (USA)</description>
-		<rom name="Titan (USA).bin" size="317717568" crc="df066397" md5="15f059357f7fedec80fe45f3cf4655fd" sha1="a91042564b793f9f8ee69b97f2bf7012448d1dbb"/>
-		<rom name="Titan (USA).cue" size="75" crc="5ac0f85f" md5="16cab4f9adf93c6713269bf182a8d068" sha1="b13e553541cf8ab2c3a692a92085f2fbd6861f12"/>
+		<category>Preproduction</category>
+		<description>Titan (USA) (Proto) (1989-10-23)</description>
+		<rom name="Titan (USA) (Proto) (1989-10-23).bin" size="317717568" crc="df066397" md5="15f059357f7fedec80fe45f3cf4655fd" sha1="a91042564b793f9f8ee69b97f2bf7012448d1dbb"/>
+		<rom name="Titan (USA) (Proto) (1989-10-23).cue" size="98" crc="f75cadbb" md5="a7ddff615065c9867b92443bb80c4b51" sha1="8dad8bf836db45c817becf964c9b55924cede228"/>
+	</game>
+	<game name="Titan (USA) (Proto) (1989-10-23) (Fixed Dump)" id="138331">
+		<category>Preproduction</category>
+		<description>Titan (USA) (Proto) (1989-10-23) (Fixed Dump)</description>
+		<rom name="Titan (USA) (Proto) (1989-10-23) (Fixed Dump).bin" size="317717568" crc="69f01dd1" md5="2458e64522be643f08606fcda2c57106" sha1="fc75266a8706cf92ac1f28420e2fc5677cd9417f"/>
+		<rom name="Titan (USA) (Proto) (1989-10-23) (Fixed Dump).cue" size="111" crc="fc7be2a2" md5="ee2c0f2f0f5f295f9135e099f32beec8" sha1="99b4585fb6795a170f5aa8ab5cdcae5bb7513d49"/>
 	</game>
 	<game name="Tom - Magic Picture Show (Europe) (En,Fr,Es)" id="95802">
 		<category>Games</category>
@@ -1772,6 +1791,12 @@
 		<description>Tresor de l'Ile aux jeux, Le (France)</description>
 		<rom name="Tresor de l'Ile aux jeux, Le (France).bin" size="378907200" crc="6a1eef36" md5="7f41df0636f683be20ef8775db3536f5" sha1="4a7e69b26696d730c8cd16d6a8e1e41f0df63598"/>
 		<rom name="Tresor de l'Ile aux jeux, Le (France).cue" size="124" crc="e6ec5480" md5="765f9f968272acfb4e28e53c8d460526" sha1="7c550e9d22a7c50f94e1d540eb9d960daddb37af"/>
+	</game>
+	<game name="U2 - Zoo TV (USA) (Proto) (1992-10-13)" id="138333">
+		<category>Preproduction</category>
+		<description>U2 - Zoo TV (USA) (Proto) (1992-10-13)</description>
+		<rom name="U2 - Zoo TV (USA) (Proto) (1992-10-13).bin" size="112025760" crc="00e1e96e" md5="05c185eb75a0a85d07587f47ab1a3fa7" sha1="49805f6d403db5fa1172545849ba8a85e833b032"/>
+		<rom name="U2 - Zoo TV (USA) (Proto) (1992-10-13).cue" size="104" crc="df99ab3e" md5="bb5c13c3c8c13317ede4b7ffed3f0404" sha1="b92aa66e803e05a63493b3d6094eaf109932f1f2"/>
 	</game>
 	<game name="UEFA Champions League (Europe) (Demo)" id="96125">
 		<category>Demos</category>

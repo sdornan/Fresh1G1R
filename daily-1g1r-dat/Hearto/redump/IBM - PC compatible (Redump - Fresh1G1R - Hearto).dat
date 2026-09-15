@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,212) (-y) [-aAbBcefkmMoprv] (2026-09-14 07-31-21) (Retool)</description>
-		<version>2026-09-14 07-31-21</version>
-		<date>2026-09-14 07-50-08</date>
+		<description>IBM - PC compatible (26,216) (-y) [-aAbBcefkmMoprv] (2026-09-15 07-21-07) (Retool)</description>
+		<version>2026-09-15 07-21-07</version>
+		<date>2026-09-15 07-31-18</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -39720,10 +39720,10 @@
 		<description>Dirt 2 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Dirt 2 (Europe) (En,Fr,De,Es,It).iso" size="7332888576" crc="05ae70fd" md5="4e54295095cd60cfa5046b1e9b80f675" sha1="d5732861de09582d6c8dfb2ab1254dea54dc9f1e"/>
 	</game>
-	<game name="Dirt 3 (Hungary, Poland) (En,Fr,De,Es,It)" id="128463">
+	<game name="Dirt 3 (Europe) (En,Fr,De,Es,It)" id="128463">
 		<category>Games</category>
-		<description>Dirt 3 (Hungary, Poland) (En,Fr,De,Es,It)</description>
-		<rom name="Dirt 3 (Hungary, Poland) (En,Fr,De,Es,It).iso" size="7940833280" crc="82add7e0" md5="cc955d65c867af9b030db0d6031ed475" sha1="1aa2127786f910793750814a022adc10bed3f956"/>
+		<description>Dirt 3 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Dirt 3 (Europe) (En,Fr,De,Es,It).iso" size="7940833280" crc="82add7e0" md5="cc955d65c867af9b030db0d6031ed475" sha1="1aa2127786f910793750814a022adc10bed3f956"/>
 	</game>
 	<game name="Dirt Bike Racing (USA)" id="30248">
 		<category>Games</category>
@@ -73349,6 +73349,12 @@
 		<rom name="Hoyle Kids Games 2 (USA).bin" size="665077392" crc="d9a7a5fd" md5="a58161cf16e344a3661aa9d8d3d1d1ac" sha1="d93793e3656dabce835fb9e6b06cd6ea2d9d98d8"/>
 		<rom name="Hoyle Kids Games 2 (USA).cue" size="90" crc="c3e88038" md5="54d78213255c8b1851da9efe72d110b1" sha1="675094d4de54cb4b225c417c8156a8d4f0a74a38"/>
 	</game>
+	<game name="Hoyle Mahjong Tiles (USA)" id="138295">
+		<category>Games</category>
+		<description>Hoyle Mahjong Tiles (USA)</description>
+		<rom name="Hoyle Mahjong Tiles (USA).bin" size="582872640" crc="04662148" md5="f2d757608fd5d581209c44a50bb2cb73" sha1="6aecb969f2227e7a7e53489be79460fdfbdc6e7e"/>
+		<rom name="Hoyle Mahjong Tiles (USA).cue" size="114" crc="c5e30164" md5="5febb10c401a179528137b5b10a4a2ae" sha1="bf6d1d9e459ed2d49204eabc0e672608fdb4cc92"/>
+	</game>
 	<game name="Hoyle Majestic Chess (USA)" id="92359">
 		<category>Games</category>
 		<description>Hoyle Majestic Chess (USA)</description>
@@ -82034,6 +82040,11 @@
 		<description>Kandidat (Russia)</description>
 		<rom name="Kandidat (Russia).bin" size="145720512" crc="4dc60882" md5="d551b9ffb0d78ef3df69dfdbb7a1f4a5" sha1="d33664c2e84c72416314968ebf583ba4f944ef88"/>
 		<rom name="Kandidat (Russia).cue" size="83" crc="745d9345" md5="5eb773cda4b63ac5eb2794feb7b94a87" sha1="2261f938c33755a5aad176614f5486c2e26b8ab3"/>
+	</game>
+	<game name="Kane &amp; Lynch - Dead Men (Poland) (Patch Polonizujacy)" id="138321">
+		<category>Add-Ons</category>
+		<description>Kane &amp; Lynch - Dead Men (Poland) (Patch Polonizujacy)</description>
+		<rom name="Kane &amp; Lynch - Dead Men (Poland) (Patch Polonizujacy).iso" size="2950922240" crc="ac9ad6ae" md5="c887e7726487d77644eea97d23abe30e" sha1="021f3c18ed96d7105cb04ad3e44dfe73e3eff1f5"/>
 	</game>
 	<game name="Kane &amp; Lynch - Dead Men (USA) (En,Fr,De,Es,It)" id="66071">
 		<category>Games</category>
@@ -112000,10 +112011,10 @@
 		<description>Obscure - The Aftermath (USA)</description>
 		<rom name="Obscure - The Aftermath (USA).iso" size="4697497600" crc="20f71033" md5="e2e6d10550dd8e71ef0c23bac3b16ceb" sha1="2c17767e4780413fecee7dfe56cf185fcdb64aec"/>
 	</game>
-	<game name="Obscure II (Europe) (En,Fr,De,Es,It)" id="41314">
+	<game name="Obscure II (Europe) (En,Fr,De,Es,It) (Rev 1)" id="41314">
 		<category>Games</category>
-		<description>Obscure II (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Obscure II (Europe) (En,Fr,De,Es,It).iso" size="4697497600" crc="fc095258" md5="c68b914eb728df3509d77bc9adf18b58" sha1="4082c1a213f56432e10a26a4d18ae6529c1ea2e8"/>
+		<description>Obscure II (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+		<rom name="Obscure II (Europe) (En,Fr,De,Es,It) (Rev 1).iso" size="4697497600" crc="fc095258" md5="c68b914eb728df3509d77bc9adf18b58" sha1="4082c1a213f56432e10a26a4d18ae6529c1ea2e8"/>
 	</game>
 	<game name="Obsidian (USA) (Demo)" id="103809">
 		<category>Demos</category>
@@ -122812,6 +122823,11 @@
 		<category>Games</category>
 		<description>Prince of Persia (World) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Prince of Persia (World) (En,Fr,De,Es,It,Nl).iso" size="7745863680" crc="3170d97b" md5="f2131c74deb853b31f0a04cdf22790f0" sha1="b332fc2b6e8357049d25b5f5940aabf9965a1ffb"/>
+	</game>
+	<game name="Prince of Persia - Dwa Trony (Poland)" id="138323">
+		<category>Games</category>
+		<description>Prince of Persia - Dwa Trony (Poland)</description>
+		<rom name="Prince of Persia - Dwa Trony (Poland).iso" size="4536565760" crc="e16fb8dc" md5="a53f718c8fee96084393bdbb4bbf2e4e" sha1="ece3b79fccfd6900732be8eff28d6421da75b2a7"/>
 	</game>
 	<game name="Prince of Persia - Piaski Czasu (Poland) (Disc 2)" id="125886">
 		<category>Games</category>
@@ -173800,6 +173816,11 @@
 		<description>Walt Disney Pictures Prasentiert Triff die Robinsons (Germany)</description>
 		<rom name="Walt Disney Pictures Prasentiert Triff die Robinsons (Germany).iso" size="1521680384" crc="d549e7eb" md5="a01e7ba4fd35dbc4552b7330312edb08" sha1="71c7c6f7c5caf092da4106bbdf53649838c638b0"/>
 	</game>
+	<game name="Walt Disney Pictures Presents Meet the Robinsons (USA)" id="138298">
+		<category>Games</category>
+		<description>Walt Disney Pictures Presents Meet the Robinsons (USA)</description>
+		<rom name="Walt Disney Pictures Presents Meet the Robinsons (USA).iso" size="1531478016" crc="c6ea7ea4" md5="5f1aaf2ed156bda1b29b2d3b2b4c6b27" sha1="25373b9bb026e4da1807b8390fa31fecaf12afd6"/>
+	</game>
 	<game name="Walt Disney World Quest - Magical Racing Tour (Europe)" id="55768">
 		<category>Games</category>
 		<description>Walt Disney World Quest - Magical Racing Tour (Europe)</description>
@@ -178560,11 +178581,11 @@
 		<rom name="World Championship Poker 2 featuring Howard Lederer (USA).bin" size="287884800" crc="65e6b44d" md5="d4b470aa70ce8c915028eaed8902f025" sha1="d5af7cb7e6d3a9491a8aeb500a38e0007dfdd562"/>
 		<rom name="World Championship Poker 2 featuring Howard Lederer (USA).cue" size="123" crc="434c3ee2" md5="7f03f90577020bb8db059336f51806c5" sha1="ed48e2a2ce87615ae6c74ea7d48ec0bdce57e10d"/>
 	</game>
-	<game name="World Championship Pool 2004 (Europe) (En,Fr,De)" id="37815">
+	<game name="World Championship Pool 2004 (USA)" id="138296">
 		<category>Games</category>
-		<description>World Championship Pool 2004 (Europe) (En,Fr,De)</description>
-		<rom name="World Championship Pool 2004 (Europe) (En,Fr,De).bin" size="617047200" crc="8d26551f" md5="9d65781fbe3050d5578aeab512d75d6f" sha1="d8189d92fc404732cfc2eb1f3942f478a9d8c9f5"/>
-		<rom name="World Championship Pool 2004 (Europe) (En,Fr,De).cue" size="114" crc="55f27be2" md5="078df0e63c7da294e8cd687c992b2118" sha1="a705f1e27b024a8e2112b0f56f4bd9a50c12fc53"/>
+		<description>World Championship Pool 2004 (USA)</description>
+		<rom name="World Championship Pool 2004 (USA).bin" size="610790880" crc="47b4df62" md5="5e1077f715c0756e4c84c5019ee802e8" sha1="cd139fd259fb61c6e7fc23a0e4966d0d13178413"/>
+		<rom name="World Championship Pool 2004 (USA).cue" size="100" crc="e2697d5a" md5="0c8584ac1bd2242c9435a289c1f98bbc" sha1="3e1b3683c761fa88ec3a651fad77834cfd21be77"/>
 	</game>
 	<game name="World Championship Snooker 2004 (Europe)" id="117937">
 		<category>Games</category>

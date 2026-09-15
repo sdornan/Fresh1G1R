@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (368) (-y) [-aAbBcefkmMoprv] (20260910-141939) (Retool)</description>
-		<version>20260910-141939</version>
-		<date>2026-09-12 07-13-37</date>
+		<description>Nintendo - Satellaview (372) (-y) [-aAbBcefkmMoprv] (20260914-111757) (Retool)</description>
+		<version>20260914-111757</version>
+		<date>2026-09-15 07-37-14</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -96,25 +96,40 @@
 		<description>BS F-Zero Grand Prix 2 - Practice (Japan) (Premiere) (1997-6-7)</description>
 		<rom name="BS F-Zero Grand Prix 2 - Practice (Japan) (Premiere) (1997-6-7).bs" size="1048576" crc="b86dd6a2" md5="4e6275ac5f7ec73d2dc41c70a82c038f" sha1="e8eeb60f0a7009205ecf0bd9aaeb21c8c391a17f" sha256="aa9b96b80b0aa0d5b384bb3a41a4fa145085902e319c54661e16ff29492c6bd1"/>
 	</game>
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (9-29) (SoundLink)" id="0313">
+	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (1997-9-29) (SoundLink)" id="0313">
 		<category>Games</category>
-		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (9-29) (SoundLink)</description>
-		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (9-29) (SoundLink).bs" size="1048576" crc="2bcdf855" md5="d329ea8cafe57fc02678f61725eb464a" sha1="da2c02ff04d454a183c9e07df5323adfe0961ce8" sha256="bd11e6b8d9bb2a7d20fd31d894e052e4f4718dd6db94cca317fbbd104f5b3d9d"/>
+		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (1997-9-29) (SoundLink)</description>
+		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (1997-9-29) (SoundLink).bs" size="1048576" crc="2bcdf855" md5="d329ea8cafe57fc02678f61725eb464a" sha1="da2c02ff04d454a183c9e07df5323adfe0961ce8" sha256="bd11e6b8d9bb2a7d20fd31d894e052e4f4718dd6db94cca317fbbd104f5b3d9d"/>
 	</game>
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (4-13) (SoundLink)" id="0314">
+	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (1999-4-4) (SoundLink)" id="3607">
 		<category>Games</category>
-		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (4-13) (SoundLink)</description>
-		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (4-13) (SoundLink).bs" size="1048576" crc="fcaafe47" md5="204c828dcdefb7abea0a2fc246e23c13" sha1="2fe5509dcff4c50d3d355172c31a6906956c6a64" sha256="065b0d79f59e7ca1b0bbd32cfdc2f05477f4201db701dafc14589612a0afa43c"/>
+		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (1999-4-4) (SoundLink)</description>
+		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (1999-4-4) (SoundLink).bs" size="1048576" crc="d42ea2e0" md5="a919f44e13fb564066e36840136ef42a" sha1="f279a35711fe3118234c1c114d2733dd12af88c3" sha256="7b21a43dc4c5125f5dc12f3f4b4a691d2e6f9f58181dcdc2fb889c11f1fedc10"/>
 	</game>
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (12-15) (SoundLink)" id="3967">
+	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (1999-4-13) (SoundLink)" id="0314">
 		<category>Games</category>
-		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (12-15) (SoundLink)</description>
-		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (12-15) (SoundLink).bs" size="1048576" crc="e3a31fcf" md5="68e50f17cad46102f7cca94453e4d14f" sha1="1fedf40f3e0d10d90b0c3e2e311a9f9a0eb7f305" sha256="d15075e685893c1f6d44f5c4a4895aefdb56a13e978af4fe7ffb0223f2331600"/>
+		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (1999-4-13) (SoundLink)</description>
+		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (1999-4-13) (SoundLink).bs" size="1048576" crc="fcaafe47" md5="204c828dcdefb7abea0a2fc246e23c13" sha1="2fe5509dcff4c50d3d355172c31a6906956c6a64" sha256="065b0d79f59e7ca1b0bbd32cfdc2f05477f4201db701dafc14589612a0afa43c"/>
 	</game>
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (4-29) (SoundLink)" id="0316">
+	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (1997-12-15) (SoundLink)" id="3967">
 		<category>Games</category>
-		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (4-29) (SoundLink)</description>
-		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (4-29) (SoundLink).bs" size="1048576" crc="6ca61c7b" md5="210b58b71fe979c45490b4ce4f4944de" sha1="186b3631067b82f81d2bc23e3080709eaaf3dd2f" sha256="0444d19332fe9d631df2fed0f76a1f56ac1ecde746e80e3ca434480f8d0cfc3e"/>
+		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (1997-12-15) (SoundLink)</description>
+		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (1997-12-15) (SoundLink).bs" size="1048576" crc="e3a31fcf" md5="68e50f17cad46102f7cca94453e4d14f" sha1="1fedf40f3e0d10d90b0c3e2e311a9f9a0eb7f305" sha256="d15075e685893c1f6d44f5c4a4895aefdb56a13e978af4fe7ffb0223f2331600"/>
+	</game>
+	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (1999-4-21) (SoundLink)" id="0315">
+		<category>Games</category>
+		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (1999-4-21) (SoundLink)</description>
+		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (1999-4-21) (SoundLink).bs" size="1048576" crc="3d3eb686" md5="91bbc9fd486e37d54c0cb09bae8d65a5" sha1="8d45cca2711f43e5877e4a45d9291d2cb774f00a" sha256="df95f233f08ac512706ffcc2f37b6ca5ac7b0f6118d866bf32ef3dbedd994fcb"/>
+	</game>
+	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (1999-4-28) (SoundLink)" id="3608">
+		<category>Games</category>
+		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (1999-4-28) (SoundLink)</description>
+		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (1999-4-28) (SoundLink).bs" size="1048576" crc="f5c19c84" md5="d58b996cb4672bee231e5de5e53d0b68" sha1="e02963097da96d80c278513bed6ee49b5e508c99" sha256="0412b56da2d3113afc45cd8248e2e1d1f3da9db2804d36a123f48993a23677ac"/>
+	</game>
+	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (1999-4-29) (SoundLink)" id="0316">
+		<category>Games</category>
+		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (1999-4-29) (SoundLink)</description>
+		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (1999-4-29) (SoundLink).bs" size="1048576" crc="6ca61c7b" md5="210b58b71fe979c45490b4ce4f4944de" sha1="186b3631067b82f81d2bc23e3080709eaaf3dd2f" sha256="0444d19332fe9d631df2fed0f76a1f56ac1ecde746e80e3ca434480f8d0cfc3e"/>
 	</game>
 	<game name="BS Fuurai no Shiren - Surara o Sukue - Dai-2-shuu (Japan) (SoundLink)" id="0317">
 		<category>Games</category>
@@ -460,10 +475,11 @@
 		<description>Bokujou Monogatari - Dai-4-wa (Japan) (1996-11-16) (SoundLink)</description>
 		<rom name="Bokujou Monogatari - Dai-4-wa (Japan) (1996-11-16) (SoundLink).bs" size="1048576" crc="f384b235" md5="8838b2cd2e2a816ed8fefce98cbc7ebc" sha1="6011df3c53de919fcf2e6fd104d5ea1b7a0cb3d6" sha256="4027cbdcd55ddf753dd7e15db949d535d0856061c2cc8ab5d60203a8b9031979"/>
 	</game>
-	<game name="Bounty Sword - Satellaview Special Time Attack Version (Japan)" id="3716">
+	<game name="Bounty Sword - Satellaview Special Time Attack Version (Japan) (1995-9-7)" id="3716">
+		<category>Demos</category>
 		<category>Games</category>
-		<description>Bounty Sword - Satellaview Special Time Attack Version (Japan)</description>
-		<rom name="Bounty Sword - Satellaview Special Time Attack Version (Japan).bs" size="1048576" crc="588e828f" md5="d286964f93371fe1f264444a79c3f1c2" sha1="f3975e723b02f74c1a2259b746c681d4d8050985" sha256="caa93797897b831e73abdd2d48d30af35b4105b2cc0f172d39aa829308bfde13"/>
+		<description>Bounty Sword - Satellaview Special Time Attack Version (Japan) (1995-9-7)</description>
+		<rom name="Bounty Sword - Satellaview Special Time Attack Version (Japan) (1995-9-7).bs" size="1048576" crc="588e828f" md5="d286964f93371fe1f264444a79c3f1c2" sha1="f3975e723b02f74c1a2259b746c681d4d8050985" sha256="caa93797897b831e73abdd2d48d30af35b4105b2cc0f172d39aa829308bfde13"/>
 	</game>
 	<game name="Cameltry (Japan)" id="3993">
 		<category>Games</category>
@@ -609,11 +625,11 @@
 		<description>Dokapon Gaiden - Honoo no Audition (Japan) (9-12)</description>
 		<rom name="Dokapon Gaiden - Honoo no Audition (Japan) (9-12).bs" size="1048576" crc="c1f43542" md5="f1c2fb6b634f78fd8305035efa2ebc64" sha1="dda08cd802438714c5f7fb7f63778b06b7723b6a" sha256="c088d12ac27829887dec202f0ff261464936ff025f20ec826cd1270f6dbd1e2b"/>
 	</game>
-	<game name="Dokapon Gaiden - Honoo no Audition BS Ban (Japan)" id="3744">
+	<game name="Dokapon Gaiden - Honoo no Audition BS Ban (Japan) (1995-11-22)" id="3744">
 		<category>Demos</category>
 		<category>Games</category>
-		<description>Dokapon Gaiden - Honoo no Audition BS Ban (Japan)</description>
-		<rom name="Dokapon Gaiden - Honoo no Audition BS Ban (Japan).bs" size="1048576" crc="ae00616d" md5="b8c9d446d0fcbbe118dcc72a1c5c06c9" sha1="42b4690341f72535fc29b80c8c7369ba445474f3" sha256="386c48ae01a435f4507c47eac17d61f368b73e07727f2d73d42ee3c60ea94a7e"/>
+		<description>Dokapon Gaiden - Honoo no Audition BS Ban (Japan) (1995-11-22)</description>
+		<rom name="Dokapon Gaiden - Honoo no Audition BS Ban (Japan) (1995-11-22).bs" size="1048576" crc="ae00616d" md5="b8c9d446d0fcbbe118dcc72a1c5c06c9" sha1="42b4690341f72535fc29b80c8c7369ba445474f3" sha256="386c48ae01a435f4507c47eac17d61f368b73e07727f2d73d42ee3c60ea94a7e"/>
 	</game>
 	<game name="Dr. Mario BS (Japan) (En) (6-29)" id="3897">
 		<category>Games</category>
@@ -717,10 +733,10 @@
 		<description>Game Tora no Chou Ooana (1995-6-23, Part 2) + Undake 30 - Same Game Daisakusen - Mario Version (1995-10-30) (Japan) (SoundLink Magazine, Game)</description>
 		<rom name="Game Tora no Chou Ooana (1995-6-23, Part 2) + Undake 30 - Same Game Daisakusen - Mario Version (1995-10-30) (Japan) (SoundLink Magazine, Game).bs" size="1048576" crc="081dc413" md5="dd3fc0a856516de538deb68593c22f1c" sha1="dcb0d76b279ddb3702eccac9c04c556a91850edb" sha256="96f7dd7eb863ffb9cfd1a90434781fa3e612473724f8beecc8a0d8ffb3833c79"/>
 	</game>
-	<game name="Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (9-8) (Japan) (SoundLink Magazine, Magazine)" id="3835">
+	<game name="Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (1996-9-8) (Japan) (SoundLink Magazine, Magazine)" id="3835">
 		<category>Magazines</category>
-		<description>Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (9-8) (Japan) (SoundLink Magazine, Magazine)</description>
-		<rom name="Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (9-8) (Japan) (SoundLink Magazine, Magazine).bs" size="1048576" crc="fd5afe1b" md5="7b8a63f6260cf28749998fdf3fd42c69" sha1="4224ccc27476c971d3ad50b7a4e266b6b4e53682" sha256="a87c71c0f15d7f27270eee2025b34ce3c0199c2f5487ae9fd4c130bf534ca162"/>
+		<description>Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (1996-9-8) (Japan) (SoundLink Magazine, Magazine)</description>
+		<rom name="Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (1996-9-8) (Japan) (SoundLink Magazine, Magazine).bs" size="1048576" crc="fd5afe1b" md5="7b8a63f6260cf28749998fdf3fd42c69" sha1="4224ccc27476c971d3ad50b7a4e266b6b4e53682" sha256="a87c71c0f15d7f27270eee2025b34ce3c0199c2f5487ae9fd4c130bf534ca162"/>
 	</game>
 	<game name="Game Tora no Ooana Special (Japan) (1995-11-18) (SoundLink Magazine)" id="3789">
 		<category>Magazines</category>
@@ -837,10 +853,10 @@
 		<description>Kirby no Omochabako - Arrange Ball (Japan)</description>
 		<rom name="Kirby no Omochabako - Arrange Ball (Japan).bs" size="524288" crc="bc49f827" md5="7ca9979d1fc3e1cef697c757d4616c2a" sha1="31407d5b2e60e480be4f5e34ce47f6a0a8de1b08" sha256="0cbbb40b99f163aebdaa80e2506daf50ca4864c2cd565299b7867af7eb8b51f7"/>
 	</game>
-	<game name="Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check (1996-3-28, 3-30) (Japan)" id="3790">
+	<game name="Kirby no Omochabako - Ball Rally (1996-4-2) + Waiwai Check (1996-3-28, 3-30) (Japan)" id="3790">
 		<category>Games</category>
-		<description>Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check (1996-3-28, 3-30) (Japan)</description>
-		<rom name="Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check (1996-3-28, 3-30) (Japan).bs" size="1048576" crc="d1fe8598" md5="7a105cf787119dbe9874fc9900a34574" sha1="0d78f167beeaa3f2a056697d749721361b02a307" sha256="314567dbe9f2d2c516756b79c1425feb474263606debfed4f259ff09d9fdc7e9"/>
+		<description>Kirby no Omochabako - Ball Rally (1996-4-2) + Waiwai Check (1996-3-28, 3-30) (Japan)</description>
+		<rom name="Kirby no Omochabako - Ball Rally (1996-4-2) + Waiwai Check (1996-3-28, 3-30) (Japan).bs" size="1048576" crc="d1fe8598" md5="7a105cf787119dbe9874fc9900a34574" sha1="0d78f167beeaa3f2a056697d749721361b02a307" sha256="314567dbe9f2d2c516756b79c1425feb474263606debfed4f259ff09d9fdc7e9"/>
 	</game>
 	<game name="Kirby no Omochabako - Baseball (Japan) (Premiere) (1996-2-9)" id="1364">
 		<category>Games</category>
@@ -993,10 +1009,11 @@
 		<description>Lily Franky Theater - Manga (Japan) (1995-5-11) (SoundLink Magazine)</description>
 		<rom name="Lily Franky Theater - Manga (Japan) (1995-5-11) (SoundLink Magazine).bs" size="1048576" crc="e704f09f" md5="628270e8edee8597c28b64692fe61a1c" sha1="c9de9cad62b70b4e92e4fa9d727af66c4dbf8fd6" sha256="97fa5621f58d52da9cdf56a89d5209b3b7e1185c74a75a36b4cde1b4db1b0140"/>
 	</game>
-	<game name="Logos Panic Goaisatsu BS Ban (Japan)" id="3553">
+	<game name="Logos Panic Goaisatsu BS Ban (Japan) (1995-11-27)" id="3553">
+		<category>Demos</category>
 		<category>Games</category>
-		<description>Logos Panic Goaisatsu BS Ban (Japan)</description>
-		<rom name="Logos Panic Goaisatsu BS Ban (Japan).bs" size="1048576" crc="c6f54c8d" md5="004984ab9b18933d6eb8c5c42b66b45e" sha1="a36cdb6ca4a01eea4cd68568241cc82db7ba5cbc" sha256="ba226cb5fd93ea06cc7a98e4f92795f45774b7a73f42051e0fc5e9a4ca7d4ca5"/>
+		<description>Logos Panic Goaisatsu BS Ban (Japan) (1995-11-27)</description>
+		<rom name="Logos Panic Goaisatsu BS Ban (Japan) (1995-11-27).bs" size="1048576" crc="c6f54c8d" md5="004984ab9b18933d6eb8c5c42b66b45e" sha1="a36cdb6ca4a01eea4cd68568241cc82db7ba5cbc" sha256="ba226cb5fd93ea06cc7a98e4f92795f45774b7a73f42051e0fc5e9a4ca7d4ca5"/>
 	</game>
 	<game name="Lord Monarch (Japan) (8-2)" id="3761">
 		<category>Games</category>
@@ -1030,10 +1047,10 @@
 		<description>Mario Paint - BS Ban (Japan) (8-14)</description>
 		<rom name="Mario Paint - BS Ban (Japan) (8-14).bs" size="1048576" crc="74cffdd6" md5="251a62720e5d29e6b32e71e42c52317e" sha1="b4cd7e70ca539d3aac35571c803b20b2ca726a62" sha256="f99159f74841833b24fef2eaaf554d6f8c09df56a2ec01d13e2dfaed4bad7e9b"/>
 	</game>
-	<game name="Mario Paint - Yuushou Naizou Ban (Japan)" id="1562">
+	<game name="Mario Paint - Yuushou Naizou Ban (Japan) (1998-1-11)" id="1562">
 		<category>Games</category>
-		<description>Mario Paint - Yuushou Naizou Ban (Japan)</description>
-		<rom name="Mario Paint - Yuushou Naizou Ban (Japan).bs" size="1048576" crc="d521d521" md5="fb7adb28d74f2f1c56998d527b5be6bb" sha1="9007790195990a0495a68bc9bcecf5f5bcae50f8" sha256="59cbe4cfd6482434c596c61f2bfd8f7b5d6551aabd32c6118ad4186ba3d2372f"/>
+		<description>Mario Paint - Yuushou Naizou Ban (Japan) (1998-1-11)</description>
+		<rom name="Mario Paint - Yuushou Naizou Ban (Japan) (1998-1-11).bs" size="1048576" crc="d521d521" md5="fb7adb28d74f2f1c56998d527b5be6bb" sha1="9007790195990a0495a68bc9bcecf5f5bcae50f8" sha256="59cbe4cfd6482434c596c61f2bfd8f7b5d6551aabd32c6118ad4186ba3d2372f"/>
 	</game>
 	<game name="Mickey to Donald - Magical Adventure 3 (Japan) (Demo) (1996-1-7)" id="3974">
 		<category>Demos</category>
@@ -1051,15 +1068,15 @@
 		<description>Mirai-gata Idol Kaihatsu System - Media Strawberry - Vol. 12 (Japan) (SoundLink Magazine)</description>
 		<rom name="Mirai-gata Idol Kaihatsu System - Media Strawberry - Vol. 12 (Japan) (SoundLink Magazine).bs" size="524288" crc="0836869e" md5="47acb2ae72388ab1bcd6f6df33bd4541" sha1="a9c248668d9d51633a6da8a4846aea3e25c2d1a3" sha256="f25d1e8ac076b2a1c0e7fe8c7833541f403f58263cdd57f55bb07b4279ccb02e"/>
 	</game>
-	<game name="Monopoly 2 BS - Red Cup (Japan)" id="3476">
+	<game name="Monopoly 2 BS - Red Cup (Japan) (1996-1-20)" id="3476">
 		<category>Games</category>
-		<description>Monopoly 2 BS - Red Cup (Japan)</description>
-		<rom name="Monopoly 2 BS - Red Cup (Japan).bs" size="1048576" crc="9b0a441c" md5="175ec5d5640ac79fd81e09cc3728ce88" sha1="9ee4160c3d6ffb0e5e3889dc442e9d3263a11c1e" sha256="fc2c626b6d2061914be7cc38c5ce899cab6f3a1ccb8cf8a96e6d841601b07c55"/>
+		<description>Monopoly 2 BS - Red Cup (Japan) (1996-1-20)</description>
+		<rom name="Monopoly 2 BS - Red Cup (Japan) (1996-1-20).bs" size="1048576" crc="9b0a441c" md5="175ec5d5640ac79fd81e09cc3728ce88" sha1="9ee4160c3d6ffb0e5e3889dc442e9d3263a11c1e" sha256="fc2c626b6d2061914be7cc38c5ce899cab6f3a1ccb8cf8a96e6d841601b07c55"/>
 	</game>
-	<game name="Monopoly 2 BS - Yellow Cup (Japan)" id="3477">
+	<game name="Monopoly 2 BS - Yellow Cup (Japan) (1996-1-21)" id="3477">
 		<category>Games</category>
-		<description>Monopoly 2 BS - Yellow Cup (Japan)</description>
-		<rom name="Monopoly 2 BS - Yellow Cup (Japan).bs" size="1048576" crc="ed1108b5" md5="ecb5522adf03785f3586cd05bdd857a3" sha1="11616e85ec1d7b3c31272f2076e56dfc97e4f3e4" sha256="f6a61eb0b5ebbd18e02412900f82d62cbf0a8585e8732f2ac8833562866c2b1f"/>
+		<description>Monopoly 2 BS - Yellow Cup (Japan) (1996-1-21)</description>
+		<rom name="Monopoly 2 BS - Yellow Cup (Japan) (1996-1-21).bs" size="1048576" crc="ed1108b5" md5="ecb5522adf03785f3586cd05bdd857a3" sha1="11616e85ec1d7b3c31272f2076e56dfc97e4f3e4" sha256="f6a61eb0b5ebbd18e02412900f82d62cbf0a8585e8732f2ac8833562866c2b1f"/>
 	</game>
 	<game name="Mystic Ark (Japan) (Demo) (1995-6-26)" id="3745">
 		<category>Demos</category>
@@ -1088,10 +1105,11 @@
 		<description>Nintama Rantarou Special (Japan)</description>
 		<rom name="Nintama Rantarou Special (Japan).bs" size="1048576" crc="1591d202" md5="089f81a3e39b08d5622d00fabadaa189" sha1="4b06bd2e8719128a9848ab3cb67872deb3f16d3a" sha256="c42764fe71ac174063404e8beccfe66d87d54a6d81d5bfae703918bde8ff7bfb"/>
 	</game>
-	<game name="Okirakukouza + Kanaderu Score + Satesupo DX - Dai-5-gou (Japan) (Data, Magazine)" id="3646">
-		<category>Games</category>
-		<description>Okirakukouza + Kanaderu Score + Satesupo DX - Dai-5-gou (Japan) (Data, Magazine)</description>
-		<rom name="Okirakukouza + Kanaderu Score + Satesupo DX - Dai-5-gou (Japan) (Data, Magazine).bs" size="1048576" crc="286ff72f" md5="c99592b4f04dd2c01b0b8f1d1f76f10c" sha1="7bce9a2cde3611968b1aef4c38c7faeaa72b6702" sha256="341b475ce0463cab52a431005b25c7a5292f21cf5df6e5f35e7a71ade87341f2"/>
+	<game name="Okirakukouza + Kanaderu Score + Satesupo DX - Dai-5-gou (1996-9-28) (Japan) (Data, Magazine)" id="3646">
+		<category>Add-Ons</category>
+		<category>Magazines</category>
+		<description>Okirakukouza + Kanaderu Score + Satesupo DX - Dai-5-gou (1996-9-28) (Japan) (Data, Magazine)</description>
+		<rom name="Okirakukouza + Kanaderu Score + Satesupo DX - Dai-5-gou (1996-9-28) (Japan) (Data, Magazine).bs" size="1048576" crc="286ff72f" md5="c99592b4f04dd2c01b0b8f1d1f76f10c" sha1="7bce9a2cde3611968b1aef4c38c7faeaa72b6702" sha256="341b475ce0463cab52a431005b25c7a5292f21cf5df6e5f35e7a71ade87341f2"/>
 	</game>
 	<game name="Organic Stone - Honpen (Japan) (Data Pack)" id="3652">
 		<category>Games</category>
@@ -1103,10 +1121,11 @@
 		<description>Otakuman wa do Itsuda! (1995-5-19) + Game Tora no Ooana (1995-5-19) (Japan) (SoundLink Magazine)</description>
 		<rom name="Otakuman wa do Itsuda! (1995-5-19) + Game Tora no Ooana (1995-5-19) (Japan) (SoundLink Magazine).bs" size="1048576" crc="c3c1e7bb" md5="f3c14849ec70af1ec53339ff85c7717e" sha1="2e7b8997f96c8e6060983c0688a82779548b16dd" sha256="a5dac4d8941b62406e1ce508997bb1fa266976bdefee37d55f2f2d71e8120b5b"/>
 	</game>
-	<game name="Panel de Pon - BS Ban (Japan)" id="3818">
+	<game name="Panel de Pon - BS Ban (Japan) (1996-4-8)" id="3818">
+		<category>Demos</category>
 		<category>Games</category>
-		<description>Panel de Pon - BS Ban (Japan)</description>
-		<rom name="Panel de Pon - BS Ban (Japan).bs" size="1048576" crc="3426834c" md5="5001783069da117f759f96bfff74a80c" sha1="b3fe06166aca9cc9f7a6035de753abe6cd798967" sha256="fffd9caf6d09970c18f97e3c6bd30b4d6dc566bfb5b18f77273ed764da37e852"/>
+		<description>Panel de Pon - BS Ban (Japan) (1996-4-8)</description>
+		<rom name="Panel de Pon - BS Ban (Japan) (1996-4-8).bs" size="1048576" crc="3426834c" md5="5001783069da117f759f96bfff74a80c" sha1="b3fe06166aca9cc9f7a6035de753abe6cd798967" sha256="fffd9caf6d09970c18f97e3c6bd30b4d6dc566bfb5b18f77273ed764da37e852"/>
 	</game>
 	<game name="Panel de Pon - Event '98 (Japan) (1997-12-28)" id="1926">
 		<category>Games</category>
@@ -1358,10 +1377,11 @@
 		<description>St. GIGA Choujou Kessen (Japan) (1997-2-15) (SoundLink Magazine)</description>
 		<rom name="St. GIGA Choujou Kessen (Japan) (1997-2-15) (SoundLink Magazine).bs" size="524288" crc="cc1707ac" md5="0427056604119580225e3326f08722ac" sha1="3f747742015b8671661ff1c5ca85eac4ec91b798" sha256="98c4afd53d25c2238256da3123dfae2be273b886775bdd759a42c68cce2358b4"/>
 	</game>
-	<game name="Star Soldier - 2 Minute Mode (Japan) (En)" id="3591">
+	<game name="Star Soldier - 2 Minute Mode (Japan) (En) (1995-8-24)" id="3591">
+		<category>Demos</category>
 		<category>Games</category>
-		<description>Star Soldier - 2 Minute Mode (Japan) (En)</description>
-		<rom name="Star Soldier - 2 Minute Mode (Japan) (En).bs" size="131072" crc="23c688e9" md5="972c865f8c3db09137cb4b526855b305" sha1="8136cdfe7bc5c003ba2bf4e72688fcfeedc3d1d6" sha256="d1e8576d0b14dc015efcb65204f3f4ff7fb7dd4b7a21dfee10ddeeb5e3e22ca0"/>
+		<description>Star Soldier - 2 Minute Mode (Japan) (En) (1995-8-24)</description>
+		<rom name="Star Soldier - 2 Minute Mode (Japan) (En) (1995-8-24).bs" size="131072" crc="23c688e9" md5="972c865f8c3db09137cb4b526855b305" sha1="8136cdfe7bc5c003ba2bf4e72688fcfeedc3d1d6" sha256="d1e8576d0b14dc015efcb65204f3f4ff7fb7dd4b7a21dfee10ddeeb5e3e22ca0"/>
 	</game>
 	<game name="Sugoi RPG - Kouhen (Japan)" id="3714">
 		<category>Games</category>
@@ -1410,20 +1430,20 @@
 		<description>Super E.D.F. (Japan) (En)</description>
 		<rom name="Super E.D.F. (Japan) (En).bs" size="1048576" crc="2dd53ba4" md5="ab09f131dc565a9f2d4258cf52f27d2e" sha1="5301ae75b3707df9c60e4c7b1a2e6b90bece1e6e" sha256="f0222e946d8de4123f3922d2a44a6bcdba87b1e1ac99bb261532c4a9b6944780"/>
 	</game>
-	<game name="Super Famicom Wars BS Ban - Hagoromo-jima (Japan)" id="3610">
+	<game name="Super Famicom Wars BS Ban - Hagoromo-jima (Japan) (1998-3-14)" id="3610">
 		<category>Games</category>
-		<description>Super Famicom Wars BS Ban - Hagoromo-jima (Japan)</description>
-		<rom name="Super Famicom Wars BS Ban - Hagoromo-jima (Japan).bs" size="1048576" crc="1d43fa3b" md5="2feb241618bb96a65ddd25b4f9dd675a" sha1="26c63f37ca75a250ee1f03cdb4dc1e4addb9ad95" sha256="98d969de0d4a285dc601baff7fc1c89b9ce00dc69ce032d61ab7d83cbbcf0cf6"/>
+		<description>Super Famicom Wars BS Ban - Hagoromo-jima (Japan) (1998-3-14)</description>
+		<rom name="Super Famicom Wars BS Ban - Hagoromo-jima (Japan) (1998-3-14).bs" size="1048576" crc="1d43fa3b" md5="2feb241618bb96a65ddd25b4f9dd675a" sha1="26c63f37ca75a250ee1f03cdb4dc1e4addb9ad95" sha256="98d969de0d4a285dc601baff7fc1c89b9ce00dc69ce032d61ab7d83cbbcf0cf6"/>
 	</game>
-	<game name="Super Famicom Wars BS Ban - Noakazantou (Japan)" id="3749">
+	<game name="Super Famicom Wars BS Ban - Noakazantou (Japan) (1998-3-16)" id="3749">
 		<category>Games</category>
-		<description>Super Famicom Wars BS Ban - Noakazantou (Japan)</description>
-		<rom name="Super Famicom Wars BS Ban - Noakazantou (Japan).bs" size="1048576" crc="3b52d6f5" md5="fe683b7ae51c0a7f25cb889da10e86b4" sha1="bae5ec2fd7138936b2927d76c708534c2979b677" sha256="53d5e1e6a1f6748f6e75bb9aba800dec8bdabe07e66152a9530ae3fa07f94c8d"/>
+		<description>Super Famicom Wars BS Ban - Noakazantou (Japan) (1998-3-16)</description>
+		<rom name="Super Famicom Wars BS Ban - Noakazantou (Japan) (1998-3-16).bs" size="1048576" crc="3b52d6f5" md5="fe683b7ae51c0a7f25cb889da10e86b4" sha1="bae5ec2fd7138936b2927d76c708534c2979b677" sha256="53d5e1e6a1f6748f6e75bb9aba800dec8bdabe07e66152a9530ae3fa07f94c8d"/>
 	</game>
-	<game name="Super Famicom Wars BS Ban - Tsukinowa-jima (Japan)" id="2652">
+	<game name="Super Famicom Wars BS Ban - Tsukinowa-jima (Japan) (1998-3-22)" id="2652">
 		<category>Games</category>
-		<description>Super Famicom Wars BS Ban - Tsukinowa-jima (Japan)</description>
-		<rom name="Super Famicom Wars BS Ban - Tsukinowa-jima (Japan).bs" size="1048576" crc="53909dc4" md5="d65a73ad8ddc97a47fdaf7437a083e0c" sha1="cc358a40de93a8cc10a5eae45e21e2e832b59bc0" sha256="d69e3ac0cf85ffa0ac0782dc4ccd21705d0c8dfb712b82fed2fcb2715777157d"/>
+		<description>Super Famicom Wars BS Ban - Tsukinowa-jima (Japan) (1998-3-22)</description>
+		<rom name="Super Famicom Wars BS Ban - Tsukinowa-jima (Japan) (1998-3-22).bs" size="1048576" crc="53909dc4" md5="d65a73ad8ddc97a47fdaf7437a083e0c" sha1="cc358a40de93a8cc10a5eae45e21e2e832b59bc0" sha256="d69e3ac0cf85ffa0ac0782dc4ccd21705d0c8dfb712b82fed2fcb2715777157d"/>
 	</game>
 	<game name="Super Final Match Tennis (Japan) (4-24)" id="3889">
 		<category>Games</category>
@@ -1486,10 +1506,17 @@
 		<description>Super Puyo Puyo (Japan) (11-24)</description>
 		<rom name="Super Puyo Puyo (Japan) (11-24).bs" size="1048576" crc="90d74deb" md5="9ee71160ca3961bdaf4e3485a273315f" sha1="d2e13a239cc3c88ca13998f03a8e5cc6948a7b04" sha256="46aa1fd6fc5a987789652db029a394a4a88d6cc5beb0970cfb35a3510fcc5ffd"/>
 	</game>
-	<game name="Super Puyo Puyo Tsuu BS Ban (Japan) (11-30)" id="3466">
+	<game name="Super Puyo Puyo Tsuu BS Ban (Japan) (1995-11-30)" id="3466">
+		<category>Demos</category>
 		<category>Games</category>
-		<description>Super Puyo Puyo Tsuu BS Ban (Japan) (11-30)</description>
-		<rom name="Super Puyo Puyo Tsuu BS Ban (Japan) (11-30).bs" size="1048576" crc="e63ee3b1" md5="2de583aa9248f3d3e9d12e307df85b79" sha1="2fa77c709294da3a0ae5a918a574b49302a0bf17" sha256="13b664d2f8bedc5d212f865dc69074f94d8afe9408a5e1e4d000f54558d99fe0"/>
+		<description>Super Puyo Puyo Tsuu BS Ban (Japan) (1995-11-30)</description>
+		<rom name="Super Puyo Puyo Tsuu BS Ban (Japan) (1995-11-30).bs" size="1048576" crc="e63ee3b1" md5="2de583aa9248f3d3e9d12e307df85b79" sha1="2fa77c709294da3a0ae5a918a574b49302a0bf17" sha256="13b664d2f8bedc5d212f865dc69074f94d8afe9408a5e1e4d000f54558d99fe0"/>
+	</game>
+	<game name="Super Puyo Puyo Tsuu BS Ban (Japan) (1995-12-3)" id="3850">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Super Puyo Puyo Tsuu BS Ban (Japan) (1995-12-3)</description>
+		<rom name="Super Puyo Puyo Tsuu BS Ban (Japan) (1995-12-3).bs" size="1048576" crc="13951a1c" md5="2808f00d77a8d5b39c22e7158804abba" sha1="aef4b1ab411997244ed4dac0de105b28705a4f20" sha256="06f1f371e168cc2497750d5acda659d43c50f56dbe4d28c4cb6889f83b7cae0b"/>
 	</game>
 	<game name="Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 + 1997-2-8) (Japan) (Game, SoundLink Magazine)" id="3520">
 		<category>Games</category>
