@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (466) (-y) [-aAbBcefkmMoprv] (2026-09-14 22-01-07) (Retool)</description>
-		<version>2026-09-14 22-01-07</version>
-		<date>2026-09-15 07-30-32</date>
+		<description>DVD-Video (470) (-y) [-aAbBcefkmMoprv] (2026-09-15 18-31-07) (Retool)</description>
+		<version>2026-09-15 18-31-07</version>
+		<date>2026-09-16 07-30-57</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -640,6 +640,26 @@
 		<category>Demos</category>
 		<description>Fast and the Furious, The (USA)</description>
 		<rom name="Fast and the Furious, The (USA).iso" size="8314204160" crc="168df0c7" md5="e3e9b5f5d5576962b9b27132c07fc70d" sha1="c820cd9838ed3908e7eb756d3f0a67305b3e5fae"/>
+	</game>
+	<game name="Fault!! Ace (Japan) (Disc A)" id="138394">
+		<category>Games</category>
+		<description>Fault!! Ace (Japan) (Disc A)</description>
+		<rom name="Fault!! Ace (Japan) (Disc A).iso" size="5026164736" crc="54e9bfda" md5="16dc66651f01aacf3f8918fab0d67223" sha1="619c99ed99461dfb8f3521f0538407230bed7e2f"/>
+	</game>
+	<game name="Fault!! Ace (Japan) (Disc B)" id="138395">
+		<category>Games</category>
+		<description>Fault!! Ace (Japan) (Disc B)</description>
+		<rom name="Fault!! Ace (Japan) (Disc B).iso" size="8103501824" crc="675d9a9d" md5="346879f35ef9c58d243ac944c33f579e" sha1="0842296c3c525ee62d0f3ed2b621bbd7a75e8add"/>
+	</game>
+	<game name="Fault!! Service (Japan) (Disc A)" id="138396">
+		<category>Games</category>
+		<description>Fault!! Service (Japan) (Disc A)</description>
+		<rom name="Fault!! Service (Japan) (Disc A).iso" size="4405886976" crc="9c99b07b" md5="9256e570655e697796ddcef8404fe793" sha1="053866378a6e91b0da31d5fb457ef1e218d5e014"/>
+	</game>
+	<game name="Fault!! Service (Japan) (Disc B)" id="138397">
+		<category>Games</category>
+		<description>Fault!! Service (Japan) (Disc B)</description>
+		<rom name="Fault!! Service (Japan) (Disc B).iso" size="3836182528" crc="98028a76" md5="0ae9f7eb2269868a4b1a9a7fe4fbe2dc" sha1="191cf2af121172fd91707e4db8b7a74f67c69fdd"/>
 	</game>
 	<game name="Fingers On Buzzers - Second Edition (UK)" id="127248">
 		<category>Games</category>

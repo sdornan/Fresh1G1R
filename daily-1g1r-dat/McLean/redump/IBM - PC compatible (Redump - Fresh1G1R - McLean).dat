@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,533) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-15 07-21-07) (Retool)</description>
-		<version>2026-09-15 07-21-07</version>
-		<date>2026-09-15 07-39-13</date>
+		<description>IBM - PC compatible (13,535) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-16 03-32-35) (Retool)</description>
+		<version>2026-09-16 03-32-35</version>
+		<date>2026-09-16 07-42-19</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -119,6 +119,12 @@
 		<description>100+ Great Games (USA)</description>
 		<rom name="100+ Great Games (USA).bin" size="443043888" crc="e0ef0a50" md5="13e0d93d5e2bc57ac59b7c144a429847" sha1="a4c4c082c236a90b3190f877f82f8592565a2db2"/>
 		<rom name="100+ Great Games (USA).cue" size="88" crc="db428840" md5="9722ac2e99d95efefb14e36c9d4e746d" sha1="070a34c0316f837f8c2099cc6decaede9e30559f"/>
+	</game>
+	<game name="100+ Great Games Volume II (USA, Europe)" id="131551">
+		<category>Games</category>
+		<description>100+ Great Games Volume II (USA, Europe)</description>
+		<rom name="100+ Great Games Volume II (USA, Europe).bin" size="250694976" crc="4cb31a45" md5="addeda4ed1ee296a2408cc340d910061" sha1="6cdfcb877b3329c0451f93721082ab2b49baa0ef"/>
+		<rom name="100+ Great Games Volume II (USA, Europe).cue" size="106" crc="5c6ea097" md5="86781ab4a2e548566aec9a388d1a28b4" sha1="b3326d8136ad0220f7ce7048e36e9c7a41539ad8"/>
 	</game>
 	<game name="100,000 Games (USA) (Disc 1)" id="121890">
 		<category>Games</category>
@@ -1394,12 +1400,6 @@
 		<description>ABC Sports Monday Night Football (USA)</description>
 		<rom name="ABC Sports Monday Night Football (USA).bin" size="778380288" crc="aa0931f6" md5="83f0be688927f69ab9af0ba689bd9d25" sha1="81aae978a94b38e482b943e9f93521ad12ea82f4"/>
 		<rom name="ABC Sports Monday Night Football (USA).cue" size="104" crc="6df466b1" md5="242e53d23eaa10cf6c82d3715afb7bed" sha1="abe9282329c96f8ba39bbd881db46306772620a4"/>
-	</game>
-	<game name="ABC's &amp; 123's Racing Adventure (Australia)" id="103743">
-		<category>Games</category>
-		<description>ABC's &amp; 123's Racing Adventure (Australia)</description>
-		<rom name="ABC's &amp; 123's Racing Adventure (Australia).bin" size="401872128" crc="2ea3e434" md5="90d86b5418c584d92a11afcd23cd7d31" sha1="798c219165ed13c1e4988bf1c7896b973eaf3b7a"/>
-		<rom name="ABC's &amp; 123's Racing Adventure (Australia).cue" size="108" crc="3d2213c0" md5="0fab6edb64b17e9bac1f474f937f895b" sha1="58e7d979e3f56ba6e8446303e6fa418e7e160301"/>
 	</game>
 	<game name="ABC's Monday Night Football '98 (USA)" id="106058">
 		<category>Games</category>
@@ -37880,6 +37880,12 @@
 		<description>Highlights Puzzlemania (USA)</description>
 		<rom name="Highlights Puzzlemania (USA).bin" size="397154016" crc="0afa7003" md5="2c270c65839b38fd8c7ed109a62fffd5" sha1="67a533146f8e494e2c17889593d9ebb651b5018d"/>
 		<rom name="Highlights Puzzlemania (USA).cue" size="117" crc="3730664b" md5="4cafc54b1ed11637a22ae51a62c2ff5f" sha1="b80d7af22fc1420ca7e02332a1dec28714e5676b"/>
+	</game>
+	<game name="Hill Street Blues (Europe) (En,Fr,De,Es,It)" id="138428">
+		<category>Games</category>
+		<description>Hill Street Blues (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Hill Street Blues (Europe) (En,Fr,De,Es,It).bin" size="3718512" crc="4b594ceb" md5="492382af0dc4bcf44e81aae145b0dc2a" sha1="2eb355e3f57d5871ce126999d28b530e49687a12"/>
+		<rom name="Hill Street Blues (Europe) (En,Fr,De,Es,It).cue" size="132" crc="13245c5f" md5="aca28fd083d58d69608adeb7b499781c" sha1="84eec42f7daaf56a0c99d26efe5933cfba6aa7c3"/>
 	</game>
 	<game name="Hind (Europe)" id="66323">
 		<category>Games</category>
@@ -89849,6 +89855,11 @@
 		<description>Wakeboarding Unleashed featuring Shaun Murray (USA, Europe) (Disc 2) (Play Disc)</description>
 		<rom name="Wakeboarding Unleashed featuring Shaun Murray (USA, Europe) (Disc 2) (Play Disc).bin" size="792515808" crc="e99a9b08" md5="ec852bea64bdf4bc1dfec29d9b0b3b2a" sha1="66e13c958629e736feb60a61febcbbafd72aa569"/>
 		<rom name="Wakeboarding Unleashed featuring Shaun Murray (USA, Europe) (Disc 2) (Play Disc).cue" size="146" crc="e908dd57" md5="46bd9a1a78c78398f5dac61706ee30b7" sha1="1caa9183ddc468e8c2c138a5645b7a5f827e2e4a"/>
+	</game>
+	<game name="Walking Dead, The - A Telltale Game Series (USA)" id="138423">
+		<category>Games</category>
+		<description>Walking Dead, The - A Telltale Game Series (USA)</description>
+		<rom name="Walking Dead, The - A Telltale Game Series (USA).iso" size="3740729344" crc="0703ba1d" md5="40a46423f2e83b32a3f4fe3d3a208062" sha1="52bcbaa33abde1d8b73c5609cb5cd8b90545a55e"/>
 	</game>
 	<game name="Walking Dead, The - A Telltale Games Series (Australia)" id="131615">
 		<category>Games</category>

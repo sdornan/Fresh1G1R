@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,759) (-y) [-aAbBcdkmMpPuv] (2026-09-15 07-21-07) (Retool)</description>
-		<version>2026-09-15 07-21-07</version>
-		<date>2026-09-15 07-46-44</date>
+		<description>IBM - PC compatible (26,788) (-y) [-aAbBcdkmMpPuv] (2026-09-16 03-32-35) (Retool)</description>
+		<version>2026-09-16 03-32-35</version>
+		<date>2026-09-16 07-52-10</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -174,6 +174,12 @@
 		<description>100+ Great Games (USA)</description>
 		<rom name="100+ Great Games (USA).bin" size="443043888" crc="e0ef0a50" md5="13e0d93d5e2bc57ac59b7c144a429847" sha1="a4c4c082c236a90b3190f877f82f8592565a2db2"/>
 		<rom name="100+ Great Games (USA).cue" size="88" crc="db428840" md5="9722ac2e99d95efefb14e36c9d4e746d" sha1="070a34c0316f837f8c2099cc6decaede9e30559f"/>
+	</game>
+	<game name="100+ Great Games Volume II (USA, Europe)" id="131551">
+		<category>Games</category>
+		<description>100+ Great Games Volume II (USA, Europe)</description>
+		<rom name="100+ Great Games Volume II (USA, Europe).bin" size="250694976" crc="4cb31a45" md5="addeda4ed1ee296a2408cc340d910061" sha1="6cdfcb877b3329c0451f93721082ab2b49baa0ef"/>
+		<rom name="100+ Great Games Volume II (USA, Europe).cue" size="106" crc="5c6ea097" md5="86781ab4a2e548566aec9a388d1a28b4" sha1="b3326d8136ad0220f7ce7048e36e9c7a41539ad8"/>
 	</game>
 	<game name="100,000 Games (USA) (Disc 1)" id="121890">
 		<category>Games</category>
@@ -2886,8 +2892,14 @@
 		<rom name="ABC z Reksiem (Poland).bin" size="771183168" crc="1da0a442" md5="ca2b82a33f16a0f39111046a06253016" sha1="a485c614dc3ea4dc83a22f50f5f0d5b8bc791b26"/>
 		<rom name="ABC z Reksiem (Poland).cue" size="111" crc="b49342de" md5="905a824d37bf821dcb51a72d161eafeb" sha1="d9efc1d87d3a09803d917790509b3a5a91fc6423"/>
 	</game>
+	<game name="ABC's &amp; 123's (Australia)" id="138372">
+		<category>Educational</category>
+		<description>ABC's &amp; 123's (Australia)</description>
+		<rom name="ABC's &amp; 123's (Australia).bin" size="485775024" crc="0888ec5d" md5="a4fb2d581e7923f83b2ad0aa49a7d30c" sha1="e8cdadb85627f23ddd22db8a54f2d3fe36ec8797"/>
+		<rom name="ABC's &amp; 123's (Australia).cue" size="91" crc="041e167f" md5="92b263b36c1fd70cdeaefaae0e29bc73" sha1="07807df3c1b813836221b87388b65946b6253027"/>
+	</game>
 	<game name="ABC's &amp; 123's Racing Adventure (Australia)" id="103743">
-		<category>Games</category>
+		<category>Educational</category>
 		<description>ABC's &amp; 123's Racing Adventure (Australia)</description>
 		<rom name="ABC's &amp; 123's Racing Adventure (Australia).bin" size="401872128" crc="2ea3e434" md5="90d86b5418c584d92a11afcd23cd7d31" sha1="798c219165ed13c1e4988bf1c7896b973eaf3b7a"/>
 		<rom name="ABC's &amp; 123's Racing Adventure (Australia).cue" size="108" crc="3d2213c0" md5="0fab6edb64b17e9bac1f474f937f895b" sha1="58e7d979e3f56ba6e8446303e6fa418e7e160301"/>
@@ -14003,6 +14015,12 @@
 		<rom name="Azteken, Die (Germany) (Disc 2).bin" size="759011568" crc="d9bf1fd4" md5="1ad8e0fddb5710f73f1d105f49d358b4" sha1="2defc63b1f2c4d50c5e0843b7e6022ac472a24d5"/>
 		<rom name="Azteken, Die (Germany) (Disc 2).cue" size="97" crc="d6a0b3e3" md5="9f6d5d294e2b809efa7e964173a9ac8c" sha1="340cf600e3fb85a0be9411a6cc2e0a9cff033e72"/>
 	</game>
+	<game name="Azu Plus (Japan)" id="138392">
+		<category>Games</category>
+		<description>Azu Plus (Japan)</description>
+		<rom name="Azu Plus (Japan).bin" size="170454144" crc="9ff3a3bc" md5="2eb68c3637357a323cf26010b1ab96a8" sha1="39fd311214cf1dcb7f6aef91c00d866bd8f6bcf3"/>
+		<rom name="Azu Plus (Japan).cue" size="82" crc="eafe18f4" md5="854dca6df402f774a94ebb6a92a0085e" sha1="4418f02921bc1c9a7fa7a7d7968ef3652513bd15"/>
+	</game>
 	<game name="B-17 Flying Fortress - The Mighty 8th (USA)" id="58791">
 		<category>Games</category>
 		<description>B-17 Flying Fortress - The Mighty 8th (USA)</description>
@@ -22547,6 +22565,12 @@
 		<description>Bubble Town (USA)</description>
 		<rom name="Bubble Town (USA).bin" size="484201536" crc="e38eb4ef" md5="d1a8bc5ed3dcf4a39b55b606bba755f5" sha1="bdf6eb34c39f8fcd22db06a6ebba45374c0fc13d"/>
 		<rom name="Bubble Town (USA).cue" size="83" crc="5ee74717" md5="869d8655633de58fdc734eaf4dcf2980" sha1="22ef87ce048590042e5a0886021ea8cb5cf1b338"/>
+	</game>
+	<game name="Bubbles (Spain)" id="138411">
+		<category>Games</category>
+		<description>Bubbles (Spain)</description>
+		<rom name="Bubbles (Spain).bin" size="29672832" crc="50d0ab3e" md5="25e6162bfa7f14b99f0deeab1039506b" sha1="2dcf2178ed41467dd02c89331193be9f3259d625"/>
+		<rom name="Bubbles (Spain).cue" size="81" crc="235a5199" md5="a3a9c62fe5c6597d2d2c8bb0068e4d72" sha1="110aaec7dfd9694e1d1a6c432cb503d2bc502515"/>
 	</game>
 	<game name="Bubo (Switzerland) (Fr,De,It)" id="122673">
 		<category>Games</category>
@@ -38040,6 +38064,12 @@
 		<rom name="Deniska i volshebnyj kamen' (Russia).bin" size="772347408" crc="6312a992" md5="dab07b99105d3fb21758b8a088fee91e" sha1="9d9a1a2e34a0993dab0336e648759a569cfd1f36"/>
 		<rom name="Deniska i volshebnyj kamen' (Russia).cue" size="102" crc="45eb8795" md5="4cac5ccf5786cf8c70a0e5b538ef98fd" sha1="f8bdee57ba6f54043b14ad65ea6814fc8a1e188b"/>
 	</game>
+	<game name="Deniz ile Dusunce Oyunlari 1 (Turkey)" id="138416">
+		<category>Educational</category>
+		<description>Deniz ile Dusunce Oyunlari 1 (Turkey)</description>
+		<rom name="Deniz ile Dusunce Oyunlari 1 (Turkey).bin" size="16339344" crc="bc83aa2f" md5="555a5c2e5e113899cb5d28d21dad1079" sha1="508294682b0bc4a177ef6b8972de72a64a3d03db"/>
+		<rom name="Deniz ile Dusunce Oyunlari 1 (Turkey).cue" size="103" crc="1bb5d20c" md5="bc034617feaa98328e46cacb5f2afb08" sha1="60b4d178241b6474bab174cddd76ea2cea0b3fbd"/>
+	</game>
 	<game name="Dennis &amp; Bellini - De forsvunna kaninerna (Sweden) (Sv,No,Da,Fi)" id="132863">
 		<category>Games</category>
 		<description>Dennis &amp; Bellini - De forsvunna kaninerna (Sweden) (Sv,No,Da,Fi)</description>
@@ -50303,6 +50333,12 @@
 		<rom name="Ernie - Pank i Bayonne (Sweden).bin" size="700632576" crc="0b34cc5e" md5="f1c8944a4aa861ad9a3ab2db749bdddf" sha1="e58b4c727b2fc6e776e37457a682890de4d85381"/>
 		<rom name="Ernie - Pank i Bayonne (Sweden).cue" size="120" crc="fe25eb37" md5="ea21738d65965bac43c81031f22833c0" sha1="153a13a498de42b1e781078d69248b1a6e73629b"/>
 	</game>
+	<game name="Ero-On! (Japan)" id="138393">
+		<category>Games</category>
+		<description>Ero-On! (Japan)</description>
+		<rom name="Ero-On! (Japan).bin" size="380332512" crc="fade3d4c" md5="6147d6d9b774c9b90ec6630634f9fd64" sha1="7fcc1428259dccafeabe86157fb89b92109f873e"/>
+		<rom name="Ero-On! (Japan).cue" size="81" crc="a772495b" md5="8b463ab0f4d7af5841522c4a2cbe91a5" sha1="c342f99f3e9144b8b222b70e1c062addd932657f"/>
+	</game>
 	<game name="Eroberer, Die (Germany)" id="100292">
 		<category>Add-Ons</category>
 		<description>Eroberer, Die (Germany)</description>
@@ -57591,6 +57627,12 @@
 		<rom name="Flojd (Poland) (Disc 2).bin" size="778483776" crc="04618f11" md5="7c4fe5b39d492b02f25c49179135e8d6" sha1="bd55e90e6473513b8099210e42be351eb2fbe85a"/>
 		<rom name="Flojd (Poland) (Disc 2).cue" size="89" crc="16770d58" md5="9ae0857ebef19b10fc1f8acc1fec7944" sha1="48607fbaac0827b047cf86a07c26df52e6c50400"/>
 	</game>
+	<game name="Floralia+ (Japan)" id="138398">
+		<category>Games</category>
+		<description>Floralia+ (Japan)</description>
+		<rom name="Floralia+ (Japan).bin" size="756332640" crc="d7d733f9" md5="9a230eda43a474ccf9d2b51be825309b" sha1="f846b9f583702a89a0955a7d935666a0118514f5"/>
+		<rom name="Floralia+ (Japan).cue" size="83" crc="0f41c779" md5="8136f766c9075755001ee94613dfa69a" sha1="05293a2fc153673f5a876136bf5bf02740fdbe2c"/>
+	</game>
 	<game name="Floria Festa! Saikyoo Tag Ketteisen (Japan)" id="27425">
 		<category>Games</category>
 		<description>Floria Festa! Saikyoo Tag Ketteisen (Japan)</description>
@@ -60043,6 +60085,12 @@
 		<description>Fun for Kids (Germany)</description>
 		<rom name="Fun for Kids (Germany).bin" size="133452480" crc="8679de4c" md5="aa028120ae943fc76c6a4919853c7953" sha1="e0bb74cba57928c813f5da814b8a4ed193252503"/>
 		<rom name="Fun for Kids (Germany).cue" size="111" crc="3bcb74b0" md5="23abcf31faf512a07aa608bda6dcc5f6" sha1="aa190ec9728119e793c028deba498ccfcf0e11ee"/>
+	</game>
+	<game name="Fun on Alphabet Farm (Australia)" id="138377">
+		<category>Educational</category>
+		<description>Fun on Alphabet Farm (Australia)</description>
+		<rom name="Fun on Alphabet Farm (Australia).bin" size="512060976" crc="17223d0a" md5="f707f35d2fc0c733349afb3406b2e51e" sha1="fd20beae82eb609f0fa73f5167165dbf6d73c790"/>
+		<rom name="Fun on Alphabet Farm (Australia).cue" size="98" crc="a16483d4" md5="d0e45008ba2b8bfd6bb81bc88dc2ac27" sha1="a585270fbfa74104d04eb3634b350dcec8d3f045"/>
 	</game>
 	<game name="Fun on the Farm with Barney (USA)" id="92563">
 		<category>Educational</category>
@@ -63981,6 +64029,12 @@
 		<description>Gloi i Staerdfraediheimi (Iceland)</description>
 		<rom name="Gloi i Staerdfraediheimi (Iceland).bin" size="43439088" crc="788755e6" md5="7050f1078aa636925affd1bc4581fedb" sha1="8d0fc2006008bd1cea2b2e815539cfa6e75f51fe"/>
 		<rom name="Gloi i Staerdfraediheimi (Iceland).cue" size="100" crc="05d7f4dd" md5="d546236fbd575f105d11c88e98c3d158" sha1="c5cce0df7b9eeb888a0bd2e641a3c64070cc575e"/>
+	</game>
+	<game name="Glory of Valkyrie, The (Japan)" id="138388">
+		<category>Games</category>
+		<description>Glory of Valkyrie, The (Japan)</description>
+		<rom name="Glory of Valkyrie, The (Japan).bin" size="126669312" crc="4089b956" md5="138193a4495510681936648c7e28b7b7" sha1="061b3625d99cc7236bf252e4b6d49c6a9135e941"/>
+		<rom name="Glory of Valkyrie, The (Japan).cue" size="96" crc="7edb1ed6" md5="837a66550d14897fcdc3e3802033a5a6" sha1="db87a85e735d2cf61580e1a91d9b916247755a80"/>
 	</game>
 	<game name="Glory of the Roman Empire (Taiwan)" id="113495">
 		<category>Games</category>
@@ -72303,6 +72357,12 @@
 		<rom name="Hilfe! Ich bin ein Fisch (Germany) (Track 3).bin" size="176400" crc="769282bb" md5="d2b120199019b639d5a7e2b3463e9c97" sha1="a729763f6ca2b4a559a1eddf61b92d28fb78edc4"/>
 		<rom name="Hilfe! Ich bin ein Fisch (Germany) (Track 4).bin" size="7938000" crc="34e2feba" md5="dc972074dc1dde7052609a1ff78bc71b" sha1="c2c7430e79201cdc056fd1125c64b3fc6681f3bf"/>
 		<rom name="Hilfe! Ich bin ein Fisch (Germany).cue" size="499" crc="d3706e28" md5="f9ab0e4a0eb9a6ee4f848c95f0df0d72" sha1="6e7778591e2ef93b04aeff729ed38c562e8e347b"/>
+	</game>
+	<game name="Hill Street Blues (Europe) (En,Fr,De,Es,It)" id="138428">
+		<category>Games</category>
+		<description>Hill Street Blues (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Hill Street Blues (Europe) (En,Fr,De,Es,It).bin" size="3718512" crc="4b594ceb" md5="492382af0dc4bcf44e81aae145b0dc2a" sha1="2eb355e3f57d5871ce126999d28b530e49687a12"/>
+		<rom name="Hill Street Blues (Europe) (En,Fr,De,Es,It).cue" size="132" crc="13245c5f" md5="aca28fd083d58d69608adeb7b499781c" sha1="84eec42f7daaf56a0c99d26efe5933cfba6aa7c3"/>
 	</game>
 	<game name="Himawari ga Oka Sougou Byouin e Youkoso (Japan) (Data Disc)" id="125485">
 		<category>Games</category>
@@ -81639,6 +81699,12 @@
 		<rom name="Josephine on Holiday (Scandinavia) (En,Sv,No,Da,Fi).bin" size="729849120" crc="f4e7d686" md5="b969c34a5b5345e013b8adc9e62b961c" sha1="d555a3d3f943aa64d48f3741ad0928daefe1b2fc"/>
 		<rom name="Josephine on Holiday (Scandinavia) (En,Sv,No,Da,Fi).cue" size="117" crc="5c64cbc4" md5="b8623030eb3f27e65d689283eb9e3788" sha1="b169712e9fefc626bd7220e25123c5486d304d36"/>
 	</game>
+	<game name="Joshu Chu Chu! Hiyoku Renri ni Sayonara o (Japan)" id="138399">
+		<category>Games</category>
+		<description>Joshu Chu Chu! Hiyoku Renri ni Sayonara o (Japan)</description>
+		<rom name="Joshu Chu Chu! Hiyoku Renri ni Sayonara o (Japan).bin" size="503222160" crc="f2a94f74" md5="ec1c8095da18fe590ca60cb1e5b2bfe2" sha1="6b024a47d4198ae957d9468064f39449b20e83b7"/>
+		<rom name="Joshu Chu Chu! Hiyoku Renri ni Sayonara o (Japan).cue" size="115" crc="fae28079" md5="1d06b8f72dbd009bedf4300c3b1b0296" sha1="e4179690728915e3ced00d134b598ecf16592733"/>
+	</game>
 	<game name="Joshua and the Battle of Jericho (USA)" id="134518">
 		<category>Games</category>
 		<description>Joshua and the Battle of Jericho (USA)</description>
@@ -87323,6 +87389,12 @@
 		<rom name="Kurogane no Houkou 2 - Warship Commander (Japan).bin" size="602888160" crc="f1731c1b" md5="293dbc7232081acbbe22bc21ab4a91ba" sha1="45c482ec3a1962d32429758544eb26b5034363c3"/>
 		<rom name="Kurogane no Houkou 2 - Warship Commander (Japan).cue" size="114" crc="40a59df6" md5="e48b75a2759b218c6f6b9aeef1c8ee50" sha1="977de9fc4c68600d9ac05ac635f60b08d183e4f4"/>
 	</game>
+	<game name="Kuroneko Plus (Japan)" id="138400">
+		<category>Games</category>
+		<description>Kuroneko Plus (Japan)</description>
+		<rom name="Kuroneko Plus (Japan).bin" size="374513664" crc="fd488760" md5="06bd55a442992b789417dc3ff0987f36" sha1="ea812f95198fd11477a5a81906b2de0caa76ecfe"/>
+		<rom name="Kuroneko Plus (Japan).cue" size="87" crc="f9ecdd3e" md5="50bbf805142da0649ffb497c90e4397d" sha1="374ff36a3b33e39c15b74aa035068e9a5a5734d0"/>
+	</game>
 	<game name="Kurragomma med Mumintrollen (Scandinavia) (Sv,No,Da)" id="110695">
 		<category>Games</category>
 		<description>Kurragomma med Mumintrollen (Scandinavia) (Sv,No,Da)</description>
@@ -89115,6 +89187,18 @@
 		<description>Learn to Play Chess with Fritz and Chesster (USA)</description>
 		<rom name="Learn to Play Chess with Fritz and Chesster (USA).bin" size="788886672" crc="b30269c7" md5="8975b348f2666e540a23def740491781" sha1="82d326e451dca76fdd18bc9b56eda8276689ae7f"/>
 		<rom name="Learn to Play Chess with Fritz and Chesster (USA).cue" size="115" crc="a1c0f5a0" md5="6016885e66ed75330e98fab58a74b2f3" sha1="deca85edc644a283bfa5947c7230886247b1b624"/>
+	</game>
+	<game name="Learn to Read &amp; Spell with Phonics 2 (Australia)" id="138378">
+		<category>Educational</category>
+		<description>Learn to Read &amp; Spell with Phonics 2 (Australia)</description>
+		<rom name="Learn to Read &amp; Spell with Phonics 2 (Australia).bin" size="558574128" crc="a48a35d7" md5="aebafdb660cad8be529fddfae9a8b499" sha1="d775a73ed2713364512fc7a09b4418c6812acd83"/>
+		<rom name="Learn to Read &amp; Spell with Phonics 2 (Australia).cue" size="114" crc="b4ac4fd3" md5="7b1798fa931aaf9989fb296476da1b12" sha1="996cc52fd5def84f77dc06cbde753867a32290f8"/>
+	</game>
+	<game name="Learn to Read &amp; Spell with Phonics 3 (Australia)" id="138379">
+		<category>Educational</category>
+		<description>Learn to Read &amp; Spell with Phonics 3 (Australia)</description>
+		<rom name="Learn to Read &amp; Spell with Phonics 3 (Australia).bin" size="542420592" crc="a055ec26" md5="7b588977424485641747f3fd13512462" sha1="dd5383e222828db3d0e080e04d4a683588f0fa8e"/>
+		<rom name="Learn to Read &amp; Spell with Phonics 3 (Australia).cue" size="114" crc="436013dd" md5="153a6a5acdb5ee23860cad6e3fbf739e" sha1="552965884303a8bf59ab77035f4be1e7503124f2"/>
 	</game>
 	<game name="Learning Adventures! Series - I Can Be An Animal Doctor Veterinarian (USA)" id="132033">
 		<category>Educational</category>
@@ -93105,6 +93189,11 @@
 		<category>Games</category>
 		<description>Lost - Via Domus (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Lost - Via Domus (USA, Europe) (En,Fr,De,Es,It).iso" size="4305158144" crc="b3c1b420" md5="0cb4e1f8c083f922e1b88537fcd76023" sha1="65e93c48927578d429295f03e77badd0873fee37"/>
+	</game>
+	<game name="Lost - Zagubieni (Poland) (Pl,Cs,Hu)" id="114272">
+		<category>Games</category>
+		<description>Lost - Zagubieni (Poland) (Pl,Cs,Hu)</description>
+		<rom name="Lost - Zagubieni (Poland) (Pl,Cs,Hu).iso" size="4229955584" crc="037d9208" md5="564946dddc8126ad31572b96d7bc792e" sha1="5975c907a1fdbd3fcfd3b9afaa65027ac27ee3c8"/>
 	</game>
 	<game name="Lost Admiral, The (USA)" id="126770">
 		<category>Games</category>
@@ -98287,6 +98376,12 @@
 		<description>Matchbox Emergency Patrol (USA)</description>
 		<rom name="Matchbox Emergency Patrol (USA).bin" size="372879024" crc="7ce9e625" md5="22c6cd836ac380fa69eccc350d0a1400" sha1="f1e018667fe649f87e41ea8d99eb64f41565f646"/>
 		<rom name="Matchbox Emergency Patrol (USA).cue" size="97" crc="f07121fe" md5="481c48cfa0f48fb4957b57a7d6d567e6" sha1="df09b6ffbf923f19ac973a0609388792fd26f77a"/>
+	</game>
+	<game name="Matematik Oyunlari 1 (Turkey)" id="138417">
+		<category>Educational</category>
+		<description>Matematik Oyunlari 1 (Turkey)</description>
+		<rom name="Matematik Oyunlari 1 (Turkey).bin" size="78963696" crc="9b993817" md5="cba18bfc2a9481e28d776b9399f18b9c" sha1="06ee63382981d222a33a17205914c8e82650e087"/>
+		<rom name="Matematik Oyunlari 1 (Turkey).cue" size="95" crc="295456f8" md5="e4387e08f3829e8e1aaf5d01c873f1b4" sha1="41004c75160bad7cdfc03fd3f31244d44a824a04"/>
 	</game>
 	<game name="Matematyczne Przygody (Poland) (Covermount)" id="90564">
 		<category>Educational</category>
@@ -108875,6 +108970,12 @@
 		<rom name="My First Rayman (Europe) (Fr,De,Es,It).bin" size="532789152" crc="5b3f01eb" md5="fd34f84b2a5831350be98f18db39ce7b" sha1="08c26108f5025881d9197441dc454ce7fc04bc70"/>
 		<rom name="My First Rayman (Europe) (Fr,De,Es,It).cue" size="104" crc="c07464b3" md5="6bc0545aaa1c0a7f93a1b2abfcb2d523" sha1="37499642bb194bf88880928b79c0c66ad47bdfa1"/>
 	</game>
+	<game name="My First Reading &amp; Spelling Words (Australia)" id="138380">
+		<category>Educational</category>
+		<description>My First Reading &amp; Spelling Words (Australia)</description>
+		<rom name="My First Reading &amp; Spelling Words (Australia).bin" size="682860864" crc="151db790" md5="752a878ea85c49a6ed227a242b5613ba" sha1="29bff5813df9919c1d0abb6f76ab78938ffb9f1b"/>
+		<rom name="My First Reading &amp; Spelling Words (Australia).cue" size="111" crc="910db0f2" md5="0c6e9bec6b9277f54833764426965b82" sha1="26e36fd41da04ed284ba15ae24d79b16a12e4a37"/>
+	</game>
 	<game name="My First Reading Adventure - I Want to Read! (USA)" id="85975">
 		<category>Educational</category>
 		<description>My First Reading Adventure - I Want to Read! (USA)</description>
@@ -118086,6 +118187,24 @@
 		<rom name="PC Action 9-00 (Germany) (Track 19).bin" size="40668432" crc="d762c1ae" md5="2da2735fb8f963d7f07fe47fe97bdb3d" sha1="ffeedeea7a5e333dac067126fab770393467b105"/>
 		<rom name="PC Action 9-00 (Germany) (Track 20).bin" size="1248912" crc="64f1ca0d" md5="6a71117d5e16509be88d4c27b8bf2368" sha1="b78ab1705a6f037ea2b9e030742e6076ab89db84"/>
 		<rom name="PC Action 9-00 (Germany).cue" size="2408" crc="d57f9927" md5="5eeeb71f5b409b3b60b173d8fe38687b" sha1="137baecdb609b64ba0bf62d66688dbee2911fe86"/>
+	</game>
+	<game name="PC Action 9-99 (Germany) (Bonus-CD)" id="138427">
+		<category>Games</category>
+		<description>PC Action 9-99 (Germany) (Bonus-CD)</description>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 01).bin" size="472274544" crc="2dc274b8" md5="f0dfc99bfb3cda88608555e86a7922ca" sha1="41deb9d70a24321188e4236d7b33e1c6d64f4308"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 02).bin" size="25650912" crc="53c7caa8" md5="d1893958d47cdbbf1145ed1ead9fbda2" sha1="a7e4eb9339612d0f4942f01385a1d514ddc1fb92"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 03).bin" size="15008112" crc="9d02b370" md5="afbc693460364a075762c5b25c695e85" sha1="719116ce4b09a2df10922d000d3799b703f1be68"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 04).bin" size="27036240" crc="e9f65554" md5="6497583f25de2a7063942db0e716d92f" sha1="e45cccebeae7ca303eaa264e69b85e53ed1505aa"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 05).bin" size="23141328" crc="fd30f5b9" md5="0e9267062c7d4459e3c07b49570a97d9" sha1="e26d470cda9fe56198bdb4a5e6d972ff7625a9da"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 06).bin" size="30655968" crc="fbd2fb68" md5="63e4a69843a9f78cf6c90d4d64fb46be" sha1="d79cc8c215d8130a6d445edf7f7199b6a3c9a6df"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 07).bin" size="23738736" crc="d77e9731" md5="e9645193e4236f645c8bd113035b2b1a" sha1="659fb656044216de7bdf3613b09948bd3c5b098c"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 08).bin" size="28882560" crc="ee577992" md5="d403972c9c0ab6ed5e5ebe95190764a5" sha1="9a33b227b8ed6f91395b8d70abdb51073cda145c"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 09).bin" size="24051552" crc="fdbdb674" md5="d320cd8e48b8fd4c6c71fe9af3aff865" sha1="95bd7aa9e4dfd5b7e7510cd6104584031bdb5d37"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 10).bin" size="29461152" crc="2a44a71f" md5="602bce017b8ef53777290f563faab514" sha1="191133c9eaaec2812b5dede81520c462e2bbde4e"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 11).bin" size="25914336" crc="8ce02019" md5="b457e5ee75e33fb4aa0caa36ee16c226" sha1="d594c025edaac235e0eda9d4dda6a76c68026c20"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 12).bin" size="21577248" crc="2c79c959" md5="0a18b264e985733058afcd4d5d371743" sha1="384c121643261978b9056052e69fa394b9d0b64e"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD) (Track 13).bin" size="30150288" crc="2e587780" md5="fc3a936a4b4cc28158b23143b55b2e3f" sha1="e5f43345df42ec35f303eb560768082072fca770"/>
+		<rom name="PC Action 9-99 (Germany) (Bonus-CD).cue" size="1649" crc="d95f1f9a" md5="b7c174ce70c01b39ecf22677ba5f4bb8" sha1="363118d1f5b0b98abd0e569b0976131be024a7ef"/>
 	</game>
 	<game name="PC Atletica Oro (Italy)" id="71830">
 		<category>Games</category>
@@ -132543,6 +132662,24 @@
 		<rom name="Reading &amp; Phonics (Australia).bin" size="429080064" crc="fd8d8382" md5="c900e2aa4ccc06315461f1c6342e026a" sha1="65576aeb9f82a7bc2369cc222fc741dd39038dec"/>
 		<rom name="Reading &amp; Phonics (Australia).cue" size="95" crc="faae30cb" md5="8fd174fbb73e0d0b8a3ac008185aa778" sha1="7b3960af38a18bd8332984dc94b3e8a4aea2740d"/>
 	</game>
+	<game name="Reading &amp; Spelling Adventure (Australia)" id="138381">
+		<category>Educational</category>
+		<description>Reading &amp; Spelling Adventure (Australia)</description>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 01).bin" size="179784528" crc="cefecfdd" md5="faa7db277636a6a1a3f7a47e548a6cfe" sha1="cfcaba05fe3c4c0c6cb9b11a5b97900d94d9df51"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 02).bin" size="30119712" crc="c6c40bd9" md5="ffc6804628f2a992617a1d1507b7a6ba" sha1="e1b4369cf18518240c78c7bb490254c5c1f1117d"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 03).bin" size="35016576" crc="80ddf01d" md5="f3dbccae7e82496e88b59f45fd1857f4" sha1="cb28b8af700f204d7019873808855aa6d89e6a88"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 04).bin" size="35526960" crc="e1e783c1" md5="57a597bc6cb42d55e463caf276dd1923" sha1="fee92880d3ab5d6b90f0b7d9eb96376242aced34"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 05).bin" size="33443088" crc="2e87fa4c" md5="659f1db96c00797c35183f74f3089a7f" sha1="ec41907f2ac9fb68cfedee114bb5415d27a68657"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 06).bin" size="32871552" crc="bb4abc4b" md5="50ae8b0e5a74bdb86dbef6969071eb5a" sha1="cf8eef4ffa1538e9bc56354e63a7945b78111039"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 07).bin" size="32455248" crc="7dba2f57" md5="7ee3c2d587d7c6668bd306f838805258" sha1="acb7a927f85131eb4af4e4129f5533b856fb0b6e"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 08).bin" size="33146736" crc="d1b2a58e" md5="624073747be5aa6be99d79497b4c9a62" sha1="1a2c9ca593d3cfb402b2dbaaef20166002a944f5"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 09).bin" size="34637904" crc="1791ae32" md5="8ad594f7bb13f187a1618e9107aaf30f" sha1="ebe8906b848349e1d60f882321b5ec59a164c967"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 10).bin" size="31973088" crc="7eceb1f4" md5="46b614239c810529f6e366aa8aa5a94c" sha1="bcd7f659d57e153f7ae8761c623979848d45def6"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 11).bin" size="32852736" crc="1428bfd7" md5="64505f808e99ae3a30800c4537c1ba3d" sha1="02fbd0264fda0ab1086b5f79e7afc8cc68bde32d"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 12).bin" size="39250176" crc="331871a4" md5="2ea5666264552bc12edd60b20ea8b7ea" sha1="28470cf4950648ab9e886a25e3809770d7a8cdf0"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia) (Track 13).bin" size="33007968" crc="861ea0bd" md5="3bbdaed56d4dc3e781efdb442d738c00" sha1="d1d0c525b8c922542e9adf972df56ef167b21e22"/>
+		<rom name="Reading &amp; Spelling Adventure (Australia).cue" size="1737" crc="d710daa7" md5="f226dfa14ea7f43102f463284ed0f613" sha1="aa8448b722c5eb3da45bdaec4946ceca672c3b77"/>
+	</game>
 	<game name="Reading 4 Kids (USA)" id="124665">
 		<category>Games</category>
 		<description>Reading 4 Kids (USA)</description>
@@ -141340,6 +141477,12 @@
 		<rom name="Schatz von El Dorado, Der (Germany).bin" size="844861920" crc="014257ab" md5="233101d6a3896957f494e96d47c62447" sha1="19db898914872683cf19f66360bb4964ecc4e991"/>
 		<rom name="Schatz von El Dorado, Der (Germany).cue" size="101" crc="cc942ecf" md5="0c98c98778657201bf2247bf479d163c" sha1="614997b4ecd1245a8ca825aff66473d9cc32e809"/>
 	</game>
+	<game name="Schiene &amp; Strasse (Germany)" id="138415">
+		<category>Games</category>
+		<description>Schiene &amp; Strasse (Germany)</description>
+		<rom name="Schiene &amp; Strasse (Germany).bin" size="728611968" crc="d5db7c65" md5="2e6fa2f1377c8f3e2710725500bed478" sha1="cc5d7d252e4f7668a6d5154aa4073d9648f158ac"/>
+		<rom name="Schiene &amp; Strasse (Germany).cue" size="93" crc="1d13ea03" md5="f3307fc508a8c36381a447f367a4354f" sha1="a5902fd45790efafde905eca003f662ee7ae038b"/>
+	</game>
 	<game name="Schiene &amp; Strasse - Der 3D-Transport-Manager - 1820-2020 (Germany)" id="61275">
 		<category>Games</category>
 		<description>Schiene &amp; Strasse - Der 3D-Transport-Manager - 1820-2020 (Germany)</description>
@@ -141435,6 +141578,12 @@
 		<rom name="Schleichfahrt (Germany) (Rev 1) (Track 4).bin" size="16548672" crc="08bcad6f" md5="d1beabe406b6e38de8eb3f124e0c258b" sha1="0ce62f9041d2d10132e68c1eabc833f7f0d14a3c"/>
 		<rom name="Schleichfahrt (Germany) (Rev 1) (Track 5).bin" size="11404848" crc="29932ebe" md5="18858cc7275093d943bbc891fd52d329" sha1="3654698e0667b77ddff54258d25c9efeb969d5e0"/>
 		<rom name="Schleichfahrt (Germany) (Rev 1).cue" size="630" crc="90cf4347" md5="3f60d4c6ce5bc5917ec9d903fec1f9e0" sha1="527af71d2d8e97dce141ff21cc20113ee47706fe"/>
+	</game>
+	<game name="Schlumpfe, Die - Der Teletransportierschlumpf (Germany)" id="138413">
+		<category>Games</category>
+		<description>Schlumpfe, Die - Der Teletransportierschlumpf (Germany)</description>
+		<rom name="Schlumpfe, Die - Der Teletransportierschlumpf (Germany).bin" size="418512528" crc="da692aef" md5="f1697f8233b12366b43a949d6e8dcd49" sha1="25c49c0cee4c6f5fe8b062ffb29b70b75b273ef0"/>
+		<rom name="Schlumpfe, Die - Der Teletransportierschlumpf (Germany).cue" size="121" crc="ca97b780" md5="75917248f254bfd43bc743caf157f8a3" sha1="5c12acd2154b2aea032d60f8e62a028ce3c30986"/>
 	</game>
 	<game name="Schlumpfe, Die - Farben und Formen (Germany)" id="86874">
 		<category>Games</category>
@@ -142123,6 +142272,12 @@
 		<description>Scopa, La (Italy)</description>
 		<rom name="Scopa, La (Italy).bin" size="85892688" crc="a007ca7b" md5="fdf82c31ff1c4465befc6eaa0a47776a" sha1="e1356c128ca741080229148a0f260b69492410ed"/>
 		<rom name="Scopa, La (Italy).cue" size="83" crc="27fca5b9" md5="97d6a015bbb7f51ef5a1c686e2b11da6" sha1="6078da6c06232fb28ed41e1e148e1791f72d73b1"/>
+	</game>
+	<game name="Scopri le Differenze con i Muppet (Italy)" id="138419">
+		<category>Educational</category>
+		<description>Scopri le Differenze con i Muppet (Italy)</description>
+		<rom name="Scopri le Differenze con i Muppet (Italy).bin" size="215059824" crc="b03bd624" md5="75dad441f6e21f7f70bbcb9b6256c343" sha1="f857c1cd088c834c9dd74aee4dc92354f65d380e"/>
+		<rom name="Scopri le Differenze con i Muppet (Italy).cue" size="107" crc="52aadc14" md5="96e118e6999d7290e16792a1844c8f0b" sha1="a02af19c59c6aee817ef0041d310dbd4da992ad0"/>
 	</game>
 	<game name="Scopri le Forme con i Muppet (Italy)" id="138228">
 		<category>Educational</category>
@@ -164772,6 +164927,12 @@
 		<rom name="Thomas &amp; Friends - The Great Festival Adventure (USA).bin" size="563346336" crc="cb7bc78f" md5="2b204621b27de78fc5f6f775a6656bf7" sha1="5c84114fcf2e080511bcb8342521934acce5208b"/>
 		<rom name="Thomas &amp; Friends - The Great Festival Adventure (USA).cue" size="119" crc="dce2abc4" md5="628c9bb594b901262ec1c206e431c9f9" sha1="4c5996656501f50e1f85be117a0cc794566d5219"/>
 	</game>
+	<game name="Thomas &amp; Friends - Thomas Saves the Day! (Australia)" id="138384">
+		<category>Educational</category>
+		<description>Thomas &amp; Friends - Thomas Saves the Day! (Australia)</description>
+		<rom name="Thomas &amp; Friends - Thomas Saves the Day! (Australia).bin" size="315266784" crc="a883b253" md5="996e866fb655895660ecb60b8c25c79b" sha1="33934d91b0849c0b5647af988d42e3375dc914a9"/>
+		<rom name="Thomas &amp; Friends - Thomas Saves the Day! (Australia).cue" size="118" crc="cf04e756" md5="c2b328f2d109e08ea9cdf179d910f3b0" sha1="9241eac1e678e112a649ba6ab41e1e3675a0685f"/>
+	</game>
 	<game name="Thomas &amp; Friends - Trouble on the Tracks (USA)" id="62152">
 		<category>Games</category>
 		<description>Thomas &amp; Friends - Trouble on the Tracks (USA)</description>
@@ -170151,17 +170312,17 @@
 		<rom name="Treasure Mathstorm! (USA) (Disc 3) (Rerelease) (1997-12-30).bin" size="279692784" crc="7d2f13b3" md5="7c9ea456706dbcefba0238c7cace1839" sha1="4ef15e8c0609b3893b5cb002a7cabf4542293a99"/>
 		<rom name="Treasure Mathstorm! (USA) (Disc 3) (Rerelease) (1997-12-30).cue" size="125" crc="416e8b58" md5="8fa406fad146b5d99822b5c858665f07" sha1="92014aa81fd0ecaf89cddaa2a97f415fcc50f1c4"/>
 	</game>
-	<game name="Treasure Mountain! (USA)" id="65287">
-		<category>Educational</category>
-		<description>Treasure Mountain! (USA)</description>
-		<rom name="Treasure Mountain! (USA).bin" size="190631952" crc="30aeb049" md5="ff52543ba7087fb431fc222d5aaf2191" sha1="25234df0969dd9036197d3ba42d96a2c73ad64ba"/>
-		<rom name="Treasure Mountain! (USA).cue" size="90" crc="e033e717" md5="5ff245669472bc669a510b5013fcc971" sha1="b6739e1b4d6ed5d22365b929853b144167f36939"/>
-	</game>
 	<game name="Treasure Mountain! (USA) (Disc 2) (Rerelease) (1997-12-30)" id="101880">
 		<category>Educational</category>
 		<description>Treasure Mountain! (USA) (Disc 2) (Rerelease) (1997-12-30)</description>
 		<rom name="Treasure Mountain! (USA) (Disc 2) (Rerelease) (1997-12-30).bin" size="281195712" crc="c1f00889" md5="23b93a2bce2feca9a685a9aee3020b81" sha1="cd9dcf79b5cd54e7cf4cbda28a32946304ffcddf"/>
 		<rom name="Treasure Mountain! (USA) (Disc 2) (Rerelease) (1997-12-30).cue" size="124" crc="d1f8edcb" md5="aa6c00192f7c4f5a8617b7deaeeaa01a" sha1="1574e450476272942470dea46f3a0a8507ee917a"/>
+	</game>
+	<game name="Treasure Mountain! (USA, Australia) (Rerelease) (1998-07-27)" id="59611">
+		<category>Educational</category>
+		<description>Treasure Mountain! (USA, Australia) (Rerelease) (1998-07-27)</description>
+		<rom name="Treasure Mountain! (USA, Australia) (Rerelease) (1998-07-27).bin" size="429228240" crc="0d75295f" md5="2c5fff175744850afb81479023f01db4" sha1="56dbc7d4ed180cdee6a3986fc9644bcb2553360d"/>
+		<rom name="Treasure Mountain! (USA, Australia) (Rerelease) (1998-07-27).cue" size="126" crc="4a87972c" md5="aa247bcf5a733c8787a915c78d269e9e" sha1="8ca5e4d865dd0ba687f777d6e91aed30d8fdac04"/>
 	</game>
 	<game name="Treasure Mysteries - Die Legende der Inkas (Germany)" id="109723">
 		<category>Games</category>
@@ -174362,6 +174523,12 @@
 		<description>Ux-ty', buxty'! (Russia)</description>
 		<rom name="Ux-ty', buxty'! (Russia).iso" size="876019712" crc="48b5b6f1" md5="e5150b792e53745f66f1e78be7b382c6" sha1="c83c7ff13eaa595106327cf91b35b209518aabf3"/>
 	</game>
+	<game name="Uzay Savaslari - Carpma ve Bolme Oyunlari (Turkey)" id="138418">
+		<category>Educational</category>
+		<description>Uzay Savaslari - Carpma ve Bolme Oyunlari (Turkey)</description>
+		<rom name="Uzay Savaslari - Carpma ve Bolme Oyunlari (Turkey).bin" size="22932000" crc="1d90b433" md5="393c39e94e03b772d83a49fc7284da7d" sha1="d06c0ed0b08fc054c226b9f3d337bc57042cbba0"/>
+		<rom name="Uzay Savaslari - Carpma ve Bolme Oyunlari (Turkey).cue" size="116" crc="22124a70" md5="132d3057fff3a1282cd63c4214f8105c" sha1="db10816ea0839d281f5a3bd3c0a0d9202681c7ff"/>
+	</game>
 	<game name="Uznicy zamka Knatterfel' (Russia)" id="95821">
 		<category>Games</category>
 		<description>Uznicy zamka Knatterfel' (Russia)</description>
@@ -177762,6 +177929,11 @@
 		<description>Wakeboarding Unleashed featuring Shaun Murray (USA, Europe) (Disc 2) (Play Disc)</description>
 		<rom name="Wakeboarding Unleashed featuring Shaun Murray (USA, Europe) (Disc 2) (Play Disc).bin" size="792515808" crc="e99a9b08" md5="ec852bea64bdf4bc1dfec29d9b0b3b2a" sha1="66e13c958629e736feb60a61febcbbafd72aa569"/>
 		<rom name="Wakeboarding Unleashed featuring Shaun Murray (USA, Europe) (Disc 2) (Play Disc).cue" size="146" crc="e908dd57" md5="46bd9a1a78c78398f5dac61706ee30b7" sha1="1caa9183ddc468e8c2c138a5645b7a5f827e2e4a"/>
+	</game>
+	<game name="Walking Dead, The - A Telltale Game Series (USA)" id="138423">
+		<category>Games</category>
+		<description>Walking Dead, The - A Telltale Game Series (USA)</description>
+		<rom name="Walking Dead, The - A Telltale Game Series (USA).iso" size="3740729344" crc="0703ba1d" md5="40a46423f2e83b32a3f4fe3d3a208062" sha1="52bcbaa33abde1d8b73c5609cb5cd8b90545a55e"/>
 	</game>
 	<game name="Walking Dead, The - A Telltale Games Series (Australia)" id="131615">
 		<category>Games</category>
@@ -182275,6 +182447,12 @@
 		<rom name="Wlatcy Moch - Battle Arena (Poland).bin" size="132610464" crc="d7ffa9a8" md5="322a23957ad362d0a95abc71c3754caf" sha1="843f682f583470a197627b3cfb6c04692362504b"/>
 		<rom name="Wlatcy Moch - Battle Arena (Poland).cue" size="101" crc="2ecdb669" md5="a120f2b75c2cd2d302f7d6fe8b8823ee" sha1="9f2a4f04ed8dd5b639e4a26fcb4c5f1650399441"/>
 	</game>
+	<game name="Wlatcy Moch - Magiczni Wojownicy II - Powrot Pan Czan Dragona (Poland)" id="138426">
+		<category>Games</category>
+		<description>Wlatcy Moch - Magiczni Wojownicy II - Powrot Pan Czan Dragona (Poland)</description>
+		<rom name="Wlatcy Moch - Magiczni Wojownicy II - Powrot Pan Czan Dragona (Poland).bin" size="72589776" crc="bedbf1fb" md5="3cb3eed31d87740a0460d92bf4815c9e" sha1="f02bdc54ffdd7949d29d9563f18405a899cf0663"/>
+		<rom name="Wlatcy Moch - Magiczni Wojownicy II - Powrot Pan Czan Dragona (Poland).cue" size="136" crc="138bcebe" md5="cb41f51a46ee9bc7ba283f08528cf024" sha1="f980b07749603cfc5dd74e79d421b11841d4910e"/>
+	</game>
 	<game name="Wlatcy Moch - Wrzod na Dopie (Poland)" id="85881">
 		<category>Games</category>
 		<description>Wlatcy Moch - Wrzod na Dopie (Poland)</description>
@@ -184618,6 +184796,12 @@
 		<description>X-Team (Russia)</description>
 		<rom name="X-Team (Russia).iso" size="1981546496" crc="39fe94ba" md5="ae74ff9a7bc9cc5a5b5197f8cc0ad1e1" sha1="32ba18ace569d5da42a6faa23f9361407c04c8e1"/>
 	</game>
+	<game name="X-Tranoid (Spain)" id="138412">
+		<category>Games</category>
+		<description>X-Tranoid (Spain)</description>
+		<rom name="X-Tranoid (Spain).bin" size="45014928" crc="cd04cf01" md5="b19f1e0c8ed9bdb1055388cf67aa557d" sha1="7c0799553d9d85ee04bdec802a71886b71bb834b"/>
+		<rom name="X-Tranoid (Spain).cue" size="83" crc="ef56ff8b" md5="66641d00a354dd01c6f9b1ff96ccc72f" sha1="9de66e96be47625511cb361aa17433a2c23ffdf2"/>
+	</game>
 	<game name="X2 - Die Bedrohung (Germany) (Disc 1) (Installations-CD) (Rev 1)" id="104763">
 		<category>Games</category>
 		<description>X2 - Die Bedrohung (Germany) (Disc 1) (Installations-CD) (Rev 1)</description>
@@ -184975,6 +185159,11 @@
 		<category>Games</category>
 		<description>Xanadu Next (Japan) (DVD)</description>
 		<rom name="Xanadu Next (Japan) (DVD).iso" size="2141679616" crc="bfb2f60e" md5="662ce34df73c91fcb47ee26ce725d68c" sha1="f9e5559c23fe57a60150b3f86845238afb5d3d2e"/>
+	</game>
+	<game name="Xanadu Next (Japan) (Rerelease) (2007-02-22)" id="138402">
+		<category>Games</category>
+		<description>Xanadu Next (Japan) (Rerelease) (2007-02-22)</description>
+		<rom name="Xanadu Next (Japan) (Rerelease) (2007-02-22).iso" size="2147868672" crc="4f528c33" md5="38c0eb327c32c68cb0333a8caa41fc98" sha1="6e6143e7486b1a21d1c7757952a92cc4ec2732b0"/>
 	</game>
 	<game name="Xango Tango (USA)" id="79261">
 		<category>Games</category>
@@ -187462,6 +187651,12 @@
 		<description>Yunbiao Tianxia Zhi Sida Biaoju (Taiwan)</description>
 		<rom name="Yunbiao Tianxia Zhi Sida Biaoju (Taiwan).bin" size="54319440" crc="1578f972" md5="3ff709d0afabd1901f7dda77fa8d9d4d" sha1="5be8df2da46fc2e318a83dd0832cd9c0adbbbb55"/>
 		<rom name="Yunbiao Tianxia Zhi Sida Biaoju (Taiwan).cue" size="106" crc="c4565680" md5="e8dc6ed5aa3c095898093b2e4f1b8935" sha1="e07dd3c5f44959a2a11bffeb0c67a76fa53b21f5"/>
+	</game>
+	<game name="Yuru Plus (Japan)" id="138401">
+		<category>Games</category>
+		<description>Yuru Plus (Japan)</description>
+		<rom name="Yuru Plus (Japan).bin" size="616212240" crc="e87440fd" md5="818be9e34678c862de197362ec0251f5" sha1="90e2148ac329db25193b26ff8455cd0e0aceaf8e"/>
+		<rom name="Yuru Plus (Japan).cue" size="83" crc="c9902120" md5="2e335b46d1e9d526ea71242ed7e1b1b3" sha1="73bf3ad4baf2464d73c881814de4a94a8291ce49"/>
 	</game>
 	<game name="Yuugen Gaisha Poipon Kensetsu (Japan)" id="84411">
 		<category>Games</category>

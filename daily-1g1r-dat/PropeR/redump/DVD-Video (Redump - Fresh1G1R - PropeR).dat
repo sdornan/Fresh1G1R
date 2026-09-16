@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (1,023) (-y) [-aAbBcdkmMpPuv] (2026-09-14 22-01-07) (Retool)</description>
-		<version>2026-09-14 22-01-07</version>
-		<date>2026-09-15 07-45-57</date>
+		<description>DVD-Video (1,027) (-y) [-aAbBcdkmMpPuv] (2026-09-15 18-31-07) (Retool)</description>
+		<version>2026-09-15 18-31-07</version>
+		<date>2026-09-16 07-51-08</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1450,6 +1450,26 @@
 		<category>Bonus Discs</category>
 		<description>Fate-Tiger Colosseum Upper - Gokujou Special DVD (Japan) (PSP Game Bundle)</description>
 		<rom name="Fate-Tiger Colosseum Upper - Gokujou Special DVD (Japan) (PSP Game Bundle).iso" size="1261750272" crc="dfb25c53" md5="c3c5f2c5fad6e97d4313087d12543a09" sha1="02df03c08c1a70e471ca4b1a7a8df91ced4a6310"/>
+	</game>
+	<game name="Fault!! Ace (Japan) (Disc A)" id="138394">
+		<category>Games</category>
+		<description>Fault!! Ace (Japan) (Disc A)</description>
+		<rom name="Fault!! Ace (Japan) (Disc A).iso" size="5026164736" crc="54e9bfda" md5="16dc66651f01aacf3f8918fab0d67223" sha1="619c99ed99461dfb8f3521f0538407230bed7e2f"/>
+	</game>
+	<game name="Fault!! Ace (Japan) (Disc B)" id="138395">
+		<category>Games</category>
+		<description>Fault!! Ace (Japan) (Disc B)</description>
+		<rom name="Fault!! Ace (Japan) (Disc B).iso" size="8103501824" crc="675d9a9d" md5="346879f35ef9c58d243ac944c33f579e" sha1="0842296c3c525ee62d0f3ed2b621bbd7a75e8add"/>
+	</game>
+	<game name="Fault!! Service (Japan) (Disc A)" id="138396">
+		<category>Games</category>
+		<description>Fault!! Service (Japan) (Disc A)</description>
+		<rom name="Fault!! Service (Japan) (Disc A).iso" size="4405886976" crc="9c99b07b" md5="9256e570655e697796ddcef8404fe793" sha1="053866378a6e91b0da31d5fb457ef1e218d5e014"/>
+	</game>
+	<game name="Fault!! Service (Japan) (Disc B)" id="138397">
+		<category>Games</category>
+		<description>Fault!! Service (Japan) (Disc B)</description>
+		<rom name="Fault!! Service (Japan) (Disc B).iso" size="3836182528" crc="98028a76" md5="0ae9f7eb2269868a4b1a9a7fe4fbe2dc" sha1="191cf2af121172fd91707e4db8b7a74f67c69fdd"/>
 	</game>
 	<game name="Final Fantasy X-2 (Europe) (En,Fr,De,Es,It) (Prologue - Eternal Calm) (PS2 Game Bundle)" id="402">
 		<category>Bonus Discs</category>

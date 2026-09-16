@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (352) (-y) [-aAbBcdkmMpPuv] (2026-09-15 04-41-10) (Retool)</description>
-		<version>2026-09-15 04-41-10</version>
-		<date>2026-09-15 07-49-19</date>
+		<description>Sony - PlayStation 5 (354) (-y) [-aAbBcdkmMpPuv] (2026-09-15 13-21-08) (Retool)</description>
+		<version>2026-09-15 13-21-08</version>
+		<date>2026-09-16 07-55-33</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -66,10 +66,10 @@
 		<description>Anno - Mutationem (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Ru)</description>
 		<rom name="Anno - Mutationem (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Ru).iso" size="40008351744" crc="9a29857f" md5="9d26d2114f9765a8af52c004fdba1927" sha1="58bca2ae02f09061415ff2bbbb5eab2f2658eabb"/>
 	</game>
-	<game name="Anno 1800 - Console Edition (Europe)" id="125716">
+	<game name="Anno 1800 - Console Edition (USA) (En,Fr,Es)" id="138339">
 		<category>Games</category>
-		<description>Anno 1800 - Console Edition (Europe)</description>
-		<rom name="Anno 1800 - Console Edition (Europe).iso" size="40008351744" crc="9725d21b" md5="2055220b710fa9f5d027ffdc40812226" sha1="7f88afb36fba13c3167ed1918da04c9fdffbfa1e"/>
+		<description>Anno 1800 - Console Edition (USA) (En,Fr,Es)</description>
+		<rom name="Anno 1800 - Console Edition (USA) (En,Fr,Es).iso" size="40008351744" crc="17d0df54" md5="3ef7ab0b9c5bbf25519b725daf9644c0" sha1="39cf08c7efa5fe6889cc5188e0dd6859d3210cdd"/>
 	</game>
 	<game name="Armored Core VI - Fires of Rubicon (USA) (En,Fr,Es,Pt)" id="111961">
 		<category>Games</category>
@@ -156,10 +156,10 @@
 		<description>Balan Wonderworld (Europe)</description>
 		<rom name="Balan Wonderworld (Europe).iso" size="40008351744" crc="031201cb" md5="5c15ce5955a16c9aafa7bb624dff0936" sha1="f031505dcbdfc9c53c3248b434ce290f84008d1b"/>
 	</game>
-	<game name="Balatro (Japan)" id="128878">
+	<game name="Balatro (USA)" id="138340">
 		<category>Games</category>
-		<description>Balatro (Japan)</description>
-		<rom name="Balatro (Japan).iso" size="40008351744" crc="701c2ed0" md5="d1021689b00a695fa3847ee7ab5996c7" sha1="101e2626c091c2e4a3280596f8e914f008add11e"/>
+		<description>Balatro (USA)</description>
+		<rom name="Balatro (USA).iso" size="40008351744" crc="0705b155" md5="0c10adab5fc8a7a27af25782a5dfd18a" sha1="f9407b02bcea25a5bd7eae5fd55a9ddc1f8d7c61"/>
 	</game>
 	<game name="Banishers - Ghosts of New Eden (USA)" id="133718">
 		<category>Games</category>
@@ -250,6 +250,11 @@
 		<category>Games</category>
 		<description>Chou Jigen Game Neptune - Sisters vs. Sisters (Japan)</description>
 		<rom name="Chou Jigen Game Neptune - Sisters vs. Sisters (Japan).iso" size="40008351744" crc="a0d926ac" md5="0cfb85f1b79bdb55dc4d29baf80a7015" sha1="0b4a54a3d4e059a794bba8f1d28332ba501b041e"/>
+	</game>
+	<game name="Chou Shin Jikuu Game Neptune Unlimited (Japan)" id="138389">
+		<category>Games</category>
+		<description>Chou Shin Jikuu Game Neptune Unlimited (Japan)</description>
+		<rom name="Chou Shin Jikuu Game Neptune Unlimited (Japan).iso" size="40008351744" crc="c05e1d19" md5="cecab0b4aaf15a88800c1bf728c7f33e" sha1="0269bef4f6a1b603ae5719aa9e2cafe8775304c3"/>
 	</game>
 	<game name="CityDriver (Germany)" id="135078">
 		<category>Games</category>
@@ -906,10 +911,10 @@
 		<description>Legacy of Kain - Soul Reaver 1 &amp; 2 Remastered (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru)</description>
 		<rom name="Legacy of Kain - Soul Reaver 1 &amp; 2 Remastered (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru).iso" size="40008351744" crc="cbaa8b90" md5="438ff7318bd71c995c36819458e92255" sha1="e847e2ba6a2615e40c88e55ca754a4438daf6f92"/>
 	</game>
-	<game name="Like a Dragon - Infinite Wealth (USA)" id="132458">
+	<game name="Like a Dragon - Infinite Wealth (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)" id="132458">
 		<category>Games</category>
-		<description>Like a Dragon - Infinite Wealth (USA)</description>
-		<rom name="Like a Dragon - Infinite Wealth (USA).iso" size="57356779520" crc="25ebdd32" md5="c07c17e0bbc95a7a20292810a341394d" sha1="b936326677fcc5f6f3cad16e18cd8ec77d65acee"/>
+		<description>Like a Dragon - Infinite Wealth (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)</description>
+		<rom name="Like a Dragon - Infinite Wealth (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso" size="57356779520" crc="25ebdd32" md5="c07c17e0bbc95a7a20292810a341394d" sha1="b936326677fcc5f6f3cad16e18cd8ec77d65acee"/>
 	</game>
 	<game name="Like a Dragon - Ishin! (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)" id="134753">
 		<category>Games</category>
@@ -1095,6 +1100,11 @@
 		<category>Games</category>
 		<description>NBA 2K26 (USA)</description>
 		<rom name="NBA 2K26 (USA).iso" size="57107611648" crc="3a6bba87" md5="0831d962b73b06d3438d473bf8ff2858" sha1="9d4739413a6b777cc21d0f5d0526142a1a566f17"/>
+	</game>
+	<game name="NHL 24 (USA) (En,Fr)" id="138341">
+		<category>Games</category>
+		<description>NHL 24 (USA) (En,Fr)</description>
+		<rom name="NHL 24 (USA) (En,Fr).iso" size="41913876480" crc="98209d34" md5="304c0ec1cfcf04f0338ac380a57fda85" sha1="8db603a52bb48205d167ff48a8f78e3c390550fa"/>
 	</game>
 	<game name="Neon White (Japan)" id="135767">
 		<category>Games</category>
@@ -1291,10 +1301,10 @@
 		<description>Resident Evil 2 (USA)</description>
 		<rom name="Resident Evil 2 (USA).iso" size="40008351744" crc="700e76de" md5="2c46a9df0da563ffbfb681fa10ba14c0" sha1="3c2b8f7fe4bfc49f17faf624725bee75bbd92fd3"/>
 	</game>
-	<game name="Resident Evil 4 (USA)" id="132964">
+	<game name="Resident Evil 4 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Ar)" id="132964">
 		<category>Games</category>
-		<description>Resident Evil 4 (USA)</description>
-		<rom name="Resident Evil 4 (USA).iso" size="57639108608" crc="aa7a5036" md5="2e91723f5f8af94e97579baac017d3d5" sha1="9f62960af2ceec33093189e85870f87f5c4bb40a"/>
+		<description>Resident Evil 4 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Ar)</description>
+		<rom name="Resident Evil 4 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Ar).iso" size="57639108608" crc="aa7a5036" md5="2e91723f5f8af94e97579baac017d3d5" sha1="9f62960af2ceec33093189e85870f87f5c4bb40a"/>
 	</game>
 	<game name="Resident Evil 7 - Biohazard - Gold Edition (USA)" id="133972">
 		<category>Games</category>
@@ -1316,10 +1326,10 @@
 		<description>Roadcraft (USA)</description>
 		<rom name="Roadcraft (USA).iso" size="40008351744" crc="a309c3af" md5="178227256f6f5076e1a0b854a85e5323" sha1="791df41d3c7bf7ce74f2726d9091bc324e467c71"/>
 	</game>
-	<game name="RoboCop - Rogue City (USA)" id="111801">
+	<game name="RoboCop - Rogue City (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="111801">
 		<category>Games</category>
-		<description>RoboCop - Rogue City (USA)</description>
-		<rom name="RoboCop - Rogue City (USA).iso" size="42549772288" crc="340ac683" md5="0c9bec0e162cf6f0d9a7b3e322d1094a" sha1="8cfb045d5fb60277688b59333372af8a69de52d0"/>
+		<description>RoboCop - Rogue City (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
+		<rom name="RoboCop - Rogue City (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="42549772288" crc="340ac683" md5="0c9bec0e162cf6f0d9a7b3e322d1094a" sha1="8cfb045d5fb60277688b59333372af8a69de52d0"/>
 	</game>
 	<game name="RoboCop - Rogue City - Unfinished Business (USA)" id="133831">
 		<category>Games</category>

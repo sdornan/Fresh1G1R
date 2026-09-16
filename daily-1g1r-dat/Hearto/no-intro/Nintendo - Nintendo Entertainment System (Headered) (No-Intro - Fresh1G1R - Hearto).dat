@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,832) (-y) [-aAbBcefkmMoprv] (20260914-213759) (Retool)</description>
-		<version>20260914-213759</version>
-		<date>2026-09-15 07-37-04</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,831) (-y) [-aAbBcefkmMoprv] (20260915-214744) (Retool)</description>
+		<version>20260915-214744</version>
+		<date>2026-09-16 07-36-55</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3930,6 +3930,11 @@
 		<description>Jaws (USA)</description>
 		<rom name="Jaws (USA).nes" size="65552" header="4e 45 53 1a 02 04 30 08 20 00 00 00 00 00 00 01" crc="d0190958" md5="89cd417134089abd87c2592b3e5bf7f1" sha1="c102da80b2ded9364ebd707df14cbc3bd40bd65a" sha256="0c65060d6b9551bb470653b9a7ae364b277a0a79c688a7880da3334709a299ee"/>
 	</game>
+	<game name="Jaws - Enhanced Edition (World) (Steam)" id="8475">
+		<category>Games</category>
+		<description>Jaws - Enhanced Edition (World) (Steam)</description>
+		<rom name="Jaws - Enhanced Edition (World) (Steam).nes" size="196624" header="4e 45 53 1a 08 08 40 08 00 00 00 00 00 00 00 01" crc="3ea0d8a6" md5="7f4f773541fe70867f991b49e7f8563a" sha1="2d26f98a047f06134a2c09edc1632bf0beab84bd" sha256="03c0951b25facad0e058079d3f183bed2e266ec815d6ab68db69d18e2812df41"/>
+	</game>
 	<game name="Jaws - Retro Edition (World) (Steam)" id="8476">
 		<category>Games</category>
 		<description>Jaws - Retro Edition (World) (Steam)</description>
@@ -6520,16 +6525,6 @@
 		<category>Games</category>
 		<description>Ripple Island (World) (Red Art Games)</description>
 		<rom name="Ripple Island (World) (Red Art Games).nes" size="262160" header="4e 45 53 1a 10 00 10 08 00 00 00 07 00 00 00 01" crc="62d1967f" md5="c1fff04c9356dfc1558df1e7b4c20fbd" sha1="f04ec19755288a11ac2f96884759ce5b55fbccbb" sha256="b38514cafaed26e1fa6872f0b5900beb005a3186d9acd0f3ebc8b4ec3e6ce8f2"/>
-	</game>
-	<game name="River City Basketball - Let's Go Dunk Heroes! (USA, Europe) (Retro-Bit)" id="8614">
-		<category>Games</category>
-		<description>River City Basketball - Let's Go Dunk Heroes! (USA, Europe) (Retro-Bit)</description>
-		<rom name="River City Basketball - Let's Go Dunk Heroes! (USA, Europe) (Retro-Bit).nes" size="262160" header="4e 45 53 1a 08 10 c0 08 01 00 00 00 00 00 00 03" crc="2da93111" md5="898f4896bd96210abb57cffc3b2f17cb" sha1="11a16faa14973ffa203015dcd2a42f1f20739077" sha256="0019af3e6b7b356637af8eb37216c3aa2bd95ba3a80225f65098066b721255d4"/>
-	</game>
-	<game name="River City Fighting Legend (USA, Europe) (Retro-Bit)" id="8615">
-		<category>Games</category>
-		<description>River City Fighting Legend (USA, Europe) (Retro-Bit)</description>
-		<rom name="River City Fighting Legend (USA, Europe) (Retro-Bit).nes" size="262160" header="4e 45 53 1a 08 10 c0 08 01 00 00 00 00 00 00 03" crc="29458c23" md5="29c3402e90b79d1579a6b873e79cf9be" sha1="585c245532daccf9f40d763b39f17633e4bba042" sha256="f37c4d93ae462134c9a62c473c7352deb54c2b00910835797352421afad33715"/>
 	</game>
 	<game name="River City Ransom (USA)" id="1810">
 		<category>Games</category>

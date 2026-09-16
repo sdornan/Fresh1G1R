@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (372) (-y) [-aAbBcefkmMoprv] (20260914-111757) (Retool)</description>
-		<version>20260914-111757</version>
-		<date>2026-09-15 07-37-14</date>
+		<description>Nintendo - Satellaview (371) (-y) [-aAbBcefkmMoprv] (20260915-112622) (Retool)</description>
+		<version>20260915-112622</version>
+		<date>2026-09-16 07-37-53</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1061,7 +1061,7 @@
 	<game name="Mirai-gata Idol Kaihatsu System - Media Strawberry (Japan) (SoundLink Magazine)" id="3662">
 		<category>Magazines</category>
 		<description>Mirai-gata Idol Kaihatsu System - Media Strawberry (Japan) (SoundLink Magazine)</description>
-		<rom name="Mirai-gata Idol Kaihatsu System - Media Strawberry (Japan) (SoundLink Magazine).bs" size="524288" crc="a4378c67" md5="725354008fe15acc970ced7fda4f588b" sha1="fcf1481cf33178e9493cf09bd3731552d1964371" sha256="96220c6a5f2f69e89e8a58c9ed2c30e0b2d4a50c4c5e74c53c2f3838a502fbdf"/>
+		<rom name="Mirai-gata Idol Kaihatsu System - Media Strawberry (Japan) (SoundLink Magazine).bs" size="1048576" crc="3a6b93e7" md5="44a0b05e9ab79cf93022907c2c875ce5" sha1="c51d895b2c93743ea4a58c43bce31abe45c6c88e" sha256="62b2923c335acd8a7ff97bccc0ff800dc2dfcfc15f6518897153f31b04ce7bb3"/>
 	</game>
 	<game name="Mirai-gata Idol Kaihatsu System - Media Strawberry - Vol. 12 (Japan) (SoundLink Magazine)" id="3469">
 		<category>Magazines</category>
@@ -1529,11 +1529,6 @@
 		<category>Magazines</category>
 		<description>Super Puyo Puyo Tsuu Remix (5-16) + Game Tora no Chou Ooana (1996-5-19, Part 2) (Japan) (Game, SoundLink Magazine)</description>
 		<rom name="Super Puyo Puyo Tsuu Remix (5-16) + Game Tora no Chou Ooana (1996-5-19, Part 2) (Japan) (Game, SoundLink Magazine).bs" size="1048576" crc="cbe9d3c8" md5="8b5dab657e51b862f5b01d87b7f0539f" sha1="20328526c7e7f2a99ffd97440bb72b560ea93037" sha256="20078e6c546ec2e28c829e599840077de84068cdc12366c42c5ef8d0fa9d00e8"/>
-	</game>
-	<game name="Super Soukoban (Japan) (2-8) (Standalone Fix)" id="3631">
-		<category>Games</category>
-		<description>Super Soukoban (Japan) (2-8) (Standalone Fix)</description>
-		<rom name="Super Soukoban (Japan) (2-8) (Standalone Fix).bs" size="524288" crc="99e0f046" md5="a3d0752c5cc8a931a4d2170095dc1da1" sha1="d0916a534229f6ede30599b8b646bf6ea738aa2a" sha256="d66af8b62c8884cff767ff3d49a0470e5c83e14ad674474a5b42cc7375aa55c2"/>
 	</game>
 	<game name="Super Soukoban (Japan) (4-4)" id="3663">
 		<category>Games</category>
