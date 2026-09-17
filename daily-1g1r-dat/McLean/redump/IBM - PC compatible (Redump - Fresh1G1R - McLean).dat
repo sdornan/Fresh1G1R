@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,535) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-16 03-32-35) (Retool)</description>
-		<version>2026-09-16 03-32-35</version>
-		<date>2026-09-16 07-42-19</date>
+		<description>IBM - PC compatible (13,533) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-17 01-42-35) (Retool)</description>
+		<version>2026-09-17 01-42-35</version>
+		<date>2026-09-17 07-39-36</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -7080,6 +7080,11 @@
 		<rom name="Baldies (Europe) (Sold Out Software).bin" size="516360432" crc="8879cc0f" md5="c547380164397622ae78df4f7e3240cc" sha1="9e635338eb9245b31c75357b6f78b9d9c92bed92"/>
 		<rom name="Baldies (Europe) (Sold Out Software).cue" size="102" crc="a8da885c" md5="7dcbdd00036040a3b3eb97e60cb1a496" sha1="b278ff29515ae9053f2e0ecee1755f053637bbd5"/>
 	</game>
+	<game name="Baldur's Gate (France) (En,Fr,Es,It)" id="138443">
+		<category>Games</category>
+		<description>Baldur's Gate (France) (En,Fr,Es,It)</description>
+		<rom name="Baldur's Gate (France) (En,Fr,Es,It).iso" size="3675869184" crc="d348369a" md5="5185341f3f2752209e7a3984c36c0607" sha1="e8485c76588a766b97db33a647b0fb7395007db4"/>
+	</game>
 	<game name="Baldur's Gate (USA) (Disc 1) (v1.1.4315)" id="21883">
 		<category>Games</category>
 		<description>Baldur's Gate (USA) (Disc 1) (v1.1.4315)</description>
@@ -7133,10 +7138,10 @@
 		<rom name="Baldur's Gate - The Original Saga (World) (Disc 3).bin" size="770061264" crc="ea2c7036" md5="6ff5928fdd9fe5b0fe13ee4cc7c3765d" sha1="0cbd96ee01eee5f534b5fe21c54de38ef25cf27c"/>
 		<rom name="Baldur's Gate - The Original Saga (World) (Disc 3).cue" size="116" crc="1fb81b95" md5="155d1fb140154c9d98c60e72ab73ce3a" sha1="e3e02aea2b7e80a03e0570a076cc1e139e72d780"/>
 	</game>
-	<game name="Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease)" id="71243">
+	<game name="Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease) (2006-05-17)" id="114769">
 		<category>Games</category>
-		<description>Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease)</description>
-		<rom name="Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease).iso" size="3834509312" crc="4adf2fdc" md5="c48b0d4a2dba112615ed5cd28bf67c86" sha1="af4c767cc2fd2be19253a73373726b807e62dae7"/>
+		<description>Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease) (2006-05-17)</description>
+		<rom name="Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease) (2006-05-17).iso" size="3855613952" crc="f7fbd84f" md5="ba02e6358f4ee3751d8f0bc684490eea" sha1="429d7944a15de11594c014829a59f4b11c2d0683"/>
 	</game>
 	<game name="Baldur's Gate II - Shadows of Amn (USA) (Disc 1)" id="11387">
 		<category>Games</category>
@@ -65656,21 +65661,6 @@
 		<category>Games</category>
 		<description>Rage (USA) (En,Ja,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3)</description>
 		<rom name="Rage (USA) (En,Ja,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3).iso" size="3121283072" crc="548bc0b9" md5="704d0193d2e14fa8af45c4b65cacebee" sha1="a62c30934d9c20d09be74012f9fad4c248ac6245"/>
-	</game>
-	<game name="Rage - Anarchy Edition (Europe) (Disc 1)" id="132796">
-		<category>Games</category>
-		<description>Rage - Anarchy Edition (Europe) (Disc 1)</description>
-		<rom name="Rage - Anarchy Edition (Europe) (Disc 1).iso" size="8390246400" crc="6524b58d" md5="108b7913060d971763028fa3e7e73da3" sha1="569c8ebd8b594d028e31c0b4b746b494f9bffef2"/>
-	</game>
-	<game name="Rage - Anarchy Edition (Europe) (Disc 2)" id="132797">
-		<category>Games</category>
-		<description>Rage - Anarchy Edition (Europe) (Disc 2)</description>
-		<rom name="Rage - Anarchy Edition (Europe) (Disc 2).iso" size="8390115328" crc="6cf70d06" md5="be64532b665cd271bca9c565a7c1e9fb" sha1="26cd2d3d9c7fafec1928fc1f6b6487719b44cacc"/>
-	</game>
-	<game name="Rage - Anarchy Edition (Europe) (Disc 3)" id="132798">
-		<category>Games</category>
-		<description>Rage - Anarchy Edition (Europe) (Disc 3)</description>
-		<rom name="Rage - Anarchy Edition (Europe) (Disc 3).iso" size="2143354880" crc="e0d966c1" md5="1a4988e3ecff91fa5655d4993f30c906" sha1="8bf18824defdc35c23f7033f79e5949ab03925d6"/>
 	</game>
 	<game name="Rage Rally (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)" id="43209">
 		<category>Games</category>

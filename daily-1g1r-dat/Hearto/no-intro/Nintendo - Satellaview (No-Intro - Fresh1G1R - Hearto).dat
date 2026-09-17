@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (371) (-y) [-aAbBcefkmMoprv] (20260915-112622) (Retool)</description>
-		<version>20260915-112622</version>
-		<date>2026-09-16 07-37-53</date>
+		<description>Nintendo - Satellaview (371) (-y) [-aAbBcefkmMoprv] (20260916-121726) (Retool)</description>
+		<version>20260916-121726</version>
+		<date>2026-09-17 07-36-07</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1768,36 +1768,36 @@
 		<description>Wario no Mori - Bakushou Version (Japan) (1995-4-24)</description>
 		<rom name="Wario no Mori - Bakushou Version (Japan) (1995-4-24).bs" size="1048576" crc="e546b351" md5="a5b8a4fea58dbbd7c4144e4eb26a39ba" sha1="4e64df99fde8b597f62aa890209937d9b6297855" sha256="1d08d27644ceca5f86b3e4a86d2eaa0f755543984858a689387cc10a7c5d72ba"/>
 	</game>
-	<game name="Wario no Mori - Event Version 1 (Japan) (1995-7-11)" id="3711">
-		<category>Games</category>
-		<description>Wario no Mori - Event Version 1 (Japan) (1995-7-11)</description>
-		<rom name="Wario no Mori - Event Version 1 (Japan) (1995-7-11).bs" size="1048576" crc="5903240c" md5="00eced7a11fa3f1050a0752f01ee1617" sha1="a562565dd624b65622681ad667eae3a5b1227c23" sha256="30d011cef92b6b9f899130f1294f3842e44b99d4627f86be6f1c546d3d421926"/>
-	</game>
 	<game name="Wario no Mori - Event Version 1 (Japan) (Premiere) (1995-5-21)" id="3950">
 		<category>Games</category>
 		<description>Wario no Mori - Event Version 1 (Japan) (Premiere) (1995-5-21)</description>
 		<rom name="Wario no Mori - Event Version 1 (Japan) (Premiere) (1995-5-21).bs" size="1048576" crc="0644d75a" md5="ac844573cce0a99dbc1112e4cb3a2428" sha1="46dee393ad80bde9e5dbd94af8f0373b3594fc44" sha256="95400e008bceef2360878fe028247f4c2a7c613f65b4bbdc30ba00858b61dd06"/>
 	</game>
-	<game name="Wario no Mori - Event Version 1 (Japan) (Rerun) (1995-9-6)" id="3800">
+	<game name="Wario no Mori - Event Version 1 (Japan) (Rev 1) (1995-7-11)" id="3711">
 		<category>Games</category>
-		<description>Wario no Mori - Event Version 1 (Japan) (Rerun) (1995-9-6)</description>
-		<rom name="Wario no Mori - Event Version 1 (Japan) (Rerun) (1995-9-6).bs" size="1048576" crc="139fdf6e" md5="ba4428a0ed24a1af2bca0fecdb208e51" sha1="fd5f3d483898aa7a3783b8e0d618ef9fa2182699" sha256="3f67a2144b1e8efb109dfd851b7e3ba52f39e17eb126b58bae2879f15aa4a3ef"/>
+		<description>Wario no Mori - Event Version 1 (Japan) (Rev 1) (1995-7-11)</description>
+		<rom name="Wario no Mori - Event Version 1 (Japan) (Rev 1) (1995-7-11).bs" size="1048576" crc="5903240c" md5="00eced7a11fa3f1050a0752f01ee1617" sha1="a562565dd624b65622681ad667eae3a5b1227c23" sha256="30d011cef92b6b9f899130f1294f3842e44b99d4627f86be6f1c546d3d421926"/>
 	</game>
-	<game name="Wario no Mori - Event Version 1 (Rerun) (1996-3-31) + BS KureKure Mou Race - 4 Tsuki-Gou (1996-4-9) (Japan) (Game, Data)" id="3801">
+	<game name="Wario no Mori - Event Version 1 (Japan) (Rev 2) (1995-9-6)" id="3800">
+		<category>Games</category>
+		<description>Wario no Mori - Event Version 1 (Japan) (Rev 2) (1995-9-6)</description>
+		<rom name="Wario no Mori - Event Version 1 (Japan) (Rev 2) (1995-9-6).bs" size="1048576" crc="139fdf6e" md5="ba4428a0ed24a1af2bca0fecdb208e51" sha1="fd5f3d483898aa7a3783b8e0d618ef9fa2182699" sha256="3f67a2144b1e8efb109dfd851b7e3ba52f39e17eb126b58bae2879f15aa4a3ef"/>
+	</game>
+	<game name="Wario no Mori - Event Version 1 (Rev 2) (1996-3-31) + BS KureKure Mou Race - 4 Tsuki-Gou (1996-4-9) (Japan) (Game, Data)" id="3801">
 		<category>Add-Ons</category>
 		<category>Games</category>
-		<description>Wario no Mori - Event Version 1 (Rerun) (1996-3-31) + BS KureKure Mou Race - 4 Tsuki-Gou (1996-4-9) (Japan) (Game, Data)</description>
-		<rom name="Wario no Mori - Event Version 1 (Rerun) (1996-3-31) + BS KureKure Mou Race - 4 Tsuki-Gou (1996-4-9) (Japan) (Game, Data).bs" size="1048576" crc="0f96f129" md5="d5cb634ad41ed917aa44d414a08e3cf4" sha1="b3d24ed8b8064dac999a98ee2397857c2613dc32" sha256="44e78b4c2072df265debe696d23b7698e9736ade0fbde8116bb9df17c7ed36f6"/>
+		<description>Wario no Mori - Event Version 1 (Rev 2) (1996-3-31) + BS KureKure Mou Race - 4 Tsuki-Gou (1996-4-9) (Japan) (Game, Data)</description>
+		<rom name="Wario no Mori - Event Version 1 (Rev 2) (1996-3-31) + BS KureKure Mou Race - 4 Tsuki-Gou (1996-4-9) (Japan) (Game, Data).bs" size="1048576" crc="0f96f129" md5="d5cb634ad41ed917aa44d414a08e3cf4" sha1="b3d24ed8b8064dac999a98ee2397857c2613dc32" sha256="44e78b4c2072df265debe696d23b7698e9736ade0fbde8116bb9df17c7ed36f6"/>
 	</game>
 	<game name="Wario no Mori - Event Version 2 (Japan) (1995-8-27)" id="3914">
 		<category>Games</category>
 		<description>Wario no Mori - Event Version 2 (Japan) (1995-8-27)</description>
 		<rom name="Wario no Mori - Event Version 2 (Japan) (1995-8-27).bs" size="1048576" crc="fda5dacc" md5="32c1904341af1efc4e255ce81ba3506b" sha1="d63af7499a5afdd53295e14da25a21b3df493be3" sha256="087e6a4c53ed367a7cf6e9dbb9251e3e647f48db747fc6b5a5963de7d2173ed7"/>
 	</game>
-	<game name="Wario no Mori - Event Version 2 (Japan) (Rerun) (1995-9-29)" id="3622">
+	<game name="Wario no Mori - Event Version 2 (Japan) (Rev 1) (1995-9-29)" id="3622">
 		<category>Games</category>
-		<description>Wario no Mori - Event Version 2 (Japan) (Rerun) (1995-9-29)</description>
-		<rom name="Wario no Mori - Event Version 2 (Japan) (Rerun) (1995-9-29).bs" size="1048576" crc="32e62d9c" md5="928b48c7e2b7e57fa70be3109acf0563" sha1="a51550f79ae88cc874f625d5e4fafaf972671493" sha256="0631c0d79e67f4c2c232d5f7082c5764d4e94741d9d5d719da65019aad5407f1"/>
+		<description>Wario no Mori - Event Version 2 (Japan) (Rev 1) (1995-9-29)</description>
+		<rom name="Wario no Mori - Event Version 2 (Japan) (Rev 1) (1995-9-29).bs" size="1048576" crc="32e62d9c" md5="928b48c7e2b7e57fa70be3109acf0563" sha1="a51550f79ae88cc874f625d5e4fafaf972671493" sha256="0631c0d79e67f4c2c232d5f7082c5764d4e94741d9d5d719da65019aad5407f1"/>
 	</game>
 	<game name="Wario no Mori - Futatabi (Japan) (12-24)" id="3773">
 		<category>Games</category>

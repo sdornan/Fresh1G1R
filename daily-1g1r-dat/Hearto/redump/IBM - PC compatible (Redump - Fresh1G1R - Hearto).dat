@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,232) (-y) [-aAbBcefkmMoprv] (2026-09-16 03-32-35) (Retool)</description>
-		<version>2026-09-16 03-32-35</version>
-		<date>2026-09-16 07-31-56</date>
+		<description>IBM - PC compatible (26,229) (-y) [-aAbBcefkmMoprv] (2026-09-17 01-42-35) (Retool)</description>
+		<version>2026-09-17 01-42-35</version>
+		<date>2026-09-17 07-29-01</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14680,10 +14680,10 @@
 		<rom name="Baldur's Gate (Europe) (Non Interactive Demo).bin" size="39814656" crc="e4f54767" md5="d91c81fd87ef871cf3426c9c65bf708a" sha1="d2970eb74658217661bbc0ea2e10533441c26ead"/>
 		<rom name="Baldur's Gate (Europe) (Non Interactive Demo).cue" size="111" crc="c66c06a4" md5="51a749c6af343aca82df698e9c599fc4" sha1="927b6729a61d6c0ebaef62bfb8b002947b7b16ba"/>
 	</game>
-	<game name="Baldur's Gate (Germany) (Rerelease)" id="83765">
+	<game name="Baldur's Gate (France) (En,Fr,Es,It)" id="138443">
 		<category>Games</category>
-		<description>Baldur's Gate (Germany) (Rerelease)</description>
-		<rom name="Baldur's Gate (Germany) (Rerelease).iso" size="3172761600" crc="895a88f4" md5="4ffa8aa4dd4f9985b8887020866fb2c8" sha1="dc82eaf970ee6ba817c7ccc04015a7303a0faf11"/>
+		<description>Baldur's Gate (France) (En,Fr,Es,It)</description>
+		<rom name="Baldur's Gate (France) (En,Fr,Es,It).iso" size="3675869184" crc="d348369a" md5="5185341f3f2752209e7a3984c36c0607" sha1="e8485c76588a766b97db33a647b0fb7395007db4"/>
 	</game>
 	<game name="Baldur's Gate (USA) (Disc 1) (v1.1.4315)" id="21883">
 		<category>Games</category>
@@ -14816,10 +14816,10 @@
 		<rom name="Baldur's Gate II - Schatten von Amn (Germany) (Disc 4).bin" size="721715904" crc="92379827" md5="d3c7abeb83a02a5fff5183c963b5a06d" sha1="95941feece15ca5eb1a68a20feaa7188740834b0"/>
 		<rom name="Baldur's Gate II - Schatten von Amn (Germany) (Disc 4).cue" size="120" crc="9323d188" md5="8b9148d1417a3e6a46dac1f5a2a6c637" sha1="20f988d3924052ee1fb271c58ffc778174c97810"/>
 	</game>
-	<game name="Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease)" id="71243">
+	<game name="Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease) (2006-05-17)" id="114769">
 		<category>Games</category>
-		<description>Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease)</description>
-		<rom name="Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease).iso" size="3834509312" crc="4adf2fdc" md5="c48b0d4a2dba112615ed5cd28bf67c86" sha1="af4c767cc2fd2be19253a73373726b807e62dae7"/>
+		<description>Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease) (2006-05-17)</description>
+		<rom name="Baldur's Gate II - Shadows of Amn (Europe) (En,Fr,De,Es,It) (Rerelease) (2006-05-17).iso" size="3855613952" crc="f7fbd84f" md5="ba02e6358f4ee3751d8f0bc684490eea" sha1="429d7944a15de11594c014829a59f4b11c2d0683"/>
 	</game>
 	<game name="Baldur's Gate II - Shadows of Amn (Japan) (Special Edition) (Covermount)" id="136159">
 		<category>Demos</category>
@@ -126592,21 +126592,6 @@
 		<description>Rage (USA) (En,Ja,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3)</description>
 		<rom name="Rage (USA) (En,Ja,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3).iso" size="3121283072" crc="548bc0b9" md5="704d0193d2e14fa8af45c4b65cacebee" sha1="a62c30934d9c20d09be74012f9fad4c248ac6245"/>
 	</game>
-	<game name="Rage - Anarchy Edition (Europe) (Disc 1)" id="132796">
-		<category>Games</category>
-		<description>Rage - Anarchy Edition (Europe) (Disc 1)</description>
-		<rom name="Rage - Anarchy Edition (Europe) (Disc 1).iso" size="8390246400" crc="6524b58d" md5="108b7913060d971763028fa3e7e73da3" sha1="569c8ebd8b594d028e31c0b4b746b494f9bffef2"/>
-	</game>
-	<game name="Rage - Anarchy Edition (Europe) (Disc 2)" id="132797">
-		<category>Games</category>
-		<description>Rage - Anarchy Edition (Europe) (Disc 2)</description>
-		<rom name="Rage - Anarchy Edition (Europe) (Disc 2).iso" size="8390115328" crc="6cf70d06" md5="be64532b665cd271bca9c565a7c1e9fb" sha1="26cd2d3d9c7fafec1928fc1f6b6487719b44cacc"/>
-	</game>
-	<game name="Rage - Anarchy Edition (Europe) (Disc 3)" id="132798">
-		<category>Games</category>
-		<description>Rage - Anarchy Edition (Europe) (Disc 3)</description>
-		<rom name="Rage - Anarchy Edition (Europe) (Disc 3).iso" size="2143354880" crc="e0d966c1" md5="1a4988e3ecff91fa5655d4993f30c906" sha1="8bf18824defdc35c23f7033f79e5949ab03925d6"/>
-	</game>
 	<game name="Rage Rally (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)" id="43209">
 		<category>Games</category>
 		<description>Rage Rally (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
@@ -126982,6 +126967,11 @@
 		<description>Rails Across America (USA)</description>
 		<rom name="Rails Across America (USA).bin" size="139323072" crc="47737758" md5="0d17089c4ae4988df61baadb661ec38d" sha1="348eaf5368b0881576acd4aa917030a0ac59663c"/>
 		<rom name="Rails Across America (USA).cue" size="92" crc="7bc402ad" md5="91103a28828e0e3451b616307d837903" sha1="cb21d00af329e5695b9320d985ebb3fd2a2f9c3e"/>
+	</game>
+	<game name="Railworks 3 - Train Simulator 2012 (Germany)" id="138447">
+		<category>Games</category>
+		<description>Railworks 3 - Train Simulator 2012 (Germany)</description>
+		<rom name="Railworks 3 - Train Simulator 2012 (Germany).iso" size="3107618816" crc="d85b1e02" md5="d04f63bf5b5264603f4f23cfb3c79d4f" sha1="4c44eb155edbc2d2a4bb61993b9320445935753b"/>
 	</game>
 	<game name="Rainbow Islands - The Story of Bubble Bobble 2 (Japan) (En,Ja)" id="103801">
 		<category>Games</category>
@@ -164565,12 +164555,6 @@
 		<description>Total Club Manager 2004 (Europe) (En,Fr,De,Es) (Disc 2)</description>
 		<rom name="Total Club Manager 2004 (Europe) (En,Fr,De,Es) (Disc 2).bin" size="601655712" crc="5bf91076" md5="51bad284ac8a54acf40df2480db84ba2" sha1="3e53c724171cc3866f469d6619fdde502ed4d3dd"/>
 		<rom name="Total Club Manager 2004 (Europe) (En,Fr,De,Es) (Disc 2).cue" size="121" crc="c4205177" md5="fbce9ee78da8834baf406f9e046692a0" sha1="fd5671fa0345c6d63c14c5d5b14c0a3667ae28e9"/>
-	</game>
-	<game name="Total Club Manager 2004 (Sweden)" id="138107">
-		<category>Demos</category>
-		<description>Total Club Manager 2004 (Sweden)</description>
-		<rom name="Total Club Manager 2004 (Sweden).bin" size="799075536" crc="12657b5f" md5="173bb915695109da74b1756d8d1c02fd" sha1="f32f22b4a4ce5bd0401806eb42be6264ef2b29cd"/>
-		<rom name="Total Club Manager 2004 (Sweden).cue" size="98" crc="8b7d91aa" md5="304928c963d8415b9cc6fd05ec8e6bf6" sha1="c0a37dbdd5bc5693ade757c5425cd529f376584e"/>
 	</game>
 	<game name="Total Club Manager 2005 (Italy) (Disc 1)" id="101334">
 		<category>Games</category>
