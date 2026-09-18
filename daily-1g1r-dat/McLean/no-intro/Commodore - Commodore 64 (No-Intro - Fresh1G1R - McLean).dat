@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Retool)</name>
-		<description>Commodore - Commodore 64 (211) (-ly) [-aAbBcdDefkmMopPruv] (20260410-230500) (Retool)</description>
-		<version>20260410-230500</version>
-		<date>2026-09-17 07-45-22</date>
-		<author>baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, SonGoku, xuom2</author>
+		<description>Commodore - Commodore 64 (211) (-ly) [-aAbBcdDefkmMopPruv] (20260917-110039) (Retool)</description>
+		<version>20260917-110039</version>
+		<date>2026-09-18 07-34-33</date>
+		<author>baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -697,7 +697,7 @@
 	<game name="Pole Position (USA, Europe)" id="0249">
 		<category>Games</category>
 		<description>Pole Position (USA, Europe)</description>
-		<rom name="Pole Position (USA, Europe).crt" size="16464" crc="b5d9c502" md5="403c4b527e326d229c529871e90bae9a" sha1="33b3ccf72482343c3e847862031e005f5fc9f0e0"/>
+		<rom name="Pole Position (USA, Europe).crt" size="16464" header="43 36 34 20 43 41 52 54 52 49 44 47 45 20 20 20 00 00 00 40 01 00 00 00 00 00 00 00 00 00 00 00 50 6f 6c 65 20 50 6f 73 69 74 69 6f 6e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 43 48 49" crc="b5d9c502" md5="403c4b527e326d229c529871e90bae9a" sha1="33b3ccf72482343c3e847862031e005f5fc9f0e0"/>
 	</game>
 	<game name="Popeye (USA, Europe)" id="0250">
 		<category>Games</category>

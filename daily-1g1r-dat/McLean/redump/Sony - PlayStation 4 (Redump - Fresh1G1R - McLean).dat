@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,605) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-16 11-02-35) (Retool)</description>
-		<version>2026-09-16 11-02-35</version>
-		<date>2026-09-17 07-42-48</date>
+		<description>Sony - PlayStation 4 (1,607) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-18 05-52-35) (Retool)</description>
+		<version>2026-09-18 05-52-35</version>
+		<date>2026-09-18 07-32-04</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3396,6 +3396,11 @@
 		<description>Halloween Forever (Europe)</description>
 		<rom name="Halloween Forever (Europe).iso" size="1124663296" crc="70923fdd" md5="05acc6d15a17be26c40d1e898368b529" sha1="c2841cb3772d29c5320f9aad5b2cd1aa6acccff6"/>
 	</game>
+	<game name="Hardcore Mecha (Asia)" id="138462">
+		<category>Games</category>
+		<description>Hardcore Mecha (Asia)</description>
+		<rom name="Hardcore Mecha (Asia).iso" size="3789422592" crc="4873a12d" md5="37a15cd58c8e915a3212ef3a903f15ea" sha1="61cad19ba6f25e042c84d1f54f72f4d23ba68e92"/>
+	</game>
 	<game name="Harvest Moon - Light of Hope - Special Edition (USA)" id="58356">
 		<category>Games</category>
 		<description>Harvest Moon - Light of Hope - Special Edition (USA)</description>
@@ -5590,6 +5595,11 @@
 		<category>Games</category>
 		<description>Pong Quest (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Pong Quest (USA) (En,Fr,De,Es,It,Nl).iso" size="1633091584" crc="48aad658" md5="bde14ec6e4100a2305032e1f4e100a42" sha1="ff9d8049181e613602d7786ded71943efc38bb20"/>
+	</game>
+	<game name="Pool Nation (Europe)" id="138460">
+		<category>Games</category>
+		<description>Pool Nation (Europe)</description>
+		<rom name="Pool Nation (Europe).iso" size="25024331776" crc="af84278b" md5="10aba7cabfbdb994a2a69ec84fece8a7" sha1="af8613585927541ef2912985d24153f1e343ed7c"/>
 	</game>
 	<game name="Popcorn Rocket (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Ru)" id="133293">
 		<category>Games</category>

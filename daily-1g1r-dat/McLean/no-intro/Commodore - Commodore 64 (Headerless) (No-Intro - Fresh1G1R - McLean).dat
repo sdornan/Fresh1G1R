@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Headerless) (Retool)</name>
-		<description>Commodore - Commodore 64 (Headerless) (5) (-ly) [-aAbBcdDefkmMopPruv] (20260410-230500) (Retool)</description>
-		<version>20260410-230500</version>
-		<date>2026-09-17 07-47-55</date>
-		<author>baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, SonGoku, xuom2</author>
+		<description>Commodore - Commodore 64 (Headerless) (6) (-ly) [-aAbBcdDefkmMopPruv] (20260917-110039) (Retool)</description>
+		<version>20260917-110039</version>
+		<date>2026-09-18 07-34-28</date>
+		<author>baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -25,6 +25,11 @@
 		<category>Games</category>
 		<description>Lazarian (USA, Europe)</description>
 		<rom name="Lazarian (USA, Europe).crt" size="16384" crc="aa5d27d4" md5="986467c4848b5fd9e13cb61e8c7d1aeb" sha1="cf3dedd23375d51c11dbac60167031e6fb8a6a08" sha256="771d9a85d43f625090e15a89e9103061e5c95ae71d5261f0db156bdca218bf07"/>
+	</game>
+	<game name="Pole Position (USA, Europe)" id="0249">
+		<category>Games</category>
+		<description>Pole Position (USA, Europe)</description>
+		<rom name="Pole Position (USA, Europe).bin" size="16384" crc="8897e451" md5="10acc3cde8bbeb5baeb706a0e3aea524" sha1="ca89a850ad6f78e48a4891a89ccd37f0705ea54e" sha256="8477cfcc3f26370016b4a2971e57efa84d6d444a550416f1a9f2bd3c5deab480"/>
 	</game>
 	<game name="Star Ranger (USA, Europe)" id="0288">
 		<category>Games</category>

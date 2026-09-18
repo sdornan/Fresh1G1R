@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,229) (-y) [-aAbBcefkmMoprv] (2026-09-17 01-42-35) (Retool)</description>
-		<version>2026-09-17 01-42-35</version>
-		<date>2026-09-17 07-29-01</date>
+		<description>IBM - PC compatible (26,234) (-y) [-aAbBcefkmMoprv] (2026-09-18 07-12-35) (Retool)</description>
+		<version>2026-09-18 07-12-35</version>
+		<date>2026-09-18 07-18-23</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -13135,6 +13135,24 @@
 		<description>Atlantis II - The New World (Netherlands) (Disc 1)</description>
 		<rom name="Atlantis II - The New World (Netherlands) (Disc 1).bin" size="767709264" crc="91ca1cfd" md5="9e28501696b269f072e41e26d6e9f28b" sha1="0ec5c3c6f372214ff8ae2b77a7e235642b307ac1"/>
 		<rom name="Atlantis II - The New World (Netherlands) (Disc 1).cue" size="116" crc="b164df13" md5="16482a0770bad2523e662871245a76c3" sha1="b1bab4acc198eefcb2dedadb57d9ffa0857ca02f"/>
+	</game>
+	<game name="Atlantis III - Den nya varlden (Sweden) (Disc 1)" id="138463">
+		<category>Games</category>
+		<description>Atlantis III - Den nya varlden (Sweden) (Disc 1)</description>
+		<rom name="Atlantis III - Den nya varlden (Sweden) (Disc 1).bin" size="750318576" crc="24604910" md5="4ad27f3c41bae44eb15996a70d3023a7" sha1="16bf89ba06d958881653c95de311d6dcd502d414"/>
+		<rom name="Atlantis III - Den nya varlden (Sweden) (Disc 1).cue" size="114" crc="0db23fd1" md5="d98004cb37e0c151c1ae8002c7ff0b6c" sha1="331d9d3688373d095d58fc569867c6d25302fb54"/>
+	</game>
+	<game name="Atlantis III - Den nya varlden (Sweden) (Disc 2)" id="138464">
+		<category>Games</category>
+		<description>Atlantis III - Den nya varlden (Sweden) (Disc 2)</description>
+		<rom name="Atlantis III - Den nya varlden (Sweden) (Disc 2).bin" size="714803376" crc="d6504bb9" md5="0fa2978777db0d9aecc9d7b0fb4a084b" sha1="33770e2f7e9e5ad444db3a7f5c7ae79c0df6bf93"/>
+		<rom name="Atlantis III - Den nya varlden (Sweden) (Disc 2).cue" size="114" crc="0cef1900" md5="1767d4ab34062481692a88d16a91eed3" sha1="b9839824cf95372fe3fe587f4bddb3df3434b724"/>
+	</game>
+	<game name="Atlantis III - Den nya varlden (Sweden) (Disc 3)" id="138465">
+		<category>Games</category>
+		<description>Atlantis III - Den nya varlden (Sweden) (Disc 3)</description>
+		<rom name="Atlantis III - Den nya varlden (Sweden) (Disc 3).bin" size="747903072" crc="8a4c8365" md5="311a85e4be9419d2cdf8a86d33c39293" sha1="5de9accae3dd1ca092a276ddf404edb0404bff28"/>
+		<rom name="Atlantis III - Den nya varlden (Sweden) (Disc 3).cue" size="114" crc="baf4f970" md5="ee9066682e70657f8db0cb155fd85416" sha1="5b9bc12f7e68c128c9be87a95e5c25f5810f34fa"/>
 	</game>
 	<game name="Atlantis III - Die neue Welt (Germany) (Rerelease)" id="65418">
 		<category>Games</category>
@@ -35507,6 +35525,11 @@
 		<category>Games</category>
 		<description>Dark Souls III - The Fire Fades Edition (Russia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 4)</description>
 		<rom name="Dark Souls III - The Fire Fades Edition (Russia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 4).iso" size="1790720000" crc="d776e3c2" md5="5b8425e7830dbacf1c2e3c5810604f0a" sha1="3bec35579f3703486a3d1e58efaa46718e055b54"/>
+	</game>
+	<game name="Dark Souls with Artorias of the Abyss Edition (Japan)" id="138458">
+		<category>Games</category>
+		<description>Dark Souls with Artorias of the Abyss Edition (Japan)</description>
+		<rom name="Dark Souls with Artorias of the Abyss Edition (Japan).iso" size="3903422464" crc="71cd1380" md5="6d21c7e5a2926cf109238726c5422c7f" sha1="0c8b7b634dd2f40bd36a18b49c3171cc0e6558f6"/>
 	</game>
 	<game name="Dark Strokes - Das Konigreich des Schnees - Collector's Edition (Germany)" id="89389">
 		<category>Games</category>
@@ -142708,6 +142731,11 @@
 		<description>Shooting Heart (Japan)</description>
 		<rom name="Shooting Heart (Japan).bin" size="16727424" crc="ddb82044" md5="d636cb91a2a0b71b3c29cf131796485d" sha1="7e2a90c1fe43930849298a521231aff90f3f70a4"/>
 		<rom name="Shooting Heart (Japan).cue" size="111" crc="d9a3f4dd" md5="387eddb6bafd65ce5ebfa87bc7804592" sha1="172ed46e75f292e6fe0a5c580a3ce82593a3f493"/>
+	</game>
+	<game name="Shooty Shooty Robot Invasion (USA) (En,Ja)" id="138461">
+		<category>Games</category>
+		<description>Shooty Shooty Robot Invasion (USA) (En,Ja)</description>
+		<rom name="Shooty Shooty Robot Invasion (USA) (En,Ja).iso" size="968654848" crc="68e627ba" md5="508714b16faa472d4d389dc607c1c4cb" sha1="5e11788b72b8724f13ca42a3085d5c3f224aa009"/>
 	</game>
 	<game name="Shopmania (USA)" id="81158">
 		<category>Games</category>

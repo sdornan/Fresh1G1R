@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (832) (-ly) [-aAbBcdDefkmMopPruv] (20260916-204154) (Retool)</description>
-		<version>20260916-204154</version>
-		<date>2026-09-17 07-46-00</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (833) (-ly) [-aAbBcdDefkmMopPruv] (20260917-101236) (Retool)</description>
+		<version>20260917-101236</version>
+		<date>2026-09-18 07-36-14</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3266,6 +3266,11 @@
 		<category>Games</category>
 		<description>Snoopy's Silly Sports Spectacular! (USA)</description>
 		<rom name="Snoopy's Silly Sports Spectacular! (USA).nes" size="262160" header="4e 45 53 1a 08 10 10 08 00 00 00 00 00 00 00 01" crc="540bf9d0" md5="0c5f61b252f5cd026f8ff2ac619295f4" sha1="087147fcf8873544ea62131243fb838e0b9928d0" sha256="70fc39c1a2c6a24ec39733f087f363777a9868f46ad63caf6f6bf0fd4f769b57"/>
+	</game>
+	<game name="Snow Bros. (Japan) (En) (Snow Bros. Classic Collection)" id="8627">
+		<category>Games</category>
+		<description>Snow Bros. (Japan) (En) (Snow Bros. Classic Collection)</description>
+		<rom name="Snow Bros. (Japan) (En) (Snow Bros. Classic Collection).nes" size="262160" header="4e 45 53 1a 08 10 10 08 00 00 00 00 00 00 00 01" crc="5633b100" md5="904f6591573c0f00524d6cd5b0fbf199" sha1="a83f5a6d8ada22c0fd067aacd64f466d9f56ab2a" sha256="4d0e95d9a334f5afea1c8c508892ec2a7b5c4464fdbacca21011db9ba048d1d1"/>
 	</game>
 	<game name="Snow Brothers (USA)" id="2025">
 		<category>Games</category>
