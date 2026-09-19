@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Atari - 8-bit Family (Retool)</name>
-		<description>Atari - 8-bit Family (38) (-y) [-aAbBcefkmMoprv] (20260903-131744) (Retool)</description>
-		<version>20260903-131744</version>
-		<date>2026-09-18 07-25-55</date>
+		<description>Atari - 8-bit Family (39) (-y) [-aAbBcefkmMoprv] (20260918-122830) (Retool)</description>
+		<version>20260918-122830</version>
+		<date>2026-09-19 07-21-17</date>
 		<author>Arctic Circle System, FakeShemp, Gefflon, MeguCocoa, rarenight, smesgr, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -130,6 +130,11 @@
 		<category>Games</category>
 		<description>Lode Runner (USA, Europe)</description>
 		<rom name="Lode Runner (USA, Europe).bin" size="65536" crc="b9a89bbd" md5="fc1de46e0845304f9886b9a3c5530496" sha1="9c59cf69f1c248fb673a3712ec7e35b1a0c42523" sha256="118a6e2893606774b7efd5c4027739c9b5b3e9146fcbe6a9fe89aad419efdbd5"/>
+	</game>
+	<game name="Millipede (USA)" id="0045">
+		<category>Games</category>
+		<description>Millipede (USA)</description>
+		<rom name="Millipede (USA).bin" size="16384" crc="fb7e45da" md5="989ed0907dc7e308ef5f656118fdaf20" sha1="957ae30c14efaa8c05d270fd232676b0d03a1b41" sha256="b88f8bc3ea7e4652727a3e8ba5145b94f1449160cbe1d777e33308657a1e76e8"/>
 	</game>
 	<game name="Miner 2049er (USA)" id="0027">
 		<category>Games</category>

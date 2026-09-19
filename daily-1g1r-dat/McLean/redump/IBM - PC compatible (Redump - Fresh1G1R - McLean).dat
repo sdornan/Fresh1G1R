@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,534) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-18 07-12-35) (Retool)</description>
-		<version>2026-09-18 07-12-35</version>
-		<date>2026-09-18 07-28-53</date>
+		<description>IBM - PC compatible (13,537) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-19 02-02-35) (Retool)</description>
+		<version>2026-09-19 02-02-35</version>
+		<date>2026-09-19 07-27-16</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -23234,6 +23234,12 @@
 		<rom name="Dr. Brain Thinking Games - I.Q. Adventure (USA) (Track 25).bin" size="15269184" crc="f7073635" md5="26617e5a766f713e1f7c74f9f89fb58c" sha1="ebd07c8233392673afc491b07ba76454e7047d4d"/>
 		<rom name="Dr. Brain Thinking Games - I.Q. Adventure (USA).cue" size="3532" crc="7f81716c" md5="88acb0f0b065c5a65352c129cfb67f04" sha1="752b66e899e930d705ed92a13d83dbeaee85fbfc"/>
 	</game>
+	<game name="Dr. Brain Thinking Games - Puzzle Madness (USA)" id="138486">
+		<category>Games</category>
+		<description>Dr. Brain Thinking Games - Puzzle Madness (USA)</description>
+		<rom name="Dr. Brain Thinking Games - Puzzle Madness (USA).bin" size="689462928" crc="270e5fa5" md5="2701e0be34aae00220abfd496200bad0" sha1="a23aa9256338656acb1e6d36198d0227b6400972"/>
+		<rom name="Dr. Brain Thinking Games - Puzzle Madness (USA).cue" size="136" crc="a5c533d5" md5="7e410b256c389f13ff4755189edc2ad0" sha1="b42e4a5d04591083927ab921a2163772d6beb587"/>
+	</game>
 	<game name="Dr. Daisy (USA)" id="82613">
 		<category>Games</category>
 		<description>Dr. Daisy (USA)</description>
@@ -28796,6 +28802,11 @@
 		<rom name="Family Games (UK).bin" size="32702208" crc="5c61e3c7" md5="3e534481863600105eeed02a8b4f4046" sha1="cd4db54e36771d370a6837e8fac403c1d18581f4"/>
 		<rom name="Family Games (UK).cue" size="83" crc="d8c722cf" md5="02639dbcd095afd2488a16e291ae664c" sha1="4bc7f0266ea5dbe234cc0d0ca6f67958084dc234"/>
 	</game>
+	<game name="Family Games 4.0 (USA) (OEM)" id="138481">
+		<category>Games</category>
+		<description>Family Games 4.0 (USA) (OEM)</description>
+		<rom name="Family Games 4.0 (USA) (OEM).iso" size="1978630144" crc="472725c0" md5="bc813d11d274619f10fcc4940ad770d0" sha1="19aa677b3a7c18b851863097623f9c573cd587ef"/>
+	</game>
 	<game name="Family Games Compendium 2 (Europe)" id="130878">
 		<category>Games</category>
 		<description>Family Games Compendium 2 (Europe)</description>
@@ -29113,10 +29124,10 @@
 		<description>Farming Simulator 2011 - Platinum Edition (USA)</description>
 		<rom name="Farming Simulator 2011 - Platinum Edition (USA).iso" size="1025802240" crc="89c3af26" md5="636fb2f260d147aa6e9a60cad6f70990" sha1="68d8b92363453b02e4b39fd764b6ff998eec3316"/>
 	</game>
-	<game name="Farming Simulator 2013 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs,Hu)" id="101295">
+	<game name="Farming Simulator 2013 (USA)" id="138478">
 		<category>Games</category>
-		<description>Farming Simulator 2013 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs,Hu)</description>
-		<rom name="Farming Simulator 2013 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs,Hu).iso" size="1621006336" crc="0491c3c7" md5="7e71228596ddabc68d92cf2143ca0def" sha1="3eb5365424389bc292c71335b39d7e953893b24f"/>
+		<description>Farming Simulator 2013 (USA)</description>
+		<rom name="Farming Simulator 2013 (USA).iso" size="666894336" crc="e8642cd2" md5="7a9f908aaa030d01ba06aa1738a5cae4" sha1="b20876beaebd8631c3791f3bffe034ad9a847228"/>
 	</game>
 	<game name="Farming Simulator 2013 - Titanium Edition (USA) (En,Fr,De,It)" id="123783">
 		<category>Games</category>
@@ -38686,6 +38697,18 @@
 		<description>Hoyle Card Games (USA)</description>
 		<rom name="Hoyle Card Games (USA).bin" size="580631184" crc="9d867a60" md5="d2bde986964f6e05d99b89b230f715c4" sha1="6c4e42adf0e2babc36dfaebfe377f706207ce2d3"/>
 		<rom name="Hoyle Card Games (USA).cue" size="111" crc="827108e6" md5="e257fa7a29414aa0f47f8e575b7a5f9d" sha1="134e2e9041381eef4c8063393c94b46f48f00384"/>
+	</game>
+	<game name="Hoyle Card Games (USA) (Hoyle Card Games 2007)" id="138482">
+		<category>Games</category>
+		<description>Hoyle Card Games (USA) (Hoyle Card Games 2007)</description>
+		<rom name="Hoyle Card Games (USA) (Hoyle Card Games 2007).bin" size="685857312" crc="190465e2" md5="77070c5a97d1dedf2bf10b2f4fce51ac" sha1="ac5c28fde992b6c104df5be7dbd5c60af77c4842"/>
+		<rom name="Hoyle Card Games (USA) (Hoyle Card Games 2007).cue" size="112" crc="ad41d1a3" md5="eb29bafd0e70efb959df2a4356a1d309" sha1="978049707f598c30b30823b6619fb5ae93c2bbd4"/>
+	</game>
+	<game name="Hoyle Card Games (USA) (Hoyle Poker Online)" id="138483">
+		<category>Games</category>
+		<description>Hoyle Card Games (USA) (Hoyle Poker Online)</description>
+		<rom name="Hoyle Card Games (USA) (Hoyle Poker Online).bin" size="3847872" crc="54de51f1" md5="dbaa52bc9f15abb30e060a9ee8129627" sha1="5d63bba3af9805f767a8f081ad2f47ae2398fe61"/>
+		<rom name="Hoyle Card Games (USA) (Hoyle Poker Online).cue" size="109" crc="f6363c36" md5="f9afa7e8da095da093cd253abadab5b4" sha1="05ba97b50b55c2b84381028adf701d4741c1b860"/>
 	</game>
 	<game name="Hoyle Card Games 2 (USA)" id="91547">
 		<category>Games</category>
@@ -67281,10 +67304,10 @@
 		<rom name="Reel Deal Slots - Nickels &amp; More! (USA) (v1.4).bin" size="730324224" crc="a5c2b9da" md5="e8b20bd31a53fe890e25916abd4c146f" sha1="508ac7570453653e7bc2ddb5d57fbdbbab9aad37"/>
 		<rom name="Reel Deal Slots - Nickels &amp; More! (USA) (v1.4).cue" size="127" crc="bd517176" md5="e6bda4da520fa03cb14e8be3243be5a9" sha1="85e34f26559e2a1180c24dbfb1e6bcc711e51323"/>
 	</game>
-	<game name="Reel Deal Slots - Treasures of the Far East (USA)" id="100867">
+	<game name="Reel Deal Slots - Treasures of the Far East (USA) (v1.1)" id="138485">
 		<category>Games</category>
-		<description>Reel Deal Slots - Treasures of the Far East (USA)</description>
-		<rom name="Reel Deal Slots - Treasures of the Far East (USA).iso" size="3275620352" crc="c2ef7a22" md5="62dd5b9226ec0f9249941c0e88f67211" sha1="ba892582cb3b2939396ca6109fcb3e69eec4bb2e"/>
+		<description>Reel Deal Slots - Treasures of the Far East (USA) (v1.1)</description>
+		<rom name="Reel Deal Slots - Treasures of the Far East (USA) (v1.1).iso" size="3277914112" crc="0e0f4aac" md5="b227e2f290016f32c730e548e459173e" sha1="01ecee1b450781184352711428e9e0dade206e62"/>
 	</game>
 	<game name="Reel Deal Slots 4 Pack (USA)" id="137689">
 		<category>Games</category>
@@ -73193,12 +73216,6 @@
 		<description>Shutter Island - The Adventure Game (USA)</description>
 		<rom name="Shutter Island - The Adventure Game (USA).bin" size="357812112" crc="ea27b567" md5="8b4ff64892743bc7fe4d5aa6d4b9e22b" sha1="036f7218585f46feeb7119bbfc245438cf0a4b7b"/>
 		<rom name="Shutter Island - The Adventure Game (USA).cue" size="107" crc="e189a997" md5="b4781be5e8f17febc0e67aab2a982efe" sha1="85781358a0a5f0cd2b1c975d1ae17218a9558d7f"/>
-	</game>
-	<game name="Sid Meier's Alien Crossfire (USA)" id="102808">
-		<category>Games</category>
-		<description>Sid Meier's Alien Crossfire (USA)</description>
-		<rom name="Sid Meier's Alien Crossfire (USA).bin" size="689615808" crc="c6a885d1" md5="270d8d2a27c89c738620b5e3a6ce9f16" sha1="19b7309bbe82198aa3e17a261db2babe17a62c2e"/>
-		<rom name="Sid Meier's Alien Crossfire (USA).cue" size="99" crc="4c2ace23" md5="7a94b42b28b44f6da09ddefface93757" sha1="67c8e801d0b36ed452952e096f10e74e83f71ca0"/>
 	</game>
 	<game name="Sid Meier's Alpha Centauri (Europe) (Documentation CD)" id="32340">
 		<category>Games</category>
@@ -84738,11 +84755,11 @@
 		<rom name="Top 50 Blazing Games (USA).bin" size="26137776" crc="8630d441" md5="8e6f72111f12e7715429649f7c474e93" sha1="0cb0f07d2c6bd4307e7530b1f402bdab7a9e3dc7"/>
 		<rom name="Top 50 Blazing Games (USA).cue" size="92" crc="6892b9bd" md5="b04ac74541f33caf345a2bb907e93e85" sha1="5443aa4cd6a7c03c28ff7191cbc2719bbd202bf0"/>
 	</game>
-	<game name="Top Chef - The Game (USA) (En,Fr,De)" id="81389">
+	<game name="Top Chef - The Game (USA) (En,Fr,De) (Rev 1)" id="81389">
 		<category>Games</category>
-		<description>Top Chef - The Game (USA) (En,Fr,De)</description>
-		<rom name="Top Chef - The Game (USA) (En,Fr,De).bin" size="79264752" crc="ccf3b767" md5="583fc773df81029d0be501674664ec72" sha1="bb54309b87a25f4aa3ccf1774a00575a59646a66"/>
-		<rom name="Top Chef - The Game (USA) (En,Fr,De).cue" size="102" crc="45fbfcef" md5="e871ab3e64ef67d6298fa41f5ba3868f" sha1="e753846afa528c8e7db6da6927aa1750a2c0aa31"/>
+		<description>Top Chef - The Game (USA) (En,Fr,De) (Rev 1)</description>
+		<rom name="Top Chef - The Game (USA) (En,Fr,De) (Rev 1).bin" size="79264752" crc="ccf3b767" md5="583fc773df81029d0be501674664ec72" sha1="bb54309b87a25f4aa3ccf1774a00575a59646a66"/>
+		<rom name="Top Chef - The Game (USA) (En,Fr,De) (Rev 1).cue" size="110" crc="11427519" md5="c75e2149150e327189ef573fbbc6cedc" sha1="d33857612a99bfb25bc8a6103e67bd80a4011b88"/>
 	</game>
 	<game name="Top Gun - Combat Zones (Europe) (En,Fr,De,Es,It)" id="65608">
 		<category>Games</category>

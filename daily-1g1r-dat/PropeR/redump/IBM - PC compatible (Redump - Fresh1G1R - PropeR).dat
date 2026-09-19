@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,791) (-y) [-aAbBcdkmMpPuv] (2026-09-18 07-12-35) (Retool)</description>
-		<version>2026-09-18 07-12-35</version>
-		<date>2026-09-18 07-38-49</date>
+		<description>IBM - PC compatible (26,798) (-y) [-aAbBcdkmMpPuv] (2026-09-19 02-02-35) (Retool)</description>
+		<version>2026-09-19 02-02-35</version>
+		<date>2026-09-19 07-36-59</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -44539,6 +44539,12 @@
 		<rom name="Dr. Brain Thinking Games - I.Q. Adventure (USA) (Track 25).bin" size="15269184" crc="f7073635" md5="26617e5a766f713e1f7c74f9f89fb58c" sha1="ebd07c8233392673afc491b07ba76454e7047d4d"/>
 		<rom name="Dr. Brain Thinking Games - I.Q. Adventure (USA).cue" size="3532" crc="7f81716c" md5="88acb0f0b065c5a65352c129cfb67f04" sha1="752b66e899e930d705ed92a13d83dbeaee85fbfc"/>
 	</game>
+	<game name="Dr. Brain Thinking Games - Puzzle Madness (USA)" id="138486">
+		<category>Games</category>
+		<description>Dr. Brain Thinking Games - Puzzle Madness (USA)</description>
+		<rom name="Dr. Brain Thinking Games - Puzzle Madness (USA).bin" size="689462928" crc="270e5fa5" md5="2701e0be34aae00220abfd496200bad0" sha1="a23aa9256338656acb1e6d36198d0227b6400972"/>
+		<rom name="Dr. Brain Thinking Games - Puzzle Madness (USA).cue" size="136" crc="a5c533d5" md5="7e410b256c389f13ff4755189edc2ad0" sha1="b42e4a5d04591083927ab921a2163772d6beb587"/>
+	</game>
 	<game name="Dr. Brain reist durch die Zeit (Germany)" id="100687">
 		<category>Games</category>
 		<description>Dr. Brain reist durch die Zeit (Germany)</description>
@@ -54252,6 +54258,11 @@
 		<rom name="Family Games (UK).bin" size="32702208" crc="5c61e3c7" md5="3e534481863600105eeed02a8b4f4046" sha1="cd4db54e36771d370a6837e8fac403c1d18581f4"/>
 		<rom name="Family Games (UK).cue" size="83" crc="d8c722cf" md5="02639dbcd095afd2488a16e291ae664c" sha1="4bc7f0266ea5dbe234cc0d0ca6f67958084dc234"/>
 	</game>
+	<game name="Family Games 4.0 (USA) (OEM)" id="138481">
+		<category>Games</category>
+		<description>Family Games 4.0 (USA) (OEM)</description>
+		<rom name="Family Games 4.0 (USA) (OEM).iso" size="1978630144" crc="472725c0" md5="bc813d11d274619f10fcc4940ad770d0" sha1="19aa677b3a7c18b851863097623f9c573cd587ef"/>
+	</game>
 	<game name="Family Games Compendium 2 (Europe)" id="130878">
 		<category>Games</category>
 		<description>Family Games Compendium 2 (Europe)</description>
@@ -55030,10 +55041,10 @@
 		<description>Farming Simulator 2011 - Platinum Edition (USA)</description>
 		<rom name="Farming Simulator 2011 - Platinum Edition (USA).iso" size="1025802240" crc="89c3af26" md5="636fb2f260d147aa6e9a60cad6f70990" sha1="68d8b92363453b02e4b39fd764b6ff998eec3316"/>
 	</game>
-	<game name="Farming Simulator 2013 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs,Hu)" id="101295">
+	<game name="Farming Simulator 2013 (USA)" id="138478">
 		<category>Games</category>
-		<description>Farming Simulator 2013 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs,Hu)</description>
-		<rom name="Farming Simulator 2013 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs,Hu).iso" size="1621006336" crc="0491c3c7" md5="7e71228596ddabc68d92cf2143ca0def" sha1="3eb5365424389bc292c71335b39d7e953893b24f"/>
+		<description>Farming Simulator 2013 (USA)</description>
+		<rom name="Farming Simulator 2013 (USA).iso" size="666894336" crc="e8642cd2" md5="7a9f908aaa030d01ba06aa1738a5cae4" sha1="b20876beaebd8631c3791f3bffe034ad9a847228"/>
 	</game>
 	<game name="Farming Simulator 2013 - Modding Tutorials (Germany)" id="137841">
 		<category>Add-Ons</category>
@@ -73878,6 +73889,18 @@
 		<rom name="Hoyle Card Games (USA).bin" size="580631184" crc="9d867a60" md5="d2bde986964f6e05d99b89b230f715c4" sha1="6c4e42adf0e2babc36dfaebfe377f706207ce2d3"/>
 		<rom name="Hoyle Card Games (USA).cue" size="111" crc="827108e6" md5="e257fa7a29414aa0f47f8e575b7a5f9d" sha1="134e2e9041381eef4c8063393c94b46f48f00384"/>
 	</game>
+	<game name="Hoyle Card Games (USA) (Hoyle Card Games 2007)" id="138482">
+		<category>Games</category>
+		<description>Hoyle Card Games (USA) (Hoyle Card Games 2007)</description>
+		<rom name="Hoyle Card Games (USA) (Hoyle Card Games 2007).bin" size="685857312" crc="190465e2" md5="77070c5a97d1dedf2bf10b2f4fce51ac" sha1="ac5c28fde992b6c104df5be7dbd5c60af77c4842"/>
+		<rom name="Hoyle Card Games (USA) (Hoyle Card Games 2007).cue" size="112" crc="ad41d1a3" md5="eb29bafd0e70efb959df2a4356a1d309" sha1="978049707f598c30b30823b6619fb5ae93c2bbd4"/>
+	</game>
+	<game name="Hoyle Card Games (USA) (Hoyle Poker Online)" id="138483">
+		<category>Games</category>
+		<description>Hoyle Card Games (USA) (Hoyle Poker Online)</description>
+		<rom name="Hoyle Card Games (USA) (Hoyle Poker Online).bin" size="3847872" crc="54de51f1" md5="dbaa52bc9f15abb30e060a9ee8129627" sha1="5d63bba3af9805f767a8f081ad2f47ae2398fe61"/>
+		<rom name="Hoyle Card Games (USA) (Hoyle Poker Online).cue" size="109" crc="f6363c36" md5="f9afa7e8da095da093cd253abadab5b4" sha1="05ba97b50b55c2b84381028adf701d4741c1b860"/>
+	</game>
 	<game name="Hoyle Card Games 2 (USA)" id="91547">
 		<category>Games</category>
 		<description>Hoyle Card Games 2 (USA)</description>
@@ -90874,6 +90897,18 @@
 		<description>Lightbringer (USA) (Disc 5)</description>
 		<rom name="Lightbringer (USA) (Disc 5).bin" size="746294304" crc="c80d98ab" md5="fac3b4d05132ff48adb4ce746eb84085" sha1="b906f05c6bba7dd46d81dc2f7c6e85cbb6515870"/>
 		<rom name="Lightbringer (USA) (Disc 5).cue" size="93" crc="4e767e71" md5="e12aa06686f5a3eaf096e4c5ff11c013" sha1="2fb277cb0f98b4ec5f2734aacf071c262af2c711"/>
+	</game>
+	<game name="Lighthouse (Germany) (Disc 1)" id="138474">
+		<category>Games</category>
+		<description>Lighthouse (Germany) (Disc 1)</description>
+		<rom name="Lighthouse (Germany) (Disc 1).bin" size="708859872" crc="dbd74430" md5="9b356b37a83dfe078376860661609037" sha1="fb26704370786be3156d95420f5d9b2d88701ca1"/>
+		<rom name="Lighthouse (Germany) (Disc 1).cue" size="95" crc="bbefe654" md5="ab07cc34a92500c05c32d1eaa66b0da5" sha1="b4de9220048d3604515a4222b714515aadacc05f"/>
+	</game>
+	<game name="Lighthouse (Germany) (Disc 2)" id="138475">
+		<category>Games</category>
+		<description>Lighthouse (Germany) (Disc 2)</description>
+		<rom name="Lighthouse (Germany) (Disc 2).bin" size="663510960" crc="a2f5daad" md5="f43d532004aecacd9608caf8d4bf9ca4" sha1="328ba18bbdb5b9959844cf9b8d645f69b21fb32d"/>
+		<rom name="Lighthouse (Germany) (Disc 2).cue" size="95" crc="bab2c085" md5="18cff44ed5c7543f3baf1439620c0816" sha1="f482b5d4fa373c3461d05ac0eefaf3d69a581947"/>
 	</game>
 	<game name="Lighthouse - Il Faro (Italy) (Disc 1)" id="66029">
 		<category>Games</category>
@@ -133871,10 +133906,10 @@
 		<rom name="Reel Deal Slots - Nickels &amp; More! (USA) (v1.4).bin" size="730324224" crc="a5c2b9da" md5="e8b20bd31a53fe890e25916abd4c146f" sha1="508ac7570453653e7bc2ddb5d57fbdbbab9aad37"/>
 		<rom name="Reel Deal Slots - Nickels &amp; More! (USA) (v1.4).cue" size="127" crc="bd517176" md5="e6bda4da520fa03cb14e8be3243be5a9" sha1="85e34f26559e2a1180c24dbfb1e6bcc711e51323"/>
 	</game>
-	<game name="Reel Deal Slots - Treasures of the Far East (USA)" id="100867">
+	<game name="Reel Deal Slots - Treasures of the Far East (USA) (v1.1)" id="138485">
 		<category>Games</category>
-		<description>Reel Deal Slots - Treasures of the Far East (USA)</description>
-		<rom name="Reel Deal Slots - Treasures of the Far East (USA).iso" size="3275620352" crc="c2ef7a22" md5="62dd5b9226ec0f9249941c0e88f67211" sha1="ba892582cb3b2939396ca6109fcb3e69eec4bb2e"/>
+		<description>Reel Deal Slots - Treasures of the Far East (USA) (v1.1)</description>
+		<rom name="Reel Deal Slots - Treasures of the Far East (USA) (v1.1).iso" size="3277914112" crc="0e0f4aac" md5="b227e2f290016f32c730e548e459173e" sha1="01ecee1b450781184352711428e9e0dade206e62"/>
 	</game>
 	<game name="Reel Deal Slots 4 Pack (USA)" id="137689">
 		<category>Games</category>
@@ -145114,6 +145149,51 @@
 		<rom name="Shadoks, Les - Le Jeu - La Promenade (France).bin" size="484655472" crc="68932b18" md5="022b97c1f667a23e4db692bb9f8a6719" sha1="199db6984851579777b3bff2feef59e7d13f45c4"/>
 		<rom name="Shadoks, Les - Le Jeu - La Promenade (France).cue" size="111" crc="8f0e2b92" md5="a962d30b681590e357d8e2f2f58e33b1" sha1="20e9598db9ec7c2102ad16d756b439b373ad4261"/>
 	</game>
+	<game name="Shadow Caster (Germany)" id="138470">
+		<category>Games</category>
+		<description>Shadow Caster (Germany)</description>
+		<rom name="Shadow Caster (Germany) (Track 01).bin" size="52092096" crc="0da76674" md5="06209b034e4ae3437a09b48b0b340e09" sha1="e5c798e0c96e364cb1b776fe36ee1252e0083d44"/>
+		<rom name="Shadow Caster (Germany) (Track 02).bin" size="1768704" crc="cf8292b6" md5="df33ca269c0eea43ec761f6b5d0939c2" sha1="3860a92632a2f24a44636e78436326ce5fc5a16a"/>
+		<rom name="Shadow Caster (Germany) (Track 03).bin" size="1629936" crc="9c86ef6b" md5="aa3c46481d7029a6c0a7c948d8e1e68a" sha1="35bcb5d73e50ba5773ca309bc2ed88b8578cf263"/>
+		<rom name="Shadow Caster (Germany) (Track 04).bin" size="2269680" crc="6b6f3474" md5="ab9ea5059096b5a318af1585c40c2a29" sha1="c9a7e9cc0c58674620e162db74666cd4d2231bcd"/>
+		<rom name="Shadow Caster (Germany) (Track 05).bin" size="2189712" crc="ad4c7681" md5="dde1f64262f939a6e86e59f0e6282ca5" sha1="cfdb2b6ee0a32776addb57ff419a78d8dc2ab815"/>
+		<rom name="Shadow Caster (Germany) (Track 06).bin" size="1919232" crc="1afdc504" md5="2a1493ffc7559000acfc91dd6eff39fe" sha1="d220494969844681260fe1ccb30eaa3838cededb"/>
+		<rom name="Shadow Caster (Germany) (Track 07).bin" size="3582096" crc="88f33f55" md5="fbab2893849c772f1c9a808dc5c7d5b7" sha1="d4b44d4d54eef773b53e5ce096c265a0775bf767"/>
+		<rom name="Shadow Caster (Germany) (Track 08).bin" size="2984688" crc="e2a13686" md5="589e8f3e75c4536045ab869ceb5d26e2" sha1="20099649dfedf0386112390de771df04048e55b0"/>
+		<rom name="Shadow Caster (Germany) (Track 09).bin" size="2269680" crc="0382a589" md5="c56d96d8bb8d9929df8fa91c9d5bd0e7" sha1="dd15a4ce885800ec14c3b1ce533bcdfeb8143ced"/>
+		<rom name="Shadow Caster (Germany) (Track 10).bin" size="2601312" crc="5539a19f" md5="9c55f6695009df17f8819659054a7979" sha1="871b22c4284f007a04b6632424bc8a398a5c3881"/>
+		<rom name="Shadow Caster (Germany) (Track 11).bin" size="1818096" crc="2de7c6c3" md5="b6d671884b51b6a3e26586272027385f" sha1="af04a9941867542626d6f4297a759a6a75f2d735"/>
+		<rom name="Shadow Caster (Germany) (Track 12).bin" size="1667568" crc="6e64bc14" md5="cecc47722c02a6c9faf31064ec0c2b62" sha1="7fd1d70428110d5de5892a04bc4ab1862ede62a5"/>
+		<rom name="Shadow Caster (Germany) (Track 13).bin" size="2018016" crc="03a54fd4" md5="c50a8d290d1f4c6e2dfa428f16d6f2ba" sha1="5f3d90586ed3f05cac39fdbd9be936055e4e873d"/>
+		<rom name="Shadow Caster (Germany) (Track 14).bin" size="3234000" crc="fff04616" md5="60ff7a6efdc70becfe3fd0a329a5b11f" sha1="2533df8de62fa8bb9bc9867e6ba285c2aa07c598"/>
+		<rom name="Shadow Caster (Germany) (Track 15).bin" size="3335136" crc="c1cbccd0" md5="4562e90d4690438e3f94560f4092d85f" sha1="d2a08102c4c539ab56b1ff07e32c36f05a7288f5"/>
+		<rom name="Shadow Caster (Germany) (Track 16).bin" size="2848272" crc="6b83a26f" md5="cd6a466a369f321cea70a5d92db65b88" sha1="e6112e657ba8af6ea28a8d02f64fdd58d682368b"/>
+		<rom name="Shadow Caster (Germany) (Track 17).bin" size="2323776" crc="4c6dfd2c" md5="e651e0beab6cb13904e6e73b6f2a1ad3" sha1="7aa16521f87cc6abe6097dce0dc97f054cddac70"/>
+		<rom name="Shadow Caster (Germany) (Track 18).bin" size="2408448" crc="b43197da" md5="eeab246d504c30a137e5a8889c76ebb9" sha1="043be7c54dd329f0df64ac33ffaa3b12f86933dd"/>
+		<rom name="Shadow Caster (Germany) (Track 19).bin" size="2269680" crc="77f54319" md5="bc07142bf99ce1a6b70bab1a78dc6904" sha1="3cc9099c056fb437dd21d0d9c1e38f018a8f2de0"/>
+		<rom name="Shadow Caster (Germany) (Track 20).bin" size="2871792" crc="eb05adba" md5="ffa732664ca6fafa8d275f3d6f82423d" sha1="9ed943e7af4e2e224b5d6c5ece42f14e1396b0eb"/>
+		<rom name="Shadow Caster (Germany) (Track 21).bin" size="2497824" crc="db19cad5" md5="c88e6e5849eb958b08fdb309dd0e4e7d" sha1="1ece7508bd2e20e0f501f4c5989ada2ca9d6edbe"/>
+		<rom name="Shadow Caster (Germany) (Track 22).bin" size="2300256" crc="394a4bcb" md5="6c1c19a56bed4a4adf76f5268471e24d" sha1="4d7416144686cfa6511a357ba4bfd3a06430e8b4"/>
+		<rom name="Shadow Caster (Germany) (Track 23).bin" size="2824752" crc="c4c02d17" md5="d87f946b619b2ab8c08f1fe94ab720ce" sha1="a2a169d51ebfb5d132c2a649e71d5dbdb447a337"/>
+		<rom name="Shadow Caster (Germany) (Track 24).bin" size="2137968" crc="adf4ca21" md5="2edcf7f41ea533609527442e01e7308b" sha1="8523bc984212a16e1fc2948da0e49d0d4dd10890"/>
+		<rom name="Shadow Caster (Germany) (Track 25).bin" size="3520944" crc="8342dc20" md5="9d97cf10852bc56b92e894e4ff54eab2" sha1="2d1c871d4c93ce1dfd64d592a5d8f0cf184a9c8f"/>
+		<rom name="Shadow Caster (Germany) (Track 26).bin" size="2201472" crc="9cd111e9" md5="d797ccf9303ac91450aa7289bd1b3e20" sha1="21c0ffcb2e532b131f9ea407400905d49eb5e656"/>
+		<rom name="Shadow Caster (Germany) (Track 27).bin" size="1815744" crc="3cc0d4c3" md5="7b1a3839a6832855dcb16ea44df9763a" sha1="59def99b2953d530677e7b922d004d4ea623407b"/>
+		<rom name="Shadow Caster (Germany) (Track 28).bin" size="2573088" crc="bacecb38" md5="12986d499166ce5339de61f50fd7d8d0" sha1="558b39247e6e19e671988722a9f6d5096ec0c977"/>
+		<rom name="Shadow Caster (Germany) (Track 29).bin" size="1700496" crc="9b84db48" md5="ddb4f38c0ebbed5944c71ac7b1ac7274" sha1="0553f74fe28e3aef35e2d546f4b113ddb6d6f980"/>
+		<rom name="Shadow Caster (Germany) (Track 30).bin" size="2638944" crc="7c582ee5" md5="27cb84ec77d740baa3c8f055c7a72593" sha1="cb7f13e878b1b47811484f04959bf89100c1fc89"/>
+		<rom name="Shadow Caster (Germany) (Track 31).bin" size="1418256" crc="103db6d2" md5="03190ee0d597b25fe125e2c8e8f9ae5e" sha1="97b54be52c801192f30342ab5d3e9619c878311a"/>
+		<rom name="Shadow Caster (Germany) (Track 32).bin" size="2655408" crc="f403a8e5" md5="e089edf17beec658c0042f2dd1dbec96" sha1="4826ea8818ba80d69eec186dc62bcf3adb19a244"/>
+		<rom name="Shadow Caster (Germany) (Track 33).bin" size="1578192" crc="b3993221" md5="ab63c1037925d52fe81c87f10782f054" sha1="e203af34265ea0ed19c2fdec28795f1cc0661642"/>
+		<rom name="Shadow Caster (Germany) (Track 34).bin" size="1818096" crc="cadc7fb6" md5="25b6cd381481c1a703c3811ab0c741eb" sha1="2174bb8322913ce6376446f5544ae7eee7d00289"/>
+		<rom name="Shadow Caster (Germany) (Track 35).bin" size="2175600" crc="5b3a0892" md5="f108bb7e368fbea33afaa811448f1fec" sha1="0b6965e864134564a46e8b8fe70cc79461d9d2a8"/>
+		<rom name="Shadow Caster (Germany) (Track 36).bin" size="2389632" crc="0f65430c" md5="a05da2637a0b0d60794fe7578d7aaf9d" sha1="67b6c8b856bcd30f10a921cd5cdf11aa1f2eaa6e"/>
+		<rom name="Shadow Caster (Germany) (Track 37).bin" size="1822800" crc="373f5e26" md5="81583a91b14366a820ae3026cd02eebd" sha1="db58856073a19b4ef61942ade6ed3c3cb57e299d"/>
+		<rom name="Shadow Caster (Germany) (Track 38).bin" size="1415904" crc="cfe8c7bc" md5="b1bd4b837fabf4b7fe0fde2610704436" sha1="fd2f79f2a15384b34cbbf4ac0f97fd80790b203d"/>
+		<rom name="Shadow Caster (Germany) (Track 39).bin" size="3450384" crc="fce12509" md5="9f4a6b70ed266a94577a667659887092" sha1="1910d457bfb3823e5b99828109acd466b9724dcc"/>
+		<rom name="Shadow Caster (Germany) (Track 40).bin" size="2481360" crc="3b2ffded" md5="22add03be5542117fd083b43d0879d31" sha1="918ffdf31a4422920a8bce78dbf6d63478c22298"/>
+		<rom name="Shadow Caster (Germany).cue" size="3851" crc="80c841ce" md5="21e2f3367fcb10848859b0421bf9672e" sha1="526c9b8297818f10b09528300b06636c9a858f05"/>
+	</game>
 	<game name="Shadow Company - Left for Dead (USA)" id="106292">
 		<category>Games</category>
 		<description>Shadow Company - Left for Dead (USA)</description>
@@ -147806,7 +147886,7 @@
 		<rom name="Sibir' 2 (Russia) (Disc 2).cue" size="92" crc="1d336a26" md5="c83b50d427bcb0af4538a7ab67a8aa80" sha1="e7dd66b72696d2824a44efa988b3414b77682a71"/>
 	</game>
 	<game name="Sid Meier's Alien Crossfire (USA)" id="102808">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sid Meier's Alien Crossfire (USA)</description>
 		<rom name="Sid Meier's Alien Crossfire (USA).bin" size="689615808" crc="c6a885d1" md5="270d8d2a27c89c738620b5e3a6ce9f16" sha1="19b7309bbe82198aa3e17a261db2babe17a62c2e"/>
 		<rom name="Sid Meier's Alien Crossfire (USA).cue" size="99" crc="4c2ace23" md5="7a94b42b28b44f6da09ddefface93757" sha1="67c8e801d0b36ed452952e096f10e74e83f71ca0"/>
@@ -168530,11 +168610,11 @@
 		<rom name="Top Bomber (Taiwan).bin" size="182976192" crc="fa33f42e" md5="fd7a1bac5956a2377eadf761d1d9b8f0" sha1="90b7a5373d0ada1b928d90a5cfe0229dd29b3699"/>
 		<rom name="Top Bomber (Taiwan).cue" size="85" crc="89d4850c" md5="24ca28361020fe379263e2d7473e62d9" sha1="2c24e28748205fc6158752187cbcbe753cbf0200"/>
 	</game>
-	<game name="Top Chef - The Game (USA) (En,Fr,De)" id="81389">
+	<game name="Top Chef - The Game (USA) (En,Fr,De) (Rev 1)" id="81389">
 		<category>Games</category>
-		<description>Top Chef - The Game (USA) (En,Fr,De)</description>
-		<rom name="Top Chef - The Game (USA) (En,Fr,De).bin" size="79264752" crc="ccf3b767" md5="583fc773df81029d0be501674664ec72" sha1="bb54309b87a25f4aa3ccf1774a00575a59646a66"/>
-		<rom name="Top Chef - The Game (USA) (En,Fr,De).cue" size="102" crc="45fbfcef" md5="e871ab3e64ef67d6298fa41f5ba3868f" sha1="e753846afa528c8e7db6da6927aa1750a2c0aa31"/>
+		<description>Top Chef - The Game (USA) (En,Fr,De) (Rev 1)</description>
+		<rom name="Top Chef - The Game (USA) (En,Fr,De) (Rev 1).bin" size="79264752" crc="ccf3b767" md5="583fc773df81029d0be501674664ec72" sha1="bb54309b87a25f4aa3ccf1774a00575a59646a66"/>
+		<rom name="Top Chef - The Game (USA) (En,Fr,De) (Rev 1).cue" size="110" crc="11427519" md5="c75e2149150e327189ef573fbbc6cedc" sha1="d33857612a99bfb25bc8a6103e67bd80a4011b88"/>
 	</game>
 	<game name="Top Games Expansion-Kit (Germany)" id="134375">
 		<category>Add-Ons</category>
