@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,798) (-y) [-aAbBcdkmMpPuv] (2026-09-19 02-02-35) (Retool)</description>
-		<version>2026-09-19 02-02-35</version>
-		<date>2026-09-19 07-36-59</date>
+		<description>IBM - PC compatible (26,814) (-y) [-aAbBcdkmMpPuv] (2026-09-20 00-22-46) (Retool)</description>
+		<version>2026-09-20 00-22-46</version>
+		<date>2026-09-20 08-03-55</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -12844,11 +12844,11 @@
 		<rom name="Atama ga Yokunaru Game .1 (Japan).bin" size="9069312" crc="9c366eb2" md5="fa4f8ff7e6f1452d32bfab3c2166885d" sha1="9fd3b8bbcb353b2bc97235dce53a41b9b58a3b22"/>
 		<rom name="Atama ga Yokunaru Game .1 (Japan).cue" size="99" crc="eaa5602b" md5="e57a815cf291541870b9826e608a7ca0" sha1="4363f24e956537697649e06ba0c8aa469919354c"/>
 	</game>
-	<game name="Atari - 80 Classic Games in One! (USA)" id="46629">
+	<game name="Atari - 80 Classic Games in One! (USA, Canada)" id="46629">
 		<category>Games</category>
-		<description>Atari - 80 Classic Games in One! (USA)</description>
-		<rom name="Atari - 80 Classic Games in One! (USA).bin" size="770120064" crc="fcb32509" md5="91ee9e210d8031180e793ee6c06b752f" sha1="2d346abfafadeac77d60156047e4c8c13fbffde2"/>
-		<rom name="Atari - 80 Classic Games in One! (USA).cue" size="104" crc="0c19f78f" md5="284db992f59871f83a802d042d4836e9" sha1="0c9576f3f569cae807bd7aa0733dc581d8f89253"/>
+		<description>Atari - 80 Classic Games in One! (USA, Canada)</description>
+		<rom name="Atari - 80 Classic Games in One! (USA, Canada).bin" size="770120064" crc="fcb32509" md5="91ee9e210d8031180e793ee6c06b752f" sha1="2d346abfafadeac77d60156047e4c8c13fbffde2"/>
+		<rom name="Atari - 80 Classic Games in One! (USA, Canada).cue" size="112" crc="ba0ef12b" md5="ecf4395b877fecfcad8f1e21a80b56e9" sha1="ce7be3da3e71a89ee62a0a1baa9ba963d8283e5c"/>
 	</game>
 	<game name="Atari Anniversary Edition (USA)" id="2299">
 		<category>Games</category>
@@ -16050,32 +16050,32 @@
 		<rom name="Battle Bugs (Europe) (En,Fr,De).bin" size="111995184" crc="6b3d9fae" md5="7c68af269db3c11f18bfda15583480a7" sha1="044f3c6c6973de4911331e456b3cd50dc6c5b0a7"/>
 		<rom name="Battle Bugs (Europe) (En,Fr,De).cue" size="120" crc="b982c2a1" md5="d64d07aa60d94b1086d2a1a5f86ef1fe" sha1="a69bef049bc745e407a1b964a156e500a7219196"/>
 	</game>
-	<game name="Battle Chess (USA)" id="115220">
+	<game name="Battle Chess (USA) (Rev 1)" id="115220">
 		<category>Games</category>
-		<description>Battle Chess (USA)</description>
-		<rom name="Battle Chess (USA) (Track 01).bin" size="105162624" crc="b3fa7083" md5="cfc622755f82cbe595ff1f9e8a3eb9b1" sha1="f735dbdfdf6a4b4c923a9f63bb305c81969858bd"/>
-		<rom name="Battle Chess (USA) (Track 02).bin" size="163318176" crc="11c825a4" md5="6e480552254a1e28d14ed0e2da3b7019" sha1="e669df44c627f93bdd2de72a796862a049f93d1f"/>
-		<rom name="Battle Chess (USA) (Track 03).bin" size="22155840" crc="9faaa06c" md5="4eb28b3840fa6fbbc0264cbb9748ad75" sha1="cce0960333628494ba83fff35140e293d6feaf64"/>
-		<rom name="Battle Chess (USA) (Track 04).bin" size="28475664" crc="8ea45dd0" md5="aa17ee07ec4f55e1a10f166108041409" sha1="4ac0d1e0dd7d01e2845ce7b99540870d900e9653"/>
-		<rom name="Battle Chess (USA) (Track 05).bin" size="29400000" crc="c8a50212" md5="07fe286a565f5e5cc74720c3e560f58d" sha1="0ea93a8e1d24bf79e1628788c5c86a876f064076"/>
-		<rom name="Battle Chess (USA) (Track 06).bin" size="29106000" crc="bd92d9b5" md5="f2c19c6a20a9f55ac8fb483b9096f061" sha1="ca32c83910af7fa2424a70a6758d466abc546cf3"/>
-		<rom name="Battle Chess (USA) (Track 07).bin" size="29694000" crc="92667b22" md5="d0dffb98f4e68f07379ac0ccc21aaeb4" sha1="69590d8f1ceba25c9bc977026ac2eb9c569cb63c"/>
-		<rom name="Battle Chess (USA) (Track 08).bin" size="29771616" crc="ffeeed14" md5="a0a06e8c0ecb11f32e094a841d9b927b" sha1="cb2f9034d04804c7f8ae7a5ee5201bcfd747b92a"/>
-		<rom name="Battle Chess (USA) (Track 09).bin" size="4362960" crc="56dfe45b" md5="95b0b2a56ba537a138a406e1536041ee" sha1="1ad96ad74e618694849ed14df453aa48ac928abc"/>
-		<rom name="Battle Chess (USA) (Track 10).bin" size="4010160" crc="b2f1f9ea" md5="7ccd680f36a990049d16de8d5f8c56df" sha1="92daa5f12acbc850ce06244246e61806667e0cc7"/>
-		<rom name="Battle Chess (USA) (Track 11).bin" size="4339440" crc="7a739ee6" md5="bcfb670c181700ac818dbd8fc7a12d41" sha1="16d0d5de17176a2fe78c4fd995e6d7fb7d484172"/>
-		<rom name="Battle Chess (USA) (Track 12).bin" size="4203024" crc="25f1408c" md5="532322e76bfd7daab9becbf37d9b4478" sha1="d5489de69d1986d3856fb8414abb1904c0aea942"/>
-		<rom name="Battle Chess (USA) (Track 13).bin" size="4127760" crc="9a982d86" md5="f6a3885c67b2e22f56278d10c01de240" sha1="f2a28255200c8bbe8cd0acd6c3260d1c2749d569"/>
-		<rom name="Battle Chess (USA) (Track 14).bin" size="4233600" crc="e01b9c81" md5="6e91baf15a3ca10af9e6e7cd53c0d02d" sha1="1e8fd43d6c918a450ed1a15a81162f1d4d0f103e"/>
-		<rom name="Battle Chess (USA) (Track 15).bin" size="4146576" crc="958a7d61" md5="8297927347a10fae3e8d3bbebcd86fb0" sha1="b5f774ec787552e46c7a5141fa7044a551e0b4f0"/>
-		<rom name="Battle Chess (USA) (Track 16).bin" size="3974880" crc="364f352d" md5="8d63639810f0a766e720bca6473ccacb" sha1="d7efc2e396776d46827a4bfdb2c6310c22bc7375"/>
-		<rom name="Battle Chess (USA) (Track 17).bin" size="4551120" crc="43e32886" md5="16e50aec783251041acaa3c2c5e2e2b7" sha1="8ebca62a7c42e63c8f35951fee651bfe3f3295ec"/>
-		<rom name="Battle Chess (USA) (Track 18).bin" size="4003104" crc="2552f906" md5="6b81aa517dc32203d1a0ba9d3d3c776f" sha1="d9d090efc10152a34d4c1084007b0c3298140051"/>
-		<rom name="Battle Chess (USA) (Track 19).bin" size="4398240" crc="49609afc" md5="540f5586f80bb029b54d96d3c6217f7f" sha1="ad699ae2f5c6976ef6db74b62eaaf587b1556e0d"/>
-		<rom name="Battle Chess (USA) (Track 20).bin" size="6627936" crc="8fd51979" md5="87520abe575dcaeed1dac48df0edd97f" sha1="1ee6af7c876c91551c95f7d06a8acba40f950096"/>
-		<rom name="Battle Chess (USA) (Track 21).bin" size="15052800" crc="1f9d65c3" md5="3c109f74f31bc17c083d800fe66eda42" sha1="957f20a0188f770d6a85bfc2279e82e54dde0a18"/>
-		<rom name="Battle Chess (USA) (Track 22).bin" size="283909920" crc="31213dcb" md5="159e947d9662b158ab407c159f84ca92" sha1="bd41e11d2255b0c49c80c6416afe095edf0f7bfd"/>
-		<rom name="Battle Chess (USA).cue" size="2031" crc="9e28f5a7" md5="0b7a76a8d80b8276695ca61a1686a0dc" sha1="6cd5e7cd73d2615d6d185655f0d5eb6f6f92ef2b"/>
+		<description>Battle Chess (USA) (Rev 1)</description>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 01).bin" size="105162624" crc="b3fa7083" md5="cfc622755f82cbe595ff1f9e8a3eb9b1" sha1="f735dbdfdf6a4b4c923a9f63bb305c81969858bd"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 02).bin" size="163318176" crc="11c825a4" md5="6e480552254a1e28d14ed0e2da3b7019" sha1="e669df44c627f93bdd2de72a796862a049f93d1f"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 03).bin" size="22155840" crc="9faaa06c" md5="4eb28b3840fa6fbbc0264cbb9748ad75" sha1="cce0960333628494ba83fff35140e293d6feaf64"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 04).bin" size="28475664" crc="8ea45dd0" md5="aa17ee07ec4f55e1a10f166108041409" sha1="4ac0d1e0dd7d01e2845ce7b99540870d900e9653"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 05).bin" size="29400000" crc="c8a50212" md5="07fe286a565f5e5cc74720c3e560f58d" sha1="0ea93a8e1d24bf79e1628788c5c86a876f064076"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 06).bin" size="29106000" crc="bd92d9b5" md5="f2c19c6a20a9f55ac8fb483b9096f061" sha1="ca32c83910af7fa2424a70a6758d466abc546cf3"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 07).bin" size="29694000" crc="92667b22" md5="d0dffb98f4e68f07379ac0ccc21aaeb4" sha1="69590d8f1ceba25c9bc977026ac2eb9c569cb63c"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 08).bin" size="29771616" crc="ffeeed14" md5="a0a06e8c0ecb11f32e094a841d9b927b" sha1="cb2f9034d04804c7f8ae7a5ee5201bcfd747b92a"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 09).bin" size="4362960" crc="56dfe45b" md5="95b0b2a56ba537a138a406e1536041ee" sha1="1ad96ad74e618694849ed14df453aa48ac928abc"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 10).bin" size="4010160" crc="b2f1f9ea" md5="7ccd680f36a990049d16de8d5f8c56df" sha1="92daa5f12acbc850ce06244246e61806667e0cc7"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 11).bin" size="4339440" crc="7a739ee6" md5="bcfb670c181700ac818dbd8fc7a12d41" sha1="16d0d5de17176a2fe78c4fd995e6d7fb7d484172"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 12).bin" size="4203024" crc="25f1408c" md5="532322e76bfd7daab9becbf37d9b4478" sha1="d5489de69d1986d3856fb8414abb1904c0aea942"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 13).bin" size="4127760" crc="9a982d86" md5="f6a3885c67b2e22f56278d10c01de240" sha1="f2a28255200c8bbe8cd0acd6c3260d1c2749d569"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 14).bin" size="4233600" crc="e01b9c81" md5="6e91baf15a3ca10af9e6e7cd53c0d02d" sha1="1e8fd43d6c918a450ed1a15a81162f1d4d0f103e"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 15).bin" size="4146576" crc="958a7d61" md5="8297927347a10fae3e8d3bbebcd86fb0" sha1="b5f774ec787552e46c7a5141fa7044a551e0b4f0"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 16).bin" size="3974880" crc="364f352d" md5="8d63639810f0a766e720bca6473ccacb" sha1="d7efc2e396776d46827a4bfdb2c6310c22bc7375"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 17).bin" size="4551120" crc="43e32886" md5="16e50aec783251041acaa3c2c5e2e2b7" sha1="8ebca62a7c42e63c8f35951fee651bfe3f3295ec"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 18).bin" size="4003104" crc="2552f906" md5="6b81aa517dc32203d1a0ba9d3d3c776f" sha1="d9d090efc10152a34d4c1084007b0c3298140051"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 19).bin" size="4398240" crc="49609afc" md5="540f5586f80bb029b54d96d3c6217f7f" sha1="ad699ae2f5c6976ef6db74b62eaaf587b1556e0d"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 20).bin" size="6627936" crc="8fd51979" md5="87520abe575dcaeed1dac48df0edd97f" sha1="1ee6af7c876c91551c95f7d06a8acba40f950096"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 21).bin" size="15052800" crc="1f9d65c3" md5="3c109f74f31bc17c083d800fe66eda42" sha1="957f20a0188f770d6a85bfc2279e82e54dde0a18"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 22).bin" size="283909920" crc="31213dcb" md5="159e947d9662b158ab407c159f84ca92" sha1="bd41e11d2255b0c49c80c6416afe095edf0f7bfd"/>
+		<rom name="Battle Chess (USA) (Rev 1).cue" size="2207" crc="113b251d" md5="b3f90d06a1ad24b8948cf28a1a985780" sha1="0e910b8841b97d5a88318418283187470e520896"/>
 	</game>
 	<game name="Battle Chess 4000 (USA)" id="109627">
 		<category>Games</category>
@@ -40987,24 +40987,24 @@
 		<rom name="Disney Alice nel Paese delle Meraviglie - Il Labirinto delle Meraviglie &amp; Disney Capitan Uncino - Il Bottino dei Pirati (Italy).bin" size="99080352" crc="595e91c7" md5="84f21847bdf6ca2094ae40a10ab9893f" sha1="2a77e37fce08ac0b03a66def596f9e375ff16fe2"/>
 		<rom name="Disney Alice nel Paese delle Meraviglie - Il Labirinto delle Meraviglie &amp; Disney Capitan Uncino - Il Bottino dei Pirati (Italy).cue" size="193" crc="98e53ded" md5="f0fafcd493123b22e290136f188cadb4" sha1="ef5f9a46d99022df722032426f56a6a73f81c306"/>
 	</game>
-	<game name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy)" id="76910">
+	<game name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount)" id="76910">
 		<category>Games</category>
-		<description>Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy)</description>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 01).bin" size="345934512" crc="1b50ff58" md5="07323ac929a1b45626ffeb1838e1d943" sha1="81ce11cc143bfed4a7759159ac6aaedb0e6f8299"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 02).bin" size="21920640" crc="00367240" md5="689fd34cd6ec8de12a0b561296700f06" sha1="46f2698deded077c1407bfca5147e7e2cd0303af"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 03).bin" size="18357360" crc="52738e58" md5="5a435e19c14e617d4262a17e2b81036a" sha1="28f4beb19c9a0b63aef4d7d078af9efe831252fd"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 04).bin" size="11040288" crc="3eb0ac03" md5="2a7da674decea9305abba1975ee06a23" sha1="792627dcbe779a9d94024f7f8e20c40feb9827e9"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 05).bin" size="7608720" crc="2e284f4f" md5="af753f9b1f5a313edd9d5b8cc0d27fcc" sha1="0fba6167afb94aa75b208b52176cb68b7888c5ab"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 06).bin" size="5440176" crc="9dd281d3" md5="94afce61154ffab8d77b154346eebc79" sha1="e1b7160f9ce0ba1cc034b766af9a3461766f7bd4"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 07).bin" size="7364112" crc="680022dc" md5="19aa5da24ede64b35a7fc3a80153fa0c" sha1="670efdef9478abc9053637b5324ef4d41ec6b078"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 08).bin" size="16786224" crc="58dd72d3" md5="8cb65b0824f473b0f780d08ef0385a70" sha1="0f4771d987c15e9ccceba66ae2ee3aef74450ba6"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 09).bin" size="16786224" crc="e224c9b6" md5="b3149411b9b644d0384b6b70f7f5b0a1" sha1="fb7f5a77c36d9cff07856cc79ccc5797aac6de4f"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 10).bin" size="16360512" crc="be9d9c43" md5="1e831a982753306c120774636aa00ff6" sha1="16b59b31898266ba5802e1d90555b240e9f42384"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 11).bin" size="12848976" crc="b9dcddc1" md5="991bbb72d40572fbef42bfe8592fa64e" sha1="683b26162db4c0b4d35d9eac5c8ae84fe5826bca"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 12).bin" size="11016768" crc="172f8104" md5="2be46815a630568f002fd8b2393cfbe1" sha1="ad200bc8e8e887f59c1c6b4c765ed3db7fadbee8"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 13).bin" size="1415904" crc="afe8ab5c" md5="2a79497726bdc49ba59c756a092bf9cb" sha1="944037ebec20fc40d858631a2243b4fb86beb51e"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Track 14).bin" size="8885856" crc="6f6cabc3" md5="3355e48ccf9a6088658ecd9117798f71" sha1="3c9eea7dc9ef71955a098445dd14d07bc6098f5a"/>
-		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy).cue" size="2011" crc="822ead7a" md5="6e7b44cfaf040f613bec20ae0902b0b2" sha1="50dde47ef44d0b377037e5aadec9aa2070cf06dc"/>
+		<description>Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount)</description>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 01).bin" size="345934512" crc="1b50ff58" md5="07323ac929a1b45626ffeb1838e1d943" sha1="81ce11cc143bfed4a7759159ac6aaedb0e6f8299"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 02).bin" size="21920640" crc="00367240" md5="689fd34cd6ec8de12a0b561296700f06" sha1="46f2698deded077c1407bfca5147e7e2cd0303af"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 03).bin" size="18357360" crc="52738e58" md5="5a435e19c14e617d4262a17e2b81036a" sha1="28f4beb19c9a0b63aef4d7d078af9efe831252fd"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 04).bin" size="11040288" crc="3eb0ac03" md5="2a7da674decea9305abba1975ee06a23" sha1="792627dcbe779a9d94024f7f8e20c40feb9827e9"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 05).bin" size="7608720" crc="2e284f4f" md5="af753f9b1f5a313edd9d5b8cc0d27fcc" sha1="0fba6167afb94aa75b208b52176cb68b7888c5ab"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 06).bin" size="5440176" crc="9dd281d3" md5="94afce61154ffab8d77b154346eebc79" sha1="e1b7160f9ce0ba1cc034b766af9a3461766f7bd4"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 07).bin" size="7364112" crc="680022dc" md5="19aa5da24ede64b35a7fc3a80153fa0c" sha1="670efdef9478abc9053637b5324ef4d41ec6b078"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 08).bin" size="16786224" crc="58dd72d3" md5="8cb65b0824f473b0f780d08ef0385a70" sha1="0f4771d987c15e9ccceba66ae2ee3aef74450ba6"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 09).bin" size="16786224" crc="e224c9b6" md5="b3149411b9b644d0384b6b70f7f5b0a1" sha1="fb7f5a77c36d9cff07856cc79ccc5797aac6de4f"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 10).bin" size="16360512" crc="be9d9c43" md5="1e831a982753306c120774636aa00ff6" sha1="16b59b31898266ba5802e1d90555b240e9f42384"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 11).bin" size="12848976" crc="b9dcddc1" md5="991bbb72d40572fbef42bfe8592fa64e" sha1="683b26162db4c0b4d35d9eac5c8ae84fe5826bca"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 12).bin" size="11016768" crc="172f8104" md5="2be46815a630568f002fd8b2393cfbe1" sha1="ad200bc8e8e887f59c1c6b4c765ed3db7fadbee8"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 13).bin" size="1415904" crc="afe8ab5c" md5="2a79497726bdc49ba59c756a092bf9cb" sha1="944037ebec20fc40d858631a2243b4fb86beb51e"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount) (Track 14).bin" size="8885856" crc="6f6cabc3" md5="3355e48ccf9a6088658ecd9117798f71" sha1="3c9eea7dc9ef71955a098445dd14d07bc6098f5a"/>
+		<rom name="Disney Atlantis - L'Impero Perduto - Alla Ricerca del Diario (Italy) (Covermount).cue" size="2193" crc="b983fc22" md5="57020e0ca84e9fb12cb17c2ccb738c30" sha1="886517fad6eca0c9f69f9ff6be0a2f2f8113665b"/>
 	</game>
 	<game name="Disney Atlantis - L'Impero Perduto - Bottega dei Giochi (Italy)" id="67231">
 		<category>Games</category>
@@ -53454,6 +53454,12 @@
 		<description>FIFA Zuqiu Jingli (China)</description>
 		<rom name="FIFA Zuqiu Jingli (China).bin" size="202549536" crc="49681668" md5="6ecbe3f5cbc9e986862068aff699a4cb" sha1="520f78022c9d1adca274cabaddb74faec328d3a7"/>
 		<rom name="FIFA Zuqiu Jingli (China).cue" size="114" crc="7421181a" md5="91eaac21327abe640c6d939a5666e5fd" sha1="4fea2e7cae1c9d0da6e94e96894c907c05f61dc4"/>
+	</game>
+	<game name="FIM Speedway Grand Prix (Russia)" id="138530">
+		<category>Games</category>
+		<description>FIM Speedway Grand Prix (Russia)</description>
+		<rom name="FIM Speedway Grand Prix (Russia).bin" size="523117728" crc="766e05d4" md5="017da60f9d9f7617d4b6737c83177f17" sha1="2c56c299548af9244ebc37026e2585d525714e0a"/>
+		<rom name="FIM Speedway Grand Prix (Russia).cue" size="98" crc="2f25141a" md5="19aed251dbd2488de2925a1a2f20b319" sha1="88c5111f8676b0d1ebf6ee2721e4346b88b9e173"/>
 	</game>
 	<game name="FIM Speedway Grand Prix 3 (Europe)" id="120210">
 		<category>Games</category>
@@ -74696,11 +74702,11 @@
 		<rom name="Hugo's House of Horrors (USA).bin" size="18733680" crc="78ffb12c" md5="6673b9622a5407f2c5fba2da78884eec" sha1="f01f9314c485d9a09a7d628f4f3c33e854dd8686"/>
 		<rom name="Hugo's House of Horrors (USA).cue" size="95" crc="12336a19" md5="2305603119a961e98ef1208b1849d16b" sha1="fdf76af0ed8c3c09d2f90346b75273162298427f"/>
 	</game>
-	<game name="Hulk (Germany) (Disc 1)" id="94324">
+	<game name="Hulk (Spain) (Disc 1)" id="138558">
 		<category>Games</category>
-		<description>Hulk (Germany) (Disc 1)</description>
-		<rom name="Hulk (Germany) (Disc 1).bin" size="727137264" crc="c4876b49" md5="ad773f71ca913d898b2e19ebb4395d9b" sha1="257c3fbf7ecf2bfcf064dd59c92ab2cfb7f167db"/>
-		<rom name="Hulk (Germany) (Disc 1).cue" size="89" crc="4648b8a5" md5="645a3039ded5d63a50475fc1213781ff" sha1="ec9ed0a7d8b71594ca94b039c48b55c759472469"/>
+		<description>Hulk (Spain) (Disc 1)</description>
+		<rom name="Hulk (Spain) (Disc 1).bin" size="725853072" crc="405efd92" md5="48b0b3437fb0377e4a228bbe4a718e4a" sha1="9d33be4f7f345ee6d6847e97bb719d5964b42274"/>
+		<rom name="Hulk (Spain) (Disc 1).cue" size="87" crc="c9e53b15" md5="6feb095b7e46c3d7979c27ffbc9c2806" sha1="b29557c3108551e12ff03127f4ed946d6b25b70e"/>
 	</game>
 	<game name="Hulk (USA) (Disc 2)" id="56263">
 		<category>Games</category>
@@ -87206,6 +87212,12 @@
 		<rom name="Krzyzowki dla Najmlodszych - Wydanie Specjalne (Poland).bin" size="83759424" crc="ee485c8b" md5="ef2aea40faeb0f7e81a9cc35b4f69971" sha1="3b6913da83f69387b537370d44881218efddbb01"/>
 		<rom name="Krzyzowki dla Najmlodszych - Wydanie Specjalne (Poland).cue" size="121" crc="5c7f675e" md5="f1f8e356ed2735a6ba5f12c9082e1a00" sha1="d42df8a315f980702de8f13380f574daa21f94bd"/>
 	</game>
+	<game name="Ksiezniczka na ziarnku grochu (Poland)" id="138536">
+		<category>Games</category>
+		<description>Ksiezniczka na ziarnku grochu (Poland)</description>
+		<rom name="Ksiezniczka na ziarnku grochu (Poland).bin" size="151207728" crc="ee35afcf" md5="2427fc1d672b667709224b5f9c5b0de0" sha1="2bf37435f0781de4df76713ba29b88bdae063aa5"/>
+		<rom name="Ksiezniczka na ziarnku grochu (Poland).cue" size="104" crc="3d493d99" md5="ed4d18df2ee9705cdf52921360afc3b4" sha1="3261942bdc6c97eae86a108339401f8880a78883"/>
+	</game>
 	<game name="Ksorbik (Russia)" id="137914">
 		<category>Games</category>
 		<description>Ksorbik (Russia)</description>
@@ -95246,6 +95258,12 @@
 		<rom name="Madou Monogatari Kyuukyoku Taizen Tsuu - MD &amp; DS (Japan).bin" size="157151232" crc="caa5e94f" md5="1169ce6f0058ebea86927813fc8b35e1" sha1="c4468471367e509581dedfbc0392e0b83d7957af"/>
 		<rom name="Madou Monogatari Kyuukyoku Taizen Tsuu - MD &amp; DS (Japan).cue" size="122" crc="68503ee8" md5="7c7223fbc5ef6ad52f855267dd8b4ce1" sha1="0e9cd0eddd58dc10c79670d97622fcd47395591a"/>
 	</game>
+	<game name="Madzhong - Rassledovanie (Russia)" id="138525">
+		<category>Games</category>
+		<description>Madzhong - Rassledovanie (Russia)</description>
+		<rom name="Madzhong - Rassledovanie (Russia).bin" size="680617056" crc="dfd2432f" md5="7c8aed8eaeb3d300f2509311e99bbbe8" sha1="ac969af292bc80a4df75d684d9e02221de20ebb4"/>
+		<rom name="Madzhong - Rassledovanie (Russia).cue" size="99" crc="e909c5cf" md5="2ecf97cb3532c7e956af79271fd614ae" sha1="98aa617eddb93bed062e4a2247ce980043a04a54"/>
+	</game>
 	<game name="Madzhong. Tajny' proshlogo (Russia)" id="86936">
 		<category>Games</category>
 		<description>Madzhong. Tajny' proshlogo (Russia)</description>
@@ -100407,6 +100425,11 @@
 		<rom name="Mechty - Vo sne i nayavu (Russia) (Disc 2) (Track 13).bin" size="34369776" crc="29db4306" md5="088f7ab77d6ffb6629a6dc71d87d7d8a" sha1="82520ea91042ed8779ef6391a3118bf7351b6ea2"/>
 		<rom name="Mechty - Vo sne i nayavu (Russia) (Disc 2) (Track 14).bin" size="11799984" crc="af8d028a" md5="fcd26d0c19d022f347bcd273ba38544e" sha1="792e43ccbdf5d84818f7b72732401e5dfd938f1a"/>
 		<rom name="Mechty - Vo sne i nayavu (Russia) (Disc 2).cue" size="1900" crc="474e7330" md5="5a7476257e3c3de80c67266d5601dc4f" sha1="3f1a89cdef0e8d948b07bd02b2167300b60ce00e"/>
+	</game>
+	<game name="Medal of Honor (Poland) (2010)" id="138495">
+		<category>Games</category>
+		<description>Medal of Honor (Poland) (2010)</description>
+		<rom name="Medal of Honor (Poland) (2010).iso" size="7481851904" crc="7d700f57" md5="2b3864518ffc00f622ce147eaecceb4c" sha1="d18fc6056e79cb545adc7c19abe13d4476811868"/>
 	</game>
 	<game name="Medal of Honor (USA) (En,Fr)" id="25922">
 		<category>Games</category>
@@ -105603,6 +105626,12 @@
 		<rom name="Modnye shtuchki (Russia).bin" size="509198592" crc="37b940a8" md5="0b959d48ba56800026ee1c405900a3a8" sha1="942fb31e3f39ab87c89ac7be0bc9d64627210e30"/>
 		<rom name="Modnye shtuchki (Russia).cue" size="90" crc="48796b43" md5="d3c4a9caa9b8933f1739d766bccff95e" sha1="49625d0d45c1fb9f3642b3e51e009b8e0b24f111"/>
 	</game>
+	<game name="Modnyj pokaz 2 - Novyj sezon (Russia)" id="138524">
+		<category>Games</category>
+		<description>Modnyj pokaz 2 - Novyj sezon (Russia)</description>
+		<rom name="Modnyj pokaz 2 - Novyj sezon (Russia).bin" size="790255536" crc="694566ea" md5="8c94695cf2b741cb30712104380b0e81" sha1="418dbdf889f11257616594b0a9a4600c7834956d"/>
+		<rom name="Modnyj pokaz 2 - Novyj sezon (Russia).cue" size="103" crc="35a16964" md5="5646d56b6ec93391d148746d76a49f26" sha1="2205179e47a0edb73ac207396fc8c24eef16f473"/>
+	</game>
 	<game name="Mods and Maps - More than 1000 Maps for Counter-Strike (Europe) (En,Fr,De,Es,It)" id="72204">
 		<category>Add-Ons</category>
 		<description>Mods and Maps - More than 1000 Maps for Counter-Strike (Europe) (En,Fr,De,Es,It)</description>
@@ -106776,11 +106805,23 @@
 		<rom name="Monsters, Inc. - Monster Yousei Gakkou (Japan).bin" size="637636608" crc="88025c8c" md5="fb00400067e018a360143fdfe5a2e9e6" sha1="01cee9d6c1570d89af0e81115d2cf8e3a4f7108e"/>
 		<rom name="Monsters, Inc. - Monster Yousei Gakkou (Japan).cue" size="112" crc="f145a24e" md5="095ac345887f62c499bc6cc12e292602" sha1="045de8401f7414fee356858a0e51e63027f17ee8"/>
 	</game>
-	<game name="Monstruos S.A. El Billar y la Bestia (Spain)" id="56454">
+	<game name="Monstruos, S.A. - El Billar y la Bestia (Spain)" id="56454">
 		<category>Games</category>
-		<description>Monstruos S.A. El Billar y la Bestia (Spain)</description>
-		<rom name="Monstruos S.A. El Billar y la Bestia (Spain).bin" size="234769584" crc="f02928aa" md5="034dd0e283271e62ecf1cec1148aa592" sha1="557b8ed962ff3b14aa5f994cc7e56e93161ce323"/>
-		<rom name="Monstruos S.A. El Billar y la Bestia (Spain).cue" size="110" crc="14982414" md5="2e9aebd06699c15b1a58f0fb6f110507" sha1="86fee7ccc1b88a3d6e480d37b7e9f0376fb8dd45"/>
+		<description>Monstruos, S.A. - El Billar y la Bestia (Spain)</description>
+		<rom name="Monstruos, S.A. - El Billar y la Bestia (Spain).bin" size="234769584" crc="f02928aa" md5="034dd0e283271e62ecf1cec1148aa592" sha1="557b8ed962ff3b14aa5f994cc7e56e93161ce323"/>
+		<rom name="Monstruos, S.A. - El Billar y la Bestia (Spain).cue" size="113" crc="82e3ff94" md5="db86a77455c4367d512f6a144383195c" sha1="b61c58b68989945adfac755dcbacae916db71230"/>
+	</game>
+	<game name="Monstruos, S.A. - Monstruo si Das (Spain)" id="138557">
+		<category>Games</category>
+		<description>Monstruos, S.A. - Monstruo si Das (Spain)</description>
+		<rom name="Monstruos, S.A. - Monstruo si Das (Spain).bin" size="235853856" crc="60a9a52d" md5="2278d4443f9bb45ff5b2f9bab660e87a" sha1="809b16886a025758fb8f9149c7eedaf0d1ed5d99"/>
+		<rom name="Monstruos, S.A. - Monstruo si Das (Spain).cue" size="107" crc="03b6b94c" md5="99e805692315e56376725824d74bd040" sha1="68afcfe2f6c6530b7661560cae5becc6913c15c9"/>
+	</game>
+	<game name="Monstruos, S.A. - Pinball Bestial (Spain)" id="138556">
+		<category>Games</category>
+		<description>Monstruos, S.A. - Pinball Bestial (Spain)</description>
+		<rom name="Monstruos, S.A. - Pinball Bestial (Spain).bin" size="246049776" crc="b8e2ed6a" md5="cb950f35b42a5be0528b427b90e75865" sha1="fbfac0764e657736d87ea15c87a2163ca384d348"/>
+		<rom name="Monstruos, S.A. - Pinball Bestial (Spain).cue" size="107" crc="c28b89de" md5="820a12eb012fbe63b9901b9eea56dea0" sha1="2947d1f1d8bf7f35daa25ee619741eb7f0df0592"/>
 	</game>
 	<game name="Monterey Courses, The (USA)" id="64719">
 		<category>Add-Ons</category>
@@ -107827,6 +107868,18 @@
 		<description>MotoGP - Ultimate Racing Technology 3 (Europe) (En,Fr,De,Es)</description>
 		<rom name="MotoGP - Ultimate Racing Technology 3 (Europe) (En,Fr,De,Es).bin" size="794684352" crc="ff105adc" md5="fb2fd2e06563e96bdcf692a582d6a278" sha1="d354b2e2aedbe7f99bcb2d1b1b3a22d226c2946d"/>
 		<rom name="MotoGP - Ultimate Racing Technology 3 (Europe) (En,Fr,De,Es).cue" size="126" crc="a6c67743" md5="8207d3c6b1ac4b6217327411252c1666" sha1="4f2eae58e7b169d74200933241c3a4e15f5b94cb"/>
+	</game>
+	<game name="MotoGP - Ultimate Racing Technology 3 (Russia) (Disc 1)" id="138528">
+		<category>Games</category>
+		<description>MotoGP - Ultimate Racing Technology 3 (Russia) (Disc 1)</description>
+		<rom name="MotoGP - Ultimate Racing Technology 3 (Russia) (Disc 1).bin" size="828858912" crc="8318b996" md5="17f00eed909aeb5bb95bd066dcd14802" sha1="928bb5e71a6d38cc76f40e397a1b6e6f5c757bd4"/>
+		<rom name="MotoGP - Ultimate Racing Technology 3 (Russia) (Disc 1).cue" size="121" crc="3518ccde" md5="160dadb17732423f2ee8cd775bcd2b9e" sha1="9baaac30a71161dc476ef6a245d27f5c759ec7e4"/>
+	</game>
+	<game name="MotoGP - Ultimate Racing Technology 3 (Russia) (Disc 2)" id="138529">
+		<category>Games</category>
+		<description>MotoGP - Ultimate Racing Technology 3 (Russia) (Disc 2)</description>
+		<rom name="MotoGP - Ultimate Racing Technology 3 (Russia) (Disc 2).bin" size="464336544" crc="fb013968" md5="e2da159891b69c7cfdcb711ca28f8e17" sha1="5f9444beae490993cb4b12801b6329638bc745ee"/>
+		<rom name="MotoGP - Ultimate Racing Technology 3 (Russia) (Disc 2).cue" size="121" crc="3445ea0f" md5="8c1e5dcf13fe25a9e7ac25fa1c259bec" sha1="5b6b341f2fe32acbc6c5fdc286dc6bc27e122403"/>
 	</game>
 	<game name="MotoGP 08 (Poland) (Pl,Cs)" id="31480">
 		<category>Games</category>
@@ -124224,6 +124277,12 @@
 		<rom name="PokeROM - Dragonite (USA).bin" size="40981248" crc="afa633fc" md5="c419a820aae6e8b2f7f587743c6f3566" sha1="3d64ec9e46109c4f16a134362f3c1447e2bb70e8"/>
 		<rom name="PokeROM - Dragonite (USA).cue" size="114" crc="9ceafc6f" md5="6150d7d2953c1e0c77d9d48424726a76" sha1="6edfc054d8540b05510012d0b3ae1a3977fc7c01"/>
 	</game>
+	<game name="PokeROM - Ectoplasma (France)" id="138513">
+		<category>Games</category>
+		<description>PokeROM - Ectoplasma (France)</description>
+		<rom name="PokeROM - Ectoplasma (France).bin" size="48709920" crc="7cfa6fee" md5="1a4c021dea64f41b65f02934742cbdc9" sha1="197bc6d56557173b409ad8ead3e8ba9697d9fff0"/>
+		<rom name="PokeROM - Ectoplasma (France).cue" size="95" crc="a65d134b" md5="039ed14eda43cf1afa2e220ba18165c7" sha1="f45f9d0145e1b22d4afd02e5ba6660a61c67a115"/>
+	</game>
 	<game name="PokeROM - Eevee (USA)" id="68986">
 		<category>Games</category>
 		<description>PokeROM - Eevee (USA)</description>
@@ -124397,6 +124456,12 @@
 		<description>PokeROM - Quagsire (USA)</description>
 		<rom name="PokeROM - Quagsire (USA).bin" size="40746048" crc="e5e4806b" md5="cd91bc5234ba08fe51e171ba050222f5" sha1="daa69f816ad1c040144c8751344f8722ab18b134"/>
 		<rom name="PokeROM - Quagsire (USA).cue" size="90" crc="a21ae2d8" md5="b96da0869291e5c72c3d4100d969f350" sha1="5dcdd25debcf160f67597dc30670aa5657374ebb"/>
+	</game>
+	<game name="PokeROM - Salameche (France)" id="138514">
+		<category>Games</category>
+		<description>PokeROM - Salameche (France)</description>
+		<rom name="PokeROM - Salameche (France).bin" size="48084288" crc="b65a649c" md5="c8888cebbbd08a457fe16f131f525a3d" sha1="0c9ea651b3b7275b07c91fedab6483040bc70c7e"/>
+		<rom name="PokeROM - Salameche (France).cue" size="94" crc="49f29790" md5="6535fbf0d379554b1702da2df348c092" sha1="94cf0c04ecd7b4a978f20ab002d15f06dbba3fc3"/>
 	</game>
 	<game name="PokeROM - Scizor (USA)" id="102562">
 		<category>Games</category>
@@ -133766,7 +133831,7 @@
 		<category>Games</category>
 		<description>Reel Deal Casino - Championship Edition (USA) (v1.6)</description>
 		<rom name="Reel Deal Casino - Championship Edition (USA) (v1.6).bin" size="763816704" crc="81681322" md5="a9f97aec5b6c8d6c37546027dcb68793" sha1="5c9a3da9b031f4af943c11d6b6da19645154d1f2"/>
-		<rom name="Reel Deal Casino - Championship Edition (USA) (v1.6).cue" size="133" crc="26856ca8" md5="a3004bb7e3a8ba75ddbebca9d67f8800" sha1="bb75ec92ad34a7625f86005eb80ebc2030ee58e3"/>
+		<rom name="Reel Deal Casino - Championship Edition (USA) (v1.6).cue" size="156" crc="77e69c37" md5="2516bb9328d08414828d96001964046b" sha1="0ce72851dd081b387ffcc51bb220e989e0fa2291"/>
 	</game>
 	<game name="Reel Deal Casino - Gold Rush (USA) (Disc 1) (v1.1)" id="106467">
 		<category>Games</category>
@@ -144503,6 +144568,12 @@
 		<rom name="Sethi und das Geheimnis der Neandertaler (Germany).bin" size="841545600" crc="517dfb11" md5="f2d59972eef5455b571031354a616716" sha1="43b353ce6b294aaed209bcfd585c775ed3b7247c"/>
 		<rom name="Sethi und das Geheimnis der Neandertaler (Germany).cue" size="116" crc="c82c56b7" md5="1d1d9f564edfbeef1a465600dc9b736d" sha1="242d614232bcdff8645469734f8e519a03af18ca"/>
 	</game>
+	<game name="Seti i kovarnyj rycar' (Russia)" id="138523">
+		<category>Games</category>
+		<description>Seti i kovarnyj rycar' (Russia)</description>
+		<rom name="Seti i kovarnyj rycar' (Russia).bin" size="620389392" crc="54471b39" md5="323da4a1ddb8ff8178149d42c536b90d" sha1="160770af71a9713ae04abc03e4f2d535856e2cda"/>
+		<rom name="Seti i kovarnyj rycar' (Russia).cue" size="97" crc="d8a85755" md5="57475d708c9edc9a9c0d7ab8b80ee3b7" sha1="bab73c60f93de7738865ccfb63eaecfbebec863c"/>
+	</game>
 	<game name="Settlers 7, The - Paths to a Kingdom (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl)" id="71151">
 		<category>Games</category>
 		<description>Settlers 7, The - Paths to a Kingdom (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl)</description>
@@ -145856,6 +145927,12 @@
 		<category>Games</category>
 		<description>Shaun White Snowboarding (Australia)</description>
 		<rom name="Shaun White Snowboarding (Australia).iso" size="7967834112" crc="8fdf0c7a" md5="1aa6c86dd5f450baa4f89e88368e8ca4" sha1="0508a3cb5761ba27447a93bcd537488c6b49026f"/>
+	</game>
+	<game name="Shaxmaty dlya vsej sem'i (Russia)" id="138542">
+		<category>Games</category>
+		<description>Shaxmaty dlya vsej sem'i (Russia)</description>
+		<rom name="Shaxmaty dlya vsej sem'i (Russia).bin" size="533156064" crc="81b29bca" md5="9add44089c22f159efaced633b788730" sha1="358f11f2ff7f6874876a9125c4f8ec55bd276a25"/>
+		<rom name="Shaxmaty dlya vsej sem'i (Russia).cue" size="99" crc="e4c09246" md5="831dfdc124b81a430d9f96de1b5f0443" sha1="fb5febf7a64d3ea814284191bd7be3a723c1cc36"/>
 	</game>
 	<game name="Sheep (USA)" id="35165">
 		<category>Games</category>
@@ -148485,11 +148562,11 @@
 		<rom name="Siedler II, Die - Gold Edition (Germany) (Track 9).bin" size="31044048" crc="5c90db1b" md5="99df353b6d60e17fb2ed9e33780cf7ea" sha1="266e3190b04454149ec8ae9a0e33729a478e6486"/>
 		<rom name="Siedler II, Die - Gold Edition (Germany).cue" size="1211" crc="db1e6cb8" md5="ec5fb750bebe65dc141fcdffa91cfceb" sha1="e91f010461c035b09f8934b5735daa6697b3286f"/>
 	</game>
-	<game name="Siedler II, Die - Mission CD (Germany)" id="42965">
+	<game name="Siedler II, Die - Mission CD (Germany) (Rev 1)" id="42965">
 		<category>Add-Ons</category>
-		<description>Siedler II, Die - Mission CD (Germany)</description>
-		<rom name="Siedler II, Die - Mission CD (Germany).bin" size="365326752" crc="eb029cc2" md5="98d594aed50a3be3d39ac4fe678992d1" sha1="d6b18386712bffb803ba888937ca27c18205f09e"/>
-		<rom name="Siedler II, Die - Mission CD (Germany).cue" size="127" crc="942b85d9" md5="84a1235c47d13bdce9205bb179773bbe" sha1="b6bdd5a47ab8d662bd5526250b071fe9160e201e"/>
+		<description>Siedler II, Die - Mission CD (Germany) (Rev 1)</description>
+		<rom name="Siedler II, Die - Mission CD (Germany) (Rev 1).bin" size="365326752" crc="eb029cc2" md5="98d594aed50a3be3d39ac4fe678992d1" sha1="d6b18386712bffb803ba888937ca27c18205f09e"/>
+		<rom name="Siedler II, Die - Mission CD (Germany) (Rev 1).cue" size="135" crc="8dbbf0dd" md5="1dfbfc8ee0bb58d55b7dced141e10bdd" sha1="634a203fde434a20ebd30e24cc6afe6cf328c8be"/>
 	</game>
 	<game name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1)" id="42964">
 		<category>Games</category>
@@ -178798,6 +178875,12 @@
 		<rom name="WarCraft III - The Frozen Throne (China).bin" size="640818864" crc="cc6a6627" md5="c88c849cc5d64cacfe8261bae5bd2662" sha1="ee24008d07875bda053ae2d5ee13f91d7b4e98bd"/>
 		<rom name="WarCraft III - The Frozen Throne (China).cue" size="106" crc="5e421373" md5="ed74fa190b5965db47b6091f633e1a8a" sha1="2e798fe6fbe1179bfa7a36fd414f8be2afda881c"/>
 	</game>
+	<game name="WarCraft III - The Frozen Throne (Dopolnenie) (Russia) (Rerelease) (2008-02-19)" id="138532">
+		<category>Games</category>
+		<description>WarCraft III - The Frozen Throne (Dopolnenie) (Russia) (Rerelease) (2008-02-19)</description>
+		<rom name="WarCraft III - The Frozen Throne (Dopolnenie) (Russia) (Rerelease) (2008-02-19).bin" size="714236544" crc="94a2ec76" md5="ee5c4de2fea970ddfe32749c40d8314a" sha1="06ea057a41b02a9c98b123d4d6fcb808edccb2f9"/>
+		<rom name="WarCraft III - The Frozen Throne (Dopolnenie) (Russia) (Rerelease) (2008-02-19).cue" size="145" crc="c9b5141c" md5="c6ea28a3543c72da02b348c9fb968d47" sha1="2220a0e8d9d328e493627ffa546970b575d51910"/>
+	</game>
 	<game name="WarCraft III - The Frozen Throne (Expansion Set) (USA, Australia) (Rerelease)" id="14808">
 		<category>Add-Ons</category>
 		<description>WarCraft III - The Frozen Throne (Expansion Set) (USA, Australia) (Rerelease)</description>
@@ -188327,6 +188410,12 @@
 		<rom name="Zen Jidou Saishuu Shori Ningyou Kururu-chan (Japan).bin" size="213846192" crc="dcfa588a" md5="5dbcab952f8981b19c38cebc51837a6b" sha1="d69aaa6e79ad2c8ad96ea043f7768f84624caca2"/>
 		<rom name="Zen Jidou Saishuu Shori Ningyou Kururu-chan (Japan).cue" size="117" crc="4b375d92" md5="261b2f65fc93878ed177b7f16c62c212" sha1="b5c2a2492807958c44abb96ca685eabeb8485147"/>
 	</game>
+	<game name="Zen Puzzle Garden (Russia)" id="138526">
+		<category>Games</category>
+		<description>Zen Puzzle Garden (Russia)</description>
+		<rom name="Zen Puzzle Garden (Russia).bin" size="80798256" crc="4c3a1f91" md5="5f3bf2c13c615984c56f46fcf4d0b1a3" sha1="3e7b60ba15a7f5196472d43cbe2443c19b622316"/>
+		<rom name="Zen Puzzle Garden (Russia).cue" size="92" crc="86bda5e6" md5="163274000f187e9d1f73993b020e2b4e" sha1="74b8a1995f810f99707061ac04c817e38de6fc16"/>
+	</game>
 	<game name="Zen-Ichi (Japan)" id="7116">
 		<category>Games</category>
 		<description>Zen-Ichi (Japan)</description>
@@ -189026,6 +189115,12 @@
 		<category>Games</category>
 		<description>Zloj, ploxoj i trezvyj (Russia)</description>
 		<rom name="Zloj, ploxoj i trezvyj (Russia).iso" size="4535615488" crc="c7b8c097" md5="10627232985454e23e1318bd6c9d1f55" sha1="20fae79ef79fc6d1de7634eaf5c3d9a91d488425"/>
+	</game>
+	<game name="Zlota Kaczka (Poland)" id="138537">
+		<category>Games</category>
+		<description>Zlota Kaczka (Poland)</description>
+		<rom name="Zlota Kaczka (Poland).bin" size="127294944" crc="b69e2a5f" md5="ba4bc329331ab09eef9526d63c1420e9" sha1="7ea48e359c6a9c031755b2164e9110c5945a913b"/>
+		<rom name="Zlota Kaczka (Poland).cue" size="87" crc="49661d39" md5="dd9c34d272e7ac753de6c7bc3b276627" sha1="4c636d02bffe54eaecc3605acaaea1f61e4c55ea"/>
 	</game>
 	<game name="Zloto Aztekow (Poland)" id="50627">
 		<category>Games</category>

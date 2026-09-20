@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,850) (-y) [-aAbBcdkmMpPuv] (2026-09-18 07-34-00) (Retool)</description>
-		<version>2026-09-18 07-34-00</version>
-		<date>2026-09-19 07-40-14</date>
+		<description>Sony - PlayStation 4 (1,861) (-y) [-aAbBcdkmMpPuv] (2026-09-20 02-22-35) (Retool)</description>
+		<version>2026-09-20 02-22-35</version>
+		<date>2026-09-20 08-07-19</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -590,6 +590,11 @@
 		<category>Games</category>
 		<description>Astro Bot - Rescue Mission (USA)</description>
 		<rom name="Astro Bot - Rescue Mission (USA).iso" size="8314355712" crc="0f563151" md5="3dc8f18a04aee78b08f8c035a5667b11" sha1="f2108b036d02357ff4f55ab4a68dc2b39a490608"/>
+	</game>
+	<game name="Astro Bot - Soujiu Xingdong (China)" id="138508">
+		<category>Games</category>
+		<description>Astro Bot - Soujiu Xingdong (China)</description>
+		<rom name="Astro Bot - Soujiu Xingdong (China).iso" size="8312913920" crc="8e519b64" md5="3f2b818e6ddc0d4bb83ce24129344590" sha1="2b1afe5abd4911eb5c97e9d0d6fc758024b14826"/>
 	</game>
 	<game name="Astroneer (USA)" id="80421">
 		<category>Games</category>
@@ -2866,6 +2871,11 @@
 		<description>Extinction (USA) (En,Fr,De,Es,It,Pt)</description>
 		<rom name="Extinction (USA) (En,Fr,De,Es,It,Pt).iso" size="25024331776" crc="6a892c36" md5="32ea72d3c03145545b05e231370004b2" sha1="53338bea1622eceb4afb6df0ec749ab93ca7333f"/>
 	</game>
+	<game name="F.I.S.T. - Forged In Shadow Torch (China)" id="138496">
+		<category>Games</category>
+		<description>F.I.S.T. - Forged In Shadow Torch (China)</description>
+		<rom name="F.I.S.T. - Forged In Shadow Torch (China).iso" size="38423691264" crc="48650b52" md5="d0aab2d2205d1934b2cb8faccaf1d5dc" sha1="f427d404f520b3b1d3d073f8f7bb1b9f11c65687"/>
+	</game>
 	<game name="F1 2015 (USA) (En,Fr,Es)" id="69520">
 		<category>Games</category>
 		<description>F1 2015 (USA) (En,Fr,Es)</description>
@@ -4970,6 +4980,11 @@
 		<category>Games</category>
 		<description>LocoRoco 2 (Japan)</description>
 		<rom name="LocoRoco 2 (Japan).iso" size="4880859136" crc="b445bc3a" md5="109c79ca43196728e82a7f4f3521df2c" sha1="4672cad60bb8af5cfa229e3b32263899f0d96c46"/>
+	</game>
+	<game name="LocoRoco Remastered (China)" id="138499">
+		<category>Games</category>
+		<description>LocoRoco Remastered (China)</description>
+		<rom name="LocoRoco Remastered (China).iso" size="1924857856" crc="e5c5b9cb" md5="d7aa453d5ca2c3e60f2d9670fadb322a" sha1="4fab3309fb913232a1cd9ff8345ca6afb724755c"/>
 	</game>
 	<game name="Long Dark, The (USA)" id="136484">
 		<category>Games</category>
@@ -7841,6 +7856,11 @@
 		<description>Stern Pinball Arcade (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Stern Pinball Arcade (USA) (En,Fr,De,Es,It).iso" size="2886664192" crc="65474fd5" md5="2cdbec34380fb1aacb5f90b6d67dcee8" sha1="68b4e6bc9cc5a60d3e1b71d85035078bafe0ba7c"/>
 	</game>
+	<game name="Story of Seasons - Pioneers of Olive Town (Europe)" id="138569">
+		<category>Games</category>
+		<description>Story of Seasons - Pioneers of Olive Town (Europe)</description>
+		<rom name="Story of Seasons - Pioneers of Olive Town (Europe).iso" size="3184394240" crc="001a9f8d" md5="cc78e79bf76bc46514583ae9fc1467c4" sha1="1bb405fe56b9d3fd380c85d34f7654f125c91622"/>
+	</game>
 	<game name="Strange Brigade (USA) (En,Ja,Fr,Es,It,Pt,Zh,Ko,Pl,Ru)" id="63851">
 		<category>Games</category>
 		<description>Strange Brigade (USA) (En,Ja,Fr,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
@@ -8110,6 +8130,11 @@
 		<category>Games</category>
 		<description>Tanuki Justice (Europe)</description>
 		<rom name="Tanuki Justice (Europe).iso" size="1114963968" crc="849b2ca3" md5="68c5fbfe6651ea039d4ee16a7b28838b" sha1="8ef80aeee9701bef2ba28d66f8fd64fab4795246"/>
+	</game>
+	<game name="Taoguichuan 2 (China)" id="138503">
+		<category>Games</category>
+		<description>Taoguichuan 2 (China)</description>
+		<rom name="Taoguichuan 2 (China).iso" size="16762994688" crc="6501a01e" md5="c589555c3b28c8bd44afa8d172e80f1b" sha1="bd9809b932dcaa0c613c648829c1d31d3556edfd"/>
 	</game>
 	<game name="Taoguichuan Ji (China)" id="138319">
 		<category>Games</category>
@@ -9081,6 +9106,11 @@
 		<description>Xuan Yuan 7 (Europe)</description>
 		<rom name="Xuan Yuan 7 (Europe).iso" size="19038601216" crc="7dc0cb2e" md5="dd1286cb0bd9290460fd1a1947e239c0" sha1="345930720a6b0e1eabee004d91384f1677e0b907"/>
 	</game>
+	<game name="Xuanyuan Jian Waichuan - Qiong Zhi Fei (China)" id="138504">
+		<category>Games</category>
+		<description>Xuanyuan Jian Waichuan - Qiong Zhi Fei (China)</description>
+		<rom name="Xuanyuan Jian Waichuan - Qiong Zhi Fei (China).iso" size="12374638592" crc="f2e1f34f" md5="30d08b1e6e44164f545a63e71b8fab6d" sha1="e322556389e0bf232077abd29cd4a0d80678c124"/>
+	</game>
 	<game name="Yahari Game demo Ore no Seishun LoveCome wa Machigatteiru. &amp; Zoku Omatome Set (Japan)" id="132259">
 		<category>Games</category>
 		<description>Yahari Game demo Ore no Seishun LoveCome wa Machigatteiru. &amp; Zoku Omatome Set (Japan)</description>
@@ -9126,6 +9156,11 @@
 		<description>Yami no Shigotonin Kage - Shadow of the Ninja (Japan)</description>
 		<rom name="Yami no Shigotonin Kage - Shadow of the Ninja (Japan).iso" size="3323002880" crc="1a6b20bc" md5="45469d7800db64013e01d8d8f2f7d2eb" sha1="c56ba03943bbcfa2ead4b7534b6a648ae12d5758"/>
 	</game>
+	<game name="Yaoyuan Xingji (China)" id="138505">
+		<category>Games</category>
+		<description>Yaoyuan Xingji (China)</description>
+		<rom name="Yaoyuan Xingji (China).iso" size="12497780736" crc="c71bd2d4" md5="e2f80c87aa0da90436d78610c39bfa59" sha1="3d6fe41966a492fece053be43a7274bf160a6e6f"/>
+	</game>
 	<game name="Yeongung Jeonseol - Yeoui Gwejeok (Korea)" id="111481">
 		<category>Games</category>
 		<description>Yeongung Jeonseol - Yeoui Gwejeok (Korea)</description>
@@ -9135,6 +9170,16 @@
 		<category>Games</category>
 		<description>Yesterday Origins (USA)</description>
 		<rom name="Yesterday Origins (USA).iso" size="25024331776" crc="e0e47bd5" md5="a497a70ffa78b6c3f8b5bde1659523e8" sha1="ebf941eb3e8fe8de691c855e92559ceb759d17fc"/>
+	</game>
+	<game name="Yinghe Jijia (China)" id="138507">
+		<category>Games</category>
+		<description>Yinghe Jijia (China)</description>
+		<rom name="Yinghe Jijia (China).iso" size="4751294464" crc="bfd9dda2" md5="60808565ae08475a585f77d4815c13fc" sha1="c8035cba78cc002c49011a1c0b65fc8ffdbd99e2"/>
+	</game>
+	<game name="Yinlong Zhuan (China)" id="138506">
+		<category>Games</category>
+		<description>Yinlong Zhuan (China)</description>
+		<rom name="Yinlong Zhuan (China).iso" size="4608098304" crc="86fe0fe4" md5="ed4cb6ddf830ff2e04f731add4553307" sha1="120a417e66f0ae07910a17f240e72ed7b7d8c08f"/>
 	</game>
 	<game name="Yoku's Island Express (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru)" id="57696">
 		<category>Games</category>
@@ -9221,10 +9266,20 @@
 		<description>Zero Time Dilemma (USA)</description>
 		<rom name="Zero Time Dilemma (USA).iso" size="3561291776" crc="9ba3ae00" md5="e6adb20dce2610ba07e13ea01dd7401a" sha1="3da8bc28628b3dbf49346820214cbea7b59ed6a9"/>
 	</game>
+	<game name="Zhen Sanguo Wushuang 7 - Diguo (China)" id="138509">
+		<category>Games</category>
+		<description>Zhen Sanguo Wushuang 7 - Diguo (China)</description>
+		<rom name="Zhen Sanguo Wushuang 7 - Diguo (China).iso" size="20997275648" crc="efea61af" md5="05ae479b89aa76eca08d190f6b525161" sha1="af67ab30c7f7942f6308737d5fba2ec6f0a0a4fd"/>
+	</game>
 	<game name="Zhen Sanguo Wushuang 7 - Mengjiangzhuan (China)" id="138290">
 		<category>Games</category>
 		<description>Zhen Sanguo Wushuang 7 - Mengjiangzhuan (China)</description>
 		<rom name="Zhen Sanguo Wushuang 7 - Mengjiangzhuan (China).iso" size="24774246400" crc="64b33e33" md5="b7037a5a4ad1f0299af8c605c18c69f7" sha1="c00e525a6cd098c6f1998681e2104b5230ef0410"/>
+	</game>
+	<game name="Zhen Sanguo Wushuang 8 (China)" id="138510">
+		<category>Games</category>
+		<description>Zhen Sanguo Wushuang 8 (China)</description>
+		<rom name="Zhen Sanguo Wushuang 8 (China).iso" size="47425847296" crc="a92847dc" md5="2a80e907792d031bc1946904f4d177a3" sha1="e6012c9b4efa092e57136fe9e5a96dec3bb5d5a8"/>
 	</game>
 	<game name="Zombi (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Ru)" id="112127">
 		<category>Games</category>

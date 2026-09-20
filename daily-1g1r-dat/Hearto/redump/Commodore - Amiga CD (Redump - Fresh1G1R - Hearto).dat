@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD (Retool)</name>
-		<description>Commodore - Amiga CD (79) (-y) [-aAbBcefkmMoprv] (2026-09-08 14-57-25) (Retool)</description>
-		<version>2026-09-08 14-57-25</version>
-		<date>2026-09-19 07-15-58</date>
+		<description>Commodore - Amiga CD (80) (-y) [-aAbBcefkmMoprv] (2026-09-19 08-12-35) (Retool)</description>
+		<version>2026-09-19 08-12-35</version>
+		<date>2026-09-20 07-41-47</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -549,6 +549,12 @@
 		<description>Trapped II (Europe)</description>
 		<rom name="Trapped II (Europe).bin" size="354397008" crc="c3a43d64" md5="0fa255a607c4c2e647c99ff6701716d7" sha1="5c7f0401d92f43236c7bc849542f656f03bbda93"/>
 		<rom name="Trapped II (Europe).cue" size="108" crc="a85cd7a3" md5="9b4e9f24a7c39ea53fed9f75303a38cd" sha1="39ba9554f51a3f3bf65703d747191d8066b45734"/>
+	</game>
+	<game name="Ultimate Gloom (Europe)" id="138494">
+		<category>Games</category>
+		<description>Ultimate Gloom (Europe)</description>
+		<rom name="Ultimate Gloom (Europe).bin" size="39934608" crc="c00139fe" md5="862a4c8173402abc3181cc82b688cdb8" sha1="e905c137a595713db82d51a482f8072799e63000"/>
+		<rom name="Ultimate Gloom (Europe).cue" size="89" crc="10d79b61" md5="0edf8e0a84631afee13f63c2e547acd6" sha1="e3c7caaf343c3a9ae4a0282bdf2da6195a3404e8"/>
 	</game>
 	<game name="Ultimate Super Skidmarks (Europe)" id="27142">
 		<category>Games</category>

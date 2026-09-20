@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (371) (-y) [-aAbBcefkmMoprv] (20260916-121726) (Retool)</description>
-		<version>20260916-121726</version>
-		<date>2026-09-19 07-23-47</date>
+		<description>Nintendo - Satellaview (372) (-y) [-aAbBcefkmMoprv] (20260919-025009) (Retool)</description>
+		<version>20260919-025009</version>
+		<date>2026-09-20 07-48-57</date>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -380,6 +380,11 @@
 		<category>Games</category>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban - Dai-3-wa (Japan) (SoundLink)</description>
 		<rom name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-3-wa (Japan) (SoundLink).bs" size="1048576" crc="c251d4fa" md5="59cee44354ed6fd664236ba9f6b18a63" sha1="25efee5199c9da0805306edac3367d60253ea828" sha256="bca6044eee447db3ca966732502283b02910adef5a47e000ee266e4e19ee3470"/>
+	</game>
+	<game name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (Premiere) (SoundLink)" id="3997">
+		<category>Games</category>
+		<description>BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (Premiere) (SoundLink)</description>
+		<rom name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (Premiere) (SoundLink).bs" size="1048576" crc="2f759f28" md5="2cabfe9ea47d1f9af81e2836aa667040" sha1="c1a9f9b6be8924e7e0c34f6eb39502d3dbbf9bbe" sha256="ad8e69b8829572ffd486a70f1d32b7278d8ffa1469684152f991f1eb35b25968"/>
 	</game>
 	<game name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (SoundLink)" id="0349">
 		<category>Games</category>

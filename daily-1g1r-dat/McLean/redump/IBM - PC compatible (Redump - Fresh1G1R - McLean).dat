@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,537) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-19 02-02-35) (Retool)</description>
-		<version>2026-09-19 02-02-35</version>
-		<date>2026-09-19 07-27-16</date>
+		<description>IBM - PC compatible (13,537) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-20 00-22-46) (Retool)</description>
+		<version>2026-09-20 00-22-46</version>
+		<date>2026-09-20 07-53-48</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -6201,11 +6201,11 @@
 		<rom name="Astroslugs (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl,Ru).bin" size="668212608" crc="87bc07a0" md5="e9bee4983a5f9e75a554fa815dfbf9d4" sha1="7fd9272cefe71178caa714262131ad299c9008ba"/>
 		<rom name="Astroslugs (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl,Ru).cue" size="114" crc="dd1ab43f" md5="9a3da492ed99849efebd0121f881631e" sha1="04b5b480f32aed59a6de6537e0ad4e0857d4be30"/>
 	</game>
-	<game name="Atari - 80 Classic Games in One! (USA)" id="46629">
+	<game name="Atari - 80 Classic Games in One! (USA, Canada)" id="46629">
 		<category>Games</category>
-		<description>Atari - 80 Classic Games in One! (USA)</description>
-		<rom name="Atari - 80 Classic Games in One! (USA).bin" size="770120064" crc="fcb32509" md5="91ee9e210d8031180e793ee6c06b752f" sha1="2d346abfafadeac77d60156047e4c8c13fbffde2"/>
-		<rom name="Atari - 80 Classic Games in One! (USA).cue" size="104" crc="0c19f78f" md5="284db992f59871f83a802d042d4836e9" sha1="0c9576f3f569cae807bd7aa0733dc581d8f89253"/>
+		<description>Atari - 80 Classic Games in One! (USA, Canada)</description>
+		<rom name="Atari - 80 Classic Games in One! (USA, Canada).bin" size="770120064" crc="fcb32509" md5="91ee9e210d8031180e793ee6c06b752f" sha1="2d346abfafadeac77d60156047e4c8c13fbffde2"/>
+		<rom name="Atari - 80 Classic Games in One! (USA, Canada).cue" size="112" crc="ba0ef12b" md5="ecf4395b877fecfcad8f1e21a80b56e9" sha1="ce7be3da3e71a89ee62a0a1baa9ba963d8283e5c"/>
 	</game>
 	<game name="Atari Anniversary Edition (USA)" id="2299">
 		<category>Games</category>
@@ -7722,32 +7722,32 @@
 		<rom name="Battle Bugs (Europe) (En,Fr,De).bin" size="111995184" crc="6b3d9fae" md5="7c68af269db3c11f18bfda15583480a7" sha1="044f3c6c6973de4911331e456b3cd50dc6c5b0a7"/>
 		<rom name="Battle Bugs (Europe) (En,Fr,De).cue" size="120" crc="b982c2a1" md5="d64d07aa60d94b1086d2a1a5f86ef1fe" sha1="a69bef049bc745e407a1b964a156e500a7219196"/>
 	</game>
-	<game name="Battle Chess (USA)" id="115220">
+	<game name="Battle Chess (USA) (Rev 1)" id="115220">
 		<category>Games</category>
-		<description>Battle Chess (USA)</description>
-		<rom name="Battle Chess (USA) (Track 01).bin" size="105162624" crc="b3fa7083" md5="cfc622755f82cbe595ff1f9e8a3eb9b1" sha1="f735dbdfdf6a4b4c923a9f63bb305c81969858bd"/>
-		<rom name="Battle Chess (USA) (Track 02).bin" size="163318176" crc="11c825a4" md5="6e480552254a1e28d14ed0e2da3b7019" sha1="e669df44c627f93bdd2de72a796862a049f93d1f"/>
-		<rom name="Battle Chess (USA) (Track 03).bin" size="22155840" crc="9faaa06c" md5="4eb28b3840fa6fbbc0264cbb9748ad75" sha1="cce0960333628494ba83fff35140e293d6feaf64"/>
-		<rom name="Battle Chess (USA) (Track 04).bin" size="28475664" crc="8ea45dd0" md5="aa17ee07ec4f55e1a10f166108041409" sha1="4ac0d1e0dd7d01e2845ce7b99540870d900e9653"/>
-		<rom name="Battle Chess (USA) (Track 05).bin" size="29400000" crc="c8a50212" md5="07fe286a565f5e5cc74720c3e560f58d" sha1="0ea93a8e1d24bf79e1628788c5c86a876f064076"/>
-		<rom name="Battle Chess (USA) (Track 06).bin" size="29106000" crc="bd92d9b5" md5="f2c19c6a20a9f55ac8fb483b9096f061" sha1="ca32c83910af7fa2424a70a6758d466abc546cf3"/>
-		<rom name="Battle Chess (USA) (Track 07).bin" size="29694000" crc="92667b22" md5="d0dffb98f4e68f07379ac0ccc21aaeb4" sha1="69590d8f1ceba25c9bc977026ac2eb9c569cb63c"/>
-		<rom name="Battle Chess (USA) (Track 08).bin" size="29771616" crc="ffeeed14" md5="a0a06e8c0ecb11f32e094a841d9b927b" sha1="cb2f9034d04804c7f8ae7a5ee5201bcfd747b92a"/>
-		<rom name="Battle Chess (USA) (Track 09).bin" size="4362960" crc="56dfe45b" md5="95b0b2a56ba537a138a406e1536041ee" sha1="1ad96ad74e618694849ed14df453aa48ac928abc"/>
-		<rom name="Battle Chess (USA) (Track 10).bin" size="4010160" crc="b2f1f9ea" md5="7ccd680f36a990049d16de8d5f8c56df" sha1="92daa5f12acbc850ce06244246e61806667e0cc7"/>
-		<rom name="Battle Chess (USA) (Track 11).bin" size="4339440" crc="7a739ee6" md5="bcfb670c181700ac818dbd8fc7a12d41" sha1="16d0d5de17176a2fe78c4fd995e6d7fb7d484172"/>
-		<rom name="Battle Chess (USA) (Track 12).bin" size="4203024" crc="25f1408c" md5="532322e76bfd7daab9becbf37d9b4478" sha1="d5489de69d1986d3856fb8414abb1904c0aea942"/>
-		<rom name="Battle Chess (USA) (Track 13).bin" size="4127760" crc="9a982d86" md5="f6a3885c67b2e22f56278d10c01de240" sha1="f2a28255200c8bbe8cd0acd6c3260d1c2749d569"/>
-		<rom name="Battle Chess (USA) (Track 14).bin" size="4233600" crc="e01b9c81" md5="6e91baf15a3ca10af9e6e7cd53c0d02d" sha1="1e8fd43d6c918a450ed1a15a81162f1d4d0f103e"/>
-		<rom name="Battle Chess (USA) (Track 15).bin" size="4146576" crc="958a7d61" md5="8297927347a10fae3e8d3bbebcd86fb0" sha1="b5f774ec787552e46c7a5141fa7044a551e0b4f0"/>
-		<rom name="Battle Chess (USA) (Track 16).bin" size="3974880" crc="364f352d" md5="8d63639810f0a766e720bca6473ccacb" sha1="d7efc2e396776d46827a4bfdb2c6310c22bc7375"/>
-		<rom name="Battle Chess (USA) (Track 17).bin" size="4551120" crc="43e32886" md5="16e50aec783251041acaa3c2c5e2e2b7" sha1="8ebca62a7c42e63c8f35951fee651bfe3f3295ec"/>
-		<rom name="Battle Chess (USA) (Track 18).bin" size="4003104" crc="2552f906" md5="6b81aa517dc32203d1a0ba9d3d3c776f" sha1="d9d090efc10152a34d4c1084007b0c3298140051"/>
-		<rom name="Battle Chess (USA) (Track 19).bin" size="4398240" crc="49609afc" md5="540f5586f80bb029b54d96d3c6217f7f" sha1="ad699ae2f5c6976ef6db74b62eaaf587b1556e0d"/>
-		<rom name="Battle Chess (USA) (Track 20).bin" size="6627936" crc="8fd51979" md5="87520abe575dcaeed1dac48df0edd97f" sha1="1ee6af7c876c91551c95f7d06a8acba40f950096"/>
-		<rom name="Battle Chess (USA) (Track 21).bin" size="15052800" crc="1f9d65c3" md5="3c109f74f31bc17c083d800fe66eda42" sha1="957f20a0188f770d6a85bfc2279e82e54dde0a18"/>
-		<rom name="Battle Chess (USA) (Track 22).bin" size="283909920" crc="31213dcb" md5="159e947d9662b158ab407c159f84ca92" sha1="bd41e11d2255b0c49c80c6416afe095edf0f7bfd"/>
-		<rom name="Battle Chess (USA).cue" size="2031" crc="9e28f5a7" md5="0b7a76a8d80b8276695ca61a1686a0dc" sha1="6cd5e7cd73d2615d6d185655f0d5eb6f6f92ef2b"/>
+		<description>Battle Chess (USA) (Rev 1)</description>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 01).bin" size="105162624" crc="b3fa7083" md5="cfc622755f82cbe595ff1f9e8a3eb9b1" sha1="f735dbdfdf6a4b4c923a9f63bb305c81969858bd"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 02).bin" size="163318176" crc="11c825a4" md5="6e480552254a1e28d14ed0e2da3b7019" sha1="e669df44c627f93bdd2de72a796862a049f93d1f"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 03).bin" size="22155840" crc="9faaa06c" md5="4eb28b3840fa6fbbc0264cbb9748ad75" sha1="cce0960333628494ba83fff35140e293d6feaf64"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 04).bin" size="28475664" crc="8ea45dd0" md5="aa17ee07ec4f55e1a10f166108041409" sha1="4ac0d1e0dd7d01e2845ce7b99540870d900e9653"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 05).bin" size="29400000" crc="c8a50212" md5="07fe286a565f5e5cc74720c3e560f58d" sha1="0ea93a8e1d24bf79e1628788c5c86a876f064076"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 06).bin" size="29106000" crc="bd92d9b5" md5="f2c19c6a20a9f55ac8fb483b9096f061" sha1="ca32c83910af7fa2424a70a6758d466abc546cf3"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 07).bin" size="29694000" crc="92667b22" md5="d0dffb98f4e68f07379ac0ccc21aaeb4" sha1="69590d8f1ceba25c9bc977026ac2eb9c569cb63c"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 08).bin" size="29771616" crc="ffeeed14" md5="a0a06e8c0ecb11f32e094a841d9b927b" sha1="cb2f9034d04804c7f8ae7a5ee5201bcfd747b92a"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 09).bin" size="4362960" crc="56dfe45b" md5="95b0b2a56ba537a138a406e1536041ee" sha1="1ad96ad74e618694849ed14df453aa48ac928abc"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 10).bin" size="4010160" crc="b2f1f9ea" md5="7ccd680f36a990049d16de8d5f8c56df" sha1="92daa5f12acbc850ce06244246e61806667e0cc7"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 11).bin" size="4339440" crc="7a739ee6" md5="bcfb670c181700ac818dbd8fc7a12d41" sha1="16d0d5de17176a2fe78c4fd995e6d7fb7d484172"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 12).bin" size="4203024" crc="25f1408c" md5="532322e76bfd7daab9becbf37d9b4478" sha1="d5489de69d1986d3856fb8414abb1904c0aea942"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 13).bin" size="4127760" crc="9a982d86" md5="f6a3885c67b2e22f56278d10c01de240" sha1="f2a28255200c8bbe8cd0acd6c3260d1c2749d569"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 14).bin" size="4233600" crc="e01b9c81" md5="6e91baf15a3ca10af9e6e7cd53c0d02d" sha1="1e8fd43d6c918a450ed1a15a81162f1d4d0f103e"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 15).bin" size="4146576" crc="958a7d61" md5="8297927347a10fae3e8d3bbebcd86fb0" sha1="b5f774ec787552e46c7a5141fa7044a551e0b4f0"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 16).bin" size="3974880" crc="364f352d" md5="8d63639810f0a766e720bca6473ccacb" sha1="d7efc2e396776d46827a4bfdb2c6310c22bc7375"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 17).bin" size="4551120" crc="43e32886" md5="16e50aec783251041acaa3c2c5e2e2b7" sha1="8ebca62a7c42e63c8f35951fee651bfe3f3295ec"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 18).bin" size="4003104" crc="2552f906" md5="6b81aa517dc32203d1a0ba9d3d3c776f" sha1="d9d090efc10152a34d4c1084007b0c3298140051"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 19).bin" size="4398240" crc="49609afc" md5="540f5586f80bb029b54d96d3c6217f7f" sha1="ad699ae2f5c6976ef6db74b62eaaf587b1556e0d"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 20).bin" size="6627936" crc="8fd51979" md5="87520abe575dcaeed1dac48df0edd97f" sha1="1ee6af7c876c91551c95f7d06a8acba40f950096"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 21).bin" size="15052800" crc="1f9d65c3" md5="3c109f74f31bc17c083d800fe66eda42" sha1="957f20a0188f770d6a85bfc2279e82e54dde0a18"/>
+		<rom name="Battle Chess (USA) (Rev 1) (Track 22).bin" size="283909920" crc="31213dcb" md5="159e947d9662b158ab407c159f84ca92" sha1="bd41e11d2255b0c49c80c6416afe095edf0f7bfd"/>
+		<rom name="Battle Chess (USA) (Rev 1).cue" size="2207" crc="113b251d" md5="b3f90d06a1ad24b8948cf28a1a985780" sha1="0e910b8841b97d5a88318418283187470e520896"/>
 	</game>
 	<game name="Battle Chess 4000 (USA)" id="109627">
 		<category>Games</category>
@@ -67164,7 +67164,7 @@
 		<category>Games</category>
 		<description>Reel Deal Casino - Championship Edition (USA) (v1.6)</description>
 		<rom name="Reel Deal Casino - Championship Edition (USA) (v1.6).bin" size="763816704" crc="81681322" md5="a9f97aec5b6c8d6c37546027dcb68793" sha1="5c9a3da9b031f4af943c11d6b6da19645154d1f2"/>
-		<rom name="Reel Deal Casino - Championship Edition (USA) (v1.6).cue" size="133" crc="26856ca8" md5="a3004bb7e3a8ba75ddbebca9d67f8800" sha1="bb75ec92ad34a7625f86005eb80ebc2030ee58e3"/>
+		<rom name="Reel Deal Casino - Championship Edition (USA) (v1.6).cue" size="156" crc="77e69c37" md5="2516bb9328d08414828d96001964046b" sha1="0ce72851dd081b387ffcc51bb220e989e0fa2291"/>
 	</game>
 	<game name="Reel Deal Casino - Gold Rush (USA) (Disc 1) (v1.1)" id="106467">
 		<category>Games</category>

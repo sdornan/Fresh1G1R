@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Magnavox - Odyssey 2 (Retool)</name>
-		<description>Magnavox - Odyssey 2 (84) (-y) [-aAbBcefkmMoprv] (20260615-160449) (Retool)</description>
-		<version>20260615-160449</version>
-		<date>2026-09-19 07-20-39</date>
-		<author>1988reload, Arctic Circle System, C. V. Reynolds, kazumi213, Psychofox11, psykopat, rarenight</author>
+		<description>Magnavox - Odyssey 2 (84) (-y) [-aAbBcefkmMoprv] (20260919-045852) (Retool)</description>
+		<version>20260919-045852</version>
+		<date>2026-09-20 07-48-47</date>
+		<author>1988reload, Arctic Circle System, C. V. Reynolds, kazumi213, Psychofox11, psykopat, rarenight, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -59,7 +59,7 @@
 	<game name="Bowling + Basketball (USA, Europe)" id="0017">
 		<category>Games</category>
 		<description>Bowling + Basketball (USA, Europe)</description>
-		<rom name="Bowling + Basketball (USA, Europe).bin" size="2048" crc="084ee035" md5="16652634e75560dc830a0c38d7fe1711" sha1="2630c304b6beb0f8021578277be68e837202895d"/>
+		<rom name="Bowling + Basketball (USA, Europe).bin" size="2048" crc="084ee035" md5="16652634e75560dc830a0c38d7fe1711" sha1="2630c304b6beb0f8021578277be68e837202895d" sha256="dbecc55550104851f8b338a8859c0c78cf1828ce4c7bfea61cc39aa67af2f9c5"/>
 	</game>
 	<game name="Buraco Negro (Brazil) (En)" id="0018">
 		<category>Games</category>
@@ -304,7 +304,7 @@
 	<game name="Pocket Billiards (USA, Europe)" id="0094">
 		<category>Games</category>
 		<description>Pocket Billiards (USA, Europe)</description>
-		<rom name="Pocket Billiards (USA, Europe).bin" size="2048" crc="24d53e2c" md5="3f0223dd8609fe320264e45eeeefe367" sha1="8abd1057202ebac12acf3822ed4d965bba02b7de"/>
+		<rom name="Pocket Billiards (USA, Europe).bin" size="2048" crc="24d53e2c" md5="3f0223dd8609fe320264e45eeeefe367" sha1="8abd1057202ebac12acf3822ed4d965bba02b7de" sha256="4ca0c26c16abe561525e9c358b7d90a03b98cad4293d805927a8064c50c6ecff"/>
 	</game>
 	<game name="Popeye (Europe)" id="0096">
 		<category>Games</category>
