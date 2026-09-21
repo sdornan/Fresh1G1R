@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Audio CD (Retool)</name>
-		<description>Audio CD (2,378) (-y) [-aAbBcdkmMpPuv] (2026-09-19 21-52-35) (Retool)</description>
-		<version>2026-09-19 21-52-35</version>
-		<date>2026-09-20 08-02-32</date>
+		<description>Audio CD (2,379) (-y) [-aAbBcdkmMpPuv] (2026-09-21 07-23-56) (Retool)</description>
+		<version>2026-09-21 07-23-56</version>
+		<date>2026-09-21 08-13-39</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -28221,6 +28221,26 @@
 		<rom name="Music for Marucom (Japan) (PC Game Bundle) (Track 21).bin" size="77183232" crc="d5fc154e" md5="151f865254663574f6e2b3d81a47625d" sha1="bda7965218689664f47839d3958af4dc3a529455"/>
 		<rom name="Music for Marucom (Japan) (PC Game Bundle) (Track 22).bin" size="1658160" crc="7aff47e0" md5="046c57109af986ba7dcd15de10054760" sha1="b9ec5d8a2bfc5d31cf0ab200aff526236da6db6e"/>
 		<rom name="Music for Marucom (Japan) (PC Game Bundle).cue" size="2991" crc="5c864a50" md5="62d1ce33028695711828b5c5a92f6d6f" sha1="4633fe8330f412acec3f1dee92b245e5f152f99b"/>
+	</game>
+	<game name="Music from 'Duel' (Japan)" id="109848">
+		<category>Bonus Discs</category>
+		<description>Music from 'Duel' (Japan)</description>
+		<rom name="Music from 'Duel' (Japan) (Track 01).bin" size="6232800" crc="6314c8e6" md5="6ee7464aef2ad83bbc9fcaeaca8bd939" sha1="fe9f155ccfd997789cb23c6e997d62c2c974d769"/>
+		<rom name="Music from 'Duel' (Japan) (Track 02).bin" size="41383440" crc="7866afbe" md5="cb154e43a8fc64c5246046c5820a5280" sha1="bc3b66d263fac421226dbbd9ad50e72e4219dd8f"/>
+		<rom name="Music from 'Duel' (Japan) (Track 03).bin" size="52708320" crc="9297a7c9" md5="ecff35ccbbc47857dd018ee0a661d24c" sha1="55d68b6095a6b5a7767e9df840f1ff23b2881704"/>
+		<rom name="Music from 'Duel' (Japan) (Track 04).bin" size="35616336" crc="eadfa1c3" md5="15b1599b5153d2b9fa960a9f817252ad" sha1="390fbd80f4a5ef51a5004f7efb544c1e7bbcb9c1"/>
+		<rom name="Music from 'Duel' (Japan) (Track 05).bin" size="50356320" crc="9bfa642e" md5="284207fe10d65c03a5303be345ae31a0" sha1="b9999d6beadc851032a1fc513b562fa8310cf49c"/>
+		<rom name="Music from 'Duel' (Japan) (Track 06).bin" size="34621440" crc="3aa9a9d3" md5="d7d69eb0fe27bbf5cd2c1290c54cd28f" sha1="b2da9d5c8535d6c471a923bbc3e1c32477f5eb46"/>
+		<rom name="Music from 'Duel' (Japan) (Track 07).bin" size="29882160" crc="5fc0ac55" md5="d76aa67289c2572c8e4012faaaf01094" sha1="c9c9cad151d13c93a3ddbabdc7fad229d7947d95"/>
+		<rom name="Music from 'Duel' (Japan) (Track 08).bin" size="37361520" crc="ae4d6386" md5="99558c09a1164aee95d53cbe885a594e" sha1="59aa59e7d4a846b2903a7abff563a6f62077877a"/>
+		<rom name="Music from 'Duel' (Japan) (Track 09).bin" size="41418720" crc="c8310ea5" md5="9de1a3ff945d9a162055100446fc88cd" sha1="650eb24980dc93285f815f753837858eb3d9ec18"/>
+		<rom name="Music from 'Duel' (Japan) (Track 10).bin" size="39748800" crc="25d02b5e" md5="9c5de804382d87131a91f5bdd11dd3fc" sha1="4a2ce57272ca389973129b61e414e4e63f3b0718"/>
+		<rom name="Music from 'Duel' (Japan) (Track 11).bin" size="56918400" crc="cb130601" md5="36bfdc5b127892ef2b6437e7e92f0b20" sha1="523f52aee7f2de30b5b0b16eed677863fdbf247f"/>
+		<rom name="Music from 'Duel' (Japan) (Track 12).bin" size="40031040" crc="f90d4f62" md5="b0e359589c808729c3d1c99fb1293a5a" sha1="3f17fd426cde73386036f1ac2e8a59083dadd3c2"/>
+		<rom name="Music from 'Duel' (Japan) (Track 13).bin" size="34884864" crc="b658739e" md5="4bae4316de8cc9ed52ed338e96e42326" sha1="e777c947019729a7e7e2ee50ff87ffa462e6b5bf"/>
+		<rom name="Music from 'Duel' (Japan) (Track 14).bin" size="33299616" crc="30f395ed" md5="01be4b3da724bf5fcbfd63c27a5dd37b" sha1="c3d50b8a125f81047d87d6af42861943b1a86192"/>
+		<rom name="Music from 'Duel' (Japan) (Track 15).bin" size="42571200" crc="76695d26" md5="e64ca48aed9216cb1205a6d38a1defdf" sha1="76dc40d6db9317521491f438ab26f9916129f946"/>
+		<rom name="Music from 'Duel' (Japan).cue" size="2145" crc="9f1ed35b" md5="e5672bfa5442877afdf6d57ec6c47cf6" sha1="770334fdacc41ffad38a6e12ee4a87c651dea14d"/>
 	</game>
 	<game name="Music from Alone in the Dark (USA) (Multisystem Game Bundle)" id="105337">
 		<category>Bonus Discs</category>

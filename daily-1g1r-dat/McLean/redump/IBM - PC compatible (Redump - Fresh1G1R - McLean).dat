@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,537) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-20 00-22-46) (Retool)</description>
-		<version>2026-09-20 00-22-46</version>
-		<date>2026-09-20 07-53-48</date>
+		<description>IBM - PC compatible (13,536) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-21 07-22-35) (Retool)</description>
+		<version>2026-09-21 07-22-35</version>
+		<date>2026-09-21 08-05-05</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -30929,11 +30929,6 @@
 		<category>Games</category>
 		<description>Football Manager 2018 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Ko,Pl,Ru,Cs)</description>
 		<rom name="Football Manager 2018 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Ko,Pl,Ru,Cs).iso" size="2089615360" crc="6f922fab" md5="a28dae27c042bc4c4fe77aba73670869" sha1="9ee565316a56b1b64148dbb102fbb8fd0698eba2"/>
-	</game>
-	<game name="Football Manager 2019 (Europe)" id="138261">
-		<category>Games</category>
-		<description>Football Manager 2019 (Europe)</description>
-		<rom name="Football Manager 2019 (Europe).iso" size="2427125760" crc="e41b40f5" md5="fa8cc2d8df815d62c4901f5d9d0a02e8" sha1="48267632a5d442231811c2cfa49aad0661477ea8"/>
 	</game>
 	<game name="Football Mogul (USA)" id="129356">
 		<category>Games</category>
@@ -91174,11 +91169,11 @@
 		<rom name="Who Wants to Be a Millionaire (USA) (General Mills).bin" size="721922880" crc="d4966515" md5="568c1c4e9ccf7163b8ebcd4bc201e070" sha1="45a0b8b69f4a259352a62ba69fcbccc8d95f7211"/>
 		<rom name="Who Wants to Be a Millionaire (USA) (General Mills).cue" size="117" crc="4bdef34d" md5="553fa63dde74214b102df792415e3141" sha1="55f7d8f4bb355a33ade761607ed1f3d140893d9b"/>
 	</game>
-	<game name="Who Wants to Be a Millionaire (USA, Canada) (Rerelease) (2001-08-01)" id="86121">
+	<game name="Who Wants to Be a Millionaire (USA, Canada)" id="25712">
 		<category>Games</category>
-		<description>Who Wants to Be a Millionaire (USA, Canada) (Rerelease) (2001-08-01)</description>
-		<rom name="Who Wants to Be a Millionaire (USA, Canada) (Rerelease) (2001-08-01).bin" size="542684016" crc="513a2c04" md5="d9d8298b614c6895174ac917f539b815" sha1="f7b9ce2eefb7f43782e52219a6e6b28cf0d60ce7"/>
-		<rom name="Who Wants to Be a Millionaire (USA, Canada) (Rerelease) (2001-08-01).cue" size="134" crc="aa4ded4b" md5="99a7628c468311025da27b77d70b3d1c" sha1="8a166f10d62671475c52e717b8f0e6cf57cb01dd"/>
+		<description>Who Wants to Be a Millionaire (USA, Canada)</description>
+		<rom name="Who Wants to Be a Millionaire (USA, Canada).bin" size="543152064" crc="8edc3500" md5="94b242603a6e8400be672c2286b582e1" sha1="8741d0b196a59e9c922699c67e18fa792e82edda"/>
+		<rom name="Who Wants to Be a Millionaire (USA, Canada).cue" size="109" crc="d114dd15" md5="50e2e1b1110947b2514146644a8f1707" sha1="14aac7a61823cba8a02d0d1356971952fb6fd002"/>
 	</game>
 	<game name="Who Wants to Be a Millionaire - 1st Edition (UK) (Sold Out Software)" id="127104">
 		<category>Games</category>

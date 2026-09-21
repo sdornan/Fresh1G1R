@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - amiibo (Retool)</name>
-		<description>Nintendo - amiibo (946) (-y) [-aAbBcefkmMoprv] (20260914-232138) (Retool)</description>
-		<version>20260914-232138</version>
-		<date>2026-09-20 07-50-43</date>
-		<author>1988reload, baldjared, Bumpfi, kyndigs, rarenight, SonGoku</author>
+		<description>Nintendo - amiibo (946) (-y) [-aAbBcefkmMoprv] (20260920-212204) (Retool)</description>
+		<version>20260920-212204</version>
+		<date>2026-09-21 08-00-30</date>
+		<author>1988reload, baldjared, Bumpfi, kyndigs, nnssxx, rarenight, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -3088,7 +3088,7 @@
 		<category>Add-Ons</category>
 		<description>Animal Crossing - New Leaf - 24 - Murphy (World) (Welcome amiibo) (Animal Crossing) (Card)</description>
 		<game_id>0284000102fe0502</game_id>
-		<rom name="bb9b02872d294a956c3d4e764ddeb27fcc53adeec74a03b6fc0b3d3d7506cf8c" size="540" crc="1251182b" md5="de01f210ca79aad1fb9543ef930523ac" sha1="885be444f165eb2adf98d94fff230eeb6e84ce87"/>
+		<rom name="Animal Crossing - New Leaf - 24 - Murphy (World) (Welcome amiibo) (Animal Crossing) (Card).bin" size="540" crc="1251182b" md5="de01f210ca79aad1fb9543ef930523ac" sha1="885be444f165eb2adf98d94fff230eeb6e84ce87" sha256="bb9b02872d294a956c3d4e764ddeb27fcc53adeec74a03b6fc0b3d3d7506cf8c"/>
 	</game>
 	<game name="Animal Crossing - New Leaf - 25 - Plucky (World) (Welcome amiibo) (Animal Crossing) (Card)" id="0616">
 		<category>Add-Ons</category>

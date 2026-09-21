@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,814) (-y) [-aAbBcdkmMpPuv] (2026-09-20 00-22-46) (Retool)</description>
-		<version>2026-09-20 00-22-46</version>
-		<date>2026-09-20 08-03-55</date>
+		<description>IBM - PC compatible (26,821) (-y) [-aAbBcdkmMpPuv] (2026-09-21 07-22-35) (Retool)</description>
+		<version>2026-09-21 07-22-35</version>
+		<date>2026-09-21 08-14-59</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -58184,10 +58184,10 @@
 		<description>Football Manager 2018 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Ko,Pl,Ru,Cs)</description>
 		<rom name="Football Manager 2018 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Ko,Pl,Ru,Cs).iso" size="2089615360" crc="6f922fab" md5="a28dae27c042bc4c4fe77aba73670869" sha1="9ee565316a56b1b64148dbb102fbb8fd0698eba2"/>
 	</game>
-	<game name="Football Manager 2019 (Europe)" id="138261">
+	<game name="Football Manager 2019 (Turkey)" id="138261">
 		<category>Games</category>
-		<description>Football Manager 2019 (Europe)</description>
-		<rom name="Football Manager 2019 (Europe).iso" size="2427125760" crc="e41b40f5" md5="fa8cc2d8df815d62c4901f5d9d0a02e8" sha1="48267632a5d442231811c2cfa49aad0661477ea8"/>
+		<description>Football Manager 2019 (Turkey)</description>
+		<rom name="Football Manager 2019 (Turkey).iso" size="2427125760" crc="e41b40f5" md5="fa8cc2d8df815d62c4901f5d9d0a02e8" sha1="48267632a5d442231811c2cfa49aad0661477ea8"/>
 	</game>
 	<game name="Football Masters 2000 (Belgium, Netherlands) (Fr,Nl) (Rerelease)" id="121601">
 		<category>Games</category>
@@ -86242,6 +86242,12 @@
 		<rom name="Koei Win Festa '96 - Campaign CD-ROM (Japan) (PC Game Bundle).bin" size="36695904" crc="124dd136" md5="abbb326d42cdecceb151b2f5d3e4979b" sha1="a56b130c1d08d798e5bfb48a7cd37db9250113de"/>
 		<rom name="Koei Win Festa '96 - Campaign CD-ROM (Japan) (PC Game Bundle).cue" size="150" crc="4b8d9534" md5="bc1ccd8a13464ed62868ecc8a6d816a1" sha1="6e5c89117636401be21433773deb8ea2800606f3"/>
 	</game>
+	<game name="Kofe-brejk - Percy v ofise 2 (Russia)" id="138573">
+		<category>Games</category>
+		<description>Kofe-brejk - Percy v ofise 2 (Russia)</description>
+		<rom name="Kofe-brejk - Percy v ofise 2 (Russia).bin" size="827654688" crc="ca487328" md5="dcbc0bb6f78654a3bc95fdbe6298cbbb" sha1="adc3e09d15826c9e2c1551112029638c289ad4a0"/>
+		<rom name="Kofe-brejk - Percy v ofise 2 (Russia).cue" size="103" crc="d9a365a4" md5="5b797e0c33da0d54901de39066476af0" sha1="39467a98daf818ea5e273665d3d80e221fd7c391"/>
+	</game>
 	<game name="Kogi &amp; 3D Columns (USA)" id="105866">
 		<category>Games</category>
 		<description>Kogi &amp; 3D Columns (USA)</description>
@@ -88576,11 +88582,11 @@
 		<rom name="Lar Dig Teckna Serier (Sweden).bin" size="516433344" crc="db86b603" md5="d08f21a82b91f342cc85efdb0f4eb8c9" sha1="967acc22ac0056b99ff8b7a0d1af3f060453da6d"/>
 		<rom name="Lar Dig Teckna Serier (Sweden).cue" size="119" crc="b43b2ba4" md5="83b55782f0e059b0cd746075e8a5c358" sha1="02a3ad26625ff2093b16c141a54678775ae21438"/>
 	</game>
-	<game name="Lar dig Schack Med Fritz Och Felix (Sweden)" id="112587">
+	<game name="Lar dig schack med Fritz och Felix (Sweden)" id="112587">
 		<category>Educational</category>
-		<description>Lar dig Schack Med Fritz Och Felix (Sweden)</description>
-		<rom name="Lar dig Schack Med Fritz Och Felix (Sweden).bin" size="516252240" crc="2d778dbd" md5="79906a5aabc00e4d0aeda2b11febdbb2" sha1="8522b29758aebb0b177de2c152f8e472cb167570"/>
-		<rom name="Lar dig Schack Med Fritz Och Felix (Sweden).cue" size="109" crc="10d2e919" md5="f63e1ee5d1ce85018d53a1a9f11cf343" sha1="c967e75b86c1d9c6b5ce1ff2e12462c428dd7e6f"/>
+		<description>Lar dig schack med Fritz och Felix (Sweden)</description>
+		<rom name="Lar dig schack med Fritz och Felix (Sweden).bin" size="516252240" crc="2d778dbd" md5="79906a5aabc00e4d0aeda2b11febdbb2" sha1="8522b29758aebb0b177de2c152f8e472cb167570"/>
+		<rom name="Lar dig schack med Fritz och Felix (Sweden).cue" size="109" crc="fc6f6a8f" md5="38d9f864384b244b0f60f27bb2477660" sha1="5797c521f00ce0b270be8fdf1e7636afabb9da65"/>
 	</game>
 	<game name="Lar dig stava (Sweden)" id="126749">
 		<category>Educational</category>
@@ -126678,6 +126684,12 @@
 		<rom name="Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Disc 2).bin" size="834440208" crc="8c8c3369" md5="0e517b21670542d7602ae59d792871a5" sha1="f64bff8b025e5e269e2bf9cf63548821d327bc99"/>
 		<rom name="Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Disc 2).cue" size="128" crc="b93dea0b" md5="93faa8329d5c970bb029e09a90c14133" sha1="4451d7ac7752272c3784a2f89f15797027d2985f"/>
 	</game>
+	<game name="Prince of Persia - The Two Thrones (Russia) (Disc 3) (Igrovoj)" id="85984">
+		<category>Games</category>
+		<description>Prince of Persia - The Two Thrones (Russia) (Disc 3) (Igrovoj)</description>
+		<rom name="Prince of Persia - The Two Thrones (Russia) (Disc 3) (Igrovoj).bin" size="629806800" crc="1c799265" md5="56a19662756f3378524e3f4e1e33bfe1" sha1="83ac5b5b6341d3f500a863640895afd0e6dc2169"/>
+		<rom name="Prince of Persia - The Two Thrones (Russia) (Disc 3) (Igrovoj).cue" size="128" crc="35de4864" md5="797c8ffd978491d7ffcd2fa90ac15fb6" sha1="4d51e73d82fd07d19c3ba215c4d7ae985b6cbff7"/>
+	</game>
 	<game name="Prince of Persia - The Two Thrones (USA) (En,Fr,De,Es,It) (Rerelease)" id="10325">
 		<category>Games</category>
 		<description>Prince of Persia - The Two Thrones (USA) (En,Fr,De,Es,It) (Rerelease)</description>
@@ -146402,6 +146414,36 @@
 		<description>Shewang - Baozhu Chuanshuo (China)</description>
 		<rom name="Shewang - Baozhu Chuanshuo (China).bin" size="288162336" crc="66af4f23" md5="e6ed7f8d2eb368a2e208f44d97b46ee2" sha1="51422edf7b425c35e24c0c5e9339e35612711805"/>
 		<rom name="Shewang - Baozhu Chuanshuo (China).cue" size="100" crc="1ca18988" md5="abc7b9bb0b04f6287964788144fcd0fc" sha1="de049c353c752a7acd2d1bb281fb16609b28bb95"/>
+	</game>
+	<game name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 1)" id="126048">
+		<category>Games</category>
+		<description>Shhizm - Misticheskoe puteshestvie (Russia) (Disc 1)</description>
+		<rom name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 1).bin" size="841856064" crc="195a5d08" md5="1be375433b270314d958ced08b985481" sha1="895f1564277f38733612bb0274843bb87dcba325"/>
+		<rom name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 1).cue" size="118" crc="589c26a9" md5="0ab8a4e9cadcf85e79836ebdff94d3aa" sha1="45fd1e2f03a069f3eae2bf81b3564d1b6f8ab9dc"/>
+	</game>
+	<game name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 2)" id="126049">
+		<category>Games</category>
+		<description>Shhizm - Misticheskoe puteshestvie (Russia) (Disc 2)</description>
+		<rom name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 2).bin" size="836225376" crc="019f186d" md5="c6e3c56b63cd20bfaa08879696cb2989" sha1="d420d05ae06b7351497f22722ab9fab48c27240b"/>
+		<rom name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 2).cue" size="118" crc="59c10078" md5="ec2906032aff0d2917f0e82a252136a0" sha1="9d711df9e9949e23ca7b1850ce052d711739a833"/>
+	</game>
+	<game name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 3)" id="126050">
+		<category>Games</category>
+		<description>Shhizm - Misticheskoe puteshestvie (Russia) (Disc 3)</description>
+		<rom name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 3).bin" size="838857264" crc="642d068c" md5="82df38b56cdf69abe628f261511add17" sha1="da37a6861ea016f11cdf9ff3d96f7a55a00e943c"/>
+		<rom name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 3).cue" size="118" crc="efdae008" md5="04058c65d5ec012715e5d5f5a9f3f102" sha1="dd64d635073e745065d3acde4ae68a98d772a600"/>
+	</game>
+	<game name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 4)" id="126051">
+		<category>Games</category>
+		<description>Shhizm - Misticheskoe puteshestvie (Russia) (Disc 4)</description>
+		<rom name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 4).bin" size="791664384" crc="c126670a" md5="4e065676ddbd2262fccc48c8d0fc5728" sha1="9aa126ec66931e38f732d934f64e3c152d95062d"/>
+		<rom name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 4).cue" size="118" crc="5b7b4dda" md5="fed98729ad275088003a3de63f6328f9" sha1="5491647ec1393c32352e43bde9039b6d41e7f4ee"/>
+	</game>
+	<game name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 5)" id="126052">
+		<category>Games</category>
+		<description>Shhizm - Misticheskoe puteshestvie (Russia) (Disc 5)</description>
+		<rom name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 5).bin" size="731142720" crc="a2cd9038" md5="d1f3787002a050d7eccc9399fa0ba34b" sha1="92b82adc9d6bf431fa46d0b0861b3a807f296ece"/>
+		<rom name="Shhizm - Misticheskoe puteshestvie (Russia) (Disc 5).cue" size="118" crc="ed60adaa" md5="8ab940719ae55402cb472ee35fa204cb" sha1="bbb4a2b1595e9f9bfdb8da7b0b6ff38567bc7c1d"/>
 	</game>
 	<game name="Shido Karakuri Enban (Japan)" id="33819">
 		<category>Bonus Discs</category>
@@ -180590,11 +180632,11 @@
 		<rom name="Who Wants to Be a Millionaire (USA) (General Mills).bin" size="721922880" crc="d4966515" md5="568c1c4e9ccf7163b8ebcd4bc201e070" sha1="45a0b8b69f4a259352a62ba69fcbccc8d95f7211"/>
 		<rom name="Who Wants to Be a Millionaire (USA) (General Mills).cue" size="117" crc="4bdef34d" md5="553fa63dde74214b102df792415e3141" sha1="55f7d8f4bb355a33ade761607ed1f3d140893d9b"/>
 	</game>
-	<game name="Who Wants to Be a Millionaire (USA, Canada) (Rerelease) (2001-08-01)" id="86121">
+	<game name="Who Wants to Be a Millionaire (USA, Canada)" id="25712">
 		<category>Games</category>
-		<description>Who Wants to Be a Millionaire (USA, Canada) (Rerelease) (2001-08-01)</description>
-		<rom name="Who Wants to Be a Millionaire (USA, Canada) (Rerelease) (2001-08-01).bin" size="542684016" crc="513a2c04" md5="d9d8298b614c6895174ac917f539b815" sha1="f7b9ce2eefb7f43782e52219a6e6b28cf0d60ce7"/>
-		<rom name="Who Wants to Be a Millionaire (USA, Canada) (Rerelease) (2001-08-01).cue" size="134" crc="aa4ded4b" md5="99a7628c468311025da27b77d70b3d1c" sha1="8a166f10d62671475c52e717b8f0e6cf57cb01dd"/>
+		<description>Who Wants to Be a Millionaire (USA, Canada)</description>
+		<rom name="Who Wants to Be a Millionaire (USA, Canada).bin" size="543152064" crc="8edc3500" md5="94b242603a6e8400be672c2286b582e1" sha1="8741d0b196a59e9c922699c67e18fa792e82edda"/>
+		<rom name="Who Wants to Be a Millionaire (USA, Canada).cue" size="109" crc="d114dd15" md5="50e2e1b1110947b2514146644a8f1707" sha1="14aac7a61823cba8a02d0d1356971952fb6fd002"/>
 	</game>
 	<game name="Who Wants to Be a Millionaire - 1st Edition (UK) (Sold Out Software)" id="127104">
 		<category>Games</category>
