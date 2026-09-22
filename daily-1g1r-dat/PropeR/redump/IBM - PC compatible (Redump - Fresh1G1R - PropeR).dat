@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,821) (-y) [-aAbBcdkmMpPuv] (2026-09-21 07-22-35) (Retool)</description>
-		<version>2026-09-21 07-22-35</version>
-		<date>2026-09-21 08-14-59</date>
+		<description>IBM - PC compatible (26,829) (-y) [-aAbBcdkmMpPuv] (2026-09-22 07-22-35) (Retool)</description>
+		<version>2026-09-22 07-22-35</version>
+		<date>2026-09-22 07-56-59</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -4573,6 +4573,11 @@
 		<description>Aege-kai no Shizuku (Japan)</description>
 		<rom name="Aege-kai no Shizuku (Japan).bin" size="329799792" crc="466823be" md5="8cd1df596dd26a5d7d865a7afacea16b" sha1="53180c0cb13651cb55230bf01a1251c56ddb12f2"/>
 		<rom name="Aege-kai no Shizuku (Japan).cue" size="93" crc="10836113" md5="10aa8ad20079cb8f57b22d8cb2094f74" sha1="fb5fbdbd45674de2ce5c0814c549961fbb6326e7"/>
+	</game>
+	<game name="Aeria Games Power Collection (USA)" id="138601">
+		<category>Games</category>
+		<description>Aeria Games Power Collection (USA)</description>
+		<rom name="Aeria Games Power Collection (USA).iso" size="7209418752" crc="ab544f05" md5="d99de83b2640eb26ff633d7fc26da10e" sha1="227107a4d59614238da3e41aea813be1e4a0e0bc"/>
 	</game>
 	<game name="Aero Dancing F (Japan)" id="104945">
 		<category>Games</category>
@@ -9407,6 +9412,12 @@
 		<rom name="AnimePlay Digital Catalog Vol. 1 (USA) (En,Ja) (DVD Game Bundle) (Track 6).bin" size="40188624" crc="2449ff5e" md5="efb4e7df79cc1dc27dd43f14485fb874" sha1="7bfa8c04e51a491830790f9114acfc354f42ff60"/>
 		<rom name="AnimePlay Digital Catalog Vol. 1 (USA) (En,Ja) (DVD Game Bundle) (Track 7).bin" size="43754256" crc="9d246ce1" md5="e29e8aaaede15251c45e357a5be22f9a" sha1="d5a50f673376496ab7f69b2e32359e9ae09c45f0"/>
 		<rom name="AnimePlay Digital Catalog Vol. 1 (USA) (En,Ja) (DVD Game Bundle).cue" size="1088" crc="dcc6a749" md5="c947d66c4505b86f887fbec62ef6ed96" sha1="1cd3259ccbf663c5016b8969d88d3cd8a4aa4048"/>
+	</game>
+	<game name="Animorphs - Know the Secret (USA)" id="138602">
+		<category>Games</category>
+		<description>Animorphs - Know the Secret (USA)</description>
+		<rom name="Animorphs - Know the Secret (USA).bin" size="626031840" crc="f96de2d2" md5="5a2988c0b4393029d1bc379e766202d6" sha1="d218ceb9811e9c670e481415b6bef8ac21d799e0"/>
+		<rom name="Animorphs - Know the Secret (USA).cue" size="99" crc="69fb04d0" md5="b449219ad7afab8826b3ed8dbe5513cd" sha1="dbb2f47e41a1a9ddf6248a49acb0446730a8e690"/>
 	</game>
 	<game name="Animotosi e la Macchina Motante, Gli (Italy)" id="101012">
 		<category>Games</category>
@@ -19950,6 +19961,12 @@
 		<rom name="Blades of Exile (USA).bin" size="93308544" crc="44d5f824" md5="c3e456aa785e7d593e4d892b773da58c" sha1="b765d4d51fb5fc15c5dad8b61953fed7f392c08e"/>
 		<rom name="Blades of Exile (USA).cue" size="87" crc="18409729" md5="8dff53d5d4da9beb3afd0643fd71c927" sha1="31bca357f2020bfb2cd55c7cb3ef5cbf084f02cb"/>
 	</game>
+	<game name="Blafjell (Norway)" id="138618">
+		<category>Games</category>
+		<description>Blafjell (Norway)</description>
+		<rom name="Blafjell (Norway).bin" size="644617344" crc="b76e9544" md5="cfcc9840054c0d24bf77c67739b7508c" sha1="689e658157075179fdbcdd39dcaffbd04e864e20"/>
+		<rom name="Blafjell (Norway).cue" size="83" crc="d4de65d7" md5="41a296a7bf26e46f77b64c147a2a820b" sha1="453e1752319d5a90f8a5f669632b91e13175cec0"/>
+	</game>
 	<game name="Blair Witch Czesc I - Rustin Parr (Poland) (Covermount)" id="23636">
 		<category>Games</category>
 		<description>Blair Witch Czesc I - Rustin Parr (Poland) (Covermount)</description>
@@ -28212,11 +28229,11 @@
 		<description>City Life Premium (Italy)</description>
 		<rom name="City Life Premium (Italy).iso" size="4405985280" crc="0f4ca6cb" md5="2b47dd314eeab7b2c6a3c8cd25b5acd8" sha1="a04812514fb7f3b5ba87bf84283dca00f1fb0c11"/>
 	</game>
-	<game name="City Style (Sweden)" id="112054">
+	<game name="City Style (Norway)" id="138596">
 		<category>Games</category>
-		<description>City Style (Sweden)</description>
-		<rom name="City Style (Sweden).bin" size="136204320" crc="91aac048" md5="710079ac2e700e9a6bbede4a5b2a2470" sha1="e9d1f16997002530e351d4a516e450e289e88717"/>
-		<rom name="City Style (Sweden).cue" size="85" crc="2bc8d951" md5="9654c8397a9402133c0d218cd982d2dc" sha1="c2fed612474d75cb8fb5821592a4a4d3c0b623cb"/>
+		<description>City Style (Norway)</description>
+		<rom name="City Style (Norway).bin" size="137258016" crc="96dc4dab" md5="89367dce99ee36ba06d73e8db24bb6a0" sha1="8634dc7ddc4188298a9fe4b0762f1cc801727893"/>
+		<rom name="City Style (Norway).cue" size="85" crc="85a54ebe" md5="3d2ee22c146d8bc05bb553e54c400aab" sha1="634037293c903cc39a6b5d27d08ff32c6dbe1cbb"/>
 	</game>
 	<game name="City of Heroes &amp; City of Villains - Good Versus Evil Edition (USA) (En,Fr,De,Es)" id="45484">
 		<category>Games</category>
@@ -54746,6 +54763,12 @@
 		<rom name="Far Gate (Canada).bin" size="685457472" crc="6be96373" md5="ecc82baea98c2df2747cf0170c148ec1" sha1="82b4b9946e789d40906f036eabcadaecc4cb55a0"/>
 		<rom name="Far Gate (Canada).cue" size="83" crc="e5857734" md5="9082de79cba0c7ce653556a84cfcae65" sha1="e2fe539fe318e6f3bafe1bd81036db9694fa5534"/>
 	</game>
+	<game name="Far Gate - Battle on a Galactic Scale (USA)" id="138603">
+		<category>Games</category>
+		<description>Far Gate - Battle on a Galactic Scale (USA)</description>
+		<rom name="Far Gate - Battle on a Galactic Scale (USA).bin" size="685104672" crc="47cb7ad7" md5="be0e365cab10f0c2001667758b69b5e3" sha1="847182dab4e449c20592f6ddcfaf18158391716f"/>
+		<rom name="Far Gate - Battle on a Galactic Scale (USA).cue" size="109" crc="230c2d5b" md5="471c9b60587cffc1fb96ab3008213968" sha1="ab12dd499579081f8c5ab9713d0f61b89913f7c3"/>
+	</game>
 	<game name="Far West (Germany) (Rerelease)" id="49915">
 		<category>Games</category>
 		<description>Far West (Germany) (Rerelease)</description>
@@ -80564,6 +80587,12 @@
 		<rom name="Jeff Wayne's The War of the Worlds (USA) (Disc 2) (Martian Missions) (Track 5).bin" size="54869808" crc="803887fc" md5="6392e19003ed25b9d537e9d1d30457ed" sha1="066d82755358a640487a079fc5422b2920ef7196"/>
 		<rom name="Jeff Wayne's The War of the Worlds (USA) (Disc 2) (Martian Missions).cue" size="723" crc="b2c0a254" md5="f0dde7b514c44ac066a76e10653186ec" sha1="cf8b52fd68e679e0b96c06438be15b6a5e13a7cd"/>
 	</game>
+	<game name="Jeg elsker hester (Norway)" id="138598">
+		<category>Games</category>
+		<description>Jeg elsker hester (Norway)</description>
+		<rom name="Jeg elsker hester (Norway).bin" size="98132496" crc="4a8fa45d" md5="709c04538d49eddea4f1515f1fe003c3" sha1="4a9dfed18e7ac5b45e31a6b9e14468a83a3d049e"/>
+		<rom name="Jeg elsker hester (Norway).cue" size="92" crc="d51962e0" md5="253b47afa222faf24e347b49c65fc8fd" sha1="183be375a6ced644cda8fbbcace44c9ff9f56e30"/>
+	</game>
 	<game name="Jekyll &amp; Hyde (USA)" id="76475">
 		<category>Games</category>
 		<description>Jekyll &amp; Hyde (USA)</description>
@@ -104336,6 +104365,12 @@
 		<rom name="Min Ponny (Sweden).bin" size="30110304" crc="5a51d132" md5="6760fc1297d6b468f4c71d027f7e41c8" sha1="07c7b4dddfa102b17d7d91959a2c49ee436fdc8a"/>
 		<rom name="Min Ponny (Sweden).cue" size="84" crc="a587bb56" md5="07b3a56c4883fc52783468b06ad38415" sha1="4ef81742e0e688b9bf82ec4b0b5b221bf3157836"/>
 	</game>
+	<game name="Min dyreklinikk i Afrika (Norway)" id="138619">
+		<category>Games</category>
+		<description>Min dyreklinikk i Afrika (Norway)</description>
+		<rom name="Min dyreklinikk i Afrika (Norway).bin" size="669252192" crc="0c4eaef6" md5="597d1a0c5358dba0aa1211c437014ac0" sha1="4c1e1c29bbc5e3b8ec6794beaa726e2cdbd98927"/>
+		<rom name="Min dyreklinikk i Afrika (Norway).cue" size="99" crc="79d0bca1" md5="a90ecaa5211119f093716ec38fafea54" sha1="e9bfb57e917150b19d35c0d5e63cea8afdd5da47"/>
+	</game>
 	<game name="Mind Grind (USA)" id="126665">
 		<category>Games</category>
 		<description>Mind Grind (USA)</description>
@@ -113588,12 +113623,6 @@
 		<description>Nickelodeon Diego's Ultimate Rescue League (USA)</description>
 		<rom name="Nickelodeon Diego's Ultimate Rescue League (USA).bin" size="101528784" crc="f06608e7" md5="cfd707794d84cadb2fa24d1f6eb19807" sha1="1037331b7cd54cfbc5177e03629b6285e84431ab"/>
 		<rom name="Nickelodeon Diego's Ultimate Rescue League (USA).cue" size="114" crc="67e220a3" md5="c1a8cc4d6ff1cffef33d8ee8aeb3e282" sha1="f0bf30e7e91ef270d78625e8c97acc7bb73a55f4"/>
-	</game>
-	<game name="Nickelodeon Director's Lab (USA, Australia)" id="20776">
-		<category>Games</category>
-		<description>Nickelodeon Director's Lab (USA, Australia)</description>
-		<rom name="Nickelodeon Director's Lab (USA, Australia).bin" size="224338464" crc="3dbe94d1" md5="d073c5d49d1072a8f7881fbd5f18e01f" sha1="f426d3041073ce7060aac256ff8e3f1586a023ae"/>
-		<rom name="Nickelodeon Director's Lab (USA, Australia).cue" size="132" crc="737a797b" md5="d713711c0b9e14258bc58c432d6774a5" sha1="af02db243d81734e008b6243db1e6e436663b3fb"/>
 	</game>
 	<game name="Nickelodeon Dora the Explorer - Dora Saves the Crystal Kingdom (USA)" id="95930">
 		<category>Educational</category>
@@ -134480,6 +134509,11 @@
 		<rom name="Requital (Europe).bin" size="788886672" crc="25ead873" md5="05873b50d57b68d66f873052c37ab3a2" sha1="8d95737f67e936af1313065d3aae9e3d09b7db78"/>
 		<rom name="Requital (Europe).cue" size="83" crc="fcfd2540" md5="74498305602f716cd3e9f9078053c902" sha1="0627daeb179391521025ff1c88a94b3c2df2a4df"/>
 	</game>
+	<game name="Rescue - Everyday Heroes - US Edition (UK)" id="138624">
+		<category>Games</category>
+		<description>Rescue - Everyday Heroes - US Edition (UK)</description>
+		<rom name="Rescue - Everyday Heroes - US Edition (UK).iso" size="960724992" crc="d28f45c9" md5="e9bf9f5f3d3caccd77cc896de0b8b035" sha1="64be599ed0d3d00f6c44d4a815399b45d8b10aa3"/>
+	</game>
 	<game name="Rescue 2 - Everyday Heroes (UK)" id="137578">
 		<category>Games</category>
 		<description>Rescue 2 - Everyday Heroes (UK)</description>
@@ -137341,11 +137375,11 @@
 		<rom name="RollerCoaster Tycoon 2 (Europe) (En,Fr,De,Es,It,Nl,Sv) (World of RollerCoaster Tycoon).bin" size="833024304" crc="db10ab38" md5="60016bc583b61931d1a271482bcf3794" sha1="45afcd34ec48279fba735995772ea8e7f92583cf"/>
 		<rom name="RollerCoaster Tycoon 2 (Europe) (En,Fr,De,Es,It,Nl,Sv) (World of RollerCoaster Tycoon).cue" size="152" crc="4be2748d" md5="fc51e61cae72b4bc2257ef9165436d9a" sha1="647ded0fc2a20d93e26e9b00089da710b314e62f"/>
 	</game>
-	<game name="RollerCoaster Tycoon 2 (USA)" id="41441">
+	<game name="RollerCoaster Tycoon 2 (USA, Australia) (Rerelease)" id="137365">
 		<category>Games</category>
-		<description>RollerCoaster Tycoon 2 (USA)</description>
-		<rom name="RollerCoaster Tycoon 2 (USA).bin" size="664435296" crc="94df1eb2" md5="352ea44b4f8594fa95fd510c2878906b" sha1="d88ec283ad0da51c656a79f063959aad836a02bb"/>
-		<rom name="RollerCoaster Tycoon 2 (USA).cue" size="94" crc="5f4a61c7" md5="692340e8d66bb11f3830ab24f45f4b6a" sha1="283bfe37360c1bb89da8cb9c56886e0268b9918a"/>
+		<description>RollerCoaster Tycoon 2 (USA, Australia) (Rerelease)</description>
+		<rom name="RollerCoaster Tycoon 2 (USA, Australia) (Rerelease).bin" size="658945728" crc="a5a2ef08" md5="738c3a499c3e4d708b6bfebc1f16c773" sha1="60759c8bc8afbdc48a4ea8b15405878fb1873df5"/>
+		<rom name="RollerCoaster Tycoon 2 (USA, Australia) (Rerelease).cue" size="117" crc="1a9f5b42" md5="45e565572bf3032ee98210948d510909" sha1="5be49dd80cb57c01af4509ddbfcb48e3c2662d93"/>
 	</game>
 	<game name="RollerCoaster Tycoon 2 - Time Twister Expansion Pack (USA)" id="41442">
 		<category>Add-Ons</category>
@@ -167357,6 +167391,12 @@
 		<description>Tom Clancy's Rainbow Six 3 - Raven Shield Complete (Europe)</description>
 		<rom name="Tom Clancy's Rainbow Six 3 - Raven Shield Complete (Europe).iso" size="3727884288" crc="5e3a470d" md5="30164d85d60a909bc30d494a249f40ee" sha1="6bf18e86155a9c3d79a72f674e9547c4079715d3"/>
 	</game>
+	<game name="Tom Clancy's Rainbow Six Millennium Collection (USA)" id="138604">
+		<category>Games</category>
+		<description>Tom Clancy's Rainbow Six Millennium Collection (USA)</description>
+		<rom name="Tom Clancy's Rainbow Six Millennium Collection (USA).bin" size="522054624" crc="15527dd2" md5="a6ba86ac7f429e94c025bb593f7ce0d6" sha1="f849ed19acb9b1eb957a45fa09c8143352845a08"/>
+		<rom name="Tom Clancy's Rainbow Six Millennium Collection (USA).cue" size="118" crc="1cc6dd1a" md5="3b42dcd0a5e12f861db80ae269eaf221" sha1="31028df3c5dd94aea74cd641cbb34fd25bf12a83"/>
+	</game>
 	<game name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Brazil) (En,Fr,De) (Disco 2) (Covermount)" id="74781">
 		<category>Add-Ons</category>
 		<description>Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Brazil) (En,Fr,De) (Disco 2) (Covermount)</description>
@@ -176414,6 +176454,12 @@
 		<description>Viiru ja Pesonen nikkarinverstaassa (Finland)</description>
 		<rom name="Viiru ja Pesonen nikkarinverstaassa (Finland).bin" size="177032688" crc="984e9e82" md5="4b0dd11d72931c95baa322db10e9b4a1" sha1="f0f1906bc202a628a62d8fe8f8fc99a592843de8"/>
 		<rom name="Viiru ja Pesonen nikkarinverstaassa (Finland).cue" size="111" crc="87377878" md5="43813b8d530b41c380ea31d24cdfd254" sha1="6b91688a786fbbed02371c8ab6dc3b8717c26f2e"/>
+	</game>
+	<game name="Viking Saga - Der verwunschene Ring (Germany)" id="138600">
+		<category>Games</category>
+		<description>Viking Saga - Der verwunschene Ring (Germany)</description>
+		<rom name="Viking Saga - Der verwunschene Ring (Germany).bin" size="291572736" crc="0629ab41" md5="b6581d7bc0f7f39f66913eb50b0dd9a0" sha1="8661242129c194997a41c1cb9796c7e26e18e7e7"/>
+		<rom name="Viking Saga - Der verwunschene Ring (Germany).cue" size="111" crc="28abc90d" md5="a28df9938984e6b11279b7b173c777ca" sha1="5c321591908e626777090bf67a915f785532750c"/>
 	</game>
 	<game name="Vikingi (Russia) (Disc 1)" id="122864">
 		<category>Games</category>

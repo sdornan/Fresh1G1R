@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Family Computer Disk System (QD) (Retool)</name>
-		<description>Nintendo - Family Computer Disk System (QD) (200) (-y) [-aAbBcdkmMpPuv] (20260617-195332) (Retool)</description>
-		<version>20260617-195332</version>
-		<date>2026-09-21 08-22-32</date>
+		<description>Nintendo - Family Computer Disk System (QD) (199) (-y) [-aAbBcdkmMpPuv] (20260921-053432) (Retool)</description>
+		<version>20260921-053432</version>
+		<date>2026-09-22 08-06-01</date>
 		<author>Arctic Circle System, BigFred, bikerspade, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Gefflon, Hiccup, kazumi213, MeguCocoa, nnssxx, omonim2007, rarenight, relax, RetroUprising, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1173,11 +1173,6 @@
 		<category>Games</category>
 		<description>Zanac (AI) (Japan)</description>
 		<rom name="Zanac (AI) (Japan).qd" size="65536" crc="b141e325" md5="e121e2e846e78d47899508c4eb92b248" sha1="3f1d61ecdc68b0a7fb2970df892e2a22d4e24b16" sha256="384d33f29e516a8892106ed58b205010bf1e87008fdd76b1d590ba8d4f381dce"/>
-	</game>
-	<game name="Zanac (AI) (Japan) (Project EGG)" id="0441">
-		<category>Games</category>
-		<description>Zanac (AI) (Japan) (Project EGG)</description>
-		<rom name="Zanac (AI) (Japan) (Project EGG).qd" size="65516" crc="349b244b" md5="b152912ccd919322fa577470ac1f84f8" sha1="fbdb20149c17eaea37650fee8246b5334e59d730" sha256="154d3108b1bf82ef13eaa3cfcbf677783d9e7a16ecc8a2d004aff318afc095e5"/>
 	</game>
 	<game name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1)" id="0135">
 		<category>Games</category>

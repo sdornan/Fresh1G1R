@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (666) (-y) [-aAbBcdkmMpPuv] (2026-09-19 21-03-58) (Retool)</description>
-		<version>2026-09-19 21-03-58</version>
-		<date>2026-09-21 08-13-26</date>
+		<description>Apple - Macintosh (670) (-y) [-aAbBcdkmMpPuv] (2026-09-21 09-12-35) (Retool)</description>
+		<version>2026-09-21 09-12-35</version>
+		<date>2026-09-22 07-55-25</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -368,6 +368,24 @@
 		<description>Ankh 2 - Tutankhamen no Nazo (Japan)</description>
 		<rom name="Ankh 2 - Tutankhamen no Nazo (Japan).bin" size="786753408" crc="d5a03797" md5="63bf48de93c1ebda4e5294838893ea24" sha1="e5f545a36c61a9e996db444ebb6205393542666f"/>
 		<rom name="Ankh 2 - Tutankhamen no Nazo (Japan).cue" size="102" crc="9a75c535" md5="b3f6cc80064a9c1a1a46a96450269a60" sha1="5d1c0d96d0c94f2f45e87f7d81029415c860d774"/>
+	</game>
+	<game name="Another War (USA) (Disc 1)" id="138605">
+		<category>Games</category>
+		<description>Another War (USA) (Disc 1)</description>
+		<rom name="Another War (USA) (Disc 1).bin" size="783916896" crc="0725a9ba" md5="0d0a32500b6840a911d473ea9d958903" sha1="1497932dd603c65c0e9a8a9f733a40aa388f796c"/>
+		<rom name="Another War (USA) (Disc 1).cue" size="92" crc="281d061e" md5="8fc14ac4c536d7d1a21b58d3ce15c794" sha1="e06bd299d6e8dcd49b4d2d9c773347f833111368"/>
+	</game>
+	<game name="Another War (USA) (Disc 2)" id="138606">
+		<category>Games</category>
+		<description>Another War (USA) (Disc 2)</description>
+		<rom name="Another War (USA) (Disc 2).bin" size="783288912" crc="f06792eb" md5="8e9c0f948d2e10478e65d6625756c2f4" sha1="a89aecb4335fb5c7090e2a4da766641392ab743a"/>
+		<rom name="Another War (USA) (Disc 2).cue" size="92" crc="294020cf" md5="86fb61ae43c452d4768be23df2221a20" sha1="b22eda87dce73ed01527ee3a949d73b41f1d7fde"/>
+	</game>
+	<game name="Another War (USA) (Disc 3)" id="138607">
+		<category>Games</category>
+		<description>Another War (USA) (Disc 3)</description>
+		<rom name="Another War (USA) (Disc 3).bin" size="752595312" crc="d9ab577f" md5="0b2ce51ba998124db2af764a7eb0ef08" sha1="a105b1ff01f33e797c0df25d158dc428f91e477f"/>
+		<rom name="Another War (USA) (Disc 3).cue" size="92" crc="9f5bc0bf" md5="a45dca0f9999cdabeb5e7278aefbd573" sha1="d167ec59ad1b6190a0d19a5894067e541602d2ad"/>
 	</game>
 	<game name="Around the World in 80 Days (USA)" id="86947">
 		<category>Educational</category>
@@ -1084,6 +1102,16 @@
 		<description>Daisenryaku V DX (Japan)</description>
 		<rom name="Daisenryaku V DX (Japan).bin" size="261801120" crc="52421d79" md5="267593c5a4dad30d8e41b149d0d64f32" sha1="90882d5f25605972480af08b31362d2c8f2bdb6e"/>
 		<rom name="Daisenryaku V DX (Japan).cue" size="90" crc="1eed981e" md5="122347e285922ca6c86428ac30e39432" sha1="25d3f652462f02cd74874ed254e3eb317fbdfdbf"/>
+	</game>
+	<game name="Dark Colony (USA)" id="138608">
+		<category>Games</category>
+		<description>Dark Colony (USA)</description>
+		<rom name="Dark Colony (USA) (Track 1).bin" size="452929344" crc="f1c1d6a4" md5="79e4261129c098f9767cbe191ab5bd89" sha1="0e3f0a208355c3c9ad843bfa412589f07e2ae041"/>
+		<rom name="Dark Colony (USA) (Track 2).bin" size="13575744" crc="945eb8cd" md5="aff63366e37e81a5fa0edf58f3211480" sha1="b4f8e124809a201c1c19ffc4b916307c600fcc58"/>
+		<rom name="Dark Colony (USA) (Track 3).bin" size="34245120" crc="34bc7b71" md5="ba40829464bfb34da2975859610101d6" sha1="b8c1ffd9f415739660ed412b8b861498a6934e45"/>
+		<rom name="Dark Colony (USA) (Track 4).bin" size="34028736" crc="ab7d6155" md5="3066673e9e14813d85bdf64e076815d5" sha1="35ee3ee62ec8ffa1d08d863486a65629ad9f2926"/>
+		<rom name="Dark Colony (USA) (Track 5).bin" size="23548224" crc="0b7ce093" md5="9880092dd3b44d5cf83184e410e5910f" sha1="a275dc16ce8bd79ea0f1e05968e5324e58eacab1"/>
+		<rom name="Dark Colony (USA).cue" size="537" crc="c088cc4c" md5="74c39ee0c7c764dfc683f04e1034d6b3" sha1="1886b677a6858bfbcd0e8ed683fea102ead48867"/>
 	</game>
 	<game name="Dark Corona Pegasus (Europe)" id="14404">
 		<category>Games</category>

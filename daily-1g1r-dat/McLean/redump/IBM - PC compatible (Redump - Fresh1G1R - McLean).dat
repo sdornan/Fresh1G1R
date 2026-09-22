@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,536) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-21 07-22-35) (Retool)</description>
-		<version>2026-09-21 07-22-35</version>
-		<date>2026-09-21 08-05-05</date>
+		<description>IBM - PC compatible (13,540) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-22 07-22-35) (Retool)</description>
+		<version>2026-09-22 07-22-35</version>
+		<date>2026-09-22 07-47-05</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2332,6 +2332,11 @@
 		<rom name="Adventures with Barbie - Ocean Discovery (USA) (Track 11).bin" size="21501984" crc="6f442aea" md5="62a155a9d08ce62b00b31ce185ba26fb" sha1="239c73a5da248909c7860e2e67e4c19292c219b1"/>
 		<rom name="Adventures with Barbie - Ocean Discovery (USA) (Track 12).bin" size="18006912" crc="22560c8f" md5="679b5cf9c21c719778244c5a72820403" sha1="7e5bb980f6c996080ce230f8a568f818aece112f"/>
 		<rom name="Adventures with Barbie - Ocean Discovery (USA).cue" size="1674" crc="575d66df" md5="7b102f7dfab4080417cc17284e181d63" sha1="8529e1a78e5b33a14f71e58bc645c33899faec58"/>
+	</game>
+	<game name="Aeria Games Power Collection (USA)" id="138601">
+		<category>Games</category>
+		<description>Aeria Games Power Collection (USA)</description>
+		<rom name="Aeria Games Power Collection (USA).iso" size="7209418752" crc="ab544f05" md5="d99de83b2640eb26ff633d7fc26da10e" sha1="227107a4d59614238da3e41aea813be1e4a0e0bc"/>
 	</game>
 	<game name="African Safari Trophy Hunter 3D (USA)" id="67918">
 		<category>Games</category>
@@ -4786,6 +4791,12 @@
 		<description>Animaniacs Game Pack! (USA)</description>
 		<rom name="Animaniacs Game Pack! (USA).bin" size="364846944" crc="320c7175" md5="a2101fdb48164b66d6e125cfc656c3dc" sha1="25e2f21f9aaacd462f6ed40a78210d7efe0445a5"/>
 		<rom name="Animaniacs Game Pack! (USA).cue" size="93" crc="fb1f22fb" md5="4424968a9eca1095a7e41d36e39c86a2" sha1="f4c1263f93ab9ef78d130ac4f1219721a23d8817"/>
+	</game>
+	<game name="Animorphs - Know the Secret (USA)" id="138602">
+		<category>Games</category>
+		<description>Animorphs - Know the Secret (USA)</description>
+		<rom name="Animorphs - Know the Secret (USA).bin" size="626031840" crc="f96de2d2" md5="5a2988c0b4393029d1bc379e766202d6" sha1="d218ceb9811e9c670e481415b6bef8ac21d799e0"/>
+		<rom name="Animorphs - Know the Secret (USA).cue" size="99" crc="69fb04d0" md5="b449219ad7afab8826b3ed8dbe5513cd" sha1="dbb2f47e41a1a9ddf6248a49acb0446730a8e690"/>
 	</game>
 	<game name="Anito (Ukraine) (Disc 1)" id="138005">
 		<category>Games</category>
@@ -29029,6 +29040,12 @@
 		<description>Far Gate (Canada)</description>
 		<rom name="Far Gate (Canada).bin" size="685457472" crc="6be96373" md5="ecc82baea98c2df2747cf0170c148ec1" sha1="82b4b9946e789d40906f036eabcadaecc4cb55a0"/>
 		<rom name="Far Gate (Canada).cue" size="83" crc="e5857734" md5="9082de79cba0c7ce653556a84cfcae65" sha1="e2fe539fe318e6f3bafe1bd81036db9694fa5534"/>
+	</game>
+	<game name="Far Gate - Battle on a Galactic Scale (USA)" id="138603">
+		<category>Games</category>
+		<description>Far Gate - Battle on a Galactic Scale (USA)</description>
+		<rom name="Far Gate - Battle on a Galactic Scale (USA).bin" size="685104672" crc="47cb7ad7" md5="be0e365cab10f0c2001667758b69b5e3" sha1="847182dab4e449c20592f6ddcfaf18158391716f"/>
+		<rom name="Far Gate - Battle on a Galactic Scale (USA).cue" size="109" crc="230c2d5b" md5="471c9b60587cffc1fb96ab3008213968" sha1="ab12dd499579081f8c5ab9713d0f61b89913f7c3"/>
 	</game>
 	<game name="Farewell to Dragons, A (Europe)" id="96700">
 		<category>Games</category>
@@ -57765,12 +57782,6 @@
 		<rom name="Nickelodeon CatDog - Quest for the Golden Hydrant (USA).bin" size="192040800" crc="63431b6c" md5="8af7e205bc033d918958ff4e94e9503a" sha1="a8045f77890c3265765320f7e265b57188fe9f71"/>
 		<rom name="Nickelodeon CatDog - Quest for the Golden Hydrant (USA).cue" size="121" crc="3a08644b" md5="65695d1197a3359661bbdfc468979bec" sha1="21077463409f46a8634593fae656dbc247e04b93"/>
 	</game>
-	<game name="Nickelodeon Director's Lab (USA, Australia)" id="20776">
-		<category>Games</category>
-		<description>Nickelodeon Director's Lab (USA, Australia)</description>
-		<rom name="Nickelodeon Director's Lab (USA, Australia).bin" size="224338464" crc="3dbe94d1" md5="d073c5d49d1072a8f7881fbd5f18e01f" sha1="f426d3041073ce7060aac256ff8e3f1586a023ae"/>
-		<rom name="Nickelodeon Director's Lab (USA, Australia).cue" size="132" crc="737a797b" md5="d713711c0b9e14258bc58c432d6774a5" sha1="af02db243d81734e008b6243db1e6e436663b3fb"/>
-	</game>
 	<game name="Nickelodeon Jimmy Neutron - Boy Genius (USA)" id="70261">
 		<category>Games</category>
 		<description>Nickelodeon Jimmy Neutron - Boy Genius (USA)</description>
@@ -67456,6 +67467,11 @@
 		<rom name="Requital (Europe).bin" size="788886672" crc="25ead873" md5="05873b50d57b68d66f873052c37ab3a2" sha1="8d95737f67e936af1313065d3aae9e3d09b7db78"/>
 		<rom name="Requital (Europe).cue" size="83" crc="fcfd2540" md5="74498305602f716cd3e9f9078053c902" sha1="0627daeb179391521025ff1c88a94b3c2df2a4df"/>
 	</game>
+	<game name="Rescue - Everyday Heroes - US Edition (UK)" id="138624">
+		<category>Games</category>
+		<description>Rescue - Everyday Heroes - US Edition (UK)</description>
+		<rom name="Rescue - Everyday Heroes - US Edition (UK).iso" size="960724992" crc="d28f45c9" md5="e9bf9f5f3d3caccd77cc896de0b8b035" sha1="64be599ed0d3d00f6c44d4a815399b45d8b10aa3"/>
+	</game>
 	<game name="Rescue 2 - Everyday Heroes (UK)" id="137578">
 		<category>Games</category>
 		<description>Rescue 2 - Everyday Heroes (UK)</description>
@@ -69291,11 +69307,11 @@
 		<rom name="RollerCoaster Tycoon 2 (Europe) (En,Fr,De,Es,It,Nl,Sv) (World of RollerCoaster Tycoon).bin" size="833024304" crc="db10ab38" md5="60016bc583b61931d1a271482bcf3794" sha1="45afcd34ec48279fba735995772ea8e7f92583cf"/>
 		<rom name="RollerCoaster Tycoon 2 (Europe) (En,Fr,De,Es,It,Nl,Sv) (World of RollerCoaster Tycoon).cue" size="152" crc="4be2748d" md5="fc51e61cae72b4bc2257ef9165436d9a" sha1="647ded0fc2a20d93e26e9b00089da710b314e62f"/>
 	</game>
-	<game name="RollerCoaster Tycoon 2 (USA)" id="41441">
+	<game name="RollerCoaster Tycoon 2 (USA, Australia) (Rerelease)" id="137365">
 		<category>Games</category>
-		<description>RollerCoaster Tycoon 2 (USA)</description>
-		<rom name="RollerCoaster Tycoon 2 (USA).bin" size="664435296" crc="94df1eb2" md5="352ea44b4f8594fa95fd510c2878906b" sha1="d88ec283ad0da51c656a79f063959aad836a02bb"/>
-		<rom name="RollerCoaster Tycoon 2 (USA).cue" size="94" crc="5f4a61c7" md5="692340e8d66bb11f3830ab24f45f4b6a" sha1="283bfe37360c1bb89da8cb9c56886e0268b9918a"/>
+		<description>RollerCoaster Tycoon 2 (USA, Australia) (Rerelease)</description>
+		<rom name="RollerCoaster Tycoon 2 (USA, Australia) (Rerelease).bin" size="658945728" crc="a5a2ef08" md5="738c3a499c3e4d708b6bfebc1f16c773" sha1="60759c8bc8afbdc48a4ea8b15405878fb1873df5"/>
+		<rom name="RollerCoaster Tycoon 2 (USA, Australia) (Rerelease).cue" size="117" crc="1a9f5b42" md5="45e565572bf3032ee98210948d510909" sha1="5be49dd80cb57c01af4509ddbfcb48e3c2662d93"/>
 	</game>
 	<game name="RollerCoaster Tycoon 2 - Triple Thrill Pack (USA)" id="59200">
 		<category>Games</category>
@@ -83788,6 +83804,12 @@
 		<category>Games</category>
 		<description>Tom Clancy's Rainbow Six 3 - Raven Shield Complete (Europe)</description>
 		<rom name="Tom Clancy's Rainbow Six 3 - Raven Shield Complete (Europe).iso" size="3727884288" crc="5e3a470d" md5="30164d85d60a909bc30d494a249f40ee" sha1="6bf18e86155a9c3d79a72f674e9547c4079715d3"/>
+	</game>
+	<game name="Tom Clancy's Rainbow Six Millennium Collection (USA)" id="138604">
+		<category>Games</category>
+		<description>Tom Clancy's Rainbow Six Millennium Collection (USA)</description>
+		<rom name="Tom Clancy's Rainbow Six Millennium Collection (USA).bin" size="522054624" crc="15527dd2" md5="a6ba86ac7f429e94c025bb593f7ce0d6" sha1="f849ed19acb9b1eb957a45fa09c8143352845a08"/>
+		<rom name="Tom Clancy's Rainbow Six Millennium Collection (USA).cue" size="118" crc="1cc6dd1a" md5="3b42dcd0a5e12f861db80ae269eaf221" sha1="31028df3c5dd94aea74cd641cbb34fd25bf12a83"/>
 	</game>
 	<game name="Tom Clancy's Rainbow Six Siege (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs) (Disc 1)" id="73431">
 		<category>Games</category>
