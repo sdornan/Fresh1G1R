@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 64 (BigEndian) (Retool)</name>
-		<description>Nintendo - Nintendo 64 (BigEndian) (434) (-y) [-aAbBcefkmMoprv] (20260920-101315) (Retool)</description>
-		<version>20260920-101315</version>
-		<date>2026-09-22 07-42-39</date>
-		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
+		<description>Nintendo - Nintendo 64 (BigEndian) (435) (-y) [-aAbBcefkmMoprv] (20260922-113213) (Retool)</description>
+		<version>20260922-113213</version>
+		<date>2026-09-23 07-43-59</date>
+		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, ShiroeNL, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -903,6 +903,12 @@
 		<category>Games</category>
 		<description>John Romero's Daikatana (USA)</description>
 		<rom name="John Romero's Daikatana (USA).z64" size="16777216" crc="494950c6" md5="5b4c268422469f50b94779e655f2b798" sha1="08709013d512f3a2bed65b98ab451ec8b839d3b4"/>
+	</game>
+	<game name="Kaminari no Gotoku - Choukousoku Igo (Japan) (Proto)" id="1335">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Kaminari no Gotoku - Choukousoku Igo (Japan) (Proto)</description>
+		<rom name="Kaminari no Gotoku - Choukousoku Igo (Japan) (Proto).z64" size="16777216" crc="daf9b36f" md5="708f6022eba77ed7cbb4f4e8c2f2b793" sha1="28cd9cce375a37c120944121a4874a6acdb468a5" sha256="1d94b0b4d1c02f7bb7c68bd68b47e0269ff0f8db35f3dbc775aab6a4ac2e037e"/>
 	</game>
 	<game name="Ken Griffey Jr.'s Slugfest (USA)" id="0353">
 		<category>Games</category>

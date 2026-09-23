@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,832) (-y) [-aAbBcefkmMoprv] (20260919-131803) (Retool)</description>
-		<version>20260919-131803</version>
-		<date>2026-09-22 07-41-23</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,833) (-y) [-aAbBcefkmMoprv] (20260923-001145) (Retool)</description>
+		<version>20260923-001145</version>
+		<date>2026-09-23 07-48-13</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2335,10 +2335,10 @@
 		<description>Dynowarz - The Destruction of Spondylus (USA)</description>
 		<rom name="Dynowarz - The Destruction of Spondylus (USA).nes" size="262160" header="4e 45 53 1a 08 10 10 08 00 00 00 00 00 00 00 01" crc="4170f21f" md5="c18de1d08066f83a00d6e2f3742746c8" sha1="0de1afef6453bea0f8b69294e1524195d5666758" sha256="6553ca07d273aca1b84c772a5291a4e887e3c8717046051bf24398e63d53756f"/>
 	</game>
-	<game name="EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online)" id="0646">
+	<game name="Earth Bound (USA)" id="0646">
 		<category>Games</category>
-		<description>EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online)</description>
-		<rom name="EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online).nes" size="524304" header="4e 45 53 1a 10 20 42 08 00 00 70 00 00 00 00 01" crc="abbe02fa" md5="54387b6e68142d69083a38b437196450" sha1="f338af0af0058dc692d6003e04b4094bb324d2c5" sha256="e672bd85dcdabe2e0ce24f719e810d90c2b22b7d79fd507f1e40f82a24458757"/>
+		<description>Earth Bound (USA)</description>
+		<rom name="Earth Bound (USA).nes" size="524304" header="4e 45 53 1a 10 20 42 08 00 00 70 00 00 00 00 01" crc="abbe02fa" md5="54387b6e68142d69083a38b437196450" sha1="f338af0af0058dc692d6003e04b4094bb324d2c5" sha256="e672bd85dcdabe2e0ce24f719e810d90c2b22b7d79fd507f1e40f82a24458757"/>
 	</game>
 	<game name="Eggerland - Meikyuu no Fukkatsu (Japan)" id="0647">
 		<category>Games</category>
@@ -5404,6 +5404,11 @@
 		<category>Games</category>
 		<description>Moshen Fashi - Demogorgon Monk (China) (FS005) (Unl)</description>
 		<rom name="Moshen Fashi - Demogorgon Monk (China) (FS005) (Unl).nes" size="524304" header="4e 45 53 1a 10 20 02 b8 20 00 90 00 03 00 00 01" crc="00fc6be5" md5="39a6a1ad97e90a801b23a55c7db4be4e" sha1="76abef53bc89c2ab1dc66700c94204fe89be54d1" sha256="dd699c6c3b0fab76c415f6e0558703ced17ccfb5cd7fbf77968aa6fc5d1b7644"/>
+	</game>
+	<game name="Mother (Japan)" id="1517">
+		<category>Games</category>
+		<description>Mother (Japan)</description>
+		<rom name="Mother (Japan).nes" size="393232" header="4e 45 53 1a 10 10 42 08 00 00 70 00 00 00 00 01" crc="cb084ac5" md5="bf1e0bc9c390fdbb2b3ca22d784db7d2" sha1="abd9710251cc5c99152f87b0b4078a3a40fe2950" sha256="ac14a63c080d810adcc1f43c102fcab8740425bd7404050216790aedc396ee2b"/>
 	</game>
 	<game name="Motocross Champion (Japan)" id="1518">
 		<category>Games</category>

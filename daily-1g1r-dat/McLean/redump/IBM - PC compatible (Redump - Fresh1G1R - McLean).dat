@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,540) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-22 07-22-35) (Retool)</description>
-		<version>2026-09-22 07-22-35</version>
-		<date>2026-09-22 07-47-05</date>
+		<description>IBM - PC compatible (13,546) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-23 02-52-35) (Retool)</description>
+		<version>2026-09-23 02-52-35</version>
+		<date>2026-09-23 07-50-32</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -36175,6 +36175,12 @@
 		<description>Has-Been Heroes (USA, Australia) (En,Fr,De,Es,It,Pt)</description>
 		<rom name="Has-Been Heroes (USA, Australia) (En,Fr,De,Es,It,Pt).iso" size="1023279104" crc="ba9e0c95" md5="a4f9caf30a95315e59b3d9a8f3994684" sha1="96f84df40e8b35de1c53ffc4c9c2caa248f9352a"/>
 	</game>
+	<game name="Hasbro Classic Game Collection (USA)" id="138697">
+		<category>Games</category>
+		<description>Hasbro Classic Game Collection (USA)</description>
+		<rom name="Hasbro Classic Game Collection (USA).bin" size="91847952" crc="270c7b10" md5="d8de5ca06184500ad87d8b5bff85e47c" sha1="c8c0148eab733da596990d65a1f1876b12c2550c"/>
+		<rom name="Hasbro Classic Game Collection (USA).cue" size="102" crc="679a5951" md5="99180a79067f6464d894039ba40d7ca1" sha1="ac76c9edbcee81dc8b5073265dddba6017cf9e89"/>
+	</game>
 	<game name="Haunted Casino (USA)" id="129669">
 		<category>Games</category>
 		<description>Haunted Casino (USA)</description>
@@ -38894,6 +38900,12 @@
 		<description>Hoyle Classic Games II (USA)</description>
 		<rom name="Hoyle Classic Games II (USA).bin" size="399299040" crc="f93a48b0" md5="4e51f734bf5aab7cfe382f9e451bfe45" sha1="28d0528e6890738ae4ed8367f1c33a6df8074c27"/>
 		<rom name="Hoyle Classic Games II (USA).cue" size="94" crc="5759b33c" md5="5b3823aedf3225b59a873e9fdaf31d11" sha1="dabb1cbe049b40390369631a161ed05d6b8b36bc"/>
+	</game>
+	<game name="Hoyle Crosswords &amp; Sudoku (USA)" id="138698">
+		<category>Games</category>
+		<description>Hoyle Crosswords &amp; Sudoku (USA)</description>
+		<rom name="Hoyle Crosswords &amp; Sudoku (USA).bin" size="15720768" crc="784aaa71" md5="5091a27435c770514a6486dc2073ba44" sha1="6fdee761fc6ede4c170f2191075b14feef338484"/>
+		<rom name="Hoyle Crosswords &amp; Sudoku (USA).cue" size="97" crc="314d6bbc" md5="9508a5c40522cd577f81b38a48784c30" sha1="a8de947e21c024cbee6aefb0912be9ec29b0fe4a"/>
 	</game>
 	<game name="Hoyle Crosswords (USA)" id="90908">
 		<category>Games</category>
@@ -54807,6 +54819,12 @@
 		<rom name="Mr. Driller (Europe).bin" size="222941376" crc="e2cca30d" md5="ecd0b4af7f22318055052f770a2e2e1e" sha1="0ec0f9b4102465e98e88bddf78e8f9f168c5da94"/>
 		<rom name="Mr. Driller (Europe).cue" size="86" crc="ee52b7db" md5="ce299b6d80194ca4cec88f53ea3d8677" sha1="d596e65a96a5be9621f717b710a8f5114ef957c8"/>
 	</game>
+	<game name="Mr. Fruitness Adventures (Europe) (En,De,It,Sv,Pl)" id="138705">
+		<category>Games</category>
+		<description>Mr. Fruitness Adventures (Europe) (En,De,It,Sv,Pl)</description>
+		<rom name="Mr. Fruitness Adventures (Europe) (En,De,It,Sv,Pl).bin" size="38584560" crc="c701e962" md5="0f9f3d5a176b1ad1d0d6124081942be6" sha1="d39806df8c6508c5edbb66cf4a50df3508e0a187"/>
+		<rom name="Mr. Fruitness Adventures (Europe) (En,De,It,Sv,Pl).cue" size="116" crc="dc72b423" md5="1f09e62561f69c74f9632098588f88af" sha1="873b07fb3f83c1cc77c6d46a0dcd226a0eb3434c"/>
+	</game>
 	<game name="Ms. Pac-Man - Quest for the Golden Maze (USA)" id="52826">
 		<category>Games</category>
 		<description>Ms. Pac-Man - Quest for the Golden Maze (USA)</description>
@@ -67165,6 +67183,11 @@
 		<description>Reel Deal Card Games '09 (USA) (Disc 2)</description>
 		<rom name="Reel Deal Card Games '09 (USA) (Disc 2).bin" size="501839184" crc="9a541f09" md5="2612f73673325aa1101d13f30fd3d30f" sha1="c6e55438569547526f87f0598fd306afde8a63c8"/>
 		<rom name="Reel Deal Card Games '09 (USA) (Disc 2).cue" size="105" crc="f02dc8ed" md5="6cea845753214464fa44bf68bb4729eb" sha1="444403877a03650afb35a8f3860b630de97d1c6f"/>
+	</game>
+	<game name="Reel Deal Card Games 2011 (USA)" id="138699">
+		<category>Games</category>
+		<description>Reel Deal Card Games 2011 (USA)</description>
+		<rom name="Reel Deal Card Games 2011 (USA).iso" size="1519321088" crc="b76921d2" md5="ad0a392b842a47cddc99b7808eb3abb9" sha1="ec5d343862d7f180f52520c2c4daebd74353630d"/>
 	</game>
 	<game name="Reel Deal Casino - Championship Edition (USA) (v1.6)" id="117015">
 		<category>Games</category>
@@ -80595,6 +80618,18 @@
 		<rom name="SuperPower (USA) (v1.42).bin" size="364985712" crc="df706319" md5="4c1b8ccbf176b616ebf2d6c2342cc46f" sha1="688a09a7320b6c9da0b29596ab7e5b5f7c2d1f40"/>
 		<rom name="SuperPower (USA) (v1.42).cue" size="90" crc="866057da" md5="08115a7242ca0f7e9c1f1183224c65f0" sha1="ca9511d6e32b1de21e3cef9981be431b5eb904d7"/>
 	</game>
+	<game name="SuperPower 2 (USA) (Disc 1)" id="138691">
+		<category>Games</category>
+		<description>SuperPower 2 (USA) (Disc 1)</description>
+		<rom name="SuperPower 2 (USA) (Disc 1).bin" size="825349728" crc="9ebcc901" md5="f5c21df158a8cb13741a202b9d6bb459" sha1="d2cfd96cf97eb68d476fbd0b0863f8f789ccb0b1"/>
+		<rom name="SuperPower 2 (USA) (Disc 1).cue" size="93" crc="375684d4" md5="e6119c6812aaf6f0a538e0d15b827b2b" sha1="ee968e8398e44b4d065bb56c6599c17a72c05b70"/>
+	</game>
+	<game name="SuperPower 2 (USA) (Disc 2)" id="138692">
+		<category>Games</category>
+		<description>SuperPower 2 (USA) (Disc 2)</description>
+		<rom name="SuperPower 2 (USA) (Disc 2).bin" size="443718912" crc="ea546d49" md5="e05486e72bbcbf88f8142e0f35e78f65" sha1="605f34a9cbd26b34eb7d167a54e5508cd14ee595"/>
+		<rom name="SuperPower 2 (USA) (Disc 2).cue" size="116" crc="89377fbe" md5="06c4a81742cc8a2f15566f8e46370e41" sha1="cdfc5d3f8f4c2ed1fc9c7ea9d22b91117f505374"/>
+	</game>
 	<game name="Superbike 2000 (USA) (Rerelease)" id="28710">
 		<category>Games</category>
 		<description>Superbike 2000 (USA) (Rerelease)</description>
@@ -83805,12 +83840,6 @@
 		<description>Tom Clancy's Rainbow Six 3 - Raven Shield Complete (Europe)</description>
 		<rom name="Tom Clancy's Rainbow Six 3 - Raven Shield Complete (Europe).iso" size="3727884288" crc="5e3a470d" md5="30164d85d60a909bc30d494a249f40ee" sha1="6bf18e86155a9c3d79a72f674e9547c4079715d3"/>
 	</game>
-	<game name="Tom Clancy's Rainbow Six Millennium Collection (USA)" id="138604">
-		<category>Games</category>
-		<description>Tom Clancy's Rainbow Six Millennium Collection (USA)</description>
-		<rom name="Tom Clancy's Rainbow Six Millennium Collection (USA).bin" size="522054624" crc="15527dd2" md5="a6ba86ac7f429e94c025bb593f7ce0d6" sha1="f849ed19acb9b1eb957a45fa09c8143352845a08"/>
-		<rom name="Tom Clancy's Rainbow Six Millennium Collection (USA).cue" size="118" crc="1cc6dd1a" md5="3b42dcd0a5e12f861db80ae269eaf221" sha1="31028df3c5dd94aea74cd641cbb34fd25bf12a83"/>
-	</game>
 	<game name="Tom Clancy's Rainbow Six Siege (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs) (Disc 1)" id="73431">
 		<category>Games</category>
 		<description>Tom Clancy's Rainbow Six Siege (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs) (Disc 1)</description>
@@ -86110,6 +86139,11 @@
 		<description>Tropico Gold (Germany) (En,De) (Disc 2) (Data)</description>
 		<rom name="Tropico Gold (Germany) (En,De) (Disc 2) (Data).bin" size="833617008" crc="aab8f48f" md5="a04f35d370f72651781b8e870dbbe782" sha1="8261e6a5ca639d60804b5818101c21a46e43db2e"/>
 		<rom name="Tropico Gold (Germany) (En,De) (Disc 2) (Data).cue" size="112" crc="9f8a7bd9" md5="60479ab70eca8ea9ab9bdace64ee0c62" sha1="8df79f96ad14f9a555eb92ceb41923188c6cee2c"/>
+	</game>
+	<game name="Tropico Reloaded (Europe)" id="138625">
+		<category>Games</category>
+		<description>Tropico Reloaded (Europe)</description>
+		<rom name="Tropico Reloaded (Europe).iso" size="3858497536" crc="e77723ec" md5="83c180428ff8dea9768cf28d98ee6301" sha1="66369d235154feb7b96d146e35604ef88accbbce"/>
 	</game>
 	<game name="Tropix! (USA)" id="71594">
 		<category>Games</category>

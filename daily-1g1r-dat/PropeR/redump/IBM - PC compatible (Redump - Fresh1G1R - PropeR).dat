@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,829) (-y) [-aAbBcdkmMpPuv] (2026-09-22 07-22-35) (Retool)</description>
-		<version>2026-09-22 07-22-35</version>
-		<date>2026-09-22 07-56-59</date>
+		<description>IBM - PC compatible (26,840) (-y) [-aAbBcdkmMpPuv] (2026-09-23 02-52-35) (Retool)</description>
+		<version>2026-09-23 02-52-35</version>
+		<date>2026-09-23 08-00-31</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -35152,6 +35152,11 @@
 		<rom name="Daisenryaku - Master Combat 2 (Japan) (v1.10).bin" size="708619968" crc="79ed52d3" md5="9dcfa9b47ba9c4a70637a1af7120eb30" sha1="cc788b88ea93fce43a6b17dafe49f0703b2370bd"/>
 		<rom name="Daisenryaku - Master Combat 2 (Japan) (v1.10).cue" size="111" crc="36a95d65" md5="8abe08bee43d4eb792847384a0f1557e" sha1="8e6feeb6d631cb72b1653632dce57097f1f7775c"/>
 	</game>
+	<game name="Daisenryaku Perfect 2.0 DX (Japan)" id="138630">
+		<category>Games</category>
+		<description>Daisenryaku Perfect 2.0 DX (Japan)</description>
+		<rom name="Daisenryaku Perfect 2.0 DX (Japan).iso" size="403570688" crc="6a5460bf" md5="7961fe6e40b35c71873d4579da7391f5" sha1="4d705f0d655c133340ba4d5970ba14006f9900b5"/>
+	</game>
 	<game name="Daisenryaku V (Japan)" id="21075">
 		<category>Games</category>
 		<description>Daisenryaku V (Japan)</description>
@@ -69649,6 +69654,12 @@
 		<description>Has-Been Heroes (USA, Australia) (En,Fr,De,Es,It,Pt)</description>
 		<rom name="Has-Been Heroes (USA, Australia) (En,Fr,De,Es,It,Pt).iso" size="1023279104" crc="ba9e0c95" md5="a4f9caf30a95315e59b3d9a8f3994684" sha1="96f84df40e8b35de1c53ffc4c9c2caa248f9352a"/>
 	</game>
+	<game name="Hasbro Classic Game Collection (USA)" id="138697">
+		<category>Games</category>
+		<description>Hasbro Classic Game Collection (USA)</description>
+		<rom name="Hasbro Classic Game Collection (USA).bin" size="91847952" crc="270c7b10" md5="d8de5ca06184500ad87d8b5bff85e47c" sha1="c8c0148eab733da596990d65a1f1876b12c2550c"/>
+		<rom name="Hasbro Classic Game Collection (USA).cue" size="102" crc="679a5951" md5="99180a79067f6464d894039ba40d7ca1" sha1="ac76c9edbcee81dc8b5073265dddba6017cf9e89"/>
+	</game>
 	<game name="Hashitte Asobou! Kikansha Thomas (Japan)" id="108028">
 		<category>Games</category>
 		<description>Hashitte Asobou! Kikansha Thomas (Japan)</description>
@@ -74102,6 +74113,12 @@
 		<description>Hoyle Classic Games II (USA)</description>
 		<rom name="Hoyle Classic Games II (USA).bin" size="399299040" crc="f93a48b0" md5="4e51f734bf5aab7cfe382f9e451bfe45" sha1="28d0528e6890738ae4ed8367f1c33a6df8074c27"/>
 		<rom name="Hoyle Classic Games II (USA).cue" size="94" crc="5759b33c" md5="5b3823aedf3225b59a873e9fdaf31d11" sha1="dabb1cbe049b40390369631a161ed05d6b8b36bc"/>
+	</game>
+	<game name="Hoyle Crosswords &amp; Sudoku (USA)" id="138698">
+		<category>Games</category>
+		<description>Hoyle Crosswords &amp; Sudoku (USA)</description>
+		<rom name="Hoyle Crosswords &amp; Sudoku (USA).bin" size="15720768" crc="784aaa71" md5="5091a27435c770514a6486dc2073ba44" sha1="6fdee761fc6ede4c170f2191075b14feef338484"/>
+		<rom name="Hoyle Crosswords &amp; Sudoku (USA).cue" size="97" crc="314d6bbc" md5="9508a5c40522cd577f81b38a48784c30" sha1="a8de947e21c024cbee6aefb0912be9ec29b0fe4a"/>
 	</game>
 	<game name="Hoyle Crosswords (USA)" id="90908">
 		<category>Games</category>
@@ -108353,6 +108370,12 @@
 		<rom name="Mr. Driller 2 (Japan).bin" size="376080096" crc="22374b6a" md5="2276596ad285a4828a125455ed92ff3e" sha1="3119d4a04e6bf7fbcab291f0bb1cb7647b9bab95"/>
 		<rom name="Mr. Driller 2 (Japan).cue" size="87" crc="73c6da01" md5="6bd487495b13320b0a65b62c8a96d909" sha1="c52d826b818ebeafd0cf75e9cd475f8715e81890"/>
 	</game>
+	<game name="Mr. Fruitness Adventures (Europe) (En,De,It,Sv,Pl)" id="138705">
+		<category>Games</category>
+		<description>Mr. Fruitness Adventures (Europe) (En,De,It,Sv,Pl)</description>
+		<rom name="Mr. Fruitness Adventures (Europe) (En,De,It,Sv,Pl).bin" size="38584560" crc="c701e962" md5="0f9f3d5a176b1ad1d0d6124081942be6" sha1="d39806df8c6508c5edbb66cf4a50df3508e0a187"/>
+		<rom name="Mr. Fruitness Adventures (Europe) (En,De,It,Sv,Pl).cue" size="116" crc="dc72b423" md5="1f09e62561f69c74f9632098588f88af" sha1="873b07fb3f83c1cc77c6d46a0dcd226a0eb3434c"/>
+	</game>
 	<game name="Mr. Potato Head - Activity Pack (Canada) (General Mills)" id="130197">
 		<category>Educational</category>
 		<description>Mr. Potato Head - Activity Pack (Canada) (General Mills)</description>
@@ -127758,6 +127781,12 @@
 		<rom name="Professor Wise and his XRay Eyes (USA).bin" size="574184352" crc="28043099" md5="33cbe92e0911b975867a948dea7fe30c" sha1="3bd3352d4993ecd92b68ed71b1ab3ea85bbe8a6d"/>
 		<rom name="Professor Wise and his XRay Eyes (USA).cue" size="127" crc="706bd4fd" md5="26fcf8cc8751b2c1d8f4b01b56f80303" sha1="e9e868472c7538e57c49f8c03184a5dad2b3785d"/>
 	</game>
+	<game name="Professoren oppdager kroppen (Norway) (Sv,No)" id="138700">
+		<category>Educational</category>
+		<description>Professoren oppdager kroppen (Norway) (Sv,No)</description>
+		<rom name="Professoren oppdager kroppen (Norway) (Sv,No).bin" size="679513968" crc="8a975841" md5="ebcfe3ccee3bd64bbcff78516895c491" sha1="286d9341c538081b832f79712574fb31fd4af7cc"/>
+		<rom name="Professoren oppdager kroppen (Norway) (Sv,No).cue" size="134" crc="22ccaa22" md5="096388a5ba96d02356810dcfd1212e20" sha1="036119c90bcd1fc047172c4e13fb24c3c36c2743"/>
+	</game>
 	<game name="Profi-Rom Games Vol. 3 (Germany) (En,De)" id="13781">
 		<category>Games</category>
 		<description>Profi-Rom Games Vol. 3 (Germany) (En,De)</description>
@@ -133868,6 +133897,11 @@
 		<rom name="Reel Deal Card Games '09 (USA) (Disc 2).bin" size="501839184" crc="9a541f09" md5="2612f73673325aa1101d13f30fd3d30f" sha1="c6e55438569547526f87f0598fd306afde8a63c8"/>
 		<rom name="Reel Deal Card Games '09 (USA) (Disc 2).cue" size="105" crc="f02dc8ed" md5="6cea845753214464fa44bf68bb4729eb" sha1="444403877a03650afb35a8f3860b630de97d1c6f"/>
 	</game>
+	<game name="Reel Deal Card Games 2011 (USA)" id="138699">
+		<category>Games</category>
+		<description>Reel Deal Card Games 2011 (USA)</description>
+		<rom name="Reel Deal Card Games 2011 (USA).iso" size="1519321088" crc="b76921d2" md5="ad0a392b842a47cddc99b7808eb3abb9" sha1="ec5d343862d7f180f52520c2c4daebd74353630d"/>
+	</game>
 	<game name="Reel Deal Casino - Championship Edition (USA) (v1.6)" id="117015">
 		<category>Games</category>
 		<description>Reel Deal Casino - Championship Edition (USA) (v1.6)</description>
@@ -135517,6 +135551,12 @@
 		<description>Ricochet Infinity (USA)</description>
 		<rom name="Ricochet Infinity (USA).bin" size="701091216" crc="e3b70458" md5="33202fd8c22f244dbe1fc741c16a0f46" sha1="5d626ccb82547ea1265eabc5fae0422c4a7dac67"/>
 		<rom name="Ricochet Infinity (USA).cue" size="89" crc="041a91a8" md5="a87249fe76184ca8aa9cf5e172ae70b2" sha1="99d647d71cace84aa841a141387af4de5699d02f"/>
+	</game>
+	<game name="Riddarspelet Hindrik (Sweden)" id="138701">
+		<category>Games</category>
+		<description>Riddarspelet Hindrik (Sweden)</description>
+		<rom name="Riddarspelet Hindrik (Sweden).bin" size="845078304" crc="0f783d1a" md5="22286e27a75d4369d3213a3fb734a3f6" sha1="3b193c46b56d077d38343d62a436b263f7139853"/>
+		<rom name="Riddarspelet Hindrik (Sweden).cue" size="118" crc="2709b5db" md5="0bcd59da44ec642a819427dad5165be4" sha1="61826793d88deb77c8803540bd100bb21dd9ee37"/>
 	</game>
 	<game name="Riddle of the Sphinx - An Egyptian Adventure (USA) (Disc 1)" id="12887">
 		<category>Games</category>
@@ -148644,20 +148684,19 @@
 		<rom name="Siedler II, Die - Mission CD (Germany) (Rev 1).bin" size="365326752" crc="eb029cc2" md5="98d594aed50a3be3d39ac4fe678992d1" sha1="d6b18386712bffb803ba888937ca27c18205f09e"/>
 		<rom name="Siedler II, Die - Mission CD (Germany) (Rev 1).cue" size="135" crc="8dbbf0dd" md5="1dfbfc8ee0bb58d55b7dced141e10bdd" sha1="634a203fde434a20ebd30e24cc6afe6cf328c8be"/>
 	</game>
-	<game name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1)" id="42964">
+	<game name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2)" id="138693">
 		<category>Games</category>
-		<description>Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1)</description>
-		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1) (Track 01).bin" size="324498384" crc="07c5686a" md5="ee5a2deb2b2299f17ad2858b7beccb51" sha1="034170984b5703bff6068a13c02fd7327b9ed922"/>
-		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1) (Track 02).bin" size="27499584" crc="a398e63c" md5="a0c9245387f9a773d4f6eaaa6fc32a75" sha1="c16d0e2abb8eccf817152de0e64a081671b066cf"/>
-		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1) (Track 03).bin" size="31582656" crc="e0bb142a" md5="0f5819a2eb26c1b1aabf21b8b3c143e9" sha1="1f8a7ad93db04156f9710f671c70c8d040cf2fd2"/>
-		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1) (Track 04).bin" size="30785328" crc="9461c148" md5="11e6147c6bab0c98ba4ccae356352320" sha1="5b09a1266d793bafcd1c6cd1fabb364b9819d6dc"/>
-		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1) (Track 05).bin" size="30641856" crc="74f291c6" md5="1fec9098d38f0c746b1aa472c051205c" sha1="89763b7f67d6a4eb56e6fdeeb3d3a7b664303024"/>
-		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1) (Track 06).bin" size="39553584" crc="8e16911b" md5="a1963450ed254acc3a92d3abbd6dee2c" sha1="9812a4055b261cb6472104d8ad6dda1f59f67d11"/>
-		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1) (Track 07).bin" size="78180480" crc="288c7bd9" md5="7fad77e542b563f1e98e41223659be29" sha1="86b4c4da7fb7f384ddcf495a73983be68e2bcae0"/>
-		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1) (Track 08).bin" size="22736784" crc="8a5acc72" md5="dfd8c2a777e7f0716a956c1da9c00b10" sha1="16f72aa9dc5b6208959693a0b909bb8052db1dae"/>
-		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1) (Track 09).bin" size="31044048" crc="896f807d" md5="18989402e5443c8996fc1bea68bd24b4" sha1="5530d9b6a4ef78a97cb2b9981351892c98e2977e"/>
-		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1) (Track 10).bin" size="27847680" crc="79f0d60a" md5="3b8f74afabf29b3331f626788f7fd8cb" sha1="6a70caa2f183def667fd1a0fec188bbe4b94bac2"/>
-		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1).cue" size="1475" crc="e55d496b" md5="1bc1cf833b5cc34657d870213d744393" sha1="97e17388cf8d05e0ab5ac60d864772c5bd8c3622"/>
+		<description>Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2)</description>
+		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2) (Track 1).bin" size="324510144" crc="1265a6ca" md5="2cc86704886c92bcfd12ecdf58be9a67" sha1="8cba50f45ee26414fa5c21b0089341e6c8515de4"/>
+		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2) (Track 2).bin" size="27852384" crc="d2e00dad" md5="98f6322f31f4a8d79aaabdd6fa8d92ea" sha1="c2fb5512228bae57d22708c0e9e6367ad3391d0b"/>
+		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2) (Track 3).bin" size="31582656" crc="ab77eb33" md5="c93461cec53fab0129f1bf1921f677fc" sha1="1204becf0686c05df3f284392d74daa04055ad45"/>
+		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2) (Track 4).bin" size="30785328" crc="88d8a56e" md5="a86bad80fbd76532e02ef055bc990ec5" sha1="ad818bd08203692da383a229e849fa36c532f661"/>
+		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2) (Track 5).bin" size="30641856" crc="8fadd488" md5="a4d94e40ff2be5829d0e495099d93f5f" sha1="91effddf52158b995c60ffb79a081a827656eb3c"/>
+		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2) (Track 6).bin" size="39553584" crc="a3d4dd85" md5="8fd0ce92e358d0678e21a7c86d7f1b16" sha1="41021a85e860ba41f5d49c77e23d1bdd206e72a0"/>
+		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2) (Track 7).bin" size="78180480" crc="2d7ef813" md5="020f8558f4f738191bcdf2f5e52ac042" sha1="f09d1705dd984dd0a72d1a413baf80bd84c537ca"/>
+		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2) (Track 8).bin" size="22736784" crc="d7966f25" md5="1945986ac2e8e25aec5ecd6f2d6c8136" sha1="4148de9010b595de9874a1bb87404dfb20db932c"/>
+		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2) (Track 9).bin" size="31044048" crc="49294767" md5="722914651ae50f47517ee4d89b4d5728" sha1="83f2161e7e4b687ffcb39d2b5265f4650b127d54"/>
+		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 2).cue" size="1158" crc="eecae216" md5="6ed3bc140aec47cf3fec14373bace98e" sha1="b492bd3e0c848d73e101911d191e27d3de257e38"/>
 	</game>
 	<game name="Siedler II, Die-... kehren zuruck (Germany)" id="134052">
 		<category>Add-Ons</category>
@@ -159245,6 +159284,12 @@
 		<rom name="Stranger (Russia) (Disc 2).bin" size="26455296" crc="385d3531" md5="172166cacde426bd63e7ddd347f1bfe1" sha1="0fde80329b4a3858724d9a2690c7e513fafa5774"/>
 		<rom name="Stranger (Russia) (Disc 2).cue" size="92" crc="31152795" md5="5384745ad306c267159974f44b2b6660" sha1="21da8e1991edb663f90044b559d0452b9be301ae"/>
 	</game>
+	<game name="Strassenbau &amp; Meisterei Simulator (Germany)" id="138626">
+		<category>Games</category>
+		<description>Strassenbau &amp; Meisterei Simulator (Germany)</description>
+		<rom name="Strassenbau &amp; Meisterei Simulator (Germany).bin" size="609991200" crc="b2504e11" md5="6a8338a5b59f428e6530032fc5447e9a" sha1="92e17a235c3d77cd04c986485417c42476f35faa"/>
+		<rom name="Strassenbau &amp; Meisterei Simulator (Germany).cue" size="109" crc="e71bae02" md5="fdfb1aa562f0024748c6fba8cc2bab8c" sha1="b223a007936b63c52e038eeb8cff4dc7acd03a69"/>
+	</game>
 	<game name="Stratege II, Der (Germany)" id="125926">
 		<category>Games</category>
 		<description>Stratege II, Der (Germany)</description>
@@ -161043,6 +161088,18 @@
 		<description>SuperPower (USA) (v1.42)</description>
 		<rom name="SuperPower (USA) (v1.42).bin" size="364985712" crc="df706319" md5="4c1b8ccbf176b616ebf2d6c2342cc46f" sha1="688a09a7320b6c9da0b29596ab7e5b5f7c2d1f40"/>
 		<rom name="SuperPower (USA) (v1.42).cue" size="90" crc="866057da" md5="08115a7242ca0f7e9c1f1183224c65f0" sha1="ca9511d6e32b1de21e3cef9981be431b5eb904d7"/>
+	</game>
+	<game name="SuperPower 2 (USA) (Disc 1)" id="138691">
+		<category>Games</category>
+		<description>SuperPower 2 (USA) (Disc 1)</description>
+		<rom name="SuperPower 2 (USA) (Disc 1).bin" size="825349728" crc="9ebcc901" md5="f5c21df158a8cb13741a202b9d6bb459" sha1="d2cfd96cf97eb68d476fbd0b0863f8f789ccb0b1"/>
+		<rom name="SuperPower 2 (USA) (Disc 1).cue" size="93" crc="375684d4" md5="e6119c6812aaf6f0a538e0d15b827b2b" sha1="ee968e8398e44b4d065bb56c6599c17a72c05b70"/>
+	</game>
+	<game name="SuperPower 2 (USA) (Disc 2)" id="138692">
+		<category>Games</category>
+		<description>SuperPower 2 (USA) (Disc 2)</description>
+		<rom name="SuperPower 2 (USA) (Disc 2).bin" size="443718912" crc="ea546d49" md5="e05486e72bbcbf88f8142e0f35e78f65" sha1="605f34a9cbd26b34eb7d167a54e5508cd14ee595"/>
+		<rom name="SuperPower 2 (USA) (Disc 2).cue" size="116" crc="89377fbe" md5="06c4a81742cc8a2f15566f8e46370e41" sha1="cdfc5d3f8f4c2ed1fc9c7ea9d22b91117f505374"/>
 	</game>
 	<game name="Superball (Germany)" id="128575">
 		<category>Games</category>
@@ -167391,12 +167448,6 @@
 		<description>Tom Clancy's Rainbow Six 3 - Raven Shield Complete (Europe)</description>
 		<rom name="Tom Clancy's Rainbow Six 3 - Raven Shield Complete (Europe).iso" size="3727884288" crc="5e3a470d" md5="30164d85d60a909bc30d494a249f40ee" sha1="6bf18e86155a9c3d79a72f674e9547c4079715d3"/>
 	</game>
-	<game name="Tom Clancy's Rainbow Six Millennium Collection (USA)" id="138604">
-		<category>Games</category>
-		<description>Tom Clancy's Rainbow Six Millennium Collection (USA)</description>
-		<rom name="Tom Clancy's Rainbow Six Millennium Collection (USA).bin" size="522054624" crc="15527dd2" md5="a6ba86ac7f429e94c025bb593f7ce0d6" sha1="f849ed19acb9b1eb957a45fa09c8143352845a08"/>
-		<rom name="Tom Clancy's Rainbow Six Millennium Collection (USA).cue" size="118" crc="1cc6dd1a" md5="3b42dcd0a5e12f861db80ae269eaf221" sha1="31028df3c5dd94aea74cd641cbb34fd25bf12a83"/>
-	</game>
 	<game name="Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Brazil) (En,Fr,De) (Disco 2) (Covermount)" id="74781">
 		<category>Add-Ons</category>
 		<description>Tom Clancy's Rainbow Six Mission Pack - Eagle Watch (Brazil) (En,Fr,De) (Disco 2) (Covermount)</description>
@@ -171293,6 +171344,11 @@
 		<description>Tropico Gold (Germany) (En,De) (Disc 2) (Data)</description>
 		<rom name="Tropico Gold (Germany) (En,De) (Disc 2) (Data).bin" size="833617008" crc="aab8f48f" md5="a04f35d370f72651781b8e870dbbe782" sha1="8261e6a5ca639d60804b5818101c21a46e43db2e"/>
 		<rom name="Tropico Gold (Germany) (En,De) (Disc 2) (Data).cue" size="112" crc="9f8a7bd9" md5="60479ab70eca8ea9ab9bdace64ee0c62" sha1="8df79f96ad14f9a555eb92ceb41923188c6cee2c"/>
+	</game>
+	<game name="Tropico Reloaded (Europe)" id="138625">
+		<category>Games</category>
+		<description>Tropico Reloaded (Europe)</description>
+		<rom name="Tropico Reloaded (Europe).iso" size="3858497536" crc="e77723ec" md5="83c180428ff8dea9768cf28d98ee6301" sha1="66369d235154feb7b96d146e35604ef88accbbce"/>
 	</game>
 	<game name="Tropix! (USA)" id="71594">
 		<category>Games</category>
@@ -181694,6 +181750,12 @@
 		<description>Wings of Glory (USA) (En,Fr,De)</description>
 		<rom name="Wings of Glory (USA) (En,Fr,De).bin" size="141472800" crc="e85a4933" md5="9a01974cf7a8b10aad50f295bbbc0f81" sha1="af2da2ebdbc2b6c212d6e5259cea9546e63c5233"/>
 		<rom name="Wings of Glory (USA) (En,Fr,De).cue" size="120" crc="1cdc191f" md5="23a3427acc5e9008ba59d2286c314f77" sha1="562a0bad65f79ee5221fd5c63249e2f92f43dec7"/>
+	</game>
+	<game name="Wings of Honour (Germany)" id="138627">
+		<category>Games</category>
+		<description>Wings of Honour (Germany)</description>
+		<rom name="Wings of Honour (Germany).bin" size="364668192" crc="bddcd2dc" md5="5e0876aa836690da5603c86b7057fb8d" sha1="a96f78af17a1fcc4747eefa3fd9f508e377be73c"/>
+		<rom name="Wings of Honour (Germany).cue" size="91" crc="1a98f7a8" md5="4389b8d05e812df26028aa1f712af71f" sha1="9aace542980a6a1a95864732d0a87e5a3c69296d"/>
 	</game>
 	<game name="Wings of Honour - Battles of the Red Baron (Europe)" id="32764">
 		<category>Games</category>
