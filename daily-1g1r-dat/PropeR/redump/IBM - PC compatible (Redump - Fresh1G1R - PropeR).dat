@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,840) (-y) [-aAbBcdkmMpPuv] (2026-09-23 02-52-35) (Retool)</description>
-		<version>2026-09-23 02-52-35</version>
-		<date>2026-09-23 08-00-31</date>
+		<description>IBM - PC compatible (26,842) (-y) [-aAbBcdkmMpPuv] (2026-09-24 03-12-35) (Retool)</description>
+		<version>2026-09-24 03-12-35</version>
+		<date>2026-09-24 07-52-34</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -8621,6 +8621,11 @@
 		<rom name="American Tail Movie Book, An (USA).bin" size="239165472" crc="ef296fc9" md5="cf25c7fb3cac846417a125c4f7477e07" sha1="f48579e813c5026811c8356c489b64e81d10e9a1"/>
 		<rom name="American Tail Movie Book, An (USA).cue" size="123" crc="f8d19e0f" md5="d0f37d277d32340dbe10028853b0d8ad" sha1="6d78085bc8ccf3b0af5c5cf5dd61970466ffd19a"/>
 	</game>
+	<game name="American Truck Simulator - California (UK)" id="138746">
+		<category>Games</category>
+		<description>American Truck Simulator - California (UK)</description>
+		<rom name="American Truck Simulator - California (UK).iso" size="1088618496" crc="b068c6ab" md5="d5ff29bc3df61d3bcaee48b9ddf528d7" sha1="58468f124d94b117b579fe7421df887d56b3e45e"/>
+	</game>
 	<game name="American Truck Simulator - Gold Edition (Europe)" id="115904">
 		<category>Games</category>
 		<description>American Truck Simulator - Gold Edition (Europe)</description>
@@ -9629,6 +9634,11 @@
 		<rom name="Anno 1503 - Schatze, Monster &amp; Piraten (Germany).bin" size="631267392" crc="0677f1c0" md5="ea50ac3fbf6e6feca084140317644f79" sha1="f5df62b8d31116c99b6dd4f88e6be166da5a3a8b"/>
 		<rom name="Anno 1503 - Schatze, Monster &amp; Piraten (Germany).cue" size="114" crc="e37e195e" md5="1eab0d87d99655c850172441c83e5ab4" sha1="c6a0f3928e292c0e12dd36a3626fe3c2978a016e"/>
 	</game>
+	<game name="Anno 1503 - The New World (Europe)" id="105836">
+		<category>Games</category>
+		<description>Anno 1503 - The New World (Europe)</description>
+		<rom name="Anno 1503 - The New World (Europe).iso" size="1063845888" crc="8ba102dd" md5="caee1730d064141c848d6f5a0bf55ded" sha1="042fef9457d7e0578ca64889238c9b47b76ade28"/>
+	</game>
 	<game name="Anno 1503 - The New World (Sweden) (Disc 1) (Installation CD)" id="110648">
 		<category>Games</category>
 		<description>Anno 1503 - The New World (Sweden) (Disc 1) (Installation CD)</description>
@@ -9640,11 +9650,6 @@
 		<description>Anno 1503 - The New World (Sweden) (Disc 2) (Game CD)</description>
 		<rom name="Anno 1503 - The New World (Sweden) (Disc 2) (Game CD).bin" size="489738144" crc="70b2cede" md5="9c5a971d76b2f160fc4a5e621f1b6f7b" sha1="dfb73c6826677363df9564d2eba20940fdb3f0e1"/>
 		<rom name="Anno 1503 - The New World (Sweden) (Disc 2) (Game CD).cue" size="119" crc="802cf007" md5="c515430b6ae915d614a23a1371f82bbb" sha1="3f6521a8bdf5df8ee5325455e860b9f14e2caa4d"/>
-	</game>
-	<game name="Anno 1503 - The New World (UK)" id="105836">
-		<category>Games</category>
-		<description>Anno 1503 - The New World (UK)</description>
-		<rom name="Anno 1503 - The New World (UK).iso" size="1063845888" crc="8ba102dd" md5="caee1730d064141c848d6f5a0bf55ded" sha1="042fef9457d7e0578ca64889238c9b47b76ade28"/>
 	</game>
 	<game name="Anno 1503 - Treasures, Monsters &amp; Pirates (Europe) (En,Fr,It,Nl)" id="84586">
 		<category>Add-Ons</category>
@@ -14578,11 +14583,11 @@
 		<rom name="Bagger-Simulator 2011 (Germany).bin" size="420902160" crc="bc3e3c4b" md5="e481170480e18d6a4f3a568465364129" sha1="84d388ef9496f57aa63396f751d1ab171b2ebe0e"/>
 		<rom name="Bagger-Simulator 2011 (Germany).cue" size="97" crc="f43d0b34" md5="ab87e67fd81ccd173ee0fe2116b12d68" sha1="a018de2f6aa50b167b7ce359ba2568507ae9e447"/>
 	</game>
-	<game name="Bailey's Book House (USA)" id="93720">
+	<game name="Bailey's Book House (USA)" id="138745">
 		<category>Educational</category>
 		<description>Bailey's Book House (USA)</description>
-		<rom name="Bailey's Book House (USA).bin" size="430277232" crc="6ca32376" md5="3df27879922b11d9f2926c95c9114ca7" sha1="6822414a2edb06fd30a392b4df184926272c38da"/>
-		<rom name="Bailey's Book House (USA).cue" size="91" crc="546476c1" md5="99bf07c327cdcf48bce3d1bb3ce6416d" sha1="1063e952543a177c7230dbe7d95d6d4de13144b3"/>
+		<rom name="Bailey's Book House (USA).bin" size="376618704" crc="70440cfd" md5="0967787ec7eeb7179f86cf2aa45ba0cc" sha1="50bd26fd7eff9eec3b49a17ac5ae3c252f38b3fd"/>
+		<rom name="Bailey's Book House (USA).cue" size="114" crc="8b3b6300" md5="de7ca778acaef2ba83b684facd4042ee" sha1="cda24722231725b32927ab90b80740baf06f424f"/>
 	</game>
 	<game name="Bait (Europe)" id="27750">
 		<category>Games</category>
@@ -17561,7 +17566,7 @@
 		<rom name="Bejeweled 2 Deluxe (USA) (Track 16).bin" size="27765360" crc="760e2eee" md5="28571cd5d0a0f960a5093a0a96dc2b0a" sha1="f067fde5983c5eabea34c83e55f1c1851ac02b5e"/>
 		<rom name="Bejeweled 2 Deluxe (USA) (Track 17).bin" size="28823760" crc="1e496838" md5="0baa9c6611dc3357d8dc50652f5bc13c" sha1="6900285f1bbc02151af1f4f16fd8bd610365b5bd"/>
 		<rom name="Bejeweled 2 Deluxe (USA) (Track 18).bin" size="337688400" crc="b23914df" md5="e1aa0e5f414ebd4ea18712476cbdb266" sha1="8f8d81019b270403cb744ca8aba70558a673a146"/>
-		<rom name="Bejeweled 2 Deluxe (USA).cue" size="3044" crc="3a58bddc" md5="40cf23f2d6b704ee3a7432d4b4dbbf22" sha1="92c9756a2dbf2538def4d3843e02a8be391710ff"/>
+		<rom name="Bejeweled 2 Deluxe (USA).cue" size="3068" crc="38ad19fe" md5="b39502e9aa163f417e992f114cda65f1" sha1="bc33a6258cd6eb13ea356214cb916c7d2326acd0"/>
 	</game>
 	<game name="Bejeweled 3 (USA)" id="77475">
 		<category>Games</category>
@@ -29082,12 +29087,6 @@
 		<rom name="ClueFinders Search and Solve Adventures - The Phantom Amusement Park (USA).bin" size="653315040" crc="18075c77" md5="daefd319975c35dfd435b9392d313f23" sha1="b769e366a291c81d312a6993b874d867d78bd27f"/>
 		<rom name="ClueFinders Search and Solve Adventures - The Phantom Amusement Park (USA).cue" size="140" crc="e757bf3b" md5="397c589d67f979360510201801b7966f" sha1="d21dd0e6571ccb33a07633197c03f428a3e75c37"/>
 	</game>
-	<game name="ClueFinders, The - 3rd Grade Adventures (USA) (Disc 2) (The ClueFinders - Real World Adventure Kit) (Rerelease)" id="117485">
-		<category>Educational</category>
-		<description>ClueFinders, The - 3rd Grade Adventures (USA) (Disc 2) (The ClueFinders - Real World Adventure Kit) (Rerelease)</description>
-		<rom name="ClueFinders, The - 3rd Grade Adventures (USA) (Disc 2) (The ClueFinders - Real World Adventure Kit) (Rerelease).bin" size="298057200" crc="beeec8bb" md5="2360a873588be9df2ad9693130e1b6b4" sha1="7820ba01359816312e27dc92305b6398c1d963bc"/>
-		<rom name="ClueFinders, The - 3rd Grade Adventures (USA) (Disc 2) (The ClueFinders - Real World Adventure Kit) (Rerelease).cue" size="177" crc="abd09943" md5="ac89bc09c7bd211d4680a079eafc67ce" sha1="62b178d315d1ef3f861ecbab11d39f8d99dffa2d"/>
-	</game>
 	<game name="ClueFinders, The - 3rd Grade Adventures - The Mystery of Mathra (USA) (Rerelease) (2002-05-16)" id="82105">
 		<category>Educational</category>
 		<description>ClueFinders, The - 3rd Grade Adventures - The Mystery of Mathra (USA) (Rerelease) (2002-05-16)</description>
@@ -29153,6 +29152,12 @@
 		<description>ClueFinders, The - Reading Adventures Ages 9-12 - The Mystery of the Missing Amulet (USA) (v1.1)</description>
 		<rom name="ClueFinders, The - Reading Adventures Ages 9-12 - The Mystery of the Missing Amulet (USA) (v1.1).bin" size="459195072" crc="76e2605c" md5="02384d7c6feac1b4a760293c3bcc4114" sha1="48138b191ec55f8a415efa21fa22e5039d102e76"/>
 		<rom name="ClueFinders, The - Reading Adventures Ages 9-12 - The Mystery of the Missing Amulet (USA) (v1.1).cue" size="162" crc="ecaeaf4d" md5="b74048f1620adb348b6012d7cb233de4" sha1="5dcd87e2336464649567e47323379e4567e187f0"/>
+	</game>
+	<game name="ClueFinders, The - Real World Adventure Kit (USA)" id="117485">
+		<category>Educational</category>
+		<description>ClueFinders, The - Real World Adventure Kit (USA)</description>
+		<rom name="ClueFinders, The - Real World Adventure Kit (USA).bin" size="298057200" crc="beeec8bb" md5="2360a873588be9df2ad9693130e1b6b4" sha1="7820ba01359816312e27dc92305b6398c1d963bc"/>
+		<rom name="ClueFinders, The - Real World Adventure Kit (USA).cue" size="115" crc="ce5d1121" md5="f1a9b983e3e01e543dd5c10ed6f4eefa" sha1="3a561ee431ef41800ebe8825a823fcca96ce06be"/>
 	</game>
 	<game name="Cluedo (Europe) (En,Fr,De) (Blackmail)" id="68733">
 		<category>Games</category>
@@ -52571,12 +52576,6 @@
 		<rom name="Eye Training (UK).bin" size="204920352" crc="b77a2928" md5="c82bd01884b505724bc3a5546addca07" sha1="85af8025c7281f1be4292fa901497044a0db3b60"/>
 		<rom name="Eye Training (UK).cue" size="83" crc="d957d314" md5="6cd692717e6bf94db30ef1d5e6b5c06a" sha1="5735fc2d288b72c540dc78f64711c16eb5bee2df"/>
 	</game>
-	<game name="Eyewitness Encyclopedia of Space and the Universe (USA) (Alt)" id="134024">
-		<category>Games</category>
-		<description>Eyewitness Encyclopedia of Space and the Universe (USA) (Alt)</description>
-		<rom name="Eyewitness Encyclopedia of Space and the Universe (USA) (Alt).bin" size="629338752" crc="35be9192" md5="d7835b996fb77d9ef7028ac468e2f796" sha1="a9eaa026fdc66b9a6bd5bf631c65f6034799237b"/>
-		<rom name="Eyewitness Encyclopedia of Space and the Universe (USA) (Alt).cue" size="150" crc="10149efd" md5="398841fe6257fd247a96167c7bd36051" sha1="973d434f6bf3ee20b9ca3517bc642780d226e67e"/>
-	</game>
 	<game name="F!Zone (USA)" id="52518">
 		<category>Add-Ons</category>
 		<description>F!Zone (USA)</description>
@@ -74089,6 +74088,11 @@
 		<category>Games</category>
 		<description>Hoyle Casino Games 2008 (USA)</description>
 		<rom name="Hoyle Casino Games 2008 (USA).iso" size="930447360" crc="2aaf9e5f" md5="b0be46417d736841aca46412988410a9" sha1="5567d5786c6c38e744d28ef5ee8f627c1b5e5560"/>
+	</game>
+	<game name="Hoyle Casino Games 2011 (USA)" id="138755">
+		<category>Games</category>
+		<description>Hoyle Casino Games 2011 (USA)</description>
+		<rom name="Hoyle Casino Games 2011 (USA).iso" size="3807838208" crc="447575f1" md5="f21f23bdda92b861028c98862df11297" sha1="17918775d1463075a8387490592e444c70195c52"/>
 	</game>
 	<game name="Hoyle Classic Board Games (USA)" id="10651">
 		<category>Games</category>
@@ -177970,6 +177974,12 @@
 		<description>Vtorzhenie - Vyzhzhennaja zemlja (Russia)</description>
 		<rom name="Vtorzhenie - Vyzhzhennaja zemlja (Russia).bin" size="684253248" crc="725f35a1" md5="0a479b92846949db7ba13eb8359ba416" sha1="fd6b70ffd034c6f783d29567192febbf659148c7"/>
 		<rom name="Vtorzhenie - Vyzhzhennaja zemlja (Russia).cue" size="107" crc="d5f5d3b6" md5="44ce61a5ecea76b238cb26f8895aebf3" sha1="d4379d6e9efbaba21ad179acc5c9a666b3545112"/>
+	</game>
+	<game name="Vucudumuz &amp; Beslenme (Turkey) (En,Tr)" id="138756">
+		<category>Educational</category>
+		<description>Vucudumuz &amp; Beslenme (Turkey) (En,Tr)</description>
+		<rom name="Vucudumuz &amp; Beslenme (Turkey) (En,Tr).bin" size="155206128" crc="b23dbb4a" md5="c899aee4116a7bcb66fa1df4f9967c5e" sha1="a3442ef12de58df61ae23257693b7f88467cde45"/>
+		<rom name="Vucudumuz &amp; Beslenme (Turkey) (En,Tr).cue" size="103" crc="50f52b1c" md5="6ab26dbb45f60b9a9896be4f79f24daf" sha1="d7b69d62ab1961e0c5a70239d5ca703c5ca588db"/>
 	</game>
 	<game name="Vulture (Poland) (Covermount)" id="43405">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,284) (-y) [-aAbBcefkmMoprv] (2026-09-23 02-52-35) (Retool)</description>
-		<version>2026-09-23 02-52-35</version>
-		<date>2026-09-23 07-39-57</date>
+		<description>IBM - PC compatible (26,285) (-y) [-aAbBcefkmMoprv] (2026-09-24 03-12-35) (Retool)</description>
+		<version>2026-09-24 03-12-35</version>
+		<date>2026-09-24 07-31-47</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -8617,6 +8617,11 @@
 		<rom name="American Rodeo - Bull Rider 2000 (USA) (Track 8).bin" size="16581600" crc="1676653a" md5="4e728f2a145859ac601db5566e8da08c" sha1="08dd9dfd1947ee6c78d5b9f3aaa211be97eacbf7"/>
 		<rom name="American Rodeo - Bull Rider 2000 (USA).cue" size="1038" crc="aaec2d2e" md5="40e2130e09bc59fa867ec22e460dc924" sha1="f079b5f7ad091395ac2bfb615f3114a2ed516484"/>
 	</game>
+	<game name="American Truck Simulator - California (UK)" id="138746">
+		<category>Games</category>
+		<description>American Truck Simulator - California (UK)</description>
+		<rom name="American Truck Simulator - California (UK).iso" size="1088618496" crc="b068c6ab" md5="d5ff29bc3df61d3bcaee48b9ddf528d7" sha1="58468f124d94b117b579fe7421df887d56b3e45e"/>
+	</game>
 	<game name="American Truck Simulator - Gold Edition (Europe)" id="115904">
 		<category>Games</category>
 		<description>American Truck Simulator - Gold Edition (Europe)</description>
@@ -9607,6 +9612,11 @@
 		<rom name="Anno 1503 - Schatze, Monster &amp; Piraten (Germany).bin" size="631267392" crc="0677f1c0" md5="ea50ac3fbf6e6feca084140317644f79" sha1="f5df62b8d31116c99b6dd4f88e6be166da5a3a8b"/>
 		<rom name="Anno 1503 - Schatze, Monster &amp; Piraten (Germany).cue" size="114" crc="e37e195e" md5="1eab0d87d99655c850172441c83e5ab4" sha1="c6a0f3928e292c0e12dd36a3626fe3c2978a016e"/>
 	</game>
+	<game name="Anno 1503 - The New World (Europe)" id="105836">
+		<category>Games</category>
+		<description>Anno 1503 - The New World (Europe)</description>
+		<rom name="Anno 1503 - The New World (Europe).iso" size="1063845888" crc="8ba102dd" md5="caee1730d064141c848d6f5a0bf55ded" sha1="042fef9457d7e0578ca64889238c9b47b76ade28"/>
+	</game>
 	<game name="Anno 1503 - The New World (Sweden) (Disc 1) (Installation CD)" id="110648">
 		<category>Games</category>
 		<description>Anno 1503 - The New World (Sweden) (Disc 1) (Installation CD)</description>
@@ -9618,11 +9628,6 @@
 		<description>Anno 1503 - The New World (Sweden) (Disc 2) (Game CD)</description>
 		<rom name="Anno 1503 - The New World (Sweden) (Disc 2) (Game CD).bin" size="489738144" crc="70b2cede" md5="9c5a971d76b2f160fc4a5e621f1b6f7b" sha1="dfb73c6826677363df9564d2eba20940fdb3f0e1"/>
 		<rom name="Anno 1503 - The New World (Sweden) (Disc 2) (Game CD).cue" size="119" crc="802cf007" md5="c515430b6ae915d614a23a1371f82bbb" sha1="3f6521a8bdf5df8ee5325455e860b9f14e2caa4d"/>
-	</game>
-	<game name="Anno 1503 - The New World (UK)" id="105836">
-		<category>Games</category>
-		<description>Anno 1503 - The New World (UK)</description>
-		<rom name="Anno 1503 - The New World (UK).iso" size="1063845888" crc="8ba102dd" md5="caee1730d064141c848d6f5a0bf55ded" sha1="042fef9457d7e0578ca64889238c9b47b76ade28"/>
 	</game>
 	<game name="Anno 1503 - Treasures, Monsters &amp; Pirates (Europe) (En,Fr,It,Nl)" id="84586">
 		<category>Add-Ons</category>
@@ -17339,7 +17344,7 @@
 		<rom name="Bejeweled 2 Deluxe (USA) (Track 16).bin" size="27765360" crc="760e2eee" md5="28571cd5d0a0f960a5093a0a96dc2b0a" sha1="f067fde5983c5eabea34c83e55f1c1851ac02b5e"/>
 		<rom name="Bejeweled 2 Deluxe (USA) (Track 17).bin" size="28823760" crc="1e496838" md5="0baa9c6611dc3357d8dc50652f5bc13c" sha1="6900285f1bbc02151af1f4f16fd8bd610365b5bd"/>
 		<rom name="Bejeweled 2 Deluxe (USA) (Track 18).bin" size="337688400" crc="b23914df" md5="e1aa0e5f414ebd4ea18712476cbdb266" sha1="8f8d81019b270403cb744ca8aba70558a673a146"/>
-		<rom name="Bejeweled 2 Deluxe (USA).cue" size="3044" crc="3a58bddc" md5="40cf23f2d6b704ee3a7432d4b4dbbf22" sha1="92c9756a2dbf2538def4d3843e02a8be391710ff"/>
+		<rom name="Bejeweled 2 Deluxe (USA).cue" size="3068" crc="38ad19fe" md5="b39502e9aa163f417e992f114cda65f1" sha1="bc33a6258cd6eb13ea356214cb916c7d2326acd0"/>
 	</game>
 	<game name="Bejeweled 3 (USA)" id="77475">
 		<category>Games</category>
@@ -51697,12 +51702,6 @@
 		<rom name="Eye Training (UK).bin" size="204920352" crc="b77a2928" md5="c82bd01884b505724bc3a5546addca07" sha1="85af8025c7281f1be4292fa901497044a0db3b60"/>
 		<rom name="Eye Training (UK).cue" size="83" crc="d957d314" md5="6cd692717e6bf94db30ef1d5e6b5c06a" sha1="5735fc2d288b72c540dc78f64711c16eb5bee2df"/>
 	</game>
-	<game name="Eyewitness Encyclopedia of Space and the Universe (USA) (Alt)" id="134024">
-		<category>Games</category>
-		<description>Eyewitness Encyclopedia of Space and the Universe (USA) (Alt)</description>
-		<rom name="Eyewitness Encyclopedia of Space and the Universe (USA) (Alt).bin" size="629338752" crc="35be9192" md5="d7835b996fb77d9ef7028ac468e2f796" sha1="a9eaa026fdc66b9a6bd5bf631c65f6034799237b"/>
-		<rom name="Eyewitness Encyclopedia of Space and the Universe (USA) (Alt).cue" size="150" crc="10149efd" md5="398841fe6257fd247a96167c7bd36051" sha1="973d434f6bf3ee20b9ca3517bc642780d226e67e"/>
-	</game>
 	<game name="F!Zone (USA)" id="52518">
 		<category>Add-Ons</category>
 		<description>F!Zone (USA)</description>
@@ -73410,6 +73409,11 @@
 		<category>Games</category>
 		<description>Hoyle Casino Games 2008 (USA)</description>
 		<rom name="Hoyle Casino Games 2008 (USA).iso" size="930447360" crc="2aaf9e5f" md5="b0be46417d736841aca46412988410a9" sha1="5567d5786c6c38e744d28ef5ee8f627c1b5e5560"/>
+	</game>
+	<game name="Hoyle Casino Games 2011 (USA)" id="138755">
+		<category>Games</category>
+		<description>Hoyle Casino Games 2011 (USA)</description>
+		<rom name="Hoyle Casino Games 2011 (USA).iso" size="3807838208" crc="447575f1" md5="f21f23bdda92b861028c98862df11297" sha1="17918775d1463075a8387490592e444c70195c52"/>
 	</game>
 	<game name="Hoyle Classic Board Games (USA)" id="10651">
 		<category>Games</category>

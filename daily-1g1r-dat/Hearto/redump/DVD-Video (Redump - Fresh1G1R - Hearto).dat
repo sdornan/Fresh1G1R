@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (470) (-y) [-aAbBcefkmMoprv] (2026-09-22 21-42-35) (Retool)</description>
-		<version>2026-09-22 21-42-35</version>
-		<date>2026-09-23 07-38-57</date>
+		<description>DVD-Video (472) (-y) [-aAbBcefkmMoprv] (2026-09-24 07-12-35) (Retool)</description>
+		<version>2026-09-24 07-12-35</version>
+		<date>2026-09-24 07-30-46</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -506,6 +506,11 @@
 		<description>Dragonia (USA) (En,Ja)</description>
 		<rom name="Dragonia (USA) (En,Ja).iso" size="3717687296" crc="36422c81" md5="a82c71909761b6eb8cf2ec847b072bfb" sha1="0f8e9bada956475c132a50c0e4968d7481fcae53"/>
 	</game>
+	<game name="DreamWorks Bee Movie (USA)" id="138757">
+		<category>Demos</category>
+		<description>DreamWorks Bee Movie (USA)</description>
+		<rom name="DreamWorks Bee Movie (USA).iso" size="8163710976" crc="c54bd549" md5="323d928ecb3ddb2dbfd5c052b8d60cb2" sha1="899fe4ed552013c83c27085262e81a3296aa99d7"/>
+	</game>
 	<game name="DreamWorks Madagascar - Animal Trivia DVD Game (USA)" id="90012">
 		<category>Games</category>
 		<description>DreamWorks Madagascar - Animal Trivia DVD Game (USA)</description>
@@ -530,6 +535,11 @@
 		<category>Games</category>
 		<description>DreamWorks Over the Hedge - Wacky Moments in Human History - 300 Trivia Questions (USA)</description>
 		<rom name="DreamWorks Over the Hedge - Wacky Moments in Human History - 300 Trivia Questions (USA).iso" size="2187132928" crc="c25d4fa4" md5="8a68113df88f6a098597a64123ea39b5" sha1="5525497454fe9f72060fcfb385f66fc1b77ec474"/>
+	</game>
+	<game name="DreamWorks Secrets of the Furious Five (USA)" id="138750">
+		<category>Demos</category>
+		<description>DreamWorks Secrets of the Furious Five (USA)</description>
+		<rom name="DreamWorks Secrets of the Furious Five (USA).iso" size="3350566912" crc="73bb6a46" md5="576ca2082aab1c7fffb211dcac6ef720" sha1="1c226231f399d6fc5dac342d290e70b1f6463b13"/>
 	</game>
 	<game name="DreamWorks Shrek Bingo (USA)" id="105906">
 		<category>Games</category>
@@ -1176,10 +1186,10 @@
 		<description>Nick Trivia Challenge (USA)</description>
 		<rom name="Nick Trivia Challenge (USA).iso" size="5979516928" crc="7f156a50" md5="937f340d719ddc1597d348222b5bf3d2" sha1="5f817f72ee074291a417ebc6e9fabda0925418d4"/>
 	</game>
-	<game name="Nickelodeon Barnyard (USA) (En,Fr)" id="130821">
+	<game name="Nickelodeon Barnyard (USA) (En,Fr) (Rev 1)" id="138758">
 		<category>Demos</category>
-		<description>Nickelodeon Barnyard (USA) (En,Fr)</description>
-		<rom name="Nickelodeon Barnyard (USA) (En,Fr).iso" size="7537883136" crc="25031447" md5="aacf8ab9b2ec5b753a6b4187fd58a444" sha1="5a516c02ffea10625b5e798e734b8d13a0a8213b"/>
+		<description>Nickelodeon Barnyard (USA) (En,Fr) (Rev 1)</description>
+		<rom name="Nickelodeon Barnyard (USA) (En,Fr) (Rev 1).iso" size="7453884416" crc="2afb0f70" md5="06dc06006c21cdceb9b8ab700c1bc016" sha1="e27bd3fe86444d18584cf8f47c5099469c749024"/>
 	</game>
 	<game name="Nickelodeon SpongeBob SquarePants - Fact or Fishy - Trivia with Attitude! (USA)" id="61208">
 		<category>Games</category>

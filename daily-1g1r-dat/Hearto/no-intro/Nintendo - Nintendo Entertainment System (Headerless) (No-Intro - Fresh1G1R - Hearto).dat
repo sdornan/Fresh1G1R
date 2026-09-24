@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,833) (-y) [-aAbBcefkmMoprv] (20260923-001145) (Retool)</description>
-		<version>20260923-001145</version>
-		<date>2026-09-23 07-45-32</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,833) (-y) [-aAbBcefkmMoprv] (20260923-090751) (Retool)</description>
+		<version>20260923-090751</version>
+		<date>2026-09-24 07-36-19</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2335,10 +2335,11 @@
 		<description>Dynowarz - The Destruction of Spondylus (USA)</description>
 		<rom name="Dynowarz - The Destruction of Spondylus (USA).unh" size="262144" crc="bde93999" md5="9539cd44013c3a2a5fd6982c59e9bba8" sha1="08202b80a3178d827d1a09238066e531345cdb12" sha256="690ec2de233486d9fdb1e096ca4aa07aa6e764b0d6d6417454d0a770c875078d"/>
 	</game>
-	<game name="Earth Bound (USA)" id="0646">
+	<game name="Earth Bound (USA) (Proto)" id="0646">
 		<category>Games</category>
-		<description>Earth Bound (USA)</description>
-		<rom name="Earth Bound (USA).unh" size="524288" crc="53a9e2ba" md5="84e8fed10d7c339f726d52cb152078e1" sha1="8e9bd7f4d3999c973c1f2c28a995311267586c87" sha256="1266108d927cb288a5f396e78ac097e48678375e80c0e0c09ecbce4dc03699bc"/>
+		<category>Preproduction</category>
+		<description>Earth Bound (USA) (Proto)</description>
+		<rom name="Earth Bound (USA) (Proto).unh" size="524288" crc="53a9e2ba" md5="84e8fed10d7c339f726d52cb152078e1" sha1="8e9bd7f4d3999c973c1f2c28a995311267586c87" sha256="1266108d927cb288a5f396e78ac097e48678375e80c0e0c09ecbce4dc03699bc"/>
 	</game>
 	<game name="Eggerland - Meikyuu no Fukkatsu (Japan)" id="0647">
 		<category>Games</category>
