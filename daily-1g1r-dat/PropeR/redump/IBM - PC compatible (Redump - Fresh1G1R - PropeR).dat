@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,842) (-y) [-aAbBcdkmMpPuv] (2026-09-24 03-12-35) (Retool)</description>
-		<version>2026-09-24 03-12-35</version>
-		<date>2026-09-24 07-52-34</date>
+		<description>IBM - PC compatible (26,854) (-y) [-aAbBcdkmMpPuv] (2026-09-25 07-02-35) (Retool)</description>
+		<version>2026-09-25 07-02-35</version>
+		<date>2026-09-25 07-47-03</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -27213,6 +27213,30 @@
 		<description>Chess Advantage (USA) (Disc 2) (Combat Chess)</description>
 		<rom name="Chess Advantage (USA) (Disc 2) (Combat Chess).bin" size="718070304" crc="ec058165" md5="a9208d65c803982f47ca3c8ab9529b0d" sha1="01962b2b1414279f2224e1b1ae43e0dfca14de85"/>
 		<rom name="Chess Advantage (USA) (Disc 2) (Combat Chess).cue" size="111" crc="d3b9398b" md5="51ab08db66674756cf66f8641cb4458a" sha1="e33786c626fc64e12489086eebb6e225f3193203"/>
+	</game>
+	<game name="Chess Advantage III (USA) (Disc 1)" id="138760">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 1)</description>
+		<rom name="Chess Advantage III (USA) (Disc 1).bin" size="594910176" crc="8f339fb0" md5="b985d28ab605b6187651e79c7812e0cd" sha1="4e73be3d158de202d34bf68f16ebd794085a1ae8"/>
+		<rom name="Chess Advantage III (USA) (Disc 1).cue" size="100" crc="677fa0d8" md5="dd04e7c20e09bcedf576cd0fa71fdcdd" sha1="78ff2562bfc1970dbc8385991a7a9b0e99daa672"/>
+	</game>
+	<game name="Chess Advantage III (USA) (Disc 2)" id="138761">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 2)</description>
+		<rom name="Chess Advantage III (USA) (Disc 2).bin" size="701008896" crc="4abc77f5" md5="8850401e7e3bfbf28d3f6b1ed5c251c9" sha1="837dde12eafd0640bb0204ca6823e1a193cda2b4"/>
+		<rom name="Chess Advantage III (USA) (Disc 2).cue" size="100" crc="66228609" md5="12d4a134584fecb5403c19b5cfc52a08" sha1="8b6dc428d5adc1cb6682b86de44e20ba2c37a46a"/>
+	</game>
+	<game name="Chess Advantage III (USA) (Disc 3)" id="138762">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 3)</description>
+		<rom name="Chess Advantage III (USA) (Disc 3).bin" size="629792688" crc="6d012d24" md5="574df1c7a95ecdd6204543d3b2c865ec" sha1="f4854d7d27d2f7d5974931817d43336e2afae545"/>
+		<rom name="Chess Advantage III (USA) (Disc 3).cue" size="100" crc="d0396679" md5="4f1e6f6bc42bd63c0d0ba25d965158c4" sha1="c82632ae20cfaf7a627db4bc1b7d533f7ca3fb35"/>
+	</game>
+	<game name="Chess Advantage III (USA) (Disc 4)" id="138763">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 4)</description>
+		<rom name="Chess Advantage III (USA) (Disc 4).bin" size="745268832" crc="65432241" md5="1fc9b800fc28dd6293ccef9dfde2f33b" sha1="25f74762e4c094c116aecc50cf87a1261d50cff0"/>
+		<rom name="Chess Advantage III (USA) (Disc 4).cue" size="100" crc="6498cbab" md5="6c3653e7ac3796a6a16ad6c4c62df499" sha1="a5f9fa8903d37d1b2f8770b541bd61429c2da79d"/>
 	</game>
 	<game name="Chess Champ (Italy) (Covermount)" id="76990">
 		<category>Games</category>
@@ -93769,6 +93793,25 @@
 		<rom name="Lowenzahn 6 (Germany) (Rerelease).bin" size="766787280" crc="6cf6b2b2" md5="7215b41bf57d752a3d73018a64a9bf2a" sha1="435d14fc9b518831b0aca091daedc24ebda298f1"/>
 		<rom name="Lowenzahn 6 (Germany) (Rerelease).cue" size="99" crc="b90098ef" md5="22bfe7267be8419d2bc50d054ddd7641" sha1="3279d9cf8bc90bc2e1f0968ef47b759e387f263e"/>
 	</game>
+	<game name="Lowenzahn 7 (Germany)" id="138767">
+		<category>Games</category>
+		<description>Lowenzahn 7 (Germany)</description>
+		<rom name="Lowenzahn 7 (Germany) (Track 1).bin" size="804010032" crc="fbd5aea2" md5="557e3f4e848d74c2f5096d5ec44f297a" sha1="ca00b2f84256195218769fb5377c99a17ae1cdb4"/>
+		<rom name="Lowenzahn 7 (Germany) (Track 2).bin" size="10943856" crc="fee61658" md5="b5e7b639613b2e3fceb2339cbe7d5c16" sha1="21fea707bcd7dba101b4f2a2df22bb5252d0017b"/>
+		<rom name="Lowenzahn 7 (Germany) (Track 3).bin" size="548016" crc="58e49488" md5="469a26e615c10876698195dd1d122528" sha1="f4ee6b2e611105eb82d446bce92993f1f88c10ad"/>
+		<rom name="Lowenzahn 7 (Germany) (Track 4).bin" size="7128912" crc="59290e72" md5="eca4813e62d7508ad96712edc1986608" sha1="89f9dad26fc81db2566f8e50ce2ee2d58b81c90d"/>
+		<rom name="Lowenzahn 7 (Germany).cue" size="442" crc="7cc6fa5f" md5="ac37943b1b8f00eb82917b75d88e6e7c" sha1="37314875952e630a8128e4a17aec94d680d89962"/>
+	</game>
+	<game name="Lowenzahn 8 (Germany)" id="138766">
+		<category>Games</category>
+		<description>Lowenzahn 8 (Germany)</description>
+		<rom name="Lowenzahn 8 (Germany) (Track 1).bin" size="804381648" crc="443079dd" md5="7518932022a3a3c489735863b447d9e7" sha1="06e794716ec88588fe6b6dfc99ccf961c8a5e58c"/>
+		<rom name="Lowenzahn 8 (Germany) (Track 2).bin" size="10955616" crc="e9d1e17c" md5="e0e94a2f717374bd3454406bbb092b64" sha1="141d98fa0d32cff53add17a70dc497bd19088b1a"/>
+		<rom name="Lowenzahn 8 (Germany) (Track 3).bin" size="5306112" crc="ac2356f1" md5="b28bfa7b97661a435c4189dc97e29e96" sha1="3d8ffdc84a247ef6ff2b39afb9f0185e2cf3ceaa"/>
+		<rom name="Lowenzahn 8 (Germany) (Track 4).bin" size="548016" crc="58e49488" md5="469a26e615c10876698195dd1d122528" sha1="f4ee6b2e611105eb82d446bce92993f1f88c10ad"/>
+		<rom name="Lowenzahn 8 (Germany) (Track 5).bin" size="9706704" crc="8599c035" md5="ecce80c1fee1b82b9f3a3f255950c806" sha1="2c1b44c165ee1ce3140fdb0d794bce60b51b1abb"/>
+		<rom name="Lowenzahn 8 (Germany).cue" size="488" crc="52d940ae" md5="65db9982be5f0c45c9f32bcba1bdcfb7" sha1="b86becc2df0c7ad3e99576a4578df5ffe07f2d1d"/>
+	</game>
 	<game name="Lowenzahn Adventskalender (Germany)" id="131498">
 		<category>Educational</category>
 		<description>Lowenzahn Adventskalender (Germany)</description>
@@ -146928,6 +146971,30 @@
 		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi - Shinroku System Onsei Data Iri CD-ROM (Japan).bin" size="142319520" crc="df99b1a4" md5="be7cd692399e98d80d1b24075d58714e" sha1="b65ec6fe8d2fdcd0802de4cb942e831b81632393"/>
 		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi - Shinroku System Onsei Data Iri CD-ROM (Japan).cue" size="165" crc="d2f6a2c8" md5="ae88cdfeac4d04e3ae7d79add6ae8ec5" sha1="9ee5305ade2db0dab8d057b5ca0ad049d094d1dc"/>
 	</game>
+	<game name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 1)" id="138771">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 1)</description>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 1).bin" size="783187776" crc="5568c440" md5="bc6fb5c200dac6ab61f4277309dc1afe" sha1="4a2561c5ca3c2b79edb3b942cc986e4b09ab9299"/>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 1).cue" size="134" crc="1dd0efb1" md5="08316d2859eef3c21334a750fa68c1be" sha1="5f9e82f2611a18ad451a7c02529383ac2502c5b3"/>
+	</game>
+	<game name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 2)" id="138772">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 2)</description>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 2).bin" size="783284208" crc="b63ad57e" md5="a9653d121e8a8300e2c23987961152a0" sha1="4c467e24ced5d9ca41e5ab991091662b946e59e9"/>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 2).cue" size="134" crc="1c8dc960" md5="7158354449c08d621c0b55f7b7a9845c" sha1="1276708424412fda0e33993f46c168b72298b05e"/>
+	</game>
+	<game name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 3)" id="138773">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 3)</description>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 3).bin" size="783284208" crc="ab15d6ca" md5="a4aac499021c6343ac2f81c2c07760a1" sha1="cdf6b9277cedc5f8d187901b2d05f7348c394c6f"/>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 3).cue" size="134" crc="aa962910" md5="599dd9ea80d7e7da7da3f9e13c966cc1" sha1="15e7f3c89f50c8782e899b2b3ed0f7704d41bcac"/>
+	</game>
+	<game name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 4)" id="138774">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 4)</description>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 4).bin" size="205242576" crc="63eab195" md5="832fc64ac3b12c095ee8a03e9869cefd" sha1="df01c961a3966a675825ca8b1a3249ace6e49f5b"/>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 4).cue" size="134" crc="1e3784c2" md5="48c87f572135409eed56c87bc7e1a6b6" sha1="ce9a76bae3fb33d37333e10a020f286f7e1159c3"/>
+	</game>
 	<game name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A)" id="26195">
 		<category>Games</category>
 		<description>Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A)</description>
@@ -169829,6 +169896,12 @@
 		<rom name="Tournament Courses, The (USA).bin" size="135802128" crc="b77121ad" md5="f696a70237ee7fa00028690fbde84afb" sha1="c92e0c33c5df48e1cb18ec83eaf511a3f12eea38"/>
 		<rom name="Tournament Courses, The (USA).cue" size="95" crc="8bc3cd36" md5="095df020fea568f0c53399b12fc596c9" sha1="2be3db48a0607e8ced1c09bb07180334826d5c10"/>
 	</game>
+	<game name="Tournament Texas Hold'em (USA)" id="138764">
+		<category>Games</category>
+		<description>Tournament Texas Hold'em (USA)</description>
+		<rom name="Tournament Texas Hold'em (USA).bin" size="37961280" crc="e55498c5" md5="0dd535f521f2ac1c425b8dd4602603b6" sha1="a9d6d5235f2de8b78e5c409c95eb978370667487"/>
+		<rom name="Tournament Texas Hold'em (USA).cue" size="96" crc="afaf5785" md5="a336f1ebb9559fe3faa941eef6622a80" sha1="fa63dbacb36211d0beb908e9ed995de86d6ef64c"/>
+	</game>
 	<game name="Toushin Toshi III (Japan)" id="114697">
 		<category>Games</category>
 		<description>Toushin Toshi III (Japan)</description>
@@ -171939,6 +172012,12 @@
 		<description>Turbo Subs (USA)</description>
 		<rom name="Turbo Subs (USA).bin" size="644433888" crc="e7d858a7" md5="da4b5a7213836f856ef20e0989d39c7e" sha1="4805b9bddbe2944e6e6c73c1e2dcdb758c6be39e"/>
 		<rom name="Turbo Subs (USA).cue" size="82" crc="b71be742" md5="66ebb1da24c6e86a52bf8c27fd02c0c6" sha1="878c3da353c6e09028ee155e17daaa2056b5ec3a"/>
+	</game>
+	<game name="Turbo Texas Hold'em (USA)" id="138765">
+		<category>Games</category>
+		<description>Turbo Texas Hold'em (USA)</description>
+		<rom name="Turbo Texas Hold'em (USA).bin" size="54107760" crc="72e8eb21" md5="14e8a01ba49ba8755bee6c627bfb08ba" sha1="17e6b3839e858ac1e6b34a9aaef6807118a15bc1"/>
+		<rom name="Turbo Texas Hold'em (USA).cue" size="91" crc="9c4c28ad" md5="c402908c613177e934b7bd5e344291c1" sha1="78fc3d6918d212590bd23130188beab677e50252"/>
 	</game>
 	<game name="Turbo Toons (USA) (X3D)" id="90140">
 		<category>Games</category>

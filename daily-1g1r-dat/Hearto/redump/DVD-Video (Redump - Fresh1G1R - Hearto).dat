@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (472) (-y) [-aAbBcefkmMoprv] (2026-09-24 07-12-35) (Retool)</description>
-		<version>2026-09-24 07-12-35</version>
-		<date>2026-09-24 07-30-46</date>
+		<description>DVD-Video (473) (-y) [-aAbBcefkmMoprv] (2026-09-24 14-32-35) (Retool)</description>
+		<version>2026-09-24 14-32-35</version>
+		<date>2026-09-25 07-25-20</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1186,10 +1186,15 @@
 		<description>Nick Trivia Challenge (USA)</description>
 		<rom name="Nick Trivia Challenge (USA).iso" size="5979516928" crc="7f156a50" md5="937f340d719ddc1597d348222b5bf3d2" sha1="5f817f72ee074291a417ebc6e9fabda0925418d4"/>
 	</game>
-	<game name="Nickelodeon Barnyard (USA) (En,Fr) (Rev 1)" id="138758">
+	<game name="Nickelodeon Barnyard (USA) (En,Fr) (Full Screen)" id="138758">
 		<category>Demos</category>
-		<description>Nickelodeon Barnyard (USA) (En,Fr) (Rev 1)</description>
-		<rom name="Nickelodeon Barnyard (USA) (En,Fr) (Rev 1).iso" size="7453884416" crc="2afb0f70" md5="06dc06006c21cdceb9b8ab700c1bc016" sha1="e27bd3fe86444d18584cf8f47c5099469c749024"/>
+		<description>Nickelodeon Barnyard (USA) (En,Fr) (Full Screen)</description>
+		<rom name="Nickelodeon Barnyard (USA) (En,Fr) (Full Screen).iso" size="7453884416" crc="2afb0f70" md5="06dc06006c21cdceb9b8ab700c1bc016" sha1="e27bd3fe86444d18584cf8f47c5099469c749024"/>
+	</game>
+	<game name="Nickelodeon Barnyard (USA) (En,Fr) (Widescreen)" id="130821">
+		<category>Demos</category>
+		<description>Nickelodeon Barnyard (USA) (En,Fr) (Widescreen)</description>
+		<rom name="Nickelodeon Barnyard (USA) (En,Fr) (Widescreen).iso" size="7537883136" crc="25031447" md5="aacf8ab9b2ec5b753a6b4187fd58a444" sha1="5a516c02ffea10625b5e798e734b8d13a0a8213b"/>
 	</game>
 	<game name="Nickelodeon SpongeBob SquarePants - Fact or Fishy - Trivia with Attitude! (USA)" id="61208">
 		<category>Games</category>

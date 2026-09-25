@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,285) (-y) [-aAbBcefkmMoprv] (2026-09-24 03-12-35) (Retool)</description>
-		<version>2026-09-24 03-12-35</version>
-		<date>2026-09-24 07-31-47</date>
+		<description>IBM - PC compatible (26,297) (-y) [-aAbBcefkmMoprv] (2026-09-25 07-02-35) (Retool)</description>
+		<version>2026-09-25 07-02-35</version>
+		<date>2026-09-25 07-26-20</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -26864,6 +26864,30 @@
 		<rom name="Chess Advantage (USA) (Disc 2) (Combat Chess).bin" size="718070304" crc="ec058165" md5="a9208d65c803982f47ca3c8ab9529b0d" sha1="01962b2b1414279f2224e1b1ae43e0dfca14de85"/>
 		<rom name="Chess Advantage (USA) (Disc 2) (Combat Chess).cue" size="111" crc="d3b9398b" md5="51ab08db66674756cf66f8641cb4458a" sha1="e33786c626fc64e12489086eebb6e225f3193203"/>
 	</game>
+	<game name="Chess Advantage III (USA) (Disc 1)" id="138760">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 1)</description>
+		<rom name="Chess Advantage III (USA) (Disc 1).bin" size="594910176" crc="8f339fb0" md5="b985d28ab605b6187651e79c7812e0cd" sha1="4e73be3d158de202d34bf68f16ebd794085a1ae8"/>
+		<rom name="Chess Advantage III (USA) (Disc 1).cue" size="100" crc="677fa0d8" md5="dd04e7c20e09bcedf576cd0fa71fdcdd" sha1="78ff2562bfc1970dbc8385991a7a9b0e99daa672"/>
+	</game>
+	<game name="Chess Advantage III (USA) (Disc 2)" id="138761">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 2)</description>
+		<rom name="Chess Advantage III (USA) (Disc 2).bin" size="701008896" crc="4abc77f5" md5="8850401e7e3bfbf28d3f6b1ed5c251c9" sha1="837dde12eafd0640bb0204ca6823e1a193cda2b4"/>
+		<rom name="Chess Advantage III (USA) (Disc 2).cue" size="100" crc="66228609" md5="12d4a134584fecb5403c19b5cfc52a08" sha1="8b6dc428d5adc1cb6682b86de44e20ba2c37a46a"/>
+	</game>
+	<game name="Chess Advantage III (USA) (Disc 3)" id="138762">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 3)</description>
+		<rom name="Chess Advantage III (USA) (Disc 3).bin" size="629792688" crc="6d012d24" md5="574df1c7a95ecdd6204543d3b2c865ec" sha1="f4854d7d27d2f7d5974931817d43336e2afae545"/>
+		<rom name="Chess Advantage III (USA) (Disc 3).cue" size="100" crc="d0396679" md5="4f1e6f6bc42bd63c0d0ba25d965158c4" sha1="c82632ae20cfaf7a627db4bc1b7d533f7ca3fb35"/>
+	</game>
+	<game name="Chess Advantage III (USA) (Disc 4)" id="138763">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 4)</description>
+		<rom name="Chess Advantage III (USA) (Disc 4).bin" size="745268832" crc="65432241" md5="1fc9b800fc28dd6293ccef9dfde2f33b" sha1="25f74762e4c094c116aecc50cf87a1261d50cff0"/>
+		<rom name="Chess Advantage III (USA) (Disc 4).cue" size="100" crc="6498cbab" md5="6c3653e7ac3796a6a16ad6c4c62df499" sha1="a5f9fa8903d37d1b2f8770b541bd61429c2da79d"/>
+	</game>
 	<game name="Chess Champ (Italy) (Covermount)" id="76990">
 		<category>Games</category>
 		<description>Chess Champ (Italy) (Covermount)</description>
@@ -41959,14 +41983,14 @@
 		<rom name="Disney's Treasure Planet - Etherium Rescue (USA).bin" size="671284320" crc="b500bd01" md5="fa8a6c343bd985b5e30f009937921e8a" sha1="8b8403332a8276586671b738d831d81e90f5e090"/>
 		<rom name="Disney's Treasure Planet - Etherium Rescue (USA).cue" size="114" crc="0821b1d1" md5="d66ed9c715baf4e04f77afd552505b7d" sha1="63337c8ee5a265d1628179ce85e15fed5cb22a14"/>
 	</game>
-	<game name="Disney's Treasure Planet - Etherium Rescue (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview)" id="83571">
+	<game name="Disney's Treasure Planet - Etherium Rescue (USA) (Preview)" id="83571">
 		<category>Demos</category>
-		<description>Disney's Treasure Planet - Etherium Rescue (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview)</description>
-		<rom name="Disney's Treasure Planet - Etherium Rescue (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview) (Track 1).bin" size="15186864" crc="24f8eb93" md5="eb0a6c7dbca2106ddc557c3c41b19e47" sha1="fbb7ef8e9629d5c69327a39c510f82900d40f7fd"/>
-		<rom name="Disney's Treasure Planet - Etherium Rescue (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview) (Track 2).bin" size="8269632" crc="c8950127" md5="f6c14657df684d7e39d4d141f9e959b3" sha1="281ba817debb429058b436f9a1b90e10bd6a53b3"/>
-		<rom name="Disney's Treasure Planet - Etherium Rescue (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview) (Track 3).bin" size="14930496" crc="01a9ee06" md5="f96cb95ec1972112445c7985f7726a1e" sha1="dbf1301893ef216d2a11a0813f744dff2180eed7"/>
-		<rom name="Disney's Treasure Planet - Etherium Rescue (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview) (Track 4).bin" size="395190096" crc="0b525bd5" md5="87b693aca1b7e2474d5dfa90db77014e" sha1="23595a03b388c41986ec9ece81913da508a123bd"/>
-		<rom name="Disney's Treasure Planet - Etherium Rescue (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview).cue" size="763" crc="9bdfd1cf" md5="f81a0cf310c889213684b02fcced8ccf" sha1="2e88a8f4da2a2b1a206940018851bc6d7d95c30e"/>
+		<description>Disney's Treasure Planet - Etherium Rescue (USA) (Preview)</description>
+		<rom name="Disney's Treasure Planet - Etherium Rescue (USA) (Preview) (Track 1).bin" size="15186864" crc="24f8eb93" md5="eb0a6c7dbca2106ddc557c3c41b19e47" sha1="fbb7ef8e9629d5c69327a39c510f82900d40f7fd"/>
+		<rom name="Disney's Treasure Planet - Etherium Rescue (USA) (Preview) (Track 2).bin" size="8269632" crc="c8950127" md5="f6c14657df684d7e39d4d141f9e959b3" sha1="281ba817debb429058b436f9a1b90e10bd6a53b3"/>
+		<rom name="Disney's Treasure Planet - Etherium Rescue (USA) (Preview) (Track 3).bin" size="14930496" crc="01a9ee06" md5="f96cb95ec1972112445c7985f7726a1e" sha1="dbf1301893ef216d2a11a0813f744dff2180eed7"/>
+		<rom name="Disney's Treasure Planet - Etherium Rescue (USA) (Preview) (Track 4).bin" size="395190096" crc="0b525bd5" md5="87b693aca1b7e2474d5dfa90db77014e" sha1="23595a03b388c41986ec9ece81913da508a123bd"/>
+		<rom name="Disney's Treasure Planet - Etherium Rescue (USA) (Preview).cue" size="599" crc="5b92415a" md5="9ebeb3602ca13a9a01bbfb432b489f6f" sha1="cb2ef74262c0a12fa29e5ef26df8e878d952c0d0"/>
 	</game>
 	<game name="Disney's Treasure Planet - Treasure Racer (USA)" id="63159">
 		<category>Games</category>
@@ -41974,14 +41998,14 @@
 		<rom name="Disney's Treasure Planet - Treasure Racer (USA).bin" size="689846304" crc="65a9c8d1" md5="960f857a695d357012fe1842b31fc219" sha1="f98bfc797e3132b27d86e7bac7c243f9332395ca"/>
 		<rom name="Disney's Treasure Planet - Treasure Racer (USA).cue" size="113" crc="a31a6c56" md5="01f1f5bbe07127f9491db75e3fd7f103" sha1="49ab18217d38daf844ff6d5a5934c150891a5230"/>
 	</game>
-	<game name="Disney's Treasure Planet - Treasure Racer (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview)" id="82342">
+	<game name="Disney's Treasure Planet - Treasure Racer (USA) (Preview)" id="82342">
 		<category>Demos</category>
-		<description>Disney's Treasure Planet - Treasure Racer (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview)</description>
-		<rom name="Disney's Treasure Planet - Treasure Racer (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview) (Track 1).bin" size="15186864" crc="482ac120" md5="27f0b3d317ee93f41412e16a0bdaa195" sha1="8391e9b4e3d997296e6f653ff1d3d69180fcf88f"/>
-		<rom name="Disney's Treasure Planet - Treasure Racer (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview) (Track 2).bin" size="8269632" crc="096e1d8b" md5="2aa6c7a6352bc036f95ec5b4387c02e3" sha1="a2f9ab53c9aa6fef37b8fd74f23180a016d81e46"/>
-		<rom name="Disney's Treasure Planet - Treasure Racer (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview) (Track 3).bin" size="14930496" crc="4288dc03" md5="7adb602c5ee2a505e076add26b623aa4" sha1="34fb30edcca4fec6f19c1740173bcc276099be7f"/>
-		<rom name="Disney's Treasure Planet - Treasure Racer (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview) (Track 4).bin" size="412853616" crc="9df0a592" md5="db0ed9a82edbec49bafb03006c145587" sha1="77872a3261085a6aba6982c6708b6d0b00b2ad9b"/>
-		<rom name="Disney's Treasure Planet - Treasure Racer (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Preview).cue" size="759" crc="9d63506b" md5="43c41887c87af4e4f6f0c78223e8f694" sha1="7a725c85a9aa9378e677972f398c83c410249352"/>
+		<description>Disney's Treasure Planet - Treasure Racer (USA) (Preview)</description>
+		<rom name="Disney's Treasure Planet - Treasure Racer (USA) (Preview) (Track 1).bin" size="15186864" crc="482ac120" md5="27f0b3d317ee93f41412e16a0bdaa195" sha1="8391e9b4e3d997296e6f653ff1d3d69180fcf88f"/>
+		<rom name="Disney's Treasure Planet - Treasure Racer (USA) (Preview) (Track 2).bin" size="8269632" crc="096e1d8b" md5="2aa6c7a6352bc036f95ec5b4387c02e3" sha1="a2f9ab53c9aa6fef37b8fd74f23180a016d81e46"/>
+		<rom name="Disney's Treasure Planet - Treasure Racer (USA) (Preview) (Track 3).bin" size="14930496" crc="4288dc03" md5="7adb602c5ee2a505e076add26b623aa4" sha1="34fb30edcca4fec6f19c1740173bcc276099be7f"/>
+		<rom name="Disney's Treasure Planet - Treasure Racer (USA) (Preview) (Track 4).bin" size="412853616" crc="9df0a592" md5="db0ed9a82edbec49bafb03006c145587" sha1="77872a3261085a6aba6982c6708b6d0b00b2ad9b"/>
+		<rom name="Disney's Treasure Planet - Treasure Racer (USA) (Preview).cue" size="595" crc="48e51134" md5="d6fdd01eb8d59d7f0225314a0a684b88" sha1="713fbc20fb9f7aaf6bf83b0e07008304fab41379"/>
 	</game>
 	<game name="Disney's Treasure Planet SmartFlash PC Game and Disney's Treasure Planet - Print Studio (UK) (Covermount)" id="77666">
 		<category>Games</category>
@@ -91269,6 +91293,25 @@
 		<description>Lovemation (Japan)</description>
 		<rom name="Lovemation (Japan).bin" size="422950752" crc="cd8f2da8" md5="33fe382d83338f3f425b66ebecd3ceea" sha1="551528e9b60925974f450698b5874b9cc1f7533c"/>
 		<rom name="Lovemation (Japan).cue" size="84" crc="b2716fa7" md5="35f625ba5fa06737be0dd1c1bdff776b" sha1="579473a94e1130351d4a3fa32cd661288d719f46"/>
+	</game>
+	<game name="Lowenzahn 7 (Germany)" id="138767">
+		<category>Games</category>
+		<description>Lowenzahn 7 (Germany)</description>
+		<rom name="Lowenzahn 7 (Germany) (Track 1).bin" size="804010032" crc="fbd5aea2" md5="557e3f4e848d74c2f5096d5ec44f297a" sha1="ca00b2f84256195218769fb5377c99a17ae1cdb4"/>
+		<rom name="Lowenzahn 7 (Germany) (Track 2).bin" size="10943856" crc="fee61658" md5="b5e7b639613b2e3fceb2339cbe7d5c16" sha1="21fea707bcd7dba101b4f2a2df22bb5252d0017b"/>
+		<rom name="Lowenzahn 7 (Germany) (Track 3).bin" size="548016" crc="58e49488" md5="469a26e615c10876698195dd1d122528" sha1="f4ee6b2e611105eb82d446bce92993f1f88c10ad"/>
+		<rom name="Lowenzahn 7 (Germany) (Track 4).bin" size="7128912" crc="59290e72" md5="eca4813e62d7508ad96712edc1986608" sha1="89f9dad26fc81db2566f8e50ce2ee2d58b81c90d"/>
+		<rom name="Lowenzahn 7 (Germany).cue" size="442" crc="7cc6fa5f" md5="ac37943b1b8f00eb82917b75d88e6e7c" sha1="37314875952e630a8128e4a17aec94d680d89962"/>
+	</game>
+	<game name="Lowenzahn 8 (Germany)" id="138766">
+		<category>Games</category>
+		<description>Lowenzahn 8 (Germany)</description>
+		<rom name="Lowenzahn 8 (Germany) (Track 1).bin" size="804381648" crc="443079dd" md5="7518932022a3a3c489735863b447d9e7" sha1="06e794716ec88588fe6b6dfc99ccf961c8a5e58c"/>
+		<rom name="Lowenzahn 8 (Germany) (Track 2).bin" size="10955616" crc="e9d1e17c" md5="e0e94a2f717374bd3454406bbb092b64" sha1="141d98fa0d32cff53add17a70dc497bd19088b1a"/>
+		<rom name="Lowenzahn 8 (Germany) (Track 3).bin" size="5306112" crc="ac2356f1" md5="b28bfa7b97661a435c4189dc97e29e96" sha1="3d8ffdc84a247ef6ff2b39afb9f0185e2cf3ceaa"/>
+		<rom name="Lowenzahn 8 (Germany) (Track 4).bin" size="548016" crc="58e49488" md5="469a26e615c10876698195dd1d122528" sha1="f4ee6b2e611105eb82d446bce92993f1f88c10ad"/>
+		<rom name="Lowenzahn 8 (Germany) (Track 5).bin" size="9706704" crc="8599c035" md5="ecce80c1fee1b82b9f3a3f255950c806" sha1="2c1b44c165ee1ce3140fdb0d794bce60b51b1abb"/>
+		<rom name="Lowenzahn 8 (Germany).cue" size="488" crc="52d940ae" md5="65db9982be5f0c45c9f32bcba1bdcfb7" sha1="b86becc2df0c7ad3e99576a4578df5ffe07f2d1d"/>
 	</game>
 	<game name="Lu Ding Ji - Episode II (Taiwan)" id="123159">
 		<category>Demos</category>
@@ -142311,6 +142354,30 @@
 		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan).bin" size="575400336" crc="0e3410f7" md5="66886295ab16031fae6f1e6579d28d1c" sha1="5e545373200a36ecd11f09d64b90a7b7076881de"/>
 		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan).cue" size="125" crc="090d4440" md5="6344ae0fd4ac43bf9872832a447ee440" sha1="e76c5b82be3ae443e6301a1fda42c32cd021c6ba"/>
 	</game>
+	<game name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 1)" id="138771">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 1)</description>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 1).bin" size="783187776" crc="5568c440" md5="bc6fb5c200dac6ab61f4277309dc1afe" sha1="4a2561c5ca3c2b79edb3b942cc986e4b09ab9299"/>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 1).cue" size="134" crc="1dd0efb1" md5="08316d2859eef3c21334a750fa68c1be" sha1="5f9e82f2611a18ad451a7c02529383ac2502c5b3"/>
+	</game>
+	<game name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 2)" id="138772">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 2)</description>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 2).bin" size="783284208" crc="b63ad57e" md5="a9653d121e8a8300e2c23987961152a0" sha1="4c467e24ced5d9ca41e5ab991091662b946e59e9"/>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 2).cue" size="134" crc="1c8dc960" md5="7158354449c08d621c0b55f7b7a9845c" sha1="1276708424412fda0e33993f46c168b72298b05e"/>
+	</game>
+	<game name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 3)" id="138773">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 3)</description>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 3).bin" size="783284208" crc="ab15d6ca" md5="a4aac499021c6343ac2f81c2c07760a1" sha1="cdf6b9277cedc5f8d187901b2d05f7348c394c6f"/>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 3).cue" size="134" crc="aa962910" md5="599dd9ea80d7e7da7da3f9e13c966cc1" sha1="15e7f3c89f50c8782e899b2b3ed0f7704d41bcac"/>
+	</game>
+	<game name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 4)" id="138774">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 4)</description>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 4).bin" size="205242576" crc="63eab195" md5="832fc64ac3b12c095ee8a03e9869cefd" sha1="df01c961a3966a675825ca8b1a3249ace6e49f5b"/>
+		<rom name="Shin Seiki Evangelion - Ikari Shinji Ikusei Keikaku (Japan) (Disc 4).cue" size="134" crc="1e3784c2" md5="48c87f572135409eed56c87bc7e1a6b6" sha1="ce9a76bae3fb33d37333e10a020f286f7e1159c3"/>
+	</game>
 	<game name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A)" id="26195">
 		<category>Games</category>
 		<description>Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A)</description>
@@ -165669,6 +165736,12 @@
 		<rom name="Tournament Courses, The (USA).bin" size="135802128" crc="b77121ad" md5="f696a70237ee7fa00028690fbde84afb" sha1="c92e0c33c5df48e1cb18ec83eaf511a3f12eea38"/>
 		<rom name="Tournament Courses, The (USA).cue" size="95" crc="8bc3cd36" md5="095df020fea568f0c53399b12fc596c9" sha1="2be3db48a0607e8ced1c09bb07180334826d5c10"/>
 	</game>
+	<game name="Tournament Texas Hold'em (USA)" id="138764">
+		<category>Games</category>
+		<description>Tournament Texas Hold'em (USA)</description>
+		<rom name="Tournament Texas Hold'em (USA).bin" size="37961280" crc="e55498c5" md5="0dd535f521f2ac1c425b8dd4602603b6" sha1="a9d6d5235f2de8b78e5c409c95eb978370667487"/>
+		<rom name="Tournament Texas Hold'em (USA).cue" size="96" crc="afaf5785" md5="a336f1ebb9559fe3faa941eef6622a80" sha1="fa63dbacb36211d0beb908e9ed995de86d6ef64c"/>
+	</game>
 	<game name="Toushin Toshi III (Japan)" id="114697">
 		<category>Games</category>
 		<description>Toushin Toshi III (Japan)</description>
@@ -167767,6 +167840,12 @@
 		<description>Turbo Subs (USA)</description>
 		<rom name="Turbo Subs (USA).bin" size="644433888" crc="e7d858a7" md5="da4b5a7213836f856ef20e0989d39c7e" sha1="4805b9bddbe2944e6e6c73c1e2dcdb758c6be39e"/>
 		<rom name="Turbo Subs (USA).cue" size="82" crc="b71be742" md5="66ebb1da24c6e86a52bf8c27fd02c0c6" sha1="878c3da353c6e09028ee155e17daaa2056b5ec3a"/>
+	</game>
+	<game name="Turbo Texas Hold'em (USA)" id="138765">
+		<category>Games</category>
+		<description>Turbo Texas Hold'em (USA)</description>
+		<rom name="Turbo Texas Hold'em (USA).bin" size="54107760" crc="72e8eb21" md5="14e8a01ba49ba8755bee6c627bfb08ba" sha1="17e6b3839e858ac1e6b34a9aaef6807118a15bc1"/>
+		<rom name="Turbo Texas Hold'em (USA).cue" size="91" crc="9c4c28ad" md5="c402908c613177e934b7bd5e344291c1" sha1="78fc3d6918d212590bd23130188beab677e50252"/>
 	</game>
 	<game name="Turbo Toons (USA) (X3D)" id="90140">
 		<category>Games</category>

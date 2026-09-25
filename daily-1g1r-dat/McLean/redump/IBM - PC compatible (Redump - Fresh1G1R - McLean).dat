@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,547) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-24 03-12-35) (Retool)</description>
-		<version>2026-09-24 03-12-35</version>
-		<date>2026-09-24 07-42-29</date>
+		<description>IBM - PC compatible (13,553) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-25 07-02-35) (Retool)</description>
+		<version>2026-09-25 07-02-35</version>
+		<date>2026-09-25 07-36-59</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14255,6 +14255,30 @@
 		<description>Chess Advantage (USA) (Disc 2) (Combat Chess)</description>
 		<rom name="Chess Advantage (USA) (Disc 2) (Combat Chess).bin" size="718070304" crc="ec058165" md5="a9208d65c803982f47ca3c8ab9529b0d" sha1="01962b2b1414279f2224e1b1ae43e0dfca14de85"/>
 		<rom name="Chess Advantage (USA) (Disc 2) (Combat Chess).cue" size="111" crc="d3b9398b" md5="51ab08db66674756cf66f8641cb4458a" sha1="e33786c626fc64e12489086eebb6e225f3193203"/>
+	</game>
+	<game name="Chess Advantage III (USA) (Disc 1)" id="138760">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 1)</description>
+		<rom name="Chess Advantage III (USA) (Disc 1).bin" size="594910176" crc="8f339fb0" md5="b985d28ab605b6187651e79c7812e0cd" sha1="4e73be3d158de202d34bf68f16ebd794085a1ae8"/>
+		<rom name="Chess Advantage III (USA) (Disc 1).cue" size="100" crc="677fa0d8" md5="dd04e7c20e09bcedf576cd0fa71fdcdd" sha1="78ff2562bfc1970dbc8385991a7a9b0e99daa672"/>
+	</game>
+	<game name="Chess Advantage III (USA) (Disc 2)" id="138761">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 2)</description>
+		<rom name="Chess Advantage III (USA) (Disc 2).bin" size="701008896" crc="4abc77f5" md5="8850401e7e3bfbf28d3f6b1ed5c251c9" sha1="837dde12eafd0640bb0204ca6823e1a193cda2b4"/>
+		<rom name="Chess Advantage III (USA) (Disc 2).cue" size="100" crc="66228609" md5="12d4a134584fecb5403c19b5cfc52a08" sha1="8b6dc428d5adc1cb6682b86de44e20ba2c37a46a"/>
+	</game>
+	<game name="Chess Advantage III (USA) (Disc 3)" id="138762">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 3)</description>
+		<rom name="Chess Advantage III (USA) (Disc 3).bin" size="629792688" crc="6d012d24" md5="574df1c7a95ecdd6204543d3b2c865ec" sha1="f4854d7d27d2f7d5974931817d43336e2afae545"/>
+		<rom name="Chess Advantage III (USA) (Disc 3).cue" size="100" crc="d0396679" md5="4f1e6f6bc42bd63c0d0ba25d965158c4" sha1="c82632ae20cfaf7a627db4bc1b7d533f7ca3fb35"/>
+	</game>
+	<game name="Chess Advantage III (USA) (Disc 4)" id="138763">
+		<category>Games</category>
+		<description>Chess Advantage III (USA) (Disc 4)</description>
+		<rom name="Chess Advantage III (USA) (Disc 4).bin" size="745268832" crc="65432241" md5="1fc9b800fc28dd6293ccef9dfde2f33b" sha1="25f74762e4c094c116aecc50cf87a1261d50cff0"/>
+		<rom name="Chess Advantage III (USA) (Disc 4).cue" size="100" crc="6498cbab" md5="6c3653e7ac3796a6a16ad6c4c62df499" sha1="a5f9fa8903d37d1b2f8770b541bd61429c2da79d"/>
 	</game>
 	<game name="Chess Champ (Italy) (Covermount)" id="76990">
 		<category>Games</category>
@@ -85202,6 +85226,12 @@
 		<rom name="Tournament Chess (USA).bin" size="39638256" crc="179d7baa" md5="7c18a60c03b6fffdecd2f590233de9db" sha1="d476acb09ca05d4be65da7e910ebcbb4037490ee"/>
 		<rom name="Tournament Chess (USA).cue" size="88" crc="a5f34af5" md5="d85b7f2b994ebaf04dc3da6cfc17e6e7" sha1="16946c8ab68e166c1c015d57323f107d6bb2f772"/>
 	</game>
+	<game name="Tournament Texas Hold'em (USA)" id="138764">
+		<category>Games</category>
+		<description>Tournament Texas Hold'em (USA)</description>
+		<rom name="Tournament Texas Hold'em (USA).bin" size="37961280" crc="e55498c5" md5="0dd535f521f2ac1c425b8dd4602603b6" sha1="a9d6d5235f2de8b78e5c409c95eb978370667487"/>
+		<rom name="Tournament Texas Hold'em (USA).cue" size="96" crc="afaf5785" md5="a336f1ebb9559fe3faa941eef6622a80" sha1="fa63dbacb36211d0beb908e9ed995de86d6ef64c"/>
+	</game>
 	<game name="Tow Truck Simulator (Europe)" id="87049">
 		<category>Games</category>
 		<description>Tow Truck Simulator (Europe)</description>
@@ -86495,6 +86525,12 @@
 		<description>Turbo Subs (USA)</description>
 		<rom name="Turbo Subs (USA).bin" size="644433888" crc="e7d858a7" md5="da4b5a7213836f856ef20e0989d39c7e" sha1="4805b9bddbe2944e6e6c73c1e2dcdb758c6be39e"/>
 		<rom name="Turbo Subs (USA).cue" size="82" crc="b71be742" md5="66ebb1da24c6e86a52bf8c27fd02c0c6" sha1="878c3da353c6e09028ee155e17daaa2056b5ec3a"/>
+	</game>
+	<game name="Turbo Texas Hold'em (USA)" id="138765">
+		<category>Games</category>
+		<description>Turbo Texas Hold'em (USA)</description>
+		<rom name="Turbo Texas Hold'em (USA).bin" size="54107760" crc="72e8eb21" md5="14e8a01ba49ba8755bee6c627bfb08ba" sha1="17e6b3839e858ac1e6b34a9aaef6807118a15bc1"/>
+		<rom name="Turbo Texas Hold'em (USA).cue" size="91" crc="9c4c28ad" md5="c402908c613177e934b7bd5e344291c1" sha1="78fc3d6918d212590bd23130188beab677e50252"/>
 	</game>
 	<game name="Turbo Toons (USA) (X3D)" id="90140">
 		<category>Games</category>
