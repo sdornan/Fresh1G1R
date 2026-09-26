@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,854) (-y) [-aAbBcdkmMpPuv] (2026-09-25 07-02-35) (Retool)</description>
-		<version>2026-09-25 07-02-35</version>
-		<date>2026-09-25 07-47-03</date>
+		<description>IBM - PC compatible (26,855) (-y) [-aAbBcdkmMpPuv] (2026-09-26 07-12-35) (Retool)</description>
+		<version>2026-09-26 07-12-35</version>
+		<date>2026-09-26 07-41-44</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -82177,6 +82177,18 @@
 		<rom name="Jump &amp; Ride - Riding Academy 3D (USA) (Track 2).bin" size="454246464" crc="bd89ee44" md5="251f2da055041fba933461243ecedd7a" sha1="b89ffe2b8ce7d3933d370bd0a06922a7189dada5"/>
 		<rom name="Jump &amp; Ride - Riding Academy 3D (USA).cue" size="279" crc="a2403f6f" md5="6691cde0c50455ffb871b8e3f0a0af83" sha1="fd826ba99f5af2d08883d74f8af3a0aa1dcdd0af"/>
 	</game>
+	<game name="Jump Ahead - Starting Reading (UK)" id="138782">
+		<category>Educational</category>
+		<description>Jump Ahead - Starting Reading (UK)</description>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 1).bin" size="10417008" crc="5204750a" md5="2a86e0cb97c9602bd5941d696a049fc5" sha1="8d0b836adc1ef542346fde7e4d28a00a3ecb3a78"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 2).bin" size="36987552" crc="ed2e0920" md5="7afaa1c38f2311ac3f935007b7a9e975" sha1="743461cf18cec228c3e974eb38dbc69c2e8bcb85"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 3).bin" size="9426816" crc="2893902a" md5="4bfe7b83aacc1962c3360bd365a26891" sha1="209c0edb81d829ff2d044118efe17804765cb030"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 4).bin" size="37213344" crc="25d49514" md5="599947a7a3fbe4792429aec125a52e02" sha1="98cf2c3043a0e9a0105bc120d0e692534c86ab70"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 5).bin" size="34597920" crc="10d3c67e" md5="f5818857b6518e00f75987f19febfa12" sha1="13d463b3c82a7955f7f6b1cc08131fa0e31d77ac"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 6).bin" size="21826560" crc="a675e0d4" md5="605793f17cf193a942c6fd5f9379fdf6" sha1="b874d9b19eb813508f8ca238f362b466ecfb30cf"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 7).bin" size="439852224" crc="a02bdbb9" md5="6da31b171a0c616d4005aebe65166bde" sha1="675e96016bf69d1023ecf08cdc1eafb039e95d7c"/>
+		<rom name="Jump Ahead - Starting Reading (UK).cue" size="772" crc="d87e7fcb" md5="7dae503a4b4eec255eeb84ac9dde1ac7" sha1="df0039d304ae1d809da221ec14acd47bb520b9e4"/>
+	</game>
 	<game name="Jump Raven (USA)" id="70773">
 		<category>Games</category>
 		<description>Jump Raven (USA)</description>
@@ -102590,11 +102602,11 @@
 		<description>Microsoft Combat Flight Simulator 3 - Battle for Europe (Europe) (En,Fr,De,Es,It) (Rerelease)</description>
 		<rom name="Microsoft Combat Flight Simulator 3 - Battle for Europe (Europe) (En,Fr,De,Es,It) (Rerelease).iso" size="5814484992" crc="2a921f8c" md5="bf91527bbbd56791437f5de054824e21" sha1="cdf63200b628f01db115555508a8ce224f4d60f8"/>
 	</game>
-	<game name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1)" id="19195">
+	<game name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1) (v3.1)" id="126254">
 		<category>Games</category>
-		<description>Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1)</description>
-		<rom name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1).bin" size="624641808" crc="7d087b1a" md5="dce9361aee3ce35768ca2ce4882fd515" sha1="1245cfc259277dd29bcaf95d4a00fd4dc1f16319"/>
-		<rom name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1).cue" size="144" crc="692463a0" md5="91022ee31e25f2ba26b4ed3f750782cc" sha1="8fe4e1cde599a968e8b8e236a61dc109f5981084"/>
+		<description>Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1) (v3.1)</description>
+		<rom name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1) (v3.1).bin" size="625208640" crc="d2d9ac06" md5="105f77312e23cf3d8d1cdf5cfde85e31" sha1="c0238982fbd610afa70c72e0743d7a107a1002a8"/>
+		<rom name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1) (v3.1).cue" size="151" crc="36c14dbc" md5="de623b084318be32b0ff7411d1937c7a" sha1="0711a2775e7d4e5e2b7dd085c4c92b894d1f08fa"/>
 	</game>
 	<game name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 2)" id="19196">
 		<category>Games</category>

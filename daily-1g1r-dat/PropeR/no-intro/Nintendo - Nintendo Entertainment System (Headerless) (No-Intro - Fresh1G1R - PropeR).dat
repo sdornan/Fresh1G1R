@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,407) (-y) [-aAbBcdkmMpPuv] (20260924-214738) (Retool)</description>
-		<version>20260924-214738</version>
-		<date>2026-09-25 07-54-52</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,408) (-y) [-aAbBcdkmMpPuv] (20260925-221356) (Retool)</description>
+		<version>20260925-221356</version>
+		<date>2026-09-26 07-46-30</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2401,6 +2401,11 @@
 		<category>Games</category>
 		<description>Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2 (Japan)</description>
 		<rom name="Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2 (Japan).unh" size="262144" crc="1545bd13" md5="e56fccc159129d14fc981739c89f747f" sha1="ddebe86096daf3b6dcd714c33a91e912f91da7ce" sha256="668a644101aa6b4e9c0c2b41f8ef6ba342ebefdb7ef2a0ce8ba0e839feb81064"/>
+	</game>
+	<game name="Gimmick (USA) (Limited Run Games)" id="8628">
+		<category>Games</category>
+		<description>Gimmick (USA) (Limited Run Games)</description>
+		<rom name="Gimmick (USA) (Limited Run Games).unh" size="1048576" crc="6c6ed752" md5="50b35ae2db17dff515e63a7d37566731" sha1="bc9eac058dda64b680ce600f7efc9d543dc7e59e" sha256="60d9d2f939a4090c422f3063144a1ebb1b692e34c8638ef903af844d3eb8f5c9"/>
 	</game>
 	<game name="Ginga Eiyuu Densetsu (Japan)" id="0858">
 		<category>Games</category>

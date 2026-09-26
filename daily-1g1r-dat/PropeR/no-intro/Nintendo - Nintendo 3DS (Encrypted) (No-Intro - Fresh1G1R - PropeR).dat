@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (936) (-y) [-aAbBcdkmMpPuv] (20260923-134741) (Retool)</description>
-		<version>20260923-134741</version>
-		<date>2026-09-25 07-51-12</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (936) (-y) [-aAbBcdkmMpPuv] (20260925-143735) (Retool)</description>
+		<version>20260925-143735</version>
+		<date>2026-09-26 07-49-11</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1270,11 +1270,11 @@
 		<game_id>00040000001ACB00</game_id>
 		<rom name="Dragon Quest Monsters - Joker 3 Professional (Japan).3ds" size="2147483648" crc="f620b34d" md5="6332c541a67ef3ac83a92f0861dcd64d" sha1="8d4651c1bc93a52315a5613f59e6443cb8e8729e"/>
 	</game>
-	<game name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan)" id="0203">
+	<game name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1)" id="z227">
 		<category>Games</category>
-		<description>Dragon Quest Monsters - Terry no Wonderland 3D (Japan)</description>
+		<description>Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1)</description>
 		<game_id>0004000000074600</game_id>
-		<rom name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan).3ds" size="1073741824" crc="588a9c15" md5="a4e323b4b7455449a2594c403214ad5b" sha1="de44e50325455e75c4501b4b9d3183850f4d8eac" sha256="65d89fa3f916b0ba6c472328a47bdfb69f6477be0caffe131e09f3b273717b50"/>
+		<rom name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1).3ds" size="1073741824" crc="f4457787" md5="82a43c1edf1d843c89eb9166b53a52be" sha1="ce8b8b345f753e8b4c82876a5942c573c2a19f54" sha256="ef6d69d7e531ce367b9f136f8f0f61db36bee1ee9f7fcf10852be34f385c9648"/>
 	</game>
 	<game name="Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (Japan)" id="0654">
 		<category>Games</category>

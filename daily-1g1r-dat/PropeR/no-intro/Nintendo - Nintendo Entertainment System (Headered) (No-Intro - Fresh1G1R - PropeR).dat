@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,407) (-y) [-aAbBcdkmMpPuv] (20260924-214738) (Retool)</description>
-		<version>20260924-214738</version>
-		<date>2026-09-25 07-51-03</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,408) (-y) [-aAbBcdkmMpPuv] (20260925-221356) (Retool)</description>
+		<version>20260925-221356</version>
+		<date>2026-09-26 07-50-02</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2401,6 +2401,11 @@
 		<category>Games</category>
 		<description>Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2 (Japan)</description>
 		<rom name="Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2 (Japan).nes" size="262160" header="4e 45 53 1a 10 00 10 08 00 00 00 07 00 00 00 16" crc="b9d34258" md5="e3874108d8c76fd9edacff800219ffbd" sha1="903f55dcb6907f76348dcf9ced99d0ac8b73e186" sha256="d0eb41686e9296f05b67b67ef53aca765022c8c25a992b232ff2ca574e1ccb76"/>
+	</game>
+	<game name="Gimmick (USA) (Limited Run Games)" id="8628">
+		<category>Games</category>
+		<description>Gimmick (USA) (Limited Run Games)</description>
+		<rom name="Gimmick (USA) (Limited Run Games).nes" size="1048592" header="4e 45 53 1a 40 00 e0 b8 41 00 00 0b 00 00 00 01" crc="e7d9e55f" md5="03ce7e7109326fb7a16b57ff51cfcca1" sha1="8dd1baa7e18aa01cefc522f39212a7e021648510" sha256="fc54c01890b784b41a6c18370ee1f7b2d71fb2b8f5f10d788d4c9dca85a77ec2"/>
 	</game>
 	<game name="Ginga Eiyuu Densetsu (Japan)" id="0858">
 		<category>Games</category>

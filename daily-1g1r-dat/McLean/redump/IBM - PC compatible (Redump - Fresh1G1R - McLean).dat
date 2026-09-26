@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,553) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-25 07-02-35) (Retool)</description>
-		<version>2026-09-25 07-02-35</version>
-		<date>2026-09-25 07-36-59</date>
+		<description>IBM - PC compatible (13,554) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-26 07-12-35) (Retool)</description>
+		<version>2026-09-26 07-12-35</version>
+		<date>2026-09-26 07-31-53</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -46831,6 +46831,13 @@
 		<rom name="Little My Maid (USA).bin" size="830462976" crc="4ec8573a" md5="cef61eeff992499bf90b50991d9896ce" sha1="258a593026b5fec6b1d5e249ecbfefe28b188f02"/>
 		<rom name="Little My Maid (USA).cue" size="86" crc="6463cd5b" md5="ef94917f787f4cb180dc5f841b760b05" sha1="f0a4e52eae3b608e779ad910093065dd3b56d24f"/>
 	</game>
+	<game name="Little Polar Bear and the Great Bear (Europe)" id="138781">
+		<category>Games</category>
+		<description>Little Polar Bear and the Great Bear (Europe)</description>
+		<rom name="Little Polar Bear and the Great Bear (Europe) (Track 1).bin" size="475931904" crc="5a7049cb" md5="18c8b1cda4dc53bbcbecda51aee178c8" sha1="a06d2967a0ad42127b1f242ee55e9bf48479f1cd"/>
+		<rom name="Little Polar Bear and the Great Bear (Europe) (Track 2).bin" size="11783520" crc="94c16ee5" md5="59f1eecc4607cadd66c86055ca4b802e" sha1="40b36c2cc98aae34893c4c77a4375017c34fc30e"/>
+		<rom name="Little Polar Bear and the Great Bear (Europe).cue" size="274" crc="2ab63c22" md5="317b9b8360b777c4beb590ed5d4477fb" sha1="a4c4cb7c0a5ba3541e0493fba3e520e86649652d"/>
+	</game>
 	<game name="Little Prince, The (USA)" id="125282">
 		<category>Games</category>
 		<description>Little Prince, The (USA)</description>
@@ -51939,11 +51946,11 @@
 		<description>Microsoft Combat Flight Simulator 3 - Battle for Europe (Europe) (En,Fr,De,Es,It) (Rerelease)</description>
 		<rom name="Microsoft Combat Flight Simulator 3 - Battle for Europe (Europe) (En,Fr,De,Es,It) (Rerelease).iso" size="5814484992" crc="2a921f8c" md5="bf91527bbbd56791437f5de054824e21" sha1="cdf63200b628f01db115555508a8ce224f4d60f8"/>
 	</game>
-	<game name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1)" id="19195">
+	<game name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1) (v3.1)" id="126254">
 		<category>Games</category>
-		<description>Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1)</description>
-		<rom name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1).bin" size="624641808" crc="7d087b1a" md5="dce9361aee3ce35768ca2ce4882fd515" sha1="1245cfc259277dd29bcaf95d4a00fd4dc1f16319"/>
-		<rom name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1).cue" size="144" crc="692463a0" md5="91022ee31e25f2ba26b4ed3f750782cc" sha1="8fe4e1cde599a968e8b8e236a61dc109f5981084"/>
+		<description>Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1) (v3.1)</description>
+		<rom name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1) (v3.1).bin" size="625208640" crc="d2d9ac06" md5="105f77312e23cf3d8d1cdf5cfde85e31" sha1="c0238982fbd610afa70c72e0743d7a107a1002a8"/>
+		<rom name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 1) (v3.1).cue" size="151" crc="36c14dbc" md5="de623b084318be32b0ff7411d1937c7a" sha1="0711a2775e7d4e5e2b7dd085c4c92b894d1f08fa"/>
 	</game>
 	<game name="Microsoft Combat Flight Simulator 3 - Battle for Europe (USA, Europe) (Disc 2)" id="19196">
 		<category>Games</category>

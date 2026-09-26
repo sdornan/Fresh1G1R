@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (832) (-ly) [-aAbBcdDefkmMopPruv] (20260924-214738) (Retool)</description>
-		<version>20260924-214738</version>
-		<date>2026-09-25 07-40-47</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (833) (-ly) [-aAbBcdDefkmMopPruv] (20260925-221356) (Retool)</description>
+		<version>20260925-221356</version>
+		<date>2026-09-26 07-39-37</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1605,6 +1605,11 @@
 		<category>Games</category>
 		<description>Ghoul School (USA)</description>
 		<rom name="Ghoul School (USA).nes" size="262160" header="4e 45 53 1a 08 10 10 08 00 00 00 00 00 00 00 01" crc="d75b96dc" md5="b1d10260401fc4bb69a7650e13fca21d" sha1="c11fa872b37552546d58c8cce2202750ecf76336" sha256="f0dc00ab6561997026cc21566bea27eed464f5d8372dd5c8f7d50a74bc9b8c17"/>
+	</game>
+	<game name="Gimmick (USA) (Limited Run Games)" id="8628">
+		<category>Games</category>
+		<description>Gimmick (USA) (Limited Run Games)</description>
+		<rom name="Gimmick (USA) (Limited Run Games).nes" size="1048592" header="4e 45 53 1a 40 00 e0 b8 41 00 00 0b 00 00 00 01" crc="e7d9e55f" md5="03ce7e7109326fb7a16b57ff51cfcca1" sha1="8dd1baa7e18aa01cefc522f39212a7e021648510" sha256="fc54c01890b784b41a6c18370ee1f7b2d71fb2b8f5f10d788d4c9dca85a77ec2"/>
 	</game>
 	<game name="Goal! (USA)" id="0862">
 		<category>Games</category>
