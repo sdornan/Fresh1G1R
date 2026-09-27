@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - ALLS (Retool)</name>
-		<description>Arcade - Sega - ALLS (22) (-y) [-aAbBcefkmMoprv] (2026-09-18 04-22-35) (Retool)</description>
-		<version>2026-09-18 04-22-35</version>
-		<date>2026-09-26 07-23-25</date>
+		<description>Arcade - Sega - ALLS (22) (-y) [-aAbBcefkmMoprv] (2026-09-26 22-52-35) (Retool)</description>
+		<version>2026-09-26 22-52-35</version>
+		<date>2026-09-27 07-55-35</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -102,13 +102,6 @@
 		<version>2.00.00</version>
 		<rom name="Fate-Grand Order Arcade (Japan) (Rev K).iso" size="8347582464" crc="a610e705" md5="002bf0806cad7a88d7c83160e70aabc9" sha1="0536f4c0201631d3bc78ea6003604bf4444c07b4"/>
 	</game>
-	<game name="Initial D - The Arcade (Japan) (Disc 2)" id="134625">
-		<category>Games</category>
-		<description>Initial D - The Arcade (Japan) (Disc 2)</description>
-		<serial>CDA-0010-2D</serial>
-		<version>1.00.03</version>
-		<rom name="Initial D - The Arcade (Japan) (Disc 2).iso" size="6829768704" crc="68c777ee" md5="b8a1f86cd295e8544c1b5b4b5e445245" sha1="852a142b86b2d9d4a419695ba3661a2c2a705e21"/>
-	</game>
 	<game name="Initial D - The Arcade (Japan) (En,Ja) (Disc 1)" id="134624">
 		<category>Games</category>
 		<description>Initial D - The Arcade (Japan) (En,Ja) (Disc 1)</description>
@@ -116,12 +109,19 @@
 		<version>1.00.03</version>
 		<rom name="Initial D - The Arcade (Japan) (En,Ja) (Disc 1).iso" size="8386904064" crc="9cb2e2e2" md5="f91882755e94a228511b275462d94b60" sha1="58b1d27c2af0401c54c846e85a3856299c99d91d"/>
 	</game>
-	<game name="Initial D - The Arcade (Japan) (Startup Disc)" id="134611">
+	<game name="Initial D - The Arcade (Japan) (En,Ja) (Disc 2)" id="134625">
 		<category>Games</category>
-		<description>Initial D - The Arcade (Japan) (Startup Disc)</description>
+		<description>Initial D - The Arcade (Japan) (En,Ja) (Disc 2)</description>
+		<serial>CDA-0010-2D</serial>
+		<version>1.00.03</version>
+		<rom name="Initial D - The Arcade (Japan) (En,Ja) (Disc 2).iso" size="6829768704" crc="68c777ee" md5="b8a1f86cd295e8544c1b5b4b5e445245" sha1="852a142b86b2d9d4a419695ba3661a2c2a705e21"/>
+	</game>
+	<game name="Initial D - The Arcade (Japan) (En,Ja) (Startup Disc)" id="134611">
+		<category>Games</category>
+		<description>Initial D - The Arcade (Japan) (En,Ja) (Startup Disc)</description>
 		<serial>CDA-0012-1</serial>
 		<version>1.00.00</version>
-		<rom name="Initial D - The Arcade (Japan) (Startup Disc).iso" size="679073792" crc="1308aaf9" md5="cd19c606c175351f58b21f8a6058e7a3" sha1="6c6b4de9753a4aac0505974c2a40eff61b8a16a9"/>
+		<rom name="Initial D - The Arcade (Japan) (En,Ja) (Startup Disc).iso" size="679073792" crc="1308aaf9" md5="cd19c606c175351f58b21f8a6058e7a3" sha1="6c6b4de9753a4aac0505974c2a40eff61b8a16a9"/>
 	</game>
 	<game name="Maimai DX (Japan) (Startup Disc)" id="134609">
 		<category>Games</category>

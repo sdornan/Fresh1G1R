@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,554) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-26 07-12-35) (Retool)</description>
-		<version>2026-09-26 07-12-35</version>
-		<date>2026-09-26 07-31-53</date>
+		<description>IBM - PC compatible (13,557) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-27 00-42-35) (Retool)</description>
+		<version>2026-09-27 00-42-35</version>
+		<date>2026-09-27 08-04-21</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -4373,17 +4373,17 @@
 		<rom name="American McGee Presents Scrapland (USA) (Disc 2).bin" size="682540992" crc="c0b1474a" md5="d8a3d8b827a3c503ee91e2d300571777" sha1="9e7abedffea674c7d0c2effd3a6d2fe5233f64e3"/>
 		<rom name="American McGee Presents Scrapland (USA) (Disc 2).cue" size="114" crc="1ff53516" md5="b1778fe887e8acc444d8a00a214311dd" sha1="343239666e701f0e0b608794bff3450ef4de9eca"/>
 	</game>
-	<game name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1)" id="16345">
+	<game name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1) (Rerelease)" id="91968">
 		<category>Games</category>
-		<description>American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1)</description>
-		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1).bin" size="769517952" crc="33885420" md5="79a2de46bce7e25382586af9eeb50a00" sha1="110607211acc363e033cff4d02a6d6729a8e05eb"/>
-		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1).cue" size="120" crc="bc572c06" md5="f2bd822f7c950bbee13757876be6da44" sha1="e6fa3fe7b8a1df20b0d0ed930a5314afeb3c969e"/>
+		<description>American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1) (Rerelease)</description>
+		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1) (Rerelease).bin" size="785744400" crc="d1ee6bb4" md5="7425b7314bd0c47412364d04b0884108" sha1="0e2c855f0973ba7f80033e885dd009bb3cf42842"/>
+		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1) (Rerelease).cue" size="132" crc="75b6bffa" md5="c1322a47302864bdaf7f52aa312f1008" sha1="6eb5c3e0e9db4df8cae360fe3b6ed8797353508c"/>
 	</game>
-	<game name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2)" id="16346">
+	<game name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2) (Rerelease)" id="91969">
 		<category>Games</category>
-		<description>American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2)</description>
-		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2).bin" size="252028560" crc="43cba4be" md5="2e7e98fae1c29855dab50861fdca0076" sha1="9d74496a565067294c40f8d53d994578e33ef533"/>
-		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2).cue" size="120" crc="bd0a0ad7" md5="33d0ae2d79cb500dad365a340d1db0ba" sha1="ff0edde7995be095fdd1c4b240d8912056d40295"/>
+		<description>American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2) (Rerelease)</description>
+		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2) (Rerelease).bin" size="252028560" crc="01c69f10" md5="f12cd8ff48d2e7491b4bab75d5cf31f8" sha1="d86b445a972a20d8731157629c08871f6bde2494"/>
+		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2) (Rerelease).cue" size="132" crc="87179a56" md5="109e82a8b95c63b9945d4d4816ef5840" sha1="e88f3a0e2235d14cdd47b5fa617ee646fffdf411"/>
 	</game>
 	<game name="American McGee's Alice in Nightmare (Japan) (En,Ja) (Disc 1)" id="122424">
 		<category>Games</category>
@@ -6241,6 +6241,12 @@
 		<rom name="Atari Arcade Hits 1 (USA, Canada) (En,Fr,De,Es) (v1.1) (1999-07-08).bin" size="647936016" crc="9426c84c" md5="7bd053f06482772106b3b138eed91c25" sha1="62531b7a2ab9a42c57a414fb1b3067723471f9d8"/>
 		<rom name="Atari Arcade Hits 1 (USA, Canada) (En,Fr,De,Es) (v1.1) (1999-07-08).cue" size="133" crc="589389e7" md5="c636720267bd7b8d42360f8759dd7d6a" sha1="146720e8176855ff5a711dec148dbef6cbab5b3e"/>
 	</game>
+	<game name="Atari Arcade Hits 2 (USA)" id="138796">
+		<category>Games</category>
+		<description>Atari Arcade Hits 2 (USA)</description>
+		<rom name="Atari Arcade Hits 2 (USA).bin" size="143274432" crc="4eee2b57" md5="33423ada4ee554d46e022e73dfca349f" sha1="29f29672c577138040852c4fe18e9af61e306c57"/>
+		<rom name="Atari Arcade Hits 2 (USA).cue" size="91" crc="251dc6ad" md5="40e4e10397a072b71f07d08dd618e787" sha1="431f9f2b1fdd27a8ca491ecec31785ae0d9efe89"/>
+	</game>
 	<game name="Atari Classics Evolved - Asteroids (USA)" id="111380">
 		<category>Games</category>
 		<description>Atari Classics Evolved - Asteroids (USA)</description>
@@ -6868,6 +6874,11 @@
 		<rom name="BHunter (Europe) (En,Fr,Es,Nl,Pt) (Rerelease) (Track 1).bin" size="118688976" crc="e4827d30" md5="3256439ebb56a5cf6fa28453275a8fed" sha1="ac56911f8c5f93dabb52af2ef413c18e61c225d9"/>
 		<rom name="BHunter (Europe) (En,Fr,Es,Nl,Pt) (Rerelease) (Track 2).bin" size="232010688" crc="0c14982e" md5="cba1dd45d6727bec7914bd2cff8a59e9" sha1="83c0cb26a4ae6b5c9a6960c7117911d5b8bd000b"/>
 		<rom name="BHunter (Europe) (En,Fr,Es,Nl,Pt) (Rerelease).cue" size="260" crc="9237a26b" md5="e707c165b03cbbb2350b092c811ed323" sha1="eb43ff453853d85f21fb06493c7681a4f87b880c"/>
+	</game>
+	<game name="Babbdi (USA)" id="138797">
+		<category>Games</category>
+		<description>Babbdi (USA)</description>
+		<rom name="Babbdi (USA).iso" size="1272332288" crc="a0e7ce6b" md5="ad80eda4e780c4ee5e90bb84c69cbf84" sha1="51b2e353cc082071ab8e7a85f30ce04efbfd6db4"/>
 	</game>
 	<game name="Babes &amp; Balls - Xtreme Beach Soccer (Europe) (En,Fr,De)" id="32164">
 		<category>Games</category>
@@ -8385,10 +8396,10 @@
 		<description>Battlestations - Midway (USA) (En,Fr,De,It) (Rerelease)</description>
 		<rom name="Battlestations - Midway (USA) (En,Fr,De,It) (Rerelease).iso" size="5620170752" crc="0e017ce7" md5="4c47be1d313032b78afec5733efa7e88" sha1="5b3692731e324b8396c5638be60ef5859d47eeed"/>
 	</game>
-	<game name="Battlestations - Pacific (Europe) (En,Fr,De,Es,It)" id="112315">
+	<game name="Battlestations - Pacific (USA)" id="138822">
 		<category>Games</category>
-		<description>Battlestations - Pacific (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Battlestations - Pacific (Europe) (En,Fr,De,Es,It).iso" size="7093157888" crc="45ceeff8" md5="5f74c826f2a86b9437ea39b18896139a" sha1="1cc9c3bd8f35dfd718ba237167a3dbb90527d2cd"/>
+		<description>Battlestations - Pacific (USA)</description>
+		<rom name="Battlestations - Pacific (USA).iso" size="7093157888" crc="3a36410d" md5="c774f3f25376d7ad408f94fa9356692d" sha1="eb584881ff91d627aea1709811f8ef40365388ef"/>
 	</game>
 	<game name="Battlestrike - Force of Resistance (Europe)" id="136588">
 		<category>Games</category>
@@ -22123,6 +22134,12 @@
 		<description>Disney's Hot Shots - Timon &amp; Pumbaa's Jungle Pinball (Europe, Australia)</description>
 		<rom name="Disney's Hot Shots - Timon &amp; Pumbaa's Jungle Pinball (Europe, Australia).bin" size="237512016" crc="54ed8d2f" md5="698e6f566ce33cbe3180a93ca600aa3d" sha1="d2466b95824e79069939686e045a662d180beead"/>
 		<rom name="Disney's Hot Shots - Timon &amp; Pumbaa's Jungle Pinball (Europe, Australia).cue" size="138" crc="d7d7ce82" md5="65833c92a2857567c2552d137374f43d" sha1="c2a806f507ac80eafcab80492223e89e4857c920"/>
+	</game>
+	<game name="Disney's Hot Shots - Toy Story 2 - Cone Chaos &amp; Toy Shelf Showdown (UK)" id="138826">
+		<category>Games</category>
+		<description>Disney's Hot Shots - Toy Story 2 - Cone Chaos &amp; Toy Shelf Showdown (UK)</description>
+		<rom name="Disney's Hot Shots - Toy Story 2 - Cone Chaos &amp; Toy Shelf Showdown (UK).bin" size="473441136" crc="a5cd7df7" md5="3d01062c4bcac3b57827c52be5db28f8" sha1="221a2d4ce0da087517643629b7cc7bb04cdc80f4"/>
+		<rom name="Disney's Hot Shots - Toy Story 2 - Cone Chaos &amp; Toy Shelf Showdown (UK).cue" size="137" crc="68a76055" md5="23ebca8591a22bc69d227a9975cd2286" sha1="1bc0d6311b0866fd110e8d2bfee92437cc81b2a7"/>
 	</game>
 	<game name="Disney's Hot Shots - Upsy Daisy (USA)" id="132836">
 		<category>Games</category>
@@ -39091,10 +39108,10 @@
 		<rom name="Hoyle Word Games 2 (USA).bin" size="646397808" crc="71f90698" md5="7fad6ecad665a7ad3fe8e39564e11885" sha1="6239bb89338af0dacedfa3198be1a039f24d3404"/>
 		<rom name="Hoyle Word Games 2 (USA).cue" size="90" crc="770767a6" md5="4cab534345724b7ebc901e9e2c74bccd" sha1="b39f14eae1f88ca97b9046f222b89807cc15d3cd"/>
 	</game>
-	<game name="Hoyle Word Games 3 (USA)" id="67123">
+	<game name="Hoyle Word Games 3 (USA)" id="106485">
 		<category>Games</category>
 		<description>Hoyle Word Games 3 (USA)</description>
-		<rom name="Hoyle Word Games 3 (USA).bin" size="611823408" crc="7cf8d60d" md5="c439a0de4d14abba1e7b44cd58a69e76" sha1="70d081191e05c7cff113b523dcc2041b2ef4f912"/>
+		<rom name="Hoyle Word Games 3 (USA).bin" size="611823408" crc="995b1b0f" md5="60179926ae055a9bc1561a1b0e075f61" sha1="1622eaa0952cbdcf349bcfe3510ddce339e39d72"/>
 		<rom name="Hoyle Word Games 3 (USA).cue" size="90" crc="fa4683fe" md5="7a4758f3d3e5b48699c0ff1986784b1b" sha1="512ced3cae89612c544187e13029e2537c5d25ca"/>
 	</game>
 	<game name="Hracuv raj - Arkady (Czechia)" id="130965">
@@ -88650,11 +88667,11 @@
 		<rom name="Vegas Games 2000 (USA) (Track 14).bin" size="39965184" crc="56ce819a" md5="673d802fcccb0151609a394f04120282" sha1="ce47f6545a6339a1042487ed561a05ea940e6e06"/>
 		<rom name="Vegas Games 2000 (USA).cue" size="1620" crc="81d77dae" md5="86e60574408f2e5c095cdff5a58a1fb2" sha1="7fa327ad44a0d0239ffe584da71bc4a5cb659ad8"/>
 	</game>
-	<game name="Vegas Jackpot Gold (USA)" id="91007">
+	<game name="Vegas Jackpot Gold - 250 Casino Games (USA)" id="91007">
 		<category>Games</category>
-		<description>Vegas Jackpot Gold (USA)</description>
-		<rom name="Vegas Jackpot Gold (USA).bin" size="732918480" crc="d557788a" md5="b53f5187024c3852be1bea5472e816ed" sha1="719deaff2739267afc61a4ee3f1f9a45e39c9d8a"/>
-		<rom name="Vegas Jackpot Gold (USA).cue" size="90" crc="85c8e256" md5="816ca26c2f4e198d23ac7d9ad8b6a519" sha1="8f681a79b154b3cde0381160aabf99cbd226f2bd"/>
+		<description>Vegas Jackpot Gold - 250 Casino Games (USA)</description>
+		<rom name="Vegas Jackpot Gold - 250 Casino Games (USA).bin" size="732918480" crc="d557788a" md5="b53f5187024c3852be1bea5472e816ed" sha1="719deaff2739267afc61a4ee3f1f9a45e39c9d8a"/>
+		<rom name="Vegas Jackpot Gold - 250 Casino Games (USA).cue" size="109" crc="0ce99709" md5="7c39e9e93c75ffd8015627c8198f4db0" sha1="fd5778f6b6e7f82a407c031d283d3f76d592e1dc"/>
 	</game>
 	<game name="Vegas Jackpot Gold - 325 Casino Games (USA)" id="131537">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,855) (-y) [-aAbBcdkmMpPuv] (2026-09-26 07-12-35) (Retool)</description>
-		<version>2026-09-26 07-12-35</version>
-		<date>2026-09-26 07-41-44</date>
+		<description>IBM - PC compatible (26,865) (-y) [-aAbBcdkmMpPuv] (2026-09-27 00-42-35) (Retool)</description>
+		<version>2026-09-27 00-42-35</version>
+		<date>2026-09-27 08-14-33</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -8566,17 +8566,17 @@
 		<rom name="American McGee's Alice (Netherlands) (Disc 3) (Manuals Disc).bin" size="23056656" crc="9e5bbc2c" md5="08f4b5675c765ec976fe594cf2a85d38" sha1="95da2fe233e4b6d5c85b5754eec9517ac2c3cf69"/>
 		<rom name="American McGee's Alice (Netherlands) (Disc 3) (Manuals Disc).cue" size="126" crc="21261725" md5="0338d28e1cba47659daf0a7d19a42b0b" sha1="585bc27338afc031860db9701716cf28fbc9f761"/>
 	</game>
-	<game name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1)" id="16345">
+	<game name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1) (Rerelease)" id="91968">
 		<category>Games</category>
-		<description>American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1)</description>
-		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1).bin" size="769517952" crc="33885420" md5="79a2de46bce7e25382586af9eeb50a00" sha1="110607211acc363e033cff4d02a6d6729a8e05eb"/>
-		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1).cue" size="120" crc="bc572c06" md5="f2bd822f7c950bbee13757876be6da44" sha1="e6fa3fe7b8a1df20b0d0ed930a5314afeb3c969e"/>
+		<description>American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1) (Rerelease)</description>
+		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1) (Rerelease).bin" size="785744400" crc="d1ee6bb4" md5="7425b7314bd0c47412364d04b0884108" sha1="0e2c855f0973ba7f80033e885dd009bb3cf42842"/>
+		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 1) (Rerelease).cue" size="132" crc="75b6bffa" md5="c1322a47302864bdaf7f52aa312f1008" sha1="6eb5c3e0e9db4df8cae360fe3b6ed8797353508c"/>
 	</game>
-	<game name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2)" id="16346">
+	<game name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2) (Rerelease)" id="91969">
 		<category>Games</category>
-		<description>American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2)</description>
-		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2).bin" size="252028560" crc="43cba4be" md5="2e7e98fae1c29855dab50861fdca0076" sha1="9d74496a565067294c40f8d53d994578e33ef533"/>
-		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2).cue" size="120" crc="bd0a0ad7" md5="33d0ae2d79cb500dad365a340d1db0ba" sha1="ff0edde7995be095fdd1c4b240d8912056d40295"/>
+		<description>American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2) (Rerelease)</description>
+		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2) (Rerelease).bin" size="252028560" crc="01c69f10" md5="f12cd8ff48d2e7491b4bab75d5cf31f8" sha1="d86b445a972a20d8731157629c08871f6bde2494"/>
+		<rom name="American McGee's Alice (USA) (En,Fr,De,Es,Nl) (Disc 2) (Rerelease).cue" size="132" crc="87179a56" md5="109e82a8b95c63b9945d4d4816ef5840" sha1="e88f3a0e2235d14cdd47b5fa617ee646fffdf411"/>
 	</game>
 	<game name="American McGee's Alice in Nightmare (Japan) (En,Ja) (Disc 1)" id="122424">
 		<category>Games</category>
@@ -12884,6 +12884,12 @@
 		<rom name="Atari Arcade Hits 1 (USA, Canada) (En,Fr,De,Es) (v1.1) (1999-07-08).bin" size="647936016" crc="9426c84c" md5="7bd053f06482772106b3b138eed91c25" sha1="62531b7a2ab9a42c57a414fb1b3067723471f9d8"/>
 		<rom name="Atari Arcade Hits 1 (USA, Canada) (En,Fr,De,Es) (v1.1) (1999-07-08).cue" size="133" crc="589389e7" md5="c636720267bd7b8d42360f8759dd7d6a" sha1="146720e8176855ff5a711dec148dbef6cbab5b3e"/>
 	</game>
+	<game name="Atari Arcade Hits 2 (USA)" id="138796">
+		<category>Games</category>
+		<description>Atari Arcade Hits 2 (USA)</description>
+		<rom name="Atari Arcade Hits 2 (USA).bin" size="143274432" crc="4eee2b57" md5="33423ada4ee554d46e022e73dfca349f" sha1="29f29672c577138040852c4fe18e9af61e306c57"/>
+		<rom name="Atari Arcade Hits 2 (USA).cue" size="91" crc="251dc6ad" md5="40e4e10397a072b71f07d08dd618e787" sha1="431f9f2b1fdd27a8ca491ecec31785ae0d9efe89"/>
+	</game>
 	<game name="Atari Classics Evolved - Asteroids (USA)" id="111380">
 		<category>Games</category>
 		<description>Atari Classics Evolved - Asteroids (USA)</description>
@@ -14284,6 +14290,11 @@
 		<description>BVS Solitaire Sammlung (Germany)</description>
 		<rom name="BVS Solitaire Sammlung (Germany).bin" size="14485968" crc="ef81314a" md5="64635225a64be38e358bd7dd4e4acc5f" sha1="bac7862b4c8bc198c5ccb176e57bf76b79888dd8"/>
 		<rom name="BVS Solitaire Sammlung (Germany).cue" size="98" crc="0bba388f" md5="8c073cb6c9bf7c5aa91990f71cde42e7" sha1="6e20218c3296a495473463fda259e29ff2917ca5"/>
+	</game>
+	<game name="Babbdi (USA)" id="138797">
+		<category>Games</category>
+		<description>Babbdi (USA)</description>
+		<rom name="Babbdi (USA).iso" size="1272332288" crc="a0e7ce6b" md5="ad80eda4e780c4ee5e90bb84c69cbf84" sha1="51b2e353cc082071ab8e7a85f30ce04efbfd6db4"/>
 	</game>
 	<game name="Babe Arcade (Russia)" id="109522">
 		<category>Games</category>
@@ -16966,10 +16977,10 @@
 		<description>Battlestations - Midway (USA) (En,Fr,De,It) (Rerelease)</description>
 		<rom name="Battlestations - Midway (USA) (En,Fr,De,It) (Rerelease).iso" size="5620170752" crc="0e017ce7" md5="4c47be1d313032b78afec5733efa7e88" sha1="5b3692731e324b8396c5638be60ef5859d47eeed"/>
 	</game>
-	<game name="Battlestations - Pacific (Europe) (En,Fr,De,Es,It)" id="112315">
+	<game name="Battlestations - Pacific (USA)" id="138822">
 		<category>Games</category>
-		<description>Battlestations - Pacific (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Battlestations - Pacific (Europe) (En,Fr,De,Es,It).iso" size="7093157888" crc="45ceeff8" md5="5f74c826f2a86b9437ea39b18896139a" sha1="1cc9c3bd8f35dfd718ba237167a3dbb90527d2cd"/>
+		<description>Battlestations - Pacific (USA)</description>
+		<rom name="Battlestations - Pacific (USA).iso" size="7093157888" crc="3a36410d" md5="c774f3f25376d7ad408f94fa9356692d" sha1="eb584881ff91d627aea1709811f8ef40365388ef"/>
 	</game>
 	<game name="Battlestrike - Der Widerstand (Germany)" id="119924">
 		<category>Games</category>
@@ -22127,6 +22138,12 @@
 		<description>Brigade E5 - New Jagged Union (USA) (Disc 2)</description>
 		<rom name="Brigade E5 - New Jagged Union (USA) (Disc 2).bin" size="794101056" crc="44d5eeb7" md5="93763c0dcffd75a5176adefa54de4644" sha1="08346b445988f5b054f786109c52227b726caa38"/>
 		<rom name="Brigade E5 - New Jagged Union (USA) (Disc 2).cue" size="110" crc="6b1442ef" md5="0b775db32a386e777e746a1a268b5070" sha1="1e4576d47b96ebe20ea701f15f9d2012f775db58"/>
+	</game>
+	<game name="Brighton - Portsmouth - Westcoastway Express (Europe)" id="138793">
+		<category>Add-Ons</category>
+		<description>Brighton - Portsmouth - Westcoastway Express (Europe)</description>
+		<rom name="Brighton - Portsmouth - Westcoastway Express (Europe).bin" size="255895248" crc="79e2af5f" md5="7e986a61b0406dfc446c7248bcf3d399" sha1="24221f374785f738cbab11fcfc9ab645620799da"/>
+		<rom name="Brighton - Portsmouth - Westcoastway Express (Europe).cue" size="119" crc="a1160fd1" md5="26f5a3609fcb0b40f52e2b43daa85663" sha1="0776dab9cb6ffc6ea2dddbba71aa1c9fb810d721"/>
 	</game>
 	<game name="Brink (USA, Canada) (En,Fr,Es)" id="35194">
 		<category>Games</category>
@@ -28648,6 +28665,24 @@
 		<description>Classic Text Adventure Masterpieces of Infocom (USA)</description>
 		<rom name="Classic Text Adventure Masterpieces of Infocom (USA).bin" size="354011280" crc="dacb4c43" md5="8433668090977ccdb21e725105537412" sha1="240c8da1afc7e2b66f032cf6f1f4cfa6b875d02e"/>
 		<rom name="Classic Text Adventure Masterpieces of Infocom (USA).cue" size="141" crc="836f8f27" md5="bc40b018a4ff256b850c6c13a20fbb8a" sha1="126b68fb10fbaf16db90d0cb38be31c385438b8b"/>
+	</game>
+	<game name="Classici delle Carte, I - Il Tresette (Italy)" id="138818">
+		<category>Games</category>
+		<description>Classici delle Carte, I - Il Tresette (Italy)</description>
+		<rom name="Classici delle Carte, I - Il Tresette (Italy).bin" size="85692768" crc="0dff72f7" md5="a5e8690a05b7a068b27f2aef99dd2a01" sha1="100793b5c4f397b6442622fc4b54ec3af779aed9"/>
+		<rom name="Classici delle Carte, I - Il Tresette (Italy).cue" size="111" crc="665d4905" md5="c8edc4059601db0abde1822198c0428d" sha1="350d355e57291b19f635e3a0c3805af7a37eabd5"/>
+	</game>
+	<game name="Classici delle Carte, I - La Briscola (Italy)" id="138817">
+		<category>Games</category>
+		<description>Classici delle Carte, I - La Briscola (Italy)</description>
+		<rom name="Classici delle Carte, I - La Briscola (Italy).bin" size="85415232" crc="3d4970f7" md5="ed69c11344b97a0c8bedf1df6d75fb52" sha1="28c1ee61b330876804efb1eccd92976cba358e1c"/>
+		<rom name="Classici delle Carte, I - La Briscola (Italy).cue" size="111" crc="1e3318c5" md5="04dee49bb178d4382d8cbafec3d79160" sha1="a0cb6105e9cdcb3fd6458f3e3580d9112d224d21"/>
+	</game>
+	<game name="Classici delle Carte, I - La Scopa (Italy)" id="138180">
+		<category>Games</category>
+		<description>Classici delle Carte, I - La Scopa (Italy)</description>
+		<rom name="Classici delle Carte, I - La Scopa (Italy).bin" size="85892688" crc="a007ca7b" md5="fdf82c31ff1c4465befc6eaa0a47776a" sha1="e1356c128ca741080229148a0f260b69492410ed"/>
+		<rom name="Classici delle Carte, I - La Scopa (Italy).cue" size="108" crc="69381643" md5="68a850e5c98d78ff8072ef9f73d5fc03" sha1="25c846d9a94139a6f3d2f08deff36230b18819b4"/>
 	</game>
 	<game name="Classics - Volume One (USA)" id="27571">
 		<category>Games</category>
@@ -42138,6 +42173,12 @@
 		<rom name="Disney's Hot Shots - Timon &amp; Pumbaa's Jungle Pinball (Europe, Australia).bin" size="237512016" crc="54ed8d2f" md5="698e6f566ce33cbe3180a93ca600aa3d" sha1="d2466b95824e79069939686e045a662d180beead"/>
 		<rom name="Disney's Hot Shots - Timon &amp; Pumbaa's Jungle Pinball (Europe, Australia).cue" size="138" crc="d7d7ce82" md5="65833c92a2857567c2552d137374f43d" sha1="c2a806f507ac80eafcab80492223e89e4857c920"/>
 	</game>
+	<game name="Disney's Hot Shots - Toy Story 2 - Cone Chaos &amp; Toy Shelf Showdown (UK)" id="138826">
+		<category>Games</category>
+		<description>Disney's Hot Shots - Toy Story 2 - Cone Chaos &amp; Toy Shelf Showdown (UK)</description>
+		<rom name="Disney's Hot Shots - Toy Story 2 - Cone Chaos &amp; Toy Shelf Showdown (UK).bin" size="473441136" crc="a5cd7df7" md5="3d01062c4bcac3b57827c52be5db28f8" sha1="221a2d4ce0da087517643629b7cc7bb04cdc80f4"/>
+		<rom name="Disney's Hot Shots - Toy Story 2 - Cone Chaos &amp; Toy Shelf Showdown (UK).cue" size="137" crc="68a76055" md5="23ebca8591a22bc69d227a9975cd2286" sha1="1bc0d6311b0866fd110e8d2bfee92437cc81b2a7"/>
+	</game>
 	<game name="Disney's Hot Shots - Upsy Daisy (USA)" id="132836">
 		<category>Games</category>
 		<description>Disney's Hot Shots - Upsy Daisy (USA)</description>
@@ -47169,6 +47210,12 @@
 		<description>E.R. Mania (USA)</description>
 		<rom name="E.R. Mania (USA).bin" size="187379136" crc="2cfb38f9" md5="eddaba39df35322caa253491f9d9e45f" sha1="43bb6373498194ea48246e59bbaa183cb2621584"/>
 		<rom name="E.R. Mania (USA).cue" size="82" crc="9d3604d1" md5="cb8880d0d8576a1ea1f2854d2b67c07e" sha1="5d2bb02d5e169647f4a61960bbf906a23c1629ce"/>
+	</game>
+	<game name="E.T. - Der Weg nach Hause (Germany) (Fr,De,Nl)" id="138811">
+		<category>Games</category>
+		<description>E.T. - Der Weg nach Hause (Germany) (Fr,De,Nl)</description>
+		<rom name="E.T. - Der Weg nach Hause (Germany) (Fr,De,Nl).bin" size="791400960" crc="d9d261af" md5="46b19d2720014d536f13eb2b6366d107" sha1="e2d748a70ac944f1347b2c2e8ffe50eb454b91ce"/>
+		<rom name="E.T. - Der Weg nach Hause (Germany) (Fr,De,Nl).cue" size="112" crc="d1bb8c5e" md5="a036a85ec14679ea870d70c64d3e5a8b" sha1="4511b61146bd8debbfc740059eaa738a89270d28"/>
 	</game>
 	<game name="E.T. - The Extra-Terrestrial (Europe) (Fr,De,Nl)" id="72194">
 		<category>Games</category>
@@ -60365,6 +60412,11 @@
 		<description>Fussball Champion - Weltmeister Edition 2002 (Germany)</description>
 		<rom name="Fussball Champion - Weltmeister Edition 2002 (Germany).bin" size="98054880" crc="8581b386" md5="1aa296603260f5d39b42da360b2a9787" sha1="1ebb58c9ba60031d05edd65b76967bd01017a150"/>
 		<rom name="Fussball Champion - Weltmeister Edition 2002 (Germany).cue" size="120" crc="8a31c7de" md5="17112bc91e6c6e5c3de871fddbc17c51" sha1="7b5f0c6c19091afc7d3f431cfb65d574d8339da0"/>
+	</game>
+	<game name="Fussball Manager 07 - Verlangerung (Germany)" id="138812">
+		<category>Add-Ons</category>
+		<description>Fussball Manager 07 - Verlangerung (Germany)</description>
+		<rom name="Fussball Manager 07 - Verlangerung (Germany).iso" size="739168256" crc="2141bf4a" md5="16051cc2bffdd5ca190d51a64787bf2b" sha1="96637d58fef0a498f48ff5482f97c27e853a90ed"/>
 	</game>
 	<game name="Fussball Manager 2001 (Germany)" id="51453">
 		<category>Games</category>
@@ -74304,10 +74356,10 @@
 		<rom name="Hoyle Word Games 2 (USA).bin" size="646397808" crc="71f90698" md5="7fad6ecad665a7ad3fe8e39564e11885" sha1="6239bb89338af0dacedfa3198be1a039f24d3404"/>
 		<rom name="Hoyle Word Games 2 (USA).cue" size="90" crc="770767a6" md5="4cab534345724b7ebc901e9e2c74bccd" sha1="b39f14eae1f88ca97b9046f222b89807cc15d3cd"/>
 	</game>
-	<game name="Hoyle Word Games 3 (USA)" id="67123">
+	<game name="Hoyle Word Games 3 (USA)" id="106485">
 		<category>Games</category>
 		<description>Hoyle Word Games 3 (USA)</description>
-		<rom name="Hoyle Word Games 3 (USA).bin" size="611823408" crc="7cf8d60d" md5="c439a0de4d14abba1e7b44cd58a69e76" sha1="70d081191e05c7cff113b523dcc2041b2ef4f912"/>
+		<rom name="Hoyle Word Games 3 (USA).bin" size="611823408" crc="995b1b0f" md5="60179926ae055a9bc1561a1b0e075f61" sha1="1622eaa0952cbdcf349bcfe3510ddce339e39d72"/>
 		<rom name="Hoyle Word Games 3 (USA).cue" size="90" crc="fa4683fe" md5="7a4758f3d3e5b48699c0ff1986784b1b" sha1="512ced3cae89612c544187e13029e2537c5d25ca"/>
 	</game>
 	<game name="Hracuv raj - Arkady (Czechia)" id="130965">
@@ -132746,6 +132798,12 @@
 		<rom name="Reader Rabbit's Interactive Reading Journey 1 (USA).bin" size="247578576" crc="5a3ae1f5" md5="38dba790f5e7f1b53ae72e49aac91bfc" sha1="c3a8d67328376fd3dc6f177ff60b4a41cba39473"/>
 		<rom name="Reader Rabbit's Interactive Reading Journey 1 (USA).cue" size="140" crc="5b52abce" md5="f3b6ecaa18738a044d8e92cee5d68ef3" sha1="92b38de527ae639810f437fddcce8f7a029aa007"/>
 	</game>
+	<game name="Reader Rabbit's Interactive Reading Journey 2 (USA)" id="138819">
+		<category>Educational</category>
+		<description>Reader Rabbit's Interactive Reading Journey 2 (USA)</description>
+		<rom name="Reader Rabbit's Interactive Reading Journey 2 (USA).bin" size="653425584" crc="a9d11cad" md5="1feafa073cfad1e5d03b5e08c3c8544d" sha1="cb90825555ba15f4f6bb2c50ad111d8b7d113bf4"/>
+		<rom name="Reader Rabbit's Interactive Reading Journey 2 (USA).cue" size="140" crc="17e18167" md5="3d4031b8bcbfe58c800cbad871dec57d" sha1="1ebaa498df046ebe3bc6639b31f913e1ce552c9d"/>
+	</game>
 	<game name="Reader Rabbit's Kindergarten (USA) (Rev 1)" id="59699">
 		<category>Educational</category>
 		<description>Reader Rabbit's Kindergarten (USA) (Rev 1)</description>
@@ -141952,11 +142010,11 @@
 		<rom name="Scholastic's The Magic School Bus Explores in the Age of Dinosaurs (USA).bin" size="456168048" crc="13960a3b" md5="31f37f8de02830456c5209e99a419089" sha1="9b9489d6b9cdde8965061d1e464536154ab85914"/>
 		<rom name="Scholastic's The Magic School Bus Explores in the Age of Dinosaurs (USA).cue" size="161" crc="82d9ed93" md5="151a9ccbd757ad3e07ffb5ff7e752b75" sha1="713c8495f74efc64aa769b93038ac58753b01334"/>
 	</game>
-	<game name="Scholastic's The Magic School Bus Explores the Human Body (USA) (Rev 1)" id="40829">
+	<game name="Scholastic's The Magic School Bus Explores the Human Body (USA) (v1.1.0.2)" id="40829">
 		<category>Educational</category>
-		<description>Scholastic's The Magic School Bus Explores the Human Body (USA) (Rev 1)</description>
-		<rom name="Scholastic's The Magic School Bus Explores the Human Body (USA) (Rev 1).bin" size="726605712" crc="c9609928" md5="d7e8c41181cf2c542fe66aa41d107fcc" sha1="23ffa8df367499ef19d6c002aada4e77709f4e9f"/>
-		<rom name="Scholastic's The Magic School Bus Explores the Human Body (USA) (Rev 1).cue" size="160" crc="5a8b023b" md5="926abec1cfb268efd992b590aed0950e" sha1="a9e5eea6cce097290d7e6544aa7aa93d63e850db"/>
+		<description>Scholastic's The Magic School Bus Explores the Human Body (USA) (v1.1.0.2)</description>
+		<rom name="Scholastic's The Magic School Bus Explores the Human Body (USA) (v1.1.0.2).bin" size="726605712" crc="c9609928" md5="d7e8c41181cf2c542fe66aa41d107fcc" sha1="23ffa8df367499ef19d6c002aada4e77709f4e9f"/>
+		<rom name="Scholastic's The Magic School Bus Explores the Human Body (USA) (v1.1.0.2).cue" size="163" crc="f7778151" md5="9d951eff291a9e1094a49af483689e73" sha1="4ab30a37bcf9c111cc80f97a8c858580f7d289f9"/>
 	</game>
 	<game name="Scholastic's The Magic School Bus Explores the Ocean (USA, Canada) (OEM)" id="120694">
 		<category>Educational</category>
@@ -142524,12 +142582,6 @@
 		<description>Scooter's Magic Castle &amp; Kid Pix (Europe) (En,Fr,De) (OEM)</description>
 		<rom name="Scooter's Magic Castle &amp; Kid Pix (Europe) (En,Fr,De) (OEM).bin" size="27981744" crc="3f0c7d6c" md5="73e5b9716500f15a77dff87c2424e9c8" sha1="8636636371a91ac2b1c8586ac0c664415619957e"/>
 		<rom name="Scooter's Magic Castle &amp; Kid Pix (Europe) (En,Fr,De) (OEM).cue" size="124" crc="edbd73ce" md5="548c489f02cf9d4b2d5baf7b5a4585d0" sha1="5e10f5214b93072841f58ecb2bd3e41d11baba43"/>
-	</game>
-	<game name="Scopa, La (Italy)" id="138180">
-		<category>Games</category>
-		<description>Scopa, La (Italy)</description>
-		<rom name="Scopa, La (Italy).bin" size="85892688" crc="a007ca7b" md5="fdf82c31ff1c4465befc6eaa0a47776a" sha1="e1356c128ca741080229148a0f260b69492410ed"/>
-		<rom name="Scopa, La (Italy).cue" size="83" crc="27fca5b9" md5="97d6a015bbb7f51ef5a1c686e2b11da6" sha1="6078da6c06232fb28ed41e1e148e1791f72d73b1"/>
 	</game>
 	<game name="Scopri le Differenze con i Muppet (Italy)" id="138419">
 		<category>Educational</category>
@@ -175867,11 +175919,11 @@
 		<rom name="Vegas Games 2000 (USA) (Track 14).bin" size="39965184" crc="56ce819a" md5="673d802fcccb0151609a394f04120282" sha1="ce47f6545a6339a1042487ed561a05ea940e6e06"/>
 		<rom name="Vegas Games 2000 (USA).cue" size="1620" crc="81d77dae" md5="86e60574408f2e5c095cdff5a58a1fb2" sha1="7fa327ad44a0d0239ffe584da71bc4a5cb659ad8"/>
 	</game>
-	<game name="Vegas Jackpot Gold (USA)" id="91007">
+	<game name="Vegas Jackpot Gold - 250 Casino Games (USA)" id="91007">
 		<category>Games</category>
-		<description>Vegas Jackpot Gold (USA)</description>
-		<rom name="Vegas Jackpot Gold (USA).bin" size="732918480" crc="d557788a" md5="b53f5187024c3852be1bea5472e816ed" sha1="719deaff2739267afc61a4ee3f1f9a45e39c9d8a"/>
-		<rom name="Vegas Jackpot Gold (USA).cue" size="90" crc="85c8e256" md5="816ca26c2f4e198d23ac7d9ad8b6a519" sha1="8f681a79b154b3cde0381160aabf99cbd226f2bd"/>
+		<description>Vegas Jackpot Gold - 250 Casino Games (USA)</description>
+		<rom name="Vegas Jackpot Gold - 250 Casino Games (USA).bin" size="732918480" crc="d557788a" md5="b53f5187024c3852be1bea5472e816ed" sha1="719deaff2739267afc61a4ee3f1f9a45e39c9d8a"/>
+		<rom name="Vegas Jackpot Gold - 250 Casino Games (USA).cue" size="109" crc="0ce99709" md5="7c39e9e93c75ffd8015627c8198f4db0" sha1="fd5778f6b6e7f82a407c031d283d3f76d592e1dc"/>
 	</game>
 	<game name="Vegas Jackpot Gold - 325 Casino Games (USA)" id="131537">
 		<category>Games</category>
@@ -188242,6 +188294,11 @@
 		<description>Zabawa w Dzungli &amp; Kolorki Humorki &amp; Witamy w Zoo (Poland)</description>
 		<rom name="Zabawa w Dzungli &amp; Kolorki Humorki &amp; Witamy w Zoo (Poland).bin" size="658715232" crc="c0bd0779" md5="c0ed215d75a11575bbf47117d0b89e19" sha1="6b8de12b040ce75d762b1407fbbbfa08975d4da2"/>
 		<rom name="Zabawa w Dzungli &amp; Kolorki Humorki &amp; Witamy w Zoo (Poland).cue" size="124" crc="2b305c36" md5="330ffca92eba415bb357a51177ff15a9" sha1="1f1a709b136734292afdea61b76c94f1dd03ff3e"/>
+	</game>
+	<game name="Zack Zero (Germany)" id="138813">
+		<category>Games</category>
+		<description>Zack Zero (Germany)</description>
+		<rom name="Zack Zero (Germany).iso" size="774799360" crc="b5cd169e" md5="321d20001639a4b3016b4a6e16bfd20f" sha1="e298b84632ba8fb2fd6977edaaa638f0b4926c2c"/>
 	</game>
 	<game name="Zaero (USA)" id="20169">
 		<category>Add-Ons</category>

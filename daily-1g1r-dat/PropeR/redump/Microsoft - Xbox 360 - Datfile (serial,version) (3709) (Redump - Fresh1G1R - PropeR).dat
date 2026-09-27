@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,569) (-y) [-aAbBcdkmMpPuv] (2026-09-25 07-04-10) (Retool)</description>
-		<version>2026-09-25 07-04-10</version>
-		<date>2026-09-26 07-42-59</date>
+		<description>Microsoft - Xbox 360 (1,569) (-y) [-aAbBcdkmMpPuv] (2026-09-27 00-14-03) (Retool)</description>
+		<version>2026-09-27 00-14-03</version>
+		<date>2026-09-27 08-15-51</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -221,17 +221,17 @@
 		<serial>CF-2002</serial>
 		<rom name="Akatsuki no Amaneka to Aoi Kyojin - Pashiate Bunmei Kenkyuukai Koubouki (Japan).iso" size="7838695424" crc="77fa86d2" md5="25b00fb2e80d5e3b50d8dd1bd07829ee" sha1="9c2c9f36c552c63d3eedfd65a263cc5864fe8c24"/>
 	</game>
-	<game name="Alan Wake (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru) (Bonus Disc)" id="15959">
-		<category>Bonus Discs</category>
-		<description>Alan Wake (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru) (Bonus Disc)</description>
-		<serial>MS-2270</serial>
-		<rom name="Alan Wake (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru) (Bonus Disc).iso" size="7838695424" crc="607108ec" md5="476688981fbc1de2f367680532283ac1" sha1="433f05bd117b83104866fceea058426e6952f011"/>
-	</game>
 	<game name="Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)" id="13756">
 		<category>Games</category>
 		<description>Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)</description>
 		<serial>MS-2053</serial>
 		<rom name="Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).iso" size="7838695424" crc="4080b8ce" md5="bc07c4f4cea0188c9b52b439853d1d72" sha1="21542eabd3cb2df6248c2313fdf22e00d7c1e2c9"/>
+	</game>
+	<game name="Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru) (Bonus Disc)" id="15959">
+		<category>Bonus Discs</category>
+		<description>Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru) (Bonus Disc)</description>
+		<serial>MS-2270</serial>
+		<rom name="Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru) (Bonus Disc).iso" size="7838695424" crc="607108ec" md5="476688981fbc1de2f367680532283ac1" sha1="433f05bd117b83104866fceea058426e6952f011"/>
 	</game>
 	<game name="Alice - Madness Returns (World) (En,Fr,De,Es,It)" id="38414">
 		<category>Games</category>

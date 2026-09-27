@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,700) (-y) [-aAbBcefkmMoprv] (2026-09-24 20-14-09) (Retool)</description>
-		<version>2026-09-24 20-14-09</version>
-		<date>2026-09-26 07-24-41</date>
+		<description>Sony - PlayStation 3 (1,700) (-y) [-aAbBcefkmMoprv] (2026-09-26 20-53-58) (Retool)</description>
+		<version>2026-09-26 20-53-58</version>
+		<date>2026-09-27 07-56-54</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3914,7 +3914,7 @@
 	<game name="Grand Theft Auto IV (USA) (En,Fr,De,Es,It)" id="16201">
 		<category>Games</category>
 		<description>Grand Theft Auto IV (USA) (En,Fr,De,Es,It)</description>
-		<serial>BLUS-30127</serial>
+		<serial>BLUS-30127, BLUS-30127GH</serial>
 		<version>01.01</version>
 		<rom name="Grand Theft Auto IV (USA) (En,Fr,De,Es,It).iso" size="11287068672" crc="9dbf4b81" md5="81ff6de36bf8d57a2b56a96c390be1c7" sha1="123a50e911502e30ce9c773b5a0a1e7c4b1cbb2e"/>
 	</game>
@@ -11348,12 +11348,12 @@
 		<version>01.01</version>
 		<rom name="Warhammer 40,000 - Space Marine (USA) (En,Fr,De,Es,It,Nl,Pl,Ru).iso" size="5758124032" crc="23c792de" md5="1e121e062d4887476a76c37123a59923" sha1="db0cc936f0142d700626e598a4fbc782d8c506ff"/>
 	</game>
-	<game name="Warhawk (USA)" id="11052">
+	<game name="Warhawk (USA, Canada)" id="11052">
 		<category>Games</category>
-		<description>Warhawk (USA)</description>
+		<description>Warhawk (USA, Canada)</description>
 		<serial>BCUS-98117, BCUS-98162</serial>
 		<version>01.01</version>
-		<rom name="Warhawk (USA).iso" size="2474311680" crc="2dd85291" md5="736a9facf4ead20ea0033b4043c526e8" sha1="59293a4a83ebda77e1e17117ba8a9078e7002f79"/>
+		<rom name="Warhawk (USA, Canada).iso" size="2474311680" crc="2dd85291" md5="736a9facf4ead20ea0033b4043c526e8" sha1="59293a4a83ebda77e1e17117ba8a9078e7002f79"/>
 	</game>
 	<game name="Warriors - Legends of Troy (USA) (En,Fr)" id="40803">
 		<category>Games</category>

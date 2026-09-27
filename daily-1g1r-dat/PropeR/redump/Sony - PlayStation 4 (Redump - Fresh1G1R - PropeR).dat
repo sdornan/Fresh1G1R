@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,865) (-y) [-aAbBcdkmMpPuv] (2026-09-24 13-12-35) (Retool)</description>
-		<version>2026-09-24 13-12-35</version>
-		<date>2026-09-26 07-45-00</date>
+		<description>Sony - PlayStation 4 (1,867) (-y) [-aAbBcdkmMpPuv] (2026-09-26 23-33-59) (Retool)</description>
+		<version>2026-09-26 23-33-59</version>
+		<date>2026-09-27 08-17-58</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1961,10 +1961,10 @@
 		<description>Dead Island 2 (USA)</description>
 		<rom name="Dead Island 2 (USA).iso" size="25024331776" crc="37306320" md5="5032e993abebbd14befd338298b923ec" sha1="6a46b6b2d62477ae5d04628b91763c02ddbffa26"/>
 	</game>
-	<game name="Dead Rising (USA, Asia)" id="90197">
+	<game name="Dead Rising (USA, Asia) (En,Fr,De,Es,It,Ru)" id="90197">
 		<category>Games</category>
-		<description>Dead Rising (USA, Asia)</description>
-		<rom name="Dead Rising (USA, Asia).iso" size="9283108864" crc="76928e51" md5="eccf632c7252dc14cc729fec805d4998" sha1="37397c983e015bfb22c396b6a6e315f149426897"/>
+		<description>Dead Rising (USA, Asia) (En,Fr,De,Es,It,Ru)</description>
+		<rom name="Dead Rising (USA, Asia) (En,Fr,De,Es,It,Ru).iso" size="9283108864" crc="76928e51" md5="eccf632c7252dc14cc729fec805d4998" sha1="37397c983e015bfb22c396b6a6e315f149426897"/>
 	</game>
 	<game name="Dead Rising 2 (USA)" id="39964">
 		<category>Games</category>
@@ -6956,6 +6956,11 @@
 		<description>River City Melee Mach!! (Asia) (En,Ja,Zh,Ko)</description>
 		<rom name="River City Melee Mach!! (Asia) (En,Ja,Zh,Ko).iso" size="1596850176" crc="ed70d6c1" md5="b755372166f6cf61a07fe966c4458258" sha1="d4601e4eba9b0798075c0dbbd31a5794f2d15e09"/>
 	</game>
+	<game name="Road to Guangdong (Europe)" id="138815">
+		<category>Games</category>
+		<description>Road to Guangdong (Europe)</description>
+		<rom name="Road to Guangdong (Europe).iso" size="1833631744" crc="946a63ad" md5="c48707cddc032ee326ff3af9be35f152" sha1="b76f523e9effc823359aa706ab885aee2b5a6ae5"/>
+	</game>
 	<game name="Robinson - The Journey (USA)" id="70732">
 		<category>Games</category>
 		<description>Robinson - The Journey (USA)</description>
@@ -8265,6 +8270,11 @@
 		<category>Games</category>
 		<description>Theatrhythm - Final Bar Line (USA) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Theatrhythm - Final Bar Line (USA) (En,Ja,Fr,De,Es,It).iso" size="9094758400" crc="1dfdbda5" md5="ac1ae52ff494ebcabc3e11d16a3f320c" sha1="2d51090197f175238bcf1d96d53955a302c684e4"/>
+	</game>
+	<game name="Them's Fightin' Herds (Europe)" id="138814">
+		<category>Games</category>
+		<description>Them's Fightin' Herds (Europe)</description>
+		<rom name="Them's Fightin' Herds (Europe).iso" size="25024331776" crc="513f7027" md5="c0a707daeea5c5cf31fe19615b4e2a41" sha1="a2d47ee07ef5250a00d31e6a288604ffab9e0d16"/>
 	</game>
 	<game name="Thief (USA) (En,Fr,Es)" id="57683">
 		<category>Games</category>

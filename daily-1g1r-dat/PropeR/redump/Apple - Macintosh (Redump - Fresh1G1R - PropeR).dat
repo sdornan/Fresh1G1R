@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (671) (-y) [-aAbBcdkmMpPuv] (2026-09-24 07-12-38) (Retool)</description>
-		<version>2026-09-24 07-12-38</version>
-		<date>2026-09-26 07-40-09</date>
+		<description>Apple - Macintosh (672) (-y) [-aAbBcdkmMpPuv] (2026-09-26 23-42-47) (Retool)</description>
+		<version>2026-09-26 23-42-47</version>
+		<date>2026-09-27 08-12-55</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1045,6 +1045,26 @@
 		<description>Cult Akazukin Chacha (Japan)</description>
 		<rom name="Cult Akazukin Chacha (Japan).bin" size="546851760" crc="ecda29a8" md5="7c5fba61af4d5b8dc2e9f474c08713a7" sha1="44bd32e40defc3c1b1bf41beca05d6c2530634c2"/>
 		<rom name="Cult Akazukin Chacha (Japan).cue" size="94" crc="06ee25fb" md5="5617e7910900d05bdc33f9c3c2d8f9f9" sha1="26c1547f0cc13cfb8be4a2fb8b516003071d6742"/>
+	</game>
+	<game name="CyberGladiators (USA)" id="138823">
+		<category>Games</category>
+		<description>CyberGladiators (USA)</description>
+		<rom name="CyberGladiators (USA) (Track 01).bin" size="132321168" crc="17285ade" md5="cdf5bc44854f4d791c0e9fbeb841f4a1" sha1="5b61ebb105009c1e4c92c76ef3d2f93ffe141419"/>
+		<rom name="CyberGladiators (USA) (Track 02).bin" size="14829360" crc="ae567e85" md5="ecccfcb0cc5932baecc2df2dd0cb3d2e" sha1="d3f6f85364484e0bc8479b356f1a2ab1d660015d"/>
+		<rom name="CyberGladiators (USA) (Track 03).bin" size="14476560" crc="59521793" md5="1d01ae30c6018ab946712be9036d8e17" sha1="9d131bfd2a071f28b122485524090e349662c64d"/>
+		<rom name="CyberGladiators (USA) (Track 04).bin" size="14476560" crc="f2462641" md5="8e454d1d88e64a5e1e6959cb84d8e5c5" sha1="f1586b1e983cfc36fb211a85fcf28b34d621b5f5"/>
+		<rom name="CyberGladiators (USA) (Track 05).bin" size="14295456" crc="b60bd09e" md5="3db9c7b19df549999c2c3e6b837d86fb" sha1="7007bd010a4e88a18fc8242dc0db7aacf85cd863"/>
+		<rom name="CyberGladiators (USA) (Track 06).bin" size="16160592" crc="5936c57d" md5="7540e1660e29a4976ef2a2b5467458ed" sha1="f6593b578405d42f2645f8db1bf6fdf79e8004c8"/>
+		<rom name="CyberGladiators (USA) (Track 07).bin" size="14476560" crc="e65245ba" md5="95a5be38c9e2d8ecff49785a239dadfb" sha1="be6b0695845901542b7b7393c2d1ae130ea0bb7e"/>
+		<rom name="CyberGladiators (USA) (Track 08).bin" size="14476560" crc="0040e47b" md5="9925044eea8e06f8b711a7fbe6b6d615" sha1="c19a6f48844ec3a895493c3c5843ad4f5f52a20f"/>
+		<rom name="CyberGladiators (USA) (Track 09).bin" size="14476560" crc="4cfae59d" md5="0c7cb61db45d7233b626e27992f23739" sha1="2b12dd815fbc69a4d86582cf4f8f9008cfa92955"/>
+		<rom name="CyberGladiators (USA) (Track 10).bin" size="14481264" crc="7941fbda" md5="2fbedfb79189f8c59f99c83a4b112084" sha1="b3e6426f728c16d7a29f6b5df4e7ca508c2dab40"/>
+		<rom name="CyberGladiators (USA) (Track 11).bin" size="14476560" crc="b5a191c6" md5="30ba4ff72754e3b0c78b87b94cf2e27e" sha1="61ad0202e9b9d5fa90937e9588a2d84ddf6fe5cc"/>
+		<rom name="CyberGladiators (USA) (Track 12).bin" size="30712416" crc="753d104a" md5="e944ed4ac95956f136338848a7a7bac5" sha1="653bcdbe9333f5082f19b070d3a59610b74c3a0d"/>
+		<rom name="CyberGladiators (USA) (Track 13).bin" size="32217696" crc="05598bca" md5="fc854aceaa45284995072b91f1311bc5" sha1="757db51c4b2e1ac2d30f983eeb90e3a8237be43d"/>
+		<rom name="CyberGladiators (USA) (Track 14).bin" size="14478912" crc="a72a5ad2" md5="0fead5333b1f87b0909319fe61772ddc" sha1="c7e1ac994d4cef85f7048f927af0064326e3c3a7"/>
+		<rom name="CyberGladiators (USA) (Track 15).bin" size="5635392" crc="583b0ea5" md5="ec9b48d6c0d16941c6af23a77fc493dd" sha1="b5e6c1e60f50ab4c0ef3a294de783a11675fccba"/>
+		<rom name="CyberGladiators (USA).cue" size="1446" crc="35055e3b" md5="cb4ff06007dbe9e4ab50073a4c9fa089" sha1="266a086c0378732b62eaa0d5a34a94102497727e"/>
 	</game>
 	<game name="Daedalus Encounter, The (USA) (Disc 1)" id="134184">
 		<category>Games</category>
