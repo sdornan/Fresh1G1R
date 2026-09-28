@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,753) (-y) [-aAbBcdkmMpPuv] (20260923-014702) (Retool)</description>
-		<version>20260923-014702</version>
-		<date>2026-09-27 08-23-23</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,754) (-y) [-aAbBcdkmMpPuv] (20260927-081717) (Retool)</description>
+		<version>20260927-081717</version>
+		<date>2026-09-28 08-59-51</date>
 		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8550,6 +8550,11 @@
 		<category>Games</category>
 		<description>Xardion (USA)</description>
 		<rom name="Xardion (USA).sfc" size="1048576" crc="c7c12a57" md5="4369249d5f53fb9d70b1915cf533af03" sha1="8efc38bb904ce36318a1c6b0d0569a5d16b4bc19" sha256="71b69490c78d0bbaf47da25217c5dae295190311aa5df75653c3fac0a1b45358"/>
+	</game>
+	<game name="Xeno Crisis (World) (Bitmap Bureau)" id="4607">
+		<category>Games</category>
+		<description>Xeno Crisis (World) (Bitmap Bureau)</description>
+		<rom name="Xeno Crisis (World) (Bitmap Bureau).sfc" size="131072" crc="fe5b38f0" md5="0cbbf1be7db591ce34dde62ba05c6f32" sha1="cfd5de042e87f2301cf2baa52cfee76b09a8bc7a" sha256="f51300bf7f2401033239cee8a7d1e3d96fb986876bd85d0fb7bf738e849a590b"/>
 	</game>
 	<game name="Yadamon - Wonderland Dream (Japan)" id="3364">
 		<category>Games</category>

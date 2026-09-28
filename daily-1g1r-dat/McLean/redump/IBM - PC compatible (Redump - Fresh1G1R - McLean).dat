@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,557) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-27 00-42-35) (Retool)</description>
-		<version>2026-09-27 00-42-35</version>
-		<date>2026-09-27 08-04-21</date>
+		<description>IBM - PC compatible (13,556) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-28 08-12-38) (Retool)</description>
+		<version>2026-09-28 08-12-38</version>
+		<date>2026-09-28 08-43-53</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -36451,29 +36451,6 @@
 		<rom name="Heavy Barrel (USA).bin" size="1422960" crc="9f4e113a" md5="5fdbb34e6ff39cc1d642f4cbca8c1b18" sha1="a4db1428b901b11d96407d86703d17d3d708b50b"/>
 		<rom name="Heavy Barrel (USA).cue" size="84" crc="150c61e3" md5="1dffb7178d0f0b43e1484be7b341b9fa" sha1="94e18792b17b896de7d6effdbf698e82b018c8bc"/>
 	</game>
-	<game name="Heavy Gear (Australia) (Disc 1)" id="9605">
-		<category>Games</category>
-		<description>Heavy Gear (Australia) (Disc 1)</description>
-		<rom name="Heavy Gear (Australia) (Disc 1).bin" size="267067248" crc="7fd5d3ee" md5="1cc6f46e7bfe9c69b52d3fdb59a15389" sha1="33294ef68f102d122e24edfeca338e2112db54da"/>
-		<rom name="Heavy Gear (Australia) (Disc 1).cue" size="97" crc="320a9e8e" md5="cdd4c179473a94dfc1838bbb913b6fe1" sha1="8d30df508f8ba93e97642b677e8287b3a0acc856"/>
-	</game>
-	<game name="Heavy Gear (Australia) (Disc 2)" id="9606">
-		<category>Games</category>
-		<description>Heavy Gear (Australia) (Disc 2)</description>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 01).bin" size="214133136" crc="bf11bdfd" md5="022b78dcf82731ec162e344fea63b52b" sha1="ff19534997bb994162bceddf78da633fe02e3dc7"/>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 02).bin" size="33238464" crc="b9536857" md5="c3a879de631406a2d58532575df651b1" sha1="7ee5e3573e9babeb43c49eeabc5a1f43d7bf10be"/>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 03).bin" size="33099696" crc="ff826f1d" md5="aff508d16baef8321bd3db20480a9785" sha1="a4b0f7c135bf8e864bf1d2e65b94cde1879dd92f"/>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 04).bin" size="32932704" crc="8414452d" md5="994f1b6aa59ed007728c413aa10b2a1c" sha1="b16485e237ca434527cbbf08317b54c70a4324fc"/>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 05).bin" size="33167904" crc="8146523e" md5="6283a363b57aa2b198d46af389ef81b8" sha1="bfc4ba11928d81c01fa706aa6023c0f2b7147b91"/>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 06).bin" size="32742192" crc="1e41c5a7" md5="be35703084c453a4d3c3c992d1ae9d82" sha1="ca19b5696d08161ad2955812b38b65cf2d172aea"/>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 07).bin" size="32372928" crc="8ee3d3fb" md5="f5d0fc87fa4ea4c39c38b8d9bed6a86a" sha1="154f6a4748e9b8e67610fd727a5669cfaf53b357"/>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 08).bin" size="32478768" crc="6a336340" md5="edcc9884bc31e2c688d61c1c8d1983ab" sha1="9ab032d9d122667abfa903e4ec685deafce5d7bd"/>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 09).bin" size="34136928" crc="7876b754" md5="cf2e1e0aad3bb7bca581747eea5197d2" sha1="3b711bb31fd8dd60ba501f4fb25654df903ed6a2"/>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 10).bin" size="32657520" crc="318253c6" md5="3a1efafef0477898e2d42ca959a70fcb" sha1="d28c389f207d88f9870e1c4cc778a72906eceea3"/>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 11).bin" size="32177712" crc="cc953054" md5="b1c5d34158dcf08117487ed99b348c12" sha1="c63170f37f9d85aeb6fa1e5baeccd8d55469bc7b"/>
-		<rom name="Heavy Gear (Australia) (Disc 2) (Track 12).bin" size="33233760" crc="cd49d5e9" md5="84f63bf841515ee00135e35f4405d9ea" sha1="05d9bf4854ca65f351aa2b63dda021cc9aa131a7"/>
-		<rom name="Heavy Gear (Australia) (Disc 2).cue" size="1494" crc="1ca4260c" md5="00b0ab901cd90e7dde3bbb7176801579" sha1="ce76ab8a998d7769283f33e8aae837fd3b335fbd"/>
-	</game>
 	<game name="Heavy Gear (USA) (Disc 1) (Install) (Rev 1)" id="81538">
 		<category>Games</category>
 		<description>Heavy Gear (USA) (Disc 1) (Install) (Rev 1)</description>
@@ -58669,6 +58646,44 @@
 		<description>Obsidian (USA) (Disc 5)</description>
 		<rom name="Obsidian (USA) (Disc 5).bin" size="637577808" crc="185a9e88" md5="cbe7c4ffd78ef79488725481113ecede" sha1="38b0e4b9b001b86b24fb7605c09235589f027a8a"/>
 		<rom name="Obsidian (USA) (Disc 5).cue" size="89" crc="370894da" md5="b8a785278c3c3ea574e958b2558b887f" sha1="676c693d6a1944106bed6b1f465342a36e777d10"/>
+	</game>
+	<game name="Ocean Trader (Scandinavia)" id="138832">
+		<category>Games</category>
+		<description>Ocean Trader (Scandinavia)</description>
+		<rom name="Ocean Trader (Scandinavia) (Track 01).bin" size="49584864" crc="a5f1546b" md5="cf303ae4a4e5fae90197bb38d592a2d0" sha1="ea075a59605c9a50dfe2c8eeab361809959427b1"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 02).bin" size="45245424" crc="7c34a1cb" md5="f8c1f8b4951069b1aac790c556438212" sha1="f46163c68ade6ead4178e6f441e67dc52a42ae3a"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 03).bin" size="30905280" crc="8ebb567b" md5="6545105ccae7b73ba2819691e9c98aa3" sha1="eab3bbdcfd50e801ab3f143a8344502bbe2bc215"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 04).bin" size="34595568" crc="afa3d22b" md5="1569c0bab5996923329473b29eef9625" sha1="2016fa50f91518cccb916b0716f25dca30f2be78"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 05).bin" size="30691248" crc="c8d70e40" md5="3937f05a896048f5070796b4f4ae6d84" sha1="d5f16d8fc29e4ea20614b17b3f9d0ecdd38f6a1b"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 06).bin" size="32751600" crc="e52c220b" md5="243ca82621fdf8fd357d21a00270bc72" sha1="13a7769426dfc33a41eb816389cb49b81db76a00"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 07).bin" size="34066368" crc="c5762b93" md5="63bd3ca2ec2c9438a34d2bc3f9eb0923" sha1="3cc7770d5b57713059e49622d37cdcaf85821fe7"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 08).bin" size="32601072" crc="a5539088" md5="d7481e76e9029819d540580a3e0ff4ca" sha1="895b265a71a6902a7d154c826918d890156a60b8"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 09).bin" size="30011520" crc="10b2beb3" md5="5f73355fdd9ea6e69e6bfe3abb3ddab5" sha1="56b3c7c5a425a119bce2e2d5d8e5c28b5072d0d2"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 10).bin" size="30451344" crc="833225e8" md5="1c607ed0af13f81c91a2a6dd6b0cc456" sha1="b02b71c0651244c4572ca37e37243b7b020dd2de"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 11).bin" size="30282000" crc="adbfd984" md5="2a231ad041e8f1f64a2731a7e88ae2ad" sha1="c03759421c3bde49e636a65fbd45201485420fee"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 12).bin" size="29423520" crc="d7193406" md5="0eaa2880213202e95bf5c2962c80ab79" sha1="05e0ffeb9fd250a4f4352ed85be53011bf69f2ea"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 13).bin" size="30206736" crc="18450677" md5="0743e3b8828b86ceee87c2fcacb22d3a" sha1="865a3b9fea92d62623d926c6aa74a9fb2dc1533f"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 14).bin" size="29860992" crc="61ee89ec" md5="6d996a73ae83e34523be858a4231af29" sha1="7f2631ff5e61690b0761a9166f1189fcaa096f1f"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 15).bin" size="18604320" crc="277e6deb" md5="48e02066337e56ed0539ed2dfc427de0" sha1="8103d48fbcb3a6d451d5dbbe6858d26bac71664b"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 16).bin" size="32873904" crc="5a286a71" md5="7f5ed3ca323167a81190cb9f7e7c06db" sha1="1d3dd521719d44b6ae64b87145f2526a5c58379e"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 17).bin" size="5296704" crc="5d1f56e6" md5="37f9bbf85b87f076277eb03f8e2149f9" sha1="eabdb6cee8c8fa65c170de862a33afde768a4754"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 18).bin" size="5649504" crc="ae08e225" md5="efbab38ba9f5e2c34fdf883bf4dd7e3d" sha1="6482a156d2f70b6180ecc632c8bbf0d22095c453"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 19).bin" size="4889808" crc="ac01c1d3" md5="882d8494b74aede4822fe11e45b030f7" sha1="34fd7569d7e54371faac430a7e8f2960c5ad51f2"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 20).bin" size="4932144" crc="33bd144c" md5="ff4ecdee5f74ac4ccc09dd163d81d5a8" sha1="56168253c706624468f60c7ee2c4363d16a863ac"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 21).bin" size="5501328" crc="e985e22d" md5="402539a3607c2c3d41265199654109b5" sha1="36dcf64edac399ca95b92d5d2668dd2ee62b6a76"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 22).bin" size="4753392" crc="8d4c3d3a" md5="c4fe701959906266060493a721a994f5" sha1="7a52e980f9edae9e4935890ff88d8a5cad0b1481"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 23).bin" size="5296704" crc="8c01de50" md5="7a2559eefd636405fb4d8f51e6caa36d" sha1="9974f387be8ce95d8316be6536ff0054921ecf88"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 24).bin" size="5922336" crc="c3ec28ee" md5="3d7e686c06952a33ae50e74bb5733684" sha1="b858b5da8626bc3b7470e042ad8729902d09f008"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 25).bin" size="4791024" crc="3b7bd4cc" md5="4efa780801b5d14a59419f450ff5af50" sha1="35db65c6fa130815de86c19ae011b4707f02c086"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 26).bin" size="5249664" crc="d0db4088" md5="697a31be0d00a4ec6f4c8f2f371976e2" sha1="11eac2c15716ee995115e087933ebe8f93716b5c"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 27).bin" size="6634992" crc="e54633ce" md5="045e5941db1684c5ab92d07b03736584" sha1="6c737461a24981b4e3f8717ec96ff1d7690ec7ad"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 28).bin" size="6498576" crc="9b2536bd" md5="47c8351e8a576a033ee35ff720f1489f" sha1="35a533f83f9656885b4ff14938f1bf6c330ecc4a"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 29).bin" size="6959568" crc="f382e255" md5="ecfcd778307fcc99c8919fd7b0b2305a" sha1="75b5c40208f73b8663d0f77d6c600931d0a24d24"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 30).bin" size="5012112" crc="2905e2df" md5="7882c749c28deb2ac238b4113cb66c4c" sha1="4dc7a346af00d4f273df80e436d06910a45fb71d"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 31).bin" size="6286896" crc="3ec8838e" md5="1db62d2eb4acac22f8cda2020ad37e16" sha1="e4f540f0b0bbeaf23b06af33c11c5c3f92f5ee18"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 32).bin" size="32758656" crc="e83a006b" md5="ab88095ff5e2673b3c5febbbbe385312" sha1="901d6923893a26d9019e3439eb41a7401519e9e3"/>
+		<rom name="Ocean Trader (Scandinavia) (Track 33).bin" size="44438688" crc="8c789e0f" md5="44ec1dc07d5c769f695b53eefd1c5f7e" sha1="ac7f2a96b38567871ccf1f43ca622dbd9984a8dc"/>
+		<rom name="Ocean Trader (Scandinavia).cue" size="3285" crc="dc651391" md5="5928f97b29ccd748c598a587fe0f0ccb" sha1="00f0a4929ede068a68a9161faefd1d8db3196dab"/>
 	</game>
 	<game name="Oddballz - Your Wacky Computer Petz (Europe)" id="96876">
 		<category>Games</category>
