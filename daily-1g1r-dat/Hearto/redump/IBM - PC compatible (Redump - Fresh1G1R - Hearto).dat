@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,310) (-y) [-aAbBcefkmMoprv] (2026-09-28 08-12-38) (Retool)</description>
-		<version>2026-09-28 08-12-38</version>
-		<date>2026-09-28 08-33-15</date>
+		<description>IBM - PC compatible (26,334) (-y) [-aAbBcefkmMoprv] (2026-09-29 02-52-35) (Retool)</description>
+		<version>2026-09-29 02-52-35</version>
+		<date>2026-09-29 08-11-06</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -468,6 +468,18 @@
 		<description>12 Game Compendium (UK) (Covermount)</description>
 		<rom name="12 Game Compendium (UK) (Covermount).bin" size="497048160" crc="4c375fc7" md5="3613c892b88cd4aebc6be85d2d447792" sha1="ec4f9d62a3531c956e3e64987fd172b8f7275629"/>
 		<rom name="12 Game Compendium (UK) (Covermount).cue" size="102" crc="46fe530c" md5="88d96ae10f4a8271eeb2d59c104b3f20" sha1="c947f95ce00f9093c4a2fc71a65ffe2d25a6eb74"/>
+	</game>
+	<game name="12 stul'ev - Kak e'to bylo na samom dele (Russia) (Disc 1)" id="138873">
+		<category>Games</category>
+		<description>12 stul'ev - Kak e'to bylo na samom dele (Russia) (Disc 1)</description>
+		<rom name="12 stul'ev - Kak e'to bylo na samom dele (Russia) (Disc 1).bin" size="784401408" crc="cc0257a9" md5="038ae4c857ee22e3496ddfb1dac5f402" sha1="05d0b5097953f5b763862d6e322989b20d734bd9"/>
+		<rom name="12 stul'ev - Kak e'to bylo na samom dele (Russia) (Disc 1).cue" size="124" crc="e8c65153" md5="39165ba4eab018f9542283a85feeb1bc" sha1="810abd99e4089030149f98e9c7a5e4adef6224e7"/>
+	</game>
+	<game name="12 stul'ev - Kak e'to bylo na samom dele (Russia) (Disc 2)" id="138874">
+		<category>Games</category>
+		<description>12 stul'ev - Kak e'to bylo na samom dele (Russia) (Disc 2)</description>
+		<rom name="12 stul'ev - Kak e'to bylo na samom dele (Russia) (Disc 2).bin" size="460333440" crc="0aa1418e" md5="a11dd50e2584a04cd40e6e336a14c961" sha1="9adc9e1b2d3449daa3144abb8433dd3c2cbac16a"/>
+		<rom name="12 stul'ev - Kak e'to bylo na samom dele (Russia) (Disc 2).cue" size="124" crc="e99b7782" md5="ac589db50f363d29168c573359930589" sha1="9afd80903acbfdfe74d89de6c703f5856850c6ed"/>
 	</game>
 	<game name="120 Denk- und Knobelspiele (Germany)" id="39082">
 		<category>Games</category>
@@ -13817,6 +13829,12 @@
 		<rom name="Azada - Kniga tajn (Russia).bin" size="652839936" crc="0f36fcee" md5="ace01ea9217798ce0bff6ebb13ce2a97" sha1="28f89797565d70d448844f8c7e8993815f3fdb91"/>
 		<rom name="Azada - Kniga tajn (Russia).cue" size="93" crc="cf6e6da8" md5="f2ce38703118703419b632d7b7f75bb3" sha1="8f95b45108384a03bec684aa89ca047ede056cb7"/>
 	</game>
+	<game name="Azada - Legendy proshlogo (Russia)" id="138888">
+		<category>Games</category>
+		<description>Azada - Legendy proshlogo (Russia)</description>
+		<rom name="Azada - Legendy proshlogo (Russia).bin" size="651033600" crc="8bae98de" md5="4ac77ec846f57a87706823c8a0d2edcc" sha1="4f6683e3ecb784b5955e3e0f0b26ec5264d53742"/>
+		<rom name="Azada - Legendy proshlogo (Russia).cue" size="100" crc="47f8c630" md5="ba4cc9efe41ff67e4cdda08ba3de12cf" sha1="7fe3c3819f81f80dc66b6bd3d61c72320cb3faa5"/>
+	</game>
 	<game name="Azartnyj igrok (Russia)" id="97001">
 		<category>Games</category>
 		<description>Azartnyj igrok (Russia)</description>
@@ -17437,6 +17455,12 @@
 		<description>Beloe solnce pustyni (Russia) (Disc 2)</description>
 		<rom name="Beloe solnce pustyni (Russia) (Disc 2).bin" size="395592288" crc="911f947d" md5="440229f5e764066803d3910dccc4575c" sha1="f82d99fc833499f08411e257549a6fc85811f3e8"/>
 		<rom name="Beloe solnce pustyni (Russia) (Disc 2).cue" size="104" crc="6aeb9861" md5="dc32000e1ef7f07a27f3a94824d32629" sha1="20f27ed58364130e0d0d572015324f7480cd732f"/>
+	</game>
+	<game name="Belosnezhka i sem' gnomov (Russia) (En,Ru)" id="138885">
+		<category>Games</category>
+		<description>Belosnezhka i sem' gnomov (Russia) (En,Ru)</description>
+		<rom name="Belosnezhka i sem' gnomov (Russia) (En,Ru).bin" size="544904304" crc="5984d1b0" md5="ca381aded28c221cada433a74f4d37b0" sha1="86825617b543a9d17db140b87af998fe6ca2cb88"/>
+		<rom name="Belosnezhka i sem' gnomov (Russia) (En,Ru).cue" size="108" crc="0583b556" md5="b0e154c218ddaa13f7bfb631c263069b" sha1="c223d6572f3089eaf8f6ceb2afc369468c062f31"/>
 	</game>
 	<game name="Bemazed (Netherlands)" id="133351">
 		<category>Games</category>
@@ -21959,6 +21983,12 @@
 		<category>Games</category>
 		<description>Brink of Consciousness - Dorian Gray Syndrome - 6-Pack (USA)</description>
 		<rom name="Brink of Consciousness - Dorian Gray Syndrome - 6-Pack (USA).iso" size="3499098112" crc="b523ed03" md5="f3528bae8271f6532a7b9c9b26d96bb1" sha1="fd8a43d3585e6602520d79a2f47ac9c88ec22ec8"/>
+	</game>
+	<game name="Briskas - Ispanskaya kartochnaya igra (Russia)" id="138878">
+		<category>Games</category>
+		<description>Briskas - Ispanskaya kartochnaya igra (Russia)</description>
+		<rom name="Briskas - Ispanskaya kartochnaya igra (Russia).bin" size="32490528" crc="9c54ff6b" md5="912e561cb5362c22e7e9ec1254662b23" sha1="3bc4512109a1814614efc5b50ac7b5fa5e112da2"/>
+		<rom name="Briskas - Ispanskaya kartochnaya igra (Russia).cue" size="112" crc="82326ad0" md5="24515154f493aa3bdbf3f5de76897b76" sha1="c2156ebb7b0e466baf7ad4f1fa9b8f8dee524d2d"/>
 	</game>
 	<game name="Britannica Puzzle Potpourri (UK)" id="77506">
 		<category>Games</category>
@@ -43902,6 +43932,12 @@
 		<description>DoveZ - Second Wave (Germany) (En,De)</description>
 		<rom name="DoveZ - Second Wave (Germany) (En,De).bin" size="810931968" crc="a064994c" md5="856ca0a6de2c47a3f13df6a738f38f6e" sha1="8b2d3b841707562223472b8e3050315ebd8b812a"/>
 		<rom name="DoveZ - Second Wave (Germany) (En,De).cue" size="103" crc="fb02ec6a" md5="011c9c8301d63afb3f384a29e510b5f3" sha1="7e72b48dd8f5d2a37eb0a8b146c58801c79e3f7d"/>
+	</game>
+	<game name="Down in Flames (Russia)" id="138893">
+		<category>Games</category>
+		<description>Down in Flames (Russia)</description>
+		<rom name="Down in Flames (Russia).bin" size="801324048" crc="114fb85d" md5="5ba5524f097d7722dc3cc5e371135353" sha1="e99c7b35942c8443862766a630e32ae352a8ecbe"/>
+		<rom name="Down in Flames (Russia).cue" size="89" crc="82b49b11" md5="93d571303baa096c36d8de860b9ad190" sha1="caf9ed8c010f6198a9348d8c2b6dcbc380c56342"/>
 	</game>
 	<game name="Down in the Dumps (Europe) (Disc 1)" id="3340">
 		<category>Games</category>
@@ -78576,6 +78612,12 @@
 		<rom name="Isola di Robinson, L' (Italy).bin" size="406432656" crc="e4c23bac" md5="96c8d29c2a56d292f67bcc60f039b98f" sha1="3838b256c432fc595fe7595966a7f5b8f6dbe8ad"/>
 		<rom name="Isola di Robinson, L' (Italy).cue" size="95" crc="6a42ef1d" md5="c26f7dd60b849e5ebc6a650fa217c4c1" sha1="bcc732462c4b1de38071093bbb3bc1391af72a93"/>
 	</game>
+	<game name="Ispytanie bogov - Sud'ba Ariadny (Russia)" id="138882">
+		<category>Games</category>
+		<description>Ispytanie bogov - Sud'ba Ariadny (Russia)</description>
+		<rom name="Ispytanie bogov - Sud'ba Ariadny (Russia).bin" size="458959872" crc="8f3f17da" md5="09d1bd6a5b3b94d8b24104deb46d00c4" sha1="1eb24afdf90bad746fc768b6ebead328f8402c33"/>
+		<rom name="Ispytanie bogov - Sud'ba Ariadny (Russia).cue" size="107" crc="b242ac80" md5="d3f7af51e60a00d561f31117dc278f7d" sha1="25e7046757eae92d95472e977fcd18fef1207542"/>
+	</game>
 	<game name="Istanbul Kiyamet Vakti - Derindeki Sir (Turkey)" id="85594">
 		<category>Games</category>
 		<description>Istanbul Kiyamet Vakti - Derindeki Sir (Turkey)</description>
@@ -79292,6 +79334,12 @@
 		<description>Jagged Alliance World (Russia) (En,Ru) (Disc 2)</description>
 		<rom name="Jagged Alliance World (Russia) (En,Ru) (Disc 2).bin" size="769579104" crc="d4a5c5b9" md5="13f1b409a4f44d4b0a331557ca470eb7" sha1="28adfe42a466b4d0678d644888937431dc765396"/>
 		<rom name="Jagged Alliance World (Russia) (En,Ru) (Disc 2).cue" size="113" crc="d192b7bc" md5="9eb74e0c905e28da111b24d2620895b4" sha1="5bff28e9ef94486bd432f1ad6573f4a8a84bb64b"/>
+	</game>
+	<game name="Jaguar Extremist Pack 1 (USA) (Disc 1) (Unl)" id="137917">
+		<category>Preproduction</category>
+		<description>Jaguar Extremist Pack 1 (USA) (Disc 1) (Unl)</description>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 1) (Unl).bin" size="5414304" crc="0a836424" md5="a1a3a4d9dc07ed599435812202f047eb" sha1="567190af053cf6dcc4f9313d22f01a17a353368c"/>
+		<rom name="Jaguar Extremist Pack 1 (USA) (Disc 1) (Unl).cue" size="110" crc="6c30f8be" md5="2d32b72fe34a239341fdc5068534c5e7" sha1="b28506bb12b54a176a6b806cb0ba1648d864af94"/>
 	</game>
 	<game name="Jahrmarkt Manager (Germany) (En,Fr,De)" id="133034">
 		<category>Games</category>
@@ -82566,6 +82614,18 @@
 		<rom name="Kart Racer (USA) (En,Fr,De,Es,It).bin" size="616548576" crc="f397a01a" md5="26cf9f5cacf2b246682319a11b7ffcdc" sha1="55449d08fea5ef1a1bc67b39a5c089018e6f12a1"/>
 		<rom name="Kart Racer (USA) (En,Fr,De,Es,It).cue" size="99" crc="01cd4cab" md5="645a0d10eef35331aff8721e7f0d5f48" sha1="4565a78276d7f1823db3ea63c1aae67cd16a8b20"/>
 	</game>
+	<game name="Kart-blansh - Zuby na polku! (Russia) (Disc 1)" id="138883">
+		<category>Games</category>
+		<description>Kart-blansh - Zuby na polku! (Russia) (Disc 1)</description>
+		<rom name="Kart-blansh - Zuby na polku! (Russia) (Disc 1).bin" size="838798464" crc="dc94b151" md5="fb6d3ccc5060c38475b812ca6c9995fe" sha1="db62325a58cd704ab3debe2addf5e5b2d4b1df52"/>
+		<rom name="Kart-blansh - Zuby na polku! (Russia) (Disc 1).cue" size="112" crc="ca2be677" md5="940e18640afcf1fe126b68a1c938a475" sha1="9e21eb05a7f3ef002beb6c89043216bdf35d8ee5"/>
+	</game>
+	<game name="Kart-blansh - Zuby na polku! (Russia) (Disc 2)" id="138884">
+		<category>Games</category>
+		<description>Kart-blansh - Zuby na polku! (Russia) (Disc 2)</description>
+		<rom name="Kart-blansh - Zuby na polku! (Russia) (Disc 2).bin" size="205978752" crc="d61a34b1" md5="85e59776273053b57983bd71eb7abdf8" sha1="2f0a72acd656a39468d8eb33d8d8e34238810105"/>
+		<rom name="Kart-blansh - Zuby na polku! (Russia) (Disc 2).cue" size="112" crc="cb76c0a6" md5="4484157b525667a7bf12a1926f6b9112" sha1="c7d4e25b5bde42407672ff39bb7dd61a26efe920"/>
+	</game>
 	<game name="Karten Spiele (Germany)" id="88588">
 		<category>Games</category>
 		<description>Karten Spiele (Germany)</description>
@@ -85260,6 +85320,12 @@
 		<description>Krasavica ili Chudovishhe (Russia)</description>
 		<rom name="Krasavica ili Chudovishhe (Russia).bin" size="710717952" crc="62ffc857" md5="bdb360c43744199418302a7ebceeec47" sha1="d0e0b578da35007746a966c335dcc35e067cf600"/>
 		<rom name="Krasavica ili Chudovishhe (Russia).cue" size="100" crc="7036664c" md5="a7c6a61feec78f7bacdeddf9de7552f2" sha1="2270b5e658df519ca78eed60aef559018fc41436"/>
+	</game>
+	<game name="Krasavicy i chudovishha (Russia)" id="138890">
+		<category>Games</category>
+		<description>Krasavicy i chudovishha (Russia)</description>
+		<rom name="Krasavicy i chudovishha (Russia).bin" size="161081424" crc="dcfa77d8" md5="7ee40abfff67a9742aff39c9f5fd5d20" sha1="8d1a4916e22de89ee0cfc7910ddf91510ce2ced5"/>
+		<rom name="Krasavicy i chudovishha (Russia).cue" size="98" crc="99ae1d26" md5="15fea4562347408bdf876923d2f5e277" sha1="ea765b41241f991dce040257de40038a5feb4736"/>
 	</game>
 	<game name="Krasnaya kollekciya (Russia)" id="86851">
 		<category>Games</category>
@@ -88086,7 +88152,7 @@
 		<category>Games</category>
 		<description>Leisure Suit Larry - Magna Cum Laude (USA) (Disc 2)</description>
 		<rom name="Leisure Suit Larry - Magna Cum Laude (USA) (Disc 2).bin" size="758769312" crc="5800797d" md5="1a5c7683a7a4b967afb41d83278eaeef" sha1="750533054603f2e8e87d22318d47f2f201644970"/>
-		<rom name="Leisure Suit Larry - Magna Cum Laude (USA) (Disc 2).cue" size="117" crc="d18e32a2" md5="bcf7a289e2ae7db105137eff4bf6b3bf" sha1="08f631e7fb722aa3b98ad8b411bbe4f35b04b526"/>
+		<rom name="Leisure Suit Larry - Magna Cum Laude (USA) (Disc 2).cue" size="140" crc="4942bb96" md5="b0f99a4ea680880706c3ba4e9a711094" sha1="54eb174d0211a4a7fe31ef3e2c87b961871048e5"/>
 	</game>
 	<game name="Leisure Suit Larry - Magna Cum Laude (USA) (Disc 2) (Uncut and Uncensored!)" id="88324">
 		<category>Games</category>
@@ -92927,6 +92993,12 @@
 		<rom name="Madou Monogatari Kyuukyoku Taizen Tsuu - MD &amp; DS (Japan).bin" size="157151232" crc="caa5e94f" md5="1169ce6f0058ebea86927813fc8b35e1" sha1="c4468471367e509581dedfbc0392e0b83d7957af"/>
 		<rom name="Madou Monogatari Kyuukyoku Taizen Tsuu - MD &amp; DS (Japan).cue" size="122" crc="68503ee8" md5="7c7223fbc5ef6ad52f855267dd8b4ce1" sha1="0e9cd0eddd58dc10c79670d97622fcd47395591a"/>
 	</game>
+	<game name="Madzhong - Artefakt (Russia)" id="138889">
+		<category>Games</category>
+		<description>Madzhong - Artefakt (Russia)</description>
+		<rom name="Madzhong - Artefakt (Russia).bin" size="100345728" crc="8c313a64" md5="fc3f2d9e277327a4a30940cce7347988" sha1="f03016c08026cc47d13cc890d6d4e1bec0a8c02b"/>
+		<rom name="Madzhong - Artefakt (Russia).cue" size="94" crc="c7c63e2c" md5="a0830d2d851b3041cb9388017bacef29" sha1="509ad4c84e6228eab4fcdf3090089fbf14770360"/>
+	</game>
 	<game name="Madzhong - Rassledovanie (Russia)" id="138525">
 		<category>Games</category>
 		<description>Madzhong - Rassledovanie (Russia)</description>
@@ -93054,6 +93126,12 @@
 		<rom name="Mag!!! (Germany) (Rev 1) (Track 09).bin" size="10765104" crc="71c702cd" md5="bb531a801b3b9fd87e957ee3e7487456" sha1="47db7bc4ca08403f220998e398cbf7949aca2a82"/>
 		<rom name="Mag!!! (Germany) (Rev 1) (Track 10).bin" size="35284704" crc="5df6074f" md5="c316b1d5a09eb29829e205f3ba5d11a7" sha1="44cd392cbefb028ac8ca60edb162297f95d6550f"/>
 		<rom name="Mag!!! (Germany) (Rev 1).cue" size="1195" crc="ce7c13e3" md5="b3e3c8345b4e80b55101f76f011130e8" sha1="6087261877888668384fd7e93e4cea62cb28c7c4"/>
+	</game>
+	<game name="Magazin tropicheskix rybok - Priklyuchenie Annabel' (Russia)" id="138895">
+		<category>Games</category>
+		<description>Magazin tropicheskix rybok - Priklyuchenie Annabel' (Russia)</description>
+		<rom name="Magazin tropicheskix rybok - Priklyuchenie Annabel' (Russia).bin" size="527384256" crc="5b823c50" md5="2a07eab47adb3901075ca4434f47f56f" sha1="432f8c3872708b08d6a99b0d6a3d9cf83175dfbc"/>
+		<rom name="Magazin tropicheskix rybok - Priklyuchenie Annabel' (Russia).cue" size="126" crc="2311f7da" md5="7ea0fd77f416563bcd94c932062bb03d" sha1="9c699b0b623a7d067e05a699f2fbee5a8580a286"/>
 	</game>
 	<game name="Mage Knight - Apocalypse (Europe)" id="129461">
 		<category>Games</category>
@@ -95932,6 +96010,12 @@
 		<description>Masterpiece Mansion (USA)</description>
 		<rom name="Masterpiece Mansion (USA).bin" size="333558288" crc="9ad4e4ad" md5="512d2f7c79daede6515aa20e95eaba27" sha1="0f5342e8e17bf034e6df3db5fe2a8d90b13542ed"/>
 		<rom name="Masterpiece Mansion (USA).cue" size="114" crc="9ce0b2e5" md5="3b3d881755025f5056377ad278da03d9" sha1="e48f35753fe9f55260feebbc6843ce706047598b"/>
+	</game>
+	<game name="Masterpiece Special Taikenban (Japan)" id="138862">
+		<category>Demos</category>
+		<description>Masterpiece Special Taikenban (Japan)</description>
+		<rom name="Masterpiece Special Taikenban (Japan).bin" size="60712176" crc="26e9dce9" md5="5a635948cb64773e10680c978b1ac782" sha1="68cff39d0a76cad55c713dd825beee1cc65407cd"/>
+		<rom name="Masterpiece Special Taikenban (Japan).cue" size="126" crc="71afb6f1" md5="2a88b2267f1ee5026e88e9cde2c09c5c" sha1="4b8571581e58c12073c4e0ee49d92164f3953579"/>
 	</game>
 	<game name="Masters of Elements - Unmei no Shihaisha (Japan)" id="95943">
 		<category>Games</category>
@@ -105417,6 +105501,12 @@
 		<rom name="Mumi-trolli - Morskaya progulka (Russia).bin" size="830197200" crc="032b4251" md5="beac244f705c204cfd13161a89019a9f" sha1="3795f000101fe4b074dd82c6249cab21fff0b13b"/>
 		<rom name="Mumi-trolli - Morskaya progulka (Russia).cue" size="106" crc="73b39f85" md5="694f238b1b313769eb61d868fc4afec2" sha1="fb1824b6359c5be81b519acbf46fd9a8b471c309"/>
 	</game>
+	<game name="Mumi-trolli - V poiskax rubina (Russia)" id="138886">
+		<category>Games</category>
+		<description>Mumi-trolli - V poiskax rubina (Russia)</description>
+		<rom name="Mumi-trolli - V poiskax rubina (Russia).bin" size="801107664" crc="34e04de3" md5="cfa1f41f4719942bb2e9c81734f520c2" sha1="3ac77efe15b19753463067324d8815598d9f4fd0"/>
+		<rom name="Mumi-trolli - V poiskax rubina (Russia).cue" size="105" crc="9928625e" md5="062b2d60cbcbac3f73293950ceb09199" sha1="52a5cbaa70ffdfb6f1630904476338cc3c8f3589"/>
+	</game>
 	<game name="Mumin och Ninni - Det Osynliga Barnet (Sweden)" id="123673">
 		<category>Games</category>
 		<description>Mumin och Ninni - Det Osynliga Barnet (Sweden)</description>
@@ -114820,6 +114910,18 @@
 		<rom name="Oxide (Netherlands).bin" size="13199424" crc="166664b1" md5="58512692ee669e42bba442421da0419f" sha1="6bd5c50378061c4f0c9a12dfc6aa8ba78d08d2f4"/>
 		<rom name="Oxide (Netherlands).cue" size="85" crc="6d94d042" md5="0caecd5fa983eb06a59015e4df53e0c8" sha1="dfff7a92092cdd3dfd0cb85d797a6970c63fecab"/>
 	</game>
+	<game name="Oxotnik za prizrakami - Delo 2 - Gorod bez nazvaniya (Russia) (Disc 1)" id="138879">
+		<category>Games</category>
+		<description>Oxotnik za prizrakami - Delo 2 - Gorod bez nazvaniya (Russia) (Disc 1)</description>
+		<rom name="Oxotnik za prizrakami - Delo 2 - Gorod bez nazvaniya (Russia) (Disc 1).bin" size="515544288" crc="0d93af89" md5="8cae1066a2fee2e43dbcb72251b7915c" sha1="86353a31e7aab1b1b1e1511f3cc95bc07c58a3e5"/>
+		<rom name="Oxotnik za prizrakami - Delo 2 - Gorod bez nazvaniya (Russia) (Disc 1).cue" size="136" crc="1ee653ed" md5="f195d5474ccdbdbe902736181b3dbafa" sha1="c957056616e2338d8837ff03e9fccd8584e401f8"/>
+	</game>
+	<game name="Oxotnik za prizrakami - Delo 2 - Gorod bez nazvaniya (Russia) (Disc 2)" id="138880">
+		<category>Games</category>
+		<description>Oxotnik za prizrakami - Delo 2 - Gorod bez nazvaniya (Russia) (Disc 2)</description>
+		<rom name="Oxotnik za prizrakami - Delo 2 - Gorod bez nazvaniya (Russia) (Disc 2).bin" size="519535632" crc="7925b3eb" md5="e826b0a25affce8bc2f6d82bf852d843" sha1="e7e73ab0e09a24c54d02993b87a6d310cbb29648"/>
+		<rom name="Oxotnik za prizrakami - Delo 2 - Gorod bez nazvaniya (Russia) (Disc 2).cue" size="136" crc="1fbb753c" md5="acd47502cf96632b50bbd1eaa6ccadca" sha1="b610da3f97bb7fcf9adef0cb4e4c02daf52e64f0"/>
+	</game>
 	<game name="Oxyd Magnum! Gold Edition (Germany) (Rerelease)" id="49187">
 		<category>Games</category>
 		<description>Oxyd Magnum! Gold Edition (Germany) (Rerelease)</description>
@@ -116765,6 +116867,12 @@
 		<description>Party's Breaker - The Queen of Hearts 2001 (Japan)</description>
 		<rom name="Party's Breaker - The Queen of Hearts 2001 (Japan).bin" size="734710704" crc="ff9484fa" md5="95cb2f2877bd99a5b829be747ca803f7" sha1="ba2d27090ce19c619d1e77df6ba72330d7c112ac"/>
 		<rom name="Party's Breaker - The Queen of Hearts 2001 (Japan).cue" size="139" crc="2a78fe85" md5="99f6d955a0492682fef85b5a443ed99d" sha1="faaee92f2f5b761954c0213e0553c52832658d14"/>
+	</game>
+	<game name="Pas'yans - Morskie kanikuly (Russia)" id="138877">
+		<category>Games</category>
+		<description>Pas'yans - Morskie kanikuly (Russia)</description>
+		<rom name="Pas'yans - Morskie kanikuly (Russia).bin" size="727419504" crc="dedbdbe8" md5="abdeb78b435c45fd19c1d977fb36f363" sha1="87d6c3b6e324c96253addd0cd1f64a1650f18f53"/>
+		<rom name="Pas'yans - Morskie kanikuly (Russia).cue" size="102" crc="460c8da6" md5="fad5d61f0c4315de3123a400ff1d66cf" sha1="db841c402c924c8d292b1add4a9d96077f0b27c0"/>
 	</game>
 	<game name="Pasaz Tesco - Zielone Swiatlo - Nauka Przepisow Drogowych Dla Dzieci (Poland)" id="110217">
 		<category>Games</category>
@@ -140711,6 +140819,12 @@
 		<description>Sezon oxoty (Russia)</description>
 		<rom name="Sezon oxoty (Russia).iso" size="1270448128" crc="89f6af5a" md5="20a1a61b52ab1da3841f0ab2ff0dffb0" sha1="e42f1ea44940f4b4bbd3d5fe830d05186e1a3440"/>
 	</game>
+	<game name="Sezon oxoty - Vecherinka u Buga (Russia)" id="138875">
+		<category>Games</category>
+		<description>Sezon oxoty - Vecherinka u Buga (Russia)</description>
+		<rom name="Sezon oxoty - Vecherinka u Buga (Russia).bin" size="742676928" crc="f469310d" md5="0553faa5506a3e1354a03cb5a6afb9cc" sha1="45edf9029cf140209ba93823593fd648f9d7c256"/>
+		<rom name="Sezon oxoty - Vecherinka u Buga (Russia).cue" size="106" crc="af16ab61" md5="cde89b22700e9864b540c4c439aa83ea" sha1="e4e896eef900289a76af0118eb786644b3d29bf2"/>
+	</game>
 	<game name="Sfera (Russia)" id="2148">
 		<category>Games</category>
 		<description>Sfera (Russia)</description>
@@ -142794,6 +142908,12 @@
 		<description>Shkola dressirovki (Russia)</description>
 		<rom name="Shkola dressirovki (Russia).bin" size="423752784" crc="54d108dd" md5="bb5110a5142d90355320b67c4476522b" sha1="a44425afca3d9da625acb992e89fc9b3f15285c3"/>
 		<rom name="Shkola dressirovki (Russia).cue" size="93" crc="d4330c94" md5="71f7be1d3590503e9d13f92b66535cb1" sha1="b9fcc2cb7a1b221159108a7bd280e390791fab86"/>
+	</game>
+	<game name="Shkola magii - Uchenik charodeya (Russia)" id="138894">
+		<category>Games</category>
+		<description>Shkola magii - Uchenik charodeya (Russia)</description>
+		<rom name="Shkola magii - Uchenik charodeya (Russia).bin" size="115558464" crc="97bc316a" md5="9daa940eee117cd8196b99c55df04a32" sha1="0d96d3062c69e05f3f7a318bd196d63fa3e7a1c6"/>
+		<rom name="Shkola magii - Uchenik charodeya (Russia).cue" size="107" crc="8dbf848b" md5="07c885d52ba9baa8ffe0cc286558a02c" sha1="7896644ebe6e60b055ea316e6b058df60504dcbb"/>
 	</game>
 	<game name="Sho-Ki (Japan) (Animation Disc)" id="97983">
 		<category>Games</category>
@@ -156854,6 +156974,12 @@
 		<description>Supermarket Mania (USA)</description>
 		<rom name="Supermarket Mania (USA).bin" size="63249984" crc="0351f82a" md5="afc0d8d10a313a8ebce35bcebea2c456" sha1="f557fc97c7ded4b516a38dba0d28ce4ece0767e5"/>
 		<rom name="Supermarket Mania (USA).cue" size="89" crc="78797dff" md5="91787d15f9d0b1b5917b6d1a264222ed" sha1="dd83277239ab63792c4ddb8641db2cb14b109525"/>
+	</game>
+	<game name="Superperec (Russia)" id="138876">
+		<category>Games</category>
+		<description>Superperec (Russia)</description>
+		<rom name="Superperec (Russia).bin" size="722035776" crc="0959edc6" md5="045f59b6a390fdc5d72a7714fa77ad65" sha1="efc819bb5d671a882636e13c4c2beec775bcdc0a"/>
+		<rom name="Superperec (Russia).cue" size="85" crc="f94ac2f2" md5="1eb33679ae65686d2dd5af12025d6e92" sha1="422d187272b2e18e6542c454ae6050a809ccefc1"/>
 	</game>
 	<game name="Supersemejka (Russia)" id="118394">
 		<category>Games</category>
@@ -172572,6 +172698,12 @@
 		<rom name="Vil du bli millionaer (Norway).bin" size="416473344" crc="c3d55162" md5="d93a57ed76df68281907adb7986dbb91" sha1="b0d57dcaf521960401b2f20c6becbd4c6650032a"/>
 		<rom name="Vil du bli millionaer (Norway).cue" size="96" crc="77e38612" md5="a82f64acafe759c48f4145289ac08782" sha1="27a545c31b725c84b208a83c8f98bbb158c2c0ea"/>
 	</game>
+	<game name="Vil'gel'm Tell' - Golyj arbalet (Russia)" id="138892">
+		<category>Games</category>
+		<description>Vil'gel'm Tell' - Golyj arbalet (Russia)</description>
+		<rom name="Vil'gel'm Tell' - Golyj arbalet (Russia).bin" size="829272864" crc="a048d666" md5="c0dc82677ea0fefe4e34a049c2527c75" sha1="325e1ee0be6cb7fdca05143e770e2a0700795690"/>
+		<rom name="Vil'gel'm Tell' - Golyj arbalet (Russia).cue" size="106" crc="c2920c50" md5="82ca6dbaed1516a91cd5aa6820f856ff" sha1="00db8b8cdb1021d7772212b2b8338d350123aa11"/>
+	</game>
 	<game name="Vinci alle Slot Machines! (Italy)" id="106544">
 		<category>Games</category>
 		<description>Vinci alle Slot Machines! (Italy)</description>
@@ -173593,6 +173725,11 @@
 		<description>Vojna s terrorom - Zachistka (Russia) (Disc 2)</description>
 		<rom name="Vojna s terrorom - Zachistka (Russia) (Disc 2).bin" size="789178320" crc="a3e7cfea" md5="685a523b21e950b3082bc86b712de8f4" sha1="2266354b48e32b69915eaf8d93b1f748024ba836"/>
 		<rom name="Vojna s terrorom - Zachistka (Russia) (Disc 2).cue" size="112" crc="ed0ed089" md5="92998852ea8c3777e0d34f44f2dad073" sha1="e05d33ba40c5d9a458ab4aca0958e8bd0a82d7a7"/>
+	</game>
+	<game name="Vojna v nebe - 1917 (Russia)" id="138864">
+		<category>Games</category>
+		<description>Vojna v nebe - 1917 (Russia)</description>
+		<rom name="Vojna v nebe - 1917 (Russia).iso" size="3284303872" crc="044f8d79" md5="29eac3efa91bb047d5793e846d682168" sha1="e19f4802c532e8adbedeb670551411b83fd56482"/>
 	</game>
 	<game name="Volker II, Die - Aufstieg zum Konigreich (Germany)" id="9381">
 		<category>Games</category>
@@ -183986,6 +184123,12 @@
 		<description>ZPC (USA)</description>
 		<rom name="ZPC (USA).bin" size="270531744" crc="5d163876" md5="920b8f58fa576013e710b428830ed5c1" sha1="acda7da119643ff430594b097e3675d327baaabc"/>
 		<rom name="ZPC (USA).cue" size="98" crc="5fab2a53" md5="8042f1742ef8ba7085daea0054cea639" sha1="6764bc427e3469cb419c34f1d620fa76b3d2bce0"/>
+	</game>
+	<game name="Za sem'yu pechatyami - Glavnye podozrevaemye (Russia)" id="138887">
+		<category>Games</category>
+		<description>Za sem'yu pechatyami - Glavnye podozrevaemye (Russia)</description>
+		<rom name="Za sem'yu pechatyami - Glavnye podozrevaemye (Russia).bin" size="644786688" crc="21ffe7cf" md5="74a038c7b4c7c879a28bb80bac7acd3e" sha1="97f85995a832c8e179a1a678dcad9d4c72bdf52e"/>
+		<rom name="Za sem'yu pechatyami - Glavnye podozrevaemye (Russia).cue" size="119" crc="bf3607f3" md5="52ed08e8f72d31b5db6b485702db50cf" sha1="5de44daec845f14d2c55a38a2c9face02d754609"/>
 	</game>
 	<game name="Za stenoj (Russia) (Disc 1)" id="96882">
 		<category>Games</category>
