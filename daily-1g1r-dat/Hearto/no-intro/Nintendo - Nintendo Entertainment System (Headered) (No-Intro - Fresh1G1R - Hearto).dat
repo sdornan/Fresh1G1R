@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,834) (-y) [-aAbBcefkmMoprv] (20260928-214953) (Retool)</description>
-		<version>20260928-214953</version>
-		<date>2026-09-29 08-17-51</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,835) (-y) [-aAbBcefkmMoprv] (20260929-215559) (Retool)</description>
+		<version>20260929-215559</version>
+		<date>2026-09-30 08-27-01</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1186,7 +1186,7 @@
 	<game name="Captain America and the Avengers (World) (Marvel MaXimum Collection)" id="8482">
 		<category>Games</category>
 		<description>Captain America and the Avengers (World) (Marvel MaXimum Collection)</description>
-		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).nes" size="262160" header="4e 45 53 1a 08 20 40 08 00 00 07 00 00 00 00 01" crc="e596f4fe" md5="3da8efcb80e929a3e071aef1ba44c1d1" sha1="6b8e20e5b04395912ba8be59b6c9705b12e748dd" sha256="fc438fd47b0f5848b8891b35f17e31005519d6e13894b7fb403f3a46ca3049cf"/>
+		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).nes" size="262160" header="4e 45 53 1a 08 10 40 08 00 00 00 00 00 00 00 01" crc="e596f4fe" md5="3da8efcb80e929a3e071aef1ba44c1d1" sha1="6b8e20e5b04395912ba8be59b6c9705b12e748dd" sha256="fc438fd47b0f5848b8891b35f17e31005519d6e13894b7fb403f3a46ca3049cf"/>
 	</game>
 	<game name="Captain Comic - The Adventure (USA, Brazil) (En) (Unl)" id="0054">
 		<category>Games</category>
@@ -1262,6 +1262,11 @@
 		<category>Games</category>
 		<description>Castlevania (USA) (Rev 1)</description>
 		<rom name="Castlevania (USA) (Rev 1).nes" size="131088" header="4e 45 53 1a 08 00 21 08 20 00 00 07 00 00 00 01" crc="12a6cb14" md5="a1b849f232781d0e929435df447822b5" sha1="4e3ef47de86a941c37359bb3acfa5542a0fa7876" sha256="5e859d77bc0e3a9f30a7c14d2637b9c2aae6ce19f6520a7c9b252a86974f7800"/>
+	</game>
+	<game name="Castlevania (World) (40th Anniversary)" id="8634">
+		<category>Games</category>
+		<description>Castlevania (World) (40th Anniversary)</description>
+		<rom name="Castlevania (World) (40th Anniversary).nes" size="131088" header="4e 45 53 1a 08 00 21 08 20 00 00 07 02 00 00 01" crc="5ae3a06c" md5="687d78d7e4bbf6c96d6ca5035ad5270c" sha1="97832e0df2d7c5b881468991e807fda95b4a44ba" sha256="f998abc6cdbb8b43448648a72568ef56fa474b8c00bb70ffc6e8cbdf40dea0ee"/>
 	</game>
 	<game name="Castlevania II - Simon's Quest (USA)" id="0360">
 		<category>Games</category>
@@ -9047,7 +9052,7 @@
 	<game name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl)" id="1978">
 		<category>Games</category>
 		<description>Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl)</description>
-		<rom name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl).nes" size="196624" header="4e 45 53 1a 08 08 00 b8 00 00 00 00 03 00 00 00" crc="28733128" md5="2a1516ebd262e8099f1d8473e96f3f6e" sha1="fa5c26c2f524e6fcd8efda024c6047628db14cdd" sha256="20d6f2b25b391e62f94f21acbc0f40ab11095be08e78aa5c485cc89dd81af024"/>
+		<rom name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl).nes" size="196624" header="4e 45 53 1a 08 08 00 b8 00 00 00 00 03 00 00 40" crc="f828e645" md5="d2ac54add4373425f69f90a47e51c4ad" sha1="a318b88b9ad7d0323a166fa99aa4a360e5e0e311" sha256="c6d9e30fe42b83951680a94f01e260af94c8b5acc4000c781c95a6430b5f314a"/>
 	</game>
 	<game name="Xiao Mali (Taiwan) (En) (Nei-Hu) (Unl)" id="2781">
 		<category>Games</category>

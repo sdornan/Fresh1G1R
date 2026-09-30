@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,718) (-y) [-aAbBcefkmMoprv] (20260919-175115) (Retool)</description>
-		<version>20260919-175115</version>
-		<date>2026-09-29 08-19-54</date>
+		<description>Nintendo - Game Boy Advance (1,718) (-y) [-aAbBcefkmMoprv] (20260929-130236) (Retool)</description>
+		<version>20260929-130236</version>
+		<date>2026-09-30 08-23-47</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, UnlockerPT, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1371,7 +1371,7 @@
 	<game name="Crash Bandicoot 2 - N-Tranced (USA)" id="0832">
 		<category>Games</category>
 		<description>Crash Bandicoot 2 - N-Tranced (USA)</description>
-		<rom name="Crash Bandicoot 2 - N-Tranced (USA).gba" size="8388608" crc="2e16184a" md5="617b2b2590e2925228dbdb162b05d6f6" sha1="972158859ea08aa5746ab2e0d4c81ac43728adff"/>
+		<rom name="Crash Bandicoot 2 - N-Tranced (USA).gba" size="8388608" crc="2e16184a" md5="617b2b2590e2925228dbdb162b05d6f6" sha1="972158859ea08aa5746ab2e0d4c81ac43728adff" sha256="2623df1c9d91b5e9b2c1488e4a1632f14b9d1bc87c14f4dadca417fd1dda5ab1"/>
 	</game>
 	<game name="Crash Bandicoot Purple - Ripto's Rampage (USA) (Rev 1)" id="2813">
 		<category>Games</category>
@@ -6832,7 +6832,7 @@
 	<game name="Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)" id="0469">
 		<category>Games</category>
 		<description>Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
-		<rom name="Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba" size="8388608" crc="73ef3a35" md5="3ff6f06de88f0646e8cf85181ca2e10d" sha1="05799b99395aba04dfe5ae8af019e4d70cb8e61b"/>
+		<rom name="Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba" size="8388608" crc="73ef3a35" md5="3ff6f06de88f0646e8cf85181ca2e10d" sha1="05799b99395aba04dfe5ae8af019e4d70cb8e61b" sha256="2f930badb11ec10b2e35450887f04b3d8823df8be642618d7a76adda8d33fedd"/>
 	</game>
 	<game name="Sonic 3 - Fighter Sonic (USA) (Unl)" id="2926">
 		<category>Games</category>

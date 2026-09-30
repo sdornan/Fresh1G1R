@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (473) (-y) [-aAbBcefkmMoprv] (2026-09-28 13-52-35) (Retool)</description>
-		<version>2026-09-28 13-52-35</version>
-		<date>2026-09-29 08-10-06</date>
+		<description>DVD-Video (475) (-y) [-aAbBcefkmMoprv] (2026-09-29 09-33-58) (Retool)</description>
+		<version>2026-09-29 09-33-58</version>
+		<date>2026-09-30 08-17-52</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -770,6 +770,11 @@
 		<category>Demos</category>
 		<description>Hamburger Hill - Collina 937 (Italy) (En,It)</description>
 		<rom name="Hamburger Hill - Collina 937 (Italy) (En,It).iso" size="7969538048" crc="3f7b423c" md5="5240c9a6db6170d2cd4c05302d50e128" sha1="4f5ed784ff4c433b8efbb7eadb5b60c0138b5209"/>
+	</game>
+	<game name="Hannah Montana DVD Game (USA)" id="138900">
+		<category>Games</category>
+		<description>Hannah Montana DVD Game (USA)</description>
+		<rom name="Hannah Montana DVD Game (USA).iso" size="7660765184" crc="97017377" md5="4a8fd7727340cbc7a7ebcfe99a0da8f1" sha1="651259a3013f6b83e64afb3a369e0fbdd4e09840"/>
 	</game>
 	<game name="Happy Feet - Videogame Sampler and Bonus Features (USA)" id="107814">
 		<category>Demos</category>
@@ -2165,6 +2170,11 @@
 		<category>Games</category>
 		<description>Trivial Pursuit DVD - Star Wars Saga Edition (USA) (Disc 2)</description>
 		<rom name="Trivial Pursuit DVD - Star Wars Saga Edition (USA) (Disc 2).iso" size="4537989120" crc="fc640ee9" md5="5478bbdd9bc7f356d684dfe8e7d9e94e" sha1="85ab1c260c026c7b62c097abd52127bf5dd58e2d"/>
+	</game>
+	<game name="Trivial Pursuit DVD for Kids - Season 1 (USA)" id="138901">
+		<category>Games</category>
+		<description>Trivial Pursuit DVD for Kids - Season 1 (USA)</description>
+		<rom name="Trivial Pursuit DVD for Kids - Season 1 (USA).iso" size="7324008448" crc="b9f0e40f" md5="0b3de5bd8e8e645b14f48c6b53a56945" sha1="da16a4e3f4d39fa9166c3df7de16460a441edf98"/>
 	</game>
 	<game name="Trivideo 20th Century Trivia Game (USA)" id="63950">
 		<category>Games</category>

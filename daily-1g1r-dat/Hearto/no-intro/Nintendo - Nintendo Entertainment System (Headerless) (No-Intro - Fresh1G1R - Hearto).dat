@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,834) (-y) [-aAbBcefkmMoprv] (20260928-214953) (Retool)</description>
-		<version>20260928-214953</version>
-		<date>2026-09-29 08-17-25</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,835) (-y) [-aAbBcefkmMoprv] (20260929-215559) (Retool)</description>
+		<version>20260929-215559</version>
+		<date>2026-09-30 08-25-47</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1262,6 +1262,11 @@
 		<category>Games</category>
 		<description>Castlevania (USA) (Rev 1)</description>
 		<rom name="Castlevania (USA) (Rev 1).unh" size="131072" crc="b668c7fc" md5="728e05f245ab8b7fe61083f6919dc485" sha1="3dcb69a8c861c041aeb56c04e39adf6d332eda3a" sha256="7eba1637cd2fdbc4f0732eb5249e32d827dbdadbd7e165f961440af4310880dc"/>
+	</game>
+	<game name="Castlevania (World) (40th Anniversary)" id="8634">
+		<category>Games</category>
+		<description>Castlevania (World) (40th Anniversary)</description>
+		<rom name="Castlevania (World) (40th Anniversary).unh" size="131072" crc="7f2bb23a" md5="52e543150b43974448828cce47ad4dca" sha1="1b4fcdab8a52b73c10e9fca94a95dca93687fb85" sha256="fc65c7f14c0ae4b3311aacfc19361c360a55dfe8f9aaaf92250782db2d255ba7"/>
 	</game>
 	<game name="Castlevania II - Simon's Quest (USA)" id="0360">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,869) (-y) [-aAbBcdkmMpPuv] (2026-09-28 17-12-35) (Retool)</description>
-		<version>2026-09-28 17-12-35</version>
-		<date>2026-09-29 08-35-13</date>
+		<description>Sony - PlayStation 4 (1,876) (-y) [-aAbBcdkmMpPuv] (2026-09-29 20-24-01) (Retool)</description>
+		<version>2026-09-29 20-24-01</version>
+		<date>2026-09-30 08-42-30</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1196,6 +1196,11 @@
 		<description>Brothers - A Tale of Two Sons (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru)</description>
 		<rom name="Brothers - A Tale of Two Sons (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru).iso" size="5181210624" crc="530606f0" md5="f7ff6eaf11895ac1759925bdc8ba1c9b" sha1="b3635108e19f8b0ae0612e2311f181af1498596f"/>
 	</game>
+	<game name="Bubble Bobble 4 Friends - Sukaru Monster no Gyakushuu (Japan)" id="138905">
+		<category>Games</category>
+		<description>Bubble Bobble 4 Friends - Sukaru Monster no Gyakushuu (Japan)</description>
+		<rom name="Bubble Bobble 4 Friends - Sukaru Monster no Gyakushuu (Japan).iso" size="2192179200" crc="69bec80d" md5="ae0112f418823e059e9a1a91979ac3ae" sha1="ca00fbb52f6fe7e7a2afd78ba39283a14c9bf297"/>
+	</game>
 	<game name="Bubble Bobble 4 Friends - The Baron Is Back! (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)" id="132372">
 		<category>Games</category>
 		<description>Bubble Bobble 4 Friends - The Baron Is Back! (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)</description>
@@ -1706,10 +1711,10 @@
 		<description>Crew, The (Europe)</description>
 		<rom name="Crew, The (Europe).iso" size="25024331776" crc="07e0d46c" md5="ab062af59bcca48c3a7ab283c71857a6" sha1="95916c5f0607f39d1abf53034e5856cbb2702c69"/>
 	</game>
-	<game name="Cris Tales (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru)" id="88616">
+	<game name="Cris Tales (USA, Japan) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru)" id="88616">
 		<category>Games</category>
-		<description>Cris Tales (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru)</description>
-		<rom name="Cris Tales (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru).iso" size="25024331776" crc="6836a368" md5="fba4dd6f84f843f9da5612d70cf2923b" sha1="1ca2bb7af98cc437b00839c27129dc8b6486f61f"/>
+		<description>Cris Tales (USA, Japan) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru)</description>
+		<rom name="Cris Tales (USA, Japan) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru).iso" size="25024331776" crc="6836a368" md5="fba4dd6f84f843f9da5612d70cf2923b" sha1="1ca2bb7af98cc437b00839c27129dc8b6486f61f"/>
 	</game>
 	<game name="Crisis Core - Final Fantasy VII - Reunion (USA)" id="106872">
 		<category>Games</category>
@@ -2770,6 +2775,16 @@
 		<category>Games</category>
 		<description>Empire of Sin (USA)</description>
 		<rom name="Empire of Sin (USA).iso" size="25024331776" crc="59b7bde5" md5="98f0b7231e65b7ea692a716a4efb0c00" sha1="120e263038542ee16279716fd4f36a6ee4d534bd"/>
+	</game>
+	<game name="Ender Lilies (Japan)" id="138906">
+		<category>Games</category>
+		<description>Ender Lilies (Japan)</description>
+		<rom name="Ender Lilies (Japan).iso" size="25024331776" crc="cb7cc442" md5="563685f0e1c3f5a4064c4be88119563d" sha1="3ab923e5089bed37691d7425a8918e7e80a06452"/>
+	</game>
+	<game name="Ender Magnolia - Bloom in the Mist (Japan)" id="138912">
+		<category>Games</category>
+		<description>Ender Magnolia - Bloom in the Mist (Japan)</description>
+		<rom name="Ender Magnolia - Bloom in the Mist (Japan).iso" size="4449042432" crc="929dc591" md5="b2d206be81c8cc87cda52622d1bef758" sha1="3d5eadfeacb7c4103ab14ac926424468b595cc84"/>
 	</game>
 	<game name="Endling - Extinction Is Forever (Canada)" id="133262">
 		<category>Games</category>
@@ -7326,6 +7341,11 @@
 		<description>Sega Mega Drive Classics (Europe)</description>
 		<rom name="Sega Mega Drive Classics (Europe).iso" size="25024331776" crc="812db259" md5="531051f902cbdc144d3a4abda1593b20" sha1="ea9963b74e930a9f5844798719bb1656ccdbc0a3"/>
 	</game>
+	<game name="Seiken Densetsu - Visions of Mana (Japan)" id="138910">
+		<category>Games</category>
+		<description>Seiken Densetsu - Visions of Mana (Japan)</description>
+		<rom name="Seiken Densetsu - Visions of Mana (Japan).iso" size="25024331776" crc="95927926" md5="98be75deed7204d58f10d73084d6fdf7" sha1="452ca3d9a81d24b244f8c063dec2b1030b62af4c"/>
+	</game>
 	<game name="Sekiro - Shadows Die Twice (USA) (En,Fr,Es,Pt)" id="67137">
 		<category>Games</category>
 		<description>Sekiro - Shadows Die Twice (USA) (En,Fr,Es,Pt)</description>
@@ -8361,6 +8381,11 @@
 		<description>Tokyo Chronos (USA)</description>
 		<rom name="Tokyo Chronos (USA).iso" size="2853896192" crc="c041f03d" md5="59a6bb1ba97e7d2cbcd78364f24dfd3c" sha1="7be3c7d42db32945ef1f1a1b025b73634b87f0d7"/>
 	</game>
+	<game name="Tokyo Psychodemic - Kouan Chousachou Tokubetsu Jishou Kagaku Jouhou Bunsekishitsu Tokushu Sousa Jikenbo (Japan)" id="138911">
+		<category>Games</category>
+		<description>Tokyo Psychodemic - Kouan Chousachou Tokubetsu Jishou Kagaku Jouhou Bunsekishitsu Tokushu Sousa Jikenbo (Japan)</description>
+		<rom name="Tokyo Psychodemic - Kouan Chousachou Tokubetsu Jishou Kagaku Jouhou Bunsekishitsu Tokushu Sousa Jikenbo (Japan).iso" size="5119148032" crc="882064f1" md5="5509fc1f469db4a7e598732b5414a071" sha1="9bbb118331dce4a55fc0152841b05460e203e4c0"/>
+	</game>
 	<game name="Tokyo Twilight Ghost Hunters - Daybreak Special Gigs (USA)" id="39995">
 		<category>Games</category>
 		<description>Tokyo Twilight Ghost Hunters - Daybreak Special Gigs (USA)</description>
@@ -9285,6 +9310,16 @@
 		<category>Games</category>
 		<description>Zanki Zero (Japan)</description>
 		<rom name="Zanki Zero (Japan).iso" size="7155220480" crc="d716ea9f" md5="88c91949b0e98adbd7a7d08b9d61c2e0" sha1="bd42a1cf752bfd3b00a5890fb6da43a8c7b78048"/>
+	</game>
+	<game name="Zero - Nuregarasu no Miko (Japan)" id="138908">
+		<category>Games</category>
+		<description>Zero - Nuregarasu no Miko (Japan)</description>
+		<rom name="Zero - Nuregarasu no Miko (Japan).iso" size="11968118784" crc="4e1c3a3d" md5="7d648fe49029d735702d5dc2b86af644" sha1="42a4aa893c3bff869075b609037daafeacc138b5"/>
+	</game>
+	<game name="Zero - Tsukihami no Kamen (Japan)" id="138909">
+		<category>Games</category>
+		<description>Zero - Tsukihami no Kamen (Japan)</description>
+		<rom name="Zero - Tsukihami no Kamen (Japan).iso" size="8768192512" crc="98fa2b7c" md5="a89b07db5ee5f40562ce2ff6ffd8f252" sha1="7cda414e7c07e6a7d9a0dfdda422bf24dcf8f3cb"/>
 	</game>
 	<game name="Zero Escape - 9-jikan 9-nin 9 no Tobira - Zennin Shibou Desu - Double Pack (Japan)" id="120927">
 		<category>Games</category>

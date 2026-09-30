@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (833) (-ly) [-aAbBcdDefkmMopPruv] (20260928-214953) (Retool)</description>
-		<version>20260928-214953</version>
-		<date>2026-09-29 08-27-59</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (834) (-ly) [-aAbBcdDefkmMopPruv] (20260929-215559) (Retool)</description>
+		<version>20260929-215559</version>
+		<date>2026-09-30 08-36-53</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -689,7 +689,7 @@
 	<game name="Captain America and the Avengers (World) (Marvel MaXimum Collection)" id="8482">
 		<category>Games</category>
 		<description>Captain America and the Avengers (World) (Marvel MaXimum Collection)</description>
-		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).nes" size="262160" header="4e 45 53 1a 08 20 40 08 00 00 07 00 00 00 00 01" crc="e596f4fe" md5="3da8efcb80e929a3e071aef1ba44c1d1" sha1="6b8e20e5b04395912ba8be59b6c9705b12e748dd" sha256="fc438fd47b0f5848b8891b35f17e31005519d6e13894b7fb403f3a46ca3049cf"/>
+		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).nes" size="262160" header="4e 45 53 1a 08 10 40 08 00 00 00 00 00 00 00 01" crc="e596f4fe" md5="3da8efcb80e929a3e071aef1ba44c1d1" sha1="6b8e20e5b04395912ba8be59b6c9705b12e748dd" sha256="fc438fd47b0f5848b8891b35f17e31005519d6e13894b7fb403f3a46ca3049cf"/>
 	</game>
 	<game name="Captain Planet and the Planeteers (USA)" id="0338">
 		<category>Games</category>
@@ -730,6 +730,11 @@
 		<category>Games</category>
 		<description>Castlevania (USA) (Rev 1)</description>
 		<rom name="Castlevania (USA) (Rev 1).nes" size="131088" header="4e 45 53 1a 08 00 21 08 20 00 00 07 00 00 00 01" crc="12a6cb14" md5="a1b849f232781d0e929435df447822b5" sha1="4e3ef47de86a941c37359bb3acfa5542a0fa7876" sha256="5e859d77bc0e3a9f30a7c14d2637b9c2aae6ce19f6520a7c9b252a86974f7800"/>
+	</game>
+	<game name="Castlevania (World) (40th Anniversary)" id="8634">
+		<category>Games</category>
+		<description>Castlevania (World) (40th Anniversary)</description>
+		<rom name="Castlevania (World) (40th Anniversary).nes" size="131088" header="4e 45 53 1a 08 00 21 08 20 00 00 07 02 00 00 01" crc="5ae3a06c" md5="687d78d7e4bbf6c96d6ca5035ad5270c" sha1="97832e0df2d7c5b881468991e807fda95b4a44ba" sha256="f998abc6cdbb8b43448648a72568ef56fa474b8c00bb70ffc6e8cbdf40dea0ee"/>
 	</game>
 	<game name="Castlevania II - Simon's Quest (USA)" id="0360">
 		<category>Games</category>
