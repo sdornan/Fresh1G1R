@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,335) (-y) [-aAbBcefkmMoprv] (2026-09-30 08-02-35) (Retool)</description>
-		<version>2026-09-30 08-02-35</version>
-		<date>2026-09-30 08-18-52</date>
+		<description>IBM - PC compatible (26,340) (-y) [-aAbBcefkmMoprv] (2026-10-01 08-32-35) (Retool)</description>
+		<version>2026-10-01 08-32-35</version>
+		<date>2026-10-01 08-39-22</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -18439,6 +18439,12 @@
 		<description>Bibou - Vintage Real (Japan)</description>
 		<rom name="Bibou - Vintage Real (Japan).bin" size="644513856" crc="c7c41f18" md5="89c816b44647035582e019e5bd1b0a7d" sha1="7a2fea8a02ab267adddac6d0b895aa14efdc1cdc"/>
 		<rom name="Bibou - Vintage Real (Japan).cue" size="117" crc="b308a2bc" md5="3d425a0f0fd19ec2ab7ac1453e85b806" sha1="5bd38f15222095c21e28a9fd368fa915d8244627"/>
+	</game>
+	<game name="Bicycle - The CD-ROM Collection (USA)" id="138944">
+		<category>Games</category>
+		<description>Bicycle - The CD-ROM Collection (USA)</description>
+		<rom name="Bicycle - The CD-ROM Collection (USA).bin" size="7921536" crc="5ce4d968" md5="4bc3141aa6f677eb046402d5ebe0320a" sha1="0cc1303f8d04177f59cec16c73ab13d7dd440cae"/>
+		<rom name="Bicycle - The CD-ROM Collection (USA).cue" size="126" crc="5fe0bebe" md5="f0e91df335770e11f815e82e05919c7a" sha1="c6d91d102a9ecafad8a40af1ec7ded90207fbfc9"/>
 	</game>
 	<game name="Bicycle Baccarat (USA)" id="82300">
 		<category>Games</category>
@@ -47422,6 +47428,12 @@
 		<rom name="Eddie Kantar's Bridge Companion (USA).bin" size="34449744" crc="b4c20285" md5="82626efed21b7e8d4da20cb0e6d313d3" sha1="5eb5e96fd41edabeedf948de4f3574b7f0f57f5b"/>
 		<rom name="Eddie Kantar's Bridge Companion (USA).cue" size="126" crc="7a3c44eb" md5="18dbd18d40c70d282b4c5f0bacd728d8" sha1="c98441dccb8a644f07e94241e6099b34b6795689"/>
 	</game>
+	<game name="Eddie Kantar's Bridge Companion for Windows (USA)" id="138945">
+		<category>Games</category>
+		<description>Eddie Kantar's Bridge Companion for Windows (USA)</description>
+		<rom name="Eddie Kantar's Bridge Companion for Windows (USA).bin" size="14300160" crc="8889d68b" md5="548bf8b4b48bb0068ba63ce7c0a285b9" sha1="dc759bc3b520412959a77a646d7b4b198237dc01"/>
+		<rom name="Eddie Kantar's Bridge Companion for Windows (USA).cue" size="138" crc="a988e4ef" md5="396db76208be5892f37578f5af58aaa7" sha1="dd2c31b880226708086da2a8842f664edf831e59"/>
+	</game>
 	<game name="Edelweiss (Japan)" id="76012">
 		<category>Games</category>
 		<description>Edelweiss (Japan)</description>
@@ -60975,7 +60987,7 @@
 		<category>Games</category>
 		<description>Game Series 40, The - Nekomata Tanteisha (Japan)</description>
 		<rom name="Game Series 40, The - Nekomata Tanteisha (Japan).bin" size="40877760" crc="f54a61ae" md5="1ae8ecaeeb2fa7c7f6f39c8be2675f48" sha1="071533198261b9c3908238ca272cc59cca6972fd"/>
-		<rom name="Game Series 40, The - Nekomata Tanteisha (Japan).cue" size="108" crc="716163e4" md5="10905085571c41f5132f74fa729d464c" sha1="4cf3062a86982a2ea5e483f87bb405d75f63e221"/>
+		<rom name="Game Series 40, The - Nekomata Tanteisha (Japan).cue" size="114" crc="5d57cb52" md5="fe9b59fa5f3d8040c6ee92f9ea63d992" sha1="97d709e17a7bf24bcbe7eb2a1609765084e7fbaa"/>
 	</game>
 	<game name="Game Series 41, The - Souko Mania (Japan)" id="21664">
 		<category>Games</category>
@@ -63886,10 +63898,10 @@
 		<rom name="Golden Collection 1 (Germany) (Disc 4) (Track 16).bin" size="6919584" crc="f3a664e2" md5="1a4cda516ef332b80f9c6473bbb6d3e8" sha1="e16aba6ea39f827f4b22e5c6e95bc19b1702e0fc"/>
 		<rom name="Golden Collection 1 (Germany) (Disc 4).cue" size="2133" crc="7cb7b675" md5="f23f5187649e5564c3b1a50a135ebaca" sha1="7271ff39fd870c1956971f88d43b923405795087"/>
 	</game>
-	<game name="Golden Compass, The (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="38140">
+	<game name="Golden Compass, The (USA)" id="138942">
 		<category>Games</category>
-		<description>Golden Compass, The (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
-		<rom name="Golden Compass, The (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).iso" size="4830887936" crc="bba605d9" md5="276fe38994b2acfa3e97489f7b3c36a8" sha1="ffcbd3b1d7ab9658abaa9cd234df6d9348bf5269"/>
+		<description>Golden Compass, The (USA)</description>
+		<rom name="Golden Compass, The (USA).iso" size="4831084544" crc="e649786d" md5="a0591fd957d00eb93174e32e3721768e" sha1="97f20c1138489560bab51cfc471dbd6cf43ff4fd"/>
 	</game>
 	<game name="Golden Fairway FX 2004 (USA)" id="129023">
 		<category>Games</category>
@@ -78473,6 +78485,12 @@
 		<rom name="Iron Storm (USA) (Disc 2) (Rev 1).bin" size="788891376" crc="add3fd85" md5="d85927453b1fdb61c70bb25bb28bd81b" sha1="0b0b5a052b4c37817c0a585d801c55962fb37622"/>
 		<rom name="Iron Storm (USA) (Disc 2) (Rev 1).cue" size="99" crc="4462af83" md5="60b51fb3deb0403f6e4f073c2251c585" sha1="15095b9ee0aeb5e8bf66283d9efd9e10ec7b66db"/>
 	</game>
+	<game name="Iron Warriors - T-72 Tank Command (USA)" id="138953">
+		<category>Games</category>
+		<description>Iron Warriors - T-72 Tank Command (USA)</description>
+		<rom name="Iron Warriors - T-72 Tank Command (USA).bin" size="773784480" crc="3a5d2c3e" md5="6eada92949146df77494b685b0ff9da4" sha1="7fbbae0ce34ebea4091f1836ba215cf73a95e3f8"/>
+		<rom name="Iron Warriors - T-72 Tank Command (USA).cue" size="105" crc="335591fd" md5="fa1be1ea238ce2b360cb115007fd7ff4" sha1="0a31fe010f03fa651eb876d35390313cf94729d3"/>
+	</game>
 	<game name="Isabell Werth Reitsport (Germany)" id="114798">
 		<category>Games</category>
 		<description>Isabell Werth Reitsport (Germany)</description>
@@ -80127,6 +80145,12 @@
 		<description>Jetboat Superchamps 2 (Germany) (Demo)</description>
 		<rom name="Jetboat Superchamps 2 (Germany) (Demo).bin" size="67175472" crc="3d11a6f7" md5="4507f6360c9f4d4b1c54bfe56026a9d2" sha1="1177daa2d2f12ae612c72837f684ef486ba5ba17"/>
 		<rom name="Jetboat Superchamps 2 (Germany) (Demo).cue" size="104" crc="3443f233" md5="20b2100753d56d0e74bb7512f45b7d62" sha1="2ae65684092f93c6bccf99e666c6fcc5597b1464"/>
+	</game>
+	<game name="Jetfighter 5 (Germany)" id="138928">
+		<category>Games</category>
+		<description>Jetfighter 5 (Germany)</description>
+		<rom name="Jetfighter 5 (Germany).bin" size="841874880" crc="eaa860ed" md5="01e1642e8ecae53d17620dc5bf2f8f72" sha1="656c7cf34da55ce3dbb8bb5c2df270548c16fc6b"/>
+		<rom name="Jetfighter 5 (Germany).cue" size="88" crc="32343d14" md5="4f0922298bf1f61e01b9ac62cea2c2bc" sha1="b65c3a5f2c5e7321447f167ceaf0d35658529bea"/>
 	</game>
 	<game name="Jetfighter II (USA)" id="124679">
 		<category>Games</category>
@@ -82177,6 +82201,12 @@
 		<description>Kakuro (Australia)</description>
 		<rom name="Kakuro (Australia).bin" size="25984896" crc="8a0f2858" md5="6bb8769536f15e7f816a5f45d0cac7d2" sha1="e4a02b766fdfa12ba93297d1c57b47733e336031"/>
 		<rom name="Kakuro (Australia).cue" size="84" crc="bc788e9e" md5="7a9c772ec9d3f8aa3b2e2f5db6426f0b" sha1="031840d1ec4f5ad4d047cafc8b68b4680266feba"/>
+	</game>
+	<game name="Kakuro Guru (Germany)" id="138924">
+		<category>Games</category>
+		<description>Kakuro Guru (Germany)</description>
+		<rom name="Kakuro Guru (Germany).bin" size="43956528" crc="52f2f44a" md5="486e79db33efcb372c3c63adc412a489" sha1="d6b1eb4901c31e6a26054f456d00fa041a5847d4"/>
+		<rom name="Kakuro Guru (Germany).cue" size="87" crc="f6507407" md5="a38504f0de86380b9b68cc5c1b5f65ef" sha1="5dd4f376edbf1125d721f58b2b3c2e304236df3e"/>
 	</game>
 	<game name="Kakuro Master (USA)" id="130097">
 		<category>Games</category>
@@ -117873,35 +117903,11 @@
 		<rom name="Pet Soccer (Italy) (En,Fr,De,Es,It,Pl).bin" size="220161312" crc="6c85d839" md5="8123b0dc62a1b6e75ad9bd909e9f9bb4" sha1="67453010d1093e6905a48ed0343c02818148c4d6"/>
 		<rom name="Pet Soccer (Italy) (En,Fr,De,Es,It,Pl).cue" size="104" crc="23c89126" md5="dbb14b516edb9bbd55505cdc693cd997" sha1="ac91cacbedb8850367aa415e7cd88802eee9d114"/>
 	</game>
-	<game name="Pet Soccer (Netherlands)" id="129230">
+	<game name="Pet Soccer (USA)" id="138934">
 		<category>Games</category>
-		<description>Pet Soccer (Netherlands)</description>
-		<rom name="Pet Soccer (Netherlands).bin" size="396055632" crc="2c289f34" md5="124aabf9d9584451f533f97d6749e483" sha1="c09aad18293f21303df3217f2fb8db38ad6d9bc4"/>
-		<rom name="Pet Soccer (Netherlands).cue" size="90" crc="00091e57" md5="71cace0c0bca4d577b760459685a8677" sha1="3b1bf6ebead0ea10b0f238eab796b7d388c7cb09"/>
-	</game>
-	<game name="Pet Soccer (Poland)" id="45510">
-		<category>Games</category>
-		<description>Pet Soccer (Poland)</description>
-		<rom name="Pet Soccer (Poland).bin" size="220189536" crc="5227138f" md5="bb94cb96b124778463d43edeec739c12" sha1="06d727bc1d6e58917866475cb1fcd2c362605b67"/>
-		<rom name="Pet Soccer (Poland).cue" size="85" crc="032ac190" md5="edcaf6afb45f1f9490c781db6dfb36a2" sha1="16f9918f86c656de5847b73a403d3ccd2c3adb89"/>
-	</game>
-	<game name="Pet Soccer (Poland) (Covermount)" id="84834">
-		<category>Games</category>
-		<description>Pet Soccer (Poland) (Covermount)</description>
-		<rom name="Pet Soccer (Poland) (Covermount).bin" size="563153472" crc="7804fb97" md5="ae133a33ef4a26e83506a46f36969ebc" sha1="2a42b35f38bbbeef28ae2d40fb4352c60d510867"/>
-		<rom name="Pet Soccer (Poland) (Covermount).cue" size="98" crc="0ed21ce8" md5="b2d54ddd7e7a65c4984492830a391715" sha1="8a9b8e132a0a4d2638e0e843055f1d93444f25cc"/>
-	</game>
-	<game name="Pet Soccer (Poland) (Rev 1)" id="47363">
-		<category>Games</category>
-		<description>Pet Soccer (Poland) (Rev 1)</description>
-		<rom name="Pet Soccer (Poland) (Rev 1).bin" size="220010784" crc="730ca0ec" md5="ec742e0f5f1d28512c763471f8390deb" sha1="1a44a97c2b17295d8fb69526881ee8e93ecddb11"/>
-		<rom name="Pet Soccer (Poland) (Rev 1).cue" size="93" crc="a35750d4" md5="99084c2dfc64935181b42acc2b37ffa5" sha1="2274219ec864795cbc39cec2c95b7c03d34450d2"/>
-	</game>
-	<game name="Pet Soccer (Russia)" id="109398">
-		<category>Games</category>
-		<description>Pet Soccer (Russia)</description>
-		<rom name="Pet Soccer (Russia).bin" size="793315488" crc="ad102ab9" md5="da6659cf4c53a37b857b37d0ae06e965" sha1="f925db9e1a48a43696f1e63d2d88d35e9c0f4b09"/>
-		<rom name="Pet Soccer (Russia).cue" size="85" crc="8d0a12e9" md5="cfce78a915383efa7fd8a4c748c7bb09" sha1="2acfc2aa43186f1513695d11ba69216cde81d29b"/>
+		<description>Pet Soccer (USA)</description>
+		<rom name="Pet Soccer (USA).bin" size="436677024" crc="f723b8d8" md5="d118f1db0a860758f9fa21e44e066318" sha1="c2b3576d6f732115c5d01c2bff8a70095400a8f2"/>
+		<rom name="Pet Soccer (USA).cue" size="82" crc="7a4572fc" md5="e13dfd0016f34954d581b98616feafbd" sha1="6eec672c6daf354014da734a9a5c297855ad41a6"/>
 	</game>
 	<game name="Pet Tycoon (UK)" id="88126">
 		<category>Games</category>
@@ -139368,31 +139374,6 @@
 		<rom name="Sega Rally (Poland) (Uaktualnienie Wersji Polskiej).bin" size="620551680" crc="4f328d1c" md5="30a81bff24d0c7ceb849a96c342f5239" sha1="041e7574c743a71ecadfd086ceb9edbf1b5ea30a"/>
 		<rom name="Sega Rally (Poland) (Uaktualnienie Wersji Polskiej).cue" size="117" crc="f610cd30" md5="8f5ee9637e555b302392a800e5248ee5" sha1="c194900e17288d0f016bc40a557539caab983332"/>
 	</game>
-	<game name="Sega Rally 2 (Australia) (Install Disc)" id="69124">
-		<category>Games</category>
-		<description>Sega Rally 2 (Australia) (Install Disc)</description>
-		<rom name="Sega Rally 2 (Australia) (Install Disc).bin" size="468323184" crc="95c6b361" md5="a5a2e7c83809ae4e6c58785757978771" sha1="6c0f5292627733ed00333795bdb736bceb95b3cb"/>
-		<rom name="Sega Rally 2 (Australia) (Install Disc).cue" size="105" crc="eb7f614b" md5="73aab9ecce0a7fb7758be9a71b8a8f04" sha1="cbd20df263f449747cfd8dc6b30efa1b21b83913"/>
-	</game>
-	<game name="Sega Rally 2 (Australia) (Play Disc)" id="69125">
-		<category>Games</category>
-		<description>Sega Rally 2 (Australia) (Play Disc)</description>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 01).bin" size="206006976" crc="74501dcb" md5="4ad6c9dbf6601c5eb85ecc83dc836017" sha1="b412d68034a85346bb9c6d0eaa74234eb9babe0a"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 02).bin" size="11331936" crc="c96d044d" md5="0aa2b9d74eba95b353023b644bab6cd9" sha1="68a5644160db40f4d1858dadf3be7afd01b5a112"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 03).bin" size="40212144" crc="98ccaa71" md5="6e9b81413ec36f668c643c508b1d855f" sha1="f567f4fa5f29e3b969d08403828c1e0031f2f724"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 04).bin" size="34447392" crc="a77e16c7" md5="7f6408529cc5903674de144d4e086b6d" sha1="189f1dc60a2475cff81d73cc828ac648102ab816"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 05).bin" size="42867552" crc="12898111" md5="ad747067abee2b2ebaf479de26192ab5" sha1="63bd0177a3947364858e3e0dac5d6e7b9d0013ea"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 06).bin" size="40066320" crc="6065297e" md5="1f6353a86d17c04d9fd17a0087cd2f82" sha1="0b22013bca90e429870fb9baf245a16dc83b81b8"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 07).bin" size="44252880" crc="8f6b44f6" md5="2a32fc3d0287e35e89f699a79d0fddf7" sha1="32b1e367f9fecc08def5d7f57d7c1f705c3d530b"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 08).bin" size="41355216" crc="20e6c7ed" md5="6b27be3a6b800e47cafdc795c2d868f2" sha1="3cdb5895bf30fc40771589a52f504ef1dc875665"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 09).bin" size="46992960" crc="a11f6733" md5="f58ee96deba162aef2c07f83657f417d" sha1="a5eb9f7945eec947e6d36bb26216c9fa5eb80330"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 10).bin" size="11063808" crc="533b2f92" md5="ecc4efe68da68de3b90e08d02e2d22b7" sha1="5d12a889ef32f240460ef7aeca1d7be96281ecb7"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 11).bin" size="30844128" crc="a6cae6a8" md5="65b747f9cf6238699c7b20d005ec2a22" sha1="25082db68f5e59857d47856aedb196e150d04277"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 12).bin" size="22431024" crc="4a886acf" md5="26dc703d6cb886d0bacadd0e1f5fcaae" sha1="8689b5efa84b43193b4bbba0cf7295540357bd52"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 13).bin" size="35644560" crc="57f0b7b9" md5="08310c1ffddb177e6e86748812ac99b9" sha1="ff7a5427408111bd3cb47d259ab35d7427f8a9ba"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc) (Track 14).bin" size="19968480" crc="59218cc0" md5="15aee215997f98444b65b6f2750a5b83" sha1="8e9aab93dfd6f4d371dd8c5970fd8e23ed5df30e"/>
-		<rom name="Sega Rally 2 (Australia) (Play Disc).cue" size="1816" crc="7ed28212" md5="9deb12b6aa250e1f1a94901d0005ed69" sha1="9950bddcfed74c3358ab59491d194cccda068452"/>
-	</game>
 	<game name="Sega Rally 2 (Europe) (Disc 1) (Install Disc)" id="8629">
 		<category>Games</category>
 		<description>Sega Rally 2 (Europe) (Disc 1) (Install Disc)</description>
@@ -139442,6 +139423,31 @@
 		<rom name="Sega Rally 2 (USA) (Disc 2) (Track 13).bin" size="35644560" crc="fbf433b1" md5="43468f7d91d5ba9a1aaf79ce4ee47992" sha1="c87ce0611a00c7082a7cf1610c2066bbe4596056"/>
 		<rom name="Sega Rally 2 (USA) (Disc 2) (Track 14).bin" size="19968480" crc="9081af9e" md5="730a40a3bd4440df17c674a57f8ddc42" sha1="ccb732af097fececbfc093720b8e5001f428e70b"/>
 		<rom name="Sega Rally 2 (USA) (Disc 2).cue" size="1713" crc="1273cfdb" md5="8d558c54b6316d47fb73aabadcff0137" sha1="92db73f1b30bed9d7c8f4ac76c99a25f99b1eeff"/>
+	</game>
+	<game name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Install Disc)" id="69124">
+		<category>Games</category>
+		<description>Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Install Disc)</description>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Install Disc).bin" size="468323184" crc="95c6b361" md5="a5a2e7c83809ae4e6c58785757978771" sha1="6c0f5292627733ed00333795bdb736bceb95b3cb"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Install Disc).cue" size="146" crc="577a1091" md5="53186201ff51dbcb84aecb137e07e4f4" sha1="097953f47f30def64a8c2e6374adeeb1143114e3"/>
+	</game>
+	<game name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc)" id="69125">
+		<category>Games</category>
+		<description>Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc)</description>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 01).bin" size="206006976" crc="74501dcb" md5="4ad6c9dbf6601c5eb85ecc83dc836017" sha1="b412d68034a85346bb9c6d0eaa74234eb9babe0a"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 02).bin" size="11331936" crc="c96d044d" md5="0aa2b9d74eba95b353023b644bab6cd9" sha1="68a5644160db40f4d1858dadf3be7afd01b5a112"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 03).bin" size="40212144" crc="98ccaa71" md5="6e9b81413ec36f668c643c508b1d855f" sha1="f567f4fa5f29e3b969d08403828c1e0031f2f724"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 04).bin" size="34447392" crc="a77e16c7" md5="7f6408529cc5903674de144d4e086b6d" sha1="189f1dc60a2475cff81d73cc828ac648102ab816"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 05).bin" size="42867552" crc="12898111" md5="ad747067abee2b2ebaf479de26192ab5" sha1="63bd0177a3947364858e3e0dac5d6e7b9d0013ea"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 06).bin" size="40066320" crc="6065297e" md5="1f6353a86d17c04d9fd17a0087cd2f82" sha1="0b22013bca90e429870fb9baf245a16dc83b81b8"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 07).bin" size="44252880" crc="8f6b44f6" md5="2a32fc3d0287e35e89f699a79d0fddf7" sha1="32b1e367f9fecc08def5d7f57d7c1f705c3d530b"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 08).bin" size="41355216" crc="20e6c7ed" md5="6b27be3a6b800e47cafdc795c2d868f2" sha1="3cdb5895bf30fc40771589a52f504ef1dc875665"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 09).bin" size="46992960" crc="a11f6733" md5="f58ee96deba162aef2c07f83657f417d" sha1="a5eb9f7945eec947e6d36bb26216c9fa5eb80330"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 10).bin" size="11063808" crc="533b2f92" md5="ecc4efe68da68de3b90e08d02e2d22b7" sha1="5d12a889ef32f240460ef7aeca1d7be96281ecb7"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 11).bin" size="30844128" crc="a6cae6a8" md5="65b747f9cf6238699c7b20d005ec2a22" sha1="25082db68f5e59857d47856aedb196e150d04277"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 12).bin" size="22431024" crc="4a886acf" md5="26dc703d6cb886d0bacadd0e1f5fcaae" sha1="8689b5efa84b43193b4bbba0cf7295540357bd52"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 13).bin" size="35644560" crc="57f0b7b9" md5="08310c1ffddb177e6e86748812ac99b9" sha1="ff7a5427408111bd3cb47d259ab35d7427f8a9ba"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 14).bin" size="19968480" crc="59218cc0" md5="15aee215997f98444b65b6f2750a5b83" sha1="8e9aab93dfd6f4d371dd8c5970fd8e23ed5df30e"/>
+		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc).cue" size="2390" crc="ed719b5d" md5="598de48234296177e0d40dd22a32c408" sha1="093d92265e89af138a28e8d66306a40a5d9e054d"/>
 	</game>
 	<game name="Sega Rally Championship (USA)" id="69649">
 		<category>Games</category>
@@ -144165,6 +144171,11 @@
 		<description>Sid Meier's Civilization IV - Warlords (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Sid Meier's Civilization IV - Warlords (USA) (En,Fr,De,Es,It).bin" size="788886672" crc="4f9d1cba" md5="52abe29edec67595e2d43a2f13c267bd" sha1="262451b32ee7f3bb0d1f7be17fe25f00914193ea"/>
 		<rom name="Sid Meier's Civilization IV - Warlords (USA) (En,Fr,De,Es,It).cue" size="127" crc="24ee2a01" md5="00f3932c4fc1d0f520c8c2485df282f3" sha1="9c15e145c4fc18f070ff7503de7636e464258f9d"/>
+	</game>
+	<game name="Sid Meier's Civilization IV - Wydanie Kompletne Rozszerzone (Poland) (En,Fr,De,Es,It,Pl,Hu)" id="138922">
+		<category>Games</category>
+		<description>Sid Meier's Civilization IV - Wydanie Kompletne Rozszerzone (Poland) (En,Fr,De,Es,It,Pl,Hu)</description>
+		<rom name="Sid Meier's Civilization IV - Wydanie Kompletne Rozszerzone (Poland) (En,Fr,De,Es,It,Pl,Hu).iso" size="3434414080" crc="4d94d4d9" md5="15a558d5b808ef4c0e95a141f53f60c6" sha1="129dcd382fd072ac8d0982ce8ed243cb4482e04a"/>
 	</game>
 	<game name="Sid Meier's Civilization V (USA)" id="30494">
 		<category>Games</category>
@@ -179271,6 +179282,12 @@
 		<rom name="WordMania 2 (USA).bin" size="767622240" crc="df84e623" md5="fdc102f31e91403b7017a026dde35e5a" sha1="3185d07e58bbe1da317e33a1ed0b602818e07add"/>
 		<rom name="WordMania 2 (USA).cue" size="83" crc="5a42d0e2" md5="11b4c2f812d0714b89e5c6d2ac2358c8" sha1="a915073c2920889f5e389f625ebb9d2facaaf6b9"/>
 	</game>
+	<game name="Wordoku - Kniffliges Buchstaben-Sudoku (Germany)" id="138925">
+		<category>Games</category>
+		<description>Wordoku - Kniffliges Buchstaben-Sudoku (Germany)</description>
+		<rom name="Wordoku - Kniffliges Buchstaben-Sudoku (Germany).bin" size="71359680" crc="4c33f399" md5="87fdc93faedfb0c7c0c9304cfe1a1cd0" sha1="b9863e8d33c908321099a79beef947e2de495bfc"/>
+		<rom name="Wordoku - Kniffliges Buchstaben-Sudoku (Germany).cue" size="114" crc="b98f0c42" md5="dfa910c58e54815722da897ea7cbeb5d" sha1="a4fa368650a3d1705157a72d48542ce872b0f727"/>
+	</game>
 	<game name="Words of Ibis (Japan)" id="121265">
 		<category>Games</category>
 		<description>Words of Ibis (Japan)</description>
@@ -179970,6 +179987,12 @@
 		<category>Games</category>
 		<description>World of Zoo (USA, Australia) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
 		<rom name="World of Zoo (USA, Australia) (En,Fr,De,Es,It,Nl,Sv,Da).iso" size="1935249408" crc="7da4a7ce" md5="b010c41d757aee935957c0f8335da671" sha1="c7f6e185e3e7764cfe95c3415f55eb35b711607c"/>
+	</game>
+	<game name="World's Best Board Games - Volume 2 (Germany)" id="138927">
+		<category>Games</category>
+		<description>World's Best Board Games - Volume 2 (Germany)</description>
+		<rom name="World's Best Board Games - Volume 2 (Germany).bin" size="93604896" crc="8596e4a0" md5="5ff89fdfa26389b3f0e475d7def1a48f" sha1="00d71a2b8e65ec748f1c14268a8efab720d77cc3"/>
+		<rom name="World's Best Board Games - Volume 2 (Germany).cue" size="111" crc="d2517271" md5="3364a366945c7cba8b101987b07c5609" sha1="c663e573a9b995bc2725becf2081fbbd275340b5"/>
 	</game>
 	<game name="World's Best Mahjongg Games (USA)" id="100974">
 		<category>Games</category>
@@ -184470,6 +184493,12 @@
 		<rom name="Zehn Adventures - Die Adventure Spielesammlung (Germany) (Disc 2) (Track 4).bin" size="17825808" crc="9564d704" md5="5765b8d1a402b8859883152436c9886a" sha1="1390c3fbbb05aa62a82fa0ee376099aa11674a83"/>
 		<rom name="Zehn Adventures - Die Adventure Spielesammlung (Germany) (Disc 2) (Track 5).bin" size="54084240" crc="ec2ffe50" md5="d4d030687c5c30a40b690121d82d968e" sha1="84b95a85182a24653dc946d356073575717df835"/>
 		<rom name="Zehn Adventures - Die Adventure Spielesammlung (Germany) (Disc 2).cue" size="800" crc="da4ef8d6" md5="e457f67b99c16323f5dbc51978754b46" sha1="ff4fe449a53bba6447d70bf279bd58b62dda37d5"/>
+	</game>
+	<game name="Zeit, Die-Handelsblatt Sudoku (Germany)" id="138926">
+		<category>Games</category>
+		<description>Zeit, Die-Handelsblatt Sudoku (Germany)</description>
+		<rom name="Zeit, Die-Handelsblatt Sudoku (Germany).bin" size="47284608" crc="4ad5ae98" md5="f198a8efe3c5c83ccc7d15232964b860" sha1="aa8078a6d357f0427ef909eded2ea351a654598a"/>
+		<rom name="Zeit, Die-Handelsblatt Sudoku (Germany).cue" size="105" crc="84259351" md5="8b0fa3acf1ca948cd157de946eefa575" sha1="addfb220756d2ba9f068b088d3c91d3fb7ee1295"/>
 	</game>
 	<game name="Zeitgeist (USA)" id="37466">
 		<category>Games</category>

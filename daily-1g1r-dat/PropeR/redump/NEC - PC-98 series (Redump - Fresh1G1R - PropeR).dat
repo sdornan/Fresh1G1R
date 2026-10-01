@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC-98 series (Retool)</name>
-		<description>NEC - PC-98 series (118) (-y) [-aAbBcdkmMpPuv] (2026-08-15 20-08-24) (Retool)</description>
-		<version>2026-08-15 20-08-24</version>
-		<date>2026-09-30 08-40-43</date>
+		<description>NEC - PC-98 series (119) (-y) [-aAbBcdkmMpPuv] (2026-09-30 20-13-57) (Retool)</description>
+		<version>2026-09-30 20-13-57</version>
+		<date>2026-10-01 08-56-26</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -391,6 +391,12 @@
 		<description>Dawn Patrol (Japan)</description>
 		<rom name="Dawn Patrol (Japan).bin" size="16113552" crc="bac07915" md5="6d71bdf2bbb8a73f686d07f3f0941fea" sha1="d320f4c0f79b3b430a0915e43ea089bc3add565c"/>
 		<rom name="Dawn Patrol (Japan).cue" size="108" crc="69f6cd9c" md5="d95af81e5ca49d9ac090430832af81bb" sha1="3030b505c42f1aeafae8bcb1bee429579c70e36f"/>
+	</game>
+	<game name="Delicious Lunch Pack (Japan)" id="138941">
+		<category>Games</category>
+		<description>Delicious Lunch Pack (Japan)</description>
+		<rom name="Delicious Lunch Pack (Japan).bin" size="10400544" crc="7fcab848" md5="9eaa376f3c4637d2ff4d2b7745a76687" sha1="eb3160bf33da6e264b3efd0b89684c396acd8ac1"/>
+		<rom name="Delicious Lunch Pack (Japan).cue" size="117" crc="d2940eaa" md5="1ad8b9a284a845066aa0d505f2fbf5de" sha1="f6c2fdf4d0ad9e194c3b31a817fdd053471b5b7d"/>
 	</game>
 	<game name="Dies Irae (Japan)" id="81852">
 		<category>Games</category>

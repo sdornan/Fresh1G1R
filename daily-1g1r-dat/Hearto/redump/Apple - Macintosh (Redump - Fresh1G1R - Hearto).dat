@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (625) (-y) [-aAbBcefkmMoprv] (2026-09-26 23-42-47) (Retool)</description>
-		<version>2026-09-26 23-42-47</version>
-		<date>2026-09-30 08-17-21</date>
+		<description>Apple - Macintosh (629) (-y) [-aAbBcefkmMoprv] (2026-09-30 23-02-35) (Retool)</description>
+		<version>2026-09-30 23-02-35</version>
+		<date>2026-10-01 08-38-11</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -145,6 +145,12 @@
 		<description>Agetec PS2 Graphic Assets - Armored Core 2 &amp; Eternal Ring &amp; Evergrace (USA)</description>
 		<rom name="Agetec PS2 Graphic Assets - Armored Core 2 &amp; Eternal Ring &amp; Evergrace (USA).bin" size="514838688" crc="93c8795d" md5="ea58c8934b7e33d86cb2ec6e63f32202" sha1="2d55b3eb4108dc00771e5f95f7cd7048d56d8953"/>
 		<rom name="Agetec PS2 Graphic Assets - Armored Core 2 &amp; Eternal Ring &amp; Evergrace (USA).cue" size="141" crc="a7ed111e" md5="78332bbb0f33f6a30e97565a9e6bf520" sha1="520c52b3870250592813215ae77f3cf0dfbc3568"/>
+	</game>
+	<game name="Akiko - Premium Version (Japan)" id="138936">
+		<category>Games</category>
+		<description>Akiko - Premium Version (Japan)</description>
+		<rom name="Akiko - Premium Version (Japan).bin" size="10447584" crc="0e0b2908" md5="a656d79f5e673df64a1d420745965df2" sha1="b5d0f84f283df6a21c5c35a968c5df4bfc3e5ee9"/>
+		<rom name="Akiko - Premium Version (Japan).cue" size="120" crc="e6f81324" md5="2fe516ebf39b2cb09c2f9af7c6b583c7" sha1="b54a4ea0089655c060c933c34279a354356cd696"/>
 	</game>
 	<game name="Al Unser Jr. Arcade Racing (USA)" id="53410">
 		<category>Games</category>
@@ -841,6 +847,12 @@
 		<description>Chessmaster 9000 (USA)</description>
 		<rom name="Chessmaster 9000 (USA).iso" size="8388608000" crc="7411a188" md5="3ac0b38f6a2c911e868a25d23f9b1db0" sha1="50ff2618b73e49adbbab46d03c18c36d3526efae"/>
 	</game>
+	<game name="Chiemi (Japan)" id="138937">
+		<category>Games</category>
+		<description>Chiemi (Japan)</description>
+		<rom name="Chiemi (Japan).bin" size="26695200" crc="8d647d4d" md5="ace7f761cf794289a309c4eaa9b1c380" sha1="0edf244a552e22042bda400bc6367ea726daa3dd"/>
+		<rom name="Chiemi (Japan).cue" size="80" crc="502d6756" md5="f78d96a14e70279e6f0e5c2ff58a92bd" sha1="f81223a5426852b4278cf39d20582254e40b796e"/>
+	</game>
 	<game name="Chop Suey (USA)" id="101393">
 		<category>Games</category>
 		<description>Chop Suey (USA)</description>
@@ -979,26 +991,6 @@
 		<description>Cult Akazukin Chacha (Japan)</description>
 		<rom name="Cult Akazukin Chacha (Japan).bin" size="546851760" crc="ecda29a8" md5="7c5fba61af4d5b8dc2e9f474c08713a7" sha1="44bd32e40defc3c1b1bf41beca05d6c2530634c2"/>
 		<rom name="Cult Akazukin Chacha (Japan).cue" size="94" crc="06ee25fb" md5="5617e7910900d05bdc33f9c3c2d8f9f9" sha1="26c1547f0cc13cfb8be4a2fb8b516003071d6742"/>
-	</game>
-	<game name="CyberGladiators (USA)" id="138823">
-		<category>Games</category>
-		<description>CyberGladiators (USA)</description>
-		<rom name="CyberGladiators (USA) (Track 01).bin" size="132321168" crc="17285ade" md5="cdf5bc44854f4d791c0e9fbeb841f4a1" sha1="5b61ebb105009c1e4c92c76ef3d2f93ffe141419"/>
-		<rom name="CyberGladiators (USA) (Track 02).bin" size="14829360" crc="ae567e85" md5="ecccfcb0cc5932baecc2df2dd0cb3d2e" sha1="d3f6f85364484e0bc8479b356f1a2ab1d660015d"/>
-		<rom name="CyberGladiators (USA) (Track 03).bin" size="14476560" crc="59521793" md5="1d01ae30c6018ab946712be9036d8e17" sha1="9d131bfd2a071f28b122485524090e349662c64d"/>
-		<rom name="CyberGladiators (USA) (Track 04).bin" size="14476560" crc="f2462641" md5="8e454d1d88e64a5e1e6959cb84d8e5c5" sha1="f1586b1e983cfc36fb211a85fcf28b34d621b5f5"/>
-		<rom name="CyberGladiators (USA) (Track 05).bin" size="14295456" crc="b60bd09e" md5="3db9c7b19df549999c2c3e6b837d86fb" sha1="7007bd010a4e88a18fc8242dc0db7aacf85cd863"/>
-		<rom name="CyberGladiators (USA) (Track 06).bin" size="16160592" crc="5936c57d" md5="7540e1660e29a4976ef2a2b5467458ed" sha1="f6593b578405d42f2645f8db1bf6fdf79e8004c8"/>
-		<rom name="CyberGladiators (USA) (Track 07).bin" size="14476560" crc="e65245ba" md5="95a5be38c9e2d8ecff49785a239dadfb" sha1="be6b0695845901542b7b7393c2d1ae130ea0bb7e"/>
-		<rom name="CyberGladiators (USA) (Track 08).bin" size="14476560" crc="0040e47b" md5="9925044eea8e06f8b711a7fbe6b6d615" sha1="c19a6f48844ec3a895493c3c5843ad4f5f52a20f"/>
-		<rom name="CyberGladiators (USA) (Track 09).bin" size="14476560" crc="4cfae59d" md5="0c7cb61db45d7233b626e27992f23739" sha1="2b12dd815fbc69a4d86582cf4f8f9008cfa92955"/>
-		<rom name="CyberGladiators (USA) (Track 10).bin" size="14481264" crc="7941fbda" md5="2fbedfb79189f8c59f99c83a4b112084" sha1="b3e6426f728c16d7a29f6b5df4e7ca508c2dab40"/>
-		<rom name="CyberGladiators (USA) (Track 11).bin" size="14476560" crc="b5a191c6" md5="30ba4ff72754e3b0c78b87b94cf2e27e" sha1="61ad0202e9b9d5fa90937e9588a2d84ddf6fe5cc"/>
-		<rom name="CyberGladiators (USA) (Track 12).bin" size="30712416" crc="753d104a" md5="e944ed4ac95956f136338848a7a7bac5" sha1="653bcdbe9333f5082f19b070d3a59610b74c3a0d"/>
-		<rom name="CyberGladiators (USA) (Track 13).bin" size="32217696" crc="05598bca" md5="fc854aceaa45284995072b91f1311bc5" sha1="757db51c4b2e1ac2d30f983eeb90e3a8237be43d"/>
-		<rom name="CyberGladiators (USA) (Track 14).bin" size="14478912" crc="a72a5ad2" md5="0fead5333b1f87b0909319fe61772ddc" sha1="c7e1ac994d4cef85f7048f927af0064326e3c3a7"/>
-		<rom name="CyberGladiators (USA) (Track 15).bin" size="5635392" crc="583b0ea5" md5="ec9b48d6c0d16941c6af23a77fc493dd" sha1="b5e6c1e60f50ab4c0ef3a294de783a11675fccba"/>
-		<rom name="CyberGladiators (USA).cue" size="1446" crc="35055e3b" md5="cb4ff06007dbe9e4ab50073a4c9fa089" sha1="266a086c0378732b62eaa0d5a34a94102497727e"/>
 	</game>
 	<game name="Daedalus Encounter, The (USA) (Disc 1)" id="134184">
 		<category>Games</category>
@@ -1654,6 +1646,12 @@
 		<description>Giants - Citizen Kabuto (USA) (Disc 2)</description>
 		<rom name="Giants - Citizen Kabuto (USA) (Disc 2).bin" size="780038448" crc="6702cdc7" md5="d75c79e38369143b47a49f3738fd348c" sha1="8b794d9ab084d90f90505b0327bd24ac4bbb86f0"/>
 		<rom name="Giants - Citizen Kabuto (USA) (Disc 2).cue" size="104" crc="0ae933e3" md5="219066d44f4671bafabccc0f59e95293" sha1="3981a2eb2040e5d274de2989a5b63541439f169f"/>
+	</game>
+	<game name="Gibo Sayaka (Japan)" id="138938">
+		<category>Games</category>
+		<description>Gibo Sayaka (Japan)</description>
+		<rom name="Gibo Sayaka (Japan).bin" size="29755152" crc="d65e9c7f" md5="942e5347bacf58c6974aef2da805e2d3" sha1="d457c6f35637514734bda6824911fce569d40fd1"/>
+		<rom name="Gibo Sayaka (Japan).cue" size="100" crc="0eaeb796" md5="8d03d934b49b4a210bf9d0c19fe5aed5" sha1="7f742faf23670c382246e44c98d534191f1ba909"/>
 	</game>
 	<game name="Ginga Eiyuu Densetsu V (Japan)" id="50685">
 		<category>Games</category>
@@ -2641,6 +2639,12 @@
 		<rom name="Might &amp; Magic - World of Xeen (USA).bin" size="384105120" crc="267f2197" md5="c8683c5ce1cb22aa6fa3d008d2ff693d" sha1="9ce0cc477746adebb87ee3b4d15177cdf24f8e37"/>
 		<rom name="Might &amp; Magic - World of Xeen (USA).cue" size="124" crc="84226783" md5="4abf46c78d86fb343cd53ea68abd038d" sha1="02e8733405201ad8b16decd482c843180e243425"/>
 	</game>
+	<game name="Miho (Japan)" id="138939">
+		<category>Games</category>
+		<description>Miho (Japan)</description>
+		<rom name="Miho (Japan).bin" size="35635152" crc="ef86f4cf" md5="9ab683da5887fc85b3346774f8fb73ad" sha1="df981c48ba91098a3df22ddd16aae8a79456bded"/>
+		<rom name="Miho (Japan).cue" size="93" crc="e506e2a2" md5="3973aeea658479eaff5104223d4685b8" sha1="2be9822ce4ac7d96e09fa5cd289b9fad7b3ab95b"/>
+	</game>
 	<game name="Mindscape CD Pack Volume II For Mac (USA)" id="85757">
 		<category>Games</category>
 		<description>Mindscape CD Pack Volume II For Mac (USA)</description>
@@ -2755,6 +2759,12 @@
 		<description>Nanpa, The - Tokyo Tadaman Monogatari (Japan)</description>
 		<rom name="Nanpa, The - Tokyo Tadaman Monogatari (Japan).bin" size="614488224" crc="88375cd9" md5="499aeef007e79778e8a687811bb5e268" sha1="a684e807a54edffdf8b31058e910540fefc28df0"/>
 		<rom name="Nanpa, The - Tokyo Tadaman Monogatari (Japan).cue" size="134" crc="a2175fff" md5="d6d0a6808b06873cf1381662d45bb3bd" sha1="3d0652aa21e1f29f75b4f445c4deb8df4b8a759e"/>
+	</game>
+	<game name="Naomi - Bishoujotachi no Yakata (Japan)" id="138940">
+		<category>Games</category>
+		<description>Naomi - Bishoujotachi no Yakata (Japan)</description>
+		<rom name="Naomi - Bishoujotachi no Yakata (Japan).bin" size="16052400" crc="2d7882e6" md5="b3f68eba286e00ce7163466dfc0db114" sha1="17b43835e371ec7535452829676389245d48d5b4"/>
+		<rom name="Naomi - Bishoujotachi no Yakata (Japan).cue" size="105" crc="e3a1229c" md5="7b0586fb844cea06bb31122bce2cf020" sha1="20144e70c6bd8b734a22a9bc3c495504b68a064e"/>
 	</game>
 	<game name="National Lampoon's Blind Date (USA)" id="129363">
 		<category>Games</category>

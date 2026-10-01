@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Namco - System 12</name>
+		<description>Arcade - Namco - System 12 - Datfile (serial,version) (1) (2026-09-30 19-52-35)</description>
+		<version>2026-09-30 19-52-35</version>
+		<date>2026-09-30 19-52-35</date>
+		<author>redump.info</author>
+		<homepage>redump.info</homepage>
+		<url>https://redump.info/</url>
+	</header>
+	<game name="Aerosmith - Quest for Fame (Japan)" id="138935">
+		<category>Games</category>
+		<serial>QF1-A</serial>
+		<description>Aerosmith - Quest for Fame (Japan)</description>
+		<rom name="Aerosmith - Quest for Fame (Japan).cue" size="100" crc="19551fa3" md5="f565e7fc917eab3f1cafab9f8d16faf1" sha1="7f5d3ab60a31f3ccb3cf401a5803c91fc42770d4"/>
+		<rom name="Aerosmith - Quest for Fame (Japan).bin" size="320332992" crc="db945d6d" md5="e66ab16cf136c934c0d789402f40d71f" sha1="a08d90b1c8313d45d8cbc14c4dbc40222ee33a0e"/>
+	</game>
+</datafile>
