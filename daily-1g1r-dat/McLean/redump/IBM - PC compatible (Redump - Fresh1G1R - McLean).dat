@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,563) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-01 08-32-35) (Retool)</description>
-		<version>2026-10-01 08-32-35</version>
-		<date>2026-10-01 08-47-33</date>
+		<description>IBM - PC compatible (13,564) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-01 22-52-35) (Retool)</description>
+		<version>2026-10-01 22-52-35</version>
+		<date>2026-10-02 08-25-23</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2228,6 +2228,12 @@
 		<rom name="Adventures in Odyssey - 15 Minutes (USA) (Track 3).bin" size="129157728" crc="5286bc2e" md5="cfdc55aed93d042edef1fef184236b8e" sha1="6d01097e21597b2d12d90a5caeda06c132d8740e"/>
 		<rom name="Adventures in Odyssey - 15 Minutes (USA) (Track 4).bin" size="66366384" crc="c572b432" md5="ec20c3eccdd8deacf9c741a813d97daf" sha1="e5025ab1147855d8a6547ba04bc1b0f97a524bf6"/>
 		<rom name="Adventures in Odyssey - 15 Minutes (USA).cue" size="527" crc="88bd4429" md5="978bd1a7b9b2488126b7a9b8d1a4f675" sha1="b4bd1eefef2dc200a9556d75ffa974f0f4c475e4"/>
+	</game>
+	<game name="Adventures in Odyssey and the Sword of the Spirit (USA)" id="138964">
+		<category>Games</category>
+		<description>Adventures in Odyssey and the Sword of the Spirit (USA)</description>
+		<rom name="Adventures in Odyssey and the Sword of the Spirit (USA).bin" size="543187344" crc="59bddbfc" md5="d711e088a654b67528bb708df0a092ad" sha1="ac5211d5751dd2941a63068e41435368306831d1"/>
+		<rom name="Adventures in Odyssey and the Sword of the Spirit (USA).cue" size="121" crc="8a59eb5b" md5="1b0042e6aa8077d8c00ca863b173828e" sha1="a8e8a035d2885f410d87d4257fe5ec7158f98181"/>
 	</game>
 	<game name="Adventures in Odyssey and the Treasure of the Incas (USA)" id="59444">
 		<category>Games</category>
@@ -52530,15 +52536,15 @@
 		<description>Might &amp; Magic Heroes VI - Shades of Darkness (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu) (Disc 2)</description>
 		<rom name="Might &amp; Magic Heroes VI - Shades of Darkness (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu) (Disc 2).iso" size="959676416" crc="7746eb66" md5="1e2a5bcc09f04aa2e2fdd33232bdb492" sha1="a58d2512ff91e22fab0fa280c25647edbeaeb4f6"/>
 	</game>
-	<game name="Might &amp; Magic Heroes VII (Australia) (Disc 1)" id="129181">
+	<game name="Might &amp; Magic Heroes VII (Europe, Australia) (En,Fr,De) (Disc 1)" id="129181">
 		<category>Games</category>
-		<description>Might &amp; Magic Heroes VII (Australia) (Disc 1)</description>
-		<rom name="Might &amp; Magic Heroes VII (Australia) (Disc 1).iso" size="8526954496" crc="97c92afe" md5="a4434d4439933c6f8ff54d1f3bf9c4d0" sha1="c79eedcbc0d777dd9b5295d83eb7dd420f7511e3"/>
+		<description>Might &amp; Magic Heroes VII (Europe, Australia) (En,Fr,De) (Disc 1)</description>
+		<rom name="Might &amp; Magic Heroes VII (Europe, Australia) (En,Fr,De) (Disc 1).iso" size="8526954496" crc="97c92afe" md5="a4434d4439933c6f8ff54d1f3bf9c4d0" sha1="c79eedcbc0d777dd9b5295d83eb7dd420f7511e3"/>
 	</game>
-	<game name="Might &amp; Magic Heroes VII (Australia) (Disc 2)" id="128917">
+	<game name="Might &amp; Magic Heroes VII (Europe, Australia) (En,Fr,De) (Disc 2)" id="128917">
 		<category>Games</category>
-		<description>Might &amp; Magic Heroes VII (Australia) (Disc 2)</description>
-		<rom name="Might &amp; Magic Heroes VII (Australia) (Disc 2).iso" size="6577979392" crc="e4650612" md5="507fcdce85777824230043f4072999bd" sha1="5f3297c5729a363ff1d927913b8e9d7e07e8a2e7"/>
+		<description>Might &amp; Magic Heroes VII (Europe, Australia) (En,Fr,De) (Disc 2)</description>
+		<rom name="Might &amp; Magic Heroes VII (Europe, Australia) (En,Fr,De) (Disc 2).iso" size="6577979392" crc="e4650612" md5="507fcdce85777824230043f4072999bd" sha1="5f3297c5729a363ff1d927913b8e9d7e07e8a2e7"/>
 	</game>
 	<game name="Might &amp; Magic X - Legacy (Australia)" id="125317">
 		<category>Games</category>
@@ -72408,17 +72414,17 @@
 		<rom name="Settlers IV, The (USA).bin" size="788886672" crc="3ad70bf4" md5="270526b2c2a17cf998aaec09302cb80b" sha1="1001c06fac8c426dd7ddaa643535fd4c9cfd193e"/>
 		<rom name="Settlers IV, The (USA).cue" size="88" crc="1b5a62b2" md5="2efc626622f75392b11eaaf5f5cd26f9" sha1="b1935e4f1f651c9a3ecb268ddca4fa576bdedc77"/>
 	</game>
-	<game name="Settlers IV, The - Gold Edition (UK) (Disc 1)" id="93327">
-		<category>Games</category>
-		<description>Settlers IV, The - Gold Edition (UK) (Disc 1)</description>
-		<rom name="Settlers IV, The - Gold Edition (UK) (Disc 1).bin" size="702794064" crc="30575fb1" md5="2088fb47e71afb9230cd70199a3890d7" sha1="4a7ce3f6ee2e79d9f98c85e5bb28ea4eb70c5e76"/>
-		<rom name="Settlers IV, The - Gold Edition (UK) (Disc 1).cue" size="111" crc="bacae0d7" md5="136b79199d4eb0c5ddf50397dda40f87" sha1="dd582e267fcdb93c9134f9f3ab1e1e8bb54df01b"/>
-	</game>
 	<game name="Settlers IV, The - Gold Edition (UK) (Disc 2)" id="93328">
 		<category>Games</category>
 		<description>Settlers IV, The - Gold Edition (UK) (Disc 2)</description>
 		<rom name="Settlers IV, The - Gold Edition (UK) (Disc 2).bin" size="788886672" crc="2db7ce1d" md5="434da585ee2620643621fc1851d3a605" sha1="d1127148b49e47b842d4c8d3c4322ff3b2fa8f19"/>
 		<rom name="Settlers IV, The - Gold Edition (UK) (Disc 2).cue" size="111" crc="bb97c606" md5="0dd0c189e4aca02b17b59fb8f087211b" sha1="44ca839477574d187df47ebe2ca0ba954557e600"/>
+	</game>
+	<game name="Settlers IV, The - Gold Edition (UK, Australia) (Disc 1) (Rerelease)" id="37803">
+		<category>Games</category>
+		<description>Settlers IV, The - Gold Edition (UK, Australia) (Disc 1) (Rerelease)</description>
+		<rom name="Settlers IV, The - Gold Edition (UK, Australia) (Disc 1) (Rerelease).bin" size="704576880" crc="ab15b4cd" md5="07c51253c1809913b4aa46b94099b024" sha1="b0d768a9d6e95d98a3d480950024cb5dc718a17f"/>
+		<rom name="Settlers IV, The - Gold Edition (UK, Australia) (Disc 1) (Rerelease).cue" size="134" crc="a2f15592" md5="f509596b0ba18e4c5bc57dc81d8d5d8e" sha1="df6fb65fae877b783d2011cc864fae00d28fb56c"/>
 	</game>
 	<game name="Settlers Online, The (Europe) (En,Fr,De,Pl)" id="137794">
 		<category>Games</category>
