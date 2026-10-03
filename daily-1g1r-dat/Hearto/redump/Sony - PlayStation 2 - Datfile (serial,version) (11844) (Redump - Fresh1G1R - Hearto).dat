@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 (Retool)</name>
-		<description>Sony - PlayStation 2 (5,390) (-y) [-aAbBcefkmMoprv] (2026-10-01 22-53-56) (Retool)</description>
-		<version>2026-10-01 22-53-56</version>
-		<date>2026-10-02 08-18-10</date>
+		<description>Sony - PlayStation 2 (5,392) (-y) [-aAbBcefkmMoprv] (2026-10-02 23-22-35) (Retool)</description>
+		<version>2026-10-02 23-22-35</version>
+		<date>2026-10-03 07-56-20</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -13666,7 +13666,7 @@
 	<game name="Hitman - Blood Money (USA)" id="4343">
 		<category>Games</category>
 		<description>Hitman - Blood Money (USA)</description>
-		<serial>SLUS 21108</serial>
+		<serial>SLUS 21108, SLUS 21108P3</serial>
 		<version>1.01</version>
 		<rom name="Hitman - Blood Money (USA).iso" size="3154280448" crc="248acbe4" md5="943129229e72adbd865af3c78afd2321" sha1="1a85ec1eca69ebb77581d2d597fe243044c56291"/>
 	</game>
@@ -24642,12 +24642,19 @@
 		<rom name="Phase Paradox (Japan) (Tentou-you Taikenban).bin" size="668504256" crc="7b253e69" md5="e03e0cfbe0767d04d7a2fdcd2aec7426" sha1="ddd275bd6ed8534c423bb6a96950623e69190cdf"/>
 		<rom name="Phase Paradox (Japan) (Tentou-you Taikenban).cue" size="110" crc="cb4521b9" md5="5abb403ca80ced29ee05bc4b6bfee71a" sha1="de5102b0b07b0ff5a17baeb113f11ed6bb7c45cd"/>
 	</game>
-	<game name="Phase of Combat - Sentou Kokka Kai Legend (Japan) (Tokusou-ban)" id="43509">
+	<game name="Phase of Combat - Sentou Kokka Kai Legend (Japan)" id="41935">
 		<category>Games</category>
-		<description>Phase of Combat - Sentou Kokka Kai Legend (Japan) (Tokusou-ban)</description>
+		<description>Phase of Combat - Sentou Kokka Kai Legend (Japan)</description>
+		<serial>SLPM 66741</serial>
+		<version>1.01</version>
+		<rom name="Phase of Combat - Sentou Kokka Kai Legend (Japan).iso" size="1241022464" crc="cef8373d" md5="8521072ee99874102975ad1a2e0dee63" sha1="07ea2d6f68c0628f560a04f225e8702ced6e2f06"/>
+	</game>
+	<game name="Phase of Combat - Sentou Kokka Kai Legend (Japan) (Tokusouban)" id="43509">
+		<category>Games</category>
+		<description>Phase of Combat - Sentou Kokka Kai Legend (Japan) (Tokusouban)</description>
 		<serial>SLPM 66740</serial>
 		<version>1.01</version>
-		<rom name="Phase of Combat - Sentou Kokka Kai Legend (Japan) (Tokusou-ban).iso" size="1241022464" crc="14bfa20e" md5="96e40ed3dab0e0960122f82dcd9a0a9e" sha1="8cf28e055343da855a8209145baa6f1cc2562c82"/>
+		<rom name="Phase of Combat - Sentou Kokka Kai Legend (Japan) (Tokusouban).iso" size="1241022464" crc="14bfa20e" md5="96e40ed3dab0e0960122f82dcd9a0a9e" sha1="8cf28e055343da855a8209145baa6f1cc2562c82"/>
 	</game>
 	<game name="Pia Carrot e Youkoso!! 3 - Round Summer (Japan) (Shokai Genteiban)" id="44063">
 		<category>Games</category>
@@ -37097,6 +37104,14 @@
 		<version>1.00</version>
 		<rom name="Virtua Fighter - 10th Anniversary Edition (Europe) (En,Fr,De,Es,It).bin" size="497137536" crc="2acdb1f7" md5="65d413014f18a8b92955217b2d0ee5bc" sha1="4a2793429ef1c4071f44f3127698382531c0f7e0"/>
 		<rom name="Virtua Fighter - 10th Anniversary Edition (Europe) (En,Fr,De,Es,It).cue" size="133" crc="c770f3e8" md5="ea0f8a1002f0bc79769d7fe59b849c61" sha1="4db3c218a72092e10d74d737085cb9db2861a292"/>
+	</game>
+	<game name="Virtua Fighter - 10th Anniversary Fukkokuban (Japan)" id="69347">
+		<category>Games</category>
+		<description>Virtua Fighter - 10th Anniversary Fukkokuban (Japan)</description>
+		<serial>SLPM 68008, SLPM 68018</serial>
+		<version>1.00</version>
+		<rom name="Virtua Fighter - 10th Anniversary Fukkokuban (Japan).bin" size="358992816" crc="f214e620" md5="328d5c9a008904aa4454e7fc79b62f5c" sha1="cb48adb4f414c689aaf2348a6e2a4f258c43bdd7"/>
+		<rom name="Virtua Fighter - 10th Anniversary Fukkokuban (Japan).cue" size="118" crc="f5a14c46" md5="ffa595ca56cbde0d985b41ddca48457a" sha1="ce84e55f64c9b14809025b6935d705a52cce50fb"/>
 	</game>
 	<game name="Virtua Fighter - Cyber Generation - Judgment Six no Yabou (Japan) (Taikenban)" id="42997">
 		<category>Demos</category>

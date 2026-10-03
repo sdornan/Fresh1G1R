@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,910) (-y) [-aAbBcdkmMpPuv] (2026-10-01 22-52-35) (Retool)</description>
-		<version>2026-10-01 22-52-35</version>
-		<date>2026-10-02 08-35-09</date>
+		<description>IBM - PC compatible (26,923) (-y) [-aAbBcdkmMpPuv] (2026-10-03 00-52-35) (Retool)</description>
+		<version>2026-10-03 00-52-35</version>
+		<date>2026-10-03 08-09-14</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2596,14 +2596,14 @@
 		<rom name="A Mao A Gou (China) (Disc 2) (Rerelease) (Track 69).bin" size="10722768" crc="2cc88a98" md5="3f7e2f5e9623ea9eeeefc7bca1dc33db" sha1="b7e27cd799fc2670e08293158fdbec184189f53d"/>
 		<rom name="A Mao A Gou (China) (Disc 2) (Rerelease).cue" size="7756" crc="6cac566c" md5="322bb5462a57e72f4ef3ef164fea0f90" sha1="172338126ac9b15f987f82bed96ec0a2c526f4c1"/>
 	</game>
-	<game name="A Ressha de Ikou - Fukkoku-ban (Japan)" id="107627">
+	<game name="A Ressha de Ikou - Fukkokuban (Japan)" id="107627">
 		<category>Games</category>
-		<description>A Ressha de Ikou - Fukkoku-ban (Japan)</description>
-		<rom name="A Ressha de Ikou - Fukkoku-ban (Japan) (Track 1).bin" size="2791824" crc="6c18b355" md5="130ab0efd4cd2ed019decefe85d14f90" sha1="3bf5fe33a2f29aeb1a0dc34c6bd9e676b2b6712f"/>
-		<rom name="A Ressha de Ikou - Fukkoku-ban (Japan) (Track 2).bin" size="5320224" crc="2e0e95cb" md5="d5d79f8c2435beca41bdb019d4a6ea37" sha1="5ee5377d9e8a0a4e994036eecb1fe60f8447ba0e"/>
-		<rom name="A Ressha de Ikou - Fukkoku-ban (Japan) (Track 3).bin" size="35851536" crc="a6458d1f" md5="c40671deb8f5f9bf67149f973c50c2df" sha1="b367f5071bae69e2333bb6faada2822ea36ce9f8"/>
-		<rom name="A Ressha de Ikou - Fukkoku-ban (Japan) (Track 4).bin" size="7580496" crc="ec85b61d" md5="b000d8471a68662f36b30eafae671cca" sha1="3e9938be94a19fff00c0259218594ac1ae8c84f9"/>
-		<rom name="A Ressha de Ikou - Fukkoku-ban (Japan).cue" size="510" crc="ea70c346" md5="3a88b7526216d356d893cde7798f1419" sha1="e30b35e499ff651a5d252a875757a58d7df10827"/>
+		<description>A Ressha de Ikou - Fukkokuban (Japan)</description>
+		<rom name="A Ressha de Ikou - Fukkokuban (Japan) (Track 1).bin" size="2791824" crc="6c18b355" md5="130ab0efd4cd2ed019decefe85d14f90" sha1="3bf5fe33a2f29aeb1a0dc34c6bd9e676b2b6712f"/>
+		<rom name="A Ressha de Ikou - Fukkokuban (Japan) (Track 2).bin" size="5320224" crc="2e0e95cb" md5="d5d79f8c2435beca41bdb019d4a6ea37" sha1="5ee5377d9e8a0a4e994036eecb1fe60f8447ba0e"/>
+		<rom name="A Ressha de Ikou - Fukkokuban (Japan) (Track 3).bin" size="35851536" crc="a6458d1f" md5="c40671deb8f5f9bf67149f973c50c2df" sha1="b367f5071bae69e2333bb6faada2822ea36ce9f8"/>
+		<rom name="A Ressha de Ikou - Fukkokuban (Japan) (Track 4).bin" size="7580496" crc="ec85b61d" md5="b000d8471a68662f36b30eafae671cca" sha1="3e9938be94a19fff00c0259218594ac1ae8c84f9"/>
+		<rom name="A Ressha de Ikou - Fukkokuban (Japan).cue" size="506" crc="3160603f" md5="6963eca14f8c8a2abff8758aeae24618" sha1="af4b6255d11e327074ee75e1759b4c1a71b4fc5c"/>
 	</game>
 	<game name="A Ressha de Ikou - Memorial Pack (Japan) (Game Disc)" id="110335">
 		<category>Games</category>
@@ -11728,6 +11728,12 @@
 		<rom name="Armed and Dangerous (USA) (Disc 2).bin" size="795039504" crc="5fc1500d" md5="a53df26b879c50eef571aaa382658fc6" sha1="2be08bbaf369c12a4df9985cab19ae33e87a08c5"/>
 		<rom name="Armed and Dangerous (USA) (Disc 2).cue" size="100" crc="c7d19065" md5="2f65d47a46ad460ced504a70a53eeced" sha1="68b222bfcd23e54503c9f6d17336202a43e9c3ba"/>
 	</game>
+	<game name="Armed and Dangerous - Preview Disc (USA)" id="139014">
+		<category>Games</category>
+		<description>Armed and Dangerous - Preview Disc (USA)</description>
+		<rom name="Armed and Dangerous - Preview Disc (USA).bin" size="621835872" crc="2f73d5ad" md5="72dd1b05e52f4db2540711cb19e5d25e" sha1="d62d3db66b3d9ea677644643a5dee191b508c63f"/>
+		<rom name="Armed and Dangerous - Preview Disc (USA).cue" size="106" crc="200ea255" md5="6a07d86bfbde2ab56891c4f122a93b6e" sha1="5828cb215e2e26ea2777c631668a8a3126662232"/>
+	</game>
 	<game name="Armies of Exigo (USA) (Disc 1)" id="137594">
 		<category>Games</category>
 		<description>Armies of Exigo (USA) (Disc 1)</description>
@@ -18379,11 +18385,11 @@
 		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 3).bin" size="783041952" crc="da879fcd" md5="d93159109ee1e46b5fd7386f8dffc6fc" sha1="ac5ce1f61e5324b1d48885c1c54600b24c39618a"/>
 		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 3).cue" size="127" crc="0ddf1331" md5="1ddfb6de53e90dcd4d445eda535e3dea" sha1="c643a03fa90fdc62069f10857a7154f71098825d"/>
 	</game>
-	<game name="Beyond Normandy - Assignment - Berlin (USA)" id="127898">
+	<game name="Beyond Normandy - Assignment - Berlin (USA, India)" id="127898">
 		<category>Games</category>
-		<description>Beyond Normandy - Assignment - Berlin (USA)</description>
-		<rom name="Beyond Normandy - Assignment - Berlin (USA).bin" size="323825712" crc="17f65b15" md5="74747c8874f42a6381e0c74e226a6590" sha1="0e33b280451e7f4cc425bc3cee3757188c216dcc"/>
-		<rom name="Beyond Normandy - Assignment - Berlin (USA).cue" size="109" crc="b035aa93" md5="af09f204084fe3271aa5dd918f2f93a3" sha1="fc1ddfa6f9b9e43df72cd821dc8e4a9ba9237935"/>
+		<description>Beyond Normandy - Assignment - Berlin (USA, India)</description>
+		<rom name="Beyond Normandy - Assignment - Berlin (USA, India).bin" size="323825712" crc="17f65b15" md5="74747c8874f42a6381e0c74e226a6590" sha1="0e33b280451e7f4cc425bc3cee3757188c216dcc"/>
+		<rom name="Beyond Normandy - Assignment - Berlin (USA, India).cue" size="116" crc="ef86078e" md5="b1bbd3e4d8a171d36ee5f63105a8d704" sha1="752f341090867b36ef1981f8aca29640f427b0a6"/>
 	</game>
 	<game name="Beyond Pearl Harbor - Pacific Warriors (USA)" id="46630">
 		<category>Games</category>
@@ -23909,12 +23915,6 @@
 		<rom name="CTU - Marine Sharpshooter (USA).bin" size="402347232" crc="128158f8" md5="5d16476bdcf81eb9b2028244c729aadb" sha1="dd736267365bd08e8afa9a0f6928196f9be801d7"/>
 		<rom name="CTU - Marine Sharpshooter (USA).cue" size="97" crc="961d9356" md5="8bce702713402b3eded2f0c66279eade" sha1="29753bb10991bd1d580d0c316c4b2bc3ecbeb833"/>
 	</game>
-	<game name="CTU - Marine Sharpshooter 3 (USA) (Rerelease)" id="79357">
-		<category>Games</category>
-		<description>CTU - Marine Sharpshooter 3 (USA) (Rerelease)</description>
-		<rom name="CTU - Marine Sharpshooter 3 (USA) (Rerelease).bin" size="838069344" crc="19f5a8ca" md5="8730b686abeae1815fc127c3c1daa688" sha1="f1e51def42b8ecc943a6802b2f3cefbcb9617594"/>
-		<rom name="CTU - Marine Sharpshooter 3 (USA) (Rerelease).cue" size="111" crc="ceaa3403" md5="985a381234ddfe59d6b12be57c812fe5" sha1="d660787ce189b6a8408d04b0f283a7b7a9cabb9d"/>
-	</game>
 	<game name="Cabela's 4x4 Off-Road Adventure (USA) (Rerelease)" id="45330">
 		<category>Games</category>
 		<description>Cabela's 4x4 Off-Road Adventure (USA) (Rerelease)</description>
@@ -27069,6 +27069,11 @@
 		<description>Cheburashka v zooparke - Logika 2 (Russia)</description>
 		<rom name="Cheburashka v zooparke - Logika 2 (Russia).bin" size="747618480" crc="6ce6f604" md5="1cc5dff92fbe04646a9a466d6710ba82" sha1="6d857147a248593cb1bb69aa00322ddacea90c14"/>
 		<rom name="Cheburashka v zooparke - Logika 2 (Russia).cue" size="108" crc="0415db4d" md5="63d7dad997608b32fbeea33281ecc6b5" sha1="5df9dc08966c1976c80d315354ab34fe20ee8bf8"/>
+	</game>
+	<game name="Cheerfull! (Japan)" id="139005">
+		<category>Games</category>
+		<description>Cheerfull! (Japan)</description>
+		<rom name="Cheerfull! (Japan).iso" size="1853227008" crc="6cc08bd8" md5="30dab09121525a55ac181590a69b66ac" sha1="ef44b05f80208096b40c57d5f13468e2b7932507"/>
 	</game>
 	<game name="Cheerios - Play Time (USA)" id="86688">
 		<category>Educational</category>
@@ -39644,15 +39649,15 @@
 		<description>Diablo III (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
 		<rom name="Diablo III (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="8165031936" crc="3723b003" md5="b53b6bd69abba11530219aac53b2a302" sha1="61b4b08c02a32a05c45939b623295dd1e36815f0"/>
 	</game>
-	<game name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)" id="80288">
+	<game name="Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)" id="80288">
 		<category>Games</category>
-		<description>Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)</description>
-		<rom name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1).iso" size="7329808384" crc="2e42498c" md5="38914b272ac035f321a4af88473a311a" sha1="7f06d535040cbd7829615bff80a6e3e1fdfbccff"/>
+		<description>Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)</description>
+		<rom name="Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1).iso" size="7329808384" crc="2e42498c" md5="38914b272ac035f321a4af88473a311a" sha1="7f06d535040cbd7829615bff80a6e3e1fdfbccff"/>
 	</game>
-	<game name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)" id="80289">
+	<game name="Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)" id="80289">
 		<category>Games</category>
-		<description>Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)</description>
-		<rom name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2).iso" size="7488831488" crc="87c330df" md5="241ee8e8c7b43671e52c4acd81eb51e6" sha1="eabd6a5195b52ba48573a25ac4efa3827ff7ee9c"/>
+		<description>Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)</description>
+		<rom name="Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2).iso" size="7488831488" crc="87c330df" md5="241ee8e8c7b43671e52c4acd81eb51e6" sha1="eabd6a5195b52ba48573a25ac4efa3827ff7ee9c"/>
 	</game>
 	<game name="Diablo III - Reaper of Souls (Russia) (Igrovoj)" id="118010">
 		<category>Add-Ons</category>
@@ -43408,6 +43413,12 @@
 		<rom name="Divi-Dead (USA).bin" size="537083904" crc="0baeba69" md5="005164872e50233d0f587820b46d9adc" sha1="e0336f3efd095a1f80bf333680820e7351750544"/>
 		<rom name="Divi-Dead (USA).cue" size="104" crc="684b4b65" md5="e16ab4b5a5ba15546a2f7e97e2e019c1" sha1="29a7d5d87ec354fa1ed79797c93e182b2d81c74e"/>
 	</game>
+	<game name="Divide, The - Enemies Within (USA)" id="138999">
+		<category>Games</category>
+		<description>Divide, The - Enemies Within (USA)</description>
+		<rom name="Divide, The - Enemies Within (USA).bin" size="191283456" crc="8a42861d" md5="0fe0e41439b52ad243c06ffb231e25f7" sha1="83aa8488c1d8b34dc02358c6dc2cdaff45a45b91"/>
+		<rom name="Divide, The - Enemies Within (USA).cue" size="123" crc="9b6cfc0e" md5="c5961a1928a1b3643dac80ab6e628bfd" sha1="fe2a1256707e46c871b1e2da3ace2320f5f1295b"/>
+	</game>
 	<game name="Divided Ground - Middle East Conflict 1948-1973 (USA)" id="107535">
 		<category>Games</category>
 		<description>Divided Ground - Middle East Conflict 1948-1973 (USA)</description>
@@ -43788,6 +43799,18 @@
 		<rom name="Dokapin (Germany) (Track 7).bin" size="40454400" crc="ef17f282" md5="80ea7fd963bd8addbdf4d58a4639d542" sha1="d62cd527b13b31f2ff0d4c812a75e005f5726a2d"/>
 		<rom name="Dokapin (Germany) (Track 8).bin" size="47451600" crc="44ca62bb" md5="bf043e777d441b0b08c6e6ca1b462c5a" sha1="85c9f3b1eb370ae1eb31979096f0c5e7330d20af"/>
 		<rom name="Dokapin (Germany).cue" size="755" crc="58039183" md5="f1cc78a03d8c3b694f68261380557c22" sha1="06bf024b82d748a40f00467615d4ff0b9a652e26"/>
+	</game>
+	<game name="Doki Doki On Air Final (Japan) (Disc 1) (Set up Disk)" id="138997">
+		<category>Games</category>
+		<description>Doki Doki On Air Final (Japan) (Disc 1) (Set up Disk)</description>
+		<rom name="Doki Doki On Air Final (Japan) (Disc 1) (Set up Disk).bin" size="75673248" crc="16315ad2" md5="fd50ef2a7e38ca50394a6e258d5c8d91" sha1="8b3fca16d18f53d62d72194b23a29ac18b3687ae"/>
+		<rom name="Doki Doki On Air Final (Japan) (Disc 1) (Set up Disk).cue" size="119" crc="5d172d3a" md5="c8bdd0db5a7264c15ccbab18f6df1faf" sha1="911829c5477579182a2ab2070a716953de6112c5"/>
+	</game>
+	<game name="Doki Doki On Air Final (Japan) (Disc 2) (Playing Disk)" id="138998">
+		<category>Games</category>
+		<description>Doki Doki On Air Final (Japan) (Disc 2) (Playing Disk)</description>
+		<rom name="Doki Doki On Air Final (Japan) (Disc 2) (Playing Disk).bin" size="475009920" crc="21e49f85" md5="17be6733ff03962247c875a79996ad37" sha1="94c61aa075fac5144e1ab2ed5b1f139528295b9a"/>
+		<rom name="Doki Doki On Air Final (Japan) (Disc 2) (Playing Disk).cue" size="120" crc="4048f9b9" md5="29c699c0b47ec5811693359b4bf1180e" sha1="59a3f7c408478ba291cce1172b8163b95c2a128c"/>
 	</game>
 	<game name="Dokidoki Princess (Japan) (Disc 1)" id="135142">
 		<category>Games</category>
@@ -51761,6 +51784,30 @@
 		<description>Evil Dead - Regeneration (Russia)</description>
 		<rom name="Evil Dead - Regeneration (Russia).iso" size="4626153472" crc="5a1b8911" md5="c7f56a2e82321aae09014968874a3e84" sha1="1709bdb2ef588de0239c604c98556f0de009e6e1"/>
 	</game>
+	<game name="Evil Dead - Regeneration (USA) (Disc 1)" id="139015">
+		<category>Games</category>
+		<description>Evil Dead - Regeneration (USA) (Disc 1)</description>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 1).bin" size="834188544" crc="1658e3cc" md5="8d965a36ce07ef32737cae1ae231b53e" sha1="ca38bc468608b6d89a0a317639d11641623d2690"/>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 1).cue" size="105" crc="d09c5dfc" md5="dc88de815c7c3fd354a571077a7626c8" sha1="b3a5edecf8c702f6b7c66870b138c7cd54982c45"/>
+	</game>
+	<game name="Evil Dead - Regeneration (USA) (Disc 2)" id="139016">
+		<category>Games</category>
+		<description>Evil Dead - Regeneration (USA) (Disc 2)</description>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 2).bin" size="752712912" crc="155a1e30" md5="e2ea9e3feb70aca96339f6c76e3bf1b6" sha1="bde90f1b270fe96fbcb5fe7afa36c3e840ee23dc"/>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 2).cue" size="105" crc="d1c17b2d" md5="38a599eee2a129abfeb9c8b16aae72ef" sha1="a514d1e88b7349d4e36d29b7947cddb3ca8e70da"/>
+	</game>
+	<game name="Evil Dead - Regeneration (USA) (Disc 3)" id="139017">
+		<category>Games</category>
+		<description>Evil Dead - Regeneration (USA) (Disc 3)</description>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 3).bin" size="752712912" crc="2c12bc08" md5="13c086b4e679f8e0d76d13c207ef24c5" sha1="f8f313ffd6b195433310a24364fb4e88fcfcd90c"/>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 3).cue" size="105" crc="67da9b5d" md5="7f5e50e00313840bc2bef89497e22fde" sha1="7aa2753a6a983c6553fbbf5f815b0901cfa86581"/>
+	</game>
+	<game name="Evil Dead - Regeneration (USA) (Disc 4)" id="139018">
+		<category>Games</category>
+		<description>Evil Dead - Regeneration (USA) (Disc 4)</description>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 4).bin" size="249502512" crc="23e5189c" md5="3a88c5002d49165c8b9f94cd579948aa" sha1="eea439a2480768735136f07c8977527db3a9a380"/>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 4).cue" size="105" crc="d37b368f" md5="2c838fded1a2d50aa6e3c92d2a232d0b" sha1="1db64afb9d9fbaac8ea6603327cb7ceeb432e2a7"/>
+	</game>
 	<game name="Evil Genius (USA) (Disc 1) (Install)" id="65712">
 		<category>Games</category>
 		<description>Evil Genius (USA) (Disc 1) (Install)</description>
@@ -57600,6 +57647,12 @@
 		<description>Flight Light (USA)</description>
 		<rom name="Flight Light (USA).bin" size="5282592" crc="1be25ae7" md5="c9e79d0a05249f62bd8edc942a6c5f5a" sha1="95d7bfe86c4de66f09f0bf531b337804debd779d"/>
 		<rom name="Flight Light (USA).cue" size="107" crc="050d9b15" md5="742ae20446c80e4649f80bbc2e6935fe" sha1="dc6072a6cfac36bcceaa8018f714f788c8bc44e2"/>
+	</game>
+	<game name="Flight Sim Toolkit (Europe)" id="139007">
+		<category>Games</category>
+		<description>Flight Sim Toolkit (Europe)</description>
+		<rom name="Flight Sim Toolkit (Europe).bin" size="13766256" crc="01a35c80" md5="8a65e4f31c71c22b0a6964ce2b86c652" sha1="ae1ccc2976d82441181bea96a0fe081f4c34b1ec"/>
+		<rom name="Flight Sim Toolkit (Europe).cue" size="93" crc="6a39a969" md5="800007c4919708a32db8621b2566dbac" sha1="ed648e2fb3857dfdc2813034598708f57e2833d0"/>
 	</game>
 	<game name="Flight Sim Toolkit - World War II - D-Day and Midway (USA)" id="130410">
 		<category>Games</category>
@@ -72592,6 +72645,17 @@
 		<rom name="Himawari ga Oka Sougou Byouin e Youkoso (Japan) (Game Disc).bin" size="695145360" crc="b734cc97" md5="8e4c64187c3b8cfa48211362edb3fe52" sha1="2d6896a5659df624b9b5b43d453525b4b71838db"/>
 		<rom name="Himawari ga Oka Sougou Byouin e Youkoso (Japan) (Game Disc).cue" size="125" crc="4bb8c7f8" md5="b3b36f0cc312597fc84a65ca3c8c80f2" sha1="c4857c06e0f14e31fe7b1891fbb178f56b018654"/>
 	</game>
+	<game name="Hime-sama, Ote Yawaraka ni! (Japan)" id="139008">
+		<category>Games</category>
+		<description>Hime-sama, Ote Yawaraka ni! (Japan)</description>
+		<rom name="Hime-sama, Ote Yawaraka ni! (Japan).iso" size="1359020032" crc="5d5b3f74" md5="268d416543c3033105f7231be09d08c9" sha1="22e968127d1f1d97658ae9d70c025456ec8a9d02"/>
+	</game>
+	<game name="Himehajime Box (Japan) (Disc 3) (Materials of Utopians) (PC Game Bundle)" id="139011">
+		<category>Bonus Discs</category>
+		<description>Himehajime Box (Japan) (Disc 3) (Materials of Utopians) (PC Game Bundle)</description>
+		<rom name="Himehajime Box (Japan) (Disc 3) (Materials of Utopians) (PC Game Bundle).bin" size="47505696" crc="b604c1e5" md5="28ca6955772232caa72de4a81fad1d83" sha1="22df259abfa53ad4d716df92dc6b6a1c32c6a286"/>
+		<rom name="Himehajime Box (Japan) (Disc 3) (Materials of Utopians) (PC Game Bundle).cue" size="138" crc="7a1dd511" md5="890534eec21976d32a2a0cf1d3575439" sha1="ad422a7c90c7944ffe3d2cc1d056561d3303c6a6"/>
+	</game>
 	<game name="Hinadori no Saezuri &amp; Kara no Naka no Kotori (Japan)" id="107269">
 		<category>Games</category>
 		<description>Hinadori no Saezuri &amp; Kara no Naka no Kotori (Japan)</description>
@@ -73585,6 +73649,11 @@
 		<description>Horsez (USA) (Disc 3)</description>
 		<rom name="Horsez (USA) (Disc 3).bin" size="339586464" crc="d6be24e2" md5="4110fe859419c530a02e009d77e548b9" sha1="c6cbb8e50a01424e0d6ed2426ede04d2e9b34b0b"/>
 		<rom name="Horsez (USA) (Disc 3).cue" size="87" crc="026409ea" md5="51cfbb48106e7727d4138a7fdd2d76c5" sha1="b48b849944dcd6da3aab4171cf4de97e0ac4e37d"/>
+	</game>
+	<game name="Horsez - Shkola verxovoj ezdy (Russia)" id="138994">
+		<category>Games</category>
+		<description>Horsez - Shkola verxovoj ezdy (Russia)</description>
+		<rom name="Horsez - Shkola verxovoj ezdy (Russia).iso" size="1127835648" crc="0cae10a3" md5="22eeac0c622376495a937e96d0a17aa2" sha1="82289f66bb40f5d16438050575e9ef61ea57bc1c"/>
 	</game>
 	<game name="Hoshi no Nai Machi - Shoujotachi no Yoake (Japan)" id="94339">
 		<category>Games</category>
@@ -104659,6 +104728,12 @@
 		<description>Mind Grind (USA)</description>
 		<rom name="Mind Grind (USA).bin" size="673229424" crc="713a6315" md5="f5b3040b7a4766e2ba7fc6bfb0641080" sha1="cc03db64c82bba3969e9abffea2c8019bcf1b63f"/>
 		<rom name="Mind Grind (USA).cue" size="105" crc="5d1cc36f" md5="515357e8fe0734d1cf9efc7fea289087" sha1="cb6427ba50384966919e610f655f1adb4aacbb94"/>
+	</game>
+	<game name="Mind Gym (USA)" id="139019">
+		<category>Games</category>
+		<description>Mind Gym (USA)</description>
+		<rom name="Mind Gym (USA).bin" size="768591264" crc="307b5535" md5="ae82876518ccc380be725fe092ca5151" sha1="f360b9171259782b06c56e9de6cb957d977616d8"/>
+		<rom name="Mind Gym (USA).cue" size="103" crc="3b075bc9" md5="41ac0e014f7dff2502e6c754cacb9bdd" sha1="98d517193eb57d8cb8544a5d4c99fb77e4694f63"/>
 	</game>
 	<game name="Mind Quiz - Your Brain Coach (USA)" id="88187">
 		<category>Games</category>
@@ -150144,6 +150219,12 @@
 		<rom name="SimCity 3000 World Edition (Sweden) (En,Sv) (Documentation) (PC Game Bundle).bin" size="21473760" crc="2bab1dcc" md5="6692459a43bb2102b59c836b604ea2db" sha1="5eb6ba077697e989e5b0b1aeaca809bc41918fae"/>
 		<rom name="SimCity 3000 World Edition (Sweden) (En,Sv) (Documentation) (PC Game Bundle).cue" size="142" crc="34f4f16a" md5="a85588d4516bb58d7feedb2a831aeedd" sha1="b835dda82ed0d718a436844e65653e8e5ccd0750"/>
 	</game>
+	<game name="SimCity 4 (Australia) (Disc 3) (Manual Disc)" id="138981">
+		<category>Bonus Discs</category>
+		<description>SimCity 4 (Australia) (Disc 3) (Manual Disc)</description>
+		<rom name="SimCity 4 (Australia) (Disc 3) (Manual Disc).bin" size="20923392" crc="98fe8d7f" md5="2149e94cf4908095fda0c3f6f57d0048" sha1="df08b9979e07365eddfd6963671cf713a3e66f8e"/>
+		<rom name="SimCity 4 (Australia) (Disc 3) (Manual Disc).cue" size="110" crc="82254fdc" md5="412fc8aaa86ba97098901d05b3640400" sha1="1670c3b89564ed4c1b0ecef24b07b977bdf5e42e"/>
+	</game>
 	<game name="SimCity 4 (USA) (Disc 1)" id="30185">
 		<category>Games</category>
 		<description>SimCity 4 (USA) (Disc 1)</description>
@@ -164404,11 +164485,11 @@
 		<rom name="Tenka Touitsu - Chronicle (Japan).bin" size="16353456" crc="9b6b70db" md5="78d89152470a01d362afb47f22059494" sha1="34f14ea70a35c6530848f13a5e914d51f6bbcbe7"/>
 		<rom name="Tenka Touitsu - Chronicle (Japan).cue" size="99" crc="6c86f0c7" md5="b8f8ddca12960e127c2ff6421f2af50b" sha1="309c76ddec650075f6feb97f6bc3baae9767a52d"/>
 	</game>
-	<game name="Tenka Touitsu - Fukkoku-ban (Japan)" id="107644">
+	<game name="Tenka Touitsu - Fukkokuban (Japan)" id="107644">
 		<category>Games</category>
-		<description>Tenka Touitsu - Fukkoku-ban (Japan)</description>
-		<rom name="Tenka Touitsu - Fukkoku-ban (Japan).bin" size="78418032" crc="48191763" md5="3be045a65237afc6d27674036d42a077" sha1="f8a8dbb65ccf962fe02a800352dd294d16bd46cb"/>
-		<rom name="Tenka Touitsu - Fukkoku-ban (Japan).cue" size="101" crc="84d53ef9" md5="ce5a849d22038498c9d461d4de7a097d" sha1="a36548be88028d001ca7883c4ef274ba42eee9aa"/>
+		<description>Tenka Touitsu - Fukkokuban (Japan)</description>
+		<rom name="Tenka Touitsu - Fukkokuban (Japan).bin" size="78418032" crc="48191763" md5="3be045a65237afc6d27674036d42a077" sha1="f8a8dbb65ccf962fe02a800352dd294d16bd46cb"/>
+		<rom name="Tenka Touitsu - Fukkokuban (Japan).cue" size="100" crc="5ee5e1d3" md5="f0b6c5db0facbb30d55173d843e953ed" sha1="6224dda7fca189d27ba8a668eae1786d0f1229ef"/>
 	</game>
 	<game name="Tenka Touitsu - Ranse no Hasha (Japan)" id="107645">
 		<category>Games</category>
@@ -164774,6 +164855,12 @@
 		<category>Games</category>
 		<description>Terror Strike - Close-Quarters Combat (USA)</description>
 		<rom name="Terror Strike - Close-Quarters Combat (USA).iso" size="1537277952" crc="7a3f4bd5" md5="66e2e1d2ebe3357627a9ee21c55518b3" sha1="a5aa5dfcad68fac0b01bbcae97a410d4f942cba0"/>
+	</game>
+	<game name="Terror T.R.A.X. - Track of the Vampire (USA)" id="139020">
+		<category>Games</category>
+		<description>Terror T.R.A.X. - Track of the Vampire (USA)</description>
+		<rom name="Terror T.R.A.X. - Track of the Vampire (USA).bin" size="694303344" crc="b9e3a2c6" md5="089693390dd06752efee91d954f0c80c" sha1="8ba62d1d8bc2c5c09c47769394088f9fab39d884"/>
+		<rom name="Terror T.R.A.X. - Track of the Vampire (USA).cue" size="133" crc="b945cc99" md5="c1b4a3047b903083b1d9090188c28f76" sha1="08c785221ef972a5d3561387de63c5948eee96c4"/>
 	</game>
 	<game name="Terrorist Takedown (USA)" id="63934">
 		<category>Games</category>
@@ -175800,19 +175887,6 @@
 		<description>Vampire - The Masquerade - Bloodlines (USA) (Disc 3)</description>
 		<rom name="Vampire - The Masquerade - Bloodlines (USA) (Disc 3).bin" size="800507904" crc="0911e5c2" md5="809b1f954a3ce8847394c5dd941b5a92" sha1="8b4b6663b88f7b9071be10b4d2ae34d8f4e5387d"/>
 		<rom name="Vampire - The Masquerade - Bloodlines (USA) (Disc 3).cue" size="118" crc="4fee4572" md5="ae4acaa0a8ab5bd2137899d1accb37a5" sha1="5f389c03dedc1dd884a29eed8571d422c84dd1f2"/>
-	</game>
-	<game name="Vampire - The Masquerade - Redemption (Europe) (Disc 2) (Play Disc)" id="7872">
-		<category>Games</category>
-		<description>Vampire - The Masquerade - Redemption (Europe) (Disc 2) (Play Disc)</description>
-		<rom name="Vampire - The Masquerade - Redemption (Europe) (Disc 2) (Play Disc) (Track 1).bin" size="721762944" crc="f9b4af5d" md5="ae5235a9224b0726a8b6fd442dc54f9e" sha1="3557f0969c684f16be6234037bd549a9e7c2c568"/>
-		<rom name="Vampire - The Masquerade - Redemption (Europe) (Disc 2) (Play Disc) (Track 2).bin" size="80619504" crc="387cc8e1" md5="b73bb6a618b18c599e736e4a8370f52b" sha1="a4ae33cc26021ab2f3b08826e9b464cf5d738657"/>
-		<rom name="Vampire - The Masquerade - Redemption (Europe) (Disc 2) (Play Disc).cue" size="304" crc="a28fe4f9" md5="aa5de54ef800b389afa687c3bc956a82" sha1="327f46688aaad1cc508eeeb2cfb519dae24999db"/>
-	</game>
-	<game name="Vampire - The Masquerade - Redemption (Europe, Australia) (Disc 1) (Install Disc)" id="7871">
-		<category>Games</category>
-		<description>Vampire - The Masquerade - Redemption (Europe, Australia) (Disc 1) (Install Disc)</description>
-		<rom name="Vampire - The Masquerade - Redemption (Europe, Australia) (Disc 1) (Install Disc).bin" size="711186000" crc="f4fd4eab" md5="d227d07eb713c9a8b2fc428d00a29891" sha1="810b5791ec1119fd1ff555fc897426068b5dd7c6"/>
-		<rom name="Vampire - The Masquerade - Redemption (Europe, Australia) (Disc 1) (Install Disc).cue" size="147" crc="cc754232" md5="98466d9209da520c61425ac387bd43b1" sha1="796e0bf6a548a50edf4e75899e629d49e06e7b3e"/>
 	</game>
 	<game name="Vampire - The Masquerade - Redemption (Italy) (Disc 1) (Installazione)" id="80153">
 		<category>Games</category>

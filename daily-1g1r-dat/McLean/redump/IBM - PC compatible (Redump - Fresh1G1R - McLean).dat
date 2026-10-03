@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,564) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-01 22-52-35) (Retool)</description>
-		<version>2026-10-01 22-52-35</version>
-		<date>2026-10-02 08-25-23</date>
+		<description>IBM - PC compatible (13,570) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-03 00-52-35) (Retool)</description>
+		<version>2026-10-03 00-52-35</version>
+		<date>2026-10-03 08-01-50</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5543,6 +5543,12 @@
 		<rom name="Armed and Dangerous (USA) (Disc 2).bin" size="795039504" crc="5fc1500d" md5="a53df26b879c50eef571aaa382658fc6" sha1="2be08bbaf369c12a4df9985cab19ae33e87a08c5"/>
 		<rom name="Armed and Dangerous (USA) (Disc 2).cue" size="100" crc="c7d19065" md5="2f65d47a46ad460ced504a70a53eeced" sha1="68b222bfcd23e54503c9f6d17336202a43e9c3ba"/>
 	</game>
+	<game name="Armed and Dangerous - Preview Disc (USA)" id="139014">
+		<category>Games</category>
+		<description>Armed and Dangerous - Preview Disc (USA)</description>
+		<rom name="Armed and Dangerous - Preview Disc (USA).bin" size="621835872" crc="2f73d5ad" md5="72dd1b05e52f4db2540711cb19e5d25e" sha1="d62d3db66b3d9ea677644643a5dee191b508c63f"/>
+		<rom name="Armed and Dangerous - Preview Disc (USA).cue" size="106" crc="200ea255" md5="6a07d86bfbde2ab56891c4f122a93b6e" sha1="5828cb215e2e26ea2777c631668a8a3126662232"/>
+	</game>
 	<game name="Armies of Exigo (USA) (Disc 1)" id="137594">
 		<category>Games</category>
 		<description>Armies of Exigo (USA) (Disc 1)</description>
@@ -9221,11 +9227,11 @@
 		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 3).bin" size="783041952" crc="da879fcd" md5="d93159109ee1e46b5fd7386f8dffc6fc" sha1="ac5ce1f61e5324b1d48885c1c54600b24c39618a"/>
 		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 3).cue" size="127" crc="0ddf1331" md5="1ddfb6de53e90dcd4d445eda535e3dea" sha1="c643a03fa90fdc62069f10857a7154f71098825d"/>
 	</game>
-	<game name="Beyond Normandy - Assignment - Berlin (USA)" id="127898">
+	<game name="Beyond Normandy - Assignment - Berlin (USA, India)" id="127898">
 		<category>Games</category>
-		<description>Beyond Normandy - Assignment - Berlin (USA)</description>
-		<rom name="Beyond Normandy - Assignment - Berlin (USA).bin" size="323825712" crc="17f65b15" md5="74747c8874f42a6381e0c74e226a6590" sha1="0e33b280451e7f4cc425bc3cee3757188c216dcc"/>
-		<rom name="Beyond Normandy - Assignment - Berlin (USA).cue" size="109" crc="b035aa93" md5="af09f204084fe3271aa5dd918f2f93a3" sha1="fc1ddfa6f9b9e43df72cd821dc8e4a9ba9237935"/>
+		<description>Beyond Normandy - Assignment - Berlin (USA, India)</description>
+		<rom name="Beyond Normandy - Assignment - Berlin (USA, India).bin" size="323825712" crc="17f65b15" md5="74747c8874f42a6381e0c74e226a6590" sha1="0e33b280451e7f4cc425bc3cee3757188c216dcc"/>
+		<rom name="Beyond Normandy - Assignment - Berlin (USA, India).cue" size="116" crc="ef86078e" md5="b1bbd3e4d8a171d36ee5f63105a8d704" sha1="752f341090867b36ef1981f8aca29640f427b0a6"/>
 	</game>
 	<game name="Beyond Pearl Harbor - Pacific Warriors (USA)" id="46630">
 		<category>Games</category>
@@ -12321,12 +12327,6 @@
 		<description>CTU - Marine Sharpshooter (USA)</description>
 		<rom name="CTU - Marine Sharpshooter (USA).bin" size="402347232" crc="128158f8" md5="5d16476bdcf81eb9b2028244c729aadb" sha1="dd736267365bd08e8afa9a0f6928196f9be801d7"/>
 		<rom name="CTU - Marine Sharpshooter (USA).cue" size="97" crc="961d9356" md5="8bce702713402b3eded2f0c66279eade" sha1="29753bb10991bd1d580d0c316c4b2bc3ecbeb833"/>
-	</game>
-	<game name="CTU - Marine Sharpshooter 3 (USA) (Rerelease)" id="79357">
-		<category>Games</category>
-		<description>CTU - Marine Sharpshooter 3 (USA) (Rerelease)</description>
-		<rom name="CTU - Marine Sharpshooter 3 (USA) (Rerelease).bin" size="838069344" crc="19f5a8ca" md5="8730b686abeae1815fc127c3c1daa688" sha1="f1e51def42b8ecc943a6802b2f3cefbcb9617594"/>
-		<rom name="CTU - Marine Sharpshooter 3 (USA) (Rerelease).cue" size="111" crc="ceaa3403" md5="985a381234ddfe59d6b12be57c812fe5" sha1="d660787ce189b6a8408d04b0f283a7b7a9cabb9d"/>
 	</game>
 	<game name="Cabela's 4x4 Off-Road Adventure (USA) (Rerelease)" id="45330">
 		<category>Games</category>
@@ -21022,15 +21022,15 @@
 		<description>Diablo III (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
 		<rom name="Diablo III (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="8165031936" crc="3723b003" md5="b53b6bd69abba11530219aac53b2a302" sha1="61b4b08c02a32a05c45939b623295dd1e36815f0"/>
 	</game>
-	<game name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)" id="80288">
+	<game name="Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)" id="80288">
 		<category>Games</category>
-		<description>Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)</description>
-		<rom name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1).iso" size="7329808384" crc="2e42498c" md5="38914b272ac035f321a4af88473a311a" sha1="7f06d535040cbd7829615bff80a6e3e1fdfbccff"/>
+		<description>Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)</description>
+		<rom name="Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1).iso" size="7329808384" crc="2e42498c" md5="38914b272ac035f321a4af88473a311a" sha1="7f06d535040cbd7829615bff80a6e3e1fdfbccff"/>
 	</game>
-	<game name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)" id="80289">
+	<game name="Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)" id="80289">
 		<category>Games</category>
-		<description>Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)</description>
-		<rom name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2).iso" size="7488831488" crc="87c330df" md5="241ee8e8c7b43671e52c4acd81eb51e6" sha1="eabd6a5195b52ba48573a25ac4efa3827ff7ee9c"/>
+		<description>Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)</description>
+		<rom name="Diablo III - Battle Chest (USA, Turkey) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2).iso" size="7488831488" crc="87c330df" md5="241ee8e8c7b43671e52c4acd81eb51e6" sha1="eabd6a5195b52ba48573a25ac4efa3827ff7ee9c"/>
 	</game>
 	<game name="Diamond Drop Deluxe (USA)" id="61641">
 		<category>Games</category>
@@ -22644,6 +22644,12 @@
 		<description>Divi-Dead (USA)</description>
 		<rom name="Divi-Dead (USA).bin" size="537083904" crc="0baeba69" md5="005164872e50233d0f587820b46d9adc" sha1="e0336f3efd095a1f80bf333680820e7351750544"/>
 		<rom name="Divi-Dead (USA).cue" size="104" crc="684b4b65" md5="e16ab4b5a5ba15546a2f7e97e2e019c1" sha1="29a7d5d87ec354fa1ed79797c93e182b2d81c74e"/>
+	</game>
+	<game name="Divide, The - Enemies Within (USA)" id="138999">
+		<category>Games</category>
+		<description>Divide, The - Enemies Within (USA)</description>
+		<rom name="Divide, The - Enemies Within (USA).bin" size="191283456" crc="8a42861d" md5="0fe0e41439b52ad243c06ffb231e25f7" sha1="83aa8488c1d8b34dc02358c6dc2cdaff45a45b91"/>
+		<rom name="Divide, The - Enemies Within (USA).cue" size="123" crc="9b6cfc0e" md5="c5961a1928a1b3643dac80ab6e628bfd" sha1="fe2a1256707e46c871b1e2da3ace2320f5f1295b"/>
 	</game>
 	<game name="Divided Ground - Middle East Conflict 1948-1973 (USA)" id="107535">
 		<category>Games</category>
@@ -27167,6 +27173,30 @@
 		<rom name="Evil Dead - Hail to the King (USA) (Disc 2).bin" size="640708320" crc="0e580787" md5="ef0a4d806dcc904716c3b8aba37f7633" sha1="0d8953eaa3a7f7ddad931f7fbb1f9c6313af0d52"/>
 		<rom name="Evil Dead - Hail to the King (USA) (Disc 2).cue" size="109" crc="368f352a" md5="be6bf321065904499afb5cc3a08badb1" sha1="e1a772d4a452cdff891de591ec8c21097c50b5fb"/>
 	</game>
+	<game name="Evil Dead - Regeneration (USA) (Disc 1)" id="139015">
+		<category>Games</category>
+		<description>Evil Dead - Regeneration (USA) (Disc 1)</description>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 1).bin" size="834188544" crc="1658e3cc" md5="8d965a36ce07ef32737cae1ae231b53e" sha1="ca38bc468608b6d89a0a317639d11641623d2690"/>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 1).cue" size="105" crc="d09c5dfc" md5="dc88de815c7c3fd354a571077a7626c8" sha1="b3a5edecf8c702f6b7c66870b138c7cd54982c45"/>
+	</game>
+	<game name="Evil Dead - Regeneration (USA) (Disc 2)" id="139016">
+		<category>Games</category>
+		<description>Evil Dead - Regeneration (USA) (Disc 2)</description>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 2).bin" size="752712912" crc="155a1e30" md5="e2ea9e3feb70aca96339f6c76e3bf1b6" sha1="bde90f1b270fe96fbcb5fe7afa36c3e840ee23dc"/>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 2).cue" size="105" crc="d1c17b2d" md5="38a599eee2a129abfeb9c8b16aae72ef" sha1="a514d1e88b7349d4e36d29b7947cddb3ca8e70da"/>
+	</game>
+	<game name="Evil Dead - Regeneration (USA) (Disc 3)" id="139017">
+		<category>Games</category>
+		<description>Evil Dead - Regeneration (USA) (Disc 3)</description>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 3).bin" size="752712912" crc="2c12bc08" md5="13c086b4e679f8e0d76d13c207ef24c5" sha1="f8f313ffd6b195433310a24364fb4e88fcfcd90c"/>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 3).cue" size="105" crc="67da9b5d" md5="7f5e50e00313840bc2bef89497e22fde" sha1="7aa2753a6a983c6553fbbf5f815b0901cfa86581"/>
+	</game>
+	<game name="Evil Dead - Regeneration (USA) (Disc 4)" id="139018">
+		<category>Games</category>
+		<description>Evil Dead - Regeneration (USA) (Disc 4)</description>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 4).bin" size="249502512" crc="23e5189c" md5="3a88c5002d49165c8b9f94cd579948aa" sha1="eea439a2480768735136f07c8977527db3a9a380"/>
+		<rom name="Evil Dead - Regeneration (USA) (Disc 4).cue" size="105" crc="d37b368f" md5="2c838fded1a2d50aa6e3c92d2a232d0b" sha1="1db64afb9d9fbaac8ea6603327cb7ceeb432e2a7"/>
+	</game>
 	<game name="Evil Genius (USA) (Disc 1) (Install)" id="65712">
 		<category>Games</category>
 		<description>Evil Genius (USA) (Disc 1) (Install)</description>
@@ -30580,6 +30610,12 @@
 		<description>Flight Light (USA)</description>
 		<rom name="Flight Light (USA).bin" size="5282592" crc="1be25ae7" md5="c9e79d0a05249f62bd8edc942a6c5f5a" sha1="95d7bfe86c4de66f09f0bf531b337804debd779d"/>
 		<rom name="Flight Light (USA).cue" size="107" crc="050d9b15" md5="742ae20446c80e4649f80bbc2e6935fe" sha1="dc6072a6cfac36bcceaa8018f714f788c8bc44e2"/>
+	</game>
+	<game name="Flight Sim Toolkit (Europe)" id="139007">
+		<category>Games</category>
+		<description>Flight Sim Toolkit (Europe)</description>
+		<rom name="Flight Sim Toolkit (Europe).bin" size="13766256" crc="01a35c80" md5="8a65e4f31c71c22b0a6964ce2b86c652" sha1="ae1ccc2976d82441181bea96a0fe081f4c34b1ec"/>
+		<rom name="Flight Sim Toolkit (Europe).cue" size="93" crc="6a39a969" md5="800007c4919708a32db8621b2566dbac" sha1="ed648e2fb3857dfdc2813034598708f57e2833d0"/>
 	</game>
 	<game name="Flight Sim Toolkit - World War II - D-Day and Midway (USA)" id="130410">
 		<category>Games</category>
@@ -53251,6 +53287,12 @@
 		<description>Mind Grind (USA)</description>
 		<rom name="Mind Grind (USA).bin" size="673229424" crc="713a6315" md5="f5b3040b7a4766e2ba7fc6bfb0641080" sha1="cc03db64c82bba3969e9abffea2c8019bcf1b63f"/>
 		<rom name="Mind Grind (USA).cue" size="105" crc="5d1cc36f" md5="515357e8fe0734d1cf9efc7fea289087" sha1="cb6427ba50384966919e610f655f1adb4aacbb94"/>
+	</game>
+	<game name="Mind Gym (USA)" id="139019">
+		<category>Games</category>
+		<description>Mind Gym (USA)</description>
+		<rom name="Mind Gym (USA).bin" size="768591264" crc="307b5535" md5="ae82876518ccc380be725fe092ca5151" sha1="f360b9171259782b06c56e9de6cb957d977616d8"/>
+		<rom name="Mind Gym (USA).cue" size="103" crc="3b075bc9" md5="41ac0e014f7dff2502e6c754cacb9bdd" sha1="98d517193eb57d8cb8544a5d4c99fb77e4694f63"/>
 	</game>
 	<game name="Mind Quiz - Your Brain Coach (USA)" id="88187">
 		<category>Games</category>
@@ -82221,6 +82263,12 @@
 		<description>Terror Strike - Close-Quarters Combat (USA)</description>
 		<rom name="Terror Strike - Close-Quarters Combat (USA).iso" size="1537277952" crc="7a3f4bd5" md5="66e2e1d2ebe3357627a9ee21c55518b3" sha1="a5aa5dfcad68fac0b01bbcae97a410d4f942cba0"/>
 	</game>
+	<game name="Terror T.R.A.X. - Track of the Vampire (USA)" id="139020">
+		<category>Games</category>
+		<description>Terror T.R.A.X. - Track of the Vampire (USA)</description>
+		<rom name="Terror T.R.A.X. - Track of the Vampire (USA).bin" size="694303344" crc="b9e3a2c6" md5="089693390dd06752efee91d954f0c80c" sha1="8ba62d1d8bc2c5c09c47769394088f9fab39d884"/>
+		<rom name="Terror T.R.A.X. - Track of the Vampire (USA).cue" size="133" crc="b945cc99" md5="c1b4a3047b903083b1d9090188c28f76" sha1="08c785221ef972a5d3561387de63c5948eee96c4"/>
+	</game>
 	<game name="Terrorist Takedown (USA)" id="63934">
 		<category>Games</category>
 		<description>Terrorist Takedown (USA)</description>
@@ -88516,19 +88564,6 @@
 		<description>Vampire - The Masquerade - Bloodlines (USA) (Disc 3)</description>
 		<rom name="Vampire - The Masquerade - Bloodlines (USA) (Disc 3).bin" size="800507904" crc="0911e5c2" md5="809b1f954a3ce8847394c5dd941b5a92" sha1="8b4b6663b88f7b9071be10b4d2ae34d8f4e5387d"/>
 		<rom name="Vampire - The Masquerade - Bloodlines (USA) (Disc 3).cue" size="118" crc="4fee4572" md5="ae4acaa0a8ab5bd2137899d1accb37a5" sha1="5f389c03dedc1dd884a29eed8571d422c84dd1f2"/>
-	</game>
-	<game name="Vampire - The Masquerade - Redemption (Europe) (Disc 2) (Play Disc)" id="7872">
-		<category>Games</category>
-		<description>Vampire - The Masquerade - Redemption (Europe) (Disc 2) (Play Disc)</description>
-		<rom name="Vampire - The Masquerade - Redemption (Europe) (Disc 2) (Play Disc) (Track 1).bin" size="721762944" crc="f9b4af5d" md5="ae5235a9224b0726a8b6fd442dc54f9e" sha1="3557f0969c684f16be6234037bd549a9e7c2c568"/>
-		<rom name="Vampire - The Masquerade - Redemption (Europe) (Disc 2) (Play Disc) (Track 2).bin" size="80619504" crc="387cc8e1" md5="b73bb6a618b18c599e736e4a8370f52b" sha1="a4ae33cc26021ab2f3b08826e9b464cf5d738657"/>
-		<rom name="Vampire - The Masquerade - Redemption (Europe) (Disc 2) (Play Disc).cue" size="304" crc="a28fe4f9" md5="aa5de54ef800b389afa687c3bc956a82" sha1="327f46688aaad1cc508eeeb2cfb519dae24999db"/>
-	</game>
-	<game name="Vampire - The Masquerade - Redemption (Europe, Australia) (Disc 1) (Install Disc)" id="7871">
-		<category>Games</category>
-		<description>Vampire - The Masquerade - Redemption (Europe, Australia) (Disc 1) (Install Disc)</description>
-		<rom name="Vampire - The Masquerade - Redemption (Europe, Australia) (Disc 1) (Install Disc).bin" size="711186000" crc="f4fd4eab" md5="d227d07eb713c9a8b2fc428d00a29891" sha1="810b5791ec1119fd1ff555fc897426068b5dd7c6"/>
-		<rom name="Vampire - The Masquerade - Redemption (Europe, Australia) (Disc 1) (Install Disc).cue" size="147" crc="cc754232" md5="98466d9209da520c61425ac387bd43b1" sha1="796e0bf6a548a50edf4e75899e629d49e06e7b3e"/>
 	</game>
 	<game name="Vampire - The Masquerade - Redemption (Italy) (Install Disc) (Covermount)" id="85726">
 		<category>Games</category>
