@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (905) (-y) [-aAbBcefkmMoprv] (2026-10-02 10-53-55) (Retool)</description>
-		<version>2026-10-02 10-53-55</version>
-		<date>2026-10-03 07-54-59</date>
+		<description>Microsoft - Xbox One (906) (-y) [-aAbBcefkmMoprv] (2026-10-03 15-42-45) (Retool)</description>
+		<version>2026-10-03 15-42-45</version>
+		<date>2026-10-04 08-05-44</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2930,6 +2930,11 @@
 		<category>Games</category>
 		<description>Override - Mech City Brawl (USA)</description>
 		<rom name="Override - Mech City Brawl (USA).iso" size="22978238464" crc="fffc7f5c" md5="b5c2fb2b40250784e8465c4798db774c" sha1="44782a7035b0c5f13a39464070dca04152294cf2"/>
+	</game>
+	<game name="Override 2 - Super Mech League (Europe)" id="139064">
+		<category>Games</category>
+		<description>Override 2 - Super Mech League (Europe)</description>
+		<rom name="Override 2 - Super Mech League (Europe).iso" size="22693660672" crc="0f07ef72" md5="5b36e8b3256b3e8d823ad54445b95816" sha1="867cf7e0bfd0a0383867408ab89f0758a8ce3068"/>
 	</game>
 	<game name="Overwatch (USA)" id="105278">
 		<category>Games</category>

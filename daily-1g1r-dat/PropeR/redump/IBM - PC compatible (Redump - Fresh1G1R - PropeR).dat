@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,923) (-y) [-aAbBcdkmMpPuv] (2026-10-03 00-52-35) (Retool)</description>
-		<version>2026-10-03 00-52-35</version>
-		<date>2026-10-03 08-09-14</date>
+		<description>IBM - PC compatible (26,934) (-y) [-aAbBcdkmMpPuv] (2026-10-04 07-46-00) (Retool)</description>
+		<version>2026-10-04 07-46-00</version>
+		<date>2026-10-04 08-24-57</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -16190,6 +16190,12 @@
 		<rom name="Battle Engine Aquila (USA, Europe) (En,Fr,De,Es,It) (OEM).bin" size="795599280" crc="700fc222" md5="373d17451b70da43118eb68ebcdaf2d8" sha1="86c409d2d3dd6c77dc47b54cdb62e8b0d318d0f6"/>
 		<rom name="Battle Engine Aquila (USA, Europe) (En,Fr,De,Es,It) (OEM).cue" size="123" crc="a62676d0" md5="6fdcf31b5eb34cbb50f3821764b0c2f2" sha1="0cf6115921f502f6cee6e8e37c5b123e3a2777f9"/>
 	</game>
+	<game name="Battle Goddess II - Service Pack CD-ROM (Japan)" id="139065">
+		<category>Bonus Discs</category>
+		<description>Battle Goddess II - Service Pack CD-ROM (Japan)</description>
+		<rom name="Battle Goddess II - Service Pack CD-ROM (Japan).bin" size="81381552" crc="166c9af0" md5="694004cbfefbe7fb5e6af3d851d654b0" sha1="819a6494bca5698a4047c9c55b8ecd792ff5cd22"/>
+		<rom name="Battle Goddess II - Service Pack CD-ROM (Japan).cue" size="113" crc="7615eacd" md5="7813bebe8b9c5a15f076c10ee6ef7941" sha1="b66081f591e6eb604da880cd361bae8823b94770"/>
+	</game>
 	<game name="Battle Hanafuda (Japan)" id="75087">
 		<category>Games</category>
 		<description>Battle Hanafuda (Japan)</description>
@@ -25634,6 +25640,12 @@
 		<rom name="Cartoon Network Universe - FusionFall (USA).bin" size="41131776" crc="8154c610" md5="1d731271988ecf9f797254d291c8b246" sha1="3a3065425ba9c66038a0639c948f1b91694b8ed1"/>
 		<rom name="Cartoon Network Universe - FusionFall (USA).cue" size="109" crc="01f2c99d" md5="23491f9ee65c6ddcffbc97566a82bbdf" sha1="fc4a010b3e59a14e67419022051c630e97941f6b"/>
 	</game>
+	<game name="Carts of Fury Racing Game (Canada) (En,Fr)" id="139094">
+		<category>Games</category>
+		<description>Carts of Fury Racing Game (Canada) (En,Fr)</description>
+		<rom name="Carts of Fury Racing Game (Canada) (En,Fr).bin" size="51840432" crc="ad8e70d5" md5="59b2ff7ed10b7cac64a27271e35b48a7" sha1="3c148395cfe335d83175a643e358a774bbb1aaaa"/>
+		<rom name="Carts of Fury Racing Game (Canada) (En,Fr).cue" size="108" crc="93509061" md5="d9efdd1dda450c891e0692d12da32199" sha1="2fae4e15dab8aaf36bf6c480f1f63fed18d856e2"/>
+	</game>
 	<game name="Casa Magica, La (Italy)" id="63639">
 		<category>Games</category>
 		<description>Casa Magica, La (Italy)</description>
@@ -26582,10 +26594,10 @@
 		<rom name="Champion en s'Amusant - Les Animaux (France).bin" size="71352624" crc="37dc6687" md5="5c7bb7a2d4b9d774a13cfebe3ddef10a" sha1="32adf838dd42b8bd22a17d5a9dac9f978342d506"/>
 		<rom name="Champion en s'Amusant - Les Animaux (France).cue" size="110" crc="6ed726d8" md5="7a55312bb13f4203c16659d63ea96229" sha1="1497b0481c4a275a38e2f644ae0c10da4c4c7340"/>
 	</game>
-	<game name="Champions Online (USA, Canada) (En,Fr,Nl)" id="61640">
+	<game name="Champions Online (USA, Europe) (En,Fr,De,Nl)" id="61640">
 		<category>Games</category>
-		<description>Champions Online (USA, Canada) (En,Fr,Nl)</description>
-		<rom name="Champions Online (USA, Canada) (En,Fr,Nl).iso" size="2730557440" crc="39b267da" md5="9e0ae5fa165556556597689a6f87b81f" sha1="d5cb0f914a67371cba4de106bc5a51472ff2fac8"/>
+		<description>Champions Online (USA, Europe) (En,Fr,De,Nl)</description>
+		<rom name="Champions Online (USA, Europe) (En,Fr,De,Nl).iso" size="2730557440" crc="39b267da" md5="9e0ae5fa165556556597689a6f87b81f" sha1="d5cb0f914a67371cba4de106bc5a51472ff2fac8"/>
 	</game>
 	<game name="Championship Bass (USA, Australia)" id="75852">
 		<category>Games</category>
@@ -28231,6 +28243,12 @@
 		<description>Circle of Blood (USA, Brazil) (Disc 2)</description>
 		<rom name="Circle of Blood (USA, Brazil) (Disc 2).bin" size="678617856" crc="34595f02" md5="f5eb5d0b7d0b25103c3b80622cc26a73" sha1="375d30a695e66684162997445960d5283cb9a5f3"/>
 		<rom name="Circle of Blood (USA, Brazil) (Disc 2).cue" size="127" crc="deaf4315" md5="6fbc777727ab30bb9bb09317228cb521" sha1="0b504259a052d61e5990e1b7f0339df5b1d973c1"/>
+	</game>
+	<game name="Circuit Breakers (Europe)" id="139083">
+		<category>Games</category>
+		<description>Circuit Breakers (Europe)</description>
+		<rom name="Circuit Breakers (Europe).bin" size="34828416" crc="46c7f5b3" md5="6cedf0feb8e98b9f509c0f4d3b9e769d" sha1="960c3c2e30119e5f45d127b65efa08a0ee2bd7df"/>
+		<rom name="Circuit Breakers (Europe).cue" size="91" crc="9fb93ec0" md5="d8a4f3b59a995212306564729c685602" sha1="e89f4cdc5d3d317e56a4f78b771a9435ba0b0390"/>
 	</game>
 	<game name="Circuit Racer (USA)" id="105943">
 		<category>Games</category>
@@ -61987,11 +62005,11 @@
 		<rom name="Game Series 30, The - MiniMini Games (Japan).bin" size="45760512" crc="fd85dacb" md5="ed16ab39b028bd83a891b76b69c505ea" sha1="8279505257fe9dd4fff9985ce1ce30ca1ca8b531"/>
 		<rom name="Game Series 30, The - MiniMini Games (Japan).cue" size="110" crc="a3f469d8" md5="dacfb76a2df1b826ecdb543fcd7be722" sha1="311940a4576e007af6cdef113f8420d47c689a99"/>
 	</game>
-	<game name="Game Series 31, The - Puzzling 3 - Alaska-hen (Japan)" id="88733">
+	<game name="Game Series 31, The - Puzzlin 3 - Alaska-hen (Japan)" id="88733">
 		<category>Games</category>
-		<description>Game Series 31, The - Puzzling 3 - Alaska-hen (Japan)</description>
-		<rom name="Game Series 31, The - Puzzling 3 - Alaska-hen (Japan).bin" size="548317056" crc="232d38aa" md5="153db09fa7149e687f5ff0b11f4b268e" sha1="fc0d3ccdb9ee195719b2fe0f74d3e14e33ad290f"/>
-		<rom name="Game Series 31, The - Puzzling 3 - Alaska-hen (Japan).cue" size="119" crc="6c568420" md5="2e4155b7bcfcfad8c8508d4819ab9e2e" sha1="b845d98b8a821d99720787820f38c16b76f5ab81"/>
+		<description>Game Series 31, The - Puzzlin 3 - Alaska-hen (Japan)</description>
+		<rom name="Game Series 31, The - Puzzlin 3 - Alaska-hen (Japan).bin" size="548317056" crc="232d38aa" md5="153db09fa7149e687f5ff0b11f4b268e" sha1="fc0d3ccdb9ee195719b2fe0f74d3e14e33ad290f"/>
+		<rom name="Game Series 31, The - Puzzlin 3 - Alaska-hen (Japan).cue" size="118" crc="1a28f03a" md5="d6f342d0d01575e1fe512ec4b989f911" sha1="dfbf21de924cc120d64a3d28a24af1ba091417ea"/>
 	</game>
 	<game name="Game Series 32, The - Pasokon de Mananjaou! 1 - Tankengokko Chikyuu-hen (Japan)" id="88734">
 		<category>Games</category>
@@ -82398,17 +82416,17 @@
 		<rom name="Jump &amp; Ride - Riding Academy 3D (USA) (Track 2).bin" size="454246464" crc="bd89ee44" md5="251f2da055041fba933461243ecedd7a" sha1="b89ffe2b8ce7d3933d370bd0a06922a7189dada5"/>
 		<rom name="Jump &amp; Ride - Riding Academy 3D (USA).cue" size="279" crc="a2403f6f" md5="6691cde0c50455ffb871b8e3f0a0af83" sha1="fd826ba99f5af2d08883d74f8af3a0aa1dcdd0af"/>
 	</game>
-	<game name="Jump Ahead - Starting Reading (UK)" id="138782">
+	<game name="Jump Ahead - Starting Reading (UK)" id="139038">
 		<category>Educational</category>
 		<description>Jump Ahead - Starting Reading (UK)</description>
-		<rom name="Jump Ahead - Starting Reading (UK) (Track 1).bin" size="10417008" crc="5204750a" md5="2a86e0cb97c9602bd5941d696a049fc5" sha1="8d0b836adc1ef542346fde7e4d28a00a3ecb3a78"/>
-		<rom name="Jump Ahead - Starting Reading (UK) (Track 2).bin" size="36987552" crc="ed2e0920" md5="7afaa1c38f2311ac3f935007b7a9e975" sha1="743461cf18cec228c3e974eb38dbc69c2e8bcb85"/>
-		<rom name="Jump Ahead - Starting Reading (UK) (Track 3).bin" size="9426816" crc="2893902a" md5="4bfe7b83aacc1962c3360bd365a26891" sha1="209c0edb81d829ff2d044118efe17804765cb030"/>
-		<rom name="Jump Ahead - Starting Reading (UK) (Track 4).bin" size="37213344" crc="25d49514" md5="599947a7a3fbe4792429aec125a52e02" sha1="98cf2c3043a0e9a0105bc120d0e692534c86ab70"/>
-		<rom name="Jump Ahead - Starting Reading (UK) (Track 5).bin" size="34597920" crc="10d3c67e" md5="f5818857b6518e00f75987f19febfa12" sha1="13d463b3c82a7955f7f6b1cc08131fa0e31d77ac"/>
-		<rom name="Jump Ahead - Starting Reading (UK) (Track 6).bin" size="21826560" crc="a675e0d4" md5="605793f17cf193a942c6fd5f9379fdf6" sha1="b874d9b19eb813508f8ca238f362b466ecfb30cf"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 1).bin" size="10066560" crc="363d48b0" md5="9536ce133d97d12d588c93c2422e46b5" sha1="617606d8399ecd19eeab85f5b29f9c35251a8394"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 2).bin" size="36987552" crc="833008f1" md5="36666c2f0813f6e9f50c01b56eca4b1c" sha1="df37573c82d5d4a377ca2206079bd9a7e09f2285"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 3).bin" size="9426816" crc="00c2edea" md5="c7e4f500546d2db9af595a58c4e996ce" sha1="2145204d527c3827d639b31e457bd6fdcaafaed5"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 4).bin" size="37213344" crc="1087572e" md5="f411e8b777b453b4e16d6f1bd801dc79" sha1="344b7ed2e99757eac553b69d76492f14d1f02761"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 5).bin" size="34597920" crc="d1f473fa" md5="67e85c3bc1e082ac1536ac398be07029" sha1="711c1ad88201527bf05f93487384bdbaca69e939"/>
+		<rom name="Jump Ahead - Starting Reading (UK) (Track 6).bin" size="22177008" crc="0c70363a" md5="447aff3807e2cb5e0f036fdabfa4c836" sha1="b322ca9a047ebcccf2c28e0b0a556e587c6fcc1b"/>
 		<rom name="Jump Ahead - Starting Reading (UK) (Track 7).bin" size="439852224" crc="a02bdbb9" md5="6da31b171a0c616d4005aebe65166bde" sha1="675e96016bf69d1023ecf08cdc1eafb039e95d7c"/>
-		<rom name="Jump Ahead - Starting Reading (UK).cue" size="772" crc="d87e7fcb" md5="7dae503a4b4eec255eeb84ac9dde1ac7" sha1="df0039d304ae1d809da221ec14acd47bb520b9e4"/>
+		<rom name="Jump Ahead - Starting Reading (UK).cue" size="887" crc="ca5c270a" md5="dc3b57dcacbb3f3084e6edde8f712f4e" sha1="b579ba69b2760b8e83dd4bbb8ae07ba1d772259c"/>
 	</game>
 	<game name="Jump Raven (USA)" id="70773">
 		<category>Games</category>
@@ -94211,6 +94229,11 @@
 		<rom name="LucasArts Classic Simulations (Germany).bin" size="21168000" crc="df3918bb" md5="1ab606b5b0580b7d9ca837d7619c7264" sha1="441d913297d75d3907629a8a190c8358fffb56d6"/>
 		<rom name="LucasArts Classic Simulations (Germany).cue" size="128" crc="006c8304" md5="9577635cccb765c7156394cedb98415b" sha1="aca7b0b54f559e8e7afdfa575b7eb6ef1d29f1e1"/>
 	</game>
+	<game name="Luchshie arkady - Tri mushketera i Deti Drakuly (Russia)" id="139104">
+		<category>Games</category>
+		<description>Luchshie arkady - Tri mushketera i Deti Drakuly (Russia)</description>
+		<rom name="Luchshie arkady - Tri mushketera i Deti Drakuly (Russia).iso" size="463241216" crc="226804b3" md5="7e8bdb72da77b1d269121159fa8bffc5" sha1="0ac73787937dcc7b4f296b1db0043a438aa1b575"/>
+	</game>
 	<game name="Lucignolo - Il Videogioco (Italy)" id="62975">
 		<category>Games</category>
 		<description>Lucignolo - Il Videogioco (Italy)</description>
@@ -98903,6 +98926,12 @@
 		<rom name="Math Blaster - Ages 4-6 (USA).bin" size="302963472" crc="0da9d415" md5="2ee1b35cf9dd8616685d74a6b70f52af" sha1="25a5f249a1bc88d1117248c238b591cf5c8f78cd"/>
 		<rom name="Math Blaster - Ages 4-6 (USA).cue" size="118" crc="b206c48f" md5="d3327507c1abb453916a60af46ca1109" sha1="004a27ad00f6e795667c74fb003455309dd65e9f"/>
 	</game>
+	<game name="Math Blaster - Ages 5-7 (Australia)" id="139057">
+		<category>Educational</category>
+		<description>Math Blaster - Ages 5-7 (Australia)</description>
+		<rom name="Math Blaster - Ages 5-7 (Australia).bin" size="328280400" crc="ca365933" md5="572b07da7c74955f1019df2c720e22ff" sha1="ec042716abb64c5bfebbd541c709427c5ae05822"/>
+		<rom name="Math Blaster - Ages 5-7 (Australia).cue" size="101" crc="8f1690dd" md5="a944cfe49e8960a966a0c5e2d0e18c5d" sha1="0fe349b80e55a4245d2e5f813bd7877832ffe5d7"/>
+	</game>
 	<game name="Math Blaster - Ages 6-9 (USA)" id="42402">
 		<category>Educational</category>
 		<description>Math Blaster - Ages 6-9 (USA)</description>
@@ -99294,6 +99323,23 @@
 		<description>Maverick Max (Japan) (Game Disc)</description>
 		<rom name="Maverick Max (Japan) (Game Disc).bin" size="743126160" crc="6638e802" md5="0092cea559932f627be6fb21d90259d8" sha1="3af8ac4914ec5728118d586fe5027953f7847a2d"/>
 		<rom name="Maverick Max (Japan) (Game Disc).cue" size="121" crc="4fc26e33" md5="cd92d91b1945b27af6c1368d2b5f5753" sha1="4bd95f28ab0539f99d977fca3dd46adba376c508"/>
+	</game>
+	<game name="Maverick Max - Kanzen Seiha (Japan)" id="139066">
+		<category>Bonus Discs</category>
+		<description>Maverick Max - Kanzen Seiha (Japan)</description>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 01).bin" size="356897184" crc="e6cf8097" md5="1712e0026da053f4a5673f9c96f93ca0" sha1="0472cc6a69b752d898d76f2df00e174b01223996"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 02).bin" size="55408416" crc="94cc06f8" md5="395682591bdf13b1e7e82b6ab912ef14" sha1="f9851cb7c1614ee27d47126315be37752406bc48"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 03).bin" size="31752000" crc="4e9a95fe" md5="4f06a762914440c04a89662269daa282" sha1="191d5cca76a921d5ea874569fdd3baa041003d3f"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 04).bin" size="31752000" crc="517624b1" md5="3bcb4246af883ff552d1e565bd0f3f56" sha1="a3dff6d165e6aaf85f3c073f0ff5b4bae13aaf11"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 05).bin" size="31756704" crc="5bc6c43e" md5="bab20a9f208150474c5fab82f142f2d5" sha1="8371aa5c42d01e8fbb19ed05f9b47d7cfcf24e5b"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 06).bin" size="31752000" crc="3bb35227" md5="523ec7acbafb83e8477e9c75006d6ba8" sha1="233cf8206ce2dd1de46571354c986898c62d7f06"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 07).bin" size="31860192" crc="961b9c00" md5="1ff4a214dc57aa627e47a6374eb40a2d" sha1="31ab101c01348aa3095642769232ed16c592dce4"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 08).bin" size="16934400" crc="cb8567ef" md5="23713652337be984debabb4a357d5039" sha1="2682308983e614cc0dedaa9088b1c1043765c818"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 09).bin" size="15191568" crc="19de4c35" md5="c30d67f0303ee946906dbade313377e9" sha1="e8bba5d9cb5a72f00553e6e41ad47deb9d3aad32"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 10).bin" size="14589456" crc="2c95a342" md5="ee07c01f938f15c2e807f18136278440" sha1="3b75825c997f43726d4e51ba71386303671d6eee"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 11).bin" size="31754352" crc="584e0a86" md5="b3b26dfde5c406723180896c43f38844" sha1="0572094d2d02f0ce561b5ad7b7efcdf632c251e9"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan) (Track 12).bin" size="39325440" crc="78ad0914" md5="856e408ba628354aaa14f04cc462d18b" sha1="ac2ade3a81081ecb51edb1e8a5fe703d5f21c5e3"/>
+		<rom name="Maverick Max - Kanzen Seiha (Japan).cue" size="1335" crc="671a3e4b" md5="c7cda12f8ab51c03dc84320ce8039455" sha1="28b1cd18e4d65da823f6c7c308ae025484a74593"/>
 	</game>
 	<game name="Mavis Beacon Teaches Typing - Version 15 - Deluxe Edition (UK) (En,Es)" id="91990">
 		<category>Educational</category>
@@ -111914,6 +111960,11 @@
 		<rom name="Napoleon (France).bin" size="811567008" crc="3ea5e61c" md5="55c483bb582da760a6717d322897c773" sha1="d082bbdeec0f90ac87998859bd83c041008d83aa"/>
 		<rom name="Napoleon (France).cue" size="83" crc="8bd00aea" md5="02e687e928b4fd0df876062edb9924c5" sha1="13da2a60785146cc6a119817f1ceac612365986f"/>
 	</game>
+	<game name="Napoleon - E'poxa zavoevanij (Russia)" id="139080">
+		<category>Games</category>
+		<description>Napoleon - E'poxa zavoevanij (Russia)</description>
+		<rom name="Napoleon - E'poxa zavoevanij (Russia).iso" size="970555392" crc="ea41d4ad" md5="babd88a0012d094d185442d51e5b854d" sha1="0014eaf911c2c067d485fe2f2a39c35e8b1d0e7b"/>
+	</game>
 	<game name="Napoleon - Total War (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2)" id="79533">
 		<category>Games</category>
 		<description>Napoleon - Total War (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2)</description>
@@ -112246,6 +112297,11 @@
 		<description>Ne'nsi Dryu - Tumany' ostrova lzhi (Ukraine) (Disc 2)</description>
 		<rom name="Ne'nsi Dryu - Tumany' ostrova lzhi (Ukraine) (Disc 2).bin" size="353884272" crc="28b30fb2" md5="afabbb78b862a6342977353fe6b3fe27" sha1="2b6de92d93f6f1b4ae00d8a8229262e0bf3c007c"/>
 		<rom name="Ne'nsi Dryu - Tumany' ostrova lzhi (Ukraine) (Disc 2).cue" size="119" crc="63f65fde" md5="9fe97f413d709816113e096e861b9240" sha1="69ff116366f29362d3f3e57da51b07db4bcdb381"/>
+	</game>
+	<game name="Ne'nsi Dryu - Zapiski chernoj koshki (Russia)" id="139070">
+		<category>Games</category>
+		<description>Ne'nsi Dryu - Zapiski chernoj koshki (Russia)</description>
+		<rom name="Ne'nsi Dryu - Zapiski chernoj koshki (Russia).iso" size="1887109120" crc="1b2017b8" md5="e751e83d683d72a47f70bbdb9a0f6964" sha1="ee3365e7cfef1ab70026c3d130edb12d1f35cec0"/>
 	</game>
 	<game name="Nebula Fighter (Europe)" id="42895">
 		<category>Games</category>
@@ -142704,6 +142760,38 @@
 		<rom name="Schwarzschild III Truth (Japan) (Track 10).bin" size="42792288" crc="1ac1ad24" md5="207eae459b22595f60c130e670886813" sha1="47227e2ec779e95d0e2ff50b996617819fcaaac1"/>
 		<rom name="Schwarzschild III Truth (Japan).cue" size="1242" crc="d356b6e7" md5="e9cb62cf4698d91f2ed660b2306e4ec9" sha1="eccdfaccf9255780460db88660b4ef54d36671f5"/>
 	</game>
+	<game name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1)" id="139040">
+		<category>Games</category>
+		<description>Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1)</description>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1) (Track 01).bin" size="353150448" crc="9cc39c13" md5="4295cd05fe36d09ddeaf84695203df83" sha1="72c7b5a23893660708f394b97841c3af6445a8a9"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1) (Track 02).bin" size="28684992" crc="a606867b" md5="baa2d1865a31694b3aed5e78000a4703" sha1="1cee631f3ebe61ae825bb7782a507f84d29b7ac0"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1) (Track 03).bin" size="26676384" crc="8c1c426f" md5="8883f2805b35cf8ce6de15db03a06b0e" sha1="ef781aa2b697245707b7dc082f2544b05f9d58e3"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1) (Track 04).bin" size="27508992" crc="e1abb8d8" md5="66710c98a74cf891b885ce9969d24f47" sha1="d8f8b7af94151adee7d4f35e6ec36b0edbaa018e"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1) (Track 05).bin" size="27278496" crc="d223bd9d" md5="e6cac414a12d2e16d890cbdbde36529c" sha1="9944fa05393fe9130860032ab2a375dc83c7e025"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1) (Track 06).bin" size="26271840" crc="fedc2e22" md5="0baa61b0bb83fdfae8c376340b4772fe" sha1="e8db542ed77b81071ec6996a7405f31597b7e373"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1) (Track 07).bin" size="19897920" crc="99fe94a2" md5="52f1d49d1a068143feaf3503366382d5" sha1="9d51e9cc06c2ed37b52bd7697a2e9fd784c821cc"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1) (Track 08).bin" size="17670576" crc="0a15b671" md5="ab301c5364269ccd4d3a7d2b3fe37b87" sha1="20e0409d32356e0cb2426bac113bca964e72526b"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1) (Track 09).bin" size="15890112" crc="fa51b274" md5="4cd898b6841e4ab9eb58ed1063fc5af1" sha1="4036af5ae241a8e705a6fc83b09dfb02eb4906fa"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1) (Track 10).bin" size="17952816" crc="f41736c8" md5="50c6a64cc07ebb6dcae831c6407e1370" sha1="94b6076d30227a9b23c08caad310bda469434956"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1) (Track 11).bin" size="1065456" crc="eb1ad5d8" md5="713a37ec88c9cd69428a978464d57fc5" sha1="38fb6d09de832b5b411da1f76603b05be0d67504"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 1).cue" size="1577" crc="4fccc0d4" md5="476be6be92e816564fa0e49dabc3377e" sha1="973599ed4df190a95e7381f7454ce54e68636ae7"/>
+	</game>
+	<game name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2)" id="139042">
+		<category>Games</category>
+		<description>Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2)</description>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2) (Track 01).bin" size="314398896" crc="6a92d54b" md5="9e6242ac8445aeeea86a1c810d8d1756" sha1="78c7ad3c2dfaf4089477b2113d205a07818dd7eb"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2) (Track 02).bin" size="28684992" crc="6cfa6c4d" md5="b8c6a45ffb677e8a3f748951e90e1430" sha1="a160f4e53ed22740c0db1f29b23f7253158566b2"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2) (Track 03).bin" size="26676384" crc="80f85335" md5="10c54b2b1cd14f7cbb83e917be998783" sha1="7a9bf53c6138912189a497bbe847525d38510e6e"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2) (Track 04).bin" size="27508992" crc="3ce7d990" md5="cbef19c6d6b297c0a043c2c2cabacefd" sha1="2317c2e300cfa5b2d1a3b2ebb8ef53d01bbed04b"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2) (Track 05).bin" size="27278496" crc="2da6dfa7" md5="d2f692162c4c32a5c2626f273882d88f" sha1="1be88d98c032ae21de9d64b2554e6c891fc36000"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2) (Track 06).bin" size="26271840" crc="d83363aa" md5="6f89848725939e6f4f34a4c5efaf5287" sha1="41b9f69fa90ac36f1179eeb6f98390a8410c9f80"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2) (Track 07).bin" size="19897920" crc="37aab1ff" md5="0ba146a9c07fb96a1c8460849e4c951b" sha1="25aaed1bcb148e189220559dafea290b191250f7"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2) (Track 08).bin" size="17670576" crc="b0c52cf8" md5="7507c05b848f1b03f1c710809ba13c7e" sha1="d0d8d4cb307947f7ffb2278eadc363827f94f426"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2) (Track 09).bin" size="15890112" crc="d59774b2" md5="2bb6f0a3939ea03ab193d76c8d62d2f0" sha1="576b659db1f0396317c8bcabdee35c20c6103c21"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2) (Track 10).bin" size="17952816" crc="6333b013" md5="11bf5a830d36a06ffcc9bd2d90e58c63" sha1="71f2a60b037381bd93dbf938b706700cbdce2bea"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2) (Track 11).bin" size="1065456" crc="eb1ad5d8" md5="713a37ec88c9cd69428a978464d57fc5" sha1="38fb6d09de832b5b411da1f76603b05be0d67504"/>
+		<rom name="Schwarzschild X - Aratanaru Kouki (Japan) (Disc 2).cue" size="1577" crc="59b1ada5" md5="91b681fc9750f9c720b61f566d70e347" sha1="84d24c159b45349be297b8051f26f81d27b39241"/>
+	</game>
 	<game name="Schweizer Gletscherpilot X (Switzerland)" id="132759">
 		<category>Add-Ons</category>
 		<description>Schweizer Gletscherpilot X (Switzerland)</description>
@@ -146875,6 +146963,11 @@
 		<description>Sherlock Holmes e il Re dei Ladri (Italy)</description>
 		<rom name="Sherlock Holmes e il Re dei Ladri (Italy).iso" size="2828500992" crc="2c650130" md5="2de3b397d8e73d74103c5c3fedafa09f" sha1="e7bf530da44d6060a92f14dce96c5ba563635448"/>
 	</game>
+	<game name="Sherlock Holmes kontra Kuba Rozpruwacz (Poland)" id="139062">
+		<category>Games</category>
+		<description>Sherlock Holmes kontra Kuba Rozpruwacz (Poland)</description>
+		<rom name="Sherlock Holmes kontra Kuba Rozpruwacz (Poland).iso" size="4706099200" crc="82573fdf" md5="30fb7ffdfa3e0f9c6cc34aa31b0af7ac" sha1="10b927835684c33a974a82f82a34fb467bce6b28"/>
+	</game>
 	<game name="Sherlok Xolms - Luchshie dela (Russia)" id="93462">
 		<category>Games</category>
 		<description>Sherlok Xolms - Luchshie dela (Russia)</description>
@@ -151026,12 +151119,6 @@
 		<description>Sims 2, The - Nightlife (Expansion Pack) (USA) (Disc 2)</description>
 		<rom name="Sims 2, The - Nightlife (Expansion Pack) (USA) (Disc 2).bin" size="638615040" crc="ee5282e6" md5="14895ca8ac2e9419289257f624c8ce64" sha1="f55af75eee0f444123409a3aba48a92fe1f27d96"/>
 		<rom name="Sims 2, The - Nightlife (Expansion Pack) (USA) (Disc 2).cue" size="121" crc="3eb08dfd" md5="6d8ece66acd27d6c02e27f97d2945520" sha1="f3cf161ed3e071ab387acf8157e94e9aaee6e1be"/>
-	</game>
-	<game name="Sims 2, The - Open for Business (Australia) (En,Es) (Alt)" id="135575">
-		<category>Add-Ons</category>
-		<description>Sims 2, The - Open for Business (Australia) (En,Es) (Alt)</description>
-		<rom name="Sims 2, The - Open for Business (Australia) (En,Es) (Alt).bin" size="739875696" crc="7fb6fe6f" md5="9c12624abd16952ead464fc2fa0a4a20" sha1="71e39b8e8f499cb755ed9658c1941e61944c1ec3"/>
-		<rom name="Sims 2, The - Open for Business (Australia) (En,Es) (Alt).cue" size="123" crc="7a6bf79a" md5="5722931ae4b635d08c87ce7e9714adf2" sha1="873d2c3ba997c894fcc5784477fe0c7ea641bee6"/>
 	</game>
 	<game name="Sims 2, The - Open for Business (Expansion Pack) (USA) (En,Es) (Alt)" id="82650">
 		<category>Add-Ons</category>
@@ -157248,11 +157335,11 @@
 		<rom name="Star Trek - Judgment Rites (USA).bin" size="728908320" crc="651fd19f" md5="12fde4737d8961dc3160ac609c501c5a" sha1="46d423acb2cda45d43ffdf1280fab373f6d0da0a"/>
 		<rom name="Star Trek - Judgment Rites (USA).cue" size="113" crc="e91d08da" md5="0a732402411555ccd903bcedaabde61d" sha1="bcf828327d3f06032494414c3bf8a7f24963f7e3"/>
 	</game>
-	<game name="Star Trek - Judgment Rites (USA) (Collector's Disc)" id="2693">
-		<category>Games</category>
-		<description>Star Trek - Judgment Rites (USA) (Collector's Disc)</description>
-		<rom name="Star Trek - Judgment Rites (USA) (Collector's Disc).bin" size="653042208" crc="43595454" md5="9159357557469d8c0e28d64ecd035d03" sha1="304698947818bf4f9271475120480e03ce2bfb0e"/>
-		<rom name="Star Trek - Judgment Rites (USA) (Collector's Disc).cue" size="117" crc="99ac5276" md5="08258855b688bab89c7a1c0adc2618bd" sha1="1d1c7481a7150ed50b613085e959d5eb1176101f"/>
+	<game name="Star Trek - Judgment Rites - Collector's Disc (USA)" id="2693">
+		<category>Bonus Discs</category>
+		<description>Star Trek - Judgment Rites - Collector's Disc (USA)</description>
+		<rom name="Star Trek - Judgment Rites - Collector's Disc (USA).bin" size="653042208" crc="43595454" md5="9159357557469d8c0e28d64ecd035d03" sha1="304698947818bf4f9271475120480e03ce2bfb0e"/>
+		<rom name="Star Trek - Judgment Rites - Collector's Disc (USA).cue" size="117" crc="4f452091" md5="2127bd974fdeed1828f3d2af0a5de999" sha1="6a6bf2740e55db11cb93673dc41756844ce59990"/>
 	</game>
 	<game name="Star Trek - Klingon (Europe) (Disc 1)" id="97136">
 		<category>Games</category>
@@ -162274,6 +162361,12 @@
 		<description>Syberia (USA) (Bonus CD) (Game of the Year Edition)</description>
 		<rom name="Syberia (USA) (Bonus CD) (Game of the Year Edition).bin" size="817033056" crc="b6a11cee" md5="86e2e3c705f88f3a17c0e1f13f50039f" sha1="d2da68c961152f239bc65bc489d6d7d2dc30d9bf"/>
 		<rom name="Syberia (USA) (Bonus CD) (Game of the Year Edition).cue" size="117" crc="0d9a307c" md5="c022fd39a7c055dc917f7ecdc040e626" sha1="dab9af6f64e535795dadf37c6098780802345bd5"/>
+	</game>
+	<game name="Syberia (USA) (Bonus CD) (PC Game Bundle)" id="139074">
+		<category>Bonus Discs</category>
+		<description>Syberia (USA) (Bonus CD) (PC Game Bundle)</description>
+		<rom name="Syberia (USA) (Bonus CD) (PC Game Bundle).bin" size="817033056" crc="3a9ea9a4" md5="351a4dee40c5021c1d89cafef9fbd84c" sha1="ded0a599bb07b05439029f18efe7ee457cffe89b"/>
+		<rom name="Syberia (USA) (Bonus CD) (PC Game Bundle).cue" size="107" crc="10fb48cb" md5="b0040be4ff422f78411aaedddac26eee" sha1="90ba0695eee0f9f66122ac20160c8b3988a4dff9"/>
 	</game>
 	<game name="Syberia (USA) (Disc 1) (Adventure Game of the Year)" id="83774">
 		<category>Games</category>
@@ -184219,10 +184312,10 @@
 		<rom name="World of Totty Pig, The (USA).bin" size="226288272" crc="6f3b50ac" md5="12ddee0382342acdad35fb09270cf8c4" sha1="de77f298b91694cb8f4726d6a27aa6091dc18f7e"/>
 		<rom name="World of Totty Pig, The (USA).cue" size="118" crc="3b268e8c" md5="5020e11b6dcc2d2a74b779493ecd4f5f" sha1="b37fd83093722c972d0b799e5671f907f5ad5140"/>
 	</game>
-	<game name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease)" id="133664">
+	<game name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease) (v3.0.1.8874)" id="133664">
 		<category>Games</category>
-		<description>World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease)</description>
-		<rom name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease).iso" size="7809794048" crc="d35964f7" md5="58c5db31851ab0ce31c86ecd8cd766f5" sha1="1e74f7f43dc4c226c35187f83f6f837cf4a714dd"/>
+		<description>World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease) (v3.0.1.8874)</description>
+		<rom name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease) (v3.0.1.8874).iso" size="7809794048" crc="d35964f7" md5="58c5db31851ab0ce31c86ecd8cd766f5" sha1="1e74f7f43dc4c226c35187f83f6f837cf4a714dd"/>
 	</game>
 	<game name="World of WarCraft (Russia) (Disc 1) (Igrovoj disk) (v3.2.0.10192)" id="127129">
 		<category>Games</category>

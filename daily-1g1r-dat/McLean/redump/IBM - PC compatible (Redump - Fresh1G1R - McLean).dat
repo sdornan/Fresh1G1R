@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,570) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-03 00-52-35) (Retool)</description>
-		<version>2026-10-03 00-52-35</version>
-		<date>2026-10-03 08-01-50</date>
+		<description>IBM - PC compatible (13,571) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-04 07-46-00) (Retool)</description>
+		<version>2026-10-04 07-46-00</version>
+		<date>2026-10-04 08-15-01</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -13467,6 +13467,12 @@
 		<rom name="Cartoon Network Universe - FusionFall (USA).bin" size="41131776" crc="8154c610" md5="1d731271988ecf9f797254d291c8b246" sha1="3a3065425ba9c66038a0639c948f1b91694b8ed1"/>
 		<rom name="Cartoon Network Universe - FusionFall (USA).cue" size="109" crc="01f2c99d" md5="23491f9ee65c6ddcffbc97566a82bbdf" sha1="fc4a010b3e59a14e67419022051c630e97941f6b"/>
 	</game>
+	<game name="Carts of Fury Racing Game (Canada) (En,Fr)" id="139094">
+		<category>Games</category>
+		<description>Carts of Fury Racing Game (Canada) (En,Fr)</description>
+		<rom name="Carts of Fury Racing Game (Canada) (En,Fr).bin" size="51840432" crc="ad8e70d5" md5="59b2ff7ed10b7cac64a27271e35b48a7" sha1="3c148395cfe335d83175a643e358a774bbb1aaaa"/>
+		<rom name="Carts of Fury Racing Game (Canada) (En,Fr).cue" size="108" crc="93509061" md5="d9efdd1dda450c891e0692d12da32199" sha1="2fae4e15dab8aaf36bf6c480f1f63fed18d856e2"/>
+	</game>
 	<game name="Casanova - The Duel of the Black Rose (USA) (Disc 1)" id="107748">
 		<category>Games</category>
 		<description>Casanova - The Duel of the Black Rose (USA) (Disc 1)</description>
@@ -13947,10 +13953,10 @@
 		<rom name="Champion Dreams - First to Ride (USA) (Disc 2).bin" size="295143072" crc="4f8c85eb" md5="301357b15e496660bb72332815595b24" sha1="80a22db18708adac4d278173cf6c9570972e4c7a"/>
 		<rom name="Champion Dreams - First to Ride (USA) (Disc 2).cue" size="112" crc="3ce42c61" md5="d1533fcace23d32f050da2f7c2b75fea" sha1="e2487db309efa5a123fd24b95b3247fd05aecf2b"/>
 	</game>
-	<game name="Champions Online (USA, Canada) (En,Fr,Nl)" id="61640">
+	<game name="Champions Online (USA, Europe) (En,Fr,De,Nl)" id="61640">
 		<category>Games</category>
-		<description>Champions Online (USA, Canada) (En,Fr,Nl)</description>
-		<rom name="Champions Online (USA, Canada) (En,Fr,Nl).iso" size="2730557440" crc="39b267da" md5="9e0ae5fa165556556597689a6f87b81f" sha1="d5cb0f914a67371cba4de106bc5a51472ff2fac8"/>
+		<description>Champions Online (USA, Europe) (En,Fr,De,Nl)</description>
+		<rom name="Champions Online (USA, Europe) (En,Fr,De,Nl).iso" size="2730557440" crc="39b267da" md5="9e0ae5fa165556556597689a6f87b81f" sha1="d5cb0f914a67371cba4de106bc5a51472ff2fac8"/>
 	</game>
 	<game name="Championship Bass (USA, Australia)" id="75852">
 		<category>Games</category>
@@ -14896,6 +14902,12 @@
 		<description>Circle of Blood (USA, Brazil) (Disc 2)</description>
 		<rom name="Circle of Blood (USA, Brazil) (Disc 2).bin" size="678617856" crc="34595f02" md5="f5eb5d0b7d0b25103c3b80622cc26a73" sha1="375d30a695e66684162997445960d5283cb9a5f3"/>
 		<rom name="Circle of Blood (USA, Brazil) (Disc 2).cue" size="127" crc="deaf4315" md5="6fbc777727ab30bb9bb09317228cb521" sha1="0b504259a052d61e5990e1b7f0339df5b1d973c1"/>
+	</game>
+	<game name="Circuit Breakers (Europe)" id="139083">
+		<category>Games</category>
+		<description>Circuit Breakers (Europe)</description>
+		<rom name="Circuit Breakers (Europe).bin" size="34828416" crc="46c7f5b3" md5="6cedf0feb8e98b9f509c0f4d3b9e769d" sha1="960c3c2e30119e5f45d127b65efa08a0ee2bd7df"/>
+		<rom name="Circuit Breakers (Europe).cue" size="91" crc="9fb93ec0" md5="d8a4f3b59a995212306564729c685602" sha1="e89f4cdc5d3d317e56a4f78b771a9435ba0b0390"/>
 	</game>
 	<game name="Circuit Racer (USA)" id="105943">
 		<category>Games</category>
@@ -77937,12 +77949,6 @@
 		<rom name="Star Trek - Judgment Rites (USA).bin" size="728908320" crc="651fd19f" md5="12fde4737d8961dc3160ac609c501c5a" sha1="46d423acb2cda45d43ffdf1280fab373f6d0da0a"/>
 		<rom name="Star Trek - Judgment Rites (USA).cue" size="113" crc="e91d08da" md5="0a732402411555ccd903bcedaabde61d" sha1="bcf828327d3f06032494414c3bf8a7f24963f7e3"/>
 	</game>
-	<game name="Star Trek - Judgment Rites (USA) (Collector's Disc)" id="2693">
-		<category>Games</category>
-		<description>Star Trek - Judgment Rites (USA) (Collector's Disc)</description>
-		<rom name="Star Trek - Judgment Rites (USA) (Collector's Disc).bin" size="653042208" crc="43595454" md5="9159357557469d8c0e28d64ecd035d03" sha1="304698947818bf4f9271475120480e03ce2bfb0e"/>
-		<rom name="Star Trek - Judgment Rites (USA) (Collector's Disc).cue" size="117" crc="99ac5276" md5="08258855b688bab89c7a1c0adc2618bd" sha1="1d1c7481a7150ed50b613085e959d5eb1176101f"/>
-	</game>
 	<game name="Star Trek - Klingon (Europe) (Disc 1)" id="97136">
 		<category>Games</category>
 		<description>Star Trek - Klingon (Europe) (Disc 1)</description>
@@ -92941,10 +92947,10 @@
 		<description>World of Tanks (USA)</description>
 		<rom name="World of Tanks (USA).iso" size="4016177152" crc="8b1dd758" md5="3a3a379af358b2a10f8a0c0af731aec5" sha1="8d1e0388f27b80248b3dc19c3071ed0c9fc91123"/>
 	</game>
-	<game name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease)" id="133664">
+	<game name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease) (v3.0.1.8874)" id="133664">
 		<category>Games</category>
-		<description>World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease)</description>
-		<rom name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease).iso" size="7809794048" crc="d35964f7" md5="58c5db31851ab0ce31c86ecd8cd766f5" sha1="1e74f7f43dc4c226c35187f83f6f837cf4a714dd"/>
+		<description>World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease) (v3.0.1.8874)</description>
+		<rom name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease) (v3.0.1.8874).iso" size="7809794048" crc="d35964f7" md5="58c5db31851ab0ce31c86ecd8cd766f5" sha1="1e74f7f43dc4c226c35187f83f6f837cf4a714dd"/>
 	</game>
 	<game name="World of WarCraft (USA) (DVD-ROM) (v3.1.0)" id="105170">
 		<category>Games</category>
