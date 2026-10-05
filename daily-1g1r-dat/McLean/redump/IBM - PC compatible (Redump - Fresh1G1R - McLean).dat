@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,571) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-04 07-46-00) (Retool)</description>
-		<version>2026-10-04 07-46-00</version>
-		<date>2026-10-04 08-15-01</date>
+		<description>IBM - PC compatible (13,573) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-05 08-36-00) (Retool)</description>
+		<version>2026-10-05 08-36-00</version>
+		<date>2026-10-05 08-49-22</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -29484,6 +29484,12 @@
 		<rom name="Fate of the Dragon (USA) (En,Zh) (Track 4).bin" size="3539760" crc="b16600e5" md5="b8b5c759c97e16a102f5a1b8590520f9" sha1="703d9f2662f2f00781820bb9216efc05d5a08eb3"/>
 		<rom name="Fate of the Dragon (USA) (En,Zh).cue" size="491" crc="cb7f41e3" md5="5eac033d61680e362010c5f9e7023a1e" sha1="fd4b117a4d8b520d03488309fa5c5bbb745d5f54"/>
 	</game>
+	<game name="Fate of the Starlords (USA)" id="139106">
+		<category>Games</category>
+		<description>Fate of the Starlords (USA)</description>
+		<rom name="Fate of the Starlords (USA).bin" size="200329248" crc="63bad677" md5="226d0629906f56c223e43a2c2d37c01d" sha1="496e05690e696ece72801c11b25f61d111db31cd"/>
+		<rom name="Fate of the Starlords (USA).cue" size="116" crc="d5294311" md5="e13dbc524ae181aca5189f741230c7c6" sha1="a78274564dc91d2e06b1161cb429feed2c2a740a"/>
+	</game>
 	<game name="Fate of the World - Tipping Point (Europe) (Installer Disc)" id="128451">
 		<category>Games</category>
 		<description>Fate of the World - Tipping Point (Europe) (Installer Disc)</description>
@@ -33181,6 +33187,11 @@
 		<description>Garfield - Saving Arlene (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Garfield - Saving Arlene (Europe) (En,Fr,De,Es,It).bin" size="749121408" crc="566a2e83" md5="538d227ae2abf5eec579dc4c6443e24f" sha1="da73be097bcc04bb2d42f2d9cb417e6309e02552"/>
 		<rom name="Garfield - Saving Arlene (Europe) (En,Fr,De,Es,It).cue" size="116" crc="f41901f0" md5="7bdbeafd7e64648ad68736f87600f647" sha1="66a32c29a5bc5fc8d98e03453d9d528e1fdd0682"/>
+	</game>
+	<game name="Garfild 2 (Russia) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Ru)" id="139116">
+		<category>Games</category>
+		<description>Garfild 2 (Russia) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Ru)</description>
+		<rom name="Garfild 2 (Russia) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Ru).iso" size="650674176" crc="71cdc6fd" md5="338c9cf912fcee01de7952224c69ea99" sha1="474c299986768c19ef789641cf169e9824bef259"/>
 	</game>
 	<game name="Gary Grigsby's World at War (USA)" id="107140">
 		<category>Games</category>

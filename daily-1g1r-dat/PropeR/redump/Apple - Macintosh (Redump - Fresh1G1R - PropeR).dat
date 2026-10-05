@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (677) (-y) [-aAbBcdkmMpPuv] (2026-10-03 14-54-12) (Retool)</description>
-		<version>2026-10-03 14-54-12</version>
-		<date>2026-10-04 08-23-22</date>
+		<description>Apple - Macintosh (680) (-y) [-aAbBcdkmMpPuv] (2026-10-04 11-15-59) (Retool)</description>
+		<version>2026-10-04 11-15-59</version>
+		<date>2026-10-05 08-54-11</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -85,6 +85,19 @@
 		<description>7th Guest, The (USA) (Disc 1)</description>
 		<rom name="7th Guest, The (USA) (Disc 1).bin" size="770955024" crc="b2d68b3d" md5="7696d152f923be5e910e549f1ea63b3a" sha1="6d694d7e0725d8ba81c121883e108e0421ac2b7b"/>
 		<rom name="7th Guest, The (USA) (Disc 1).cue" size="118" crc="035cf0a8" md5="8f5955c73c867dad5f7fd04398241f16" sha1="1099021771df43f275e56cc3255293f3a1361a5b"/>
+	</game>
+	<game name="9 Big Ones (USA)" id="139108">
+		<category>Games</category>
+		<description>9 Big Ones (USA)</description>
+		<rom name="9 Big Ones (USA) (Track 1).bin" size="302883504" crc="11978e73" md5="d580de4ac407edac1e0fd4e957b66cb3" sha1="855e379f9bcd2e74b9ac465bc4cd0b07fe5fda93"/>
+		<rom name="9 Big Ones (USA) (Track 2).bin" size="7686336" crc="e473be7b" md5="0c7b24d4611c2796e3378c81de896b96" sha1="db8eb0cee7de7e814d932d280328fdb3c4753381"/>
+		<rom name="9 Big Ones (USA) (Track 3).bin" size="43700160" crc="47e1a4a5" md5="df069fac2cba15d8e750f05ff77263f2" sha1="1c93708691e9046facd1a080019786d20a04389f"/>
+		<rom name="9 Big Ones (USA) (Track 4).bin" size="39306624" crc="12d8440c" md5="43766b55397677fca3855f144b1fbb85" sha1="769cafc174a9d911f638e01bd4dc77aed04050ad"/>
+		<rom name="9 Big Ones (USA) (Track 5).bin" size="38474016" crc="499adbd2" md5="e708c3045c4eedde96402c0a2de7013c" sha1="ea34959436e24f227ad3fa92697c9e3af2656db4"/>
+		<rom name="9 Big Ones (USA) (Track 6).bin" size="39713520" crc="11d89689" md5="05c630e09d20b5638ef8e8ecee62de1e" sha1="296b849ec5f53a897782c05016cd33a40e4f12bc"/>
+		<rom name="9 Big Ones (USA) (Track 7).bin" size="37669632" crc="3e3350bc" md5="ac17ccd6a9696deefbf291d60a528e6f" sha1="62505684f5a12ff79bd450aa2b2a65dd67bef7c9"/>
+		<rom name="9 Big Ones (USA) (Track 8).bin" size="41108256" crc="ba32d02c" md5="cf6d91c96ccd191414d689a12d284cb7" sha1="c1a823d221af3e279929e3bdbf1f8c5a095c7967"/>
+		<rom name="9 Big Ones (USA).cue" size="862" crc="70f2469d" md5="1eb6b0517ecabc95284b9eedb9c58d9f" sha1="5e70e5ff84e205889e1f38c3730e5b98291f0165"/>
 	</game>
 	<game name="A-10 Attack! (USA)" id="129292">
 		<category>Games</category>
@@ -942,6 +955,21 @@
 		<description>Cinderella - The Original Fairy Tale (USA) (En,Es)</description>
 		<rom name="Cinderella - The Original Fairy Tale (USA) (En,Es).bin" size="761460000" crc="a7f23afa" md5="a22ad3bce024f7628d70e08ccba09f6b" sha1="a4b72e882ee4ef087c5980ec08e347710ed745a9"/>
 		<rom name="Cinderella - The Original Fairy Tale (USA) (En,Es).cue" size="116" crc="1a172fe1" md5="693c51cba2bf05ee223c26f018d74222" sha1="07d5852cd6c1ce8373a403e4297797c6b5f02dc3"/>
+	</game>
+	<game name="Civilization II - Multiplayer Gold Edition (USA)" id="139109">
+		<category>Games</category>
+		<description>Civilization II - Multiplayer Gold Edition (USA)</description>
+		<rom name="Civilization II - Multiplayer Gold Edition (USA) (Track 01).bin" size="528844848" crc="51fcc41a" md5="4af7090091967c3c94459b810d9080fe" sha1="7e6d48eb0aa5478802fda74117404579f5b620da"/>
+		<rom name="Civilization II - Multiplayer Gold Edition (USA) (Track 02).bin" size="6630288" crc="dd9c764d" md5="ce60a6bf85318ab37d61ca14f3a1b6ae" sha1="a8b4eadd759daf4bf331b154206c7ea1aba45780"/>
+		<rom name="Civilization II - Multiplayer Gold Edition (USA) (Track 03).bin" size="8326080" crc="bb0a69d8" md5="5938b62eceea466f84fb84136fa2f4ff" sha1="f2b45184310dd5fc7ec4897c80fe7cb886f212fd"/>
+		<rom name="Civilization II - Multiplayer Gold Edition (USA) (Track 04).bin" size="15894816" crc="0342bcc7" md5="b527cf682cd7dec6dc6a41097ea26b24" sha1="04ffd234f584c852b1061595fe359df80fafb425"/>
+		<rom name="Civilization II - Multiplayer Gold Edition (USA) (Track 05).bin" size="19392240" crc="b95bb7b4" md5="5c965c5fc5f4664f2c925d7f6d134c3b" sha1="cfce0d8dda3e76a40078d2c12b0c859e8a09c628"/>
+		<rom name="Civilization II - Multiplayer Gold Edition (USA) (Track 06).bin" size="27410208" crc="6a09dd19" md5="ddc14e71f96e8b92bd3497964b5ec0f9" sha1="237d199bd863fe3192dd8f00986240a2c679b0ba"/>
+		<rom name="Civilization II - Multiplayer Gold Edition (USA) (Track 07).bin" size="36364272" crc="ce8e02d3" md5="fa32d2ab098c78937dd70d43df9d9f24" sha1="5fdb6ead27524493526dff2088e231c1bcbb9548"/>
+		<rom name="Civilization II - Multiplayer Gold Edition (USA) (Track 08).bin" size="25869648" crc="39dec98a" md5="bad833d681a675ddc6180447d551224a" sha1="a156a8ac4761e37445e25eac4c443e807739f660"/>
+		<rom name="Civilization II - Multiplayer Gold Edition (USA) (Track 09).bin" size="26594064" crc="f7f269cf" md5="f498e1ee0407fdf4f1fe3c9249ac57e4" sha1="32644da5226d88ef386d28ede206243419c8614a"/>
+		<rom name="Civilization II - Multiplayer Gold Edition (USA) (Track 10).bin" size="28435680" crc="c0e47479" md5="8dbaf8e79cb492608f1a7c2ee3eb4a6d" sha1="8b7048fb88c29350cb439c003b2a3759b6370dfe"/>
+		<rom name="Civilization II - Multiplayer Gold Edition (USA).cue" size="1412" crc="0532df52" md5="9ce7ed8d51d8578445dd8e86c81e2b48" sha1="0935236e93f8ebfc6c840aa624859b929cc8082c"/>
 	</game>
 	<game name="Clive Barker's Undying (Germany)" id="104394">
 		<category>Games</category>
@@ -4694,6 +4722,12 @@
 		<description>Train Simulator - Chuuou-sen (201-kei) (Japan) (Alt)</description>
 		<rom name="Train Simulator - Chuuou-sen (201-kei) (Japan) (Alt).bin" size="437860080" crc="05f4213d" md5="9218627ab78d9c3e0fe83dd8012f0c33" sha1="65bbf90ca3c79a99983f5de5b2b4496eab4dbcfe"/>
 		<rom name="Train Simulator - Chuuou-sen (201-kei) (Japan) (Alt).cue" size="118" crc="13bb1a54" md5="d88819cc24c06d2e734ad3753dffd65a" sha1="cac283043b14e6c28837bc9dfcab6a13d6467c96"/>
+	</game>
+	<game name="Train Simulator - Keihin Kyuukou Dentetsu Honsen Kurihamasen 600-gata (Japan)" id="139110">
+		<category>Games</category>
+		<description>Train Simulator - Keihin Kyuukou Dentetsu Honsen Kurihamasen 600-gata (Japan)</description>
+		<rom name="Train Simulator - Keihin Kyuukou Dentetsu Honsen Kurihamasen 600-gata (Japan).bin" size="674758224" crc="21b59e5c" md5="10d20e952226c768226ed1101f3ace06" sha1="0128a710c2bf0eadbc45112ad24f51f50a246bbe"/>
+		<rom name="Train Simulator - Keihin Kyuukou Dentetsu Honsen Kurihamasen 600-gata (Japan).cue" size="143" crc="a33e947b" md5="7409eb95a11618a43409131f7e48b732" sha1="fee7ddc9da7e1350fe21cc0aa9e4c5aa73180bdd"/>
 	</game>
 	<game name="Transmigration (Japan) (Disc 2) (Transcript)" id="63868">
 		<category>Bonus Discs</category>

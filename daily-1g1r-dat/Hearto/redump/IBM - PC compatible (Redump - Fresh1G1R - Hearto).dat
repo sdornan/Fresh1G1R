@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,363) (-y) [-aAbBcefkmMoprv] (2026-10-04 07-46-00) (Retool)</description>
-		<version>2026-10-04 07-46-00</version>
-		<date>2026-10-04 08-04-29</date>
+		<description>IBM - PC compatible (26,379) (-y) [-aAbBcefkmMoprv] (2026-10-05 08-36-00) (Retool)</description>
+		<version>2026-10-05 08-36-00</version>
+		<date>2026-10-05 08-43-12</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -24143,6 +24143,11 @@
 		<description>Call of Duty (Japan) (Rerelease) (DVD-ROM)</description>
 		<rom name="Call of Duty (Japan) (Rerelease) (DVD-ROM).iso" size="1354203136" crc="5754ff1d" md5="a8be80ba6cb9dc0ba4bcb506b420725d" sha1="c65fb5444da34821368f4c54ca2cccbf36c8ea71"/>
 	</game>
+	<game name="Call of Duty (Russia)" id="139130">
+		<category>Games</category>
+		<description>Call of Duty (Russia)</description>
+		<rom name="Call of Duty (Russia).iso" size="1455620096" crc="d10953c9" md5="1e8981e82effa4f3aea1e153669333e5" sha1="2a662faaf75ec69c35ff6e2e3b26101698e7dd6d"/>
+	</game>
 	<game name="Call of Duty (USA) (Disc 1)" id="26193">
 		<category>Games</category>
 		<description>Call of Duty (USA) (Disc 1)</description>
@@ -26179,6 +26184,11 @@
 		<category>Games</category>
 		<description>Ceville (USA)</description>
 		<rom name="Ceville (USA).iso" size="1254031360" crc="8d2bbce1" md5="993facfb7d2dfad75a38517a2c099d60" sha1="82542367932e43ddebef99bbb1dff5cac054a6e7"/>
+	</game>
+	<game name="Ceville - Poxozhdeniya tirana (Russia)" id="139120">
+		<category>Games</category>
+		<description>Ceville - Poxozhdeniya tirana (Russia)</description>
+		<rom name="Ceville - Poxozhdeniya tirana (Russia).iso" size="1407188992" crc="fd436d1b" md5="a129d356a1953dd6e40d5e92a322e975" sha1="313333317029d9952f36da54bc59e346b8b43863"/>
 	</game>
 	<game name="Cezar III (Poland) (Rerelease)" id="124641">
 		<category>Games</category>
@@ -38412,6 +38422,11 @@
 		<rom name="Detective Barbie - Mystery of the Carnival Caper (USA) (Track 6).bin" size="20095488" crc="f987d166" md5="0454f29419671e2d61d7a093b9814ac2" sha1="f385c1b18cac51e5ab1756756e44fab9903fff0a"/>
 		<rom name="Detective Barbie - Mystery of the Carnival Caper (USA).cue" size="893" crc="951d6ecf" md5="3d5d7e9b545101b7ed5ffbb1e21e9697" sha1="64f4de614bc68cfb915765ac89f1aebbcbae0fb9"/>
 	</game>
+	<game name="Detektiv Berton - Delo No2 - Nablyudatel' (Russia)" id="139127">
+		<category>Games</category>
+		<description>Detektiv Berton - Delo No2 - Nablyudatel' (Russia)</description>
+		<rom name="Detektiv Berton - Delo No2 - Nablyudatel' (Russia).iso" size="3445850112" crc="0bcec12c" md5="44f8b0de92eba70fef6116f36b164f50" sha1="a0ce25830f685d342c9801c7b9fd4593c955132e"/>
+	</game>
 	<game name="Detektiv Bogey on a Run (Germany) (En,Fr,De,Es)" id="97580">
 		<category>Games</category>
 		<description>Detektiv Bogey on a Run (Germany) (En,Fr,De,Es)</description>
@@ -50570,15 +50585,10 @@
 		<rom name="EverQuest Evolution (USA) (Disc 3).bin" size="836037216" crc="93a6be2d" md5="d94495c9216db215c3e9f052c3cd8ccd" sha1="c94050e7621c170be3bdd84d80a9350415191683"/>
 		<rom name="EverQuest Evolution (USA) (Disc 3).cue" size="100" crc="532e14d8" md5="b431a513fd7829fcd82bec5b5fbb777f" sha1="1dffb56c352451451c6f2290eca7fe3bd985515e"/>
 	</game>
-	<game name="EverQuest II (Russia)" id="110005">
+	<game name="EverQuest II (Russia) (PC Game Bundle) (2007-04-13)" id="85007">
 		<category>Games</category>
-		<description>EverQuest II (Russia)</description>
-		<rom name="EverQuest II (Russia).iso" size="8083996672" crc="3be1b819" md5="994494327bdf984bc6362f4f4a10d618" sha1="923aff81efa48a641f2f8ce841d04bcf44f708e1"/>
-	</game>
-	<game name="EverQuest II (Russia) (PC Game Bundle)" id="128974">
-		<category>Games</category>
-		<description>EverQuest II (Russia) (PC Game Bundle)</description>
-		<rom name="EverQuest II (Russia) (PC Game Bundle).iso" size="6792708096" crc="81551682" md5="4505ef2fc3b9422552625ad31355408c" sha1="b09bba3996e531e9f86eb66abd915913dc38f576"/>
+		<description>EverQuest II (Russia) (PC Game Bundle) (2007-04-13)</description>
+		<rom name="EverQuest II (Russia) (PC Game Bundle) (2007-04-13).iso" size="8134918144" crc="ad8eb606" md5="4c8642ce0deb34ad654de8823d938b11" sha1="addd45ff15e727deea25a237c1abaf8dab023f24"/>
 	</game>
 	<game name="EverQuest II (USA) (Disc 01)" id="83377">
 		<category>Games</category>
@@ -53125,6 +53135,11 @@
 		<description>Fable III (USA, Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk)</description>
 		<rom name="Fable III (USA, Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk).iso" size="8115113984" crc="dd4b3dc8" md5="ce1f2ebed18703d6c569eb2bee7a7379" sha1="4f64cef93db15e3c33ab7d3b732e30e054608e5d"/>
 	</game>
+	<game name="Fabrika igr - 3 v 1 - Mir tvoej mechty (Russia)" id="139111">
+		<category>Games</category>
+		<description>Fabrika igr - 3 v 1 - Mir tvoej mechty (Russia)</description>
+		<rom name="Fabrika igr - 3 v 1 - Mir tvoej mechty (Russia).iso" size="1328807936" crc="9c0a83a8" md5="6e6c351c9d072841aa0e6e85a1170e92" sha1="e077159035b4dff3ceb1205fe489e45a306a753d"/>
+	</game>
 	<game name="Fabrika zvyozd (Russia) (Disc 1)" id="107835">
 		<category>Games</category>
 		<description>Fabrika zvyozd (Russia) (Disc 1)</description>
@@ -54689,6 +54704,12 @@
 		<rom name="Fate of the Dragon (USA) (En,Zh) (Track 3).bin" size="231239232" crc="e186b038" md5="57b66d8e6915cf40421d2bbb180d38c0" sha1="0eaffbc7dcecb9b89e3c425949bb0de3240c4a2c"/>
 		<rom name="Fate of the Dragon (USA) (En,Zh) (Track 4).bin" size="3539760" crc="b16600e5" md5="b8b5c759c97e16a102f5a1b8590520f9" sha1="703d9f2662f2f00781820bb9216efc05d5a08eb3"/>
 		<rom name="Fate of the Dragon (USA) (En,Zh).cue" size="491" crc="cb7f41e3" md5="5eac033d61680e362010c5f9e7023a1e" sha1="fd4b117a4d8b520d03488309fa5c5bbb745d5f54"/>
+	</game>
+	<game name="Fate of the Starlords (USA)" id="139106">
+		<category>Games</category>
+		<description>Fate of the Starlords (USA)</description>
+		<rom name="Fate of the Starlords (USA).bin" size="200329248" crc="63bad677" md5="226d0629906f56c223e43a2c2d37c01d" sha1="496e05690e696ece72801c11b25f61d111db31cd"/>
+		<rom name="Fate of the Starlords (USA).cue" size="116" crc="d5294311" md5="e13dbc524ae181aca5189f741230c7c6" sha1="a78274564dc91d2e06b1161cb429feed2c2a740a"/>
 	</game>
 	<game name="Fate of the World - Tipping Point (Europe) (Installer Disc)" id="128451">
 		<category>Games</category>
@@ -62038,6 +62059,11 @@
 		<rom name="Garfield - Saving Arlene (Europe) (En,Fr,De,Es,It).bin" size="749121408" crc="566a2e83" md5="538d227ae2abf5eec579dc4c6443e24f" sha1="da73be097bcc04bb2d42f2d9cb417e6309e02552"/>
 		<rom name="Garfield - Saving Arlene (Europe) (En,Fr,De,Es,It).cue" size="116" crc="f41901f0" md5="7bdbeafd7e64648ad68736f87600f647" sha1="66a32c29a5bc5fc8d98e03453d9d528e1fdd0682"/>
 	</game>
+	<game name="Garfild 2 (Russia) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Ru)" id="139116">
+		<category>Games</category>
+		<description>Garfild 2 (Russia) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Ru)</description>
+		<rom name="Garfild 2 (Russia) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Ru).iso" size="650674176" crc="71cdc6fd" md5="338c9cf912fcee01de7952224c69ea99" sha1="474c299986768c19ef789641cf169e9824bef259"/>
+	</game>
 	<game name="Garou Densetsu 3 - Road to the Final Victory (Japan)" id="78523">
 		<category>Games</category>
 		<description>Garou Densetsu 3 - Road to the Final Victory (Japan)</description>
@@ -62761,6 +62787,11 @@
 		<category>Games</category>
 		<description>Geroi unichtozhennyx imperij (Russia)</description>
 		<rom name="Geroi unichtozhennyx imperij (Russia).iso" size="4656005120" crc="e979f49f" md5="78d4774536101d338349df781226e5b8" sha1="2d36cc260597653cb7f368c01ccdafb7853056a4"/>
+	</game>
+	<game name="Geroj (Russia)" id="139117">
+		<category>Games</category>
+		<description>Geroj (Russia)</description>
+		<rom name="Geroj (Russia).iso" size="1875673088" crc="bed9d679" md5="40340976805d0065d7fd58b157ff5f47" sha1="785f116d2b52a37c538501a6286dd7f7e1bf4e8d"/>
 	</game>
 	<game name="Get Medieval (USA)" id="44784">
 		<category>Games</category>
@@ -82918,6 +82949,11 @@
 		<rom name="Kasumi-chou Yonjuuni-bangai - Heaven's Boulevard 1 (Japan).bin" size="440280288" crc="c1824274" md5="dd7fb2f39fc36d2e219a22b82d7fca8d" sha1="f322f7429434b27be3c183466340b7a305d116b2"/>
 		<rom name="Kasumi-chou Yonjuuni-bangai - Heaven's Boulevard 1 (Japan).cue" size="139" crc="58839766" md5="c0ce9f0cc08ffe48bfafee55f30c75bb" sha1="dfd96dfb05ee7928389c69b51ba824b82b7f36a7"/>
 	</game>
+	<game name="Katastrofa (Russia)" id="139123">
+		<category>Games</category>
+		<description>Katastrofa (Russia)</description>
+		<rom name="Katastrofa (Russia).iso" size="1314652160" crc="23382591" md5="3a32135a60d1a816f31f5ff28cadb37e" sha1="7cc8473338f51840f3921280d73efed6a281ca49"/>
+	</game>
 	<game name="Katawa Shoujo (France) (En,Fr)" id="80100">
 		<category>Games</category>
 		<description>Katawa Shoujo (France) (En,Fr)</description>
@@ -84684,6 +84720,11 @@
 		<description>Kod E'nigma - Sekretnyj Farvater (Russia)</description>
 		<rom name="Kod E'nigma - Sekretnyj Farvater (Russia).bin" size="776383440" crc="e31a80fa" md5="e804e758ae7b9c780b973c259adb8cdc" sha1="242b6ed280f54cf22f67c891ad0aca47302856ba"/>
 		<rom name="Kod E'nigma - Sekretnyj Farvater (Russia).cue" size="107" crc="18801d28" md5="6b07fc4c181eed7f67f227bcafb2b83b" sha1="7df837473b96171a272601864633fde3a84bd92d"/>
+	</game>
+	<game name="Kod da Vinchi (Russia)" id="109515">
+		<category>Games</category>
+		<description>Kod da Vinchi (Russia)</description>
+		<rom name="Kod da Vinchi (Russia).iso" size="2079064064" crc="4605bee5" md5="991754388c218480d26ca532c509b50b" sha1="11fca565abdefa38b9fb9b9078f9350af71517d3"/>
 	</game>
 	<game name="Kod dostupa - raj (Russia) (Disc A)" id="73361">
 		<category>Games</category>
@@ -108764,6 +108805,11 @@
 		<description>Ne'nsi Dryu - Sekrety mogut ubivat' (Russia)</description>
 		<rom name="Ne'nsi Dryu - Sekrety mogut ubivat' (Russia).iso" size="1298202624" crc="6e246c88" md5="c73f97c06e9d53afa8c4eac4f52efaf1" sha1="a53b7d9069e3591a0e6d8dd0b5f4a27a738fc97d"/>
 	</game>
+	<game name="Ne'nsi Dryu - Sekrety mogut ubivat' - Vozvrashhenie (Russia)" id="139114">
+		<category>Games</category>
+		<description>Ne'nsi Dryu - Sekrety mogut ubivat' - Vozvrashhenie (Russia)</description>
+		<rom name="Ne'nsi Dryu - Sekrety mogut ubivat' - Vozvrashhenie (Russia).iso" size="2653028352" crc="54cc1646" md5="15c89271fb7d7804f274e56a01877bcc" sha1="e8985d819ca1f8b5e0f9f9f8ee8018b7e0cd6435"/>
+	</game>
 	<game name="Ne'nsi Dryu - Tajna aloj ruki (Russia)" id="93521">
 		<category>Games</category>
 		<description>Ne'nsi Dryu - Tajna aloj ruki (Russia)</description>
@@ -108920,6 +108966,11 @@
 		<description>Need For Russia - Sdelano v SSSR (Russia)</description>
 		<rom name="Need For Russia - Sdelano v SSSR (Russia).bin" size="527588880" crc="3c085cc0" md5="0d99e3a0b69da32c6299992705ce64f9" sha1="0295360f56a01e3caa3c2c1ab497e6c1c5346b09"/>
 		<rom name="Need For Russia - Sdelano v SSSR (Russia).cue" size="107" crc="8269bd59" md5="18b6d36e5826688991de8b8f8959d4ab" sha1="c1af1345e42fb5889527fb6793d368425f3c3763"/>
+	</game>
+	<game name="Need for Russia 4 - Belye nochi (Russia)" id="139124">
+		<category>Games</category>
+		<description>Need for Russia 4 - Belye nochi (Russia)</description>
+		<rom name="Need for Russia 4 - Belye nochi (Russia).iso" size="934248448" crc="72aa4d65" md5="acdaf91fc07a7a360177083655445575" sha1="bf8a226fbd4cad3927e7d3a8391efc095591df5c"/>
 	</game>
 	<game name="Need for Speed (Scandinavia) (Disc 1)" id="126903">
 		<category>Games</category>
@@ -116615,6 +116666,11 @@
 		<description>Panzer Commander (USA)</description>
 		<rom name="Panzer Commander (USA).bin" size="721318416" crc="7d35f5aa" md5="1caa465b65c226c22147861bd74e7bdd" sha1="66022f6456408df68d806853938d7ac307e8a677"/>
 		<rom name="Panzer Commander (USA).cue" size="88" crc="4b022f42" md5="9631598ba98069d73135c0d8aaf0e2c5" sha1="2ea887972b7bfd8031128e1a1c6dfe32d106af29"/>
+	</game>
+	<game name="Panzer Corps - Vermaxt (Russia)" id="139119">
+		<category>Games</category>
+		<description>Panzer Corps - Vermaxt (Russia)</description>
+		<rom name="Panzer Corps - Vermaxt (Russia).iso" size="1418526720" crc="ba26e8c3" md5="2a0eaf5b69741f411a41d2120a245377" sha1="bff22503c0ec9b6b87ee94e6cbf8620ad210819c"/>
 	</game>
 	<game name="Panzer Corps Wehrmacht (USA)" id="110834">
 		<category>Games</category>
@@ -126784,6 +126840,11 @@
 		<description>R.U.S.E. (Europe)</description>
 		<rom name="R.U.S.E. (Europe).iso" size="5807603712" crc="0547be76" md5="c397176d4cd1227ca14ae338dcaa898a" sha1="baf5136e71febee331ea226f2842068bf08d79e2"/>
 	</game>
+	<game name="R2 - Reign of Revolution (Russia)" id="139107">
+		<category>Games</category>
+		<description>R2 - Reign of Revolution (Russia)</description>
+		<rom name="R2 - Reign of Revolution (Russia).iso" size="4136632320" crc="c6830825" md5="0aea1f6f06ad7ded29ca1148fbc1e823" sha1="744d410fddbbfba16b5ec4134b8d50454effa48b"/>
+	</game>
 	<game name="RACE 07 (USA)" id="93534">
 		<category>Games</category>
 		<description>RACE 07 (USA)</description>
@@ -131664,6 +131725,11 @@
 		<description>Riana Rouge (USA) (Disc 3)</description>
 		<rom name="Riana Rouge (USA) (Disc 3).bin" size="738262224" crc="a6563095" md5="06f3cde2c1d8534d9709fa8536d0ed66" sha1="2f3e93d94ec82a0241d4e036a59c62f65f52957f"/>
 		<rom name="Riana Rouge (USA) (Disc 3).cue" size="115" crc="dc0e205b" md5="2c314ea420edaaeb54c41233ae3d44b4" sha1="2cbbdf955f97d4c0f94889f05ed4b5358f0b6eae"/>
+	</game>
+	<game name="Riannon - Proklyatie chetyrex vetvej (Russia)" id="139121">
+		<category>Games</category>
+		<description>Riannon - Proklyatie chetyrex vetvej (Russia)</description>
+		<rom name="Riannon - Proklyatie chetyrex vetvej (Russia).iso" size="1067778048" crc="f042fef8" md5="0374f26a466c8c811a351e7b754c68f6" sha1="90df7d397f6873a59590106663fdc3a5d32fa451"/>
 	</game>
 	<game name="Richard Burns Rally (Europe) (En,Fr,De)" id="47716">
 		<category>Games</category>
@@ -147225,6 +147291,11 @@
 		<rom name="Skaut Kwatermaster CD (Poland) (Covermount) (Track 13).bin" size="69682704" crc="d08cdf18" md5="8423f416468dc1f5f68a3740e428b7fd" sha1="2108fc217a86c273f66ac084b45260ead73ca1ef"/>
 		<rom name="Skaut Kwatermaster CD (Poland) (Covermount).cue" size="1546" crc="f281e1ad" md5="7b36ce391aeb1c897a6890805e242f2e" sha1="61f79c30236b69dc9250212e2b6c90dc21437f8c"/>
 	</game>
+	<game name="Skazki pro Toshechku i Boshechku (Russia)" id="139115">
+		<category>Games</category>
+		<description>Skazki pro Toshechku i Boshechku (Russia)</description>
+		<rom name="Skazki pro Toshechku i Boshechku (Russia).iso" size="1307705344" crc="02784cd3" md5="3d21b25fd746a1f19340c98c121743ed" sha1="c300e1cd9bebe83ed70f1707eeec8845dd8689b5"/>
+	</game>
 	<game name="Ski Jumping 2004 (USA)" id="127924">
 		<category>Games</category>
 		<description>Ski Jumping 2004 (USA)</description>
@@ -151583,6 +151654,11 @@
 		<category>Games</category>
 		<description>Split-Second - Velocity (Australia)</description>
 		<rom name="Split-Second - Velocity (Australia).iso" size="7402684416" crc="fbb36de5" md5="f534a73f6b3e595226ef605e8482fd43" sha1="e47201ba68df45a639f4f2c5aa20ef66574c4989"/>
+	</game>
+	<game name="Spokojnoj nochi, malyshi! Priklyucheniya Stepashki (Russia)" id="139118">
+		<category>Games</category>
+		<description>Spokojnoj nochi, malyshi! Priklyucheniya Stepashki (Russia)</description>
+		<rom name="Spokojnoj nochi, malyshi! Priklyucheniya Stepashki (Russia).iso" size="2008743936" crc="2f035144" md5="7368db2dd3bd0c3239e3dff5ce1da9e7" sha1="7a2cd7445b62fc8e967dcbe905a8ef4fbef33db4"/>
 	</game>
 	<game name="Spokojnye igry - krug, shashki, shaxmaty, ugolki i... (Russia)" id="106577">
 		<category>Games</category>
@@ -167009,6 +167085,11 @@
 		<rom name="Trevor Sorensen's Star Legions (USA).bin" size="195058416" crc="5bd8a357" md5="07b99f0def22d7bd32c67e0d1e49edbb" sha1="e6bc00bfc943b20257db4a3868820fa5d9370d02"/>
 		<rom name="Trevor Sorensen's Star Legions (USA).cue" size="125" crc="4154c4ff" md5="99290edbb5eca6f0e203ad2361dd9055" sha1="7f0f5fdb8141adaa2e0f86d5ef4900c81a24bf99"/>
 	</game>
+	<game name="Tri malen'kie belye myshki - Vizit morskoj krysy (Russia)" id="139122">
+		<category>Games</category>
+		<description>Tri malen'kie belye myshki - Vizit morskoj krysy (Russia)</description>
+		<rom name="Tri malen'kie belye myshki - Vizit morskoj krysy (Russia).iso" size="1450737664" crc="bd089157" md5="5ee0b1218b46920d8c7ccb86c919e974" sha1="4504fd1aa773f10b33a7976d2416469480db1d4a"/>
+	</game>
 	<game name="TriBond (USA)" id="115833">
 		<category>Games</category>
 		<description>TriBond (USA)</description>
@@ -169038,11 +169119,10 @@
 		<rom name="UK Airports - Part 1 - Southern England (UK).bin" size="223141296" crc="96e56e36" md5="373737dbaf5c0cf166972cbba0b40135" sha1="6f5992f7a4241183a8756444b255f56ffa8e4590"/>
 		<rom name="UK Airports - Part 1 - Southern England (UK).cue" size="110" crc="9ff6996d" md5="bb1432d7a8b85d552a2266084265562a" sha1="9bf49125f4c8c12b50debfcf0d6925d42530a336"/>
 	</game>
-	<game name="UK Truck Simulator (Turkey)" id="132487">
+	<game name="UK Truck Simulator (Russia)" id="139126">
 		<category>Games</category>
-		<description>UK Truck Simulator (Turkey)</description>
-		<rom name="UK Truck Simulator (Turkey).bin" size="576922080" crc="4a3c5481" md5="36bf928da4b19173147c47fe74237bda" sha1="c3293472f191a6c87cf504fb33fb0e1b651481c3"/>
-		<rom name="UK Truck Simulator (Turkey).cue" size="93" crc="e8845fcf" md5="c100e460b6f0d799e4511fc30c27faa2" sha1="065a4b5f8f1144f19d487372025001c8f10bdd57"/>
+		<description>UK Truck Simulator (Russia)</description>
+		<rom name="UK Truck Simulator (Russia).iso" size="8181252096" crc="0015983a" md5="02a813cd965c9776ae779fb2a1e1b1de" sha1="98e0885bb3df12324c93d7e76eff1335fdd56fde"/>
 	</game>
 	<game name="UMA Professional Manager 2005 (Australia)" id="128944">
 		<category>Games</category>
@@ -181805,10 +181885,10 @@
 		<description>Xenus - Tochka kipeniya (Russia)</description>
 		<rom name="Xenus - Tochka kipeniya (Russia).iso" size="4624908288" crc="0e053cd2" md5="6e70bfdba9217c952768f671893fa868" sha1="505b2d43c6ea5e7cf13b017f69537c930653c6c0"/>
 	</game>
-	<game name="Xenus Gold (Russia)" id="84215">
+	<game name="Xenus Gold (Russia, Ukraine)" id="84215">
 		<category>Games</category>
-		<description>Xenus Gold (Russia)</description>
-		<rom name="Xenus Gold (Russia).iso" size="3475111936" crc="04686a28" md5="42d6ebe6abbf59312191bab261a557f2" sha1="dc43c63e974b050b9a81cc1bca299eea51112314"/>
+		<description>Xenus Gold (Russia, Ukraine)</description>
+		<rom name="Xenus Gold (Russia, Ukraine).iso" size="3475111936" crc="04686a28" md5="42d6ebe6abbf59312191bab261a557f2" sha1="dc43c63e974b050b9a81cc1bca299eea51112314"/>
 	</game>
 	<game name="Xevious (Japan)" id="75202">
 		<category>Games</category>
