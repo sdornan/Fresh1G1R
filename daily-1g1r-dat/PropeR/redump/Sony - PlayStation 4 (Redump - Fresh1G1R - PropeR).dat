@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,879) (-y) [-aAbBcdkmMpPuv] (2026-10-05 07-27-22) (Retool)</description>
-		<version>2026-10-05 07-27-22</version>
-		<date>2026-10-05 08-57-04</date>
+		<description>Sony - PlayStation 4 (1,880) (-y) [-aAbBcdkmMpPuv] (2026-10-05 18-07-21) (Retool)</description>
+		<version>2026-10-05 18-07-21</version>
+		<date>2026-10-06 09-03-18</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -4460,6 +4460,11 @@
 		<category>Games</category>
 		<description>Just Dance 2017 (Europe)</description>
 		<rom name="Just Dance 2017 (Europe).iso" size="21645492224" crc="fa75ebea" md5="43aad08a3dcce3408752b60dec5419cc" sha1="19b7953880d0ef3b979ab91a2728fb908b71b570"/>
+	</game>
+	<game name="Just Dance 2018 (Canada)" id="139180">
+		<category>Games</category>
+		<description>Just Dance 2018 (Canada)</description>
+		<rom name="Just Dance 2018 (Canada).iso" size="23429054464" crc="d18afd21" md5="9a3ccb72ad61d285989f9d06d861d1fd" sha1="90852a57ccb4907534e413c329f291f165b20f65"/>
 	</game>
 	<game name="Just Dance 2019 (USA)" id="102157">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (369) (-y) [-aAbBcdkmMpPuv] (2026-10-05 01-05-59) (Retool)</description>
-		<version>2026-10-05 01-05-59</version>
-		<date>2026-10-05 08-57-07</date>
+		<description>Sony - PlayStation 5 (370) (-y) [-aAbBcdkmMpPuv] (2026-10-05 14-47-20) (Retool)</description>
+		<version>2026-10-05 14-47-20</version>
+		<date>2026-10-06 09-03-21</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1755,6 +1755,11 @@
 		<category>Games</category>
 		<description>Unicorn Overlord (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Unicorn Overlord (USA) (En,Fr,De,Es,It).iso" size="40008351744" crc="fe015172" md5="3bbe5887373652865bc860e71be6f76f" sha1="34953346511920a4619f9e7b1f0e035a7fa9e366"/>
+	</game>
+	<game name="Ved (Europe)" id="139162">
+		<category>Games</category>
+		<description>Ved (Europe)</description>
+		<rom name="Ved (Europe).iso" size="40008351744" crc="9e32f9f2" md5="b95cd092d8d5ff782fb5829ae71019b9" sha1="f17197780b7ab6478c83eac5f60edb405399a51a"/>
 	</game>
 	<game name="Vertigo 2 (USA)" id="138585">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (446) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-04 11-15-59) (Retool)</description>
-		<version>2026-10-04 11-15-59</version>
-		<date>2026-10-05 08-48-26</date>
+		<description>Apple - Macintosh (449) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-05 14-05-59) (Retool)</description>
+		<version>2026-10-05 14-05-59</version>
+		<date>2026-10-06 08-54-55</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -552,6 +552,18 @@
 		<description>Christmas Present (Japan) (En,Ja)</description>
 		<rom name="Christmas Present (Japan) (En,Ja).bin" size="351355872" crc="1efab975" md5="7805c8dbc9db2df0554cd1fc6e202214" sha1="c5af64f32053e121086ac83eaaed8f741f897329"/>
 		<rom name="Christmas Present (Japan) (En,Ja).cue" size="99" crc="2e170c32" md5="ec9fb694fef8278ce607bf74f5e0e929" sha1="613f6632c3e7f9b1f9f5a59fb05eda0704e3d4ec"/>
+	</game>
+	<game name="Circle of Blood (USA) (Disc 1)" id="139148">
+		<category>Games</category>
+		<description>Circle of Blood (USA) (Disc 1)</description>
+		<rom name="Circle of Blood (USA) (Disc 1).bin" size="694475040" crc="c04ba791" md5="ba49bdfd587d8ea33e45350ae620f754" sha1="d24b168a061855af645b42344058ca01b0a44747"/>
+		<rom name="Circle of Blood (USA) (Disc 1).cue" size="119" crc="35df2ce6" md5="b744e8537fb8b09a561b65a5373ef5f7" sha1="88c6e3a4ae02daa6408c608bd420027e82aa4f10"/>
+	</game>
+	<game name="Circle of Blood (USA) (Disc 2)" id="139149">
+		<category>Games</category>
+		<description>Circle of Blood (USA) (Disc 2)</description>
+		<rom name="Circle of Blood (USA) (Disc 2).bin" size="738175200" crc="9ff902c2" md5="c84433ac3f8d5b9c276e539967a27e3c" sha1="a36b6731ac9357d570651c2e5f8a05ce1b90ef9e"/>
+		<rom name="Circle of Blood (USA) (Disc 2).cue" size="119" crc="34820a37" md5="1ac7b78aefb076a905bd9ba8c75dca9e" sha1="158585b6ebb388dc3a1c6ab8685d5105ab0d4761"/>
 	</game>
 	<game name="Civilization II - Multiplayer Gold Edition (USA)" id="139109">
 		<category>Games</category>
@@ -2623,6 +2635,12 @@
 		<description>Star Trek - Starfleet Academy (USA) (Disc 1)</description>
 		<rom name="Star Trek - Starfleet Academy (USA) (Disc 1).bin" size="783446496" crc="57c63052" md5="b7ab922ae329484198a6776736333480" sha1="9ad1d2a78a73cc5afd71f5ff8ead24a2d573f1e1"/>
 		<rom name="Star Trek - Starfleet Academy (USA) (Disc 1).cue" size="133" crc="df20ae98" md5="ac35e80f76cb854b88f3648c716e3073" sha1="323fb0df8270cb41c55a79c7277f2e8a1559c977"/>
+	</game>
+	<game name="Star Trek - The Game Show (USA) (Disc 2)" id="139158">
+		<category>Games</category>
+		<description>Star Trek - The Game Show (USA) (Disc 2)</description>
+		<rom name="Star Trek - The Game Show (USA) (Disc 2).bin" size="636886320" crc="361625be" md5="fa7aadba238c29646b1e871a93afd544" sha1="bb1cec92c2c81853031cb142e36f44371aaae527"/>
+		<rom name="Star Trek - The Game Show (USA) (Disc 2).cue" size="129" crc="454d3a2f" md5="55354b31f04336267cfbfed0f3b4b19f" sha1="59a74394a4189b70fdbbcc00036f4b6c6b0df4a5"/>
 	</game>
 	<game name="Star Trek - The Next Generation - Klingon Honor Guard (USA) (Game Disk)" id="53644">
 		<category>Games</category>

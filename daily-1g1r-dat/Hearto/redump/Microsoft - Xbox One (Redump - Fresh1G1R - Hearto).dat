@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (906) (-y) [-aAbBcefkmMoprv] (2026-10-04 12-57-24) (Retool)</description>
-		<version>2026-10-04 12-57-24</version>
-		<date>2026-10-05 08-43-55</date>
+		<description>Microsoft - Xbox One (907) (-y) [-aAbBcefkmMoprv] (2026-10-05 14-26-00) (Retool)</description>
+		<version>2026-10-05 14-26-00</version>
+		<date>2026-10-06 08-50-34</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3161,6 +3161,11 @@
 		<description>Psycho-Pass - Sentaku Naki Koufuku (Japan)</description>
 		<rom name="Psycho-Pass - Sentaku Naki Koufuku (Japan).iso" size="20911480832" crc="6b866d2e" md5="5f42b04521895a02dc85ba386ea0f583" sha1="8cbadb3371906c6df4ca53cc3edd2d6d44f2da81"/>
 	</game>
+	<game name="Psychonauts 2 (Europe)" id="139163">
+		<category>Games</category>
+		<description>Psychonauts 2 (Europe)</description>
+		<rom name="Psychonauts 2 (Europe).iso" size="45957781504" crc="f0690b0d" md5="f26f39b039db97cb58b7c4d0eccc9c77" sha1="496048f5e54ded6fb96a428e859c96ccfd4f61c5"/>
+	</game>
 	<game name="Puyo Puyo Tetris (Japan)" id="81045">
 		<category>Games</category>
 		<description>Puyo Puyo Tetris (Japan)</description>
@@ -3981,10 +3986,10 @@
 		<description>TheHunter - Call of the Wild - 2019 Edition (USA)</description>
 		<rom name="TheHunter - Call of the Wild - 2019 Edition (USA).iso" size="45958174720" crc="895ae196" md5="20af4d126fad9afd5b863a56e6d09a48" sha1="d6bb7f9974792707a2f6095ed2c04ffedffab975"/>
 	</game>
-	<game name="Them's Fightin Herds (USA)" id="138312">
+	<game name="Them's Fightin' Herds (USA, Europe)" id="138312">
 		<category>Games</category>
-		<description>Them's Fightin Herds (USA)</description>
-		<rom name="Them's Fightin Herds (USA).iso" size="22978480128" crc="de456bcb" md5="2a65a3432fa30b5c8a7b8b3501cf6c1c" sha1="89212b8bc1ac2f21f3d53597456fd801c4d10c98"/>
+		<description>Them's Fightin' Herds (USA, Europe)</description>
+		<rom name="Them's Fightin' Herds (USA, Europe).iso" size="22978480128" crc="de456bcb" md5="2a65a3432fa30b5c8a7b8b3501cf6c1c" sha1="89212b8bc1ac2f21f3d53597456fd801c4d10c98"/>
 	</game>
 	<game name="Thief (USA)" id="44714">
 		<category>Games</category>
