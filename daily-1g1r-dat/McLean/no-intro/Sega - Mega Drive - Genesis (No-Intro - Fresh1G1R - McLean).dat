@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (837) (-ly) [-aAbBcdDefkmMopPruv] (20260927-122056) (Retool)</description>
-		<version>20260927-122056</version>
-		<date>2026-10-06 08-58-27</date>
+		<description>Sega - Mega Drive - Genesis (838) (-ly) [-aAbBcdDefkmMopPruv] (20261006-200508) (Retool)</description>
+		<version>20261006-200508</version>
+		<date>2026-10-07 08-40-50</date>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4126,6 +4126,11 @@
 		<category>Games</category>
 		<description>X-Perts (USA)</description>
 		<rom name="X-Perts (USA).md" size="4194304" crc="57e8abfd" md5="281f94eebb57f5db0d299155bcc56f4e" sha1="be1df5a63f4363d11d340db9a37ba54db5f5ea38" sha256="bd8be8b1f881db0c89fb95cc74ee8cfcef807239a05f19b5678adddea1915161"/>
+	</game>
+	<game name="XBAND (USA)" id="3851">
+		<category>Miscellaneous</category>
+		<description>XBAND (USA)</description>
+		<rom name="XBAND (USA).md" size="524288" crc="af301895" md5="65ca1b57ff54e5e372a37fccb153486c" sha1="f4d9c4e2b09f1cb9ba9137b5cdc4f5e92d8d8bd6" sha256="00f45a0ca9b11d1540a3df7ff17ad65b20425667a876cdc7b6e56680e3d4f73f"/>
 	</game>
 	<game name="XDR - X-Dazedly-Ray (Japan) (En)" id="1585">
 		<category>Games</category>

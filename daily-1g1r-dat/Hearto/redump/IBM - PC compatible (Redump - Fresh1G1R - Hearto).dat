@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,409) (-y) [-aAbBcefkmMoprv] (2026-10-06 08-36-41) (Retool)</description>
-		<version>2026-10-06 08-36-41</version>
-		<date>2026-10-06 08-49-50</date>
+		<description>IBM - PC compatible (26,418) (-y) [-aAbBcefkmMoprv] (2026-10-07 08-17-35) (Retool)</description>
+		<version>2026-10-07 08-17-35</version>
+		<date>2026-10-07 08-25-45</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -15530,6 +15530,12 @@
 		<rom name="Barbie and Her Magical House (USA).bin" size="274047984" crc="eb8c21e2" md5="5571fc2f3c22821717f750fcb471167c" sha1="bd4ae883258b4a968fae3cb1135023f1dde77643"/>
 		<rom name="Barbie and Her Magical House (USA).cue" size="123" crc="524ce1aa" md5="09742e1debbbc8ff922292ef43e5bf6f" sha1="0aaa1057f7d818905c07fc63f10d6a6dbbcaebbf"/>
 	</game>
+	<game name="Barbie and the Magic of Pegasus (UK)" id="139209">
+		<category>Games</category>
+		<description>Barbie and the Magic of Pegasus (UK)</description>
+		<rom name="Barbie and the Magic of Pegasus (UK).bin" size="717148320" crc="05c85286" md5="d6be7795eb08d059887bcd6c2a672c32" sha1="591ea9ff2d91376dcf77b829e12fcee457f3abca"/>
+		<rom name="Barbie and the Magic of Pegasus (UK).cue" size="102" crc="4471342e" md5="6ca3e09cd28a5a22917c2d5a44d9fad5" sha1="5c1fc0333f04dc2f90d465ddc4be3d9c51fd591f"/>
+	</game>
 	<game name="Barbie as Princess Bride (USA)" id="82813">
 		<category>Games</category>
 		<description>Barbie as Princess Bride (USA)</description>
@@ -15618,6 +15624,11 @@
 		<category>Games</category>
 		<description>Bard's Tale, The - Opowiesci Barda (Poland)</description>
 		<rom name="Bard's Tale, The - Opowiesci Barda (Poland).iso" size="8543666176" crc="b79658d4" md5="799a25f419e0a9559cbf2e678b565c09" sha1="0512d20c431266ffa822dd19a5e4e16bc1c9d16d"/>
+	</game>
+	<game name="Bard's Tale, The - Poxozhdeniya Barda (Russia)" id="139182">
+		<category>Games</category>
+		<description>Bard's Tale, The - Poxozhdeniya Barda (Russia)</description>
+		<rom name="Bard's Tale, The - Poxozhdeniya Barda (Russia).iso" size="4044750848" crc="d998840f" md5="40459e7bcd1048e4c943f37084cccaf6" sha1="ac1da8cc6728420b0c1ec222f1f53fe471edc6dc"/>
 	</game>
 	<game name="Bardysh (Japan)" id="70593">
 		<category>Games</category>
@@ -37634,6 +37645,12 @@
 		<rom name="DemonStar (Australia).bin" size="51508800" crc="51b2f968" md5="4372681c3cd70e429ac82b7689359363" sha1="6f7853a3dc4d14f61755300b7828ef004b54e9a9"/>
 		<rom name="DemonStar (Australia).cue" size="110" crc="a066148b" md5="c84dde4571922376b1ae0110c1af36bf" sha1="0334d3db7add6445fda527b47e50803a21fbb231"/>
 	</game>
+	<game name="Demonicum no Madousho (Japan)" id="139211">
+		<category>Games</category>
+		<description>Demonicum no Madousho (Japan)</description>
+		<rom name="Demonicum no Madousho (Japan).bin" size="19759152" crc="6d4f213d" md5="f02e07306ebedeb263ed96df80b6ec31" sha1="18ade5a39f54a695f90aa53bc0f44c5bd2a08088"/>
+		<rom name="Demonicum no Madousho (Japan).cue" size="95" crc="565b8823" md5="a842442c5e0c629745663fdd467f921f" sha1="bf563fc78307b9badd87b0f27aafe04833746436"/>
+	</game>
 	<game name="Demons et Manants (France) (En,Fr,De,Es,It)" id="65653">
 		<category>Games</category>
 		<description>Demons et Manants (France) (En,Fr,De,Es,It)</description>
@@ -40949,6 +40966,12 @@
 		<description>Disney Il Tiro a Segno di Timon e Pumbaa (Italy)</description>
 		<rom name="Disney Il Tiro a Segno di Timon e Pumbaa (Italy).bin" size="220248336" crc="a48ccded" md5="b09acd3e0a0da1dcfc22593245edbd72" sha1="7c4689835c7bd51a671231e80ec3c5cd4fee7365"/>
 		<rom name="Disney Il Tiro a Segno di Timon e Pumbaa (Italy).cue" size="114" crc="6c179559" md5="7c8385dd371614ae6cb3850929eda3cb" sha1="ed71570e6cde582439c05867fb048df140d79d2b"/>
+	</game>
+	<game name="Disney Interactive GameBreak Sampler (USA)" id="139203">
+		<category>Demos</category>
+		<description>Disney Interactive GameBreak Sampler (USA)</description>
+		<rom name="Disney Interactive GameBreak Sampler (USA).bin" size="169856736" crc="5d578be7" md5="1d7e4da726d79368dbf023ec1155e8ac" sha1="798bcab7c1a34e71e3573713f6d5588f8fbfc6fb"/>
+		<rom name="Disney Interactive GameBreak Sampler (USA).cue" size="108" crc="0a567d19" md5="b19212e40832f78f4f97e34848e2bba0" sha1="7d16098b7b23da2463b72b582207fbea61fdf5c0"/>
 	</game>
 	<game name="Disney Interactive Games Sampler - Volume II (USA)" id="122442">
 		<category>Demos</category>
@@ -116081,6 +116104,18 @@
 		<rom name="Pageant Princess (USA).bin" size="96878880" crc="251014de" md5="59dafa3f139fc1ef96f93f7f090fd39b" sha1="ac1101102c4936aa6d96574343d7c7ee4f97af1b"/>
 		<rom name="Pageant Princess (USA).cue" size="88" crc="9107bf7b" md5="70428faf5c31c915e4524538c5a3a486" sha1="24fe191d8b2a9ea8ebe1d372181f9525c7b8134c"/>
 	</game>
+	<game name="Pagemaster, The (USA) (Disc 1)" id="139205">
+		<category>Games</category>
+		<description>Pagemaster, The (USA) (Disc 1)</description>
+		<rom name="Pagemaster, The (USA) (Disc 1).bin" size="431780160" crc="25544c8b" md5="8c0599710152e30a9c568e7c7279e99b" sha1="b747ae60e21bb720f324b4d17b7aa89d13f3a339"/>
+		<rom name="Pagemaster, The (USA) (Disc 1).cue" size="96" crc="a729abef" md5="f8570375f056b2a61225a592ab16c1f8" sha1="b3fe3322339e5c8ccd78b37a519d7cc52eac39ad"/>
+	</game>
+	<game name="Pagemaster, The (USA) (Disc 2)" id="139206">
+		<category>Games</category>
+		<description>Pagemaster, The (USA) (Disc 2)</description>
+		<rom name="Pagemaster, The (USA) (Disc 2).bin" size="735007056" crc="46f274c5" md5="254859253ace7289c818ed6ee6c83d1b" sha1="34d535628994d2fa896348f2e34cd50203252c37"/>
+		<rom name="Pagemaster, The (USA) (Disc 2).cue" size="96" crc="a6748d3e" md5="d8d8664069a8806074a2d128e19d383c" sha1="dc5c2d5c08aa38fe77e0a310278a874b9360e23f"/>
+	</game>
 	<game name="Pahelika Collection (Europe)" id="123776">
 		<category>Games</category>
 		<description>Pahelika Collection (Europe)</description>
@@ -133447,6 +133482,45 @@
 		<description>Rockman Gangtie Zhi Xin (Taiwan)</description>
 		<rom name="Rockman Gangtie Zhi Xin (Taiwan).bin" size="633518256" crc="f6a50285" md5="833362d2def11048b8e0ad99c9095e11" sha1="8fef77a494001317626fd443b6d2c7ea7800c3b7"/>
 		<rom name="Rockman Gangtie Zhi Xin (Taiwan).cue" size="98" crc="93548355" md5="9c4c04a3c265792ab09793c20fe3a9cf" sha1="f9420acadfd7eea1b489787d96a5b51309084543"/>
+	</game>
+	<game name="Rockman Strategy (China) (Disc 1)" id="139207">
+		<category>Games</category>
+		<description>Rockman Strategy (China) (Disc 1)</description>
+		<rom name="Rockman Strategy (China) (Disc 1).bin" size="720871536" crc="f977f380" md5="015b42db7f952e3777f6a8a8d89fe8f5" sha1="49732078729065f77b1d170c743f592350db21b8"/>
+		<rom name="Rockman Strategy (China) (Disc 1).cue" size="99" crc="16859f95" md5="46bce9df7107438e4e98cf754c740454" sha1="12f559edd355ee9e49d3e2c4a40dd575ae852a98"/>
+	</game>
+	<game name="Rockman Strategy (China) (Disc 2)" id="139208">
+		<category>Games</category>
+		<description>Rockman Strategy (China) (Disc 2)</description>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 01).bin" size="1234800" crc="261951df" md5="138d40ba697e934d5764d774767dd376" sha1="175f24304b7b3cce4d13cfacbe54ba4ca9f3d9dc"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 02).bin" size="17002608" crc="dfb8c04a" md5="8b4714da342ce5671ef44cc8ecad25d5" sha1="57047db3ad15ea8b1a5a11660243ccaf1c7dd833"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 03).bin" size="5757696" crc="42ceb1b7" md5="f00c5b4be0347f9a73bafa7cb72766ab" sha1="af58e79c86ec657cde855e08dd634c625f996da1"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 04).bin" size="1667568" crc="738e674f" md5="0abc56f5e418f84035a3a31f944375b3" sha1="c097bedb49f67653e745ea8a6952c8a676dbfe73"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 05).bin" size="5724768" crc="2bf26ece" md5="ffd704af3363602d5c07ae6785e7103a" sha1="1296fda0ea2cb8e2116c61deb69d5168ba1fa601"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 06).bin" size="15356208" crc="d12708fa" md5="57ab8b40126d1bb37c72338ed19e3067" sha1="a90e78d98d6bf06cbc12aa9b858efbac66505ff8"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 07).bin" size="17482416" crc="f9708a49" md5="99f028aa839e5338e00461c293a11e21" sha1="e53fdb8fc41ea9d6a97c328266d73fe8ae00bc7e"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 08).bin" size="12077520" crc="1ab3e915" md5="c3d794d7f8f1ce485d4c6eb549c8e61b" sha1="4a7ae6ad725582a3f1f3abe24ffb8c9e93be5058"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 09).bin" size="12432672" crc="3bc8ee8f" md5="373aca7e3ad2990bd6dae19d81ed1539" sha1="3848c2c37efa1720073c3159e3a3cdb2d40d439f"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 10).bin" size="10934448" crc="70927e75" md5="aee55ae86667ae85801e2a7bd07ffbc5" sha1="b3fa0fa3957fedd7e39227cb5f935453ddeb9fe5"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 11).bin" size="10939152" crc="6fb6b55c" md5="bcb074ba6d82185ea3f26b8c5f55e6a8" sha1="0e4beead41c96448512bc8049ad2be5110eed39c"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 12).bin" size="10769808" crc="3f46a152" md5="da4946a9e7fce75b4288c4a9ce55d59c" sha1="ff61f54ac065b8d43210f632985ebae9cf3e4272"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 13).bin" size="6432720" crc="f3c85b3d" md5="e98a9c0016ced62a2eb68062a4f2914d" sha1="523da8e5f891ad860a8bbd9cc3176ad26fd4bc95"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 14).bin" size="18049248" crc="131419de" md5="a0557ad20be191a7504ced8f8dfc3dc1" sha1="ebe0bcff79ed20f847feff99ee380b55b23cd069"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 15).bin" size="11847024" crc="4fa29984" md5="1cc1e11d1ff8b9158582e67d664d56c4" sha1="c78ce26905fd14e6d0a0c633c20a32d19fe54434"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 16).bin" size="13098288" crc="725a3448" md5="03a8ef82c490045507a00f7e212f5474" sha1="09fcb82f29d9162301f737c2a7dc2609c923f1c1"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 17).bin" size="14671776" crc="7e106a5c" md5="81d29980c431a1a653dc5e451b697c64" sha1="2f51d9ce6b400fd4af23b0d15ddf6c56a5727cf5"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 18).bin" size="13587504" crc="73a99068" md5="118b987e04b7986361a5402a6628896b" sha1="a0167c11d9c8a1bffc391cef333ec8c70d055579"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 19).bin" size="12721968" crc="8b269b51" md5="69b3ea7a695cb800603cd27a2fd0f5be" sha1="faa1514c4d5bd2941a2cf754d5578856009036c8"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 20).bin" size="12249216" crc="f7a8642c" md5="b5a5787a2b3d2b579bb6295c892abd2d" sha1="0f0fa59450c649fe13ee4d66521d68f1d2207e49"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 21).bin" size="14521248" crc="9a8b874f" md5="fafad69f7ca267ba0add6c44b08614bd" sha1="4f32f91584f273e3b1e13b3dc4b80c0df246b958"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 22).bin" size="12611424" crc="31e0add9" md5="b73f1a05b1f94e3e30f4dcccf72cccfc" sha1="532675fbab3b7b02996492dee567cecf9b242a81"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 23).bin" size="12014016" crc="76f5b155" md5="dbf49aff84a8f8c18cdb054b056aa61a" sha1="623425e2eb5e61c5fefd9b81d0c4218d7fee716d"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 24).bin" size="17240160" crc="7f43aef7" md5="7cea062969d0c6d23bfbb10126d83392" sha1="7e7ad1c4ad5491b40b1deece20893dd380f02933"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 25).bin" size="12103392" crc="c47f2969" md5="9f65b92e14fc6bee7e83e4b66a68a5c6" sha1="319bebfbedf25fff3cde74e5c92c63e72b81b548"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 26).bin" size="10885056" crc="64db0430" md5="c0a7b8e53e2c482bb01d1d136a29c5da" sha1="12c31e43e25c11b1b91f47fa6100c320290e5df7"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 27).bin" size="16816800" crc="9fcde843" md5="955577f40016b6db429e8ac22a3a2dd2" sha1="c94d88be73fee5956f45c1a211a8fef51611ddfb"/>
+		<rom name="Rockman Strategy (China) (Disc 2) (Track 28).bin" size="1625232" crc="75f0de93" md5="bb1e33d916938bc989dad726f380afa0" sha1="71e4d9ba7c66126d240c9ff4f640362c1a7c6a64"/>
+		<rom name="Rockman Strategy (China) (Disc 2).cue" size="3566" crc="c0206e92" md5="a3ac383f390db263d920a21d7e72fd8e" sha1="10944ed8d87850ffc314ed13d74ec37f613f5661"/>
 	</game>
 	<game name="Rockman Weiji (China)" id="79282">
 		<category>Games</category>
@@ -155754,10 +155828,10 @@
 		<rom name="Stronghold 2 (USA) (Disc 2) (Play).bin" size="253684368" crc="931b4f3e" md5="17aaba138b8a089f9bcf25e25c9589d4" sha1="f09c24939624ea8a555d2486a4094a8c9d431f63"/>
 		<rom name="Stronghold 2 (USA) (Disc 2) (Play).cue" size="100" crc="7ddf7a8a" md5="e29c5e1b0dda3e889d13ea9bd287300c" sha1="9ac035d4b0dc78e2eff346bbbed4266ca96b5289"/>
 	</game>
-	<game name="Stronghold 2 Deluxe (Germany)" id="91583">
+	<game name="Stronghold 2 Deluxe (UK)" id="139197">
 		<category>Games</category>
-		<description>Stronghold 2 Deluxe (Germany)</description>
-		<rom name="Stronghold 2 Deluxe (Germany).iso" size="2234974208" crc="d2edc520" md5="b7e687dddb62f7f8c406728336c1175f" sha1="5584cf1e53a97684d4f5dadcf3fe6f643373aa6b"/>
+		<description>Stronghold 2 Deluxe (UK)</description>
+		<rom name="Stronghold 2 Deluxe (UK).iso" size="2295103488" crc="ac72b7d0" md5="6b6cf65f61f74ac96f36d87d868b304c" sha1="ea93e67c9e589cb491b2f73c80bd135f7632b3cb"/>
 	</game>
 	<game name="Stronghold 3 (USA)" id="118511">
 		<category>Games</category>
@@ -160553,6 +160627,11 @@
 		<description>Terminal Velocity (USA, Europe)</description>
 		<rom name="Terminal Velocity (USA, Europe).bin" size="194585664" crc="97eab8ae" md5="4169cbbb2dd6d9827e911932568f4ae2" sha1="b107b92bcd2c8368bfa826773474daa35a34e185"/>
 		<rom name="Terminal Velocity (USA, Europe).cue" size="120" crc="1fb31d71" md5="4f1c6e3bb904db226d92bcd5fd6ac3b1" sha1="8d085530ccdd5f399716fc12b221d2b12b1746f0"/>
+	</game>
+	<game name="Terminator - Da pridet spasitel' (Russia) (Pl,Ru,Cs)" id="139184">
+		<category>Games</category>
+		<description>Terminator - Da pridet spasitel' (Russia) (Pl,Ru,Cs)</description>
+		<rom name="Terminator - Da pridet spasitel' (Russia) (Pl,Ru,Cs).iso" size="6551764992" crc="46444b59" md5="66237564efe503abd7f73ac8a421fcce" sha1="0cff2021bc8b7270df5bc308c0ee077d4af0bd73"/>
 	</game>
 	<game name="Terminator 2029, The (USA)" id="21161">
 		<category>Games</category>

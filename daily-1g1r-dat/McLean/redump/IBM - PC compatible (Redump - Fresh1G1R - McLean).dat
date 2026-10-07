@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,593) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-06 08-36-41) (Retool)</description>
-		<version>2026-10-06 08-36-41</version>
-		<date>2026-10-06 08-55-47</date>
+		<description>IBM - PC compatible (13,597) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-07 08-17-35) (Retool)</description>
+		<version>2026-10-07 08-17-35</version>
+		<date>2026-10-07 08-36-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -7458,6 +7458,12 @@
 		<description>Barbie and Her Magical House (USA)</description>
 		<rom name="Barbie and Her Magical House (USA).bin" size="274047984" crc="eb8c21e2" md5="5571fc2f3c22821717f750fcb471167c" sha1="bd4ae883258b4a968fae3cb1135023f1dde77643"/>
 		<rom name="Barbie and Her Magical House (USA).cue" size="123" crc="524ce1aa" md5="09742e1debbbc8ff922292ef43e5bf6f" sha1="0aaa1057f7d818905c07fc63f10d6a6dbbcaebbf"/>
+	</game>
+	<game name="Barbie and the Magic of Pegasus (UK)" id="139209">
+		<category>Games</category>
+		<description>Barbie and the Magic of Pegasus (UK)</description>
+		<rom name="Barbie and the Magic of Pegasus (UK).bin" size="717148320" crc="05c85286" md5="d6be7795eb08d059887bcd6c2a672c32" sha1="591ea9ff2d91376dcf77b829e12fcee457f3abca"/>
+		<rom name="Barbie and the Magic of Pegasus (UK).cue" size="102" crc="4471342e" md5="6ca3e09cd28a5a22917c2d5a44d9fad5" sha1="5c1fc0333f04dc2f90d465ddc4be3d9c51fd591f"/>
 	</game>
 	<game name="Barbie as Princess Bride (USA)" id="82813">
 		<category>Games</category>
@@ -60398,6 +60404,18 @@
 		<rom name="Pageant Princess (USA).bin" size="96878880" crc="251014de" md5="59dafa3f139fc1ef96f93f7f090fd39b" sha1="ac1101102c4936aa6d96574343d7c7ee4f97af1b"/>
 		<rom name="Pageant Princess (USA).cue" size="88" crc="9107bf7b" md5="70428faf5c31c915e4524538c5a3a486" sha1="24fe191d8b2a9ea8ebe1d372181f9525c7b8134c"/>
 	</game>
+	<game name="Pagemaster, The (USA) (Disc 1)" id="139205">
+		<category>Games</category>
+		<description>Pagemaster, The (USA) (Disc 1)</description>
+		<rom name="Pagemaster, The (USA) (Disc 1).bin" size="431780160" crc="25544c8b" md5="8c0599710152e30a9c568e7c7279e99b" sha1="b747ae60e21bb720f324b4d17b7aa89d13f3a339"/>
+		<rom name="Pagemaster, The (USA) (Disc 1).cue" size="96" crc="a729abef" md5="f8570375f056b2a61225a592ab16c1f8" sha1="b3fe3322339e5c8ccd78b37a519d7cc52eac39ad"/>
+	</game>
+	<game name="Pagemaster, The (USA) (Disc 2)" id="139206">
+		<category>Games</category>
+		<description>Pagemaster, The (USA) (Disc 2)</description>
+		<rom name="Pagemaster, The (USA) (Disc 2).bin" size="735007056" crc="46f274c5" md5="254859253ace7289c818ed6ee6c83d1b" sha1="34d535628994d2fa896348f2e34cd50203252c37"/>
+		<rom name="Pagemaster, The (USA) (Disc 2).cue" size="96" crc="a6748d3e" md5="d8d8664069a8806074a2d128e19d383c" sha1="dc5c2d5c08aa38fe77e0a310278a874b9360e23f"/>
+	</game>
 	<game name="Pahelika Collection (Europe)" id="123776">
 		<category>Games</category>
 		<description>Pahelika Collection (Europe)</description>
@@ -80003,6 +80021,11 @@
 		<description>Stronghold 2 (USA) (Disc 2) (Play)</description>
 		<rom name="Stronghold 2 (USA) (Disc 2) (Play).bin" size="253684368" crc="931b4f3e" md5="17aaba138b8a089f9bcf25e25c9589d4" sha1="f09c24939624ea8a555d2486a4094a8c9d431f63"/>
 		<rom name="Stronghold 2 (USA) (Disc 2) (Play).cue" size="100" crc="7ddf7a8a" md5="e29c5e1b0dda3e889d13ea9bd287300c" sha1="9ac035d4b0dc78e2eff346bbbed4266ca96b5289"/>
+	</game>
+	<game name="Stronghold 2 Deluxe (UK)" id="139197">
+		<category>Games</category>
+		<description>Stronghold 2 Deluxe (UK)</description>
+		<rom name="Stronghold 2 Deluxe (UK).iso" size="2295103488" crc="ac72b7d0" md5="6b6cf65f61f74ac96f36d87d868b304c" sha1="ea93e67c9e589cb491b2f73c80bd135f7632b3cb"/>
 	</game>
 	<game name="Stronghold 3 (USA)" id="118511">
 		<category>Games</category>

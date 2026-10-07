@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (977) (-y) [-aAbBcefkmMoprv] (20261004-133226) (Retool)</description>
-		<version>20261004-133226</version>
-		<date>2026-10-06 08-53-41</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (977) (-y) [-aAbBcefkmMoprv] (20261006-193815) (Retool)</description>
+		<version>20261006-193815</version>
+		<date>2026-10-07 08-30-21</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1168,11 +1168,10 @@
 		<game_id>00040000000F0D00</game_id>
 		<rom name="Doodle Jump Adventures (USA).3ds" size="134217728" crc="0178c5b1" md5="efca2f1e5627d64ab2516aad2dfd97bb" sha1="445ae4c6037d38e0b5d3e2a80a4f35da542e5095"/>
 	</game>
-	<game name="Dora-Chie - Mini-Dora Ongakutai to Nanatsu no Chie (Japan)" id="0937">
+	<game name="Dora-Chie - Mini-Dora Ongakutai to Nanatsu no Chie (Japan) (Rev 2)" id="1873">
 		<category>Games</category>
-		<description>Dora-Chie - Mini-Dora Ongakutai to Nanatsu no Chie (Japan)</description>
-		<game_id>00040000000EA500</game_id>
-		<rom name="Dora-Chie - Mini-Dora Ongakutai to Nanatsu no Chie (Japan).3ds" size="268435456" crc="7f462ee0" md5="63c4812607e22c89802f77fcbee9ba74" sha1="312f6cc22fcd85b16adf9b0d43fa6224a68b3b18"/>
+		<description>Dora-Chie - Mini-Dora Ongakutai to Nanatsu no Chie (Japan) (Rev 2)</description>
+		<rom name="Dora-Chie - Mini-Dora Ongakutai to Nanatsu no Chie (Japan) (Rev 2).3ds" size="268435456" crc="750e5207" md5="f4956af6c30d0b77cfa227d8deb3e427" sha1="58f46067d89d8b1158ab2028aeecc1e9d6d48499" sha256="7ca6a5ce639652c5e410583313be69d39c1beb3da77084a3b3b05f01fd4f12c6"/>
 	</game>
 	<game name="DoraEigo - Nobita to Yousei no Fushigi Collection (Japan)" id="1140">
 		<category>Games</category>

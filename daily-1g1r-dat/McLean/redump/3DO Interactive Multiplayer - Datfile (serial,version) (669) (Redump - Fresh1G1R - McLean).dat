@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>3DO Interactive Multiplayer (Retool)</name>
-		<description>3DO Interactive Multiplayer (163) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-24 20-22-35) (Retool)</description>
-		<version>2026-09-24 20-22-35</version>
-		<date>2026-10-06 08-54-53</date>
+		<description>3DO Interactive Multiplayer (164) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-06 22-46-40) (Retool)</description>
+		<version>2026-10-06 22-46-40</version>
+		<date>2026-10-07 08-34-42</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -923,6 +923,13 @@
 		<description>Theme Park (USA)</description>
 		<rom name="Theme Park (USA).bin" size="227452512" crc="3f6ada61" md5="a9c43e48da9cb6d0b6d7ad5f98421e75" sha1="1933f50021d8148b476ccb4f50b3ac02b3e4e49b"/>
 		<rom name="Theme Park (USA).cue" size="105" crc="a8520caa" md5="74f3c282e63b2313a113fd3a6164537e" sha1="df0be65dce4f59911b282e289e99b10857841228"/>
+	</game>
+	<game name="Total Eclipse (Europe) (61203-C)" id="5304">
+		<category>Games</category>
+		<description>Total Eclipse (Europe) (61203-C)</description>
+		<serial>61203-C</serial>
+		<rom name="Total Eclipse (Europe) (61203-C).bin" size="386057280" crc="be29559f" md5="80eb5c5ca8cc23aaf3d71a1268272a9c" sha1="9868498a54da762824bce60d391befaef900b6ed"/>
+		<rom name="Total Eclipse (Europe) (61203-C).cue" size="121" crc="33903c70" md5="c9435fe1d2427d1cb7d58c77967f1fa1" sha1="8fdb48b694ce083e3a44e14e960a11871eba53a3"/>
 	</game>
 	<game name="Total Eclipse (Europe) (DFJN5015ZAZ)" id="66196">
 		<category>Games</category>
