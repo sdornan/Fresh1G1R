@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,867) (-y) [-aAbBcefkmMoprv] (20261005-040320) (Retool)</description>
-		<version>20261005-040320</version>
-		<date>2026-10-07 08-33-31</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,870) (-y) [-aAbBcefkmMoprv] (20261007-132615) (Retool)</description>
+		<version>20261007-132615</version>
+		<date>2026-10-08 08-43-07</date>
 		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, ShiroeNL, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -891,10 +891,20 @@
 		<description>Bubsy II (USA)</description>
 		<rom name="Bubsy II (USA).sfc" size="2097152" crc="d0d172fa" md5="cf5c2ca9af502a0f12cf9504fb0e748a" sha1="c501d8779891a501ca4674cc39fc9d82cc05eb8c" sha256="2357d344af77d25dda030520ce203045fd9060f83e3b9609a228dba859d9017b"/>
 	</game>
+	<game name="Bubsy II (World) (The Purrfect Collection)" id="4610">
+		<category>Games</category>
+		<description>Bubsy II (World) (The Purrfect Collection)</description>
+		<rom name="Bubsy II (World) (The Purrfect Collection).sfc" size="2097152" crc="da10bca5" md5="bf457c617fe0fa2ede2c51afe011a28c" sha1="d7ee2cb172ad6e8ea3604a4a2c1a02487719ef7a" sha256="163f4debca780626325147555ad7ebd0296b11dead6a7f6dd856d7317d634175"/>
+	</game>
 	<game name="Bubsy in - Claws Encounters of the Furred Kind (USA)" id="0356">
 		<category>Games</category>
 		<description>Bubsy in - Claws Encounters of the Furred Kind (USA)</description>
 		<rom name="Bubsy in - Claws Encounters of the Furred Kind (USA).sfc" size="2097152" crc="444a52c1" md5="6ac508bddbabc699f181d7858ccfcf0f" sha1="9f6ff6264e0361e074f9cfee2ec4976866a781c5" sha256="811cbc3287c0959e8eb242e817684d36de664ebebc5873a1fa9958693857c438"/>
+	</game>
+	<game name="Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection)" id="4609">
+		<category>Games</category>
+		<description>Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection)</description>
+		<rom name="Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection).sfc" size="2097152" crc="2526fd7a" md5="da9e1ba86705de2a09dbed9c69e0bced" sha1="6e461b93f82d2c7271e92df080ed98f86e0af0f9" sha256="b98fe3c93a1ad19ecad93528092d4ed9d8f7844351186f0c845d29c0457dd907"/>
 	</game>
 	<game name="Bugs Bunny - Rabbit Rampage (USA)" id="0360">
 		<category>Games</category>
@@ -9269,6 +9279,11 @@
 		<category>Games</category>
 		<description>Yam Yam (Japan)</description>
 		<rom name="Yam Yam (Japan).sfc" size="1572864" crc="4620c386" md5="7173bbd34ac961cab1901568f1aa8bc4" sha1="f9e132c783bc6df4b065739e4bb0be11e4470cd2" sha256="176434d387c9f3396acf74a87e93982e1c5e99c09408eb37a694f9526b5bc2f7"/>
+	</game>
+	<game name="Yamaneko Bubsy no Daibouken (World) (The Purrfect Collection)" id="4608">
+		<category>Games</category>
+		<description>Yamaneko Bubsy no Daibouken (World) (The Purrfect Collection)</description>
+		<rom name="Yamaneko Bubsy no Daibouken (World) (The Purrfect Collection).sfc" size="2097152" crc="2ccf2681" md5="acef13f027de29098660d7b9ce4366f5" sha1="02ba5662fb33e846e6160a95735312b8c45881a6" sha256="d4fc45eaa6ed6df4b9d36f757901cfc0d38b3c561d7f47040e36e8ce9bf32ad3"/>
 	</game>
 	<game name="Yokoyama Mitsuteru Sangokushi (Japan) (Rev 1)" id="3372">
 		<category>Games</category>

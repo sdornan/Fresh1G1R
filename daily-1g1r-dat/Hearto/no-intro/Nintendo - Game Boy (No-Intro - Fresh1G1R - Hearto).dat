@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (1,129) (-y) [-aAbBcefkmMoprv] (20261006-105659) (Retool)</description>
-		<version>20261006-105659</version>
-		<date>2026-10-07 08-31-29</date>
+		<description>Nintendo - Game Boy (1,130) (-y) [-aAbBcefkmMoprv] (20261007-123616) (Retool)</description>
+		<version>20261007-123616</version>
+		<date>2026-10-08 08-44-36</date>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -696,6 +696,11 @@
 		<category>Games</category>
 		<description>Bubsy II (USA)</description>
 		<rom name="Bubsy II (USA).gb" size="262144" crc="600a6ad5" md5="c80413993cb4a5b79c9cdd04235010dd" sha1="1ac9bf5043caf428994bca3e80158ca697e94c58" sha256="1499fe6fe4ab1e57ba928ad962334f44e3b04828188f8ec718baebe617c41b6c"/>
+	</game>
+	<game name="Bubsy II (World) (The Purrfect Collection)" id="2627">
+		<category>Games</category>
+		<description>Bubsy II (World) (The Purrfect Collection)</description>
+		<rom name="Bubsy II (World) (The Purrfect Collection).gb" size="262144" crc="52436a3d" md5="3a26bd9e9e3bf4f52b4803934071f71d" sha1="1fb725f0ae0e63a218ef2c41e39aae2243d47282" sha256="cd83b88a2e04623353b208bd2398cc006d8743a332b9cbfd05828ec95bc21e8a"/>
 	</game>
 	<game name="Bugs Bunny Crazy Castle 2, The (USA)" id="0188">
 		<category>Games</category>

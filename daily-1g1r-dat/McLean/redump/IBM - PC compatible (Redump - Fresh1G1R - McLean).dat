@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,597) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-07 08-17-35) (Retool)</description>
-		<version>2026-10-07 08-17-35</version>
-		<date>2026-10-07 08-36-17</date>
+		<description>IBM - PC compatible (13,599) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-08 08-20-57) (Retool)</description>
+		<version>2026-10-08 08-20-57</version>
+		<date>2026-10-08 08-46-37</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -11628,6 +11628,11 @@
 		<description>Bubble Town (USA)</description>
 		<rom name="Bubble Town (USA).bin" size="484201536" crc="e38eb4ef" md5="d1a8bc5ed3dcf4a39b55b606bba755f5" sha1="bdf6eb34c39f8fcd22db06a6ebba45374c0fc13d"/>
 		<rom name="Bubble Town (USA).cue" size="83" crc="5ee74717" md5="869d8655633de58fdc734eaf4dcf2980" sha1="22ef87ce048590042e5a0886021ea8cb5cf1b338"/>
+	</game>
+	<game name="Bubsy in - The Purrfect Collection (USA) (En,Fr,De,Es,It)" id="139216">
+		<category>Games</category>
+		<description>Bubsy in - The Purrfect Collection (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Bubsy in - The Purrfect Collection (USA) (En,Fr,De,Es,It).iso" size="4681236480" crc="843a5a51" md5="4ee21613bcfac8b07b57dd0ee4ff7b38" sha1="6c8a2ab25bd2ef35a067210050b2526e555ee96c"/>
 	</game>
 	<game name="Buccaneer (USA)" id="107598">
 		<category>Games</category>
@@ -75437,6 +75442,11 @@
 		<description>Smelly Mystery, The (USA)</description>
 		<rom name="Smelly Mystery, The (USA).bin" size="253399776" crc="5dbf33fc" md5="1ff83e327eb61c148625280f76233f50" sha1="015ee0a15c3fe37dbb1a492c4f2966b025308839"/>
 		<rom name="Smelly Mystery, The (USA).cue" size="91" crc="f480cec5" md5="29bc73255b1caad010c6731547d7120d" sha1="4fa3a81c974bab8fdd7dc8bbfc22682ea122fbc8"/>
+	</game>
+	<game name="Smert' shpionam (Ukraine)" id="139222">
+		<category>Games</category>
+		<description>Smert' shpionam (Ukraine)</description>
+		<rom name="Smert' shpionam (Ukraine).iso" size="4430561280" crc="8c8e7d73" md5="605d86b1c70295f3150d9cf60072e677" sha1="387ee3f25740f8c0b2dcc5fb2340df64933e0d38"/>
 	</game>
 	<game name="Smoking Guns (USA)" id="117782">
 		<category>Games</category>

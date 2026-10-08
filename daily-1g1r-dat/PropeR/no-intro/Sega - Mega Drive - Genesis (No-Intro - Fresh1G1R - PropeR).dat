@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (992) (-y) [-aAbBcdkmMpPuv] (20261006-200508) (Retool)</description>
-		<version>20261006-200508</version>
-		<date>2026-10-07 08-51-06</date>
+		<description>Sega - Mega Drive - Genesis (994) (-y) [-aAbBcdkmMpPuv] (20261007-131537) (Retool)</description>
+		<version>20261007-131537</version>
+		<date>2026-10-08 08-54-17</date>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -586,10 +586,20 @@
 		<description>Bubsy II (USA, Europe)</description>
 		<rom name="Bubsy II (USA, Europe).md" size="2097152" crc="f8beff56" md5="87352883152efc168d1950cc0bbc73ab" sha1="0cfb6c619798ba47f35069dea094fbc96f974ecb" sha256="c714fa8d8570c397be504405f0bad23c782141d8faa17acfadd1be6abfcd4f5c"/>
 	</game>
+	<game name="Bubsy II (World) (The Purrfect Collection)" id="3853">
+		<category>Games</category>
+		<description>Bubsy II (World) (The Purrfect Collection)</description>
+		<rom name="Bubsy II (World) (The Purrfect Collection).md" size="2097152" crc="0c3eb60d" md5="dbc476a44579ae16799d5d52cffb48bb" sha1="d6d8ba8fe300d0b360a5c0e389cf66807e834081" sha256="e5ae2efc2251e25fc031d43dc2c1a4090fa9c2e5cd33bd5f83b790a0aa932b50"/>
+	</game>
 	<game name="Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)" id="0230">
 		<category>Games</category>
 		<description>Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)</description>
 		<rom name="Bubsy in - Claws Encounters of the Furred Kind (USA, Europe).md" size="2097152" crc="3e30d365" md5="a603f331d2d8700543a67c60342e38f7" sha1="719140754763e5062947ef9e76ee748cfad38202"/>
+	</game>
+	<game name="Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection)" id="3852">
+		<category>Games</category>
+		<description>Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection)</description>
+		<rom name="Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection).md" size="2097152" crc="92ed7344" md5="eadd7ba6a8e3afad2b7da85d52a44970" sha1="804b32ec216bdc1ca2aad33af7e4bd0a324d82f2" sha256="99f7ca2bb3e6fce9e9a9ee424e655a0637e4d8f4fdb3891ec9a6c654ddae7bfb"/>
 	</game>
 	<game name="Buck Rogers - Countdown to Doomsday (USA, Europe)" id="0231">
 		<category>Games</category>

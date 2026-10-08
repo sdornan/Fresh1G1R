@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,837) (-y) [-aAbBcefkmMoprv] (20261006-210209) (Retool)</description>
-		<version>20261006-210209</version>
-		<date>2026-10-07 08-30-54</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,838) (-y) [-aAbBcefkmMoprv] (20261007-215717) (Retool)</description>
+		<version>20261007-215717</version>
+		<date>2026-10-08 08-45-07</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8614,6 +8614,12 @@
 		<category>Games</category>
 		<description>Ultimate Stuntman, The (USA) (Unl)</description>
 		<rom name="Ultimate Stuntman, The (USA) (Unl).nes" size="262160" header="4e 45 53 1a 10 00 71 48 00 00 00 07 02 00 00 01" crc="648537dc" md5="0e3bb91f7e7a0e6e89b5bff29b29ef9e" sha1="1313d3c5824c866255f429ae8e62251ffb43cfd7" sha256="59a20a55ed86543218efb35a599d430134f27887d5b7a8d531212d8b9377630d"/>
+	</game>
+	<game name="Ultra League Soccer (USA) (Beta) (Unl)" id="8679">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Ultra League Soccer (USA) (Beta) (Unl)</description>
+		<rom name="Ultra League Soccer (USA) (Beta) (Unl).nes" size="98320" header="4e 45 53 1a 02 08 f0 48 00 00 00 00 00 00 00 01" crc="21cbb015" md5="39ce70da88113ed1aa0cecd96db18858" sha1="5b1d57813736e68037151ecc797f0ea37da7c264" sha256="9b0936de399094deec43d274e45a8be3281d03533ca66611c1680ffb73a57863"/>
 	</game>
 	<game name="Ultraman Club - Kaijuu Daikessen!! (Japan)" id="2404">
 		<category>Games</category>
