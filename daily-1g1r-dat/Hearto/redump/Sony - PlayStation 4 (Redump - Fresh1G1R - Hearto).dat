@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,922) (-y) [-aAbBcefkmMoprv] (2026-10-06 20-06-40) (Retool)</description>
-		<version>2026-10-06 20-06-40</version>
-		<date>2026-10-08 08-42-35</date>
+		<description>Sony - PlayStation 4 (1,923) (-y) [-aAbBcefkmMoprv] (2026-10-08 20-31-36) (Retool)</description>
+		<version>2026-10-08 20-31-36</version>
+		<date>2026-10-09 08-52-50</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5746,10 +5746,10 @@
 		<description>NBA 2K15 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh)</description>
 		<rom name="NBA 2K15 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh).iso" size="48219553792" crc="bc5893fb" md5="6c9bdeaf4f8cad0fccdef13430a6c607" sha1="cffd2fc3462c0623228e48f062739d73940dedec"/>
 	</game>
-	<game name="NBA 2K16 (USA) (En,Ja,Fr,De,Es,It,Zh)" id="58365">
+	<game name="NBA 2K16 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh,Pl)" id="58365">
 		<category>Games</category>
-		<description>NBA 2K16 (USA) (En,Ja,Fr,De,Es,It,Zh)</description>
-		<rom name="NBA 2K16 (USA) (En,Ja,Fr,De,Es,It,Zh).iso" size="45479886848" crc="a34bbda6" md5="8deaa3c4fddcbc935a4906fd9a9712d8" sha1="9d1c7608dea7775c8483c4a86e0bda16d690944e"/>
+		<description>NBA 2K16 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh,Pl)</description>
+		<rom name="NBA 2K16 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh,Pl).iso" size="45479886848" crc="a34bbda6" md5="8deaa3c4fddcbc935a4906fd9a9712d8" sha1="9d1c7608dea7775c8483c4a86e0bda16d690944e"/>
 	</game>
 	<game name="NBA 2K17 (USA, Japan) (En,Ja,Fr,De,Es,It,Zh)" id="39512">
 		<category>Games</category>
@@ -7300,6 +7300,11 @@
 		<category>Games</category>
 		<description>Rugby 20 (Japan)</description>
 		<rom name="Rugby 20 (Japan).iso" size="5883297792" crc="6626c123" md5="870674719777bb2659aa1706de0d62f3" sha1="d01bdec1783102e243ee419efdfb6348978b90fa"/>
+	</game>
+	<game name="Rugby 22 (Europe)" id="139229">
+		<category>Games</category>
+		<description>Rugby 22 (Europe)</description>
+		<rom name="Rugby 22 (Europe).iso" size="6274940928" crc="80e6cd16" md5="175afed3f1ed62ded12aa1f022636774" sha1="0c1fd5a74b9cdaddfce42f0429efaea521943dda"/>
 	</game>
 	<game name="Rugby League Live 3 (Australia)" id="136974">
 		<category>Games</category>

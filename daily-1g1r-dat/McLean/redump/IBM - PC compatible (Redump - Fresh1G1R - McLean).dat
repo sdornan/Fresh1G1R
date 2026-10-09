@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,599) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-08 08-20-57) (Retool)</description>
-		<version>2026-10-08 08-20-57</version>
-		<date>2026-10-08 08-46-37</date>
+		<description>IBM - PC compatible (13,600) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-08 23-51-36) (Retool)</description>
+		<version>2026-10-08 23-51-36</version>
+		<date>2026-10-09 08-54-50</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -13628,11 +13628,6 @@
 		<rom name="Casino Pack 1 (USA).bin" size="117647040" crc="283f242e" md5="98190b970f09920ac9421c7636037f0e" sha1="551b030a693be3f952ad49ae3637ac6b76f42239"/>
 		<rom name="Casino Pack 1 (USA).cue" size="108" crc="62ecfabb" md5="5ac845f837f67b2d4379f267fc3fe93d" sha1="88977b9914eb7c8b9dfa0dc251bed8b4ba6a681f"/>
 	</game>
-	<game name="Casino, Inc. (Russia) (En,Ru)" id="105999">
-		<category>Games</category>
-		<description>Casino, Inc. (Russia) (En,Ru)</description>
-		<rom name="Casino, Inc. (Russia) (En,Ru).iso" size="996573184" crc="7a8a5976" md5="97b35ec5067b16e5f683bb5e076ad212" sha1="7aa6349fb72514d990f71ef7448ce9358067748f"/>
-	</game>
 	<game name="Casper - The Interactive Adventure (USA)" id="136972">
 		<category>Games</category>
 		<description>Casper - The Interactive Adventure (USA)</description>
@@ -14460,11 +14455,11 @@
 		<rom name="Chessmaster 7000 (USA) (Disc 2).bin" size="700656096" crc="579a3d04" md5="2cd5124da4ab2e8a6e54f2ae3102d905" sha1="af26fe75adfee1b35419c93978078160b8819421"/>
 		<rom name="Chessmaster 7000 (USA) (Disc 2).cue" size="97" crc="1cda6ea0" md5="e8f3cdae137b71e00a9093150cf6ced9" sha1="7ae24f31fdeac4a2ca00d9d51adc13537a589946"/>
 	</game>
-	<game name="Chessmaster 8000 (Europe) (Disc 1)" id="41526">
+	<game name="Chessmaster 8000 (Europe) (Disc 1) (Rev 1)" id="139246">
 		<category>Games</category>
-		<description>Chessmaster 8000 (Europe) (Disc 1)</description>
-		<rom name="Chessmaster 8000 (Europe) (Disc 1).bin" size="645452304" crc="450258cb" md5="d19c419c04a1879383b96df6fe5390d0" sha1="9ffd968ba896ec58dccadd78543ffdc9c2fcb0d5"/>
-		<rom name="Chessmaster 8000 (Europe) (Disc 1).cue" size="100" crc="952333b6" md5="8f85aa793748935b4af2000518295775" sha1="c26a69857b1bbb9b17d550afe267b5aed176c337"/>
+		<description>Chessmaster 8000 (Europe) (Disc 1) (Rev 1)</description>
+		<rom name="Chessmaster 8000 (Europe) (Disc 1) (Rev 1).bin" size="652938720" crc="efdcc99a" md5="0f3e2890e13b506cc5fa335be2f89313" sha1="6447e811cbbbf6e74efd9557206fc4c4180672f4"/>
+		<rom name="Chessmaster 8000 (Europe) (Disc 1) (Rev 1).cue" size="108" crc="16e6938d" md5="10f22f445f347f4d50c3778d61ee6ebd" sha1="837cba4e70b8d60fb325b9c358b359e02886ee58"/>
 	</game>
 	<game name="Chessmaster 8000 (USA) (Disc 2)" id="132649">
 		<category>Games</category>
@@ -22176,6 +22171,12 @@
 		<rom name="Disney's Hot Shots - Disney's Tarzan Jungle Tumble (USA).bin" size="109280976" crc="3a443ced" md5="f1cf9bfd7607a1b449dcd3e43b7c2998" sha1="ea53a66f99c1123710efa8601f1cb4e443b6c563"/>
 		<rom name="Disney's Hot Shots - Disney's Tarzan Jungle Tumble (USA).cue" size="122" crc="0fe9b878" md5="9459bc38887301c54ca44b9f43a6796e" sha1="f26b44b3185306b09bb7f96d63130f4739172064"/>
 	</game>
+	<game name="Disney's Hot Shots - Tarzan Jungle Tumble &amp; Terk &amp; Tantor Power Lunch (UK)" id="139236">
+		<category>Games</category>
+		<description>Disney's Hot Shots - Tarzan Jungle Tumble &amp; Terk &amp; Tantor Power Lunch (UK)</description>
+		<rom name="Disney's Hot Shots - Tarzan Jungle Tumble &amp; Terk &amp; Tantor Power Lunch (UK).bin" size="215271504" crc="ece2ef3b" md5="93767abcaf37c20e8329b1fe923e91fd" sha1="7a5d39454413ddbc92c83e2f717ed932452494e2"/>
+		<rom name="Disney's Hot Shots - Tarzan Jungle Tumble &amp; Terk &amp; Tantor Power Lunch (UK).cue" size="140" crc="6156f066" md5="a5ccb765aaff176e0adf0a85d15eef50" sha1="06b10f8239103984f059be5759ba2a40c7861174"/>
+	</game>
 	<game name="Disney's Hot Shots - Terk &amp; Tantor Power Lunch (USA)" id="103721">
 		<category>Games</category>
 		<description>Disney's Hot Shots - Terk &amp; Tantor Power Lunch (USA)</description>
@@ -27310,6 +27311,17 @@
 		<description>Eville 3 Pack (USA)</description>
 		<rom name="Eville 3 Pack (USA).bin" size="542157168" crc="740e1bc4" md5="ef6855c1b7a22e2ff3d367923142aca8" sha1="a689f507aa6954264d7f81c5b657ccba512454c9"/>
 		<rom name="Eville 3 Pack (USA).cue" size="85" crc="ac16df72" md5="46621674f42570f41fae562f686b636d" sha1="ee773ea0f6a27475dba1cd1a10147af5354c0c11"/>
+	</game>
+	<game name="Evolution - The Game of Intelligent Life (USA)" id="139228">
+		<category>Games</category>
+		<description>Evolution - The Game of Intelligent Life (USA)</description>
+		<rom name="Evolution - The Game of Intelligent Life (USA) (Track 1).bin" size="478622592" crc="4c5ddd74" md5="406a65c75c0c12ecdef487e30ccda50d" sha1="8ed08246fd61820af7eccdc2954ab07f898550f2"/>
+		<rom name="Evolution - The Game of Intelligent Life (USA) (Track 2).bin" size="53253984" crc="3ddfa1b1" md5="498669fe7f15aa05a98dbeb52bf3a417" sha1="75088cca7aa8a53a53c83de3524bdfffcfd3e241"/>
+		<rom name="Evolution - The Game of Intelligent Life (USA) (Track 3).bin" size="53609136" crc="5f079990" md5="024b5b23f8f68e32da50c83e586fbe4f" sha1="0c2e72ecf0b7335a956edcc0c6516c27ddacd126"/>
+		<rom name="Evolution - The Game of Intelligent Life (USA) (Track 4).bin" size="25744992" crc="3915dddd" md5="3280e4eb2173b582b5b34a57905e8efa" sha1="c5c6fd53cc41d5f3dbdc4f64681d987249450ce4"/>
+		<rom name="Evolution - The Game of Intelligent Life (USA) (Track 5).bin" size="56991312" crc="699195b7" md5="14472765e2f95c112777d4834b995ea0" sha1="d9425bf1064df26c13f1cd00b884fd1730f020be"/>
+		<rom name="Evolution - The Game of Intelligent Life (USA) (Track 6).bin" size="57191232" crc="dfdfc65c" md5="96fa241d86889ee8bb31f033902a420a" sha1="33d385a8ff630b87d08bc0ef059f381c0f879d37"/>
+		<rom name="Evolution - The Game of Intelligent Life (USA).cue" size="753" crc="7331eab2" md5="3281437baf8e6680b18edeba29119b1f" sha1="7747ab15187986abdc90eee882970d82ce085885"/>
 	</game>
 	<game name="Evolution GT (Europe, Asia) (En,Fr,De,Es,It)" id="87821">
 		<category>Games</category>
@@ -42380,17 +42392,11 @@
 		<rom name="Jane's Combat Simulations - AH-64D Longbow FX (USA).bin" size="688703232" crc="b035b9c9" md5="2a99675fafe6bee1f794e3393c267db1" sha1="4f86e097268dc51334f4003bd25c6620bd212152"/>
 		<rom name="Jane's Combat Simulations - AH-64D Longbow FX (USA).cue" size="140" crc="ad650ccd" md5="239e1001a729ae5a0783555cde651369" sha1="ad003e734751ddf924889cbca53620ba941bb996"/>
 	</game>
-	<game name="Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA) (Rerelease)" id="132322">
+	<game name="Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA, Europe)" id="59010">
 		<category>Games</category>
-		<description>Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA) (Rerelease)</description>
-		<rom name="Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA) (Rerelease).bin" size="714909216" crc="dcfd1613" md5="d66216b5722b957d626d2249fa17c0a5" sha1="c68a6f93136dd3185be78e507431197a946a5c56"/>
-		<rom name="Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA) (Rerelease).cue" size="167" crc="f3a36de6" md5="ff5f032e3e60ea9fd90e1ad54d8413e8" sha1="a103a7a076ff2dbf402a541f1dd76b012e4955ed"/>
-	</game>
-	<game name="Jane's Combat Simulations - Advanced Tactical Fighters (USA, Europe)" id="59010">
-		<category>Games</category>
-		<description>Jane's Combat Simulations - Advanced Tactical Fighters (USA, Europe)</description>
-		<rom name="Jane's Combat Simulations - Advanced Tactical Fighters (USA, Europe).bin" size="526676304" crc="2c60260a" md5="c92574f61c50054c1023825c9c6e44be" sha1="6a4819a5cbaadb03dd23346d2d8aa225ac21b627"/>
-		<rom name="Jane's Combat Simulations - Advanced Tactical Fighters (USA, Europe).cue" size="134" crc="2ae00a0d" md5="d38415638854a88ad4f63cd9f3e2608c" sha1="5b7ad7320fee973c43f30eac8631189be72a4bb6"/>
+		<description>Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA, Europe)</description>
+		<rom name="Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA, Europe).bin" size="526676304" crc="2c60260a" md5="c92574f61c50054c1023825c9c6e44be" sha1="6a4819a5cbaadb03dd23346d2d8aa225ac21b627"/>
+		<rom name="Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA, Europe).cue" size="140" crc="25176821" md5="c066b4721504bf058e979a2abef96a4b" sha1="71f53073a0fc74ffa9c1f4a8133b679d699849ea"/>
 	</game>
 	<game name="Jane's Combat Simulations - Advanced Tactical Fighters Gold (USA)" id="12849">
 		<category>Games</category>
@@ -44877,6 +44883,11 @@
 		<category>Games</category>
 		<description>Koropokkur in Love - A Little Fairy's Tale (USA) (En,Ja)</description>
 		<rom name="Koropokkur in Love - A Little Fairy's Tale (USA) (En,Ja).iso" size="2683023360" crc="9222314e" md5="7c9afb61ab73b99d8170c379644f4b22" sha1="112e7dd454bb4d6a826f99268379cea2e6a085bf"/>
+	</game>
+	<game name="Korporaciya Kazino (Russia) (En,Ru)" id="105999">
+		<category>Games</category>
+		<description>Korporaciya Kazino (Russia) (En,Ru)</description>
+		<rom name="Korporaciya Kazino (Russia) (En,Ru).iso" size="996573184" crc="7a8a5976" md5="97b35ec5067b16e5f683bb5e076ad212" sha1="7aa6349fb72514d990f71ef7448ce9358067748f"/>
 	</game>
 	<game name="Koshan Conspiracy, The (USA, Europe) (En,De) (Rerelease)" id="2889">
 		<category>Games</category>
