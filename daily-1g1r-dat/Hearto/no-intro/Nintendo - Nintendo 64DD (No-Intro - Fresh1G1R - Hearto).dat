@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 64DD (Retool)</name>
-		<description>Nintendo - Nintendo 64DD (9) (-y) [-aAbBcefkmMoprv] (20260519-220433) (Retool)</description>
-		<version>20260519-220433</version>
-		<date>2026-10-08 08-45-42</date>
+		<description>Nintendo - Nintendo 64DD (9) (-y) [-aAbBcefkmMoprv] (20261010-010620) (Retool)</description>
+		<version>20261010-010620</version>
+		<date>2026-10-10 08-23-53</date>
 		<author>1988reload, Arctic Circle System, chillerecke, einstein95, Hiccup, relax, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -23,10 +23,10 @@
 		<description>F-Zero X - Expansion Kit (Japan)</description>
 		<rom name="F-Zero X - Expansion Kit (Japan).ndd" size="64931840" crc="78295a68" md5="cb2fb00c3921245ae04bb38ba01abe92" sha1="7e8badf857f1fce8aa59307c0fd318128c44418b" sha256="16b3cff9eef2b621207223c839a4e030c3c4f21a3c8da7eb15f4784cb73b200e"/>
 	</game>
-	<game name="Kyojin no Doshin (Japan)" id="0002">
+	<game name="Kyojin no Doshin 1 (Japan)" id="0002">
 		<category>Games</category>
-		<description>Kyojin no Doshin (Japan)</description>
-		<rom name="Kyojin no Doshin (Japan).ndd" size="64931840" crc="14acd221" md5="e8eb810d996e12cd6c47445f87a94c72" sha1="3e7eb70138213cc944952c4c659285f729b1fe1a" sha256="d9044b187c5545f8f791bafb8821c3dd365fb822cc6dc893b8792e8ecce56450"/>
+		<description>Kyojin no Doshin 1 (Japan)</description>
+		<rom name="Kyojin no Doshin 1 (Japan).ndd" size="64931840" crc="14acd221" md5="e8eb810d996e12cd6c47445f87a94c72" sha1="3e7eb70138213cc944952c4c659285f729b1fe1a" sha256="d9044b187c5545f8f791bafb8821c3dd365fb822cc6dc893b8792e8ecce56450"/>
 	</game>
 	<game name="Mario Artist - Communication Kit (Japan)" id="0005">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (840) (-ly) [-aAbBcdDefkmMopPruv] (20261007-131537) (Retool)</description>
-		<version>20261007-131537</version>
-		<date>2026-10-08 08-48-37</date>
+		<description>Sega - Mega Drive - Genesis (840) (-ly) [-aAbBcdDefkmMopPruv] (20261009-003527) (Retool)</description>
+		<version>20261009-003527</version>
+		<date>2026-10-10 08-28-48</date>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -331,15 +331,15 @@
 		<description>Battle Squadron (USA, Europe)</description>
 		<rom name="Battle Squadron (USA, Europe).md" size="524288" crc="0feaa8bf" md5="b5b815ef99b943fe0bad48dc13239b35" sha1="f003f7af0f7edccc317c944b88e57f4c9b66935a" sha256="42aa637a1a28921abbca77c30647ab99c5fc84ab3a55b7be04070efffb5f6481"/>
 	</game>
+	<game name="BattleTech - A Game of Armored Combat (USA)" id="0177">
+		<category>Games</category>
+		<description>BattleTech - A Game of Armored Combat (USA)</description>
+		<rom name="BattleTech - A Game of Armored Combat (USA).md" size="2097152" crc="409e5d14" md5="0e086b6f7a4e98ba909c2c7e6ae8fa80" sha1="ee22ae12053928b652f9b9f513499181b01c8429" sha256="a70d7224609fb97f752515a177dcc8a4f9e5d9530b3011373b093eb613b64e4e"/>
+	</game>
 	<game name="Battlemaster (USA)" id="0176">
 		<category>Games</category>
 		<description>Battlemaster (USA)</description>
 		<rom name="Battlemaster (USA).md" size="524288" crc="fd2b35e3" md5="52d741f606e1b783443bdecf6185c111" sha1="c27ad7070ec068cb2eb13a9e6bdfb3b70e55d4ad" sha256="1642a221e5e836fbf95e1a4f863ac07742596fe7763447636499da2f25bdbe48"/>
-	</game>
-	<game name="Battletech - A Game of Armored Combat (USA)" id="0177">
-		<category>Games</category>
-		<description>Battletech - A Game of Armored Combat (USA)</description>
-		<rom name="Battletech - A Game of Armored Combat (USA).md" size="2097152" crc="409e5d14" md5="0e086b6f7a4e98ba909c2c7e6ae8fa80" sha1="ee22ae12053928b652f9b9f513499181b01c8429" sha256="a70d7224609fb97f752515a177dcc8a4f9e5d9530b3011373b093eb613b64e4e"/>
 	</game>
 	<game name="Battletoads (World)" id="0179">
 		<category>Games</category>

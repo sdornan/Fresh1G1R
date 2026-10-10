@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - RingEdge (Retool)</name>
-		<description>Arcade - Sega - RingEdge (26) (-y) [-aAbBcefkmMoprv] (2026-08-13 18-09-36) (Retool)</description>
-		<version>2026-08-13 18-09-36</version>
-		<date>2026-10-09 08-51-45</date>
+		<description>Arcade - Sega - RingEdge (27) (-y) [-aAbBcefkmMoprv] (2026-10-10 01-01-39) (Retool)</description>
+		<version>2026-10-10 01-01-39</version>
+		<date>2026-10-10 08-21-55</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -140,5 +140,10 @@
 		<category>Games</category>
 		<description>World Club Champion Football - Intercontinental Clubs 2011-2012 (Japan)</description>
 		<rom name="World Club Champion Football - Intercontinental Clubs 2011-2012 (Japan).iso" size="5918687232" crc="f81708bf" md5="cf0ecd014fde2c9e3f7b33c2c43fdc24" sha1="26370689d3a98c899088e7659531a38dea9f6d4f"/>
+	</game>
+	<game name="World Club Champion Football 2017-2018 (Japan) (Rev A)" id="139272">
+		<category>Games</category>
+		<description>World Club Champion Football 2017-2018 (Japan) (Rev A)</description>
+		<rom name="World Club Champion Football 2017-2018 (Japan) (Rev A).iso" size="5921865728" crc="f1cdff87" md5="9596c397ec37405a9e89e6b6ab76737a" sha1="39ef1470aeec8b28acfe63aab692178ebb54cf63"/>
 	</game>
 </datafile>

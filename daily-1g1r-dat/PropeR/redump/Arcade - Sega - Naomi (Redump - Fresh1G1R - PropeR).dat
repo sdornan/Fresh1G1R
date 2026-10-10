@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi (Retool)</name>
-		<description>Arcade - Sega - Naomi (27) (-y) [-aAbBcdkmMpPuv] (2026-10-07 01-13-43) (Retool)</description>
-		<version>2026-10-07 01-13-43</version>
-		<date>2026-10-09 09-02-19</date>
+		<description>Arcade - Sega - Naomi (29) (-y) [-aAbBcdkmMpPuv] (2026-10-09 18-12-59) (Retool)</description>
+		<version>2026-10-09 18-12-59</version>
+		<date>2026-10-10 08-33-40</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -90,6 +90,14 @@
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja) (Track 2).bin" size="5402544" crc="06f772c0" md5="7a9fe426c4050c8ed38254fa5630510c" sha1="496a35c83435f4558ced39cc66742df3ef14422b"/>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja) (Track 3).bin" size="1185760800" crc="8c28f0c2" md5="698cb726e6c596290989309508c9fe80" sha1="af0d68e7ce492d1be8a629a2670846c43d486cd2"/>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja).cue" size="717" crc="55c291b6" md5="8c790cd47b64a82dd5f9280da230335d" sha1="6aef4199596c1b1dae0609b853f4def2c171bd4d"/>
+	</game>
+	<game name="Kuru Kuru Chameleon (Japan)" id="139264">
+		<category>Games</category>
+		<description>Kuru Kuru Chameleon (Japan)</description>
+		<rom name="Kuru Kuru Chameleon (Japan) (Track 1).bin" size="705600" crc="8990b3c2" md5="95670475883689f7b2ce7e1e0e6ec5a5" sha1="c72953ad2c57cbaef2ec73f95d13151910d57987"/>
+		<rom name="Kuru Kuru Chameleon (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Kuru Kuru Chameleon (Japan) (Track 3).bin" size="1185760800" crc="bf716c3e" md5="93d800acc400976cecd94d26400b874f" sha1="0020307cbd42e662f57e16ca8f69cb9cf01a175b"/>
+		<rom name="Kuru Kuru Chameleon (Japan).cue" size="375" crc="4cea89d5" md5="27866105aa878322761ca4004699c96f" sha1="894b93f76f6b98ba7278db28fc7d53013344df4d"/>
 	</game>
 	<game name="Maze of the Kings, The (World) (En,Ja)" id="69439">
 		<category>Games</category>
@@ -218,6 +226,14 @@
 		<rom name="Tetris Kiwamemichi (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Tetris Kiwamemichi (Japan) (Track 3).bin" size="1185760800" crc="735e94eb" md5="615d04f8b8c900e71d5ee18eba093d41" sha1="d9484f89c52ff762838159b280b6eb9293a35b8b"/>
 		<rom name="Tetris Kiwamemichi (Japan).cue" size="372" crc="e884ba31" md5="94dfe586a032c6744bc08032dacc72e7" sha1="c8fedaa1fd84eac936c84ac54ce8f89c48ea744f"/>
+	</game>
+	<game name="TriggerHeart Exelica (Japan) (Rev A)" id="139260">
+		<category>Games</category>
+		<description>TriggerHeart Exelica (Japan) (Rev A)</description>
+		<rom name="TriggerHeart Exelica (Japan) (Rev A) (Track 1).bin" size="2961168" crc="59b0f2eb" md5="a02f69e423941d9fc4d54595b384ac70" sha1="b7bd955bb21240e4893c9dcb1e46d5b1e44ca46a"/>
+		<rom name="TriggerHeart Exelica (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="TriggerHeart Exelica (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="02c0f7d9" md5="928d6bf7fa0afc2e9402ade567b5fca7" sha1="39a567bed73ed520105503975420362fa23e3621"/>
+		<rom name="TriggerHeart Exelica (Japan) (Rev A).cue" size="402" crc="72a777d0" md5="9d11367a1dfe69cc8b92c3bedf16cf67" sha1="36191b524751e4a86b33ad2aaedbce1def1f741f"/>
 	</game>
 	<game name="Virtua Athletics ~ Virtua Athlete (World)" id="75447">
 		<category>Games</category>

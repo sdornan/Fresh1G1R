@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,600) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-08 23-51-36) (Retool)</description>
-		<version>2026-10-08 23-51-36</version>
-		<date>2026-10-09 08-54-50</date>
+		<description>IBM - PC compatible (13,601) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-10 07-31-49) (Retool)</description>
+		<version>2026-10-10 07-31-49</version>
+		<date>2026-10-10 08-26-38</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -21853,6 +21853,12 @@
 		<category>Games</category>
 		<description>Disney Planes (Scandinavia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
 		<rom name="Disney Planes (Scandinavia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso" size="6022987776" crc="f5c06f58" md5="ad3b1c82f78e37eb8dac530287a116fe" sha1="c314abd5eab1e1d8d29c921321c8f0a287e4b9d5"/>
+	</game>
+	<game name="Disney Presents - The Little Mermaid's Story Studio (UK)" id="139265">
+		<category>Games</category>
+		<description>Disney Presents - The Little Mermaid's Story Studio (UK)</description>
+		<rom name="Disney Presents - The Little Mermaid's Story Studio (UK).bin" size="732937296" crc="6b05db8a" md5="d1a9b8e06769a83d717a86f8f1471ad6" sha1="ea90e0d559c50695eb3a4e6a522bc1e1036946ca"/>
+		<rom name="Disney Presents - The Little Mermaid's Story Studio (UK).cue" size="122" crc="5a67bc16" md5="b29bad6a20781c62337dd2785d58a0a5" sha1="3a2e77dd83da82b3965c61e845160b61806f6037"/>
 	</game>
 	<game name="Disney Presents Ariel's Story Studio (USA) (Alt 2)" id="135698">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,432) (-y) [-aAbBcefkmMoprv] (2026-10-08 23-51-36) (Retool)</description>
-		<version>2026-10-08 23-51-36</version>
-		<date>2026-10-09 08-49-26</date>
+		<description>IBM - PC compatible (26,434) (-y) [-aAbBcefkmMoprv] (2026-10-10 07-31-49) (Retool)</description>
+		<version>2026-10-10 07-31-49</version>
+		<date>2026-10-10 08-20-35</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -41221,6 +41221,12 @@
 		<category>Games</category>
 		<description>Disney Planes (Scandinavia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
 		<rom name="Disney Planes (Scandinavia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso" size="6022987776" crc="f5c06f58" md5="ad3b1c82f78e37eb8dac530287a116fe" sha1="c314abd5eab1e1d8d29c921321c8f0a287e4b9d5"/>
+	</game>
+	<game name="Disney Presents - The Little Mermaid's Story Studio (UK)" id="139265">
+		<category>Games</category>
+		<description>Disney Presents - The Little Mermaid's Story Studio (UK)</description>
+		<rom name="Disney Presents - The Little Mermaid's Story Studio (UK).bin" size="732937296" crc="6b05db8a" md5="d1a9b8e06769a83d717a86f8f1471ad6" sha1="ea90e0d559c50695eb3a4e6a522bc1e1036946ca"/>
+		<rom name="Disney Presents - The Little Mermaid's Story Studio (UK).cue" size="122" crc="5a67bc16" md5="b29bad6a20781c62337dd2785d58a0a5" sha1="3a2e77dd83da82b3965c61e845160b61806f6037"/>
 	</game>
 	<game name="Disney Presents Ariel's Story Studio (USA) (Alt 2)" id="135698">
 		<category>Games</category>
@@ -146913,10 +146919,10 @@
 		<description>Sims 4, The - Get Together (Expansion Pack) (Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs)</description>
 		<rom name="Sims 4, The - Get Together (Expansion Pack) (Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs).iso" size="1759117312" crc="38055b44" md5="110615ab5dee2768c25f96f3521d1155" sha1="600d19af70786d01fea96cdfd2fcb50947bd715e"/>
 	</game>
-	<game name="Sims 4, The - Get to Work (Expansion Pack) (USA, Australia)" id="52869">
+	<game name="Sims 4, The - Get to Work (Expansion Pack) (World)" id="52869">
 		<category>Add-Ons</category>
-		<description>Sims 4, The - Get to Work (Expansion Pack) (USA, Australia)</description>
-		<rom name="Sims 4, The - Get to Work (Expansion Pack) (USA, Australia).iso" size="1722417152" crc="f33f9034" md5="40d9cdd47668a5deb5194d8af885596a" sha1="866f9d15d41c0028f8910e4c1041cc6c9e8bbd04"/>
+		<description>Sims 4, The - Get to Work (Expansion Pack) (World)</description>
+		<rom name="Sims 4, The - Get to Work (Expansion Pack) (World).iso" size="1722417152" crc="f33f9034" md5="40d9cdd47668a5deb5194d8af885596a" sha1="866f9d15d41c0028f8910e4c1041cc6c9e8bbd04"/>
 	</game>
 	<game name="Sims 4, The - Island Living (USA) (En,Es)" id="85680">
 		<category>Add-Ons</category>
@@ -167998,6 +168004,12 @@
 		<rom name="Tropix! (USA).bin" size="772455600" crc="0444acd9" md5="be0705e37623824af2b90509d3279c96" sha1="6829b973d01519175a38374af52addafafec339a"/>
 		<rom name="Tropix! (USA).cue" size="79" crc="99d9275c" md5="0f7468526607962668487cf4324fdd1f" sha1="f9073b1ed0d32b5e2ec1dc01a67b2a8882ac84b8"/>
 	</game>
+	<game name="Trot Road (Japan)" id="139259">
+		<category>Games</category>
+		<description>Trot Road (Japan)</description>
+		<rom name="Trot Road (Japan).bin" size="30615984" crc="2156e526" md5="7476e7e2939067353ed58a1c460110e8" sha1="5d234900d0f53ad6ce67782e755a3139e183b860"/>
+		<rom name="Trot Road (Japan).cue" size="106" crc="d0453750" md5="706188ac5a7247542175e55e1eeaf8ec" sha1="0bd5c53ccbd482620ecb63d118f6d7d115740fe1"/>
+	</game>
 	<game name="Trouble Spiral! &amp; Taiyou no Promia - Trial Edition (Japan)" id="28999">
 		<category>Demos</category>
 		<description>Trouble Spiral! &amp; Taiyou no Promia - Trial Edition (Japan)</description>
@@ -169708,11 +169720,11 @@
 		<rom name="Ultima IX - Ascension (France) (Disc 2) (CD de jeu).bin" size="714989184" crc="abb24a3c" md5="51f3637964c388b1ce237d302c6f6c47" sha1="72a6042ce40e6b48ce320142af8a1c5d8597d65e"/>
 		<rom name="Ultima IX - Ascension (France) (Disc 2) (CD de jeu).cue" size="117" crc="e0c8a543" md5="c76e695d6979391299e37cfdaacd2892" sha1="891fb3fb025654b032a922628f832943e3a34827"/>
 	</game>
-	<game name="Ultima IX - Ascension (Germany) (Installations-CD) (Rerelease)" id="43889">
+	<game name="Ultima IX - Ascension (Germany) (Installations-CD)" id="43889">
 		<category>Games</category>
-		<description>Ultima IX - Ascension (Germany) (Installations-CD) (Rerelease)</description>
-		<rom name="Ultima IX - Ascension (Germany) (Installations-CD) (Rerelease).bin" size="610826160" crc="f9fd63f0" md5="23676c634601192faf024b66a81ea6fb" sha1="ee1966d1290dbad9ed73c9c7b0aba74dffdc29d0"/>
-		<rom name="Ultima IX - Ascension (Germany) (Installations-CD) (Rerelease).cue" size="128" crc="a3bfb0dc" md5="dd8061944010d548a2503b4c1557c18a" sha1="425f42f2d2ee41025bf421b0ee636a1f6295bed0"/>
+		<description>Ultima IX - Ascension (Germany) (Installations-CD)</description>
+		<rom name="Ultima IX - Ascension (Germany) (Installations-CD).bin" size="610826160" crc="f9fd63f0" md5="23676c634601192faf024b66a81ea6fb" sha1="ee1966d1290dbad9ed73c9c7b0aba74dffdc29d0"/>
+		<rom name="Ultima IX - Ascension (Germany) (Installations-CD).cue" size="116" crc="89660589" md5="363370d4fbaeaca9e1fcd5514a533c95" sha1="26d4daa460ca6a94d91e46b0ccd389e468bc12e2"/>
 	</game>
 	<game name="Ultima IX - Ascension (Germany) (Spiel-CD) (Rerelease)" id="43890">
 		<category>Games</category>
@@ -179702,17 +179714,17 @@
 		<rom name="Wooden Ships &amp; Iron Men (USA).bin" size="108072048" crc="403dcd4f" md5="72099669a67c9b670dc39d3a19c0ea85" sha1="1390c46c905f751b5f5c14fcfbb99a40433576f4"/>
 		<rom name="Wooden Ships &amp; Iron Men (USA).cue" size="118" crc="e1502133" md5="52cd502d5fca40d0d960775d8389b10a" sha1="1b40e109c1803269b87318be1ec0ef42a9bb6750"/>
 	</game>
-	<game name="Woodii (Sweden) (1A)" id="133906">
-		<category>Games</category>
-		<description>Woodii (Sweden) (1A)</description>
-		<rom name="Woodii (Sweden) (1A).bin" size="756541968" crc="e2fcf07e" md5="8cc1eaff936f77abf99ec6e54e29bff7" sha1="dbbabd8b76fed0ba784c29de165e3661320b8cde"/>
-		<rom name="Woodii (Sweden) (1A).cue" size="86" crc="8638e95e" md5="41b580cd83ca28e949bca8e0207c415d" sha1="f6762152e8c70e2a7d12bcd676d88ba964389045"/>
-	</game>
 	<game name="Woodii - Kanot Racer (Sweden)" id="112264">
 		<category>Games</category>
 		<description>Woodii - Kanot Racer (Sweden)</description>
 		<rom name="Woodii - Kanot Racer (Sweden).bin" size="22501584" crc="39b26414" md5="1f016832c3b24855c8ba69ff17921b52" sha1="339faba751d0e20f169b8924eabc69c8a5eed5ed"/>
 		<rom name="Woodii - Kanot Racer (Sweden).cue" size="95" crc="f1ab998a" md5="cd5b9163e021c1e1586c3211912b699e" sha1="7887208c8fdf6534d691bac06888f6a5a358ad11"/>
+	</game>
+	<game name="Woodii - Serie 1 (Sweden) (Sv,No,Da,Fi) (1A)" id="133906">
+		<category>Games</category>
+		<description>Woodii - Serie 1 (Sweden) (Sv,No,Da,Fi) (1A)</description>
+		<rom name="Woodii - Serie 1 (Sweden) (Sv,No,Da,Fi) (1A).bin" size="756541968" crc="e2fcf07e" md5="8cc1eaff936f77abf99ec6e54e29bff7" sha1="dbbabd8b76fed0ba784c29de165e3661320b8cde"/>
+		<rom name="Woodii - Serie 1 (Sweden) (Sv,No,Da,Fi) (1A).cue" size="110" crc="9c054961" md5="cb1b5a722f42892aebb7ab63fd546589" sha1="c3bbbf4c803fd05b593fc390bd2962bb94314e63"/>
 	</game>
 	<game name="Woodii - Snowboard (Sweden)" id="123548">
 		<category>Games</category>

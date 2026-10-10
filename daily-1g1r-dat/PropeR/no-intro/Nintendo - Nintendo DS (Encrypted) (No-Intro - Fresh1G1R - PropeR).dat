@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,716) (-y) [-aAbBcdkmMpPuv] (20261006-003425) (Retool)</description>
-		<version>20261006-003425</version>
-		<date>2026-10-08 08-55-42</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,716) (-y) [-aAbBcdkmMpPuv] (20261008-143945) (Retool)</description>
+		<version>20261008-143945</version>
+		<date>2026-10-10 08-34-48</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1529,7 +1529,7 @@
 	<game name="Bibi Blocksberg - Das Gestohlene Hexbuch (Germany)" id="4288">
 		<category>Games</category>
 		<description>Bibi Blocksberg - Das Gestohlene Hexbuch (Germany)</description>
-		<rom name="Bibi Blocksberg - Das Gestohlene Hexbuch (Germany).nds" size="33554432" crc="ff8588ec" md5="d55f4e52e789656a83a3a9fa77d2307d" sha1="c58fcedeb9e3d72bfe3bacb3f4137d587f157f9e"/>
+		<rom name="Bibi Blocksberg - Das Gestohlene Hexbuch (Germany).nds" size="33554432" crc="ff8588ec" md5="d55f4e52e789656a83a3a9fa77d2307d" sha1="c58fcedeb9e3d72bfe3bacb3f4137d587f157f9e" sha256="3302634cd47582a153c9128f8129ef5cb5a60830f8c48ebf854ad00276ecfd38"/>
 	</game>
 	<game name="Bibi Blocksberg - Der Verhexte Schloss-Schatz (Germany)" id="6080">
 		<category>Games</category>
@@ -3014,7 +3014,7 @@
 	<game name="Crazy School Games (Europe) (En,Fr,De,Es,It)" id="4018">
 		<category>Games</category>
 		<description>Crazy School Games (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Crazy School Games (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="c9fdb926" md5="3b5e85e4d2fdbdbcf60ccee014745f6b" sha1="f8241f2b370fbd535ee41856402dd04a6d9fe2ce"/>
+		<rom name="Crazy School Games (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="c9fdb926" md5="3b5e85e4d2fdbdbcf60ccee014745f6b" sha1="f8241f2b370fbd535ee41856402dd04a6d9fe2ce" sha256="e1090dffaa9150dbecb35cae05bac8f31415a8c1a34c9de76653aea64350353a"/>
 	</game>
 	<game name="Crime Lab - Body of Evidence (USA) (En,Fr,Es) (NDSi Enhanced)" id="5760">
 		<category>Games</category>
@@ -8642,10 +8642,11 @@
 		<description>Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Europe) (De,Tr) (Rev 1)</description>
 		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Europe) (De,Tr) (Rev 1).nds" size="67108864" crc="4f28f5db" md5="54dcd38f999a0990cedb6599320cd038" sha1="860dbcd1c4bfa0d7d9e1938b8fc3e2bd2d8ed516"/>
 	</game>
-	<game name="Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Europe) (De,Tr)" id="6239">
+	<game name="Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Germany) (De,Tr)" id="6239">
+		<category>Educational</category>
 		<category>Games</category>
-		<description>Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Europe) (De,Tr)</description>
-		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Europe) (De,Tr).nds" size="16777216" crc="7ed640f6" md5="fe0fa71b9db7bf98b862191d90015f4d" sha1="7eb04029472f2581fe3d2c03222b9fcea2fee124" sha256="3f1bc1d0eb874cb62780416aff7f2d3213af635ba291b18f8f3451b3cd4aa4ab"/>
+		<description>Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Germany) (De,Tr)</description>
+		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Germany) (De,Tr).nds" size="16777216" crc="7ed640f6" md5="fe0fa71b9db7bf98b862191d90015f4d" sha1="7eb04029472f2581fe3d2c03222b9fcea2fee124" sha256="3f1bc1d0eb874cb62780416aff7f2d3213af635ba291b18f8f3451b3cd4aa4ab"/>
 	</game>
 	<game name="Lernerfolg Grundschule - Englisch - Der Vokabeltrainer (Europe) (Fr,De,Es,It,Tr)" id="5352">
 		<category>Games</category>
@@ -9265,7 +9266,7 @@
 	<game name="Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It)" id="2546">
 		<category>Games</category>
 		<description>Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="97616ab9" md5="b30c9253c4ba72b1d6b14622e4b48026" sha1="293aa1d70d07f62950f21234792bba81f122fc34"/>
+		<rom name="Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="97616ab9" md5="b30c9253c4ba72b1d6b14622e4b48026" sha1="293aa1d70d07f62950f21234792bba81f122fc34" sha256="5a2ea1d18c847e424eeda7b1c5c75fc0e0a3bcbc7c0aa1c37a0b9f613da60571"/>
 	</game>
 	<game name="Mahjong Haou DS - Dan-Kyuu Battle (Japan)" id="4884">
 		<category>Games</category>
@@ -11190,7 +11191,7 @@
 	<game name="Natalie Brooks - Mystery at Hillcrest High (Europe) (En,Fr,De,Es,It,Nl)" id="5861">
 		<category>Games</category>
 		<description>Natalie Brooks - Mystery at Hillcrest High (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Natalie Brooks - Mystery at Hillcrest High (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="8601cc8e" md5="a2f0bed4212f68d880f20818a2b8af10" sha1="b28da5ed2907a70db746f751a3ddaa835f30f8d7"/>
+		<rom name="Natalie Brooks - Mystery at Hillcrest High (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="8601cc8e" md5="a2f0bed4212f68d880f20818a2b8af10" sha1="b28da5ed2907a70db746f751a3ddaa835f30f8d7" sha256="d6ec5469ef2cb1f7c978b4e25bb66fd6eb837f48ffcf91bbe5d4dd400ce40d3c"/>
 	</game>
 	<game name="Natalie Brooks - The Treasures of the Lost Kingdom (Europe) (En,Fr,De,Nl)" id="5785">
 		<category>Games</category>

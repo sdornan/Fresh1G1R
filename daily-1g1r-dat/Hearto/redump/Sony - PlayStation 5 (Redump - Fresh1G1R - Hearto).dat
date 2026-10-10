@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (371) (-y) [-aAbBcefkmMoprv] (2026-10-09 02-01-36) (Retool)</description>
-		<version>2026-10-09 02-01-36</version>
-		<date>2026-10-09 08-52-54</date>
+		<description>Sony - PlayStation 5 (372) (-y) [-aAbBcefkmMoprv] (2026-10-10 07-33-24) (Retool)</description>
+		<version>2026-10-10 07-33-24</version>
+		<date>2026-10-10 08-22-34</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -300,6 +300,11 @@
 		<category>Games</category>
 		<description>Cult of the Lamb (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Ru)</description>
 		<rom name="Cult of the Lamb (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Ru).iso" size="40008351744" crc="8c2f1695" md5="f921a94154f445bf0e88647d72f79f5b" sha1="aab761c87f04df23ad4bbeee85b39368eb1fc949"/>
+	</game>
+	<game name="Cyberpunk 2077 - Ultimate Edition (USA)" id="139282">
+		<category>Games</category>
+		<description>Cyberpunk 2077 - Ultimate Edition (USA)</description>
+		<rom name="Cyberpunk 2077 - Ultimate Edition (USA).iso" size="97409761280" crc="3db7544c" md5="10ae8348a8a966252bde13ec90a30b6d" sha1="833ae0ec9e039daf8071fe2e95f634d2e1aeac63"/>
 	</game>
 	<game name="Daemon X Machina - Titanic Scion (Japan)" id="136737">
 		<category>Games</category>

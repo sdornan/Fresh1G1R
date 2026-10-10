@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (977) (-y) [-aAbBcefkmMoprv] (20261006-193815) (Retool)</description>
-		<version>20261006-193815</version>
-		<date>2026-10-08 08-43-55</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (977) (-y) [-aAbBcefkmMoprv] (20261010-000651) (Retool)</description>
+		<version>20261010-000651</version>
+		<date>2026-10-10 08-25-20</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -237,7 +237,7 @@
 		<category>Games</category>
 		<description>Angry Birds Trilogy (USA) (En,Fr)</description>
 		<game_id>00040000000AE200</game_id>
-		<rom name="Angry Birds Trilogy (USA) (En,Fr).3ds" size="268435456" crc="d02a1beb" md5="2626986dab08e0d807525c1335202371" sha1="e28d4c2454371c68171b91d1e41ba4818ef36f32"/>
+		<rom name="Angry Birds Trilogy (USA) (En,Fr).3ds" size="268435456" crc="d02a1beb" md5="2626986dab08e0d807525c1335202371" sha1="e28d4c2454371c68171b91d1e41ba4818ef36f32" sha256="6f2bc85a0c3f839932e6ed24bd3b3b80950bfcf525cc0a98a41dae44b82ec5fb"/>
 	</game>
 	<game name="Animal Crossing - Happy Home Designer (USA) (En,Fr,Es) (Rev 1)" id="z008">
 		<category>Games</category>
@@ -285,7 +285,7 @@
 		<category>Games</category>
 		<description>Arcade Classics 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000006A700</game_id>
-		<rom name="Arcade Classics 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="a54d7f42" md5="f6d3466d15153ada53a5be14b05dafa2" sha1="ba810e3cbab6299ed64a5efdaedc9b7cbc4ada82"/>
+		<rom name="Arcade Classics 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="a54d7f42" md5="f6d3466d15153ada53a5be14b05dafa2" sha1="ba810e3cbab6299ed64a5efdaedc9b7cbc4ada82" sha256="bd9a47624764832648ad26e9a5901cc55c25be2f05c8692c5b67fd37c3cebe9b"/>
 	</game>
 	<game name="Are You Smarter than a 5th Grader (USA)" id="1354">
 		<category>Games</category>
@@ -2717,6 +2717,7 @@
 	</game>
 	<game name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x020">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000038300</game_id>
 		<rom name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="536870912" crc="ac42305b" md5="c37b67eff1d3aad82bf9433439661948" sha1="03f86fb9309e3d789d27bce3b921c7962de7b431"/>
@@ -2795,6 +2796,7 @@
 	</game>
 	<game name="Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x028">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000057400</game_id>
 		<rom name="Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="268435456" crc="177a6ff7" md5="a6ad17632939eda3f3cc57f1890f412f" sha1="b46518b88e3575225e2c1f8b7df5c7ae15d4b16e" sha256="dd30a67f0d5ed4d60885e40145560e3aebf6ae4791038dad4f39ae96b9d19857"/>
@@ -2975,6 +2977,7 @@
 	</game>
 	<game name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x015">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000104D00</game_id>
 		<rom name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="268435456" crc="2083f25f" md5="78c00334ca5ed79856c56432d5b7c810" sha1="99f16ed1a88dd67240a42a0d95f1925c632a9993"/>

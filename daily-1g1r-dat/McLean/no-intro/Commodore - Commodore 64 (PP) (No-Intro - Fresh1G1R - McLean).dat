@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (PP) (Retool)</name>
-		<description>Commodore - Commodore 64 (PP) (1,203) (-ly) [-aAbBcdDefkmMopPruv] (20260430-075802) (Retool)</description>
-		<version>20260430-075802</version>
-		<date>2026-10-08 08-49-58</date>
+		<description>Commodore - Commodore 64 (PP) (1,203) (-ly) [-aAbBcdDefkmMopPruv] (20261009-004230) (Retool)</description>
+		<version>20261009-004230</version>
+		<date>2026-10-10 08-29-18</date>
 		<author>C. V. Reynolds, EggmanPEI, nnssxx, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -659,6 +659,18 @@
 		<description>BattleDroidz (USA, Europe)</description>
 		<rom name="BattleDroidz (USA, Europe).nib" size="336128" crc="29533855" md5="eb17cd22dc4c5a67b371b4adc154f4dc" sha1="bba0aa8469448b10a087f71d610e85df280aaceb"/>
 	</game>
+	<game name="BattleTech - The Crescent Hawk's Inception (USA, Europe)" id="0406">
+		<category>Games</category>
+		<description>BattleTech - The Crescent Hawk's Inception (USA, Europe)</description>
+		<rom name="BattleTech - The Crescent Hawk's Inception (USA, Europe) (Side 1).nib" size="336128" crc="0e41d76f" md5="74617ed8766c5cc524a001faca548a91" sha1="e55b5bbc9c3fbc02777e37f75f350ad9a23c5d13"/>
+		<rom name="BattleTech - The Crescent Hawk's Inception (USA, Europe) (Side 2).nib" size="336128" crc="37c06e36" md5="72afc76a7a3fd8bb729175f3ab4b8096" sha1="b6bf28f7d25c6acb33ba11253c307b79a9b8f34f"/>
+	</game>
+	<game name="BattleTech - The Crescent Hawk's Inception (USA, Europe) (Power Hits Compilation)" id="0407">
+		<category>Games</category>
+		<description>BattleTech - The Crescent Hawk's Inception (USA, Europe) (Power Hits Compilation)</description>
+		<rom name="BattleTech - The Crescent Hawk's Inception (USA, Europe) (Power Hits Compilation) (Side 1).nib" size="336128" crc="0e41d76f" md5="74617ed8766c5cc524a001faca548a91" sha1="e55b5bbc9c3fbc02777e37f75f350ad9a23c5d13"/>
+		<rom name="BattleTech - The Crescent Hawk's Inception (USA, Europe) (Power Hits Compilation) (Side 2).nib" size="336128" crc="d4abe375" md5="27cd97219e44342c6e6f52fe90e32688" sha1="467c134463109ca80a5eb5d4072a70cb4a4f23db"/>
+	</game>
 	<game name="Battlefront - Corps Level Command in World War II (USA, Europe)" id="0404">
 		<category>Games</category>
 		<description>Battlefront - Corps Level Command in World War II (USA, Europe)</description>
@@ -668,18 +680,6 @@
 		<category>Games</category>
 		<description>Battleship (USA, Europe)</description>
 		<rom name="Battleship (USA, Europe).nib" size="327936" crc="9cd9e020" md5="ed28615ba65ba5678c6814c79c5d0414" sha1="40eb063d8ba1c3113bf15d24f155105af690e398"/>
-	</game>
-	<game name="Battletech (USA, Europe)" id="0406">
-		<category>Games</category>
-		<description>Battletech (USA, Europe)</description>
-		<rom name="Battletech (USA, Europe) (Side 1).nib" size="336128" crc="0e41d76f" md5="74617ed8766c5cc524a001faca548a91" sha1="e55b5bbc9c3fbc02777e37f75f350ad9a23c5d13"/>
-		<rom name="Battletech (USA, Europe) (Side 2).nib" size="336128" crc="37c06e36" md5="72afc76a7a3fd8bb729175f3ab4b8096" sha1="b6bf28f7d25c6acb33ba11253c307b79a9b8f34f"/>
-	</game>
-	<game name="Battletech (USA, Europe) (Power Hits Compilation)" id="0407">
-		<category>Games</category>
-		<description>Battletech (USA, Europe) (Power Hits Compilation)</description>
-		<rom name="Battletech (USA, Europe) (Power Hits Compilation) (Side 1).nib" size="336128" crc="0e41d76f" md5="74617ed8766c5cc524a001faca548a91" sha1="e55b5bbc9c3fbc02777e37f75f350ad9a23c5d13"/>
-		<rom name="Battletech (USA, Europe) (Power Hits Compilation) (Side 2).nib" size="336128" crc="d4abe375" md5="27cd97219e44342c6e6f52fe90e32688" sha1="467c134463109ca80a5eb5d4072a70cb4a4f23db"/>
 	</game>
 	<game name="Bazooka Bill (USA)" id="0409">
 		<category>Games</category>

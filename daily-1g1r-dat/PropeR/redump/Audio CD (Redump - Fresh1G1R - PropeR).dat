@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Audio CD (Retool)</name>
-		<description>Audio CD (2,398) (-y) [-aAbBcdkmMpPuv] (2026-10-08 21-01-36) (Retool)</description>
-		<version>2026-10-08 21-01-36</version>
-		<date>2026-10-09 08-58-44</date>
+		<description>Audio CD (2,399) (-y) [-aAbBcdkmMpPuv] (2026-10-10 08-11-36) (Retool)</description>
+		<version>2026-10-10 08-11-36</version>
+		<date>2026-10-10 08-31-37</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5363,6 +5363,16 @@
 		<rom name="Burning Rangers Theme Song CD (Japan) (SS Game Bundle) (Track 2).bin" size="48891024" crc="8ba57b13" md5="970fee0f427c9406fc67147509d20b0f" sha1="48cb37bb03a8903bec8dfe749d9fb87d8e425a86"/>
 		<rom name="Burning Rangers Theme Song CD (Japan) (SS Game Bundle) (Track 3).bin" size="45480624" crc="eb5e2556" md5="6fc4e2e2155a084777a0af1a40c071f6" sha1="2d12c79d4d15a799cd06436e21af393b8b69f716"/>
 		<rom name="Burning Rangers Theme Song CD (Japan) (SS Game Bundle).cue" size="467" crc="abd7fbd7" md5="e7fd4331ab7ad2a0b5e99d16c565bbc3" sha1="8c9371c002efd15ea64fc4b3bf4e2353883974f3"/>
+	</game>
+	<game name="Burst Dream - Milktub Ver. (Japan)" id="139278">
+		<category>Bonus Discs</category>
+		<description>Burst Dream - Milktub Ver. (Japan)</description>
+		<rom name="Burst Dream - Milktub Ver. (Japan) (Track 1).bin" size="35056560" crc="e1a93ba7" md5="ac92775371d5490c8175ba3067327bc9" sha1="61cc77778a28b9d79bb5f01df7778926bc7bb431"/>
+		<rom name="Burst Dream - Milktub Ver. (Japan) (Track 2).bin" size="35221200" crc="2d9ed702" md5="ec3b4bd62c09a4349a3039f6f6f863f7" sha1="064c19690442483c5d8f478816fe5e3d01ebe392"/>
+		<rom name="Burst Dream - Milktub Ver. (Japan) (Track 3).bin" size="17903424" crc="90a56a19" md5="b5ce01a4a2f777c29c9900f8c67f98b3" sha1="fcf7dfd687d1f567eb71aa3f7dea7f500189f0f5"/>
+		<rom name="Burst Dream - Milktub Ver. (Japan) (Track 4).bin" size="39856992" crc="8d6d5514" md5="143ac3cc9254ba41b4fbb68c9a461cf6" sha1="7e0eca8d3f818b752f1e9565b6b3a608ced02732"/>
+		<rom name="Burst Dream - Milktub Ver. (Japan) (Track 5).bin" size="26864544" crc="2d898173" md5="1dc3b77ad01838eaafec0a36710d6675" sha1="c8f9ab6da9f6cb5d8de4b1d6076299e8917566e9"/>
+		<rom name="Burst Dream - Milktub Ver. (Japan).cue" size="617" crc="3b556b28" md5="c78b8a34a5a283df5740b02a95f72c6c" sha1="15150c41ebdcb9035ec86959588f08569ff60ac2"/>
 	</game>
 	<game name="C85 Seventh Heaven Maxion (SHM) &amp; Mizonokuchi Hole Koubou (MHS) Kaijou Tokuten Disk (Japan)" id="108911">
 		<category>Bonus Discs</category>
@@ -44123,27 +44133,27 @@
 		<rom name="Street Fighter II Complete File (Japan) (Track 21).bin" size="37829568" crc="145dc85e" md5="733d3addd0bf795a2d377e3e92faf2f3" sha1="5e89a295588bf66ef2a240551c9113a0d6ec08fa"/>
 		<rom name="Street Fighter II Complete File (Japan).cue" size="2653" crc="4aaaff75" md5="4745a1bae1527b49e06f31dbb371693b" sha1="187f6770db502bc38d504c687c90543a167888b2"/>
 	</game>
-	<game name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle)" id="113396">
+	<game name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle)" id="113396">
 		<category>Bonus Discs</category>
-		<description>Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle)</description>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 01).bin" size="30470160" crc="c5564929" md5="5214a4261d2672e7f817e5835348b194" sha1="00d84302d6f3fca74b76005f13648eca9ede66bf"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 02).bin" size="27292608" crc="1e0af879" md5="f57809f667414d6e7bff5d3a5f5421bd" sha1="8a787efcc05b0d5b01a7b9f502d8bc3756da6082"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 03).bin" size="30338448" crc="438dea43" md5="98ec428b60e6b38381e6294dc1e9ca4a" sha1="29bbae30fee1907694202b83b4405f782d48bfaf"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 04).bin" size="31592064" crc="17eba706" md5="8dfd32fd0acbb57c65d2c695535117a6" sha1="24165f954a1466196f31ea8cb5cec8525216609a"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 05).bin" size="30180864" crc="acd3f25a" md5="7ad190fdcda3dbf2ed1cb2d5273e5f0b" sha1="1a2927b9a9c39882136156f7b16320def4a1c07f"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 06).bin" size="28722624" crc="9e3ba480" md5="95097a0c7883c3e7d549707f2ea51a15" sha1="b00ba7480534211cc50e226a3bb21e970a9ce46d"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 07).bin" size="35983248" crc="4e2b1782" md5="fd97de7e8dae623742e61752d4e6ecff" sha1="f877d479b172e01732b0fa74d3eacf1d5e40b9a4"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 08).bin" size="33720624" crc="e89fa34e" md5="78096b6d9f2e798dffdf47bbf357a14c" sha1="382934f546609f5c641cef8f7eabd806fb39b55c"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 09).bin" size="30919392" crc="deacd170" md5="93538b9adf85a5616a5c54567f8eac09" sha1="3e6fc1526bf8b69a39eddd90640bb21b1754b0b0"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 10).bin" size="31935456" crc="8774f63a" md5="df1146a8480f2499867e11a1574dff8a" sha1="ba6f2bc2caad71a75ed764595f92e1ec32dc1847"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 11).bin" size="34016976" crc="e052b6d7" md5="c8003024e4bf0623dab79f7fbe9a41fc" sha1="6cee312d83d82ed46f4f0abe7104b9d39ff20cab"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 12).bin" size="28134624" crc="828c1bb9" md5="bdaef2b22ed82fd04996033f9bd772dc" sha1="6a2478482e659d1a65b34404c3896c5cee2bd24a"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 13).bin" size="30340800" crc="72756779" md5="3dbf160ab8d6a63910769610494c443f" sha1="52efc457aa7793a387692eaade29b28a39b5c067"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 14).bin" size="32866848" crc="db9adaaa" md5="4b8330075b3d0d89776eb313cd658704" sha1="af94efd451caf914f60f37da7eade9709c0ee2b2"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 15).bin" size="32067168" crc="4ffd25a9" md5="5623ee25a7ffc6a6e599c8676bcd2297" sha1="f5eb6771dd85e01f2967e9b09a104f1fdbbc6825"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 16).bin" size="34165152" crc="add69bfd" md5="89fd8dcdaf38851f9d7e29316e1159e3" sha1="2b3fec4516dcf1d1b271ac73e666143300241b9d"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle) (Track 17).bin" size="31434480" crc="eb0c15c8" md5="c224d1b03d4e556bc79ce0938bc1a4a5" sha1="ca45be092b7ee9bc83066999423529167e3eaecb"/>
-		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Xbox 360 Game Bundle).cue" size="2935" crc="9bec9109" md5="9701905160df2f10b68d5ada281b1f08" sha1="fb47f0741a8eb02d766f6500995018e7e93c7102"/>
+		<description>Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle)</description>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 01).bin" size="30470160" crc="c5564929" md5="5214a4261d2672e7f817e5835348b194" sha1="00d84302d6f3fca74b76005f13648eca9ede66bf"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 02).bin" size="27292608" crc="1e0af879" md5="f57809f667414d6e7bff5d3a5f5421bd" sha1="8a787efcc05b0d5b01a7b9f502d8bc3756da6082"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 03).bin" size="30338448" crc="438dea43" md5="98ec428b60e6b38381e6294dc1e9ca4a" sha1="29bbae30fee1907694202b83b4405f782d48bfaf"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 04).bin" size="31592064" crc="17eba706" md5="8dfd32fd0acbb57c65d2c695535117a6" sha1="24165f954a1466196f31ea8cb5cec8525216609a"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 05).bin" size="30180864" crc="acd3f25a" md5="7ad190fdcda3dbf2ed1cb2d5273e5f0b" sha1="1a2927b9a9c39882136156f7b16320def4a1c07f"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 06).bin" size="28722624" crc="9e3ba480" md5="95097a0c7883c3e7d549707f2ea51a15" sha1="b00ba7480534211cc50e226a3bb21e970a9ce46d"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 07).bin" size="35983248" crc="4e2b1782" md5="fd97de7e8dae623742e61752d4e6ecff" sha1="f877d479b172e01732b0fa74d3eacf1d5e40b9a4"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 08).bin" size="33720624" crc="e89fa34e" md5="78096b6d9f2e798dffdf47bbf357a14c" sha1="382934f546609f5c641cef8f7eabd806fb39b55c"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 09).bin" size="30919392" crc="deacd170" md5="93538b9adf85a5616a5c54567f8eac09" sha1="3e6fc1526bf8b69a39eddd90640bb21b1754b0b0"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 10).bin" size="31935456" crc="8774f63a" md5="df1146a8480f2499867e11a1574dff8a" sha1="ba6f2bc2caad71a75ed764595f92e1ec32dc1847"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 11).bin" size="34016976" crc="e052b6d7" md5="c8003024e4bf0623dab79f7fbe9a41fc" sha1="6cee312d83d82ed46f4f0abe7104b9d39ff20cab"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 12).bin" size="28134624" crc="828c1bb9" md5="bdaef2b22ed82fd04996033f9bd772dc" sha1="6a2478482e659d1a65b34404c3896c5cee2bd24a"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 13).bin" size="30340800" crc="72756779" md5="3dbf160ab8d6a63910769610494c443f" sha1="52efc457aa7793a387692eaade29b28a39b5c067"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 14).bin" size="32866848" crc="db9adaaa" md5="4b8330075b3d0d89776eb313cd658704" sha1="af94efd451caf914f60f37da7eade9709c0ee2b2"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 15).bin" size="32067168" crc="4ffd25a9" md5="5623ee25a7ffc6a6e599c8676bcd2297" sha1="f5eb6771dd85e01f2967e9b09a104f1fdbbc6825"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 16).bin" size="34165152" crc="add69bfd" md5="89fd8dcdaf38851f9d7e29316e1159e3" sha1="2b3fec4516dcf1d1b271ac73e666143300241b9d"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle) (Track 17).bin" size="31434480" crc="eb0c15c8" md5="c224d1b03d4e556bc79ce0938bc1a4a5" sha1="ca45be092b7ee9bc83066999423529167e3eaecb"/>
+		<rom name="Street Fighter IV - Collector's Edition Soundtrack (USA) (Multisystem Game Bundle).cue" size="2986" crc="cb2f4f54" md5="ff0142d555f732c1562456cc563e7faf" sha1="e8c57385f1aae575f4e8081132a79618d5b84aa5"/>
 	</game>
 	<game name="Streets of Rage 4 - Limited Run Games Exclusive Track Selection (USA)" id="89388">
 		<category>Bonus Discs</category>
