@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Digital) (CDN) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Digital) (CDN) (6,532) (-y) [-aAbBcefkmMoprv] (20260829-051954) (Retool)</description>
-		<version>20260829-051954</version>
-		<date>2026-10-10 08-24-02</date>
+		<description>Nintendo - Nintendo 3DS (Digital) (CDN) (6,533) (-y) [-aAbBcefkmMoprv] (20261010-012316) (Retool)</description>
+		<version>20261010-012316</version>
+		<date>2026-10-11 08-38-27</date>
 		<author>1988reload, ajshell1, Arctic Circle System, Aringon, bikerspade, buckwheat, C. V. Reynolds, Gefflon, Hiccup, Hiccup and DarkMatterCore, Icyelut, InternalLoss, Jack, Jarvik7, Just001Kim, MeguCocoa, MisterSheeple, niemand, nnssxx, norkmetnoil577, number, rarenight, root, SonGoku, u53r123, Whovian9369, xprism, xuom2, ZeroSkill, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6314,9 +6314,17 @@
 		<rom name="00000001" size="753664" crc="7d593e2d" md5="ab75f92a501b1b6b1d64db0a467cb2e0" sha1="06ae71728c562f2602727d4b4863b2b949cb0dc7"/>
 		<rom name="tmd.0" size="4708" crc="cd26f0a1" md5="1e5a357e898b8f9137d80e98149ce640" sha1="04299c6b9c07e42bfa261ef77760eac7783daa7c"/>
 	</game>
-	<game name="Castlevania - Lords of Shadow - Shukumei no Makyou (Japan) (Demo)" id="04845">
+	<game name="Castlevania - Lords of Shadow - Sadame no Makyou (Japan)" id="01187">
+		<category>Games</category>
+		<description>Castlevania - Lords of Shadow - Sadame no Makyou (Japan)</description>
+		<game_id>00040000000bac00</game_id>
+		<rom name="00000002" size="1522999296" crc="e4810dbc" md5="7f912362cd4156ec79b22012bd79970e" sha1="b3774851a0f0116806e2e59b972f0ecd1d7e0eb4"/>
+		<rom name="00000003" size="540672" crc="2a85b46f" md5="611a9e05b86780a3756ccf2e23dad668" sha1="1ff4197271ff1a937ae9f58fbdb9bb68070555a8"/>
+		<rom name="tmd.16" size="4708" crc="00ab704d" md5="ddab2be73d015059d2bd35b46b54738d" sha1="414605879337ae43e8755eca14669eaae28df735"/>
+	</game>
+	<game name="Castlevania - Lords of Shadow - Sadame no Makyou (Japan) (Demo)" id="04845">
 		<category>Demos</category>
-		<description>Castlevania - Lords of Shadow - Shukumei no Makyou (Japan) (Demo)</description>
+		<description>Castlevania - Lords of Shadow - Sadame no Makyou (Japan) (Demo)</description>
 		<game_id>00040002000bac01</game_id>
 		<rom name="00000000" size="125157376" crc="41d4535a" md5="25e4c53e2bdfa292bb0d86e325e3a638" sha1="9978f5b47b11ee84bf42989e5563ef7e4523528a"/>
 		<rom name="00000001" size="368640" crc="1db687a8" md5="c069b4dbc8e3e60fc70f776e17a27268" sha1="6780db77e6acb0f8c3d23e6f85bf2e8b567f6e61"/>
@@ -70743,9 +70751,9 @@
 		<rom name="00000000" size="3234816" crc="b021e30b" md5="c78d24d33386bca8f7aa9d8cd7d85137" sha1="2778ed3b59e0f0b1bbb0ed8822a239ead70591f2"/>
 		<rom name="tmd.0" size="4660" crc="937f7703" md5="9188b16f480abae1028169cab387a47c" sha1="fa1d20ad6e7c9d07f2498cd6d1e7d5d9f8ef10dc"/>
 	</game>
-	<game name="Profesor Layton vs. Phoenix Wright - Ace Attorney (Europe)" id="01959">
+	<game name="Profesor Layton vs. Phoenix Wright - Ace Attorney, El (Europe)" id="01959">
 		<category>Games</category>
-		<description>Profesor Layton vs. Phoenix Wright - Ace Attorney (Europe)</description>
+		<description>Profesor Layton vs. Phoenix Wright - Ace Attorney, El (Europe)</description>
 		<game_id>0004000000100600</game_id>
 		<rom name="00000000" size="1470525440" crc="34b6c739" md5="cdbf713cf00afcab8581ade41a8c9085" sha1="a2180b6fa0e56e32134a7b12a00cab89cba001c5"/>
 		<rom name="00000001" size="3940352" crc="ed4365f2" md5="db27ad6717685a3c8424e40d48b927cc" sha1="2354430c3ea0c9cd1317bd0f06134920f734065d"/>

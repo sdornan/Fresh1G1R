@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,601) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-10 07-31-49) (Retool)</description>
-		<version>2026-10-10 07-31-49</version>
-		<date>2026-10-10 08-26-38</date>
+		<description>IBM - PC compatible (13,601) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-11 04-32-05) (Retool)</description>
+		<version>2026-10-11 04-32-05</version>
+		<date>2026-10-11 08-40-05</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -21053,11 +21053,11 @@
 		<rom name="Diablo II (USA) (Install Disc) (Rev 1).bin" size="666632064" crc="63c3a090" md5="23e0c4a37472140d423093e12d370316" sha1="c86e455a4c855792e0a49f8e7ff4ca6ce70d68fb"/>
 		<rom name="Diablo II (USA) (Install Disc) (Rev 1).cue" size="104" crc="97d0d44f" md5="1f71c142dc23418b9d212b90c7be6008" sha1="41053198d677094ea67e0ee69a00623d6db58187"/>
 	</game>
-	<game name="Diablo II (USA) (Play Disc) (Rev 1)" id="2101">
+	<game name="Diablo II (USA, Japan) (Play Disc) (Rev 1)" id="2101">
 		<category>Games</category>
-		<description>Diablo II (USA) (Play Disc) (Rev 1)</description>
-		<rom name="Diablo II (USA) (Play Disc) (Rev 1).bin" size="701147664" crc="2c20537a" md5="6283160e082d1f9ad9501750dd0426f0" sha1="c6bc646505f87d222f633acbb478aa517a74e95d"/>
-		<rom name="Diablo II (USA) (Play Disc) (Rev 1).cue" size="101" crc="84f887b8" md5="4669ebeb02eb874a48ecd52988dd70e8" sha1="d7b63de76164b9d7567752d6697c125adf937382"/>
+		<description>Diablo II (USA, Japan) (Play Disc) (Rev 1)</description>
+		<rom name="Diablo II (USA, Japan) (Play Disc) (Rev 1).bin" size="701147664" crc="2c20537a" md5="6283160e082d1f9ad9501750dd0426f0" sha1="c6bc646505f87d222f633acbb478aa517a74e95d"/>
+		<rom name="Diablo II (USA, Japan) (Play Disc) (Rev 1).cue" size="108" crc="c679fbe6" md5="49f76969b163e1f82cd9137f38c9825f" sha1="0a128b1baabb5370f1e54de4728d583d856c7a60"/>
 	</game>
 	<game name="Diablo II (World) (Disc 3) (Cinematics Disc)" id="2096">
 		<category>Games</category>

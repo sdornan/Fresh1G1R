@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (977) (-y) [-aAbBcefkmMoprv] (20261010-000651) (Retool)</description>
-		<version>20261010-000651</version>
-		<date>2026-10-10 08-25-32</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (977) (-y) [-aAbBcefkmMoprv] (20261010-030508) (Retool)</description>
+		<version>20261010-030508</version>
+		<date>2026-10-11 08-37-06</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2996,6 +2996,7 @@
 	</game>
 	<game name="Mario &amp; Luigi - Paper Jam Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x044">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario &amp; Luigi - Paper Jam Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>000400000018A100</game_id>
 		<rom name="Mario &amp; Luigi - Paper Jam Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="536870912" crc="e3c899fc" md5="d1d6ffa391a713665e65354a48b2961b" sha1="3df7019669aa08ab66d65f085d568544fdde99aa"/>
@@ -3013,6 +3014,7 @@
 	</game>
 	<game name="Mario &amp; Sonic at the Rio 2016 Olympic Games (Europe) (Demo) (Kiosk)" id="x048">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario &amp; Sonic at the Rio 2016 Olympic Games (Europe) (Demo) (Kiosk)</description>
 		<game_id>0004000000192400</game_id>
 		<rom name="Mario &amp; Sonic at the Rio 2016 Olympic Games (Europe) (Demo) (Kiosk).3ds" size="536870912" crc="41fac097" md5="8480f608a9349b2cb46d55a93cdfacad" sha1="62ddc89ebfe53301c5fba5e7ffb3cdcbebdfcad4"/>
@@ -3037,6 +3039,7 @@
 	</game>
 	<game name="Mario Kart 7 (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x017">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario Kart 7 (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000081500</game_id>
 		<rom name="Mario Kart 7 (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="134217728" crc="dc109d2f" md5="ef6145cf316cf8774ebabf36f2a1ae5f" sha1="e00f70e79ff6b15f131246b7e14f720399608dad" sha256="5b0f13c02f423d8689ac1a5f0177ff7ff2b37aa5428eeaa2499b5364c5ebac7e"/>
@@ -3073,6 +3076,7 @@
 	</game>
 	<game name="Mario Tennis Open (USA) (Demo) (Kiosk)" id="x039">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario Tennis Open (USA) (Demo) (Kiosk)</description>
 		<game_id>00040000000A2400</game_id>
 		<rom name="Mario Tennis Open (USA) (Demo) (Kiosk).3ds" size="134217728" crc="dab662eb" md5="3d13535e196cbbd540f4d29a2e577b75" sha1="11574cccbb458372c1e129cf77f4b43a4cf9f3e6" sha256="8c48ea054cdcb74d5e882941c6430fe6efef1de4e44ffbccdba44eb402b382ca"/>
@@ -3337,6 +3341,7 @@
 	</game>
 	<game name="Monster Hunter Generations (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x051">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Monster Hunter Generations (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>0004000000196400</game_id>
 		<rom name="Monster Hunter Generations (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="536870912" crc="2f0143e6" md5="a88a6f8d12c025a58254c620a9682a67" sha1="d2f1371722a7125190fab7b61afc68c002d945ac"/>
@@ -3685,6 +3690,7 @@
 	</game>
 	<game name="Nintendogs + Cats (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x023">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Nintendogs + Cats (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000046200</game_id>
 		<rom name="Nintendogs + Cats (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="536870912" crc="bc4cc0d5" md5="8cfa020c9334fa27ce8934feb2f49988" sha1="0dab1f7475755487b53ebc226f7a0482ccc699d7"/>
@@ -4021,6 +4027,7 @@
 	</game>
 	<game name="Pilotwings Resort (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x018">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Pilotwings Resort (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000038100</game_id>
 		<rom name="Pilotwings Resort (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="134217728" crc="b5f2685f" md5="9042206826f1fa95d40d87210e9d8454" sha1="80ce76a0199fa2edd6e8a0f8ed94563c9202558f"/>
@@ -4236,6 +4243,7 @@
 	</game>
 	<game name="Professeur Layton et le Masque des Miracles (France) (Demo) (Kiosk)" id="x056">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Professeur Layton et le Masque des Miracles (France) (Demo) (Kiosk)</description>
 		<game_id>00040000000B1300</game_id>
 		<rom name="Professeur Layton et le Masque des Miracles (France) (Demo) (Kiosk).3ds" size="1073741824" crc="4f8f9db4" md5="2c67a36b8e165d183d65667aabe7c3cc" sha1="0ea1cd4fb6c74d48e5a649b87bdef0d56baf33b5"/>
@@ -4254,6 +4262,7 @@
 	</game>
 	<game name="Professor Layton and the Miracle Mask (Europe) (Demo) (Kiosk)" id="x025">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Professor Layton and the Miracle Mask (Europe) (Demo) (Kiosk)</description>
 		<game_id>00040000000B1100</game_id>
 		<rom name="Professor Layton and the Miracle Mask (Europe) (Demo) (Kiosk).3ds" size="1073741824" crc="56cc38a9" md5="badb262616537319d756fd0c74505792" sha1="004ef486318712eff9cb87afd95cf4d91a8ab0f7"/>
@@ -5027,6 +5036,7 @@
 	</game>
 	<game name="Star Fox 64 3D (USA) (En,Fr,Es) (Rev 1) (Demo) (Kiosk)" id="x019">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Star Fox 64 3D (USA) (En,Fr,Es) (Rev 1) (Demo) (Kiosk)</description>
 		<game_id>000400000005CC00</game_id>
 		<rom name="Star Fox 64 3D (USA) (En,Fr,Es) (Rev 1) (Demo) (Kiosk).3ds" size="268435456" crc="fe590945" md5="9cae282da9b676c24c456e6c578b10fc" sha1="b7d12d689402fe9fdb157ba7da90174af208fa21" sha256="1cbb154743d27ee208767eecfef2ddcabf5f587bfd536443af26ca383b43c32a"/>
@@ -5111,6 +5121,7 @@
 	</game>
 	<game name="Style Savvy - Trendsetters (USA) (Demo) (Kiosk)" id="x014">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Style Savvy - Trendsetters (USA) (Demo) (Kiosk)</description>
 		<game_id>00040000000BB600</game_id>
 		<rom name="Style Savvy - Trendsetters (USA) (Demo) (Kiosk).3ds" size="134217728" crc="7a85c718" md5="4a5e7f47cbaa7fd94c541cd739336080" sha1="1d4dac61091cb6e75d0ea9799a6aa3c5f30015f9"/>
@@ -5159,6 +5170,7 @@
 	</game>
 	<game name="Super Mario (USA) (Beta) (E3 2011 demo)" id="z009">
 		<category>Demos</category>
+		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Super Mario (USA) (Beta) (E3 2011 demo)</description>
 		<game_id>000400000F7FFF00</game_id>
@@ -5166,6 +5178,7 @@
 	</game>
 	<game name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x004">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Super Mario 3D Land (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>000400000007D500</game_id>
 		<rom name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="134217728" crc="73577d52" md5="cdaa30ee75be4c9edf4c485fd43ff84f" sha1="c9f1df5036d696768964bb28b9e7c344bc069b72"/>
@@ -5202,6 +5215,7 @@
 	</game>
 	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x036">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>000400000014E500</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="268435456" crc="7561b9c0" md5="61fbeb20e7d340f6a9e03c24b7127a9e" sha1="51904e8ec27bd6a79cfe33f9d12e2a2c55d04dc2" sha256="ea06330f47481bdf14f51be4dd29cb2fad13ba10becf08fa988a15a5823004d6"/>

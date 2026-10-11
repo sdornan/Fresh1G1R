@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Retool)</name>
-		<description>Commodore - Commodore 64 (230) (-y) [-aAbBcdkmMpPuv] (20260929-000459) (Retool)</description>
-		<version>20260929-000459</version>
-		<date>2026-10-10 08-36-29</date>
-		<author>baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
+		<description>Commodore - Commodore 64 (230) (-y) [-aAbBcdkmMpPuv] (20261010-231237) (Retool)</description>
+		<version>20261010-231237</version>
+		<date>2026-10-11 08-48-23</date>
+		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -446,7 +446,7 @@
 	<game name="Kindercomp (USA, Europe)" id="0200">
 		<category>Games</category>
 		<description>Kindercomp (USA, Europe)</description>
-		<rom name="Kindercomp (USA, Europe).crt" size="8272" crc="2c3ff33e" md5="ca7ad29d664e8eaa45a01df8504bce0b" sha1="4a65d55eba7d483ba20bf5d3a72e909b7fa67bea"/>
+		<rom name="Kindercomp (USA, Europe).crt" size="8272" crc="2c3ff33e" md5="ca7ad29d664e8eaa45a01df8504bce0b" sha1="4a65d55eba7d483ba20bf5d3a72e909b7fa67bea" sha256="d80c3aed5cec1deac85811c306e9afda4f2ca6cdc44735060cdf2c00e8e38739"/>
 	</game>
 	<game name="Kung-Fu Master (USA, Europe)" id="0201">
 		<category>Games</category>

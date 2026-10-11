@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Tapes) (Retool)</name>
-		<description>Commodore - Commodore 64 (Tapes) (1,653) (-y) [-aAbBcefkmMoprv] (20230804-123725) (Retool)</description>
-		<version>20230804-123725</version>
-		<date>2026-10-10 08-23-39</date>
-		<author>C. V. Reynolds</author>
+		<description>Commodore - Commodore 64 (Tapes) (1,654) (-y) [-aAbBcefkmMoprv] (20261010-215251) (Retool)</description>
+		<version>20261010-215251</version>
+		<date>2026-10-11 08-36-46</date>
+		<author>1988reload, C. V. Reynolds</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -14,113 +14,113 @@
 	<game name="007 - A View to a Kill (Europe)" id="0001">
 		<category>Games</category>
 		<description>007 - A View to a Kill (Europe)</description>
-		<rom name="007 - A View to a Kill (Europe).tap" size="2012545" crc="98d571c5" md5="edfbc18c2ddabe2df3b28650ac7e489d" sha1="b0c815c67c404862de2094c4d9ff8664d5d292c1"/>
+		<rom name="007 - A View to a Kill (Europe).tap" size="2012545" crc="98d571c5" md5="edfbc18c2ddabe2df3b28650ac7e489d" sha1="b0c815c67c404862de2094c4d9ff8664d5d292c1" sha256="014fb534a7053cfa8bcdc618382c297433afa4cc88347e7d13fe4676fc9a2e96"/>
 	</game>
 	<game name="007 - Licence to Kill (Europe)" id="0002">
 		<category>Games</category>
 		<description>007 - Licence to Kill (Europe)</description>
-		<rom name="007 - Licence to Kill (Europe).tap" size="514497" crc="d596479d" md5="a8abdba1a2acbbc6710f6ddcc6edfba6" sha1="65d673b877600b08a1fb4dbbb71c81cdaaf66132"/>
+		<rom name="007 - Licence to Kill (Europe).tap" size="514497" crc="d596479d" md5="a8abdba1a2acbbc6710f6ddcc6edfba6" sha1="65d673b877600b08a1fb4dbbb71c81cdaaf66132" sha256="c1d101c454ea550cf548583e980a2f259e4e16bbdf6f8ad50fea4a29da9597bb"/>
 	</game>
 	<game name="007 - Live and Let Die (Europe)" id="0003">
 		<category>Games</category>
 		<description>007 - Live and Let Die (Europe)</description>
-		<rom name="007 - Live and Let Die (Europe).tap" size="712262" crc="33227fd1" md5="7722a3973b704a0b471e3eb6cfbd2df3" sha1="80121b9c464eca7001ea4e54078504999e6cb0e5"/>
+		<rom name="007 - Live and Let Die (Europe).tap" size="712262" crc="33227fd1" md5="7722a3973b704a0b471e3eb6cfbd2df3" sha1="80121b9c464eca7001ea4e54078504999e6cb0e5" sha256="5a555c136e8bb1ca1a4cf2a377091c7087fbcdaf8d6516da161962d2fecacca3"/>
 	</game>
 	<game name="007 - Living Daylights, The (Europe)" id="0004">
 		<category>Games</category>
 		<description>007 - Living Daylights, The (Europe)</description>
-		<rom name="007 - Living Daylights, The (Europe).tap" size="579610" crc="ae0610de" md5="b2c6fbd29213e5c2ff3fef1a07631b47" sha1="f26d18b378807d4e4e07d51222747f8c23f2df73"/>
+		<rom name="007 - Living Daylights, The (Europe).tap" size="579610" crc="ae0610de" md5="b2c6fbd29213e5c2ff3fef1a07631b47" sha1="f26d18b378807d4e4e07d51222747f8c23f2df73" sha256="f33b1baf1687ed16ec0af378f42d0ff8e753b5877b3a131d949553c91499fc22"/>
 	</game>
 	<game name="007 - Spy Who Loved Me, The (Europe)" id="0005">
 		<category>Games</category>
 		<description>007 - Spy Who Loved Me, The (Europe)</description>
-		<rom name="007 - Spy Who Loved Me, The (Europe).tap" size="639208" crc="857bdf47" md5="1541b819b160403f3a53f07051cd961d" sha1="5171dea66e3e6808bdc6acff4cc9a177fe2ef261"/>
+		<rom name="007 - Spy Who Loved Me, The (Europe).tap" size="639208" crc="857bdf47" md5="1541b819b160403f3a53f07051cd961d" sha1="5171dea66e3e6808bdc6acff4cc9a177fe2ef261" sha256="05e2df2b447a80b46c235fc6f4cc1c766e3c643e1bb3176bc7e03c198d54a3bb"/>
 	</game>
 	<game name="10th Frame (Europe)" id="0006">
 		<category>Games</category>
 		<description>10th Frame (Europe)</description>
-		<rom name="10th Frame (Europe).tap" size="559117" crc="8a0a50ac" md5="364a4fef382ffaf1567bcb7ef0d03408" sha1="10b594e468ee7b4542c2972e149cf09995abd910"/>
+		<rom name="10th Frame (Europe).tap" size="559117" crc="8a0a50ac" md5="364a4fef382ffaf1567bcb7ef0d03408" sha1="10b594e468ee7b4542c2972e149cf09995abd910" sha256="5705be8483497cfda4ac4bf428e10e39100a6a56174f03f9d0e447054337e80b"/>
 	</game>
 	<game name="11-A-Side Soccer (Europe)" id="0007">
 		<category>Games</category>
 		<description>11-A-Side Soccer (Europe)</description>
-		<rom name="11-A-Side Soccer (Europe).tap" size="797786" crc="fe1b8284" md5="9ddbd9505bf2054f444054d19f4d6d65" sha1="b3b431fb68683d0bebe4b0afdbe2b80bcb1b419d"/>
+		<rom name="11-A-Side Soccer (Europe).tap" size="797786" crc="fe1b8284" md5="9ddbd9505bf2054f444054d19f4d6d65" sha1="b3b431fb68683d0bebe4b0afdbe2b80bcb1b419d" sha256="ddeba059cb6f82c7bf2614da7e938944a3d60d01ed119ac0c710b60de3fe4cdf"/>
 	</game>
 	<game name="180 (Europe) (Budget)" id="0021">
 		<category>Games</category>
 		<description>180 (Europe) (Budget)</description>
-		<rom name="180 (Europe) (Budget).tap" size="597566" crc="816da886" md5="5dabbd3b0d73c7cf66aad05c22947198" sha1="78e3d0c65be02c66db88b43e36af673203af4a28"/>
+		<rom name="180 (Europe) (Budget).tap" size="597566" crc="816da886" md5="5dabbd3b0d73c7cf66aad05c22947198" sha1="78e3d0c65be02c66db88b43e36af673203af4a28" sha256="078350ca5e30803c98079504024ecc42afd4807454f67ee77b30801069a2be6d"/>
 	</game>
 	<game name="19 Part One - Boot Camp (Europe)" id="0008">
 		<category>Games</category>
 		<description>19 Part One - Boot Camp (Europe)</description>
-		<rom name="19 Part One - Boot Camp (Europe).tap" size="1841314" crc="b8ae5181" md5="89827d930b344b3f7bf831888ff4247c" sha1="729db93e1b9fea4a71cab7a9691f3b082af160ed"/>
+		<rom name="19 Part One - Boot Camp (Europe).tap" size="1841314" crc="b8ae5181" md5="89827d930b344b3f7bf831888ff4247c" sha1="729db93e1b9fea4a71cab7a9691f3b082af160ed" sha256="21640684f6441a63802c9da81f69b63ef287d2aa3c510322f06b339536ed0ddc"/>
 	</game>
 	<game name="19 Part One - Boot Camp (Europe) (2 sides)" id="0009">
 		<category>Games</category>
 		<description>19 Part One - Boot Camp (Europe) (2 sides)</description>
-		<rom name="19 Part One - Boot Camp (Europe) (2 sides) (Side 1).tap" size="243697" crc="dc663d4a" md5="2a3def28a0c4a4dedbcc2e41073ad17c" sha1="a3aec7ed0a3a49512782ef3be1494359f79eec3a"/>
-		<rom name="19 Part One - Boot Camp (Europe) (2 sides) (Side 2).tap" size="1597636" crc="bfd2d198" md5="f9f4055994e293933c5eca518fe0316a" sha1="b441bda9bdc46a428c23a31330df932b7ff058ca"/>
+		<rom name="19 Part One - Boot Camp (Europe) (2 sides) (Side 1).tap" size="243697" crc="dc663d4a" md5="2a3def28a0c4a4dedbcc2e41073ad17c" sha1="a3aec7ed0a3a49512782ef3be1494359f79eec3a" sha256="ad05925d461820c7bb9e68692819e9d5bd2e76e97ec6c2900f8e2f3ed6e37de0"/>
+		<rom name="19 Part One - Boot Camp (Europe) (2 sides) (Side 2).tap" size="1597636" crc="bfd2d198" md5="f9f4055994e293933c5eca518fe0316a" sha1="b441bda9bdc46a428c23a31330df932b7ff058ca" sha256="433835d0b85c45753449c799d48029f1a4a17355e610dc7b984108e4e3a5263a"/>
 	</game>
 	<game name="1942 (Europe)" id="0010">
 		<category>Games</category>
 		<description>1942 (Europe)</description>
-		<rom name="1942 (Europe).tap" size="718105" crc="a9f345f2" md5="e488774c85d7a4b35214ed129fb14417" sha1="1f822ad88fc20160326e65bdf6680bfa3655dd29"/>
+		<rom name="1942 (Europe).tap" size="718105" crc="a9f345f2" md5="e488774c85d7a4b35214ed129fb14417" sha1="1f822ad88fc20160326e65bdf6680bfa3655dd29" sha256="ccff7f4c5e362ce20d34f6910add8bda3f6fc489d15e3ef2312e82a539f04d1d"/>
 	</game>
 	<game name="1943 - One Year After (Europe)" id="0011">
 		<category>Games</category>
 		<description>1943 - One Year After (Europe)</description>
-		<rom name="1943 - One Year After (Europe).tap" size="620646" crc="fb457e8c" md5="a368e859e59b8ba8ed88c315716c852f" sha1="3805530e86f37a99cbf279b1d0dfaba9cae4814f"/>
+		<rom name="1943 - One Year After (Europe).tap" size="620646" crc="fb457e8c" md5="a368e859e59b8ba8ed88c315716c852f" sha1="3805530e86f37a99cbf279b1d0dfaba9cae4814f" sha256="4fae13f8017c17b1b98e4155a89aa77ab1de52e3b8dea3daa78e63a738ca2a45"/>
 	</game>
 	<game name="1943 - The Battle of Midway (Europe)" id="0012">
 		<category>Games</category>
 		<description>1943 - The Battle of Midway (Europe)</description>
-		<rom name="1943 - The Battle of Midway (Europe).tap" size="506798" crc="276cbd76" md5="22f393ecf7a123b2652c921cfb25dc6b" sha1="4bed17fe1d5001cbcfe78b711a4fbfe768d9ef76"/>
+		<rom name="1943 - The Battle of Midway (Europe).tap" size="506798" crc="276cbd76" md5="22f393ecf7a123b2652c921cfb25dc6b" sha1="4bed17fe1d5001cbcfe78b711a4fbfe768d9ef76" sha256="61dd0d940d7cd36a34a5f31fbdf64a6a94b71fc934eee91526abaf2828193d86"/>
 	</game>
 	<game name="1985 - The Day After (Europe) (Burner)" id="0013">
 		<category>Games</category>
 		<description>1985 - The Day After (Europe) (Burner)</description>
-		<rom name="1985 - The Day After (Europe) (Burner).tap" size="379354" crc="474fd7e8" md5="cb12f85cf34524d884430c5874c44318" sha1="4652d7716356e6f9d3e056a67c6af69e52abc434"/>
+		<rom name="1985 - The Day After (Europe) (Burner).tap" size="379354" crc="474fd7e8" md5="cb12f85cf34524d884430c5874c44318" sha1="4652d7716356e6f9d3e056a67c6af69e52abc434" sha256="894cc1a3875c95987c06736790bdea83ab1525279903290d4590f0c29776b3cb"/>
 	</game>
 	<game name="1985 - The Day After (Europe) (Visiload)" id="0014">
 		<category>Games</category>
 		<description>1985 - The Day After (Europe) (Visiload)</description>
-		<rom name="1985 - The Day After (Europe) (Visiload).tap" size="557991" crc="625a89e3" md5="ebe60c5c558d583451b13508030e88bf" sha1="de6679ec9f817a06142cd9963d48c62efec60d1b"/>
+		<rom name="1985 - The Day After (Europe) (Visiload).tap" size="557991" crc="625a89e3" md5="ebe60c5c558d583451b13508030e88bf" sha1="de6679ec9f817a06142cd9963d48c62efec60d1b" sha256="a08134438de8b9eca31a10a12e5a253322e08daf3ec44f5188fbb6c826f8221a"/>
 	</game>
 	<game name="1994 - Ten Years After (Europe)" id="0015">
 		<category>Games</category>
 		<description>1994 - Ten Years After (Europe)</description>
-		<rom name="1994 - Ten Years After (Europe).tap" size="1229141" crc="92c47bc6" md5="61ca9d4d32e04ac40be6072c83c0f570" sha1="4a63c72a8da20dd648f4b60b5067fd1f9ffda12c"/>
+		<rom name="1994 - Ten Years After (Europe).tap" size="1229141" crc="92c47bc6" md5="61ca9d4d32e04ac40be6072c83c0f570" sha1="4a63c72a8da20dd648f4b60b5067fd1f9ffda12c" sha256="123bafb9987c30836e496c3582e96b4fa809a5cd5abe17fc7f26073cfbee62d6"/>
 	</game>
 	<game name="3D Pinball - Pinball Power (Europe)" id="0016">
 		<category>Games</category>
 		<description>3D Pinball - Pinball Power (Europe)</description>
-		<rom name="3D Pinball - Pinball Power (Europe).tap" size="192466" crc="51671d9c" md5="d96bf2b33fc46e1ec8cf5e2282971db7" sha1="9a97653ac9d819d7dfcea6f8dc37ecda70193494"/>
+		<rom name="3D Pinball - Pinball Power (Europe).tap" size="192466" crc="51671d9c" md5="d96bf2b33fc46e1ec8cf5e2282971db7" sha1="9a97653ac9d819d7dfcea6f8dc37ecda70193494" sha256="e24821b2279f22e060cac1c651e0828704a781a37adfc2f79f4b3a08dfd8b823"/>
 	</game>
 	<game name="3D Pool (Europe)" id="0017">
 		<category>Games</category>
 		<description>3D Pool (Europe)</description>
-		<rom name="3D Pool (Europe).tap" size="452052" crc="41f8f3da" md5="1598553fbd913f3a58737f1001538047" sha1="ee26d6dc1cace75ecd8bed1f85790cbdd7089029"/>
+		<rom name="3D Pool (Europe).tap" size="452052" crc="41f8f3da" md5="1598553fbd913f3a58737f1001538047" sha1="ee26d6dc1cace75ecd8bed1f85790cbdd7089029" sha256="0a47144db972b9674d37e20a2cc6cbb2a6aa83677f9dfa50c3dab0a0523c8bf1"/>
 	</game>
 	<game name="3D Stock Cars II (Europe)" id="0018">
 		<category>Games</category>
 		<description>3D Stock Cars II (Europe)</description>
-		<rom name="3D Stock Cars II (Europe).tap" size="380536" crc="7c8c25ba" md5="4eea2ae65d6ac3301cc52202ff4d5cdc" sha1="cd6b956f28bfd8aeacac7377386d18fd80630f12"/>
+		<rom name="3D Stock Cars II (Europe).tap" size="380536" crc="7c8c25ba" md5="4eea2ae65d6ac3301cc52202ff4d5cdc" sha1="cd6b956f28bfd8aeacac7377386d18fd80630f12" sha256="a7406c4ac3209beb6ac97d1f873e97eaa3be239cadaaed256acfe3e2904a80f8"/>
 	</game>
 	<game name="4th &amp; Inches (Europe)" id="0019">
 		<category>Games</category>
 		<description>4th &amp; Inches (Europe)</description>
-		<rom name="4th &amp; Inches (Europe).tap" size="504438" crc="d3624784" md5="35f67994670cb7abd35f16d6909e5dd6" sha1="0c5ee57228bc002b7f8044c7aad141eab3e9be53"/>
+		<rom name="4th &amp; Inches (Europe).tap" size="504438" crc="d3624784" md5="35f67994670cb7abd35f16d6909e5dd6" sha1="0c5ee57228bc002b7f8044c7aad141eab3e9be53" sha256="b3376fbff5c241d01ca7b484821bb0c31917b187db1e1bd9b51f032c309ea547"/>
 	</game>
 	<game name="720 Degrees (Europe)" id="0020">
 		<category>Games</category>
 		<description>720 Degrees (Europe)</description>
-		<rom name="720 Degrees (Europe).tap" size="651462" crc="6110c4aa" md5="9ca2e5e2a243d90338668ea0cfc8027c" sha1="7cd7e077ecbfae1b84d7ee9b60787796ccb45cdc"/>
+		<rom name="720 Degrees (Europe).tap" size="651462" crc="6110c4aa" md5="9ca2e5e2a243d90338668ea0cfc8027c" sha1="7cd7e077ecbfae1b84d7ee9b60787796ccb45cdc" sha256="14388b9ced59c44df7fc6a17c70c4057005a6f8ff8606624198d423bf6bdf259"/>
 	</game>
 	<game name="ACE 2088 (Europe)" id="0082">
 		<category>Games</category>
 		<description>ACE 2088 (Europe)</description>
-		<rom name="ACE 2088 (Europe).tap" size="598994" crc="a2b9a579" md5="7f166526a4e2d2819b7dcfde8e3aa3d3" sha1="386e91a577b060e5cfea4099bbb35e2362f27ff9"/>
+		<rom name="ACE 2088 (Europe).tap" size="598994" crc="a2b9a579" md5="7f166526a4e2d2819b7dcfde8e3aa3d3" sha1="386e91a577b060e5cfea4099bbb35e2362f27ff9" sha256="fe34e0d68b40848a7fdb258631ebb4f00451caf1f2a7a4116f3839e785860011"/>
 	</game>
 	<game name="ADIDAS Championship Football (Europe)" id="0089">
 		<category>Games</category>
@@ -141,23 +141,23 @@
 	<game name="Aaargh! (Europe)" id="0081">
 		<category>Games</category>
 		<description>Aaargh! (Europe)</description>
-		<rom name="Aaargh! (Europe).tap" size="352250" crc="7a5757db" md5="ee93f5026c80cc06c73fbf353ba0d73f" sha1="5310555b06fb1c01f335c60706a4c95bad13bfb6"/>
+		<rom name="Aaargh! (Europe).tap" size="352250" crc="7a5757db" md5="ee93f5026c80cc06c73fbf353ba0d73f" sha1="5310555b06fb1c01f335c60706a4c95bad13bfb6" sha256="39f1faad8fbe2464d1f08033b4844b3b0162e3499d3fa2acb58dd2f581ad4910"/>
 	</game>
 	<game name="Ace II (Europe)" id="0083">
 		<category>Games</category>
 		<description>Ace II (Europe)</description>
-		<rom name="Ace II (Europe).tap" size="629174" crc="6dfc7cfa" md5="416f93633a3fe0d47f03393d71be1688" sha1="2ca5fe13ffef4659662c81c11f7bae395fa3a4e1"/>
+		<rom name="Ace II (Europe).tap" size="629174" crc="6dfc7cfa" md5="416f93633a3fe0d47f03393d71be1688" sha1="2ca5fe13ffef4659662c81c11f7bae395fa3a4e1" sha256="ad0d18cc815715b0347cc6bb71ad8bc086d89ec94c1575d4295aa5b0340bc6cf"/>
 	</game>
 	<game name="Ace of Aces (Europe)" id="0084">
 		<category>Games</category>
 		<description>Ace of Aces (Europe)</description>
-		<rom name="Ace of Aces (Europe).tap" size="695802" crc="b6675ad1" md5="9720d8cbebb0767945a0e50383ed13de" sha1="c3a3a4fb91e30d9185d6d629d0b01fd2c16e9169"/>
+		<rom name="Ace of Aces (Europe).tap" size="695802" crc="b6675ad1" md5="9720d8cbebb0767945a0e50383ed13de" sha1="c3a3a4fb91e30d9185d6d629d0b01fd2c16e9169" sha256="3f0eaa6465241d5c8582a929bc9d1e0cc428dd4cf22aee50d739d230fe618a5b"/>
 	</game>
 	<game name="Acrojet (Europe)" id="0085">
 		<category>Games</category>
 		<description>Acrojet (Europe)</description>
-		<rom name="Acrojet (Europe) (Side 1).tap" size="625077" crc="a7382eae" md5="b0dcf4708aae92bc9d5f2b0d907cc4d2" sha1="f2478956a6c4db7f8093603404308e038bc6753c"/>
-		<rom name="Acrojet (Europe) (Side 2).tap" size="87670" crc="554752aa" md5="4eea0498e16248c96e81cb70f49a49e2" sha1="0ee4c5df2dddac2f02ac246564cdb71a9ac4d333"/>
+		<rom name="Acrojet (Europe) (Side 1).tap" size="625077" crc="a7382eae" md5="b0dcf4708aae92bc9d5f2b0d907cc4d2" sha1="f2478956a6c4db7f8093603404308e038bc6753c" sha256="90124298917dfae717011f5696585263c5ad0602768ec217ed853b3d6c348282"/>
+		<rom name="Acrojet (Europe) (Side 2).tap" size="87670" crc="554752aa" md5="4eea0498e16248c96e81cb70f49a49e2" sha1="0ee4c5df2dddac2f02ac246564cdb71a9ac4d333" sha256="b14278a7bbc91435bca10d30cdb6c6c00c251e90e57a1b6d81328a336eb9dc12"/>
 	</game>
 	<game name="Action Biker (Europe)" id="0086">
 		<category>Games</category>
@@ -193,7 +193,7 @@
 	<game name="Advanced Pinball Simulator (Europe)" id="0092">
 		<category>Games</category>
 		<description>Advanced Pinball Simulator (Europe)</description>
-		<rom name="Advanced Pinball Simulator (Europe).tap" size="912430" crc="afae2a8a" md5="6279bfc635134509c11b04278ca4ca96" sha1="256a6342bec93547e8d83a846e11c51cd57220c3"/>
+		<rom name="Advanced Pinball Simulator (Europe).tap" size="912430" crc="afae2a8a" md5="6279bfc635134509c11b04278ca4ca96" sha1="256a6342bec93547e8d83a846e11c51cd57220c3" sha256="1bbe984d1787fe4525c4f47907c7b1e62083167ac01009d94dc5590b0e9f782b"/>
 	</game>
 	<game name="Adventures of Bond... Basildon Bond, The (Europe)" id="0093">
 		<category>Games</category>
@@ -5931,6 +5931,12 @@
 		<category>Games</category>
 		<description>Robozone (Europe)</description>
 		<rom name="Robozone (Europe).tap" size="730593" crc="e734a414" md5="0d9f9b3a112d70d48306d8d75562c0a6" sha1="c4d14134275d50082a2cfa612cc975a5abb7d42d"/>
+	</game>
+	<game name="Rock Star Goes Bizzare (United Kingdom)" id="1685">
+		<category>Games</category>
+		<description>Rock Star Goes Bizzare (United Kingdom)</description>
+		<rom name="Rock Star Goes Bizzare (United Kingdom) (Data).tap" size="289796" crc="f4230d5c" md5="016b27ff3f2f6cf855d524a681807669" sha1="8b2a4a64f5fafc8ac3dedfe036a95f258bf267e0" sha256="bf45e7b94c6ba538b3e58ef3a47046a664493a96e575f0eef8047426e2f0cde6"/>
+		<rom name="Rock Star Goes Bizzare (United Kingdom) (Game).tap" size="844132" crc="d9603b72" md5="eb87b43ba51783ad0b4a508d297c5d1d" sha1="9ccfe506411fe56b451e8868786acb54a476ff45" sha256="93c0bd5cb4430beebbf353976484fd46668f9498d42707718026a6b616f191ce"/>
 	</game>
 	<game name="Rock n' Bolt (Europe)" id="1199">
 		<category>Games</category>

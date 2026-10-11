@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,434) (-y) [-aAbBcefkmMoprv] (2026-10-10 07-31-49) (Retool)</description>
-		<version>2026-10-10 07-31-49</version>
-		<date>2026-10-10 08-20-35</date>
+		<description>IBM - PC compatible (26,436) (-y) [-aAbBcefkmMoprv] (2026-10-11 04-32-05) (Retool)</description>
+		<version>2026-10-11 04-32-05</version>
+		<date>2026-10-11 08-34-04</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -39221,11 +39221,11 @@
 		<rom name="Diablo II (USA) (Install Disc) (Rev 1).bin" size="666632064" crc="63c3a090" md5="23e0c4a37472140d423093e12d370316" sha1="c86e455a4c855792e0a49f8e7ff4ca6ce70d68fb"/>
 		<rom name="Diablo II (USA) (Install Disc) (Rev 1).cue" size="104" crc="97d0d44f" md5="1f71c142dc23418b9d212b90c7be6008" sha1="41053198d677094ea67e0ee69a00623d6db58187"/>
 	</game>
-	<game name="Diablo II (USA) (Play Disc) (Rev 1)" id="2101">
+	<game name="Diablo II (USA, Japan) (Play Disc) (Rev 1)" id="2101">
 		<category>Games</category>
-		<description>Diablo II (USA) (Play Disc) (Rev 1)</description>
-		<rom name="Diablo II (USA) (Play Disc) (Rev 1).bin" size="701147664" crc="2c20537a" md5="6283160e082d1f9ad9501750dd0426f0" sha1="c6bc646505f87d222f633acbb478aa517a74e95d"/>
-		<rom name="Diablo II (USA) (Play Disc) (Rev 1).cue" size="101" crc="84f887b8" md5="4669ebeb02eb874a48ecd52988dd70e8" sha1="d7b63de76164b9d7567752d6697c125adf937382"/>
+		<description>Diablo II (USA, Japan) (Play Disc) (Rev 1)</description>
+		<rom name="Diablo II (USA, Japan) (Play Disc) (Rev 1).bin" size="701147664" crc="2c20537a" md5="6283160e082d1f9ad9501750dd0426f0" sha1="c6bc646505f87d222f633acbb478aa517a74e95d"/>
+		<rom name="Diablo II (USA, Japan) (Play Disc) (Rev 1).cue" size="108" crc="c679fbe6" md5="49f76969b163e1f82cd9137f38c9825f" sha1="0a128b1baabb5370f1e54de4728d583d856c7a60"/>
 	</game>
 	<game name="Diablo II (World) (Disc 3) (Cinematics Disc)" id="2096">
 		<category>Games</category>
@@ -47548,6 +47548,12 @@
 		<description>Ecstatica (USA) (En,Fr,De)</description>
 		<rom name="Ecstatica (USA) (En,Fr,De).bin" size="343020384" crc="ceae8874" md5="82ea6ab32601358ccd2528a51c792706" sha1="9ecea44b6f48a8dad708f1bf82405113a15b02f6"/>
 		<rom name="Ecstatica (USA) (En,Fr,De).cue" size="115" crc="abefe110" md5="2fc40aa10f9e299a429187397318d3c7" sha1="00e8fc68dedb7d86f38a9f8e38b80629f03314dc"/>
+	</game>
+	<game name="Ecstatica 2 (USA) (Demo)" id="139296">
+		<category>Demos</category>
+		<description>Ecstatica 2 (USA) (Demo)</description>
+		<rom name="Ecstatica 2 (USA) (Demo).bin" size="38241168" crc="735abd73" md5="efde0a19dbaf083bcc4a9f6e8ed5f7ac" sha1="c787f2eab486aa58d40ffe1ec367e0cc2087e22f"/>
+		<rom name="Ecstatica 2 (USA) (Demo).cue" size="90" crc="695c6fa6" md5="38d0ac81d820abeae00484d13def6d64" sha1="383c130737bce3f17ced35e4344585d069a7cb14"/>
 	</game>
 	<game name="Ecstatica II (USA)" id="83871">
 		<category>Games</category>
@@ -82392,16 +82398,16 @@
 		<rom name="Kajko i Kokosz - Szkola Latania (Poland) (Track 2).bin" size="105571872" crc="3ad0d920" md5="0e752713ea5c4d369b7617936ee8511a" sha1="25e8af046b1a833e59d4292cc32c213e8bd38c1b"/>
 		<rom name="Kajko i Kokosz - Szkola Latania (Poland).cue" size="259" crc="108e6638" md5="f1138dedbffa4b7f8d98f079c652deb0" sha1="4eb0e8ebd730e8a33511e4fb9477d4fdc1629ddb"/>
 	</game>
-	<game name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount)" id="90096">
+	<game name="Kajko i Kokosz - W Krainie Borostworow (Poland)" id="139300">
 		<category>Games</category>
-		<description>Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount)</description>
-		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Track 1).bin" size="702655296" crc="c8b95a2a" md5="add8db971a88b35d065451b01c3610ab" sha1="230bc99cd5245ded61379d861bbd5fc35cb9a95b"/>
-		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Track 2).bin" size="44024736" crc="f522f54a" md5="9d00d59dfdabb2bf0011025259ac0236" sha1="428142f1f72b3d455ee2a2088a107411d022549f"/>
-		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Track 3).bin" size="3697344" crc="dddb1f6c" md5="4d0afca4bbc6575a8ecd599e7a331f43" sha1="0a982f0729084e159373a18b52311659370222f3"/>
-		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Track 4).bin" size="3539760" crc="ccdeb9d2" md5="0470bcfed6921c779ce582ab2d581257" sha1="1921f4cd551cbc1a8898bfdf7f8c86f178c41267"/>
-		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Track 5).bin" size="3528000" crc="4ff82e53" md5="dd116ea3dfb3de25fb87f6abb94b6ae3" sha1="b8e68ae4b26ec81d50d12459b74d4d92746af852"/>
-		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Track 6).bin" size="3694992" crc="01f4f510" md5="4f6df122962428f48875a1e72f69f503" sha1="93f640b5c9c8b88fe4531d9b7a72f26b9e8bc5a2"/>
-		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount).cue" size="837" crc="9744acde" md5="7b7d3edd6dd0a17d0d8aee82f272a49d" sha1="320f8b2b2f9247273b528bbbcd15244840eb1186"/>
+		<description>Kajko i Kokosz - W Krainie Borostworow (Poland)</description>
+		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Track 1).bin" size="524336064" crc="1b987562" md5="63877f421ffa81dc55d2e013df47527e" sha1="da25ca6560b91369a069463deb5bbdc3dd819dbf"/>
+		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Track 2).bin" size="44248176" crc="df2b8315" md5="6f0b7638da98fe47fa26f5b918558cac" sha1="cb6b57d373111ef8b6958f6937f4001bbf23aee5"/>
+		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Track 3).bin" size="28492128" crc="d0efca2e" md5="bd80f5e396f4b3063a7b69bd1d176354" sha1="78e1f1dec76e4c3a342d7d213aef6613642b71ee"/>
+		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Track 4).bin" size="29360016" crc="7e9f68ea" md5="b11f62eac4604948e799ec6195453b36" sha1="df1afde44b26411de6d7d3ab4ce63707f07034fe"/>
+		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Track 5).bin" size="35602224" crc="b87e2497" md5="e67deee10161cd597b1f93e843e36d04" sha1="01c7a645475d5550f8646ec0de956f0b5d90468c"/>
+		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland) (Track 6).bin" size="33718272" crc="81a9bfd8" md5="5a03e728a10d968202631ac1c886c59f" sha1="e700b9aea2a0910a6785a1ca2739b36a08711cdd"/>
+		<rom name="Kajko i Kokosz - W Krainie Borostworow (Poland).cue" size="828" crc="e5a7c2ee" md5="7cc57207158d99d74e91ba07e1a7b7fd" sha1="e326c217593671d2f64a30865ce5ecc41e89ba95"/>
 	</game>
 	<game name="Kak dostat' bossa 2 (Russia)" id="116446">
 		<category>Games</category>
@@ -107987,6 +107993,12 @@
 		<description>Na Fali - Centrum Zabawy (Poland)</description>
 		<rom name="Na Fali - Centrum Zabawy (Poland).bin" size="190591968" crc="83ce3864" md5="bdfd064d31fd4f7f6b3a31b72851d9cb" sha1="278d78899ef82caf3ab092973d9dddb95a75aa5e"/>
 		<rom name="Na Fali - Centrum Zabawy (Poland).cue" size="99" crc="93da4b07" md5="f153dd346da98becab7d89d941f42cdd" sha1="e3febea6d49a8ff4ad294cf5ce77fe0260e9253b"/>
+	</game>
+	<game name="Na Grani Zero (Russia)" id="139297">
+		<category>Games</category>
+		<description>Na Grani Zero (Russia)</description>
+		<rom name="Na Grani Zero (Russia).bin" size="74760672" crc="04eaa71e" md5="593a8e15fa7675af0d4272f57cb65cbb" sha1="5b622d936be8e43e2d6c7a0e6471bdef84bce3bc"/>
+		<rom name="Na Grani Zero (Russia).cue" size="111" crc="9f30d6f4" md5="658ba4c9f3dcea76de7d5966814472e8" sha1="1045f64c08f39c9dea4a5b7b1f51e4a34143b52a"/>
 	</game>
 	<game name="Na Palauk! Antras Leidimas. Apvali Suma (Lithuania)" id="91843">
 		<category>Games</category>

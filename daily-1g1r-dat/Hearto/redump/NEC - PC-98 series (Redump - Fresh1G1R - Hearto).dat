@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC-98 series (Retool)</name>
-		<description>NEC - PC-98 series (119) (-y) [-aAbBcefkmMoprv] (2026-09-30 20-13-57) (Retool)</description>
-		<version>2026-09-30 20-13-57</version>
-		<date>2026-10-10 08-21-28</date>
+		<description>NEC - PC-98 series (120) (-y) [-aAbBcefkmMoprv] (2026-10-10 11-21-36) (Retool)</description>
+		<version>2026-10-10 11-21-36</version>
+		<date>2026-10-11 08-34-57</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1649,6 +1649,34 @@
 		<rom name="Viper CTR - Asuka (Japan) (Track 20).bin" size="1601712" crc="e6c88ab2" md5="f021fc8eb24387e50cdc88a556bf2be2" sha1="2284dcf5bcefaa46aee847ddb508f619bacb5039"/>
 		<rom name="Viper CTR - Asuka (Japan) (Track 21).bin" size="1627584" crc="b2812a79" md5="8ac493f4efeb9b308a8c1f764a8ff2ea" sha1="b03c8587457898a12e584f96e06ade883fabd6ec"/>
 		<rom name="Viper CTR - Asuka (Japan).cue" size="2502" crc="b3a77f13" md5="8256acc48491abe3a912e3343e9a5a6c" sha1="e271ac9e5546c37b1c6b2048387bb3ead3d536f4"/>
+	</game>
+	<game name="Viper-F40 (Japan)" id="139290">
+		<category>Games</category>
+		<description>Viper-F40 (Japan)</description>
+		<rom name="Viper-F40 (Japan) (Track 01).bin" size="217611744" crc="eaee3a51" md5="5f2633b4ccc005b092836e091bba61a6" sha1="9a59c84dac617a59a77f1692adeb235c98f7b27b"/>
+		<rom name="Viper-F40 (Japan) (Track 02).bin" size="29066016" crc="7e940f0a" md5="fbf6ff55653eecef8a0fe7dda94f7225" sha1="ef666bbc06ae494c808be89b9c614fe085f66c71"/>
+		<rom name="Viper-F40 (Japan) (Track 03).bin" size="16558080" crc="4fcb8a6b" md5="51522d09eb0b439c667fcfa6ab53e495" sha1="7cd9ad14cb823a7241dbef65ee616b7deae1cc20"/>
+		<rom name="Viper-F40 (Japan) (Track 04).bin" size="6246912" crc="347e365c" md5="63d419f96d1a1e14d3b5d0c543c7132d" sha1="ab5c7edb066252697198e65d1d24fa050f40ac3e"/>
+		<rom name="Viper-F40 (Japan) (Track 05).bin" size="28830816" crc="8f00c9ac" md5="e1acb9793668b800d38ad13887bca9f5" sha1="31705af9a86ecaaf90e749a94b695018fe0fa7cb"/>
+		<rom name="Viper-F40 (Japan) (Track 06).bin" size="25672080" crc="d071e699" md5="37a4ed386176e6ed16a74b2c2e89068b" sha1="c9736d56fa121236c58a3522aab5cc52892f71b5"/>
+		<rom name="Viper-F40 (Japan) (Track 07).bin" size="13321728" crc="030231c6" md5="c28fab91865bf46659dfcbf55c9eca53" sha1="5028acd86faf2ff2f570e39d2b3a332a9ba74f12"/>
+		<rom name="Viper-F40 (Japan) (Track 08).bin" size="23108400" crc="a2823eaa" md5="c81aae069cc44bf932d546e44e133053" sha1="30f6bbd7a13c311be0ce0e905a181d552b85703e"/>
+		<rom name="Viper-F40 (Japan) (Track 09).bin" size="21610176" crc="b4896f0c" md5="4a1ff9ff10558ad0c15d500b34334afd" sha1="e2b6eecf867b503d2dcc94f58f415aa7f223354f"/>
+		<rom name="Viper-F40 (Japan) (Track 10).bin" size="17378928" crc="61c7c8e7" md5="d82d8ffea00e962846b4fec405222255" sha1="b6159aa635b53d6d64ce22772811afce572d34f0"/>
+		<rom name="Viper-F40 (Japan) (Track 11).bin" size="17306016" crc="b9a7106d" md5="bdfd3cc31002a5a08ae7c1924b5c0157" sha1="1cb961bfca78759ca9989daf6f577feeae84712d"/>
+		<rom name="Viper-F40 (Japan) (Track 12).bin" size="23724624" crc="076e8736" md5="a25a331cf0fb016f337685dd592c421c" sha1="d8babf14be77238eca5dab1e200163ef6f395f28"/>
+		<rom name="Viper-F40 (Japan) (Track 13).bin" size="24009216" crc="606b90a4" md5="cf6b4a39acd21c5a89eb00109a7e7261" sha1="05c7520622a03cea1ef11a968df023f1aca7ad77"/>
+		<rom name="Viper-F40 (Japan) (Track 14).bin" size="25888464" crc="9258ac4a" md5="9fb15f2b023780607bbb581a57fc9d78" sha1="8bc423ad5cbd337cfdcbeb96fa645b81ac1e5789"/>
+		<rom name="Viper-F40 (Japan) (Track 15).bin" size="23374176" crc="e28a7f8d" md5="494c69dea0fab3304b72813c1e46ec1a" sha1="54085d1054b8c1d61e0de063a19ebd53bed4ee86"/>
+		<rom name="Viper-F40 (Japan) (Track 16).bin" size="20462400" crc="78492b83" md5="4b137d31f43293d21a466da704adc4b3" sha1="793a462ca2a08dd5db8871e9068c91e5e04b59f3"/>
+		<rom name="Viper-F40 (Japan) (Track 17).bin" size="13893264" crc="0caf1413" md5="9384103682c3870b3f2dd042b94cdd28" sha1="1c341f36240627b61d2130ee8175bf2d52fa88bf"/>
+		<rom name="Viper-F40 (Japan) (Track 18).bin" size="26311824" crc="fd30d9ee" md5="e8dc00288d8c2e3568fb4a3e27303300" sha1="64bef04e73dcb1f9025d30557cfb2b2fd69f61cd"/>
+		<rom name="Viper-F40 (Japan) (Track 19).bin" size="19996704" crc="1b900255" md5="0b47783b4847378e42936f2e6f775bf2" sha1="9a9fde1353798263a6ecd9addd2251d61b576ad3"/>
+		<rom name="Viper-F40 (Japan) (Track 20).bin" size="33182016" crc="5f06a5f2" md5="a78b99b767f6f9bbe5c28d19a6102734" sha1="7956645b128a4039668a5eda558fa3b007cd9562"/>
+		<rom name="Viper-F40 (Japan) (Track 21).bin" size="25930800" crc="5e7638a0" md5="4895770d77a413f1eb0f5f4f6ec8bba2" sha1="d54464ff01d9d8a1450433891c53a50576fb42a0"/>
+		<rom name="Viper-F40 (Japan) (Track 22).bin" size="57800400" crc="291a74ca" md5="4f00aafd44a08aa0c970c3b47c006e66" sha1="143a792f9bc16eb09b87ce75c5fcd9549297156c"/>
+		<rom name="Viper-F40 (Japan) (Track 23).bin" size="1778112" crc="9c3e7dd1" md5="9211858e8ad285aa1785a371d0dba8fd" sha1="04d3fe5a9b340a1ebbf348aadebf11b833d82977"/>
+		<rom name="Viper-F40 (Japan).cue" size="2558" crc="454f36f5" md5="ca196194dbfc4d7a900fe73ffb81adbd" sha1="39b9eacc9121cdeeb6b2824d743ca29d1cac7f5e"/>
 	</game>
 	<game name="Virtuacall (Japan)" id="81941">
 		<category>Games</category>
