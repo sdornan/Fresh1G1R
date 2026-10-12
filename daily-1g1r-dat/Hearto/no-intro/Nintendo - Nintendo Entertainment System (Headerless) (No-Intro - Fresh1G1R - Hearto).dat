@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,838) (-y) [-aAbBcefkmMoprv] (20261010-010858) (Retool)</description>
-		<version>20261010-010858</version>
-		<date>2026-10-11 08-37-10</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,836) (-y) [-aAbBcefkmMoprv] (20261011-203921) (Retool)</description>
+		<version>20261011-203921</version>
+		<date>2026-10-12 09-01-52</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1052,11 +1052,6 @@
 		<description>Booby Kids (Japan) (En)</description>
 		<rom name="Booby Kids (Japan) (En).unh" size="131072" crc="4178497a" md5="bb1e51539ebd4adf9652eff031c3e98c" sha1="f1b35efdecc98f52a560b32acb75ebd719cbc9de" sha256="9f7cf8570641ea7041e20b86ceac0a9d4e55464acbd7a235007dd5bc77e61a95"/>
 	</game>
-	<game name="Boomerang Kid (World) (Unl)" id="5546">
-		<category>Games</category>
-		<description>Boomerang Kid (World) (Unl)</description>
-		<rom name="Boomerang Kid (World) (Unl).unh" size="262144" crc="4f171cdf" md5="2adcd0f7ca0a2bf2aa6d4e9ea3f7b533" sha1="b47c6fa2d5adffb859d78b0880b357ebbe885993" sha256="e12f620e7fae3389bb31129b3cb58d81ee4b96ff9aaadc2ae7f7957d469cb547"/>
-	</game>
 	<game name="Boulder Dash (USA)" id="0294">
 		<category>Games</category>
 		<description>Boulder Dash (USA)</description>
@@ -1825,11 +1820,6 @@
 		<category>Games</category>
 		<description>Dash Galaxy in the Alien Asylum (USA)</description>
 		<rom name="Dash Galaxy in the Alien Asylum (USA).unh" size="65536" crc="67811da6" md5="8576052dd76c3779250f69a9fce7d03e" sha1="f423b0c665b22f5550ef1262b15a646a8ef1fb5e" sha256="227e789fef94eabcf24a5ec9a3944de58b183bbc7d96140269d1c908f162b853"/>
-	</game>
-	<game name="Data East All-Star Collection (USA) (Retro-Bit)" id="3828">
-		<category>Games</category>
-		<description>Data East All-Star Collection (USA) (Retro-Bit)</description>
-		<rom name="Data East All-Star Collection (USA) (Retro-Bit).unh" size="2097152" crc="9e8fd9a4" md5="3d92f4f7aa8fe7f80d5ad5f30936a716" sha1="755b43ebfc7f934225906b7cf526487bf98c5562" sha256="d69c3c40b1dc447b3c65d48bd1c54c11d76986ccbc5c7088ceb27d1c9f675a18"/>
 	</game>
 	<game name="David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)" id="0297">
 		<category>Games</category>

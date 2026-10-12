@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,716) (-y) [-aAbBcdkmMpPuv] (20261010-134001) (Retool)</description>
-		<version>20261010-134001</version>
-		<date>2026-10-11 08-50-22</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,716) (-y) [-aAbBcdkmMpPuv] (20261011-202841) (Retool)</description>
+		<version>20261011-202841</version>
+		<date>2026-10-12 09-16-53</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -18325,15 +18325,15 @@
 		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 200 Mannin no Kanken - Tokoton Kanji Nou (Japan) (Rev 1)</description>
 		<rom name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 200 Mannin no Kanken - Tokoton Kanji Nou (Japan) (Rev 1).nds" size="16777216" crc="5fd80c8c" md5="6f8402473aedfe5e5a6e08a7f200eedf" sha1="d24375c84088e26d612b31c701aced93d2513c9a"/>
 	</game>
+	<game name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan)" id="1825">
+		<category>Games</category>
+		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan)</description>
+		<rom name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan).nds" size="33554432" crc="faeb371c" md5="d4afb9ec40267c243efde462f45259b5" sha1="b8b10fb1a1ab661acdd7b71d7e48ec81baff2a9a"/>
+	</game>
 	<game name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten, Yoji Jukugo Jiten (Japan) (Rev 1)" id="z151">
 		<category>Games</category>
 		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten, Yoji Jukugo Jiten (Japan) (Rev 1)</description>
 		<rom name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten, Yoji Jukugo Jiten (Japan) (Rev 1).nds" size="33554432" crc="d94662d2" md5="344d218ba55acbe624dabbcf5c412eb2" sha1="6b87b61e91e2a14eefca1d0705d6b40f42c2edab" sha256="593c64e86e0fb4dea6358fb014b5fbb928ca3f84df350367894887421de415d2"/>
-	</game>
-	<game name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan)" id="1825">
-		<category>Games</category>
-		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan)</description>
-		<rom name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan).nds" size="33554432" crc="faeb371c" md5="d4afb9ec40267c243efde462f45259b5" sha1="b8b10fb1a1ab661acdd7b71d7e48ec81baff2a9a"/>
 	</game>
 	<game name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken Premium - Zenkyuu Zen-Kanji Kanzen Seiha (Japan)" id="z044">
 		<category>Games</category>

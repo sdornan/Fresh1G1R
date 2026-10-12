@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii (Retool)</name>
-		<description>Nintendo - Wii (1,663) (-y) [-aAbBcdkmMpPuv] (2026-10-11 02-45-06) (Retool)</description>
-		<version>2026-10-11 02-45-06</version>
-		<date>2026-10-11 08-46-42</date>
+		<description>Nintendo - Wii (1,664) (-y) [-aAbBcdkmMpPuv] (2026-10-11 20-43-31) (Retool)</description>
+		<version>2026-10-11 20-43-31</version>
+		<date>2026-10-12 09-14-15</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2487,11 +2487,11 @@
 		<serial>RVL-SBAJ-JPN-B0</serial>
 		<rom name="Dragon Quest - Monster Battle Road Victory (Japan).iso" size="4699979776" crc="484e1e93" md5="21ffbf5493af94b41396268c26ae019e" sha1="10b4dc8ae4508eaa1cbc432f4c72851c12599e7b"/>
 	</game>
-	<game name="Dragon Quest 25 Shuunen Kinen - Famicom &amp; Super Famicom Dragon Quest I-II-III (Japan)" id="46879">
+	<game name="Dragon Quest 25-shuunen Kinen - Famicom &amp; Super Famicom Dragon Quest I-II-III (Japan)" id="46879">
 		<category>Games</category>
-		<description>Dragon Quest 25 Shuunen Kinen - Famicom &amp; Super Famicom Dragon Quest I-II-III (Japan)</description>
+		<description>Dragon Quest 25-shuunen Kinen - Famicom &amp; Super Famicom Dragon Quest I-II-III (Japan)</description>
 		<serial>RVL-S25J-JPN-B0</serial>
-		<rom name="Dragon Quest 25 Shuunen Kinen - Famicom &amp; Super Famicom Dragon Quest I-II-III (Japan).iso" size="4699979776" crc="4ff701b5" md5="56cc2a78614b6a1e366d2358a5cebeac" sha1="7b71e822df4c43d8e09ac4e12aac16e653e4a2a9"/>
+		<rom name="Dragon Quest 25-shuunen Kinen - Famicom &amp; Super Famicom Dragon Quest I-II-III (Japan).iso" size="4699979776" crc="4ff701b5" md5="56cc2a78614b6a1e366d2358a5cebeac" sha1="7b71e822df4c43d8e09ac4e12aac16e653e4a2a9"/>
 	</game>
 	<game name="Dragon Quest Swords - The Masked Queen and the Tower of Mirrors (USA)" id="12118">
 		<category>Games</category>
@@ -3856,6 +3856,12 @@
 		<description>Horse Life Adventures (USA) (En,Fr,Es)</description>
 		<serial>RVL-RH5E-USA-B0</serial>
 		<rom name="Horse Life Adventures (USA) (En,Fr,Es).iso" size="4699979776" crc="f5923f94" md5="543541f9ca4cb3ef2d99a4bbe874c545" sha1="ef107110bfe0d50118d1f37a2336c54545833dde"/>
+	</game>
+	<game name="Hoshi no Kirby - 20-shuunen Special Collection (Japan)" id="29037">
+		<category>Games</category>
+		<description>Hoshi no Kirby - 20-shuunen Special Collection (Japan)</description>
+		<serial>RVL-S72J-JPN-B0</serial>
+		<rom name="Hoshi no Kirby - 20-shuunen Special Collection (Japan).iso" size="4699979776" crc="fff04cb2" md5="44ca9f1187c63581c673c08f92113e86" sha1="6be3d068349b67b3da166826dd83051a502cd071"/>
 	</game>
 	<game name="Hot Wheels - Battle Force 5 (USA)" id="42676">
 		<category>Games</category>

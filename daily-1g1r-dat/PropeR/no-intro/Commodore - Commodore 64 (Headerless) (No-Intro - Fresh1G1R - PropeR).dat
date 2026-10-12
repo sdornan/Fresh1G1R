@@ -2,15 +2,50 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Headerless) (Retool)</name>
-		<description>Commodore - Commodore 64 (Headerless) (6) (-y) [-aAbBcdkmMpPuv] (20261010-231237) (Retool)</description>
-		<version>20261010-231237</version>
-		<date>2026-10-11 08-49-15</date>
+		<description>Commodore - Commodore 64 (Headerless) (13) (-y) [-aAbBcdkmMpPuv] (20261011-145606) (Retool)</description>
+		<version>20261011-145606</version>
+		<date>2026-10-12 09-15-47</date>
 		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
+	<game name="Bubble Burst (USA, Europe)" id="0140">
+		<category>Games</category>
+		<description>Bubble Burst (USA, Europe)</description>
+		<rom name="Bubble Burst (USA, Europe).bin" size="16384" crc="ea72c865" md5="7b3653fb38659b6ac961d3d9e98520be" sha1="5f743628e7b0d5d540052ac057b760a92750f77d" sha256="e26a874a3000583431cab1904d1ea34c1acf2fdb337462211db68647b8fce5af"/>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (USA, Europe)" id="0141">
+		<category>Games</category>
+		<description>Buck Rogers - Planet of Zoom (USA, Europe)</description>
+		<rom name="Buck Rogers - Planet of Zoom (USA, Europe).bin" size="16384" crc="d4484f3f" md5="ac4aeaf48c8ea96d04840c57bf30e975" sha1="47d362551debaa7954b24910fee6350066b7895a" sha256="e2fabe03fff9697158af2ebd0d3423b2bcb80e435c6259c5dac8ade4abc97aa0"/>
+	</game>
+	<game name="Bug Crusher (USA, Europe)" id="0142">
+		<category>Games</category>
+		<description>Bug Crusher (USA, Europe)</description>
+		<rom name="Bug Crusher (USA, Europe).bin" size="8192" crc="869e95ee" md5="ffe91aaa6b5c16430839d37921eae9f9" sha1="1a25a1b729e78773b49bf2d6b04cb0bcfc4ae67d" sha256="9ff88c0dafe204f729ac301571a8e3e905198232d0faf861c6f63e47d88beff0"/>
+	</game>
+	<game name="Castle Hassle (USA, Europe)" id="0143">
+		<category>Games</category>
+		<description>Castle Hassle (USA, Europe)</description>
+		<rom name="Castle Hassle (USA, Europe).bin" size="16384" crc="d02d546a" md5="1d8fa7fb62e6a35cbaf6c07a3ad15df9" sha1="3d964c36d191f464f9288068e6aace2143226be3" sha256="e946678c8e26505ec1381b897a0d80d3b35f95302551371a5484ddfa33cd5f1c"/>
+	</game>
+	<game name="Centipede (USA, Europe)" id="0144">
+		<category>Games</category>
+		<description>Centipede (USA, Europe)</description>
+		<rom name="Centipede (USA, Europe).bin" size="8192" crc="ad4e4d45" md5="54085407815b75aca2508a9429575278" sha1="f2f76f9c53ced827aac2428e4e672b54617d0fac" sha256="e53e1d05c9250ff68433f2b913a480b11a7aef28c3e8e0937b49178a208ffff8"/>
+	</game>
+	<game name="Checkers (USA, Europe)" id="0146">
+		<category>Games</category>
+		<description>Checkers (USA, Europe)</description>
+		<rom name="Checkers (USA, Europe).bin" size="16384" crc="92d8d4e4" md5="4d9410b2dbfd309f2ed2d0129dbd69b8" sha1="1ab54a850237ef349b53b186157613a2f653138d" sha256="84d812edc2c1256d0a10748c233ba68e775df27fea44ffde78cf757bff369596"/>
+	</game>
+	<game name="Clowns (World) (En,Ja) (v02) (MAX)" id="0028">
+		<category>Games</category>
+		<description>Clowns (World) (En,Ja) (v02) (MAX)</description>
+		<rom name="Clowns (World) (En,Ja) (v02) (MAX).bin" size="8192" crc="85aa080b" md5="126dac5d98bea5f2a388eaf97fa842d0" sha1="ffebfc19263dc50d3a808135dbe88567617af6b8" sha256="9ea5118ec4258c59b03b9273004fdd23407f3553e091182e7fb41bc3faee26ed"/>
+	</game>
 	<game name="Gorf (USA, Europe)" id="0183">
 		<category>Games</category>
 		<description>Gorf (USA, Europe)</description>
@@ -19,12 +54,12 @@
 	<game name="Gridrunner (USA, Europe)" id="0184">
 		<category>Games</category>
 		<description>Gridrunner (USA, Europe)</description>
-		<rom name="Gridrunner (USA, Europe).crt" size="8192" crc="12f36a09" md5="20f4ce80b6eb3e05f4fcf1686192a8e1" sha1="218625325984ebdef88a5b56bc81bcff229d61db" sha256="52dab22623126061a1e8487568fa693b35bc0c8d3f8d5079f9223c420618b7a1"/>
+		<rom name="Gridrunner (USA, Europe).bin" size="8192" crc="12f36a09" md5="20f4ce80b6eb3e05f4fcf1686192a8e1" sha1="218625325984ebdef88a5b56bc81bcff229d61db" sha256="52dab22623126061a1e8487568fa693b35bc0c8d3f8d5079f9223c420618b7a1"/>
 	</game>
 	<game name="Lazarian (USA, Europe)" id="0203">
 		<category>Games</category>
 		<description>Lazarian (USA, Europe)</description>
-		<rom name="Lazarian (USA, Europe).crt" size="16384" crc="aa5d27d4" md5="986467c4848b5fd9e13cb61e8c7d1aeb" sha1="cf3dedd23375d51c11dbac60167031e6fb8a6a08" sha256="771d9a85d43f625090e15a89e9103061e5c95ae71d5261f0db156bdca218bf07"/>
+		<rom name="Lazarian (USA, Europe).bin" size="16384" crc="aa5d27d4" md5="986467c4848b5fd9e13cb61e8c7d1aeb" sha1="cf3dedd23375d51c11dbac60167031e6fb8a6a08" sha256="771d9a85d43f625090e15a89e9103061e5c95ae71d5261f0db156bdca218bf07"/>
 	</game>
 	<game name="Pole Position (USA, Europe)" id="0249">
 		<category>Games</category>

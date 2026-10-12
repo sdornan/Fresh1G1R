@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,010) (-y) [-aAbBcdkmMpPuv] (2026-10-11 04-32-05) (Retool)</description>
-		<version>2026-10-11 04-32-05</version>
-		<date>2026-10-11 08-45-41</date>
+		<description>IBM - PC compatible (27,016) (-y) [-aAbBcdkmMpPuv] (2026-10-12 08-36-00) (Retool)</description>
+		<version>2026-10-12 08-36-00</version>
+		<date>2026-10-12 09-12-56</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -51121,11 +51121,17 @@
 		<description>Europa 1400 - Gold Edition (Europe)</description>
 		<rom name="Europa 1400 - Gold Edition (Europe).iso" size="963346432" crc="f66d3db1" md5="a396dc587a3a4addf2f2c1a1bbde1852" sha1="f98c5a54812d60e10b07911b48d81d1867495182"/>
 	</game>
-	<game name="Europa 1400 - The Guild (USA)" id="102804">
+	<game name="Europa 1400 - The Guild (USA, Europe)" id="102804">
 		<category>Games</category>
-		<description>Europa 1400 - The Guild (USA)</description>
-		<rom name="Europa 1400 - The Guild (USA).bin" size="689832192" crc="eb7e674f" md5="b39840c8415914ef7a1a903d00b724b1" sha1="14b3c4654649e19f1cdcfa0b6cc50783873cf666"/>
-		<rom name="Europa 1400 - The Guild (USA).cue" size="95" crc="5e0ce93a" md5="ce129893a45f6f9e5d251c3c73667348" sha1="3aa69a42451aecc6349d13f17d75c775444e4fc4"/>
+		<description>Europa 1400 - The Guild (USA, Europe)</description>
+		<rom name="Europa 1400 - The Guild (USA, Europe).bin" size="689832192" crc="eb7e674f" md5="b39840c8415914ef7a1a903d00b724b1" sha1="14b3c4654649e19f1cdcfa0b6cc50783873cf666"/>
+		<rom name="Europa 1400 - The Guild (USA, Europe).cue" size="103" crc="e21822c6" md5="4b9169794781909daa06c78810b3d3a3" sha1="fe72ddd3745600628f41d79184e01c9f54f6d2f2"/>
+	</game>
+	<game name="Europa 1400 - The Guild - Bonus Disc (Europe)" id="139313">
+		<category>Bonus Discs</category>
+		<description>Europa 1400 - The Guild - Bonus Disc (Europe)</description>
+		<rom name="Europa 1400 - The Guild - Bonus Disc (Europe).bin" size="204021888" crc="3d534964" md5="832e99e451093a1c356519feb4bc2a53" sha1="2836eee2ebd677f9197ca24807c7df7f44fa50de"/>
+		<rom name="Europa 1400 - The Guild - Bonus Disc (Europe).cue" size="111" crc="d445310a" md5="d7b65e5243398fa62bd9d6a9fe8970c8" sha1="68e13e63ce34e7a8c0ef5cdd4bf00b565c75ebd8"/>
 	</game>
 	<game name="Europa Universalis (USA)" id="46562">
 		<category>Games</category>
@@ -62089,6 +62095,12 @@
 		<rom name="Game Series 28, The - Piyo Piyo (Japan) (Rev 1).bin" size="49067424" crc="78d535c2" md5="ad8d9371f79b0700d2add317f676f5eb" sha1="ffcfca4e87a6466129e6250df5f50f4c9c66a332"/>
 		<rom name="Game Series 28, The - Piyo Piyo (Japan) (Rev 1).cue" size="113" crc="85813f25" md5="b7bca2ea72b85b20cff9a910430bd908" sha1="5b46f56d4840eca0583e692b48df9f0e6dc67866"/>
 	</game>
+	<game name="Game Series 29, The - Puzzlin 1 - Amazon-hen (Japan)" id="139316">
+		<category>Games</category>
+		<description>Game Series 29, The - Puzzlin 1 - Amazon-hen (Japan)</description>
+		<rom name="Game Series 29, The - Puzzlin 1 - Amazon-hen (Japan).bin" size="550219824" crc="535920c6" md5="89d6ae7266c81f74df807ddecfc1a905" sha1="e12be38b5b025b40fd934febfcdb2015976d78e2"/>
+		<rom name="Game Series 29, The - Puzzlin 1 - Amazon-hen (Japan).cue" size="118" crc="00e7b660" md5="69001e0ecd906b7c095301e8d87c6aba" sha1="88052ea38c759baefaaff102ef3d660770e9db6b"/>
+	</game>
 	<game name="Game Series 3, The - Mahjong (Japan)" id="2532">
 		<category>Games</category>
 		<description>Game Series 3, The - Mahjong (Japan)</description>
@@ -62106,6 +62118,12 @@
 		<description>Game Series 30, The - MiniMini Games (Japan)</description>
 		<rom name="Game Series 30, The - MiniMini Games (Japan).bin" size="45760512" crc="fd85dacb" md5="ed16ab39b028bd83a891b76b69c505ea" sha1="8279505257fe9dd4fff9985ce1ce30ca1ca8b531"/>
 		<rom name="Game Series 30, The - MiniMini Games (Japan).cue" size="110" crc="a3f469d8" md5="dacfb76a2df1b826ecdb543fcd7be722" sha1="311940a4576e007af6cdef113f8420d47c689a99"/>
+	</game>
+	<game name="Game Series 30, The - Puzzlin 2 - Chichuukai--hen (Japan)" id="139317">
+		<category>Games</category>
+		<description>Game Series 30, The - Puzzlin 2 - Chichuukai--hen (Japan)</description>
+		<rom name="Game Series 30, The - Puzzlin 2 - Chichuukai--hen (Japan).bin" size="545718096" crc="7fe6f8b7" md5="2cf6c394e4b61c9bd3ad78ffdec87cc7" sha1="8c76efffaa3c219e3a4e065945debf43d3b478fd"/>
+		<rom name="Game Series 30, The - Puzzlin 2 - Chichuukai--hen (Japan).cue" size="123" crc="b172dc04" md5="c2411e713a29d8394b412f5a466c062c" sha1="8aa037f4076bab5210d7243692a849392d8e4390"/>
 	</game>
 	<game name="Game Series 31, The - Puzzlin 3 - Alaska-hen (Japan)" id="88733">
 		<category>Games</category>
@@ -62143,23 +62161,29 @@
 		<rom name="Game Series 34, The - Sky Shootist (Japan).bin" size="73173072" crc="15689a04" md5="415eac24a1069edb7bdf5ed8162b3189" sha1="3b08a038fc279f7ed9fc2f83e3d63b6af359a7f8"/>
 		<rom name="Game Series 34, The - Sky Shootist (Japan).cue" size="108" crc="2a746ab3" md5="369fa1e4c22264a08a9e606bbb510c90" sha1="7d55567a147fd8ee83fa16e5a65d120097ca1469"/>
 	</game>
-	<game name="Game Series 36, The - Quiz Jockey 3 - Elizabeth Jououhai-hen (Japan)" id="25326">
+	<game name="Game Series 35, The - Quiz Jockey 2 - Arima Kinen-hen (Japan)" id="139318">
 		<category>Games</category>
-		<description>Game Series 36, The - Quiz Jockey 3 - Elizabeth Jououhai-hen (Japan)</description>
-		<rom name="Game Series 36, The - Quiz Jockey 3 - Elizabeth Jououhai-hen (Japan).bin" size="74285568" crc="78b35b13" md5="d05a16e900588e74cace8032fbdf723d" sha1="820ed1d6524001dcf41843a4baceffc2b99fba0d"/>
-		<rom name="Game Series 36, The - Quiz Jockey 3 - Elizabeth Jououhai-hen (Japan).cue" size="134" crc="06d16b17" md5="7674722fcd1b96e6044552a04901950f" sha1="5348dfb514af001b9602fc18eec28748453e126d"/>
+		<description>Game Series 35, The - Quiz Jockey 2 - Arima Kinen-hen (Japan)</description>
+		<rom name="Game Series 35, The - Quiz Jockey 2 - Arima Kinen-hen (Japan).bin" size="74283216" crc="84f74eb6" md5="90f88fb5fbf89ab5f26f1e7c459ea148" sha1="c99cfc798db1131bf0d7be9b1fa338e3e16f137a"/>
+		<rom name="Game Series 35, The - Quiz Jockey 2 - Arima Kinen-hen (Japan).cue" size="127" crc="beeebed6" md5="e079e6d899ef6fedca0c60ee8ddb64ca" sha1="c4bf38b102ca115f5e96d0edff9d2bd7c274882e"/>
 	</game>
-	<game name="Game Series 37, The - Pipiru Zenhen (Japan)" id="21810">
+	<game name="Game Series 36, The - Quiz Jockey 3 - Elizabeth Jououhai-hen (Japan) (Rev 1)" id="25326">
 		<category>Games</category>
-		<description>Game Series 37, The - Pipiru Zenhen (Japan)</description>
-		<rom name="Game Series 37, The - Pipiru Zenhen (Japan).bin" size="32594016" crc="47c58fe7" md5="63a3c5fa1e67ab3c66d73b82aee5ab92" sha1="e4fac6ca5263ee6271a437d591f7d7bafd33e548"/>
-		<rom name="Game Series 37, The - Pipiru Zenhen (Japan).cue" size="109" crc="da7d3977" md5="87256a008ffebd495b05c8adb76781ac" sha1="896d278ba9cbaf75616c1350b2c85906007ad50d"/>
+		<description>Game Series 36, The - Quiz Jockey 3 - Elizabeth Jououhai-hen (Japan) (Rev 1)</description>
+		<rom name="Game Series 36, The - Quiz Jockey 3 - Elizabeth Jououhai-hen (Japan) (Rev 1).bin" size="74285568" crc="78b35b13" md5="d05a16e900588e74cace8032fbdf723d" sha1="820ed1d6524001dcf41843a4baceffc2b99fba0d"/>
+		<rom name="Game Series 36, The - Quiz Jockey 3 - Elizabeth Jououhai-hen (Japan) (Rev 1).cue" size="142" crc="aec7369d" md5="f3778fe539807df355ff0ce33f949af0" sha1="e57a065541636446faa08e6181c7b96fde548fee"/>
 	</game>
-	<game name="Game Series 38, The - Pipiru Kouhen (Japan)" id="21811">
+	<game name="Game Series 37, The - Pipiru (Zenhen) (Japan) (En,Ja) (Rev 1)" id="139320">
 		<category>Games</category>
-		<description>Game Series 38, The - Pipiru Kouhen (Japan)</description>
-		<rom name="Game Series 38, The - Pipiru Kouhen (Japan).bin" size="32594016" crc="cf478a82" md5="afce45102598682dba107d5f50cb9b98" sha1="11e7b353ae919e9fda14a376b221a4c95b69ffeb"/>
-		<rom name="Game Series 38, The - Pipiru Kouhen (Japan).cue" size="109" crc="7d0af7ab" md5="ad9f76851eb6cf1489ba4155635d1282" sha1="299496f4444fbd64781407dce5ca96022f4bde30"/>
+		<description>Game Series 37, The - Pipiru (Zenhen) (Japan) (En,Ja) (Rev 1)</description>
+		<rom name="Game Series 37, The - Pipiru (Zenhen) (Japan) (En,Ja) (Rev 1).bin" size="32655168" crc="4a751a3a" md5="637d399e4ed55fc8a2819ec45afc943a" sha1="bededa21087fc0d41271d6a6b482a5c1517a8da6"/>
+		<rom name="Game Series 37, The - Pipiru (Zenhen) (Japan) (En,Ja) (Rev 1).cue" size="127" crc="6ebcd034" md5="36c7c9d17545a7cd665e7622ab19c4bb" sha1="da999145c9bd413f9dcaa9c67c32a19de898ded0"/>
+	</game>
+	<game name="Game Series 38, The - Pipiru (Kouhen) (Japan) (En,Ja) (Rev 1)" id="139321">
+		<category>Games</category>
+		<description>Game Series 38, The - Pipiru (Kouhen) (Japan) (En,Ja) (Rev 1)</description>
+		<rom name="Game Series 38, The - Pipiru (Kouhen) (Japan) (En,Ja) (Rev 1).bin" size="32655168" crc="e7df4f00" md5="aa819c94dc95e255a22005eef25c97f1" sha1="0c47c6e05f7c4bb383d2c9243a07e13f6f5c40d7"/>
+		<rom name="Game Series 38, The - Pipiru (Kouhen) (Japan) (En,Ja) (Rev 1).cue" size="127" crc="0158b277" md5="dce6564bff930a0c14cbe25336668492" sha1="76b0b12768e7b819be71f20016c5c67dbe0dd115"/>
 	</game>
 	<game name="Game Series 4, The - Asonde Manabou - Neko-chan Sanjuushi (Japan)" id="131259">
 		<category>Games</category>
@@ -149592,6 +149616,16 @@
 		<rom name="Siedler III, Die (Germany) (Disc 2) (1998-12-02) (Track 13).bin" size="25248720" crc="cd3e8c53" md5="49c4287df498e5c9d78ca796fbc200e9" sha1="aa8a3d954994e35a02f3b06972818709910c40bc"/>
 		<rom name="Siedler III, Die (Germany) (Disc 2) (1998-12-02).cue" size="1841" crc="5a1c50ee" md5="269410711a72f001cffc27cb11ac71d9" sha1="e2fd7352e81e19118fa8e3687814bbe0fc1563aa"/>
 	</game>
+	<game name="Siedler III, Die (Germany) (Installations-CD) (Die Siedler 7 Gold Edition)" id="139315">
+		<category>Games</category>
+		<description>Siedler III, Die (Germany) (Installations-CD) (Die Siedler 7 Gold Edition)</description>
+		<rom name="Siedler III, Die (Germany) (Installations-CD) (Die Siedler 7 Gold Edition).iso" size="477724672" crc="2fce476a" md5="7579bda5b76496c70cc9d513ded3afe9" sha1="147575c252929dca1e180d97a0eff3677e408672"/>
+	</game>
+	<game name="Siedler III, Die (Germany) (Spiel-CD) (Die Siedler 7 Gold Edition)" id="139314">
+		<category>Games</category>
+		<description>Siedler III, Die (Germany) (Spiel-CD) (Die Siedler 7 Gold Edition)</description>
+		<rom name="Siedler III, Die (Germany) (Spiel-CD) (Die Siedler 7 Gold Edition).iso" size="460324864" crc="e6a845f4" md5="ed71ba46fcbc4bbce782b747701366c8" sha1="291abc391c98e2b6e7c02877a661655c3e20f0dc"/>
+	</game>
 	<game name="Siedler III, Die - Das Geheimnis der Amazonen (Germany)" id="42748">
 		<category>Add-Ons</category>
 		<description>Siedler III, Die - Das Geheimnis der Amazonen (Germany)</description>
@@ -167246,22 +167280,22 @@
 		<rom name="Timmy nel Mondo della Jungla (Italy).bin" size="612270288" crc="e5af72e2" md5="1df0b2da16386f83abfeb01195ab733c" sha1="e5ceb383341ff2915dfe0e9d37426d887dc46bd9"/>
 		<rom name="Timmy nel Mondo della Jungla (Italy).cue" size="102" crc="36f83a98" md5="ae49a2c5f8e5a741dcbf66593bdb326f" sha1="62b11f7cb2dac3ec723646b07c4002611d51d745"/>
 	</game>
-	<game name="Timmy och Monstret Under Sangen (Sweden)" id="111691">
+	<game name="Timmy och monstret under sangen (Sweden)" id="111691">
 		<category>Games</category>
-		<description>Timmy och Monstret Under Sangen (Sweden)</description>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 01).bin" size="147496272" crc="5dbab5fc" md5="b4e39ff63e4cc0949d0669333250b55d" sha1="45468088a56493c9ecd06de040336d91d53d23c9"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 02).bin" size="24498432" crc="7ee46eee" md5="44d35499c776055db085dfe8dfad91d2" sha1="8efc09a081aaa5ccdd63fee68ba2c59f5ea66bb8"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 03).bin" size="32107152" crc="302410ff" md5="252448c4b53a24aba41aced9956ba7e2" sha1="fff0be0218f4b446059d9aec659bc0cabe34bcf9"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 04).bin" size="11503632" crc="23e5f3e1" md5="20e3830037c0a492492c1cc0e18f71a7" sha1="0b632addc42467d4e316e55526a3aafb607a077e"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 05).bin" size="17240160" crc="9cea0b8e" md5="bd752d7ff79f49388533b3a485b9a801" sha1="624f942e6cf722f2b7082fe688e7d2fa86f182fb"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 06).bin" size="42194880" crc="0c6a97e2" md5="3b2fdb95a165596f219b7d55b762f689" sha1="af367ab90be571be2dcb3717cd285d2bc31e3b75"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 07).bin" size="24079776" crc="b60ee91e" md5="30edd236eb49381e166759c62800b7ab" sha1="572e5db073b0c9fee7fcb919ffff2412a39ded74"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 08).bin" size="32953872" crc="a4daa56a" md5="a93d237a8978951d96a312b9b72f96bc" sha1="0d0e013b21b87d31a5a474a0c35af6b13e30dc9f"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 09).bin" size="30035040" crc="8b936393" md5="fee8cc1aceee2abd7b246d75b0ae3782" sha1="d6a24c60c283abe5c95b1caa6a4f0279567979f9"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 10).bin" size="38815056" crc="c672a996" md5="dfde0c61ccd90658234d7bf6462bd1a0" sha1="f7bc80c57693916888c2cb71aac473e16f979f0a"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 11).bin" size="21429072" crc="6a522584" md5="10cb0f8647023768d995999c792ffe89" sha1="cbccef4737459e64ab6c95a6123fd9ed17652632"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden) (Track 12).bin" size="31791984" crc="10f4142b" md5="deaf04784bd293bb2814b15fd5d654fb" sha1="8599979f37acc1e4edd9759a51a27ebb8de33da2"/>
-		<rom name="Timmy och Monstret Under Sangen (Sweden).cue" size="1602" crc="ca2d1c27" md5="1b654c0ab2ab1700ced117e7ba7c91f1" sha1="c2cf4939f92f109daba32098db6f2440483161e7"/>
+		<description>Timmy och monstret under sangen (Sweden)</description>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 01).bin" size="147496272" crc="5dbab5fc" md5="b4e39ff63e4cc0949d0669333250b55d" sha1="45468088a56493c9ecd06de040336d91d53d23c9"/>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 02).bin" size="24498432" crc="7ee46eee" md5="44d35499c776055db085dfe8dfad91d2" sha1="8efc09a081aaa5ccdd63fee68ba2c59f5ea66bb8"/>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 03).bin" size="32107152" crc="302410ff" md5="252448c4b53a24aba41aced9956ba7e2" sha1="fff0be0218f4b446059d9aec659bc0cabe34bcf9"/>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 04).bin" size="11503632" crc="23e5f3e1" md5="20e3830037c0a492492c1cc0e18f71a7" sha1="0b632addc42467d4e316e55526a3aafb607a077e"/>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 05).bin" size="17240160" crc="9cea0b8e" md5="bd752d7ff79f49388533b3a485b9a801" sha1="624f942e6cf722f2b7082fe688e7d2fa86f182fb"/>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 06).bin" size="42194880" crc="0c6a97e2" md5="3b2fdb95a165596f219b7d55b762f689" sha1="af367ab90be571be2dcb3717cd285d2bc31e3b75"/>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 07).bin" size="24079776" crc="b60ee91e" md5="30edd236eb49381e166759c62800b7ab" sha1="572e5db073b0c9fee7fcb919ffff2412a39ded74"/>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 08).bin" size="32953872" crc="a4daa56a" md5="a93d237a8978951d96a312b9b72f96bc" sha1="0d0e013b21b87d31a5a474a0c35af6b13e30dc9f"/>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 09).bin" size="30035040" crc="8b936393" md5="fee8cc1aceee2abd7b246d75b0ae3782" sha1="d6a24c60c283abe5c95b1caa6a4f0279567979f9"/>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 10).bin" size="38815056" crc="c672a996" md5="dfde0c61ccd90658234d7bf6462bd1a0" sha1="f7bc80c57693916888c2cb71aac473e16f979f0a"/>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 11).bin" size="21429072" crc="6a522584" md5="10cb0f8647023768d995999c792ffe89" sha1="cbccef4737459e64ab6c95a6123fd9ed17652632"/>
+		<rom name="Timmy och monstret under sangen (Sweden) (Track 12).bin" size="31791984" crc="10f4142b" md5="deaf04784bd293bb2814b15fd5d654fb" sha1="8599979f37acc1e4edd9759a51a27ebb8de33da2"/>
+		<rom name="Timmy och monstret under sangen (Sweden).cue" size="1602" crc="b58e7b05" md5="61662c4a06fdc7938906b973e47dcd51" sha1="356e0c82af758704ccdc0c1343ab5b9bee6e2b79"/>
 	</game>
 	<game name="Timmy tra i Segreti della Magia (Italy)" id="136964">
 		<category>Educational</category>

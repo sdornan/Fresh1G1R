@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Retool)</name>
-		<description>Commodore - Commodore 64 (211) (-ly) [-aAbBcdDefkmMopPruv] (20261010-231237) (Retool)</description>
-		<version>20261010-231237</version>
-		<date>2026-10-11 08-42-38</date>
+		<description>Commodore - Commodore 64 (211) (-ly) [-aAbBcdDefkmMopPruv] (20261011-145606) (Retool)</description>
+		<version>20261011-145606</version>
+		<date>2026-10-12 09-10-53</date>
 		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -134,28 +134,27 @@
 	<game name="Bubble Burst (USA, Europe)" id="0140">
 		<category>Games</category>
 		<description>Bubble Burst (USA, Europe)</description>
-		<rom name="Bubble Burst (USA, Europe).crt" size="16464" crc="d73ce936" md5="b79ee53ebd75e3cd9225e75a752ff8b2" sha1="2692d25dd7127c6334553ba0d91db49bd9279cb7"/>
+		<rom name="Bubble Burst (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="d73ce936" md5="b79ee53ebd75e3cd9225e75a752ff8b2" sha1="2692d25dd7127c6334553ba0d91db49bd9279cb7" sha256="1e3fbcac7bb8ec90541a8272850533a0490deeab0afa10268a0022f8c9dc881b"/>
 	</game>
 	<game name="Buck Rogers - Planet of Zoom (USA, Europe)" id="0141">
 		<category>Games</category>
 		<description>Buck Rogers - Planet of Zoom (USA, Europe)</description>
-		<rom name="Buck Rogers - Planet of Zoom (USA, Europe).crt" size="16464" crc="e9066e6c" md5="8b08355f3bf6cd0c3b37780b9118dcb0" sha1="f48567685be0fde1368fc761cb13d8bd5976af29"/>
+		<rom name="Buck Rogers - Planet of Zoom (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="e9066e6c" md5="8b08355f3bf6cd0c3b37780b9118dcb0" sha1="f48567685be0fde1368fc761cb13d8bd5976af29" sha256="669104655c5e4c5d88c09c1a2dbb8340b19f47e729ea3e6b15079f16a1b8ac4f"/>
 	</game>
 	<game name="Bug Crusher (USA, Europe)" id="0142">
 		<category>Games</category>
 		<description>Bug Crusher (USA, Europe)</description>
-		<rom name="Bug Crusher (USA, Europe).crt" size="8272" crc="2ccf3fe4" md5="80d8f85464a7ec999089f2eb4acb38f3" sha1="2ceedbbf08a1158e46ed70e67049457a6c8131fb"/>
+		<rom name="Bug Crusher (USA, Europe).crt" size="8272" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="2ccf3fe4" md5="80d8f85464a7ec999089f2eb4acb38f3" sha1="2ceedbbf08a1158e46ed70e67049457a6c8131fb" sha256="14ed3c24cf538e7b1ff011b8f08cc8d829e97c9f06db42ddac0b6bef703370a6"/>
 	</game>
 	<game name="Castle Hassle (USA, Europe)" id="0143">
 		<category>Games</category>
 		<description>Castle Hassle (USA, Europe)</description>
-		<rom name="Castle Hassle (USA, Europe).crt" size="16464" crc="ed637539" md5="15c6d570fab52f693c0892aa834ac5cd" sha1="c5903c997d3283ee87aa6901253970ba855ff803"/>
+		<rom name="Castle Hassle (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="ed637539" md5="15c6d570fab52f693c0892aa834ac5cd" sha1="c5903c997d3283ee87aa6901253970ba855ff803" sha256="d466579bb51c7f22c45f0a62f5b670a32e4c64965f024607cfde88870f431f46"/>
 	</game>
 	<game name="Centipede (USA, Europe)" id="0144">
 		<category>Games</category>
 		<description>Centipede (USA, Europe)</description>
-		<rom name="Centipede (USA, Europe) (1).crt" size="8192" header="43 36 34 20 43 41 52 54 52 49 44 47 45 20 20 20 00 00 00 40 01 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 43 48 49" crc="ad4e4d45" md5="54085407815b75aca2508a9429575278" sha1="f2f76f9c53ced827aac2428e4e672b54617d0fac" sha256="e53e1d05c9250ff68433f2b913a480b11a7aef28c3e8e0937b49178a208ffff8"/>
-		<rom name="Centipede (USA, Europe) (2).crt" size="8272" crc="d2324cd5" md5="100162cc82eb2db9eb52e00f2f5f18b2" sha1="0ec7c0920c686637dd327216d30b8da35b206343" sha256="dd764e3164a6f059e0d82b72004576ca6e79df9204cbfb845648ec0113ccac77"/>
+		<rom name="Centipede (USA, Europe).crt" size="8272" header="43363420434152545249444745202020 00000040010000000001000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000020100000000080002000" crc="d2324cd5" md5="100162cc82eb2db9eb52e00f2f5f18b2" sha1="0ec7c0920c686637dd327216d30b8da35b206343" sha256="dd764e3164a6f059e0d82b72004576ca6e79df9204cbfb845648ec0113ccac77"/>
 	</game>
 	<game name="Chase H.Q. II - Special Criminal Investigation (Europe)" id="0145">
 		<category>Games</category>
@@ -165,7 +164,7 @@
 	<game name="Checkers (USA, Europe)" id="0146">
 		<category>Games</category>
 		<description>Checkers (USA, Europe)</description>
-		<rom name="Checkers (USA, Europe).crt" size="16464" crc="af96f5b7" md5="c074729c86cf44a9c75f79826a14f4c6" sha1="3d0cdd7aa2a75f8186696ff9c0f782ca0eb1ddf8"/>
+		<rom name="Checkers (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="af96f5b7" md5="c074729c86cf44a9c75f79826a14f4c6" sha1="3d0cdd7aa2a75f8186696ff9c0f782ca0eb1ddf8" sha256="730d249d9d62df8c8bc60d32a7906060c81311faec30006e9cc05233e550997b"/>
 	</game>
 	<game name="Choplifter! (USA, Europe)" id="0147">
 		<category>Games</category>
@@ -180,8 +179,7 @@
 	<game name="Clowns (World) (En,Ja) (v02) (MAX)" id="0028">
 		<category>Games</category>
 		<description>Clowns (World) (En,Ja) (v02) (MAX)</description>
-		<rom name="Clowns (World) (En,Ja) (v02) (MAX) (1).crt" size="8192" header="43 36 34 20 43 41 52 54 52 49 44 47 45 20 20 20 00 00 00 40 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 43 48 49" crc="85aa080b" md5="126dac5d98bea5f2a388eaf97fa842d0" sha1="ffebfc19263dc50d3a808135dbe88567617af6b8" sha256="9ea5118ec4258c59b03b9273004fdd23407f3553e091182e7fb41bc3faee26ed"/>
-		<rom name="Clowns (World) (En,Ja) (v02) (MAX) (2).crt" size="8272" crc="3ef0b782" md5="5c9dccb57b10f5e4500ff44e7ad5c843" sha1="b0150d708a086b985c4c81867791bd96fc22811c" sha256="0c0a1b135fd513273e5092382158d56d6c70249ec7952ac74698540bbddcaff9"/>
+		<rom name="Clowns (World) (En,Ja) (v02) (MAX).crt" size="8272" header="43363420434152545249444745202020 00000040010000000100000000000000 00000000000000000000000000000000 00000000000000000000000000000000 434849500000201000000000e0002000" crc="3ef0b782" md5="5c9dccb57b10f5e4500ff44e7ad5c843" sha1="b0150d708a086b985c4c81867791bd96fc22811c" sha256="0c0a1b135fd513273e5092382158d56d6c70249ec7952ac74698540bbddcaff9"/>
 	</game>
 	<game name="Coco Notes (USA, Europe)" id="0150">
 		<category>Games</category>
@@ -346,7 +344,7 @@
 	<game name="Gridrunner (USA, Europe)" id="0184">
 		<category>Games</category>
 		<description>Gridrunner (USA, Europe)</description>
-		<rom name="Gridrunner (USA, Europe).crt" size="8272" crc="4613dc2e" md5="dde376c734b45169ec48a2106cf320cb" sha1="d59ccbab9ac11522ce4ee034d077b1852c80185e"/>
+		<rom name="Gridrunner (USA, Europe).crt" size="8272" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000020100000000080002000" crc="4613dc2e" md5="dde376c734b45169ec48a2106cf320cb" sha1="d59ccbab9ac11522ce4ee034d077b1852c80185e" sha256="87498254ee921751507bc90eadbbd3414e2827deda05d7c8a782550278da9572"/>
 	</game>
 	<game name="Gridrunner II - Attack of the Mutant Camels (USA)" id="0185">
 		<category>Games</category>
@@ -451,7 +449,7 @@
 	<game name="Lazarian (USA, Europe)" id="0203">
 		<category>Games</category>
 		<description>Lazarian (USA, Europe)</description>
-		<rom name="Lazarian (USA, Europe).crt" size="16464" crc="97130687" md5="c1fea21c45826da7afde3f41f4d50d10" sha1="0ca3ed5f3c156f034564ca465280589bb96c0ceb"/>
+		<rom name="Lazarian (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="97130687" md5="c1fea21c45826da7afde3f41f4d50d10" sha1="0ca3ed5f3c156f034564ca465280589bb96c0ceb" sha256="73950187aaafd37a386ecf56c4dc2536582dee69aa6572665fa81fbb30d8f74f"/>
 	</game>
 	<game name="Lazer Zone (USA, Europe)" id="0204">
 		<category>Games</category>

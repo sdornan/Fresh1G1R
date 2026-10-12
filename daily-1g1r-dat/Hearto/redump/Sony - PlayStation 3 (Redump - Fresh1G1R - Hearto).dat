@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,701) (-y) [-aAbBcefkmMoprv] (2026-10-10 20-52-15) (Retool)</description>
-		<version>2026-10-10 20-52-15</version>
-		<date>2026-10-11 08-35-55</date>
+		<description>Sony - PlayStation 3 (1,702) (-y) [-aAbBcefkmMoprv] (2026-10-12 08-46-00) (Retool)</description>
+		<version>2026-10-12 08-46-00</version>
+		<date>2026-10-12 08-59-51</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1386,10 +1386,10 @@
 		<description>Dark Sector (USA) (En,Fr,Es)</description>
 		<rom name="Dark Sector (USA) (En,Fr,Es).iso" size="1569128448" crc="0db4c55e" md5="5015595ef4df7f4de6b21a3160ed21a0" sha1="ec20e8bb26b01b7776a94ff43fec9de291317856"/>
 	</game>
-	<game name="Dark Souls - Prepare to Die Edition (Europe) (En,Fr,De,Es,It)" id="53566">
+	<game name="Dark Souls - Prepare to Die Edition (Europe, Australia) (En,Fr,De,Es,It)" id="53566">
 		<category>Games</category>
-		<description>Dark Souls - Prepare to Die Edition (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Dark Souls - Prepare to Die Edition (Europe) (En,Fr,De,Es,It).iso" size="5638914048" crc="a7f321c9" md5="563e49cd2b70d46c3afbffefa6810e49" sha1="283a045e75845820be1fd68014f5f028e6499eec"/>
+		<description>Dark Souls - Prepare to Die Edition (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Dark Souls - Prepare to Die Edition (Europe, Australia) (En,Fr,De,Es,It).iso" size="5638914048" crc="a7f321c9" md5="563e49cd2b70d46c3afbffefa6810e49" sha1="283a045e75845820be1fd68014f5f028e6499eec"/>
 	</game>
 	<game name="Dark Souls II (USA) (En,Fr,Es)" id="31944">
 		<category>Games</category>
@@ -5232,10 +5232,10 @@
 		<description>Nobunaga no Yabou - Tendou with Power-Up Kit (Japan)</description>
 		<rom name="Nobunaga no Yabou - Tendou with Power-Up Kit (Japan).iso" size="2920677376" crc="c8e2cfbe" md5="5160674bbb37c2ee9e5275c665b4b661" sha1="665eeeaf49c58f0483693c021770269b5df05cc1"/>
 	</game>
-	<game name="Nobunaga no Yabou Online - 10 Shuunen Kinen Box (Japan)" id="102309">
+	<game name="Nobunaga no Yabou Online - 10-shuunen Kinen Box (Japan)" id="102309">
 		<category>Games</category>
-		<description>Nobunaga no Yabou Online - 10 Shuunen Kinen Box (Japan)</description>
-		<rom name="Nobunaga no Yabou Online - 10 Shuunen Kinen Box (Japan).iso" size="6054084608" crc="0833d4c1" md5="7bbc3f6f62ed1a3adcbe382e2fa3a526" sha1="71156e59f46c95c5d5788b17921dbd291b509568"/>
+		<description>Nobunaga no Yabou Online - 10-shuunen Kinen Box (Japan)</description>
+		<rom name="Nobunaga no Yabou Online - 10-shuunen Kinen Box (Japan).iso" size="6054084608" crc="0833d4c1" md5="7bbc3f6f62ed1a3adcbe382e2fa3a526" sha1="71156e59f46c95c5d5788b17921dbd291b509568"/>
 	</game>
 	<game name="Nobunaga no Yabou Online - Houou no Shou (Japan)" id="101811">
 		<category>Games</category>
@@ -6547,10 +6547,15 @@
 		<description>Shin Sangoku Musou Online - Shinshou Ranbu (Japan)</description>
 		<rom name="Shin Sangoku Musou Online - Shinshou Ranbu (Japan).iso" size="6665601024" crc="08181e2e" md5="5dbcd7189f4bf88b22e9204be0b06517" sha1="b0cec6db063a21f3473fbff0f45863a19d445c85"/>
 	</game>
-	<game name="Shin Sangoku Musou Online - Souten Ranbu - 4 Shuunen Kinen Pack (Japan)" id="101659">
+	<game name="Shin Sangoku Musou Online - Souten Ranbu (Japan)" id="120185">
 		<category>Games</category>
-		<description>Shin Sangoku Musou Online - Souten Ranbu - 4 Shuunen Kinen Pack (Japan)</description>
-		<rom name="Shin Sangoku Musou Online - Souten Ranbu - 4 Shuunen Kinen Pack (Japan).iso" size="6410403840" crc="e63c8209" md5="03ecd381bc17e9f4d9f16c1f02d156c7" sha1="9a44471837e6a09686c219d999da68e2e6957dd5"/>
+		<description>Shin Sangoku Musou Online - Souten Ranbu (Japan)</description>
+		<rom name="Shin Sangoku Musou Online - Souten Ranbu (Japan).iso" size="6537347072" crc="1a56afcb" md5="e8ae9405aa1289c52158d6883ac0568f" sha1="9880b9abc7b09b111d337ab0e7ea8577410316cc"/>
+	</game>
+	<game name="Shin Sangoku Musou Online - Souten Ranbu - 4-shuunen Kinen Pack (Japan)" id="101659">
+		<category>Games</category>
+		<description>Shin Sangoku Musou Online - Souten Ranbu - 4-shuunen Kinen Pack (Japan)</description>
+		<rom name="Shin Sangoku Musou Online - Souten Ranbu - 4-shuunen Kinen Pack (Japan).iso" size="6410403840" crc="e63c8209" md5="03ecd381bc17e9f4d9f16c1f02d156c7" sha1="9a44471837e6a09686c219d999da68e2e6957dd5"/>
 	</game>
 	<game name="Shin Sangoku Musou Online Z (Japan)" id="101314">
 		<category>Games</category>
