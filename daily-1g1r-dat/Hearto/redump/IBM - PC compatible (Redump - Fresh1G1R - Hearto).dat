@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,443) (-y) [-aAbBcefkmMoprv] (2026-10-12 08-36-00) (Retool)</description>
-		<version>2026-10-12 08-36-00</version>
-		<date>2026-10-12 08-57-27</date>
+		<description>IBM - PC compatible (26,445) (-y) [-aAbBcefkmMoprv] (2026-10-13 08-30-32) (Retool)</description>
+		<version>2026-10-13 08-30-32</version>
+		<date>2026-10-13 09-15-21</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -19048,6 +19048,12 @@
 		<category>Games</category>
 		<description>Bikou 3 (Japan)</description>
 		<rom name="Bikou 3 (Japan).iso" size="2974101504" crc="30c65bcf" md5="4dc0a72cf197677e5ba16d11b7005791" sha1="ddcef460ce40ee2fe564641ad3c77a8e83e643e6"/>
+	</game>
+	<game name="Bilardo (Turkey)" id="139333">
+		<category>Games</category>
+		<description>Bilardo (Turkey)</description>
+		<rom name="Bilardo (Turkey).bin" size="93085104" crc="000adeb9" md5="715fdb43d90a297cddb039f04d9615b9" sha1="d210aaa0b8e36d9b67ac3380bec611424b9807f3"/>
+		<rom name="Bilardo (Turkey).cue" size="82" crc="939c66fc" md5="1c0fed39346a860782dfa442641e85fa" sha1="fa16542f188cbd08c61dfc8ee3efe520c3085516"/>
 	</game>
 	<game name="Biliardo Classico - Il primo gioco di Biliardo all'Italiana (Italy)" id="74349">
 		<category>Games</category>
@@ -61127,11 +61133,11 @@
 		<rom name="Game Series 30, The - MiniMini Games (Japan).bin" size="45760512" crc="fd85dacb" md5="ed16ab39b028bd83a891b76b69c505ea" sha1="8279505257fe9dd4fff9985ce1ce30ca1ca8b531"/>
 		<rom name="Game Series 30, The - MiniMini Games (Japan).cue" size="110" crc="a3f469d8" md5="dacfb76a2df1b826ecdb543fcd7be722" sha1="311940a4576e007af6cdef113f8420d47c689a99"/>
 	</game>
-	<game name="Game Series 30, The - Puzzlin 2 - Chichuukai--hen (Japan)" id="139317">
+	<game name="Game Series 30, The - Puzzlin 2 - Chichuukai-hen (Japan)" id="139317">
 		<category>Games</category>
-		<description>Game Series 30, The - Puzzlin 2 - Chichuukai--hen (Japan)</description>
-		<rom name="Game Series 30, The - Puzzlin 2 - Chichuukai--hen (Japan).bin" size="545718096" crc="7fe6f8b7" md5="2cf6c394e4b61c9bd3ad78ffdec87cc7" sha1="8c76efffaa3c219e3a4e065945debf43d3b478fd"/>
-		<rom name="Game Series 30, The - Puzzlin 2 - Chichuukai--hen (Japan).cue" size="123" crc="b172dc04" md5="c2411e713a29d8394b412f5a466c062c" sha1="8aa037f4076bab5210d7243692a849392d8e4390"/>
+		<description>Game Series 30, The - Puzzlin 2 - Chichuukai-hen (Japan)</description>
+		<rom name="Game Series 30, The - Puzzlin 2 - Chichuukai-hen (Japan).bin" size="545718096" crc="7fe6f8b7" md5="2cf6c394e4b61c9bd3ad78ffdec87cc7" sha1="8c76efffaa3c219e3a4e065945debf43d3b478fd"/>
+		<rom name="Game Series 30, The - Puzzlin 2 - Chichuukai-hen (Japan).cue" size="122" crc="0ca616bd" md5="eb989127556b0475dd4a91eca04e4923" sha1="122859d8b3b0f0d801e29b883921ce547248f61a"/>
 	</game>
 	<game name="Game Series 31, The - Puzzlin 3 - Alaska-hen (Japan)" id="88733">
 		<category>Games</category>
@@ -64513,11 +64519,11 @@
 		<rom name="Gorcy - Bitva za Shotlandiyu (Russia).bin" size="772989504" crc="c69eafbe" md5="dcca5264a2e5bb9d50f59b97df2a51c3" sha1="55cae74f7a3f0d74c9925afcf0e2add6cafbe8ab"/>
 		<rom name="Gorcy - Bitva za Shotlandiyu (Russia).cue" size="103" crc="39e9c447" md5="e806e59a7e67aeb1763cdd26f736bea0" sha1="879c6d572e3f0dd6cdc8dfd2ef5d82258228fec9"/>
 	</game>
-	<game name="Gore (Portugal) (Covermount)" id="97946">
+	<game name="Gore (Europe) (Covermount)" id="97946">
 		<category>Games</category>
-		<description>Gore (Portugal) (Covermount)</description>
-		<rom name="Gore (Portugal) (Covermount).bin" size="384754272" crc="3818dc94" md5="1d42f9858163fb760ed5b968d1d5a258" sha1="c7215c88a71380091c499e119934e99519a7777d"/>
-		<rom name="Gore (Portugal) (Covermount).cue" size="94" crc="2932f536" md5="fa52a81433405820dd1a980bbebad95d" sha1="6bde95bd3d0d1eb8d4cb1428f98b47ce4d43db09"/>
+		<description>Gore (Europe) (Covermount)</description>
+		<rom name="Gore (Europe) (Covermount).bin" size="384754272" crc="3818dc94" md5="1d42f9858163fb760ed5b968d1d5a258" sha1="c7215c88a71380091c499e119934e99519a7777d"/>
+		<rom name="Gore (Europe) (Covermount).cue" size="92" crc="36efe69b" md5="9888b5501732c5f972eefe1b7b546fb9" sha1="6b4247e03fe0e77108e6fc1f09071c0b79c9a377"/>
 	</game>
 	<game name="Gore - Ultimate Soldier (USA)" id="51508">
 		<category>Games</category>
@@ -135939,6 +135945,11 @@
 		<description>Saga Baldur's Gate (Poland) (2007-10-12)</description>
 		<rom name="Saga Baldur's Gate (Poland) (2007-10-12).iso" size="5224169472" crc="e4ed0db0" md5="d7b38307740d9284d40d99558d239e99" sha1="8f4a1cf98277666f93bcfb66175143e59df74ba1"/>
 	</game>
+	<game name="Saga Empire Earth I-II (Poland)" id="139332">
+		<category>Games</category>
+		<description>Saga Empire Earth I-II (Poland)</description>
+		<rom name="Saga Empire Earth I-II (Poland).iso" size="3460759552" crc="b5d0c3ee" md5="3b362f6be404c1a06d404b0b3ada00bd" sha1="93241737b6bd9d6821fbcdb04cea32f9f1e46caa"/>
+	</game>
 	<game name="Saga Fallout (Poland)" id="128464">
 		<category>Games</category>
 		<description>Saga Fallout (Poland)</description>
@@ -144927,15 +144938,15 @@
 		<rom name="Siedler III, Die (Germany) (Disc 2) (1998-12-02) (Track 13).bin" size="25248720" crc="cd3e8c53" md5="49c4287df498e5c9d78ca796fbc200e9" sha1="aa8a3d954994e35a02f3b06972818709910c40bc"/>
 		<rom name="Siedler III, Die (Germany) (Disc 2) (1998-12-02).cue" size="1841" crc="5a1c50ee" md5="269410711a72f001cffc27cb11ac71d9" sha1="e2fd7352e81e19118fa8e3687814bbe0fc1563aa"/>
 	</game>
-	<game name="Siedler III, Die (Germany) (Installations-CD) (Die Siedler 7 Gold Edition)" id="139315">
+	<game name="Siedler III, Die (Germany) (Installations-CD) (Rerelease) (2014-02-10)" id="139315">
 		<category>Games</category>
-		<description>Siedler III, Die (Germany) (Installations-CD) (Die Siedler 7 Gold Edition)</description>
-		<rom name="Siedler III, Die (Germany) (Installations-CD) (Die Siedler 7 Gold Edition).iso" size="477724672" crc="2fce476a" md5="7579bda5b76496c70cc9d513ded3afe9" sha1="147575c252929dca1e180d97a0eff3677e408672"/>
+		<description>Siedler III, Die (Germany) (Installations-CD) (Rerelease) (2014-02-10)</description>
+		<rom name="Siedler III, Die (Germany) (Installations-CD) (Rerelease) (2014-02-10).iso" size="477724672" crc="2fce476a" md5="7579bda5b76496c70cc9d513ded3afe9" sha1="147575c252929dca1e180d97a0eff3677e408672"/>
 	</game>
-	<game name="Siedler III, Die (Germany) (Spiel-CD) (Die Siedler 7 Gold Edition)" id="139314">
+	<game name="Siedler III, Die (Germany) (Spiel-CD) (Rerelease) (2014-02-10)" id="139314">
 		<category>Games</category>
-		<description>Siedler III, Die (Germany) (Spiel-CD) (Die Siedler 7 Gold Edition)</description>
-		<rom name="Siedler III, Die (Germany) (Spiel-CD) (Die Siedler 7 Gold Edition).iso" size="460324864" crc="e6a845f4" md5="ed71ba46fcbc4bbce782b747701366c8" sha1="291abc391c98e2b6e7c02877a661655c3e20f0dc"/>
+		<description>Siedler III, Die (Germany) (Spiel-CD) (Rerelease) (2014-02-10)</description>
+		<rom name="Siedler III, Die (Germany) (Spiel-CD) (Rerelease) (2014-02-10).iso" size="460324864" crc="e6a845f4" md5="ed71ba46fcbc4bbce782b747701366c8" sha1="291abc391c98e2b6e7c02877a661655c3e20f0dc"/>
 	</game>
 	<game name="Siedler III, Die - Das Geheimnis der Amazonen (Germany)" id="42748">
 		<category>Add-Ons</category>

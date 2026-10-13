@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,941) (-y) [-aAbBcefkmMoprv] (20261011-202841) (Retool)</description>
-		<version>20261011-202841</version>
-		<date>2026-10-12 09-01-20</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,931) (-y) [-aAbBcefkmMoprv] (20261013-004646) (Retool)</description>
+		<version>20261013-004646</version>
+		<date>2026-10-13 09-21-45</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3939,6 +3939,13 @@
 		<description>Digimon Story - Lost Evolution (Japan)</description>
 		<rom name="Digimon Story - Lost Evolution (Japan).nds" size="67108864" crc="83878137" md5="d994ff42e80827fd4546bb64ffd8d2ea" sha1="f180146f517712c177d6497125a24f35b0d6102f"/>
 	</game>
+	<game name="Digimon Story - Sunburst (Japan) (Beta)" id="z301">
+		<category>Demos</category>
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Digimon Story - Sunburst (Japan) (Beta)</description>
+		<rom name="Digimon Story - Sunburst (Japan) (Beta).nds" size="67108864" crc="7588c6cd" md5="da6d6a749da240746aee5edd27b01623" sha1="f09cec7b89563975efd2b3bbe485ff6099ebc4df" sha256="b488a676cbbb2e1225a27ae41d105abc5a4ba113115eaf2826618d72fcd6082d"/>
+	</game>
 	<game name="Digimon Story - Super Xros Wars - Blue (Japan)" id="5612">
 		<category>Games</category>
 		<description>Digimon Story - Super Xros Wars - Blue (Japan)</description>
@@ -4507,11 +4514,6 @@
 		<category>Games</category>
 		<description>Drivers Ed Portable (USA)</description>
 		<rom name="Drivers Ed Portable (USA).nds" size="16777216" crc="0778bcea" md5="cdf5d93ef2373f15a7ee901f85ac2a6b" sha1="c2757f7b625f36582805a267051de694e108381e"/>
-	</game>
-	<game name="Driving Theory Training (Europe) (Rev 1)" id="6362">
-		<category>Games</category>
-		<description>Driving Theory Training (Europe) (Rev 1)</description>
-		<rom name="Driving Theory Training (Europe) (Rev 1).nds" size="33554432" crc="bd8d8982" md5="d4f8cfd231752706c633decd4fb67b9b" sha1="35035b01f213cbb139ef42a3f24e36cdd244cb68"/>
 	</game>
 	<game name="Drone Tactics (USA)" id="2305">
 		<category>Games</category>
@@ -5581,11 +5583,6 @@
 		<description>Gakken DS - Otona no Gakushuu - Kindaichi Sensei no Nihongo Lesson (Japan)</description>
 		<rom name="Gakken DS - Otona no Gakushuu - Kindaichi Sensei no Nihongo Lesson (Japan).nds" size="67108864" crc="7367dcfc" md5="8078f238195907a86cd058e4d1b8903a" sha1="676b45e3dc4aa853d63dae5679283fc24f10fa8b" sha256="f34589cb5e59b374ee50b3365248a7bb5447b513739d77ac5f5153d8c3aece30"/>
 	</game>
-	<game name="Gakken DS - Shin TOEIC Test Kanzen Kouryaku (Japan) (Rev 1)" id="6754">
-		<category>Games</category>
-		<description>Gakken DS - Shin TOEIC Test Kanzen Kouryaku (Japan) (Rev 1)</description>
-		<rom name="Gakken DS - Shin TOEIC Test Kanzen Kouryaku (Japan) (Rev 1).nds" size="67108864" crc="cb3511b9" md5="722f4d0ed4263d1b5940409060951cdb" sha1="8c4e6eb92b3da91ab68ea2cb52bfe49761b20dc1"/>
-	</game>
 	<game name="Gakken Eigo Zanmai DS (Japan)" id="4597">
 		<category>Games</category>
 		<description>Gakken Eigo Zanmai DS (Japan)</description>
@@ -5600,11 +5597,6 @@
 		<category>Games</category>
 		<description>Gakken Hangeul Zanmai DS (Japan)</description>
 		<rom name="Gakken Hangeul Zanmai DS (Japan).nds" size="67108864" crc="16812188" md5="e25e1ba62e8445b499827c3a9dd27fe5" sha1="97a53be622fc00f2c87d53ca28b5c5126004bc24"/>
-	</game>
-	<game name="Gakken Hangeul Zanmai DS - Kiki &amp; Kaki Training (Japan) (Rev 1)" id="z414">
-		<category>Games</category>
-		<description>Gakken Hangeul Zanmai DS - Kiki &amp; Kaki Training (Japan) (Rev 1)</description>
-		<rom name="Gakken Hangeul Zanmai DS - Kiki &amp; Kaki Training (Japan) (Rev 1).nds" size="67108864" crc="9862819e" md5="ee6b7e13cc31854b64ef84311183e4ca" sha1="0f5699f5fcda90e9ff01789aea0cae258b2ca6be" sha256="6bb2c576fb1253f868fe5be416f5a7a6ee66868082473f1bfe04d3e185a8b948"/>
 	</game>
 	<game name="Gakken M Bunko Presents - Monoshiri Edo Meijin (Japan)" id="3021">
 		<category>Games</category>
@@ -8190,11 +8182,6 @@
 		<description>Kanshuu - Shuukan Pro Wrestling - Pro Wrestling Kentei DS (Japan)</description>
 		<rom name="Kanshuu - Shuukan Pro Wrestling - Pro Wrestling Kentei DS (Japan).nds" size="67108864" crc="a0692915" md5="a5c4b392ae9b02a5dc6afaac6389b25d" sha1="eb0b99926a34fdeb1c4660ec074e6ecab2e98897" sha256="c71559df432ae6208c2c9739afd8bbaf534a86ac0ff0c37053713660919158ec"/>
 	</game>
-	<game name="Kanshuu Nihon Joushiki Ryoku Kentei Kyoukai - Imasara Hito ni wa Kikenai - Otona no Joushiki Ryoku Training DS (Japan) (Rev 1)" id="4633">
-		<category>Games</category>
-		<description>Kanshuu Nihon Joushiki Ryoku Kentei Kyoukai - Imasara Hito ni wa Kikenai - Otona no Joushiki Ryoku Training DS (Japan) (Rev 1)</description>
-		<rom name="Kanshuu Nihon Joushiki Ryoku Kentei Kyoukai - Imasara Hito ni wa Kikenai - Otona no Joushiki Ryoku Training DS (Japan) (Rev 1).nds" size="67108864" crc="fcf8c99b" md5="ccc6c9aad113fb3bee87da2107ed2a38" sha1="461b543e8c01c1e62df93a2981f6b534b442ee86"/>
-	</game>
 	<game name="Kantan! Tanoshii! - Okashi Navi DS (Japan)" id="2285">
 		<category>Games</category>
 		<description>Kantan! Tanoshii! - Okashi Navi DS (Japan)</description>
@@ -8816,11 +8803,6 @@
 		<description>Kouenji Joshi Soccer 2 - Koi wa Nebagiba Kouenji (Japan)</description>
 		<rom name="Kouenji Joshi Soccer 2 - Koi wa Nebagiba Kouenji (Japan).nds" size="67108864" crc="ed66fa19" md5="b0e0e35938b4104a249953d7835339c8" sha1="07f496a20b6202413eef0bf71cfee2c348dc04d1"/>
 	</game>
-	<game name="Koukou Juken Eitango Get Through 1900 - Eitan Zamurai DS (Japan) (Rev 1)" id="z267">
-		<category>Games</category>
-		<description>Koukou Juken Eitango Get Through 1900 - Eitan Zamurai DS (Japan) (Rev 1)</description>
-		<rom name="Koukou Juken Eitango Get Through 1900 - Eitan Zamurai DS (Japan) (Rev 1).nds" size="134217728" crc="8c4334a9" md5="49e1a21bf0c37876ce5967c6fa24bab7" sha1="2b176abacc06aedc0d4fdc534d2f13547cdafdea" sha256="36b65aa90b6d3679f24f887f17751a86e07e35ace42017dfc5996879fc48235d"/>
-	</game>
 	<game name="Koukou Yakyuu-dou DS (Japan)" id="4016">
 		<category>Games</category>
 		<description>Koukou Yakyuu-dou DS (Japan)</description>
@@ -9097,11 +9079,6 @@
 		<description>Learn Geography (USA) (En,Fr,Es)</description>
 		<rom name="Learn Geography (USA) (En,Fr,Es).nds" size="33554432" crc="d32dc40f" md5="468654b8bd03fca1b0ccd651f8387beb" sha1="68d19a5943b1ae1444c2d39f7a834f1c5509840a"/>
 	</game>
-	<game name="Learn Math (USA) (En,Es)" id="4444">
-		<category>Games</category>
-		<description>Learn Math (USA) (En,Es)</description>
-		<rom name="Learn Math (USA) (En,Es).nds" size="67108864" crc="e3d8ccae" md5="1b90069cd7da966d7f7ae34c559375f8" sha1="113a0a9b9f86bf300078e7773df9e2862bbccdc4"/>
-	</game>
 	<game name="Learn Science (USA)" id="5438">
 		<category>Games</category>
 		<description>Learn Science (USA)</description>
@@ -9212,10 +9189,10 @@
 		<description>Lernerfolg Grundschule - Deutsch - Klasse 1+2 (Europe) (De,Tr)</description>
 		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 1+2 (Europe) (De,Tr).nds" size="33554432" crc="e9f536e3" md5="e5ebf20605c4d93bb6f356552869663a" sha1="95b4b8c81a6288ba0d744c0aafcd5a4efd291002" sha256="980c4cad5c2a91daf6c60eb5ec985927075dc1f96d212756bef1722c82daa57e"/>
 	</game>
-	<game name="Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Europe) (De,Tr) (Rev 1)" id="5983">
+	<game name="Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Germany) (De,Tr) (Rev 1)" id="5983">
 		<category>Games</category>
-		<description>Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Europe) (De,Tr) (Rev 1)</description>
-		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Europe) (De,Tr) (Rev 1).nds" size="67108864" crc="a01d8581" md5="995716d8ebca2348a5db0e4d790e84b5" sha1="cd235d29008d8145da3c0de4853ee3a86e9b8798"/>
+		<description>Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Germany) (De,Tr) (Rev 1)</description>
+		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Germany) (De,Tr) (Rev 1).nds" size="67108864" crc="a01d8581" md5="995716d8ebca2348a5db0e4d790e84b5" sha1="cd235d29008d8145da3c0de4853ee3a86e9b8798"/>
 	</game>
 	<game name="Lernerfolg Grundschule - Englisch - Der Vokabeltrainer (Europe) (Fr,De,Es,It,Tr)" id="5352">
 		<category>Games</category>
@@ -12988,16 +12965,6 @@
 		<description>Personal Fitness for Women (USA) (En,Fr,Es)</description>
 		<rom name="Personal Fitness for Women (USA) (En,Fr,Es).nds" size="16777216" crc="c1bace0a" md5="bdb7770b502b55b9b2dd59824ec38ffa" sha1="cbf33a129f7bae25359bb4d7f4244b9f737a12c4"/>
 	</game>
-	<game name="Personal Trainer - Cooking (USA)" id="3147">
-		<category>Games</category>
-		<description>Personal Trainer - Cooking (USA)</description>
-		<rom name="Personal Trainer - Cooking (USA).nds" size="268435456" crc="29bcb3d5" md5="1bb92290f9d2d97dcdfd28890f09469c" sha1="f6aff0b9a307544f86472b0d33902b0a1d16b819" sha256="da4e3cf30ec0ca4d225782307468a8dea639939a14544cec60557e83cb6d6618"/>
-	</game>
-	<game name="Personal Trainer - Cooking (USA) (Demo) (Kiosk)" id="z176">
-		<category>Demos</category>
-		<description>Personal Trainer - Cooking (USA) (Demo) (Kiosk)</description>
-		<rom name="Personal Trainer - Cooking (USA) (Demo) (Kiosk).nds" size="33554432" crc="f9ff5b4f" md5="1076dcb7057f490de48e8317cf002167" sha1="f6dddc5025bb571967e68fe551c163f22f37e7d6"/>
-	</game>
 	<game name="Personal Trainer - Math (USA) (En,Fr,Es)" id="3293">
 		<category>Games</category>
 		<description>Personal Trainer - Math (USA) (En,Fr,Es)</description>
@@ -16534,6 +16501,11 @@
 		<description>Successfully Learning English - Year 4+5 (Europe) (En,Fr,De,Es,It,Tr)</description>
 		<rom name="Successfully Learning English - Year 4+5 (Europe) (En,Fr,De,Es,It,Tr).nds" size="33554432" crc="41db21cb" md5="da96e3d68292f67c3bcbba245778996a" sha1="d8335c0c9f703f91f5cb19978dfad66f2b3a828a" sha256="bf6bb9fb76af829cce455b14188726472a4879c955fe07ead778f75902d5726b"/>
 	</game>
+	<game name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Tr)" id="6029">
+		<category>Games</category>
+		<description>Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Tr)</description>
+		<rom name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Tr).nds" size="16777216" crc="c8403ada" md5="af1b641e54ab99c5f0d87a8df08b24b1" sha1="1a875e22bfbfb5ae9a52b966e3f5e9ccfd2f63ea" sha256="a3613116efd7f7ffa2357b5513e34539e22d0e7c1ec9b57c7fc3c3d5baa6e9af"/>
+	</game>
 	<game name="Successfully Learning Mathematics - Year 2+3 (Europe) (En,Fr,De,Es,It,Tr)" id="6234">
 		<category>Games</category>
 		<description>Successfully Learning Mathematics - Year 2+3 (Europe) (En,Fr,De,Es,It,Tr)</description>
@@ -17620,11 +17592,6 @@
 		<description>Tokuten Ryoku Gakushuu DS - Chuu 2 Rika (Japan)</description>
 		<rom name="Tokuten Ryoku Gakushuu DS - Chuu 2 Rika (Japan).nds" size="33554432" crc="29514465" md5="631a2f8066782e2fa67e9a4f2775f08f" sha1="7f8d79166861379eb36205adaa68d5789c56b11e"/>
 	</game>
-	<game name="Tokuten Ryoku Gakushuu DS - Chuu 2 Suugaku (Japan) (Rev 1)" id="z137">
-		<category>Games</category>
-		<description>Tokuten Ryoku Gakushuu DS - Chuu 2 Suugaku (Japan) (Rev 1)</description>
-		<rom name="Tokuten Ryoku Gakushuu DS - Chuu 2 Suugaku (Japan) (Rev 1).nds" size="33554432" crc="c9c2b303" md5="dc07cf2fb08e97c2a78d24abb4d4ffde" sha1="ad58a152846f4d0df337ddca9915ac0edc54aa86"/>
-	</game>
 	<game name="Tokuten Ryoku Gakushuu DS - Chuu 3 5 Kyouka Pack (Japan)" id="6666">
 		<category>Games</category>
 		<description>Tokuten Ryoku Gakushuu DS - Chuu 3 5 Kyouka Pack (Japan)</description>
@@ -17649,11 +17616,6 @@
 		<category>Games</category>
 		<description>Tokuten Ryoku Gakushuu DS - Chuu 3 Rika (Japan)</description>
 		<rom name="Tokuten Ryoku Gakushuu DS - Chuu 3 Rika (Japan).nds" size="33554432" crc="0fab0068" md5="bc71ccf85df662fe104eac94678d6cbc" sha1="08580ae74612b7368142fcdfff87e35ee634db4f"/>
-	</game>
-	<game name="Tokuten Ryoku Gakushuu DS - Chuu 3 Suugaku (Japan) (Rev 1)" id="z305">
-		<category>Games</category>
-		<description>Tokuten Ryoku Gakushuu DS - Chuu 3 Suugaku (Japan) (Rev 1)</description>
-		<rom name="Tokuten Ryoku Gakushuu DS - Chuu 3 Suugaku (Japan) (Rev 1).nds" size="33554432" crc="be8f712b" md5="51cfdc9a0ba83d40d1e55e139f0fc5a3" sha1="f5b7a53c23df83e1890cb7e9bce3fbfc21fe0432" sha256="f47e0a7874eff4e3863278d38669613fdf767816c1b74a9bf5ef7cf7dc8d0b51"/>
 	</game>
 	<game name="Tokuten Ryoku Gakushuu DS - Chuugaku Chireki Rika Pack (Japan)" id="6627">
 		<category>Games</category>
@@ -17894,11 +17856,6 @@
 		<category>Games</category>
 		<description>Toshokan DS - Meisaku &amp; Suiri &amp; Kaidan &amp; Bungaku (Japan)</description>
 		<rom name="Toshokan DS - Meisaku &amp; Suiri &amp; Kaidan &amp; Bungaku (Japan).nds" size="33554432" crc="f65e32df" md5="706e1582b792f0f5689f90d0d8d52e08" sha1="e27315c05979a3adcfb277eab82b7c6299be292e"/>
-	</game>
-	<game name="Tossa no Keisan Shunkan Kaitou - Keisan DS Training (Japan) (Rev 1)" id="0952">
-		<category>Games</category>
-		<description>Tossa no Keisan Shunkan Kaitou - Keisan DS Training (Japan) (Rev 1)</description>
-		<rom name="Tossa no Keisan Shunkan Kaitou - Keisan DS Training (Japan) (Rev 1).nds" size="8388608" crc="e7bd0fdd" md5="41411f31799a24d489491edfc7d5e1a7" sha1="d50388f34004d3f15463d74133a2baceb7648c24"/>
 	</game>
 	<game name="Totally Spies! - My Secret Diary (Europe) (En,Fr,Es,Nl)" id="4059">
 		<category>Games</category>
@@ -19200,11 +19157,6 @@
 		<category>Games</category>
 		<description>Yamakawa Shuppansha Kanshuu - Shousetsu Sekaishi B - Shin Sougou Training Plus (Japan)</description>
 		<rom name="Yamakawa Shuppansha Kanshuu - Shousetsu Sekaishi B - Shin Sougou Training Plus (Japan).nds" size="67108864" crc="6f1349ee" md5="012b1e9cc28e0138cb2d9ad29ab1b2f7" sha1="eb926e573972a21892158fac03991c8da3ae6756"/>
-	</game>
-	<game name="Yamakawa Shuppansha Kanshuu - Shousetsu Sekaishi B - Sougou Training (Japan) (Rev 2)" id="z313">
-		<category>Games</category>
-		<description>Yamakawa Shuppansha Kanshuu - Shousetsu Sekaishi B - Sougou Training (Japan) (Rev 2)</description>
-		<rom name="Yamakawa Shuppansha Kanshuu - Shousetsu Sekaishi B - Sougou Training (Japan) (Rev 2).nds" size="67108864" crc="6bba094d" md5="904abfb1f7263e6f2f4d35011c968d23" sha1="4836a8fc4f447689ac58b1b3f0bb8aad1a076b24" sha256="754b654f06494e8cbc00a474ba1b55994df6ca8c613b19d1bc6b322b55e80492"/>
 	</game>
 	<game name="Yamanote-sen Meimei 100 Shuunen Kinen - Densha de Go! - Tokubetsu Hen - Fukkatsu! Shouwa no Yamanote-sen (Japan)" id="5129">
 		<category>Games</category>

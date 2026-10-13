@@ -3,14 +3,22 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi (Retool)</name>
-		<description>Arcade - Sega - Naomi (29) (-y) [-aAbBcefkmMoprv] (2026-10-09 18-12-59) (Retool)</description>
-		<version>2026-10-09 18-12-59</version>
-		<date>2026-10-12 08-59-03</date>
+		<description>Arcade - Sega - Naomi (32) (-y) [-aAbBcefkmMoprv] (2026-10-12 19-20-31) (Retool)</description>
+		<version>2026-10-12 19-20-31</version>
+		<date>2026-10-13 09-17-26</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
+	<game name="Border Down (Japan) (Rev A)" id="139328">
+		<category>Games</category>
+		<description>Border Down (Japan) (Rev A)</description>
+		<rom name="Border Down (Japan) (Rev A) (Track 1).bin" size="1058400" crc="1ae576f7" md5="a0e271e7f05f57f52d063a212426d218" sha1="836e2bd95b323c1edd6ab9e0622af0dea6a27bd4"/>
+		<rom name="Border Down (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Border Down (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="5f07567e" md5="301c91a6ed047c586fccde4f1e57b41d" sha1="fa86a3bcf3a665da838335c4ad674041441fea61"/>
+		<rom name="Border Down (Japan) (Rev A).cue" size="375" crc="7c78ee06" md5="0f8d06eb344e08a0002dd81969a9cb7f" sha1="cb43f24d63a29e29f535bced0f15fe8ab8d84363"/>
+	</game>
 	<game name="Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A)" id="75302">
 		<category>Games</category>
 		<description>Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A)</description>
@@ -234,6 +242,22 @@
 		<rom name="TriggerHeart Exelica (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="TriggerHeart Exelica (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="02c0f7d9" md5="928d6bf7fa0afc2e9402ade567b5fca7" sha1="39a567bed73ed520105503975420362fa23e3621"/>
 		<rom name="TriggerHeart Exelica (Japan) (Rev A).cue" size="402" crc="72a777d0" md5="9d11367a1dfe69cc8b92c3bedf16cf67" sha1="36191b524751e4a86b33ad2aaedbce1def1f741f"/>
+	</game>
+	<game name="Trizeal (Japan)" id="139329">
+		<category>Games</category>
+		<description>Trizeal (Japan)</description>
+		<rom name="Trizeal (Japan) (Track 1).bin" size="1058400" crc="fc32e491" md5="ef1b78d80ea9b2dde78a3f191b111fad" sha1="108cdd3a37c563191aa55f0e6ad51eb2130c288d"/>
+		<rom name="Trizeal (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Trizeal (Japan) (Track 3).bin" size="1185760800" crc="83c8e96b" md5="39095e465c1a4605b494984266d86323" sha1="f4599276ab74a9923dad2bac7d7cbdb8597974a3"/>
+		<rom name="Trizeal (Japan).cue" size="339" crc="32daf11a" md5="443c3b738f672056ece13d98da41efb7" sha1="706b3bba9048f1e16b392d23200f48692e767c18"/>
+	</game>
+	<game name="Under Defeat (Japan)" id="139327">
+		<category>Games</category>
+		<description>Under Defeat (Japan)</description>
+		<rom name="Under Defeat (Japan) (Track 1).bin" size="1058400" crc="76ef5814" md5="1236fd5a3a31fe9e82220d3daed3e45d" sha1="61b57967e527d6fc26579644b047863ef27de08b"/>
+		<rom name="Under Defeat (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Under Defeat (Japan) (Track 3).bin" size="1185760800" crc="214e66a7" md5="2ea86f382420fa9a5531e2fd4cf16bd5" sha1="989866655541237ff172f9b41695aad58e8e4812"/>
+		<rom name="Under Defeat (Japan).cue" size="354" crc="e66077eb" md5="63b04eecc6b0354635658d4f62b015ec" sha1="d801f50668e776345c76a39cdcab4ba4b4224d44"/>
 	</game>
 	<game name="Virtua Athletics ~ Virtua Athlete (World)" id="75447">
 		<category>Games</category>

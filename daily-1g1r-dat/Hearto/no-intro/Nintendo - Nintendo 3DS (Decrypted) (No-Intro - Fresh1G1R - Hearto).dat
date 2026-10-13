@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (977) (-y) [-aAbBcefkmMoprv] (20261010-030508) (Retool)</description>
-		<version>20261010-030508</version>
-		<date>2026-10-12 09-03-50</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (977) (-y) [-aAbBcefkmMoprv] (20261012-165313) (Retool)</description>
+		<version>20261012-165313</version>
+		<date>2026-10-13 09-19-59</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2502,6 +2502,7 @@
 	</game>
 	<game name="Kirby's Extra Epic Yarn (USA) (En,Fr,Es) (Demo) (Kiosk)" id="z018">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Kirby's Extra Epic Yarn (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<rom name="Kirby's Extra Epic Yarn (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="268435456" crc="0567b722" md5="d75ca37c421f57ddc75c7ce615b800d6" sha1="2e5044837ff7363b74e514de81f77ce22dc47a50"/>
 	</game>

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>42</id>
+		<name>Commodore - Commodore 64 (Headerless)</name>
+		<description>Commodore - Commodore 64 (Headerless)</description>
+		<version>20261012-234334</version>
+		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Adventure Creator (USA, Europe)" id="0120">
+		<description>Adventure Creator (USA, Europe)</description>
+		<rom name="Adventure Creator (USA, Europe).bin" size="16384" crc="6d61e6ab" md5="9a2fc487904fb44a153e6cd415726ede" sha1="2971ff05b42471c9e9f430e8349183a5fd8e9fd8" sha256="25152cea335b4f5a866bc84744da91311a6435dc85d89863bea018dfefdba694"/>
+	</game>
+	<game name="Alf in the Color Caves (USA, Europe)" id="0123">
+		<description>Alf in the Color Caves (USA, Europe)</description>
+		<rom name="Alf in the Color Caves (USA, Europe).bin" size="16384" crc="f06cd220" md5="f5ef92de3262c8b6c01dcf53a5f8773c" sha1="0fc963c41b2e748f7001c976d5a86231d8e61294" sha256="634d7cd152869332304585653bb368a5a1ba6f2434573d8cddfb75aabd0a6b00"/>
+	</game>
+	<game name="Bis Plus Cartridge (Poland) (En) (Program) (2K)" id="0350">
+		<category>Applications</category>
+		<description>Bis Plus Cartridge (Poland) (En) (Program) (2K)</description>
+		<rom name="Bis Plus Cartridge (Poland) (En) (Program) (2K).bin" size="2048" crc="5d4815e6" md5="b597edd2b02150f609b3c3d0fe3816c0" sha1="b4cf453a3f919b52ee0eca51a3e8e1e12ef04a0c" sha256="9684fac2055d37463166fda3ea46acf2b7dbe2d7a6191a42fe6e00eabe84cd85"/>
+	</game>
+	<game name="Black Box (USA, Europe) (v2.0) (Program)" id="0058">
+		<description>Black Box (USA, Europe) (v2.0) (Program)</description>
+		<rom name="Black Box (USA, Europe) (v2.0) (Program).bin" size="16384" crc="ff7d032e" md5="d3f3e9f6c26d08e537a914c8a4a0ce98" sha1="df18df86fd60832105047afeea4e7a329f62bec0" sha256="5e7b8c19c7a90b7266667cf9644c375603442eb03a5743f610951ec7da030443"/>
+	</game>
+	<game name="Black Box 4 (Poland) (De,Pl) (ROMI-SOFT) (Program)" id="0349" cloneofid="0058">
+		<category>Applications</category>
+		<description>Black Box 4 (Poland) (De,Pl) (ROMI-SOFT) (Program)</description>
+		<rom name="Black Box 4 (Poland) (De,Pl) (ROMI-SOFT) (Program).bin" size="16384" crc="5a4f8a48" md5="ec01de00f6f96f78c4e1dfdbf7c0e84f" sha1="6e90afc1178c62571c97fe01d86fa99cb24ead70" sha256="e9491a8f23c1d86561eef72911ad9c81166f72ee13b8293057e87df75fc794e1"/>
+	</game>
+	<game name="Bubble Burst (USA, Europe)" id="0140">
+		<description>Bubble Burst (USA, Europe)</description>
+		<rom name="Bubble Burst (USA, Europe).bin" size="16384" crc="ea72c865" md5="7b3653fb38659b6ac961d3d9e98520be" sha1="5f743628e7b0d5d540052ac057b760a92750f77d" sha256="e26a874a3000583431cab1904d1ea34c1acf2fdb337462211db68647b8fce5af"/>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (USA, Europe)" id="0141">
+		<description>Buck Rogers - Planet of Zoom (USA, Europe)</description>
+		<rom name="Buck Rogers - Planet of Zoom (USA, Europe).bin" size="16384" crc="d4484f3f" md5="ac4aeaf48c8ea96d04840c57bf30e975" sha1="47d362551debaa7954b24910fee6350066b7895a" sha256="e2fabe03fff9697158af2ebd0d3423b2bcb80e435c6259c5dac8ade4abc97aa0"/>
+	</game>
+	<game name="Bug Crusher (USA, Europe)" id="0142">
+		<description>Bug Crusher (USA, Europe)</description>
+		<rom name="Bug Crusher (USA, Europe).bin" size="8192" crc="869e95ee" md5="ffe91aaa6b5c16430839d37921eae9f9" sha1="1a25a1b729e78773b49bf2d6b04cb0bcfc4ae67d" sha256="9ff88c0dafe204f729ac301571a8e3e905198232d0faf861c6f63e47d88beff0"/>
+	</game>
+	<game name="Castle Hassle (USA, Europe)" id="0143">
+		<description>Castle Hassle (USA, Europe)</description>
+		<rom name="Castle Hassle (USA, Europe).bin" size="16384" crc="d02d546a" md5="1d8fa7fb62e6a35cbaf6c07a3ad15df9" sha1="3d964c36d191f464f9288068e6aace2143226be3" sha256="e946678c8e26505ec1381b897a0d80d3b35f95302551371a5484ddfa33cd5f1c"/>
+	</game>
+	<game name="Centipede (USA, Europe)" id="0144">
+		<description>Centipede (USA, Europe)</description>
+		<rom name="Centipede (USA, Europe).bin" size="8192" crc="ad4e4d45" md5="54085407815b75aca2508a9429575278" sha1="f2f76f9c53ced827aac2428e4e672b54617d0fac" sha256="e53e1d05c9250ff68433f2b913a480b11a7aef28c3e8e0937b49178a208ffff8"/>
+	</game>
+	<game name="Checkers (USA, Europe)" id="0146">
+		<description>Checkers (USA, Europe)</description>
+		<rom name="Checkers (USA, Europe).bin" size="16384" crc="92d8d4e4" md5="4d9410b2dbfd309f2ed2d0129dbd69b8" sha1="1ab54a850237ef349b53b186157613a2f653138d" sha256="84d812edc2c1256d0a10748c233ba68e775df27fea44ffde78cf757bff369596"/>
+	</game>
+	<game name="Clowns (Japan) (v01) (MAX)" id="0027">
+		<description>Clowns (Japan) (v01) (MAX)</description>
+		<rom name="Clowns (Japan) (v01) (MAX).bin" size="8192" crc="d50c1428" md5="d55c29ed528701cd3232d76b36c130bb" sha1="fb48b5a639e4235ce522d62c5f8713d66102c75e" sha256="1718bebbfd2e16950ace34b36a742b9411d54a6ddf36b1cae664a4c50c56acae"/>
+	</game>
+	<game name="Clowns (World) (En,Ja) (v02) (MAX)" id="0028">
+		<description>Clowns (World) (En,Ja) (v02) (MAX)</description>
+		<rom name="Clowns (World) (En,Ja) (v02) (MAX).bin" size="8192" crc="85aa080b" md5="126dac5d98bea5f2a388eaf97fa842d0" sha1="ffebfc19263dc50d3a808135dbe88567617af6b8" sha256="9ea5118ec4258c59b03b9273004fdd23407f3553e091182e7fb41bc3faee26ed"/>
+	</game>
+	<game name="Gorf (USA, Europe)" id="0183">
+		<description>Gorf (USA, Europe)</description>
+		<rom name="Gorf (USA, Europe).crt" size="16384" crc="33812a19" md5="04da026b235cbdc7efa4274d6c736817" sha1="4d24d5ed3d8b38235d9ae5965b675ffece0981cc" sha256="2ea1fec3d84af208ec6eb56b7186c536aeba100a8197af32e5bb07465079c3ea"/>
+	</game>
+	<game name="Gridrunner (USA, Europe)" id="0184">
+		<description>Gridrunner (USA, Europe)</description>
+		<rom name="Gridrunner (USA, Europe).bin" size="8192" crc="12f36a09" md5="20f4ce80b6eb3e05f4fcf1686192a8e1" sha1="218625325984ebdef88a5b56bc81bcff229d61db" sha256="52dab22623126061a1e8487568fa693b35bc0c8d3f8d5079f9223c420618b7a1"/>
+	</game>
+	<game name="Lazarian (USA, Europe)" id="0203">
+		<description>Lazarian (USA, Europe)</description>
+		<rom name="Lazarian (USA, Europe).bin" size="16384" crc="aa5d27d4" md5="986467c4848b5fd9e13cb61e8c7d1aeb" sha1="cf3dedd23375d51c11dbac60167031e6fb8a6a08" sha256="771d9a85d43f625090e15a89e9103061e5c95ae71d5261f0db156bdca218bf07"/>
+	</game>
+	<game name="Pole Position (USA, Europe)" id="0249">
+		<description>Pole Position (USA, Europe)</description>
+		<rom name="Pole Position (USA, Europe).bin" size="16384" crc="8897e451" md5="10acc3cde8bbeb5baeb706a0e3aea524" sha1="ca89a850ad6f78e48a4891a89ccd37f0705ea54e" sha256="8477cfcc3f26370016b4a2971e57efa84d6d444a550416f1a9f2bd3c5deab480"/>
+	</game>
+	<game name="Star Ranger (USA, Europe)" id="0288">
+		<description>Star Ranger (USA, Europe)</description>
+		<rom name="Star Ranger (USA, Europe).crt" size="16384" crc="6305847e" md5="6dda6c4c05fd82749e367a452297f442" sha1="a4e63c7c130f3e6ef3b89ec86888b8dda7ec28a4" sha256="23082179caa857c94788745633340d76f25a54920fad1ad7f57148ecf1d1faa3"/>
+	</game>
+	<game name="Tooth Invaders (USA, Europe)" id="0308">
+		<description>Tooth Invaders (USA, Europe)</description>
+		<rom name="Tooth Invaders (USA, Europe).bin" size="16384" crc="06d63bc2" md5="33b8940516ff21c5390a2a08c9dc4c6a" sha1="75ece1d16cc635734739dafd4c836222c99ded03" sha256="7482907fc376c58812dbd5bd359fb36a57318e68564e35f04da0a62a897af3a2"/>
+	</game>
+	<game name="Turbo Cartridge C64-128 (Poland) (Program)" id="0348">
+		<category>Applications</category>
+		<description>Turbo Cartridge C64-128 (Poland) (Program)</description>
+		<rom name="Turbo Cartridge C64-128 (Poland) (Program).bin" size="4096" crc="2dbd4cb0" md5="a4a0fcebfe58202cff06f7f4e8d501db" sha1="77b0997a799819143cecd7660b74518acf1b40f7" sha256="e9209d9a6d997c0866257699e31595d411be2da60c150e712b20eadea54e7312"/>
+	</game>
+</datafile>

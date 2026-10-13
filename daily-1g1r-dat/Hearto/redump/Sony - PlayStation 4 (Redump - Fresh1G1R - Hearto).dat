@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,926) (-y) [-aAbBcefkmMoprv] (2026-10-12 08-37-24) (Retool)</description>
-		<version>2026-10-12 08-37-24</version>
-		<date>2026-10-12 08-59-57</date>
+		<description>Sony - PlayStation 4 (1,927) (-y) [-aAbBcefkmMoprv] (2026-10-12 19-31-51) (Retool)</description>
+		<version>2026-10-12 19-31-51</version>
+		<date>2026-10-13 09-18-37</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3170,6 +3170,11 @@
 		<category>Games</category>
 		<description>Fight'N Rage (USA)</description>
 		<rom name="Fight'N Rage (USA).iso" size="1568538624" crc="65b56d36" md5="15cd7921a0920841a9774188c332c219" sha1="287f5823129ee22e4d274559bfc82dad6ea41116"/>
+	</game>
+	<game name="Fimbul (Europe)" id="139331">
+		<category>Games</category>
+		<description>Fimbul (Europe)</description>
+		<rom name="Fimbul (Europe).iso" size="25024331776" crc="74af3ec1" md5="9d5d85b1ba2124427e44d1de11adaad9" sha1="8edaefa7a3c05a20709908494ed127a3eaa1869e"/>
 	</game>
 	<game name="Final Fantasy 15 (China)" id="132742">
 		<category>Games</category>

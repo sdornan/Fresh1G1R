@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Retool)</name>
-		<description>Commodore - Commodore 64 (231) (-y) [-aAbBcefkmMoprv] (20261011-145606) (Retool)</description>
-		<version>20261011-145606</version>
-		<date>2026-10-12 09-03-21</date>
+		<description>Commodore - Commodore 64 (231) (-y) [-aAbBcefkmMoprv] (20261012-234334) (Retool)</description>
+		<version>20261012-234334</version>
+		<date>2026-10-13 09-23-42</date>
 		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -29,7 +29,7 @@
 	<game name="Adventure Creator (USA, Europe)" id="0120">
 		<category>Games</category>
 		<description>Adventure Creator (USA, Europe)</description>
-		<rom name="Adventure Creator (USA, Europe).crt" size="16464" crc="502fc7f8" md5="fec88fe0cb661b4283a06f8e361999b2" sha1="e31ec6f702e4717cf4d25608e78ffc85bdccbcbd"/>
+		<rom name="Adventure Creator (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="502fc7f8" md5="fec88fe0cb661b4283a06f8e361999b2" sha1="e31ec6f702e4717cf4d25608e78ffc85bdccbcbd" sha256="bbdd47236686e5c65ed9c1136ecdeeac9adc396bb4c41f06e5a12ca65852a91e"/>
 	</game>
 	<game name="Aegean Voyage (USA, Europe)" id="0121">
 		<category>Games</category>
@@ -44,7 +44,7 @@
 	<game name="Alf in the Color Caves (USA, Europe)" id="0123">
 		<category>Games</category>
 		<description>Alf in the Color Caves (USA, Europe)</description>
-		<rom name="Alf in the Color Caves (USA, Europe).crt" size="16464" crc="cd22f373" md5="c3026a4997f96d6512caf98f2cb97342" sha1="b44914cfd79c0921d285ccd015c5a4646271e5e1"/>
+		<rom name="Alf in the Color Caves (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="cd22f373" md5="c3026a4997f96d6512caf98f2cb97342" sha1="b44914cfd79c0921d285ccd015c5a4646271e5e1" sha256="eb3bcc8141c3f1a9874e62d9a813d59329615a5166301d340589015738148384"/>
 	</game>
 	<game name="Alien Sidestep (USA, Europe)" id="0124">
 		<category>Games</category>

@@ -1,16 +1,26 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo GameCube (NPDP Carts) (Retool)</name>
-		<description>Nintendo - Nintendo GameCube (NPDP Carts) (3) (-y) [-aAbBcdkmMpPuv] (20260313-183736) (Retool)</description>
-		<version>20260313-183736</version>
-		<date>2026-10-12 09-16-02</date>
+		<description>Nintendo - Nintendo GameCube (NPDP Carts) (6) (-y) [-aAbBcdkmMpPuv] (20261012-144230) (Retool)</description>
+		<version>20261012-144230</version>
+		<date>2026-10-13 09-40-22</date>
 		<author>Hiccup, NovaAurora, relax, togemet2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
+	<game name="Gateway Utility (USA)" id="0037">
+		<category>Games</category>
+		<description>Gateway Utility (USA)</description>
+		<rom name="Gateway Utility (USA).iso" size="1459978240" crc="f9e0ceda" md5="dd00c1591d68627d472100eb4dd8d1e6" sha1="14e2a8a2380afb40678e26b28acf0c02efccbac3" sha256="fcc6d629a4c7a01a5967ea2200337ebb69f1aa8b0191b629fd6fe46a7d3cbdd5"/>
+	</game>
+	<game name="Legend of Zelda, The - The Wind Waker (USA) (Gateway)" id="0038">
+		<category>Games</category>
+		<description>Legend of Zelda, The - The Wind Waker (USA) (Gateway)</description>
+		<rom name="Legend of Zelda, The - The Wind Waker (USA) (Gateway).iso" size="1459978240" crc="af019db9" md5="2a51b596d464dbae952923f8cf4ee356" sha1="f38c712dbf2eb57cbdd72a596b260a665bbca53b" sha256="e4a05b77a6ca333d75777eebfe8580226cd7e1cf4c7b4dd4855bd6e72af43972"/>
+	</game>
 	<game name="Memory Card Utility Program (USA) (v1.1.0)" id="0029">
 		<category>Games</category>
 		<description>Memory Card Utility Program (USA) (v1.1.0)</description>
@@ -20,6 +30,11 @@
 		<category>Games</category>
 		<description>There Is No Program on This Disc (Unknown)</description>
 		<rom name="There Is No Program on This Disc (Unknown).iso" size="1459978240" crc="64addc63" md5="6f26e9779e57150182a5c8247a714b83" sha1="09fb6c2dc26fe66a52bf9a4b50ad6970851d98bc" sha256="a46582e2fe9d86efe5e958e242dce41afcb8a37b892d98f913cfee3a9a96ab82"/>
+	</game>
+	<game name="Wario World (USA) (Gateway)" id="0039">
+		<category>Games</category>
+		<description>Wario World (USA) (Gateway)</description>
+		<rom name="Wario World (USA) (Gateway).iso" size="1459978240" crc="68b519a9" md5="5b2097417187f1a3c24d14f39e105b04" sha1="ab52ebb7f7e7174ec7a72f5bd09401a6de1b444a" sha256="d4c77755b4b5d0e72838ccf34da5654b8dfb6aa8a674e7f5a85be1a19c73f8e0"/>
 	</game>
 	<game name="kpaddemo (Unknown)" id="0026">
 		<category>Games</category>

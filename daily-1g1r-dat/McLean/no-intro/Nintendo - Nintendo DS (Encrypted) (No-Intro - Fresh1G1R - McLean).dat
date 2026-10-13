@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20261011-202841) (Retool)</description>
-		<version>20261011-202841</version>
-		<date>2026-10-12 09-11-19</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (2,146) (-ly) [-aAbBcdDefkmMopPruv] (20261013-004646) (Retool)</description>
+		<version>20261013-004646</version>
+		<date>2026-10-13 09-29-31</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2661,11 +2661,6 @@
 		<description>Drivers Ed Portable (USA)</description>
 		<rom name="Drivers Ed Portable (USA).nds" size="16777216" crc="b59530b2" md5="074221bc4722d63ef5250d19f5fe1066" sha1="229dd7f9c0081da18e69c6413eb5da2e3bf4a846"/>
 	</game>
-	<game name="Driving Theory Training (Europe) (Rev 1)" id="6362">
-		<category>Games</category>
-		<description>Driving Theory Training (Europe) (Rev 1)</description>
-		<rom name="Driving Theory Training (Europe) (Rev 1).nds" size="33554432" crc="925dd1ec" md5="805ad190dfbb71a2fe63547d25a84f1b" sha1="96ef050be9f3632bfd3abec37eb2cecccde28879"/>
-	</game>
 	<game name="Drone Tactics (USA)" id="2305">
 		<category>Games</category>
 		<description>Drone Tactics (USA)</description>
@@ -5076,11 +5071,6 @@
 		<description>Learn Geography (USA) (En,Fr,Es)</description>
 		<rom name="Learn Geography (USA) (En,Fr,Es).nds" size="33554432" crc="8560871d" md5="758e2318390bac4b15c98f4ea44477c1" sha1="95e717a7a28bc83ac16dcd34208fcd482aeb77fe"/>
 	</game>
-	<game name="Learn Math (USA) (En,Es)" id="4444">
-		<category>Games</category>
-		<description>Learn Math (USA) (En,Es)</description>
-		<rom name="Learn Math (USA) (En,Es).nds" size="67108864" crc="2642a10d" md5="192e9c08ff3384bf842b349fae15c402" sha1="0dcaa02b65b82d514f80238f3023c2c0f6c5711e"/>
-	</game>
 	<game name="Learn Science (USA)" id="5438">
 		<category>Games</category>
 		<description>Learn Science (USA)</description>
@@ -7151,11 +7141,6 @@
 		<description>Personal Fitness for Women (USA) (En,Fr,Es)</description>
 		<rom name="Personal Fitness for Women (USA) (En,Fr,Es).nds" size="16777216" crc="89df3a29" md5="87c5f239bf3cc66c46f79cb32b2623ab" sha1="ad6441dd72eed56a4427ad9c1bf99341892b2db7"/>
 	</game>
-	<game name="Personal Trainer - Cooking (USA)" id="3147">
-		<category>Games</category>
-		<description>Personal Trainer - Cooking (USA)</description>
-		<rom name="Personal Trainer - Cooking (USA).nds" size="268435456" crc="04b27ccd" md5="cbdc798558b2dded36317a2aa0b800ab" sha1="e3d51394b7ae8231a8ecccf02f39f12090c8298e" sha256="2db636123cc24e4897b77d0ad8a0ddbed142c7cbce8f3763f8ca533eba80862c"/>
-	</game>
 	<game name="Personal Trainer - Math (USA) (En,Fr,Es)" id="3293">
 		<category>Games</category>
 		<description>Personal Trainer - Math (USA) (En,Fr,Es)</description>
@@ -9195,6 +9180,11 @@
 		<category>Games</category>
 		<description>Successfully Learning English - Year 4+5 (Europe) (En,Fr,De,Es,It,Tr)</description>
 		<rom name="Successfully Learning English - Year 4+5 (Europe) (En,Fr,De,Es,It,Tr).nds" size="33554432" crc="6fef099e" md5="67554073d280c66c80bfe2f254f38820" sha1="9538299bafc9b099949c0591bda32bc076ac37a8" sha256="c3b65c3abe8fd018845bd2078208d28c98499c305e438b41caefbb01e927f5e9"/>
+	</game>
+	<game name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Tr)" id="6029">
+		<category>Games</category>
+		<description>Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Tr)</description>
+		<rom name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Tr).nds" size="16777216" crc="fa2b2918" md5="cca299674a7e2e682ae4cd27ed44ddc1" sha1="94aa274fb9db662d425a93f3a26b9a82b737d287" sha256="b9608064b32e5478507d15750b992cf9197aafcf3ed7c5b616e3b577209300bf"/>
 	</game>
 	<game name="Successfully Learning Mathematics - Year 2+3 (Europe) (En,Fr,De,Es,It,Tr)" id="6234">
 		<category>Games</category>

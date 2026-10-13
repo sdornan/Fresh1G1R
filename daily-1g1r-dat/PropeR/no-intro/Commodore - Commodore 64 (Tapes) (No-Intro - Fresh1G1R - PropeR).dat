@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Tapes) (Retool)</name>
-		<description>Commodore - Commodore 64 (Tapes) (1,654) (-y) [-aAbBcdkmMpPuv] (20261010-215251) (Retool)</description>
-		<version>20261010-215251</version>
-		<date>2026-10-12 09-16-31</date>
+		<description>Commodore - Commodore 64 (Tapes) (1,654) (-y) [-aAbBcdkmMpPuv] (20261013-012550) (Retool)</description>
+		<version>20261013-012550</version>
+		<date>2026-10-13 09-39-26</date>
 		<author>1988reload, C. V. Reynolds</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -125,13 +125,13 @@
 	<game name="ADIDAS Championship Football (Europe)" id="0089">
 		<category>Games</category>
 		<description>ADIDAS Championship Football (Europe)</description>
-		<rom name="ADIDAS Championship Football (Europe) (Side 1).tap" size="660602" crc="4b4edc2b" md5="424c212db7dbbcdacd100d433197e79c" sha1="fba7284ada4932ac8a912bd4b1d7cbe0566cbe91"/>
-		<rom name="ADIDAS Championship Football (Europe) (Side 2).tap" size="806688" crc="bac9b616" md5="13d84c18df1ca727fdfc6ccd2b97faa8" sha1="88da5369ea9b7830efd3f678cba6c5a22c4c6e54"/>
+		<rom name="ADIDAS Championship Football (Europe) (Side 1).tap" size="660602" crc="4b4edc2b" md5="424c212db7dbbcdacd100d433197e79c" sha1="fba7284ada4932ac8a912bd4b1d7cbe0566cbe91" sha256="489577191d6d4cef4fd873404d8b8d0d481ffc40277d43c0d0ceabb4a3c2049c"/>
+		<rom name="ADIDAS Championship Football (Europe) (Side 2).tap" size="806688" crc="bac9b616" md5="13d84c18df1ca727fdfc6ccd2b97faa8" sha1="88da5369ea9b7830efd3f678cba6c5a22c4c6e54" sha256="42278dcea6801a738743b9696abfa9aebb4252bbc775c047141e0c94cb2d63f0"/>
 	</game>
 	<game name="ADIDAS Championship Tie Break (Europe)" id="0090">
 		<category>Games</category>
 		<description>ADIDAS Championship Tie Break (Europe)</description>
-		<rom name="ADIDAS Championship Tie Break (Europe).tap" size="725498" crc="b9e5d82c" md5="f2c749e9914e5c876b56cd56bf35e28f" sha1="56a0a2cc4731702655cdd69a76b6f28b6c4bb1e2"/>
+		<rom name="ADIDAS Championship Tie Break (Europe).tap" size="725498" crc="b9e5d82c" md5="f2c749e9914e5c876b56cd56bf35e28f" sha1="56a0a2cc4731702655cdd69a76b6f28b6c4bb1e2" sha256="97d1fd9b39b4224054feee860ae786e368996a42f55c37b0bd50fb2e28146c2b"/>
 	</game>
 	<game name="ATV Simulator (Europe)" id="0156">
 		<category>Games</category>
@@ -162,33 +162,33 @@
 	<game name="Action Biker (Europe)" id="0086">
 		<category>Games</category>
 		<description>Action Biker (Europe)</description>
-		<rom name="Action Biker (Europe).tap" size="861804" crc="8cb00e3a" md5="bd2ebd29fd8ea4fc340a29b5c1f878eb" sha1="666eab34bd19eece41aa7a91e0140e2f0db96425"/>
+		<rom name="Action Biker (Europe).tap" size="861804" crc="8cb00e3a" md5="bd2ebd29fd8ea4fc340a29b5c1f878eb" sha1="666eab34bd19eece41aa7a91e0140e2f0db96425" sha256="edda7cd49a9227fb4fac8d2b28b73648c065a0dca6633285c8c2c431c5ef7539"/>
 	</game>
 	<game name="Action Fighter (Europe)" id="0087">
 		<category>Games</category>
 		<description>Action Fighter (Europe)</description>
-		<rom name="Action Fighter (Europe).tap" size="552786" crc="f99f6a3b" md5="c327f10518af2d14641463be08c5e2f5" sha1="686e52b3aa6e4daddd3e7d8abbcfea1244141038"/>
+		<rom name="Action Fighter (Europe).tap" size="552786" crc="f99f6a3b" md5="c327f10518af2d14641463be08c5e2f5" sha1="686e52b3aa6e4daddd3e7d8abbcfea1244141038" sha256="a65d8f59124d4671d694938a8abe8a26a55ecd9f3dc1578ac7b78efe9c4e866d"/>
 	</game>
 	<game name="Action Force (Europe) (Budget)" id="0022">
 		<category>Games</category>
 		<description>Action Force (Europe) (Budget)</description>
-		<rom name="Action Force (Europe) (Budget).tap" size="513449" crc="5329d92d" md5="fcae1ed0549d692b4df4621d6e1a393e" sha1="1ee81804288f186707bd56ac2904a38703c0e658"/>
+		<rom name="Action Force (Europe) (Budget).tap" size="513449" crc="5329d92d" md5="fcae1ed0549d692b4df4621d6e1a393e" sha1="1ee81804288f186707bd56ac2904a38703c0e658" sha256="b484ef6c5b40f8576f53e61ab8c08dd377d53c27f1537f7a55b5188399bfa902"/>
 	</game>
 	<game name="Addams Family, The (Europe)" id="0088">
 		<category>Games</category>
 		<description>Addams Family, The (Europe)</description>
-		<rom name="Addams Family, The (Europe).tap" size="979182" crc="46a4be1c" md5="dc87d07fc8bdd0a1b4454c620229625f" sha1="5f1ec074861eb95df588e9073ee8a826a15b042b"/>
+		<rom name="Addams Family, The (Europe).tap" size="979182" crc="46a4be1c" md5="dc87d07fc8bdd0a1b4454c620229625f" sha1="5f1ec074861eb95df588e9073ee8a826a15b042b" sha256="2dacca5c1d80042e72f25fe6550324bfda3c78481cf348a32d968b7e9be610df"/>
 	</game>
 	<game name="Advanced Basketball Simulator (Europe) (Budget)" id="0023">
 		<category>Games</category>
 		<description>Advanced Basketball Simulator (Europe) (Budget)</description>
-		<rom name="Advanced Basketball Simulator (Europe) (Budget).tap" size="1015438" crc="cf932830" md5="c030e8b3b313a4f4756a17d79fba5a4e" sha1="7de2b8bcb6dc6fd084a37a4e66a0a460fe753e5e"/>
+		<rom name="Advanced Basketball Simulator (Europe) (Budget).tap" size="1015438" crc="cf932830" md5="c030e8b3b313a4f4756a17d79fba5a4e" sha1="7de2b8bcb6dc6fd084a37a4e66a0a460fe753e5e" sha256="0e55ae36da73a6ed7de4da0bfd1af63bc5bb847e418780105a7884248fdbee04"/>
 	</game>
 	<game name="Advanced Dungeons &amp; Dragons - Dragon Lance - Heroes of the Lance (Europe)" id="0091">
 		<category>Games</category>
 		<description>Advanced Dungeons &amp; Dragons - Dragon Lance - Heroes of the Lance (Europe)</description>
-		<rom name="Advanced Dungeons &amp; Dragons - Dragon Lance - Heroes of the Lance (Europe) (Side 1).tap" size="749958" crc="ccc143ae" md5="ce09e96ce68ae8a6b9e0f21206ca8808" sha1="3ea5882e8674ac738d6fe8cf3f7a82206d513772"/>
-		<rom name="Advanced Dungeons &amp; Dragons - Dragon Lance - Heroes of the Lance (Europe) (Side 2).tap" size="522280" crc="2530f2e0" md5="a6097d0f5d9d1f005cbe708524d479b3" sha1="dd5285d03c17e0c3a9bf44ff38e9394d89e407bf"/>
+		<rom name="Advanced Dungeons &amp; Dragons - Dragon Lance - Heroes of the Lance (Europe) (Side 1).tap" size="749958" crc="ccc143ae" md5="ce09e96ce68ae8a6b9e0f21206ca8808" sha1="3ea5882e8674ac738d6fe8cf3f7a82206d513772" sha256="1fc7f12d2c3f91f5516736105e49596b0723a2e21fbbd41a0ff0cb1356727176"/>
+		<rom name="Advanced Dungeons &amp; Dragons - Dragon Lance - Heroes of the Lance (Europe) (Side 2).tap" size="522280" crc="2530f2e0" md5="a6097d0f5d9d1f005cbe708524d479b3" sha1="dd5285d03c17e0c3a9bf44ff38e9394d89e407bf" sha256="d2649cb633d8dfe7f7017acf03d2a856fb1556291056a6ca78f7bc7767b94433"/>
 	</game>
 	<game name="Advanced Pinball Simulator (Europe)" id="0092">
 		<category>Games</category>
@@ -198,23 +198,23 @@
 	<game name="Adventures of Bond... Basildon Bond, The (Europe)" id="0093">
 		<category>Games</category>
 		<description>Adventures of Bond... Basildon Bond, The (Europe)</description>
-		<rom name="Adventures of Bond... Basildon Bond, The (Europe).tap" size="456290" crc="d656041c" md5="f1cdae48f533be14467e5b227cd29695" sha1="5eb1d2aa57b9a643789bc50115ef6a29e746fab0"/>
+		<rom name="Adventures of Bond... Basildon Bond, The (Europe).tap" size="456290" crc="d656041c" md5="f1cdae48f533be14467e5b227cd29695" sha1="5eb1d2aa57b9a643789bc50115ef6a29e746fab0" sha256="9b964f84d404c91f17ad36820f748fd66e13578ce4d8b5c8b41df6d573fec8e2"/>
 	</game>
 	<game name="After the War (Europe)" id="0094">
 		<category>Games</category>
 		<description>After the War (Europe)</description>
-		<rom name="After the War (Europe) (Side 1).tap" size="847462" crc="71bbf812" md5="05b64a3bdbdf36c4d63f5b97890f8765" sha1="2874c60f7a8a3a4c579c50c2d5ee41e3b8240cad"/>
-		<rom name="After the War (Europe) (Side 2).tap" size="862046" crc="c1b50385" md5="dea80baa058f4c291b91735bcefc6235" sha1="4142f81eb4f35364e932f2cd37ff8c0a4d88b6df"/>
+		<rom name="After the War (Europe) (Side 1).tap" size="847462" crc="71bbf812" md5="05b64a3bdbdf36c4d63f5b97890f8765" sha1="2874c60f7a8a3a4c579c50c2d5ee41e3b8240cad" sha256="0e50aa218e8b4f1c0d7375d10832544bc8823bb6dc45186c65c7dd02efddb2a6"/>
+		<rom name="After the War (Europe) (Side 2).tap" size="862046" crc="c1b50385" md5="dea80baa058f4c291b91735bcefc6235" sha1="4142f81eb4f35364e932f2cd37ff8c0a4d88b6df" sha256="8985b0412b61101b456da8b808dd7ac4694bb4622bec445068139790ab4eb7f1"/>
 	</game>
 	<game name="Afterburner (Europe)" id="0096">
 		<category>Games</category>
 		<description>Afterburner (Europe)</description>
-		<rom name="Afterburner (Europe).tap" size="1231718" crc="cf37f1ab" md5="f24cf6120a397891958ee9bef953deae" sha1="f21bb95ea54a81d678192bc3a0be7024c8a53914"/>
+		<rom name="Afterburner (Europe).tap" size="1231718" crc="cf37f1ab" md5="f24cf6120a397891958ee9bef953deae" sha1="f21bb95ea54a81d678192bc3a0be7024c8a53914" sha256="ebf1fbbfb4e5aeea195f82787e4a61dc4641ff3b35cd1bbceb62d64af5470792"/>
 	</game>
 	<game name="Aftermath (Europe)" id="0097">
 		<category>Games</category>
 		<description>Aftermath (Europe)</description>
-		<rom name="Aftermath (Europe).tap" size="154550" crc="479435cf" md5="7a6ab96437c84a1d1b6929091494c85d" sha1="709f2dcd9be4c78e818fc4ce8694cfee1f6af88b"/>
+		<rom name="Aftermath (Europe).tap" size="154550" crc="479435cf" md5="7a6ab96437c84a1d1b6929091494c85d" sha1="709f2dcd9be4c78e818fc4ce8694cfee1f6af88b" sha256="81ac37baf28b9a08043983e111992b8cfa1ccf24cc639bbf074b601e3c4dad89"/>
 	</game>
 	<game name="Agent X II - The Mad Prof's Back (Europe)" id="0098">
 		<category>Games</category>

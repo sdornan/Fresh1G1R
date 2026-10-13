@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo GameCube (NPDP Carts) (Retool)</name>
-		<description>Nintendo - Nintendo GameCube (NPDP Carts) (22) (-y) [-aAbBcefkmMoprv] (20260313-183736) (Retool)</description>
-		<version>20260313-183736</version>
-		<date>2026-10-12 09-00-32</date>
+		<description>Nintendo - Nintendo GameCube (NPDP Carts) (25) (-y) [-aAbBcefkmMoprv] (20261012-144230) (Retool)</description>
+		<version>20261012-144230</version>
+		<date>2026-10-13 09-20-01</date>
 		<author>Hiccup, NovaAurora, relax, togemet2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -68,6 +68,11 @@
 		<description>Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (Beta) (2005-09-15)</description>
 		<rom name="Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (Beta) (2005-09-15).iso" size="1459978240" crc="5adab4b5" md5="ed5a39eddd75df27bbd9fdaf0bef8100" sha1="2e9eb84c8c845450842170114a042bba95489575" sha256="03bc3a9f560738a412fb55174eae9084c5c7a0c7b762cd60f7ffa5659cafcac2"/>
 	</game>
+	<game name="Gateway Utility (USA)" id="0037">
+		<category>Games</category>
+		<description>Gateway Utility (USA)</description>
+		<rom name="Gateway Utility (USA).iso" size="1459978240" crc="f9e0ceda" md5="dd00c1591d68627d472100eb4dd8d1e6" sha1="14e2a8a2380afb40678e26b28acf0c02efccbac3" sha256="fcc6d629a4c7a01a5967ea2200337ebb69f1aa8b0191b629fd6fe46a7d3cbdd5"/>
+	</game>
 	<game name="Gun (USA) (Beta) (2004-04-07)" id="0001">
 		<category>Preproduction</category>
 		<description>Gun (USA) (Beta) (2004-04-07)</description>
@@ -78,6 +83,11 @@
 		<category>Preproduction</category>
 		<description>Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Nl) (Beta) (2005-12-12)</description>
 		<rom name="Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Nl) (Beta) (2005-12-12).iso" size="1459978240" crc="85b0ae66" md5="add555f6926d847f1b31e71ae786b294" sha1="14284b7976c7eaead364eb12a5d9fa517fa03301" sha256="5ed283718faedc0519fd349782ae3c5f5c8dd701d09a7c777923a26bfd5e8e32"/>
+	</game>
+	<game name="Legend of Zelda, The - The Wind Waker (USA) (Gateway)" id="0038">
+		<category>Games</category>
+		<description>Legend of Zelda, The - The Wind Waker (USA) (Gateway)</description>
+		<rom name="Legend of Zelda, The - The Wind Waker (USA) (Gateway).iso" size="1459978240" crc="af019db9" md5="2a51b596d464dbae952923f8cf4ee356" sha1="f38c712dbf2eb57cbdd72a596b260a665bbca53b" sha256="e4a05b77a6ca333d75777eebfe8580226cd7e1cf4c7b4dd4855bd6e72af43972"/>
 	</game>
 	<game name="Memory Card Utility Program (USA) (v1.1.0)" id="0029">
 		<category>Games</category>
@@ -118,6 +128,11 @@
 		<category>Games</category>
 		<description>There Is No Program on This Disc (Unknown)</description>
 		<rom name="There Is No Program on This Disc (Unknown).iso" size="1459978240" crc="64addc63" md5="6f26e9779e57150182a5c8247a714b83" sha1="09fb6c2dc26fe66a52bf9a4b50ad6970851d98bc" sha256="a46582e2fe9d86efe5e958e242dce41afcb8a37b892d98f913cfee3a9a96ab82"/>
+	</game>
+	<game name="Wario World (USA) (Gateway)" id="0039">
+		<category>Games</category>
+		<description>Wario World (USA) (Gateway)</description>
+		<rom name="Wario World (USA) (Gateway).iso" size="1459978240" crc="68b519a9" md5="5b2097417187f1a3c24d14f39e105b04" sha1="ab52ebb7f7e7174ec7a72f5bd09401a6de1b444a" sha256="d4c77755b4b5d0e72838ccf34da5654b8dfb6aa8a674e7f5a85be1a19c73f8e0"/>
 	</game>
 	<game name="kpaddemo (Unknown)" id="0026">
 		<category>Games</category>

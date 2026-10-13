@@ -2,15 +2,25 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Headerless) (Retool)</name>
-		<description>Commodore - Commodore 64 (Headerless) (13) (-y) [-aAbBcdkmMpPuv] (20261011-145606) (Retool)</description>
-		<version>20261011-145606</version>
-		<date>2026-10-12 09-15-47</date>
+		<description>Commodore - Commodore 64 (Headerless) (15) (-y) [-aAbBcdkmMpPuv] (20261012-234334) (Retool)</description>
+		<version>20261012-234334</version>
+		<date>2026-10-13 09-43-02</date>
 		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
+	<game name="Adventure Creator (USA, Europe)" id="0120">
+		<category>Games</category>
+		<description>Adventure Creator (USA, Europe)</description>
+		<rom name="Adventure Creator (USA, Europe).bin" size="16384" crc="6d61e6ab" md5="9a2fc487904fb44a153e6cd415726ede" sha1="2971ff05b42471c9e9f430e8349183a5fd8e9fd8" sha256="25152cea335b4f5a866bc84744da91311a6435dc85d89863bea018dfefdba694"/>
+	</game>
+	<game name="Alf in the Color Caves (USA, Europe)" id="0123">
+		<category>Games</category>
+		<description>Alf in the Color Caves (USA, Europe)</description>
+		<rom name="Alf in the Color Caves (USA, Europe).bin" size="16384" crc="f06cd220" md5="f5ef92de3262c8b6c01dcf53a5f8773c" sha1="0fc963c41b2e748f7001c976d5a86231d8e61294" sha256="634d7cd152869332304585653bb368a5a1ba6f2434573d8cddfb75aabd0a6b00"/>
+	</game>
 	<game name="Bubble Burst (USA, Europe)" id="0140">
 		<category>Games</category>
 		<description>Bubble Burst (USA, Europe)</description>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,603) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-12 08-36-00) (Retool)</description>
-		<version>2026-10-12 08-36-00</version>
-		<date>2026-10-12 09-05-23</date>
+		<description>IBM - PC compatible (13,604) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-13 08-30-32) (Retool)</description>
+		<version>2026-10-13 08-30-32</version>
+		<date>2026-10-13 09-25-46</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -34173,6 +34173,12 @@
 		<description>Gorasul - The Legacy of the Dragon (USA, Europe) (Disc 4)</description>
 		<rom name="Gorasul - The Legacy of the Dragon (USA, Europe) (Disc 4).bin" size="665103264" crc="7966059d" md5="7a0ab0a982b98cab94a41b12af4a9006" sha1="f0df51f8e24a39cfb691e31e1b1f6293eccdf1b8"/>
 		<rom name="Gorasul - The Legacy of the Dragon (USA, Europe) (Disc 4).cue" size="123" crc="b50cc97b" md5="a88c4e425d6f9e32b97afe7b966c68fc" sha1="2213997c0d9a713f650616becacde4f13494792a"/>
+	</game>
+	<game name="Gore (Europe) (Covermount)" id="97946">
+		<category>Games</category>
+		<description>Gore (Europe) (Covermount)</description>
+		<rom name="Gore (Europe) (Covermount).bin" size="384754272" crc="3818dc94" md5="1d42f9858163fb760ed5b968d1d5a258" sha1="c7215c88a71380091c499e119934e99519a7777d"/>
+		<rom name="Gore (Europe) (Covermount).cue" size="92" crc="36efe69b" md5="9888b5501732c5f972eefe1b7b546fb9" sha1="6b4247e03fe0e77108e6fc1f09071c0b79c9a377"/>
 	</game>
 	<game name="Gore - Ultimate Soldier (USA)" id="51508">
 		<category>Games</category>
