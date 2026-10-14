@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC-98 series (Retool)</name>
-		<description>NEC - PC-98 series (120) (-y) [-aAbBcdkmMpPuv] (2026-10-10 11-21-36) (Retool)</description>
-		<version>2026-10-10 11-21-36</version>
-		<date>2026-10-13 09-37-08</date>
+		<description>NEC - PC-98 series (120) (-y) [-aAbBcdkmMpPuv] (2026-10-14 05-51-53) (Retool)</description>
+		<version>2026-10-14 05-51-53</version>
+		<date>2026-10-14 07-42-47</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -13,7 +13,8 @@
 	</header>
 	<game name="Akai Shizuku - The Legend of Heroes IV (Japan)" id="9812">
 		<category>Games</category>
-		<description>Akai Shizuku - The Legend of Heroes IV (Japan)</description>
+		<description>Akai Shizuku: The Legend of Heroes IV (Japan)</description>
+		<serial>NW10091090</serial>
 		<rom name="Akai Shizuku - The Legend of Heroes IV (Japan).bin" size="8772960" crc="5427ac70" md5="6bd6a1dc1a79d58abd14266516218358" sha1="3c603b5cd6000a0f7d365da32ad6d7dfb5bc1965"/>
 		<rom name="Akai Shizuku - The Legend of Heroes IV (Japan).cue" size="135" crc="124c2c0b" md5="70964d76547124aec3a32bb21a04e555" sha1="e673e41b8e3e60ac29af036368a7196dc849d1c0"/>
 	</game>
@@ -61,7 +62,7 @@
 	</game>
 	<game name="Akumu - Aoi Kajitsu no Sanka (Japan)" id="81878">
 		<category>Games</category>
-		<description>Akumu - Aoi Kajitsu no Sanka (Japan)</description>
+		<description>Akumu: Aoi Kajitsu no Sanka (Japan)</description>
 		<rom name="Akumu - Aoi Kajitsu no Sanka (Japan).bin" size="53533872" crc="f438ffd7" md5="093df0265e13b59a1ebc6a5b411efa54" sha1="336cdaa05b89d71735928bbf70ccece83374b5cf"/>
 		<rom name="Akumu - Aoi Kajitsu no Sanka (Japan).cue" size="102" crc="3c3295a3" md5="9604953cd25dac4a7ca5b973e5acd312" sha1="d8ac295417fdc6659f2df118ae543caad1f2a700"/>
 	</game>
@@ -157,13 +158,15 @@
 	</game>
 	<game name="Angel Night - Yamiyo o Kakeru Tenshitachi no Monogatari (Japan)" id="119032">
 		<category>Games</category>
-		<description>Angel Night - Yamiyo o Kakeru Tenshitachi no Monogatari (Japan)</description>
+		<description>Angel Night: Yamiyo o Kakeru Tenshitachi no Monogatari (Japan)</description>
+		<serial>FNN-001</serial>
 		<rom name="Angel Night - Yamiyo o Kakeru Tenshitachi no Monogatari (Japan).bin" size="8152032" crc="d26e1341" md5="fe1f553d04023a5847796a1f251878ea" sha1="6abfc80682c227e2a3b5261b3ca5866e03b2d900"/>
 		<rom name="Angel Night - Yamiyo o Kakeru Tenshitachi no Monogatari (Japan).cue" size="152" crc="a8fbf888" md5="a43307a1d96b032de92343b2b91d4285" sha1="8309ca0f133af69742418a819d054c598dbb3bb5"/>
 	</game>
 	<game name="Appare-den - Fukuryuu no Shou (Japan)" id="85818">
 		<category>Games</category>
-		<description>Appare-den - Fukuryuu no Shou (Japan)</description>
+		<description>Appare-den: Fukuryuu no Shou (Japan)</description>
+		<serial>TGL-951215</serial>
 		<rom name="Appare-den - Fukuryuu no Shou (Japan) (Track 01).bin" size="20424768" crc="949b97b4" md5="5444578a0dfc0a7d36b0bf5123011e50" sha1="5f0bdeb33b08cbab02dff026991189fbf3f03d03"/>
 		<rom name="Appare-den - Fukuryuu no Shou (Japan) (Track 02).bin" size="22553328" crc="c1329ebe" md5="9b75e8e1d5bc8b48597c80e39538fd67" sha1="4b1b901988fbaa28130bad0e20acdf2afb36874d"/>
 		<rom name="Appare-den - Fukuryuu no Shou (Japan) (Track 03).bin" size="17143728" crc="9e689297" md5="ca70d388432183add089fa019f384ff1" sha1="dde6f1437a2c853eb7ac5606f07a54d811f3bad7"/>
@@ -203,19 +206,21 @@
 	</game>
 	<game name="Ardor Aeternus - Wasureenu Honoo (Japan)" id="119033">
 		<category>Games</category>
-		<description>Ardor Aeternus - Wasureenu Honoo (Japan)</description>
+		<description>Ardor Aeternus: Wasureenu Honoo (Japan)</description>
 		<rom name="Ardor Aeternus - Wasureenu Honoo (Japan).bin" size="16266432" crc="c3e0e0e0" md5="c39301016c5f5c77e599cd7930fbc816" sha1="4edd9fc8419c59640997e2b6bfdaf95ef9506962"/>
 		<rom name="Ardor Aeternus - Wasureenu Honoo (Japan).cue" size="121" crc="f8ef086e" md5="a49ef8981abc693aab44d311ffd7bb3b" sha1="97dd2e7de472e7685c3489168ab8bfbad25dc3a1"/>
 	</game>
 	<game name="Ayumi-chan Monogatari (Japan)" id="92211">
 		<category>Games</category>
 		<description>Ayumi-chan Monogatari (Japan)</description>
+		<version>1994/11/10 up</version>
 		<rom name="Ayumi-chan Monogatari (Japan).bin" size="74995872" crc="b18a149a" md5="12f459cd8df6ddd1b1ce23225176ff19" sha1="eff54a6ef1fd038670de5eebb84078127586b833"/>
 		<rom name="Ayumi-chan Monogatari (Japan).cue" size="95" crc="8cc50273" md5="6145675e6789972e67ee89a2c3fbced8" sha1="f40912f1b7aa1d9371a0c62db0379c6c4e6183a4"/>
 	</game>
 	<game name="Ayumi-chan Monogatari - Jisshaban (Japan)" id="92212">
 		<category>Games</category>
-		<description>Ayumi-chan Monogatari - Jisshaban (Japan)</description>
+		<description>Ayumi-chan Monogatari: Jisshaban (Japan)</description>
+		<version>'94/12/12 17:33</version>
 		<rom name="Ayumi-chan Monogatari - Jisshaban (Japan) (Track 1).bin" size="115198608" crc="6de426c5" md5="d5feeb2a528c9160cb73ce9e041a1033" sha1="2d632f8e5390d4bd0a8e97c054720eba4765da64"/>
 		<rom name="Ayumi-chan Monogatari - Jisshaban (Japan) (Track 2).bin" size="35277648" crc="13301b6f" md5="0ee5ea4448f5a8f3d863907f5f6e84f3" sha1="417ab1efb72784e4e6d6825aa5fb0c73f2374993"/>
 		<rom name="Ayumi-chan Monogatari - Jisshaban (Japan) (Track 3).bin" size="35632800" crc="5aabbf47" md5="27fbce0cf23a29149293b09927dd6fe9" sha1="93fc4b49db7031a8f151c6265b703827ceeb1103"/>
@@ -223,7 +228,7 @@
 	</game>
 	<game name="Ballade for Maria - Maria ni Sasageru Ballade (Japan)" id="30795">
 		<category>Games</category>
-		<description>Ballade for Maria - Maria ni Sasageru Ballade (Japan)</description>
+		<description>Ballade for Maria: Maria ni Sasageru Ballade (Japan)</description>
 		<rom name="Ballade for Maria - Maria ni Sasageru Ballade (Japan) (Track 01).bin" size="22786176" crc="85cfc487" md5="4e576cf1d326ccb8f55e984444fa1a59" sha1="e688917f5d857bd147eb62cbe38b65030fa90eef"/>
 		<rom name="Ballade for Maria - Maria ni Sasageru Ballade (Japan) (Track 02).bin" size="31841376" crc="05922e40" md5="9b6879487e01b5e4d8c276bd66b6fdf5" sha1="eda03f2f5ddabd3aad4a0ff788800a89f75366e0"/>
 		<rom name="Ballade for Maria - Maria ni Sasageru Ballade (Japan) (Track 03).bin" size="39635904" crc="3edf59fd" md5="1f8b6c28ae80a2566d03f9585251d33e" sha1="aac5fb5e849f511293bfc441f19d8a1d972b3a3d"/>
@@ -248,18 +253,21 @@
 	<game name="Blandia 98 (Japan)" id="81857">
 		<category>Games</category>
 		<description>Blandia 98 (Japan)</description>
+		<serial>VHMD-131</serial>
 		<rom name="Blandia 98 (Japan).bin" size="8970528" crc="11a2fa28" md5="a8995b6869dc156dbb5532de59a1f653" sha1="33e73658b15d8f9cd206d83bef44af7f75123d2c"/>
 		<rom name="Blandia 98 (Japan).cue" size="84" crc="32b82ae1" md5="4cdcd8ff93d42e9c77d4f9264f34c5e1" sha1="d1b428d0dad3fe5c9123eccf7f59f1682ab6bb42"/>
 	</game>
 	<game name="Bounty Hunter Rudy (Japan)" id="81870">
 		<category>Games</category>
 		<description>Bounty Hunter Rudy (Japan)</description>
+		<serial>SLP-WIN95-HADV-0007</serial>
 		<rom name="Bounty Hunter Rudy (Japan).bin" size="11061456" crc="785c3a51" md5="dcf11d3e477df313bef541692e2a0506" sha1="5d2abc3e2162ed107e1f01739b989994e2be2a23"/>
 		<rom name="Bounty Hunter Rudy (Japan).cue" size="115" crc="d7a98d37" md5="b76a360973f6c88c144c205c6bc875e1" sha1="806f96e5d2411f86b91c7eecfee54dd99c4edf4c"/>
 	</game>
 	<game name="Brandish 2 Renewal - The Planet Buster (Japan)" id="92524">
 		<category>Games</category>
-		<description>Brandish 2 Renewal - The Planet Buster (Japan)</description>
+		<description>Brandish 2 Renewal: The Planet Buster (Japan)</description>
+		<serial>NW10081070</serial>
 		<rom name="Brandish 2 Renewal - The Planet Buster (Japan) (Track 01).bin" size="16424016" crc="211423dc" md5="7227520a491c7f1c0af3c13f31e9e33c" sha1="7227a4ddbb1c2aeafaadce8d8c8a4095bf3eda55"/>
 		<rom name="Brandish 2 Renewal - The Planet Buster (Japan) (Track 02).bin" size="57856848" crc="acecce9e" md5="5ce4d2af8fae137d702ca3ff0c7b0b2d" sha1="df3fdb3ca346268f88673d7dd00d95d6dc57c140"/>
 		<rom name="Brandish 2 Renewal - The Planet Buster (Japan) (Track 03).bin" size="33516000" crc="2febc232" md5="02b126315299a6db1bc19a7763e6082a" sha1="1ea34e1788a5f1d5761eda2b98a658878dd1e51b"/>
@@ -276,13 +284,15 @@
 	</game>
 	<game name="Brandish 3 - Spirit of Balcan (Japan)" id="92523">
 		<category>Games</category>
-		<description>Brandish 3 - Spirit of Balcan (Japan)</description>
+		<description>Brandish 3: Spirit of Balcan (Japan)</description>
+		<serial>NW10105050</serial>
 		<rom name="Brandish 3 - Spirit of Balcan (Japan).bin" size="11275488" crc="8cdbb15b" md5="ce4b6979d928db89c2ce85459ed244e8" sha1="692df1bae5459c16469e79b581fb5deb212665e3"/>
 		<rom name="Brandish 3 - Spirit of Balcan (Japan).cue" size="126" crc="586f7166" md5="748a723d17920e95e659710eed40aa43" sha1="fb1151d673e827efa78b61782d3a6cf4b397e7c2"/>
 	</game>
 	<game name="Brandish Renewal (Japan)" id="33502">
 		<category>Games</category>
 		<description>Brandish Renewal (Japan)</description>
+		<serial>NW10041050</serial>
 		<rom name="Brandish Renewal (Japan) (Track 01).bin" size="11936400" crc="07953f04" md5="d0bb906483578e420709009a8991dc98" sha1="e3aba6d10495617412095fb47ae40c59c63b2237"/>
 		<rom name="Brandish Renewal (Japan) (Track 02).bin" size="27048000" crc="eb5d87f7" md5="6c5aee7a7d8dca243b0cd632a4d123b1" sha1="9cd9110b02652e6f95b48e49fc20f000aeab5143"/>
 		<rom name="Brandish Renewal (Japan) (Track 03).bin" size="19227600" crc="48884cca" md5="4294ef7994b2b8856a5a6192f81bf6a7" sha1="6415021ba125e5836716cb87f5d38d17b4ac3375"/>
@@ -302,12 +312,14 @@
 	<game name="Brandish VT (Japan)" id="11030">
 		<category>Games</category>
 		<description>Brandish VT (Japan)</description>
+		<serial>NW10104030</serial>
 		<rom name="Brandish VT (Japan).bin" size="10673376" crc="f0ef8291" md5="fd11d89c7c442763956a9f6b46bcf530" sha1="4bec0d6244ec0cfc318d24968640542f1f5b3828"/>
 		<rom name="Brandish VT (Japan).cue" size="108" crc="d566204a" md5="1fc3da1118529025134ce34278aac2e4" sha1="ab4525fee486f3c30a65d792a030e42f2b9a390a"/>
 	</game>
 	<game name="Buzz Aldrin's Race into Space - Uchuu e no Chousen (Japan)" id="92217">
 		<category>Games</category>
-		<description>Buzz Aldrin's Race into Space - Uchuu e no Chousen (Japan)</description>
+		<description>Buzz Aldrin's Race into Space: Uchuu e no Chousen (Japan)</description>
+		<serial>RCR-2</serial>
 		<rom name="Buzz Aldrin's Race into Space - Uchuu e no Chousen (Japan) (Track 1).bin" size="690495456" crc="50c2774f" md5="9a0dc09373b43f99f20b403aeb869f65" sha1="5f85471748597395b4eb1231260f8a058dd0526c"/>
 		<rom name="Buzz Aldrin's Race into Space - Uchuu e no Chousen (Japan) (Track 2).bin" size="17289552" crc="8ac4006b" md5="4f9817acbcb36b3f99413ed67b214fb1" sha1="f22f64d135784c85542b2af9ed718a717a057d69"/>
 		<rom name="Buzz Aldrin's Race into Space - Uchuu e no Chousen (Japan) (Track 3).bin" size="11889360" crc="f552a688" md5="8fc8930b8910eac45e3f1795ae4f4cb3" sha1="45d187c8178b85c19a85a98acde180709bc66060"/>
@@ -321,13 +333,15 @@
 	</game>
 	<game name="Canaan - Yakusoku no Chi (Japan)" id="81856">
 		<category>Games</category>
-		<description>Canaan - Yakusoku no Chi (Japan)</description>
+		<description>Canaan: Yakusoku no Chi (Japan)</description>
+		<serial>FNN-003</serial>
 		<rom name="Canaan - Yakusoku no Chi (Japan).bin" size="52567200" crc="770ed0b5" md5="6c714843d45fbcc3b80cd6ebec2bb0dd" sha1="c1711df52531c230ae7d61cef45a0e66a9e877db"/>
 		<rom name="Canaan - Yakusoku no Chi (Japan).cue" size="98" crc="ef0bd56b" md5="3416c69b3286bcc524e3b3de6e2ed733" sha1="3525b72a249f3d7784411141ef40965405a7e3df"/>
 	</game>
 	<game name="Chou Jikuu Yousai Macross - SkullLeader Complete Pack (Japan)" id="12533">
 		<category>Games</category>
-		<description>Chou Jikuu Yousai Macross - SkullLeader Complete Pack (Japan)</description>
+		<description>Chou Jikuu Yousai Macross: SkullLeader Complete Pack (Japan)</description>
+		<serial>21D-2039</serial>
 		<rom name="Chou Jikuu Yousai Macross - SkullLeader Complete Pack (Japan) (Track 1).bin" size="11832912" crc="12341454" md5="2931a48797a2d353f095639ec5391310" sha1="3fa7099b3dcc2d794659d0ca7fc89abfef790880"/>
 		<rom name="Chou Jikuu Yousai Macross - SkullLeader Complete Pack (Japan) (Track 2).bin" size="21518448" crc="d8642621" md5="9e36b834adb077051b96c02120b12e41" sha1="345be6b9afa27a2381f25236a347de7e31f16af4"/>
 		<rom name="Chou Jikuu Yousai Macross - SkullLeader Complete Pack (Japan) (Track 3).bin" size="35985600" crc="ba94c502" md5="654be3fc65aa773df951856003f3e3b2" sha1="bee8a5ab076d10c9d6d85803316ba32d9bc30b5a"/>
@@ -335,7 +349,7 @@
 	</game>
 	<game name="Chuushaki - Hirasawa Nurse School (Japan)" id="81884">
 		<category>Games</category>
-		<description>Chuushaki - Hirasawa Nurse School (Japan)</description>
+		<description>Chuushaki: Hirasawa Nurse School (Japan)</description>
 		<rom name="Chuushaki - Hirasawa Nurse School (Japan) (Track 01).bin" size="23390640" crc="5e5bf56f" md5="086cc327dd833284b388e9e7d36e8b04" sha1="9b5f889f837f43c87b1eac6d12feedfcc17e6de8"/>
 		<rom name="Chuushaki - Hirasawa Nurse School (Japan) (Track 02).bin" size="22099392" crc="229c9c90" md5="5df1fb5fee57fd7e9b14c1bc4db065a3" sha1="f272a3eb13262d4bdb22622cd38335c36bca6e64"/>
 		<rom name="Chuushaki - Hirasawa Nurse School (Japan) (Track 03).bin" size="21732480" crc="32dc10a7" md5="994883b2e502e168277799283689081d" sha1="f5a2a5e063cf5549355850a3112bda625238d77f"/>
@@ -360,6 +374,7 @@
 	<game name="Collector D (Japan)" id="92338">
 		<category>Games</category>
 		<description>Collector D (Japan)</description>
+		<serial>21D-2015</serial>
 		<rom name="Collector D (Japan) (Track 01).bin" size="12978336" crc="f056e665" md5="165a927d51aa6d65d5565981f1f6196d" sha1="86a855aef5a9279cbda54415769c2cf1f9d226cf"/>
 		<rom name="Collector D (Japan) (Track 02).bin" size="17738784" crc="4c856ef3" md5="fd2138f1bbd4728c986bdba43764015c" sha1="37a38019037da86380a8266b1c65c7d4b97e0ec0"/>
 		<rom name="Collector D (Japan) (Track 03).bin" size="36827616" crc="e666a872" md5="9d485191d471986a6fbf6b16b8290477" sha1="c70b85f7f79d11216cb2da326a444c394f6a61a2"/>
@@ -383,24 +398,28 @@
 	<game name="Cyberia (Japan)" id="119042">
 		<category>Games</category>
 		<description>Cyberia (Japan)</description>
+		<serial>ID No. 9124-65HM10</serial>
 		<rom name="Cyberia (Japan).bin" size="349102656" crc="e0efad2e" md5="73a05bb5fd0caed41194dcf585be3d30" sha1="c9631b85006c3c64891acf0dd754fdda0e6f6d9e"/>
 		<rom name="Cyberia (Japan).cue" size="104" crc="0212d565" md5="ecc84586981498f98fa0f6c06771bdff" sha1="d6c68cf2b319ce3cb09ea6d3b6b4af7fac63963a"/>
 	</game>
 	<game name="Dawn Patrol (Japan)" id="85820">
 		<category>Games</category>
 		<description>Dawn Patrol (Japan)</description>
+		<serial>JSGH60106</serial>
 		<rom name="Dawn Patrol (Japan).bin" size="16113552" crc="bac07915" md5="6d71bdf2bbb8a73f686d07f3f0941fea" sha1="d320f4c0f79b3b430a0915e43ea089bc3add565c"/>
 		<rom name="Dawn Patrol (Japan).cue" size="108" crc="69f6cd9c" md5="d95af81e5ca49d9ac090430832af81bb" sha1="3030b505c42f1aeafae8bcb1bee429579c70e36f"/>
 	</game>
 	<game name="Delicious Lunch Pack (Japan)" id="138941">
 		<category>Games</category>
 		<description>Delicious Lunch Pack (Japan)</description>
+		<serial>SCP-PC98-HADV0006</serial>
 		<rom name="Delicious Lunch Pack (Japan).bin" size="10400544" crc="7fcab848" md5="9eaa376f3c4637d2ff4d2b7745a76687" sha1="eb3160bf33da6e264b3efd0b89684c396acd8ac1"/>
 		<rom name="Delicious Lunch Pack (Japan).cue" size="117" crc="d2940eaa" md5="1ad8b9a284a845066aa0d505f2fbf5de" sha1="f6c2fdf4d0ad9e194c3b31a817fdd053471b5b7d"/>
 	</game>
 	<game name="Dies Irae (Japan)" id="81852">
 		<category>Games</category>
 		<description>Dies Irae (Japan)</description>
+		<serial>21D-2032</serial>
 		<rom name="Dies Irae (Japan) (Track 01).bin" size="12272736" crc="d5c723ca" md5="cba6174f7392b5238bdf0403f750ec95" sha1="158e4de6a5d908bafd2d0a8dc651f1cbdaf2c47d"/>
 		<rom name="Dies Irae (Japan) (Track 02).bin" size="34395648" crc="6dd62f4a" md5="62c8bd32fff71455be54ef3a40f1870b" sha1="3e614f718d2de76ba8b2b5c945ee7c3e9d9cf1f6"/>
 		<rom name="Dies Irae (Japan) (Track 03).bin" size="21342048" crc="6529d21f" md5="f4e7a0be03d190a70100792c8e112b46" sha1="cb0f035bdd95bac2350751ccd20b9054147b8c87"/>
@@ -469,18 +488,23 @@
 	<game name="Doom (Japan)" id="10290">
 		<category>Games</category>
 		<description>Doom (Japan)</description>
+		<serial>21D-2031</serial>
+		<version>1.2j1.0</version>
 		<rom name="Doom (Japan).bin" size="17578848" crc="0a683d88" md5="6be92ade4cb0a74fe0b04fb33085f1ba" sha1="c708e01f6256b07dbd5e8b1c72a0076fe153e30c"/>
 		<rom name="Doom (Japan).cue" size="78" crc="1fc40160" md5="f2dca5634ac58c4e417742568dac52cf" sha1="417aa17487286fd2a30620b64b5f2f4a972bb738"/>
 	</game>
 	<game name="Doom II (Japan)" id="16673">
 		<category>Games</category>
 		<description>Doom II (Japan)</description>
+		<serial>21D-2047</serial>
+		<version>1.9j1.2</version>
 		<rom name="Doom II (Japan).bin" size="18860688" crc="e56f5c3d" md5="cf61309baee3a54c0a469cd06d571957" sha1="b76609d9e9da4f6c48c62e354620a76ba46129f5"/>
 		<rom name="Doom II (Japan).cue" size="81" crc="bf7ae499" md5="0daf5db6cb9f2e9683cf4378560fd442" sha1="270f31750fa528000bcf4752c19aaa40f0717585"/>
 	</game>
 	<game name="Doom II (Japan) (PC-98 Sen'you) (for Windows 95)" id="82654">
 		<category>Games</category>
 		<description>Doom II (Japan) (PC-98 Sen'you) (for Windows 95)</description>
+		<version>1.9</version>
 		<rom name="Doom II (Japan) (PC-98 Sen'you) (for Windows 95).bin" size="112225680" crc="bce00cf2" md5="8055f5fede487c3ac20997f32e8d664a" sha1="18a024985de65dc4c963b7ccfb66aa996beabec3"/>
 		<rom name="Doom II (Japan) (PC-98 Sen'you) (for Windows 95).cue" size="114" crc="78958ceb" md5="aeadddb4ad76d609b4e79df7e49ebc5a" sha1="8b515a6e9cd53279db6938ed895c8edd1d36ffd5"/>
 	</game>
@@ -498,7 +522,8 @@
 	</game>
 	<game name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan)" id="119045">
 		<category>Games</category>
-		<description>Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan)</description>
+		<description>Eiyuu Densetsu 3 Renewal: Shiroki Majo (Japan)</description>
+		<serial>NF01003</serial>
 		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 01).bin" size="10936800" crc="975fdd32" md5="4b7c60fc3a07a2f464923cffcc700ab3" sha1="68935d11e247ee1ecbb25264ee6354abbdba10c6"/>
 		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 02).bin" size="34480320" crc="ada95e5d" md5="218b809b62e821b34b029b20333a693c" sha1="5f9bc2462602e23a7c97c6b8deb8419d75c138c0"/>
 		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 03).bin" size="37044000" crc="5e77a43e" md5="06225883187a13abf8f7f8a65bcf39d6" sha1="bdff5130c9667d7935c71573a27c4a1441bfffd2"/>
@@ -520,7 +545,8 @@
 	</game>
 	<game name="Emit Vol. 1 - Toki no Maigo (Japan)" id="36274">
 		<category>Games</category>
-		<description>Emit Vol. 1 - Toki no Maigo (Japan)</description>
+		<description>Emit Vol. 1: Toki no Maigo (Japan)</description>
+		<serial>KN10-60103</serial>
 		<rom name="Emit Vol. 1 - Toki no Maigo (Japan) (Track 01).bin" size="16181760" crc="54be4e72" md5="ccd9e933d9ab3b804e84ee409e499280" sha1="7dc341d8177b54e4818bac04cdf7702c457b3182"/>
 		<rom name="Emit Vol. 1 - Toki no Maigo (Japan) (Track 02).bin" size="42712320" crc="776949c7" md5="feeca5bce3d42972cb3977120a59a4ce" sha1="4ea17e0a72cd51bf8eae6f56b501b1cb1cd0080c"/>
 		<rom name="Emit Vol. 1 - Toki no Maigo (Japan) (Track 03).bin" size="20478864" crc="7bd07fb1" md5="3ad19b266d7f2b70fa5e35c0e3025de1" sha1="d6b5dbad06dae329d327b2b8b6f5602801a5c2cc"/>
@@ -552,25 +578,29 @@
 	</game>
 	<game name="Etemible - Tenjou Mukyuu (Japan)" id="85851">
 		<category>Games</category>
-		<description>Etemible - Tenjou Mukyuu (Japan)</description>
+		<description>Etemible: Tenjou Mukyuu (Japan)</description>
 		<rom name="Etemible - Tenjou Mukyuu (Japan).bin" size="18768960" crc="51097752" md5="9c2947b8f37d201c77088b4506088791" sha1="c2fe89df9aad32706ce5dc7bb402a2988e9d4157"/>
 		<rom name="Etemible - Tenjou Mukyuu (Japan).cue" size="121" crc="c3befa9f" md5="77cdc8f41969374943a58a5c68ac2177" sha1="9eb45bb70aa42b8d4550b8dc1e402fbcbecc1cf5"/>
 	</game>
 	<game name="F-15 Strike Eagle III (Japan)" id="70960">
 		<category>Games</category>
 		<description>F-15 Strike Eagle III (Japan)</description>
+		<serial>SHJ-796</serial>
 		<rom name="F-15 Strike Eagle III (Japan).bin" size="12141024" crc="e603b6f5" md5="112d505512dc207e7329afd614a0403a" sha1="991b5a9b05c9fa7424e7474bad544aeb43ace86e"/>
 		<rom name="F-15 Strike Eagle III (Japan).cue" size="118" crc="427a1e8c" md5="33c48273f8977938c0eb53be72a36bde" sha1="7cac9565d86c47b4d73e93a8ff8762d7499d8b89"/>
 	</game>
 	<game name="Finish Hold 2 - Tag (Japan)" id="25688">
 		<category>Games</category>
-		<description>Finish Hold 2 - Tag (Japan)</description>
+		<description>Finish Hold 2: Tag (Japan)</description>
+		<serial>001J0283TA</serial>
+		<version>FH2-V1.00</version>
 		<rom name="Finish Hold 2 - Tag (Japan).bin" size="139555920" crc="1ebec24d" md5="7c2fa0f55e3a37eb3acef427051298d5" sha1="87c0051de042876f7fed2008bbd7b4316800532f"/>
 		<rom name="Finish Hold 2 - Tag (Japan).cue" size="93" crc="7cf64221" md5="a2dc55a24539aab103701e08562253fe" sha1="8a49ecb6010ea76deb1bcc3c84a0cfc437de46e3"/>
 	</game>
 	<game name="Ginga Eiyuu Densetsu IV (Japan)" id="92392">
 		<category>Games</category>
 		<description>Ginga Eiyuu Densetsu IV (Japan)</description>
+		<serial>UR-9460</serial>
 		<rom name="Ginga Eiyuu Densetsu IV (Japan) (Track 01).bin" size="31352160" crc="35daa08f" md5="2d2bcce87e613fee7b828cab64f7cff0" sha1="da814ab5ef05a54aa45fb29296d28c3283616f8b"/>
 		<rom name="Ginga Eiyuu Densetsu IV (Japan) (Track 02).bin" size="17992800" crc="b47e0c5b" md5="d8a67fd4e9658b6ec84db381755b5942" sha1="23f3a6d40293b1d7609486983e4a4480afe09b4b"/>
 		<rom name="Ginga Eiyuu Densetsu IV (Japan) (Track 03).bin" size="24519600" crc="eba29e50" md5="06086c2744dc1b97e2c84b7a286bcf00" sha1="861c78025f79ee8bab793caee44c4f97a6ce328e"/>
@@ -594,13 +624,15 @@
 	</game>
 	<game name="Giten Megami Tensei - Tokyo Mokushiroku (Japan)" id="4520">
 		<category>Games</category>
-		<description>Giten Megami Tensei - Tokyo Mokushiroku (Japan)</description>
+		<description>Giten Megami Tensei: Tokyo Mokushiroku (Japan)</description>
+		<serial>ASCII-003</serial>
 		<rom name="Giten Megami Tensei - Tokyo Mokushiroku (Japan).bin" size="23630544" crc="25f30ab9" md5="51d9d52725daec92f72dbde0e932529f" sha1="3c0d28d697870a24e9f373bb4e0446e2f5d88c62"/>
 		<rom name="Giten Megami Tensei - Tokyo Mokushiroku (Japan).cue" size="113" crc="40db8275" md5="01a1d9aa8310a5bab608f63c770d8bff" sha1="3854f7e6148c4be07afc0693d5f28142e09ba4f8"/>
 	</game>
 	<game name="Guardian Recall - Shugojuu Shoukan (Japan)" id="92436">
 		<category>Games</category>
-		<description>Guardian Recall - Shugojuu Shoukan (Japan)</description>
+		<description>Guardian Recall: Shugojuu Shoukan (Japan)</description>
+		<serial>21D-2067</serial>
 		<rom name="Guardian Recall - Shugojuu Shoukan (Japan) (Track 01).bin" size="120405936" crc="24c8435d" md5="27461aa1cde308a0c8be3fd310bf0aa3" sha1="dee63ed6f84409e8cbd89bcfe3ff9d7128bedf0a"/>
 		<rom name="Guardian Recall - Shugojuu Shoukan (Japan) (Track 02).bin" size="12359760" crc="eaffbe7f" md5="c1389a1a4078a3749cc55309a22ae90f" sha1="3e8fabacee7e757f6bee81890e029138c7640716"/>
 		<rom name="Guardian Recall - Shugojuu Shoukan (Japan) (Track 03).bin" size="10193568" crc="03480e54" md5="7a787524a24a718ad4006cfd854cbf95" sha1="9c130bfd330ee783b81e504f4abcd4379a6735ad"/>
@@ -663,13 +695,15 @@
 	</game>
 	<game name="Inherit the Earth - Quest for the Orb (Japan)" id="102550">
 		<category>Games</category>
-		<description>Inherit the Earth - Quest for the Orb (Japan)</description>
+		<description>Inherit the Earth: Quest for the Orb (Japan)</description>
+		<serial>SC-95001</serial>
 		<rom name="Inherit the Earth - Quest for the Orb (Japan).bin" size="17004960" crc="1b6283a0" md5="75d2692d2d2829691d29ef6594435a4c" sha1="6f39ce213984400ba5c950cbadbe5328104a74e2"/>
 		<rom name="Inherit the Earth - Quest for the Orb (Japan).cue" size="111" crc="ce8d1e1a" md5="86470f831f1839161eb0df9d16400166" sha1="f9471940e59635b12cc81c670bc7ed37d70f7ec0"/>
 	</game>
 	<game name="Innocent Tour (Japan)" id="75508">
 		<category>Games</category>
 		<description>Innocent Tour (Japan)</description>
+		<serial>JSGP60095</serial>
 		<rom name="Innocent Tour (Japan).bin" size="96206208" crc="8505536c" md5="537d51599e30539ef5fbd5108410a279" sha1="7d2345c15f54a91b01909e83bd4208ebf0be3c96"/>
 		<rom name="Innocent Tour (Japan).cue" size="87" crc="911aeed6" md5="f8563ae2b603c50e03993ef2ab403948" sha1="6950367153eff473d4f8345dacbe6e2421b78644"/>
 	</game>
@@ -694,13 +728,15 @@
 	</game>
 	<game name="Jorougumo - Jubaku no Mesu Dorei-tachi (Japan)" id="135975">
 		<category>Games</category>
-		<description>Jorougumo - Jubaku no Mesu Dorei-tachi (Japan)</description>
+		<description>Jorougumo: Jubaku no Mesu Dorei-tachi (Japan)</description>
+		<serial>PIL-0305</serial>
 		<rom name="Jorougumo - Jubaku no Mesu Dorei-tachi (Japan).bin" size="12729024" crc="3eb6b8f6" md5="6b606c2f3647ae9c140a25959bf2206d" sha1="d2285d3d899a02c726982fb7e0e3552f6397aac2"/>
 		<rom name="Jorougumo - Jubaku no Mesu Dorei-tachi (Japan).cue" size="112" crc="fcadabdf" md5="d2777bee767f612e2ac10868af0fbba8" sha1="4ecd09e1463f21689965474032529a769f448c5b"/>
 	</game>
 	<game name="Jurassic Park (Japan)" id="117350">
 		<category>Games</category>
 		<description>Jurassic Park (Japan)</description>
+		<serial>9123-24HM10</serial>
 		<rom name="Jurassic Park (Japan).bin" size="172613280" crc="feb8d757" md5="1d09b285da4b08c3aa6d3f84d00d1afc" sha1="591ab566ec9dc4c91fecfad43b0b790a1d9bebb2"/>
 		<rom name="Jurassic Park (Japan).cue" size="110" crc="7d72d0ca" md5="4ce00cce2698f16f3401c8c763447f24" sha1="5e4d381e0e3376d1b172dd7178b166fa67cf175f"/>
 	</game>
@@ -722,7 +758,8 @@
 	</game>
 	<game name="Kono yo no Hate de Koi o Utau Shoujo - Yu-No (Japan)" id="81860">
 		<category>Games</category>
-		<description>Kono yo no Hate de Koi o Utau Shoujo - Yu-No (Japan)</description>
+		<description>Kono yo no Hate de Koi o Utau Shoujo: Yu-No (Japan)</description>
+		<serial>21D-2080</serial>
 		<rom name="Kono yo no Hate de Koi o Utau Shoujo - Yu-No (Japan) (Track 01).bin" size="56614992" crc="9c68667d" md5="ec46bc683e43e2e7ded92f0787657d1b" sha1="4d2300478b56f39e0104eb5485b5ea6d1e90de0a"/>
 		<rom name="Kono yo no Hate de Koi o Utau Shoujo - Yu-No (Japan) (Track 02).bin" size="31079328" crc="e11cd6a1" md5="e09d0a4e944d376bd081a82f977a0ac8" sha1="1759a9705518ec64fecccb108753503bffacfadd"/>
 		<rom name="Kono yo no Hate de Koi o Utau Shoujo - Yu-No (Japan) (Track 03).bin" size="24169152" crc="bcbef29b" md5="e2ef35b90e1ad7911a184c8d75bc6deb" sha1="8429132b4bc2a99ec91389df8898a44b84316a97"/>
@@ -737,7 +774,8 @@
 	</game>
 	<game name="Kousoku - Yorokobi no Aegi (Japan)" id="81936">
 		<category>Games</category>
-		<description>Kousoku - Yorokobi no Aegi (Japan)</description>
+		<description>Kousoku: Yorokobi no Aegi (Japan)</description>
+		<serial>PERS-9512</serial>
 		<rom name="Kousoku - Yorokobi no Aegi (Japan) (Track 01).bin" size="204769824" crc="141bf95c" md5="a0290861dcd9b7897c97d229d5d721a5" sha1="c4167fceefa1aec7492ae5b79f20f074d5536c44"/>
 		<rom name="Kousoku - Yorokobi no Aegi (Japan) (Track 02).bin" size="24601920" crc="342c4aa9" md5="1d8c8342e1957765b3fd17fbf3ac2ca7" sha1="7d2a9bab46d8d470542432747fd1d6de31c7d4c4"/>
 		<rom name="Kousoku - Yorokobi no Aegi (Japan) (Track 03).bin" size="21765408" crc="25cd8fb4" md5="86b308d47fe2ffb732e780c6f5d30d13" sha1="6620cdddcfc6bd96f02f2386bd8d0d546c9d2bb2"/>
@@ -760,20 +798,23 @@
 	</game>
 	<game name="Kyrandia II - The Hand of Fate (Japan)" id="60467">
 		<category>Games</category>
-		<description>Kyrandia II - The Hand of Fate (Japan)</description>
+		<description>Kyrandia II: The Hand of Fate (Japan)</description>
+		<serial>SC-95002</serial>
 		<rom name="Kyrandia II - The Hand of Fate (Japan).bin" size="19535712" crc="189dec4f" md5="cb5d1b1f5318737e5038c04ac2213b97" sha1="55091fb0dd63855eb527753a46737142e17b7ae6"/>
 		<rom name="Kyrandia II - The Hand of Fate (Japan).cue" size="127" crc="ee8bf244" md5="09c789f31f3016eef52e0c0d5e8e8b21" sha1="55f2b4c6a2faadb71269fc36d490d9289dba60ec"/>
 	</game>
 	<game name="Lesser Mern - Special Director's Edition (Japan)" id="70961">
 		<category>Games</category>
-		<description>Lesser Mern - Special Director's Edition (Japan)</description>
+		<description>Lesser Mern: Special Director's Edition (Japan)</description>
+		<serial>21D-2001</serial>
 		<rom name="Lesser Mern - Special Director's Edition (Japan) (Track 1).bin" size="9530304" crc="5b0f4a83" md5="9f2d6d98a2f97d8a9012832e8c6440ba" sha1="f5410af0b1177f62c7f22bb2ba6a572a93528582"/>
 		<rom name="Lesser Mern - Special Director's Edition (Japan) (Track 2).bin" size="289013760" crc="56060d44" md5="1b7f044a3a0ec86626831f7d3af30add" sha1="2b5c901351bd829de702605fff82c862b96543d8"/>
 		<rom name="Lesser Mern - Special Director's Edition (Japan).cue" size="289" crc="cfe05e75" md5="74a75b61cf2a2fd0f1eb1e23f9d3ec16" sha1="43d95b291c3a40d1a87914e18c90bf13b7629e9a"/>
 	</game>
 	<game name="Living Body Armor, A - Elm Knight (Japan)" id="135974">
 		<category>Games</category>
-		<description>Living Body Armor, A - Elm Knight (Japan)</description>
+		<description>Living Body Armor, A: Elm Knight (Japan)</description>
+		<serial>21D-2002</serial>
 		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 01).bin" size="16416960" crc="b4b40941" md5="0a251a30a032c40db823c1afbee1958a" sha1="57ac08479edd6641965cb1d514d9dcb7dd5875c9"/>
 		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 02).bin" size="28094640" crc="cbb4ad0b" md5="dfac8b27bfcf9386f50294242e022665" sha1="222ca58a92c27faa6fbfad9e777814dce536e7af"/>
 		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 03).bin" size="30246720" crc="696615d2" md5="96413d681b8be4a9853e12634079a3c7" sha1="b007ca91195f63bb79361d77303c778b0d8ef7e7"/>
@@ -796,24 +837,28 @@
 	<game name="Lost Eden (Japan)" id="136478">
 		<category>Games</category>
 		<description>Lost Eden (Japan)</description>
+		<serial>RJV-1002</serial>
 		<rom name="Lost Eden (Japan).bin" size="517545840" crc="49610361" md5="0fadfe94832c478525b9a8e961fad263" sha1="9c4df091aed5ed62054b158294593e080d434e3f"/>
 		<rom name="Lost Eden (Japan).cue" size="106" crc="29a17ede" md5="a6ab6fbccb2491a07f32d0593703a7c5" sha1="879b159cf826cdbc3207559362855f3d47890eda"/>
 	</game>
 	<game name="Love Escalator (Japan)" id="81872">
 		<category>Games</category>
 		<description>Love Escalator (Japan)</description>
+		<serial>UDC-102</serial>
 		<rom name="Love Escalator (Japan).bin" size="37060464" crc="b97cbb90" md5="d23c4781cc64e1d30ef10048b6b34877" sha1="6c1457a36f61d20428726eeea0d63e64778a2b2c"/>
 		<rom name="Love Escalator (Japan).cue" size="88" crc="c1fca4f5" md5="75b1254527b5928b5d92eafa228a71fb" sha1="1fdc2ee9c87cd7d669230cd09bccacf7a56604c3"/>
 	</game>
 	<game name="Madoll (Japan)" id="119049">
 		<category>Games</category>
 		<description>Madoll (Japan)</description>
+		<serial>FDC-101</serial>
 		<rom name="Madoll (Japan).bin" size="12225696" crc="9371a167" md5="9278e371d677a4127c0a4a425cc0665d" sha1="3639d175641c818820c353f1292206a1fa492e90"/>
 		<rom name="Madoll (Japan).cue" size="80" crc="709aee78" md5="985a7fca2bc2642a47b0880de142f980" sha1="3f1463f7c4f7473d5a83b709faaa02278eb82184"/>
 	</game>
 	<game name="Magical Squadron (Japan)" id="73126">
 		<category>Games</category>
 		<description>Magical Squadron (Japan)</description>
+		<serial>21D-2081</serial>
 		<rom name="Magical Squadron (Japan) (Track 01).bin" size="136592400" crc="1f6699f0" md5="9f274f5fc6153ab47df584e814c94107" sha1="1e8ee9990d09a285f82da1c51373ffaef1002e8f"/>
 		<rom name="Magical Squadron (Japan) (Track 02).bin" size="7841568" crc="784aff97" md5="205059260dddca4ec53bd61298546ab9" sha1="d79725b1db18e9d4e914571ff6931f05dc77dd02"/>
 		<rom name="Magical Squadron (Japan) (Track 03).bin" size="12458544" crc="870821d7" md5="0e8690c476cb247e06323728dd7f4f12" sha1="939d7662959a929aeb5ac55428cb2d5470dc0a42"/>
@@ -840,7 +885,8 @@
 	</game>
 	<game name="Mahou Shoujo Pretty Samy - Kouhen (Japan)" id="19665">
 		<category>Games</category>
-		<description>Mahou Shoujo Pretty Samy - Kouhen (Japan)</description>
+		<description>Mahou Shoujo Pretty Samy: Kouhen (Japan)</description>
+		<serial>21D-2076</serial>
 		<rom name="Mahou Shoujo Pretty Samy - Kouhen (Japan) (Track 01).bin" size="33353712" crc="2aa5e3c3" md5="9308a29882bf57dc454290c1348c7563" sha1="cd25faa494e3cafcfabace1fb1b0273a83a735d7"/>
 		<rom name="Mahou Shoujo Pretty Samy - Kouhen (Japan) (Track 02).bin" size="23465904" crc="f89a5ee4" md5="870c2d83d6e6b71e58c5e1f5e480deff" sha1="a8999744bc41eeaaf0c783d24db6ba76406e6cf0"/>
 		<rom name="Mahou Shoujo Pretty Samy - Kouhen (Japan) (Track 03).bin" size="22059408" crc="4499fea4" md5="f36284b5f2e5cb5dfcfbc31e6b471b49" sha1="33b5e4b3e628021c09daa8166cbd32e02960ebfc"/>
@@ -887,7 +933,8 @@
 	</game>
 	<game name="Mahou Shoujo Pretty Samy - Zenpen (Japan)" id="18738">
 		<category>Games</category>
-		<description>Mahou Shoujo Pretty Samy - Zenpen (Japan)</description>
+		<description>Mahou Shoujo Pretty Samy: Zenpen (Japan)</description>
+		<serial>21D-2058</serial>
 		<rom name="Mahou Shoujo Pretty Samy - Zenpen (Japan) (Track 01).bin" size="27311424" crc="cccf2ab3" md5="d7b1aa5296fd024f12d9f57118df4a51" sha1="d135665e050b4f22955d6e52e928128e35c8fe98"/>
 		<rom name="Mahou Shoujo Pretty Samy - Zenpen (Japan) (Track 02).bin" size="23465904" crc="b5a157cc" md5="2f567010bd8e74259014d3314b6bbdf4" sha1="b5c25f45ff1b57fe1a8aa036eadc574b8f454a08"/>
 		<rom name="Mahou Shoujo Pretty Samy - Zenpen (Japan) (Track 03).bin" size="22059408" crc="6bdace3d" md5="81391c4db4ea53cc8855e16d9141ee0f" sha1="a760228c628f6cde0ad7ff363d887ad9b56701b9"/>
@@ -935,13 +982,15 @@
 	</game>
 	<game name="Mahou Shoujotai Wars - Magical Jam (Japan)" id="119050">
 		<category>Games</category>
-		<description>Mahou Shoujotai Wars - Magical Jam (Japan)</description>
+		<description>Mahou Shoujotai Wars: Magical Jam (Japan)</description>
+		<serial>Jam-1302</serial>
 		<rom name="Mahou Shoujotai Wars - Magical Jam (Japan).bin" size="13763904" crc="bd0f2708" md5="803d434d0b5cb97e2548c134543a7444" sha1="6d18e093291fd4d034077ffdc42cc7b63ecc9149"/>
 		<rom name="Mahou Shoujotai Wars - Magical Jam (Japan).cue" size="108" crc="ea95d38f" md5="6710e3fe60ae452514eec9a67bc62780" sha1="944fee446983cb9745d4183d6683abbe02a29149"/>
 	</game>
 	<game name="Making Candy - Oki ni Mesumama (Japan)" id="81874">
 		<category>Games</category>
-		<description>Making Candy - Oki ni Mesumama (Japan)</description>
+		<description>Making Candy: Oki ni Mesumama (Japan)</description>
+		<serial>WIC-5461</serial>
 		<rom name="Making Candy - Oki ni Mesumama (Japan) (Track 01).bin" size="22207584" crc="b9caffeb" md5="5066e405b7473629d29d711a9cc2e833" sha1="46e1c1424bc07272df60126afe4117cc01136c7e"/>
 		<rom name="Making Candy - Oki ni Mesumama (Japan) (Track 02).bin" size="34790784" crc="86dc89c9" md5="d2f8d68c813acea8ddc278500eb19e53" sha1="3a06bd719ec649a2100a3f8e7e601cb877b65e98"/>
 		<rom name="Making Candy - Oki ni Mesumama (Japan) (Track 03).bin" size="37944816" crc="81d82ed3" md5="b8bec77a2ef8c526fb718782e25b9cfc" sha1="68b92c511772436eaeebca8dc5b82bc57c982d61"/>
@@ -963,6 +1012,7 @@
 	<game name="Manji PSYyuuki (Japan) (Install CD-ROM)" id="88923">
 		<category>Games</category>
 		<description>Manji PSYyuuki (Japan) (Install CD-ROM)</description>
+		<serial>PSD-01</serial>
 		<rom name="Manji PSYyuuki (Japan) (Install CD-ROM).bin" size="10426416" crc="03089f4f" md5="a0a12180916094063c26eb5f917b46ac" sha1="05e0f7dc985a44092813dbc918a1a31e28181436"/>
 		<rom name="Manji PSYyuuki (Japan) (Install CD-ROM).cue" size="128" crc="54febd00" md5="12f8303a00447cd551f29e180664844c" sha1="b04d76af214d6033d9c472ded1569a3e45c0111c"/>
 	</game>
@@ -974,13 +1024,15 @@
 	</game>
 	<game name="Menzoberranzan - Yami no Monshou (Japan)" id="77533">
 		<category>Games</category>
-		<description>Menzoberranzan - Yami no Monshou (Japan)</description>
+		<description>Menzoberranzan: Yami no Monshou (Japan)</description>
+		<serial>JSGP60062</serial>
 		<rom name="Menzoberranzan - Yami no Monshou (Japan).bin" size="368866512" crc="95286dba" md5="725b491ddb7a46e289b42a8ea33dc3b0" sha1="2c9c1774baf3c511dea98a90e3475618345e2c93"/>
 		<rom name="Menzoberranzan - Yami no Monshou (Japan).cue" size="106" crc="76b871dd" md5="426616ca884b205a2bd7f8fe08d72348" sha1="edcbd7ec795184ef2bec1a2abb37e3d0235abfda"/>
 	</game>
 	<game name="Might and Magic - Clouds of Xeen (Japan)" id="11925">
 		<category>Games</category>
-		<description>Might and Magic - Clouds of Xeen (Japan)</description>
+		<description>Might and Magic: Clouds of Xeen (Japan)</description>
+		<serial>SC-93001</serial>
 		<rom name="Might and Magic - Clouds of Xeen (Japan) (Track 01).bin" size="14283696" crc="6c5f9e30" md5="c68a661ad754c242141aa9534e365f75" sha1="e8b5640ee98997402763d143405783d8e4b3f9cb"/>
 		<rom name="Might and Magic - Clouds of Xeen (Japan) (Track 02).bin" size="16750944" crc="1af9ae1a" md5="9e5804bcb534005f3dc0e614c717c3ef" sha1="c22cac53b725d011d4d2b8195d5ad0aed61072ff"/>
 		<rom name="Might and Magic - Clouds of Xeen (Japan) (Track 03).bin" size="9029328" crc="3dfe9bc4" md5="a0c719f427776690c3fa21abf2eb2b04" sha1="a9daf766298d82f7fea1358144c57824e0431028"/>
@@ -1000,7 +1052,7 @@
 	</game>
 	<game name="Momoko-chan for Me - Minarai Kangofu-hen (Japan)" id="102554">
 		<category>Games</category>
-		<description>Momoko-chan for Me - Minarai Kangofu-hen (Japan)</description>
+		<description>Momoko-chan for Me: Minarai Kangofu-hen (Japan)</description>
 		<rom name="Momoko-chan for Me - Minarai Kangofu-hen (Japan) (Track 01).bin" size="441190512" crc="9cddf7b2" md5="29bf7d78adce9be2bbd81a1923717ce6" sha1="ac2760035d5daf5bc7d388c8040ef5def7bd555e"/>
 		<rom name="Momoko-chan for Me - Minarai Kangofu-hen (Japan) (Track 02).bin" size="10922688" crc="6f4a3aae" md5="dc36376a456f78b85038523119c511f8" sha1="65b276a71916ff2acb637446ab63ca58044ddbe1"/>
 		<rom name="Momoko-chan for Me - Minarai Kangofu-hen (Japan) (Track 03).bin" size="5990544" crc="b52e653d" md5="5d149aa4b7d5e81f9399bb113fd55243" sha1="d719d9c666fe2733c18f869deea4675c70c189ce"/>
@@ -1017,12 +1069,14 @@
 	<game name="Moonlight Energy 2 (Japan)" id="81845">
 		<category>Games</category>
 		<description>Moonlight Energy 2 (Japan)</description>
+		<serial>21D-2054</serial>
 		<rom name="Moonlight Energy 2 (Japan).bin" size="11964624" crc="78b82b32" md5="bf649fa0086c59b9cf85c7e3697304fc" sha1="8ab52fa036cae59eb7ee0f8d97e0b4f234d9fa5c"/>
 		<rom name="Moonlight Energy 2 (Japan).cue" size="115" crc="59ecdc47" md5="1e4fff65c700e89389e86d1f4dbffb7e" sha1="9581056a8cc20ed2d8f4cd5b1095536854349a06"/>
 	</game>
 	<game name="Moonlight-chan Rin shan (Japan)" id="81850">
 		<category>Games</category>
 		<description>Moonlight-chan Rin shan (Japan)</description>
+		<serial>2TD-3001</serial>
 		<rom name="Moonlight-chan Rin shan (Japan) (Track 01).bin" size="6091680" crc="1d09415d" md5="bf7b2f8cdaf5941c6531f2eb530e243f" sha1="70c72dbc1be48139d11329f7d37698473c17060d"/>
 		<rom name="Moonlight-chan Rin shan (Japan) (Track 02).bin" size="4739280" crc="5ba0fa31" md5="71bcb12670f79c7edb1837e768eb8da8" sha1="0363bc9dfe039ab02d54d2ecbd8c5674aa80aaa0"/>
 		<rom name="Moonlight-chan Rin shan (Japan) (Track 03).bin" size="8502480" crc="c728d9c2" md5="2eacc74702aa2d5c3461b5eaf73a311c" sha1="949fddc2275e8ecd09fa1338123ba5cf24cea063"/>
@@ -1097,18 +1151,21 @@
 	<game name="My Home Dream 2 (Japan)" id="81873">
 		<category>Games</category>
 		<description>My Home Dream 2 (Japan)</description>
+		<serial>RCR-3</serial>
 		<rom name="My Home Dream 2 (Japan).bin" size="11306064" crc="7dc54aca" md5="f092805eb4573b737d1eddff66e3b9e6" sha1="e9b63ba27c34e89c5dc2d420270f596463dc2b49"/>
 		<rom name="My Home Dream 2 (Japan).cue" size="112" crc="63521769" md5="0e25d4334362e449aa3a23e85c6b9f63" sha1="b7ee876422ff75340a7fd03d186dc5aec47228b0"/>
 	</game>
 	<game name="N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 2)" id="112601">
 		<category>Games</category>
-		<description>N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 2)</description>
+		<description>N-nyuu: PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 2)</description>
+		<serial>GANHE001B</serial>
 		<rom name="N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 2).bin" size="22332240" crc="f3a1acc6" md5="cf83fb46a4515c52f4fbadb740ec8c80" sha1="990c7fa4e323a5aa6682b3efb08a0f2660119801"/>
 		<rom name="N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 2).cue" size="152" crc="c24b223e" md5="ec8897a9c22a8631740cdce3402147d4" sha1="4b0122679792ef8e137b3cbcba724b0ec0f001c2"/>
 	</game>
 	<game name="Necronomicon (Japan)" id="75177">
 		<category>Games</category>
 		<description>Necronomicon (Japan)</description>
+		<serial>IDES-022</serial>
 		<rom name="Necronomicon (Japan) (Track 01).bin" size="40941264" crc="652641f7" md5="8517b8f0cb32e251c4041299f03065f9" sha1="788b77373d36c3dd177fb3693da825913824aa72"/>
 		<rom name="Necronomicon (Japan) (Track 02).bin" size="37154544" crc="69df23ed" md5="75c1aacbc11809a13d7af31113112b34" sha1="d3d69a5632ed3456fb8a890364fafcf9741da0db"/>
 		<rom name="Necronomicon (Japan) (Track 03).bin" size="35658672" crc="8fa3abea" md5="dc8b666419619962056c64c30a10ca57" sha1="676d4db512b48371feaca1c6e188d68eac416beb"/>
@@ -1134,7 +1191,8 @@
 	</game>
 	<game name="Ningen Konchuu - Nozoki (Japan)" id="88912">
 		<category>Games</category>
-		<description>Ningen Konchuu - Nozoki (Japan)</description>
+		<description>Ningen Konchuu: Nozoki (Japan)</description>
+		<serial>WIC-5518</serial>
 		<rom name="Ningen Konchuu - Nozoki (Japan) (Track 01).bin" size="97946688" crc="169d6a22" md5="6eee431cfcc9034bbdbdd56b32878e1d" sha1="a37e20e254a2187792ec6c479f9ea3c34a6624cd"/>
 		<rom name="Ningen Konchuu - Nozoki (Japan) (Track 02).bin" size="21854784" crc="85241841" md5="717ce072eb6c6ecc142ef251f0b02e0f" sha1="0368f92ce6d1d1bd2999a8037203eb45e554502d"/>
 		<rom name="Ningen Konchuu - Nozoki (Japan) (Track 03).bin" size="42982800" crc="421dc275" md5="7747e92e219ea4137e5c6f29df06a14c" sha1="b00408bff6169163f6526862217cbbc3584d87ba"/>
@@ -1153,18 +1211,21 @@
 	<game name="PILcaSEX (Japan)" id="81937">
 		<category>Games</category>
 		<description>PILcaSEX (Japan)</description>
+		<serial>PIL-0304</serial>
 		<rom name="PILcaSEX (Japan).bin" size="10440528" crc="c4f34aa6" md5="672c8ccd5e542f798cc7191026d31fe8" sha1="1521ae3dfbc6253cf658e58545d9ca0395e83b1c"/>
 		<rom name="PILcaSEX (Japan).cue" size="105" crc="6b9d768d" md5="9501c5fcca726c0f1db23e4af3646969" sha1="79ffc6a26722a081896a5467f08a23df88aeede1"/>
 	</game>
 	<game name="Panzer General (Japan)" id="134816">
 		<category>Games</category>
 		<description>Panzer General (Japan)</description>
+		<serial>MDC-7019</serial>
 		<rom name="Panzer General (Japan).bin" size="203549136" crc="6542ab9b" md5="9f18335872e2e4a5a4fcc162dc2f7b73" sha1="11f0723f6fd309124b43f94ed2f9de9fd5c28ca5"/>
 		<rom name="Panzer General (Japan).cue" size="88" crc="f2a2f491" md5="eff8c36320c82ec3f66259d74787f76f" sha1="3422da1872fed7a6de16a9dbb0221752f8527b73"/>
 	</game>
 	<game name="Persian Soft Special CD-ROM Volume 1 (Japan)" id="136453">
 		<category>Bonus Discs</category>
 		<description>Persian Soft Special CD-ROM Volume 1 (Japan)</description>
+		<serial>PERS-95071</serial>
 		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan) (Track 1).bin" size="6091680" crc="004a9566" md5="31f6e3bd012dfaedd654f80242cbdefd" sha1="52f1c2757190227758d799b8d1e6981868332858"/>
 		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan) (Track 2).bin" size="38631600" crc="0d8f0e63" md5="a328c3a77af30636bb1768f4f004f29e" sha1="a29d54a7a129a8f454b20847ad88ac5568144dab"/>
 		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan) (Track 3).bin" size="33339600" crc="ef0bb834" md5="f95815df44d66cba58da9ccf11a03a78" sha1="66aeec1ef0bf92cbdf67e86e0e45db169e0bd595"/>
@@ -1174,6 +1235,7 @@
 	<game name="Photo Genic (Japan)" id="11029">
 		<category>Games</category>
 		<description>Photo Genic (Japan)</description>
+		<serial>PP7CA0050, CP7CA0050, 11T-98-0050</serial>
 		<rom name="Photo Genic (Japan).bin" size="24641904" crc="52dcb64b" md5="53f1a1dc0f0663a547a5515738040bf6" sha1="a9e813960d37ec48e0544b4d8383f027060a4ca4"/>
 		<rom name="Photo Genic (Japan).cue" size="85" crc="97ca0b88" md5="4e1575abab8940c80b41e003928d0c9d" sha1="917369cda659f3bd55ab4c5ceb46c6bd74f3a0b0"/>
 	</game>
@@ -1200,6 +1262,7 @@
 	<game name="Policenauts (Japan)" id="29186">
 		<category>Games</category>
 		<description>Policenauts (Japan)</description>
+		<serial>RA710</serial>
 		<rom name="Policenauts (Japan) (Track 1).bin" size="438123504" crc="2b3e3183" md5="c397bfaeb01f420d68bdc025035e9790" sha1="55f73b092e899fed724b0f77936fd27481c7796f"/>
 		<rom name="Policenauts (Japan) (Track 2).bin" size="1270080" crc="f67682bf" md5="9d65bf3162a18aac88c5d0428e3f529e" sha1="08a2573b9f1bc9fe41df1c9496cf51f8d586fbbc"/>
 		<rom name="Policenauts (Japan) (Track 3).bin" size="16659216" crc="359cad9c" md5="03c335a645b72c0f4ff84262a9f4e657" sha1="3dd20bc84242fe359c817a5a8c9343f7967c2833"/>
@@ -1210,13 +1273,14 @@
 	</game>
 	<game name="Prince of Persia 2 - The Shadow &amp; The Flame (Japan)" id="92520">
 		<category>Games</category>
-		<description>Prince of Persia 2 - The Shadow &amp; The Flame (Japan)</description>
+		<description>Prince of Persia 2: The Shadow &amp; The Flame (Japan)</description>
 		<rom name="Prince of Persia 2 - The Shadow &amp; The Flame (Japan).bin" size="30237312" crc="6bc987b8" md5="c4742779be7c2b9b3329d106826a6c1e" sha1="937b0f657621795f8294088bdda1ddbe638bf13a"/>
 		<rom name="Prince of Persia 2 - The Shadow &amp; The Flame (Japan).cue" size="117" crc="004ad447" md5="74914cf6dada38fd7b6c199afd2c869b" sha1="8a8af807c2276929968242c2e89094e0c74891bf"/>
 	</game>
 	<game name="Puyo Puyo Tsuu (Japan)" id="20940">
 		<category>Games</category>
 		<description>Puyo Puyo Tsuu (Japan)</description>
+		<serial>C9501</serial>
 		<rom name="Puyo Puyo Tsuu (Japan) (Track 1).bin" size="270574080" crc="eeb69995" md5="0a0cb1b7ebedb8ccf4ede5316f11c17a" sha1="edc42a08a2792807d6daae696b990ee3f6c3cb38"/>
 		<rom name="Puyo Puyo Tsuu (Japan) (Track 2).bin" size="48455904" crc="d8c36ca8" md5="3c753999f1135f281c1e3e119fcc363d" sha1="1a52ffa8b8272ad95eec2b475c977151e98f57c6"/>
 		<rom name="Puyo Puyo Tsuu (Japan) (Track 3).bin" size="48599376" crc="48830830" md5="5580f8cd4a79599aeafb7650860c5998" sha1="d99b57af923b60e5d55981a96abf8b0bf91171b9"/>
@@ -1224,19 +1288,20 @@
 	</game>
 	<game name="R-A-M 1 - New Evolution Organize (Japan)" id="92504">
 		<category>Games</category>
-		<description>R-A-M 1 - New Evolution Organize (Japan)</description>
+		<description>R·A·M 1: New Evolution Organize (Japan)</description>
 		<rom name="R-A-M 1 - New Evolution Organize (Japan).bin" size="34437984" crc="ce5f8f24" md5="c302e22336e0f6a2f408bc4b48f94d24" sha1="ef7c3a258ddd6dfef0502ebafb05d7f73bb80eb5"/>
 		<rom name="R-A-M 1 - New Evolution Organize (Japan).cue" size="106" crc="69198333" md5="5635cdca888a844b4849871957237079" sha1="f9a5f7e913da8debce11e59ceb7191d8559ed929"/>
 	</game>
 	<game name="Re-No - Stayin' Alive (Japan)" id="119052">
 		<category>Games</category>
-		<description>Re-No - Stayin' Alive (Japan)</description>
+		<description>Re-No: Stayin' Alive (Japan)</description>
+		<serial>21D-2064</serial>
 		<rom name="Re-No - Stayin' Alive (Japan).bin" size="41905584" crc="46163d3f" md5="3cd872bafc0fc3c1181332101cbe59c8" sha1="1a95ede986b028ee8584367e0f3504262f9cec54"/>
 		<rom name="Re-No - Stayin' Alive (Japan).cue" size="95" crc="6bb43336" md5="ad3d1c6ce49989f495f6f0dc1b047df9" sha1="63227d3f2e959caa2e3a63496128af6199cf5184"/>
 	</game>
 	<game name="Record of Lodoss War - Lodoss-tou Senki II - Goshiki no Maryuu (Japan)" id="81875">
 		<category>Games</category>
-		<description>Record of Lodoss War - Lodoss-tou Senki II - Goshiki no Maryuu (Japan)</description>
+		<description>Record of Lodoss War: Lodoss-tou Senki II: Goshiki no Maryuu (Japan)</description>
 		<rom name="Record of Lodoss War - Lodoss-tou Senki II - Goshiki no Maryuu (Japan) (Track 1).bin" size="4694592" crc="ba8e3676" md5="b20d5d642aa9d814af47272caba4000e" sha1="ff5c29440cab3d4d533fa367e7c7d98af7add28c"/>
 		<rom name="Record of Lodoss War - Lodoss-tou Senki II - Goshiki no Maryuu (Japan) (Track 2).bin" size="31657920" crc="160d33f7" md5="5b0d701a821597ff47b911b308317914" sha1="004e42b6f7303e2cf6a89eaa065903109685502f"/>
 		<rom name="Record of Lodoss War - Lodoss-tou Senki II - Goshiki no Maryuu (Japan) (Track 3).bin" size="25406304" crc="1df6d046" md5="90707b917f118389fffc06b0742992a1" sha1="0540e478f4878c2166ad05aefce006adf825cf79"/>
@@ -1254,30 +1319,35 @@
 	<game name="Ruriiro no Yuki (Japan)" id="135976">
 		<category>Games</category>
 		<description>Ruriiro no Yuki (Japan)</description>
+		<serial>AIL-00005</serial>
 		<rom name="Ruriiro no Yuki (Japan).bin" size="18975936" crc="2e804ce9" md5="70f4905896971f6592db361f52fd4cf9" sha1="8028cc5ade04e2c806e1112d300c73f23ff52f88"/>
 		<rom name="Ruriiro no Yuki (Japan).cue" size="89" crc="fb0de881" md5="738c55d8533bb2005511b6a56e4d9da8" sha1="68a9a7acfe06ac19f44df0e5b4ce5f864cfec1ad"/>
 	</game>
 	<game name="Ryouki no Ori (Japan)" id="88913">
 		<category>Games</category>
 		<description>Ryouki no Ori (Japan)</description>
+		<serial>CEN1RS 21-6</serial>
 		<rom name="Ryouki no Ori (Japan).bin" size="109137504" crc="39902fbe" md5="4ff31af67b067094f3f260cc9f63f904" sha1="4a57c8ec95895ac2264d76167e7f3a0c1b55df40"/>
 		<rom name="Ryouki no Ori (Japan).cue" size="87" crc="d7119298" md5="f7de6159e0771844190e7e059ed15750" sha1="743e014d96245bd263893c1b48e159c9fb06796f"/>
 	</game>
 	<game name="Ryouki no Ori - Dai-2-shou (Japan)" id="117218">
 		<category>Games</category>
-		<description>Ryouki no Ori - Dai-2-shou (Japan)</description>
+		<description>Ryouki no Ori: Dai-2-shou (Japan)</description>
+		<serial>NPC-9001</serial>
 		<rom name="Ryouki no Ori - Dai-2-shou (Japan).bin" size="21113904" crc="aaba1398" md5="3a44c5b37dcaac46f8b230e8f632a1a8" sha1="356b59fccd6bc54a9bf10ff77df3b4e87514e758"/>
 		<rom name="Ryouki no Ori - Dai-2-shou (Japan).cue" size="100" crc="e11da00c" md5="4674e0481cd7f978bf429f15ea272666" sha1="eeccd08ada027d0722534f4c71be2a700abc34af"/>
 	</game>
 	<game name="Saint Diary - Kiyoka-chan no Nikki (Japan)" id="26058">
 		<category>Games</category>
-		<description>Saint Diary - Kiyoka-chan no Nikki (Japan)</description>
+		<description>Saint Diary: Kiyoka-chan no Nikki (Japan)</description>
+		<serial>EXC-004</serial>
 		<rom name="Saint Diary - Kiyoka-chan no Nikki (Japan).bin" size="17835216" crc="7942b16b" md5="2bd1aa7da734642a80b8464b1a35e30f" sha1="607c6633b8c4b62e9e34fc3a5b7a9456dc08c466"/>
 		<rom name="Saint Diary - Kiyoka-chan no Nikki (Japan).cue" size="108" crc="effe090b" md5="77e747775280067ce015494377ccf193" sha1="91224feb75754c839b40fa2d7fbb8de5f70440a7"/>
 	</game>
 	<game name="Sangokushi V (Japan)" id="92445">
 		<category>Games</category>
 		<description>Sangokushi V (Japan)</description>
+		<serial>KN11-00103</serial>
 		<rom name="Sangokushi V (Japan) (Track 01).bin" size="17176656" crc="b4a1a2b4" md5="85639ca8e3bc2429ad362f78e247a7b1" sha1="51321e5d6a1dcefbe236a30c57a1633e58df625b"/>
 		<rom name="Sangokushi V (Japan) (Track 02).bin" size="35230608" crc="5eecd92b" md5="2ee88ab4298232f5c3563d2374c29eac" sha1="875ab1a2cce9e5e54decb14a28ad8c98b253ff3a"/>
 		<rom name="Sangokushi V (Japan) (Track 03).bin" size="44532768" crc="0a6cc39c" md5="a7cfdc447527b1dc27da22f71217cc12" sha1="83f3bb7662852d9251d339746a0f7482ddec1902"/>
@@ -1303,7 +1373,8 @@
 	</game>
 	<game name="Schwarzschild EX - Tessa no Seigun (Japan)" id="81886">
 		<category>Games</category>
-		<description>Schwarzschild EX - Tessa no Seigun (Japan)</description>
+		<description>Schwarzschild EX: Tessa no Seigun (Japan)</description>
+		<serial>9214-55HM10</serial>
 		<rom name="Schwarzschild EX - Tessa no Seigun (Japan) (Track 01).bin" size="12395040" crc="bcb595bf" md5="dd305759cf5d00b890a50cf24ff685af" sha1="545ffbbdda0a051bd9e6feee64ebe43a1cac89fb"/>
 		<rom name="Schwarzschild EX - Tessa no Seigun (Japan) (Track 02).bin" size="1060752" crc="b82aea6e" md5="cab164bd747f3f53333a4455d25e439a" sha1="73faef5a8e3ce984f9b4913d93a3ddeff357c66e"/>
 		<rom name="Schwarzschild EX - Tessa no Seigun (Japan) (Track 03).bin" size="30625392" crc="f29c3b2d" md5="ea3943009bf8cdecd516605612d15afe" sha1="1b2c2711dd63f2a21224b592d069500c0238b392"/>
@@ -1326,7 +1397,8 @@
 	</game>
 	<game name="Schwarzschild GX - Sabita Sousei (Japan)" id="81887">
 		<category>Games</category>
-		<description>Schwarzschild GX - Sabita Sousei (Japan)</description>
+		<description>Schwarzschild GX: Sabita Sousei (Japan)</description>
+		<serial>9531-77-01</serial>
 		<rom name="Schwarzschild GX - Sabita Sousei (Japan) (Track 01).bin" size="22111152" crc="ea405f75" md5="28cdd9ef4f45a004dd4484d74b1a6c3a" sha1="010e133a25f397140eefdcf98a1f47a8a52d9391"/>
 		<rom name="Schwarzschild GX - Sabita Sousei (Japan) (Track 02).bin" size="1058400" crc="648c227c" md5="dc35d6b52ac7add94a6d52f480bf89d4" sha1="729c8d0d2eb161d068c48a84826268f9ec790222"/>
 		<rom name="Schwarzschild GX - Sabita Sousei (Japan) (Track 03).bin" size="19161744" crc="354ed792" md5="b050889877bd3f268c679e39bb599101" sha1="c72e731726e196508bc3de66797acd292bf868ea"/>
@@ -1374,6 +1446,7 @@
 	<game name="ShadowCaster (Japan)" id="135396">
 		<category>Games</category>
 		<description>ShadowCaster (Japan)</description>
+		<serial>ENP-7011</serial>
 		<rom name="ShadowCaster (Japan) (Track 01).bin" size="47204640" crc="957f954a" md5="34cfb75085494b0a83ad9facd185f2a9" sha1="87540e53f5c39f24e9bac9e61f1bb2e6c0a233a3"/>
 		<rom name="ShadowCaster (Japan) (Track 02).bin" size="1234800" crc="95317356" md5="74b90ba9e50fbc705076f28c8577ee1f" sha1="c13b7ea244747ef19539ccc6cb739904106f199c"/>
 		<rom name="ShadowCaster (Japan) (Track 03).bin" size="1263024" crc="6e67af20" md5="c8f0fbd5652687e8133fdcad2bc63cd4" sha1="eea117aacc82d919219807eca34ab92287a02ed6"/>
@@ -1419,12 +1492,15 @@
 	<game name="Shin-ou Densetsu Crystania DX (Japan)" id="92502">
 		<category>Games</category>
 		<description>Shin-ou Densetsu Crystania DX (Japan)</description>
+		<serial>001J291TA</serial>
+		<version>CDX-V1.00</version>
 		<rom name="Shin-ou Densetsu Crystania DX (Japan).bin" size="13660416" crc="26579922" md5="f1a52637d4b278dc07e76caa16987b20" sha1="6f29396429e3db3a9e1d0ec7414646981c2d5c0d"/>
 		<rom name="Shin-ou Densetsu Crystania DX (Japan).cue" size="103" crc="fff9e02c" md5="e8d2314142de8ab73fbaca9c62b0d341" sha1="5842591dceb26171658fc7b25640b7dca54ef9e7"/>
 	</game>
 	<game name="Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World (Japan)" id="81855">
 		<category>Games</category>
-		<description>Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World (Japan)</description>
+		<description>Shinpi no Sekai El-Hazard: El-Hazard: The Magnificent World (Japan)</description>
+		<serial>21D-2077</serial>
 		<rom name="Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World (Japan) (Track 01).bin" size="62012832" crc="60283f19" md5="54bb5e4c03a7b48f5dbdd7e3bcb42009" sha1="8fcd40493d5cafe40a7a7f3fa091a928bf8dd109"/>
 		<rom name="Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World (Japan) (Track 02).bin" size="16623936" crc="93f108d9" md5="18ffed591e33eeea8c06f19ee335f4b9" sha1="a497fc65de1cce084fd20def89bf43ca8c01acb5"/>
 		<rom name="Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World (Japan) (Track 03).bin" size="14568288" crc="52936afa" md5="b2dad812f2ba3df1c80d3be89fdb89fa" sha1="47274d4fa08e59923f9a2fc10a273d1fb3002549"/>
@@ -1471,13 +1547,15 @@
 	</game>
 	<game name="Silent Service, The - Chinmoku no Kantai (Japan)" id="81885">
 		<category>Games</category>
-		<description>Silent Service, The - Chinmoku no Kantai (Japan)</description>
+		<description>Silent Service, The: Chinmoku no Kantai (Japan)</description>
+		<serial>DWPC3808</serial>
 		<rom name="Silent Service, The - Chinmoku no Kantai (Japan).bin" size="152468400" crc="58825f3b" md5="1968d2c84b0c27943dc9463a15c3ebd3" sha1="c9576c9a63f3539ac9b3bf799a619bc8ec82a343"/>
 		<rom name="Silent Service, The - Chinmoku no Kantai (Japan).cue" size="114" crc="72458bc6" md5="a5583151c2a82cc3e215ef9e679c8751" sha1="b0456e4cfd549755a4790b603ebcc6e646cf918b"/>
 	</game>
 	<game name="Sorcer Kingdom (Japan)" id="92546">
 		<category>Games</category>
 		<description>Sorcer Kingdom (Japan)</description>
+		<serial>AYPIO-001</serial>
 		<rom name="Sorcer Kingdom (Japan).bin" size="64515360" crc="fb7ee734" md5="9a4c019015c358abf26b155b6aada14b" sha1="7b6eb41617c59cde7aae19d284a3cb96c7bc21a9"/>
 		<rom name="Sorcer Kingdom (Japan).cue" size="88" crc="bb0af92b" md5="207401c667c34303d3cd9b81e47b1785" sha1="527ef70365d50a1dd08e56df1b2f21741507c3d6"/>
 	</game>
@@ -1511,18 +1589,21 @@
 	<game name="Strike Commander (Japan)" id="92448">
 		<category>Games</category>
 		<description>Strike Commander (Japan)</description>
+		<serial>ENP-7010</serial>
 		<rom name="Strike Commander (Japan).bin" size="112860720" crc="b7b1433f" md5="f4ede62493288e5eef742d9fcbe5a43b" sha1="ac1d1a38a16c0c5fadfcc66327e2ef5680c0316d"/>
 		<rom name="Strike Commander (Japan).cue" size="113" crc="080e2969" md5="4de878d239435383aef90943ef63586e" sha1="600a2911a12fa16627b24cb53a7c8075501ba14c"/>
 	</game>
 	<game name="Syndicate (Japan)" id="81877">
 		<category>Games</category>
 		<description>Syndicate (Japan)</description>
+		<serial>ENP-7009</serial>
 		<rom name="Syndicate (Japan).bin" size="28677936" crc="eddd9239" md5="e6e6a76a6ff53f8bcdc843e5d3f46249" sha1="ea240d9a404b82b4d1312314b8ed6a257f382bee"/>
 		<rom name="Syndicate (Japan).cue" size="106" crc="638a1ca6" md5="b6da546cde8de34139493fa8b3921e90" sha1="ea4b8493a0c47738a8952306f229acb941b96b8a"/>
 	</game>
 	<game name="TFX - The Cutting Edge of Aerial Combat (Japan)" id="10293">
 		<category>Games</category>
-		<description>TFX - The Cutting Edge of Aerial Combat (Japan)</description>
+		<description>TFX: The Cutting Edge of Aerial Combat (Japan)</description>
+		<serial>21D-2063</serial>
 		<rom name="TFX - The Cutting Edge of Aerial Combat (Japan) (Track 01).bin" size="15269184" crc="e4514058" md5="4a9dbb28eacc1ba6ee07173ccedf3127" sha1="0c4e45ad478579089a136bdb9d2e0cce40945d9c"/>
 		<rom name="TFX - The Cutting Edge of Aerial Combat (Japan) (Track 02).bin" size="49474320" crc="8347ce15" md5="c069755d23db2ac3ba8bea0edba130a4" sha1="f9eded08ceda10ef0d9397af209f17919bde49cf"/>
 		<rom name="TFX - The Cutting Edge of Aerial Combat (Japan) (Track 03).bin" size="49514304" crc="4b01ce38" md5="a12f0572e612590b9c97831a0ec4bb68" sha1="36c457ad40ca1e8b2cacf0b98f2e5f630b807ead"/>
@@ -1547,12 +1628,14 @@
 	<game name="Taiheiyou no Arashi 2 (Japan)" id="136591">
 		<category>Games</category>
 		<description>Taiheiyou no Arashi 2 (Japan)</description>
+		<serial>21D-2050</serial>
 		<rom name="Taiheiyou no Arashi 2 (Japan).bin" size="8436624" crc="99555541" md5="bb719068cc1c1af2f570d43ae7f01fcb" sha1="fd6af894b7ff70c3e448ba6e89dbc04acc5b5aa8"/>
 		<rom name="Taiheiyou no Arashi 2 (Japan).cue" size="118" crc="ef18e6b9" md5="e5dbd6523fcf453fba96e1b52817651b" sha1="fb11ebab839674328451dcf9ffac72782e207911"/>
 	</game>
 	<game name="Teitoku no Ketsudan III (Japan)" id="92525">
 		<category>Games</category>
 		<description>Teitoku no Ketsudan III (Japan)</description>
+		<serial>KN11-14103</serial>
 		<rom name="Teitoku no Ketsudan III (Japan) (Track 01).bin" size="12592608" crc="c223cac0" md5="b9ea1bb27928270876fc4a5a46cfd4b1" sha1="15e6913aa5423c8063ea7a5868782950a399d6e9"/>
 		<rom name="Teitoku no Ketsudan III (Japan) (Track 02).bin" size="22666224" crc="883dd9f2" md5="2bc53e8b5561cc4886b0eb5fbf69cd5e" sha1="fe42ae4c503cbedd4f1291d0b7e496a1917e8b5d"/>
 		<rom name="Teitoku no Ketsudan III (Japan) (Track 03).bin" size="21532560" crc="b751a1b7" md5="5a50e6e931a724a070dd4c9f93da9fd5" sha1="b066d4d91eac0d827577674f16d2a7e924e0748f"/>
@@ -1582,36 +1665,43 @@
 	<game name="Theme Park (Japan)" id="16674">
 		<category>Games</category>
 		<description>Theme Park (Japan)</description>
+		<serial>ENP-7018</serial>
 		<rom name="Theme Park (Japan).bin" size="190041600" crc="04b932d0" md5="c3eba2da6227b98afde0a7bca805dc4f" sha1="28e0308f70459436bf09701f96a98d38be699944"/>
 		<rom name="Theme Park (Japan).cue" size="107" crc="c0c6d411" md5="c9f8cc7445cb60bca3dc1b86a37ac59a" sha1="8adcc50fad188f87ea898b047e5e3dbd415ce5a3"/>
 	</game>
 	<game name="Tokio 2 - Kaitaku Imin Boshuuchuu! (Japan)" id="9813">
 		<category>Games</category>
-		<description>Tokio 2 - Kaitaku Imin Boshuuchuu! (Japan)</description>
+		<description>Tokio 2: Kaitaku Imin Boshuuchuu! (Japan)</description>
+		<serial>21D-2046</serial>
 		<rom name="Tokio 2 - Kaitaku Imin Boshuuchuu! (Japan).bin" size="11553024" crc="4b90e99c" md5="be5a40bcc8e0b573a79c7c182de6d8aa" sha1="63af46c05b95ba9e6a66758ef5029b231cc4652b"/>
 		<rom name="Tokio 2 - Kaitaku Imin Boshuuchuu! (Japan).cue" size="108" crc="e5728bda" md5="cfa5300efcee06d6f1c99d44607af63b" sha1="9adcdb123ee967e1aaf2dedd88ed52657f482e0c"/>
 	</game>
 	<game name="True Love - Jun'ai Monogatari (Japan)" id="119053">
 		<category>Games</category>
-		<description>True Love - Jun'ai Monogatari (Japan)</description>
+		<description>True Love: Jun'ai Monogatari (Japan)</description>
+		<serial>21D-2038</serial>
 		<rom name="True Love - Jun'ai Monogatari (Japan).bin" size="14525952" crc="5ae35e62" md5="0008679c378ad580147e2af14bdfa72e" sha1="e5c5f5d365dc6d3fe6f336d2564efec8b544f980"/>
 		<rom name="True Love - Jun'ai Monogatari (Japan).cue" size="103" crc="2191918d" md5="f8629209c9c9f49f1c8825fd6225c3c4" sha1="a4670b73501a8ce8601d780f5c9dae3cea4843d8"/>
 	</game>
 	<game name="Tuned Heart (Japan)" id="68809">
 		<category>Games</category>
 		<description>Tuned Heart (Japan)</description>
+		<serial>001J0290TA</serial>
+		<version>TH-V1.00</version>
 		<rom name="Tuned Heart (Japan).bin" size="99155616" crc="99bd1f7a" md5="2a5a0fe18a34efa94156e26260cf69e0" sha1="751a1d740446cf2d591acca5888eb1ea4b0fb186"/>
 		<rom name="Tuned Heart (Japan).cue" size="85" crc="c701d867" md5="2f7aa0976e8ae37278b0186bcfd46a7d" sha1="a6f8f522d934240520f0b57865af7328688e1708"/>
 	</game>
 	<game name="Uki Uki Island (Japan)" id="88916">
 		<category>Games</category>
 		<description>Uki Uki Island (Japan)</description>
+		<serial>FDC-102</serial>
 		<rom name="Uki Uki Island (Japan).bin" size="7683984" crc="012c19e9" md5="0c9d3ec0e129b3c60e49d699bfa75eb2" sha1="f3c63ec053858658825363793d03d0a430b6dff1"/>
 		<rom name="Uki Uki Island (Japan).cue" size="88" crc="96e1d903" md5="23e63efa797a1d4bf2d8e1ae6804fd01" sha1="c16effd9d5d108583b1af6f082e1b29023dfdb8b"/>
 	</game>
 	<game name="Ultima VIII - Pagan (Japan)" id="92547">
 		<category>Games</category>
-		<description>Ultima VIII - Pagan (Japan)</description>
+		<description>Ultima VIII: Pagan (Japan)</description>
+		<serial>EID-4018, ENP-7020</serial>
 		<rom name="Ultima VIII - Pagan (Japan).bin" size="32323536" crc="454bf37f" md5="c00562c742dca684033ec5c4fb232d6e" sha1="1463121d6a5f0f71f24e491813071d530fa18735"/>
 		<rom name="Ultima VIII - Pagan (Japan).cue" size="116" crc="fefe7b3a" md5="fa000fca3832cc1ad5b57c03b04b3641" sha1="10090b0bcc7a21f9ccb8772eb735fa0a3cde39e7"/>
 	</game>
@@ -1624,12 +1714,13 @@
 	<game name="Usagi na Panic EX (Japan)" id="126155">
 		<category>Games</category>
 		<description>Usagi na Panic EX (Japan)</description>
+		<serial>21D-2056</serial>
 		<rom name="Usagi na Panic EX (Japan).bin" size="11795280" crc="0327fc28" md5="8e14264a1eca68a93ce0c5be1b012f0e" sha1="ea9197db1fd805bb1b90e9720872bee10906c781"/>
 		<rom name="Usagi na Panic EX (Japan).cue" size="91" crc="5b5be81d" md5="7c1b867e5c0701df7ddef4a255800730" sha1="bd62abd047f65a8d9617db7a0087a3db8765c635"/>
 	</game>
 	<game name="Viper CTR - Asuka (Japan)" id="69420">
 		<category>Games</category>
-		<description>Viper CTR - Asuka (Japan)</description>
+		<description>Viper CTR: Asuka (Japan)</description>
 		<rom name="Viper CTR - Asuka (Japan) (Track 01).bin" size="48288912" crc="0753605f" md5="e9064add169b9a96df4359b7bd153cc6" sha1="4e970dc7dabf6c8cbf1a91f5f039e0e963e0fd95"/>
 		<rom name="Viper CTR - Asuka (Japan) (Track 02).bin" size="2053296" crc="87a10d0f" md5="c0ce48c085b61f8aff7405394bd1d630" sha1="d2379c03130f61ab7eaeab169eda99b174606373"/>
 		<rom name="Viper CTR - Asuka (Japan) (Track 03).bin" size="29378832" crc="20d624a0" md5="565b24abd5ab8f9b85cfac321bcb9136" sha1="5482459ae2f4aca2cda5665f6a217017fdd9ddc3"/>
@@ -1701,13 +1792,15 @@
 	</game>
 	<game name="Waku Waku Mahjong Panic! 2 - Kokushi Musou (Japan)" id="81281">
 		<category>Games</category>
-		<description>Waku Waku Mahjong Panic! 2 - Kokushi Musou (Japan)</description>
+		<description>Waku Waku Mahjong Panic! 2: Kokushi Musou (Japan)</description>
+		<serial>FNN-002</serial>
 		<rom name="Waku Waku Mahjong Panic! 2 - Kokushi Musou (Japan).bin" size="52567200" crc="a7a924e1" md5="77b043b0d9c708afdc086ec05ebbc989" sha1="8f23e98f56a5f9f778af920ad5608f02b76f8efa"/>
 		<rom name="Waku Waku Mahjong Panic! 2 - Kokushi Musou (Japan).cue" size="116" crc="c2008e4d" md5="b834e18024b5b1f949317afe0640d83f" sha1="a12cf877c09185091d290c3d58a96c8ebb9d8888"/>
 	</game>
 	<game name="Watashi (Japan)" id="81876">
 		<category>Games</category>
 		<description>Watashi (Japan)</description>
+		<serial>EXC-005</serial>
 		<rom name="Watashi (Japan).bin" size="31173408" crc="1b818680" md5="91642a23f12736eeff7fb799ef889842" sha1="ef88d60cbf3251a4236eefd37a0d54dff310904e"/>
 		<rom name="Watashi (Japan).cue" size="81" crc="34a5bba3" md5="f23716f1f88cff35bcc9bec0a93c9ddd" sha1="8546eea2176a85257c1a60bd1cdd17395fc1554a"/>
 	</game>
@@ -1734,7 +1827,8 @@
 	</game>
 	<game name="Yatsu no Na wa Diamond - His Name Is Diamond (Japan)" id="119054">
 		<category>Games</category>
-		<description>Yatsu no Na wa Diamond - His Name Is Diamond (Japan)</description>
+		<description>Yatsu no Na wa Diamond: His Name Is Diamond (Japan)</description>
+		<serial>EXC-006</serial>
 		<rom name="Yatsu no Na wa Diamond - His Name Is Diamond (Japan).bin" size="52567200" crc="a32d6492" md5="747eb34b1bc84c39ed303decc5fa5001" sha1="bbf8c78e242454851dc9e94bab44d257445720ef"/>
 		<rom name="Yatsu no Na wa Diamond - His Name Is Diamond (Japan).cue" size="118" crc="257aab53" md5="d9caa4738075c30224b1d8f21e84f516" sha1="c9bdfbc5da4bf8391fbc8b013be57ce65fc232b5"/>
 	</game>
@@ -1746,13 +1840,14 @@
 	</game>
 	<game name="Yuugiri - Ningyoushi no Isan (Japan)" id="102556">
 		<category>Games</category>
-		<description>Yuugiri - Ningyoushi no Isan (Japan)</description>
+		<description>Yuugiri: Ningyoushi no Isan (Japan)</description>
+		<serial>EXC-002</serial>
 		<rom name="Yuugiri - Ningyoushi no Isan (Japan).bin" size="52567200" crc="0cf4255c" md5="af6b45e862fc47735e3bb1cc7ffb45bd" sha1="50317ad2f93ce9634ad0efb827229ae3009d1ebb"/>
 		<rom name="Yuugiri - Ningyoushi no Isan (Japan).cue" size="102" crc="48444fcd" md5="c5457ca1642573e350848bcc1239781d" sha1="79f1c0adeea3f87edde8036ba654ec2908f430dd"/>
 	</game>
 	<game name="Yuurou - Transient Sands (Japan)" id="68810">
 		<category>Games</category>
-		<description>Yuurou - Transient Sands (Japan)</description>
+		<description>Yuurou: Transient Sands (Japan)</description>
 		<rom name="Yuurou - Transient Sands (Japan) (Track 01).bin" size="9692592" crc="d9ba2d44" md5="e6c84d2d845bd7c8e569f1ad42f55d37" sha1="5bd16e87e901cd6465bea1147f994385e781a220"/>
 		<rom name="Yuurou - Transient Sands (Japan) (Track 02).bin" size="24646608" crc="6ed9d4a8" md5="ec2b9b51072b56cbf162fcca95c234ba" sha1="b81ed5b12134e6dca61fb1ae504fa162c5bb1e00"/>
 		<rom name="Yuurou - Transient Sands (Japan) (Track 03).bin" size="27748896" crc="9d201cd9" md5="ca55663e662751cd0c7595bcd7739a30" sha1="0d84ec092a04d2606ccb050cf752bd9fad0771f9"/>
@@ -1770,6 +1865,7 @@
 	<game name="Zai Metajo (Japan)" id="119055">
 		<category>Games</category>
 		<description>Zai Metajo (Japan)</description>
+		<serial>WIC-5452</serial>
 		<rom name="Zai Metajo (Japan).bin" size="40092192" crc="c41f199f" md5="406abba5e0c8f28d88b911c631cd22b0" sha1="08aae335ff1fff2a674a1012be423720f3273535"/>
 		<rom name="Zai Metajo (Japan).cue" size="84" crc="c51a40b3" md5="6cc3c69ff04d4eb93771f1dd5066f7f1" sha1="7374fa309e5614f3e524abcdb697642df89a7ab2"/>
 	</game>

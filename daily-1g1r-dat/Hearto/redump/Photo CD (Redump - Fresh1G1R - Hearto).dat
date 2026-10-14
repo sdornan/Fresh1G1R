@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Photo CD (Retool)</name>
-		<description>Photo CD (16) (-y) [-aAbBcefkmMoprv] (2026-10-10 09-22-56) (Retool)</description>
-		<version>2026-10-10 09-22-56</version>
-		<date>2026-10-13 09-17-13</date>
+		<description>Photo CD (16) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-51-54) (Retool)</description>
+		<version>2026-10-14 05-51-54</version>
+		<date>2026-10-14 07-27-46</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,6 +14,7 @@
 	<game name="Dark Chaser (Japan)" id="75660">
 		<category>Games</category>
 		<description>Dark Chaser (Japan)</description>
+		<serial>PX-003</serial>
 		<rom name="Dark Chaser (Japan) (Track 1).bin" size="710304" crc="14bdb29a" md5="3ec3ffbdbe651db617eac399417d356d" sha1="e26cfc7b1b70a0c1fe17a799eb0be82b86a9b0eb"/>
 		<rom name="Dark Chaser (Japan) (Track 2).bin" size="171256176" crc="50b62ef8" md5="213e84eee330b80729c49126a980b225" sha1="e43cec34c38d7ed9486af8cc404a2ac25dc2a67d"/>
 		<rom name="Dark Chaser (Japan) (Track 3).bin" size="60142992" crc="60f706e7" md5="45665b2646bbc10cce287c276aa89263" sha1="1486cbf579d3ffba371cd924ecd4d7cbe3a90d95"/>
@@ -22,6 +23,8 @@
 	<game name="Flowers of Robert Mapplethorpe, The (USA) (Beta) (1994-12-01)" id="81799">
 		<category>Preproduction</category>
 		<description>Flowers of Robert Mapplethorpe, The (USA) (Beta) (1994-12-01)</description>
+		<serial>#310-690-223-2</serial>
+		<version>2.04</version>
 		<rom name="Flowers of Robert Mapplethorpe, The (USA) (Beta) (1994-12-01) (Track 1).bin" size="507855600" crc="ac68acd7" md5="3344cfd65174560ca837a3bbeb62fc98" sha1="c493f0b84028509451406c67fef65e6f74ee2a6e"/>
 		<rom name="Flowers of Robert Mapplethorpe, The (USA) (Beta) (1994-12-01) (Track 2).bin" size="218383200" crc="4b1a086e" md5="bc37dfa35c346ca9a75548078fa6299f" sha1="ab28e817ee01c40b05cf528d22b7882ddc77d562"/>
 		<rom name="Flowers of Robert Mapplethorpe, The (USA) (Beta) (1994-12-01).cue" size="315" crc="5d4026e7" md5="a6ef83a0500890e98327ec595787bb66" sha1="564a6d84b0451e53a957ec6814718bbfcd5ceda0"/>
@@ -29,6 +32,7 @@
 	<game name="Honoo no Onna Janshi Kyoko Makenai!! Jissen Mondaishuu (Japan)" id="75604">
 		<category>Games</category>
 		<description>Honoo no Onna Janshi Kyoko Makenai!! Jissen Mondaishuu (Japan)</description>
+		<serial>PX-02</serial>
 		<rom name="Honoo no Onna Janshi Kyoko Makenai!! Jissen Mondaishuu (Japan) (Track 1).bin" size="710304" crc="901f89d1" md5="4bdcac94409d866bf1683509c0abd3e2" sha1="e86cd2052956ccdaa929cc7ca77dd3c24bf4458a"/>
 		<rom name="Honoo no Onna Janshi Kyoko Makenai!! Jissen Mondaishuu (Japan) (Track 2).bin" size="227040912" crc="895caa3f" md5="4812f8a34e429532f207d02c5b1d834b" sha1="388ebe9f5c68b4594a783812b84e6361c69c389f"/>
 		<rom name="Honoo no Onna Janshi Kyoko Makenai!! Jissen Mondaishuu (Japan) (Track 3).bin" size="337497888" crc="dce2c427" md5="ef4efc2eeb4f015813a15bb0ffa92fe8" sha1="9423c8819fc3f021fcedd42082f69658e434850d"/>
@@ -37,6 +41,8 @@
 	<game name="How to Photograph Nature (USA) (Beta)" id="126397">
 		<category>Preproduction</category>
 		<description>How to Photograph Nature (USA) (Beta)</description>
+		<serial>310-690-224-2</serial>
+		<version>1.01</version>
 		<rom name="How to Photograph Nature (USA) (Beta) (Track 1).bin" size="489157200" crc="436f6314" md5="ff0dd3cdb70cfe453e12a2201d5e6020" sha1="5a00297edf903ba955ef55c90e1888c698528e3a"/>
 		<rom name="How to Photograph Nature (USA) (Beta) (Track 2).bin" size="230378400" crc="f62c09f8" md5="1f26f4d7d5738f224bde9fc11acf635e" sha1="a6bad8e9e617c21d87ce30c650f02ffc9b5134d6"/>
 		<rom name="How to Photograph Nature (USA) (Beta).cue" size="267" crc="1944d6c0" md5="d6b68ca82672eb8d3f49be295d0acba9" sha1="d1a6f638e51c411c9d88ea8298759bc3390b1918"/>
@@ -44,6 +50,7 @@
 	<game name="Inu-ou Chikyuu o Sukuu (Japan)" id="75661">
 		<category>Games</category>
 		<description>Inu-ou Chikyuu o Sukuu (Japan)</description>
+		<serial>PX-007</serial>
 		<rom name="Inu-ou Chikyuu o Sukuu (Japan) (Track 1).bin" size="1399440" crc="298eeaca" md5="7aee5db84a928c10e9a14532dd195932" sha1="a59497c8339b4c891a2770ed943ec7e86d1930b6"/>
 		<rom name="Inu-ou Chikyuu o Sukuu (Japan) (Track 2).bin" size="251624016" crc="11b56b84" md5="6cea0b3fb71f257007790f661f8dee93" sha1="d23c608d27b9b6dda273e32767fa62a53e2fc6b5"/>
 		<rom name="Inu-ou Chikyuu o Sukuu (Japan) (Track 3).bin" size="159816048" crc="1575a6b3" md5="2d7350d5c09349ad7ba01dbf307e1079" sha1="768ad3721b7715d3a881fc306ec0d8d50c10df15"/>
@@ -51,7 +58,8 @@
 	</game>
 	<game name="Julien Biere - Goldene Scheiben - Sampler-CD (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv)" id="110165">
 		<category>Demos</category>
-		<description>Julien Biere - Goldene Scheiben - Sampler-CD (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+		<description>Julien Biere: Goldene Scheiben: Sampler-CD (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+		<version>3.1</version>
 		<rom name="Julien Biere - Goldene Scheiben - Sampler-CD (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv) (Track 1).bin" size="710304" crc="5273675e" md5="8c865bef6f9561ca21ebb5085fde23fd" sha1="24798e406bc6608c7347cfae7879edfefb855a16"/>
 		<rom name="Julien Biere - Goldene Scheiben - Sampler-CD (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv) (Track 2).bin" size="192050208" crc="10be06dd" md5="cbe86f177a40969000660368b21718aa" sha1="ce9ac098e4626cb58573c8ea6626a6752f358ccf"/>
 		<rom name="Julien Biere - Goldene Scheiben - Sampler-CD (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv) (Track 3).bin" size="460072368" crc="b720c3b2" md5="b6d8ac246ca0b2bd9048a258fd4ed838" sha1="07729a13beea802566d540a0db02560ee400a926"/>
@@ -60,6 +68,7 @@
 	<game name="Mars Blade (Japan)" id="51688">
 		<category>Games</category>
 		<description>Mars Blade (Japan)</description>
+		<serial>PX-004</serial>
 		<rom name="Mars Blade (Japan) (Track 1).bin" size="997248" crc="31e305d8" md5="fbae28221fe9567938b9d87a3c4408ad" sha1="9d66a1330726685ea849a13ab93f061d99f0d348"/>
 		<rom name="Mars Blade (Japan) (Track 2).bin" size="235550448" crc="04949b0b" md5="019a5e5a770d4c28c0b319e9faac050c" sha1="f3ed5fd3296d624682cc609a3793c659e2f57f3b"/>
 		<rom name="Mars Blade (Japan) (Track 3).bin" size="148773408" crc="ace3744e" md5="693a752f36a562cf09dea955cf994401" sha1="547ce097bdbcbae17f99f8b614e6ed9d6dcb8be7"/>
@@ -68,13 +77,16 @@
 	<game name="National Parks Tour, A (USA) (Beta) (1992-10-27)" id="120966">
 		<category>Preproduction</category>
 		<description>National Parks Tour, A (USA) (Beta) (1992-10-27)</description>
+		<serial>#225</serial>
+		<version>1.02</version>
 		<rom name="National Parks Tour, A (USA) (Beta) (1992-10-27) (Track 1).bin" size="493743600" crc="dd8ac4f6" md5="8440e77f1361b5de8bba5269442cecd6" sha1="22a9eeea3ead60ebc70a9f4e65f9509a84f592e9"/>
 		<rom name="National Parks Tour, A (USA) (Beta) (1992-10-27) (Track 2).bin" size="251017200" crc="79e87b50" md5="2d0c74f39fb9c4d6a21a119bb6fc8a35" sha1="06298d277a9b0099c7370493178f310705ebc8e7"/>
 		<rom name="National Parks Tour, A (USA) (Beta) (1992-10-27).cue" size="289" crc="d79a5c36" md5="bd7cb8cfe9742292b75c8d83ba70691c" sha1="3204d493cc2d3429f568f68410b70a797664da9b"/>
 	</game>
 	<game name="Neko no Dayan - Dayan in Wonderland (Japan)" id="100807">
 		<category>Games</category>
-		<description>Neko no Dayan - Dayan in Wonderland (Japan)</description>
+		<description>Neko no Dayan: Dayan in Wonderland (Japan)</description>
+		<serial>GLA-014-PH</serial>
 		<rom name="Neko no Dayan - Dayan in Wonderland (Japan) (Track 1).bin" size="710304" crc="500161ec" md5="ef4e8133b7c13ea1239851dd59eda060" sha1="c3b0dcc54d659546772cf572f0cb4122d973016e"/>
 		<rom name="Neko no Dayan - Dayan in Wonderland (Japan) (Track 2).bin" size="126817488" crc="0e33c28f" md5="9fc4fdb5fa551cb206cc480e3a9561e3" sha1="3177a2dba5c82d962e8843b7c8d868ab569e8924"/>
 		<rom name="Neko no Dayan - Dayan in Wonderland (Japan) (Track 3).bin" size="103024656" crc="65618faa" md5="fb3abfacda9aa335a99479715894fdfe" sha1="4e098db13677932e507aac5ceb8d0326658b74c2"/>
@@ -82,7 +94,8 @@
 	</game>
 	<game name="Randy's - Randy to Nakamatachi (Japan)" id="84631">
 		<category>Games</category>
-		<description>Randy's - Randy to Nakamatachi (Japan)</description>
+		<description>Randy's: Randy to Nakamatachi (Japan)</description>
+		<serial>FZ-JJ1YP0804</serial>
 		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 01).bin" size="710304" crc="58e9fa26" md5="4a4ebdeed65f26f40bae89987be39b02" sha1="e6ea431e0633332d436dc95303bc9edba086d591"/>
 		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 02).bin" size="50231664" crc="eda07a21" md5="aa56df515e5638b8e44865079ca36ae2" sha1="67db9b32e4d6e5626ac316e2709755104149dd04"/>
 		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 03).bin" size="11879952" crc="92a619d4" md5="a32ae6e1ad2bc1917c7054626fc48d9c" sha1="3c293beacc4d72784047278ea1db64e4591ed140"/>
@@ -121,7 +134,8 @@
 	</game>
 	<game name="Seikaku Shindan Game - Ukiyo-e Sumo-hen (Japan)" id="104770">
 		<category>Games</category>
-		<description>Seikaku Shindan Game - Ukiyo-e Sumo-hen (Japan)</description>
+		<description>Seikaku Shindan Game: Ukiyo-e Sumo-hen (Japan)</description>
+		<serial>NPCD-1005</serial>
 		<rom name="Seikaku Shindan Game - Ukiyo-e Sumo-hen (Japan) (Track 1).bin" size="910224" crc="86f64079" md5="0f12516a65492dd63aed03b410ea36dc" sha1="e7e0e51cc3624826e9f31bca1c6d2d901f8a116f"/>
 		<rom name="Seikaku Shindan Game - Ukiyo-e Sumo-hen (Japan) (Track 2).bin" size="92991024" crc="f8e93d51" md5="187ad0ac8c7853793ad4b82d7a4aa10b" sha1="6d7e12de2be73bc04928adc2a7fa118deefadbe7"/>
 		<rom name="Seikaku Shindan Game - Ukiyo-e Sumo-hen (Japan) (Track 3).bin" size="198188928" crc="66c84660" md5="795c699f3a60572b3ccacd6e9693e811" sha1="0e421a5088f5505100c4656e9abd84656117143f"/>
@@ -129,7 +143,8 @@
 	</game>
 	<game name="Steelwood - Private Eye (Japan)" id="51673">
 		<category>Games</category>
-		<description>Steelwood - Private Eye (Japan)</description>
+		<description>Steelwood: Private Eye (Japan)</description>
+		<serial>PX-001</serial>
 		<rom name="Steelwood - Private Eye (Japan) (Track 1).bin" size="710304" crc="ec1b83f8" md5="93a9764c9c85996ecae42c5cea206201" sha1="ff227c800a422600eb07251058db03a110ada1c3"/>
 		<rom name="Steelwood - Private Eye (Japan) (Track 2).bin" size="110743920" crc="10edc131" md5="df565de2b63e1bc88619704ed5c95745" sha1="b73b43d79b1299c60f41a6351c5c5487efc285fa"/>
 		<rom name="Steelwood - Private Eye (Japan) (Track 3).bin" size="184081632" crc="7db6544d" md5="7f5a1b3ef961389168efa90a37661543" sha1="2b34b9d8929acb77d7965d92f1430a1c090e3f3a"/>
@@ -137,7 +152,8 @@
 	</game>
 	<game name="Steelwood - Private Eye II (Japan)" id="103992">
 		<category>Games</category>
-		<description>Steelwood - Private Eye II (Japan)</description>
+		<description>Steelwood: Private Eye II (Japan)</description>
+		<serial>PX-006</serial>
 		<rom name="Steelwood - Private Eye II (Japan) (Track 1).bin" size="1373568" crc="8d91dd3d" md5="b95f99981fdbbca4da6c78556724fb16" sha1="05f0c496a5a3d823d2d4638418dd913c7a3cd3eb"/>
 		<rom name="Steelwood - Private Eye II (Japan) (Track 2).bin" size="279043632" crc="b01d483c" md5="7f0817b4971899fc8ec04be079bea5bb" sha1="6ee6ac88717d6b314bfb65c54b2bcecaa0f491c9"/>
 		<rom name="Steelwood - Private Eye II (Japan) (Track 3).bin" size="181301568" crc="a857ecb9" md5="af8d3e41eea73350abe28b1b5863d160" sha1="be747a97b96aa93167d8ce1d32d238cd5e851282"/>
@@ -145,7 +161,8 @@
 	</game>
 	<game name="True Heart - Pajo no Sutekina Ichinichi (Japan)" id="84633">
 		<category>Games</category>
-		<description>True Heart - Pajo no Sutekina Ichinichi (Japan)</description>
+		<description>True Heart: Pajo no Sutekina Ichinichi (Japan)</description>
+		<serial>FZ-JJ1YP0803</serial>
 		<rom name="True Heart - Pajo no Sutekina Ichinichi (Japan) (Track 01).bin" size="710304" crc="ee312c06" md5="1d9b8ef295f5d3772e32ca8642a15d53" sha1="9a8635cd01beee5151f70eb25d0b4bc35ce118d8"/>
 		<rom name="True Heart - Pajo no Sutekina Ichinichi (Japan) (Track 02).bin" size="57795696" crc="f7b4724a" md5="29d53a37dd26fbe5b135a902b2e8f938" sha1="326eddb162c1ba971b0c176b83766f2c800d4816"/>
 		<rom name="True Heart - Pajo no Sutekina Ichinichi (Japan) (Track 03).bin" size="20746992" crc="5d33d7b2" md5="8ec8a3ac42353c1e24d1d50c8760fa82" sha1="a000b7bbc57b4e9f2905663105e3dcab907e99af"/>
@@ -168,7 +185,8 @@
 	</game>
 	<game name="Yokoyama Chisa - Australia Nikki - Tenshi ga Kureta Kyuujitsu (Japan)" id="119615">
 		<category>Games</category>
-		<description>Yokoyama Chisa - Australia Nikki - Tenshi ga Kureta Kyuujitsu (Japan)</description>
+		<description>Yokoyama Chisa: Australia Nikki: Tenshi ga Kureta Kyuujitsu (Japan)</description>
+		<serial>BCRM-0045</serial>
 		<rom name="Yokoyama Chisa - Australia Nikki - Tenshi ga Kureta Kyuujitsu (Japan) (Track 1).bin" size="710304" crc="88479ac3" md5="58c14cfda62068fb87060ee560892076" sha1="fcd5faad85d1740278ea69e34b56bd016afbecd4"/>
 		<rom name="Yokoyama Chisa - Australia Nikki - Tenshi ga Kureta Kyuujitsu (Japan) (Track 2).bin" size="356730192" crc="66af961f" md5="8842ac69f34f96244794b2d2429d9cd4" sha1="ba02296179509e32f3517b6f63796392f76fd88d"/>
 		<rom name="Yokoyama Chisa - Australia Nikki - Tenshi ga Kureta Kyuujitsu (Japan) (Track 3).bin" size="80699472" crc="30697f2a" md5="233213e8c0614b3ebc1bb3c1aba57818" sha1="42a625f1ac9e5b4d8903cac658ecf79833795ea1"/>
@@ -176,7 +194,8 @@
 	</game>
 	<game name="Yuusha no Yabou - Hero's Conspiracy (Japan)" id="103392">
 		<category>Games</category>
-		<description>Yuusha no Yabou - Hero's Conspiracy (Japan)</description>
+		<description>Yuusha no Yabou: Hero's Conspiracy (Japan)</description>
+		<serial>PX-008</serial>
 		<rom name="Yuusha no Yabou - Hero's Conspiracy (Japan) (Track 1).bin" size="1100736" crc="c12797cb" md5="6dbab03720df1101a758fc100e2760a7" sha1="9d7218e38496e1c0956cae6932ac6916ede0fa11"/>
 		<rom name="Yuusha no Yabou - Hero's Conspiracy (Japan) (Track 2).bin" size="209076336" crc="cb5e0895" md5="a856f575bb9855e78cde175facd26d3f" sha1="45a5c99c919a62b318f79294b4b9f273f9e9ca73"/>
 		<rom name="Yuusha no Yabou - Hero's Conspiracy (Japan) (Track 3).bin" size="105814128" crc="bf7f91d9" md5="c734331db0cb116de4b31f05faedf58b" sha1="778c4902a2d5e898a23ce07f86f6c18377b34ea6"/>

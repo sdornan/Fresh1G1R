@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC Engine CD &amp; TurboGrafx CD (Retool)</name>
-		<description>NEC - PC Engine CD &amp; TurboGrafx CD (60) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-13 18-08-53) (Retool)</description>
-		<version>2026-08-13 18-08-53</version>
-		<date>2026-10-13 09-27-10</date>
+		<description>NEC - PC Engine CD &amp; TurboGrafx CD (60) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-14 05-51-53) (Retool)</description>
+		<version>2026-10-14 05-51-53</version>
+		<date>2026-10-14 07-35-24</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,12 +14,14 @@
 	<game name="Addams Family, The (USA)" id="60305">
 		<category>Games</category>
 		<description>Addams Family, The (USA)</description>
+		<serial>TGXCD1019</serial>
 		<rom name="Addams Family, The (USA).bin" size="13507536" crc="9da6c5b1" md5="679ade557fae0eea511114eb69492f58" sha1="298a969adb2fabfde0d85fb4abb651182c102cb7"/>
 		<rom name="Addams Family, The (USA).cue" size="113" crc="54a39bde" md5="3575b9f008b5efb53ae27fa8dd261605" sha1="435eee20a8f26e3df7fad51cdabcc5747f8270f0"/>
 	</game>
 	<game name="Baby Jo - The Super Hero (Japan)" id="68039">
 		<category>Games</category>
-		<description>Baby Jo - The Super Hero (Japan)</description>
+		<description>Baby Jo: The Super Hero (Japan)</description>
+		<serial>MWCD2004</serial>
 		<rom name="Baby Jo - The Super Hero (Japan) (Track 1).bin" size="8090880" crc="81d96e54" md5="3c465815f77d7cf5066862609e75e397" sha1="a28a22d4e31b74623ec332e0165a88c21db594d5"/>
 		<rom name="Baby Jo - The Super Hero (Japan) (Track 2).bin" size="2074464" crc="6239df4a" md5="034e8cf3ecf47f5887a92f02381d8622" sha1="3fa76696c23012e88683d4d6598a48057900dc4c"/>
 		<rom name="Baby Jo - The Super Hero (Japan) (Track 3).bin" size="154575792" crc="71ab658c" md5="e8601b7cd44b6d9189d5230ff5b86a93" sha1="20465fbd44a05d5937d255cc06ad33653249462d"/>
@@ -30,6 +32,7 @@
 	<game name="Beyond Shadowgate (USA)" id="61471">
 		<category>Games</category>
 		<description>Beyond Shadowgate (USA)</description>
+		<serial>TGXCD1048</serial>
 		<rom name="Beyond Shadowgate (USA) (Track 01).bin" size="2573088" crc="8b250736" md5="c66fd0d378c0c3b0f8a342f4a2150330" sha1="f0513a548aeb57804d390169296daa9a4834a924"/>
 		<rom name="Beyond Shadowgate (USA) (Track 02).bin" size="80857056" crc="e50fd945" md5="339e62f107dcea811356fb5b567d4cca" sha1="adba598b83038e38de4e598bb3fd78619e1e4e6b"/>
 		<rom name="Beyond Shadowgate (USA) (Track 03).bin" size="14382480" crc="62c64394" md5="cdcb4c35b8bbfd4b57681bbd23226e94" sha1="273549470c2d56414bca1cac292aee7a9cdf8442"/>
@@ -70,7 +73,8 @@
 	</game>
 	<game name="Bonk III - Bonk's Big Adventure (USA)" id="61477">
 		<category>Games</category>
-		<description>Bonk III - Bonk's Big Adventure (USA)</description>
+		<description>Bonk III: Bonk's Big Adventure (USA)</description>
+		<serial>TGXCD1052</serial>
 		<rom name="Bonk III - Bonk's Big Adventure (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Bonk III - Bonk's Big Adventure (USA) (Track 02).bin" size="16162944" crc="1279b4b5" md5="326e2f138613370ac3c69e6da26f5c32" sha1="f729b36152d9ed294cc984611865c471f6d028b8"/>
 		<rom name="Bonk III - Bonk's Big Adventure (USA) (Track 03).bin" size="21671328" crc="4df1a2fe" md5="ba70f4176455fb9949ef30266e1b40b5" sha1="392964c96ff6105fc4091bc85f299bdc35c03fad"/>
@@ -92,7 +96,8 @@
 	</game>
 	<game name="BuilderLand - The Story of Melba (Japan)" id="2660">
 		<category>Games</category>
-		<description>BuilderLand - The Story of Melba (Japan)</description>
+		<description>BuilderLand: The Story of Melba (Japan)</description>
+		<serial>MWCD2003</serial>
 		<rom name="BuilderLand - The Story of Melba (Japan) (Track 1).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="BuilderLand - The Story of Melba (Japan) (Track 2).bin" size="1921584" crc="f23af196" md5="49d8f6e61a3f9437b0d23149f47e0b70" sha1="596cfacdeb2d4f2d7c64aa87137d240f03e06477"/>
 		<rom name="BuilderLand - The Story of Melba (Japan) (Track 3).bin" size="63793296" crc="4f127c8a" md5="3e8cafc0de1fd3be8d0d8b176e033ce7" sha1="3d167947929b4efcdfbae7570c43a8892ec1d74c"/>
@@ -106,6 +111,7 @@
 	<game name="Buster Bros. (USA)" id="32078">
 		<category>Games</category>
 		<description>Buster Bros. (USA)</description>
+		<serial>TGXCD1031</serial>
 		<rom name="Buster Bros. (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Buster Bros. (USA) (Track 02).bin" size="6143424" crc="035dd9b3" md5="a078c0c9e5cc0536670ce503ca033d25" sha1="49a095b1b013254866be16eef76b83cd47b0878b"/>
 		<rom name="Buster Bros. (USA) (Track 03).bin" size="12232752" crc="c061138e" md5="23365b8443d0d3f6ab5dac74ed02d9a9" sha1="de5b0610935bbefc301123de247a950a595fd95f"/>
@@ -135,6 +141,7 @@
 	<game name="Camp California (USA)" id="61483">
 		<category>Games</category>
 		<description>Camp California (USA)</description>
+		<serial>TGXCD1013</serial>
 		<rom name="Camp California (USA) (Track 01).bin" size="2573088" crc="8b250736" md5="c66fd0d378c0c3b0f8a342f4a2150330" sha1="f0513a548aeb57804d390169296daa9a4834a924"/>
 		<rom name="Camp California (USA) (Track 02).bin" size="12037536" crc="c058f5a3" md5="422fc48744eb169976e94b6341328348" sha1="ba26f4bc72874864de96259d9f20488bc1a251a5"/>
 		<rom name="Camp California (USA) (Track 03).bin" size="4148928" crc="86b291c5" md5="325ce31b3b69ffb161764f95af3c6945" sha1="c3f4432dce1aca5139fdc8973f8fedc2e49f9eb2"/>
@@ -196,6 +203,7 @@
 	<game name="Cosmic Fantasy 2 (USA)" id="59279">
 		<category>Games</category>
 		<description>Cosmic Fantasy 2 (USA)</description>
+		<serial>WTG990301</serial>
 		<rom name="Cosmic Fantasy 2 (USA) (Track 01).bin" size="7914480" crc="b84be20d" md5="721f21767788eb1a81705ebf2ad27398" sha1="94f3bdfb229a736a7897e4080e3caf069e576d2b"/>
 		<rom name="Cosmic Fantasy 2 (USA) (Track 02).bin" size="8199072" crc="8547a932" md5="80b96f99508df4b6f271a36180e3abce" sha1="c7b266e513a186160b5bb74db1aac602e6fd4791"/>
 		<rom name="Cosmic Fantasy 2 (USA) (Track 03).bin" size="111541248" crc="bf7cb983" md5="e6fb551522f3947daeb11ba84ea89f9d" sha1="7979f3b2684bab7151d7d1612dcfc1942c95f970"/>
@@ -299,6 +307,8 @@
 	<game name="Daisenpuu Custom (Japan)" id="68049">
 		<category>Games</category>
 		<description>Daisenpuu Custom (Japan)</description>
+		<serial>NAPR-1019</serial>
+		<version>Rev 2</version>
 		<rom name="Daisenpuu Custom (Japan) (Track 1).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Daisenpuu Custom (Japan) (Track 2).bin" size="2022720" crc="ae4ce5cf" md5="7504141881960216da04a7c161262cf8" sha1="6c213a6e276709d085e109d5a07b55e793d6f5df"/>
 		<rom name="Daisenpuu Custom (Japan) (Track 3).bin" size="79038960" crc="0b42dd8b" md5="5480940d0cec03b3a0751b2004463756" sha1="3fa124fb6b53a9b3a7676023c1a875536e96edcd"/>
@@ -312,7 +322,8 @@
 	</game>
 	<game name="Dragon Slayer - The Legend of Heroes (USA)" id="31684">
 		<category>Games</category>
-		<description>Dragon Slayer - The Legend of Heroes (USA)</description>
+		<description>Dragon Slayer: The Legend of Heroes (USA)</description>
+		<serial>TGXCD1029</serial>
 		<rom name="Dragon Slayer - The Legend of Heroes (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Dragon Slayer - The Legend of Heroes (USA) (Track 02).bin" size="24218544" crc="b0020b64" md5="cb5af40867c7071fd9ee7638191c6299" sha1="56657baa6f14f36a950065dd367be62c3ce97a71"/>
 		<rom name="Dragon Slayer - The Legend of Heroes (USA) (Track 03).bin" size="44932608" crc="87dff05e" md5="39126eba52284d0c49d2ecb9a6fea450" sha1="efd81b148d071e1da72d928e6a3d2b0ecdbb0abb"/>
@@ -340,6 +351,7 @@
 	<game name="Dungeon Explorer II (USA)" id="31793">
 		<category>Games</category>
 		<description>Dungeon Explorer II (USA)</description>
+		<serial>TGXCD1034</serial>
 		<rom name="Dungeon Explorer II (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Dungeon Explorer II (USA) (Track 02).bin" size="40708416" crc="fc6e5787" md5="69d0d7bc44946dcb8c591999c6208aac" sha1="6cf167e319ee7337311ee5135b1edb3a15d4e97d"/>
 		<rom name="Dungeon Explorer II (USA) (Track 03).bin" size="12792528" crc="167055d6" md5="8eb7a8a93078edcbdb05941809e27278" sha1="ab876fcb2170c603ba2d513ec09ec642a0a05d69"/>
@@ -378,7 +390,8 @@
 	</game>
 	<game name="Dungeon Master - Theron's Quest (USA) (RE)" id="114285">
 		<category>Games</category>
-		<description>Dungeon Master - Theron's Quest (USA) (RE)</description>
+		<description>Dungeon Master: Theron's Quest (USA) (RE)</description>
+		<serial>TGXCD1041</serial>
 		<rom name="Dungeon Master - Theron's Quest (USA) (RE) (Track 01).bin" size="7077168" crc="e84baae9" md5="ce7570578f3d4dd611996b681471a8b2" sha1="cea5135e07ffde45628028ebece5261ce01da965"/>
 		<rom name="Dungeon Master - Theron's Quest (USA) (RE) (Track 02).bin" size="8104992" crc="f0d5f37e" md5="f23601102138f87c33025877767ebf76" sha1="66afcd22fa26995e65e3bce2f9b1bc1eb405f6ee"/>
 		<rom name="Dungeon Master - Theron's Quest (USA) (RE) (Track 03).bin" size="30484272" crc="1e2d951c" md5="2628e5d2cf63714dbce678334152de53" sha1="514049cbaa3f07f6e57bb39fd25665c96093c1b2"/>
@@ -403,6 +416,7 @@
 	<game name="Dynastic Hero, The (USA)" id="61582">
 		<category>Games</category>
 		<description>Dynastic Hero, The (USA)</description>
+		<serial>TGXCD1053</serial>
 		<rom name="Dynastic Hero, The (USA) (Track 01).bin" size="7916832" crc="ecf8b16b" md5="e25cf5e45442703396a239611ea901be" sha1="9a8ba8d225d9575ab09b8a612cb86164c4902cac"/>
 		<rom name="Dynastic Hero, The (USA) (Track 02).bin" size="10536960" crc="f80b5080" md5="ce6b03fbcd0b1630f78cdb6057735669" sha1="3159d603ec5b86d8f6aed1b053a908faa1a4778d"/>
 		<rom name="Dynastic Hero, The (USA) (Track 03).bin" size="21835968" crc="26387188" md5="2706bfac2bd418f0db1c289ca02baf0c" sha1="bf6013b5464aef83267c588ae47b04630305775a"/>
@@ -436,6 +450,7 @@
 	<game name="Exile (USA)" id="59263">
 		<category>Games</category>
 		<description>Exile (USA)</description>
+		<serial>WTG990101</serial>
 		<rom name="Exile (USA) (Track 01).bin" size="5670672" crc="a1e88475" md5="627e1fbb4d81a81600c2efc56ae18246" sha1="8acdfda6e27b661c9d94a616272b8d18d8de5b78"/>
 		<rom name="Exile (USA) (Track 02).bin" size="13959120" crc="c2a350d8" md5="7515938fe5ae028f93c2e0f33913c960" sha1="d2b16dc62c76e5ffe3a30b220c6cc3d56d69d850"/>
 		<rom name="Exile (USA) (Track 03).bin" size="2516640" crc="98973578" md5="ac8610f87b22cbd1ccb80e271417a425" sha1="3b67f8ee6c4c8cec88bf9309928766dddeea7841"/>
@@ -478,7 +493,8 @@
 	</game>
 	<game name="Exile - Wicked Phenomenon (USA)" id="57615">
 		<category>Games</category>
-		<description>Exile - Wicked Phenomenon (USA)</description>
+		<description>Exile: Wicked Phenomenon (USA)</description>
+		<serial>WTG990102</serial>
 		<rom name="Exile - Wicked Phenomenon (USA) (Track 01).bin" size="5334336" crc="4e7cb113" md5="39d966de4b9ce01a51a068e5aa940e73" sha1="7b6a06f01eedb07ea9fe1733a03a755b8558a33b"/>
 		<rom name="Exile - Wicked Phenomenon (USA) (Track 02).bin" size="24975888" crc="0326351a" md5="e216cc7f04062c9236a70e8b167ab4b5" sha1="8f8e8077085b75a52ee6484305cd3cb3d75f1994"/>
 		<rom name="Exile - Wicked Phenomenon (USA) (Track 03).bin" size="4708704" crc="0174c34f" md5="cd21b36ae2954852e675243d1e5abc85" sha1="571fe8d8f32bb9a214cfdf012eac18296ea849eb"/>
@@ -512,6 +528,7 @@
 	<game name="Faceball (Japan)" id="33515">
 		<category>Games</category>
 		<description>Faceball (Japan)</description>
+		<serial>RHCD-3007</serial>
 		<rom name="Faceball (Japan) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="Faceball (Japan) (Track 02).bin" size="10513440" crc="b7b69490" md5="7d5f6aaf0e7d36b4143bc7d81e64a08f" sha1="ca43b5a4732010062626a1468d0e6dc78876530d"/>
 		<rom name="Faceball (Japan) (Track 03).bin" size="7157136" crc="9b0b9eeb" md5="17277f5e72506ef4f3492800cde16545" sha1="166c4434dd51919807c28e85804f9d5f3ea82378"/>
@@ -532,7 +549,8 @@
 	</game>
 	<game name="Fantastic Night Dreams - Cotton (USA)" id="32080">
 		<category>Games</category>
-		<description>Fantastic Night Dreams - Cotton (USA)</description>
+		<description>Fantastic Night Dreams: Cotton (USA)</description>
+		<serial>TGXCD1038</serial>
 		<rom name="Fantastic Night Dreams - Cotton (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Fantastic Night Dreams - Cotton (USA) (Track 02).bin" size="5642448" crc="4572910c" md5="ad1a8daa0aff0cd9130f719d99767b47" sha1="8e7de2506de6dd7fc6ed322e0c47d4c4c5663d15"/>
 		<rom name="Fantastic Night Dreams - Cotton (USA) (Track 03).bin" size="5955264" crc="9afce46d" md5="5294c2c9755492fa6d2f5c0d1e52c837" sha1="a4e105e2f631349438f24ad8acc78b2eeb1598a1"/>
@@ -565,6 +583,7 @@
 	<game name="Fighting Street (USA)" id="60598">
 		<category>Games</category>
 		<description>Fighting Street (USA)</description>
+		<serial>TGXCD1001</serial>
 		<rom name="Fighting Street (USA) (Track 01).bin" size="7914480" crc="17623548" md5="77232c745e40cc155ad72c1b79780986" sha1="e1baaf01eee215def8bd6f6aa080e3a41ffc74f4"/>
 		<rom name="Fighting Street (USA) (Track 02).bin" size="18733680" crc="cb63c4f7" md5="598e9a4eb7dd47e007047ddbca599d67" sha1="bb44132252e2e606ae273b2856386066156d5415"/>
 		<rom name="Fighting Street (USA) (Track 03).bin" size="23480016" crc="63ab3006" md5="5c07b4c2456ee11e7ab948fb13a41bf2" sha1="2d66f3b3399ef299242e456b4e9ae4dc9006d06d"/>
@@ -596,6 +615,7 @@
 	<game name="Final Zone II (USA)" id="57887">
 		<category>Games</category>
 		<description>Final Zone II (USA)</description>
+		<serial>TGXCD1008</serial>
 		<rom name="Final Zone II (USA) (Track 01).bin" size="7914480" crc="1a033b01" md5="82674d5f5332e9c537b969de7ee03e35" sha1="347f37341c681f4430ff2420a080c0aac60411f3"/>
 		<rom name="Final Zone II (USA) (Track 02).bin" size="12293904" crc="5a08092a" md5="07ddcfb1f1684151b1bace66ac09c9e7" sha1="aaf9c4d77337032c3f307f682d98f0da34907f31"/>
 		<rom name="Final Zone II (USA) (Track 03).bin" size="3963120" crc="90bf9670" md5="8be0736bbd8d9d200febb789d3f60638" sha1="9a5d24be920e18f7b8c1daddfb85b56b88628e6f"/>
@@ -656,6 +676,7 @@
 	<game name="Forgotten Worlds (USA) (En,Ja)" id="61484">
 		<category>Games</category>
 		<description>Forgotten Worlds (USA) (En,Ja)</description>
+		<serial>TGXCD1030</serial>
 		<rom name="Forgotten Worlds (USA) (En,Ja) (Track 01).bin" size="7077168" crc="e84baae9" md5="ce7570578f3d4dd611996b681471a8b2" sha1="cea5135e07ffde45628028ebece5261ce01da965"/>
 		<rom name="Forgotten Worlds (USA) (En,Ja) (Track 02).bin" size="8822352" crc="745c3995" md5="ca9f3798f5436d8304f35c566d01e306" sha1="5f74892cdbc5ccf423eaaa31eb10824454b296a1"/>
 		<rom name="Forgotten Worlds (USA) (En,Ja) (Track 03).bin" size="34764912" crc="1c382d08" md5="7e0e41398e9a3fdbac69e4801b1854a2" sha1="63cc805a70ddfc44fe93a1312edfe6b1ca6b8e6a"/>
@@ -686,6 +707,7 @@
 	<game name="Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA)" id="32089">
 		<category>Games</category>
 		<description>Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA)</description>
+		<serial>HCD2008T</serial>
 		<rom name="Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (Track 01).bin" size="7916832" crc="ecf8b16b" md5="e25cf5e45442703396a239611ea901be" sha1="9a8ba8d225d9575ab09b8a612cb86164c4902cac"/>
 		<rom name="Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (Track 02).bin" size="3970176" crc="45ea5145" md5="121be2396d88457aa2cee38a82a2874d" sha1="6d9b8e160ceea0a64a9cb78767a2656aee69284f"/>
 		<rom name="Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (Track 03).bin" size="8269632" crc="e49facb9" md5="7b90d729c0caeb87c8fc213450a9c391" sha1="e8800b0d82d5d6e212ab8d1f6210935ed498f547"/>
@@ -714,6 +736,7 @@
 	<game name="Godzilla (USA)" id="61485">
 		<category>Games</category>
 		<description>Godzilla (USA)</description>
+		<serial>TGXCD1051</serial>
 		<rom name="Godzilla (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Godzilla (USA) (Track 02).bin" size="20154288" crc="705035fb" md5="4064c180dace25101a559443f5b9baf8" sha1="50c95ae0b67f29157c0816621a479616326d0e23"/>
 		<rom name="Godzilla (USA) (Track 03).bin" size="11303712" crc="4a828843" md5="916dcd2381eb9507e8d8bdcce55bc726" sha1="c0fd94ac619d53637c79ddb40c2e40e96f8f52ff"/>
@@ -743,6 +766,7 @@
 	<game name="It Came from the Desert (USA)" id="61486">
 		<category>Games</category>
 		<description>It Came from the Desert (USA)</description>
+		<serial>TGXCD1010</serial>
 		<rom name="It Came from the Desert (USA) (Track 01).bin" size="406423248" crc="00d1894b" md5="b50cac60b6b1b8bfbc607c83e29b2b44" sha1="da4e406ea89d521286e455aed386319a2c5202ae"/>
 		<rom name="It Came from the Desert (USA) (Track 02).bin" size="7498176" crc="928a810f" md5="0287c686af2384d497385050ab1f0575" sha1="ce34fd0eaffba390d1e35eee865d5223ae93b297"/>
 		<rom name="It Came from the Desert (USA) (Track 03).bin" size="11553024" crc="93d93a24" md5="5db650d7a5aaa6b052b6b3855960af86" sha1="7d9e7cfce48b0a47429d583e05affee41f7dbbfb"/>
@@ -774,6 +798,7 @@
 	<game name="J. B. Harold Murder Club (USA) (En,Ja)" id="61488">
 		<category>Games</category>
 		<description>J. B. Harold Murder Club (USA) (En,Ja)</description>
+		<serial>TGXCD1012</serial>
 		<rom name="J. B. Harold Murder Club (USA) (En,Ja) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="J. B. Harold Murder Club (USA) (En,Ja) (Track 02).bin" size="160509888" crc="6de97bf9" md5="5f3f22c3416e529ff7b3b7c5d5e001b9" sha1="b0de3c0f10ca00ab4288641dbb9b4aca960b526b"/>
 		<rom name="J. B. Harold Murder Club (USA) (En,Ja) (Track 03).bin" size="36319584" crc="512b68cd" md5="5d50bb462cbc1debe066db74cf563dce" sha1="9be80241f5d495576d11567b89031756af2eae78"/>
@@ -790,6 +815,7 @@
 	<game name="Jack Nicklaus Turbo Golf (USA)" id="61489">
 		<category>Games</category>
 		<description>Jack Nicklaus Turbo Golf (USA)</description>
+		<serial>ATGXCDJTTC</serial>
 		<rom name="Jack Nicklaus Turbo Golf (USA) (Track 01).bin" size="7914480" crc="17623548" md5="77232c745e40cc155ad72c1b79780986" sha1="e1baaf01eee215def8bd6f6aa080e3a41ffc74f4"/>
 		<rom name="Jack Nicklaus Turbo Golf (USA) (Track 02).bin" size="22946112" crc="c9cdcb10" md5="b30c100096e78328c3ef80c06d794b53" sha1="5f59a0080a26f35c25ac8de25ebf22c83dc75406"/>
 		<rom name="Jack Nicklaus Turbo Golf (USA) (Track 03).bin" size="11005008" crc="7df2dc3e" md5="0a08889b2cff35740f982bfca0abd34c" sha1="dc58e79d38cb85bb54e3c15a9e03e3744cf24428"/>
@@ -805,7 +831,8 @@
 	</game>
 	<game name="Jim Power in Mutant Planet (Japan)" id="52110">
 		<category>Games</category>
-		<description>Jim Power in Mutant Planet (Japan)</description>
+		<description>Jim Power in "Mutant Planet" (Japan)</description>
+		<serial>MWCD2006</serial>
 		<rom name="Jim Power in Mutant Planet (Japan) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="Jim Power in Mutant Planet (Japan) (Track 02).bin" size="4976832" crc="6b597ee5" md5="61696f99c8110b31c1e0089a6ea1fa43" sha1="03a1ffc6a48aa26650157701c9b36cef9bacd245"/>
 		<rom name="Jim Power in Mutant Planet (Japan) (Track 03).bin" size="48244224" crc="8cd52de3" md5="8188cc4bfa8ba313cbc5e60abe915a76" sha1="e7825188054864efd3bc3da22f59d5a42676a9c1"/>
@@ -823,6 +850,7 @@
 	<game name="John Madden Duo CD Football (USA) (RE)" id="61490">
 		<category>Games</category>
 		<description>John Madden Duo CD Football (USA) (RE)</description>
+		<serial>TGXCD1045</serial>
 		<rom name="John Madden Duo CD Football (USA) (RE) (Track 01).bin" size="7914480" crc="9fc5a9d7" md5="7edabc9f9a913b0059fda54ed32514d2" sha1="83c976e1281e20350a1f6dcf8dadc800d0d3785f"/>
 		<rom name="John Madden Duo CD Football (USA) (RE) (Track 02).bin" size="58896432" crc="29aee6d5" md5="d9157853b67d2622db1cb0da676d208a" sha1="7cd3c9cc369bf916c0a71f5c6b0de7cbecfc8a4f"/>
 		<rom name="John Madden Duo CD Football (USA) (RE) (Track 03).bin" size="11221392" crc="7778e769" md5="3140dcab20cc3cf6087d69ced59fcd7f" sha1="79f90cae383ebc924a327e6790fa1777820250ec"/>
@@ -840,6 +868,7 @@
 	<game name="Last Alert (USA)" id="61491">
 		<category>Games</category>
 		<description>Last Alert (USA)</description>
+		<serial>TGXCD1007</serial>
 		<rom name="Last Alert (USA) (Track 01).bin" size="7916832" crc="808d9f0d" md5="d86aa8050da37330834a332f92555366" sha1="e7378abbc613e76c9470d33f1f2affdf0b3b5b99"/>
 		<rom name="Last Alert (USA) (Track 02).bin" size="8674176" crc="250e5fdc" md5="538f87981e67d49af23526620dd77098" sha1="b233ab70f6bf7763ef4d77403d05e97d52fe72db"/>
 		<rom name="Last Alert (USA) (Track 03).bin" size="31140480" crc="8ada6f5d" md5="e9c4e275d7156e12d7cdcd5230a424bc" sha1="d670bee8fe5a362cbc203d904910ccde9d410868"/>
@@ -905,6 +934,7 @@
 	<game name="Legion (Japan) (Rev 4)" id="43717">
 		<category>Games</category>
 		<description>Legion (Japan) (Rev 4)</description>
+		<serial>TJCD0010</serial>
 		<rom name="Legion (Japan) (Rev 4) (Track 01).bin" size="7914480" crc="7a86ed6c" md5="210844032c0a28b5f638af7e3dcde87b" sha1="34b3e5396ff524e5f38f080bfdb357ad4f9ccd7d"/>
 		<rom name="Legion (Japan) (Rev 4) (Track 02).bin" size="2742432" crc="809da47c" md5="44dee4b8340c949847289c78bcf1a88f" sha1="ef7cb00c55dd7d57b8cc9c4a6cee27d6acfa0015"/>
 		<rom name="Legion (Japan) (Rev 4) (Track 03).bin" size="4793376" crc="375b19b8" md5="602ac21c055781184e1d48931d8fdc54" sha1="cfb2c9cac663080c9381ddc7c6ab34cc6245a561"/>
@@ -931,6 +961,8 @@
 	<game name="Lemmings (Japan)" id="68059">
 		<category>Games</category>
 		<description>Lemmings (Japan)</description>
+		<serial>SSCD2003</serial>
+		<version>Rev 4</version>
 		<rom name="Lemmings (Japan) (Track 01).bin" size="7916832" crc="be128779" md5="94b35e830f55eb6ec03222eb081b6763" sha1="373442f6e448f60db2e0093b31e9c62da9bab999"/>
 		<rom name="Lemmings (Japan) (Track 02).bin" size="13547520" crc="f4e4a4f1" md5="1725251ac38dafa9ca073d819b82814e" sha1="67836e556f1961a03c8e6b2d0cd6b42aef4e687e"/>
 		<rom name="Lemmings (Japan) (Track 03).bin" size="16736832" crc="82c33c34" md5="d43c7178dc06e375dbf82c4138ee78db" sha1="4d3c4a56443775981b7899d59204b44573beecb2"/>
@@ -961,6 +993,7 @@
 	<game name="Loom (USA)" id="61492">
 		<category>Games</category>
 		<description>Loom (USA)</description>
+		<serial>TGXCD1017</serial>
 		<rom name="Loom (USA) (Track 01).bin" size="7077168" crc="e84baae9" md5="ce7570578f3d4dd611996b681471a8b2" sha1="cea5135e07ffde45628028ebece5261ce01da965"/>
 		<rom name="Loom (USA) (Track 02).bin" size="8027376" crc="99b694c8" md5="f5174c5aa8dceccbdc16322e0d2ac6cc" sha1="7bc61768be222219d7d65d768e536896ccb1b446"/>
 		<rom name="Loom (USA) (Track 03).bin" size="1060752" crc="6ca7e443" md5="97da85585f359c86eeedfeaf0ca94c88" sha1="a1dee477c6dd76babf66566474d95da320d733e6"/>
@@ -989,6 +1022,7 @@
 	<game name="Lords of Thunder (USA)" id="7372">
 		<category>Games</category>
 		<description>Lords of Thunder (USA)</description>
+		<serial>TGXCD 1033</serial>
 		<rom name="Lords of Thunder (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Lords of Thunder (USA) (Track 02).bin" size="9320976" crc="73cd08ea" md5="b539880fe8e0bc5d3100e842395b415e" sha1="3bca72e6bca5a2c36268d2d66c54143860d208e5"/>
 		<rom name="Lords of Thunder (USA) (Track 03).bin" size="16642752" crc="39f2a7af" md5="d9111f921f76efdfcd9e6ab136da97b3" sha1="f59f571803382e600e93a6e5d0dab955197bc494"/>
@@ -1017,6 +1051,7 @@
 	<game name="Lords of the Rising Sun (USA)" id="61493">
 		<category>Games</category>
 		<description>Lords of the Rising Sun (USA)</description>
+		<serial>TGXCD1014</serial>
 		<rom name="Lords of the Rising Sun (USA) (Track 01).bin" size="7914480" crc="17623548" md5="77232c745e40cc155ad72c1b79780986" sha1="e1baaf01eee215def8bd6f6aa080e3a41ffc74f4"/>
 		<rom name="Lords of the Rising Sun (USA) (Track 02).bin" size="20408304" crc="5d914fd9" md5="d987210ad61977bb5974d7f8950a5e52" sha1="503a6352b7695243c9133f5869493fe669a0fba3"/>
 		<rom name="Lords of the Rising Sun (USA) (Track 03).bin" size="16344048" crc="eee47186" md5="6d3966a08faa21a6480f3ce9b540baf0" sha1="5c6b38a8d134874cac34d83fb2b6f3ec95fdb968"/>
@@ -1063,7 +1098,8 @@
 	</game>
 	<game name="Might and Magic III - Isles of Terra (USA)" id="61526">
 		<category>Games</category>
-		<description>Might and Magic III - Isles of Terra (USA)</description>
+		<description>Might and Magic III: Isles of Terra (USA)</description>
+		<serial>TGXCD1047</serial>
 		<rom name="Might and Magic III - Isles of Terra (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Might and Magic III - Isles of Terra (USA) (Track 02).bin" size="29284752" crc="6fcac619" md5="c7e2810276bd7a5f4d97369fa6bba3c7" sha1="b55124c3772df9e4bf2ce8bbd41d147102196551"/>
 		<rom name="Might and Magic III - Isles of Terra (USA) (Track 03).bin" size="13215888" crc="b8da66c8" md5="2d4910a7fad0c566a878efba3033b28f" sha1="56425d57908612f3b1072acd9ab5f6a4c50b5e82"/>
@@ -1085,6 +1121,7 @@
 	<game name="Minesweeper (Japan)" id="36879">
 		<category>Games</category>
 		<description>Minesweeper (Japan)</description>
+		<serial>PVCD-2005</serial>
 		<rom name="Minesweeper (Japan) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="Minesweeper (Japan) (Track 02).bin" size="5541312" crc="c366e383" md5="73b982bf05548e25134b013750f9e5bd" sha1="020537dfa3a1104bb0f914ffa82de3e6297dc8b8"/>
 		<rom name="Minesweeper (Japan) (Track 03).bin" size="6136368" crc="a564972a" md5="090f0686ee7ba8f6a14d9f77485f08e3" sha1="979f729afa90f748bf93c3fbb431772283cb6a54"/>
@@ -1114,6 +1151,7 @@
 	<game name="Monster Lair (USA)" id="60193">
 		<category>Games</category>
 		<description>Monster Lair (USA)</description>
+		<serial>TGXCD1003</serial>
 		<rom name="Monster Lair (USA) (Track 01).bin" size="7914480" crc="17623548" md5="77232c745e40cc155ad72c1b79780986" sha1="e1baaf01eee215def8bd6f6aa080e3a41ffc74f4"/>
 		<rom name="Monster Lair (USA) (Track 02).bin" size="20163696" crc="5e46ab78" md5="3f3dfb767630c469fe7747ceef1e9797" sha1="456b64de05699e3431d14e76a71cdb9ea7cbad4c"/>
 		<rom name="Monster Lair (USA) (Track 03).bin" size="1742832" crc="35aa9154" md5="da755e6735f335bdab4d81b1757b0575" sha1="21f407f7d2d68ebc9469f1d79d902ce017eeb0f6"/>
@@ -1135,6 +1173,7 @@
 	<game name="Prince of Persia (USA)" id="61533">
 		<category>Games</category>
 		<description>Prince of Persia (USA)</description>
+		<serial>TGXCD1027</serial>
 		<rom name="Prince of Persia (USA) (Track 01).bin" size="7077168" crc="e84baae9" md5="ce7570578f3d4dd611996b681471a8b2" sha1="cea5135e07ffde45628028ebece5261ce01da965"/>
 		<rom name="Prince of Persia (USA) (Track 02).bin" size="6919584" crc="69f569df" md5="95d25c0fd9850ed0673e6e207b987ba3" sha1="8c8e590c6d04ae87bb309de268e113537299069a"/>
 		<rom name="Prince of Persia (USA) (Track 03).bin" size="59362128" crc="9c1ae311" md5="9599df03bdf7aaf1b6da6622107f60cd" sha1="2f471ec1fea8563f4da3cb12ea36cce3be44a777"/>
@@ -1159,6 +1198,7 @@
 	<game name="Rally Championship (Japan) (FABT)" id="37171">
 		<category>Games</category>
 		<description>Rally Championship (Japan) (FABT)</description>
+		<serial>IGCD3006</serial>
 		<rom name="Rally Championship (Japan) (FABT) (Track 01).bin" size="7914480" crc="c81674fe" md5="cfaff9201b5bce5dfc3969e838aae3c1" sha1="c56d7870114957140153468c999922c7cc459f6c"/>
 		<rom name="Rally Championship (Japan) (FABT) (Track 02).bin" size="6383328" crc="1d33f227" md5="1dacbc25ec8f9ee8277ef270c77a8617" sha1="dabc1ad529c5ed471a96d6abfec55a49d2fbcaab"/>
 		<rom name="Rally Championship (Japan) (FABT) (Track 03).bin" size="37004016" crc="795d43cc" md5="a489939162763ff1c38d6886629eac3a" sha1="e924384325bb1f1a86f9fbbaaa07e56d89603581"/>
@@ -1174,6 +1214,7 @@
 	<game name="Riot Zone (USA)" id="61537">
 		<category>Games</category>
 		<description>Riot Zone (USA)</description>
+		<serial>TGXCD1035</serial>
 		<rom name="Riot Zone (USA) (Track 01).bin" size="7077168" crc="e84baae9" md5="ce7570578f3d4dd611996b681471a8b2" sha1="cea5135e07ffde45628028ebece5261ce01da965"/>
 		<rom name="Riot Zone (USA) (Track 02).bin" size="5557776" crc="70d8d9a3" md5="e9f20283dc33e339badc99a9eb5ea3e1" sha1="64ce2387e09f49c83236885a47f4df452335e78e"/>
 		<rom name="Riot Zone (USA) (Track 03).bin" size="41724480" crc="647dac5e" md5="d892dac95363dc9cefb9fae1f71f4eff" sha1="303367412c4597109f1bec36554ade16f885b99c"/>
@@ -1203,6 +1244,7 @@
 	<game name="Road Spirits (Japan)" id="10369">
 		<category>Games</category>
 		<description>Road Spirits (Japan)</description>
+		<serial>PVCD-1003</serial>
 		<rom name="Road Spirits (Japan) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="Road Spirits (Japan) (Track 02).bin" size="23317728" crc="0c57a807" md5="3868db35cea705ecdd44f0bed7ea1faa" sha1="a569101b23f47a5b9b252e4f1ef1d0d8235a88bc"/>
 		<rom name="Road Spirits (Japan) (Track 03).bin" size="36662976" crc="c039630f" md5="3d9a0032c73a39a267b6db2e27c10c4f" sha1="a79fcefae92951d7651a1111c096de5e291b6f2b"/>
@@ -1229,6 +1271,7 @@
 	<game name="Ryuuko no Ken (Japan) (En,Ja,Es) (FACT)" id="46502">
 		<category>Games</category>
 		<description>Ryuuko no Ken (Japan) (En,Ja,Es) (FACT)</description>
+		<serial>HCD4061</serial>
 		<rom name="Ryuuko no Ken (Japan) (En,Ja,Es) (FACT) (Track 01).bin" size="7914480" crc="28f6d4c7" md5="5a321d24000bf740d3fc2257a7a26625" sha1="2174a2a24da92a7c83aed9e9603ac75a026f509d"/>
 		<rom name="Ryuuko no Ken (Japan) (En,Ja,Es) (FACT) (Track 02).bin" size="135583392" crc="f50d6126" md5="e00a753dcd64ba5ff72957db4cf01caa" sha1="4e78b06d56280f9a63073086ff834845153d75e4"/>
 		<rom name="Ryuuko no Ken (Japan) (En,Ja,Es) (FACT) (Track 03).bin" size="6703200" crc="1241d90d" md5="2524669941bcf356f4732bfc0a83aeb2" sha1="5b3ca6eeabd42cbb2cac37416443298284fceeab"/>
@@ -1266,6 +1309,7 @@
 	<game name="Shadow of the Beast (USA)" id="61551">
 		<category>Games</category>
 		<description>Shadow of the Beast (USA)</description>
+		<serial>TGXCD1018</serial>
 		<rom name="Shadow of the Beast (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Shadow of the Beast (USA) (Track 02).bin" size="11188464" crc="41d74c5d" md5="1521cbc5fee0448c89a0d681cf9013ca" sha1="6faf1f59b0cb279cae8ee559b4742c2356d0819d"/>
 		<rom name="Shadow of the Beast (USA) (Track 03).bin" size="55878816" crc="80f90949" md5="47860c060cd21beb0da78a434b9c1973" sha1="9ab1f710b84db1cc3ca6ab47727fb9ef505db607"/>
@@ -1281,6 +1325,7 @@
 	<game name="Shape Shifter (USA)" id="61552">
 		<category>Games</category>
 		<description>Shape Shifter (USA)</description>
+		<serial>TGXCD1021</serial>
 		<rom name="Shape Shifter (USA) (Track 01).bin" size="6806688" crc="2a49f11e" md5="f49a0922d189f2c07b169d8600469f85" sha1="5b87a9bad26d4391e7059acce258f48c18e0efef"/>
 		<rom name="Shape Shifter (USA) (Track 02).bin" size="29468208" crc="8f535b5d" md5="d49bdbf4c47d975afc7c0e34c56b430d" sha1="56925741996992d295184958c6c6ad7b4e8a8262"/>
 		<rom name="Shape Shifter (USA) (Track 03).bin" size="16127664" crc="c759f253" md5="25d63869170d183d8bb312ba6a2fd322" sha1="9550b99462c1d867b14458d05733b715e5e3d6b2"/>
@@ -1383,20 +1428,23 @@
 	</game>
 	<game name="Sherlock Holmes - Consulting Detective (USA)" id="61553">
 		<category>Games</category>
-		<description>Sherlock Holmes - Consulting Detective (USA)</description>
+		<description>Sherlock Holmes: Consulting Detective (USA)</description>
+		<serial>TGXCD1011</serial>
 		<rom name="Sherlock Holmes - Consulting Detective (USA).bin" size="686254800" crc="b617632f" md5="17384201fd019eaeec75f0a7a541a344" sha1="43b7c020f03e54b1e9debcd9b1ac43fa2c45f6be"/>
 		<rom name="Sherlock Holmes - Consulting Detective (USA).cue" size="133" crc="369e9b1b" md5="713ce8e5e0d0c45e02a4c4d4b6e04983" sha1="45a98a955d2da4899fbd53ff252055aaecd9d912"/>
 	</game>
 	<game name="Sherlock Holmes - Consulting Detective - Vol. II (USA)" id="61554">
 		<category>Games</category>
-		<description>Sherlock Holmes - Consulting Detective - Vol. II (USA)</description>
+		<description>Sherlock Holmes: Consulting Detective: Vol. II (USA)</description>
+		<serial>TGXCD1039</serial>
 		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Track 1).bin" size="2575440" crc="19b0219d" md5="e2b57641c022f99065888c4b2855471d" sha1="b8acd880bc35cc663b77a4c8fe62a4a7aa146b3f"/>
 		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Track 2).bin" size="701269968" crc="6bd2c196" md5="cef3212279a8df0edf87833546aa04dd" sha1="17a0234590d08f3b5fbea92aa86891a045838cf5"/>
 		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA).cue" size="301" crc="b6dbc0b9" md5="579e3e75f3fdcb0af754d5e49aa037e6" sha1="9c444a5fc7fbd1114fd85648226105dbe29d6fea"/>
 	</game>
 	<game name="SimEarth - The Living Planet (USA)" id="61555">
 		<category>Games</category>
-		<description>SimEarth - The Living Planet (USA)</description>
+		<description>SimEarth: The Living Planet (USA)</description>
+		<serial>TGXCD1036</serial>
 		<rom name="SimEarth - The Living Planet (USA) (Track 01).bin" size="8128512" crc="255d5c66" md5="dacacdc641a8dcd0c0feba33fdbdf32f" sha1="2ca9d460e53eddfe50493cc7b4f66ec089f05356"/>
 		<rom name="SimEarth - The Living Planet (USA) (Track 02).bin" size="10595760" crc="fe85b0d8" md5="90587a1aaa745eb42490000b37821d2a" sha1="4f0d8e852f137ece9b6013b6cee34fb820feebb7"/>
 		<rom name="SimEarth - The Living Planet (USA) (Track 03).bin" size="6350400" crc="584c1560" md5="09e82befa05723c6fa57db69f01cc9aa" sha1="22960d8a7bca41fd2e919ec0f66185cb1c1fd20e"/>
@@ -1437,6 +1485,7 @@
 	<game name="Splash Lake (USA)" id="52108">
 		<category>Games</category>
 		<description>Splash Lake (USA)</description>
+		<serial>TGXCD1025</serial>
 		<rom name="Splash Lake (USA) (Track 01).bin" size="7079520" crc="ab703c96" md5="3487024f3f2c09d4e98dbf3795ef3ea6" sha1="6964cbe112a32f58a8e764d7c45abd011137f34a"/>
 		<rom name="Splash Lake (USA) (Track 02).bin" size="9619680" crc="9f3d7fa5" md5="6b276a3e49066b93d8e5bf0c419e398d" sha1="e09c69ea2beb87807a7096c47b4080f1b017d477"/>
 		<rom name="Splash Lake (USA) (Track 03).bin" size="32648112" crc="c9409b07" md5="3443a0e46ba040187e303f87b9d4430d" sha1="43d18d9ebc3c6a1e4c82f0e1e1f2db0bdcb0ab6a"/>
@@ -1455,7 +1504,8 @@
 	</game>
 	<game name="Super Air Zonk - Rockabilly-Paradise (USA)" id="61580">
 		<category>Games</category>
-		<description>Super Air Zonk - Rockabilly-Paradise (USA)</description>
+		<description>Super Air Zonk: Rockabilly-Paradise (USA)</description>
+		<serial>TGXCD1042</serial>
 		<rom name="Super Air Zonk - Rockabilly-Paradise (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Super Air Zonk - Rockabilly-Paradise (USA) (Track 02).bin" size="6456240" crc="7e1e04c8" md5="61c81810ce20394946d751155695b0a0" sha1="fc6fae87d62a12d1cafbb39912f4107f987104bb"/>
 		<rom name="Super Air Zonk - Rockabilly-Paradise (USA) (Track 03).bin" size="2650704" crc="5648e612" md5="d9016de694af3b669197670628a015d6" sha1="2f3a3f03f9b911ebbd49bb94bcbabec20f01d5bc"/>
@@ -1485,6 +1535,7 @@
 	<game name="Super Darius (Japan)" id="32561">
 		<category>Games</category>
 		<description>Super Darius (Japan)</description>
+		<serial>HACD 0003</serial>
 		<rom name="Super Darius (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Super Darius (Japan) (Track 02).bin" size="17171952" crc="25ad4704" md5="b2f7320fd5f848b5b889b63f7cf24371" sha1="569396fbed7861db55b11124b083c355e22ac6f6"/>
 		<rom name="Super Darius (Japan) (Track 03).bin" size="42216048" crc="1a3cae7c" md5="02928fc6c9cb5129e1a8c7f7724537fc" sha1="310ee1f85bc6742b714c719478272725eae67da1"/>
@@ -1509,6 +1560,8 @@
 	<game name="Super Darius II (Japan)" id="68192">
 		<category>Games</category>
 		<description>Super Darius II (Japan)</description>
+		<serial>NAPR-1031</serial>
+		<version>Rev 1</version>
 		<rom name="Super Darius II (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Super Darius II (Japan) (Track 02).bin" size="13180608" crc="01896d4c" md5="cf8c010dfc60ff923562e1e9df8628de" sha1="7ec282dc2e78e9c174e0414de904c5583380784b"/>
 		<rom name="Super Darius II (Japan) (Track 03).bin" size="42796992" crc="17c3d555" md5="9bd460efaf0b98e4b6d1da3d9f3240cf" sha1="fe57c8dfd68e2bea1379f0a0538ae846eaae8729"/>
@@ -1533,6 +1586,8 @@
 	<game name="Super Raiden (Japan)" id="68193">
 		<category>Games</category>
 		<description>Super Raiden (Japan)</description>
+		<serial>HCD2023</serial>
+		<version>Rev 1</version>
 		<rom name="Super Raiden (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Super Raiden (Japan) (Track 02).bin" size="26758704" crc="2e395404" md5="f5ae1fa0987a648a383bfd2b7d32b11a" sha1="3d61ff3bea1c05e4874553d6d16537ba6d990431"/>
 		<rom name="Super Raiden (Japan) (Track 03).bin" size="37432080" crc="fce6fa0c" md5="21a6e68ba7462cf5de8cc570b1def088" sha1="176f0935cafb073cc69e98246229c494dd04af66"/>
@@ -1553,6 +1608,7 @@
 	<game name="SydMead's TerraForming (USA)" id="61581">
 		<category>Games</category>
 		<description>SydMead's TerraForming (USA)</description>
+		<serial>TGXCD1040</serial>
 		<rom name="SydMead's TerraForming (USA) (Track 01).bin" size="7077168" crc="e84baae9" md5="ce7570578f3d4dd611996b681471a8b2" sha1="cea5135e07ffde45628028ebece5261ce01da965"/>
 		<rom name="SydMead's TerraForming (USA) (Track 02).bin" size="3208128" crc="01898223" md5="fa3a2b8fad6450ddcfd5dad05db8f23e" sha1="af48c053ff06dfcbf8db9f511311e0b52f47c947"/>
 		<rom name="SydMead's TerraForming (USA) (Track 03).bin" size="38382288" crc="36eb08d8" md5="2ed82350fccd0ff72f99e6b066e4083b" sha1="d8e8dfcd113e75c9642a3ed90d37ac7d82890fd5"/>
@@ -1572,6 +1628,7 @@
 	<game name="Sylphia (Japan)" id="52238">
 		<category>Games</category>
 		<description>Sylphia (Japan)</description>
+		<serial>THCD3001</serial>
 		<rom name="Sylphia (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Sylphia (Japan) (Track 02).bin" size="20158992" crc="92038a9a" md5="2f5a69675e80b410cd1682ffc8785b6f" sha1="c801f7685106884b6654f79f41fc237242b6064b"/>
 		<rom name="Sylphia (Japan) (Track 03).bin" size="34024032" crc="c224795b" md5="658f6fd11f2558f89120b318a756950a" sha1="e095364aa810f73abc804d12a2cd488339b338a1"/>
@@ -1595,6 +1652,7 @@
 	<game name="Tecmo World Cup Super Soccer (Japan)" id="37194">
 		<category>Games</category>
 		<description>Tecmo World Cup Super Soccer (Japan)</description>
+		<serial>MRCD2001</serial>
 		<rom name="Tecmo World Cup Super Soccer (Japan) (Track 01).bin" size="8090880" crc="1a1403c4" md5="3404747292591fc373c82b726103a28b" sha1="95604758f6784ef1e53f064d0c588bbf1bf0f69e"/>
 		<rom name="Tecmo World Cup Super Soccer (Japan) (Track 02).bin" size="9483264" crc="96d44bb4" md5="54f186d2892d5b264348d685215a51e5" sha1="c0959ba1892909858677629227a8f65ea0590191"/>
 		<rom name="Tecmo World Cup Super Soccer (Japan) (Track 03).bin" size="23618784" crc="fdbef063" md5="8c4a845bdea27663eb4999ee18e55ce6" sha1="8b43446a0c6e9eced50cca47e55e0161d9a3b9d0"/>
@@ -1621,6 +1679,7 @@
 	<game name="Valis II (USA)" id="59277">
 		<category>Games</category>
 		<description>Valis II (USA)</description>
+		<serial>TGXCD1006</serial>
 		<rom name="Valis II (USA) (Track 01).bin" size="7914480" crc="17623548" md5="77232c745e40cc155ad72c1b79780986" sha1="e1baaf01eee215def8bd6f6aa080e3a41ffc74f4"/>
 		<rom name="Valis II (USA) (Track 02).bin" size="6185760" crc="228168ad" md5="5f6846f935a8b9a463adebf0967c501e" sha1="4baae7579a51a54d959212e81a1432c7e6ff83e0"/>
 		<rom name="Valis II (USA) (Track 03).bin" size="5136768" crc="323f4552" md5="ee448be1689172d037f7d3be9f3c8a94" sha1="bc0582b015a7985e77f4abbc7bcf119705a71f7f"/>
@@ -1681,6 +1740,7 @@
 	<game name="Valis III (USA)" id="59267">
 		<category>Games</category>
 		<description>Valis III (USA)</description>
+		<serial>TGXCD1024</serial>
 		<rom name="Valis III (USA) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="Valis III (USA) (Track 02).bin" size="4078368" crc="1fea3963" md5="2aa65497cb619031070e59b79caec968" sha1="ce47a755d8919847b97d1f4d71dec19a839fc1bf"/>
 		<rom name="Valis III (USA) (Track 03).bin" size="19048848" crc="ed84894b" md5="db3c0cbc8372f08d7b8eda69d296c62c" sha1="3e159a7bfcfa8d1354171546d6baa729fe1eec58"/>
@@ -1749,6 +1809,7 @@
 	<game name="Vasteel (USA)" id="57614">
 		<category>Games</category>
 		<description>Vasteel (USA)</description>
+		<serial>WTG990801</serial>
 		<rom name="Vasteel (USA) (Track 01).bin" size="7914480" crc="e5b26abf" md5="3b58c6a0ab8977325ea05ed3af1adb7c" sha1="bff6315bf0bc04dacd3cf943f30e6a7555bcbaf2"/>
 		<rom name="Vasteel (USA) (Track 02).bin" size="127231440" crc="4a7e4a7b" md5="681f42cc06e9793777e94571c7288861" sha1="a1949b411eaef375115713f14c79c956e78998ad"/>
 		<rom name="Vasteel (USA) (Track 03).bin" size="14424816" crc="5cd29237" md5="272c91a13b9d23a84091c3943ce3d145" sha1="9d309ba6e27de8df26f858a41474894fa8c2f75d"/>
@@ -1785,7 +1846,8 @@
 	</game>
 	<game name="Where in the World Is Carmen Sandiego (Japan) (En,Ja)" id="2491">
 		<category>Games</category>
-		<description>Where in the World Is Carmen Sandiego (Japan) (En,Ja)</description>
+		<description>Where in the World Is Carmen Sandiego? (Japan) (En,Ja)</description>
+		<serial>PVCD-0001</serial>
 		<rom name="Where in the World Is Carmen Sandiego (Japan) (En,Ja) (Track 01).bin" size="7914480" crc="99fe5823" md5="b3b81e6593a5cb98e069d5fd90cb30e8" sha1="1e49574e2ede6a3dd77fe32d37e7f64d2db86049"/>
 		<rom name="Where in the World Is Carmen Sandiego (Japan) (En,Ja) (Track 02).bin" size="9349200" crc="e7ca0aae" md5="b95bb14781bbea9b13a342626dc1b8da" sha1="dcd94dde22a0b6cab1306ea3a59541cf149f498f"/>
 		<rom name="Where in the World Is Carmen Sandiego (Japan) (En,Ja) (Track 03).bin" size="6874896" crc="f4922b5c" md5="17af28d135da2fadc534cc7171e2f1ab" sha1="bf14347cf6820681bd056fbaf338e1b0d81fa40c"/>
@@ -1825,6 +1887,7 @@
 	<game name="Ys Book I &amp; II (USA)" id="32091">
 		<category>Games</category>
 		<description>Ys Book I &amp; II (USA)</description>
+		<serial>TGXCD1002</serial>
 		<rom name="Ys Book I &amp; II (USA) (Track 01).bin" size="7914480" crc="17623548" md5="77232c745e40cc155ad72c1b79780986" sha1="e1baaf01eee215def8bd6f6aa080e3a41ffc74f4"/>
 		<rom name="Ys Book I &amp; II (USA) (Track 02).bin" size="20307168" crc="8e029ac2" md5="e8db8109220893ad3aa9506cf7f13c23" sha1="d0498146b90725fee8fc2b00b2aa1ce47973549e"/>
 		<rom name="Ys Book I &amp; II (USA) (Track 03).bin" size="22148784" crc="caa50bd4" md5="d7fc212caadd93212128f0aaa0180e6b" sha1="04825a30e44691b7238a6a8d304816311d1d7112"/>
@@ -1872,7 +1935,8 @@
 	</game>
 	<game name="Ys III - Wanderers from Ys (USA)" id="31794">
 		<category>Games</category>
-		<description>Ys III - Wanderers from Ys (USA)</description>
+		<description>Ys III: Wanderers from Ys (USA)</description>
+		<serial>TGXCD1015</serial>
 		<rom name="Ys III - Wanderers from Ys (USA) (Track 01).bin" size="7916832" crc="808d9f0d" md5="d86aa8050da37330834a332f92555366" sha1="e7378abbc613e76c9470d33f1f2affdf0b3b5b99"/>
 		<rom name="Ys III - Wanderers from Ys (USA) (Track 02).bin" size="58701216" crc="2438e447" md5="10ddbd55a98baf64df1c64064ef17242" sha1="fda4ecab121db0ab443956dcdf236a0f38868f73"/>
 		<rom name="Ys III - Wanderers from Ys (USA) (Track 03).bin" size="4835712" crc="5332c91c" md5="4e0571af21888f64b233b0600d2d5442" sha1="7879bb8f60d2e385e0e715324d2e8c6883dfa277"/>

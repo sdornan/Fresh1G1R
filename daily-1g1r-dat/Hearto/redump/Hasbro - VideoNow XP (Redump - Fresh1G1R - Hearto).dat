@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Hasbro - VideoNow XP (Retool)</name>
-		<description>Hasbro - VideoNow XP (2) (-y) [-aAbBcefkmMoprv] (2026-08-13 18-07-24) (Retool)</description>
-		<version>2026-08-13 18-07-24</version>
-		<date>2026-10-13 09-14-34</date>
+		<description>Hasbro - VideoNow XP (2) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-50-30) (Retool)</description>
+		<version>2026-10-14 05-50-30</version>
+		<date>2026-10-14 07-26-26</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -13,7 +13,8 @@
 	</header>
 	<game name="Batman, The (USA, Canada) (Batman vs The Joker - Interactive Adventure)" id="64365">
 		<category>Games</category>
-		<description>Batman, The (USA, Canada) (Batman vs The Joker - Interactive Adventure)</description>
+		<description>Batman, The (USA, Canada) (Batman vs The Joker: Interactive Adventure)</description>
+		<serial>P/N 6496940000</serial>
 		<rom name="Batman, The (USA, Canada) (Batman vs The Joker - Interactive Adventure) (Track 01).bin" size="2095632" crc="b7bb4893" md5="ac45d9a44d6ffbccf6f612fce1d4d651" sha1="72dd613cd8a86ed20a2b5040477e9027fae7aa5e"/>
 		<rom name="Batman, The (USA, Canada) (Batman vs The Joker - Interactive Adventure) (Track 02).bin" size="12644352" crc="264becf0" md5="d36c194e5c1afa3135192641b92a9a2f" sha1="998ea665feeb83716f3640dff7405092bf2c040c"/>
 		<rom name="Batman, The (USA, Canada) (Batman vs The Joker - Interactive Adventure) (Track 03).bin" size="849072" crc="de5cd09b" md5="72c2240ba40a396c04a6010d6c83a726" sha1="0e1bf6cacb453c251b7c8d2bb7ca5988ac67c9ec"/>
@@ -115,7 +116,8 @@
 	</game>
 	<game name="Teen Titans (USA, Canada) (Tournament of Champions - Interactive Adventure)" id="109511">
 		<category>Games</category>
-		<description>Teen Titans (USA, Canada) (Tournament of Champions - Interactive Adventure)</description>
+		<description>Teen Titans (USA, Canada) (Tournament of Champions: Interactive Adventure)</description>
+		<serial>P/N 6538920000</serial>
 		<rom name="Teen Titans (USA, Canada) (Tournament of Champions - Interactive Adventure) (Track 01).bin" size="2095632" crc="b7bb4893" md5="ac45d9a44d6ffbccf6f612fce1d4d651" sha1="72dd613cd8a86ed20a2b5040477e9027fae7aa5e"/>
 		<rom name="Teen Titans (USA, Canada) (Tournament of Champions - Interactive Adventure) (Track 02).bin" size="710304" crc="48eca673" md5="98e172eb0f74cdd34eff4c60930fdb56" sha1="37360be5f1800d3f1a53b45c7b3ec93fb01d3329"/>
 		<rom name="Teen Titans (USA, Canada) (Tournament of Champions - Interactive Adventure) (Track 03).bin" size="710304" crc="2cd9e5fd" md5="be3d6c0945ab9714b923d0f4122938e5" sha1="4842fab159b874ec2d9271eb33aecd912bd0d6c0"/>

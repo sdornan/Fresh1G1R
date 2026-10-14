@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Enhanced CD (Retool)</name>
-		<description>Enhanced CD (5) (-y) [-aAbBcefkmMoprv] (2026-10-11 21-23-31) (Retool)</description>
-		<version>2026-10-11 21-23-31</version>
-		<date>2026-10-13 09-14-25</date>
+		<description>Enhanced CD (5) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-50-26) (Retool)</description>
+		<version>2026-10-14 05-50-26</version>
+		<date>2026-10-14 07-26-22</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,6 +14,7 @@
 	<game name="Back into Your System (USA)" id="136487">
 		<category>Demos</category>
 		<description>Back into Your System (USA)</description>
+		<serial>440 063 153-2</serial>
 		<rom name="Back into Your System (USA) (Track 01).bin" size="35479920" crc="d8a12bf1" md5="7946d205fba71ff4adf1f4ebbad7bacc" sha1="004da0a79e3d7ceb7138b18880ce450be4ea89e5"/>
 		<rom name="Back into Your System (USA) (Track 02).bin" size="47444544" crc="1524c5a0" md5="37c3dab8fdac92b01fb169378391c888" sha1="4690623d1fd7fc3220cdbff9435e46e7d7a7879e"/>
 		<rom name="Back into Your System (USA) (Track 03).bin" size="40783680" crc="5628f713" md5="219d0a731d976d95c8988eece9ca65f0" sha1="e3cb3d1653cc86a1b02624685b9fc0427ec5697a"/>
@@ -32,6 +33,7 @@
 	<game name="Big Bag (Europe)" id="114616">
 		<category>Demos</category>
 		<description>Big Bag (Europe)</description>
+		<serial>07382-003</serial>
 		<rom name="Big Bag (Europe) (Track 1).bin" size="42519456" crc="eb9c2c9d" md5="4c6cf2ba0211ea28ea3e880d2a485289" sha1="fcad630ceaadbbebecbe0e5d24ada2707748fa0e"/>
 		<rom name="Big Bag (Europe) (Track 2).bin" size="47550384" crc="003ca024" md5="5d0d4c31cf151fc34abfbd9f681e32c9" sha1="574e09a3ef5acb9f671e1a78399c3f8fb16f3f73"/>
 		<rom name="Big Bag (Europe) (Track 3).bin" size="44850288" crc="ae77e93d" md5="bc2255665e8674fb6e7a5ef81373fc79" sha1="2d56b428a52be3be15a6dde71f68a89101975084"/>
@@ -42,6 +44,7 @@
 	<game name="Hit Parade Dance Champions 90's (Italy)" id="138142">
 		<category>Demos</category>
 		<description>Hit Parade Dance Champions 90's (Italy)</description>
+		<serial>HM 019/2 CD</serial>
 		<rom name="Hit Parade Dance Champions 90's (Italy) (Track 01).bin" size="35197680" crc="f1af98f3" md5="42dfdebbc90730022708eb4062d81149" sha1="03decb138f0d2151e43b1500dd826703da5bfe42"/>
 		<rom name="Hit Parade Dance Champions 90's (Italy) (Track 02).bin" size="36601824" crc="8224f4f5" md5="d346fa85df65ba1b1113e8f8343b65e1" sha1="9985fa48f4ee2dcda8eb34ebbde528f08161e176"/>
 		<rom name="Hit Parade Dance Champions 90's (Italy) (Track 03).bin" size="31923696" crc="c098a77d" md5="f228d05eb783f90dc7ed44da22c6843b" sha1="e404e0eb44dbc3c6f3fca2e293092c646df8e0c5"/>
@@ -63,7 +66,7 @@
 	</game>
 	<game name="Project Gotham Racing 2 - Music Sampler (USA) (E3)" id="102403">
 		<category>Preproduction</category>
-		<description>Project Gotham Racing 2 - Music Sampler (USA) (E3)</description>
+		<description>Project Gotham Racing 2: Music Sampler (USA) (E3)</description>
 		<rom name="Project Gotham Racing 2 - Music Sampler (USA) (E3) (Track 01).bin" size="48390048" crc="5ed56cf7" md5="ae1ad1ad426cf57d4ffc0745dc7df225" sha1="6e20eae9fcbfc98fd5cbf52bc812ce994ee90023"/>
 		<rom name="Project Gotham Racing 2 - Music Sampler (USA) (E3) (Track 02).bin" size="34122816" crc="e5de061b" md5="2ebd2a3464aafa35d54929b9adeba918" sha1="d24be2e1c29fab6538f6f8a8635821a4e2977555"/>
 		<rom name="Project Gotham Racing 2 - Music Sampler (USA) (E3) (Track 03).bin" size="33711216" crc="3be1e765" md5="6de96aac7ebd66f3e02a06faf5f4cdfe" sha1="cdde0243a07e78b392da7deea1cb6da70eff242e"/>
@@ -80,6 +83,7 @@
 	<game name="TRC Compilation (Italy)" id="138143">
 		<category>Games</category>
 		<description>TRC Compilation (Italy)</description>
+		<serial>TC 001/02 CD</serial>
 		<rom name="TRC Compilation (Italy) (Track 01).bin" size="47557440" crc="2c10552e" md5="f847130b9bcd9fec0b778fe458b27111" sha1="ae0a203365d3a70796aaa37985db7b9b3f6299be"/>
 		<rom name="TRC Compilation (Italy) (Track 02).bin" size="47503344" crc="8c81086e" md5="df3399fdabc283128f3968831c99c7be" sha1="6e03df684ae4444bf3e79372ab41019926c9f5fc"/>
 		<rom name="TRC Compilation (Italy) (Track 03).bin" size="37582608" crc="0a6d0a07" md5="b9e7bb372dca3c22e451c60456050d38" sha1="54ea1a0bc89811b56904426859062d449c15d141"/>

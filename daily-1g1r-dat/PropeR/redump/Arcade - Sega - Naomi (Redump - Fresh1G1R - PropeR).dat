@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi (Retool)</name>
-		<description>Arcade - Sega - Naomi (32) (-y) [-aAbBcdkmMpPuv] (2026-10-12 19-20-31) (Retool)</description>
-		<version>2026-10-12 19-20-31</version>
-		<date>2026-10-13 09-37-45</date>
+		<description>Arcade - Sega - Naomi (32) (-y) [-aAbBcdkmMpPuv] (2026-10-14 05-50-33) (Retool)</description>
+		<version>2026-10-14 05-50-33</version>
+		<date>2026-10-14 07-43-06</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,6 +14,8 @@
 	<game name="Border Down (Japan) (Rev A)" id="139328">
 		<category>Games</category>
 		<description>Border Down (Japan) (Rev A)</description>
+		<serial>GDL-0023A</serial>
+		<version>2.000</version>
 		<rom name="Border Down (Japan) (Rev A) (Track 1).bin" size="1058400" crc="1ae576f7" md5="a0e271e7f05f57f52d063a212426d218" sha1="836e2bd95b323c1edd6ab9e0622af0dea6a27bd4"/>
 		<rom name="Border Down (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Border Down (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="5f07567e" md5="301c91a6ed047c586fccde4f1e57b41d" sha1="fa86a3bcf3a665da838335c4ad674041441fea61"/>
@@ -21,7 +23,9 @@
 	</game>
 	<game name="Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A)" id="75302">
 		<category>Games</category>
-		<description>Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A)</description>
+		<description>Capcom vs. SNK 2: Millionaire Fighting 2001 (Japan) (Rev A)</description>
+		<serial>GDL-0007A</serial>
+		<version>2.000</version>
 		<rom name="Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A) (Track 1).bin" size="705600" crc="d48bd072" md5="b7be4276b5db1b3d18e85dc93cecc5a2" sha1="2fc840586c655dee2686ee3b520c7760bd3b8dcb"/>
 		<rom name="Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="670d2182" md5="126a8bb21a4b46af106b4ce37c483f40" sha1="a99ceb7bb74e4a0fe6ae80b33cd2963465ae9d14"/>
@@ -30,6 +34,8 @@
 	<game name="Chaos Field (Japan)" id="73282">
 		<category>Games</category>
 		<description>Chaos Field (Japan)</description>
+		<serial>GDL-0025</serial>
+		<version>1.004</version>
 		<rom name="Chaos Field (Japan) (Track 1).bin" size="705600" crc="23c2bcca" md5="deb8fc43fcdb19e1582d22eebc0b6095" sha1="90313a10c427d3a036ff1f0c9f2169fa304718af"/>
 		<rom name="Chaos Field (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Chaos Field (Japan) (Track 3).bin" size="1185760800" crc="286cf26e" md5="83b3f69ade6a19ef8093659d1da0c693" sha1="924121ac1c372421469fcf773bda22b6d946910d"/>
@@ -38,6 +44,8 @@
 	<game name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A)" id="18383">
 		<category>Games</category>
 		<description>Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A)</description>
+		<serial>GDS-0009A</serial>
+		<version>2.002</version>
 		<rom name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A) (Track 1).bin" size="1058400" crc="3844ca3c" md5="d42339b7949585091a5a50186c96afe9" sha1="821f5cac0e29be895330c5a1bf1bdbfb4ad2466d"/>
 		<rom name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A) (Track 3).bin" size="1185760800" crc="61f4fa45" md5="8490d08f4b8b623e911f42c7620aa0b6" sha1="bb85ba2c98e19487fa761c9da1e5ee886a70f1e5"/>
@@ -45,7 +53,9 @@
 	</game>
 	<game name="Guilty Gear XX - The Midnight Carnival (Japan)" id="77948">
 		<category>Games</category>
-		<description>Guilty Gear XX - The Midnight Carnival (Japan)</description>
+		<description>Guilty Gear XX: The Midnight Carnival (Japan)</description>
+		<serial>GDL-0011</serial>
+		<version>1.001</version>
 		<rom name="Guilty Gear XX - The Midnight Carnival (Japan) (Track 1).bin" size="1058400" crc="d87266da" md5="c961e42d17afd8f5e447b71a334d6970" sha1="a1b6622681a1d7291a43c3f99e69274585f1c224"/>
 		<rom name="Guilty Gear XX - The Midnight Carnival (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Guilty Gear XX - The Midnight Carnival (Japan) (Track 3).bin" size="1185760800" crc="20ac72f3" md5="35a57faa136a8c8bc608140a79fda659" sha1="1d2a13ba78f9d56c7c4356b36558c32347e88017"/>
@@ -53,7 +63,9 @@
 	</game>
 	<game name="Guilty Gear XX - The Midnight Carnival Reload (Japan)" id="69604">
 		<category>Games</category>
-		<description>Guilty Gear XX - The Midnight Carnival Reload (Japan)</description>
+		<description>Guilty Gear XX: The Midnight Carnival #Reload (Japan)</description>
+		<serial>GDL-0019</serial>
+		<version>1.001</version>
 		<rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan) (Track 1).bin" size="1058400" crc="d6d785c9" md5="a5130352f5dbc46341f5bb4c30351d2a" sha1="ee57efa80f0ac4726ea44f6159d0731b7d7f30fd"/>
 		<rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan) (Track 3).bin" size="1185760800" crc="16d0e0dc" md5="e57af9c31e4d0d82bede525c9237118f" sha1="f78e662fa7432805668aa36a0a7c5febeece4d78"/>
@@ -62,6 +74,8 @@
 	<game name="Guilty Gear XX Accent Core (Japan)" id="75446">
 		<category>Games</category>
 		<description>Guilty Gear XX Accent Core (Japan)</description>
+		<serial>GDL-0041</serial>
+		<version>1.002</version>
 		<rom name="Guilty Gear XX Accent Core (Japan) (Track 1).bin" size="1058400" crc="4f5fcc13" md5="38dc5ffb7f3d1a9646d272da0ac69db9" sha1="a3e0f4c607c06db15eb76d1c43e92411eab18608"/>
 		<rom name="Guilty Gear XX Accent Core (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Guilty Gear XX Accent Core (Japan) (Track 3).bin" size="1185760800" crc="d7f1eb5c" md5="f9b241e41f98796f4b0bedec914a766e" sha1="e42d747fd15f6d04755f02353434cce385342a90"/>
@@ -69,7 +83,9 @@
 	</game>
 	<game name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A)" id="69609">
 		<category>Games</category>
-		<description>Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A)</description>
+		<description>Guilty Gear XX Slash: The Midnight Carnival (Japan) (Rev A)</description>
+		<serial>GDL-0033A</serial>
+		<version>2.000</version>
 		<rom name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A) (Track 1).bin" size="1058400" crc="c552e47f" md5="1f93f05b24973370d75449d9c6b28f2a" sha1="ef8cea0acbbb8352c68d04fe04c75bc0c2755d8b"/>
 		<rom name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="6d7c1bfa" md5="d70730c20cfd34bd8a3ab83e0620e413" sha1="e032c2d6323e5a976dd9e2f8a54e6fa38276d2cc"/>
@@ -78,6 +94,8 @@
 	<game name="Keyboard, La (Japan)" id="75286">
 		<category>Games</category>
 		<description>Keyboard, La (Japan)</description>
+		<serial>GDS-0017</serial>
+		<version>1.004</version>
 		<rom name="Keyboard, La (Japan) (Track 1).bin" size="1058400" crc="6f44075f" md5="6cc35d673355f468a0a061d9bb5d28e2" sha1="e1ba21c31dcc31998af128fabfb95ecd1c30707b"/>
 		<rom name="Keyboard, La (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Keyboard, La (Japan) (Track 3).bin" size="1185760800" crc="907f132b" md5="3fea28dbdde2828613ab42a9db819244" sha1="a6e3cea8275ebd63142794b3216c48cde2caf817"/>
@@ -85,7 +103,9 @@
 	</game>
 	<game name="Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja)" id="97823">
 		<category>Games</category>
-		<description>Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja)</description>
+		<description>Kidou Senshi Gundam: Renpou vs. Zeon (World) (En,Ja)</description>
+		<serial>GDL-0001</serial>
+		<version>1.000</version>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja) (Track 1).bin" size="1058400" crc="bfbdfcff" md5="df21f6c072cae8b90869ea1146cb6f00" sha1="5b81141c260372a31cfd1f94e7fa5d5695566ebe"/>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja) (Track 2).bin" size="5402544" crc="06f772c0" md5="7a9fe426c4050c8ed38254fa5630510c" sha1="496a35c83435f4558ced39cc66742df3ef14422b"/>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja) (Track 3).bin" size="1185760800" crc="1665cfc3" md5="8a625acea5f9dbc0ce08a1234ac06298" sha1="4353d9b8424e5b2c83dfaa803050d971941e526e"/>
@@ -93,7 +113,9 @@
 	</game>
 	<game name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja)" id="51089">
 		<category>Games</category>
-		<description>Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja)</description>
+		<description>Kidou Senshi Gundam: Renpou vs. Zeon DX ~ Mobile Suit Gundam: The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja)</description>
+		<serial>GDL-0006</serial>
+		<version>1.000</version>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja) (Track 1).bin" size="1058400" crc="e7370559" md5="eb75eeb9d334e327fdf6b88209a800d4" sha1="85ec50a520c5b928ef7bd5d30ce0690c21aa4464"/>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja) (Track 2).bin" size="5402544" crc="06f772c0" md5="7a9fe426c4050c8ed38254fa5630510c" sha1="496a35c83435f4558ced39cc66742df3ef14422b"/>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja) (Track 3).bin" size="1185760800" crc="8c28f0c2" md5="698cb726e6c596290989309508c9fe80" sha1="af0d68e7ce492d1be8a629a2670846c43d486cd2"/>
@@ -102,6 +124,8 @@
 	<game name="Kuru Kuru Chameleon (Japan)" id="139264">
 		<category>Games</category>
 		<description>Kuru Kuru Chameleon (Japan)</description>
+		<serial>GDL-0034</serial>
+		<version>1.001</version>
 		<rom name="Kuru Kuru Chameleon (Japan) (Track 1).bin" size="705600" crc="8990b3c2" md5="95670475883689f7b2ce7e1e0e6ec5a5" sha1="c72953ad2c57cbaef2ec73f95d13151910d57987"/>
 		<rom name="Kuru Kuru Chameleon (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Kuru Kuru Chameleon (Japan) (Track 3).bin" size="1185760800" crc="bf716c3e" md5="93d800acc400976cecd94d26400b874f" sha1="0020307cbd42e662f57e16ca8f69cb9cf01a175b"/>
@@ -110,6 +134,8 @@
 	<game name="Maze of the Kings, The (World) (En,Ja)" id="69439">
 		<category>Games</category>
 		<description>Maze of the Kings, The (World) (En,Ja)</description>
+		<serial>GDS-0022</serial>
+		<version>1.001</version>
 		<rom name="Maze of the Kings, The (World) (En,Ja) (Track 1).bin" size="705600" crc="b38ec60c" md5="7a44612e24c256658f776194d15837b6" sha1="4c0a3995fbb2ca26590bb9d9ceec73c594453b96"/>
 		<rom name="Maze of the Kings, The (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Maze of the Kings, The (World) (En,Ja) (Track 3).bin" size="1185760800" crc="064cf39d" md5="10cd29f9c1d73ee3199f6c1b022d856d" sha1="e76aca3a8a723fd3cfca908b8c05dafade0b27f8"/>
@@ -117,7 +143,9 @@
 	</game>
 	<game name="Melty Blood - Act Cadenza Ver. B (Japan)" id="82873">
 		<category>Games</category>
-		<description>Melty Blood - Act Cadenza Ver. B (Japan)</description>
+		<description>Melty Blood: Act Cadenza Ver. B (Japan)</description>
+		<serial>GDL-0039</serial>
+		<version>1.003</version>
 		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Track 1).bin" size="5764752" crc="445cae0a" md5="5ec95b09f0e0af1cdae30b9251501443" sha1="87a5374fdb08a0e2b369cb1704cc8c969373c85d"/>
 		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Track 3).bin" size="1185760800" crc="e7747173" md5="a6d6ba4972396ac51d9a98c606118cba" sha1="bc124979a970fcedd021e07eda529bdf8dec71be"/>
@@ -125,7 +153,9 @@
 	</game>
 	<game name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A)" id="96305">
 		<category>Games</category>
-		<description>Melty Blood - Act Cadenza Ver. B (Japan) (Rev A)</description>
+		<description>Melty Blood: Act Cadenza Ver. B (Japan) (Rev A)</description>
+		<serial>GDL-0039A</serial>
+		<version>2.000</version>
 		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A) (Track 1).bin" size="5764752" crc="75849f1f" md5="a2c802fb9a82a5a22d4d2e540fa33434" sha1="6a57c687d23d18a79f3c818bdfaf8da44e4b011a"/>
 		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="f4e4500d" md5="e626c8d3a7772f2cd8ee366ebd3cd31e" sha1="1e1bd4f86da0a4ec09bc6da4e33748a5356286f4"/>
@@ -134,6 +164,8 @@
 	<game name="Monkey Ball (Japan)" id="75285">
 		<category>Games</category>
 		<description>Monkey Ball (Japan)</description>
+		<serial>GDS-0008</serial>
+		<version>1.008</version>
 		<rom name="Monkey Ball (Japan) (Track 1).bin" size="705600" crc="5a5377f3" md5="87f14ab1bbc4ee24cc73260a9b2eedd8" sha1="fad960933af63825ffc29746c8bd967fcc11a9e2"/>
 		<rom name="Monkey Ball (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Monkey Ball (Japan) (Track 3).bin" size="1185760800" crc="ca4ff2ab" md5="83d11d9f16d089c68c7882d56c295efa" sha1="189c69cfbddcd38fb701a083a88735ae06cdbe5d"/>
@@ -141,7 +173,9 @@
 	</game>
 	<game name="NouKone Puzzle - Takoron (Japan)" id="69610">
 		<category>Games</category>
-		<description>NouKone Puzzle - Takoron (Japan)</description>
+		<description>NouKone Puzzle: Takoron (Japan)</description>
+		<serial>GDL-0042</serial>
+		<version>1.002</version>
 		<rom name="NouKone Puzzle - Takoron (Japan) (Track 1).bin" size="705600" crc="98dd1326" md5="68a71206aec7b718ecab4336f96cd73c" sha1="9846d2c4a2fe5065da87702d14da8097102dde41"/>
 		<rom name="NouKone Puzzle - Takoron (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="NouKone Puzzle - Takoron (Japan) (Track 3).bin" size="1185760800" crc="430c7f3d" md5="a88b0fad20fedcb80705e89977420f31" sha1="e34a67fac7e2410cf5ccd966018678f5fd3dc349"/>
@@ -149,7 +183,9 @@
 	</game>
 	<game name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja)" id="55480">
 		<category>Games</category>
-		<description>Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja)</description>
+		<description>Power Smash: Sega Professional Tennis ~ Virtua Tennis: Sega Professional Tennis (World) (En,Ja)</description>
+		<serial>GDS-0011</serial>
+		<version>1.001</version>
 		<rom name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja) (Track 1).bin" size="705600" crc="e8aebf84" md5="baf3f140981132ca39e1b919ed0467bb" sha1="8f48decbdd4af82e523a7e3ebd932262e6cc21a7"/>
 		<rom name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja) (Track 3).bin" size="1185760800" crc="b7f65ec6" md5="343ac1301e09315aa578abfeb770b70d" sha1="7826555c28e9419505bc112c916eaf1549a358ad"/>
@@ -158,6 +194,8 @@
 	<game name="Puyo Pop Fever (World)" id="54280">
 		<category>Games</category>
 		<description>Puyo Pop Fever (World)</description>
+		<serial>GDS-0034</serial>
+		<version>1.001</version>
 		<rom name="Puyo Pop Fever (World) (Track 1).bin" size="1058400" crc="ee08f87d" md5="1dc57a538e35ffe4e98abefe64b52a6a" sha1="c54805d3a2c196e1a433d7177a2f5f708480f89a"/>
 		<rom name="Puyo Pop Fever (World) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Puyo Pop Fever (World) (Track 3).bin" size="1185760800" crc="e07684e4" md5="005dcfbfca160510382ff1d3ecf24eb5" sha1="ea7d131570389fcc11f5d86b3d71823e049fb00b"/>
@@ -166,6 +204,8 @@
 	<game name="Radirgy (Japan)" id="69608">
 		<category>Games</category>
 		<description>Radirgy (Japan)</description>
+		<serial>GDL-0032</serial>
+		<version>1.001</version>
 		<rom name="Radirgy (Japan) (Track 1).bin" size="705600" crc="fbac2577" md5="f439ade9a2159d37b80b72a56bf4f278" sha1="61c918c1188dd81049fcd128f76857c8783b8162"/>
 		<rom name="Radirgy (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Radirgy (Japan) (Track 3).bin" size="1185760800" crc="a3e7a522" md5="85e44a45888e63ee72a0f2cb9a76545e" sha1="a5bda299727db7221fe0bb62fe6cc428eaccb09b"/>
@@ -174,6 +214,8 @@
 	<game name="Senko no Ronde (Japan) (Rev A)" id="127953">
 		<category>Games</category>
 		<description>Senko no Ronde (Japan) (Rev A)</description>
+		<serial>GDL-0030A</serial>
+		<version>2.001</version>
 		<rom name="Senko no Ronde (Japan) (Rev A) (Track 1).bin" size="15248016" crc="b02042c8" md5="7ef2ed57e26b573babe159b2afcd1a61" sha1="c9f347d2345b7514987cdf23d07cc9dc0e5e456c"/>
 		<rom name="Senko no Ronde (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Senko no Ronde (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="41424a93" md5="65142c7bc6d31b231bd1d58b1d2e696c" sha1="95f7d705ec9d8e2e833ba88d201781e3735c5308"/>
@@ -182,6 +224,8 @@
 	<game name="Shikigami no Shiro II (Japan)" id="75301">
 		<category>Games</category>
 		<description>Shikigami no Shiro II (Japan)</description>
+		<serial>GDL-0021</serial>
+		<version>1.000</version>
 		<rom name="Shikigami no Shiro II (Japan) (Track 1).bin" size="1058400" crc="2b2a17ac" md5="21516b2b60e7f3ed990f61120fd0ead0" sha1="c06fe45db12d5d9bdeb4a39925a4483efcd1cf55"/>
 		<rom name="Shikigami no Shiro II (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Shikigami no Shiro II (Japan) (Track 3).bin" size="1185760800" crc="bda2a0ba" md5="249f0400df4693a9e53dd34c49b3a45f" sha1="6fd0fbffcd712ed67177b1c1cca31b2842548312"/>
@@ -190,6 +234,8 @@
 	<game name="Slashout (World) (En,Ja)" id="69429">
 		<category>Games</category>
 		<description>Slashout (World) (En,Ja)</description>
+		<serial>GDS-0004</serial>
+		<version>1.000</version>
 		<rom name="Slashout (World) (En,Ja) (Track 1).bin" size="705600" crc="6c853d19" md5="6608e9f42a0e5ccc97fff7ce1171becd" sha1="473ddc941b4099d79cfd20df74aba28c70c96bac"/>
 		<rom name="Slashout (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Slashout (World) (En,Ja) (Track 3).bin" size="1185760800" crc="5b864e5e" md5="9d68a360f6d1efd90479c84125c0d12f" sha1="58bf53069d164bac5b148c8ca8ad233c6e992afa"/>
@@ -198,6 +244,8 @@
 	<game name="Spikers Battle (World) (En,Ja)" id="127954">
 		<category>Games</category>
 		<description>Spikers Battle (World) (En,Ja)</description>
+		<serial>GDS-0005</serial>
+		<version>1.002</version>
 		<rom name="Spikers Battle (World) (En,Ja) (Track 1).bin" size="705600" crc="3e4cd3ed" md5="31856975085cbbaf36bb1038b38d68ec" sha1="f6b41a093e28076db6c8a32487463f941c499567"/>
 		<rom name="Spikers Battle (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Spikers Battle (World) (En,Ja) (Track 3).bin" size="1185760800" crc="8df8683b" md5="6a90c725583f72a65ddfb0fe7e8f78df" sha1="e34a101affcbd84b3e470749040534317b7c3d5b"/>
@@ -206,6 +254,8 @@
 	<game name="Sports Jam (Japan)" id="75486">
 		<category>Games</category>
 		<description>Sports Jam (Japan)</description>
+		<serial>GDS-0003</serial>
+		<version>1.005</version>
 		<rom name="Sports Jam (Japan) (Track 1).bin" size="1058400" crc="f09ca7eb" md5="35ddcbfc115264182c4fe20eba2af50c" sha1="59e116f0d2cc013198993915a36de25dae0e1e48"/>
 		<rom name="Sports Jam (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Sports Jam (Japan) (Track 3).bin" size="1185760800" crc="74c7d6d4" md5="8fa564b0f66b19a9add06c0272d07f51" sha1="1256edc49be8f73603e9ee9c0a4cc705924854dc"/>
@@ -214,6 +264,8 @@
 	<game name="Street Fighter Zero 3 Upper (Japan)" id="69513">
 		<category>Games</category>
 		<description>Street Fighter Zero 3 Upper (Japan)</description>
+		<serial>GDL-0002</serial>
+		<version>1.001</version>
 		<rom name="Street Fighter Zero 3 Upper (Japan) (Track 1).bin" size="705600" crc="febabdae" md5="4fbb3e9dc2f9ccaedd31d0665b35d10d" sha1="aa5125b3351eba56223f003d5c64727d44bd1e71"/>
 		<rom name="Street Fighter Zero 3 Upper (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Street Fighter Zero 3 Upper (Japan) (Track 3).bin" size="1185760800" crc="dbc19e05" md5="2ff06340d15638c1f3cca4ed533aa312" sha1="e65d20135074d2470de8145f9e2575bda75f4274"/>
@@ -222,6 +274,8 @@
 	<game name="Super Shanghai 2005 (Japan) (Rev A)" id="69607">
 		<category>Games</category>
 		<description>Super Shanghai 2005 (Japan) (Rev A)</description>
+		<serial>GDL-0031A</serial>
+		<version>2.001</version>
 		<rom name="Super Shanghai 2005 (Japan) (Rev A) (Track 1).bin" size="705600" crc="b760a22d" md5="62a5ac28b7c07d18654a12c1d6d08b4e" sha1="102bd028a32d8eb2497dca77d4a83d883661c11e"/>
 		<rom name="Super Shanghai 2005 (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Super Shanghai 2005 (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="56410baf" md5="28986d120e3991284a31c08b6abd0004" sha1="e1eb7cc8385ce1a582f57cb48a0a38e5cacd3e62"/>
@@ -230,6 +284,8 @@
 	<game name="Tetris Kiwamemichi (Japan)" id="69605">
 		<category>Games</category>
 		<description>Tetris Kiwamemichi (Japan)</description>
+		<serial>GDL-0020</serial>
+		<version>1.003</version>
 		<rom name="Tetris Kiwamemichi (Japan) (Track 1).bin" size="24797136" crc="c72832dc" md5="f8d60edb1434c0bc435e0b3ab2a70a5f" sha1="5cf394175d4caad3b37b8f4ec213cb7b81d9a71f"/>
 		<rom name="Tetris Kiwamemichi (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Tetris Kiwamemichi (Japan) (Track 3).bin" size="1185760800" crc="735e94eb" md5="615d04f8b8c900e71d5ee18eba093d41" sha1="d9484f89c52ff762838159b280b6eb9293a35b8b"/>
@@ -238,6 +294,8 @@
 	<game name="TriggerHeart Exelica (Japan) (Rev A)" id="139260">
 		<category>Games</category>
 		<description>TriggerHeart Exelica (Japan) (Rev A)</description>
+		<serial>GDL-0036A</serial>
+		<version>2.000</version>
 		<rom name="TriggerHeart Exelica (Japan) (Rev A) (Track 1).bin" size="2961168" crc="59b0f2eb" md5="a02f69e423941d9fc4d54595b384ac70" sha1="b7bd955bb21240e4893c9dcb1e46d5b1e44ca46a"/>
 		<rom name="TriggerHeart Exelica (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="TriggerHeart Exelica (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="02c0f7d9" md5="928d6bf7fa0afc2e9402ade567b5fca7" sha1="39a567bed73ed520105503975420362fa23e3621"/>
@@ -246,6 +304,8 @@
 	<game name="Trizeal (Japan)" id="139329">
 		<category>Games</category>
 		<description>Trizeal (Japan)</description>
+		<serial>GDL-0026</serial>
+		<version>1.000</version>
 		<rom name="Trizeal (Japan) (Track 1).bin" size="1058400" crc="fc32e491" md5="ef1b78d80ea9b2dde78a3f191b111fad" sha1="108cdd3a37c563191aa55f0e6ad51eb2130c288d"/>
 		<rom name="Trizeal (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Trizeal (Japan) (Track 3).bin" size="1185760800" crc="83c8e96b" md5="39095e465c1a4605b494984266d86323" sha1="f4599276ab74a9923dad2bac7d7cbdb8597974a3"/>
@@ -254,6 +314,8 @@
 	<game name="Under Defeat (Japan)" id="139327">
 		<category>Games</category>
 		<description>Under Defeat (Japan)</description>
+		<serial>GDL-0035</serial>
+		<version>1.001</version>
 		<rom name="Under Defeat (Japan) (Track 1).bin" size="1058400" crc="76ef5814" md5="1236fd5a3a31fe9e82220d3daed3e45d" sha1="61b57967e527d6fc26579644b047863ef27de08b"/>
 		<rom name="Under Defeat (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Under Defeat (Japan) (Track 3).bin" size="1185760800" crc="214e66a7" md5="2ea86f382420fa9a5531e2fd4cf16bd5" sha1="989866655541237ff172f9b41695aad58e8e4812"/>
@@ -262,6 +324,8 @@
 	<game name="Virtua Athletics ~ Virtua Athlete (World)" id="75447">
 		<category>Games</category>
 		<description>Virtua Athletics ~ Virtua Athlete (World)</description>
+		<serial>GDS-0019</serial>
+		<version>1.003</version>
 		<rom name="Virtua Athletics ~ Virtua Athlete (World) (Track 1).bin" size="705600" crc="fc541c58" md5="6a41d4b17f309c4d30387f5b3f1a4b05" sha1="6840ef5ca039103e2db9f189fc20ea28f3d72df5"/>
 		<rom name="Virtua Athletics ~ Virtua Athlete (World) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Virtua Athletics ~ Virtua Athlete (World) (Track 3).bin" size="1185760800" crc="f2d965a1" md5="e90d79d4dc6fd62431d8a68a3cef8297" sha1="b28592a6aa02bdcfd3ada2b5becdb5c6b05eb6aa"/>

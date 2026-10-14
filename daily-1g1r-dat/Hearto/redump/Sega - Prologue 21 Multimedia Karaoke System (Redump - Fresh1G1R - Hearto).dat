@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Prologue 21 Multimedia Karaoke System (Retool)</name>
-		<description>Sega - Prologue 21 Multimedia Karaoke System (1) (-y) [-aAbBcefkmMoprv] (2026-08-13 18-09-36) (Retool)</description>
-		<version>2026-08-13 18-09-36</version>
-		<date>2026-10-13 09-17-33</date>
+		<description>Sega - Prologue 21 Multimedia Karaoke System (1) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-52-31) (Retool)</description>
+		<version>2026-10-14 05-52-31</version>
+		<date>2026-10-14 07-27-55</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,6 +14,8 @@
 	<game name="Super Prologue 21 Games Vol. 1 (Japan) (Rev A)" id="84882">
 		<category>Games</category>
 		<description>Super Prologue 21 Games Vol. 1 (Japan) (Rev A)</description>
+		<serial>SKT-3500</serial>
+		<version>1.002</version>
 		<rom name="Super Prologue 21 Games Vol. 1 (Japan) (Rev A) (Track 1).bin" size="517522320" crc="01e32aff" md5="c9f20329c73216463f2c5e7d50321231" sha1="bbd6cbfc4bd6666cf852587fd303454b71006625"/>
 		<rom name="Super Prologue 21 Games Vol. 1 (Japan) (Rev A) (Track 2).bin" size="20565888" crc="c2f9a8bd" md5="863416cbc8bf0920953c08d349a0cda1" sha1="d55a9c3e2efefcd0299bfd274cecac6b866f06b5"/>
 		<rom name="Super Prologue 21 Games Vol. 1 (Japan) (Rev A) (Track 3).bin" size="18359712" crc="dbef3cbc" md5="9eca2dc371b0ba338a1dfa6e35d078dc" sha1="0fb08cfa5dad1991928ee6bd2668bd721bc27d5b"/>

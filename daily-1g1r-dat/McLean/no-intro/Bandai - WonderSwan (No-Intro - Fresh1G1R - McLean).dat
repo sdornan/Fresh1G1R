@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Bandai - WonderSwan (Retool)</name>
-		<description>Bandai - WonderSwan (4) (-ly) [-aAbBcdDefkmMopPruv] (20260525-011654) (Retool)</description>
-		<version>20260525-011654</version>
-		<date>2026-10-13 09-31-40</date>
+		<description>Bandai - WonderSwan (4) (-ly) [-aAbBcdDefkmMopPruv] (20261013-150902) (Retool)</description>
+		<version>20261013-150902</version>
+		<date>2026-10-14 07-38-46</date>
 		<author>1988reload, C. V. Reynolds, Gefflon, gigadeath, Hiccup, kazumi213, MeguCocoa, omonim2007, PPLToast, rarenight, relax, RetroUprising, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -14,17 +14,17 @@
 	<game name="Digimon - Ver. WonderSwan (Hong Kong) (En)" id="0016">
 		<category>Games</category>
 		<description>Digimon - Ver. WonderSwan (Hong Kong) (En)</description>
-		<rom name="Digimon - Ver. WonderSwan (Hong Kong) (En).ws" size="2097152" crc="94ea6ffc" md5="d5f7fbf06c57aa50f08c14e64d2e02a2" sha1="5cc59ec1687fe83ec5fb048d3dfc37849747df34"/>
+		<rom name="Digimon - Ver. WonderSwan (Hong Kong) (En).ws" size="2097152" crc="94ea6ffc" md5="d5f7fbf06c57aa50f08c14e64d2e02a2" sha1="5cc59ec1687fe83ec5fb048d3dfc37849747df34" sha256="93fbc61d92336a6f276c918815b095696d4d16f18f92bc77483ec58eac54587e"/>
 	</game>
 	<game name="Mingle Magnet (Japan) (En,Ja) (Rev 1)" id="0056">
 		<category>Games</category>
 		<description>Mingle Magnet (Japan) (En,Ja) (Rev 1)</description>
-		<rom name="Mingle Magnet (Japan) (En,Ja) (Rev 1).ws" size="524288" crc="9baac7bb" md5="555bee0c37a0726d8e8646a290de137f" sha1="c7230ef709f6ceaef9a220541c8cdc05c0cd549f"/>
+		<rom name="Mingle Magnet (Japan) (En,Ja) (Rev 1).ws" size="524288" crc="9baac7bb" md5="555bee0c37a0726d8e8646a290de137f" sha1="c7230ef709f6ceaef9a220541c8cdc05c0cd549f" sha256="7d25e0fd3060b9597abd9d91f3c88dcca17b6ad229448387c09935b6879747cd"/>
 	</game>
 	<game name="Robot Works (Hong Kong) (En,Ja) (Rev 1)" id="0073">
 		<category>Games</category>
 		<description>Robot Works (Hong Kong) (En,Ja) (Rev 1)</description>
-		<rom name="Robot Works (Hong Kong) (En,Ja) (Rev 1).ws" size="1048576" crc="be6be690" md5="dbaff79d3a241fba6af06cf5b7c935b8" sha1="2117ed92e8cb4ae61868535f1d4d16851b480890"/>
+		<rom name="Robot Works (Hong Kong) (En,Ja) (Rev 1).ws" size="1048576" crc="be6be690" md5="dbaff79d3a241fba6af06cf5b7c935b8" sha1="2117ed92e8cb4ae61868535f1d4d16851b480890" sha256="ec94f9e109707c2e4ad538dc55f2e7d357e0ba991a9ce0b5f4046547167dece2"/>
 	</game>
 	<game name="Tenori-on (Japan) (En)" id="0132">
 		<category>Games</category>

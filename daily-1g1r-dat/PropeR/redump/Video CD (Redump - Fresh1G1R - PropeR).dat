@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Video CD (Retool)</name>
-		<description>Video CD (9) (-y) [-aAbBcdkmMpPuv] (2026-09-19 20-44-12) (Retool)</description>
-		<version>2026-09-19 20-44-12</version>
-		<date>2026-10-13 09-39-14</date>
+		<description>Video CD (9) (-y) [-aAbBcdkmMpPuv] (2026-10-14 05-52-35) (Retool)</description>
+		<version>2026-10-14 05-52-35</version>
+		<date>2026-10-14 07-43-50</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -13,7 +13,8 @@
 	</header>
 	<game name="Attention les Enfants - Volume 1 - La Maison et le Jardin (France)" id="111196">
 		<category>Educational</category>
-		<description>Attention les Enfants - Volume 1 - La Maison et le Jardin (France)</description>
+		<description>Attention les Enfants: Volume 1: La Maison et le Jardin (France)</description>
+		<serial>2001083</serial>
 		<rom name="Attention les Enfants - Volume 1 - La Maison et le Jardin (France) (Track 01).bin" size="140341488" crc="d0cadfe1" md5="92a37cca62dbdb7dd3fd7355f0b9d3db" sha1="d0b61ee43c2a2609b6baa19be4d008abf86c2493"/>
 		<rom name="Attention les Enfants - Volume 1 - La Maison et le Jardin (France) (Track 02).bin" size="2368464" crc="b4a33a27" md5="e530f46f7e1ff258ff4593f6ebf3e2e3" sha1="bf9cddaf54b1847fe3281ddbdbaa9e2a8775ff47"/>
 		<rom name="Attention les Enfants - Volume 1 - La Maison et le Jardin (France) (Track 03).bin" size="5698896" crc="d979d5aa" md5="8f3d64c2abfa0f423371a3dcd64912c6" sha1="4c4a80b3647ef2103693747b22e6a77c3e9e91bb"/>
@@ -54,7 +55,8 @@
 	</game>
 	<game name="Attention les Enfants - Volume 2 - La Ville et les Vacances (France)" id="111197">
 		<category>Educational</category>
-		<description>Attention les Enfants - Volume 2 - La Ville et les Vacances (France)</description>
+		<description>Attention les Enfants: Volume 2: La Ville et les Vacances (France)</description>
+		<serial>2001084</serial>
 		<rom name="Attention les Enfants - Volume 2 - La Ville et les Vacances (France) (Track 01).bin" size="135402288" crc="869ecca9" md5="2f7afb5fa940cfb7a09bf03088a767d1" sha1="661e0666f842832dc84efb9b4e0a54e257ac5041"/>
 		<rom name="Attention les Enfants - Volume 2 - La Ville et les Vacances (France) (Track 02).bin" size="2368464" crc="5b0647b4" md5="498ec4f59445e84c72a6eae71fd4109b" sha1="2d115e95b0166dc47a6e814c92b1d6eae4d29bcc"/>
 		<rom name="Attention les Enfants - Volume 2 - La Ville et les Vacances (France) (Track 03).bin" size="5698896" crc="96a4a117" md5="fcdcdaf97fb429f7dcea9a0934ab0851" sha1="b9be03878a3090e3f19dd3cfc7393333e0a51f3c"/>
@@ -98,6 +100,7 @@
 	<game name="Cosmopolitan Interactive Tonetics (USA)" id="75534">
 		<category>Educational</category>
 		<description>Cosmopolitan Interactive Tonetics (USA)</description>
+		<serial>310690619-2</serial>
 		<rom name="Cosmopolitan Interactive Tonetics (USA) (Track 01).bin" size="19523952" crc="35a1cba0" md5="3e4616d7d4d977883e106cd87c5a455e" sha1="1c7769151b8fa930519318ca76eb9a58e6f80907"/>
 		<rom name="Cosmopolitan Interactive Tonetics (USA) (Track 02).bin" size="1253616" crc="ee20f50b" md5="6b6c131d73ada772641e2e2ed48613a3" sha1="1cbfa47bdba94df53bc62d3143af05fdeb7b11fd"/>
 		<rom name="Cosmopolitan Interactive Tonetics (USA) (Track 03).bin" size="1253616" crc="65bd0413" md5="03c8cb3848963eb509d8f54d006f1fdb" sha1="8740315a84ba53ef5a98525ac23f914c3d4710c6"/>
@@ -158,7 +161,7 @@
 	</game>
 	<game name="My Friend - The Big Bug Show (Korea)" id="78402">
 		<category>Bonus Discs</category>
-		<description>My Friend - The Big Bug Show (Korea)</description>
+		<description>My Friend: The Big Bug Show (Korea)</description>
 		<rom name="My Friend - The Big Bug Show (Korea) (Track 1).bin" size="2589552" crc="eeeaafbd" md5="bbbf330faa4dc783ea442e2d4b0d87ed" sha1="c4775b0a4f0f5227c29c371b99aba3e62c543a2f"/>
 		<rom name="My Friend - The Big Bug Show (Korea) (Track 2).bin" size="538088208" crc="b7b85eef" md5="ab1734d5a56db4a087669452be3e657b" sha1="6cc2ec30d44c8a503432520ba8f2afba59c2b89d"/>
 		<rom name="My Friend - The Big Bug Show (Korea).cue" size="247" crc="9bd16d6f" md5="75f98570216db501dd2176b2a1af8a28" sha1="dd7c5859a258be1fac954a5709b42e3533910ebc"/>
@@ -166,6 +169,7 @@
 	<game name="Playtime Phonics 6 (Asia) (En,Zh)" id="86348">
 		<category>Educational</category>
 		<description>Playtime Phonics 6 (Asia) (En,Zh)</description>
+		<version>9.0.0.383</version>
 		<rom name="Playtime Phonics 6 (Asia) (En,Zh) (Track 01).bin" size="128414496" crc="1a70eab1" md5="7ec33d14209d07c285aff71e0f76d4a0" sha1="743812cca59c933f5ba31209d635b92d3519be40"/>
 		<rom name="Playtime Phonics 6 (Asia) (En,Zh) (Track 02).bin" size="3389232" crc="59ed4e18" md5="3ef1d054ca811af9dcc59e790e911288" sha1="66601b2dc9fa7eb586ccb03a872fd54fa15abe5c"/>
 		<rom name="Playtime Phonics 6 (Asia) (En,Zh) (Track 03).bin" size="5856480" crc="4f89240d" md5="e06d5bbcd2d2866705b7fc4b05b5c187" sha1="5febf4edf026469c95f59de281619c3ff30718d7"/>
@@ -185,6 +189,7 @@
 	<game name="Scrooged (Europe) (Disc 2)" id="116389">
 		<category>Games</category>
 		<description>Scrooged (Europe) (Disc 2)</description>
+		<serial>811 1096</serial>
 		<rom name="Scrooged (Europe) (Disc 2) (Track 1).bin" size="4762800" crc="8feb1cd4" md5="120c1a078d15536f168fbd78f521cc5b" sha1="34e7d823b70e9b7f572e433474b4c784baa3ae3e"/>
 		<rom name="Scrooged (Europe) (Disc 2) (Track 2).bin" size="432718608" crc="09bb3b73" md5="f1c5858dfb895530ffbae7b944725d3a" sha1="9e3f190106080e60eb8d6b181f745c5b3fcd6daa"/>
 		<rom name="Scrooged (Europe) (Disc 2).cue" size="365" crc="b3e21635" md5="cbfbf08ed005a2261861d7f8a2789a80" sha1="12a6b24f7fe1042bf636bb6f698ce6d9123b67eb"/>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Atari - Jaguar CD Interactive Multimedia System (Retool)</name>
-		<description>Atari - Jaguar CD Interactive Multimedia System (13) (-y) [-aAbBcdkmMpPuv] (2026-09-29 02-52-35) (Retool)</description>
-		<version>2026-09-29 02-52-35</version>
-		<date>2026-10-13 09-34-07</date>
+		<description>Atari - Jaguar CD Interactive Multimedia System (13) (-y) [-aAbBcdkmMpPuv] (2026-10-14 05-50-04) (Retool)</description>
+		<version>2026-10-14 05-50-04</version>
+		<date>2026-10-14 07-41-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,6 +14,8 @@
 	<game name="Baldies (USA) (Rev 1)" id="64384">
 		<category>Games</category>
 		<description>Baldies (USA) (Rev 1)</description>
+		<serial>J9055E</serial>
+		<version>Rev 1</version>
 		<rom name="Baldies (USA) (Rev 1) (Track 01).bin" size="11207280" crc="2b34a071" md5="fb178fd05481b3b15bb703895248f5fd" sha1="e4144cede37559516685d96c383b66af51db0814"/>
 		<rom name="Baldies (USA) (Rev 1) (Track 02).bin" size="1046640" crc="ac17fdbf" md5="0cba9f573eda197cd4c4814d5aebfb40" sha1="c96e7ed4b24700130afc601f9f8ba0f4f2891c75"/>
 		<rom name="Baldies (USA) (Rev 1) (Track 03).bin" size="11110848" crc="131f1a0a" md5="1eef178c2057f10ed6dc273add8a1ad7" sha1="2a162bc77500972930c68944ed4448f8ed5d8ec6"/>
@@ -30,6 +32,7 @@
 	<game name="Battle Morph (USA)" id="64385">
 		<category>Games</category>
 		<description>Battle Morph (USA)</description>
+		<serial>J9017E</serial>
 		<rom name="Battle Morph (USA) (Track 01).bin" size="9699648" crc="10ba56a4" md5="4e629cf21deaf09ce21e6c43487b0b6f" sha1="0d3c73be5642e47383002ad4c32bf4e7e3d26e59"/>
 		<rom name="Battle Morph (USA) (Track 02).bin" size="1053696" crc="936e7a8c" md5="cba15b005c4b128084fbf48b3f2f2683" sha1="d158a6e26dbf31326b50ff9adcb37fc0d322669e"/>
 		<rom name="Battle Morph (USA) (Track 03).bin" size="138314064" crc="49cc3c91" md5="7fed5987e36636e1db472ad326cfedb1" sha1="b7414923c18462ad45d13f7443b8cc566d1fba9c"/>
@@ -45,6 +48,7 @@
 	<game name="Blue Lightning (USA) (En,Fr,De) (Alt 2)" id="132340">
 		<category>Games</category>
 		<description>Blue Lightning (USA) (En,Fr,De) (Alt 2)</description>
+		<serial>J9016E</serial>
 		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 01).bin" size="38196480" crc="7e1ee8c7" md5="5d9564a29d2721ff8c4bfe67bd576136" sha1="8f6daa9015544cc83f0c4c320e8256ab09c41d07"/>
 		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 02).bin" size="1056048" crc="dfdcf849" md5="99d9daba71b88f9bade4e0ed01d03ec0" sha1="4bab76e281db64a00a60c9e0e6e1df6bef415b5e"/>
 		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 03).bin" size="119138208" crc="a536b676" md5="d782a327b59f2585b17364567fe50ba6" sha1="d0cb81a6cd4127f8f07eee353452254ef180262b"/>
@@ -83,7 +87,8 @@
 	</game>
 	<game name="Highlander - The Last of the MacLeods (USA)" id="64387">
 		<category>Games</category>
-		<description>Highlander - The Last of the MacLeods (USA)</description>
+		<description>Highlander: The Last of the MacLeods (USA)</description>
+		<serial>J9031E</serial>
 		<rom name="Highlander - The Last of the MacLeods (USA) (Track 1).bin" size="24630144" crc="2c636532" md5="8d487ce884f034369dc50795f2ea859b" sha1="30fc93c4c0e6a20d82dc78058389aeb0c260a56e"/>
 		<rom name="Highlander - The Last of the MacLeods (USA) (Track 2).bin" size="1053696" crc="e46b103c" md5="b4680ef4d4785824dea15763981d2eeb" sha1="c569d6440d8911c011e228775d30c1f2ea59e33a"/>
 		<rom name="Highlander - The Last of the MacLeods (USA) (Track 3).bin" size="6682032" crc="24350111" md5="7ef253c9defc66e5c7accb014a5620eb" sha1="1e356515e8687298395dcdde91e62286bc1b9c3f"/>
@@ -97,7 +102,8 @@
 	</game>
 	<game name="Hover Strike - Unconquered Lands (USA)" id="64388">
 		<category>Games</category>
-		<description>Hover Strike - Unconquered Lands (USA)</description>
+		<description>Hover Strike: Unconquered Lands (USA)</description>
+		<serial>J9086E</serial>
 		<rom name="Hover Strike - Unconquered Lands (USA) (Track 01).bin" size="705600" crc="f7640c5b" md5="3a640d1be0cf95ea71890a557427b453" sha1="519ebfdd7bb003abe9e9e9dcf33fdedd2f2d69aa"/>
 		<rom name="Hover Strike - Unconquered Lands (USA) (Track 02).bin" size="155354304" crc="46e7f3aa" md5="1a99a8be0a3ca546fd93f51d36d3541f" sha1="8b2a7f48470277c723087d67867cacd2f94f4135"/>
 		<rom name="Hover Strike - Unconquered Lands (USA) (Track 03).bin" size="49471968" crc="6b070d9a" md5="03920548ca8d6b5ab57d12df683301ab" sha1="32976634a2b941b8b7a8ff612643b261487ef94a"/>
@@ -165,6 +171,7 @@
 	<game name="Iron Soldier 2 (USA) (Songbird)" id="74612">
 		<category>Games</category>
 		<description>Iron Soldier 2 (USA) (Songbird)</description>
+		<serial>JA910</serial>
 		<rom name="Iron Soldier 2 (USA) (Songbird) (Track 01).bin" size="67697616" crc="3fa01526" md5="baae48273c1ba71bc74488520444bec8" sha1="8b0e7c30fbfa80c602e06ad96ab84f9b7f7bb4b4"/>
 		<rom name="Iron Soldier 2 (USA) (Songbird) (Track 02).bin" size="41755056" crc="38720528" md5="ab299804a6d8a0574c9786cf6e9ee67f" sha1="8beae41c2b037cf0e08ca2f6b7433804e4e2513e"/>
 		<rom name="Iron Soldier 2 (USA) (Songbird) (Track 03).bin" size="33650064" crc="517a5042" md5="8a54684f2bb1e1934d92f7712045f2b0" sha1="3a7a921ce5c06ddbb446ee58da3dd207b473f291"/>
@@ -190,6 +197,7 @@
 	<game name="Myst (USA)" id="64389">
 		<category>Games</category>
 		<description>Myst (USA)</description>
+		<serial>J9069E</serial>
 		<rom name="Myst (USA) (Track 01).bin" size="16739184" crc="259f107b" md5="7b55dfd59fcd44664741589a01047c2b" sha1="dbd5b96ae8a1f07dcc48e935571699c7cb6b0c74"/>
 		<rom name="Myst (USA) (Track 02).bin" size="1056048" crc="51483e8f" md5="eaedbe9c298eb2192cb6690648393921" sha1="06dbf45723156e88a1bdd8575f8746e8bfa72fb1"/>
 		<rom name="Myst (USA) (Track 03).bin" size="2187360" crc="ab687b0f" md5="ac7049ab12f4f9a15dc228cb98c00550" sha1="e3f88de76e8a37ed9bb8131d4488f5d861bccb2c"/>
@@ -205,6 +213,7 @@
 	<game name="Primal Rage (USA)" id="64391">
 		<category>Games</category>
 		<description>Primal Rage (USA)</description>
+		<serial>301108-0182</serial>
 		<rom name="Primal Rage (USA) (Track 01).bin" size="1107792" crc="c15afeb7" md5="975f88be1adabd3e23c7e064d27bc54c" sha1="05e68b398cf5b4ab1802692d09af06f780ea80ee"/>
 		<rom name="Primal Rage (USA) (Track 02).bin" size="2043888" crc="bd64f94a" md5="7f568c82f419ce79acb993d455ee31d2" sha1="31e945b4fd2df8433059fceaa9815a9e2a6d7156"/>
 		<rom name="Primal Rage (USA) (Track 03).bin" size="1721664" crc="74d6235b" md5="c8b12e3bf56ae6cdfea832f3c4c9eeec" sha1="5d78bd13bc63129b0b2a1210aa04ce7a001e6cd3"/>
@@ -253,6 +262,8 @@
 	<game name="Vid Grid (USA) (Rev 1)" id="132295">
 		<category>Games</category>
 		<description>Vid Grid (USA) (Rev 1)</description>
+		<serial>J9078E</serial>
+		<version>Rev 1</version>
 		<rom name="Vid Grid (USA) (Rev 1) (Track 01).bin" size="2756544" crc="a88e9ccd" md5="d2128c88107463102727d025dba522a5" sha1="32b7420b903dd9723a77771051748323b7e2c702"/>
 		<rom name="Vid Grid (USA) (Rev 1) (Track 02).bin" size="1053696" crc="227791bc" md5="9d7a66cd2f0974c333d27c414db00e5d" sha1="ccf59a5910c17163f7f0715a4c8ae4565ce7961e"/>
 		<rom name="Vid Grid (USA) (Rev 1) (Track 03).bin" size="1404144" crc="e910ce02" md5="3488167a20c225a38bba11118a015eb7" sha1="97f0314ad464bf6161a55ff595b2fda9447af615"/>

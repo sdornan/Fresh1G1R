@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Namco - System 12 (Retool)</name>
-		<description>Arcade - Namco - System 12 (1) (-y) [-aAbBcdkmMpPuv] (2026-09-30 19-52-35) (Retool)</description>
-		<version>2026-09-30 19-52-35</version>
-		<date>2026-10-13 09-36-59</date>
+		<description>Arcade - Namco - System 12 (1) (-y) [-aAbBcdkmMpPuv] (2026-10-14 05-50-33) (Retool)</description>
+		<version>2026-10-14 05-50-33</version>
+		<date>2026-10-14 07-42-43</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -13,7 +13,8 @@
 	</header>
 	<game name="Aerosmith - Quest for Fame (Japan)" id="138935">
 		<category>Games</category>
-		<description>Aerosmith - Quest for Fame (Japan)</description>
+		<description>Aerosmith: Quest for Fame (Japan)</description>
+		<serial>QF1-A</serial>
 		<rom name="Aerosmith - Quest for Fame (Japan).bin" size="320332992" crc="db945d6d" md5="e66ab16cf136c934c0d789402f40d71f" sha1="a08d90b1c8313d45d8cbc14c4dbc40222ee33a0e"/>
 		<rom name="Aerosmith - Quest for Fame (Japan).cue" size="100" crc="19551fa3" md5="f565e7fc917eab3f1cafab9f8d16faf1" sha1="7f5d3ab60a31f3ccb3cf401a5803c91fc42770d4"/>
 	</game>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Fujitsu - FM Towns series (Retool)</name>
-		<description>Fujitsu - FM Towns series (22) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-13 01-57-20) (Retool)</description>
-		<version>2026-10-13 01-57-20</version>
-		<date>2026-10-13 09-24-51</date>
+		<description>Fujitsu - FM Towns series (22) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-14 05-50-26) (Retool)</description>
+		<version>2026-10-14 05-50-26</version>
+		<date>2026-10-14 07-34-14</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,6 +14,8 @@
 	<game name="Battle Chess (Japan) (En,Ja) (Rev 1)" id="48316">
 		<category>Games</category>
 		<description>Battle Chess (Japan) (En,Ja) (Rev 1)</description>
+		<serial>HMC-123</serial>
+		<version>Rev 1</version>
 		<rom name="Battle Chess (Japan) (En,Ja) (Rev 1) (Track 01).bin" size="52038000" crc="f120a9a5" md5="798e9d65c2428f7de7545b492740c247" sha1="789d19facee66da91a619799bd4ea902af12050a"/>
 		<rom name="Battle Chess (Japan) (En,Ja) (Rev 1) (Track 02).bin" size="160702752" crc="2a8c7147" md5="c76c3846ea25b55b2b72ffcdb16417bd" sha1="27aad576f603d55ea8e762aab44e896fbec2b2c0"/>
 		<rom name="Battle Chess (Japan) (En,Ja) (Rev 1) (Track 03).bin" size="22160544" crc="253f669b" md5="359f8d82069c385f703cc690aeeac65e" sha1="ec097ad141d8be24c24f46e3528a3d80f10ecd1c"/>
@@ -41,6 +43,7 @@
 	<game name="Castles (Japan) (En,Ja)" id="72522">
 		<category>Games</category>
 		<description>Castles (Japan) (En,Ja)</description>
+		<serial>HMD-173</serial>
 		<rom name="Castles (Japan) (En,Ja) (Track 01).bin" size="10231200" crc="b2dafa0e" md5="c2386fdf6333825641323dee36381c44" sha1="e85c9988f4442b873f310017dfff4bebeb194bbb"/>
 		<rom name="Castles (Japan) (En,Ja) (Track 02).bin" size="23816352" crc="db9f09f6" md5="460ea94faf443077fa3af053e49b9a6a" sha1="f49e001c04b53b1051905b7f09b1bc2ea579db23"/>
 		<rom name="Castles (Japan) (En,Ja) (Track 03).bin" size="5292000" crc="c11c1f60" md5="5eea1f6a50be3cddaed9977dc9b38bdb" sha1="57f8fb1035a13868b0074104686caa651a55f3f3"/>
@@ -65,7 +68,8 @@
 	</game>
 	<game name="Castles II - Siege &amp; Conquest (Japan) (En,Ja)" id="78676">
 		<category>Games</category>
-		<description>Castles II - Siege &amp; Conquest (Japan) (En,Ja)</description>
+		<description>Castles II: Siege &amp; Conquest (Japan) (En,Ja)</description>
+		<serial>HME-186</serial>
 		<rom name="Castles II - Siege &amp; Conquest (Japan) (En,Ja) (Track 01).bin" size="20815200" crc="b572264a" md5="a8d76aa6634ccfb9a4956575c633c699" sha1="6b3fadc3be1f78f0e0d1791fc945e79897c185f8"/>
 		<rom name="Castles II - Siege &amp; Conquest (Japan) (En,Ja) (Track 02).bin" size="5823552" crc="e380eafe" md5="9e8434056d78b751ca7d94e32376c06e" sha1="39fc5d23f0ea1d153fce4777221d2dd31b88c5c1"/>
 		<rom name="Castles II - Siege &amp; Conquest (Japan) (En,Ja) (Track 03).bin" size="9878400" crc="80f2734d" md5="e24f4e359994124c185aecfab569fce2" sha1="1328dc6add0988129c7dadacdb3fffd6f976df9d"/>
@@ -86,6 +90,8 @@
 	<game name="Dungeon Master (Japan) (En,Ja) (Rev 1)" id="43626">
 		<category>Games</category>
 		<description>Dungeon Master (Japan) (En,Ja) (Rev 1)</description>
+		<serial>HMA-240</serial>
+		<version>Rev 1</version>
 		<rom name="Dungeon Master (Japan) (En,Ja) (Rev 1) (Track 01).bin" size="5056800" crc="eb474b1e" md5="c355fdc6015b7725a94c44f4b17ade0f" sha1="bd503f53428bbcd4654844046995cb4e6821016a"/>
 		<rom name="Dungeon Master (Japan) (En,Ja) (Rev 1) (Track 02).bin" size="21168000" crc="3f164f39" md5="0ba7298cb414de08db5a150896bd7433" sha1="d410624e8044917b4f8e1bf144a1faa3b4b0f4d7"/>
 		<rom name="Dungeon Master (Japan) (En,Ja) (Rev 1) (Track 03).bin" size="20462400" crc="26cffbbd" md5="158cfab90a8225e0cdc25a0277f36250" sha1="561225548c37409203a2a150b87ab31da6710f11"/>
@@ -110,7 +116,8 @@
 	</game>
 	<game name="Dungeon Master - Chaos Strikes Back (Japan) (En,Ja)" id="68299">
 		<category>Games</category>
-		<description>Dungeon Master - Chaos Strikes Back (Japan) (En,Ja)</description>
+		<description>Dungeon Master: Chaos Strikes Back (Japan) (En,Ja)</description>
+		<serial>HMB-216</serial>
 		<rom name="Dungeon Master - Chaos Strikes Back (Japan) (En,Ja) (Track 01).bin" size="10231200" crc="f1fd8b1b" md5="b3cf0e2d34102d7007f95ff327bb6e0a" sha1="7d20d41a3c365efca9552d49f528c5fbd1cc323c"/>
 		<rom name="Dungeon Master - Chaos Strikes Back (Japan) (En,Ja) (Track 02).bin" size="8175552" crc="23af005c" md5="a4f4d751698e58bf2e85cf43cef67d8e" sha1="8c34ed49c0408c631c8bd895b85708e7451be982"/>
 		<rom name="Dungeon Master - Chaos Strikes Back (Japan) (En,Ja) (Track 03).bin" size="17738784" crc="e29f84b0" md5="d977f193c08b779dcb20f7401b2b8384" sha1="eca120cbe2e56a812b056addbc101644ea1727d4"/>
@@ -146,7 +153,8 @@
 	</game>
 	<game name="Fujitsu Air Warrior V2 - Version 2.1 Level 10 (Japan) (En,Ja)" id="69383">
 		<category>Games</category>
-		<description>Fujitsu Air Warrior V2 - Version 2.1 Level 10 (Japan) (En,Ja)</description>
+		<description>Fujitsu Air Warrior V2: Version 2.1 Level 10 (Japan) (En,Ja)</description>
+		<serial>HMD-109D</serial>
 		<rom name="Fujitsu Air Warrior V2 - Version 2.1 Level 10 (Japan) (En,Ja) (Track 1).bin" size="31399200" crc="c5da9017" md5="1ffbd6db25db1e1fc0630bb7a59920bb" sha1="2e768e1f117fcf921ecde580fd4ffeafc48d405a"/>
 		<rom name="Fujitsu Air Warrior V2 - Version 2.1 Level 10 (Japan) (En,Ja) (Track 2).bin" size="22226400" crc="4842bf9d" md5="c206b9d5d93877cd27944f2c66b09bc7" sha1="bcfaeb803f6c7925ad018ec655e831d15f5fb7af"/>
 		<rom name="Fujitsu Air Warrior V2 - Version 2.1 Level 10 (Japan) (En,Ja) (Track 3).bin" size="14112000" crc="6ca56d10" md5="10f295a18707d0a26c0624b6defc43b4" sha1="61e3610f5fca8796062bf81793f4d2f2a09b3eb5"/>
@@ -155,18 +163,21 @@
 	<game name="Heroes of the Lance (Japan) (En,Ja)" id="111482">
 		<category>Games</category>
 		<description>Heroes of the Lance (Japan) (En,Ja)</description>
+		<serial>HMB-158</serial>
 		<rom name="Heroes of the Lance (Japan) (En,Ja).bin" size="6698496" crc="b4fb7f62" md5="3e98f422a94ea81ccf0673a2c06e514d" sha1="ed9ed92f74bc78fc01aca78381027e5424f72e39"/>
 		<rom name="Heroes of the Lance (Japan) (En,Ja).cue" size="101" crc="927dee57" md5="877ea1828b94b819d7c1a91a09766b64" sha1="3f242e6c26f912029870c8e503994f41718dcff8"/>
 	</game>
 	<game name="Indiana Jones and the Fate of Atlantis (Japan) (En,Ja)" id="77379">
 		<category>Games</category>
 		<description>Indiana Jones and the Fate of Atlantis (Japan) (En,Ja)</description>
+		<serial>HME-185</serial>
 		<rom name="Indiana Jones and the Fate of Atlantis (Japan) (En,Ja).bin" size="200743200" crc="c2e5b4df" md5="51160ab1996828ffa453e130e12e2809" sha1="ca3af16f783ed36cc95cd8103b02e34078ba5ff5"/>
 		<rom name="Indiana Jones and the Fate of Atlantis (Japan) (En,Ja).cue" size="143" crc="8be3f221" md5="8fab59a34724bdc1cfb85a26119476f1" sha1="12e3249fa892de02397c49461f423ebdecc05cfe"/>
 	</game>
 	<game name="Indiana Jones and the Last Crusade (Japan) (En,Ja)" id="65174">
 		<category>Games</category>
 		<description>Indiana Jones and the Last Crusade (Japan) (En,Ja)</description>
+		<serial>HMB-142</serial>
 		<rom name="Indiana Jones and the Last Crusade (Japan) (En,Ja) (Track 01).bin" size="20808144" crc="f68c9f0c" md5="fe9f0ea800bb662bc99c0a5c2f124f4d" sha1="d505c9d2e8c645efd6b27505c590dc7ec1af6e6a"/>
 		<rom name="Indiana Jones and the Last Crusade (Japan) (En,Ja) (Track 02).bin" size="36695904" crc="3539d50c" md5="9bdbae67158ef8b55d016a312dc6e876" sha1="a95acb27b7cec66e9327ad34abb526a5a4bd9758"/>
 		<rom name="Indiana Jones and the Last Crusade (Japan) (En,Ja) (Track 03).bin" size="12493824" crc="4fdf8a9a" md5="6c26d86043e6d7f73f33bd5af64ec52f" sha1="4ce3ffa55973f995bb6f4123d78f755bd9ca0a07"/>
@@ -188,14 +199,16 @@
 	</game>
 	<game name="Infestation - Chinmoku no Wakusei (Japan) (En,Ja,Fr,De)" id="69405">
 		<category>Games</category>
-		<description>Infestation - Chinmoku no Wakusei (Japan) (En,Ja,Fr,De)</description>
+		<description>Infestation: Chinmoku no Wakusei (Japan) (En,Ja,Fr,De)</description>
+		<serial>HMC-199</serial>
 		<rom name="Infestation - Chinmoku no Wakusei (Japan) (En,Ja,Fr,De) (Track 1).bin" size="20815200" crc="03073950" md5="4a970325901275a1db40b0132f954379" sha1="eadff9ff2a067eea407365135ac4fd9f74d03b52"/>
 		<rom name="Infestation - Chinmoku no Wakusei (Japan) (En,Ja,Fr,De) (Track 2).bin" size="361363632" crc="94853611" md5="47eaf06c6adaeef74a63d7530ca62e9d" sha1="7cd7d63e60b1bacb4d1e79b4b4d0e1e3c8037a23"/>
 		<rom name="Infestation - Chinmoku no Wakusei (Japan) (En,Ja,Fr,De).cue" size="303" crc="ab4a1ec0" md5="32e434b478899ade6e0935eb0477d34d" sha1="17c0a428b3c4606abeed959b9d4cddf0a9c024dd"/>
 	</game>
 	<game name="Ishido - The Way of Stones (Japan) (En,Ja)" id="81536">
 		<category>Games</category>
-		<description>Ishido - The Way of Stones (Japan) (En,Ja)</description>
+		<description>Ishidō: The Way of Stones (Japan) (En,Ja)</description>
+		<serial>HMB-128</serial>
 		<rom name="Ishido - The Way of Stones (Japan) (En,Ja) (Track 01).bin" size="20286000" crc="58cba522" md5="593c2fef7f2fef222583b236d92ef171" sha1="472eef6f5a2e8a9d34ee4d85fe8b33d599de4c21"/>
 		<rom name="Ishido - The Way of Stones (Japan) (En,Ja) (Track 02).bin" size="38297616" crc="7f982afd" md5="718d6ffcdf1cdb6034774c8f3f3c5ffd" sha1="f1504242c73bd1c16b72268803582e34adac12cb"/>
 		<rom name="Ishido - The Way of Stones (Japan) (En,Ja) (Track 03).bin" size="17103744" crc="903521c1" md5="7d515dc789df517385f3f9ab6890acfb" sha1="dcf135acd7ed1a1310b743b4a835cf458085a559"/>
@@ -212,13 +225,15 @@
 	</game>
 	<game name="King's Quest V - Absence Makes the Heart Go Yonder (Japan) (En,Ja) (Rev 1)" id="77380">
 		<category>Games</category>
-		<description>King's Quest V - Absence Makes the Heart Go Yonder (Japan) (En,Ja) (Rev 1)</description>
+		<description>King's Quest V: Absence Makes the Heart Go Yonder (Japan) (En,Ja) (Rev 1)</description>
+		<version>Rev 1</version>
 		<rom name="King's Quest V - Absence Makes the Heart Go Yonder (Japan) (En,Ja) (Rev 1).bin" size="287461440" crc="2e9776ca" md5="3a05d40509388efd186e3591ab58e8c2" sha1="c750d7fd52979ad8c472f7f7ca6e8ccf52f08f8b"/>
 		<rom name="King's Quest V - Absence Makes the Heart Go Yonder (Japan) (En,Ja) (Rev 1).cue" size="163" crc="3f4c2968" md5="4ea912b1559baf900b3ea766604d93e7" sha1="6ae2233cd86b62ae2f50a2bd3287d960a4f634e6"/>
 	</game>
 	<game name="Kyrandia II - The Hand of Fate (Japan) (En,Ja)" id="60470">
 		<category>Games</category>
-		<description>Kyrandia II - The Hand of Fate (Japan) (En,Ja)</description>
+		<description>Kyrandia II: The Hand of Fate (Japan) (En,Ja)</description>
+		<serial>HMG-130</serial>
 		<rom name="Kyrandia II - The Hand of Fate (Japan) (En,Ja) (Track 01).bin" size="21497280" crc="7b4c8e55" md5="7d28ee0633bb2fb8891bb1664d46d75f" sha1="aeaa1b5e9ef1603816adc6a83d09692a92c51c35"/>
 		<rom name="Kyrandia II - The Hand of Fate (Japan) (En,Ja) (Track 02).bin" size="2232048" crc="ef9ca1ea" md5="c33deb91d4f20448f11b284969555f72" sha1="27752a1ce61b9d6e09ea0580c2b0f2420940d746"/>
 		<rom name="Kyrandia II - The Hand of Fate (Japan) (En,Ja) (Track 03).bin" size="4250064" crc="a82e0579" md5="3f008df551fc02d1c470009f3648e01f" sha1="cfaa9a975d98762cdb1c7c126f990a5eff449ac7"/>
@@ -309,6 +324,7 @@
 	<game name="Legend of Kyrandia, The (Japan) (En,Ja) (Alt)" id="60469">
 		<category>Games</category>
 		<description>Legend of Kyrandia, The (Japan) (En,Ja) (Alt)</description>
+		<serial>SC-93002</serial>
 		<rom name="Legend of Kyrandia, The (Japan) (En,Ja) (Alt) (Track 01).bin" size="9403296" crc="22887101" md5="1a5921322379002328efb12ba74b88a0" sha1="310f10bc63da750541b513913990708daf57e14f"/>
 		<rom name="Legend of Kyrandia, The (Japan) (En,Ja) (Alt) (Track 02).bin" size="29752800" crc="25626629" md5="fea80adb9e228818a52d6f3de109f03e" sha1="174ff1838863decc1d0d85aa96e4a25cc051f7ac"/>
 		<rom name="Legend of Kyrandia, The (Japan) (En,Ja) (Alt) (Track 03).bin" size="28129920" crc="9118b9ea" md5="5b1873afc2a7da6470f0121f8f3abeb2" sha1="eda13c04ef5fd2e540f2b313c3ede040dc039511"/>
@@ -335,13 +351,15 @@
 	</game>
 	<game name="Monkey Island 2 - LeChuck's Revenge (Japan) (En,Ja)" id="73564">
 		<category>Games</category>
-		<description>Monkey Island 2 - LeChuck's Revenge (Japan) (En,Ja)</description>
+		<description>Monkey Island 2: LeChuck's Revenge (Japan) (En,Ja)</description>
+		<serial>HME-253</serial>
 		<rom name="Monkey Island 2 - LeChuck's Revenge (Japan) (En,Ja).bin" size="41983200" crc="c08c2bea" md5="35833a3c7501d9ac5343f945964eb421" sha1="92e36ad38cf7b031784ab2b4ead098f638ccb1cb"/>
 		<rom name="Monkey Island 2 - LeChuck's Revenge (Japan) (En,Ja).cue" size="140" crc="369c7d97" md5="66e24fb8a9d0c3a465ea2088b526699f" sha1="e3ee1abe34452b30db902de2bc9617809eb9308f"/>
 	</game>
 	<game name="Ryuutouden (Japan) (En,Ja)" id="81663">
 		<category>Games</category>
 		<description>Ryuutouden (Japan) (En,Ja)</description>
+		<serial>HME-213</serial>
 		<rom name="Ryuutouden (Japan) (En,Ja) (Track 1).bin" size="10231200" crc="395d0d92" md5="57970cd9e325b3848d0e63fc14f08e63" sha1="85912b5aeaf8700442c696ad59a61a5d29fab162"/>
 		<rom name="Ryuutouden (Japan) (En,Ja) (Track 2).bin" size="52390800" crc="ed0788df" md5="c1e6b31d800ea1b40d4bf181a98434ce" sha1="e86e4eab220ddf3727a297767f42b9c818f075ff"/>
 		<rom name="Ryuutouden (Japan) (En,Ja) (Track 3).bin" size="40572000" crc="315989b3" md5="f3be1cd14ecb7a954aad4d3a9b1e7fa0" sha1="8bb0046cff29263d6a5e7ac10c4f1fd88deef1a9"/>
@@ -351,6 +369,7 @@
 	<game name="Secret of Monkey Island, The (Japan) (En,Ja)" id="69714">
 		<category>Games</category>
 		<description>Secret of Monkey Island, The (Japan) (En,Ja)</description>
+		<serial>HMD-155</serial>
 		<rom name="Secret of Monkey Island, The (Japan) (En,Ja) (Track 01).bin" size="13495776" crc="067d4a9a" md5="93ceb10110accba4e76c6b1dbc27d3a9" sha1="d7b5582f04f79aeab286df02fa06c9f5a7981d9f"/>
 		<rom name="Secret of Monkey Island, The (Japan) (En,Ja) (Track 02).bin" size="41896176" crc="bd08bf07" md5="7367fbc4c6b6380a5744b05613301acd" sha1="0b2a817a300e40da8387730905e71d8e77bdbf04"/>
 		<rom name="Secret of Monkey Island, The (Japan) (En,Ja) (Track 03).bin" size="22402800" crc="861fd587" md5="fad6c2729c0198f2a0901a9edeadbdae" sha1="384e202e60c192f8ae3786858ecbc2713fe93653"/>
@@ -380,13 +399,16 @@
 	</game>
 	<game name="Sherlock Holmes - Consulting Detective (Japan) (En,Ja)" id="64842">
 		<category>Games</category>
-		<description>Sherlock Holmes - Consulting Detective (Japan) (En,Ja)</description>
+		<description>Sherlock Holmes: Consulting Detective (Japan) (En,Ja)</description>
+		<serial>HMC-127</serial>
 		<rom name="Sherlock Holmes - Consulting Detective (Japan) (En,Ja).bin" size="719359200" crc="f7a554af" md5="c01111bba03a380eb436202a985bc5ce" sha1="0d0398ba9e04aca0bebcc2711a2513a246bc9e57"/>
 		<rom name="Sherlock Holmes - Consulting Detective (Japan) (En,Ja).cue" size="120" crc="66038d6d" md5="973f977c449097ef3f45d10b09753fef" sha1="085c044c6441ff31c079de4b8baf21187f70066e"/>
 	</game>
 	<game name="SimCity (Japan) (En,Ja) (Rev A)" id="83715">
 		<category>Games</category>
 		<description>SimCity (Japan) (En,Ja) (Rev A)</description>
+		<serial>HMB-121A</serial>
+		<version>Rev A</version>
 		<rom name="SimCity (Japan) (En,Ja) (Rev A) (Track 01).bin" size="4410000" crc="248f0adc" md5="05ed89eeba490710d993dc0610ceb07c" sha1="39d20b568ff8ebef965a5fb3cd42d0f685fc2f44"/>
 		<rom name="SimCity (Japan) (En,Ja) (Rev A) (Track 02).bin" size="10459344" crc="36e62675" md5="d51da53d271847a13014f2704b566c4a" sha1="c51b803c0ed1462f3317764bda007cc1b610baf4"/>
 		<rom name="SimCity (Japan) (En,Ja) (Rev A) (Track 03).bin" size="10113600" crc="b17cce2d" md5="ecc8d7d815865c1ec1cb702f9d3deba8" sha1="f347b1ae69ca87cc210ea76970ff5218a431e8fa"/>
@@ -407,13 +429,15 @@
 	</game>
 	<game name="Where in the World Is Carmen Sandiego Carmen Sandiego o Oe! Sekai-hen (Japan) (En,Ja)" id="86124">
 		<category>Games</category>
-		<description>Where in the World Is Carmen Sandiego Carmen Sandiego o Oe! Sekai-hen (Japan) (En,Ja)</description>
+		<description>Where in the World Is Carmen Sandiego? Carmen Sandiego o Oe! Sekai-hen (Japan) (En,Ja)</description>
+		<serial>HME-117</serial>
 		<rom name="Where in the World Is Carmen Sandiego Carmen Sandiego o Oe! Sekai-hen (Japan) (En,Ja).bin" size="370087200" crc="ee91b366" md5="e4218a61f15de0de63327b74a9e23ccf" sha1="a5aa28a4aaaeb25b8df7e2f22d046c8a8181b541"/>
 		<rom name="Where in the World Is Carmen Sandiego Carmen Sandiego o Oe! Sekai-hen (Japan) (En,Ja).cue" size="151" crc="f3a1789b" md5="1438191c615b1d2dd9cd60fd221a528e" sha1="3f425590a7e38dceb3e8f8ef23c3c056a77e8473"/>
 	</game>
 	<game name="Wing Commander (Japan) (En,Ja)" id="63146">
 		<category>Games</category>
 		<description>Wing Commander (Japan) (En,Ja)</description>
+		<serial>HMD-166</serial>
 		<rom name="Wing Commander (Japan) (En,Ja) (Track 01).bin" size="31399200" crc="5e851e7f" md5="5697c78372b1852b81cee2e132beb8e4" sha1="bf0d61314a26b1af8346a8af56220afde20612ef"/>
 		<rom name="Wing Commander (Japan) (En,Ja) (Track 02).bin" size="5115600" crc="e14355c5" md5="40f5698232b7acdb39862ed0f1c6243b" sha1="7d7db01356c45b56892826d889f066dc7d221e19"/>
 		<rom name="Wing Commander (Japan) (En,Ja) (Track 03).bin" size="53978400" crc="c36f6de8" md5="70a232e1699c4a5b58b03121984a57b1" sha1="14d51169db962024b8bfe88fc62022a449ec7729"/>
@@ -462,6 +486,8 @@
 	<game name="Zak McKracken and the Alien Mindbenders (Japan) (En,Ja) (Rev A)" id="83749">
 		<category>Games</category>
 		<description>Zak McKracken and the Alien Mindbenders (Japan) (En,Ja) (Rev A)</description>
+		<serial>HMB-218A</serial>
+		<version>Rev A</version>
 		<rom name="Zak McKracken and the Alien Mindbenders (Japan) (En,Ja) (Rev A) (Track 01).bin" size="54331200" crc="68733f99" md5="86bd5e17335fd8bd37fd3d93cbc6ba7e" sha1="a4ffaa88b3c83a9f8df5e0c3a1cb1f7c11e8509e"/>
 		<rom name="Zak McKracken and the Alien Mindbenders (Japan) (En,Ja) (Rev A) (Track 02).bin" size="7056000" crc="8f0b286e" md5="f6b5569a649a788ee10ded68bccd4b5b" sha1="171d42e3189173b3ed415d54a512c117f37c13cc"/>
 		<rom name="Zak McKracken and the Alien Mindbenders (Japan) (En,Ja) (Rev A) (Track 03).bin" size="43387344" crc="c3ec7639" md5="dfcf186ebddafdbea46d2e89900a6b05" sha1="5a89810c38b7fa1218ec87735daf3a3263d4e911"/>

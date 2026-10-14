@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC-88 series (Retool)</name>
-		<description>NEC - PC-88 series (2) (-y) [-aAbBcdkmMpPuv] (2026-08-13 18-08-53) (Retool)</description>
-		<version>2026-08-13 18-08-53</version>
-		<date>2026-10-13 09-37-07</date>
+		<description>NEC - PC-88 series (2) (-y) [-aAbBcdkmMpPuv] (2026-10-14 05-51-53) (Retool)</description>
+		<version>2026-10-14 05-51-53</version>
+		<date>2026-10-14 07-42-47</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,6 +14,7 @@
 	<game name="DIOS (Japan)" id="119031">
 		<category>Games</category>
 		<description>DIOS (Japan)</description>
+		<serial>ZAIN-00001</serial>
 		<rom name="DIOS (Japan) (Track 1).bin" size="30517200" crc="324ba477" md5="d967ed268199dfbaff8e0c3a0d8abb55" sha1="07d617f9c9a163a535fa1750a3eb11ca83ff4a25"/>
 		<rom name="DIOS (Japan) (Track 2).bin" size="9937200" crc="728e8ebd" md5="e91572330029e817467177b4d76ff512" sha1="b6cd2270f964fc29a3679896039d75d7fc68a26f"/>
 		<rom name="DIOS (Japan) (Track 3).bin" size="116932032" crc="b73b2425" md5="93bdd1770889525e6762177dd282fde5" sha1="3090b6883dc952832d5770f56abe6943a87bdc94"/>

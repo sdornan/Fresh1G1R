@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD (Retool)</name>
-		<description>Commodore - Amiga CD (61) (-ly) [-aAbBcdDefkmMopPruv] (2026-09-19 08-12-35) (Retool)</description>
-		<version>2026-09-19 08-12-35</version>
-		<date>2026-10-13 09-24-39</date>
+		<description>Commodore - Amiga CD (61) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-14 05-50-03) (Retool)</description>
+		<version>2026-10-14 05-50-03</version>
+		<date>2026-10-14 07-34-08</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -55,7 +55,8 @@
 	</game>
 	<game name="Descent - FreeSpace - The Great War (Europe)" id="58950">
 		<category>Games</category>
-		<description>Descent - FreeSpace - The Great War (Europe)</description>
+		<description>Descent: FreeSpace: The Great War (Europe)</description>
+		<version>1.06</version>
 		<rom name="Descent - FreeSpace - The Great War (Europe).bin" size="711722256" crc="2623abbd" md5="260384883904847659195f2aabcdd513" sha1="51ccc7e71886e6a6977e93ea9d034a64a399a260"/>
 		<rom name="Descent - FreeSpace - The Great War (Europe).cue" size="110" crc="2774fe3b" md5="74f1db3653b0538a056ca2e92dd5dea9" sha1="becf83e75803535f345ee626b3d353f2b9b35913"/>
 	</game>
@@ -73,7 +74,7 @@
 	</game>
 	<game name="Final Odyssey - Theseus Verses the Minotaur (Europe) (En,De,Es,It,No,Da,Fi)" id="18527">
 		<category>Games</category>
-		<description>Final Odyssey - Theseus Verses the Minotaur (Europe) (En,De,Es,It,No,Da,Fi)</description>
+		<description>Final Odyssey: Theseus Verses the Minotaur (Europe) (En,De,Es,It,No,Da,Fi)</description>
 		<rom name="Final Odyssey - Theseus Verses the Minotaur (Europe) (En,De,Es,It,No,Da,Fi).bin" size="227304336" crc="c1877303" md5="1edb65afd509b81568618178fb2272a0" sha1="fa37698bfa1853dfb5fa15c17e6e35751a0e81c7"/>
 		<rom name="Final Odyssey - Theseus Verses the Minotaur (Europe) (En,De,Es,It,No,Da,Fi).cue" size="164" crc="987f7cd3" md5="b8cd37baaac49f42d0a7f87f0e2637fe" sha1="578beac5fdc02f35cdca29e6fe814fa53260a274"/>
 	</game>
@@ -96,7 +97,7 @@
 	</game>
 	<game name="Foundation - The Directors Cut (Europe)" id="111183">
 		<category>Games</category>
-		<description>Foundation - The Directors Cut (Europe)</description>
+		<description>Foundation: The Directors Cut (Europe)</description>
 		<rom name="Foundation - The Directors Cut (Europe) (Track 1).bin" size="149998800" crc="70443b7d" md5="2601be6a0c181e31fc1d8a8a04dfc4e5" sha1="03a07dd2610c212b58419d7f9f211d1e78217f0f"/>
 		<rom name="Foundation - The Directors Cut (Europe) (Track 2).bin" size="89867568" crc="050286f4" md5="1c3b157b1f9a69f27ec813a114d4ccb8" sha1="2b33e6b7e04cc66570efd1ec04f87ca015cc2701"/>
 		<rom name="Foundation - The Directors Cut (Europe) (Track 3).bin" size="80059728" crc="1d77ddc3" md5="63de375bacdb42ae49c120277e9d2c71" sha1="d446b61a38e3637a23cf435c94c4001168aeb19c"/>
@@ -107,7 +108,7 @@
 	</game>
 	<game name="Foundation - The Undiscovered Land (Europe)" id="111184">
 		<category>Games</category>
-		<description>Foundation - The Undiscovered Land (Europe)</description>
+		<description>Foundation: The Undiscovered Land (Europe)</description>
 		<rom name="Foundation - The Undiscovered Land (Europe).bin" size="92250144" crc="bd9cd0f9" md5="6eb0b3e602246448f830cae5acfcec59" sha1="3ae368c737fff28d2dd821d6eb628e253115c8c4"/>
 		<rom name="Foundation - The Undiscovered Land (Europe).cue" size="109" crc="7a2cbe6e" md5="d4932d6dec8b398b5eaeeec18ddd4611" sha1="eee9d8938537f39e57d08c0d8d8636d8c66d440a"/>
 	</game>
@@ -242,25 +243,29 @@
 	</game>
 	<game name="Nemac IV - Director's Cut (Europe)" id="29390">
 		<category>Games</category>
-		<description>Nemac IV - Director's Cut (Europe)</description>
+		<description>Nemac IV: Director's Cut (Europe)</description>
+		<version>1.1</version>
 		<rom name="Nemac IV - Director's Cut (Europe).bin" size="533092560" crc="73fb02ba" md5="e62e096fa49ba306f050938de347da6f" sha1="030290d8316dac739118a704bdcc8025f73647ff"/>
 		<rom name="Nemac IV - Director's Cut (Europe).cue" size="100" crc="af82e192" md5="3433c23342f4d2327df9bebcec383354" sha1="0f7b7a12196a3720556669adf99476ec5cde4837"/>
 	</game>
 	<game name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 1)" id="18524">
 		<category>Games</category>
-		<description>Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 1)</description>
+		<description>Nightlong: Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 1)</description>
+		<version>1.1</version>
 		<rom name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 1).bin" size="737344944" crc="29d7e606" md5="207ecfc9a0f8fe43b09d12a47785b0bb" sha1="5e37b4a710ee70f71ea5eb35e90ceb17a98bf59b"/>
 		<rom name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 1).cue" size="134" crc="c31c198b" md5="aa39c82bae8348e079a9c753a9e767d4" sha1="c1e484eea447d19dac32c2a22b0f8794d96a7eef"/>
 	</game>
 	<game name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 2)" id="18525">
 		<category>Games</category>
-		<description>Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 2)</description>
+		<description>Nightlong: Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 2)</description>
+		<version>1.1</version>
 		<rom name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 2).bin" size="715965264" crc="64c2d367" md5="49a36b94939d4a6fc39153c55bafe3aa" sha1="328ef94f8874eb7644139e2985375f5e10892bb6"/>
 		<rom name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 2).cue" size="134" crc="c2413f5a" md5="74c7ec1a879ab6a2d9e4283b15fcee3d" sha1="7b547396e0e6e290876046db38f5d9c88e41d4e1"/>
 	</game>
 	<game name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 3)" id="18526">
 		<category>Games</category>
-		<description>Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 3)</description>
+		<description>Nightlong: Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 3)</description>
+		<version>1.1</version>
 		<rom name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 3).bin" size="684349680" crc="9618773e" md5="65ad8ea5df6c456716db924dfe436f4d" sha1="7f975741a6d8e1dfd767b29203757962da21ca34"/>
 		<rom name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 3).cue" size="134" crc="745adf2a" md5="5622da6f83a8c9effea889a4c665c307" sha1="b665f112d9aad1defc312374c2ed6432a9009f65"/>
 	</game>
@@ -346,6 +351,7 @@
 	<game name="Shadow of the Third Moon, The (Europe)" id="110019">
 		<category>Games</category>
 		<description>Shadow of the Third Moon, The (Europe)</description>
+		<version>1.1</version>
 		<rom name="Shadow of the Third Moon, The (Europe) (Track 01).bin" size="123825744" crc="afeee496" md5="7793679d756408c8a5558ad7b53df158" sha1="a28a87ab5fd3958af5fec82ba568c2b27cdcb38f"/>
 		<rom name="Shadow of the Third Moon, The (Europe) (Track 02).bin" size="37528512" crc="3bdce045" md5="c1d89862ecf210aa4657816f7939b9d4" sha1="2aa01c28d08e388015c2a5ad4c2dd94970cef941"/>
 		<rom name="Shadow of the Third Moon, The (Europe) (Track 03).bin" size="55937616" crc="c193e5db" md5="052aacbd478986251db11b788727735b" sha1="e0ae835704ff9d8f536be9e9dc84d83a8c3f3eed"/>
@@ -453,7 +459,8 @@
 	</game>
 	<game name="Uropa^2 - The Ulterior Colony (Europe) (En,Fr,De,It,Pt,Sv,No,Da,Fi,Cs)" id="95507">
 		<category>Games</category>
-		<description>Uropa^2 - The Ulterior Colony (Europe) (En,Fr,De,It,Pt,Sv,No,Da,Fi,Cs)</description>
+		<description>Uropa²: The Ulterior Colony (Europe) (En,Fr,De,It,Pt,Sv,No,Da,Fi,Cs)</description>
+		<version>3.0 (internal v7.110)</version>
 		<rom name="Uropa^2 - The Ulterior Colony (Europe) (En,Fr,De,It,Pt,Sv,No,Da,Fi,Cs).bin" size="346454304" crc="32e203eb" md5="3adb83bb21ee836b408d6714b589971c" sha1="dfbcfa81dc6236e8211df0d33c5b707ba8503dc7"/>
 		<rom name="Uropa^2 - The Ulterior Colony (Europe) (En,Fr,De,It,Pt,Sv,No,Da,Fi,Cs).cue" size="136" crc="ec91a437" md5="7ebeeafebd28a3e7454e2e46444f6eca" sha1="ed085a63bb4c8c7d1f87a2c98b727d24878b7a0b"/>
 	</game>
@@ -476,7 +483,7 @@
 	</game>
 	<game name="Vulcanology - The MiniSeries Compilation (Europe) (En,Fr,De)" id="28270">
 		<category>Games</category>
-		<description>Vulcanology - The MiniSeries Compilation (Europe) (En,Fr,De)</description>
+		<description>Vulcanology: The MiniSeries Compilation (Europe) (En,Fr,De)</description>
 		<rom name="Vulcanology - The MiniSeries Compilation (Europe) (En,Fr,De).bin" size="198861600" crc="393e5c62" md5="7d3bd4df72251df6584a7cc29818dd9c" sha1="411f2bf6e40ad5b1526e4cda85aced2f8b895d1a"/>
 		<rom name="Vulcanology - The MiniSeries Compilation (Europe) (En,Fr,De).cue" size="126" crc="1d3987e2" md5="10822da2518e3d40ea85d59eeb8858cb" sha1="6c8fd4bc183fbc16716fd95b4f947ac52b8549ac"/>
 	</game>
@@ -524,7 +531,7 @@
 	</game>
 	<game name="Zoom - Release 2 (UK)" id="111216">
 		<category>Games</category>
-		<description>Zoom - Release 2 (UK)</description>
+		<description>Zoom: Release 2 (UK)</description>
 		<rom name="Zoom - Release 2 (UK).bin" size="762080928" crc="61fd5003" md5="5d8b5edd918136704dbf4740cc5e40a3" sha1="b51e56441df7047ad8eaefba1ff77bcff9f6411c"/>
 		<rom name="Zoom - Release 2 (UK).cue" size="87" crc="f8bca800" md5="de1abc83311290d9877360c5cc06b39f" sha1="9d2e023016fed606d5243dc946a5127a70809461"/>
 	</game>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Konami - System GV (Retool)</name>
-		<description>Arcade - Konami - System GV (2) (-y) [-aAbBcefkmMoprv] (2026-08-13 18-07-24) (Retool)</description>
-		<version>2026-08-13 18-07-24</version>
-		<date>2026-10-13 09-16-16</date>
+		<description>Arcade - Konami - System GV (2) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-50-30) (Retool)</description>
+		<version>2026-10-14 05-50-30</version>
+		<date>2026-10-14 07-27-18</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,6 +14,7 @@
 	<game name="Nagano Winter Olympics '98 (Export)" id="135449">
 		<category>Games</category>
 		<description>Nagano Winter Olympics '98 (Export)</description>
+		<serial>720 EA A01</serial>
 		<rom name="Nagano Winter Olympics '98 (Export) (Track 01).bin" size="28842576" crc="f2e5ff1e" md5="245e77ff1daae470f868894273da8761" sha1="54571d033440a0b7fff5dcd91a0ce1e09b9b3bbe"/>
 		<rom name="Nagano Winter Olympics '98 (Export) (Track 02).bin" size="2488416" crc="f4f75b1e" md5="2863350494cae84682525693b9c06251" sha1="dbe297d700cda14f711f18d17a3c8752d6468b99"/>
 		<rom name="Nagano Winter Olympics '98 (Export) (Track 03).bin" size="1150128" crc="7f27c3cd" md5="3925f623d3d42beb4557ccc1f142a4f7" sha1="506530343f29b2087735f4defdae98a4d56b48bd"/>
@@ -67,6 +68,8 @@
 	<game name="Susume! Taisen Puzzle-dama (Japan) (Rev A)" id="118007">
 		<category>Games</category>
 		<description>Susume! Taisen Puzzle-dama (Japan) (Rev A)</description>
+		<serial>GV027-J1</serial>
+		<version>Rev A</version>
 		<rom name="Susume! Taisen Puzzle-dama (Japan) (Rev A) (Track 01).bin" size="18987696" crc="79f21c13" md5="9e9e010663cf6fe4c5fdd446aae918d7" sha1="e01cb46d3cfb0e69f9546b18e47345a17f6b5d46"/>
 		<rom name="Susume! Taisen Puzzle-dama (Japan) (Rev A) (Track 02).bin" size="35124768" crc="3510e09b" md5="788b80dcfe510aac231e1d7e445f871d" sha1="37b1924099f433f96ba2a0dafa5852c4a14baf41"/>
 		<rom name="Susume! Taisen Puzzle-dama (Japan) (Rev A) (Track 03).bin" size="35599872" crc="b213b7b2" md5="2c2c1227973949c725470478cc14cd7b" sha1="8f372a169b09c2a841dee581223e19cf6cbdcb22"/>

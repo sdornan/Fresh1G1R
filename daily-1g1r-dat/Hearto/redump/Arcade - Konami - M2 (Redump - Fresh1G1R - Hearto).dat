@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Konami - M2 (Retool)</name>
-		<description>Arcade - Konami - M2 (6) (-y) [-aAbBcefkmMoprv] (2026-08-13 18-07-24) (Retool)</description>
-		<version>2026-08-13 18-07-24</version>
-		<date>2026-10-13 09-16-13</date>
+		<description>Arcade - Konami - M2 (6) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-50-30) (Retool)</description>
+		<version>2026-10-14 05-50-30</version>
+		<date>2026-10-14 07-27-16</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,6 +14,8 @@
 	<game name="Battle Tryst (Asia) (AAA)" id="127856">
 		<category>Games</category>
 		<description>Battle Tryst (Asia) (AAA)</description>
+		<serial>636 AA A02</serial>
+		<version>AAA</version>
 		<rom name="Battle Tryst (Asia) (AAA) (Track 1).bin" size="421835904" crc="90ff7236" md5="e757ee5085701cd835ff731b7be48b1b" sha1="225d1d95bd7c83ee81bd240ed0f12b7426569345"/>
 		<rom name="Battle Tryst (Asia) (AAA) (Track 2).bin" size="1063104" crc="e760a5a9" md5="cf8e1469d90870e3b5b39eb84334550c" sha1="acc45eefd887464d6c9d16a7982324bc4a0029f7"/>
 		<rom name="Battle Tryst (Asia) (AAA).cue" size="220" crc="a405efc1" md5="157d2eacd8588c3cf7ec8138dae7e6e5" sha1="9fc0585827130545c64e2963839ae9b3dfa2e7ec"/>
@@ -21,6 +23,8 @@
 	<game name="Evil Night (USA)" id="130819">
 		<category>Games</category>
 		<description>Evil Night (USA)</description>
+		<serial>810 UB A02</serial>
+		<version>UBA</version>
 		<rom name="Evil Night (USA) (Track 01).bin" size="66585120" crc="ef674782" md5="017c96e68fad00f03b27c2665f9dcc79" sha1="95f6630f639352a3d63d0ef1687a45fa065d73e3"/>
 		<rom name="Evil Night (USA) (Track 02).bin" size="7742784" crc="07efcb7a" md5="6c669c372e9299ff9eca7886a961f52b" sha1="4d02e0104bd9d7b29e765f02107100bcd69523f8"/>
 		<rom name="Evil Night (USA) (Track 03).bin" size="40896576" crc="fd12e6ea" md5="a6e9e6e0b3a9e88a7843be75313f610e" sha1="8da2187915d84ce9581369520b2d691f09132939"/>
@@ -53,6 +57,8 @@
 	<game name="Heat of Eleven '98 (Europe)" id="64968">
 		<category>Games</category>
 		<description>Heat of Eleven '98 (Europe)</description>
+		<serial>703 EA A02</serial>
+		<version>EAA</version>
 		<rom name="Heat of Eleven '98 (Europe) (Track 01).bin" size="29254176" crc="570dd94a" md5="2dc09e51439160519029016ef6edfe0e" sha1="aada6a0aca978cc6b8817c03c28ecd7127c3a0d4"/>
 		<rom name="Heat of Eleven '98 (Europe) (Track 02).bin" size="6966624" crc="557bed4c" md5="fb6ef1bf468d924c235197b08a44b17f" sha1="7078e9f2bcf3ee551ab17de5eef89aa02a5d24f0"/>
 		<rom name="Heat of Eleven '98 (Europe) (Track 03).bin" size="15650208" crc="1ce63c38" md5="1b55a88833198aadb1daa395bba24968" sha1="ccd0a55797c3b4f54901a27afd0b579fdd39233c"/>
@@ -85,6 +91,8 @@
 	<game name="Hell Night (Europe)" id="63179">
 		<category>Games</category>
 		<description>Hell Night (Europe)</description>
+		<serial>810 EA A02</serial>
+		<version>EAA</version>
 		<rom name="Hell Night (Europe) (Track 01).bin" size="66585120" crc="4e50ecd1" md5="91f6b4c620b740b5e22ba455314d6f55" sha1="12fe74a3f7d925ea278fe80ece8fb8d9e3e8bfae"/>
 		<rom name="Hell Night (Europe) (Track 02).bin" size="7742784" crc="07efcb7a" md5="6c669c372e9299ff9eca7886a961f52b" sha1="4d02e0104bd9d7b29e765f02107100bcd69523f8"/>
 		<rom name="Hell Night (Europe) (Track 03).bin" size="40896576" crc="fd12e6ea" md5="a6e9e6e0b3a9e88a7843be75313f610e" sha1="8da2187915d84ce9581369520b2d691f09132939"/>
@@ -117,6 +125,8 @@
 	<game name="Tobe! Polystars (Japan)" id="61107">
 		<category>Games</category>
 		<description>Tobe! Polystars (Japan)</description>
+		<serial>623 JA A02</serial>
+		<version>JAA</version>
 		<rom name="Tobe! Polystars (Japan) (Track 01).bin" size="28054656" crc="73e95de1" md5="96daa81a13edba40908989276b7f169e" sha1="053795d8523d396b49c03f6bdf54bf8d5e45798f"/>
 		<rom name="Tobe! Polystars (Japan) (Track 02).bin" size="31345104" crc="c9dd4f26" md5="5e4c523f5823ab55e1bffce4e821cfde" sha1="21d0a8e096af60e74b44552ecf788f7ce00bbc3d"/>
 		<rom name="Tobe! Polystars (Japan) (Track 03).bin" size="38450496" crc="1ff525d1" md5="10b6eed3872ad5762bab4bf4db7dddd3" sha1="a9611372afabc57c960b98e02a1a5c779a229a8b"/>
@@ -147,6 +157,8 @@
 	<game name="Total Vice (Europe) (EAD)" id="67478">
 		<category>Games</category>
 		<description>Total Vice (Europe) (EAD)</description>
+		<serial>639 EA D01</serial>
+		<version>EAD</version>
 		<rom name="Total Vice (Europe) (EAD) (Track 01).bin" size="48526464" crc="5974047d" md5="7373d57f88bb5819b2454dd88b68f495" sha1="eb0f997d456c43a8d158c3843537594c82ceb39f"/>
 		<rom name="Total Vice (Europe) (EAD) (Track 02).bin" size="38196480" crc="927a565e" md5="855d18293a5384fbadb81a263b57235c" sha1="6cb068a69aa7303cbe7e671e517e693e2152fcfa"/>
 		<rom name="Total Vice (Europe) (EAD) (Track 03).bin" size="46943568" crc="c48d3dc0" md5="e6b54277865ff2000a9f2f7bfe90495a" sha1="0fa24343b55d07bfa6aeae9fa3d7381ff2962a52"/>

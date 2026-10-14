@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Seibu - CATS E-Touch (Retool)</name>
-		<description>Arcade - Seibu - CATS E-Touch (1) (-y) [-aAbBcefkmMoprv] (2026-08-13 18-07-10) (Retool)</description>
-		<version>2026-08-13 18-07-10</version>
-		<date>2026-10-13 09-17-43</date>
+		<description>Arcade - Seibu - CATS E-Touch (1) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-50-17) (Retool)</description>
+		<version>2026-10-14 05-50-17</version>
+		<date>2026-10-14 07-28-00</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,6 +14,7 @@
 	<game name="Binkan Lips (Japan)" id="136959">
 		<category>Games</category>
 		<description>Binkan Lips (Japan)</description>
+		<serial>SKTP-10005</serial>
 		<rom name="Binkan Lips (Japan).iso" size="8260001792" crc="0382adf2" md5="3c02fd1ed04890a7e0215de294df43a6" sha1="cf73b868933b83b921af581eb1fa724911252ab8"/>
 	</game>
 </datafile>

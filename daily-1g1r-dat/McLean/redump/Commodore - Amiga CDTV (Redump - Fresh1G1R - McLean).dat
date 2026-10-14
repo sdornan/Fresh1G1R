@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CDTV (Retool)</name>
-		<description>Commodore - Amiga CDTV (28) (-ly) [-aAbBcdDefkmMopPruv] (2026-08-26 12-46-54) (Retool)</description>
-		<version>2026-08-26 12-46-54</version>
-		<date>2026-10-13 09-24-42</date>
+		<description>Commodore - Amiga CDTV (28) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-14 05-50-21) (Retool)</description>
+		<version>2026-10-14 05-50-21</version>
+		<date>2026-10-14 07-34-09</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -46,6 +46,7 @@
 	<game name="Defender of the Crown (Europe)" id="24518">
 		<category>Games</category>
 		<description>Defender of the Crown (Europe)</description>
+		<serial>CDT-3001</serial>
 		<rom name="Defender of the Crown (Europe) (Track 1).bin" size="9878400" crc="104f29d5" md5="937a65f3cbecc340e006234e811f9386" sha1="b481c4a1645bd946c4e9643d55a105e6fa747526"/>
 		<rom name="Defender of the Crown (Europe) (Track 2).bin" size="260961456" crc="c387dbaf" md5="97272f12a36df7867ab5424b9dcff8e8" sha1="1f582a800fa371d0ac39f446e47f7c95776ec6b8"/>
 		<rom name="Defender of the Crown (Europe).cue" size="230" crc="ee8b8985" md5="c10783a113cccba70286675709e39926" sha1="f41a5d3c09a51956901ed96ed0593cf2e882cd42"/>
@@ -87,13 +88,15 @@
 	</game>
 	<game name="Garden Fax - Trees, Shrubs, Roses &amp; Conifers (USA)" id="3231">
 		<category>Games</category>
-		<description>Garden Fax - Trees, Shrubs, Roses &amp; Conifers (USA)</description>
+		<description>Garden Fax: Trees, Shrubs, Roses &amp; Conifers (USA)</description>
+		<serial>CDT-1003</serial>
 		<rom name="Garden Fax - Trees, Shrubs, Roses &amp; Conifers (USA).bin" size="115196256" crc="9004e8a6" md5="40b64c56656a3f634688368540a4c176" sha1="7abc58ae49c189f5b70f413d300052f9ece706d8"/>
 		<rom name="Garden Fax - Trees, Shrubs, Roses &amp; Conifers (USA).cue" size="116" crc="f97173db" md5="776780af5559d263235ba29da9e7a4c8" sha1="08705572256b61bae0f6a89930c155a9349be46a"/>
 	</game>
 	<game name="Insight Dinosaurs (Europe)" id="106440">
 		<category>Games</category>
 		<description>Insight Dinosaurs (Europe)</description>
+		<version>REV1.0</version>
 		<rom name="Insight Dinosaurs (Europe).bin" size="766940160" crc="67f592d9" md5="d35bdb5d6efa2b01b989aefe2cda044f" sha1="95da49ffa6f6cfe3933f447272ccb9a2bd6d2619"/>
 		<rom name="Insight Dinosaurs (Europe).cue" size="92" crc="ff7faa49" md5="fa63347a14316274b996f89ccbe01b7b" sha1="a7b5330c4ac040da7057d98e2bff555ee3b01b4a"/>
 	</game>
@@ -159,6 +162,7 @@
 	<game name="SimCity (Europe) (En,Fr,De,Es,It)" id="26396">
 		<category>Games</category>
 		<description>SimCity (Europe) (En,Fr,De,Es,It)</description>
+		<serial>91133</serial>
 		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="6091680" crc="287d124f" md5="aa9de61812285e908c3a111dff70758d" sha1="5a84eb2a945b50206da5e6dc3dd1172238a2ff8b"/>
 		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="37930704" crc="ebf52a7d" md5="0dc904e1835b22e0f7403d41c2e2be9a" sha1="31b897c96fbd1c53fb1b2ccf3cb1968938500efc"/>
 		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="9525600" crc="3ce9cfa5" md5="ba5e52edfe0befab44337c662f818918" sha1="8f7cb4e19306c3cfe5c38721c2cdb47ef7ecdb4f"/>
@@ -182,7 +186,7 @@
 	</game>
 	<game name="Snoopy - The Case of the Missing Blanket (Sweden)" id="29268">
 		<category>Games</category>
-		<description>Snoopy - The Case of the Missing Blanket (Sweden)</description>
+		<description>Snoopy: The Case of the Missing Blanket (Sweden)</description>
 		<rom name="Snoopy - The Case of the Missing Blanket (Sweden) (Track 1).bin" size="11830560" crc="b0c9e975" md5="d5b0ee51db3a90d3ed793938e8258c4e" sha1="7bcb83f33a11ee2dc01921ddfe9e78c9ead7d828"/>
 		<rom name="Snoopy - The Case of the Missing Blanket (Sweden) (Track 2).bin" size="52214400" crc="7d1afcb2" md5="b21ca4b2844a73320452eda42b4b2a1e" sha1="9b3f3971827658b07bba4988cabba71c2f546a15"/>
 		<rom name="Snoopy - The Case of the Missing Blanket (Sweden).cue" size="268" crc="8550a103" md5="d375ccf0ba9499d5d180a7d8a37d7854" sha1="02a233f19ead9ebe7b275db95cf059cfb38fb68e"/>
@@ -203,13 +207,13 @@
 	</game>
 	<game name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 1)" id="14963">
 		<category>Games</category>
-		<description>Trivial Pursuit - The CDTV Edition (Europe) (Disc 1)</description>
+		<description>Trivial Pursuit: The CDTV Edition (Europe) (Disc 1)</description>
 		<rom name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 1).bin" size="270562320" crc="48b01ac5" md5="5b43f79ea4f4419e77024bee6a95461a" sha1="ceda26140d4ae1f7cef6763f396d9863d0a421b9"/>
 		<rom name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 1).cue" size="118" crc="7564a5ff" md5="ab9214b9ca49398815cd45521843e50c" sha1="62679bc5c37d8cbc4503eef3a7bfaef055aba8e5"/>
 	</game>
 	<game name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 2)" id="14962">
 		<category>Games</category>
-		<description>Trivial Pursuit - The CDTV Edition (Europe) (Disc 2)</description>
+		<description>Trivial Pursuit: The CDTV Edition (Europe) (Disc 2)</description>
 		<rom name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 2).bin" size="269873184" crc="ee29ff98" md5="474bc93345bf2503ae2a11a1d0148966" sha1="d49eae1588d08a51cca075d8ab3ffe23fd5e8e21"/>
 		<rom name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 2).cue" size="118" crc="7439832e" md5="9feb7538e24fd218af9fe3799db6775e" sha1="ea1004f64de951b7aeed370b9f95129b0df752c7"/>
 	</game>
@@ -221,13 +225,13 @@
 	</game>
 	<game name="Turrican II - The Final Fight (Germany)" id="3183">
 		<category>Games</category>
-		<description>Turrican II - The Final Fight (Germany)</description>
+		<description>Turrican II: The Final Fight (Germany)</description>
 		<rom name="Turrican II - The Final Fight (Germany).bin" size="20815200" crc="7c2e3f0a" md5="87a97d7d2c7981b218e6ffa65f869e7b" sha1="715a958452c084db614447c7f3da73dadb0b46db"/>
 		<rom name="Turrican II - The Final Fight (Germany).cue" size="105" crc="0df13f9a" md5="98456a1b4b6861aeb0e3350dc60db3c1" sha1="107929d352a5a016faa3b80d7d297485a052d881"/>
 	</game>
 	<game name="Will Bridge Vol. 1 - Initiation aux Encheres - Practice (France)" id="3194">
 		<category>Games</category>
-		<description>Will Bridge Vol. 1 - Initiation aux Encheres - Practice (France)</description>
+		<description>Will Bridge Vol. 1: Initiation aux Encheres: Practice (France)</description>
 		<rom name="Will Bridge Vol. 1 - Initiation aux Encheres - Practice (France).bin" size="25401600" crc="d5fb39ce" md5="1d094697cd68269ece9824d5148d9f70" sha1="c9a4d93361c0d5a989c2b2077879c53224eb8cac"/>
 		<rom name="Will Bridge Vol. 1 - Initiation aux Encheres - Practice (France).cue" size="130" crc="5138331a" md5="27c9ee3e3c8a3d47994025a5e7236077" sha1="7554804ce9a5fe74042811d037f7634bd419a425"/>
 	</game>
@@ -239,7 +243,7 @@
 	</game>
 	<game name="Xenon 2 - Megablast (Europe) (En,Fr,De,It)" id="4012">
 		<category>Games</category>
-		<description>Xenon 2 - Megablast (Europe) (En,Fr,De,It)</description>
+		<description>Xenon 2: Megablast (Europe) (En,Fr,De,It)</description>
 		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 01).bin" size="14123760" crc="74f0388c" md5="c6d86451da6881150267b20a9ed625ec" sha1="a1cd9d031308295f76927c660aa37e4c7ff4e9ca"/>
 		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 02).bin" size="48921600" crc="b4614563" md5="6b028111a6d69689c2d3270dacbad392" sha1="331fb27fe3b2b76c501a8e62c717b4c585b0f309"/>
 		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 03).bin" size="75205200" crc="defc133a" md5="c6905e204542c54bf9da039ee3a92aeb" sha1="96e8fe0c4f0d1c289a0dd5c3bdf1230853d761a1"/>

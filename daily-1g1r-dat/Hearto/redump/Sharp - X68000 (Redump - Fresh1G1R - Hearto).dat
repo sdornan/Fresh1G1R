@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sharp - X68000 (Retool)</name>
-		<description>Sharp - X68000 (2) (-y) [-aAbBcefkmMoprv] (2026-08-15 20-08-24) (Retool)</description>
-		<version>2026-08-15 20-08-24</version>
-		<date>2026-10-13 09-17-45</date>
+		<description>Sharp - X68000 (2) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-52-40) (Retool)</description>
+		<version>2026-10-14 05-52-40</version>
+		<date>2026-10-14 07-28-01</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,6 +14,7 @@
 	<game name="Ano, Subarashii o Mou Ichido (Japan)" id="82871">
 		<category>Games</category>
 		<description>Ano, Subarashii o Mou Ichido (Japan)</description>
+		<serial>MKCG-001</serial>
 		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 01).bin" size="140404992" crc="7dbc04c6" md5="9effc1edfb6917553ca22b3f66e0c574" sha1="05e8c86571557ad6091178511bf390d672454d71"/>
 		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 02).bin" size="57010128" crc="3851a22f" md5="a16f1b51a2e454baf161f2807333615c" sha1="c09240fafe3ee2ed9b6d8af8cd980fc6974fca20"/>
 		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 03).bin" size="43090992" crc="5857c69f" md5="4d01d9b80f7ed346948ac8126e2490a4" sha1="39bda03f5090365655ace898d1317245d9c3b443"/>

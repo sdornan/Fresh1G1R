@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Bandai - WonderSwan Color (Retool)</name>
-		<description>Bandai - WonderSwan Color (91) (-y) [-aAbBcdkmMpPuv] (20260525-011610) (Retool)</description>
-		<version>20260525-011610</version>
-		<date>2026-10-13 09-41-15</date>
+		<description>Bandai - WonderSwan Color (91) (-y) [-aAbBcdkmMpPuv] (20261013-102913) (Retool)</description>
+		<version>20261013-102913</version>
+		<date>2026-10-14 07-45-51</date>
 		<author>1988reload, Arctic Circle System, C. V. Reynolds, Gefflon, Goratrix, Hiccup, nnssxx, omonim2007, PPLToast, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -16,10 +16,10 @@
 		<description>Alchemist Marie &amp; Elie - Futari no Atelier (Japan)</description>
 		<rom name="Alchemist Marie &amp; Elie - Futari no Atelier (Japan).wsc" size="4194304" crc="b18cdc0d" md5="cb58db877b8adfce59f2e34cc4224d8b" sha1="99d9d7f951ae589059f34e76aea7489ae4cd79f1" sha256="370c27863b7582b9e0c6bdb800a656e4950579282066eecbed6e7130b92aafa2"/>
 	</game>
-	<game name="Another Heaven - Memory of those Days (Japan)" id="0002">
+	<game name="Another Heaven - Memory of those Days (Japan) (WS Compatible)" id="0002">
 		<category>Games</category>
-		<description>Another Heaven - Memory of those Days (Japan)</description>
-		<rom name="Another Heaven - Memory of those Days (Japan).wsc" size="4194304" crc="d7a0ab74" md5="30e5f0895254ea2952f4a6a707ace47c" sha1="caf4a8de853ded732b2a72619acf2784eeceafc7" sha256="71c18eda8dd446c97f63c56484e936cdd6bbc5b290d2ba588e470745c78a8680"/>
+		<description>Another Heaven - Memory of those Days (Japan) (WS Compatible)</description>
+		<rom name="Another Heaven - Memory of those Days (Japan) (WS Compatible).wsc" size="4194304" crc="d7a0ab74" md5="30e5f0895254ea2952f4a6a707ace47c" sha1="caf4a8de853ded732b2a72619acf2784eeceafc7" sha256="71c18eda8dd446c97f63c56484e936cdd6bbc5b290d2ba588e470745c78a8680"/>
 	</game>
 	<game name="Arc the Lad - Kishin Fukkatsu (Japan)" id="0003">
 		<category>Games</category>
@@ -31,15 +31,15 @@
 		<description>Battle Spirit - Digimon Frontier (Japan) (Rev 1)</description>
 		<rom name="Battle Spirit - Digimon Frontier (Japan) (Rev 1).wsc" size="4194304" crc="8ba49dab" md5="5fd4676d03e21bf3eee5c9c0236c992c" sha1="fffb1aea34e0a96113cd10ba9de515000d27bfe6" sha256="28342e990e5d9789205c8ae2ea79e7dbe995d3cdd17076737e7aebcd0bd15834"/>
 	</game>
-	<game name="Blue Wing Blitz (Japan)" id="0005">
+	<game name="Blue Wing Blitz (Japan) (WS Compatible)" id="0005">
 		<category>Games</category>
-		<description>Blue Wing Blitz (Japan)</description>
-		<rom name="Blue Wing Blitz (Japan).wsc" size="2097152" crc="99027238" md5="1ea61538422bc2d6349c321fa15b334f" sha1="02103fc5fc97c3a38834ced32a3cfe6523832535" sha256="45336bcd3300fbf66af5293a8840e4d42d59c3e2eee6e5d809b2b673fff9c0d1"/>
+		<description>Blue Wing Blitz (Japan) (WS Compatible)</description>
+		<rom name="Blue Wing Blitz (Japan) (WS Compatible).wsc" size="2097152" crc="99027238" md5="1ea61538422bc2d6349c321fa15b334f" sha1="02103fc5fc97c3a38834ced32a3cfe6523832535" sha256="45336bcd3300fbf66af5293a8840e4d42d59c3e2eee6e5d809b2b673fff9c0d1"/>
 	</game>
-	<game name="Dark Eyes - Battle Gate (Japan)" id="0006">
+	<game name="Dark Eyes - Battle Gate (Japan) (WS Compatible)" id="0006">
 		<category>Games</category>
-		<description>Dark Eyes - Battle Gate (Japan)</description>
-		<rom name="Dark Eyes - Battle Gate (Japan).wsc" size="4194304" crc="12ae932c" md5="d3d18ea7800d93cb3a22e275bae9f836" sha1="c2188171dc0f78fb6a13bbb55b4e85bdf7b82fd5" sha256="4dedfd630e6196c865c5e23aaa4d8377cf0c9b3cd92a36f22633c816b7758db7"/>
+		<description>Dark Eyes - Battle Gate (Japan) (WS Compatible)</description>
+		<rom name="Dark Eyes - Battle Gate (Japan) (WS Compatible).wsc" size="4194304" crc="12ae932c" md5="d3d18ea7800d93cb3a22e275bae9f836" sha1="c2188171dc0f78fb6a13bbb55b4e85bdf7b82fd5" sha256="4dedfd630e6196c865c5e23aaa4d8377cf0c9b3cd92a36f22633c816b7758db7"/>
 	</game>
 	<game name="Dicing Knight (Japan) (En)" id="0255">
 		<category>Games</category>
@@ -49,17 +49,17 @@
 	<game name="Dicing Knight. (Japan)" id="0007">
 		<category>Games</category>
 		<description>Dicing Knight. (Japan)</description>
-		<rom name="Dicing Knight. (Japan).wsc" size="2097152" crc="1887389c" md5="098b747bf9d88f651735b45197e393e1" sha1="1e4d8e8b3d16083968055cc76b604da91fa0a132"/>
+		<rom name="Dicing Knight. (Japan).wsc" size="2097152" crc="1887389c" md5="098b747bf9d88f651735b45197e393e1" sha1="1e4d8e8b3d16083968055cc76b604da91fa0a132" sha256="7310b48132f3d1eb0eec9dd186fb7d2a8151a1f792389abcae55bce93bf0380c"/>
 	</game>
 	<game name="Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong) (En)" id="0008">
 		<category>Games</category>
 		<description>Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong) (En)</description>
 		<rom name="Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong) (En).wsc" size="4194304" crc="77689273" md5="47b23a84817217cc5b9bbd85fe634174" sha1="7a6411cf8a4d91e8a4e0532779f11bdd25b92363" sha256="72243cc16128c1de928b774dbf0a5fadd147204aa59ac2e213319f206d7a7632"/>
 	</game>
-	<game name="Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1)" id="0097">
+	<game name="Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1) (WS Compatible)" id="0097">
 		<category>Games</category>
-		<description>Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1)</description>
-		<rom name="Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).wsc" size="4194304" crc="62f4e4b4" md5="bb1067e3df3b632b32cd38543da8bd81" sha1="6fbb07bfefac7832436ec56e4d95678428b0f7ba"/>
+		<description>Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1) (WS Compatible)</description>
+		<rom name="Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1) (WS Compatible).wsc" size="4194304" crc="62f4e4b4" md5="bb1067e3df3b632b32cd38543da8bd81" sha1="6fbb07bfefac7832436ec56e4d95678428b0f7ba" sha256="af76f179f51a9ea96184960616f24b1c08bfe4cb141a5bf53adcb5f2f0132bad"/>
 	</game>
 	<game name="Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)" id="0010">
 		<category>Games</category>
@@ -71,10 +71,10 @@
 		<description>Digimon Tamers - Brave Tamer (Japan) (Rev 1)</description>
 		<rom name="Digimon Tamers - Brave Tamer (Japan) (Rev 1).wsc" size="4194304" crc="f1f4d41f" md5="5883b9d0f63fe8daa9c1a2259c154466" sha1="31a718cfbcff2dab56ab9606a0b5b2dfccecbbcb" sha256="abc4cff28f85daebc801aafcb89d498eea1142511abcd24a6a13f7331e644237"/>
 	</game>
-	<game name="Digimon Tamers - Digimon Medley (Japan) (Rev 1)" id="0102">
+	<game name="Digimon Tamers - Digimon Medley (Japan) (Rev 1) (WS Compatible)" id="0102">
 		<category>Games</category>
-		<description>Digimon Tamers - Digimon Medley (Japan) (Rev 1)</description>
-		<rom name="Digimon Tamers - Digimon Medley (Japan) (Rev 1).wsc" size="4194304" crc="84a46949" md5="367e9ef3630061fdf91a2110911611a7" sha1="6c5a2dc7e231ebd278fe22bb7f01b1a7cc3785d6"/>
+		<description>Digimon Tamers - Digimon Medley (Japan) (Rev 1) (WS Compatible)</description>
+		<rom name="Digimon Tamers - Digimon Medley (Japan) (Rev 1) (WS Compatible).wsc" size="4194304" crc="84a46949" md5="367e9ef3630061fdf91a2110911611a7" sha1="6c5a2dc7e231ebd278fe22bb7f01b1a7cc3785d6" sha256="6f5cd970e3e9a77eec89ce5e4434e0f801011240ccdf21340cd7185d815a0be6"/>
 	</game>
 	<game name="Digital Monster - D-Project (Japan) (Rev 2)" id="0105">
 		<category>Games</category>
@@ -84,12 +84,12 @@
 	<game name="Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2)" id="0103">
 		<category>Games</category>
 		<description>Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2)</description>
-		<rom name="Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).wsc" size="4194304" crc="1e760c41" md5="c17c4de6648c776b246ae83991ac3978" sha1="e31bfa54cbf539a9d28090b372d8e669a93c3e28"/>
+		<rom name="Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).wsc" size="4194304" crc="1e760c41" md5="c17c4de6648c776b246ae83991ac3978" sha1="e31bfa54cbf539a9d28090b372d8e669a93c3e28" sha256="ce26d60a3fd3b7737c75e4f538543df2150de0336b81441f9f8855cdc8a284d6"/>
 	</game>
-	<game name="Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2)" id="0016">
+	<game name="Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2) (WS Compatible)" id="0016">
 		<category>Games</category>
-		<description>Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2)</description>
-		<rom name="Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).wsc" size="2097152" crc="93e19f13" md5="9ca8890339c62cc782b1a61c81e055ef" sha1="66b4bd15ef67dc324736a1cc78d6aca335f03389" sha256="046c8a44de6426bea96e66b137a2152bea2c49c4704b06a88676c12e1f942deb"/>
+		<description>Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2) (WS Compatible)</description>
+		<rom name="Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2) (WS Compatible).wsc" size="2097152" crc="93e19f13" md5="9ca8890339c62cc782b1a61c81e055ef" sha1="66b4bd15ef67dc324736a1cc78d6aca335f03389" sha256="046c8a44de6426bea96e66b137a2152bea2c49c4704b06a88676c12e1f942deb"/>
 	</game>
 	<game name="Dragon Ball (Japan)" id="0017">
 		<category>Games</category>
@@ -116,10 +116,10 @@
 		<description>Final Lap Special - GT &amp; Formula Machine (Japan)</description>
 		<rom name="Final Lap Special - GT &amp; Formula Machine (Japan).wsc" size="4194304" crc="b07e6a56" md5="0870f205e8a0148cc75d642f00558057" sha1="4c3f092b095bdb0afdaf8d32d4c54b4d6c209c96" sha256="0b9f4be7e0221b6896f72a77b365c065ec3e8c559b9cd23b7f0391e68ddf1554"/>
 	</game>
-	<game name="Flash Koibito-kun (Japan)" id="0022">
+	<game name="Flash Koibito-kun (Japan) (WS Compatible)" id="0022">
 		<category>Games</category>
-		<description>Flash Koibito-kun (Japan)</description>
-		<rom name="Flash Koibito-kun (Japan).wsc" size="2097152" crc="69d8d433" md5="ca1526278a8cf00816b1a88a51916b00" sha1="a3d6717efdb8f243fe86b4c3d869a9734a2e02d3" sha256="fdc320421cc6c597c78d45e5f273c939495fa305902cc37e15462c8e181f6318"/>
+		<description>Flash Koibito-kun (Japan) (WS Compatible)</description>
+		<rom name="Flash Koibito-kun (Japan) (WS Compatible).wsc" size="2097152" crc="69d8d433" md5="ca1526278a8cf00816b1a88a51916b00" sha1="a3d6717efdb8f243fe86b4c3d869a9734a2e02d3" sha256="fdc320421cc6c597c78d45e5f273c939495fa305902cc37e15462c8e181f6318"/>
 	</game>
 	<game name="From TV Animation One Piece - Chopper no Daibouken (Japan)" id="0023">
 		<category>Games</category>
@@ -139,7 +139,7 @@
 	<game name="From TV Animation One Piece - Treasure Wars (Japan) (Rev 1)" id="0099">
 		<category>Games</category>
 		<description>From TV Animation One Piece - Treasure Wars (Japan) (Rev 1)</description>
-		<rom name="From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).wsc" size="4194304" crc="3df3e34c" md5="166946565e646215816123677c7c2108" sha1="55088795164170c24b243a1b572506f123064c0f"/>
+		<rom name="From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).wsc" size="4194304" crc="3df3e34c" md5="166946565e646215816123677c7c2108" sha1="55088795164170c24b243a1b572506f123064c0f" sha256="49681793591c236b0efc90a27f0d1caab27753404959d50b6b4af3ef79b39861"/>
 	</game>
 	<game name="From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan)" id="0027">
 		<category>Games</category>
@@ -191,15 +191,15 @@
 		<description>Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1)</description>
 		<rom name="Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1).wsc" size="4194304" crc="31e09bed" md5="6c1b75de270e7e96df161833a5522b7d" sha1="2e3f221d6965f53b29586d2019ee81dec6d1ac30" sha256="32e8b110c620e361512509340831350d727d5770e29ae5036217362f934ae02b"/>
 	</game>
-	<game name="Hataraku Chocobo (Japan)" id="0037">
+	<game name="Hataraku Chocobo (Japan) (WS Compatible)" id="0037">
 		<category>Games</category>
-		<description>Hataraku Chocobo (Japan)</description>
-		<rom name="Hataraku Chocobo (Japan).wsc" size="1048576" crc="7a29e9a6" md5="ebab0f1f4148d54437834971d9756431" sha1="9bd63ed48926b27be70333fbe07da2ceed56328a" sha256="2877bf3c37669cb486c1790b51bd2bca4d05cae4a7d0cddb64b5cc15db154856"/>
+		<description>Hataraku Chocobo (Japan) (WS Compatible)</description>
+		<rom name="Hataraku Chocobo (Japan) (WS Compatible).wsc" size="1048576" crc="7a29e9a6" md5="ebab0f1f4148d54437834971d9756431" sha1="9bd63ed48926b27be70333fbe07da2ceed56328a" sha256="2877bf3c37669cb486c1790b51bd2bca4d05cae4a7d0cddb64b5cc15db154856"/>
 	</game>
 	<game name="Hunter X Hunter - Greed Island (Japan) (Rev 1)" id="0108">
 		<category>Games</category>
 		<description>Hunter X Hunter - Greed Island (Japan) (Rev 1)</description>
-		<rom name="Hunter X Hunter - Greed Island (Japan) (Rev 1).wsc" size="8388608" crc="130af567" md5="e54a236ff923346e1b6eaed84bc8033c" sha1="e26410d4eee4cc8cec5e2e369604aedf26d69d0c"/>
+		<rom name="Hunter X Hunter - Greed Island (Japan) (Rev 1).wsc" size="8388608" crc="130af567" md5="e54a236ff923346e1b6eaed84bc8033c" sha1="e26410d4eee4cc8cec5e2e369604aedf26d69d0c" sha256="6084f595b136948834521fdd275e8cd924cd8240eb182fe2376d603638be96a1"/>
 	</game>
 	<game name="Hunter X Hunter - Michibikareshi Mono (Japan)" id="0039">
 		<category>Games</category>
@@ -229,7 +229,7 @@
 	<game name="Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)" id="0045">
 		<category>Games</category>
 		<description>Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)</description>
-		<rom name="Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).wsc" size="2097152" crc="85c4c9a1" md5="b017d367af1ba43171beba3e184d9ee9" sha1="58c691cb31f96eea5689693fd23768d02e8b133f"/>
+		<rom name="Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).wsc" size="2097152" crc="85c4c9a1" md5="b017d367af1ba43171beba3e184d9ee9" sha1="58c691cb31f96eea5689693fd23768d02e8b133f" sha256="07b4bff11f2cd49d08aa6bcb96068065890221c8e0fe7ebb27656134edafcc92"/>
 	</game>
 	<game name="Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan)" id="0046">
 		<category>Games</category>
@@ -244,22 +244,22 @@
 	<game name="Kidou Senshi Gundam Vol. 1 - Side 7 (Japan)" id="0048">
 		<category>Games</category>
 		<description>Kidou Senshi Gundam Vol. 1 - Side 7 (Japan)</description>
-		<rom name="Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).wsc" size="4194304" crc="08c0247b" md5="3f81d86b97a81ed8fb2fd90a20b94c7a" sha1="29e72e7f96f145a0ff56e447f577310df2ec463b"/>
+		<rom name="Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).wsc" size="4194304" crc="08c0247b" md5="3f81d86b97a81ed8fb2fd90a20b94c7a" sha1="29e72e7f96f145a0ff56e447f577310df2ec463b" sha256="327eedc63abd6cb55c60adcfea33344bdea576567d28914929751b46dbdafe83"/>
 	</game>
 	<game name="Kidou Senshi Gundam Vol. 2 - Jaburo (Japan)" id="0049">
 		<category>Games</category>
 		<description>Kidou Senshi Gundam Vol. 2 - Jaburo (Japan)</description>
-		<rom name="Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).wsc" size="8388608" crc="39a1391a" md5="95b2632395ce85fc5f0cdb762e665136" sha1="df1a794f7e3992b1e1e9de14141b607746202202"/>
+		<rom name="Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).wsc" size="8388608" crc="39a1391a" md5="95b2632395ce85fc5f0cdb762e665136" sha1="df1a794f7e3992b1e1e9de14141b607746202202" sha256="dd9b62efd251053b24ecc33cf2ca7f19feeb2d51dff0dc23d5d838602f118607"/>
 	</game>
 	<game name="Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan)" id="0050">
 		<category>Games</category>
 		<description>Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan)</description>
-		<rom name="Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).wsc" size="8388608" crc="a9f5bf54" md5="fc3bf32e77a2b1f6b749242e89f35e9a" sha1="35443e2ef8a20a0ad82da1274b2768c16239dd46"/>
+		<rom name="Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).wsc" size="8388608" crc="a9f5bf54" md5="fc3bf32e77a2b1f6b749242e89f35e9a" sha1="35443e2ef8a20a0ad82da1274b2768c16239dd46" sha256="b60511cd6dcac1a9a7e8ed4775ee3e8426b0982e1fd5646398f7dd579e35cbfd"/>
 	</game>
 	<game name="Kinnikuman II-Sei - Choujin Seisenshi (Japan)" id="0051">
 		<category>Games</category>
 		<description>Kinnikuman II-Sei - Choujin Seisenshi (Japan)</description>
-		<rom name="Kinnikuman II-Sei - Choujin Seisenshi (Japan).wsc" size="4194304" crc="6142fd9d" md5="c69232823a6a14ad7bf6dd539c435ba3" sha1="efcf8f92357ffc6f6ec0e4aa960cd97a5070836e"/>
+		<rom name="Kinnikuman II-Sei - Choujin Seisenshi (Japan).wsc" size="4194304" crc="6142fd9d" md5="c69232823a6a14ad7bf6dd539c435ba3" sha1="efcf8f92357ffc6f6ec0e4aa960cd97a5070836e" sha256="00d67e247b416ae31fc6b414da4069b9393a57dab1fc769c59a28494e6050958"/>
 	</game>
 	<game name="Kinnikuman II-Sei - Dream Tag Match (Japan)" id="0052">
 		<category>Games</category>
@@ -269,72 +269,72 @@
 	<game name="Kurupara! (Japan) (Rev 1)" id="0053">
 		<category>Games</category>
 		<description>Kurupara! (Japan) (Rev 1)</description>
-		<rom name="Kurupara! (Japan) (Rev 1).wsc" size="2097152" crc="274719f5" md5="9450a7cf7d4adea3aa9a97529bcd5b4b" sha1="9942d1b7d1c00126b9891e560e6a3e264f8fdc2e"/>
+		<rom name="Kurupara! (Japan) (Rev 1).wsc" size="2097152" crc="274719f5" md5="9450a7cf7d4adea3aa9a97529bcd5b4b" sha1="9942d1b7d1c00126b9891e560e6a3e264f8fdc2e" sha256="0dc591fb4cf6a499dbbdf9c4cbeae38f526132839c9f0e390564310309759d8b"/>
 	</game>
 	<game name="Last Alive (Japan)" id="0054">
 		<category>Games</category>
 		<description>Last Alive (Japan)</description>
-		<rom name="Last Alive (Japan).wsc" size="4194304" crc="da4479bf" md5="5ee55daa90d63f97a01a569ef5023431" sha1="b019f41207e396d9fe3509dccdbe1cc6e7ac46bb"/>
+		<rom name="Last Alive (Japan).wsc" size="4194304" crc="da4479bf" md5="5ee55daa90d63f97a01a569ef5023431" sha1="b019f41207e396d9fe3509dccdbe1cc6e7ac46bb" sha256="ea8e65d5039dff7a63828e3ac254bbe2ad245b4d80c2976ea649613738297fd9"/>
 	</game>
 	<game name="Makai Toushi Sa-Ga (Japan)" id="0055">
 		<category>Games</category>
 		<description>Makai Toushi Sa-Ga (Japan)</description>
-		<rom name="Makai Toushi Sa-Ga (Japan).wsc" size="4194304" crc="1b6f5f30" md5="957137e7d5249c02fecff063e0c86e87" sha1="6b7a9b810c932974cbda4de7178cf0ea5a90e628"/>
+		<rom name="Makai Toushi Sa-Ga (Japan).wsc" size="4194304" crc="1b6f5f30" md5="957137e7d5249c02fecff063e0c86e87" sha1="6b7a9b810c932974cbda4de7178cf0ea5a90e628" sha256="73af12f588d1653519d4a76aee1a125a5571c6a57fc052f12ee7a07a84c8d65d"/>
 	</game>
-	<game name="Meitantei Conan - Yuugure no Oujo (Japan)" id="0056">
+	<game name="Meitantei Conan - Yuugure no Oujo (Japan) (WS Compatible)" id="0056">
 		<category>Games</category>
-		<description>Meitantei Conan - Yuugure no Oujo (Japan)</description>
-		<rom name="Meitantei Conan - Yuugure no Oujo (Japan).wsc" size="4194304" crc="9f6e3f8d" md5="6ec4fe6789acab4347355fcb53f10146" sha1="36d8bc2ce7920d940943358d48f056f81055ab34"/>
+		<description>Meitantei Conan - Yuugure no Oujo (Japan) (WS Compatible)</description>
+		<rom name="Meitantei Conan - Yuugure no Oujo (Japan) (WS Compatible).wsc" size="4194304" crc="9f6e3f8d" md5="6ec4fe6789acab4347355fcb53f10146" sha1="36d8bc2ce7920d940943358d48f056f81055ab34" sha256="ef42b1090d4ac36ecf655401e197b57c74973d847c6494ec762041086998df28"/>
 	</game>
 	<game name="Memories Off - Festa (Japan)" id="0057">
 		<category>Games</category>
 		<description>Memories Off - Festa (Japan)</description>
-		<rom name="Memories Off - Festa (Japan).wsc" size="2097152" crc="8e123373" md5="a23a6c63016540a3e6e1ed6f7eb5e5cc" sha1="f47b4ab9197999bbec351750601baa20fbbd7177"/>
+		<rom name="Memories Off - Festa (Japan).wsc" size="2097152" crc="8e123373" md5="a23a6c63016540a3e6e1ed6f7eb5e5cc" sha1="f47b4ab9197999bbec351750601baa20fbbd7177" sha256="fb92b456af9a1c81a117c090e22cb6603860c8ea42193c53acc2619f39a64a12"/>
 	</game>
 	<game name="Mikeneko Holmes - Ghost Panic (Japan)" id="0058">
 		<category>Games</category>
 		<description>Mikeneko Holmes - Ghost Panic (Japan)</description>
-		<rom name="Mikeneko Holmes - Ghost Panic (Japan).wsc" size="4194304" crc="d75effc2" md5="861083eb47c62024cf3c99141c83a857" sha1="2358701531e8a38419859cd70bf2fbbd967b6745"/>
+		<rom name="Mikeneko Holmes - Ghost Panic (Japan).wsc" size="4194304" crc="d75effc2" md5="861083eb47c62024cf3c99141c83a857" sha1="2358701531e8a38419859cd70bf2fbbd967b6745" sha256="fb327232a84be62b0181a51568d18d252752645525f945e857501b7cb6a7c249"/>
 	</game>
 	<game name="Mr. Driller (Japan)" id="0059">
 		<category>Games</category>
 		<description>Mr. Driller (Japan)</description>
-		<rom name="Mr. Driller (Japan).wsc" size="2097152" crc="5555d95c" md5="9d600bfe28196609fbe4fb5b89486cbc" sha1="209232f1e91c05140529d466c0ef6b7ad3386de1"/>
+		<rom name="Mr. Driller (Japan).wsc" size="2097152" crc="5555d95c" md5="9d600bfe28196609fbe4fb5b89486cbc" sha1="209232f1e91c05140529d466c0ef6b7ad3386de1" sha256="2ce5516663724df9d19909f61f031d1be6a8232206aff5324d511c95b211b4be"/>
 	</game>
 	<game name="Namco Super Wars (Japan)" id="0060">
 		<category>Games</category>
 		<description>Namco Super Wars (Japan)</description>
-		<rom name="Namco Super Wars (Japan).wsc" size="2097152" crc="8ce4652f" md5="4180034fe25dbc97ddd0d7e3adf83e3b" sha1="c48569fd0a46ab7b7ceafeb5698be90420cd4fbe"/>
+		<rom name="Namco Super Wars (Japan).wsc" size="2097152" crc="8ce4652f" md5="4180034fe25dbc97ddd0d7e3adf83e3b" sha1="c48569fd0a46ab7b7ceafeb5698be90420cd4fbe" sha256="20462e3ad8728b4a12b83bcfc22777c7dc0de1f585e11a9c7cbec04170635e49"/>
 	</game>
 	<game name="Naruto - Konoha Ninpouchou (Japan)" id="0061">
 		<category>Games</category>
 		<description>Naruto - Konoha Ninpouchou (Japan)</description>
 		<rom name="Naruto - Konoha Ninpouchou (Japan).wsc" size="4194304" crc="71556e6a" md5="5f742027ef79b71b0007ff5654e9565f" sha1="dbaa50fd56e69e72fdfe49362ef5fe4437d66667" sha256="ef0c39149633c00778f0cb8e8dcb767283202c74b8770e3fe4931d4ece313f6b"/>
 	</game>
-	<game name="Pocket no Naka no Doraemon (Japan)" id="0062">
+	<game name="Pocket no Naka no Doraemon (Japan) (WS Compatible)" id="0062">
 		<category>Games</category>
-		<description>Pocket no Naka no Doraemon (Japan)</description>
-		<rom name="Pocket no Naka no Doraemon (Japan).wsc" size="4194304" crc="2b61bb2b" md5="77e8335f51cd8f5baa2117bbf2b25307" sha1="57338999b949589c36ce116a30f433e9618685e4" sha256="599e43a86f4942d8689450050bed827e20ceda672ca4c0f5cfd47cfdce579077"/>
+		<description>Pocket no Naka no Doraemon (Japan) (WS Compatible)</description>
+		<rom name="Pocket no Naka no Doraemon (Japan) (WS Compatible).wsc" size="4194304" crc="2b61bb2b" md5="77e8335f51cd8f5baa2117bbf2b25307" sha1="57338999b949589c36ce116a30f433e9618685e4" sha256="599e43a86f4942d8689450050bed827e20ceda672ca4c0f5cfd47cfdce579077"/>
 	</game>
 	<game name="RUN=DIM - Return to Earth (Japan)" id="0069">
 		<category>Games</category>
 		<description>RUN=DIM - Return to Earth (Japan)</description>
-		<rom name="RUN=DIM - Return to Earth (Japan).wsc" size="2097152" crc="15c4552e" md5="5898c0dfee65ff9b47ce6ec1be2014d5" sha1="3a41a3b8fc126da07e2a82c21056a45c15efbc98"/>
+		<rom name="RUN=DIM - Return to Earth (Japan).wsc" size="2097152" crc="15c4552e" md5="5898c0dfee65ff9b47ce6ec1be2014d5" sha1="3a41a3b8fc126da07e2a82c21056a45c15efbc98" sha256="7bbc2da2d01eb1db63fcd0f88ac4b5a199946230ffeef1c853f4fbcf37ad7e69"/>
 	</game>
 	<game name="Raku Jongg (Japan)" id="0063">
 		<category>Games</category>
 		<description>Raku Jongg (Japan)</description>
-		<rom name="Raku Jongg (Japan).wsc" size="1048576" crc="fe4ff701" md5="a461ad467a1bf5ba55fa1874017f621b" sha1="977d5830e45c78b9020e9d06a63a9ad6bc623745"/>
+		<rom name="Raku Jongg (Japan).wsc" size="1048576" crc="fe4ff701" md5="a461ad467a1bf5ba55fa1874017f621b" sha1="977d5830e45c78b9020e9d06a63a9ad6bc623745" sha256="d1b51fa5ce87165cd72662e2df55a4bc751a8aafbcd80a77eba354d02063b0c4"/>
 	</game>
 	<game name="Rhyme Rider Kerorican (Japan)" id="0064">
 		<category>Games</category>
 		<description>Rhyme Rider Kerorican (Japan)</description>
-		<rom name="Rhyme Rider Kerorican (Japan).wsc" size="4194304" crc="60706555" md5="04237a449794b5a7a8e4a3572707befc" sha1="5973306a864c3804ee10b209e45067807d39a4de"/>
+		<rom name="Rhyme Rider Kerorican (Japan).wsc" size="4194304" crc="60706555" md5="04237a449794b5a7a8e4a3572707befc" sha1="5973306a864c3804ee10b209e45067807d39a4de" sha256="dbf9742996bdb9c2811d66f1689c9ccb8df62d3a54223604ab42083c9630e631"/>
 	</game>
 	<game name="Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1)" id="0104">
 		<category>Games</category>
 		<description>Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1)</description>
-		<rom name="Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1).wsc" size="8388608" crc="62cb398b" md5="b1832d4e48ba931adbfaf2ed35314fe0" sha1="862e59fc9322b1177cfff86d405f288fa904788c"/>
+		<rom name="Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1).wsc" size="8388608" crc="62cb398b" md5="b1832d4e48ba931adbfaf2ed35314fe0" sha1="862e59fc9322b1177cfff86d405f288fa904788c" sha256="8a4d77db8b8bd0a104b379e45b8e71b0b61d090e40776df165262cc520de8126"/>
 	</game>
 	<game name="Rockman EXE - N1 Battle (Japan) (Rev 1)" id="0066">
 		<category>Games</category>
@@ -349,27 +349,27 @@
 	<game name="Romancing Sa-Ga (Japan)" id="0068">
 		<category>Games</category>
 		<description>Romancing Sa-Ga (Japan)</description>
-		<rom name="Romancing Sa-Ga (Japan).wsc" size="4194304" crc="9c98d97d" md5="a4862ef07e13231ae429a98ef667a74a" sha1="06fcc9aad3ae478db6eed27621af4f56a6488a67"/>
+		<rom name="Romancing Sa-Ga (Japan).wsc" size="4194304" crc="9c98d97d" md5="a4862ef07e13231ae429a98ef667a74a" sha1="06fcc9aad3ae478db6eed27621af4f56a6488a67" sha256="82d050720dbc52a510dca1fb8cf16d84ea5dd0d19936cac2b15b36f86c309412"/>
 	</game>
 	<game name="SD Gundam - Operation U.C. (Japan)" id="0071">
 		<category>Games</category>
 		<description>SD Gundam - Operation U.C. (Japan)</description>
-		<rom name="SD Gundam - Operation U.C. (Japan).wsc" size="2097152" crc="f0acda5c" md5="12c3cca0ef52343509dda1c1fb4c1b65" sha1="152c4d63b1b17f2c717a43efc75d718b614f9ddc"/>
+		<rom name="SD Gundam - Operation U.C. (Japan).wsc" size="2097152" crc="f0acda5c" md5="12c3cca0ef52343509dda1c1fb4c1b65" sha1="152c4d63b1b17f2c717a43efc75d718b614f9ddc" sha256="23111bd79a8d39ebffe5a925da5db5865ecb6c53dca851d367aefe1b0e52e969"/>
 	</game>
-	<game name="SD Gundam Eiyuu Den - Kishi Densetsu (Japan)" id="0072">
+	<game name="SD Gundam Eiyuu Den - Kishi Densetsu (Japan) (WS Compatible)" id="0072">
 		<category>Games</category>
-		<description>SD Gundam Eiyuu Den - Kishi Densetsu (Japan)</description>
-		<rom name="SD Gundam Eiyuu Den - Kishi Densetsu (Japan).wsc" size="4194304" crc="c60e5162" md5="3944c5d21434e5836f414b319af96331" sha1="ebd4b37ade6df717f7b637747a4d3c45a6cca037"/>
+		<description>SD Gundam Eiyuu Den - Kishi Densetsu (Japan) (WS Compatible)</description>
+		<rom name="SD Gundam Eiyuu Den - Kishi Densetsu (Japan) (WS Compatible).wsc" size="4194304" crc="c60e5162" md5="3944c5d21434e5836f414b319af96331" sha1="ebd4b37ade6df717f7b637747a4d3c45a6cca037" sha256="9cebbb4e8baf720b817e5863193dcc087dce66bdac87490bb24ea0f79024961e"/>
 	</game>
-	<game name="SD Gundam Eiyuu Den - Musha Densetsu (Japan)" id="0073">
+	<game name="SD Gundam Eiyuu Den - Musha Densetsu (Japan) (WS Compatible)" id="0073">
 		<category>Games</category>
-		<description>SD Gundam Eiyuu Den - Musha Densetsu (Japan)</description>
-		<rom name="SD Gundam Eiyuu Den - Musha Densetsu (Japan).wsc" size="4194304" crc="18ecffb8" md5="18267bcb9d31ffb6711f5464f6ab8077" sha1="d8097e25431f0ad5183b2479ee0837599677a300"/>
+		<description>SD Gundam Eiyuu Den - Musha Densetsu (Japan) (WS Compatible)</description>
+		<rom name="SD Gundam Eiyuu Den - Musha Densetsu (Japan) (WS Compatible).wsc" size="4194304" crc="18ecffb8" md5="18267bcb9d31ffb6711f5464f6ab8077" sha1="d8097e25431f0ad5183b2479ee0837599677a300" sha256="4cf3d1ee47502a485e2d9be8bd4d963704b0ea5dbee525e6c0e7e9e43efd25c7"/>
 	</game>
 	<game name="SD Gundam G Generation - Gather Beat 2 (Japan)" id="0074">
 		<category>Games</category>
 		<description>SD Gundam G Generation - Gather Beat 2 (Japan)</description>
-		<rom name="SD Gundam G Generation - Gather Beat 2 (Japan).wsc" size="8388608" crc="4d21a347" md5="6c1949e0201437ed16d9182956b67b0e" sha1="016ff46509cbfe57a7440a1755d3a41ef49c048f"/>
+		<rom name="SD Gundam G Generation - Gather Beat 2 (Japan).wsc" size="8388608" crc="4d21a347" md5="6c1949e0201437ed16d9182956b67b0e" sha1="016ff46509cbfe57a7440a1755d3a41ef49c048f" sha256="5ac156cde93438ca1274513c602785de50af1544673fcb27e6d81ddb28276f1d"/>
 	</game>
 	<game name="SD Gundam G Generation - Mono-Eye Gundams (Japan) (Rev 2)" id="0107">
 		<category>Games</category>
@@ -379,87 +379,87 @@
 	<game name="Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan)" id="0070">
 		<category>Games</category>
 		<description>Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan)</description>
-		<rom name="Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).wsc" size="2097152" crc="6e8a792d" md5="fd7f1859cb0ee0b63ccb7f36e9a3351d" sha1="8542649963efe0976015759382c180b7c056be9a"/>
+		<rom name="Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).wsc" size="2097152" crc="6e8a792d" md5="fd7f1859cb0ee0b63ccb7f36e9a3351d" sha1="8542649963efe0976015759382c180b7c056be9a" sha256="1987d416e789ca50eb758b081d9c05f8cd45ee938278b19be7630ab0003e26db"/>
 	</game>
-	<game name="Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan)" id="0076">
+	<game name="Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan) (WS Compatible)" id="0076">
 		<category>Games</category>
-		<description>Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan)</description>
-		<rom name="Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).wsc" size="4194304" crc="9f35d00f" md5="29badb7011c6d4d7b2047249f24fafb9" sha1="df9e831842072d9af613effbee7162229849de58"/>
+		<description>Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan) (WS Compatible)</description>
+		<rom name="Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan) (WS Compatible).wsc" size="4194304" crc="9f35d00f" md5="29badb7011c6d4d7b2047249f24fafb9" sha1="df9e831842072d9af613effbee7162229849de58" sha256="c420f7152a080c88bc7b749868dcb781c14fc333a1e93d934de8bde0afa5d2db"/>
 	</game>
 	<game name="Shaman King - Asu e no Ishi (Japan) (Rev 1)" id="0078">
 		<category>Games</category>
 		<description>Shaman King - Asu e no Ishi (Japan) (Rev 1)</description>
-		<rom name="Shaman King - Asu e no Ishi (Japan) (Rev 1).wsc" size="4194304" crc="34908cb4" md5="0383d7778eac82483efb4e9d276581c6" sha1="473195666a633573c777d3be98d7e8f46569c84b"/>
+		<rom name="Shaman King - Asu e no Ishi (Japan) (Rev 1).wsc" size="4194304" crc="34908cb4" md5="0383d7778eac82483efb4e9d276581c6" sha1="473195666a633573c777d3be98d7e8f46569c84b" sha256="97f77e0401d4d2e42e83aa21b04e8a29a90ac76d94f0666bc28cca59e0dddb47"/>
 	</game>
-	<game name="Sorobang (Japan) (Rev 1)" id="0079">
+	<game name="Sorobang (Japan) (Rev 1) (WS Compatible)" id="0079">
 		<category>Games</category>
-		<description>Sorobang (Japan) (Rev 1)</description>
-		<rom name="Sorobang (Japan) (Rev 1).wsc" size="1048576" crc="0e467d97" md5="8756f7653d5d7dd201c1048078ff1cd0" sha1="983582fe8d18839df30b6d29fb75780a9e32f4ec"/>
+		<description>Sorobang (Japan) (Rev 1) (WS Compatible)</description>
+		<rom name="Sorobang (Japan) (Rev 1) (WS Compatible).wsc" size="1048576" crc="0e467d97" md5="8756f7653d5d7dd201c1048078ff1cd0" sha1="983582fe8d18839df30b6d29fb75780a9e32f4ec" sha256="07ab6241562959a446b38fb3ce5e44a1550d6439e94ca885f7c447cd8046a20a"/>
 	</game>
 	<game name="Star Hearts - Hoshi to Daichi no Shisha (Japan)" id="0081">
 		<category>Games</category>
 		<description>Star Hearts - Hoshi to Daichi no Shisha (Japan)</description>
-		<rom name="Star Hearts - Hoshi to Daichi no Shisha (Japan).wsc" size="4194304" crc="138d1018" md5="41a4a0ab39c036fb4ad741f19027e443" sha1="2b2c2a0566646156bcdde2a00b728c5b8218aa23"/>
+		<rom name="Star Hearts - Hoshi to Daichi no Shisha (Japan).wsc" size="4194304" crc="138d1018" md5="41a4a0ab39c036fb4ad741f19027e443" sha1="2b2c2a0566646156bcdde2a00b728c5b8218aa23" sha256="64179c9924ec1280861ebd83b99aaeb0770701051e590613430ae9a6dbe31255"/>
 	</game>
 	<game name="Super Robot Taisen Compact 3 (Japan) (Rev 6)" id="0083">
 		<category>Games</category>
 		<description>Super Robot Taisen Compact 3 (Japan) (Rev 6)</description>
-		<rom name="Super Robot Taisen Compact 3 (Japan) (Rev 6).wsc" size="8388608" crc="188ca644" md5="d43e85a61b91423de8a91f78e62936fe" sha1="dd6fe0f278cdec2670d3be8552dbb0cf6a3a2841"/>
+		<rom name="Super Robot Taisen Compact 3 (Japan) (Rev 6).wsc" size="8388608" crc="188ca644" md5="d43e85a61b91423de8a91f78e62936fe" sha1="dd6fe0f278cdec2670d3be8552dbb0cf6a3a2841" sha256="f1f2c5dd889f8c0a566fc9bdfe184cbfcf4d7c47f0ab20edd0d413b1d77acbef"/>
 	</game>
 	<game name="Super Robot Taisen Compact for WonderSwan Color (Japan)" id="0084">
 		<category>Games</category>
 		<description>Super Robot Taisen Compact for WonderSwan Color (Japan)</description>
-		<rom name="Super Robot Taisen Compact for WonderSwan Color (Japan).wsc" size="4194304" crc="16e0d929" md5="59c20a67961e60791360d8d29d937ef0" sha1="bf212cecbbc51ee32ee2655a072f55e7bf70b9ec"/>
+		<rom name="Super Robot Taisen Compact for WonderSwan Color (Japan).wsc" size="4194304" crc="16e0d929" md5="59c20a67961e60791360d8d29d937ef0" sha1="bf212cecbbc51ee32ee2655a072f55e7bf70b9ec" sha256="441a6e4e4a4fdcca40c4522d20a799bb5d6875b828c40537dec436a122b1ab70"/>
 	</game>
-	<game name="Terrors 2 (Japan)" id="0085">
+	<game name="Terrors 2 (Japan) (WS Compatible)" id="0085">
 		<category>Games</category>
-		<description>Terrors 2 (Japan)</description>
-		<rom name="Terrors 2 (Japan).wsc" size="4194304" crc="9bd8f08c" md5="a8f950c87c0237ead29b23c04368de44" sha1="9532113e14b03c95f034c015168e21273d42eff1"/>
+		<description>Terrors 2 (Japan) (WS Compatible)</description>
+		<rom name="Terrors 2 (Japan) (WS Compatible).wsc" size="4194304" crc="9bd8f08c" md5="a8f950c87c0237ead29b23c04368de44" sha1="9532113e14b03c95f034c015168e21273d42eff1" sha256="ebd9b2d7d60ffa16674598703471a404ca9020d4efe8ceaae287804854c92b31"/>
 	</game>
-	<game name="Tetris (Japan)" id="0086">
+	<game name="Tetris (Japan) (WS Compatible)" id="0086">
 		<category>Games</category>
-		<description>Tetris (Japan)</description>
-		<rom name="Tetris (Japan).wsc" size="1048576" crc="7b0caea9" md5="b7e66090d059f77636161fa4e21f3e89" sha1="1a86403d7896d60fcb7a4c09367f5a976c7ea5a5"/>
+		<description>Tetris (Japan) (WS Compatible)</description>
+		<rom name="Tetris (Japan) (WS Compatible).wsc" size="1048576" crc="7b0caea9" md5="b7e66090d059f77636161fa4e21f3e89" sha1="1a86403d7896d60fcb7a4c09367f5a976c7ea5a5" sha256="284f7a74cfaad89ee36749d858ce948b1f2c815ffba14c00410c1d58d94de2a5"/>
 	</game>
-	<game name="Tonpuusou (Japan)" id="0087">
+	<game name="Tonpuusou (Japan) (WS Compatible)" id="0087">
 		<category>Games</category>
-		<description>Tonpuusou (Japan)</description>
-		<rom name="Tonpuusou (Japan).wsc" size="1048576" crc="47659b2c" md5="ccab821fe0db8dc9c468d2d3479b530a" sha1="fb53c28bd48174d3829467f1ab81d3f87f9a7f5b"/>
+		<description>Tonpuusou (Japan) (WS Compatible)</description>
+		<rom name="Tonpuusou (Japan) (WS Compatible).wsc" size="1048576" crc="47659b2c" md5="ccab821fe0db8dc9c468d2d3479b530a" sha1="fb53c28bd48174d3829467f1ab81d3f87f9a7f5b" sha256="fad9520384d224cfbea7ad8c4f3b3d4dcfb6bfacec73ed6995eca974ca7a4952"/>
 	</game>
-	<game name="Uchuu Senkan Yamato (Japan)" id="0088">
+	<game name="Uchuu Senkan Yamato (Japan) (WS Compatible)" id="0088">
 		<category>Games</category>
-		<description>Uchuu Senkan Yamato (Japan)</description>
-		<rom name="Uchuu Senkan Yamato (Japan).wsc" size="4194304" crc="5793bdda" md5="9f612c697b72b2d5e87776edd95de077" sha1="dd1878279a6667fb66dd1ac44a2cdb9a5acbe415"/>
+		<description>Uchuu Senkan Yamato (Japan) (WS Compatible)</description>
+		<rom name="Uchuu Senkan Yamato (Japan) (WS Compatible).wsc" size="4194304" crc="5793bdda" md5="9f612c697b72b2d5e87776edd95de077" sha1="dd1878279a6667fb66dd1ac44a2cdb9a5acbe415" sha256="68cda4b6bcfd9abdea53c4313d1b84ef7c41986f9909d55dc315f7a41a44ecb8"/>
 	</game>
 	<game name="Ultraman - Hikari no Kuni no Shisha (Japan)" id="0089">
 		<category>Games</category>
 		<description>Ultraman - Hikari no Kuni no Shisha (Japan)</description>
-		<rom name="Ultraman - Hikari no Kuni no Shisha (Japan).wsc" size="2097152" crc="de2208ab" md5="50afa9b3099b822b0f01e32fbecff9bf" sha1="bd107befe5ce6c5508d2da8be351b9984166ae1d"/>
+		<rom name="Ultraman - Hikari no Kuni no Shisha (Japan).wsc" size="2097152" crc="de2208ab" md5="50afa9b3099b822b0f01e32fbecff9bf" sha1="bd107befe5ce6c5508d2da8be351b9984166ae1d" sha256="c305a8fe3a06085551fb0db14f531c53f59df16ca6a5ea5ae72ad438f20c9ce6"/>
 	</game>
 	<game name="Wild Card (Japan)" id="0090">
 		<category>Games</category>
 		<description>Wild Card (Japan)</description>
-		<rom name="Wild Card (Japan).wsc" size="2097152" crc="d9401f0a" md5="3da84c8d458cb9ef07b923dadb209990" sha1="ea878a485a20abd5251065fd66e82d9d8b8a669d"/>
+		<rom name="Wild Card (Japan).wsc" size="2097152" crc="d9401f0a" md5="3da84c8d458cb9ef07b923dadb209990" sha1="ea878a485a20abd5251065fd66e82d9d8b8a669d" sha256="a1e11189ae0c15494379ae1611b285997d302a451f3233270c4ce9d8ad126c11"/>
 	</game>
 	<game name="With You - Mitsumete Itai (Japan)" id="0091">
 		<category>Games</category>
 		<description>With You - Mitsumete Itai (Japan)</description>
-		<rom name="With You - Mitsumete Itai (Japan).wsc" size="4194304" crc="e14e9d36" md5="b810c7e4d13452444633b6a6a123664b" sha1="6a4f4a03c367ccf00aa7462191c929a2736eb44b"/>
+		<rom name="With You - Mitsumete Itai (Japan).wsc" size="4194304" crc="e14e9d36" md5="b810c7e4d13452444633b6a6a123664b" sha1="6a4f4a03c367ccf00aa7462191c929a2736eb44b" sha256="3311444f8ca5cd4fece4bab66564373bed069fa8b1a5f60ede3403e2c7814cf3"/>
 	</game>
-	<game name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)" id="0092">
+	<game name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (WS Compatible)" id="0092">
 		<category>Games</category>
-		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)</description>
-		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).wsc" size="2097152" crc="15e55706" md5="f0ba64cd7b88eab7add0f7af02080072" sha1="c1ad383d337dba8a63295cfb8c7ca8470c893c67"/>
+		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (WS Compatible)</description>
+		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (WS Compatible).wsc" size="2097152" crc="15e55706" md5="f0ba64cd7b88eab7add0f7af02080072" sha1="c1ad383d337dba8a63295cfb8c7ca8470c893c67" sha256="db323701819927473e4f8d3c732fa2b843ba6b8b260bfe454d92d82f7d537ff5"/>
 	</game>
-	<game name="Wonder Classic (Japan)" id="0093">
+	<game name="Wonder Classic (Japan) (WS Compatible)" id="0093">
 		<category>Games</category>
-		<description>Wonder Classic (Japan)</description>
-		<rom name="Wonder Classic (Japan).wsc" size="4194304" crc="12f10b27" md5="50a6fd0e2a65487b5ea2672d2b93a862" sha1="55b54944efd6e277fa7140925ed2457a8cfb40b8"/>
+		<description>Wonder Classic (Japan) (WS Compatible)</description>
+		<rom name="Wonder Classic (Japan) (WS Compatible).wsc" size="4194304" crc="12f10b27" md5="50a6fd0e2a65487b5ea2672d2b93a862" sha1="55b54944efd6e277fa7140925ed2457a8cfb40b8" sha256="ac3bd2bc8742c074e8cd6a4fac5607bec6d9da7e7dbbe9492035256d1754fc73"/>
 	</game>
 	<game name="X - Card of Fate (Japan)" id="0094">
 		<category>Games</category>
 		<description>X - Card of Fate (Japan)</description>
-		<rom name="X - Card of Fate (Japan).wsc" size="4194304" crc="66b617d5" md5="26c76cfcb14c5c8799dbe4367184d4a5" sha1="c1ab4e24f261615ca59f937b866fcf7047b67796"/>
+		<rom name="X - Card of Fate (Japan).wsc" size="4194304" crc="66b617d5" md5="26c76cfcb14c5c8799dbe4367184d4a5" sha1="c1ab4e24f261615ca59f937b866fcf7047b67796" sha256="ad47459e90ff650d7b9f3d6b997330bc9c74511a6ec313b69c5f0b29303a8f6d"/>
 	</game>
 	<game name="XI Little (Japan)" id="0095">
 		<category>Games</category>

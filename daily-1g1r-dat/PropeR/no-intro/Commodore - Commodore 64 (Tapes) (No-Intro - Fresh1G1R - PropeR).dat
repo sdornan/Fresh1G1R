@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Tapes) (Retool)</name>
-		<description>Commodore - Commodore 64 (Tapes) (1,654) (-y) [-aAbBcdkmMpPuv] (20261013-012550) (Retool)</description>
-		<version>20261013-012550</version>
-		<date>2026-10-13 09-39-26</date>
+		<description>Commodore - Commodore 64 (Tapes) (1,654) (-y) [-aAbBcdkmMpPuv] (20261013-153551) (Retool)</description>
+		<version>20261013-153551</version>
+		<date>2026-10-14 07-46-26</date>
 		<author>1988reload, C. V. Reynolds</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -219,25 +219,25 @@
 	<game name="Agent X II - The Mad Prof's Back (Europe)" id="0098">
 		<category>Games</category>
 		<description>Agent X II - The Mad Prof's Back (Europe)</description>
-		<rom name="Agent X II - The Mad Prof's Back (Europe).tap" size="860602" crc="c6e02b05" md5="91d7863c2a741aa5ecc17a8fcd74f1cc" sha1="9a45345a6b96dfc696e3682bbc5083ad23dd9df6"/>
+		<rom name="Agent X II - The Mad Prof's Back (Europe).tap" size="860602" crc="c6e02b05" md5="91d7863c2a741aa5ecc17a8fcd74f1cc" sha1="9a45345a6b96dfc696e3682bbc5083ad23dd9df6" sha256="00d9e3db396db84e07fb693f21caacf78a920251d20494cc2277a3e91216e05c"/>
 	</game>
 	<game name="Airborne Ranger (Europe)" id="0099">
 		<category>Games</category>
 		<description>Airborne Ranger (Europe)</description>
-		<rom name="Airborne Ranger (Europe) (Side 1).tap" size="844750" crc="822f490d" md5="86b57583a1343dbbe1070510cf2cf9c3" sha1="61f4cfcd567e71fe865bef9548f1a2b9ac4c0e65"/>
-		<rom name="Airborne Ranger (Europe) (Side 2).tap" size="484468" crc="ea91ae50" md5="19172471e5bd9b4ddf42aa7e1fc9a745" sha1="5146835236cc4aca93fc60c436ab04e294b5368e"/>
-		<rom name="Airborne Ranger (Europe) (Side 3).tap" size="626659" crc="ad0b1721" md5="f90e2f90e1c126748bcc7ba12cd02e3e" sha1="0b0b20f870965afd62b598a3cc767cb57dcab7b4"/>
-		<rom name="Airborne Ranger (Europe) (Side 4).tap" size="626648" crc="4d758ef8" md5="739090532256609d3069678a486585c2" sha1="d20f0df8bf66100f941166db37a4ed68ed56d444"/>
+		<rom name="Airborne Ranger (Europe) (Side 1).tap" size="844750" crc="822f490d" md5="86b57583a1343dbbe1070510cf2cf9c3" sha1="61f4cfcd567e71fe865bef9548f1a2b9ac4c0e65" sha256="d03800fa2e21222a34979589c09a8de0cd4d6e60eb0fc565c4767049113e53e3"/>
+		<rom name="Airborne Ranger (Europe) (Side 2).tap" size="484468" crc="ea91ae50" md5="19172471e5bd9b4ddf42aa7e1fc9a745" sha1="5146835236cc4aca93fc60c436ab04e294b5368e" sha256="4d350e240b8a7602988c19a83f9806efd0141ac69737891765caf1d096d74d1c"/>
+		<rom name="Airborne Ranger (Europe) (Side 3).tap" size="626659" crc="ad0b1721" md5="f90e2f90e1c126748bcc7ba12cd02e3e" sha1="0b0b20f870965afd62b598a3cc767cb57dcab7b4" sha256="0e7a803ff9c5c4518260be20c563ef35abfe9a540f8fc1ee93c5368a63b33b1f"/>
+		<rom name="Airborne Ranger (Europe) (Side 4).tap" size="626648" crc="4d758ef8" md5="739090532256609d3069678a486585c2" sha1="d20f0df8bf66100f941166db37a4ed68ed56d444" sha256="04b677b69cce57d3c9fff783dd9be1b3f00b56a6dccdb7a9627e15cc93465861"/>
 	</game>
 	<game name="Airwolf 64 (Europe)" id="0100">
 		<category>Games</category>
 		<description>Airwolf 64 (Europe)</description>
-		<rom name="Airwolf 64 (Europe).tap" size="615783" crc="0bed3b66" md5="711cc6f509cc85c442f5baa7d6d40779" sha1="8f265dbac089c05458a52a78d7dab520807dcc60"/>
+		<rom name="Airwolf 64 (Europe).tap" size="615783" crc="0bed3b66" md5="711cc6f509cc85c442f5baa7d6d40779" sha1="8f265dbac089c05458a52a78d7dab520807dcc60" sha256="c2f116af98e3a47a56b6dfa96e98de9ef66d6898cae6395feb2bfef2f4616230"/>
 	</game>
 	<game name="Airwolf II (Europe)" id="0101">
 		<category>Games</category>
 		<description>Airwolf II (Europe)</description>
-		<rom name="Airwolf II (Europe).tap" size="738734" crc="3428112b" md5="8784cbb16f5e88ee04d4842f3b491164" sha1="fe31efd35045e7ea407b3d03bace5b5cfdd7ad4d"/>
+		<rom name="Airwolf II (Europe).tap" size="738734" crc="3428112b" md5="8784cbb16f5e88ee04d4842f3b491164" sha1="fe31efd35045e7ea407b3d03bace5b5cfdd7ad4d" sha256="1f1e09147ad8189b5adc0d9b7e4d5c9c2ae95496380b55d7e25422371f42ba98"/>
 	</game>
 	<game name="Alcazar - The Forgotten Fortress (Europe)" id="0102">
 		<category>Games</category>

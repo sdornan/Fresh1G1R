@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Audio CD (Retool)</name>
-		<description>Audio CD (4) (-y) [-aAbBcefkmMoprv] (2026-10-12 18-10-31) (Retool)</description>
-		<version>2026-10-12 18-10-31</version>
-		<date>2026-10-13 09-14-03</date>
+		<description>Audio CD (4) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-50-04) (Retool)</description>
+		<version>2026-10-14 05-50-04</version>
+		<date>2026-10-14 07-26-14</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -23,7 +23,7 @@
 	</game>
 	<game name="Glee - CD Board Game (USA)" id="125808">
 		<category>Games</category>
-		<description>Glee - CD Board Game (USA)</description>
+		<description>Glee: CD Board Game (USA)</description>
 		<rom name="Glee - CD Board Game (USA) (Track 01).bin" size="5407248" crc="453741f6" md5="9d8610478518a5258d0eb32253ed944d" sha1="bd4505eed44727ee177de1f77d99f97e52e38e31"/>
 		<rom name="Glee - CD Board Game (USA) (Track 02).bin" size="5919984" crc="c164c8e4" md5="71007b544771b7d490aff9fb9f1615f2" sha1="13d70b727888894103fef358c0c335aa4d88eae3"/>
 		<rom name="Glee - CD Board Game (USA) (Track 03).bin" size="8050896" crc="d474601f" md5="2fad0346abc1fbe9fe5083bc2b9e5609" sha1="92f49182237067ff8825e869e9de536df83a1651"/>
@@ -127,6 +127,7 @@
 	<game name="Questian (Japan)" id="136948">
 		<category>Games</category>
 		<description>Questian (Japan)</description>
+		<serial>WPCL-670</serial>
 		<rom name="Questian (Japan) (Track 01).bin" size="11505984" crc="94cc7c9a" md5="8d03d76ea065c2294771a5fd16810139" sha1="50c93a128cb68b0ce7a4d98c111c1d9491b59731"/>
 		<rom name="Questian (Japan) (Track 02).bin" size="37874256" crc="0901be62" md5="02ae83be723d28fc0655ee24ba328229" sha1="133be738e21f935134db7389e7b33ef29c867032"/>
 		<rom name="Questian (Japan) (Track 03).bin" size="25566240" crc="a650ac65" md5="86b3093aaf4f67f55b65d5b782a4964a" sha1="836ca4e232315fc7247b63e4812a38e7114cd0eb"/>
@@ -190,7 +191,7 @@
 	</game>
 	<game name="Terror T.R.A.X. - Track of the Vampire (USA)" id="104355">
 		<category>Games</category>
-		<description>Terror T.R.A.X. - Track of the Vampire (USA)</description>
+		<description>Terror T.R.A.X.: Track of the Vampire (USA)</description>
 		<rom name="Terror T.R.A.X. - Track of the Vampire (USA) (Track 01).bin" size="35063616" crc="1b2f38a4" md5="90123a87cd8a7deafb129c3b397b52f7" sha1="7c5171804dba66b50b2b94ef6e2dbe8c93504f84"/>
 		<rom name="Terror T.R.A.X. - Track of the Vampire (USA) (Track 02).bin" size="3455088" crc="ee6b72e8" md5="b2721718e7eb924597ebb48d565ee0e8" sha1="86842decaaba5ba07d2691ecc74ea2f3e2efdde0"/>
 		<rom name="Terror T.R.A.X. - Track of the Vampire (USA) (Track 03).bin" size="7218288" crc="be681ee7" md5="b462694e5de374f821de6fc6db02bb85" sha1="f0cf9f1db89aee01685652e750b5311229b34989"/>

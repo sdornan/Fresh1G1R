@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Acorn - Archimedes &amp; Risc PC (Retool)</name>
-		<description>Acorn - Archimedes &amp; Risc PC (7) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-05 07-57-25) (Retool)</description>
-		<version>2026-10-05 07-57-25</version>
-		<date>2026-10-13 09-24-13</date>
+		<description>Acorn - Archimedes &amp; Risc PC (7) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-14 05-50-04) (Retool)</description>
+		<version>2026-10-14 05-50-04</version>
+		<date>2026-10-14 07-33-55</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14,12 +14,14 @@
 	<game name="!ogic Mania (UK)" id="101850">
 		<category>Games</category>
 		<description>!ogic Mania (UK)</description>
+		<serial>PACD004/2000</serial>
 		<rom name="!ogic Mania (UK).bin" size="5270832" crc="cc8ce67e" md5="01780355a191eca23802064a02ca505b" sha1="be5ae61dc865c4c7bece838a960ad73954946b38"/>
 		<rom name="!ogic Mania (UK).cue" size="82" crc="576c183a" md5="9c7beb45cde36c4358c6406b2a50407a" sha1="d3d75ac49b691d7617cb682e3c2a4141f8507339"/>
 	</game>
 	<game name="Ankh - The Tales of Mystery (UK)" id="84381">
 		<category>Games</category>
-		<description>Ankh - The Tales of Mystery (UK)</description>
+		<description>Ankh: The Tales of Mystery (UK)</description>
+		<version>1.0</version>
 		<rom name="Ankh - The Tales of Mystery (UK) (Track 1).bin" size="81950736" crc="24e729ae" md5="312adb7131c09622d5d1dde95d54f5f8" sha1="5401756986a0b15b866d96e4b8d3002da00381f0"/>
 		<rom name="Ankh - The Tales of Mystery (UK) (Track 2).bin" size="96961200" crc="e295f8b3" md5="f6eae368dcbd11b0b6528134aa9dd249" sha1="b2356de5305a18c5c2036bb8243bcbc3dffe2bca"/>
 		<rom name="Ankh - The Tales of Mystery (UK) (Track 3).bin" size="105562464" crc="1b4bbaea" md5="5906a27e0c933e9993ece74cc511a4dc" sha1="2a166475f23f7cddc47175daf2c29e2c2b6f6e25"/>
@@ -32,13 +34,15 @@
 	</game>
 	<game name="Desktop Repton - Issue Two (UK)" id="84388">
 		<category>Games</category>
-		<description>Desktop Repton - Issue Two (UK)</description>
+		<description>Desktop Repton: Issue Two (UK)</description>
+		<serial>Serial No. 01462</serial>
 		<rom name="Desktop Repton - Issue Two (UK).bin" size="4974480" crc="c1d94252" md5="9235e4f55a7e307b765054aaf9e9d8f0" sha1="56093e2d70472820a9572695c02127beab92b636"/>
 		<rom name="Desktop Repton - Issue Two (UK).cue" size="97" crc="56550541" md5="4019155f821bebdca5e26c29c2b687a7" sha1="d0dc14dcfc268c33e27f77cd38cb5d8357ba5d95"/>
 	</game>
 	<game name="Dune II - Battle for Arrakis (UK)" id="81849">
 		<category>Games</category>
-		<description>Dune II - Battle for Arrakis (UK)</description>
+		<description>Dune II: Battle for Arrakis (UK)</description>
+		<version>1.30b</version>
 		<rom name="Dune II - Battle for Arrakis (UK).bin" size="305049696" crc="23ba6d27" md5="0a9b6300d4aeb81a6bd014f2e35c305f" sha1="319245d5bbeada6dffd09bce822ba59fa9afcb28"/>
 		<rom name="Dune II - Battle for Arrakis (UK).cue" size="122" crc="e6f9902d" md5="8aa07d18b9492409586c249825583869" sha1="43c41044245c6b9ec6d3760d7e45f1596cad816d"/>
 	</game>
