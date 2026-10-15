@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,928) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-52-10) (Retool)</description>
-		<version>2026-10-14 05-52-10</version>
-		<date>2026-10-14 07-28-28</date>
+		<description>Sony - PlayStation 4 (1,929) (-y) [-aAbBcefkmMoprv] (2026-10-14 17-20-57) (Retool)</description>
+		<version>2026-10-14 17-20-57</version>
+		<date>2026-10-15 07-16-56</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2670,6 +2670,13 @@
 		<serial>CUSA-08880</serial>
 		<version>01.01</version>
 		<rom name="Darksiders III (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar).iso" size="21318991872" crc="4afe2d5e" md5="7d6502a36ada9414c9e94e483372984f" sha1="ae29320fe8dd37d1a56905be9c7c7e8ae37773b1"/>
+	</game>
+	<game name="Darkwood (USA) (En,De,Es,It,Pt,Zh,Pl,Ru)" id="139371">
+		<category>Games</category>
+		<description>Darkwood (USA) (En,De,Es,It,Pt,Zh,Pl,Ru)</description>
+		<serial>CUSA-13413</serial>
+		<version>02.00</version>
+		<rom name="Darkwood (USA) (En,De,Es,It,Pt,Zh,Pl,Ru).iso" size="7684882432" crc="feda31d3" md5="9e359871101333ef5694ada464920034" sha1="26351658148babaf2c8c1726dfc5d021d57af4f2"/>
 	</game>
 	<game name="Date A Live - Rio Reincarnation HD (Japan)" id="135977">
 		<category>Games</category>

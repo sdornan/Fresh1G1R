@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,606) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-14 05-50-33) (Retool)</description>
-		<version>2026-10-14 05-50-33</version>
-		<date>2026-10-14 07-35-05</date>
+		<description>IBM - PC compatible (13,606) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-15 03-05-55) (Retool)</description>
+		<version>2026-10-15 03-05-55</version>
+		<date>2026-10-15 07-23-42</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14531,14 +14531,14 @@
 		<category>Games</category>
 		<description>Call of Duty: Modern Warfare 2 (USA, Europe) (Disc 2)</description>
 		<serial>33337.102.00, 3333710200, 33337102US</serial>
-		<version>1.0</version>
+		<version>1.000000</version>
 		<rom name="Call of Duty - Modern Warfare 2 (USA, Europe) (Disc 2).iso" size="3601694720" crc="b4825cc2" md5="fdc50451c175ee8499fc2d407b143a5a" sha1="3c6e63504d41df4bdb2d4c57f4c5fc7b810d7df8"/>
 	</game>
 	<game name="Call of Duty - Modern Warfare 2 (World) (Disc 1)" id="29214">
 		<category>Games</category>
 		<description>Call of Duty: Modern Warfare 2 (World) (Disc 1)</description>
 		<serial>33337.101.00, 3333710100, 33337101AU, 33337101US</serial>
-		<version>1.0</version>
+		<version>1.000000</version>
 		<rom name="Call of Duty - Modern Warfare 2 (World) (Disc 1).iso" size="8370782208" crc="cfbd417b" md5="86ed3286896c10d8932511764cd15741" sha1="6f572261ed954733806daf5b42edf92b3127cd14"/>
 	</game>
 	<game name="Call of Duty - Modern Warfare 3 (USA, Europe) (Disc 1)" id="29216">
@@ -15895,11 +15895,11 @@
 		<rom name="Chain of Command - Eastern Front (USA).bin" size="479335248" crc="7c5325e0" md5="42b587cfd9a3f9b1e5a481c891235606" sha1="16672827a966df854883ac51131dbb0e725dd8d4"/>
 		<rom name="Chain of Command - Eastern Front (USA).cue" size="104" crc="e5d5206e" md5="e36c5606512e908c6d3054903325e760" sha1="bf15b7441b974f32b6ae6e4c3658d17a134b6b04"/>
 	</game>
-	<game name="Chainz 2 - Relinked (USA)" id="84624">
+	<game name="Chainz 2 - Relinked (USA) (Rev 1)" id="84624">
 		<category>Games</category>
-		<description>Chainz 2: Relinked (USA)</description>
-		<rom name="Chainz 2 - Relinked (USA).bin" size="745210032" crc="584d2ce9" md5="f886c0c48c5b0e5f6b4519d499a53b1f" sha1="0b1eba54aa180b21e711419e60b09ac97c27f502"/>
-		<rom name="Chainz 2 - Relinked (USA).cue" size="91" crc="26f387d5" md5="3caaf209aa1c9fa0b9903836aa4d7166" sha1="c5ee7843d76ddd2a61836b7425a5c409b5ba57b4"/>
+		<description>Chainz 2: Relinked (USA) (Rev 1)</description>
+		<rom name="Chainz 2 - Relinked (USA) (Rev 1).bin" size="745210032" crc="584d2ce9" md5="f886c0c48c5b0e5f6b4519d499a53b1f" sha1="0b1eba54aa180b21e711419e60b09ac97c27f502"/>
+		<rom name="Chainz 2 - Relinked (USA) (Rev 1).cue" size="99" crc="d9e1318d" md5="edf9bd93288b8fcb357ff49eccac2d86" sha1="9ec33f9e871d7265fe975526ca425fa079dbe976"/>
 	</game>
 	<game name="Challenge Me - Brain Puzzles 2 (Europe)" id="87403">
 		<category>Games</category>
@@ -35734,11 +35734,11 @@
 		<serial>SEGA-PC171</serial>
 		<rom name="Football Manager 2017 (Europe).iso" size="2330198016" crc="909f5ea7" md5="fa858d0d7f4fa62890ea146df62434ab" sha1="7e81cb3c1e532f2284ad0cb2c508aad979fb8951"/>
 	</game>
-	<game name="Football Manager 2018 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Ko,Pl,Ru,Cs)" id="114321">
+	<game name="Football Manager 2018 (Europe)" id="114321">
 		<category>Games</category>
-		<description>Football Manager 2018 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Ko,Pl,Ru,Cs)</description>
+		<description>Football Manager 2018 (Europe)</description>
 		<serial>SEGA-PC178</serial>
-		<rom name="Football Manager 2018 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Ko,Pl,Ru,Cs).iso" size="2089615360" crc="6f922fab" md5="a28dae27c042bc4c4fe77aba73670869" sha1="9ee565316a56b1b64148dbb102fbb8fd0698eba2"/>
+		<rom name="Football Manager 2018 (Europe).iso" size="2089615360" crc="6f922fab" md5="a28dae27c042bc4c4fe77aba73670869" sha1="9ee565316a56b1b64148dbb102fbb8fd0698eba2"/>
 	</game>
 	<game name="Football Mogul (USA)" id="129356">
 		<category>Games</category>

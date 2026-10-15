@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,930) (-y) [-aAbBcefkmMoprv] (20261013-004646) (Retool)</description>
-		<version>20261013-004646</version>
-		<date>2026-10-14 07-28-51</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,927) (-y) [-aAbBcefkmMoprv] (20261014-205438) (Retool)</description>
+		<version>20261014-205438</version>
+		<date>2026-10-15 07-17-46</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -335,21 +335,6 @@
 		<category>Games</category>
 		<description>AFL Mascot Manor (Australia)</description>
 		<rom name="AFL Mascot Manor (Australia).nds" size="67108864" crc="bc234110" md5="f9db06bfcfbfe9fafaa440b0346c6de7" sha1="cba9d42e8c1b92d3094bfb1db0fec9f4f9fa3395"/>
-	</game>
-	<game name="ALC no 10-punkan Eigo Master - Chuukyuu (Japan) (Rev 1)" id="z018">
-		<category>Games</category>
-		<description>ALC no 10-punkan Eigo Master - Chuukyuu (Japan) (Rev 1)</description>
-		<rom name="ALC no 10-punkan Eigo Master - Chuukyuu (Japan) (Rev 1).nds" size="67108864" crc="3654e7bf" md5="f0d386891f18d45d4bc8cf3ccf11e61a" sha1="79e94173761f6cf3d3eb7327760df5a467f66129" sha256="16af6342030a03e7e5d10a1cc08d2b43ba240367f7b3c2ee52df451c7b112d6e"/>
-	</game>
-	<game name="ALC no 10-punkan Eigo Master - Joukyuu (Japan) (Rev 1)" id="1254">
-		<category>Games</category>
-		<description>ALC no 10-punkan Eigo Master - Joukyuu (Japan) (Rev 1)</description>
-		<rom name="ALC no 10-punkan Eigo Master - Joukyuu (Japan) (Rev 1).nds" size="67108864" crc="dd875738" md5="888340b9ce9d6e99af35b73e5b39a0a5" sha1="c90bbee5e67d9c2f9a0190a5f60360832ff6d835" sha256="b350f0e8796f230d734b1b3724e6a7abe471c5732a11f9c16ea63b4ae63bd8bb"/>
-	</game>
-	<game name="ALC no 10-punkan Eigo Master - Shokyuu (Japan) (Rev 1)" id="6752">
-		<category>Games</category>
-		<description>ALC no 10-punkan Eigo Master - Shokyuu (Japan) (Rev 1)</description>
-		<rom name="ALC no 10-punkan Eigo Master - Shokyuu (Japan) (Rev 1).nds" size="67108864" crc="5f64c194" md5="18c24c97d6941e1a058981c3e7cbf855" sha1="bd0518ca7086cc705d346f27555a344d47efb122" sha256="f568cc41e3c80397a5a43276b422e79358d67fcc5c525a497e893f2e5a7a6712"/>
 	</game>
 	<game name="AMF Bowling Pinbusters! (USA)" id="2450">
 		<category>Games</category>
@@ -2709,6 +2694,7 @@
 	</game>
 	<game name="Chou Shittou Caduceus (Japan) (Demo) (Kiosk)" id="z340">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Chou Shittou Caduceus (Japan) (Demo) (Kiosk)</description>
 		<rom name="Chou Shittou Caduceus (Japan) (Demo) (Kiosk).nds" size="8388608" crc="7d8ebc28" md5="23bdef3ded4b173b2c69cdd5c68e89cd" sha1="8e07e7ed518afbd710595fe0febb3bbd28c64783" sha256="d887d21fca62cec9e69f6971db1f78f9f77f4a60db4e318ea5a38861db7cb459"/>
 	</game>
@@ -13668,7 +13654,7 @@
 	<game name="Popstars (Germany) (NDSi Enhanced)" id="5242">
 		<category>Games</category>
 		<description>Popstars (Germany) (NDSi Enhanced)</description>
-		<rom name="Popstars (Germany) (NDSi Enhanced).nds" size="33554432" crc="e98b56a3" md5="8a79d80f6c775f668ead6c0a5a69d713" sha1="b43357b0b91fff5fe1f44783c62499e0295a5e7c"/>
+		<rom name="Popstars (Germany) (NDSi Enhanced).nds" size="33554432" crc="e98b56a3" md5="8a79d80f6c775f668ead6c0a5a69d713" sha1="b43357b0b91fff5fe1f44783c62499e0295a5e7c" sha256="dcec3a0e1d840c3cb86723e153bbd6009736c83d79fae37bf4c0f2751d4d1174"/>
 	</game>
 	<game name="Poptropica Adventures (USA) (En,Fr)" id="6128">
 		<category>Games</category>
@@ -16191,7 +16177,7 @@
 	<game name="Spielend Mathe Lernen (Germany)" id="5797">
 		<category>Games</category>
 		<description>Spielend Mathe Lernen (Germany)</description>
-		<rom name="Spielend Mathe Lernen (Germany).nds" size="16777216" crc="6c0e8142" md5="02cb50411ca984f3bed919f66ca7aa4b" sha1="98d826215190a246fcf264f194522dd506d2cff0"/>
+		<rom name="Spielend Mathe Lernen (Germany).nds" size="16777216" crc="6c0e8142" md5="02cb50411ca984f3bed919f66ca7aa4b" sha1="98d826215190a246fcf264f194522dd506d2cff0" sha256="b33cbbd9fe7e830367070b9917078e64230666528b3b9dede77ef8c12054f489"/>
 	</game>
 	<game name="Spitfire Heroes - Tales of the Royal Air Force (USA)" id="2229">
 		<category>Games</category>
@@ -19287,7 +19273,7 @@
 	<game name="Youda Safari (Europe) (En,Fr,De)" id="6067">
 		<category>Games</category>
 		<description>Youda Safari (Europe) (En,Fr,De)</description>
-		<rom name="Youda Safari (Europe) (En,Fr,De).nds" size="8388608" crc="cc829bf9" md5="bdb6fefdf640fb62d45811e6aba51bba" sha1="fad39d5959e90fe9b3ebc35adbc09d06aa5058a9"/>
+		<rom name="Youda Safari (Europe) (En,Fr,De).nds" size="8388608" crc="cc829bf9" md5="bdb6fefdf640fb62d45811e6aba51bba" sha1="fad39d5959e90fe9b3ebc35adbc09d06aa5058a9" sha256="27e4a8f54a3e1649dccc456c722a73130f5831ab60de7c7005d573f96d61a45e"/>
 	</game>
 	<game name="Yozemi no Center Shoujun Series - Eigo Hen (Japan)" id="3455">
 		<category>Games</category>

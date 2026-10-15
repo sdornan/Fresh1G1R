@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Tapes) (Retool)</name>
-		<description>Commodore - Commodore 64 (Tapes) (1,650) (-ly) [-aAbBcdDefkmMopPruv] (20261013-153551) (Retool)</description>
-		<version>20261013-153551</version>
-		<date>2026-10-14 07-38-45</date>
+		<description>Commodore - Commodore 64 (Tapes) (1,650) (-ly) [-aAbBcdDefkmMopPruv] (20261014-211742) (Retool)</description>
+		<version>20261014-211742</version>
+		<date>2026-10-15 07-27-37</date>
 		<author>1988reload, C. V. Reynolds</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -242,131 +242,131 @@
 	<game name="Alcazar - The Forgotten Fortress (Europe)" id="0102">
 		<category>Games</category>
 		<description>Alcazar - The Forgotten Fortress (Europe)</description>
-		<rom name="Alcazar - The Forgotten Fortress (Europe).tap" size="313946" crc="c4ca3f1b" md5="3514168dceb9561b11cb74a253085389" sha1="4c42ec6c173fbee6f3cfaa92a4ec603246a826ae"/>
+		<rom name="Alcazar - The Forgotten Fortress (Europe).tap" size="313946" crc="c4ca3f1b" md5="3514168dceb9561b11cb74a253085389" sha1="4c42ec6c173fbee6f3cfaa92a4ec603246a826ae" sha256="b31add7114c69b24f43bb81d276dbd9cbe912cba6a0f4f17de88d68221c909c4"/>
 	</game>
 	<game name="Alice In Videoland (Europe)" id="0103">
 		<category>Games</category>
 		<description>Alice In Videoland (Europe)</description>
-		<rom name="Alice In Videoland (Europe) (Side 1).tap" size="510703" crc="f591f892" md5="8750e6a2a6778dfc54697ef516cdc142" sha1="7047b19ada6983cd5c1dd740de6febf79c202fdf"/>
-		<rom name="Alice In Videoland (Europe) (Side 2).tap" size="334164" crc="16b0f307" md5="8572cf5a4d46c5614309c4db5cbababd" sha1="e0e298de0caed3f7fc2258d147849b332cab7151"/>
+		<rom name="Alice In Videoland (Europe) (Side 1).tap" size="510703" crc="f591f892" md5="8750e6a2a6778dfc54697ef516cdc142" sha1="7047b19ada6983cd5c1dd740de6febf79c202fdf" sha256="907f8d19eb066bf314f4cc015fd7082737eaa898b0ddabc447c24d060b35ea08"/>
+		<rom name="Alice In Videoland (Europe) (Side 2).tap" size="334164" crc="16b0f307" md5="8572cf5a4d46c5614309c4db5cbababd" sha1="e0e298de0caed3f7fc2258d147849b332cab7151" sha256="cf56990855388d62da000defc2572182e43f95c3c86e1e0d36a061c968e8b23d"/>
 	</game>
 	<game name="Alien 3 (Europe)" id="0104">
 		<category>Games</category>
 		<description>Alien 3 (Europe)</description>
-		<rom name="Alien 3 (Europe).tap" size="1905784" crc="2bf3e304" md5="ec6a19e5aa67c4e73dfbfb52f4f17d72" sha1="9f453321caf67e3fd982e9acd8b5961f6e5033b7"/>
+		<rom name="Alien 3 (Europe).tap" size="1905784" crc="2bf3e304" md5="ec6a19e5aa67c4e73dfbfb52f4f17d72" sha1="9f453321caf67e3fd982e9acd8b5961f6e5033b7" sha256="0fca6be670d5c667c1a5ed787c40b78c2235b6c0ae716f69cad377200c21f908"/>
 	</game>
 	<game name="Alien Storm (Europe)" id="0105">
 		<category>Games</category>
 		<description>Alien Storm (Europe)</description>
-		<rom name="Alien Storm (Europe).tap" size="3767414" crc="95887c51" md5="45ac8365401506913e0a320ef276be75" sha1="1e8f258689429ebcd68b319145e872bdfbc38f0b"/>
+		<rom name="Alien Storm (Europe).tap" size="3767414" crc="95887c51" md5="45ac8365401506913e0a320ef276be75" sha1="1e8f258689429ebcd68b319145e872bdfbc38f0b" sha256="c6a601d77e448e35fe61f11974a410f5eb4ca19c7df8bb58a6d40ea15bc3381a"/>
 	</game>
 	<game name="Alien World (Europe)" id="0106">
 		<category>Games</category>
 		<description>Alien World (Europe)</description>
-		<rom name="Alien World (Europe).tap" size="1759280" crc="9f39dc7b" md5="e6d44a9f5172e3980b327a3b7238aa8d" sha1="5bc71919045c223048c2e09ea30e2f4ab48db6c6"/>
+		<rom name="Alien World (Europe).tap" size="1759280" crc="9f39dc7b" md5="e6d44a9f5172e3980b327a3b7238aa8d" sha1="5bc71919045c223048c2e09ea30e2f4ab48db6c6" sha256="42f82bdd1712b39267f5ddaf2a37c9768092686104c7b3acd8a28685f9a0e09a"/>
 	</game>
 	<game name="Aliens (Europe)" id="0107">
 		<category>Games</category>
 		<description>Aliens (Europe)</description>
-		<rom name="Aliens (Europe) (Side 1).tap" size="795926" crc="168f60dc" md5="ff509d6b8dc1177292ed9558ca2b5cb5" sha1="3782582bd38a373e6817b61943574912b1f97b63"/>
-		<rom name="Aliens (Europe) (Side 2).tap" size="701069" crc="460c46ed" md5="7fa1cfc2742be2e135eb9e80a224b415" sha1="2a5e9f04ae072f03bae70515a9aac4eda5439917"/>
+		<rom name="Aliens (Europe) (Side 1).tap" size="795926" crc="168f60dc" md5="ff509d6b8dc1177292ed9558ca2b5cb5" sha1="3782582bd38a373e6817b61943574912b1f97b63" sha256="53939a5da7e6ba7d109ad5c7373f78f77030f32ccaa0e0eb809f0d6e2b6f2960"/>
+		<rom name="Aliens (Europe) (Side 2).tap" size="701069" crc="460c46ed" md5="7fa1cfc2742be2e135eb9e80a224b415" sha1="2a5e9f04ae072f03bae70515a9aac4eda5439917" sha256="066fcb38dad0252d0614b68d9fc2bdfab10efb29df3c66415dd5551ccc8e6c66"/>
 	</game>
 	<game name="Aliens - The Computer Game (Europe) (Budget)" id="0024">
 		<category>Games</category>
 		<description>Aliens - The Computer Game (Europe) (Budget)</description>
-		<rom name="Aliens - The Computer Game (Europe) (Budget).tap" size="465590" crc="691133e4" md5="507521e1857d6e144e2732d9472c3963" sha1="a31d3bb87869c347fcf96cb9ad0f417f91cb2b36"/>
+		<rom name="Aliens - The Computer Game (Europe) (Budget).tap" size="465590" crc="691133e4" md5="507521e1857d6e144e2732d9472c3963" sha1="a31d3bb87869c347fcf96cb9ad0f417f91cb2b36" sha256="c1c82d4e686c3bcc321da8732ad82cca49bbf957be26148e1be1f5e5e0ef44d2"/>
 	</game>
 	<game name="All Points Bulletin (Europe)" id="0108">
 		<category>Games</category>
 		<description>All Points Bulletin (Europe)</description>
-		<rom name="All Points Bulletin (Europe) (Side 1).tap" size="582692" crc="1b7ee28b" md5="5028c92aaa51b6b79ac4a8c0c8ffacec" sha1="1aa019ad1d0d81edfe1df4139e85a355443c13d6"/>
-		<rom name="All Points Bulletin (Europe) (Side 2).tap" size="789188" crc="5b8dbe9d" md5="3106934aa3f17a04877da00f04dde15a" sha1="86e4eeeccef0738325e10b9fb80f4a0b947e6771"/>
+		<rom name="All Points Bulletin (Europe) (Side 1).tap" size="582692" crc="1b7ee28b" md5="5028c92aaa51b6b79ac4a8c0c8ffacec" sha1="1aa019ad1d0d81edfe1df4139e85a355443c13d6" sha256="9a8986e34872cd14b7915a2a79e3340be3ff56f91fb5006f96fa9ec530652048"/>
+		<rom name="All Points Bulletin (Europe) (Side 2).tap" size="789188" crc="5b8dbe9d" md5="3106934aa3f17a04877da00f04dde15a" sha1="86e4eeeccef0738325e10b9fb80f4a0b947e6771" sha256="0a1fcea36af21ae2de8f8c6d36519eb7d112d3dbcb97380d3120e7123267b1bc"/>
 	</game>
 	<game name="All-American Basketball (Europe)" id="0109">
 		<category>Games</category>
 		<description>All-American Basketball (Europe)</description>
-		<rom name="All-American Basketball (Europe).tap" size="934679" crc="970158e6" md5="371014eefd2129ecdd21424aafe122f3" sha1="647093c78f53b7b3e0d094d2044cba33a95b7321"/>
+		<rom name="All-American Basketball (Europe).tap" size="934679" crc="970158e6" md5="371014eefd2129ecdd21424aafe122f3" sha1="647093c78f53b7b3e0d094d2044cba33a95b7321" sha256="e065d653a8dd18183eb15b64e03c659fe00ddedf38683b3100854356456bf01e"/>
 	</game>
 	<game name="Alleykat (Europe)" id="0110">
 		<category>Games</category>
 		<description>Alleykat (Europe)</description>
-		<rom name="Alleykat (Europe).tap" size="489454" crc="011aa7a3" md5="8e2b9a3396e5bf2261f962aa0df34ab3" sha1="94a0d95df04ee9a5c1df1ba466fa4a3d5f5c4174"/>
+		<rom name="Alleykat (Europe).tap" size="489454" crc="011aa7a3" md5="8e2b9a3396e5bf2261f962aa0df34ab3" sha1="94a0d95df04ee9a5c1df1ba466fa4a3d5f5c4174" sha256="c7f9adf1ce1ebcae57ba93e39f3f18ae8de08609ebe30390449d9389f4c6b870"/>
 	</game>
 	<game name="Altair 4 (Europe)" id="0111">
 		<category>Games</category>
 		<description>Altair 4 (Europe)</description>
-		<rom name="Altair 4 (Europe).tap" size="2088786" crc="c166b6e2" md5="bbe6dedeee83b0716d3ae81c42aa76b1" sha1="9268e47c4738fae0fa5d4f89162dedc4030d3c13"/>
+		<rom name="Altair 4 (Europe).tap" size="2088786" crc="c166b6e2" md5="bbe6dedeee83b0716d3ae81c42aa76b1" sha1="9268e47c4738fae0fa5d4f89162dedc4030d3c13" sha256="51e5b10740db56ac38252ad9f7fdc763d7a3600f2eaca6a86e5cb509bc2cb4d9"/>
 	</game>
 	<game name="Altered Beast (Europe)" id="0112">
 		<category>Games</category>
 		<description>Altered Beast (Europe)</description>
-		<rom name="Altered Beast (Europe) (Side 1).tap" size="659376" crc="a2c619d9" md5="43dc83964e84de234e2e695e6bfd29a1" sha1="ef56f20751144e666d034d8ab2ce560d604a04c9"/>
-		<rom name="Altered Beast (Europe) (Side 2).tap" size="1400780" crc="3ea91179" md5="33a6d33a9df47184f9137f108a1649c5" sha1="4ece82451b4858632a3fbda49369b80a8e9781d2"/>
+		<rom name="Altered Beast (Europe) (Side 1).tap" size="659376" crc="a2c619d9" md5="43dc83964e84de234e2e695e6bfd29a1" sha1="ef56f20751144e666d034d8ab2ce560d604a04c9" sha256="e8804ed3b192808c45c34602e2f1ca3ad167ab9433894264000ecc792e255617"/>
+		<rom name="Altered Beast (Europe) (Side 2).tap" size="1400780" crc="3ea91179" md5="33a6d33a9df47184f9137f108a1649c5" sha1="4ece82451b4858632a3fbda49369b80a8e9781d2" sha256="f6788881969c762c59ba7348b1948476a879ac08f2265c95453375c20f2f14a7"/>
 	</game>
 	<game name="Amaurote (Europe)" id="0113">
 		<category>Games</category>
 		<description>Amaurote (Europe)</description>
-		<rom name="Amaurote (Europe).tap" size="531482" crc="7b98d41c" md5="f07dd5ca77c8cec9e5ddc395889f27c2" sha1="cb948643a36240f2fe1a131c4eeb0c39b8bdbe0f"/>
+		<rom name="Amaurote (Europe).tap" size="531482" crc="7b98d41c" md5="f07dd5ca77c8cec9e5ddc395889f27c2" sha1="cb948643a36240f2fe1a131c4eeb0c39b8bdbe0f" sha256="9ac6c09e5577cff1722944e17f5d9fcee096237043655abca5b6852d230f6d45"/>
 	</game>
 	<game name="America's Cup Challenge (Europe)" id="0114">
 		<category>Games</category>
 		<description>America's Cup Challenge (Europe)</description>
-		<rom name="America's Cup Challenge (Europe).tap" size="514320" crc="0b6b5620" md5="a81d8da17a44b25c3ee7d8fde1cf2e5a" sha1="767ee62afac0336749397eab2a1efc5b60213e4d"/>
+		<rom name="America's Cup Challenge (Europe).tap" size="514320" crc="0b6b5620" md5="a81d8da17a44b25c3ee7d8fde1cf2e5a" sha1="767ee62afac0336749397eab2a1efc5b60213e4d" sha256="6de74740fbd30359d9699f307cdca327e5a05c14c0c7814bb8c676988c7a03a5"/>
 	</game>
 	<game name="American 3D Pool (Europe)" id="0115">
 		<category>Games</category>
 		<description>American 3D Pool (Europe)</description>
-		<rom name="American 3D Pool (Europe).tap" size="867657" crc="36588c8d" md5="6ec31ba1618e2a5b0838e96b97c22e05" sha1="46092361cd47d934c2f63010091b6d2fdc01a251"/>
+		<rom name="American 3D Pool (Europe).tap" size="867657" crc="36588c8d" md5="6ec31ba1618e2a5b0838e96b97c22e05" sha1="46092361cd47d934c2f63010091b6d2fdc01a251" sha256="56bdd585baa916c2ff596e6606094136078ba41695ed5b147cad713e72a2a1cd"/>
 	</game>
 	<game name="American Football (Europe)" id="0116">
 		<category>Games</category>
 		<description>American Football (Europe)</description>
-		<rom name="American Football (Europe).tap" size="1280584" crc="43bc1323" md5="c1dc032e630b3bdcc0442868636d5411" sha1="158dc83e1a5cb1c1556ca0f19b520b072bb2f9fa"/>
+		<rom name="American Football (Europe).tap" size="1280584" crc="43bc1323" md5="c1dc032e630b3bdcc0442868636d5411" sha1="158dc83e1a5cb1c1556ca0f19b520b072bb2f9fa" sha256="0e14ec9f9b4c35c2a0765e1ce97e64d0abfad8dd7766cd9ae49ee0a7a28ef44c"/>
 	</game>
 	<game name="American Road Race (Europe)" id="0117">
 		<category>Games</category>
 		<description>American Road Race (Europe)</description>
-		<rom name="American Road Race (Europe).tap" size="653698" crc="3d0e4758" md5="b20c18d40e12ed3aaa1ce17f446f18fe" sha1="2a09f0a7c2cf9301094b57f5fbc542799aa9ad5f"/>
+		<rom name="American Road Race (Europe).tap" size="653698" crc="3d0e4758" md5="b20c18d40e12ed3aaa1ce17f446f18fe" sha1="2a09f0a7c2cf9301094b57f5fbc542799aa9ad5f" sha256="a2f93ff4d21b70ce8471fac3d94b8319738cc495a88ed2f1bd7ae91da0fbef48"/>
 	</game>
 	<game name="American Tag Team Wrestling (Europe)" id="0118">
 		<category>Games</category>
 		<description>American Tag Team Wrestling (Europe)</description>
-		<rom name="American Tag Team Wrestling (Europe).tap" size="938781" crc="fbd85fae" md5="44ff4cb78e3b0f533755f8e03960feda" sha1="19aebf58de83842e888ac50f921a3c01b7890466"/>
+		<rom name="American Tag Team Wrestling (Europe).tap" size="938781" crc="fbd85fae" md5="44ff4cb78e3b0f533755f8e03960feda" sha1="19aebf58de83842e888ac50f921a3c01b7890466" sha256="616556bb53cf1559e03594499964a70188cffea2bb1cea09fc0426a15126cead"/>
 	</game>
 	<game name="Anarchy (Europe)" id="0119">
 		<category>Games</category>
 		<description>Anarchy (Europe)</description>
-		<rom name="Anarchy (Europe).tap" size="386234" crc="1b5204eb" md5="6b0536f3b1b7905e52b3189823009a3b" sha1="eab60eed8b9aead3a7a91f938af7d6c6740f137b"/>
+		<rom name="Anarchy (Europe).tap" size="386234" crc="1b5204eb" md5="6b0536f3b1b7905e52b3189823009a3b" sha1="eab60eed8b9aead3a7a91f938af7d6c6740f137b" sha256="4828fd57be1765884a4a72ef43b0255671fbff2e1dbcf16025a4248f4e50e398"/>
 	</game>
 	<game name="Andy Capp (Europe)" id="0120">
 		<category>Games</category>
 		<description>Andy Capp (Europe)</description>
-		<rom name="Andy Capp (Europe).tap" size="607161" crc="45c93250" md5="d739f38284592a2840975388985e1e1a" sha1="ab3f4119108085ffcd372b423ae120f4ebf4f8d8"/>
+		<rom name="Andy Capp (Europe).tap" size="607161" crc="45c93250" md5="d739f38284592a2840975388985e1e1a" sha1="ab3f4119108085ffcd372b423ae120f4ebf4f8d8" sha256="076542f32546741a3a9b1eb2ed31ed9f67d1c50777a704b4c1665f8a9c0c93fc"/>
 	</game>
 	<game name="Angleball (Europe) (Budget)" id="0025">
 		<category>Games</category>
 		<description>Angleball (Europe) (Budget)</description>
-		<rom name="Angleball (Europe) (Budget).tap" size="267414" crc="f2e2d16a" md5="760ddb09ea57b7c5fa73f560b4263003" sha1="c33c2fd5092ac44e6e573431827e3bdccdb08c4b"/>
+		<rom name="Angleball (Europe) (Budget).tap" size="267414" crc="f2e2d16a" md5="760ddb09ea57b7c5fa73f560b4263003" sha1="c33c2fd5092ac44e6e573431827e3bdccdb08c4b" sha256="f16360d660bd5ee15a4eb3415d7b179f2ba26734c8b72e464ca9aae75e140547"/>
 	</game>
 	<game name="Annihilator (Europe)" id="0121">
 		<category>Games</category>
 		<description>Annihilator (Europe)</description>
-		<rom name="Annihilator (Europe).tap" size="399700" crc="332292fb" md5="7744fdeb3a8e25198f4538b8094de07d" sha1="8805556540626672d63c5a9fd5882527ffa198e3"/>
+		<rom name="Annihilator (Europe).tap" size="399700" crc="332292fb" md5="7744fdeb3a8e25198f4538b8094de07d" sha1="8805556540626672d63c5a9fd5882527ffa198e3" sha256="901813732ec9ceaf8b50cce591934111ab7d606e6442b84f23a5f3bacac324f8"/>
 	</game>
 	<game name="Anter Planter (Europe)" id="0122">
 		<category>Games</category>
 		<description>Anter Planter (Europe)</description>
-		<rom name="Anter Planter (Europe).tap" size="1417594" crc="94deb49e" md5="19d6c1f3ab96c9a532157fe221c94e75" sha1="54009b994f52cf0c26b05eb17e5b7c1f01aa3510"/>
+		<rom name="Anter Planter (Europe).tap" size="1417594" crc="94deb49e" md5="19d6c1f3ab96c9a532157fe221c94e75" sha1="54009b994f52cf0c26b05eb17e5b7c1f01aa3510" sha256="1e1a54d718f509f854dc310c80fae03bbed12d755b3665a07a577d5bf3386e4a"/>
 	</game>
 	<game name="Apache Raid (Europe)" id="0123">
 		<category>Games</category>
 		<description>Apache Raid (Europe)</description>
-		<rom name="Apache Raid (Europe).tap" size="428458" crc="3eab7240" md5="f53394776393685b68dab77af6dcdbb7" sha1="ddf2ca009ee7b6f0728fb3596db22ad702e8363a"/>
+		<rom name="Apache Raid (Europe).tap" size="428458" crc="3eab7240" md5="f53394776393685b68dab77af6dcdbb7" sha1="ddf2ca009ee7b6f0728fb3596db22ad702e8363a" sha256="8dc6155569e5f28d97041466cc807d23a9727a592b2d72a92568f02cc6f50b26"/>
 	</game>
 	<game name="Aquanaut (Europe)" id="0124">
 		<category>Games</category>
 		<description>Aquanaut (Europe)</description>
-		<rom name="Aquanaut (Europe).tap" size="544664" crc="0ddc86f5" md5="dc613b2313a9f85fddeba0b7a996772c" sha1="fa7b85e943791c188db251b39bf4c370e948562b"/>
+		<rom name="Aquanaut (Europe).tap" size="544664" crc="0ddc86f5" md5="dc613b2313a9f85fddeba0b7a996772c" sha1="fa7b85e943791c188db251b39bf4c370e948562b" sha256="50633d236e0c592db61f0958723b4af723c348d3641bffa3743a1efeb3543eab"/>
 	</game>
 	<game name="Aquaplane (Europe)" id="0125">
 		<category>Games</category>

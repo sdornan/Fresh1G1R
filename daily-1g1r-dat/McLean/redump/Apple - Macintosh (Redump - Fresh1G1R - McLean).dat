@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (449) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-14 05-50-30) (Retool)</description>
-		<version>2026-10-14 05-50-30</version>
-		<date>2026-10-14 07-33-57</date>
+		<description>Apple - Macintosh (450) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-14 17-49-36) (Retool)</description>
+		<version>2026-10-14 17-49-36</version>
+		<date>2026-10-15 07-22-31</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2035,6 +2035,12 @@
 		<serial>04-22888CD</serial>
 		<rom name="Myth III - The Wolf Age (USA).bin" size="733901616" crc="7bea4214" md5="5aa08673a88a27f9b7c3078ab2dd1cd3" sha1="8c3009d368a9d69d28a47050bfcfdd075a71bb8d"/>
 		<rom name="Myth III - The Wolf Age (USA).cue" size="95" crc="55309df9" md5="f8c615f7b961ff69a8af0b8f380a82d7" sha1="621b55a4c828b82b2d42417ae0e45a494de288f2"/>
+	</game>
+	<game name="NASCAR Racing (USA) (Alt)" id="139376">
+		<category>Games</category>
+		<description>NASCAR Racing (USA) (Alt)</description>
+		<rom name="NASCAR Racing (USA) (Alt).bin" size="230051472" crc="1c850471" md5="506bb48807b64ca8dff46abbb268fce3" sha1="d761c7fdc5422472c6bc3f3f112086df9ccfcafe"/>
+		<rom name="NASCAR Racing (USA) (Alt).cue" size="114" crc="9246386d" md5="dc726a9df527dbb33bc88cfa05574847" sha1="2049851c5844d812f3f9b95cb3b1ad995fb98c76"/>
 	</game>
 	<game name="National Lampoon's Blind Date (USA)" id="129363">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Retool)</name>
-		<description>Commodore - Commodore 64 (211) (-ly) [-aAbBcdDefkmMopPruv] (20261012-234334) (Retool)</description>
-		<version>20261012-234334</version>
-		<date>2026-10-14 07-40-36</date>
+		<description>Commodore - Commodore 64 (211) (-ly) [-aAbBcdDefkmMopPruv] (20261014-214312) (Retool)</description>
+		<version>20261014-214312</version>
+		<date>2026-10-15 07-25-44</date>
 		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -14,7 +14,7 @@
 	<game name="Activision Decathlon, The (USA, Europe)" id="0117">
 		<category>Games</category>
 		<description>Activision Decathlon, The (USA, Europe)</description>
-		<rom name="Activision Decathlon, The (USA, Europe).crt" size="16464" crc="e5b26a61" md5="6787f1fd61d96d2c74c5194dc0a78634" sha1="a1ac0ff0d3ab90ecfdde1c4e446fdc0bb13bb7b5"/>
+		<rom name="Activision Decathlon, The (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="e5b26a61" md5="6787f1fd61d96d2c74c5194dc0a78634" sha1="a1ac0ff0d3ab90ecfdde1c4e446fdc0bb13bb7b5" sha256="7a7cbb0b8694d29d5cb32eae76ffdb815cc79bbc4eb76163b4dd45e72a2bf3d6"/>
 	</game>
 	<game name="Adventure 1 - The Mutant Spiders (USA, Europe)" id="0118">
 		<category>Games</category>

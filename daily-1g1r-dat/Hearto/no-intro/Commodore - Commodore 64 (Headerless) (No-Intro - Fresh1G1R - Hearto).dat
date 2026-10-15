@@ -2,15 +2,20 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Headerless) (Retool)</name>
-		<description>Commodore - Commodore 64 (Headerless) (15) (-y) [-aAbBcefkmMoprv] (20261012-234334) (Retool)</description>
-		<version>20261012-234334</version>
-		<date>2026-10-14 07-32-11</date>
+		<description>Commodore - Commodore 64 (Headerless) (16) (-y) [-aAbBcefkmMoprv] (20261014-214312) (Retool)</description>
+		<version>20261014-214312</version>
+		<date>2026-10-15 07-21-32</date>
 		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
+	<game name="Activision Decathlon, The (USA, Europe)" id="0117">
+		<category>Games</category>
+		<description>Activision Decathlon, The (USA, Europe)</description>
+		<rom name="Activision Decathlon, The (USA, Europe).bin" size="16384" crc="d8fc4b32" md5="c0a8a155cd65a41d406ad02492789fa0" sha1="c8f6ceb56f6bf402db7d11e39c91f979abb9c10a" sha256="cb2383b7b825a130864391f4eb9cc954e2c524486de478460b9805a4c4bcb248"/>
+	</game>
 	<game name="Adventure Creator (USA, Europe)" id="0120">
 		<category>Games</category>
 		<description>Adventure Creator (USA, Europe)</description>
