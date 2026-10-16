@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,889) (-y) [-aAbBcdkmMpPuv] (2026-10-14 17-20-57) (Retool)</description>
-		<version>2026-10-14 17-20-57</version>
-		<date>2026-10-15 07-32-31</date>
+		<description>Sony - PlayStation 4 (1,891) (-y) [-aAbBcdkmMpPuv] (2026-10-15 23-34-35) (Retool)</description>
+		<version>2026-10-15 23-34-35</version>
+		<date>2026-10-16 07-15-50</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2391,12 +2391,12 @@
 		<version>01.00</version>
 		<rom name="Crew 2, The (Europe) (En,Fr,De,Es,It,Nl,Zh,Ko,Pl,Ru).iso" size="33027260416" crc="4a4ef980" md5="e7dc7113bbddeabb1d041bc02d9558d1" sha1="1aab697859b128bdc41b681b01dec5cf9e1222cf"/>
 	</game>
-	<game name="Crew, The (Europe)" id="87152">
+	<game name="Crew, The (Europe, Australia)" id="87152">
 		<category>Games</category>
-		<description>Crew, The (Europe)</description>
-		<serial>CUSA-00161</serial>
+		<description>Crew, The (Europe, Australia)</description>
+		<serial>CUSA-00161, CUSA-00161/ANZ</serial>
 		<version>01.00</version>
-		<rom name="Crew, The (Europe).iso" size="25024331776" crc="07e0d46c" md5="ab062af59bcca48c3a7ab283c71857a6" sha1="95916c5f0607f39d1abf53034e5856cbb2702c69"/>
+		<rom name="Crew, The (Europe, Australia).iso" size="25024331776" crc="07e0d46c" md5="ab062af59bcca48c3a7ab283c71857a6" sha1="95916c5f0607f39d1abf53034e5856cbb2702c69"/>
 	</game>
 	<game name="Cris Tales (USA, Japan) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru)" id="88616">
 		<category>Games</category>
@@ -9270,6 +9270,13 @@
 		<version>02.00</version>
 		<rom name="Psychonauts (USA).iso" size="25024331776" crc="5ba2333f" md5="3ee4d2981a61df3c2871294dc28bcffd" sha1="b3258f76ec109ff382918e7517afb3f6e59128a0"/>
 	</game>
+	<game name="Psychonauts 2 (Europe) (En,Fr,De,Es,It,Pt,Ru)" id="139392">
+		<category>Games</category>
+		<description>Psychonauts 2 (Europe) (En,Fr,De,Es,It,Pt,Ru)</description>
+		<serial>CUSA-27146</serial>
+		<version>02.00</version>
+		<rom name="Psychonauts 2 (Europe) (En,Fr,De,Es,It,Pt,Ru).iso" size="48518660096" crc="2f18044a" md5="ca5b2600b16c6fa7c3f0d02630ce7973" sha1="985017d0b6fe1ec6c6fd00e5958ed22f6b8eb5ad"/>
+	</game>
 	<game name="Psychonauts in the Rhombus of Ruin (USA)" id="70731">
 		<category>Games</category>
 		<description>Psychonauts in the Rhombus of Ruin (USA)</description>
@@ -10934,6 +10941,13 @@
 		<serial>CUSA-24277</serial>
 		<version>01.04</version>
 		<rom name="SpellForce III Reforced (Germany) (En,Fr,De,Es,It,Zh,Pl,Ru).iso" size="15760162816" crc="3da0a62e" md5="646c91351ca877d5205f19e081b02661" sha1="e0928a13e6673b61554ce15745d091d7583c2d69"/>
+	</game>
+	<game name="Spellcaster University (Europe) (En,Ja,Fr,De,Es,Zh,Ko,Pl)" id="139394">
+		<category>Games</category>
+		<description>Spellcaster University (Europe) (En,Ja,Fr,De,Es,Zh,Ko,Pl)</description>
+		<serial>CUSA-44342</serial>
+		<version>03.00</version>
+		<rom name="Spellcaster University (Europe) (En,Ja,Fr,De,Es,Zh,Ko,Pl).iso" size="25024331776" crc="3e789876" md5="0d49eb2469e8d2d9a95057eddab8187d" sha1="d7c7ece8dd8d6d9e47a899107e6db46cb09b9c4c"/>
 	</game>
 	<game name="Spelunky (USA) (En,Fr,Es,Pt)" id="63109">
 		<category>Games</category>

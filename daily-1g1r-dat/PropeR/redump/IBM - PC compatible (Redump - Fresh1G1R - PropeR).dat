@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,032) (-y) [-aAbBcdkmMpPuv] (2026-10-15 03-05-55) (Retool)</description>
-		<version>2026-10-15 03-05-55</version>
-		<date>2026-10-15 07-31-13</date>
+		<description>IBM - PC compatible (27,039) (-y) [-aAbBcdkmMpPuv] (2026-10-15 23-53-23) (Retool)</description>
+		<version>2026-10-15 23-53-23</version>
+		<date>2026-10-16 07-14-33</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5667,6 +5667,13 @@
 		<rom name="Age of Empires III (Italy) (Disc 3) (Disco del Gioco).bin" size="608161344" crc="6ab5228d" md5="c62bd67222d9b9db99e1822f9f8fb9da" sha1="2493a785ea5262780867be4d77a36e018615164a"/>
 		<rom name="Age of Empires III (Italy) (Disc 3) (Disco del Gioco).cue" size="119" crc="e823717a" md5="aeb1b9886aa498edb20370c0d522d195" sha1="808a26a8c16e2827fdf4fb9733f59c33c0d00a61"/>
 	</game>
+	<game name="Age of Empires III (Korea) (Disc 1) (Installation Disc)" id="139397">
+		<category>Games</category>
+		<description>Age of Empires III (Korea) (Disc 1) (Installation Disc)</description>
+		<version>1.0</version>
+		<rom name="Age of Empires III (Korea) (Disc 1) (Installation Disc).bin" size="639612288" crc="5fe18e4b" md5="e7c7dc9bca2531d8e03ec07e7a970b7f" sha1="fcb9e0dc37cc9a307c7c094f6440d92eaf22d313"/>
+		<rom name="Age of Empires III (Korea) (Disc 1) (Installation Disc).cue" size="121" crc="a826fbc2" md5="b7dbf8b8fe4f08c2d0b506bc49f82042" sha1="ee0a367ae08defc13ffafd73db56dea691c89494"/>
+	</game>
 	<game name="Age of Empires III (Latin America) (Disc 1) (Disco de instalacion)" id="133879">
 		<category>Games</category>
 		<description>Age of Empires III (Latin America) (Disc 1) (Disco de instalación)</description>
@@ -5733,6 +5740,13 @@
 		<serial>0707 Part No. X13-85711-01, 0707 Part No. X13-85719-01</serial>
 		<rom name="Age of Empires III - The Asian Dynasties (USA, Europe).bin" size="695359392" crc="e4d94c02" md5="8d3de46d64c5e7673bf3bbf732fc6b1d" sha1="956ba63f0cc8f05d96d20699e7ed45bcb19c264a"/>
 		<rom name="Age of Empires III - The Asian Dynasties (USA, Europe).cue" size="120" crc="d9d48a81" md5="465796826c16152e1ee3495b3667cdeb" sha1="8b622205ab6ec25c7d0d011b2b2ca8e56e08c577"/>
+	</game>
+	<game name="Age of Empires III - The War Chiefs (Korea)" id="139400">
+		<category>Add-Ons</category>
+		<description>Age of Empires III: The War Chiefs (Korea)</description>
+		<version>1.0</version>
+		<rom name="Age of Empires III - The War Chiefs (Korea).bin" size="736982736" crc="71f01f5a" md5="19a42807545acb606e2adc70fcdc1576" sha1="a9a9981c841449e4c2c08051a01e88a24554598f"/>
+		<rom name="Age of Empires III - The War Chiefs (Korea).cue" size="109" crc="0d5764f0" md5="3e6f22c6b486c2913bdbbf605149ba27" sha1="ae49d73f28b35e79359f2481140ff6d39593e54b"/>
 	</game>
 	<game name="Age of Empires III - The WarChiefs (USA, Europe) (Rerelease)" id="13046">
 		<category>Add-Ons</category>
@@ -51667,6 +51681,18 @@
 		<rom name="Dream Stripper - The Game (Russia).bin" size="475576752" crc="d7141adc" md5="d1caf966685aeeeb97f227a1429201f1" sha1="788d4508beecd7dff00f0bd78c233ee065ab4962"/>
 		<rom name="Dream Stripper - The Game (Russia).cue" size="100" crc="79417853" md5="7a6714ad424ac53c8702d0a5d9b8bdbb" sha1="0a52584f4285436923c6e543a6725db4aeb518c1"/>
 	</game>
+	<game name="Dream Team 2002 (Korea) (En,Fr,De,Es,It,Pt)" id="139405">
+		<category>Games</category>
+		<description>Dream Team 2002 (Korea) (En,Fr,De,Es,It,Pt)</description>
+		<rom name="Dream Team 2002 (Korea) (En,Fr,De,Es,It,Pt) (Track 1).bin" size="454345248" crc="116e82ac" md5="421792692f6c8fe01eeac0392b86463c" sha1="685c87c90998992fb173990484f46a7034586229"/>
+		<rom name="Dream Team 2002 (Korea) (En,Fr,De,Es,It,Pt) (Track 2).bin" size="53449200" crc="7834d60b" md5="d928863e05953a1ba362b17c46ebf4c1" sha1="b4790b788b503f83f118aca3333bc4f630bad6bf"/>
+		<rom name="Dream Team 2002 (Korea) (En,Fr,De,Es,It,Pt) (Track 3).bin" size="53449200" crc="0e9a14af" md5="c89564ee1cb1f13fd897fcc4ab83e74c" sha1="622694d52682641762eddcc882ffcdf08956f120"/>
+		<rom name="Dream Team 2002 (Korea) (En,Fr,De,Es,It,Pt) (Track 4).bin" size="53449200" crc="cedb68ca" md5="35a05454f2a4531ee586fa0222c2552a" sha1="8ba8417fd9e9f5aef5d667e80c42b4168eddbbc8"/>
+		<rom name="Dream Team 2002 (Korea) (En,Fr,De,Es,It,Pt) (Track 5).bin" size="53449200" crc="8296d6c9" md5="0b743adcc72a1ac3ad4eb7626b323699" sha1="920214aaa5766a3da052a7ccc727a441bcc9885e"/>
+		<rom name="Dream Team 2002 (Korea) (En,Fr,De,Es,It,Pt) (Track 6).bin" size="21344400" crc="97f0faa5" md5="c88fbd19fc0289683b59377273eca738" sha1="2185c2ce3ad4bfc8c6c8855def056ed53677b5b2"/>
+		<rom name="Dream Team 2002 (Korea) (En,Fr,De,Es,It,Pt) (Track 7).bin" size="21873600" crc="7bcc6605" md5="2fdaf6e9b003f7fe001815d84602d234" sha1="fb5ecd51204fb051c000668acb42e61f578c0640"/>
+		<rom name="Dream Team 2002 (Korea) (En,Fr,De,Es,It,Pt).cue" size="941" crc="27fdfb5b" md5="d6e74f2e31ad6c526ea77fe34a2a88fe" sha1="3dc06e66b56b1749d628f0dd5d6882627dba205a"/>
+	</game>
 	<game name="Dream Team 98 (Germany)" id="100584">
 		<category>Games</category>
 		<description>Dream Team 98 (Germany)</description>
@@ -54698,12 +54724,12 @@
 		<rom name="Egypt II - The Heliopolis Prophecy (USA) (Disc 1).bin" size="594797280" crc="eda586f7" md5="16b9976a7571fdc882a1b6b8c93abf51" sha1="4f0c6a7456f00a08f9f1ff756ac48e26391662cd"/>
 		<rom name="Egypt II - The Heliopolis Prophecy (USA) (Disc 1).cue" size="130" crc="6196e7dd" md5="7b8d3f293479cb88eb6fa7caee0fb6a3" sha1="1a25d87f513946db3e215f718ee97781b13f93a1"/>
 	</game>
-	<game name="Egypt II - The Heliopolis Prophecy (USA) (Disc 2)" id="28887">
+	<game name="Egypt II - The Heliopolis Prophecy (USA, Korea) (Disc 2)" id="28887">
 		<category>Games</category>
-		<description>Egypt II: The Heliopolis Prophecy (USA) (Disc 2)</description>
-		<version>1.0</version>
-		<rom name="Egypt II - The Heliopolis Prophecy (USA) (Disc 2).bin" size="694507968" crc="e18dd6c0" md5="88619b4d65c1fbc769318ea252e3d409" sha1="ac54718cfaf4158a54dc69b0e92753638d307a13"/>
-		<rom name="Egypt II - The Heliopolis Prophecy (USA) (Disc 2).cue" size="115" crc="4be20371" md5="633c0c83a64658705f0b13e4ba74acd5" sha1="4a914064fbf97c57f1546a006bc2e7135deb380d"/>
+		<description>Egypt II: The Heliopolis Prophecy (USA, Korea) (Disc 2)</description>
+		<version>1.0, 1.1</version>
+		<rom name="Egypt II - The Heliopolis Prophecy (USA, Korea) (Disc 2).bin" size="694507968" crc="e18dd6c0" md5="88619b4d65c1fbc769318ea252e3d409" sha1="ac54718cfaf4158a54dc69b0e92753638d307a13"/>
+		<rom name="Egypt II - The Heliopolis Prophecy (USA, Korea) (Disc 2).cue" size="122" crc="0dac2874" md5="72d548f138c4f92e6c8aa1fd5dcd8041" sha1="221c3005b488919458225bfddf614bf773c459b3"/>
 	</game>
 	<game name="Egypt III - Il Destino di Ramses (Italy) (Rerelease)" id="100072">
 		<category>Games</category>
@@ -60433,11 +60459,11 @@
 		<rom name="FIFA 2001 - World Championship (Japan).bin" size="527885232" crc="f24b6e76" md5="41692b1fd5c610ca2aa3163c3e6162ad" sha1="50936479147bccce2703f2d035d5cd74cee955a5"/>
 		<rom name="FIFA 2001 - World Championship (Japan).cue" size="104" crc="981173eb" md5="600cd5d24333c8d36a02758645099c82" sha1="a05b835a173c90e2a094de2699c03e2fd597f073"/>
 	</game>
-	<game name="FIFA 2002 - Road to FIFA World Cup (Japan)" id="65085">
+	<game name="FIFA 2002 - Road to FIFA World Cup (Japan)" id="139387">
 		<category>Games</category>
 		<description>FIFA 2002: Road to FIFA World Cup (Japan)</description>
-		<serial>DWOKD-00134</serial>
-		<rom name="FIFA 2002 - Road to FIFA World Cup (Japan).bin" size="634346160" crc="e0e1b3a8" md5="1a19484bd103ab8b9b3a386fbb9af8b1" sha1="ff049802ba46361f8933d4f17ba090ff6ebab807"/>
+		<serial>EMW-4094</serial>
+		<rom name="FIFA 2002 - Road to FIFA World Cup (Japan).bin" size="634341456" crc="f337bbae" md5="0897e6b7750470da567f9256f7bd4963" sha1="b75370d74d6691e13eee602eba970bc1e8de2d2b"/>
 		<rom name="FIFA 2002 - Road to FIFA World Cup (Japan).cue" size="108" crc="3c058345" md5="85f334edd9e2f412191fde39802be1d3" sha1="ffe4c1b2929e6091e02ce8dc03cda21aa852e6f2"/>
 	</game>
 	<game name="FIFA 21 (Poland) (Disc 1)" id="117891">
@@ -62587,6 +62613,12 @@
 		<description>Farming Simulator 15: Official Expansion 2 (Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu,Tr,Ro)</description>
 		<rom name="Farming Simulator 15 - Official Expansion 2 (Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu,Tr,Ro).iso" size="1266089984" crc="d5aa0540" md5="bedd8bc6bb1ead4d8f6ea6804a40ab8d" sha1="419687750a97fc64728458a1ef31466905b37772"/>
 	</game>
+	<game name="Farming Simulator 16-Bit Edition (USA)" id="139395">
+		<category>Games</category>
+		<description>Farming Simulator 16-Bit Edition (USA)</description>
+		<rom name="Farming Simulator 16-Bit Edition (USA).bin" size="94322256" crc="b72f166d" md5="9e030e8903eb8c5be44aea2bdf56292e" sha1="3b8d2ccbe7d49e667466dfa5e7f0da465571c48b"/>
+		<rom name="Farming Simulator 16-Bit Edition (USA).cue" size="104" crc="21f92700" md5="9949184f94243826229f1049c66f1783" sha1="27136e978201be1edf0ec61c919e861ba7702941"/>
+	</game>
 	<game name="Farming Simulator 17 (Germany)" id="49679">
 		<category>Games</category>
 		<description>Farming Simulator 17 (Germany)</description>
@@ -63522,6 +63554,12 @@
 		<serial>76896424192</serial>
 		<rom name="Fest i Mumindalen (Sweden).bin" size="489274800" crc="938d90ce" md5="934ee410ea97b790dec497084a684141" sha1="ae21a6bad11fd012594fa50db90d52456fa0819d"/>
 		<rom name="Fest i Mumindalen (Sweden).cue" size="92" crc="2b2ff256" md5="ba116363f4d0df041edc74e579731df9" sha1="e7bac2f60a888be3b70bdd267771eb9500d954dc"/>
+	</game>
+	<game name="Festa!! Hyper Girls Pop (Japan)" id="139386">
+		<category>Games</category>
+		<description>Festa!! Hyper Girls Pop (Japan)</description>
+		<serial>LASS-0005</serial>
+		<rom name="Festa!! Hyper Girls Pop (Japan).iso" size="2397519872" crc="81fdce01" md5="3a2ef7fffe05715bfb3731b09e035050" sha1="711048af85882a134047fbc0cd3dbd046234a612"/>
 	</game>
 	<game name="Fetch! (USA)" id="62508">
 		<category>Games</category>
@@ -86105,6 +86143,13 @@
 		<rom name="Ignition (USA) (En,Es,It,Sv) (Rerelease) (Track 7).bin" size="59799600" crc="6af43813" md5="9df65a44fb0183680348729e68d3d97a" sha1="30c11203e143fc53e687e7a40ec4d2e5ed96fdb6"/>
 		<rom name="Ignition (USA) (En,Es,It,Sv) (Rerelease) (Track 8).bin" size="2998800" crc="4bed9329" md5="0aed2d014e5a377b0b669b84d26c7fb7" sha1="7292079ab001235ed4056eab698534e67f48f574"/>
 		<rom name="Ignition (USA) (En,Es,It,Sv) (Rerelease).cue" size="1054" crc="6fd00d63" md5="fc275f570606314ab3b839903f3f4f64" sha1="3dc6532d5477bb4488db7005c166e455c8caacff"/>
+	</game>
+	<game name="Igo (Japan)" id="139388">
+		<category>Games</category>
+		<description>Igo (Japan)</description>
+		<serial>RTGS-75-2</serial>
+		<rom name="Igo (Japan).bin" size="30423120" crc="5952626e" md5="eb9c14963371a5c1b9390b336510972a" sha1="25939a37e0b5782ec6bd21824649b81fe20c1cab"/>
+		<rom name="Igo (Japan).cue" size="77" crc="737e957a" md5="718c55fd0270714919dc44d02a5d2726" sha1="4b114b4fb8516f907a13c927644d8810bfbfe81d"/>
 	</game>
 	<game name="Igo 3 (Japan)" id="122903">
 		<category>Games</category>
@@ -152529,37 +152574,37 @@
 		<serial>05220114/D4</serial>
 		<rom name="Resident Evil 7 - Biohazard - Gold Edition (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 4).iso" size="6314491904" crc="7bc38c29" md5="50aab745fde0cea6421472561499414d" sha1="a5bdf9e6e2bd2285ab33fa46f7170dd04444ed49"/>
 	</game>
-	<game name="Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 1)" id="58863">
+	<game name="Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 1)" id="58863">
 		<category>Games</category>
-		<description>Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 1)</description>
+		<description>Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 1)</description>
 		<serial>DV1-97238-00EUR</serial>
-		<rom name="Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 1).iso" size="8290369536" crc="8b06a9ab" md5="710404930cf5939bd6b8ce615e24301f" sha1="a3e756cf4993e9e963fd346ef5a177c190dbcc08"/>
+		<rom name="Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 1).iso" size="8290369536" crc="8b06a9ab" md5="710404930cf5939bd6b8ce615e24301f" sha1="a3e756cf4993e9e963fd346ef5a177c190dbcc08"/>
 	</game>
-	<game name="Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 2)" id="58867">
+	<game name="Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 2)" id="58867">
 		<category>Games</category>
-		<description>Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 2)</description>
+		<description>Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 2)</description>
 		<serial>DV2-97238-00EUR</serial>
-		<rom name="Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 2).iso" size="8284602368" crc="e30a13cf" md5="162a55bc463c1a79b59f79adaad6d67e" sha1="33b082f385f4eedb17cf5b1ad8c9b9eff2ac44c1"/>
+		<rom name="Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 2).iso" size="8284602368" crc="e30a13cf" md5="162a55bc463c1a79b59f79adaad6d67e" sha1="33b082f385f4eedb17cf5b1ad8c9b9eff2ac44c1"/>
 	</game>
-	<game name="Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 3)" id="58869">
+	<game name="Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 3)" id="58869">
 		<category>Games</category>
-		<description>Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 3)</description>
+		<description>Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 3)</description>
 		<serial>DV3-97238-00EUR</serial>
-		<rom name="Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 3).iso" size="1488912384" crc="af8e551f" md5="f9ebc69b5ff7195e3a5308abba3de1d2" sha1="9878f9cea7ebc27405ec20358e7d71e6ba74add2"/>
+		<rom name="Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 3).iso" size="1488912384" crc="af8e551f" md5="f9ebc69b5ff7195e3a5308abba3de1d2" sha1="9878f9cea7ebc27405ec20358e7d71e6ba74add2"/>
 	</game>
-	<game name="Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 4)" id="58870">
+	<game name="Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 4)" id="58870">
 		<category>Games</category>
-		<description>Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 4)</description>
+		<description>Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 4)</description>
 		<serial>DV4-97238-00EUR</serial>
 		<version>1.0</version>
-		<rom name="Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 4).iso" size="8291680256" crc="a809251b" md5="6992be97d109d0e5c3616098cc5c646a" sha1="f4f34239347fda4d306230ee8d0cc2c571a828c3"/>
+		<rom name="Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 4).iso" size="8291680256" crc="a809251b" md5="6992be97d109d0e5c3616098cc5c646a" sha1="f4f34239347fda4d306230ee8d0cc2c571a828c3"/>
 	</game>
-	<game name="Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 5)" id="58872">
+	<game name="Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 5)" id="58872">
 		<category>Games</category>
-		<description>Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 5)</description>
+		<description>Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 5)</description>
 		<serial>DV5-97238-00EUR</serial>
 		<version>1.0</version>
-		<rom name="Resident Evil Origins Collection (Europe) (En,Ja,Fr,De,Es,It) (Disc 5).iso" size="2968453120" crc="9c26416b" md5="cef5b67aff58134fa044b4fc34c1d1d4" sha1="e6a47a1dd9a40ab5c8ffa6fb357f588b956178f8"/>
+		<rom name="Resident Evil Origins Collection (Europe, Korea) (En,Ja,Fr,De,Es,It) (Disc 5).iso" size="2968453120" crc="9c26416b" md5="cef5b67aff58134fa044b4fc34c1d1d4" sha1="e6a47a1dd9a40ab5c8ffa6fb357f588b956178f8"/>
 	</game>
 	<game name="Residents, The - Bad Day on the Midway (USA)" id="107343">
 		<category>Games</category>
@@ -169495,12 +169540,12 @@
 		<rom name="SimCity 2000 Special (Japan).bin" size="17068464" crc="6962e01a" md5="75396a5f98a26767c0e9feeb5b23806a" sha1="7247e15c3f302c384f396623e701976c96854e5d"/>
 		<rom name="SimCity 2000 Special (Japan).cue" size="94" crc="1050ad7b" md5="ac037f60adbb0c2b240ba998691edfe7" sha1="eedd9f4f4bd5996023758c2d14339d7685ad866a"/>
 	</game>
-	<game name="SimCity 2000 Special Edition (USA)" id="84763">
+	<game name="SimCity 2000 Special Edition (USA, Korea) (Rerelease)" id="8274">
 		<category>Games</category>
-		<description>SimCity 2000 Special Edition (USA)</description>
-		<serial>0126-000-0601-A</serial>
-		<rom name="SimCity 2000 Special Edition (USA).bin" size="197779680" crc="c9bd09c4" md5="482708a672fc20245484e72ab3c7dc76" sha1="367d37594a9b9cc508c9823215a565fb85fb6e64"/>
-		<rom name="SimCity 2000 Special Edition (USA).cue" size="123" crc="3a490a50" md5="0229e703ce9a2d394a42d8ecbfe43aee" sha1="e2d3274f2fdbfc726bbcbb919e3df9679863d416"/>
+		<description>SimCity 2000 Special Edition (USA, Korea) (Rerelease)</description>
+		<serial>10365, 1131107, 5710243CSP1, DP10</serial>
+		<rom name="SimCity 2000 Special Edition (USA, Korea) (Rerelease).bin" size="224458416" crc="b30cca9d" md5="51680bae5680f7de339a9645a5b01ff4" sha1="272e44bfbe15ab5f00bc3d9ee2671cbf8f55e487"/>
+		<rom name="SimCity 2000 Special Edition (USA, Korea) (Rerelease).cue" size="142" crc="a044fc89" md5="bfffcfb62a7af8d10b45dd5fe1301b21" sha1="9a0763a0e1feeb836bbcc575079c7b7619d37755"/>
 	</game>
 	<game name="SimCity 3000 (USA) (Linux)" id="80720">
 		<category>Games</category>
@@ -185067,6 +185112,13 @@
 		<rom name="Tanktics (USA) (Track 11).bin" size="47936112" crc="64e64e65" md5="b93b1d2fbfcea7e0b034ea529b7d6ef2" sha1="d9288c40822d9effec6c182dacbfef9cba443ade"/>
 		<rom name="Tanktics (USA) (Track 12).bin" size="18124512" crc="c9b2ad56" md5="41aaafeb21e0a55ef4039b49ff1a4b6e" sha1="57c19a88a0ce3d9a0d660fb0937997530700601a"/>
 		<rom name="Tanktics (USA).cue" size="1290" crc="93634aac" md5="59867f4973226f851d601dc3ee31ea8e" sha1="1fdea2592b762d6898c79510cde8a31c635c6244"/>
+	</game>
+	<game name="Tankwagen-Simulator (Germany)" id="139389">
+		<category>Games</category>
+		<description>Tankwagen-Simulator (Germany)</description>
+		<serial>Artikel Nummer 31253</serial>
+		<rom name="Tankwagen-Simulator (Germany).bin" size="319084080" crc="8134f953" md5="a42861efc1ee10485b0419785841cba1" sha1="717b7c6723e62c3f2d26b21dda2a57542d4d2b13"/>
+		<rom name="Tankwagen-Simulator (Germany).cue" size="95" crc="6698dc11" md5="64c4246cbeee23959e3e7db0021a7ddd" sha1="8de8db570568f09d2a33187d7dbb24c2e8110926"/>
 	</game>
 	<game name="Tantei Monogatari (Japan)" id="99731">
 		<category>Games</category>

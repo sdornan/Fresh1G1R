@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (450) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-14 17-49-36) (Retool)</description>
-		<version>2026-10-14 17-49-36</version>
-		<date>2026-10-15 07-22-31</date>
+		<description>Apple - Macintosh (451) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-15 10-00-47) (Retool)</description>
+		<version>2026-10-15 10-00-47</version>
+		<date>2026-10-16 07-05-49</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -466,6 +466,12 @@
 		<version>1.0</version>
 		<rom name="Caesar II (Europe).bin" size="629341104" crc="5efcf49c" md5="85f64708e5ed182f34e13f2f68c86b8a" sha1="4cfe6d74c7274d603882ccade189aa1974d53de0"/>
 		<rom name="Caesar II (Europe).cue" size="107" crc="f25cc818" md5="c135f1704e4ef7b2aa87f6f700dfb23b" sha1="d6700e0c558ebe03cf9a843390695b125fc7d7de"/>
+	</game>
+	<game name="Caesar III (USA)" id="139391">
+		<category>Games</category>
+		<description>Caesar III (USA)</description>
+		<rom name="Caesar III (USA).bin" size="709156224" crc="0391289c" md5="0af9994ed14dd7db85d1b21a43fa8afc" sha1="a58860b3d0fba05d648043c9229b3238fe277d80"/>
+		<rom name="Caesar III (USA).cue" size="82" crc="178f48e4" md5="4bccba369e81c29e54c2b8b52c5df8c2" sha1="387ec69be79cc39238d57880b5ddfef1fb6f4a97"/>
 	</game>
 	<game name="Caesars Palace (USA)" id="87984">
 		<category>Games</category>
