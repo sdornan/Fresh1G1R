@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,608) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-15 23-53-23) (Retool)</description>
-		<version>2026-10-15 23-53-23</version>
-		<date>2026-10-16 07-07-00</date>
+		<description>IBM - PC compatible (13,610) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-17 00-43-35) (Retool)</description>
+		<version>2026-10-17 00-43-35</version>
+		<date>2026-10-17 06-57-01</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -19655,6 +19655,12 @@
 		<rom name="Craps-Blackjack &amp; Video Poker (USA).bin" size="35442288" crc="5dd25c40" md5="a4986c8a63aa7e229fc9bb7c4ea62e95" sha1="75a74ec15b7788be5cf9e034945ddc0346a5038a"/>
 		<rom name="Craps-Blackjack &amp; Video Poker (USA).cue" size="101" crc="006c8528" md5="3908a69723609135b325a462faf449d5" sha1="468c5a181c3905603b9c719f022c2968049c50aa"/>
 	</game>
+	<game name="Crash Time 4 - The Syndicate (Germany) (En,Fr,De)" id="139423">
+		<category>Games</category>
+		<description>Crash Time 4: The Syndicate (Germany) (En,Fr,De)</description>
+		<version>4.1.0.0</version>
+		<rom name="Crash Time 4 - The Syndicate (Germany) (En,Fr,De).iso" size="3516203008" crc="02a0aeeb" md5="2ca07ecaad3e33c729ae5e53860eb72a" sha1="5b7d0d0e3b575ef09f5dc7a251ff85dd17ca38bd"/>
+	</game>
 	<game name="Crashday (USA)" id="10393">
 		<category>Games</category>
 		<description>Crashday (USA)</description>
@@ -28687,6 +28693,12 @@
 		<rom name="EarthSiege 2 (USA) (En,Fr,De) (Rerelease) (1997-09-11) (Track 7).bin" size="26262432" crc="8235d72a" md5="d61a56aaf30e266a32080a96e2094f17" sha1="03664fc49938ae1982faff4c2d0315aa50ddcb96"/>
 		<rom name="EarthSiege 2 (USA) (En,Fr,De) (Rerelease) (1997-09-11).cue" size="1041" crc="61d9a97d" md5="ba287cea25b7badf74cf1cf796caf166" sha1="6569e6dd0d0942e31d153a3f76509aea46a5182e"/>
 	</game>
+	<game name="Earthion (USA)" id="139430">
+		<category>Games</category>
+		<description>Earthion (USA)</description>
+		<rom name="Earthion (USA).bin" size="62219808" crc="d39e584e" md5="5673501c52e35b2d7f91f0474ac6665b" sha1="1996bad45d1f7b51c4582b30c7897421cb37839d"/>
+		<rom name="Earthion (USA).cue" size="80" crc="9c5358dc" md5="eedbb76f499847aaae6a29043f4d8ecd" sha1="af018de4d1c6865272b39b14e7598b0fe6d48781"/>
+	</game>
 	<game name="Earthlock - Festival of Magic (Australia)" id="128851">
 		<category>Games</category>
 		<description>Earthlock: Festival of Magic (Australia)</description>
@@ -29186,12 +29198,13 @@
 		<rom name="Elder Scrolls III, The - Morrowind (Australia) (Disc 1).bin" size="796203744" crc="68d3e7f5" md5="432b11b91918c1e11d75317c33ba7af5" sha1="0dfedc68eab87bd6209d5562586a1bd643f8bd83"/>
 		<rom name="Elder Scrolls III, The - Morrowind (Australia) (Disc 1).cue" size="121" crc="ae3a9835" md5="8e7d680f31e63a19939ccb5aa02bcfa5" sha1="bc3df1810dc7efe62425bbc6f8129e99131f45b2"/>
 	</game>
-	<game name="Elder Scrolls III, The - Morrowind (USA)" id="21802">
+	<game name="Elder Scrolls III, The - Morrowind (USA, Europe) (OEM)" id="32115">
 		<category>Games</category>
-		<description>Elder Scrolls III, The: Morrowind (USA)</description>
+		<description>Elder Scrolls III, The: Morrowind (USA, Europe) (OEM)</description>
+		<serial>V239-1</serial>
 		<version>1.00.417</version>
-		<rom name="Elder Scrolls III, The - Morrowind (USA).bin" size="788886672" crc="52b483c8" md5="2b602cc8367af59dc045865ae4cffaf4" sha1="4915cac13adb24901c6b4a6b8b96d9f4eaaccc33"/>
-		<rom name="Elder Scrolls III, The - Morrowind (USA).cue" size="106" crc="f67d8ad4" md5="acb6c72360058c264115d0f5ce1cb502" sha1="0c6ef102eb36587f4ba33d091911610d31b65e59"/>
+		<rom name="Elder Scrolls III, The - Morrowind (USA, Europe) (OEM).bin" size="788886672" crc="e7e24019" md5="e8ffa953b49e44a531b8216f5c826f7d" sha1="cad0c5f2e24a3c4ff2cbf132da6a4f7ed2a45883"/>
+		<rom name="Elder Scrolls III, The - Morrowind (USA, Europe) (OEM).cue" size="120" crc="6488842e" md5="e2760555f55b78dee76805664a5543b8" sha1="87a9022a66cd1fdd5b5b5ceebc45b3dcca5466da"/>
 	</game>
 	<game name="Elder Scrolls III, The - Morrowind - Game of the Year Edition (UK) (Rerelease)" id="81372">
 		<category>Games</category>
@@ -59098,14 +59111,14 @@
 		<description>Men of Valor (USA) (Disc 2)</description>
 		<version>1.0</version>
 		<rom name="Men of Valor (USA) (Disc 2).bin" size="795211200" crc="e1ce3ed7" md5="76e6f65673285d3c8f1c3d33d77195f7" sha1="050adf99085417c8a56cd7b7520ee341c7bc9792"/>
-		<rom name="Men of Valor (USA) (Disc 2).cue" size="116" crc="fd64ce73" md5="cf29f786897a37389dbc12cf2ce5d35a" sha1="52954a4437f68376d3025eecd4c73c56a5b28554"/>
+		<rom name="Men of Valor (USA) (Disc 2).cue" size="116" crc="917e801c" md5="c4b06fd065af2fafb80fee5c73ecc894" sha1="7ba938bddd93a1f079fa8f5687dc2139e071e210"/>
 	</game>
 	<game name="Men of Valor (USA) (Disc 3)" id="46328">
 		<category>Games</category>
 		<description>Men of Valor (USA) (Disc 3)</description>
 		<version>1.0</version>
 		<rom name="Men of Valor (USA) (Disc 3).bin" size="795211200" crc="55b27865" md5="fe86c5f55219f9eda2849c47e27c29bc" sha1="f36cfc5e928226dffa05c6cb686f64d41bbdf46f"/>
-		<rom name="Men of Valor (USA) (Disc 3).cue" size="116" crc="f6e512f2" md5="daae644519ec3e1e2476c08efa283e2c" sha1="c31e8e6b3a7a91234b21beebb5429b24ecc8d25a"/>
+		<rom name="Men of Valor (USA) (Disc 3).cue" size="116" crc="9aff5c9d" md5="253f972a37fcdaf81bb3133c6f5f4bb2" sha1="192abc0df2c837f1e9b990c1670df405d56e9524"/>
 	</game>
 	<game name="Men of Valor (USA) (Disc 4)" id="46329">
 		<category>Games</category>
@@ -81793,7 +81806,7 @@
 		<serial>35077.101.US</serial>
 		<version>1.0</version>
 		<rom name="SeaWorld Adventure Parks Tycoon 2 (USA).bin" size="127854720" crc="678222ce" md5="a6642c7bf96637e77162d57541b28ab1" sha1="8388ed810f13087d89b376b41b6288ecc205d75d"/>
-		<rom name="SeaWorld Adventure Parks Tycoon 2 (USA).cue" size="128" crc="0a4f308b" md5="1017ad352fa391678c46e869bc9e6bad" sha1="53469082244ebb889297d3e57f08d968a62df0e8"/>
+		<rom name="SeaWorld Adventure Parks Tycoon 2 (USA).cue" size="105" crc="959c8942" md5="8a989b72162dead9441873296004abb3" sha1="af0580967bbcfff29d33c672185a872920ea4d40"/>
 	</game>
 	<game name="Seal of Evil (USA)" id="115043">
 		<category>Games</category>
@@ -92200,7 +92213,7 @@
 		<serial>28424 CD1 v1.0</serial>
 		<version>1.0</version>
 		<rom name="Suffering, The (USA) (Disc 1).bin" size="788886672" crc="1c1f9db3" md5="5402e1789de517920b6c340fda07a382" sha1="2eed629e3b3710acfa09da0669c18065b26213b8"/>
-		<rom name="Suffering, The (USA) (Disc 1).cue" size="118" crc="d34e613a" md5="ca20a307ff1ced3277ee90242ec77cf2" sha1="827e6d1e6bb9ea7d08135323048a4daff988ca83"/>
+		<rom name="Suffering, The (USA) (Disc 1).cue" size="95" crc="8aa695ba" md5="7d161e2421fb8d9c4d902ffa9d93564e" sha1="84ee77dd084734f3b478f35dd80abc1108331784"/>
 	</game>
 	<game name="Suffering, The (USA) (Disc 2)" id="49563">
 		<category>Games</category>
@@ -92208,7 +92221,7 @@
 		<serial>28424 CD2 v1.0</serial>
 		<version>1.0</version>
 		<rom name="Suffering, The (USA) (Disc 2).bin" size="774428928" crc="e3c80aab" md5="d323e5809427876bacd8c8a3ec24bcc0" sha1="83542cf226fd35b3053e0a134eba150467be8323"/>
-		<rom name="Suffering, The (USA) (Disc 2).cue" size="118" crc="28d1a22e" md5="3503a080c9b1596e0c33df0bbe222c55" sha1="1e9b204444893ecab6480ace68ffc11ac534f902"/>
+		<rom name="Suffering, The (USA) (Disc 2).cue" size="95" crc="8bfbb36b" md5="2a97343bd61155361294c5e9d212254d" sha1="dab9160ba68559962bf952bba4d2ce7257c0f010"/>
 	</game>
 	<game name="Suffering, The - Ties That Bind (USA) (Disc 1)" id="66611">
 		<category>Games</category>

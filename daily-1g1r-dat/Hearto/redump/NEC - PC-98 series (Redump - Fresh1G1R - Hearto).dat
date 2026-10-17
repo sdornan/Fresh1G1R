@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC-98 series (Retool)</name>
-		<description>NEC - PC-98 series (120) (-y) [-aAbBcefkmMoprv] (2026-10-15 03-07-26) (Retool)</description>
-		<version>2026-10-15 03-07-26</version>
-		<date>2026-10-16 06-59-13</date>
+		<description>NEC - PC-98 series (122) (-y) [-aAbBcefkmMoprv] (2026-10-16 23-55-09) (Retool)</description>
+		<version>2026-10-16 23-55-09</version>
+		<date>2026-10-17 06-51-03</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -683,6 +683,13 @@
 		<rom name="Guardian Recall - Shugojuu Shoukan (Japan) (Track 42).bin" size="49079184" crc="4c890372" md5="6e744a1e9389c8052c3295f05c012ad2" sha1="e1ea72d769c74df6e5c69bac1466d4824f3cc33a"/>
 		<rom name="Guardian Recall - Shugojuu Shoukan (Japan).cue" size="5575" crc="faf81dd9" md5="9098f429813980710cbe10a5dbe92836" sha1="695a76360baac164a8d26a86d2d2a5aa0bff4daf"/>
 	</game>
+	<game name="Henshin Ring (Japan)" id="139435">
+		<category>Games</category>
+		<description>Henshin Ring (Japan)</description>
+		<rom name="Henshin Ring (Japan) (Track 1).bin" size="115918320" crc="aa0fa5ab" md5="257c5b24be33021b9727728a85baa6a6" sha1="8f8ada7ab7f8eb9e5e19e81cad675fc37b28d010"/>
+		<rom name="Henshin Ring (Japan) (Track 2).bin" size="151633440" crc="32ddd030" md5="44174cd778019cf9b65de815ae1b294c" sha1="fc5a8ba5e0c81cc1217371909c39d822a4f52880"/>
+		<rom name="Henshin Ring (Japan).cue" size="233" crc="bb0ad4d1" md5="fe57a84433489f3f741313046d12fd14" sha1="4b8044e1a1cc2d9524ed0968091609924e8cde9a"/>
+	</game>
 	<game name="Hiiragizaka no Kyuukan (Japan)" id="136452">
 		<category>Games</category>
 		<description>Hiiragizaka no Kyuukan (Japan)</description>
@@ -698,6 +705,12 @@
 		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 10).bin" size="25051152" crc="eec09a54" md5="177684775732c7545ad1cc68d9c893d5" sha1="d27d00663c94386239650beccdcebe1ade55841a"/>
 		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 11).bin" size="20511792" crc="24956471" md5="275d0ce546f262e3707309ea9d550739" sha1="99269e9f8e915654a0775b58583aae8418cc7bd5"/>
 		<rom name="Hiiragizaka no Kyuukan (Japan).cue" size="1357" crc="ef7d511b" md5="54c4cfe21ccc70ba57f89be063609ad0" sha1="f894c251b91e81f9e495dc83976e8fddfd71c3b7"/>
+	</game>
+	<game name="Hyooin Tengoku (Japan)" id="139436">
+		<category>Games</category>
+		<description>Hyooin Tengoku (Japan)</description>
+		<rom name="Hyooin Tengoku (Japan).bin" size="74372592" crc="809331b1" md5="dcc197727bbd74a3d62d261ab321b6f1" sha1="4fe8ee145938b9fd44f42f080fd31ed3d5871fef"/>
+		<rom name="Hyooin Tengoku (Japan).cue" size="111" crc="3374035f" md5="3df1dda1105055bb59aedaa6a14c3765" sha1="eeff8070c2440b08b735d40a5eed924922cc5a77"/>
 	</game>
 	<game name="Inherit the Earth - Quest for the Orb (Japan)" id="102550">
 		<category>Games</category>

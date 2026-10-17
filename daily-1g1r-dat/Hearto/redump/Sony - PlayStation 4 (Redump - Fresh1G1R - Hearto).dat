@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,931) (-y) [-aAbBcefkmMoprv] (2026-10-15 23-34-35) (Retool)</description>
-		<version>2026-10-15 23-34-35</version>
-		<date>2026-10-16 07-00-08</date>
+		<description>Sony - PlayStation 4 (1,936) (-y) [-aAbBcefkmMoprv] (2026-10-16 23-03-35) (Retool)</description>
+		<version>2026-10-16 23-03-35</version>
+		<date>2026-10-17 06-51-46</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -8024,6 +8024,13 @@
 		<version>01.00</version>
 		<rom name="My Hero One's Justice (USA).iso" size="4829085696" crc="a8e0ec75" md5="b3712f09f9ca1273341025a8f13096b4" sha1="9caa4acd844c590935b54e14ff9ca1aad44c4dfc"/>
 	</game>
+	<game name="My Hero One's Justice 2 (Europe) (En,Fr,De,Es,It)" id="139422">
+		<category>Games</category>
+		<description>My Hero One's Justice 2 (Europe) (En,Fr,De,Es,It)</description>
+		<serial>CUSA-16171</serial>
+		<version>01.00</version>
+		<rom name="My Hero One's Justice 2 (Europe) (En,Fr,De,Es,It).iso" size="9702539264" crc="f047ef14" md5="79cec805e17dbb12c3bbf1f7bc9cbf3e" sha1="367ff4c3e96e5982d2b707a64222de96985788cc"/>
+	</game>
 	<game name="My Life - Riding Stables 3 (Europe)" id="138422">
 		<category>Games</category>
 		<description>My Life: Riding Stables 3 (Europe)</description>
@@ -10113,6 +10120,13 @@
 		<version>01.00</version>
 		<rom name="Rockman EXE Advanced Collection (Japan) (En,Ja,Zh).iso" size="25024331776" crc="5f4b5b09" md5="f4b150fbe84d50e8110c6234f624c961" sha1="5d208b792871d4fc3d15fab5d197961a7f4b3384"/>
 	</game>
+	<game name="Rocksmith - All-New 2014 Edition (Australia) (En,Fr,De,Es,It)" id="139429">
+		<category>Games</category>
+		<description>Rocksmith: All-New 2014 Edition (Australia) (En,Fr,De,Es,It)</description>
+		<serial>CUSA-00745/ANZ</serial>
+		<version>01.00</version>
+		<rom name="Rocksmith - All-New 2014 Edition (Australia) (En,Fr,De,Es,It).iso" size="7747010560" crc="c897d249" md5="2a4461de7e1f2c670bd1d1274bd6f59c" sha1="435e9c4c0637ddfeb7d6263f6c25f76234f717c9"/>
+	</game>
 	<game name="Rogue Legacy (USA) (En,Fr,De,Es,Pt)" id="66883">
 		<category>Games</category>
 		<description>Rogue Legacy (USA) (En,Fr,De,Es,Pt)</description>
@@ -11058,6 +11072,13 @@
 		<version>01.00</version>
 		<rom name="Sonic Superstars (USA).iso" size="6397100032" crc="602977ef" md5="cbb3b83816cb37320ace85d37121607c" sha1="f75f46f04fe4a75ae600ed7f20241fbcbfca07d4"/>
 	</game>
+	<game name="Sonic X Shadow Generations (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Th)" id="139421">
+		<category>Games</category>
+		<description>Sonic X Shadow Generations (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Th)</description>
+		<serial>CUSA-44422</serial>
+		<version>01.00</version>
+		<rom name="Sonic X Shadow Generations (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Th).iso" size="30488723456" crc="0a05bb79" md5="ef516db18fa35be18726662d45afe0a9" sha1="178f182696cafd1abb225e3917e6326c203136be"/>
+	</game>
 	<game name="Soul Hackers 2 (USA)" id="131010">
 		<category>Games</category>
 		<description>Soul Hackers 2 (USA)</description>
@@ -11161,6 +11182,13 @@
 		<serial>CUSA-13342</serial>
 		<version>01.00</version>
 		<rom name="Spintires - Mudrunner - American Wilds (USA).iso" size="3847946240" crc="2022e92b" md5="20e17fc4604867be9f70391da74bcbf7" sha1="06c76637c5e44d050b4fe689eef1e5c0f9693ad0"/>
+	</game>
+	<game name="Spiritfarer (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)" id="139433">
+		<category>Games</category>
+		<description>Spiritfarer (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)</description>
+		<serial>CUSA-20160</serial>
+		<version>02.00</version>
+		<rom name="Spiritfarer (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso" size="25024331776" crc="f25e2ab4" md5="e8be75199238cbae2bee9076c1db3576" sha1="3ccca4a02120e93c89d7de2b84017c501d3364c0"/>
 	</game>
 	<game name="Spyro - Reignited Trilogy (USA) (En,Fr,Es,Pt) (v02.00)" id="71192">
 		<category>Games</category>
@@ -11267,19 +11295,19 @@
 		<version>01.01</version>
 		<rom name="Star Wars Jedi - Fallen Order (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="48976887808" crc="7ec2ef66" md5="ff49fcd489529e93ac9c3f5af963797f" sha1="6a050fc6ea31cb182c956b7719cdcac1fb6b4990"/>
 	</game>
-	<game name="Star Wars Jedi - Survivor (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Data Disc)" id="132331">
+	<game name="Star Wars Jedi - Survivor (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Data Disc)" id="132331">
 		<category>Games</category>
-		<description>Star Wars Jedi: Survivor (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Data Disc)</description>
+		<description>Star Wars Jedi: Survivor (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Data Disc)</description>
 		<serial>CUSA-46181</serial>
 		<version>01.00</version>
-		<rom name="Star Wars Jedi - Survivor (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Data Disc).iso" size="27080982528" crc="33bbc3f6" md5="d0bbc86661fb220055e113e941e9d59e" sha1="b3fa81407a8710809f565e0f355a1f50456a2acb"/>
+		<rom name="Star Wars Jedi - Survivor (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Data Disc).iso" size="27080982528" crc="33bbc3f6" md5="d0bbc86661fb220055e113e941e9d59e" sha1="b3fa81407a8710809f565e0f355a1f50456a2acb"/>
 	</game>
-	<game name="Star Wars Jedi - Survivor (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Play Disc)" id="132329">
+	<game name="Star Wars Jedi - Survivor (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Play Disc)" id="132329">
 		<category>Games</category>
-		<description>Star Wars Jedi: Survivor (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Play Disc)</description>
+		<description>Star Wars Jedi: Survivor (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Play Disc)</description>
 		<serial>CUSA-33778</serial>
 		<version>01.00</version>
-		<rom name="Star Wars Jedi - Survivor (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Play Disc).iso" size="42928242688" crc="a0bed091" md5="87e0e502058faa8e0206ed70269fe259" sha1="e81645c46de47deecf394a08ab7debf60603146c"/>
+		<rom name="Star Wars Jedi - Survivor (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl) (Play Disc).iso" size="42928242688" crc="a0bed091" md5="87e0e502058faa8e0206ed70269fe259" sha1="e81645c46de47deecf394a08ab7debf60603146c"/>
 	</game>
 	<game name="Stardew Valley (USA)" id="47212">
 		<category>Games</category>
@@ -12890,6 +12918,13 @@
 		<serial>CUSA-05135</serial>
 		<version>01.00</version>
 		<rom name="Wild Guns Reloaded (USA).iso" size="1257635840" crc="1f365444" md5="daaf3ef6828bc749a70fb15a0c4c0c41" sha1="d899947b16fc984c8e69aaf4969032b73461b4a4"/>
+	</game>
+	<game name="Wild at Heart, The (Europe) (En,Ja,Fr,De,Es,Pt,Zh,Ko)" id="139434">
+		<category>Games</category>
+		<description>Wild at Heart, The (Europe) (En,Ja,Fr,De,Es,Pt,Zh,Ko)</description>
+		<serial>CUSA-28246</serial>
+		<version>01.03</version>
+		<rom name="Wild at Heart, The (Europe) (En,Ja,Fr,De,Es,Pt,Zh,Ko).iso" size="3805741056" crc="8ebcbc5a" md5="2131f000cd86b7c96c98a2c1bb4f085c" sha1="773c5efc392e084e9fd4d75d47899fdc82ede38b"/>
 	</game>
 	<game name="Wildshade Unicorn Champions (Europe)" id="138471">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,870) (-y) [-aAbBcefkmMoprv] (20261013-100741) (Retool)</description>
-		<version>20261013-100741</version>
-		<date>2026-10-16 07-05-27</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,872) (-y) [-aAbBcefkmMoprv] (20261016-041118) (Retool)</description>
+		<version>20261016-041118</version>
+		<date>2026-10-17 06-53-59</date>
 		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, ShiroeNL, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8616,6 +8616,16 @@
 		<category>Games</category>
 		<description>Toy Story (USA)</description>
 		<rom name="Toy Story (USA).sfc" size="4194304" crc="8328822b" md5="df1d99115ce4a386054b511b62cd5cc6" sha1="ffadfea439cb5ca3b84911af6b7bfee478d9f33c" sha256="345e795000e74f51704774edfc8049473461761a65eb47cab710caa29e09897b"/>
+	</game>
+	<game name="Toy Story (USA) (En,Fr,De) (Toy Story Retro Roundup!) (Definitive Edition)" id="4613">
+		<category>Games</category>
+		<description>Toy Story (USA) (En,Fr,De) (Toy Story Retro Roundup!) (Definitive Edition)</description>
+		<rom name="Toy Story (USA) (En,Fr,De) (Toy Story Retro Roundup!) (Definitive Edition).sfc" size="4194304" crc="dc891e85" md5="a8dd17bbebd32c095e58db5d926ea40c" sha1="e63b21e73a3bf69c999b23554e98406099a75450" sha256="bffec7818476bd15fa9e8c1d0b7579e054248591ca635c9deca175ad3d9be6ff"/>
+	</game>
+	<game name="Toy Story (USA) (Toy Story Retro Roundup!)" id="4611">
+		<category>Games</category>
+		<description>Toy Story (USA) (Toy Story Retro Roundup!)</description>
+		<rom name="Toy Story (USA) (Toy Story Retro Roundup!).sfc" size="4194304" crc="f0c8007b" md5="57669e0551dbef2d3de11d166f00cde9" sha1="bb199c391df548893d19a6a5e25aa40cdb9205db" sha256="16fe7d5868fed3a77b7b506351bd251e1393b6cf45308bad34a8e8b357887d1d"/>
 	</game>
 	<game name="Toys - Let the Toy Wars begin! (USA)" id="3120">
 		<category>Games</category>

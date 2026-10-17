@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (1,056) (-y) [-aAbBcdkmMpPuv] (20261014-091530) (Retool)</description>
-		<version>20261014-091530</version>
-		<date>2026-10-16 07-16-24</date>
-		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
+		<description>Nintendo - Game Boy (1,057) (-y) [-aAbBcdkmMpPuv] (20261016-040905) (Retool)</description>
+		<version>20261016-040905</version>
+		<date>2026-10-17 07-06-09</date>
+		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -4815,6 +4815,11 @@
 		<category>Games</category>
 		<description>Toy Story (USA) (Rev 1) (SGB Enhanced)</description>
 		<rom name="Toy Story (USA) (Rev 1) (SGB Enhanced).gb" size="524288" crc="6f36b6ed" md5="344ed70fe1a7a8cc904eda886543252c" sha1="04227fcd3e049465f4499fefe6519322ee492a82" sha256="815c45c7df1f952ee2991986cf20999b9c93e7a24011b4ed2919eb2e25b6ae56"/>
+	</game>
+	<game name="Toy Story (USA) (Toy Story Retro Roundup!) (SGB Enhanced)" id="2650">
+		<category>Games</category>
+		<description>Toy Story (USA) (Toy Story Retro Roundup!) (SGB Enhanced)</description>
+		<rom name="Toy Story (USA) (Toy Story Retro Roundup!) (SGB Enhanced).gb" size="524288" crc="de9e8f40" md5="823b407cf0ff25fae6a68510c4e1f261" sha1="b08b0e4d6afcad0237601a33dcc530db9a408375" sha256="813f0e673e742a9e7334a14d8c4de40c9a98d626d87b05fee52bdcd5128cb220"/>
 	</game>
 	<game name="Track &amp; Field (USA, Europe)" id="1424">
 		<category>Games</category>

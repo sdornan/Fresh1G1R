@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy Color (Retool)</name>
-		<description>Nintendo - Game Boy Color (1,235) (-y) [-aAbBcefkmMoprv] (20261014-091804) (Retool)</description>
-		<version>20261014-091804</version>
-		<date>2026-10-16 07-02-29</date>
+		<description>Nintendo - Game Boy Color (1,239) (-y) [-aAbBcefkmMoprv] (20261016-041015) (Retool)</description>
+		<version>20261016-041015</version>
+		<date>2026-10-17 06-52-35</date>
 		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -657,6 +657,11 @@
 		<description>Bug's Life, A (USA) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Bug's Life, A (USA) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="8360047a" md5="64d2d5df9d0e5035ef549a189fbdb475" sha1="4c689ce3b99a5b585a452b095d72a688391ea0eb"/>
 	</game>
+	<game name="Bug's Life, A (USA) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible)" id="3022">
+		<category>Games</category>
+		<description>Bug's Life, A (USA) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Bug's Life, A (USA) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="0da16009" md5="7106d41248b68f5c4cbdf562d20b19e9" sha1="9c5064f50bc9bc7b4ed65bbdd1dfdade5091842b" sha256="1df48e1ae9d379d7fcebc957b6d45dbfc4ed0e45494970a5aa590e0a9c67432c"/>
+	</game>
 	<game name="Bugs Bunny - Crazy Castle 3 (USA, Europe) (GB Compatible)" id="0153">
 		<category>Games</category>
 		<description>Bugs Bunny - Crazy Castle 3 (USA, Europe) (GB Compatible)</description>
@@ -691,6 +696,11 @@
 		<category>Games</category>
 		<description>Buzz Lightyear of Star Command (USA, Europe)</description>
 		<rom name="Buzz Lightyear of Star Command (USA, Europe).gbc" size="524288" crc="84e29b87" md5="560e27a4d80b88280d8ad7358467c301" sha1="314dacd9a5d60769105f2cde60a245074cb51c15"/>
+	</game>
+	<game name="Buzz Lightyear of Star Command (USA, Europe) (Toy Story Retro Roundup!)" id="3023">
+		<category>Games</category>
+		<description>Buzz Lightyear of Star Command (USA, Europe) (Toy Story Retro Roundup!)</description>
+		<rom name="Buzz Lightyear of Star Command (USA, Europe) (Toy Story Retro Roundup!).gbc" size="524288" crc="31690de9" md5="e29197d4d0b7b0725b9c5f344c1d5c54" sha1="935ec6f59de206141023236eb23ad98b21823bb0" sha256="fa4c1e7bb5e96b5c54faddb6a65fca165def7c51a5a6ccfe33daa1f612b9e8da"/>
 	</game>
 	<game name="Caesars Palace II (USA, Europe)" id="0164">
 		<category>Games</category>
@@ -5548,10 +5558,20 @@
 		<description>Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="47aecb95" md5="ef032b6f603b3a290a91d40cb9c4b3e6" sha1="0c8506de2349ecf5241692da2aff239a0c40d862" sha256="d1d87a478143bc157242d78f27c9563c5a9c0932608e020b2a26f0fe780842c2"/>
 	</game>
+	<game name="Toy Story 2 (USA, Europe) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible)" id="3020">
+		<category>Games</category>
+		<description>Toy Story 2 (USA, Europe) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Toy Story 2 (USA, Europe) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="e74f2992" md5="b9e5a4b19bd437ea288e5900922abb4e" sha1="793dba51275ec71dfaf9359785d945be728f0fbb" sha256="a723476a3776b344ecbd009bfdfeaafa668850d52a825f02d43d4d022703d947"/>
+	</game>
 	<game name="Toy Story Racer (USA, Europe)" id="1248">
 		<category>Games</category>
 		<description>Toy Story Racer (USA, Europe)</description>
 		<rom name="Toy Story Racer (USA, Europe).gbc" size="2097152" crc="d911dd97" md5="01a67ed2dc935044ba69eda42bddebf3" sha1="5deb31321a86b260aa84cab5e45a3fa36ce5efbd"/>
+	</game>
+	<game name="Toy Story Racer (USA, Europe) (Toy Story Retro Roundup!)" id="3021">
+		<category>Games</category>
+		<description>Toy Story Racer (USA, Europe) (Toy Story Retro Roundup!)</description>
+		<rom name="Toy Story Racer (USA, Europe) (Toy Story Retro Roundup!).gbc" size="2097152" crc="76b07643" md5="1be117e7628224b06aa4f597dfc9a7c2" sha1="eec8894e3df8056bf73603797c3e86bb2f3ab3d1" sha256="13d3e58b08ae76f10b2ea6f7611b1a9e1f6b8a97d63024e3c8b037a6c50d3400"/>
 	</game>
 	<game name="Trade &amp; Battle Card Hero (Japan) (SGB Enhanced) (GB Compatible)" id="1249">
 		<category>Games</category>

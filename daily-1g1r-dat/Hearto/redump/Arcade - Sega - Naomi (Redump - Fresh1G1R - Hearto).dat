@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi (Retool)</name>
-		<description>Arcade - Sega - Naomi (32) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-50-33) (Retool)</description>
-		<version>2026-10-14 05-50-33</version>
-		<date>2026-10-16 06-59-31</date>
+		<description>Arcade - Sega - Naomi (32) (-y) [-aAbBcefkmMoprv] (2026-10-16 21-23-35) (Retool)</description>
+		<version>2026-10-16 21-23-35</version>
+		<date>2026-10-17 06-51-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -161,15 +161,15 @@
 		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="f4e4500d" md5="e626c8d3a7772f2cd8ee366ebd3cd31e" sha1="1e1bd4f86da0a4ec09bc6da4e33748a5356286f4"/>
 		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A).cue" size="438" crc="1365eb08" md5="0ba60661cb75ae7d273bf495afc3f4d4" sha1="2062ec47b826491df99c530eb7f588a73a211f0c"/>
 	</game>
-	<game name="Monkey Ball (Japan)" id="75285">
+	<game name="Monkey Ball (World) (En,Ja)" id="75285">
 		<category>Games</category>
-		<description>Monkey Ball (Japan)</description>
+		<description>Monkey Ball (World) (En,Ja)</description>
 		<serial>GDS-0008</serial>
 		<version>1.008</version>
-		<rom name="Monkey Ball (Japan) (Track 1).bin" size="705600" crc="5a5377f3" md5="87f14ab1bbc4ee24cc73260a9b2eedd8" sha1="fad960933af63825ffc29746c8bd967fcc11a9e2"/>
-		<rom name="Monkey Ball (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
-		<rom name="Monkey Ball (Japan) (Track 3).bin" size="1185760800" crc="ca4ff2ab" md5="83d11d9f16d089c68c7882d56c295efa" sha1="189c69cfbddcd38fb701a083a88735ae06cdbe5d"/>
-		<rom name="Monkey Ball (Japan).cue" size="351" crc="e604ee80" md5="f0a323089677719157dc227bf546f6de" sha1="8270a6761aa0bd88fb79ebabddbf09609eb63316"/>
+		<rom name="Monkey Ball (World) (En,Ja) (Track 1).bin" size="705600" crc="5a5377f3" md5="87f14ab1bbc4ee24cc73260a9b2eedd8" sha1="fad960933af63825ffc29746c8bd967fcc11a9e2"/>
+		<rom name="Monkey Ball (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Monkey Ball (World) (En,Ja) (Track 3).bin" size="1185760800" crc="ca4ff2ab" md5="83d11d9f16d089c68c7882d56c295efa" sha1="189c69cfbddcd38fb701a083a88735ae06cdbe5d"/>
+		<rom name="Monkey Ball (World) (En,Ja).cue" size="375" crc="a481b2d7" md5="829e94889f2e346957b3d1f78621f1bb" sha1="c0d8d5eb6fdfb71190da57c2830e467cafa30561"/>
 	</game>
 	<game name="NouKone Puzzle - Takoron (Japan)" id="69610">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Audio CD (Retool)</name>
-		<description>Audio CD (2,405) (-y) [-aAbBcdkmMpPuv] (2026-10-16 02-07-42) (Retool)</description>
-		<version>2026-10-16 02-07-42</version>
-		<date>2026-10-16 07-13-31</date>
+		<description>Audio CD (2,408) (-y) [-aAbBcdkmMpPuv] (2026-10-17 00-03-35) (Retool)</description>
+		<version>2026-10-17 00-03-35</version>
+		<date>2026-10-17 07-01-57</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -13099,6 +13099,14 @@
 		<rom name="Dracula - Music Collection (Japan) (PSX Game Bundle) (Track 16).bin" size="35785680" crc="0add6b25" md5="ff2a828836f741f0aade7bb9fca23214" sha1="9cc7f1abe93643288f515b9a68ef1dca3f214e81"/>
 		<rom name="Dracula - Music Collection (Japan) (PSX Game Bundle).cue" size="2283" crc="651f0704" md5="5dcc61cbb7b7a1717f37f7c6a20caffc" sha1="7a4b179819ef9e0ccb306fd74f0e70da80bc0e68"/>
 	</game>
+	<game name="Dragon Master Silk 2 - Premium CD (Japan) (PC-98 Game Bundle)" id="139437">
+		<category>Bonus Discs</category>
+		<description>Dragon Master Silk 2: Premium CD (Japan) (PC-98 Game Bundle)</description>
+		<serial>RGH-1111</serial>
+		<rom name="Dragon Master Silk 2 - Premium CD (Japan) (PC-98 Game Bundle) (Track 1).bin" size="93908304" crc="bb46b4ff" md5="59f40a1cf35ea5631478a30603475403" sha1="8b9731c1e50ee4016cf62174922a358fb77e6709"/>
+		<rom name="Dragon Master Silk 2 - Premium CD (Japan) (PC-98 Game Bundle) (Track 2).bin" size="53155200" crc="74c3916f" md5="bb39af700a0249e041df63276db31c60" sha1="19314013328ee6a983733918cb3f4b348b2e1444"/>
+		<rom name="Dragon Master Silk 2 - Premium CD (Japan) (PC-98 Game Bundle).cue" size="264" crc="b7c1bf07" md5="ea7bc50f2ecffa0383170fa77a3ccfdc" sha1="96e0d400a42ef28eecb451c4aa0376dcd247fd46"/>
+	</game>
 	<game name="Dragon Shadow Spell - Original Sound Track (Japan)" id="80184">
 		<category>Bonus Discs</category>
 		<description>Dragon Shadow Spell: Original Sound Track (Japan)</description>
@@ -17827,6 +17835,35 @@
 		<rom name="God Wars Original Soundtrack - Man'yougashuu (Japan) (PS4 Game Bundle) (Track 19).bin" size="40750752" crc="274fd4d0" md5="c962602c37f92f112e7129a0dc76d743" sha1="74b55eed2744f073b08429a36f551342ac8a63a2"/>
 		<rom name="God Wars Original Soundtrack - Man'yougashuu (Japan) (PS4 Game Bundle) (Track 20).bin" size="31780224" crc="d1411bc5" md5="52ac3905c4445dff24178b7a77c33cc8" sha1="aca115e18bd392417f427ae9f1dbf9059912c379"/>
 		<rom name="God Wars Original Soundtrack - Man'yougashuu (Japan) (PS4 Game Bundle).cue" size="2840" crc="f53c3b70" md5="b3c26a3807b75cdf049f4e2580920967" sha1="fb679a37a9019663219a78e067cfc5679df98d89"/>
+	</game>
+	<game name="God of War II Soundtrack (Korea) (PS3 Game Bundle)" id="139431">
+		<category>Bonus Discs</category>
+		<description>God of War II Soundtrack (Korea) (PS3 Game Bundle)</description>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 01).bin" size="31025232" crc="80da9fea" md5="6bf0d12f968e2c501e938161615dbf49" sha1="bbde9c66f24ebfbabeb1d8c5961ab629926e5ecf"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 02).bin" size="33033840" crc="04b34619" md5="3d5d0b8eec206349b477ab5fba2a6ea1" sha1="5e5ad07b1dfd8b1aff48d93d2ec7695d4ebe25b7"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 03).bin" size="23204832" crc="afb3df8b" md5="7d1bdb3aa07445434e057650e2dfdf27" sha1="2821c483dc8d1f1bc9dd2f84de9c7e5cc002e971"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 04).bin" size="22129968" crc="dc170bc6" md5="e79433e949e808abc6222e53a1dda5ac" sha1="693c3d0edf5ef8265d28cf18ff7fc4a0b0f2ada4"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 05).bin" size="21843024" crc="efa7204d" md5="22b308011a7778d9ab61327681e64b86" sha1="8789c6712d8f5b6a14c0f97465cbb1c9e9c14389"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 06).bin" size="42886368" crc="709dc09f" md5="90b604ed82a805e832984d83aee6d844" sha1="a24dcb4cb7ab5082282ef1fe0132d941643ebcb2"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 07).bin" size="20154288" crc="649e5052" md5="a861fe6ef3a25ee99b61d20ed75fa7c1" sha1="a38f077378fdba40ef3a123a80d7990852ff9871"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 08).bin" size="34430928" crc="250f350c" md5="615122e07e9870dc6fe02abf68c046d0" sha1="d1a4a280793b2a6bc65137755142929e06ebc958"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 09).bin" size="19262880" crc="b40053f0" md5="b064b82a32ceaae4c9011f20bc1bb87e" sha1="f3aa27452bbf1e55fcdc4bc719794006051f9f9c"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 10).bin" size="23752848" crc="f35961c4" md5="cf97baa2640c93688763fddfb8ed8c6b" sha1="f3960e22de81047c992dc313bc14de6e35cfffc5"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 11).bin" size="24256176" crc="9d66c90a" md5="def468f6f99ea9e1441aaaa57deed2e3" sha1="f6339af47bfc8263d53bb3a7e7ff2ce30e922047"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 12).bin" size="35122416" crc="76b6f38f" md5="5e0218f1a159a6b5835b34106c710502" sha1="1f762c8df631d8a61b3fd22884bf8489ea0fe996"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 13).bin" size="26737536" crc="9cac024b" md5="56911c47287d6ab614473b243aa4ecea" sha1="60557cf7719c6ce85fcd79376b2daa0830e22ce7"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 14).bin" size="22207584" crc="89cbe52d" md5="c907fdd5940dba40ee5819f2cba6635e" sha1="5d15af31f84a40c3e3ee05f70ac354510c8a0f0b"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 15).bin" size="21205632" crc="5b15c600" md5="f1eb726b3ba8aea7bcd7058235f44ea9" sha1="43984fd1d2aded56dff53b43109ca68067fe381f"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 16).bin" size="24703056" crc="2020a327" md5="dbb7e0be10c87666d8cd3f67718a933b" sha1="3b7925a706cb78efa54c5753aa7064a89ea8b4fb"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 17).bin" size="21299712" crc="9c7d97c2" md5="878363c6244fdb820f3d3cc57482b92f" sha1="24f8de580f3dfc8d3e4d55e338c587b58732d760"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 18).bin" size="21612528" crc="ee63b185" md5="c709014715b9ff2263a09cd24b1bdfcd" sha1="508845f81a48eb6e7effb2be03c6eb5ea3c2091e"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 19).bin" size="37921296" crc="744bd76b" md5="d4fd27990a570de26e9f938278a6717b" sha1="94bb2f23416ce48dd2876819852405c4c590fc28"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 20).bin" size="29033088" crc="fdf43ef5" md5="4dbb70d4ba478f64e62e0c3b2506fbbd" sha1="75e376aa2bd1243cf513fba8e350e816264300a7"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 21).bin" size="22699152" crc="de2e6996" md5="44f4141668c54459c82d796ba269174a" sha1="33a7f3a86caee7f52742e8a1e7e5394c28cf1a2c"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 22).bin" size="10706304" crc="ef2bfdb7" md5="479b89c43f303935b38490d932509dce" sha1="aa87298112e691939959b64928666954eed37af1"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 23).bin" size="10017168" crc="62d10e80" md5="809aed6959ba27524af3daaba7e141c8" sha1="207451e9b55661548280f353b5e79203a0e90a5b"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle) (Track 24).bin" size="33468960" crc="da1e044d" md5="dbe9ac570764054f6b425884f62d6663" sha1="4361d83d67710de05d2d953ae73693f8c1744dae"/>
+		<rom name="God of War II Soundtrack (Korea) (PS3 Game Bundle).cue" size="4009" crc="a90cb01e" md5="8c90018d969febc129f7934448bd36b2" sha1="7e9423813813b33f3f14d3d3d378c0403766d196"/>
 	</game>
 	<game name="God of War III Soundtrack (Korea) (PS3 Game Bundle)" id="87126">
 		<category>Bonus Discs</category>
@@ -51176,6 +51213,21 @@
 		<rom name="Yoiyo Mori no Hime - Yoyaku Tokuten CD - Aru Asa no 2-ri (Japan) (Track 6).bin" size="62619648" crc="802a350e" md5="a4cb8ca65acfbf6c5dcbaaaec15fd0ca" sha1="8744edae092985d770897f76f5fcf5bda91e6e1f"/>
 		<rom name="Yoiyo Mori no Hime - Yoyaku Tokuten CD - Aru Asa no 2-ri (Japan) (Track 7).bin" size="94750320" crc="e471c4e7" md5="9a1c225ebdcdb1f3ad0401a54f0313e4" sha1="3f3d0042d004291030c3ad62486dca50a21ee26f"/>
 		<rom name="Yoiyo Mori no Hime - Yoyaku Tokuten CD - Aru Asa no 2-ri (Japan).cue" size="945" crc="2221d7de" md5="7a5395e51271762d9670b83aa06842ed" sha1="87ed31480f84eb655dc43a0ed775a01e7509b5c2"/>
+	</game>
+	<game name="Yomiwosakuhana - Mini Soundtrack (Japan)" id="139426">
+		<category>Bonus Discs</category>
+		<description>Yomiwosakuhana: Mini Soundtrack (Japan)</description>
+		<rom name="Yomiwosakuhana - Mini Soundtrack (Japan) (Track 01).bin" size="16400496" crc="fe0428bc" md5="1471f69982a1d5fc84f20fa2e67ffee6" sha1="2f80385e909b7e486b92e5f14ed6316d17424590"/>
+		<rom name="Yomiwosakuhana - Mini Soundtrack (Japan) (Track 02).bin" size="31072272" crc="74eeecf6" md5="f8177ca4f4d97f9e04bc5b7d35265347" sha1="8ed472f6f675cebfc96ea302f344989951f6021c"/>
+		<rom name="Yomiwosakuhana - Mini Soundtrack (Japan) (Track 03).bin" size="29696352" crc="2f10024c" md5="cd59f4a9e169947e2e60daf054a009eb" sha1="85f7183566a1a5c1093f80e6ad1cd42d5791547e"/>
+		<rom name="Yomiwosakuhana - Mini Soundtrack (Japan) (Track 04).bin" size="32502288" crc="03b9462c" md5="330cb80c0b6d212a655813b6c365fc34" sha1="17dd109185798709d91e4719c47663614ae35282"/>
+		<rom name="Yomiwosakuhana - Mini Soundtrack (Japan) (Track 05).bin" size="33897024" crc="0c99aa9e" md5="e4bcbe948171a54b1d7093b0f075adef" sha1="7a7c83555c23f1868842bffc6dae9055d8b396b0"/>
+		<rom name="Yomiwosakuhana - Mini Soundtrack (Japan) (Track 06).bin" size="31201632" crc="d04b786e" md5="bead663b052fb6897ccdea15217ece58" sha1="73da50057c5c072b9a4a8b6f9fecb6d11505bb31"/>
+		<rom name="Yomiwosakuhana - Mini Soundtrack (Japan) (Track 07).bin" size="33059712" crc="9ce34180" md5="cfc229d495b8beff6b9a56b300ee661b" sha1="1153283ec351edc043c90810df065fcec27950d5"/>
+		<rom name="Yomiwosakuhana - Mini Soundtrack (Japan) (Track 08).bin" size="37622592" crc="6b0cc7f6" md5="914906a3080a0365913add862e21022a" sha1="5862a18d42e1415df22e3faa089b2e5cfa60a400"/>
+		<rom name="Yomiwosakuhana - Mini Soundtrack (Japan) (Track 09).bin" size="43963584" crc="70313a0b" md5="022ebe0062a9b819f52e49f552561205" sha1="4cfb4e3f1f1e25309a8af8c8985063bfd5a8ff72"/>
+		<rom name="Yomiwosakuhana - Mini Soundtrack (Japan) (Track 10).bin" size="31987200" crc="14ff6a29" md5="855a39ed0200d76d41e24b455b8b2fe4" sha1="60201384978a15b49708c9459259137f10a63ea0"/>
+		<rom name="Yomiwosakuhana - Mini Soundtrack (Japan).cue" size="2276" crc="829a0d70" md5="43257954e776c5f298500d7dced7dd1c" sha1="29206a0844104613c6fb34c021684ce64732daa3"/>
 	</game>
 	<game name="Yong-ui Byeol Varnir - Ecdysis of the Dragon - Pre-Order Bonus CD - Special Sound Track (Korea) (PS4 Game Bundle)" id="127201">
 		<category>Bonus Discs</category>

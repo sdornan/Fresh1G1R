@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,464) (-y) [-aAbBcefkmMoprv] (2026-10-15 23-53-23) (Retool)</description>
-		<version>2026-10-15 23-53-23</version>
-		<date>2026-10-16 06-58-52</date>
+		<description>IBM - PC compatible (26,469) (-y) [-aAbBcefkmMoprv] (2026-10-17 00-43-35) (Retool)</description>
+		<version>2026-10-17 00-43-35</version>
+		<date>2026-10-17 06-50-46</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -35924,6 +35924,12 @@
 		<rom name="Craps-Blackjack &amp; Video Poker (USA).bin" size="35442288" crc="5dd25c40" md5="a4986c8a63aa7e229fc9bb7c4ea62e95" sha1="75a74ec15b7788be5cf9e034945ddc0346a5038a"/>
 		<rom name="Craps-Blackjack &amp; Video Poker (USA).cue" size="101" crc="006c8528" md5="3908a69723609135b325a462faf449d5" sha1="468c5a181c3905603b9c719f022c2968049c50aa"/>
 	</game>
+	<game name="Crash Time 4 - The Syndicate (Germany) (En,Fr,De)" id="139423">
+		<category>Games</category>
+		<description>Crash Time 4: The Syndicate (Germany) (En,Fr,De)</description>
+		<version>4.1.0.0</version>
+		<rom name="Crash Time 4 - The Syndicate (Germany) (En,Fr,De).iso" size="3516203008" crc="02a0aeeb" md5="2ca07ecaad3e33c729ae5e53860eb72a" sha1="5b7d0d0e3b575ef09f5dc7a251ff85dd17ca38bd"/>
+	</game>
 	<game name="Crashday (Russia) (Disc 1)" id="92153">
 		<category>Games</category>
 		<description>Crashday (Russia) (Disc 1)</description>
@@ -53114,6 +53120,12 @@
 		<rom name="EarthSiege 2 (USA) (En,Fr,De) (Rerelease) (1997-09-11) (Track 7).bin" size="26262432" crc="8235d72a" md5="d61a56aaf30e266a32080a96e2094f17" sha1="03664fc49938ae1982faff4c2d0315aa50ddcb96"/>
 		<rom name="EarthSiege 2 (USA) (En,Fr,De) (Rerelease) (1997-09-11).cue" size="1041" crc="61d9a97d" md5="ba287cea25b7badf74cf1cf796caf166" sha1="6569e6dd0d0942e31d153a3f76509aea46a5182e"/>
 	</game>
+	<game name="Earthion (USA)" id="139430">
+		<category>Games</category>
+		<description>Earthion (USA)</description>
+		<rom name="Earthion (USA).bin" size="62219808" crc="d39e584e" md5="5673501c52e35b2d7f91f0474ac6665b" sha1="1996bad45d1f7b51c4582b30c7897421cb37839d"/>
+		<rom name="Earthion (USA).cue" size="80" crc="9c5358dc" md5="eedbb76f499847aaae6a29043f4d8ecd" sha1="af018de4d1c6865272b39b14e7598b0fe6d48781"/>
+	</game>
 	<game name="Earthlock - Festival of Magic (Australia)" id="128851">
 		<category>Games</category>
 		<description>Earthlock: Festival of Magic (Australia)</description>
@@ -54303,12 +54315,13 @@
 		<rom name="Elder Scrolls III, The - Morrowind (Australia) (Disc 1).bin" size="796203744" crc="68d3e7f5" md5="432b11b91918c1e11d75317c33ba7af5" sha1="0dfedc68eab87bd6209d5562586a1bd643f8bd83"/>
 		<rom name="Elder Scrolls III, The - Morrowind (Australia) (Disc 1).cue" size="121" crc="ae3a9835" md5="8e7d680f31e63a19939ccb5aa02bcfa5" sha1="bc3df1810dc7efe62425bbc6f8129e99131f45b2"/>
 	</game>
-	<game name="Elder Scrolls III, The - Morrowind (USA)" id="21802">
+	<game name="Elder Scrolls III, The - Morrowind (USA, Europe) (OEM)" id="32115">
 		<category>Games</category>
-		<description>Elder Scrolls III, The: Morrowind (USA)</description>
+		<description>Elder Scrolls III, The: Morrowind (USA, Europe) (OEM)</description>
+		<serial>V239-1</serial>
 		<version>1.00.417</version>
-		<rom name="Elder Scrolls III, The - Morrowind (USA).bin" size="788886672" crc="52b483c8" md5="2b602cc8367af59dc045865ae4cffaf4" sha1="4915cac13adb24901c6b4a6b8b96d9f4eaaccc33"/>
-		<rom name="Elder Scrolls III, The - Morrowind (USA).cue" size="106" crc="f67d8ad4" md5="acb6c72360058c264115d0f5ce1cb502" sha1="0c6ef102eb36587f4ba33d091911610d31b65e59"/>
+		<rom name="Elder Scrolls III, The - Morrowind (USA, Europe) (OEM).bin" size="788886672" crc="e7e24019" md5="e8ffa953b49e44a531b8216f5c826f7d" sha1="cad0c5f2e24a3c4ff2cbf132da6a4f7ed2a45883"/>
+		<rom name="Elder Scrolls III, The - Morrowind (USA, Europe) (OEM).cue" size="120" crc="6488842e" md5="e2760555f55b78dee76805664a5543b8" sha1="87a9022a66cd1fdd5b5b5ceebc45b3dcca5466da"/>
 	</game>
 	<game name="Elder Scrolls III, The - Morrowind - Game of the Year Edition (UK) (Rerelease)" id="81372">
 		<category>Games</category>
@@ -111261,14 +111274,14 @@
 		<description>Men of Valor (USA) (Disc 2)</description>
 		<version>1.0</version>
 		<rom name="Men of Valor (USA) (Disc 2).bin" size="795211200" crc="e1ce3ed7" md5="76e6f65673285d3c8f1c3d33d77195f7" sha1="050adf99085417c8a56cd7b7520ee341c7bc9792"/>
-		<rom name="Men of Valor (USA) (Disc 2).cue" size="116" crc="fd64ce73" md5="cf29f786897a37389dbc12cf2ce5d35a" sha1="52954a4437f68376d3025eecd4c73c56a5b28554"/>
+		<rom name="Men of Valor (USA) (Disc 2).cue" size="116" crc="917e801c" md5="c4b06fd065af2fafb80fee5c73ecc894" sha1="7ba938bddd93a1f079fa8f5687dc2139e071e210"/>
 	</game>
 	<game name="Men of Valor (USA) (Disc 3)" id="46328">
 		<category>Games</category>
 		<description>Men of Valor (USA) (Disc 3)</description>
 		<version>1.0</version>
 		<rom name="Men of Valor (USA) (Disc 3).bin" size="795211200" crc="55b27865" md5="fe86c5f55219f9eda2849c47e27c29bc" sha1="f36cfc5e928226dffa05c6cb686f64d41bbdf46f"/>
-		<rom name="Men of Valor (USA) (Disc 3).cue" size="116" crc="f6e512f2" md5="daae644519ec3e1e2476c08efa283e2c" sha1="c31e8e6b3a7a91234b21beebb5429b24ecc8d25a"/>
+		<rom name="Men of Valor (USA) (Disc 3).cue" size="116" crc="9aff5c9d" md5="253f972a37fcdaf81bb3133c6f5f4bb2" sha1="192abc0df2c837f1e9b990c1670df405d56e9524"/>
 	</game>
 	<game name="Men of Valor (USA) (Disc 4)" id="46329">
 		<category>Games</category>
@@ -111748,6 +111761,52 @@
 		<serial>WIC-5791</serial>
 		<rom name="Meta-Doll Ai (Japan).bin" size="661391808" crc="39e74b91" md5="bc0b0a6e0a4439f551c2095824c23b65" sha1="e1830dd5739db3a8d1fc2d967dc125ea0cade13f"/>
 		<rom name="Meta-Doll Ai (Japan).cue" size="86" crc="ba0b7557" md5="56478e9b1f7f5edb10afbdeadb36f854" sha1="e89d5c9c35b596a6b33f652ea0685ee1f0668daa"/>
+	</game>
+	<game name="Metal Conflict (France) (Disc 1)" id="139417">
+		<category>Games</category>
+		<description>Metal Conflict (France) (Disc 1)</description>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 01).bin" size="579756240" crc="005ccff1" md5="229570ee7169752f8326427fe6bb2628" sha1="a9db455e0c8a6dfd91058f322c92e43575762751"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 02).bin" size="45301872" crc="ca419820" md5="9a06d204e66e753cf646345683af293b" sha1="624b4594d9bd730851703f446edfd2e78ea08fe6"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 03).bin" size="28567392" crc="4870823e" md5="88d2f547c584db78c7692617c3c645ff" sha1="24829d898d5310a63b3e3bb1b7b029d6a06680be"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 04).bin" size="20610576" crc="6f779b52" md5="a0e35c981dd624b933becc0db581b13e" sha1="2f6d09d30a6af6857497f8c585b669fcc2ec9435"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 05).bin" size="17282496" crc="1443da72" md5="ccf60ee1b75d614ce2cc015fff5d771a" sha1="46c35a098aa0d84c8c3fb48e6b8a068466d0fc8e"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 06).bin" size="20935152" crc="c2dc3146" md5="7ed3f67a475913daa45faa9bb42384cb" sha1="aa1accb2f80131d394993e0c190118d079030885"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 07).bin" size="20457696" crc="f41a07cf" md5="b831b6b77dda5cd0c63403f28edd53c9" sha1="fe5d58ea2df116e37df550dc5ea1cd8266ef8858"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 08).bin" size="11898768" crc="87fc0908" md5="9790f4fbd76a93f6cdb1a1b2e871de4e" sha1="8704c1ec3d2d4cf3a9a95e3ccb2cad6604086313"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 09).bin" size="15123360" crc="f20bc088" md5="8270270e0f04c86e427ed7d62648f15d" sha1="cad995dfd546db7d8c0bed534d59b4636dc518a1"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 10).bin" size="9730224" crc="e95be195" md5="30232f165e179dc601181732ab9cb1f2" sha1="5eb41e7832079c8ad37c352f9746bb5baf2b74ec"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 11).bin" size="10348800" crc="83ff5fc6" md5="7a10ff4967ede78c7344fbd4ad732d29" sha1="22121c4dd85fa065f68d1ca87fcdc2481261f819"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 12).bin" size="12465600" crc="077135ff" md5="f7b33d2c7ec178397e077d9d424c4490" sha1="7633322ff3bc89d1c1e10b8ad6ed7e8e9c021e58"/>
+		<rom name="Metal Conflict (France) (Disc 1) (Track 13).bin" size="1232448" crc="2dc0e4cf" md5="12f36ce5982596bf6affd38c8cb40418" sha1="546a9adc51fe1522088cb08a4564051785e80fbf"/>
+		<rom name="Metal Conflict (France) (Disc 1).cue" size="1633" crc="3219d416" md5="8ea26beb133b2e0152c1f0aa351a987c" sha1="a13b368a7b55f9d4e16e7c60eab09ea83d890d86"/>
+	</game>
+	<game name="Metal Conflict (France) (Disc 2)" id="139418">
+		<category>Games</category>
+		<description>Metal Conflict (France) (Disc 2)</description>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 01).bin" size="366921408" crc="f63f3873" md5="5585a9f08e01a384e405bb19307bcf5d" sha1="0a6cc20979f215a0b59ac53cf9c3ef8bd0fd6b9b"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 02).bin" size="45301872" crc="09845eb2" md5="43c836c2df4317126c7794b884be6ade" sha1="a48989135d1693a9e463cf15eaf37bed0895b6d4"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 03).bin" size="26229504" crc="4474ad1e" md5="fb26828e23b845f150d566c3b60355d7" sha1="131acbdec8d972919a00b9f8985d0ad17f952011"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 04).bin" size="21624288" crc="8bd69e1f" md5="ebf1865018a981cb9e061d95f59749ab" sha1="a4651dea7745edb9cbd669be5fcfedb470abc6a6"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 05).bin" size="20231904" crc="64bc26a7" md5="b1240be0aca45e4e397010b070f277ad" sha1="d451cbadc4baf3aad29694e65eca2101b877c29f"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 06).bin" size="16670976" crc="d17ab76e" md5="8632189baa965291f0a206f0416f3fef" sha1="ffee4e98923091e0a94faf88fe75bdb344962f08"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 07).bin" size="17127264" crc="24c05187" md5="dc0adbc20543ecc6b436851a32da5d30" sha1="85229e57252a86338f90171a525f4884f66a1b55"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 08).bin" size="14718816" crc="fddd47fb" md5="e2602b18acf9f91baddec72fc1e12dcb" sha1="fa3b72c043c62ceffb73933ff576cf10dd757825"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 09).bin" size="12018720" crc="93510e31" md5="a7cc0b50d4bcd75c7494d0ed288d3825" sha1="e33aa8560a3db08805f0a3c0a2d9ea39eb6033de"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 10).bin" size="14768208" crc="d8eb08da" md5="7a1ccc3519f4382f7a78b81c0f266a3c" sha1="6861dc0682ee00c507523960296c0c455285f7a0"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 11).bin" size="12985392" crc="e6a7dba2" md5="ced273f3ccc62cab66e77173db694201" sha1="48df3110fa45f29259a68530139839e09ffda58e"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 12).bin" size="11430720" crc="c20beaa0" md5="c1fa7d6733645edd619dee124f6d6468" sha1="5dc3a7b83bd25df80226feeb5e6facaa80801c34"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 13).bin" size="30914688" crc="49747271" md5="2b975cd020b01213c30ed59c68eb5ab1" sha1="33e5dfb8a09a925da77affd83d9736e3a54d6107"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 14).bin" size="22026480" crc="f12fb8c0" md5="ce8114e79b8b8cdaffcf99a9ad89cb55" sha1="e963373e1642540b4d73a838ba321e22be2d7c05"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 15).bin" size="25552128" crc="fdf5579c" md5="b5b1f0ab156350a4ea859a23a14e054c" sha1="484e26bbb8ffe1c83ce60b050b4dd41a4c4535ba"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 16).bin" size="27048000" crc="cc55ac75" md5="f9cb64d52819369c76c193eb6344edf2" sha1="38b468bc87fd3ebe558d353c13d93cb8fbc9e905"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 17).bin" size="25241664" crc="744efe5b" md5="0452cecf6618032d6afb943af22b1b86" sha1="8f0ea5fbf49ac9b29e09128bc5a67237bb7880fb"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 18).bin" size="11447184" crc="19fda4a0" md5="10596a28f3e774cd1d81157c3b5903cf" sha1="1e16ea31b40ffdcba30eed16f7544a07579fca22"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 19).bin" size="12707856" crc="f71df1f9" md5="ae0c8054136a2bd3a5da5c9f161a83aa" sha1="a3058ddd5385b9b4c53b8d52d4602508d68021e5"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 20).bin" size="11195520" crc="2ddd027c" md5="5f363bc559b9da1c5e70ca3d3e8282ea" sha1="122fcb0148d1f93f4bca063d7371008f35089231"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 21).bin" size="15920688" crc="ab25d472" md5="d87d2c5ca83ef3313a338985ed5dd849" sha1="9b1d0e0c23d3b65b52fce86bbd590b9d6dc31527"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 22).bin" size="12846624" crc="604f4c15" md5="4b8356d30efc0a2eb4395ad12bde21ff" sha1="3f48e2436b0a053d1180e3bb7279369382824b03"/>
+		<rom name="Metal Conflict (France) (Disc 2) (Track 23).bin" size="16221744" crc="64240a32" md5="14286ada24965488ce51ecc99dfd4fdc" sha1="29c005ed007eec4b045bf71ab67c41f92d2b0da3"/>
+		<rom name="Metal Conflict (France) (Disc 2).cue" size="2903" crc="3a0de9fc" md5="b27027e7a642bcb009d70b265a210348" sha1="53482c3bf02e2b4c9b1d8a219f5d49906f8f654c"/>
 	</game>
 	<game name="Metal Fatigue (USA) (Disc 1)" id="74868">
 		<category>Games</category>
@@ -156261,7 +156320,7 @@
 		<serial>35077.101.US</serial>
 		<version>1.0</version>
 		<rom name="SeaWorld Adventure Parks Tycoon 2 (USA).bin" size="127854720" crc="678222ce" md5="a6642c7bf96637e77162d57541b28ab1" sha1="8388ed810f13087d89b376b41b6288ecc205d75d"/>
-		<rom name="SeaWorld Adventure Parks Tycoon 2 (USA).cue" size="128" crc="0a4f308b" md5="1017ad352fa391678c46e869bc9e6bad" sha1="53469082244ebb889297d3e57f08d968a62df0e8"/>
+		<rom name="SeaWorld Adventure Parks Tycoon 2 (USA).cue" size="105" crc="959c8942" md5="8a989b72162dead9441873296004abb3" sha1="af0580967bbcfff29d33c672185a872920ea4d40"/>
 	</game>
 	<game name="Seabass Fishing (Japan)" id="122494">
 		<category>Games</category>
@@ -163113,6 +163172,14 @@
 		<serial>SIAE 9826PA</serial>
 		<rom name="Sierra Sports Golf (Italy) (Covermount).bin" size="673713936" crc="2ea90af2" md5="25b5a1fb8e6aa273318c2d281e8764eb" sha1="a3dac8cedd8f3a7d758b49d7f41334664c1a7671"/>
 		<rom name="Sierra Sports Golf (Italy) (Covermount).cue" size="105" crc="d135d033" md5="c0158d5ad856c0c779a4874c1e3345a8" sha1="d7c6971b51df9cf8bf115a98a6800949b5fce1dc"/>
+	</game>
+	<game name="Sierra Studios Sampler CD - Fall 1999 (USA)" id="139441">
+		<category>Demos</category>
+		<description>Sierra Studios Sampler CD: Fall 1999 (USA)</description>
+		<rom name="Sierra Studios Sampler CD - Fall 1999 (USA) (Track 1).bin" size="509257392" crc="1587a190" md5="ffb43b39ad99fbf53c58cf4a58f01cc8" sha1="90d19ab01f75e02a50bdfffeb73f9aae06fc97d9"/>
+		<rom name="Sierra Studios Sampler CD - Fall 1999 (USA) (Track 2).bin" size="23265984" crc="34a946cd" md5="69d69c171745b90f0d8c500e34428669" sha1="bfcfc1b28bc5703ef34735784091b1fb0dfcfb7a"/>
+		<rom name="Sierra Studios Sampler CD - Fall 1999 (USA) (Track 3).bin" size="17303664" crc="02557c14" md5="58c71008d7df96d3cff1035900e5b8ce" sha1="1c470b372f34bb9f6d63c4751d598b2b41bdbc4d"/>
+		<rom name="Sierra Studios Sampler CD - Fall 1999 (USA).cue" size="416" crc="5e674789" md5="2b4eb91cda4a80257c6222e34a3ccf25" sha1="84bdc05eed615a6ef6f5915f54d04bb1cacc4f29"/>
 	</game>
 	<game name="Sierra Super Sampler (USA)" id="117144">
 		<category>Demos</category>
@@ -176011,7 +176078,7 @@
 		<serial>28424 CD1 v1.0</serial>
 		<version>1.0</version>
 		<rom name="Suffering, The (USA) (Disc 1).bin" size="788886672" crc="1c1f9db3" md5="5402e1789de517920b6c340fda07a382" sha1="2eed629e3b3710acfa09da0669c18065b26213b8"/>
-		<rom name="Suffering, The (USA) (Disc 1).cue" size="118" crc="d34e613a" md5="ca20a307ff1ced3277ee90242ec77cf2" sha1="827e6d1e6bb9ea7d08135323048a4daff988ca83"/>
+		<rom name="Suffering, The (USA) (Disc 1).cue" size="95" crc="8aa695ba" md5="7d161e2421fb8d9c4d902ffa9d93564e" sha1="84ee77dd084734f3b478f35dd80abc1108331784"/>
 	</game>
 	<game name="Suffering, The (USA) (Disc 2)" id="49563">
 		<category>Games</category>
@@ -176019,7 +176086,7 @@
 		<serial>28424 CD2 v1.0</serial>
 		<version>1.0</version>
 		<rom name="Suffering, The (USA) (Disc 2).bin" size="774428928" crc="e3c80aab" md5="d323e5809427876bacd8c8a3ec24bcc0" sha1="83542cf226fd35b3053e0a134eba150467be8323"/>
-		<rom name="Suffering, The (USA) (Disc 2).cue" size="118" crc="28d1a22e" md5="3503a080c9b1596e0c33df0bbe222c55" sha1="1e9b204444893ecab6480ace68ffc11ac534f902"/>
+		<rom name="Suffering, The (USA) (Disc 2).cue" size="95" crc="8bfbb36b" md5="2a97343bd61155361294c5e9d212254d" sha1="dab9160ba68559962bf952bba4d2ce7257c0f010"/>
 	</game>
 	<game name="Suffering, The - Krovnye uzy (Russia)" id="86589">
 		<category>Games</category>
@@ -183463,47 +183530,6 @@
 		<rom name="To Aru Tennyo no Rasen Senkou - Iku-san Driller (Japan).bin" size="45000816" crc="ba41e624" md5="79c139b9b01a7e1806079b56f9b6da23" sha1="756ef7b8c755d9c68249c34ee06182f9cd9293a2"/>
 		<rom name="To Aru Tennyo no Rasen Senkou - Iku-san Driller (Japan).cue" size="121" crc="99b6cf43" md5="82b256f5ea75cf296b260fbbc21f73c8" sha1="1a0111818e897db3ad63897dc1e33049c0df0aa4"/>
 	</game>
-	<game name="To Heart (Japan)" id="114961">
-		<category>Games</category>
-		<description>To Heart (Japan)</description>
-		<version>1.00</version>
-		<rom name="To Heart (Japan) (Track 01).bin" size="47228160" crc="aa094e16" md5="bebbafb924902b585d5521f561dd92a3" sha1="ebbbcd6f7380015d67a7296d2ce9aa5ca1f03b97"/>
-		<rom name="To Heart (Japan) (Track 02).bin" size="2147376" crc="d36910b5" md5="316a3b7b062605bd6aff91825e50ad40" sha1="aab81d1b8db72b83bdc0204a6fce8a6c4a104701"/>
-		<rom name="To Heart (Japan) (Track 03).bin" size="23891616" crc="1fd31a0e" md5="4dded71f352c98e76dc54287417dbba3" sha1="5c299ed3c663b2f98dbc4d64d1f202f44923e251"/>
-		<rom name="To Heart (Japan) (Track 04).bin" size="14081424" crc="55b2632e" md5="0f6f64fcf9accbf1543d9d0a6b852145" sha1="62ae92d1c62d72b9870263856b2a5b5964a2c6a6"/>
-		<rom name="To Heart (Japan) (Track 05).bin" size="13582800" crc="f4151578" md5="7bb162c9f09cbfcb0fd17760e625a9aa" sha1="d94541a23627a4bfa846bb9af8b325887652b1ca"/>
-		<rom name="To Heart (Japan) (Track 06).bin" size="23966880" crc="f8f6e3c2" md5="20a0213da822188383081f169c82fbc0" sha1="8ba45761871d8ed5d193cc9ee917a9683d642315"/>
-		<rom name="To Heart (Japan) (Track 07).bin" size="28221648" crc="18578df7" md5="4967460d034a7c61827ae4bee7ee3b7a" sha1="3033107736d21a6bc1efa82b4a985a4652c4d0c9"/>
-		<rom name="To Heart (Japan) (Track 08).bin" size="22976688" crc="a7185b3f" md5="339e6a922db3d51c80386364a7a1df21" sha1="3e2290b28d1ccfc20f25ac9703eb1e7e783c7f4e"/>
-		<rom name="To Heart (Japan) (Track 09).bin" size="29524656" crc="20fee437" md5="c211a47fe2203fd1a1e0d8474c563cb8" sha1="de2a23fbdfa3bef9537c1eddc58e680102c836fb"/>
-		<rom name="To Heart (Japan) (Track 10).bin" size="26810448" crc="9a876aeb" md5="03d6fc9bb79486ea214282aed387720d" sha1="ec117852c8bd3c8f933d999ceca17c370f5d113a"/>
-		<rom name="To Heart (Japan) (Track 11).bin" size="23423568" crc="ee5ba1b5" md5="1f9b2d5cf21adee0b1417d5e92991e95" sha1="ce8d7756017ff1fbb6556b6c5db7dd9a01153c50"/>
-		<rom name="To Heart (Japan) (Track 12).bin" size="18910080" crc="e3eb6bc7" md5="e07fb49d8f6f76895f0212f93b843671" sha1="2e93d8482fd9c7eebf787cf08b8456a98eae4fd3"/>
-		<rom name="To Heart (Japan) (Track 13).bin" size="21795984" crc="a32dbfdd" md5="bb4e968d9ecb6323c71407e3d9f032d8" sha1="6060e4750ff6879a642325b655dae391c8a12749"/>
-		<rom name="To Heart (Japan) (Track 14).bin" size="24512544" crc="5dc43d18" md5="879e13f30e075db3b877a813de01f843" sha1="54ed015e7c8206c3c0206357fbc764b982510523"/>
-		<rom name="To Heart (Japan) (Track 15).bin" size="27257328" crc="d73eac7c" md5="ddc7d0f775f7cb7a62142c1936a3a439" sha1="ec83fc1808b4e9200d5fd31f0c9508a395a800e1"/>
-		<rom name="To Heart (Japan) (Track 16).bin" size="25872000" crc="cb4b5942" md5="c9881dca0894a8b855f37588b0a31117" sha1="7ce6258dd3a22e6f6f08f3a9e3b421d29d084914"/>
-		<rom name="To Heart (Japan) (Track 17).bin" size="22440432" crc="9847e2eb" md5="752abfef4236831a1b7ad197f28951c7" sha1="e73cf5aca82154ff556dafdc2d6c0de5a821b5d0"/>
-		<rom name="To Heart (Japan) (Track 18).bin" size="13314672" crc="ea98506d" md5="db4e635d81233a8368750099ba8c7fbe" sha1="e319eed7899aa9cc40a4dd5c2b4d746f54a68428"/>
-		<rom name="To Heart (Japan) (Track 19).bin" size="8119104" crc="3a4c013e" md5="b90ae426523f1d63ce86c24878583743" sha1="09d867aa14e76708bfef9a27a8ee6887c926c44a"/>
-		<rom name="To Heart (Japan) (Track 20).bin" size="14485968" crc="4952b901" md5="f743e3318834408bc7183a08aaed9f0f" sha1="6cbbecd840ae0e72d319253820a7eaf6a1ac6eda"/>
-		<rom name="To Heart (Japan) (Track 21).bin" size="26048400" crc="1b85283c" md5="803db6845b5238a553e6d693724d8c36" sha1="98da5da6b425b38234648b47b765b43b041b412d"/>
-		<rom name="To Heart (Japan) (Track 22).bin" size="20161344" crc="28816167" md5="db45ad0c35644189dacf97d843c69625" sha1="dc14123bea3fdc49863529030d031603ed34430c"/>
-		<rom name="To Heart (Japan) (Track 23).bin" size="32071872" crc="4d76f435" md5="e0ef2cb2606222df173b87779f03f6c9" sha1="cedaa090ced4f9d79858439fcda3dbfa5b64f056"/>
-		<rom name="To Heart (Japan) (Track 24).bin" size="23809296" crc="37e8288d" md5="e9081a35234b4b667f9aceb989de3b29" sha1="de4f540b7e7de64a701de32d155ae47af5f1b133"/>
-		<rom name="To Heart (Japan) (Track 25).bin" size="13286448" crc="abb0af6e" md5="58cbfd9029f00eea1500c09ff04482bc" sha1="115875f5a9b60f7f0973ed770d76b1b0ed6e5c61"/>
-		<rom name="To Heart (Japan) (Track 26).bin" size="14591808" crc="afe61627" md5="6ec80cb087eb5dae4291b42d89aeb635" sha1="5acca247ef9ed9766927e26951bdb9222c4032d8"/>
-		<rom name="To Heart (Japan) (Track 27).bin" size="13524000" crc="2be77b76" md5="55b5e82cc9220025c9e40318a0259f12" sha1="679841cdc5ac6a78d61cd13ada1221e2bba96f53"/>
-		<rom name="To Heart (Japan) (Track 28).bin" size="16511040" crc="c8af2d05" md5="343889a0ba5cd150fb9c2968a12b8003" sha1="e821d90c6723dd59ad1f7151139bb62968d69d41"/>
-		<rom name="To Heart (Japan) (Track 29).bin" size="11068512" crc="61d3ad79" md5="0b20d18764bd0e6301e4a275e9162274" sha1="eadc8f13e7efe9e5848abb4cb314b96fff4148bc"/>
-		<rom name="To Heart (Japan) (Track 30).bin" size="16654512" crc="15e5710d" md5="4b62275f5885da976f8af70568bda235" sha1="96661b78e721af267774c5a711006a646e92a854"/>
-		<rom name="To Heart (Japan) (Track 31).bin" size="21424368" crc="f20c5922" md5="c657004c79579f24fe78823f421fac14" sha1="03c8a4273ac593162cc4d2858d7e3be58bb8c0e6"/>
-		<rom name="To Heart (Japan) (Track 32).bin" size="23204832" crc="0513f4a4" md5="f184640ec8a42eff6106a11b35e073f3" sha1="8416fb9b015b01708041c6b8804c8c7716196a54"/>
-		<rom name="To Heart (Japan) (Track 33).bin" size="16252320" crc="fc8353cd" md5="aef2c8edf3fee92b0f6fe553e29663d5" sha1="64f6e51b70af69f905674f98aa0fa4c7e2cd2d37"/>
-		<rom name="To Heart (Japan) (Track 34).bin" size="17035536" crc="25c2ab1e" md5="670e5ac0f6c105940428671d58b4d728" sha1="de46c7edfd6091ac70b61c99ca26283acde78065"/>
-		<rom name="To Heart (Japan) (Track 35).bin" size="32060112" crc="29975932" md5="62db7447e441a817b45fec4f473190e0" sha1="d85115a0ee0b52626b5c10dc23c5e0fbf9c30c90"/>
-		<rom name="To Heart (Japan).cue" size="3867" crc="449ce0a7" md5="9428b6180dc00868398c20ff542ece2d" sha1="d51912b367231efc48636bfafedc92a46c154794"/>
-	</game>
 	<game name="To Serve and Command (USA)" id="129762">
 		<category>Games</category>
 		<description>To Serve and Command (USA)</description>
@@ -183523,6 +183549,47 @@
 		<serial>GERMAMG086</serial>
 		<rom name="To the Moon (Germany) (En,De) (Installationsdisc).bin" size="177122064" crc="430c148e" md5="7c326491a59681e85a10eafe6c767adb" sha1="bb38640f17f35ca2dc56f067c6748ded347b02bc"/>
 		<rom name="To the Moon (Germany) (En,De) (Installationsdisc).cue" size="115" crc="2af102b7" md5="574c32018ed8561d2cbeef81f7495ce4" sha1="1c5eb8e5bbd56b736689faaae13bc0f961db53ce"/>
+	</game>
+	<game name="ToHeart (Japan)" id="114961">
+		<category>Games</category>
+		<description>ToHeart (Japan)</description>
+		<version>1.00</version>
+		<rom name="ToHeart (Japan) (Track 01).bin" size="47228160" crc="aa094e16" md5="bebbafb924902b585d5521f561dd92a3" sha1="ebbbcd6f7380015d67a7296d2ce9aa5ca1f03b97"/>
+		<rom name="ToHeart (Japan) (Track 02).bin" size="2147376" crc="d36910b5" md5="316a3b7b062605bd6aff91825e50ad40" sha1="aab81d1b8db72b83bdc0204a6fce8a6c4a104701"/>
+		<rom name="ToHeart (Japan) (Track 03).bin" size="23891616" crc="1fd31a0e" md5="4dded71f352c98e76dc54287417dbba3" sha1="5c299ed3c663b2f98dbc4d64d1f202f44923e251"/>
+		<rom name="ToHeart (Japan) (Track 04).bin" size="14081424" crc="55b2632e" md5="0f6f64fcf9accbf1543d9d0a6b852145" sha1="62ae92d1c62d72b9870263856b2a5b5964a2c6a6"/>
+		<rom name="ToHeart (Japan) (Track 05).bin" size="13582800" crc="f4151578" md5="7bb162c9f09cbfcb0fd17760e625a9aa" sha1="d94541a23627a4bfa846bb9af8b325887652b1ca"/>
+		<rom name="ToHeart (Japan) (Track 06).bin" size="23966880" crc="f8f6e3c2" md5="20a0213da822188383081f169c82fbc0" sha1="8ba45761871d8ed5d193cc9ee917a9683d642315"/>
+		<rom name="ToHeart (Japan) (Track 07).bin" size="28221648" crc="18578df7" md5="4967460d034a7c61827ae4bee7ee3b7a" sha1="3033107736d21a6bc1efa82b4a985a4652c4d0c9"/>
+		<rom name="ToHeart (Japan) (Track 08).bin" size="22976688" crc="a7185b3f" md5="339e6a922db3d51c80386364a7a1df21" sha1="3e2290b28d1ccfc20f25ac9703eb1e7e783c7f4e"/>
+		<rom name="ToHeart (Japan) (Track 09).bin" size="29524656" crc="20fee437" md5="c211a47fe2203fd1a1e0d8474c563cb8" sha1="de2a23fbdfa3bef9537c1eddc58e680102c836fb"/>
+		<rom name="ToHeart (Japan) (Track 10).bin" size="26810448" crc="9a876aeb" md5="03d6fc9bb79486ea214282aed387720d" sha1="ec117852c8bd3c8f933d999ceca17c370f5d113a"/>
+		<rom name="ToHeart (Japan) (Track 11).bin" size="23423568" crc="ee5ba1b5" md5="1f9b2d5cf21adee0b1417d5e92991e95" sha1="ce8d7756017ff1fbb6556b6c5db7dd9a01153c50"/>
+		<rom name="ToHeart (Japan) (Track 12).bin" size="18910080" crc="e3eb6bc7" md5="e07fb49d8f6f76895f0212f93b843671" sha1="2e93d8482fd9c7eebf787cf08b8456a98eae4fd3"/>
+		<rom name="ToHeart (Japan) (Track 13).bin" size="21795984" crc="a32dbfdd" md5="bb4e968d9ecb6323c71407e3d9f032d8" sha1="6060e4750ff6879a642325b655dae391c8a12749"/>
+		<rom name="ToHeart (Japan) (Track 14).bin" size="24512544" crc="5dc43d18" md5="879e13f30e075db3b877a813de01f843" sha1="54ed015e7c8206c3c0206357fbc764b982510523"/>
+		<rom name="ToHeart (Japan) (Track 15).bin" size="27257328" crc="d73eac7c" md5="ddc7d0f775f7cb7a62142c1936a3a439" sha1="ec83fc1808b4e9200d5fd31f0c9508a395a800e1"/>
+		<rom name="ToHeart (Japan) (Track 16).bin" size="25872000" crc="cb4b5942" md5="c9881dca0894a8b855f37588b0a31117" sha1="7ce6258dd3a22e6f6f08f3a9e3b421d29d084914"/>
+		<rom name="ToHeart (Japan) (Track 17).bin" size="22440432" crc="9847e2eb" md5="752abfef4236831a1b7ad197f28951c7" sha1="e73cf5aca82154ff556dafdc2d6c0de5a821b5d0"/>
+		<rom name="ToHeart (Japan) (Track 18).bin" size="13314672" crc="ea98506d" md5="db4e635d81233a8368750099ba8c7fbe" sha1="e319eed7899aa9cc40a4dd5c2b4d746f54a68428"/>
+		<rom name="ToHeart (Japan) (Track 19).bin" size="8119104" crc="3a4c013e" md5="b90ae426523f1d63ce86c24878583743" sha1="09d867aa14e76708bfef9a27a8ee6887c926c44a"/>
+		<rom name="ToHeart (Japan) (Track 20).bin" size="14485968" crc="4952b901" md5="f743e3318834408bc7183a08aaed9f0f" sha1="6cbbecd840ae0e72d319253820a7eaf6a1ac6eda"/>
+		<rom name="ToHeart (Japan) (Track 21).bin" size="26048400" crc="1b85283c" md5="803db6845b5238a553e6d693724d8c36" sha1="98da5da6b425b38234648b47b765b43b041b412d"/>
+		<rom name="ToHeart (Japan) (Track 22).bin" size="20161344" crc="28816167" md5="db45ad0c35644189dacf97d843c69625" sha1="dc14123bea3fdc49863529030d031603ed34430c"/>
+		<rom name="ToHeart (Japan) (Track 23).bin" size="32071872" crc="4d76f435" md5="e0ef2cb2606222df173b87779f03f6c9" sha1="cedaa090ced4f9d79858439fcda3dbfa5b64f056"/>
+		<rom name="ToHeart (Japan) (Track 24).bin" size="23809296" crc="37e8288d" md5="e9081a35234b4b667f9aceb989de3b29" sha1="de4f540b7e7de64a701de32d155ae47af5f1b133"/>
+		<rom name="ToHeart (Japan) (Track 25).bin" size="13286448" crc="abb0af6e" md5="58cbfd9029f00eea1500c09ff04482bc" sha1="115875f5a9b60f7f0973ed770d76b1b0ed6e5c61"/>
+		<rom name="ToHeart (Japan) (Track 26).bin" size="14591808" crc="afe61627" md5="6ec80cb087eb5dae4291b42d89aeb635" sha1="5acca247ef9ed9766927e26951bdb9222c4032d8"/>
+		<rom name="ToHeart (Japan) (Track 27).bin" size="13524000" crc="2be77b76" md5="55b5e82cc9220025c9e40318a0259f12" sha1="679841cdc5ac6a78d61cd13ada1221e2bba96f53"/>
+		<rom name="ToHeart (Japan) (Track 28).bin" size="16511040" crc="c8af2d05" md5="343889a0ba5cd150fb9c2968a12b8003" sha1="e821d90c6723dd59ad1f7151139bb62968d69d41"/>
+		<rom name="ToHeart (Japan) (Track 29).bin" size="11068512" crc="61d3ad79" md5="0b20d18764bd0e6301e4a275e9162274" sha1="eadc8f13e7efe9e5848abb4cb314b96fff4148bc"/>
+		<rom name="ToHeart (Japan) (Track 30).bin" size="16654512" crc="15e5710d" md5="4b62275f5885da976f8af70568bda235" sha1="96661b78e721af267774c5a711006a646e92a854"/>
+		<rom name="ToHeart (Japan) (Track 31).bin" size="21424368" crc="f20c5922" md5="c657004c79579f24fe78823f421fac14" sha1="03c8a4273ac593162cc4d2858d7e3be58bb8c0e6"/>
+		<rom name="ToHeart (Japan) (Track 32).bin" size="23204832" crc="0513f4a4" md5="f184640ec8a42eff6106a11b35e073f3" sha1="8416fb9b015b01708041c6b8804c8c7716196a54"/>
+		<rom name="ToHeart (Japan) (Track 33).bin" size="16252320" crc="fc8353cd" md5="aef2c8edf3fee92b0f6fe553e29663d5" sha1="64f6e51b70af69f905674f98aa0fa4c7e2cd2d37"/>
+		<rom name="ToHeart (Japan) (Track 34).bin" size="17035536" crc="25c2ab1e" md5="670e5ac0f6c105940428671d58b4d728" sha1="de46c7edfd6091ac70b61c99ca26283acde78065"/>
+		<rom name="ToHeart (Japan) (Track 35).bin" size="32060112" crc="29975932" md5="62db7447e441a817b45fec4f473190e0" sha1="d85115a0ee0b52626b5c10dc23c5e0fbf9c30c90"/>
+		<rom name="ToHeart (Japan).cue" size="3832" crc="2e2ac604" md5="2ac7fa661449b1cae7770de78922cd36" sha1="5719e4541c43d1e79141a2703beb3fc6c1a7bf06"/>
 	</game>
 	<game name="ToHeart 2 - X Rated (Japan)" id="114962">
 		<category>Games</category>
