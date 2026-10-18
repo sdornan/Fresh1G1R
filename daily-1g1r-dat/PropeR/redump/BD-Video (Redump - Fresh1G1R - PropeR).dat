@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>BD-Video (Retool)</name>
-		<description>BD-Video (110) (-y) [-aAbBcdkmMpPuv] (2026-10-14 05-50-17) (Retool)</description>
-		<version>2026-10-14 05-50-17</version>
-		<date>2026-10-17 07-01-58</date>
+		<description>BD-Video (111) (-y) [-aAbBcdkmMpPuv] (2026-10-18 00-53-35) (Retool)</description>
+		<version>2026-10-18 00-53-35</version>
+		<date>2026-10-18 07-19-51</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -440,6 +440,11 @@
 		<description>Ratchet &amp; Clank: The Movie (Japan) (En,Ja) (PS4 Game Bundle)</description>
 		<serial>IFB-005</serial>
 		<rom name="Ratchet &amp; Clank - The Movie (Japan) (En,Ja) (PS4 Game Bundle).iso" size="23927128064" crc="09f223b8" md5="cd5b5f61092e1a1196d02fd4be3e39c5" sha1="c8c4e086913fa7aa6427377c8d359ea6202a872c"/>
+	</game>
+	<game name="Ray'z Music Live - Strahl - Visual File (Japan) (PS4 Game Bundle)" id="139452">
+		<category>Bonus Discs</category>
+		<description>Ray'z Music Live: Strahl: Visual File (Japan) (PS4 Game Bundle)</description>
+		<rom name="Ray'z Music Live - Strahl - Visual File (Japan) (PS4 Game Bundle).iso" size="24098570240" crc="af333ffb" md5="0ddaf28082b9277889ccd9dda0a60e63" sha1="19558ef0137963eadbd0926f5196b95e11045f97"/>
 	</game>
 	<game name="Resident Evil 5 (USA) (Bonus Disc) (PS3 Game Bundle)" id="43349">
 		<category>Bonus Discs</category>

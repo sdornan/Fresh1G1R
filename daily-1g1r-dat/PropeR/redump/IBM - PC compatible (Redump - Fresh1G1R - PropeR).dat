@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,043) (-y) [-aAbBcdkmMpPuv] (2026-10-17 00-43-35) (Retool)</description>
-		<version>2026-10-17 00-43-35</version>
-		<date>2026-10-17 07-02-45</date>
+		<description>IBM - PC compatible (27,046) (-y) [-aAbBcdkmMpPuv] (2026-10-18 04-03-35) (Retool)</description>
+		<version>2026-10-18 04-03-35</version>
+		<date>2026-10-18 07-20-25</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -49992,13 +49992,13 @@
 		<serial>TZB00011834UND</serial>
 		<rom name="Doom 3 - BFG Edition (USA) (En,Fr,Es).iso" size="3983671296" crc="12ff3b9a" md5="667c96ea4373a43edd06d322115b1496" sha1="73caf8c7b31f08be957ea36cff565c2918222fda"/>
 	</game>
-	<game name="Doom 3 - Resurrection of Evil (World)" id="13010">
+	<game name="Doom 3 - Resurrection of Evil (Taiwan, World)" id="13010">
 		<category>Add-Ons</category>
-		<description>Doom 3: Resurrection of Evil (World)</description>
-		<serial>32649.101.IT, 32649.101.UK, 32649.101.US</serial>
+		<description>Doom 3: Resurrection of Evil (Taiwan, World)</description>
+		<serial>32649.101.IT, 32649.101.UK, 32649.101.US, 32649.101.AU</serial>
 		<version>1.0</version>
-		<rom name="Doom 3 - Resurrection of Evil (World).bin" size="775821312" crc="ac356de2" md5="424f57d26bb332d5ab49a2a852c78199" sha1="da041e66da9f958e564fd62acfc91670750ce22b"/>
-		<rom name="Doom 3 - Resurrection of Evil (World).cue" size="103" crc="a8411376" md5="4b877fac3c4b12737e51111acea873c6" sha1="c6c9ab5c7f14ddbea145f1c6947863bc99666866"/>
+		<rom name="Doom 3 - Resurrection of Evil (Taiwan, World).bin" size="775821312" crc="ac356de2" md5="424f57d26bb332d5ab49a2a852c78199" sha1="da041e66da9f958e564fd62acfc91670750ce22b"/>
+		<rom name="Doom 3 - Resurrection of Evil (Taiwan, World).cue" size="111" crc="d1da919a" md5="d238284ec8a95c5a3d6b9066b6f5fd4e" sha1="a3f3b691f44a72c8baa0c2c153e5a53ba3a09f3b"/>
 	</game>
 	<game name="Doom Companion CD-ROM (USA)" id="4440">
 		<category>Add-Ons</category>
@@ -108042,12 +108042,12 @@
 		<rom name="Madeline Rainy Day Activities (USA).bin" size="671190240" crc="c77630c6" md5="7fb44f31309608c9c1c4722400123450" sha1="3a0d351682e11c2b5d6988a1d2dc47f125a94a05"/>
 		<rom name="Madeline Rainy Day Activities (USA).cue" size="124" crc="51ff570d" md5="64c28979c335d0b559b43c964c15ba03" sha1="24805df21bf77d77fb3e1c3d57df495c9b2f5b21"/>
 	</game>
-	<game name="Madeline Thinking Games (USA)" id="116968">
+	<game name="Madeline Thinking Games (USA)" id="139444">
 		<category>Educational</category>
 		<description>Madeline Thinking Games (USA)</description>
-		<serial>MPS844AE-CD</serial>
-		<rom name="Madeline Thinking Games (USA).bin" size="763249872" crc="70d1b287" md5="43613d6ab6a57b3b6aa3e45c5b9763f1" sha1="d5742f4d53e316eca63367cf98b67c306aceef66"/>
-		<rom name="Madeline Thinking Games (USA).cue" size="95" crc="2438d31b" md5="a1f4ae85ba8c6c942aa4c46982aa8ff4" sha1="71fdce879fe8089ab27382976d236334cdaf228b"/>
+		<serial>9492</serial>
+		<rom name="Madeline Thinking Games (USA).bin" size="707963760" crc="e33106d3" md5="23efe4194aab4ad845caa4b7abae79d8" sha1="7d38de069c250a7d90432a7ae76ac93bbbee3df8"/>
+		<rom name="Madeline Thinking Games (USA).cue" size="118" crc="db6bb53d" md5="0617d9b4f1e677f9308a30be21772c5b" sha1="afc97bc402c6b122b2f2f10b54afd0d16b6cfdd7"/>
 	</game>
 	<game name="Madeline Thinking Games Deluxe (USA) (Disc 1) (Thinking Games)" id="84929">
 		<category>Educational</category>
@@ -108520,15 +108520,6 @@
 		<version>2.0</version>
 		<rom name="Magic - The Gathering - Spells of the Ancients (Europe).bin" size="670343520" crc="aee7d5a3" md5="fd90f17c37aeb14d9fd3c90854c370d3" sha1="58e7cd1b16513ff330765e20723771a6193b9d19"/>
 		<rom name="Magic - The Gathering - Spells of the Ancients (Europe).cue" size="121" crc="cacbfff8" md5="5d2d350a3669e4b41c1fd966f7477731" sha1="66464f386ba30d08ec9d696dac4d005c17fba90d"/>
-	</game>
-	<game name="Magic - The Gathering - Starter Level (USA) (Seventh Edition)" id="65596">
-		<category>Games</category>
-		<description>Magic: The Gathering: Starter Level (USA) (Seventh Edition)</description>
-		<rom name="Magic - The Gathering - Starter Level (USA) (Seventh Edition) (Track 1).bin" size="137081616" crc="14f90aee" md5="cb02a469b9b282aa4b7e763773a7bb5b" sha1="748101fdaf69cd0936756723638420431d7df2c5"/>
-		<rom name="Magic - The Gathering - Starter Level (USA) (Seventh Edition) (Track 2).bin" size="10713360" crc="edc56373" md5="482dfca0a162fafab0f7036c686954a3" sha1="532870b0c33f2dbbcae37174efc8068c8a92bbc7"/>
-		<rom name="Magic - The Gathering - Starter Level (USA) (Seventh Edition) (Track 3).bin" size="19364016" crc="cd8d2cd2" md5="f89c4f77263d9d8a1337c5c81b7215ae" sha1="73af5096e4912570f84ed67c6fe3fc2779c5ec4c"/>
-		<rom name="Magic - The Gathering - Starter Level (USA) (Seventh Edition) (Track 4).bin" size="1063104" crc="23188016" md5="40ab510a97a7876c80fc0e518369be43" sha1="7138e40323078a8b173fe926b1fb036155321625"/>
-		<rom name="Magic - The Gathering - Starter Level (USA) (Seventh Edition).cue" size="602" crc="94ff9f2c" md5="c3c244fa2c722355a359e7c2591b6e3a" sha1="296c43925d77e974ff380a39532e9020a19dc57b"/>
 	</game>
 	<game name="Magic - The Gathering - Starter Level (USA) (Sixth Edition)" id="83699">
 		<category>Games</category>
@@ -118074,6 +118065,12 @@
 		<rom name="Mighty Morphin Power Rangers - Jigsaw Puzzles (USA) (Track 8).bin" size="11757648" crc="d602e81d" md5="2b9dfd4148cf860f2eb6c42cc1394811" sha1="110aba2f76015dce70131cf472a8786646e67295"/>
 		<rom name="Mighty Morphin Power Rangers - Jigsaw Puzzles (USA).cue" size="1247" crc="39f518e9" md5="11d6e0230ac90c8b918948338e6c9d95" sha1="2e07ecc8628bd2eb162463e306d81aede5a8a18f"/>
 	</game>
+	<game name="Mighty Morphin' Power Rangers - Create-A-Movie (USA)" id="139447">
+		<category>Games</category>
+		<description>Mighty Morphin' Power Rangers: Create-A-Movie (USA)</description>
+		<rom name="Mighty Morphin' Power Rangers - Create-A-Movie (USA).bin" size="646364880" crc="3b6286da" md5="5d8f587c459bda013fccb5addfffc8a9" sha1="93ff80f88cd93944e9276fe1ea1c43cb5b646b00"/>
+		<rom name="Mighty Morphin' Power Rangers - Create-A-Movie (USA).cue" size="118" crc="232140d2" md5="81b34ddf5c10c6590b67d2a7ba1ee72d" sha1="10744c61c72aa2f787885db9d09f8e655425566a"/>
+	</game>
 	<game name="Mighty No. 9 (Spain) (En,Ja,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)" id="133666">
 		<category>Games</category>
 		<description>Mighty No. 9 (Spain) (En,Ja,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)</description>
@@ -120927,6 +120924,12 @@
 		<version>2.1</version>
 		<rom name="Monster Bash (USA).bin" size="4104240" crc="569dbb01" md5="0c0fd682e8744f37bab7962d170d585f" sha1="87727126083101572d3b90643c81ddc9594490fd"/>
 		<rom name="Monster Bash (USA).cue" size="84" crc="04fd8460" md5="9faec2c07b8105dbff30c8162026686c" sha1="46f44725c15fcde6ef4f239e70da950d04665435"/>
+	</game>
+	<game name="Monster Commands - The Key to Killer Productivity (USA)" id="139456">
+		<category>Educational</category>
+		<description>Monster Commands: The Key to Killer Productivity (USA)</description>
+		<rom name="Monster Commands - The Key to Killer Productivity (USA).bin" size="26184816" crc="d5f33e69" md5="e9197146f68c0a62f8f46147e3bf7cc5" sha1="d96d6ed61011a89bbe371593fc7985adfeee788d"/>
+		<rom name="Monster Commands - The Key to Killer Productivity (USA).cue" size="121" crc="333ee60a" md5="b92ecfbcb3cd1f1d2b9e89d159eab132" sha1="72241271688822ce933dde8437b7c785bcbee34e"/>
 	</game>
 	<game name="Monster Garage (USA)" id="117889">
 		<category>Games</category>
@@ -157140,6 +157143,11 @@
 		<serial>35619./101.US</serial>
 		<rom name="SCORE International Baja 1000 - The Official Game (USA).iso" size="629899264" crc="e19fca78" md5="852b053736ab61da7509fa2f3e7608a8" sha1="60eccace77c9e61a14c55a7e3e8a4345ef2c3f71"/>
 	</game>
+	<game name="SD Gundam - Capsule Fighter Online (Hong Kong)" id="139457">
+		<category>Games</category>
+		<description>SD Gundam: Capsule Fighter Online (Hong Kong)</description>
+		<rom name="SD Gundam - Capsule Fighter Online (Hong Kong).iso" size="1079902208" crc="037d6226" md5="d99cc64e04323b2d02db0b07e8a34284" sha1="33934a1e7400906fd3520fd31a424ed1324f8c2c"/>
+	</game>
 	<game name="SD Gundam - GGeneration DA (Japan)" id="30725">
 		<category>Games</category>
 		<description>SD Gundam: GGeneration DA (Japan)</description>
@@ -189097,6 +189105,47 @@
 		<rom name="To Aru Tennyo no Rasen Senkou - Iku-san Driller (Japan).bin" size="45000816" crc="ba41e624" md5="79c139b9b01a7e1806079b56f9b6da23" sha1="756ef7b8c755d9c68249c34ee06182f9cd9293a2"/>
 		<rom name="To Aru Tennyo no Rasen Senkou - Iku-san Driller (Japan).cue" size="121" crc="99b6cf43" md5="82b256f5ea75cf296b260fbbc21f73c8" sha1="1a0111818e897db3ad63897dc1e33049c0df0aa4"/>
 	</game>
+	<game name="To Heart (Japan)" id="114961">
+		<category>Games</category>
+		<description>To Heart (Japan)</description>
+		<version>1.00</version>
+		<rom name="To Heart (Japan) (Track 01).bin" size="47228160" crc="aa094e16" md5="bebbafb924902b585d5521f561dd92a3" sha1="ebbbcd6f7380015d67a7296d2ce9aa5ca1f03b97"/>
+		<rom name="To Heart (Japan) (Track 02).bin" size="2147376" crc="d36910b5" md5="316a3b7b062605bd6aff91825e50ad40" sha1="aab81d1b8db72b83bdc0204a6fce8a6c4a104701"/>
+		<rom name="To Heart (Japan) (Track 03).bin" size="23891616" crc="1fd31a0e" md5="4dded71f352c98e76dc54287417dbba3" sha1="5c299ed3c663b2f98dbc4d64d1f202f44923e251"/>
+		<rom name="To Heart (Japan) (Track 04).bin" size="14081424" crc="55b2632e" md5="0f6f64fcf9accbf1543d9d0a6b852145" sha1="62ae92d1c62d72b9870263856b2a5b5964a2c6a6"/>
+		<rom name="To Heart (Japan) (Track 05).bin" size="13582800" crc="f4151578" md5="7bb162c9f09cbfcb0fd17760e625a9aa" sha1="d94541a23627a4bfa846bb9af8b325887652b1ca"/>
+		<rom name="To Heart (Japan) (Track 06).bin" size="23966880" crc="f8f6e3c2" md5="20a0213da822188383081f169c82fbc0" sha1="8ba45761871d8ed5d193cc9ee917a9683d642315"/>
+		<rom name="To Heart (Japan) (Track 07).bin" size="28221648" crc="18578df7" md5="4967460d034a7c61827ae4bee7ee3b7a" sha1="3033107736d21a6bc1efa82b4a985a4652c4d0c9"/>
+		<rom name="To Heart (Japan) (Track 08).bin" size="22976688" crc="a7185b3f" md5="339e6a922db3d51c80386364a7a1df21" sha1="3e2290b28d1ccfc20f25ac9703eb1e7e783c7f4e"/>
+		<rom name="To Heart (Japan) (Track 09).bin" size="29524656" crc="20fee437" md5="c211a47fe2203fd1a1e0d8474c563cb8" sha1="de2a23fbdfa3bef9537c1eddc58e680102c836fb"/>
+		<rom name="To Heart (Japan) (Track 10).bin" size="26810448" crc="9a876aeb" md5="03d6fc9bb79486ea214282aed387720d" sha1="ec117852c8bd3c8f933d999ceca17c370f5d113a"/>
+		<rom name="To Heart (Japan) (Track 11).bin" size="23423568" crc="ee5ba1b5" md5="1f9b2d5cf21adee0b1417d5e92991e95" sha1="ce8d7756017ff1fbb6556b6c5db7dd9a01153c50"/>
+		<rom name="To Heart (Japan) (Track 12).bin" size="18910080" crc="e3eb6bc7" md5="e07fb49d8f6f76895f0212f93b843671" sha1="2e93d8482fd9c7eebf787cf08b8456a98eae4fd3"/>
+		<rom name="To Heart (Japan) (Track 13).bin" size="21795984" crc="a32dbfdd" md5="bb4e968d9ecb6323c71407e3d9f032d8" sha1="6060e4750ff6879a642325b655dae391c8a12749"/>
+		<rom name="To Heart (Japan) (Track 14).bin" size="24512544" crc="5dc43d18" md5="879e13f30e075db3b877a813de01f843" sha1="54ed015e7c8206c3c0206357fbc764b982510523"/>
+		<rom name="To Heart (Japan) (Track 15).bin" size="27257328" crc="d73eac7c" md5="ddc7d0f775f7cb7a62142c1936a3a439" sha1="ec83fc1808b4e9200d5fd31f0c9508a395a800e1"/>
+		<rom name="To Heart (Japan) (Track 16).bin" size="25872000" crc="cb4b5942" md5="c9881dca0894a8b855f37588b0a31117" sha1="7ce6258dd3a22e6f6f08f3a9e3b421d29d084914"/>
+		<rom name="To Heart (Japan) (Track 17).bin" size="22440432" crc="9847e2eb" md5="752abfef4236831a1b7ad197f28951c7" sha1="e73cf5aca82154ff556dafdc2d6c0de5a821b5d0"/>
+		<rom name="To Heart (Japan) (Track 18).bin" size="13314672" crc="ea98506d" md5="db4e635d81233a8368750099ba8c7fbe" sha1="e319eed7899aa9cc40a4dd5c2b4d746f54a68428"/>
+		<rom name="To Heart (Japan) (Track 19).bin" size="8119104" crc="3a4c013e" md5="b90ae426523f1d63ce86c24878583743" sha1="09d867aa14e76708bfef9a27a8ee6887c926c44a"/>
+		<rom name="To Heart (Japan) (Track 20).bin" size="14485968" crc="4952b901" md5="f743e3318834408bc7183a08aaed9f0f" sha1="6cbbecd840ae0e72d319253820a7eaf6a1ac6eda"/>
+		<rom name="To Heart (Japan) (Track 21).bin" size="26048400" crc="1b85283c" md5="803db6845b5238a553e6d693724d8c36" sha1="98da5da6b425b38234648b47b765b43b041b412d"/>
+		<rom name="To Heart (Japan) (Track 22).bin" size="20161344" crc="28816167" md5="db45ad0c35644189dacf97d843c69625" sha1="dc14123bea3fdc49863529030d031603ed34430c"/>
+		<rom name="To Heart (Japan) (Track 23).bin" size="32071872" crc="4d76f435" md5="e0ef2cb2606222df173b87779f03f6c9" sha1="cedaa090ced4f9d79858439fcda3dbfa5b64f056"/>
+		<rom name="To Heart (Japan) (Track 24).bin" size="23809296" crc="37e8288d" md5="e9081a35234b4b667f9aceb989de3b29" sha1="de4f540b7e7de64a701de32d155ae47af5f1b133"/>
+		<rom name="To Heart (Japan) (Track 25).bin" size="13286448" crc="abb0af6e" md5="58cbfd9029f00eea1500c09ff04482bc" sha1="115875f5a9b60f7f0973ed770d76b1b0ed6e5c61"/>
+		<rom name="To Heart (Japan) (Track 26).bin" size="14591808" crc="afe61627" md5="6ec80cb087eb5dae4291b42d89aeb635" sha1="5acca247ef9ed9766927e26951bdb9222c4032d8"/>
+		<rom name="To Heart (Japan) (Track 27).bin" size="13524000" crc="2be77b76" md5="55b5e82cc9220025c9e40318a0259f12" sha1="679841cdc5ac6a78d61cd13ada1221e2bba96f53"/>
+		<rom name="To Heart (Japan) (Track 28).bin" size="16511040" crc="c8af2d05" md5="343889a0ba5cd150fb9c2968a12b8003" sha1="e821d90c6723dd59ad1f7151139bb62968d69d41"/>
+		<rom name="To Heart (Japan) (Track 29).bin" size="11068512" crc="61d3ad79" md5="0b20d18764bd0e6301e4a275e9162274" sha1="eadc8f13e7efe9e5848abb4cb314b96fff4148bc"/>
+		<rom name="To Heart (Japan) (Track 30).bin" size="16654512" crc="15e5710d" md5="4b62275f5885da976f8af70568bda235" sha1="96661b78e721af267774c5a711006a646e92a854"/>
+		<rom name="To Heart (Japan) (Track 31).bin" size="21424368" crc="f20c5922" md5="c657004c79579f24fe78823f421fac14" sha1="03c8a4273ac593162cc4d2858d7e3be58bb8c0e6"/>
+		<rom name="To Heart (Japan) (Track 32).bin" size="23204832" crc="0513f4a4" md5="f184640ec8a42eff6106a11b35e073f3" sha1="8416fb9b015b01708041c6b8804c8c7716196a54"/>
+		<rom name="To Heart (Japan) (Track 33).bin" size="16252320" crc="fc8353cd" md5="aef2c8edf3fee92b0f6fe553e29663d5" sha1="64f6e51b70af69f905674f98aa0fa4c7e2cd2d37"/>
+		<rom name="To Heart (Japan) (Track 34).bin" size="17035536" crc="25c2ab1e" md5="670e5ac0f6c105940428671d58b4d728" sha1="de46c7edfd6091ac70b61c99ca26283acde78065"/>
+		<rom name="To Heart (Japan) (Track 35).bin" size="32060112" crc="29975932" md5="62db7447e441a817b45fec4f473190e0" sha1="d85115a0ee0b52626b5c10dc23c5e0fbf9c30c90"/>
+		<rom name="To Heart (Japan).cue" size="3867" crc="449ce0a7" md5="9428b6180dc00868398c20ff542ece2d" sha1="d51912b367231efc48636bfafedc92a46c154794"/>
+	</game>
 	<game name="To Serve and Command (USA)" id="129762">
 		<category>Games</category>
 		<description>To Serve and Command (USA)</description>
@@ -189116,47 +189165,6 @@
 		<serial>GERMAMG086</serial>
 		<rom name="To the Moon (Germany) (En,De) (Installationsdisc).bin" size="177122064" crc="430c148e" md5="7c326491a59681e85a10eafe6c767adb" sha1="bb38640f17f35ca2dc56f067c6748ded347b02bc"/>
 		<rom name="To the Moon (Germany) (En,De) (Installationsdisc).cue" size="115" crc="2af102b7" md5="574c32018ed8561d2cbeef81f7495ce4" sha1="1c5eb8e5bbd56b736689faaae13bc0f961db53ce"/>
-	</game>
-	<game name="ToHeart (Japan)" id="114961">
-		<category>Games</category>
-		<description>ToHeart (Japan)</description>
-		<version>1.00</version>
-		<rom name="ToHeart (Japan) (Track 01).bin" size="47228160" crc="aa094e16" md5="bebbafb924902b585d5521f561dd92a3" sha1="ebbbcd6f7380015d67a7296d2ce9aa5ca1f03b97"/>
-		<rom name="ToHeart (Japan) (Track 02).bin" size="2147376" crc="d36910b5" md5="316a3b7b062605bd6aff91825e50ad40" sha1="aab81d1b8db72b83bdc0204a6fce8a6c4a104701"/>
-		<rom name="ToHeart (Japan) (Track 03).bin" size="23891616" crc="1fd31a0e" md5="4dded71f352c98e76dc54287417dbba3" sha1="5c299ed3c663b2f98dbc4d64d1f202f44923e251"/>
-		<rom name="ToHeart (Japan) (Track 04).bin" size="14081424" crc="55b2632e" md5="0f6f64fcf9accbf1543d9d0a6b852145" sha1="62ae92d1c62d72b9870263856b2a5b5964a2c6a6"/>
-		<rom name="ToHeart (Japan) (Track 05).bin" size="13582800" crc="f4151578" md5="7bb162c9f09cbfcb0fd17760e625a9aa" sha1="d94541a23627a4bfa846bb9af8b325887652b1ca"/>
-		<rom name="ToHeart (Japan) (Track 06).bin" size="23966880" crc="f8f6e3c2" md5="20a0213da822188383081f169c82fbc0" sha1="8ba45761871d8ed5d193cc9ee917a9683d642315"/>
-		<rom name="ToHeart (Japan) (Track 07).bin" size="28221648" crc="18578df7" md5="4967460d034a7c61827ae4bee7ee3b7a" sha1="3033107736d21a6bc1efa82b4a985a4652c4d0c9"/>
-		<rom name="ToHeart (Japan) (Track 08).bin" size="22976688" crc="a7185b3f" md5="339e6a922db3d51c80386364a7a1df21" sha1="3e2290b28d1ccfc20f25ac9703eb1e7e783c7f4e"/>
-		<rom name="ToHeart (Japan) (Track 09).bin" size="29524656" crc="20fee437" md5="c211a47fe2203fd1a1e0d8474c563cb8" sha1="de2a23fbdfa3bef9537c1eddc58e680102c836fb"/>
-		<rom name="ToHeart (Japan) (Track 10).bin" size="26810448" crc="9a876aeb" md5="03d6fc9bb79486ea214282aed387720d" sha1="ec117852c8bd3c8f933d999ceca17c370f5d113a"/>
-		<rom name="ToHeart (Japan) (Track 11).bin" size="23423568" crc="ee5ba1b5" md5="1f9b2d5cf21adee0b1417d5e92991e95" sha1="ce8d7756017ff1fbb6556b6c5db7dd9a01153c50"/>
-		<rom name="ToHeart (Japan) (Track 12).bin" size="18910080" crc="e3eb6bc7" md5="e07fb49d8f6f76895f0212f93b843671" sha1="2e93d8482fd9c7eebf787cf08b8456a98eae4fd3"/>
-		<rom name="ToHeart (Japan) (Track 13).bin" size="21795984" crc="a32dbfdd" md5="bb4e968d9ecb6323c71407e3d9f032d8" sha1="6060e4750ff6879a642325b655dae391c8a12749"/>
-		<rom name="ToHeart (Japan) (Track 14).bin" size="24512544" crc="5dc43d18" md5="879e13f30e075db3b877a813de01f843" sha1="54ed015e7c8206c3c0206357fbc764b982510523"/>
-		<rom name="ToHeart (Japan) (Track 15).bin" size="27257328" crc="d73eac7c" md5="ddc7d0f775f7cb7a62142c1936a3a439" sha1="ec83fc1808b4e9200d5fd31f0c9508a395a800e1"/>
-		<rom name="ToHeart (Japan) (Track 16).bin" size="25872000" crc="cb4b5942" md5="c9881dca0894a8b855f37588b0a31117" sha1="7ce6258dd3a22e6f6f08f3a9e3b421d29d084914"/>
-		<rom name="ToHeart (Japan) (Track 17).bin" size="22440432" crc="9847e2eb" md5="752abfef4236831a1b7ad197f28951c7" sha1="e73cf5aca82154ff556dafdc2d6c0de5a821b5d0"/>
-		<rom name="ToHeart (Japan) (Track 18).bin" size="13314672" crc="ea98506d" md5="db4e635d81233a8368750099ba8c7fbe" sha1="e319eed7899aa9cc40a4dd5c2b4d746f54a68428"/>
-		<rom name="ToHeart (Japan) (Track 19).bin" size="8119104" crc="3a4c013e" md5="b90ae426523f1d63ce86c24878583743" sha1="09d867aa14e76708bfef9a27a8ee6887c926c44a"/>
-		<rom name="ToHeart (Japan) (Track 20).bin" size="14485968" crc="4952b901" md5="f743e3318834408bc7183a08aaed9f0f" sha1="6cbbecd840ae0e72d319253820a7eaf6a1ac6eda"/>
-		<rom name="ToHeart (Japan) (Track 21).bin" size="26048400" crc="1b85283c" md5="803db6845b5238a553e6d693724d8c36" sha1="98da5da6b425b38234648b47b765b43b041b412d"/>
-		<rom name="ToHeart (Japan) (Track 22).bin" size="20161344" crc="28816167" md5="db45ad0c35644189dacf97d843c69625" sha1="dc14123bea3fdc49863529030d031603ed34430c"/>
-		<rom name="ToHeart (Japan) (Track 23).bin" size="32071872" crc="4d76f435" md5="e0ef2cb2606222df173b87779f03f6c9" sha1="cedaa090ced4f9d79858439fcda3dbfa5b64f056"/>
-		<rom name="ToHeart (Japan) (Track 24).bin" size="23809296" crc="37e8288d" md5="e9081a35234b4b667f9aceb989de3b29" sha1="de4f540b7e7de64a701de32d155ae47af5f1b133"/>
-		<rom name="ToHeart (Japan) (Track 25).bin" size="13286448" crc="abb0af6e" md5="58cbfd9029f00eea1500c09ff04482bc" sha1="115875f5a9b60f7f0973ed770d76b1b0ed6e5c61"/>
-		<rom name="ToHeart (Japan) (Track 26).bin" size="14591808" crc="afe61627" md5="6ec80cb087eb5dae4291b42d89aeb635" sha1="5acca247ef9ed9766927e26951bdb9222c4032d8"/>
-		<rom name="ToHeart (Japan) (Track 27).bin" size="13524000" crc="2be77b76" md5="55b5e82cc9220025c9e40318a0259f12" sha1="679841cdc5ac6a78d61cd13ada1221e2bba96f53"/>
-		<rom name="ToHeart (Japan) (Track 28).bin" size="16511040" crc="c8af2d05" md5="343889a0ba5cd150fb9c2968a12b8003" sha1="e821d90c6723dd59ad1f7151139bb62968d69d41"/>
-		<rom name="ToHeart (Japan) (Track 29).bin" size="11068512" crc="61d3ad79" md5="0b20d18764bd0e6301e4a275e9162274" sha1="eadc8f13e7efe9e5848abb4cb314b96fff4148bc"/>
-		<rom name="ToHeart (Japan) (Track 30).bin" size="16654512" crc="15e5710d" md5="4b62275f5885da976f8af70568bda235" sha1="96661b78e721af267774c5a711006a646e92a854"/>
-		<rom name="ToHeart (Japan) (Track 31).bin" size="21424368" crc="f20c5922" md5="c657004c79579f24fe78823f421fac14" sha1="03c8a4273ac593162cc4d2858d7e3be58bb8c0e6"/>
-		<rom name="ToHeart (Japan) (Track 32).bin" size="23204832" crc="0513f4a4" md5="f184640ec8a42eff6106a11b35e073f3" sha1="8416fb9b015b01708041c6b8804c8c7716196a54"/>
-		<rom name="ToHeart (Japan) (Track 33).bin" size="16252320" crc="fc8353cd" md5="aef2c8edf3fee92b0f6fe553e29663d5" sha1="64f6e51b70af69f905674f98aa0fa4c7e2cd2d37"/>
-		<rom name="ToHeart (Japan) (Track 34).bin" size="17035536" crc="25c2ab1e" md5="670e5ac0f6c105940428671d58b4d728" sha1="de46c7edfd6091ac70b61c99ca26283acde78065"/>
-		<rom name="ToHeart (Japan) (Track 35).bin" size="32060112" crc="29975932" md5="62db7447e441a817b45fec4f473190e0" sha1="d85115a0ee0b52626b5c10dc23c5e0fbf9c30c90"/>
-		<rom name="ToHeart (Japan).cue" size="3832" crc="2e2ac604" md5="2ac7fa661449b1cae7770de78922cd36" sha1="5719e4541c43d1e79141a2703beb3fc6c1a7bf06"/>
 	</game>
 	<game name="ToHeart 2 - X Rated (Japan)" id="114962">
 		<category>Games</category>
@@ -212893,6 +212901,11 @@
 		<serial>FC06AUTUMN</serial>
 		<rom name="Ys Saishinsaku Ohirome Movie Demo Disc (Japan).bin" size="40141584" crc="09a04b81" md5="d6b8d2de704715b7a477750ca83dfa6c" sha1="0ade98cf9bf6747acae49cfd09a6369255fde1d3"/>
 		<rom name="Ys Saishinsaku Ohirome Movie Demo Disc (Japan).cue" size="112" crc="856ce247" md5="edcdb1157afe4cb75bcacd24fb9297ed" sha1="c1de40377fd72859bd38b90e7ebdd35f3d80ea17"/>
+	</game>
+	<game name="Ys Seven (Hong Kong)" id="139458">
+		<category>Games</category>
+		<description>Ys Seven (Hong Kong)</description>
+		<rom name="Ys Seven (Hong Kong).iso" size="1134034944" crc="fea6d14e" md5="b25d2405694dedfa4f1523d0a7ed29d8" sha1="502473239dd6f8b41b387a534c8961abffbac30c"/>
 	</game>
 	<game name="Ys Special Collection (Japan)" id="82788">
 		<category>Bonus Discs</category>

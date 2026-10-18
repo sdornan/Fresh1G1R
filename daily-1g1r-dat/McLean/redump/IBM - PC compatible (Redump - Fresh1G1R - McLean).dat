@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,610) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-17 00-43-35) (Retool)</description>
-		<version>2026-10-17 00-43-35</version>
-		<date>2026-10-17 06-57-01</date>
+		<description>IBM - PC compatible (13,610) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-18 04-03-35) (Retool)</description>
+		<version>2026-10-18 04-03-35</version>
+		<date>2026-10-18 07-16-01</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -56175,15 +56175,6 @@
 		<rom name="Magic - The Gathering - Spells of the Ancients (Europe).bin" size="670343520" crc="aee7d5a3" md5="fd90f17c37aeb14d9fd3c90854c370d3" sha1="58e7cd1b16513ff330765e20723771a6193b9d19"/>
 		<rom name="Magic - The Gathering - Spells of the Ancients (Europe).cue" size="121" crc="cacbfff8" md5="5d2d350a3669e4b41c1fd966f7477731" sha1="66464f386ba30d08ec9d696dac4d005c17fba90d"/>
 	</game>
-	<game name="Magic - The Gathering - Starter Level (USA) (Seventh Edition)" id="65596">
-		<category>Games</category>
-		<description>Magic: The Gathering: Starter Level (USA) (Seventh Edition)</description>
-		<rom name="Magic - The Gathering - Starter Level (USA) (Seventh Edition) (Track 1).bin" size="137081616" crc="14f90aee" md5="cb02a469b9b282aa4b7e763773a7bb5b" sha1="748101fdaf69cd0936756723638420431d7df2c5"/>
-		<rom name="Magic - The Gathering - Starter Level (USA) (Seventh Edition) (Track 2).bin" size="10713360" crc="edc56373" md5="482dfca0a162fafab0f7036c686954a3" sha1="532870b0c33f2dbbcae37174efc8068c8a92bbc7"/>
-		<rom name="Magic - The Gathering - Starter Level (USA) (Seventh Edition) (Track 3).bin" size="19364016" crc="cd8d2cd2" md5="f89c4f77263d9d8a1337c5c81b7215ae" sha1="73af5096e4912570f84ed67c6fe3fc2779c5ec4c"/>
-		<rom name="Magic - The Gathering - Starter Level (USA) (Seventh Edition) (Track 4).bin" size="1063104" crc="23188016" md5="40ab510a97a7876c80fc0e518369be43" sha1="7138e40323078a8b173fe926b1fb036155321625"/>
-		<rom name="Magic - The Gathering - Starter Level (USA) (Seventh Edition).cue" size="602" crc="94ff9f2c" md5="c3c244fa2c722355a359e7c2591b6e3a" sha1="296c43925d77e974ff380a39532e9020a19dc57b"/>
-	</game>
 	<game name="Magic - The Gathering - Starter Level (USA) (Sixth Edition)" id="83699">
 		<category>Games</category>
 		<description>Magic: The Gathering: Starter Level (USA) (Sixth Edition)</description>
@@ -61025,6 +61016,12 @@
 		<rom name="Mighty Morphin Power Rangers - Jigsaw Puzzles (USA) (Track 7).bin" size="55987008" crc="1db977c0" md5="dc96f083b593a03565332cf2c5a728f4" sha1="4f5a59009e4fd3c2b71a25b53e3197f2b4043aa6"/>
 		<rom name="Mighty Morphin Power Rangers - Jigsaw Puzzles (USA) (Track 8).bin" size="11757648" crc="d602e81d" md5="2b9dfd4148cf860f2eb6c42cc1394811" sha1="110aba2f76015dce70131cf472a8786646e67295"/>
 		<rom name="Mighty Morphin Power Rangers - Jigsaw Puzzles (USA).cue" size="1247" crc="39f518e9" md5="11d6e0230ac90c8b918948338e6c9d95" sha1="2e07ecc8628bd2eb162463e306d81aede5a8a18f"/>
+	</game>
+	<game name="Mighty Morphin' Power Rangers - Create-A-Movie (USA)" id="139447">
+		<category>Games</category>
+		<description>Mighty Morphin' Power Rangers: Create-A-Movie (USA)</description>
+		<rom name="Mighty Morphin' Power Rangers - Create-A-Movie (USA).bin" size="646364880" crc="3b6286da" md5="5d8f587c459bda013fccb5addfffc8a9" sha1="93ff80f88cd93944e9276fe1ea1c43cb5b646b00"/>
+		<rom name="Mighty Morphin' Power Rangers - Create-A-Movie (USA).cue" size="118" crc="232140d2" md5="81b34ddf5c10c6590b67d2a7ba1ee72d" sha1="10744c61c72aa2f787885db9d09f8e655425566a"/>
 	</game>
 	<game name="Mighty No. 9 (Spain) (En,Ja,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)" id="133666">
 		<category>Games</category>

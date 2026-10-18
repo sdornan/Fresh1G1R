@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Audio CD (Retool)</name>
-		<description>Audio CD (2,408) (-y) [-aAbBcdkmMpPuv] (2026-10-17 00-03-35) (Retool)</description>
-		<version>2026-10-17 00-03-35</version>
-		<date>2026-10-17 07-01-57</date>
+		<description>Audio CD (2,411) (-y) [-aAbBcdkmMpPuv] (2026-10-17 22-03-35) (Retool)</description>
+		<version>2026-10-17 22-03-35</version>
+		<date>2026-10-18 07-19-50</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -18060,6 +18060,24 @@
 		<rom name="Gouen no Soleil - Chaos Region - Original Soundtrack (Japan) (PC Game Bundle) (Track 16).bin" size="36611232" crc="1a151e6f" md5="abf21c74c992e7987082f4e01890670f" sha1="d91d288ac403ac4f2514222a1a25004aca366cb4"/>
 		<rom name="Gouen no Soleil - Chaos Region - Original Soundtrack (Japan) (PC Game Bundle) (Track 17).bin" size="56158704" crc="e9cbf8c4" md5="29297f79ba3e199ff886494b3e450c95" sha1="e5a102318de4a2ccd524220aa96a9ceaf4708cbe"/>
 		<rom name="Gouen no Soleil - Chaos Region - Original Soundtrack (Japan) (PC Game Bundle).cue" size="2901" crc="f647b6b8" md5="99c75fbce2ec5c79612f09b4af7c4d00" sha1="0955d85b4ae8704b4db5b35f0107ef86282b4761"/>
+	</game>
+	<game name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle)" id="139455">
+		<category>Bonus Discs</category>
+		<description>Granblue Fantasy: Relink: Special Soundtrack (Japan) (PS4 Game Bundle)</description>
+		<serial>CYRP-0003</serial>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 01).bin" size="35679840" crc="5153cd45" md5="ef0367579f08fa892018d1bbb8852fcf" sha1="6356737c85c250b30f245c80d1fe18ea59955337"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 02).bin" size="2991744" crc="36493816" md5="9347514b820d4efe67275f189b6f29b5" sha1="b90125058f1d0050f957607f56dffc82bd532cee"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 03).bin" size="21835968" crc="9b17b1b9" md5="bfc352c9b1b4f74d680a393246e7d35d" sha1="a98051f5563f42aef3b23575467870bca31771b1"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 04).bin" size="45433584" crc="a12acbec" md5="0a08ec7b94ef24394bba26cd512a1cfb" sha1="1271f96073935ea9bf918e3c1690c75cd557e09a"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 05).bin" size="42288960" crc="84acc0f1" md5="5aec91b33209a1e22f15c405776f8631" sha1="aa135823259a9440a69fe78c784e70327220eda3"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 06).bin" size="41428128" crc="113294ef" md5="657fd9ee6536286cde039804528ed865" sha1="3c2d342141d0d594688cbb9cac88139810b9609b"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 07).bin" size="41103552" crc="9bfcbbf2" md5="9170c21c29a5dba9e2b441001ee23228" sha1="5b61d382bb6196b9b87b7e12986e14f41c974d50"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 08).bin" size="23745792" crc="2accdfe3" md5="c1560adbb707518d1ddca898e5232855" sha1="13ddfaae180dcdef045a7084fffca9e4e3030ba5"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 09).bin" size="22219344" crc="7af0d12b" md5="f5571dd91b2a2d173d805dd30eaffd2a" sha1="5938d1c69b354bf711ee6259b0975edad59f96de"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 10).bin" size="30526608" crc="54cc09f4" md5="662474c9d76185380fe55d0bb1e7bc17" sha1="137a40cb85a4198d1dbd1ad568131bd24093cfbf"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 11).bin" size="37102800" crc="d75416b8" md5="968a2268c816d6a9e91e3d641d86a747" sha1="58014e220d19eb73445fb8b4b8aa36f5a3315e65"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle) (Track 12).bin" size="35682192" crc="07eab630" md5="4953b742fb69d86c1b0e72869a356785" sha1="8505b7c0967b0ff426668d26718474d2f159ba4c"/>
+		<rom name="Granblue Fantasy - Relink - Special Soundtrack (Japan) (PS4 Game Bundle).cue" size="2234" crc="28152042" md5="489b13a555e0a5210c99ea2c0a5896f0" sha1="7428a2fbc0c24581f24d6e00834df5bbe63577b9"/>
 	</game>
 	<game name="Granblue Fantasy - Versus - Special Soundtrack (USA, Japan) (PS4 Game Bundle)" id="97427">
 		<category>Bonus Discs</category>
@@ -36850,6 +36868,39 @@
 		<rom name="Raspberry Cube Original Soundtrack (Japan) (PS4 Game Bundle) (Track 29).bin" size="23896320" crc="6ef31e37" md5="be9d9ef412d25b98dd27c5cac8f746fc" sha1="6ba2aea5fa64e90b02657cf2050fbe46a49894ca"/>
 		<rom name="Raspberry Cube Original Soundtrack (Japan) (PS4 Game Bundle) (Track 30).bin" size="27490176" crc="961329cd" md5="f5c0c456ae26759c44c7bf8678c4b6cf" sha1="1e13ff00099c8b54ce284d687ab9fb5834553cab"/>
 		<rom name="Raspberry Cube Original Soundtrack (Japan) (PS4 Game Bundle).cue" size="4627" crc="79e833a4" md5="de410eee098f6e0ea9f7ad0c5273ebe0" sha1="c63d95d4c52dedb1133e8e7dcdbe680d3a446963"/>
+	</game>
+	<game name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 1) (PS4 Game Bundle)" id="139453">
+		<category>Bonus Discs</category>
+		<description>Ray'z Music Live: Strahl: Audio File (Japan) (Disc 1) (PS4 Game Bundle)</description>
+		<serial>ZTTL-3023</serial>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 1) (PS4 Game Bundle) (Track 1).bin" size="313218192" crc="7fe8f245" md5="a804a69f17008a23822c92b0520eaad9" sha1="af7d7add4f00a38a99d9e6181d6c4452bbaee17f"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 1) (PS4 Game Bundle) (Track 2).bin" size="40221552" crc="9a94d523" md5="c9f326c426303b32aef9b2d0248ec856" sha1="6497d3126d2f40f121b8b19f6fbd9bc3619bea4a"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 1) (PS4 Game Bundle) (Track 3).bin" size="56445648" crc="bec5be1f" md5="d29ec7d16537f7ad8e36a076c437c857" sha1="d82636f7ba540dcd8347af3f5fac3a40e7e0e7ab"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 1) (PS4 Game Bundle) (Track 4).bin" size="43836576" crc="d966c4ae" md5="f837e953d34ec1ec5068d0f1fef41eba" sha1="7c1df7d4a698d6fd95a263a35db665f5afef0908"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 1) (PS4 Game Bundle) (Track 5).bin" size="49189728" crc="24fe85ac" md5="7b67ae1c420c43973b2ee1af447d334a" sha1="98601837132627f347bc58a3a5d5329d779196d0"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 1) (PS4 Game Bundle) (Track 6).bin" size="30651264" crc="e582426e" md5="64b35e28c9cf95e40fa77f551d109e4f" sha1="5869ed0c3a5ae8527fe96498bd0dbfade574b1dc"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 1) (PS4 Game Bundle) (Track 7).bin" size="32629296" crc="2056ab66" md5="d7e6c80a13612393d6f39497c9db22b2" sha1="fe9499a07fdf161a3e9c8f26fa19af306e68b9b2"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 1) (PS4 Game Bundle).cue" size="1169" crc="7b9d3c92" md5="05822ca953409a52d54343f8d98159c3" sha1="613719587ac4188eed1694be3ed786a8d590f2c5"/>
+	</game>
+	<game name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle)" id="139454">
+		<category>Bonus Discs</category>
+		<description>Ray'z Music Live: Strahl: Audio File (Japan) (Disc 2) (PS4 Game Bundle)</description>
+		<serial>ZTTL-3024</serial>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 01).bin" size="30752400" crc="2e687f79" md5="052fe9697f64a01ddc1a2f416674079c" sha1="6c7ebe81f2ef15ed6c3afa2545403b44bc71c567"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 02).bin" size="58684752" crc="7c6f5275" md5="1c65419a4d711f22393b274b26050b31" sha1="c1a5b7e8f7901630b666a31b12a0b86b4ecf3f63"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 03).bin" size="64811712" crc="213e56a7" md5="ebbe6d482dbc4a7150634addb41ac4c1" sha1="1b086e45a9e57cce296a470f8c641ae4b6429f9f"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 04).bin" size="40012224" crc="7b8a95ac" md5="b56dd3e23d44f2274edb3ce42c56222b" sha1="69b763465cdc9c4633281b915fa22d45f75acc1b"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 05).bin" size="52287312" crc="1b6d98e9" md5="18bd81dfb9404ea89c4a013396d28415" sha1="a63fe268b94a537520bf78419623447679945564"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 06).bin" size="40574352" crc="60bdb189" md5="b0408cb8fef88a2ea907caba8a3a416c" sha1="b915f970f731f0dd1bd1cec7d159651ff397ef38"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 07).bin" size="81875472" crc="a926f898" md5="3e7dd9cbed185525a7ed8247f86d2c44" sha1="0d95758cf1766c381688a4fc619f19cebbb0eab6"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 08).bin" size="63656880" crc="f6765fcf" md5="39f7239f9b74bf6d6c3dee6cb0e4c084" sha1="c6837f70424d73c035cae246050f46a15854852e"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 09).bin" size="42945168" crc="ed9e17a2" md5="26efde8406b4addc6e97a4c67f2f0512" sha1="b250a2daa8dd1013f14443435113f5ab9a48a8c7"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 10).bin" size="20217792" crc="bc893de6" md5="46e51eecce6650c956082e4e839b271b" sha1="3d44e47467090744a246e16cbf0d1cca5bfbdd2b"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 11).bin" size="55090896" crc="b2ff2047" md5="5b694b3e24269f7f884f31d5856597d6" sha1="3e34736595c30450670e4ba5e09138530e8e4415"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 12).bin" size="51967440" crc="ddcbdea7" md5="f3f468dd3a0174e6454129b32a8f358e" sha1="149b9ea9b1f38a5ba1289e146cfd1c3ec9a360a8"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 13).bin" size="2577792" crc="aaf34bcc" md5="4acfe7fd9fd4e6f587af4cd51af6db27" sha1="7998a43b98dd9e84c5de4f3150cfd743e1777063"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle) (Track 14).bin" size="53192832" crc="d7f05f03" md5="dd16d45180d56b2e13fc23dcf455b6f4" sha1="645b0bd6fc7449519fb3bc01c7fa17fead10c01a"/>
+		<rom name="Ray'z Music Live - Strahl - Audio File (Japan) (Disc 2) (PS4 Game Bundle).cue" size="2352" crc="df0c2cd7" md5="a1cf2ec4b9bcdfc041cdb798e6365348" sha1="555091affd5a14b77fd7cf38c1f7221f2951169d"/>
 	</game>
 	<game name="Rayman Origins Original Soundtrack (Russia) (Xbox 360 Game Bundle)" id="115947">
 		<category>Bonus Discs</category>

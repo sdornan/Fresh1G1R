@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii (Retool)</name>
-		<description>Nintendo - Wii (1,691) (-y) [-aAbBcefkmMoprv] (2026-10-16 20-03-35) (Retool)</description>
-		<version>2026-10-16 20-03-35</version>
-		<date>2026-10-17 06-51-08</date>
+		<description>Nintendo - Wii (1,693) (-y) [-aAbBcefkmMoprv] (2026-10-17 19-43-35) (Retool)</description>
+		<version>2026-10-17 19-43-35</version>
+		<date>2026-10-18 07-11-25</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -4454,11 +4454,17 @@
 		<serial>RVL-DD2P-EUR-B0</serial>
 		<rom name="Just Dance 2 (Europe) (En,Fr,De,Es,It) (Demo).iso" size="4699979776" crc="05e29bb9" md5="a1d7419e87907570b8729dd0d724e720" sha1="6b44da47138fe9501754bb734a00d39ab1113a2a"/>
 	</game>
-	<game name="Just Dance 2 (USA) (En,Fr,Es) (Best Buy Edition)" id="55561">
+	<game name="Just Dance 2 (USA) (En,Fr,Es)" id="42678">
 		<category>Games</category>
-		<description>Just Dance 2 (USA) (En,Fr,Es) (Best Buy Edition)</description>
+		<description>Just Dance 2 (USA) (En,Fr,Es)</description>
+		<serial>RVL-SD2E-USA-B0</serial>
+		<rom name="Just Dance 2 (USA) (En,Fr,Es).iso" size="4699979776" crc="ad05951b" md5="545c5a833dd274e0cc62d72d91559dca" sha1="2f0d8d52649585e6bc1ae8f9f6930c3291638e75"/>
+	</game>
+	<game name="Just Dance 2 (USA) (En,Fr,Es) (Best Buy)" id="55561">
+		<category>Games</category>
+		<description>Just Dance 2 (USA) (En,Fr,Es) (Best Buy)</description>
 		<serial>RVL-SD2Y-USA-B0</serial>
-		<rom name="Just Dance 2 (USA) (En,Fr,Es) (Best Buy Edition).iso" size="4699979776" crc="dfa4166b" md5="da7760fe9a43a9fb0fb391232d8f37a1" sha1="2455a26a7496b962e72fdafd08f0c9d2875ab0f8"/>
+		<rom name="Just Dance 2 (USA) (En,Fr,Es) (Best Buy).iso" size="4699979776" crc="dfa4166b" md5="da7760fe9a43a9fb0fb391232d8f37a1" sha1="2455a26a7496b962e72fdafd08f0c9d2875ab0f8"/>
 	</game>
 	<game name="Just Dance 2014 (USA) (En,Fr,Es)" id="29877">
 		<category>Games</category>
@@ -8467,11 +8473,17 @@
 		<serial>RVL-S7SP-EUR-B0</serial>
 		<rom name="Smurfs Party Pack, The (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).iso" size="4699979776" crc="3f9eb673" md5="1c80e19397babfedbc149bb4a41b8f24" sha1="e0dba6e325482f8c0d8580c37f0f91ae45aa9067"/>
 	</game>
-	<game name="Smurfs, The - Dance Party (USA) (Toys R Us)" id="47934">
+	<game name="Smurfs, The - Dance Party (USA)" id="20180">
 		<category>Games</category>
-		<description>Smurfs, The: Dance Party (USA) (Toys R Us)</description>
+		<description>Smurfs, The: Dance Party (USA)</description>
+		<serial>RVL-SDUE-USA-B0</serial>
+		<rom name="Smurfs, The - Dance Party (USA).iso" size="4699979776" crc="0845a979" md5="71daf4fd4f4c10d66a04decd73f31399" sha1="2af9163509065c52155717e3ad628a46a65332a4"/>
+	</game>
+	<game name="Smurfs, The - Dance Party (USA, Canada) (SDUX)" id="47934">
+		<category>Games</category>
+		<description>Smurfs, The: Dance Party (USA, Canada) (SDUX)</description>
 		<serial>RVL-SDUX-USA-B0</serial>
-		<rom name="Smurfs, The - Dance Party (USA) (Toys R Us).iso" size="4699979776" crc="97693eb5" md5="dd70b26dc9a54fa810950d3b4e9cca54" sha1="de81ddfb37388d98c2ca8d6defa6e29e97e7fbc0"/>
+		<rom name="Smurfs, The - Dance Party (USA, Canada) (SDUX).iso" size="4699979776" crc="97693eb5" md5="dd70b26dc9a54fa810950d3b4e9cca54" sha1="de81ddfb37388d98c2ca8d6defa6e29e97e7fbc0"/>
 	</game>
 	<game name="Sniper Elite (USA) (En,Fr,Es)" id="48256">
 		<category>Games</category>

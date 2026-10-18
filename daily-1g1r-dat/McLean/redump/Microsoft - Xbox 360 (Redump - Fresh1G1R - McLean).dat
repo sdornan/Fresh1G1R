@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,401) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-17 00-05-04) (Retool)</description>
-		<version>2026-10-17 00-05-04</version>
-		<date>2026-10-17 06-57-10</date>
+		<description>Microsoft - Xbox 360 (1,401) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-17 22-13-35) (Retool)</description>
+		<version>2026-10-17 22-13-35</version>
+		<date>2026-10-18 07-16-09</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2826,11 +2826,11 @@
 		<serial>AV-2245</serial>
 		<rom name="Family Guy - Back to the Multiverse (USA, Europe) (En,De,Es,It).iso" size="8738846720" crc="68ff3a76" md5="24723489a41a2ac6545e75916ccfb5fc" sha1="30c54b8f45c2507ea19b1e636943569f5d99e99b"/>
 	</game>
-	<game name="Fantastic Four - Rise of the Silver Surfer (USA)" id="100842">
+	<game name="Fantastic Four - Rise of the Silver Surfer (USA, Canada)" id="100842">
 		<category>Games</category>
-		<description>Fantastic Four: Rise of the Silver Surfer (USA)</description>
+		<description>Fantastic Four: Rise of the Silver Surfer (USA, Canada)</description>
 		<serial>TT-2045</serial>
-		<rom name="Fantastic Four - Rise of the Silver Surfer (USA).iso" size="7835492352" crc="4d5af1fe" md5="63308fe7ac18d8e33a06ff2cf70a1d03" sha1="59dfd059f25637180bfbb5fc6f5751051376b2e4"/>
+		<rom name="Fantastic Four - Rise of the Silver Surfer (USA, Canada).iso" size="7835492352" crc="4d5af1fe" md5="63308fe7ac18d8e33a06ff2cf70a1d03" sha1="59dfd059f25637180bfbb5fc6f5751051376b2e4"/>
 	</game>
 	<game name="Fantastic Pets (USA, Europe)" id="54528">
 		<category>Games</category>
@@ -2986,6 +2986,7 @@
 		<category>Games</category>
 		<description>Football Manager 2007 (Europe) (En,Fr,Es,It)</description>
 		<serial>SE-2023</serial>
+		<version>1913760</version>
 		<rom name="Football Manager 2007 (Europe) (En,Fr,Es,It).iso" size="7834892288" crc="ece7a62d" md5="53d00008d5a8e47e7508cc00864cfaa6" sha1="d56b63b2d6c6a28ff08137ddb80ea4b94ccb6cc4"/>
 	</game>
 	<game name="Football Manager 2008 (Europe) (En,Fr,De,Es,It)" id="89070">

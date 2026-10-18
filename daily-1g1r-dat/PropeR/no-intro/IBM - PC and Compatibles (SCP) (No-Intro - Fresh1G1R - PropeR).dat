@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>IBM - PC and Compatibles (SCP) (Retool)</name>
-		<description>IBM - PC and Compatibles (SCP) (207) (-y) [-aAbBcdkmMpPuv] (20230507-112016) (Retool)</description>
-		<version>20230507-112016</version>
-		<date>2026-10-17 07-07-46</date>
-		<author>FakeShemp, Gefflon, Hiccup, MeguCocoa, xuom2</author>
+		<description>IBM - PC and Compatibles (SCP) (208) (-y) [-aAbBcdkmMpPuv] (20261017-032157) (Retool)</description>
+		<version>20261017-032157</version>
+		<date>2026-10-18 07-22-42</date>
+		<author>FakeShemp, Gefflon, Hiccup, MeguCocoa, xuom2, Ytorm</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -690,6 +690,11 @@
 		<category>Games</category>
 		<description>Sensible Soccer (v1.1) (Unknown)</description>
 		<rom name="Sensible Soccer (v1.1) (Unknown).scp" size="61859115" crc="44c40b98" md5="41101941ff9566c0ad55bcf148f81139" sha1="1dc97f9c62110c2d451c4cc63818c8850d1a767a"/>
+	</game>
+	<game name="Sfida Olimpica (Italy)" id="3567">
+		<category>Games</category>
+		<description>Sfida Olimpica (Italy)</description>
+		<rom name="Sfida Olimpica (Italy).scp" size="24358464" crc="a95ea9e8" md5="f6f88a55f229373694e317ba38d7cb17" sha1="e0d61b72b287f893e4d66425b56837f14eb4bc0d"/>
 	</game>
 	<game name="Sid Meier's Colonization (Unknown) (Disk 1)" id="3497">
 		<category>Games</category>

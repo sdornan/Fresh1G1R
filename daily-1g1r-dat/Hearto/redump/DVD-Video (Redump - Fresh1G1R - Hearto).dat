@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (477) (-y) [-aAbBcefkmMoprv] (2026-10-16 19-33-47) (Retool)</description>
-		<version>2026-10-16 19-33-47</version>
-		<date>2026-10-17 06-50-05</date>
+		<description>DVD-Video (478) (-y) [-aAbBcefkmMoprv] (2026-10-18 02-43-35) (Retool)</description>
+		<version>2026-10-18 02-43-35</version>
+		<date>2026-10-18 07-10-37</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -238,6 +238,11 @@
 		<description>Brain Quest: Ages 8-10: Grades 3-5 (USA)</description>
 		<serial>P/N 61085-DVD</serial>
 		<rom name="Brain Quest - Ages 8-10 - Grades 3-5 (USA).iso" size="5214404608" crc="83244226" md5="e09129c89bb132621ed3037da718c059" sha1="1b2d9f0ee051db00dc4f5f50b444b1b64209f4c3"/>
+	</game>
+	<game name="Buitopia DVD (USA) (NTSC)" id="139446">
+		<category>Games</category>
+		<description>Buitopia DVD (USA) (NTSC)</description>
+		<rom name="Buitopia DVD (USA) (NTSC).iso" size="4304044032" crc="3e4e4069" md5="2b696dea1d2ddc01890ed2617956c34e" sha1="31ac35c854833d00e07799339ebe6a00169f3d0c"/>
 	</game>
 	<game name="Calculez Votre QI (France)" id="99562">
 		<category>Games</category>

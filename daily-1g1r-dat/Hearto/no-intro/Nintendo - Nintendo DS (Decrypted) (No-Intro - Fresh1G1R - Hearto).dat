@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,928) (-y) [-aAbBcefkmMoprv] (20261016-022912) (Retool)</description>
-		<version>20261016-022912</version>
-		<date>2026-10-17 06-54-04</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,927) (-y) [-aAbBcefkmMoprv] (20261016-140917) (Retool)</description>
+		<version>20261016-140917</version>
+		<date>2026-10-18 07-14-22</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2294,6 +2294,7 @@
 	</game>
 	<game name="Carnival Games (USA) (Demo) (Kiosk)" id="x118">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Carnival Games (USA) (Demo) (Kiosk)</description>
 		<rom name="Carnival Games (USA) (Demo) (Kiosk).nds" size="8388608" crc="5f011c6f" md5="c1dc208b326703c7df4704905a0727c4" sha1="c9dde952b7683453774a3e23ff08bf7669fcbb8c" sha256="dff3299c6f8c094f079f2f0167ff9a4b08572962285d099ee9be5129ce73c7b4"/>
 	</game>
@@ -2777,11 +2778,6 @@
 		<category>Games</category>
 		<description>Chungjeon! Hanguginui Sangsingnyeok DS (Korea)</description>
 		<rom name="Chungjeon! Hanguginui Sangsingnyeok DS (Korea).nds" size="67108864" crc="4dfe5adf" md5="e324f6661a0541eb8797c073efc98136" sha1="f8f5c51e89587e4eceae14eda76d0582e6008d87"/>
-	</game>
-	<game name="Chuugaku Eitango Target 1800 DS (Japan) (Rev 1)" id="6633">
-		<category>Games</category>
-		<description>Chuugaku Eitango Target 1800 DS (Japan) (Rev 1)</description>
-		<rom name="Chuugaku Eitango Target 1800 DS (Japan) (Rev 1).nds" size="67108864" crc="86ee594c" md5="fd00ac13069fdb18fe7f352d608aa195" sha1="e61b7b017b21096d1b31f022896906ed6a1d4813" sha256="d9b44005b436052a5f2e6f9d3c5d99491f5afcaf6cd6f6f08f85c38feb1279bb"/>
 	</game>
 	<game name="Chuugaku Junbi - 5 Kyouka Kanpeki DS (Japan) (TCJJ, Not for Resale)" id="6670">
 		<category>Games</category>

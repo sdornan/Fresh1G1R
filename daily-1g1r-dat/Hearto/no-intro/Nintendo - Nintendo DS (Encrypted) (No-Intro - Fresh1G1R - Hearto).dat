@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,927) (-y) [-aAbBcefkmMoprv] (20261016-022912) (Retool)</description>
-		<version>20261016-022912</version>
-		<date>2026-10-17 06-55-53</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,926) (-y) [-aAbBcefkmMoprv] (20261016-140917) (Retool)</description>
+		<version>20261016-140917</version>
+		<date>2026-10-18 07-13-48</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2294,6 +2294,7 @@
 	</game>
 	<game name="Carnival Games (USA) (Demo) (Kiosk)" id="x118">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Carnival Games (USA) (Demo) (Kiosk)</description>
 		<rom name="Carnival Games (USA) (Demo) (Kiosk).nds" size="8388608" crc="b9c6d888" md5="df17fd298783da1a84af928dc6e6fbbd" sha1="61410f086f27c07f3ffb3f7d5f305aa13af6a349" sha256="b549c4c1b64a32f430ea9b7fc34e9a1e4075a8882076d1eec43915b466f742cf"/>
 	</game>
@@ -2777,11 +2778,6 @@
 		<category>Games</category>
 		<description>Chungjeon! Hanguginui Sangsingnyeok DS (Korea)</description>
 		<rom name="Chungjeon! Hanguginui Sangsingnyeok DS (Korea).nds" size="67108864" crc="97e30693" md5="a9348dd8c0527928154c89a29f71a531" sha1="a26083f452fab2e3607f1bc8a1f9b6f911068cdb"/>
-	</game>
-	<game name="Chuugaku Eitango Target 1800 DS (Japan) (Rev 1)" id="6633">
-		<category>Games</category>
-		<description>Chuugaku Eitango Target 1800 DS (Japan) (Rev 1)</description>
-		<rom name="Chuugaku Eitango Target 1800 DS (Japan) (Rev 1).nds" size="67108864" crc="7c5f0889" md5="8ad85fd433caabcd92cf7da61f32ddbd" sha1="0c3246025188074164249dc1de26dc426cd4ab5a" sha256="47cfd1b66cdaafb69a2ca0f714f8999a69f5d1aceb60f5b3eac963da00ef86b4"/>
 	</game>
 	<game name="Chuugaku Junbi - 5 Kyouka Kanpeki DS (Japan) (TCJJ, Not for Resale)" id="6670">
 		<category>Games</category>
@@ -19558,7 +19554,7 @@
 	<game name="Zoo Keeper (USA)" id="0034">
 		<category>Games</category>
 		<description>Zoo Keeper (USA)</description>
-		<rom name="Zoo Keeper (USA).nds" size="8388608" crc="9cfe0a9e" md5="b872ea31ed09e813213d7bfb523f36b8" sha1="3538439e2c1b9d51f0af3941af3b8e4ec2a5aec8"/>
+		<rom name="Zoo Keeper (USA).nds" size="8388608" crc="9cfe0a9e" md5="b872ea31ed09e813213d7bfb523f36b8" sha1="3538439e2c1b9d51f0af3941af3b8e4ec2a5aec8" sha256="d69bbb11a766ec775afb00995cdea2e8e8ad111a6cd0f059a30b298c166e93e8"/>
 	</game>
 	<game name="Zoo Quest - Puzzle Fun! (USA)" id="3354">
 		<category>Games</category>
@@ -19603,7 +19599,7 @@
 	<game name="Zuma's Revenge (USA)" id="5991">
 		<category>Games</category>
 		<description>Zuma's Revenge (USA)</description>
-		<rom name="Zuma's Revenge (USA).nds" size="33554432" crc="be692cf5" md5="8ece681d190160bf140ad0b44f672a9a" sha1="1e2c6080b232ed064a65f3032081864ab450b74b"/>
+		<rom name="Zuma's Revenge (USA).nds" size="33554432" crc="be692cf5" md5="8ece681d190160bf140ad0b44f672a9a" sha1="1e2c6080b232ed064a65f3032081864ab450b74b" sha256="1a635ca011767b9db5d2c5ebbf406614552e19b7feb97c840310f3bfd86fe0e4"/>
 	</game>
 	<game name="Zunou Nouryoku Koujou Machine - Touch de Zunoo DS (Japan)" id="1988">
 		<category>Games</category>

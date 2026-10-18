@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,936) (-y) [-aAbBcefkmMoprv] (2026-10-16 23-03-35) (Retool)</description>
-		<version>2026-10-16 23-03-35</version>
-		<date>2026-10-17 06-51-46</date>
+		<description>Sony - PlayStation 4 (1,942) (-y) [-aAbBcefkmMoprv] (2026-10-17 23-24-54) (Retool)</description>
+		<version>2026-10-17 23-24-54</version>
+		<date>2026-10-18 07-11-56</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1733,6 +1733,13 @@
 		<version>02.00</version>
 		<rom name="Bunny Must Die! Chelsea and the 7 Devils. (Europe).iso" size="25024331776" crc="d2da6681" md5="be5a8df2e1b71acc7f004013e602e747" sha1="08b965b4d7dc6fa08b978b493a76bb4090ca34bb"/>
 	</game>
+	<game name="Burnout Paradise Remastered (Europe, Saudi Arabia) (En,Ja,Fr,De,Es,It,Pl,Ru)" id="70979">
+		<category>Games</category>
+		<description>Burnout Paradise Remastered (Europe, Saudi Arabia) (En,Ja,Fr,De,Es,It,Pl,Ru)</description>
+		<serial>CUSA-10851</serial>
+		<version>01.00</version>
+		<rom name="Burnout Paradise Remastered (Europe, Saudi Arabia) (En,Ja,Fr,De,Es,It,Pl,Ru).iso" size="25024331776" crc="48389aaf" md5="24b29d1cf38f70e61f0bd318dff1bc27" sha1="132dfe364da8b23e43dedfc39ec92d94e65fdd54"/>
+	</game>
 	<game name="Burnout Paradise Remastered (USA, Japan) (En,Ja,Fr,De,Es,It,Pl,Ru)" id="49671">
 		<category>Games</category>
 		<description>Burnout Paradise Remastered (USA, Japan) (En,Ja,Fr,De,Es,It,Pl,Ru)</description>
@@ -3384,6 +3391,13 @@
 		<serial>CUSA-09125</serial>
 		<version>01.01</version>
 		<rom name="Doom VFR (USA).iso" size="15482486784" crc="623dfddb" md5="19db7a0f5b8fae8d5e94f46541714bfc" sha1="404017cf2425f41d011ee0fd783d61846e21d8ba"/>
+	</game>
+	<game name="Doraemon - Story of Seasons (Europe)" id="139473">
+		<category>Games</category>
+		<description>Doraemon: Story of Seasons (Europe)</description>
+		<serial>CUSA-18501</serial>
+		<version>01.01</version>
+		<rom name="Doraemon - Story of Seasons (Europe).iso" size="1870528512" crc="a6cc34e6" md5="eb6701ded0a5274d6704eb40201c9e30" sha1="54d84be46cc3923e23ca8b3357af87982986ec19"/>
 	</game>
 	<game name="Dot Hack G.U. - Last Recode (USA) (En,Fr)" id="71174">
 		<category>Games</category>
@@ -5065,6 +5079,13 @@
 		<version>01.00</version>
 		<rom name="Godzilla (USA).iso" size="8607301632" crc="547fa317" md5="e68a037f3d9938846b01146dd3ab3b12" sha1="e8b49479df5da6eb094f67b7dba96a208591ad19"/>
 	</game>
+	<game name="Goku Futsuu no Shika no Game - Deeer Simulator (Japan)" id="139451">
+		<category>Games</category>
+		<description>Goku Futsuu no Shika no Game: Deeer Simulator (Japan)</description>
+		<serial>PLJM 16931</serial>
+		<version>01.00</version>
+		<rom name="Goku Futsuu no Shika no Game - Deeer Simulator (Japan).iso" size="25024331776" crc="afbc8e8c" md5="e2dbb74adba53ba86dd011d23236c21e" sha1="fc0579c139eea3cedb057019cae444113ef75df6"/>
+	</game>
 	<game name="Golem (USA)" id="97994">
 		<category>Games</category>
 		<description>Golem (USA)</description>
@@ -5134,6 +5155,13 @@
 		<serial>CUSA-16184</serial>
 		<version>01.00</version>
 		<rom name="Gran Turismo Sport - Spec II (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru,El,Cs,Ar,Tr) (Disc 2).iso" size="46711242752" crc="5d73c321" md5="a2d38ad4e08bf37a575320656c45833f" sha1="a5de061ffd5c9987e1990b2515859d336e70eb60"/>
+	</game>
+	<game name="Granblue Fantasy - Relink (Japan)" id="139449">
+		<category>Games</category>
+		<description>Granblue Fantasy: Relink (Japan)</description>
+		<serial>PLJS 36217</serial>
+		<version>01.02</version>
+		<rom name="Granblue Fantasy - Relink (Japan).iso" size="32077774848" crc="186817df" md5="054bd82ccd93cc5cefd5122b42446335" sha1="0b9c8235609d2bd920687e0e1b1d21ecbfaf924e"/>
 	</game>
 	<game name="Granblue Fantasy - Versus (USA)" id="98369">
 		<category>Games</category>
@@ -7730,6 +7758,13 @@
 		<version>01.00</version>
 		<rom name="Minecraft Dungeons - Hero Edition (USA).iso" size="25024331776" crc="4933ef4f" md5="7cb53a5819d5f2f7b4c6ffc1e12a63dd" sha1="5892250d97e0e992543989bd8bfd81ee271fc8fa"/>
 	</game>
+	<game name="Minecraft Legends (Japan)" id="139450">
+		<category>Games</category>
+		<description>Minecraft Legends (Japan)</description>
+		<serial>PLJS 36210</serial>
+		<version>01.03</version>
+		<rom name="Minecraft Legends (Japan).iso" size="7931691008" crc="f474d2f5" md5="ed3bc8f14e7c8e70f9ea16519a491fb1" sha1="79306702c9a6b1190e987df8cd54023fd6e0d2c8"/>
+	</game>
 	<game name="Minit (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="65118">
 		<category>Games</category>
 		<description>Minit (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
@@ -10007,6 +10042,13 @@
 		<serial>CUSA-02017</serial>
 		<version>01.00</version>
 		<rom name="Risen 3 - Titan Lords (Europe).iso" size="14239662080" crc="5765a7aa" md5="834b3e6b048381dfaed1e4cb31ce79ea" sha1="66469cf1e21b2c0766b1b64e7f1b15b17067b2f8"/>
+	</game>
+	<game name="Risk of Rain 2 (USA)" id="139469">
+		<category>Games</category>
+		<description>Risk of Rain 2 (USA)</description>
+		<serial>CUSA-17483</serial>
+		<version>01.00</version>
+		<rom name="Risk of Rain 2 (USA).iso" size="25024331776" crc="3bdf4023" md5="6b640dd93bb203549b7b833c8fd87fce" sha1="a5500d3c3a058e3bf2f651533ffc295e4c936adb"/>
 	</game>
 	<game name="Rive (USA)" id="89799">
 		<category>Games</category>
