@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,614) (-y) [-aAbBcefkmMoprv] (2026-10-17 22-13-35) (Retool)</description>
-		<version>2026-10-17 22-13-35</version>
-		<date>2026-10-18 07-11-16</date>
+		<description>Microsoft - Xbox 360 (1,614) (-y) [-aAbBcefkmMoprv] (2026-10-18 21-17-24) (Retool)</description>
+		<version>2026-10-18 21-17-24</version>
+		<date>2026-10-19 07-36-11</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3091,11 +3091,11 @@
 		<serial>EA-2079</serial>
 		<rom name="FIFA Soccer 08 (USA) (En,Es).iso" size="7835492352" crc="d6581ff3" md5="3439755df1af5d3491e0e82aac07e629" sha1="f56d0d3debcb76dc025c2f2932a79a573042540e"/>
 	</game>
-	<game name="FIFA Soccer 09 (USA) (En,Fr,Es)" id="55408">
+	<game name="FIFA Soccer 09 (USA, Asia) (En,Fr,Es)" id="55408">
 		<category>Games</category>
-		<description>FIFA Soccer 09 (USA) (En,Fr,Es)</description>
+		<description>FIFA Soccer 09 (USA, Asia) (En,Fr,Es)</description>
 		<serial>EA-2139</serial>
-		<rom name="FIFA Soccer 09 (USA) (En,Fr,Es).iso" size="7835492352" crc="902d5d8b" md5="c68ce81b97dc79519cdc7a661fbac259" sha1="4bd892b67c49c6c42ff0db101548c9acab342d4f"/>
+		<rom name="FIFA Soccer 09 (USA, Asia) (En,Fr,Es).iso" size="7835492352" crc="902d5d8b" md5="c68ce81b97dc79519cdc7a661fbac259" sha1="4bd892b67c49c6c42ff0db101548c9acab342d4f"/>
 	</game>
 	<game name="FIFA Soccer 10 (USA) (En,Fr,Es)" id="14048">
 		<category>Games</category>
@@ -5965,11 +5965,11 @@
 		<serial>TT-2076</serial>
 		<rom name="NBA 2K8 (USA) (Demo).iso" size="7835492352" crc="9e66c8b2" md5="b53f9acbb9ce4126ac5714c0306fe15a" sha1="55800da55beb5940607eb6d67762868661c2d1ce"/>
 	</game>
-	<game name="NBA 2K9 (USA, Europe)" id="60057">
+	<game name="NBA 2K9 (World)" id="60057">
 		<category>Games</category>
-		<description>NBA 2K9 (USA, Europe)</description>
+		<description>NBA 2K9 (World)</description>
 		<serial>TT-2089</serial>
-		<rom name="NBA 2K9 (USA, Europe).iso" size="7835492352" crc="36e3012f" md5="5ef002cd63117665576c978de4c2b3be" sha1="55e1ac7837e8e69d7ec974ded78bf780b2a324f8"/>
+		<rom name="NBA 2K9 (World).iso" size="7835492352" crc="36e3012f" md5="5ef002cd63117665576c978de4c2b3be" sha1="55e1ac7837e8e69d7ec974ded78bf780b2a324f8"/>
 	</game>
 	<game name="NBA Baller Beats (USA)" id="96754">
 		<category>Games</category>
@@ -9032,11 +9032,11 @@
 		<serial>SE-2030</serial>
 		<rom name="Virtua Fighter 5 Online (USA, Europe) (En,Ja,Fr,De,Es,It).iso" size="7835492352" crc="6da332ac" md5="e9e5ee4cf1658705df37d964f6226772" sha1="4545a292695e572942633f930a3afd60aa1c0a58"/>
 	</game>
-	<game name="Virtua Tennis 2009 (USA, Europe)" id="62729">
+	<game name="Virtua Tennis 2009 (World)" id="62729">
 		<category>Games</category>
-		<description>Virtua Tennis 2009 (USA, Europe)</description>
+		<description>Virtua Tennis 2009 (World)</description>
 		<serial>SE-2068</serial>
-		<rom name="Virtua Tennis 2009 (USA, Europe).iso" size="7838695424" crc="84e103db" md5="3c2124fabddb5f6e4503997b72347b6e" sha1="4e0f74683d7ba553edc68e3a49ae20b1723f5511"/>
+		<rom name="Virtua Tennis 2009 (World).iso" size="7838695424" crc="84e103db" md5="3c2124fabddb5f6e4503997b72347b6e" sha1="4e0f74683d7ba553edc68e3a49ae20b1723f5511"/>
 	</game>
 	<game name="Virtua Tennis 3 (USA, Europe) (En,Fr,De,Es,It)" id="7707">
 		<category>Games</category>

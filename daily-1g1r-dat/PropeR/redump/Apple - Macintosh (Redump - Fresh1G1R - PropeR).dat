@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (687) (-y) [-aAbBcdkmMpPuv] (2026-10-17 19-45-01) (Retool)</description>
-		<version>2026-10-17 19-45-01</version>
-		<date>2026-10-18 07-19-44</date>
+		<description>Apple - Macintosh (690) (-y) [-aAbBcdkmMpPuv] (2026-10-18 11-33-35) (Retool)</description>
+		<version>2026-10-18 11-33-35</version>
+		<date>2026-10-19 07-50-31</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -124,6 +124,12 @@
 		<description>Abuse for Macintosh (USA)</description>
 		<rom name="Abuse for Macintosh (USA).bin" size="84667296" crc="623b411b" md5="63f6c58a625953128d33f1a83e5a2d14" sha1="85da66fa66535cdac5546d98db3ae31ce7762841"/>
 		<rom name="Abuse for Macintosh (USA).cue" size="114" crc="21f537db" md5="0de0a50b00781e730e129a7af8d2fde8" sha1="c88d8c37da66adcb1b174bead251c486b4783651"/>
+	</game>
+	<game name="Activision Anthology - Remix Edition (USA)" id="139485">
+		<category>Games</category>
+		<description>Activision Anthology: Remix Edition (USA)</description>
+		<rom name="Activision Anthology - Remix Edition (USA).bin" size="457955568" crc="be7c6e35" md5="ac6d0059ffc350e7d9bb2352f2b32e0d" sha1="291efa4e8c64a9c55e6c31d35e391917c5e24094"/>
+		<rom name="Activision Anthology - Remix Edition (USA).cue" size="108" crc="e9859167" md5="830c77a6044dd7549ff74747c0fa1a63" sha1="af24ec85fefbc422b4c1409c6b4b989929d639f9"/>
 	</game>
 	<game name="Activision's Atari 2600 Action Pack for Macintosh (USA)" id="67490">
 		<category>Games</category>
@@ -1102,6 +1108,13 @@
 		<rom name="Club Dead (USA).bin" size="783568800" crc="413934bc" md5="0ef97e20c7ca0b48db810ef32799768c" sha1="3cfeb8122c6b203fb48f0d717503ba923a12d240"/>
 		<rom name="Club Dead (USA).cue" size="104" crc="c5d1a1c6" md5="b4e7553369b59cc8afea6657b48fb9ac" sha1="ff104698377c57e78334d858c6f1758594800739"/>
 	</game>
+	<game name="Club Vegas Slots 10,000 Volume 2 (USA)" id="139486">
+		<category>Games</category>
+		<description>Club Vegas Slots 10,000 Volume 2 (USA)</description>
+		<serial>MPSI 44701</serial>
+		<rom name="Club Vegas Slots 10,000 Volume 2 (USA).bin" size="451391136" crc="3d4aad67" md5="9e78686a568dbf1e36b14ad7b2909682" sha1="af21940e2cecfcfd60b1ce56c65cc29d75ba5d54"/>
+		<rom name="Club Vegas Slots 10,000 Volume 2 (USA).cue" size="104" crc="ba1cb19d" md5="9c29b0019295dcccc6fa5cff415f812f" sha1="a819c66ed5e47a5c023c777a970cb8fffe7fe24a"/>
+	</game>
 	<game name="Colin McRae Rally Mac (Europe) (En,Fr,De,Es,It)" id="73070">
 		<category>Games</category>
 		<description>Colin McRae Rally Mac (Europe) (En,Fr,De,Es,It)</description>
@@ -1329,6 +1342,13 @@
 		<serial>0 82551 91023 6</serial>
 		<rom name="DeathMatch 2 for Doom II (USA).bin" size="275647344" crc="f4363393" md5="536377ed0c1d4b5369bf21d532727dc2" sha1="47326a790aa0c7d0d459abe311f30c41910f4ffd"/>
 		<rom name="DeathMatch 2 for Doom II (USA).cue" size="96" crc="b7879f90" md5="a693da0aaff729c1c610791d439f231a" sha1="879c393457da55dc2fe8b7e17d13fa8f224ca052"/>
+	</game>
+	<game name="Deathground (USA)" id="139487">
+		<category>Games</category>
+		<description>Deathground (USA)</description>
+		<version>1.3</version>
+		<rom name="Deathground (USA).bin" size="602278992" crc="6d1229c7" md5="50621aed67d1e3061dee9c885baa2d43" sha1="81f9c4138c5fbec7133a483603aab45bcce06c43"/>
+		<rom name="Deathground (USA).cue" size="83" crc="a3d29d4a" md5="00c7c4742d181929777ee9aff490b024" sha1="dddaaf79017f74fe3ebff8a12393e8700a333e93"/>
 	</game>
 	<game name="Derby Stallion (Japan)" id="119051">
 		<category>Games</category>

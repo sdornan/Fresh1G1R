@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi (Retool)</name>
-		<description>Arcade - Sega - Naomi (32) (-y) [-aAbBcefkmMoprv] (2026-10-16 21-23-35) (Retool)</description>
-		<version>2026-10-16 21-23-35</version>
-		<date>2026-10-18 07-11-33</date>
+		<description>Arcade - Sega - Naomi (35) (-y) [-aAbBcefkmMoprv] (2026-10-18 12-44-57) (Retool)</description>
+		<version>2026-10-18 12-44-57</version>
+		<date>2026-10-19 07-36-38</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -90,6 +90,26 @@
 		<rom name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="6d7c1bfa" md5="d70730c20cfd34bd8a3ab83e0620e413" sha1="e032c2d6323e5a976dd9e2f8a54e6fa38276d2cc"/>
 		<rom name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A).cue" size="474" crc="b4beff2b" md5="d77f7a25d1886462163b752e97f0cb86" sha1="f4eb944c6f18a9e7f3c52af63a0458ee20bbf982"/>
+	</game>
+	<game name="Ikaruga (Japan)" id="139476">
+		<category>Games</category>
+		<description>Ikaruga (Japan)</description>
+		<serial>GDL-0010</serial>
+		<version>1.002</version>
+		<rom name="Ikaruga (Japan) (Track 1).bin" size="22774416" crc="3f93739c" md5="c1bfe49474c761016e74602d0dceca0e" sha1="679c0a373cd042c18acd1969a37fed4795a481d6"/>
+		<rom name="Ikaruga (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Ikaruga (Japan) (Track 3).bin" size="1185760800" crc="53e7a719" md5="e7ea11bf1ef530bedb65e06e5ca87a15" sha1="ad95d926698aa8737ebadc8f61c2e0820c44b2c4"/>
+		<rom name="Ikaruga (Japan).cue" size="339" crc="55d6dcad" md5="16885716897e8663967e57175791499f" sha1="2a7f864d297a0367b522a0219506068c1c94f3a2"/>
+	</game>
+	<game name="Karous (Japan)" id="139477">
+		<category>Games</category>
+		<description>Karous (Japan)</description>
+		<serial>GDL-0040</serial>
+		<version>1.004</version>
+		<rom name="Karous (Japan) (Track 1).bin" size="705600" crc="4e0e6234" md5="08a12a28302795e78089a3fca09cb738" sha1="e9c3f78edf5b73a65b0aaf0bcf99145719474a43"/>
+		<rom name="Karous (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Karous (Japan) (Track 3).bin" size="1185760800" crc="e3a9004c" md5="3c4e9ade25e3fb1afab34232a2eb7bc8" sha1="58c655c31b8d6dc3c7ae10ea28c5a1d970d771b5"/>
+		<rom name="Karous (Japan).cue" size="336" crc="68e132ab" md5="04a8e42414499e64ac55e9e368306241" sha1="916b5adc513dc159b8795152ce8fca8546b4fa71"/>
 	</game>
 	<game name="Keyboard, La (Japan)" id="75286">
 		<category>Games</category>
@@ -191,6 +211,16 @@
 		<rom name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja) (Track 3).bin" size="1185760800" crc="b7f65ec6" md5="343ac1301e09315aa578abfeb770b70d" sha1="7826555c28e9419505bc112c916eaf1549a358ad"/>
 		<rom name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja).cue" size="585" crc="302a3c0f" md5="a184b593379d54f0c53408b0c8a472bf" sha1="be660606a02010b7c08f310a083fa607db70ee6a"/>
 	</game>
+	<game name="Psyvariar 2 - The Will to Fabricate (Japan)" id="139478">
+		<category>Games</category>
+		<description>Psyvariar 2: The Will to Fabricate (Japan)</description>
+		<serial>GDL-0024</serial>
+		<version>1.002</version>
+		<rom name="Psyvariar 2 - The Will to Fabricate (Japan) (Track 1).bin" size="24797136" crc="78c322dc" md5="1ab6c4d6522620e10d75cb45e0a61dcd" sha1="9681eb94fc177fe81ce768c9ecdfdcfec74932b4"/>
+		<rom name="Psyvariar 2 - The Will to Fabricate (Japan) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
+		<rom name="Psyvariar 2 - The Will to Fabricate (Japan) (Track 3).bin" size="1185760800" crc="0659dbd6" md5="7b267fc766f689f4980f0c5988f3a9fd" sha1="088d8edd08dab4752dd576571739f19e318d6acf"/>
+		<rom name="Psyvariar 2 - The Will to Fabricate (Japan).cue" size="423" crc="fb12b55f" md5="23a4dbf7d48dad7660bca90fa551bc94" sha1="9eba18ebbabe7651a3c64b56630fcf5bbe1df654"/>
+	</game>
 	<game name="Puyo Pop Fever (World)" id="54280">
 		<category>Games</category>
 		<description>Puyo Pop Fever (World)</description>
@@ -201,15 +231,15 @@
 		<rom name="Puyo Pop Fever (World) (Track 3).bin" size="1185760800" crc="e07684e4" md5="005dcfbfca160510382ff1d3ecf24eb5" sha1="ea7d131570389fcc11f5d86b3d71823e049fb00b"/>
 		<rom name="Puyo Pop Fever (World).cue" size="360" crc="4dfe9dae" md5="3b384118a13ac27afeebfab163537adf" sha1="ea13b4ded9a4fbf9055dc67eacf939ac2eb6f8a2"/>
 	</game>
-	<game name="Radirgy (Japan)" id="69608">
+	<game name="Radirgy (Japan) (Rev A)" id="139479">
 		<category>Games</category>
-		<description>Radirgy (Japan)</description>
-		<serial>GDL-0032</serial>
-		<version>1.001</version>
-		<rom name="Radirgy (Japan) (Track 1).bin" size="705600" crc="fbac2577" md5="f439ade9a2159d37b80b72a56bf4f278" sha1="61c918c1188dd81049fcd128f76857c8783b8162"/>
-		<rom name="Radirgy (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
-		<rom name="Radirgy (Japan) (Track 3).bin" size="1185760800" crc="a3e7a522" md5="85e44a45888e63ee72a0f2cb9a76545e" sha1="a5bda299727db7221fe0bb62fe6cc428eaccb09b"/>
-		<rom name="Radirgy (Japan).cue" size="339" crc="14b6da54" md5="25082b9bfdbd73f3f2956e953bcbdcef" sha1="02cfaa60deb1b3739778ed55e92954be292aa561"/>
+		<description>Radirgy (Japan) (Rev A)</description>
+		<serial>GDL-0032A</serial>
+		<version>2.000</version>
+		<rom name="Radirgy (Japan) (Rev A) (Track 1).bin" size="705600" crc="ab8c1577" md5="137f6727077ee9b2fe84b23a9036ec22" sha1="36d12e4089409084adf75a07817d0a52c69d779d"/>
+		<rom name="Radirgy (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Radirgy (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="05523594" md5="f0228593b5e09a1c6c2d4918bcd2aa7b" sha1="ffab166f269291f286a44fdfd6af5ee2d1d1a172"/>
+		<rom name="Radirgy (Japan) (Rev A).cue" size="363" crc="68be0fa7" md5="aeda01132652015d54106df5660667ed" sha1="840b478c36e2de5d63be35e703a9b2e32b760982"/>
 	</game>
 	<game name="Senko no Ronde (Japan) (Rev A)" id="127953">
 		<category>Games</category>

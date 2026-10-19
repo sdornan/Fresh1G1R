@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (374) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-52-12) (Retool)</description>
-		<version>2026-10-14 05-52-12</version>
-		<date>2026-10-18 07-11-56</date>
+		<description>Sony - PlayStation 5 (377) (-y) [-aAbBcefkmMoprv] (2026-10-18 21-17-24) (Retool)</description>
+		<version>2026-10-18 21-17-24</version>
+		<date>2026-10-19 07-37-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -228,6 +228,20 @@
 		<version>01.01</version>
 		<rom name="Balatro (USA).iso" size="40008351744" crc="0705b155" md5="0c10adab5fc8a7a27af25782a5dfd18a" sha1="f9407b02bcea25a5bd7eae5fd55a9ddc1f8d7c61"/>
 	</game>
+	<game name="Baldur's Gate III (Australia) (Data Disc)" id="139505">
+		<category>Games</category>
+		<description>Baldur's Gate III (Australia) (Data Disc)</description>
+		<serial>PPSA-19774</serial>
+		<version>03.00</version>
+		<rom name="Baldur's Gate III (Australia) (Data Disc).iso" size="40008351744" crc="3a6526fc" md5="1f38e22a549b041097fa699b72c355cf" sha1="4e9f2f4f55936d7cd23af5804761487a584628cc"/>
+	</game>
+	<game name="Baldur's Gate III (Australia) (Play Disc)" id="139506">
+		<category>Games</category>
+		<description>Baldur's Gate III (Australia) (Play Disc)</description>
+		<serial>PPSA-14002</serial>
+		<version>03.00</version>
+		<rom name="Baldur's Gate III (Australia) (Play Disc).iso" size="100096802816" crc="563863a8" md5="f06d7e49b74424a38eb25a03ab7e5a3b" sha1="acd072c99d2b0c2d961493d1daa28071cee290a9"/>
+	</game>
 	<game name="Banishers - Ghosts of New Eden (USA)" id="133718">
 		<category>Games</category>
 		<description>Banishers: Ghosts of New Eden (USA)</description>
@@ -332,6 +346,13 @@
 		<serial>PPSA-03351</serial>
 		<version>01.01</version>
 		<rom name="Callisto Protocol, The (USA).iso" size="44786581504" crc="0e8194bd" md5="6087f2e9ba97e58909d08e6db05278e1" sha1="13eb4a17c32c4fa95475c27a4d85cf1d2b0cc7b5"/>
+	</game>
+	<game name="Castlevania - Belmont's Curse (Japan)" id="139520">
+		<category>Games</category>
+		<description>Castlevania: Belmont's Curse (Japan)</description>
+		<serial>ELJM 30974, VH015</serial>
+		<version>01.00</version>
+		<rom name="Castlevania - Belmont's Curse (Japan).iso" size="40008351744" crc="71d93a3d" md5="284253c271eef9c5894527f9cf0f6fc9" sha1="ba8706d3166e16df13789094b43c66b98a1261b7"/>
 	</game>
 	<game name="Chef Life - A Restaurant Simulator (Italy)" id="135077">
 		<category>Games</category>

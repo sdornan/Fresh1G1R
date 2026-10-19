@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Bandai - WonderSwan Color (Retool)</name>
-		<description>Bandai - WonderSwan Color (3) (-ly) [-aAbBcdDefkmMopPruv] (20261014-080034) (Retool)</description>
-		<version>20261014-080034</version>
-		<date>2026-10-18 07-19-34</date>
+		<description>Bandai - WonderSwan Color (4) (-ly) [-aAbBcdDefkmMopPruv] (20261018-083359) (Retool)</description>
+		<version>20261018-083359</version>
+		<date>2026-10-19 07-45-48</date>
 		<author>1988reload, Arctic Circle System, C. V. Reynolds, Gefflon, Goratrix, Hiccup, nnssxx, omonim2007, PPLToast, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -25,5 +25,10 @@
 		<category>Games</category>
 		<description>Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)</description>
 		<rom name="Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja).wsc" size="4194304" crc="c927bfcb" md5="71146ab7c32bd1524c27da0faefcf46a" sha1="757e92177385a14d979227edee1cb544b4c56bd6" sha256="58220b9c050c3bf29b4953885c9576be103ea8e00a7bcb96cca18607e19e9735"/>
+	</game>
+	<game name="Tetris (Japan) (En) (WS Compatible)" id="0086">
+		<category>Games</category>
+		<description>Tetris (Japan) (En) (WS Compatible)</description>
+		<rom name="Tetris (Japan) (En) (WS Compatible).wsc" size="1048576" crc="7b0caea9" md5="b7e66090d059f77636161fa4e21f3e89" sha1="1a86403d7896d60fcb7a4c09367f5a976c7ea5a5" sha256="284f7a74cfaad89ee36749d858ce948b1f2c815ffba14c00410c1d58d94de2a5"/>
 	</game>
 </datafile>

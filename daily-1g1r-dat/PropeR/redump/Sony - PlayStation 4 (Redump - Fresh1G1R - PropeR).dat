@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,902) (-y) [-aAbBcdkmMpPuv] (2026-10-17 23-24-54) (Retool)</description>
-		<version>2026-10-17 23-24-54</version>
-		<date>2026-10-18 07-21-09</date>
+		<description>Sony - PlayStation 4 (1,903) (-y) [-aAbBcdkmMpPuv] (2026-10-18 21-07-26) (Retool)</description>
+		<version>2026-10-18 21-07-26</version>
+		<date>2026-10-19 07-53-02</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -7611,12 +7611,12 @@
 		<version>01.00</version>
 		<rom name="Metal Gear Solid - Master Collection Vol. 1 (Europe) (En,Ja,Fr,De,Es,It).iso" size="37202362368" crc="d58e14d3" md5="647cc3c679bf1a3732c2114607ed0b56" sha1="52b613f9f788a1c565918c8c09e0201655374122"/>
 	</game>
-	<game name="Metal Gear Solid V - The Definitive Experience (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)" id="43918">
+	<game name="Metal Gear Solid V - The Definitive Experience (Europe, Australia) (En,Ja,Fr,De,Es,It,Pt,Ru)" id="43918">
 		<category>Games</category>
-		<description>Metal Gear Solid V: The Definitive Experience (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)</description>
+		<description>Metal Gear Solid V: The Definitive Experience (Europe, Australia) (En,Ja,Fr,De,Es,It,Pt,Ru)</description>
 		<serial>CUSA-05597</serial>
 		<version>01.01</version>
-		<rom name="Metal Gear Solid V - The Definitive Experience (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru).iso" size="35248209920" crc="04fb1a90" md5="b6bdf9342790112c416eaeb1135077e2" sha1="40c1a01628598e9851ef949b91b82aefcd263b15"/>
+		<rom name="Metal Gear Solid V - The Definitive Experience (Europe, Australia) (En,Ja,Fr,De,Es,It,Pt,Ru).iso" size="35248209920" crc="04fb1a90" md5="b6bdf9342790112c416eaeb1135077e2" sha1="40c1a01628598e9851ef949b91b82aefcd263b15"/>
 	</game>
 	<game name="Metal Gear Survive (USA)" id="63826">
 		<category>Games</category>
@@ -8955,6 +8955,13 @@
 		<version>02.00</version>
 		<rom name="Pang Adventures (Europe) (En,Fr,De,Es,It,Pt,Ru).iso" size="25024331776" crc="2c2bb9ee" md5="18348c82f8704504e9b6d9ef54b6ca1c" sha1="ad983cbd91ebe67bac180477c168c0215fb69588"/>
 	</game>
+	<game name="Paperman - Adventure Delivered (Europe)" id="139514">
+		<category>Games</category>
+		<description>Paperman: Adventure Delivered (Europe)</description>
+		<serial>CUSA-42752</serial>
+		<version>01.02</version>
+		<rom name="Paperman - Adventure Delivered (Europe).iso" size="2725838848" crc="b2ef7f99" md5="63a2c4e0407ea2b0437757c1106160c6" sha1="0a2b36ef4ec960b13b4675835aefd2131dd653b5"/>
+	</game>
 	<game name="Patapon (Japan)" id="127107">
 		<category>Games</category>
 		<description>Patapon (Japan)</description>
@@ -9662,12 +9669,12 @@
 		<version>02.00</version>
 		<rom name="Republique - Anniversary Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso" size="36905484288" crc="1d7f9242" md5="c1323b04df27bb4f7589ef30891590c3" sha1="c9acb16e1125b676c7671ecfe8f22e51949759b3"/>
 	</game>
-	<game name="Resident Evil - Origins Collection (USA)" id="92881">
+	<game name="Resident Evil - Origins Collection (USA) (En,Ja,Fr,De,Es,It)" id="92881">
 		<category>Games</category>
-		<description>Resident Evil: Origins Collection (USA)</description>
+		<description>Resident Evil: Origins Collection (USA) (En,Ja,Fr,De,Es,It)</description>
 		<serial>CUSA-03178</serial>
 		<version>01.00</version>
-		<rom name="Resident Evil - Origins Collection (USA).iso" size="40247492608" crc="04adaf2d" md5="ef424fe37c7b113136acc7d23e948c86" sha1="e531b40263ec521bc613af6626e71a3df275fa42"/>
+		<rom name="Resident Evil - Origins Collection (USA) (En,Ja,Fr,De,Es,It).iso" size="40247492608" crc="04adaf2d" md5="ef424fe37c7b113136acc7d23e948c86" sha1="e531b40263ec521bc613af6626e71a3df275fa42"/>
 	</game>
 	<game name="Resident Evil - Revelations (Russia)" id="95372">
 		<category>Games</category>
@@ -10649,12 +10656,12 @@
 		<version>01.00</version>
 		<rom name="Sid Meier's Civilization VI (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).iso" size="4708368384" crc="72fd86e9" md5="3f1d6b17ac61466910d16cc1f8eb468e" sha1="05b68ecfc1f0e1381828d0ec2af87d9d356d593e"/>
 	</game>
-	<game name="Sifu (Japan)" id="136734">
+	<game name="Sifu (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Tr)" id="139507">
 		<category>Games</category>
-		<description>Sifu (Japan)</description>
-		<serial>PLJM 17059</serial>
+		<description>Sifu (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Tr)</description>
+		<serial>CUSA-25761</serial>
 		<version>02.00</version>
-		<rom name="Sifu (Japan).iso" size="25024331776" crc="dc9ac197" md5="b7c9f7fd98f202faf899ce10d274d284" sha1="1b9636e77c5628246b4b2b21771101c0836d6225"/>
+		<rom name="Sifu (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Tr).iso" size="25024331776" crc="f5830a26" md5="3f115a26820bacad2245cf3911c84e91" sha1="ebdd8eecb1ca4c673445d0ae6904f5d0e76dd8af"/>
 	</game>
 	<game name="Signalis (USA)" id="103357">
 		<category>Games</category>
