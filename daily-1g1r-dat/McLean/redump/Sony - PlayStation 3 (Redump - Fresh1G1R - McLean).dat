@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,298) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-17 21-35-17) (Retool)</description>
-		<version>2026-10-17 21-35-17</version>
-		<date>2026-10-19 07-45-19</date>
+		<description>Sony - PlayStation 3 (1,298) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-19 13-33-59) (Retool)</description>
+		<version>2026-10-19 13-33-59</version>
+		<date>2026-10-20 07-35-28</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -662,12 +662,12 @@
 		<version>01.00</version>
 		<rom name="Battlefield - Bad Company (USA) (Gold Edition).iso" size="6889668608" crc="b9bd0cc4" md5="51bbc31a6bd481606f77f88c456938e1" sha1="241b1d2f37f9c01ca3bda88ad6e8a1bf8909a17c"/>
 	</game>
-	<game name="Battlefield - Bad Company 2 (USA) (En,Fr) (Limited Edition)" id="11731">
+	<game name="Battlefield - Bad Company 2 (USA, Korea) (En,Fr) (Limited Edition)" id="11731">
 		<category>Games</category>
-		<description>Battlefield: Bad Company 2 (USA) (En,Fr) (Limited Edition)</description>
-		<serial>BLUS-30517</serial>
+		<description>Battlefield: Bad Company 2 (USA, Korea) (En,Fr) (Limited Edition)</description>
+		<serial>BLUS-30517, BLKS 20192</serial>
 		<version>01.01</version>
-		<rom name="Battlefield - Bad Company 2 (USA) (En,Fr) (Limited Edition).iso" size="7089356800" crc="bb4703a6" md5="15b4264076695106d1258677fda76e21" sha1="aa5760fc09f09413de3a4453f3f1d874ee5ffb62"/>
+		<rom name="Battlefield - Bad Company 2 (USA, Korea) (En,Fr) (Limited Edition).iso" size="7089356800" crc="bb4703a6" md5="15b4264076695106d1258677fda76e21" sha1="aa5760fc09f09413de3a4453f3f1d874ee5ffb62"/>
 	</game>
 	<game name="Battlefield 3 (World) (En,Fr)" id="29912">
 		<category>Games</category>
@@ -7420,7 +7420,7 @@
 	<game name="Sleeping Dogs (USA, Asia) (En,Fr,Es)" id="26917">
 		<category>Games</category>
 		<description>Sleeping Dogs (USA, Asia) (En,Fr,Es)</description>
-		<serial>BCAS 20250, BLUS-30927</serial>
+		<serial>BCAS 20250, BLUS-30927, BCKS 10227</serial>
 		<version>01.00</version>
 		<rom name="Sleeping Dogs (USA, Asia) (En,Fr,Es).iso" size="7722303488" crc="0d21f9a1" md5="7409a7bafc66368782b6b1b2626c76de" sha1="b5a0348aa510038d12ce0cc3624788975d3bc366"/>
 	</game>

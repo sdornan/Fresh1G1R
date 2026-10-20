@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,060) (-y) [-aAbBcdkmMpPuv] (2026-10-19 01-48-38) (Retool)</description>
-		<version>2026-10-19 01-48-38</version>
-		<date>2026-10-19 07-51-43</date>
+		<description>IBM - PC compatible (27,068) (-y) [-aAbBcdkmMpPuv] (2026-10-20 01-08-49) (Retool)</description>
+		<version>2026-10-20 01-08-49</version>
+		<date>2026-10-20 07-41-14</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -21560,11 +21560,11 @@
 		<rom name="Billy's Drumstel (Netherlands).bin" size="11075568" crc="76768055" md5="69b91b8d31e194cb57ec98d9609a178c" sha1="71457d0edfde8cfd8580de19530a6b3a64bcc815"/>
 		<rom name="Billy's Drumstel (Netherlands).cue" size="119" crc="bbac72b2" md5="6ce96b21bb72b6f92aaff74f3f670bbf" sha1="6ca56516ac3a3fce88234dd04d713b9918d7b820"/>
 	</game>
-	<game name="Binary Domain (Europe) (En,Fr,De,Es,It)" id="103962">
+	<game name="Binary Domain (Europe) (En,De)" id="103962">
 		<category>Games</category>
-		<description>Binary Domain (Europe) (En,Fr,De,Es,It)</description>
+		<description>Binary Domain (Europe) (En,De)</description>
 		<serial>SEGA-PC140</serial>
-		<rom name="Binary Domain (Europe) (En,Fr,De,Es,It).iso" size="6508118016" crc="5d0b988f" md5="a51ba2092569a671befab19e5c47d181" sha1="5fdadcc046d9cf38873234102e48350cd9c2320d"/>
+		<rom name="Binary Domain (Europe) (En,De).iso" size="6508118016" crc="5d0b988f" md5="a51ba2092569a671befab19e5c47d181" sha1="5fdadcc046d9cf38873234102e48350cd9c2320d"/>
 	</game>
 	<game name="Bingfeng Zhi Gu (Taiwan) (Disc 1)" id="78404">
 		<category>Games</category>
@@ -95101,19 +95101,18 @@
 		<rom name="Kalle Kunskap - Forskolan (Sweden).bin" size="357068880" crc="7262474f" md5="07353bde6bd6cda87c08dbf0edb93ffe" sha1="a18a6a8c90fd49afcc8b846e13ff84bf4e90b4a2"/>
 		<rom name="Kalle Kunskap - Forskolan (Sweden).cue" size="100" crc="030a11c4" md5="c9596e34c45a584a0a8b6b3e9ee931fc" sha1="4639c19d2f33b23987434abc3355257cd840a27a"/>
 	</game>
-	<game name="Kalle Kunskap - Lar dig Engelska (Sweden)" id="135221">
-		<category>Educational</category>
-		<description>Kalle Kunskap: Lär dig Engelska (Sweden)</description>
-		<serial>ART.SE.48982</serial>
-		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden).bin" size="345833376" crc="dc312ef5" md5="6e4792d63723bde4b9dfac09f4e2f24f" sha1="4ce8fa789067df5a40ae4b26ace876943bfd3649"/>
-		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden).cue" size="107" crc="871f33d8" md5="df685dfc6e90a1cecab3e79165860518" sha1="f17d7ac7d28cf75ce417ff08e705e8bdd81a975d"/>
-	</game>
 	<game name="Kalle Kunskap - Lar dig Engelska (Sweden) (Max)" id="115076">
 		<category>Educational</category>
 		<description>Kalle Kunskap: Lär dig Engelska (Sweden) (Max)</description>
 		<serial>ART.MAX.KK13</serial>
 		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden) (Max).bin" size="740322576" crc="aebe8cb7" md5="2b35ec7815bf1fd5014c07e973723437" sha1="e5a61ad0cca68adbb7dbf2f53ed2219d1a6f6a8b"/>
 		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden) (Max).cue" size="113" crc="0c13f7ff" md5="a46b4dd7b3a59e361439c3ea22f276fe" sha1="ab61e48dcb23f14b1f9a30a3fa17ece5936e87b5"/>
+	</game>
+	<game name="Kalle Kunskap - Lar dig Engelska (Sweden) (Rev 1)" id="139538">
+		<category>Educational</category>
+		<description>Kalle Kunskap: Lär dig Engelska (Sweden) (Rev 1)</description>
+		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden) (Rev 1).bin" size="369536832" crc="25767602" md5="8e873959f248391e3e2e8eeea3235f1e" sha1="722d3a76a4eaaf7163f216a31bc1c952ad720e0f"/>
+		<rom name="Kalle Kunskap - Lar dig Engelska (Sweden) (Rev 1).cue" size="115" crc="ba1f2230" md5="a66faa21adf9b080716ee9875da197b7" sha1="c1f20a475b9a7af0ef99ffe0376581feffa137da"/>
 	</game>
 	<game name="Kalle Kunskap - Lekstuga (Sweden)" id="113768">
 		<category>Educational</category>
@@ -111417,6 +111416,42 @@
 		<version>1.0</version>
 		<rom name="Mass Effect (USA) (En,Es).iso" size="7712342016" crc="1ba29473" md5="776824e5317b5d9936ae81b8251de3ba" sha1="5a94a16d9a29283dace6d84d0378c6d830398920"/>
 	</game>
+	<game name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)" id="139529">
+		<category>Games</category>
+		<description>Mass Effect: Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)</description>
+		<serial>102637503301</serial>
+		<rom name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1).iso" size="8535504896" crc="74666abe" md5="6e966b91d144023a46411f83fde24392" sha1="7b6f92d78f5f5ebc3e09de758099d94365bb5526"/>
+	</game>
+	<game name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2)" id="139530">
+		<category>Games</category>
+		<description>Mass Effect: Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2)</description>
+		<serial>102637503302</serial>
+		<rom name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2).iso" size="8535783424" crc="b2e8054b" md5="78221e9bd1c82bbb68e39ecb0b1cc9e2" sha1="446bccb795d0bacb27a7699c83ff52c8d29e43f6"/>
+	</game>
+	<game name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3)" id="139531">
+		<category>Games</category>
+		<description>Mass Effect: Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3)</description>
+		<serial>102637503303</serial>
+		<rom name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3).iso" size="8535783424" crc="2608c1e4" md5="19868d14e3267fac2dc28fa2f3e00e8e" sha1="9bfcea6c892a8e3cf4b82183d97891e3ac11dcec"/>
+	</game>
+	<game name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 4)" id="139532">
+		<category>Games</category>
+		<description>Mass Effect: Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 4)</description>
+		<serial>102637503304</serial>
+		<rom name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 4).iso" size="8515594240" crc="85868f97" md5="02b3b9571728229eecf5382f44e9580e" sha1="e3e6f05aa987eb708d840b81ddc23decac9b82b5"/>
+	</game>
+	<game name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 5)" id="139533">
+		<category>Games</category>
+		<description>Mass Effect: Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 5)</description>
+		<serial>102637503305</serial>
+		<rom name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 5).iso" size="8535783424" crc="994893ff" md5="183906223fda6864586e4453f0a73113" sha1="57306170ee2af7e93e4b21b9e29b118986f6661b"/>
+	</game>
+	<game name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 6)" id="139534">
+		<category>Games</category>
+		<description>Mass Effect: Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 6)</description>
+		<serial>102637503306</serial>
+		<rom name="Mass Effect - Andromeda (Poland) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 6).iso" size="7897370624" crc="1d7b637f" md5="c452696abc4cabfeb14b0e9d450acec9" sha1="cf9da0dc24ff4e6fd6aed72a4063e4cb0e1869ad"/>
+	</game>
 	<game name="Mass Effect - Zolotoe izdanie (Russia) (En,Ru) (Disc 1) (Ustanovochnyj)" id="119108">
 		<category>Games</category>
 		<description>Mass Effect: Zolotoe izdanie (Russia) (En,Ru) (Disc 1) (Ustanovochnyj)</description>
@@ -122056,11 +122091,11 @@
 		<rom name="Mortal Kombat Trilogy (USA) (Track 29).bin" size="1063104" crc="626f3b24" md5="ab1232e0ff4e66f953cd2a3650381591" sha1="7377d668eb51b28d43027c08de4c919d74f37b70"/>
 		<rom name="Mortal Kombat Trilogy (USA).cue" size="3497" crc="d5bb1986" md5="f3312fb32842f2463e0ca9e88f677e2b" sha1="cbaddb041df4475840fa69cfa1a7264e5f4db470"/>
 	</game>
-	<game name="Mortal Kombat X (Australia)" id="125318">
+	<game name="Mortal Kombat X (Europe, Australia)" id="125318">
 		<category>Games</category>
-		<description>Mortal Kombat X (Australia)</description>
+		<description>Mortal Kombat X (Europe, Australia)</description>
 		<serial>2000109188/7000065597</serial>
-		<rom name="Mortal Kombat X (Australia).iso" size="2643460096" crc="d76373cd" md5="fd3c3365ff2d83e0c62a8dba3052aa04" sha1="1e88c7456be34becc27e80adda4131392bb56c9c"/>
+		<rom name="Mortal Kombat X (Europe, Australia).iso" size="2643460096" crc="d76373cd" md5="fd3c3365ff2d83e0c62a8dba3052aa04" sha1="1e88c7456be34becc27e80adda4131392bb56c9c"/>
 	</game>
 	<game name="Mortimer Beckett Hidden Object Collection (USA)" id="117883">
 		<category>Games</category>
@@ -127129,29 +127164,29 @@
 		<version>1.2</version>
 		<rom name="Need for Speed - Carbon - Collector's Edition (USA) (Game Disc).iso" size="4245880832" crc="09c86e03" md5="9828d0cbf1f09f4c85964dfea2778b49" sha1="627f3b978b513711bf815df81877ed7c5c62c15e"/>
 	</game>
-	<game name="Need for Speed - Heat (Poland) (Disc 1)" id="139349">
+	<game name="Need for Speed - Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 1)" id="139349">
 		<category>Games</category>
-		<description>Need for Speed: Heat (Poland) (Disc 1)</description>
+		<description>Need for Speed: Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 1)</description>
 		<serial>105516503301</serial>
-		<rom name="Need for Speed - Heat (Poland) (Disc 1).iso" size="8493918208" crc="5ce336ad" md5="2a00a9de9af327f396d0aa8268c3b6d4" sha1="8b38cebcf1c1bdd83f921372ebe3e213d0092bd0"/>
+		<rom name="Need for Speed - Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 1).iso" size="8493918208" crc="5ce336ad" md5="2a00a9de9af327f396d0aa8268c3b6d4" sha1="8b38cebcf1c1bdd83f921372ebe3e213d0092bd0"/>
 	</game>
-	<game name="Need for Speed - Heat (Poland) (Disc 2)" id="139350">
+	<game name="Need for Speed - Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 2)" id="139350">
 		<category>Games</category>
-		<description>Need for Speed: Heat (Poland) (Disc 2)</description>
+		<description>Need for Speed: Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 2)</description>
 		<serial>105516503302</serial>
-		<rom name="Need for Speed - Heat (Poland) (Disc 2).iso" size="8493840384" crc="fe65a5c6" md5="c7046e129f50ae6280b5fd6dbe05dd74" sha1="e902f172d6c7dec160f30ff867fe10cc04cc7242"/>
+		<rom name="Need for Speed - Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 2).iso" size="8493840384" crc="fe65a5c6" md5="c7046e129f50ae6280b5fd6dbe05dd74" sha1="e902f172d6c7dec160f30ff867fe10cc04cc7242"/>
 	</game>
-	<game name="Need for Speed - Heat (Poland) (Disc 3)" id="139351">
+	<game name="Need for Speed - Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 3)" id="139351">
 		<category>Games</category>
-		<description>Need for Speed: Heat (Poland) (Disc 3)</description>
+		<description>Need for Speed: Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 3)</description>
 		<serial>105516503303</serial>
-		<rom name="Need for Speed - Heat (Poland) (Disc 3).iso" size="8493840384" crc="585c78e5" md5="150de7556314ca26d61bf9098bde7545" sha1="796463297bfb277eca098bda687dacd1cc113c34"/>
+		<rom name="Need for Speed - Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 3).iso" size="8493840384" crc="585c78e5" md5="150de7556314ca26d61bf9098bde7545" sha1="796463297bfb277eca098bda687dacd1cc113c34"/>
 	</game>
-	<game name="Need for Speed - Heat (Poland) (Disc 4)" id="139352">
+	<game name="Need for Speed - Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 4)" id="139352">
 		<category>Games</category>
-		<description>Need for Speed: Heat (Poland) (Disc 4)</description>
+		<description>Need for Speed: Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 4)</description>
 		<serial>105516503304</serial>
-		<rom name="Need for Speed - Heat (Poland) (Disc 4).iso" size="2877908992" crc="e226dbeb" md5="4b88f3959284c265c2056a3831f59c6b" sha1="84e158de4114744f84aa90f99c993879eaf89610"/>
+		<rom name="Need for Speed - Heat (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar) (Disc 4).iso" size="2877908992" crc="e226dbeb" md5="4b88f3959284c265c2056a3831f59c6b" sha1="84e158de4114744f84aa90f99c993879eaf89610"/>
 	</game>
 	<game name="Need for Speed - High Stakes (USA) (En,Es)" id="10600">
 		<category>Games</category>
@@ -127258,23 +127293,23 @@
 		<rom name="Need for Speed - Most Wanted - Black Edition (USA) (Disc 4).bin" size="195218352" crc="575d4128" md5="b4617cead78061ede7913fb8e7627623" sha1="5bdecbb917f7dade1bafbc18ed70c05df4c5ccf4"/>
 		<rom name="Need for Speed - Most Wanted - Black Edition (USA) (Disc 4).cue" size="125" crc="7480546c" md5="62aa0d101108321c17202e326b37e4fa" sha1="f9bf92593a1c23fb4be5f1612666544bb9f4436f"/>
 	</game>
-	<game name="Need for Speed - Payback (Poland) (Disc 1)" id="139355">
+	<game name="Need for Speed - Payback (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (Disc 1)" id="139355">
 		<category>Games</category>
-		<description>Need for Speed: Payback (Poland) (Disc 1)</description>
+		<description>Need for Speed: Payback (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (Disc 1)</description>
 		<serial>103455703301</serial>
-		<rom name="Need for Speed - Payback (Poland) (Disc 1).iso" size="8493928448" crc="f0feda56" md5="78ea97290a965dd9b2af62c33772dbe9" sha1="0ce2a4429254b6caa9abb490e05140b1ac896b29"/>
+		<rom name="Need for Speed - Payback (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (Disc 1).iso" size="8493928448" crc="f0feda56" md5="78ea97290a965dd9b2af62c33772dbe9" sha1="0ce2a4429254b6caa9abb490e05140b1ac896b29"/>
 	</game>
-	<game name="Need for Speed - Payback (Poland) (Disc 2)" id="139354">
+	<game name="Need for Speed - Payback (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (Disc 2)" id="139354">
 		<category>Games</category>
-		<description>Need for Speed: Payback (Poland) (Disc 2)</description>
+		<description>Need for Speed: Payback (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (Disc 2)</description>
 		<serial>103455703302</serial>
-		<rom name="Need for Speed - Payback (Poland) (Disc 2).iso" size="8493840384" crc="b4d0e71c" md5="9ecb970b5a7a4f64098987a9be44c5ee" sha1="778af405f79c8397beddb046dd58ae6eafcb5c83"/>
+		<rom name="Need for Speed - Payback (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (Disc 2).iso" size="8493840384" crc="b4d0e71c" md5="9ecb970b5a7a4f64098987a9be44c5ee" sha1="778af405f79c8397beddb046dd58ae6eafcb5c83"/>
 	</game>
-	<game name="Need for Speed - Payback (Poland) (Disc 3)" id="139356">
+	<game name="Need for Speed - Payback (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (Disc 3)" id="139356">
 		<category>Games</category>
-		<description>Need for Speed: Payback (Poland) (Disc 3)</description>
+		<description>Need for Speed: Payback (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (Disc 3)</description>
 		<serial>103455703403</serial>
-		<rom name="Need for Speed - Payback (Poland) (Disc 3).iso" size="4706576384" crc="727d2d5b" md5="aeca9b0c70f68217dfa2a896314abc27" sha1="28ec8691e21803baa535943f3c931544455de992"/>
+		<rom name="Need for Speed - Payback (Poland) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (Disc 3).iso" size="4706576384" crc="727d2d5b" md5="aeca9b0c70f68217dfa2a896314abc27" sha1="28ec8691e21803baa535943f3c931544455de992"/>
 	</game>
 	<game name="Need for Speed - Porsche (Germany)" id="41153">
 		<category>Games</category>
@@ -178829,6 +178864,11 @@
 		<rom name="Star Wars - Jedi Knight - Dark Forces II (USA) (Disc 2) (Track 12).bin" size="24846528" crc="bba4e760" md5="88593a9dfe80bb54d0776ad1e959179a" sha1="3ca0f9f3eb0b89ab45d54d207803ba9f95bccf5b"/>
 		<rom name="Star Wars - Jedi Knight - Dark Forces II (USA) (Disc 2).cue" size="1805" crc="145c20f7" md5="9e18332183529e78a473723daf800979" sha1="b7dbf271f89327096ed51c38c25a69101393aa58"/>
 	</game>
+	<game name="Star Wars - Jedi Knight - Dark Forces II (USA) (En,Fr,Es,It) (Limited Run Games)" id="139541">
+		<category>Games</category>
+		<description>Star Wars: Jedi Knight: Dark Forces II (USA) (En,Fr,Es,It) (Limited Run Games)</description>
+		<rom name="Star Wars - Jedi Knight - Dark Forces II (USA) (En,Fr,Es,It) (Limited Run Games).iso" size="3489366016" crc="7885d081" md5="4869446f5ab244cb0bc63f7e0af60aae" sha1="aff0eefa408130d2a0c7a8a0017339b4e6fbcb3d"/>
+	</game>
 	<game name="Star Wars - Jedi Knight - Jedi Academy (USA) (En,Fr,De,Es) (Disc 1) (Rerelease) (2011-01-07)" id="45620">
 		<category>Games</category>
 		<description>Star Wars: Jedi Knight: Jedi Academy (USA) (En,Fr,De,Es) (Disc 1) (Rerelease) (2011-01-07)</description>
@@ -179220,6 +179260,11 @@
 		<serial>2061830</serial>
 		<rom name="Star Wars - TIE Fighter - Collector's CD-ROM (USA).bin" size="623839776" crc="52d13aeb" md5="4c56b69ae72ca2cb9c1eaa0cfcc2ef88" sha1="52f6900245257b15d1f22e31c3c1f869bf8da194"/>
 		<rom name="Star Wars - TIE Fighter - Collector's CD-ROM (USA).cue" size="116" crc="3bc71824" md5="6f58e914788026fa4b3387f12616bee6" sha1="7fa7442f0e45996df0a7885a0815881c872bffba"/>
+	</game>
+	<game name="Star Wars - TIE Fighter - Special Edition (USA) (Limited Run Games)" id="139544">
+		<category>Games</category>
+		<description>Star Wars: TIE Fighter: Special Edition (USA) (Limited Run Games)</description>
+		<rom name="Star Wars - TIE Fighter - Special Edition (USA) (Limited Run Games).iso" size="963280896" crc="84bf9f8c" md5="310346bec130eaf24c6e9db1efa673d5" sha1="0b607edf6cb24f5cca163bd4216d45ef12ce84aa"/>
 	</game>
 	<game name="Star Wars - The Best of PC (USA) (Star Wars - Empire at War &amp; Star Wars - Knights of the Old Republic)" id="30500">
 		<category>Games</category>

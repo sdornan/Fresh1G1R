@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (977) (-y) [-aAbBcefkmMoprv] (20261018-055940) (Retool)</description>
-		<version>20261018-055940</version>
-		<date>2026-10-19 07-40-51</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (977) (-y) [-aAbBcefkmMoprv] (20261019-130123) (Retool)</description>
+		<version>20261019-130123</version>
+		<date>2026-10-20 07-30-01</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -40,6 +40,12 @@
 		<description>2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000018BE00</game_id>
 		<rom name="2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="9af528f9" md5="d45d799eef9698a3031f147f47fab282" sha1="9e50ba7ff16fba4e8f6114ac7f122fb15d8ba087" sha256="88882fdd954d0768a82027669ec0e24033729163f82d80db5ca00fd8d9e78dd7"/>
+	</game>
+	<game name="2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="0626">
+		<category>Games</category>
+		<description>2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
+		<game_id>0004000000111300</game_id>
+		<rom name="2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).3ds" size="268435456" crc="3b79e227" md5="896722f5d91bd6c5aeb191b2109c5d70" sha1="58cd28feb87843ccf486e8cdb90b21ec8417ab07" sha256="fb8217274167f3604c6641ce7c22fe4aa620e8111d50792c196b0426a44eaa03"/>
 	</game>
 	<game name="35 Classic Games (Europe) (En,Fr,Es,It)" id="0186">
 		<category>Games</category>
@@ -1171,6 +1177,7 @@
 	<game name="Dora-Chie - Mini-Dora Ongakutai to Nanatsu no Chie (Japan) (Rev 2)" id="1873">
 		<category>Games</category>
 		<description>Dora-Chie - Mini-Dora Ongakutai to Nanatsu no Chie (Japan) (Rev 2)</description>
+		<game_id>00040000000EA500</game_id>
 		<rom name="Dora-Chie - Mini-Dora Ongakutai to Nanatsu no Chie (Japan) (Rev 2).3ds" size="268435456" crc="750e5207" md5="f4956af6c30d0b77cfa227d8deb3e427" sha1="58f46067d89d8b1158ab2028aeecc1e9d6d48499" sha256="7ca6a5ce639652c5e410583313be69d39c1beb3da77084a3b3b05f01fd4f12c6"/>
 	</game>
 	<game name="DoraEigo - Nobita to Yousei no Fushigi Collection (Japan)" id="1140">
@@ -2050,7 +2057,7 @@
 		<category>Games</category>
 		<description>Horrid Henry - The Good, the Bad &amp; the Bugly (Europe)</description>
 		<game_id>0004000000071800</game_id>
-		<rom name="Horrid Henry - The Good, the Bad &amp; the Bugly (Europe).3ds" size="268435456" crc="c37f61f1" md5="dd5271f30d6cb0b62fbb0be59e8586e6" sha1="9a453d17e13205c6325546e6fd8a0d2cf9f2021c"/>
+		<rom name="Horrid Henry - The Good, the Bad &amp; the Bugly (Europe).3ds" size="268435456" crc="c37f61f1" md5="dd5271f30d6cb0b62fbb0be59e8586e6" sha1="9a453d17e13205c6325546e6fd8a0d2cf9f2021c" sha256="17495c0f18d64d147a53988fd317f1ab8ea53d8930328102a265d865ce6cf1a3"/>
 	</game>
 	<game name="Horse Life 4 (Europe) (En,Fr,De,Es,It)" id="1388">
 		<category>Games</category>
@@ -2480,6 +2487,7 @@
 	</game>
 	<game name="Kirby - Triple Deluxe (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x034">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Kirby - Triple Deluxe (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000122E00</game_id>
 		<rom name="Kirby - Triple Deluxe (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="268435456" crc="d9e7f4ec" md5="45f69388b86bb9421dd857ec33d5821f" sha1="a76c877ef28d27685e3f2c0b76d10e50c2db4f69"/>
@@ -3625,6 +3633,7 @@
 	</game>
 	<game name="New Super Mario Bros. 2 (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x006">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>New Super Mario Bros. 2 (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>00040000000B2500</game_id>
 		<rom name="New Super Mario Bros. 2 (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="268435456" crc="44169c4b" md5="e8028597647c9103d2dc241b27233e6a" sha1="20e7d414c7c6dfbdd01ecf0829ccee76473f55d2"/>
@@ -5663,12 +5672,6 @@
 		<category>Games</category>
 		<description>WarioWare Gold (USA) (Rev 1)</description>
 		<rom name="WarioWare Gold (USA) (Rev 1).3ds" size="2147483648" crc="e2bcebb2" md5="f40bb52ad134c05decc57f4bb9e3027e" sha1="16f3d62884ccade9ddfee4ee55885ed19552b72e" sha256="8d452adc83d706799424ffb3a646545727f15a808a9a5106e61aa0d6301973ee"/>
-	</game>
-	<game name="Whitakers Present, The - Milton &amp; Friends 3D (Europe)" id="0799">
-		<category>Games</category>
-		<description>Whitakers Present, The - Milton &amp; Friends 3D (Europe)</description>
-		<game_id>0004000000064E00</game_id>
-		<rom name="Whitakers Present, The - Milton &amp; Friends 3D (Europe).3ds" size="134217728" crc="0dec96c5" md5="167727f695829aece3f00ad0bcb46c6e" sha1="df4eaaad54900d4107992a226559b51f52c35cfd"/>
 	</game>
 	<game name="Winter Sports 2012 - Feel the Spirit (Europe) (En,Fr,De,It)" id="0286">
 		<category>Games</category>

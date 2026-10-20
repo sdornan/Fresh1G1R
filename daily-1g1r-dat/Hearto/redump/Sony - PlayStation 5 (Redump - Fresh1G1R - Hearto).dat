@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (377) (-y) [-aAbBcefkmMoprv] (2026-10-18 21-17-24) (Retool)</description>
-		<version>2026-10-18 21-17-24</version>
-		<date>2026-10-19 07-37-17</date>
+		<description>Sony - PlayStation 5 (377) (-y) [-aAbBcefkmMoprv] (2026-10-19 14-54-02) (Retool)</description>
+		<version>2026-10-19 14-54-02</version>
+		<date>2026-10-20 07-28-16</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -151,12 +151,12 @@
 		<version>01.00</version>
 		<rom name="Asterix &amp; Obelix - Slap Them All (Europe).iso" size="40008351744" crc="f7557f59" md5="e6b75cb4b6b25109abbfc61b402359c1" sha1="3672088e1c9332edb056e1b3bfefc7a97d9feff7"/>
 	</game>
-	<game name="Astro Bot (Europe)" id="120727">
+	<game name="Astro Bot (Europe, Australia)" id="120727">
 		<category>Games</category>
-		<description>Astro Bot (Europe)</description>
-		<serial>PPSA-21567</serial>
+		<description>Astro Bot (Europe, Australia)</description>
+		<serial>PPSA-21567, PPSA-21567 ANZ</serial>
 		<version>01.00</version>
-		<rom name="Astro Bot (Europe).iso" size="40008351744" crc="0ec01ddf" md5="33b52e3353378e5bf969fc5863a93475" sha1="e7ccaad9fa68e8da8f9287746e2fcfd6a2cb6dcf"/>
+		<rom name="Astro Bot (Europe, Australia).iso" size="40008351744" crc="0ec01ddf" md5="33b52e3353378e5bf969fc5863a93475" sha1="e7ccaad9fa68e8da8f9287746e2fcfd6a2cb6dcf"/>
 	</game>
 	<game name="Astro Bot (USA, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Uk,El,Cs,Hu,Ar,Th,Tr,Ro,Id,Vi)" id="118164">
 		<category>Games</category>
@@ -592,12 +592,12 @@
 		<version>01.00</version>
 		<rom name="Doom - The Dark Ages (USA).iso" size="40008351744" crc="1b18846b" md5="3c5ad7cbab14333d796a50256306c22c" sha1="0bfa1b53664b1dce6fda9fb39d40e88c5a8b1914"/>
 	</game>
-	<game name="Dragon Age - The Veilguard (USA, Europe)" id="134337">
+	<game name="Dragon Age - The Veilguard (USA, Europe) (En,Fr,De,Es,It,Nl,Pl)" id="134337">
 		<category>Games</category>
-		<description>Dragon Age: The Veilguard (USA, Europe)</description>
+		<description>Dragon Age: The Veilguard (USA, Europe) (En,Fr,De,Es,It,Nl,Pl)</description>
 		<serial>PPSA-01390</serial>
 		<version>01.00</version>
-		<rom name="Dragon Age - The Veilguard (USA, Europe).iso" size="87922049024" crc="d65fca6c" md5="3448dfe8cecab78a0779e3ea739566cc" sha1="1605b3bfb9419e6de98d6ee7ff10fc11ac1406b8"/>
+		<rom name="Dragon Age - The Veilguard (USA, Europe) (En,Fr,De,Es,It,Nl,Pl).iso" size="87922049024" crc="d65fca6c" md5="3448dfe8cecab78a0779e3ea739566cc" sha1="1605b3bfb9419e6de98d6ee7ff10fc11ac1406b8"/>
 	</game>
 	<game name="Dragon Ball - Sparking! Zero (USA)" id="119501">
 		<category>Games</category>
@@ -1495,12 +1495,12 @@
 		<version>01.01</version>
 		<rom name="Metal Gear Solid Delta - Snake Eater (World).iso" size="72973680640" crc="f36abeb9" md5="ae81a3e92faebe59c9adb823796380af" sha1="5f06eac302535795f6f119d59f8f9d6716460625"/>
 	</game>
-	<game name="Metaphor - ReFantazio (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)" id="126293">
+	<game name="Metaphor - ReFantazio (Europe, Australia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)" id="126293">
 		<category>Games</category>
-		<description>Metaphor: ReFantazio (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)</description>
+		<description>Metaphor: ReFantazio (Europe, Australia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)</description>
 		<serial>PPSA-20799</serial>
 		<version>01.00</version>
-		<rom name="Metaphor - ReFantazio (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso" size="41430941696" crc="c437a9a8" md5="814c818cb54209a4164325adf0c2e60d" sha1="666751b5c2cc2b488f2542aea576cb2b106bd128"/>
+		<rom name="Metaphor - ReFantazio (Europe, Australia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso" size="41430941696" crc="c437a9a8" md5="814c818cb54209a4164325adf0c2e60d" sha1="666751b5c2cc2b488f2542aea576cb2b106bd128"/>
 	</game>
 	<game name="Microsoft Flight Simulator 2024 (USA, Europe)" id="134073">
 		<category>Games</category>

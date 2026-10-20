@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (542) (-ly) [-aAbBcdDefkmMopPruv] (20261018-055940) (Retool)</description>
-		<version>20261018-055940</version>
-		<date>2026-10-19 07-48-16</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (542) (-ly) [-aAbBcdDefkmMopPruv] (20261019-130123) (Retool)</description>
+		<version>20261019-130123</version>
+		<date>2026-10-20 07-37-31</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -16,6 +16,12 @@
 		<description>2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000018BE00</game_id>
 		<rom name="2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="7cc75078" md5="5ed0af43ae87b55cbaa8982e43a0bd35" sha1="911f480349ce36e417a335b22f02c4e04f6b5129" sha256="14c1afc68722531dbf7191929184a5ef90b81d7838b009254a2cdfe161959928"/>
+	</game>
+	<game name="2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="0626">
+		<category>Games</category>
+		<description>2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
+		<game_id>0004000000111300</game_id>
+		<rom name="2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).3ds" size="268435456" crc="83579fd8" md5="e107f2225630b500e80c100c02f8dc4b" sha1="b7444a7f911d044c7a6c34e1c91feb2d2bd99d4e" sha256="367a6d98f363359f95fcf3fe17af6c430d9898e09002973def4be5e05cc5bdfe"/>
 	</game>
 	<game name="35 Classic Games (Europe) (En,Fr,Es,It)" id="0186">
 		<category>Games</category>
@@ -1152,7 +1158,7 @@
 		<category>Games</category>
 		<description>Horrid Henry - The Good, the Bad &amp; the Bugly (Europe)</description>
 		<game_id>0004000000071800</game_id>
-		<rom name="Horrid Henry - The Good, the Bad &amp; the Bugly (Europe).3ds" size="268435456" crc="eb751bf1" md5="69332089c6a87f3d71e7e1b6c9706294" sha1="2c919cc9c78322a118fd4d33be57c9031fb55c99"/>
+		<rom name="Horrid Henry - The Good, the Bad &amp; the Bugly (Europe).3ds" size="268435456" crc="eb751bf1" md5="69332089c6a87f3d71e7e1b6c9706294" sha1="2c919cc9c78322a118fd4d33be57c9031fb55c99" sha256="6cef15868ba66794249b1023105524a0efa7d7e49de79e59b1a1e4e4af661d1d"/>
 	</game>
 	<game name="Horse Life 4 (Europe) (En,Fr,De,Es,It)" id="1388">
 		<category>Games</category>
@@ -3124,12 +3130,6 @@
 		<category>Games</category>
 		<description>WarioWare Gold (USA) (Rev 1)</description>
 		<rom name="WarioWare Gold (USA) (Rev 1).3ds" size="2147483648" crc="9eca8de4" md5="e6ee5b0bfb73179fc9628dc6d49fb1dd" sha1="6ba9d94ac9798ebfa9788566d8153b7f4022938d" sha256="03fc72045e50c196576f8b554247fd2090830e99babd3e52b71f8d8e9f45c41d"/>
-	</game>
-	<game name="Whitakers Present, The - Milton &amp; Friends 3D (Europe)" id="0799">
-		<category>Games</category>
-		<description>Whitakers Present, The - Milton &amp; Friends 3D (Europe)</description>
-		<game_id>0004000000064E00</game_id>
-		<rom name="Whitakers Present, The - Milton &amp; Friends 3D (Europe).3ds" size="134217728" crc="358aa45b" md5="439e9a4366bc6f807359e966d9967ac3" sha1="bbff5760145a16bd1ef6eb57609e1dde2a734796"/>
 	</game>
 	<game name="Winter Sports 2012 - Feel the Spirit (Europe) (En,Fr,De,It)" id="0286">
 		<category>Games</category>

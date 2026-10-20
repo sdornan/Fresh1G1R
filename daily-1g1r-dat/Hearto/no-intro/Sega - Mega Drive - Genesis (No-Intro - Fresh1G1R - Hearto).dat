@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (1,208) (-y) [-aAbBcefkmMoprv] (20261018-051908) (Retool)</description>
-		<version>20261018-051908</version>
-		<date>2026-10-19 07-37-51</date>
+		<description>Sega - Mega Drive - Genesis (1,209) (-y) [-aAbBcefkmMoprv] (20261019-051252) (Retool)</description>
+		<version>20261019-051252</version>
+		<date>2026-10-20 07-28-32</date>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -713,7 +713,7 @@
 	<game name="Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)" id="0230">
 		<category>Games</category>
 		<description>Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)</description>
-		<rom name="Bubsy in - Claws Encounters of the Furred Kind (USA, Europe).md" size="2097152" crc="3e30d365" md5="a603f331d2d8700543a67c60342e38f7" sha1="719140754763e5062947ef9e76ee748cfad38202"/>
+		<rom name="Bubsy in - Claws Encounters of the Furred Kind (USA, Europe).md" size="2097152" crc="3e30d365" md5="a603f331d2d8700543a67c60342e38f7" sha1="719140754763e5062947ef9e76ee748cfad38202" sha256="9a194c00569e386fc4b2293c2d9996ba7961f7c0c49d3ec3c1399feab988b94f"/>
 	</game>
 	<game name="Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection)" id="3852">
 		<category>Games</category>
@@ -2628,10 +2628,15 @@
 		<description>Landstalker (USA) (Mega Drive Mini, Genesis Mini)</description>
 		<rom name="Landstalker (USA) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="f2d14a6a" md5="dbaa50ee8b061b573c33337e18329ecd" sha1="492f27fa2c4f653ab23f6fcc049bf670a205ff4c" sha256="7e1700c782e5fdd8e3a2f2d8207d58a722c7968d2d765d57da8dddf8d8837fa8"/>
 	</game>
-	<game name="Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini)" id="2544">
+	<game name="Landstalker - Die Schaetze von Koenig Nolo (Germany)" id="0722">
 		<category>Games</category>
-		<description>Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini)</description>
-		<rom name="Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="fc64bb8c" md5="890171e3d0671b0ac49470e592f0ea99" sha1="1f4e6b414da8e7348a942452f95b8468b2e39b31" sha256="6dd354de9f12f0023954b497e7c260867474dce0c3eef918ab3b0a9113d821cc"/>
+		<description>Landstalker - Die Schaetze von Koenig Nolo (Germany)</description>
+		<rom name="Landstalker - Die Schaetze von Koenig Nolo (Germany).md" size="2097152" crc="10fedb8f" md5="2b6ee5677a6233fd98f0b90b51684991" sha1="b0b447158cabb562e6bf4c0b829ed938b34afb52" sha256="22b4e3dbca86dc179ee279fbcee9ce1569e6e21006815557ffd17a81d80647de"/>
+	</game>
+	<game name="Landstalker - Die Schaetze von Koenig Nolo (Germany) (Mega Drive Mini, Genesis Mini)" id="2544">
+		<category>Games</category>
+		<description>Landstalker - Die Schaetze von Koenig Nolo (Germany) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Landstalker - Die Schaetze von Koenig Nolo (Germany) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="fc64bb8c" md5="890171e3d0671b0ac49470e592f0ea99" sha1="1f4e6b414da8e7348a942452f95b8468b2e39b31" sha256="6dd354de9f12f0023954b497e7c260867474dce0c3eef918ab3b0a9113d821cc"/>
 	</game>
 	<game name="Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini, Genesis Mini)" id="2545">
 		<category>Games</category>
