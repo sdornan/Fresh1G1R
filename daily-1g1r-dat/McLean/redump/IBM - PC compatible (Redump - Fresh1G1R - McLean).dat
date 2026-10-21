@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,637) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-20 01-08-49) (Retool)</description>
-		<version>2026-10-20 01-08-49</version>
-		<date>2026-10-20 07-34-25</date>
+		<description>IBM - PC compatible (13,651) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-20 21-52-14) (Retool)</description>
+		<version>2026-10-20 21-52-14</version>
+		<date>2026-10-21 07-28-57</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1770,28 +1770,28 @@
 		<rom name="Absolute Pinball (USA).bin" size="60564000" crc="f29d3fe8" md5="0872a1f8e68075e492d9d09af4817d68" sha1="c97a5aaa9518b224f18e3725ab1a5d27bbb8d5a1"/>
 		<rom name="Absolute Pinball (USA).cue" size="111" crc="7eb1ae59" md5="6f63b9dc49304d09c0399d8d86392cf3" sha1="613b1f97be4eb53356b65d9a5ca56f5646696724"/>
 	</game>
-	<game name="Absolute Terror (UK)" id="130286">
+	<game name="Absolute Terror (USA)" id="139561">
 		<category>Games</category>
-		<description>Absolute Terror (UK)</description>
-		<serial>APWCDR1009</serial>
-		<rom name="Absolute Terror (UK) (Track 01).bin" size="56906640" crc="9d4bdaf7" md5="2b23efa0ab4ceaa3a7918bdc4e4ae6b2" sha1="1371066af819d4e86737b0775376e526f2ee33b6"/>
-		<rom name="Absolute Terror (UK) (Track 02).bin" size="55177920" crc="92be268a" md5="5068bf92bac37c033ba228eaa0002b23" sha1="fa7d17fb6a72e5052ba7d9bc2e634215d32e368b"/>
-		<rom name="Absolute Terror (UK) (Track 03).bin" size="36498336" crc="12f86dad" md5="ef41d1a4a2e6a224061a1303e5fe88d5" sha1="7861fee74eec47fcd023867b475219f4b019cb7f"/>
-		<rom name="Absolute Terror (UK) (Track 04).bin" size="28964880" crc="6f419a21" md5="481ecf7c6181dbfe9ed0dd3b343474d5" sha1="114d0306c315041538f569f5701a35b84c9b640f"/>
-		<rom name="Absolute Terror (UK) (Track 05).bin" size="51337104" crc="ada3933f" md5="2c6c9902e73a0fdc4b79c88dc0e79557" sha1="94025d8ea17450fc57a61c69996891349852c341"/>
-		<rom name="Absolute Terror (UK) (Track 06).bin" size="16661568" crc="4ba2d560" md5="d1f6bdfdf636c904082b212a251fefc3" sha1="649739a19f568f895ca06b15c0505907ae87d96a"/>
-		<rom name="Absolute Terror (UK) (Track 07).bin" size="39901680" crc="6e1a0fd9" md5="e40a6ef811cb8c314e8ffc8e14710db6" sha1="14a6ce53156443b7392f22d8faff50e4ee5d3887"/>
-		<rom name="Absolute Terror (UK) (Track 08).bin" size="22372224" crc="a18274a9" md5="1da38f079e8f99543aea67c9d40522e1" sha1="85eaf185c92c0a263a13586e6ac3c24f953d34e1"/>
-		<rom name="Absolute Terror (UK) (Track 09).bin" size="16896768" crc="9787fd93" md5="61d974a1615365e42bcb5082d3c2022e" sha1="c6e03b6cda4d56c4228bbbe6838e1aabd82d0edf"/>
-		<rom name="Absolute Terror (UK) (Track 10).bin" size="7023072" crc="c495233d" md5="6f0a65573c9107bcb9e3401c0d8fb1ba" sha1="d2d5b64b603790b788b69dd81b7db5fc33689a64"/>
-		<rom name="Absolute Terror (UK) (Track 11).bin" size="46129776" crc="29cb8522" md5="dd1fb82eb300c92b2553962d8f640f02" sha1="7734bd55f6fe4e93339b160a1b79f09b55604588"/>
-		<rom name="Absolute Terror (UK) (Track 12).bin" size="38518704" crc="c31747cc" md5="8a4de2e8935809f70b3f0611cd81b6e1" sha1="9d73a766dd98dffa4743079299f461bc298adf43"/>
-		<rom name="Absolute Terror (UK) (Track 13).bin" size="33591264" crc="18b07f6b" md5="1da2493c10200eb90cddc4dd5c0c9608" sha1="7ee715df0bbd0aab15488ce5b45a21340ddcd88b"/>
-		<rom name="Absolute Terror (UK) (Track 14).bin" size="40341504" crc="ad86f099" md5="9c95387e83efa5d071302725ef903bbe" sha1="d80e11fbcf3c5e9bd3ea96dfa6b2e03f69c1c0dc"/>
-		<rom name="Absolute Terror (UK) (Track 15).bin" size="41011824" crc="9b0bbae1" md5="e52475c0810b563ffb45aafe6ac086e2" sha1="bff955dc85b657b680b1023de6ad583ba5b549e1"/>
-		<rom name="Absolute Terror (UK) (Track 16).bin" size="45407712" crc="20014be2" md5="79ef6de612b5c21df34b39d83c1ee6a5" sha1="32c5e3864bb8e71494d5f7893b048090b3bb1e2b"/>
-		<rom name="Absolute Terror (UK) (Track 17).bin" size="52945872" crc="e40d1d11" md5="29a2c9c028fe1947c5acf0fcc65c5147" sha1="eeddfc229ef2bdaecbc773d6138dcdf7d5621ee7"/>
-		<rom name="Absolute Terror (UK).cue" size="2177" crc="5091239d" md5="1f76f4fa83f33f04e17a0343c26d1c9e" sha1="8db6218a06983be75d51586c12ed59733cd9b43a"/>
+		<description>Absolute Terror (USA)</description>
+		<version>1.0</version>
+		<rom name="Absolute Terror (USA) (Track 01).bin" size="204155952" crc="74c08dd8" md5="4e2bc35e529d9bdbf03e024efe6fbfe4" sha1="4170ef6f70fa3cecee86aa48f45a3cfd117fb533"/>
+		<rom name="Absolute Terror (USA) (Track 02).bin" size="55177920" crc="2abbf776" md5="5c2881d16f0503fe7b8e1fdee5cd182a" sha1="0251e13602ace9ac81e44070778a950dd63c5c65"/>
+		<rom name="Absolute Terror (USA) (Track 03).bin" size="36145536" crc="ad7b7efa" md5="3fe74433022c4492208bfa5a404b2a5a" sha1="69d866937b05b694631bfaacda108c17d516f9a9"/>
+		<rom name="Absolute Terror (USA) (Track 04).bin" size="28612080" crc="79c9f69b" md5="b23293678aa882512f0f5cc0a91961f6" sha1="d16d12235a1a955b456656dd113cdb7ace7d2ddd"/>
+		<rom name="Absolute Terror (USA) (Track 05).bin" size="50984304" crc="495cf928" md5="527483222863725c5583ba4117b867b5" sha1="8948cad4485c0ab87f3e291f7afec6a27dac2a85"/>
+		<rom name="Absolute Terror (USA) (Track 06).bin" size="16308768" crc="d1c47077" md5="b36eb8ac79f98f3b148b8fac5c92cc3b" sha1="e45c3740e90f1ca376b277d675ac05251d4ed65a"/>
+		<rom name="Absolute Terror (USA) (Track 07).bin" size="39551232" crc="77e9d064" md5="16dcf9e2d8ed65fb22e1cc6c12c1db98" sha1="88440e581d2cb90511cb5da85098273f04bc7ebb"/>
+		<rom name="Absolute Terror (USA) (Track 08).bin" size="22019424" crc="296f2378" md5="443a5ba7f746a7b5ad07c9f0f0e81873" sha1="672ada560192e8407a446385b34b19d9623a78aa"/>
+		<rom name="Absolute Terror (USA) (Track 09).bin" size="16543968" crc="4497d640" md5="dfff59025675e0027b167a454c7ddae7" sha1="9cd94eb8bdbe15b4a8e3a848760718bba336f413"/>
+		<rom name="Absolute Terror (USA) (Track 10).bin" size="6670272" crc="3049ccf8" md5="10d91557b799cfd7c37f17e1abed9227" sha1="cc8b5cdcbfeefa5ba1796bc4b3012e84e5c4de97"/>
+		<rom name="Absolute Terror (USA) (Track 11).bin" size="45776976" crc="aeb372b1" md5="2c50a5f652f009f66d8e623979c12fae" sha1="6e76f5cf525e3fc1514cbbdf2837d38b83dfac64"/>
+		<rom name="Absolute Terror (USA) (Track 12).bin" size="38165904" crc="cafcefac" md5="cd677199bdd7a13e76b57b696afd8c55" sha1="84d10e4a1ebf967903a3fd7710e235ea5350250f"/>
+		<rom name="Absolute Terror (USA) (Track 13).bin" size="33238464" crc="75fe6c29" md5="93fae3cf845ba3ea2e495b04f9984be5" sha1="dbac9f162b31c3ec069287c0c8178077129c1e87"/>
+		<rom name="Absolute Terror (USA) (Track 14).bin" size="39988704" crc="9cae3b00" md5="52e251152279aef50d1750c4311f62c8" sha1="595b6856fb484cbc2445ba227e05559c4eb976e9"/>
+		<rom name="Absolute Terror (USA) (Track 15).bin" size="40659024" crc="7d3bde13" md5="806a9a4f708e0ac5d1c79d9eb0933b07" sha1="b5f8d3be95e6e6e719c9fa43d1818dec501600a3"/>
+		<rom name="Absolute Terror (USA) (Track 16).bin" size="45054912" crc="9f09fd52" md5="ca58e11bc016961b6af32a000c332681" sha1="31326536abb27a613ccd9a8e848d74cda98ec9c2"/>
+		<rom name="Absolute Terror (USA) (Track 17).bin" size="52593072" crc="ae67c6d2" md5="78a092ba4a41eac944db312b880b9d34" sha1="a5ff8fc8694f3e492002958880c1585becc4ee42"/>
+		<rom name="Absolute Terror (USA).cue" size="1609" crc="14b068cf" md5="3b92a69679045c68c9123297df90e019" sha1="7e11a0d8229fb8217b848af32546d8848e991f2e"/>
 	</game>
 	<game name="Absolute Zero (Europe)" id="98262">
 		<category>Games</category>
@@ -11525,6 +11525,12 @@
 		<rom name="Blackhawk (Europe) (En,Fr,De).bin" size="6218688" crc="8fe67eb5" md5="d1259beb9eb449cab1b0c1dd9dfe1c01" sha1="0bee0c935c00ec7564610ad365288c6a32bf1664"/>
 		<rom name="Blackhawk (Europe) (En,Fr,De).cue" size="95" crc="daf74d25" md5="4b09e40a73e71d3c03ed1efb1f89f139" sha1="5b069e6a4c2f673f4462b1d92f771429565de5d3"/>
 	</game>
+	<game name="Blackjack (USA)" id="139562">
+		<category>Games</category>
+		<description>Blackjack (USA)</description>
+		<rom name="Blackjack (USA).bin" size="20718768" crc="57ed47e9" md5="11aee0de9e5978c3cf92477166407c29" sha1="262cc5a1cd473dce11ed60a4d7b0dc9321170de8"/>
+		<rom name="Blackjack (USA).cue" size="81" crc="3bac113a" md5="439c95649d77b0cbe463555ca977abfb" sha1="361060824a0017169be1b7663ccb031b59b1922f"/>
+	</game>
 	<game name="Blacksad - Under the Skin (Europe)" id="138026">
 		<category>Games</category>
 		<description>Blacksad: Under the Skin (Europe)</description>
@@ -12172,6 +12178,13 @@
 		<serial>APWCDR1013</serial>
 		<rom name="Boabite 3D (Europe).bin" size="69442800" crc="cf1fbce9" md5="0718a52db216da9406ac04550b6b1e5a" sha1="2cdbb92a9586d4e7003ca543a81d87ed3e4df354"/>
 		<rom name="Boabite 3D (Europe).cue" size="85" crc="216c81b0" md5="9d402d8752d1106cf616b1d28b514379" sha1="76fcdb15c77ed7b61722e655be50d81e987ea202"/>
+	</game>
+	<game name="Board Game Pack (USA)" id="139563">
+		<category>Games</category>
+		<description>Board Game Pack (USA)</description>
+		<serial>BGP344AE-CD</serial>
+		<rom name="Board Game Pack (USA).bin" size="38434032" crc="bf810d62" md5="c2a8a0afbbed19b6a6a63e64c7c5f11c" sha1="44edeee263a3f51c1952e2313fb2bb3375c4926b"/>
+		<rom name="Board Game Pack (USA).cue" size="110" crc="7eecc3ac" md5="0f3e702f54802d6041c11b04c266560d" sha1="d4af2e1e1e38a85ab79723daaec66002059b8f3a"/>
 	</game>
 	<game name="Board Games &amp; Chessmaster 8000 (USA) (Disc 1)" id="132648">
 		<category>Games</category>
@@ -20422,11 +20435,13 @@
 		<rom name="Crossroads - Green Wave (UK).bin" size="119309904" crc="73a47ffa" md5="56f53e7f328cc8e306d703bde4d1038e" sha1="3ff09a2a352c49571b603bf48cfdd4901a4e2f75"/>
 		<rom name="Crossroads - Green Wave (UK).cue" size="94" crc="76bbae7d" md5="9d88a234272e6212748220ba8e457b96" sha1="e75f87345a001b3becba67b08de0e889168b9f2d"/>
 	</game>
-	<game name="Crossword Addict (Australia)" id="125022">
+	<game name="Crossword Addict (USA, Australia)" id="125022">
 		<category>Games</category>
-		<description>Crossword Addict (Australia)</description>
-		<rom name="Crossword Addict (Australia).bin" size="7542864" crc="7d2fdd58" md5="bcf766d4e1282bd8e54a886989c8b715" sha1="9f9cdfe698892e31fdeb19643f14d4130b79334f"/>
-		<rom name="Crossword Addict (Australia).cue" size="94" crc="f3a9d927" md5="22c42a36bebba46265bf3a635a1fcb93" sha1="d336308c43857f5fb6a82121701884aaac7117a6"/>
+		<description>Crossword Addict (USA, Australia)</description>
+		<serial>Master # 0120A</serial>
+		<version>v2</version>
+		<rom name="Crossword Addict (USA, Australia).bin" size="7542864" crc="7d2fdd58" md5="bcf766d4e1282bd8e54a886989c8b715" sha1="9f9cdfe698892e31fdeb19643f14d4130b79334f"/>
+		<rom name="Crossword Addict (USA, Australia).cue" size="99" crc="dee82121" md5="e53f87736b42cd155ac06dbbccd18824" sha1="0457d07f7f177e5872067d67b0065f6fd94ac845"/>
 	</game>
 	<game name="Crossword Buff 1501 (UK)" id="121334">
 		<category>Games</category>
@@ -20440,6 +20455,12 @@
 		<description>Crossword Creator (Australia)</description>
 		<rom name="Crossword Creator (Australia).bin" size="5397840" crc="2cc4c01a" md5="c80f713383e30d0135227e3066350876" sha1="927b3c313643461483744e3f6b72d4b69f6cc4b6"/>
 		<rom name="Crossword Creator (Australia).cue" size="95" crc="192e690b" md5="df4fa7dfd22fdc9d87be48cb06c310c0" sha1="1eeffa57649ea06082b1c417ec63eeff54840af9"/>
+	</game>
+	<game name="Crossword Master (USA)" id="139565">
+		<category>Games</category>
+		<description>Crossword Master (USA)</description>
+		<rom name="Crossword Master (USA).bin" size="12345648" crc="20473668" md5="68a12044d7138817bf4224d3faa42411" sha1="b7460b8e87ae1686dd05bae68ea59dbb1fdfedc8"/>
+		<rom name="Crossword Master (USA).cue" size="88" crc="2c3530d9" md5="ee844506fadaf291b3abd42127f8d2b4" sha1="02011ffeecc7e2dbe113dc6fa0985421215907cc"/>
 	</game>
 	<game name="Crossword Wizard (USA)" id="129666">
 		<category>Games</category>
@@ -34220,6 +34241,20 @@
 		<rom name="Field &amp; Stream - Trophy Bass 4 (USA).bin" size="760029984" crc="2ac3c548" md5="62e020e72e83c71995bfbb51f44dca4c" sha1="dd0589f0e37d09de4d081a2a2e60dabdd800fc36"/>
 		<rom name="Field &amp; Stream - Trophy Bass 4 (USA).cue" size="125" crc="c28c9281" md5="6fa9917214843fb4410696df92b5ba28" sha1="6dfcf4b8cf65e07df9f60a3b912f9f3c228489f3"/>
 	</game>
+	<game name="Field &amp; Stream - Trophy Big Game Hunting (USA) (Disc 1)" id="139550">
+		<category>Games</category>
+		<description>Field &amp; Stream: Trophy Big Game Hunting (USA) (Disc 1)</description>
+		<version>1.0</version>
+		<rom name="Field &amp; Stream - Trophy Big Game Hunting (USA) (Disc 1).bin" size="706028064" crc="fbe1372b" md5="ed1afa49b46d556f8ae31a368385cb77" sha1="de2a38d42ca260b18031d20ee7181c0c26ab4578"/>
+		<rom name="Field &amp; Stream - Trophy Big Game Hunting (USA) (Disc 1).cue" size="121" crc="a4f8c8bd" md5="868cdd4a2b2446a96ef55978f4c30e4f" sha1="06bb5a29ac5c2c05a097797998faebcca4691925"/>
+	</game>
+	<game name="Field &amp; Stream - Trophy Big Game Hunting (USA) (Disc 2)" id="139551">
+		<category>Games</category>
+		<description>Field &amp; Stream: Trophy Big Game Hunting (USA) (Disc 2)</description>
+		<version>1.0</version>
+		<rom name="Field &amp; Stream - Trophy Big Game Hunting (USA) (Disc 2).bin" size="443476656" crc="6fdd4ff7" md5="feebb8721a5ffd80c413242a79d85ae8" sha1="6bc4df5e1295fe22305b73198e58bb48de1c1219"/>
+		<rom name="Field &amp; Stream - Trophy Big Game Hunting (USA) (Disc 2).cue" size="121" crc="a5a5ee6c" md5="f2b3b38eae92ffce55fa12d740718a5f" sha1="979e2a4803d942d725dd5035f13657fe564f6829"/>
+	</game>
 	<game name="Field &amp; Stream - Trophy Buck (Germany)" id="56194">
 		<category>Games</category>
 		<description>Field &amp; Stream: Trophy Buck (Germany)</description>
@@ -34235,25 +34270,26 @@
 		<rom name="Field &amp; Stream - Trophy Buck (Germany) (Track 9).bin" size="19204080" crc="1d5d409f" md5="ab2b43f955731bec0ddf0661908654f3" sha1="34151d898bb6496bf0f522b680eb038959f717e6"/>
 		<rom name="Field &amp; Stream - Trophy Buck (Germany).cue" size="1032" crc="8d322323" md5="11f764357f168007bba4343741f3601b" sha1="1fe52f4e3864d3ddb462d96203f28bb9cd078a8c"/>
 	</game>
-	<game name="Field &amp; Stream - Trophy Hunting (USA) (Disc 1) (Installation Disk)" id="117678">
+	<game name="Field &amp; Stream - Trophy Hunting - Big Game Edition (USA) (Disc 1) (Installation Disk) (OEM)" id="117678">
 		<category>Games</category>
-		<description>Field &amp; Stream: Trophy Hunting (USA) (Disc 1) (Installation Disk)</description>
-		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 1) (Installation Disk).bin" size="646174368" crc="479635a5" md5="c56d87f8bb047525b01341ff793d8603" sha1="41fc0265c02d340f864a7a8528153ada7d052bbb"/>
-		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 1) (Installation Disk).cue" size="132" crc="88a85526" md5="92210d7bbc5e74a356afc61da4cd8eb0" sha1="05db74a8d44aa8898e7016bf31ec01d6c0d8bb32"/>
+		<description>Field &amp; Stream: Trophy Hunting: Big Game Edition (USA) (Disc 1) (Installation Disk) (OEM)</description>
+		<version>1.0010</version>
+		<rom name="Field &amp; Stream - Trophy Hunting - Big Game Edition (USA) (Disc 1) (Installation Disk) (OEM).bin" size="646174368" crc="479635a5" md5="c56d87f8bb047525b01341ff793d8603" sha1="41fc0265c02d340f864a7a8528153ada7d052bbb"/>
+		<rom name="Field &amp; Stream - Trophy Hunting - Big Game Edition (USA) (Disc 1) (Installation Disk) (OEM).cue" size="157" crc="9089379a" md5="09f0695b49b528a23e13dab8f308f104" sha1="27a7d914bf3c22e08d149b88ef561a97d4ab7b94"/>
 	</game>
-	<game name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk)" id="117679">
+	<game name="Field &amp; Stream - Trophy Hunting - Big Game Edition (USA) (Disc 2) (Game Disk) (OEM)" id="117679">
 		<category>Games</category>
-		<description>Field &amp; Stream: Trophy Hunting (USA) (Disc 2) (Game Disk)</description>
-		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk).bin" size="399115584" crc="8b4ebe20" md5="49a522910250eb3cb937ac22b235119b" sha1="bca04f9a8ed9c32176fbcf382d0beeb6bd3e923b"/>
-		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk).cue" size="124" crc="9e11b63a" md5="e5ba5dc394aad03fddfae70919b036b3" sha1="70e18000abfa0c89e3f5c3357acbc8c05782254e"/>
+		<description>Field &amp; Stream: Trophy Hunting: Big Game Edition (USA) (Disc 2) (Game Disk) (OEM)</description>
+		<version>1.0010</version>
+		<rom name="Field &amp; Stream - Trophy Hunting - Big Game Edition (USA) (Disc 2) (Game Disk) (OEM).bin" size="399115584" crc="8b4ebe20" md5="49a522910250eb3cb937ac22b235119b" sha1="bca04f9a8ed9c32176fbcf382d0beeb6bd3e923b"/>
+		<rom name="Field &amp; Stream - Trophy Hunting - Big Game Edition (USA) (Disc 2) (Game Disk) (OEM).cue" size="149" crc="c2464509" md5="5874ae74e220361684212621a50ae372" sha1="c752990c24a71a287cbd468b4250764f48c06d75"/>
 	</game>
-	<game name="Field &amp; Stream - Trophy Hunting 5 (Germany)" id="104495">
+	<game name="Field &amp; Stream - Trophy Hunting 5 (USA)" id="139552">
 		<category>Games</category>
-		<description>Field &amp; Stream: Trophy Hunting 5 (Germany)</description>
-		<serial>S0023727</serial>
+		<description>Field &amp; Stream: Trophy Hunting 5 (USA)</description>
 		<version>1.0</version>
-		<rom name="Field &amp; Stream - Trophy Hunting 5 (Germany).bin" size="335378736" crc="b54950d0" md5="ae26e36b5e434dada42742b0ca284676" sha1="0da738f352fb25cd7865990dd8b40aed3c00df31"/>
-		<rom name="Field &amp; Stream - Trophy Hunting 5 (Germany).cue" size="109" crc="008da74d" md5="9874ed7a93620fb4100b5c6ba18fbbbf" sha1="cf24d805baae5d81b70de39f155b2a5d1efd15fe"/>
+		<rom name="Field &amp; Stream - Trophy Hunting 5 (USA).bin" size="335381088" crc="4eb06267" md5="a40af9cad120b10f5b8167b2de928867" sha1="395add6ad54154e4a4a14766b7c30670ba82e871"/>
+		<rom name="Field &amp; Stream - Trophy Hunting 5 (USA).cue" size="105" crc="3767e48b" md5="1d0621cf3ec3053fdce7aabde0e9c792" sha1="aab2577cb98a20d8e90707062325f070547ebd9c"/>
 	</game>
 	<game name="Fields of Fire (Europe) (En,Fr,De,Es,It,Nl,Pt)" id="113910">
 		<category>Games</category>
@@ -36281,6 +36317,14 @@
 		<rom name="Four Houses (USA).bin" size="20815200" crc="0e59dc27" md5="35b2e088064a196da32772a5bed6b492" sha1="475a5ca2a19836516d2c5d4d4a8c6078816a6869"/>
 		<rom name="Four Houses (USA).cue" size="83" crc="6793e240" md5="ce05aa239803a14bacde6c6aae989254" sha1="5fb26eceb8d8888acf9295d06cfa8e3ea4910b78"/>
 	</game>
+	<game name="Four Queens Computer Casino - 12 Casino Games (USA)" id="139566">
+		<category>Games</category>
+		<description>Four Queens Computer Casino: 12 Casino Games (USA)</description>
+		<serial>7 58469-111005 7 CDRM1064420</serial>
+		<version>1.02</version>
+		<rom name="Four Queens Computer Casino - 12 Casino Games (USA).bin" size="1653456" crc="291715ea" md5="610c36d2a8ab8550c92080875a4fed5b" sha1="c66379dcd29b2c1bb6eaa1dacb064337dfb32e45"/>
+		<rom name="Four Queens Computer Casino - 12 Casino Games (USA).cue" size="117" crc="a39b686b" md5="3e3838e6fee705eec3432f141fdb55e7" sha1="1743556a5af4699a7b69cf9cc110df252b43f17f"/>
+	</game>
 	<game name="Fox Collection CD (Europe)" id="35694">
 		<category>Games</category>
 		<description>Fox Collection CD (Europe)</description>
@@ -36915,6 +36959,12 @@
 		<description>Front Page Sports: Trophy Rivers (USA)</description>
 		<rom name="Front Page Sports - Trophy Rivers (USA).bin" size="752776416" crc="ed24a13c" md5="0aad6a4c44a9c32692fee790ba2cdfc2" sha1="23ba1d3d287d8d2dd63cf045a8cf7813ebfa33d4"/>
 		<rom name="Front Page Sports - Trophy Rivers (USA).cue" size="128" crc="2a450bdd" md5="b81d34c555dc34ab0d56008b4196e10a" sha1="0d7dc4a1c06cc3ff92eaf1730c052cb6c6701402"/>
+	</game>
+	<game name="Front Page Sports All Pro Collection (USA) (Disc 2)" id="139567">
+		<category>Games</category>
+		<description>Front Page Sports All Pro Collection (USA) (Disc 2)</description>
+		<rom name="Front Page Sports All Pro Collection (USA) (Disc 2).bin" size="486478272" crc="6837dc52" md5="4b147f11f6f62e0fa82fb9d32c0dbe05" sha1="686ee10d5b6586f22d00ce0d4dbcb86a4b59f9b2"/>
+		<rom name="Front Page Sports All Pro Collection (USA) (Disc 2).cue" size="140" crc="08148906" md5="77d326d563da7a2c8275d1ceb5975eaa" sha1="2cc974c07955721932144c7859e0c0a93e069bfb"/>
 	</game>
 	<game name="Frontier - Elite II (Europe) (En,Fr,De,Es)" id="133859">
 		<category>Games</category>
@@ -37612,6 +37662,12 @@
 		<version>1.0</version>
 		<rom name="Galactic Invasion (USA).bin" size="18914784" crc="71268fd2" md5="d029a052800a72cfc58912a9041b709e" sha1="cff5408d52e7182d6f25f31dfd84a613da515f8d"/>
 		<rom name="Galactic Invasion (USA).cue" size="89" crc="974af0ba" md5="e5adc7b16f85f818a5b8964e6fff240e" sha1="1a250f67f40317db14365274f4385832ea2259c3"/>
+	</game>
+	<game name="Galactic Miner (USA)" id="139568">
+		<category>Games</category>
+		<description>Galactic Miner (USA)</description>
+		<rom name="Galactic Miner (USA).bin" size="28910784" crc="505838d8" md5="53e26c99380b4c4cc222a494cf8a430e" sha1="2d7e32a07c9600290beb33d67f5db90caf587ab3"/>
+		<rom name="Galactic Miner (USA).cue" size="86" crc="d85d4d56" md5="73041e9058184d88e2c8f34555a5acbb" sha1="2b8e5318ea321f5e1b4ee61b75a5b0243752833f"/>
 	</game>
 	<game name="Galactic Swarm (USA)" id="112590">
 		<category>Games</category>
@@ -39122,6 +39178,14 @@
 		<rom name="Golem (USA).bin" size="714276528" crc="59143abb" md5="c24fc6f9c9c3169a32419b9124f4925a" sha1="6b57ff18c1fb996bc2d4f02add648449fd55eb52"/>
 		<rom name="Golem (USA).cue" size="77" crc="22044834" md5="b113eaaf46f2d81d1aa82b3da116be44" sha1="5f23f6e266a9581e19c3bdbb329d59f3987ddedc"/>
 	</game>
+	<game name="Golf Challenger (USA) (En,Fr,De)" id="139569">
+		<category>Games</category>
+		<description>Golf Challenger (USA) (En,Fr,De)</description>
+		<serial>PCG144AE-CD</serial>
+		<version>1.00</version>
+		<rom name="Golf Challenger (USA) (En,Fr,De).bin" size="25011168" crc="f91c53a2" md5="1c5bd2889616f6296b6cbd1e2b019789" sha1="909a91773497446c5cf17be43511d461da9414a0"/>
+		<rom name="Golf Challenger (USA) (En,Fr,De).cue" size="121" crc="e7538555" md5="7f3ea31ec517ef5612e4714de51f081e" sha1="b541ad2d86bdc94ff64bf077c9ab83b434ae67c0"/>
+	</game>
 	<game name="Golf Manager - Gold Edition (USA)" id="112999">
 		<category>Games</category>
 		<description>Golf Manager: Gold Edition (USA)</description>
@@ -40481,6 +40545,13 @@
 		<rom name="Ground Control II - Operation Exodus (USA).bin" size="771914640" crc="5f817311" md5="a3631d5ae29e170fffe3113d977886e9" sha1="4a87326d4a5df16318f156541ef37ad86ff2c740"/>
 		<rom name="Ground Control II - Operation Exodus (USA).cue" size="108" crc="393dad06" md5="79683631806cc00f5e1624ba137dbbd5" sha1="02ce056796520b75e71e7e512b15594d39ed373a"/>
 	</game>
+	<game name="Grown-Up Games Collection, The (USA)" id="139570">
+		<category>Games</category>
+		<description>Grown-Up Games Collection, The (USA)</description>
+		<serial>CDRM1381200</serial>
+		<rom name="Grown-Up Games Collection, The (USA).bin" size="10720416" crc="5568e2ea" md5="85fc66b278934c01231732ca0cd8e525" sha1="522d6a107e38bc9d81bb6f41b814eb8c8b4faf9f"/>
+		<rom name="Grown-Up Games Collection, The (USA).cue" size="102" crc="dae1cdcf" md5="bd5988c5898c6c0361395208c01e15ab" sha1="d94d10e6a2b0c9f1529ce188fba8d1f04a6ebf23"/>
+	</game>
 	<game name="Gruntz (USA)" id="43543">
 		<category>Games</category>
 		<description>Gruntz (USA)</description>
@@ -41507,11 +41578,11 @@
 		<rom name="Hard Evidence - The Marilyn Monroe Files (USA).bin" size="700611408" crc="b4f1d2df" md5="920a37b4bb4c8b2a95bde5cc8bfff948" sha1="7dff446f559a5de6f107087a2f72e72a404ea4a6"/>
 		<rom name="Hard Evidence - The Marilyn Monroe Files (USA).cue" size="112" crc="20ef8773" md5="7dc08b0655d9145cfa07b067b98a4984" sha1="73f34288ed7190412b2d03bd63d2176fb093f82c"/>
 	</game>
-	<game name="Hard Reset - Extended Edition (Europe) (En,De)" id="72498">
+	<game name="Hard Reset - Extended Edition (USA) (En,De)" id="139571">
 		<category>Games</category>
-		<description>Hard Reset: Extended Edition (Europe) (En,De)</description>
+		<description>Hard Reset: Extended Edition (USA) (En,De)</description>
 		<version>1.5</version>
-		<rom name="Hard Reset - Extended Edition (Europe) (En,De).iso" size="6063816704" crc="1aaec77c" md5="3ac0d065cb4c9d893a04a940d971d6c9" sha1="17a170079b9a286169b021e793347490d5ad1b3e"/>
+		<rom name="Hard Reset - Extended Edition (USA) (En,De).iso" size="6064766976" crc="b1c68d73" md5="04fd000631a551f4cb5440a7fb6301aa" sha1="68b38b239f25918e0ff1094e304d9d661ab7b75c"/>
 	</game>
 	<game name="Hard Rock Casino (USA)" id="121707">
 		<category>Games</category>
@@ -46978,6 +47049,14 @@
 		<description>Indivisible (USA)</description>
 		<rom name="Indivisible (USA).iso" size="7030392832" crc="30dde20b" md5="f19b76e064668b89c543745b3137c4bb" sha1="bdee7c5118b868d71a29491c49ff31c231ec3d2d"/>
 	</game>
+	<game name="Indoor Sports (USA)" id="139572">
+		<category>Games</category>
+		<description>Indoor Sports (USA)</description>
+		<serial>P/N 7299</serial>
+		<version>1.0</version>
+		<rom name="Indoor Sports (USA).bin" size="29806896" crc="bceb254a" md5="7355ccd389f71fb5db572ce21ee491b7" sha1="a8251972ff6b45b2562f0b70f68a24ae48ecbe9e"/>
+		<rom name="Indoor Sports (USA).cue" size="108" crc="00cd7cd7" md5="ec6dcccd9533af285f9db2472ec58ad3" sha1="cbb99595d2dc1dcca4cd8f605dc0eff4d3341b8b"/>
+	</game>
 	<game name="Industry Empire (Australia)" id="128439">
 		<category>Games</category>
 		<description>Industry Empire (Australia)</description>
@@ -51234,6 +51313,13 @@
 		<version>1.0.0</version>
 		<rom name="Knight Rider 2 - The Game (Europe) (En,Fr,De,Es,It,Nl).bin" size="788886672" crc="ac321135" md5="b1a43100c4f7e86f5867104e628866d1" sha1="a0325723e11eea141ee8933da643fcb50751002a"/>
 		<rom name="Knight Rider 2 - The Game (Europe) (En,Fr,De,Es,It,Nl).cue" size="120" crc="162d98aa" md5="7d001de89aaa76b9af60e48ac5f70e29" sha1="22ce075210560952e0417ae8b2701df3f9aeae6a"/>
+	</game>
+	<game name="Knight's Avenger (USA)" id="139573">
+		<category>Games</category>
+		<description>Knight's Avenger (USA)</description>
+		<version>1.0</version>
+		<rom name="Knight's Avenger (USA).bin" size="21897120" crc="561832e2" md5="984ac1bc99d8689d380afa2bde840fa9" sha1="135240ba6ccf1538d28f6b6d0bdbb1548bcf32f9"/>
+		<rom name="Knight's Avenger (USA).cue" size="88" crc="2bc5e61a" md5="e15fe8d74277a59a12238bb8198689af" sha1="959460128b84954bfe89ce438c7a4de58817eb5f"/>
 	</game>
 	<game name="Knight's Chase (USA)" id="64043">
 		<category>Games</category>
@@ -56440,6 +56526,13 @@
 		<description>Magicka (Germany) (En,Fr,De,Es)</description>
 		<serial>09012001-01, ECD008785D</serial>
 		<rom name="Magicka (Germany) (En,Fr,De,Es).iso" size="908361728" crc="4d8a6724" md5="d254306a4612a0618531846e7c256d2a" sha1="4343f340463d8771c915e21906c4932cbd2723b7"/>
+	</game>
+	<game name="Magnaflux Runner (USA)" id="139574">
+		<category>Games</category>
+		<description>Magnaflux Runner (USA)</description>
+		<serial>2202910-590006/125</serial>
+		<rom name="Magnaflux Runner (USA).bin" size="19208784" crc="9ce4829f" md5="7c5f840807608c6d9af21c4ca977f935" sha1="40f8bd2e141339c7a0feece502c3a507bdb0d6ad"/>
+		<rom name="Magnaflux Runner (USA).cue" size="111" crc="7f0452d1" md5="5f6ebaf3c15014e6b6c92f6a416a00e1" sha1="007d2e44014c445943df931562fb2400c5a83998"/>
 	</game>
 	<game name="Magrunner - Dark Pulse (Australia)" id="130294">
 		<category>Games</category>
@@ -62202,11 +62295,12 @@
 		<rom name="Monster Jam - Maximum Destruction (USA).bin" size="388014144" crc="da2e75ef" md5="2777cc5c391560d750e02cb0ba162a8d" sha1="6f26369ebcebdaeb6182e4445f0ab328955a7fa7"/>
 		<rom name="Monster Jam - Maximum Destruction (USA).cue" size="105" crc="1b440c8b" md5="222a18a22a14e433d96bb28f6167f331" sha1="f096614da67f1795fc6dc545a342b3f41af2d622"/>
 	</game>
-	<game name="Monster Madness - Battle for Suburbia (Australia)" id="129517">
+	<game name="Monster Madness - Battle for Suburbia (USA) (En,Fr,De,Es,It)" id="139575">
 		<category>Games</category>
-		<description>Monster Madness: Battle for Suburbia (Australia)</description>
-		<serial>74066-LBL</serial>
-		<rom name="Monster Madness - Battle for Suburbia (Australia).iso" size="4672847872" crc="55241646" md5="016d761a4d97bddccd8dccd20925edaf" sha1="11fcfc2ec53fdc5197a4afe80e2a201d7c4b43ad"/>
+		<description>Monster Madness: Battle for Suburbia (USA) (En,Fr,De,Es,It)</description>
+		<serial>50003-LBL</serial>
+		<version>0</version>
+		<rom name="Monster Madness - Battle for Suburbia (USA) (En,Fr,De,Es,It).iso" size="4641062912" crc="084787ac" md5="0b3e934aae5bf692d2030a331fe0afe7" sha1="09478c431105b5a447a1e094b49f9c88da6e19c3"/>
 	</game>
 	<game name="Monster RPG 2 (USA)" id="68936">
 		<category>Games</category>
@@ -109220,6 +109314,13 @@
 		<serial>1083A</serial>
 		<rom name="Zoombinis - Island Odyssey (Europe).bin" size="277439568" crc="60804999" md5="14627a8a8266b0627c930a2a6910951c" sha1="12dba71ca9a94573b6fef77bac2080dfea61de55"/>
 		<rom name="Zoombinis - Island Odyssey (Europe).cue" size="101" crc="d29631a6" md5="4af09367b5e12b19d00cc604771ad523" sha1="16d2dfe6f23d6cb31845ad642bfe5dc8109ef430"/>
+	</game>
+	<game name="Zoop &amp; You Don't Know Jack Sports &amp; Volume 2 Lite Versions (USA)" id="139576">
+		<category>Games</category>
+		<description>Zoop &amp; You Don't Know Jack Sports &amp; Volume 2 Lite Versions (USA)</description>
+		<version>1.0 (Zoop)</version>
+		<rom name="Zoop &amp; You Don't Know Jack Sports &amp; Volume 2 Lite Versions (USA).bin" size="376070688" crc="8210ce2d" md5="d30d54b0ae021a077031261d8117b2a3" sha1="03329a58dbcbe71a8cead319e72e3df7808a85d0"/>
+		<rom name="Zoop &amp; You Don't Know Jack Sports &amp; Volume 2 Lite Versions (USA).cue" size="130" crc="16d9fe5b" md5="c1ba5dd05e16fcc55aeb9b0b03e6e83e" sha1="4e1afc2e930ae164f51c3f82fb8d65f692256e6c"/>
 	</game>
 	<game name="Zootrix (Germany) (En,Fr,De,Es,It,Ru)" id="49662">
 		<category>Games</category>

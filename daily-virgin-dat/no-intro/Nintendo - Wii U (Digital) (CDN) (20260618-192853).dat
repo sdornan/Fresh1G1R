@@ -8,8 +8,8 @@
 		<author>1988reload, buckwheat, C. V. Reynolds, Deterous, Hiccup, Hiccup and DarkMatterCore, Larsenv, nnssxx, norkmetnoil577, rarenight, SonGoku, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
-		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
-		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+		<tos>https://datomatic.no-intro.org/terms.html</tos>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro do not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not part of the console scene, and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] Account Settings (Japan) (System Application)" id="4887">
@@ -183208,5 +183208,11 @@
 		<rom name="tmd.5872" size="44740" crc="832fbddd" md5="4a8641026cb54de3fccabae0a4b8d185" sha1="8996d536d9621024455ee8d511441c85e8219afe" status="verified"/>
 		<rom name="tmd.5888" size="44836" crc="c6ea994a" md5="9f9ca05feb9a4e797fc63cfcabcdfd4d" sha1="43fcce3bbdf8add1a62de045778f31fe53b4b189" status="verified"/>
 		<rom name="tmd.5904" size="44932" crc="e2b463c1" md5="4fa435a80c343bdfdc02437f46ba0253" sha1="4a3843a5afe864c6a5dba2b40961f2e7bbaf2085" status="verified"/>
+	</game>
+	<game name="Geomho 3 (Korea)" id="6672">
+		<category>Games</category>
+		<description>Geomho 3 (Korea)</description>
+		<game_id>SLKA-25199</game_id>
+		<rom name="Geomho 3 (Korea)." size="3523723264" crc="7f426814" md5="f8a222c0343a96f769a43bf1253cbd32" sha1="fe88775b8a8c72c31d9f2426fe6cd5cbbf8a7266" serial="SLKA-25199"/>
 	</game>
 </datafile>

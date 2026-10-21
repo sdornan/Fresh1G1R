@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (642) (-y) [-aAbBcefkmMoprv] (2026-10-18 11-33-35) (Retool)</description>
-		<version>2026-10-18 11-33-35</version>
-		<date>2026-10-20 07-26-03</date>
+		<description>Apple - Macintosh (647) (-y) [-aAbBcefkmMoprv] (2026-10-20 08-57-25) (Retool)</description>
+		<version>2026-10-20 08-57-25</version>
+		<date>2026-10-21 07-21-42</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -111,6 +111,13 @@
 		<description>A-10 Cuba! (USA)</description>
 		<rom name="A-10 Cuba! (USA).bin" size="162925392" crc="b7532c76" md5="7f35724b324dbecb57539eef216f59fa" sha1="3125b1525f482d8db7da63c1230a5868686aa664"/>
 		<rom name="A-10 Cuba! (USA).cue" size="105" crc="98ad9ae2" md5="f970cbb304ff0b9a55fd0b1ae64609a4" sha1="4478e4a6b9f0efee5a57b2036c41b8bcdbb89c75"/>
+	</game>
+	<game name="Absolute Zero (USA)" id="139555">
+		<category>Games</category>
+		<description>Absolute Zero (USA)</description>
+		<version>1.0.4</version>
+		<rom name="Absolute Zero (USA).bin" size="573177696" crc="ccf03777" md5="cf8b6b6cde82b469eee36ed05a52cb39" sha1="d81cf4f442a2d52153c4da1f9f8b4831f838a68a"/>
+		<rom name="Absolute Zero (USA).cue" size="85" crc="f91768eb" md5="249a8e3828c84a8e8dbf97717d6dcf6a" sha1="aaa159451c68ebec2f2fa2385e1862d290e53e13"/>
 	</game>
 	<game name="Abuse for Macintosh (USA)" id="61577">
 		<category>Games</category>
@@ -1860,6 +1867,13 @@
 		<rom name="Game Hall of Fame (USA).bin" size="338937312" crc="b09c3f35" md5="20685805a6344d536cc95e363552dde0" sha1="7c9e13d4ec17142bb0e2177b35e45dcebc273fa0"/>
 		<rom name="Game Hall of Fame (USA).cue" size="89" crc="15fb5234" md5="78f045aa10626cb9edc75cc79cba4114" sha1="8599cceb1aecd295dd13299c426a4388596ccec3"/>
 	</game>
+	<game name="Gearheads (USA)" id="139556">
+		<category>Games</category>
+		<description>Gearheads (USA)</description>
+		<serial>310691102-2</serial>
+		<rom name="Gearheads (USA).bin" size="12820752" crc="2f369aa1" md5="8e0d518534fa390308bfea6ec091bc34" sha1="d0da691cd4e605f6b5276cc251a445d7f5c3c935"/>
+		<rom name="Gearheads (USA).cue" size="119" crc="56746c09" md5="5106d6b4f116032fd4629baf3edcbae6" sha1="87ac0b85b4ef585402ff2fbef8227c3385aa364f"/>
+	</game>
 	<game name="Giants - Citizen Kabuto (USA) (Disc 1)" id="23800">
 		<category>Games</category>
 		<description>Giants: Citizen Kabuto (USA) (Disc 1)</description>
@@ -2155,6 +2169,18 @@
 		<serial>5001932 / UK</serial>
 		<rom name="In Memoriam (Europe) (Mac Install).bin" size="655612944" crc="6fdd5061" md5="3cb7b5301b6a1936b4c44193299abab0" sha1="c8b9cb812effc43a4fc66aac6bc68b6b3200b4ca"/>
 		<rom name="In Memoriam (Europe) (Mac Install).cue" size="100" crc="a8cf3352" md5="2af716dcd4558caa8b1cd1129ec62783" sha1="70deffb695fcaf3ddeb7b011d77ba5ad3621775e"/>
+	</game>
+	<game name="In the 1st Degree (USA) (Disc 1)" id="139557">
+		<category>Games</category>
+		<description>In the 1st Degree (USA) (Disc 1)</description>
+		<rom name="In the 1st Degree (USA) (Disc 1).bin" size="758604672" crc="d9ebb702" md5="be1fedc713301995319655a4d96c53cc" sha1="a098a56870e45d49c2e78844933c32d58e5e38ed"/>
+		<rom name="In the 1st Degree (USA) (Disc 1).cue" size="98" crc="5a339f63" md5="3255c8b8967ccb05396039d686ef374d" sha1="880698b3a57d9551b969200f5b29dab5060c90f8"/>
+	</game>
+	<game name="In the 1st Degree (USA) (Disc 2)" id="139558">
+		<category>Games</category>
+		<description>In the 1st Degree (USA) (Disc 2)</description>
+		<rom name="In the 1st Degree (USA) (Disc 2).bin" size="757875552" crc="b50ab437" md5="fe4e64c9e644e8c28c242b92b6f111ff" sha1="61aa36abbe87f4c0d0426734f524f6154b8675ca"/>
+		<rom name="In the 1st Degree (USA) (Disc 2).cue" size="98" crc="5b6eb9b2" md5="254b90e7c268d2c4523e90e54cc81727" sha1="54b4a41b420f78b607e533723096d72812841e08"/>
 	</game>
 	<game name="Inca Teikoku - El Dorado no Fukkatsu (Japan)" id="110681">
 		<category>Games</category>
@@ -2621,6 +2647,13 @@
 		<description>Ma-ri-a: Ningyoukan no Noroi (Japan) (Disc 2)</description>
 		<rom name="Ma-ri-a - Ningyoukan no Noroi (Japan) (Disc 2).bin" size="529202352" crc="3c88cc4d" md5="e79787a164e8bad6a384baf7719f7fb9" sha1="d69ab2bbd5c54fb0e67332587c3c9fe8fd5bfac2"/>
 		<rom name="Ma-ri-a - Ningyoukan no Noroi (Japan) (Disc 2).cue" size="112" crc="6353bad2" md5="5646fdd48d351fa6b665abf1ed9a4c9b" sha1="68978ae8a9c796cdacf845d11607f6568cd968d2"/>
+	</game>
+	<game name="Mac Action Games (USA)" id="139559">
+		<category>Games</category>
+		<description>Mac Action Games (USA)</description>
+		<serial>3800-CD2</serial>
+		<rom name="Mac Action Games (USA).bin" size="234240384" crc="2f80de37" md5="d2dfbba3c08f187e1e00a8f53eca9054" sha1="c500b0468656385a6c0b220a6c72b388036f2255"/>
+		<rom name="Mac Action Games (USA).cue" size="88" crc="5b4dc0dc" md5="eb9b89f9ae86571e8f53ca486e2728ff" sha1="17de402e49a358781a1175b45d23d328821fbfdb"/>
 	</game>
 	<game name="Mac Board Games (USA)" id="84890">
 		<category>Games</category>

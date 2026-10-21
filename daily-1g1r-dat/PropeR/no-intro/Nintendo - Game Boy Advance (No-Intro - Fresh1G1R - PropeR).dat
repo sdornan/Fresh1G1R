@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,579) (-y) [-aAbBcdkmMpPuv] (20261019-103636) (Retool)</description>
-		<version>20261019-103636</version>
-		<date>2026-10-20 07-44-16</date>
+		<description>Nintendo - Game Boy Advance (1,579) (-y) [-aAbBcdkmMpPuv] (20261020-135406) (Retool)</description>
+		<version>20261020-135406</version>
+		<date>2026-10-21 07-39-03</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, UnlockerPT, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5079,7 +5079,7 @@
 	<game name="Pac-Man Pinball Advance (USA)" id="1950">
 		<category>Games</category>
 		<description>Pac-Man Pinball Advance (USA)</description>
-		<rom name="Pac-Man Pinball Advance (USA).gba" size="4194304" crc="da4e1109" md5="4d7b955b9c19b13d1d776e35ce007f78" sha1="dfd93f861e571153e0ae0a65799c5d44e5154373"/>
+		<rom name="Pac-Man Pinball Advance (USA).gba" size="4194304" crc="da4e1109" md5="4d7b955b9c19b13d1d776e35ce007f78" sha1="dfd93f861e571153e0ae0a65799c5d44e5154373" sha256="63aa68a4fc09ddae078ea11f8185c37ea7d874465114282d29f699d545fb401a"/>
 	</game>
 	<game name="Pac-Man World (USA)" id="1765">
 		<category>Games</category>
@@ -7609,7 +7609,7 @@
 	<game name="Yoshi Topsy-Turvy (USA)" id="1997">
 		<category>Games</category>
 		<description>Yoshi Topsy-Turvy (USA)</description>
-		<rom name="Yoshi Topsy-Turvy (USA).gba" size="8388608" crc="e64c265c" md5="e66d2e98947a5bd1068228e4084b06da" sha1="947498cb1db918d305500257e8223deeaddf561d"/>
+		<rom name="Yoshi Topsy-Turvy (USA).gba" size="8388608" crc="e64c265c" md5="e66d2e98947a5bd1068228e4084b06da" sha1="947498cb1db918d305500257e8223deeaddf561d" sha256="0a65d4c44c4cb8036ca2bd36a3ed14286fb1a285f6849639672181d2fe1ad6e8"/>
 	</game>
 	<game name="Youkaidou (Japan)" id="0428">
 		<category>Games</category>

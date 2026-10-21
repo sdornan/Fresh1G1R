@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (4,606) (-y) [-aAbBcdkmMpPuv] (2026-10-18 11-13-46) (Retool)</description>
-		<version>2026-10-18 11-13-46</version>
-		<date>2026-10-20 07-42-08</date>
+		<description>Sony - PlayStation (4,608) (-y) [-aAbBcdkmMpPuv] (2026-10-20 23-32-14) (Retool)</description>
+		<version>2026-10-20 23-32-14</version>
+		<date>2026-10-21 07-35-39</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -10529,19 +10529,19 @@
 		<rom name="Ebisu Yoshikazu no Ooana Kyoutei (Japan) (Track 22).bin" size="38688048" crc="2726c523" md5="fc99cfefebe42ff4fc203a3e85f3ef8e" sha1="85bc7149265565140756dde95feba5364611fe07"/>
 		<rom name="Ebisu Yoshikazu no Ooana Kyoutei (Japan).cue" size="2952" crc="6b3e39c1" md5="edc4f21ddab78273e8d173e5f71cd6e6" sha1="8f8e44eae2a2af9ee08f161a89e428605131df62"/>
 	</game>
+	<game name="Echo Night #2 - Nemuri no Shihaisha (Japan)" id="11096">
+		<category>Games</category>
+		<description>Echo Night #2: Nemuri no Shihaisha (Japan)</description>
+		<serial>SLPS 02167, SLPS 91425</serial>
+		<rom name="Echo Night #2 - Nemuri no Shihaisha (Japan).bin" size="349234368" crc="6eff036c" md5="7f57d3c2b5b9fc25f0783115da106903" sha1="77fc59e0d2f892ffcf3dbd099749d1527f157c8c"/>
+		<rom name="Echo Night #2 - Nemuri no Shihaisha (Japan).cue" size="108" crc="64aa3349" md5="9237c6ed1c41d07841fff2f6366f632f" sha1="c53f9e41aff75a3288055dc88b7bb80a5737eedc"/>
+	</game>
 	<game name="Echo Night (USA)" id="587">
 		<category>Games</category>
 		<description>Echo Night (USA)</description>
 		<serial>SLUS-00820</serial>
 		<rom name="Echo Night (USA).bin" size="514427088" crc="2e977f97" md5="f6b968d1037b7c8e3d8384f0dae188ba" sha1="df1b14eb432285e453e3e7d7658dd54f3c3279f4"/>
 		<rom name="Echo Night (USA).cue" size="82" crc="7d6565a5" md5="c8c55e6a67981be6b03c39438c83a6b9" sha1="ea80fb27cd7f1186363e140a347c6b9b7e624352"/>
-	</game>
-	<game name="Echo Night 2 - Nemuri no Shihaisha (Japan)" id="11096">
-		<category>Games</category>
-		<description>Echo Night #2: Nemuri no Shihaisha (Japan)</description>
-		<serial>SLPS 02167, SLPS 91425</serial>
-		<rom name="Echo Night 2 - Nemuri no Shihaisha (Japan).bin" size="349234368" crc="6eff036c" md5="7f57d3c2b5b9fc25f0783115da106903" sha1="77fc59e0d2f892ffcf3dbd099749d1527f157c8c"/>
-		<rom name="Echo Night 2 - Nemuri no Shihaisha (Japan).cue" size="108" crc="64aa3349" md5="9237c6ed1c41d07841fff2f6366f632f" sha1="c53f9e41aff75a3288055dc88b7bb80a5737eedc"/>
 	</game>
 	<game name="Econo Kids - Ta ga Tame ni Kane wa Naru (Japan)" id="30962">
 		<category>Games</category>
@@ -14746,27 +14746,50 @@
 		<rom name="Grand Theft Auto (USA) (Track 11).bin" size="92659392" crc="13f6292b" md5="5b3fdbe9d50d9c6583ef5efdf0f06868" sha1="8b31c7e17e83d6f650002f3ec741bb169f4937c4"/>
 		<rom name="Grand Theft Auto (USA).cue" size="1269" crc="e415f405" md5="489b9582368af76b27f985734ca5f252" sha1="c757c7e8e1fcdf8edcbdb5ff84aeeb073f2f0601"/>
 	</game>
-	<game name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA)" id="527">
+	<game name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It)" id="1272">
+		<category>Games</category>
+		<description>Grand Theft Auto: London 1969 (Europe) (En,Fr,De,It)</description>
+		<serial>SLES-03389, SLES-03389/COLL</serial>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 01).bin" size="42265440" crc="6d14db9a" md5="1d92ffe1ebbe348e379df76936c013a3" sha1="9e3431b4e4665d4819957f015db8cdd52fce00f5"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 02).bin" size="49883568" crc="f7ede697" md5="182a90e104b5fe8d7c0a7870b61a1d55" sha1="4cf8004032b8ae0f29e1d840beaaf75f46f84e53"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 03).bin" size="16057104" crc="0de5daf1" md5="35fecad2f3b74c0834a2a4cd69c8a32b" sha1="6de951d63dac086369c515403c67b13bd5502f82"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 04).bin" size="60970896" crc="25c845dc" md5="4e9edf787696ca1ad16fdfa3488afa1a" sha1="bc34a67a5de7e83923ec43a3cf1e7ac31bc808cd"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 05).bin" size="20281296" crc="b8df4ee6" md5="f0f0ce908601e099964ad50367756b5b" sha1="28ce1b9b80d9bd2764cf8dcc27b34d83d6bd6310"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 06).bin" size="33929952" crc="992cb1c8" md5="396a2bd7c77d755ddb4d505cb30ddac3" sha1="d5a48d417d0887dd024b6aefaf12b054d5748e54"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 07).bin" size="52981152" crc="43f4e532" md5="faf361542eae801a4e2a0204b399126a" sha1="7b63fdffadb60e48db31541dadd23499f26e822e"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 08).bin" size="74215008" crc="682b87a4" md5="6f129a754eb15461b093c0f3e0ebde62" sha1="c2f843a1f020396bec411076153bf143dc76ae07"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 09).bin" size="25117008" crc="697d864b" md5="db013d1fe154bfc58e017604bbd08b42" sha1="3e311419bcc0ed12722c29a5c14d20e981086e46"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 10).bin" size="77305536" crc="b18ad7f7" md5="f885c01cdebb61f7ab6654abacd2d3d9" sha1="4fe6a1cc5754adcf5dcfb043cdbe778ad049ad35"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 11).bin" size="61443648" crc="a98ceb89" md5="da3e225a6defab2ca85d4254ce024fde" sha1="a6c34a5bfb56d98657f55161d38d9ea9a8305d66"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 12).bin" size="33447792" crc="ef846882" md5="d45cf0f01ba6ba6c9a30ca1b745b22d5" sha1="c4042ed8a9bd3faa1d9e9b86754dcb620b34f19a"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 13).bin" size="29315328" crc="33d5458d" md5="d3ec071bcc979a2c574f18ad9c9c027a" sha1="2a7ceaa90caf079ff7ba47c2110ab35b7a6e611e"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 14).bin" size="31780224" crc="c4f505e9" md5="10a7a8dac45332dddcfb0d453213e4d8" sha1="1f582d12edd64fa3108907714b11a483d8adcd1e"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 15).bin" size="34151040" crc="0ab638a9" md5="bdcaaca25f276336c8cec85305eb0bc5" sha1="e0a4db2bd68bfe48b87adae907172e95b76c09d1"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 16).bin" size="12486768" crc="f7c37476" md5="f4eb9b3542b89e4cb895e75dcf08c242" sha1="e3b582c89aa4226c10ef210053a0c22a3e9099fc"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 17).bin" size="45353616" crc="50f5bd58" md5="260e692612ce998bea531f20774439a7" sha1="b49ef92014da78478bb2e8466518a9e178a20d52"/>
+		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It).cue" size="2498" crc="eee672bd" md5="81e770822d1c30c46c5c992b783654ee" sha1="ad2f8ca6f397c102b178244492dc01a04b166756"/>
+	</game>
+	<game name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA)" id="527">
 		<category>Games</category>
 		<description>Grand Theft Auto: Mission Pack #1: London 1969 (USA)</description>
 		<serial>SLUS-00846, SLUS-00846CE</serial>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 01).bin" size="42949872" crc="8760df1a" md5="e8cc1bbac93d3bddbec804909b4ad7ba" sha1="7ee948c0d8e695e1642a8b582c83850d24b15666"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 02).bin" size="16057104" crc="98f0c9b2" md5="36cb3c257d28f1d1d55e6bcd15c6d83f" sha1="8454bdeff232006c7248f110668928f330883131"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 03).bin" size="49883568" crc="7936bd90" md5="3dbdd6b8bfec299eff35abf82c3eeb19" sha1="5cb1805feecd02e419aba343d1ab9505fb5dfc67"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 04).bin" size="60970896" crc="885dc11e" md5="b2b08ad49046cb062cbb723e3754f4a6" sha1="3055234fdcf092bb461fb68228f3bd1e54e54799"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 05).bin" size="20281296" crc="ce11304a" md5="4c75e24786287c47ad1cef43f4e9310b" sha1="405080ce67be831ab94b2ca1572897673d6887b0"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 06).bin" size="33929952" crc="3728b7b0" md5="cc77e322397668896dcbd16df18b68fc" sha1="9a777a2a841f02be6e3fe6f298744dfcf1cc0428"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 07).bin" size="52981152" crc="265bd0e7" md5="feb58ee99c3a36319cac79c7b70a2012" sha1="a4cbbecd7d49bdc483057d4565ce8da1d085625c"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 08).bin" size="74215008" crc="ac9b3c66" md5="c76eb77c634df7faf27353c218c4831c" sha1="8eec6f1ad5fcd3437e757ec33bc5d628d844fc1d"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 09).bin" size="25117008" crc="417443a0" md5="83b085b652b82a7186996804fd99f034" sha1="7a673de89a4b8089141f2acd519513f51a184ed8"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 10).bin" size="77305536" crc="a050f3df" md5="3d5f8d5b9b4b4e5e16b567e3a0507492" sha1="5b786dd436334ba8ed5a213d5da18fb2e1392639"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 11).bin" size="61443648" crc="8cf586df" md5="09b36f5ecc6767793c5b6b1bc653d837" sha1="e36219cd309343cbf7d493010bd62a3e5aa69559"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 12).bin" size="33447792" crc="c0d26483" md5="c37910c01847be6f80b17cc25e88fc38" sha1="ce379e2bf03a983e4bb82741959145be01fac3c3"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 13).bin" size="29315328" crc="b9d43b25" md5="3eada846c5d4999658aeba8de3491889" sha1="9b4fd36c79b564a4c7a58011480aee38fa0b57e9"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 14).bin" size="31780224" crc="2d1664ef" md5="3bf779a9dd71cab706fcbc5b59373620" sha1="3b850eec1ca5647d9a2b6bb30a623c3cf4ccf347"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 15).bin" size="12486768" crc="7d1654eb" md5="9d23951a5152a00ba315284074da23b6" sha1="dc6f792618d0d68d11a3a2bc41b80bf12d313ca1"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 16).bin" size="34151040" crc="a730f80f" md5="b43d731606990e040b6d52fcc733aecf" sha1="e59017e8aa04a00678bacaecdae0423c3a1817ad"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA).cue" size="2350" crc="7fe49147" md5="49a40151b0579e278ae3cfb5f01c530f" sha1="3831d07c5fb649eed9819748a5a8d1616396c3f3"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 01).bin" size="42949872" crc="8760df1a" md5="e8cc1bbac93d3bddbec804909b4ad7ba" sha1="7ee948c0d8e695e1642a8b582c83850d24b15666"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 02).bin" size="16057104" crc="98f0c9b2" md5="36cb3c257d28f1d1d55e6bcd15c6d83f" sha1="8454bdeff232006c7248f110668928f330883131"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 03).bin" size="49883568" crc="7936bd90" md5="3dbdd6b8bfec299eff35abf82c3eeb19" sha1="5cb1805feecd02e419aba343d1ab9505fb5dfc67"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 04).bin" size="60970896" crc="885dc11e" md5="b2b08ad49046cb062cbb723e3754f4a6" sha1="3055234fdcf092bb461fb68228f3bd1e54e54799"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 05).bin" size="20281296" crc="ce11304a" md5="4c75e24786287c47ad1cef43f4e9310b" sha1="405080ce67be831ab94b2ca1572897673d6887b0"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 06).bin" size="33929952" crc="3728b7b0" md5="cc77e322397668896dcbd16df18b68fc" sha1="9a777a2a841f02be6e3fe6f298744dfcf1cc0428"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 07).bin" size="52981152" crc="265bd0e7" md5="feb58ee99c3a36319cac79c7b70a2012" sha1="a4cbbecd7d49bdc483057d4565ce8da1d085625c"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 08).bin" size="74215008" crc="ac9b3c66" md5="c76eb77c634df7faf27353c218c4831c" sha1="8eec6f1ad5fcd3437e757ec33bc5d628d844fc1d"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 09).bin" size="25117008" crc="417443a0" md5="83b085b652b82a7186996804fd99f034" sha1="7a673de89a4b8089141f2acd519513f51a184ed8"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 10).bin" size="77305536" crc="a050f3df" md5="3d5f8d5b9b4b4e5e16b567e3a0507492" sha1="5b786dd436334ba8ed5a213d5da18fb2e1392639"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 11).bin" size="61443648" crc="8cf586df" md5="09b36f5ecc6767793c5b6b1bc653d837" sha1="e36219cd309343cbf7d493010bd62a3e5aa69559"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 12).bin" size="33447792" crc="c0d26483" md5="c37910c01847be6f80b17cc25e88fc38" sha1="ce379e2bf03a983e4bb82741959145be01fac3c3"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 13).bin" size="29315328" crc="b9d43b25" md5="3eada846c5d4999658aeba8de3491889" sha1="9b4fd36c79b564a4c7a58011480aee38fa0b57e9"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 14).bin" size="31780224" crc="2d1664ef" md5="3bf779a9dd71cab706fcbc5b59373620" sha1="3b850eec1ca5647d9a2b6bb30a623c3cf4ccf347"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 15).bin" size="12486768" crc="7d1654eb" md5="9d23951a5152a00ba315284074da23b6" sha1="dc6f792618d0d68d11a3a2bc41b80bf12d313ca1"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 16).bin" size="34151040" crc="a730f80f" md5="b43d731606990e040b6d52fcc733aecf" sha1="e59017e8aa04a00678bacaecdae0423c3a1817ad"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA).cue" size="2350" crc="7fe49147" md5="49a40151b0579e278ae3cfb5f01c530f" sha1="3831d07c5fb649eed9819748a5a8d1616396c3f3"/>
 	</game>
 	<game name="Grand Theft Auto 2 (USA)" id="524">
 		<category>Games</category>
@@ -22139,6 +22162,13 @@
 		<serial>SLPM 86677</serial>
 		<rom name="Love Hina 2 - Kotoba wa Konayuki no You ni (Japan).bin" size="434576688" crc="bb2d3180" md5="ef4ac84a89d94af5b40d29e184cd6eaa" sha1="3ce135a8afc048eabc0846a32a72f14f13cead5c"/>
 		<rom name="Love Hina 2 - Kotoba wa Konayuki no You ni (Japan).cue" size="116" crc="331160ac" md5="db84d773ffc8c98b0472f5923e9e9cb5" sha1="2f2360be6198ea0faa70104f3daaedd92c0dd660"/>
+	</game>
+	<game name="Love Para - Lovely Tokyo Para-Para Musume (Japan)" id="31284">
+		<category>Games</category>
+		<description>Love Para: Lovely Tokyo Para-Para Musume (Japan)</description>
+		<serial>SLPS 03097</serial>
+		<rom name="Love Para - Lovely Tokyo Para-Para Musume (Japan).bin" size="125072304" crc="a8cd0e48" md5="9af0ebd7506ae5caa857e53091a8ae1a" sha1="6d0916fb569b69b1b3bf5c53e2df360dea9b3b8e"/>
+		<rom name="Love Para - Lovely Tokyo Para-Para Musume (Japan).cue" size="115" crc="92472b81" md5="47a2460e8e4e62a9de33fe830e5587e2" sha1="9d5d8d9b425f2c18571999571ef927a58ddd561f"/>
 	</game>
 	<game name="Love Therapy (Japan)" id="19779">
 		<category>Games</category>
@@ -41701,12 +41731,12 @@
 		<rom name="Supercross 2000 (USA).bin" size="177079728" crc="9101c3a1" md5="834bb5caa2b88e690c93a43dc80c9d63" sha1="8f1993f639c0f660bd6a0960353a588f8cf56bc4"/>
 		<rom name="Supercross 2000 (USA).cue" size="87" crc="751782f4" md5="894a51e97ad0ad457dee074c21dbda7b" sha1="a4fa3f123b2b788bd82d5a2fb977ab592186e00d"/>
 	</game>
-	<game name="Superstar Dance Club - 1 Hits!!! (USA)" id="14143">
+	<game name="Superstar Dance Club - #1 Hits!!! (USA)" id="14143">
 		<category>Games</category>
 		<description>Superstar Dance Club: #1 Hits!!! (USA)</description>
 		<serial>SLUS-01493</serial>
-		<rom name="Superstar Dance Club - 1 Hits!!! (USA).bin" size="125260464" crc="87345da3" md5="33ff7721410a87d9e5ff962a7c1af28e" sha1="4cd6c1a1a3b856b36358d6f690fbace619428cc8"/>
-		<rom name="Superstar Dance Club - 1 Hits!!! (USA).cue" size="104" crc="82bd069c" md5="b9f19e9b9587c2972aaaf95848acb7ae" sha1="7653b3471bde59e12b26ffe827e7d160a4acf89a"/>
+		<rom name="Superstar Dance Club - #1 Hits!!! (USA).bin" size="125260464" crc="87345da3" md5="33ff7721410a87d9e5ff962a7c1af28e" sha1="4cd6c1a1a3b856b36358d6f690fbace619428cc8"/>
+		<rom name="Superstar Dance Club - #1 Hits!!! (USA).cue" size="104" crc="82bd069c" md5="b9f19e9b9587c2972aaaf95848acb7ae" sha1="7653b3471bde59e12b26ffe827e7d160a4acf89a"/>
 	</game>
 	<game name="Surf Riders (USA)" id="4161">
 		<category>Games</category>
@@ -46120,12 +46150,12 @@
 		<rom name="Vadims (Japan) (Track 10).bin" size="41411664" crc="27f97e1d" md5="306640dfb5599ff6b0f6b5b1055a68cc" sha1="041b4bfd13c2c25836a34880e5f1ec5e82dcfc54"/>
 		<rom name="Vadims (Japan).cue" size="1072" crc="4b59ae02" md5="214d93a066638f465dd3ccba53c34382" sha1="7522446e3aa4d480f367a0ec18ae6edbc8e20b10"/>
 	</game>
-	<game name="Vagrant Story (USA)" id="164">
+	<game name="Vagrant Story (USA, Canada)" id="164">
 		<category>Games</category>
-		<description>Vagrant Story (USA)</description>
+		<description>Vagrant Story (USA, Canada)</description>
 		<serial>SLUS-01040, SLUS-01040GH</serial>
-		<rom name="Vagrant Story (USA).bin" size="750643152" crc="eb695a2e" md5="8531bc73ea7cd33a4c8e97bdf139ba9c" sha1="38c63db6c49a06b91d87cd5a4e31b1ec68fe212c"/>
-		<rom name="Vagrant Story (USA).cue" size="85" crc="4938b87b" md5="7df56121671c705b88f8d510cc2c9fb3" sha1="d96b690a9484345d078019567af399a88433d804"/>
+		<rom name="Vagrant Story (USA, Canada).bin" size="750643152" crc="eb695a2e" md5="8531bc73ea7cd33a4c8e97bdf139ba9c" sha1="38c63db6c49a06b91d87cd5a4e31b1ec68fe212c"/>
+		<rom name="Vagrant Story (USA, Canada).cue" size="93" crc="ef3cca29" md5="821e7359e0444da90db55b1c816793de" sha1="38e3309669136afd8360d06346ecca9af83c9b1a"/>
 	</game>
 	<game name="Valkyrie Profile (USA) (Disc 1)" id="655">
 		<category>Games</category>
