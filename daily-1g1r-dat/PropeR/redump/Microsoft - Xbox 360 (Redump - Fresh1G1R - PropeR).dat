@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,569) (-y) [-aAbBcdkmMpPuv] (2026-10-19 14-44-04) (Retool)</description>
-		<version>2026-10-19 14-44-04</version>
-		<date>2026-10-21 07-35-02</date>
+		<description>Microsoft - Xbox 360 (1,573) (-y) [-aAbBcdkmMpPuv] (2026-10-21 08-54-29) (Retool)</description>
+		<version>2026-10-21 08-54-29</version>
+		<date>2026-10-22 07-31-12</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1275,6 +1275,18 @@
 		<serial>S0-2000</serial>
 		<rom name="Caladrius (Japan).iso" size="7838695424" crc="ef4f9c08" md5="123157f5a1597285fe94a03c91205d69" sha1="ad6f626dded1a44c4f8d23e5c749e1ef482223b2"/>
 	</game>
+	<game name="Call of Duty - Advanced Warfare (UAE) (En,Ar) (Game Disc)" id="133160">
+		<category>Games</category>
+		<description>Call of Duty: Advanced Warfare (UAE) (En,Ar) (Game Disc)</description>
+		<serial>AV-2324</serial>
+		<rom name="Call of Duty - Advanced Warfare (UAE) (En,Ar) (Game Disc).iso" size="8738846720" crc="6c7181dd" md5="16ca22ad8d012d24c68967a9e9f09b22" sha1="0686433acae88eaff0f49fd1dc2cd113ad89d6b9"/>
+	</game>
+	<game name="Call of Duty - Advanced Warfare (UAE) (En,Ar) (Install Disc)" id="133161">
+		<category>Games</category>
+		<description>Call of Duty: Advanced Warfare (UAE) (En,Ar) (Install Disc)</description>
+		<serial>AV-2324</serial>
+		<rom name="Call of Duty - Advanced Warfare (UAE) (En,Ar) (Install Disc).iso" size="8738846720" crc="9db97944" md5="59c5aa136f1dc36739c03026849624e2" sha1="48b186682db3c8a0ff640cbbee717ff1e0ddd1b1"/>
+	</game>
 	<game name="Call of Duty - Advanced Warfare (World) (En,Fr,De,Es,It,Pt,Pl,Ru) (Install Disc)" id="53331">
 		<category>Games</category>
 		<description>Call of Duty: Advanced Warfare (World) (En,Fr,De,Es,It,Pt,Pl,Ru) (Install Disc)</description>
@@ -2331,6 +2343,12 @@
 		<description>Disney/Pixar Up (USA) (En,Fr)</description>
 		<serial>TQ-2105</serial>
 		<rom name="Disney-Pixar Up (USA) (En,Fr).iso" size="7838695424" crc="e7c59847" md5="8d28be093b2ecfa5e7db16808d8eb824" sha1="880163cd6353f6f18af2b63699c40f2164b5b17f"/>
+	</game>
+	<game name="Disney-Pixar WALL-E (UAE) (En,Ar)" id="130268">
+		<category>Games</category>
+		<description>Disney/Pixar WALL-E (UAE) (En,Ar)</description>
+		<serial>TQ-2084</serial>
+		<rom name="Disney-Pixar WALL-E (UAE) (En,Ar).iso" size="7835492352" crc="f66d5fa4" md5="7756ec6e1595cddea050573486fd3dec" sha1="53833c11c5694afd650e30ea0bf0a6c18ff1c6a5"/>
 	</game>
 	<game name="Disney-Pixar WALL-E (USA) (En,Fr,Es)" id="102416">
 		<category>Games</category>
@@ -8422,6 +8440,12 @@
 		<serial>US-2007</serial>
 		<rom name="Tom Clancy's Splinter Cell - Double Agent (USA, Europe) (En,Fr,De,Es,It).iso" size="7834892288" crc="930c8441" md5="031726c8508b3327c552c95a1be3c978" sha1="0e71c2537ec778aad5a69bf830873ab78f096727"/>
 	</game>
+	<game name="Tomb Raider (UAE) (En,Ar)" id="131980">
+		<category>Games</category>
+		<description>Tomb Raider (UAE) (En,Ar)</description>
+		<serial>SQ-2050</serial>
+		<rom name="Tomb Raider (UAE) (En,Ar).iso" size="7838695424" crc="bdfc9721" md5="ac7a8d547093586cdcf1056d7fcf3e7e" sha1="7104c5b7af71f0454217bf35180d5a0e13a168ae"/>
+	</game>
 	<game name="Tomb Raider (USA, Europe) (En,Es,Nl,Pt)" id="38453">
 		<category>Games</category>
 		<description>Tomb Raider (USA, Europe) (En,Es,Nl,Pt)</description>
@@ -9287,11 +9311,11 @@
 		<serial>AV-2218</serial>
 		<rom name="X-Men - Destiny (USA, Europe) (En,De).iso" size="8738846720" crc="c998b801" md5="50cc5bcc68f9cf23b3c269c8f7283391" sha1="9028e3d8492f04fa54076acdb66aed0c253726ef"/>
 	</game>
-	<game name="X-Men - The Official Game (USA)" id="60749">
+	<game name="X-Men - The Official Game (USA, Australia)" id="60749">
 		<category>Games</category>
-		<description>X-Men: The Official Game (USA)</description>
+		<description>X-Men: The Official Game (USA, Australia)</description>
 		<serial>AV-2011</serial>
-		<rom name="X-Men - The Official Game (USA).iso" size="7834892288" crc="72fd0782" md5="878098af7d6234700908a939e738125b" sha1="6ae51866cf8efd039c55555434f6965fef4b5631"/>
+		<rom name="X-Men - The Official Game (USA, Australia).iso" size="7834892288" crc="72fd0782" md5="878098af7d6234700908a939e738125b" sha1="6ae51866cf8efd039c55555434f6965fef4b5631"/>
 	</game>
 	<game name="X-Men Origins - Wolverine - Uncaged Edition (USA, Europe) (En,Fr,Es,It)" id="13323">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,298) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-19 13-33-59) (Retool)</description>
-		<version>2026-10-19 13-33-59</version>
-		<date>2026-10-21 07-29-51</date>
+		<description>Sony - PlayStation 3 (1,304) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-21 13-14-28) (Retool)</description>
+		<version>2026-10-21 13-14-28</version>
+		<date>2026-10-22 07-29-29</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1194,6 +1194,13 @@
 		<version>01.00</version>
 		<rom name="Cabela's Survival - Shadows of Katmai (USA) (En,Fr).iso" size="7466319872" crc="1fd09434" md5="6ef984d180745d5abf1bc7d3ab32b1fd" sha1="80bfdce616e469ec07020f9b584653895a70f9a6"/>
 	</game>
+	<game name="Call of Duty - Advanced Warfare (UAE) (En,Ar)" id="81550">
+		<category>Games</category>
+		<description>Call of Duty: Advanced Warfare (UAE) (En,Ar)</description>
+		<serial>BLES-02079</serial>
+		<version>01.00</version>
+		<rom name="Call of Duty - Advanced Warfare (UAE) (En,Ar).iso" size="14424932352" crc="623d1202" md5="275e61478b1cf63b11c6ee631f462769" sha1="c728e7028d0c6923957776bea2b99efd8bad717d"/>
+	</game>
 	<game name="Call of Duty - Advanced Warfare (USA) (En,Fr,Es,Pt)" id="34219">
 		<category>Games</category>
 		<description>Call of Duty: Advanced Warfare (USA) (En,Fr,Es,Pt)</description>
@@ -1214,6 +1221,12 @@
 		<serial>BLUS-31011</serial>
 		<version>01.00</version>
 		<rom name="Call of Duty - Black Ops II (USA) (En,Fr).iso" size="21363818496" crc="8c29d1e1" md5="ee846e3024540d614b87d8ee45088348" sha1="b025bb31ff547c8615a5586e443e1860415913b6"/>
+	</game>
+	<game name="Call of Duty - Black Ops III (UAE)" id="102945">
+		<category>Games</category>
+		<description>Call of Duty: Black Ops III (UAE)</description>
+		<serial>BLES-02168</serial>
+		<rom name="Call of Duty - Black Ops III (UAE).iso" size="4008706048" crc="533b357d" md5="2ccb5e7c1a1cfe1d94affdf160ed4358" sha1="41ffafb8af82cef119972a7122076558ff24dc1f"/>
 	</game>
 	<game name="Call of Duty - Black Ops III (USA) (En,Fr,Es,Pt)" id="41174">
 		<category>Games</category>
@@ -2090,6 +2103,13 @@
 		<version>01.00</version>
 		<rom name="Disney-Pixar Ratatouille (USA).iso" size="3447586816" crc="fa10d6b4" md5="bce35d302a5b95b9078cf02a1e111634" sha1="40833c33948052b7a526ab09cd95ad6fc53d6be0"/>
 	</game>
+	<game name="Disney-Pixar Toy Story 3 (UAE) (En,Ar)" id="100964">
+		<category>Games</category>
+		<description>Disney/Pixar Toy Story 3 (UAE) (En,Ar)</description>
+		<serial>BLES-00878/E</serial>
+		<version>01.01</version>
+		<rom name="Disney-Pixar Toy Story 3 (UAE) (En,Ar).iso" size="7184449536" crc="617e5cd3" md5="5fbaeaaeede1b9441f596adba31c32fc" sha1="dbd23a58feac6277402ee7b4fd78f97fcc86dd39"/>
+	</game>
 	<game name="Disney-Pixar Toy Story 3 (USA) (En,Fr,Es)" id="14256">
 		<category>Games</category>
 		<description>Disney/Pixar Toy Story 3 (USA) (En,Fr,Es)</description>
@@ -2712,6 +2732,13 @@
 		<serial>BLAS 50071, BLUS-30176</serial>
 		<version>01.00</version>
 		<rom name="FIFA 09 (USA, Asia) (En,Fr,Es).iso" size="7128219648" crc="eef9fdbf" md5="0f666600a61bf418e4bb8bd532d311a0" sha1="1d721cc2e8e47b43290926806d1697bdc2d3b955"/>
+	</game>
+	<game name="FIFA 12 (UAE)" id="136854">
+		<category>Games</category>
+		<description>FIFA 12 (UAE)</description>
+		<serial>BLES-01382</serial>
+		<version>01.01</version>
+		<rom name="FIFA 12 (UAE).iso" size="5890113536" crc="0c5ec40b" md5="44723d6308e42db9f9685f8844b69ab7" sha1="a6340211d5d67016ce9a74274dc4cb199c3cbd59"/>
 	</game>
 	<game name="FIFA 14 (USA) (En,Fr,Es)" id="30202">
 		<category>Games</category>
@@ -5926,6 +5953,13 @@
 		<version>01.00</version>
 		<rom name="PES 2013 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt).iso" size="8332443648" crc="769da66d" md5="45bc46e6c02f540abe3b6be20148f8bf" sha1="f2d7d800da850150ca59381b025760acf59be73c"/>
 	</game>
+	<game name="PES 2014 - Pro Evolution Soccer (UAE) (En,Ar)" id="129462">
+		<category>Games</category>
+		<description>PES 2014: Pro Evolution Soccer (UAE) (En,Ar)</description>
+		<serial>BLES-01935</serial>
+		<version>01.00</version>
+		<rom name="PES 2014 - Pro Evolution Soccer (UAE) (En,Ar).iso" size="6420430848" crc="07f4cfa6" md5="ace607119eb445a4551224cd65073ae4" sha1="631a765bee4979e9d3f1ced259e46498fbef8e0f"/>
+	</game>
 	<game name="PES 2014 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)" id="31950">
 		<category>Games</category>
 		<description>PES 2014: Pro Evolution Soccer (USA) (En,Fr,Es,Pt)</description>
@@ -5939,6 +5973,12 @@
 		<serial>BLUS-31480</serial>
 		<version>01.01</version>
 		<rom name="PES 2015 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt).iso" size="8900444160" crc="a74d3e3c" md5="7c0b82e9af1a108fb12b52b47147c8e2" sha1="c9b81e6fd2c0a8d9864793dd6b8f5041eff7bf03"/>
+	</game>
+	<game name="PES 2017 - Pro Evolution Soccer (UAE) (En,Ar)" id="123271">
+		<category>Games</category>
+		<description>PES 2017: Pro Evolution Soccer (UAE) (En,Ar)</description>
+		<serial>BLES-02238</serial>
+		<rom name="PES 2017 - Pro Evolution Soccer (UAE) (En,Ar).iso" size="6516834304" crc="fca4191f" md5="4e8036e473228974777847dc04f808b0" sha1="d217759241a29e9df110225ebd3f570129a90a07"/>
 	</game>
 	<game name="PES 2017 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)" id="41573">
 		<category>Games</category>

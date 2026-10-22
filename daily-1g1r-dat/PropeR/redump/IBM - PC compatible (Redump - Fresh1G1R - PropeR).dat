@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,086) (-y) [-aAbBcdkmMpPuv] (2026-10-20 21-52-14) (Retool)</description>
-		<version>2026-10-20 21-52-14</version>
-		<date>2026-10-21 07-34-51</date>
+		<description>IBM - PC compatible (27,090) (-y) [-aAbBcdkmMpPuv] (2026-10-22 03-06-22) (Retool)</description>
+		<version>2026-10-22 03-06-22</version>
+		<date>2026-10-22 07-30-58</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -58086,6 +58086,13 @@
 		<rom name="European Air War (USA) (v1.1).bin" size="648215904" crc="f048aebc" md5="7d181364fc0dc2d4aea80ae595b53751" sha1="6685917620670f6473da82513eb48b4898373bfb"/>
 		<rom name="European Air War (USA) (v1.1).cue" size="118" crc="5aa5b8e4" md5="74128bba2bedc1d938e04832c51bae47" sha1="fee58a341339b0c2eceebbfae1252edc9e694054"/>
 	</game>
+	<game name="European Champions &amp; International Open Golf Championship (USA)" id="139591">
+		<category>Games</category>
+		<description>European Champions / International Open Golf Championship (USA)</description>
+		<serial>42331-911SPC</serial>
+		<rom name="European Champions &amp; International Open Golf Championship (USA).bin" size="8808240" crc="d3da3ebe" md5="98ebdd40f1d78b36683c8450e520c1ec" sha1="395a0ca99e811cb0cd5f6185297dfa737ae29881"/>
+		<rom name="European Champions &amp; International Open Golf Championship (USA).cue" size="152" crc="1e595be6" md5="eb1061cdb5adf86651683aa5f0b04aea" sha1="30cbfb8fa08dac8c0001e4d512d6e960b153c0c9"/>
+	</game>
 	<game name="European Racers (USA)" id="64565">
 		<category>Games</category>
 		<description>European Racers (USA)</description>
@@ -94892,7 +94899,7 @@
 	<game name="Kachinige Shiyagare (Japan)" id="93892">
 		<category>Games</category>
 		<description>Kachinige Shiyagare (Japan)</description>
-		<serial>GG5-059B</serial>
+		<serial>GGR-059B</serial>
 		<rom name="Kachinige Shiyagare (Japan).bin" size="24239712" crc="f03a34ac" md5="cc14609b7c8386710cdb00d829836a4f" sha1="23a5bb99f508e307f6bbf14f8f5759b9f51acdf4"/>
 		<rom name="Kachinige Shiyagare (Japan).cue" size="93" crc="f9780124" md5="9ee865370a50c7b80f1aa1fa386aed56" sha1="2a723d9aad965f0ff203080553c45457a384ce92"/>
 	</game>
@@ -114126,11 +114133,11 @@
 		<rom name="Mechty - Vo sne i nayavu (Russia) (Disc 2) (Track 14).bin" size="11799984" crc="af8d028a" md5="fcd26d0c19d022f347bcd273ba38544e" sha1="792e43ccbdf5d84818f7b72732401e5dfd938f1a"/>
 		<rom name="Mechty - Vo sne i nayavu (Russia) (Disc 2).cue" size="1900" crc="474e7330" md5="5a7476257e3c3de80c67266d5601dc4f" sha1="3f1a89cdef0e8d948b07bd02b2167300b60ce00e"/>
 	</game>
-	<game name="Medal of Honor (Poland) (2010)" id="138495">
+	<game name="Medal of Honor (Poland) (Pl,Ru) (2010)" id="138495">
 		<category>Games</category>
-		<description>Medal of Honor (Poland) (2010)</description>
+		<description>Medal of Honor (Poland) (Pl,Ru) (2010)</description>
 		<serial>DWZ07707412D</serial>
-		<rom name="Medal of Honor (Poland) (2010).iso" size="7481851904" crc="7d700f57" md5="2b3864518ffc00f622ce147eaecceb4c" sha1="d18fc6056e79cb545adc7c19abe13d4476811868"/>
+		<rom name="Medal of Honor (Poland) (Pl,Ru) (2010).iso" size="7481851904" crc="7d700f57" md5="2b3864518ffc00f622ce147eaecceb4c" sha1="d18fc6056e79cb545adc7c19abe13d4476811868"/>
 	</game>
 	<game name="Medal of Honor (USA) (En,Fr)" id="25922">
 		<category>Games</category>
@@ -114922,6 +114929,18 @@
 		<description>Meine Lernwelt: 1. Klasse Mathematik (Germany)</description>
 		<rom name="Meine Lernwelt - 1. Klasse Mathematik (Germany).bin" size="321250272" crc="ab78a9f8" md5="336b543f756a839cf26d197217c31bde" sha1="dc01f2aa157a906849462eaecb7f972b6185edb5"/>
 		<rom name="Meine Lernwelt - 1. Klasse Mathematik (Germany).cue" size="113" crc="62411592" md5="5f07e82e6636744e29e69fe2e02e8112" sha1="3b2d1191a2ba253f67a4638760f5abbc81c894db"/>
+	</game>
+	<game name="Meine Lernwelt - 2. Klasse Deutsch (Germany)" id="139589">
+		<category>Educational</category>
+		<description>Meine Lernwelt: 2. Klasse Deutsch (Germany)</description>
+		<rom name="Meine Lernwelt - 2. Klasse Deutsch (Germany).bin" size="348302976" crc="c6c4e5cd" md5="e9c0a9cd802f844c7e867301e5bbdf92" sha1="c5783eae5dd76098cc0c57a0a900e7ad7fa75faf"/>
+		<rom name="Meine Lernwelt - 2. Klasse Deutsch (Germany).cue" size="110" crc="95cb4617" md5="68994a1f63834e2d46ea5c363cb3fbe1" sha1="9cf1b52a0583f2f05aca6e8567fe25081629b534"/>
+	</game>
+	<game name="Meine Lernwelt - 2. Klasse Mathematik (Germany)" id="139590">
+		<category>Educational</category>
+		<description>Meine Lernwelt: 2. Klasse Mathematik (Germany)</description>
+		<rom name="Meine Lernwelt - 2. Klasse Mathematik (Germany).bin" size="399110880" crc="91fad129" md5="ad560287615b0f3ea6b272d709fc06ff" sha1="fe65280ed5d018fde33ccaf71a941b6f930a4e3d"/>
+		<rom name="Meine Lernwelt - 2. Klasse Mathematik (Germany).cue" size="113" crc="9c394a52" md5="75360f7f2625266cc845a8a1543d347d" sha1="4d5edafde23e9d3b9e4e170db405294735701f7c"/>
 	</game>
 	<game name="Meine Tierklinik (Germany)" id="130444">
 		<category>Games</category>
@@ -131485,12 +131504,12 @@
 		<description>Obscure (Czechia)</description>
 		<rom name="Obscure (Czechia).iso" size="4651352064" crc="cfc51fe0" md5="209c46348f633c67ad436e1a6d51b07c" sha1="5b468fe3fb2557954a8d5da0aed19836ede22184"/>
 	</game>
-	<game name="Obscure (Europe)" id="50972">
+	<game name="Obscure (Europe) (En,Fr,De,Es,It)" id="50972">
 		<category>Games</category>
-		<description>Obscure (Europe)</description>
+		<description>Obscure (Europe) (En,Fr,De,Es,It)</description>
 		<serial>719 02 102</serial>
 		<version>1.0</version>
-		<rom name="Obscure (Europe).iso" size="4279336960" crc="25b9dd52" md5="479e8b8b256de8c6cb3253365e5ab676" sha1="5c4909196b85c71fad61d77587b0aeadb1ab790a"/>
+		<rom name="Obscure (Europe) (En,Fr,De,Es,It).iso" size="4279336960" crc="25b9dd52" md5="479e8b8b256de8c6cb3253365e5ab676" sha1="5c4909196b85c71fad61d77587b0aeadb1ab790a"/>
 	</game>
 	<game name="Obscure (USA) (Disc 1)" id="79837">
 		<category>Games</category>
@@ -171853,11 +171872,11 @@
 		<rom name="Sinistar - Unleashed (USA).bin" size="620361168" crc="eaed1734" md5="34668775b2848ef9c5ea1d0b953f348c" sha1="d6495588c3325a2131a1a9f4c9d3a087b53a4955"/>
 		<rom name="Sinistar - Unleashed (USA).cue" size="92" crc="f5615e87" md5="e60efe99dd9c7e0882a9d325d04f4757" sha1="8f953aaac5732ba535f8be88c5f6e6311ce3b5c4"/>
 	</game>
-	<game name="Sink or Swim (Europe)" id="19962">
+	<game name="Sink or Swim (USA)" id="139593">
 		<category>Games</category>
-		<description>Sink or Swim (Europe)</description>
-		<rom name="Sink or Swim (Europe).bin" size="191570400" crc="02d9ba9d" md5="d54ab19c7c971412e4a497999b3fedbf" sha1="3bead9c47d61e2aebb524ac2ef37aaeb0c0476ff"/>
-		<rom name="Sink or Swim (Europe).cue" size="102" crc="953c5829" md5="7b92b2b310aa6a2658e065114cdfe42e" sha1="cf0405199fab2e1b79686a0c616b2a026fa54271"/>
+		<description>Sink or Swim (USA)</description>
+		<rom name="Sink or Swim (USA).bin" size="16200576" crc="4f07add7" md5="a7d1be8c003e83588378606447d3e105" sha1="9f37d0cc464bdef159fa332e7cbe3de03f483c2a"/>
+		<rom name="Sink or Swim (USA).cue" size="107" crc="a7558377" md5="3e05d33ae9e2ad5491a72e20f34210e4" sha1="bd94dfb97220d84ec5489f1385d04bc50a071e90"/>
 	</game>
 	<game name="Sinker no Game (Japan)" id="125782">
 		<category>Games</category>
@@ -193358,6 +193377,13 @@
 		<rom name="Train Driver (Russia) (Disc 2).bin" size="457332288" crc="286f2687" md5="424bea4afeea002e079f7734f88dd99d" sha1="5ff0352f8c72aa7074f93ca3de9b82170da3470a"/>
 		<rom name="Train Driver (Russia) (Disc 2).cue" size="96" crc="a8f97a68" md5="e7ed017f104e562e7deb901c358a1eea" sha1="1457221c4293b8a98502fdf626a4a1f19b92bda0"/>
 	</game>
+	<game name="Train Empire (Europe)" id="139587">
+		<category>Games</category>
+		<description>Train Empire (Europe)</description>
+		<serial>UWB059</serial>
+		<rom name="Train Empire (Europe).bin" size="65719584" crc="470d0154" md5="c943bcf034c8f1ea063fe5477c535a07" sha1="b8cd7a7582c52f2e7901f667c10d36a42be8bc81"/>
+		<rom name="Train Empire (Europe).cue" size="87" crc="55d16ce2" md5="f36d2ed5faac532cccb0710eac4c20a9" sha1="402b0ab1c80d6d6f2ee9908f76975f12766b622f"/>
+	</game>
 	<game name="Train Sim - The Activities (USA)" id="131536">
 		<category>Add-Ons</category>
 		<description>Train Sim: The Activities (USA)</description>
@@ -197508,11 +197534,12 @@
 		<rom name="Ultra Deluxe Volume 1 (USA).bin" size="616715568" crc="267131ce" md5="1add8264a4625f413f07c3a5e1b6c51a" sha1="06b540a0fd7ece6591a05a83aba010592afe9c60"/>
 		<rom name="Ultra Deluxe Volume 1 (USA).cue" size="116" crc="8be1d5bf" md5="252466efb37823b6a3e85c8fe7d9adf2" sha1="d8b55d41373ab01d429671bf07f4cc8519ac5c46"/>
 	</game>
-	<game name="Ultra Fighters (Germany)" id="48189">
+	<game name="Ultra Fighters (Europe)" id="139588">
 		<category>Games</category>
-		<description>Ultra Fighters (Germany)</description>
-		<rom name="Ultra Fighters (Germany).bin" size="665623056" crc="71c6363d" md5="1ea8f754731e8688278cacc90fd79c9d" sha1="fbb0c54f97d99e6de5841b99bb196f61ed34a0fb"/>
-		<rom name="Ultra Fighters (Germany).cue" size="90" crc="016b03f1" md5="8f146db5c663b8d160d228011701737a" sha1="f3f47396288c59dacf0fe4d8dd6444bde70c3188"/>
+		<description>Ultra Fighters (Europe)</description>
+		<serial>cd-021</serial>
+		<rom name="Ultra Fighters (Europe).bin" size="797619648" crc="91963c00" md5="b3de42daefb53c27d7173ddcb71dfeea" sha1="94500d4fd382ff0227424f81a82ba492d283e7a5"/>
+		<rom name="Ultra Fighters (Europe).cue" size="89" crc="55750336" md5="b62b9958d7e7cbeac9736419aa0ea39c" sha1="1a9d790d0890bbebf16851d170bca05a94ec6b61"/>
 	</game>
 	<game name="Ultra Fighters - The Future of Dogfighting (USA)" id="129763">
 		<category>Games</category>
@@ -207284,35 +207311,35 @@
 	<game name="Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 1)" id="71636">
 		<category>Games</category>
 		<description>Witcher 3, The: Wild Hunt: Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 1)</description>
-		<serial>0477_D101_PL, 55938, 9817_IN01_EN</serial>
+		<serial>0477_D101_PL, 55938, 9817_IN01_EN, 0316_D101_EN</serial>
 		<version>1.30</version>
 		<rom name="Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 1).iso" size="8537833472" crc="10ef34f7" md5="4b92362538ef9d0c1823121aedb045c3" sha1="28e05def64b62ffbf8594e0e84b820152e09cd85"/>
 	</game>
 	<game name="Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 2)" id="71637">
 		<category>Games</category>
 		<description>Witcher 3, The: Wild Hunt: Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 2)</description>
-		<serial>0477_D201_PL, 55938, 9817_IN01_EN</serial>
+		<serial>0477_D201_PL, 55938, 9817_IN01_EN, 0316_D201_EN</serial>
 		<version>1.30</version>
 		<rom name="Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 2).iso" size="8536129536" crc="0509587f" md5="203c1256304a9031cdff235c7fc0fc45" sha1="6b101951c64202391f8bc133ece190fab359fa56"/>
 	</game>
 	<game name="Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 3)" id="71638">
 		<category>Games</category>
 		<description>Witcher 3, The: Wild Hunt: Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 3)</description>
-		<serial>0477_D301_PL, 55938, 9817_IN01_EN</serial>
+		<serial>0477_D301_PL, 55938, 9817_IN01_EN, 0316_D301_EN</serial>
 		<version>1.30</version>
 		<rom name="Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 3).iso" size="8536129536" crc="6cf78d73" md5="6fa4f8f1cc9922d595ece4e06e2b0fef" sha1="8ba65e98a8640e24c5c54a7df8cad5befbf2beeb"/>
 	</game>
 	<game name="Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 4)" id="71639">
 		<category>Games</category>
 		<description>Witcher 3, The: Wild Hunt: Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 4)</description>
-		<serial>55938, 9817_IN01_EN</serial>
+		<serial>55938, 9817_IN01_EN, 0316_D401_EN</serial>
 		<version>1.30</version>
 		<rom name="Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 4).iso" size="8536129536" crc="b042e0fa" md5="018b561ef0227dcc33438fee74d1acf3" sha1="58034b7c72c1515faf24604263a98ae6aa1b27b3"/>
 	</game>
 	<game name="Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 5)" id="71640">
 		<category>Games</category>
 		<description>Witcher 3, The: Wild Hunt: Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 5)</description>
-		<serial>0477_D501_PL, 55938, 9817_IN01_EN</serial>
+		<serial>0477_D501_PL, 55938, 9817_IN01_EN, 0316_D501_EN</serial>
 		<version>1.30</version>
 		<rom name="Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Ar) (Disc 5).iso" size="8536129536" crc="fc4cf6e4" md5="7c5a89aca3be16483c231253ed3110d0" sha1="62070868dbad48c516e5f9f4d502b4db5b1c9029"/>
 	</game>

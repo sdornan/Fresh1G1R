@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC-98 series (Retool)</name>
-		<description>NEC - PC-98 series (122) (-y) [-aAbBcefkmMoprv] (2026-10-16 23-55-09) (Retool)</description>
-		<version>2026-10-16 23-55-09</version>
-		<date>2026-10-21 07-22-54</date>
+		<description>NEC - PC-98 series (122) (-y) [-aAbBcefkmMoprv] (2026-10-21 12-35-47) (Retool)</description>
+		<version>2026-10-21 12-35-47</version>
+		<date>2026-10-22 07-25-56</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1251,6 +1251,7 @@
 	<game name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)" id="102555">
 		<category>Games</category>
 		<description>Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)</description>
+		<serial>IDES-058</serial>
 		<rom name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (Track 01).bin" size="48719328" crc="7f2342f6" md5="46f090c0f9e9df2bbb14b80d03c3b2ef" sha1="bb4fe1f88e27a023a117b48889abd26da583284f"/>
 		<rom name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (Track 02).bin" size="30785328" crc="2a066b05" md5="a447adae953382549030bdfc37279fa3" sha1="724e351e5a0f7c43f99a214696586efd4b11d2d2"/>
 		<rom name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (Track 03).bin" size="29174208" crc="201f8aa9" md5="d9e0fd2963ed3f713e67e818f2d27283" sha1="0539c50bde9aa75cf70c4a7d4a6b11989939a15d"/>

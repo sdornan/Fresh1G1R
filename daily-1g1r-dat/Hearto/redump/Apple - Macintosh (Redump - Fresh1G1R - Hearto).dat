@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (647) (-y) [-aAbBcefkmMoprv] (2026-10-20 08-57-25) (Retool)</description>
-		<version>2026-10-20 08-57-25</version>
-		<date>2026-10-21 07-21-42</date>
+		<description>Apple - Macintosh (648) (-y) [-aAbBcefkmMoprv] (2026-10-21 12-44-30) (Retool)</description>
+		<version>2026-10-21 12-44-30</version>
+		<date>2026-10-22 07-24-24</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -4289,6 +4289,13 @@
 		<serial>BCRM-0012</serial>
 		<rom name="Sotsugyou - Graduation (Japan).bin" size="117576480" crc="69aff86e" md5="41a422ca9cc076e57e8b17beda137a38" sha1="f59a5bcfdc5ccb44bfdb43a5524e0cddaa90be23"/>
 		<rom name="Sotsugyou - Graduation (Japan).cue" size="119" crc="42055dd9" md5="8448dc625c5e3a40e083ebf3633b14b9" sha1="0d9ed95d634d34f1378e06848d27dd7723a2752d"/>
+	</game>
+	<game name="Sotsugyousei (Japan)" id="139595">
+		<category>Games</category>
+		<description>Sotsugyousei (Japan)</description>
+		<serial>JAM-16</serial>
+		<rom name="Sotsugyousei (Japan).bin" size="528158064" crc="08a83ac1" md5="a1f1624d5f22fbcd7aac99b717774f8a" sha1="daddac7b7f1ea261e140136b2b586175f354faa6"/>
+		<rom name="Sotsugyousei (Japan).cue" size="86" crc="6b5fb40a" md5="de1eb0b264c193acdd8b01c3daffdb1b" sha1="03cd24c190aa236f08c9647873103eb081e3b857"/>
 	</game>
 	<game name="Space Ace CD-ROM (USA, Canada) (En,Fr) (For Macintosh Computers)" id="112270">
 		<category>Games</category>
