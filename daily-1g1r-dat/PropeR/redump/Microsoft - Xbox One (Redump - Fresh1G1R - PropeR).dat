@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (907) (-y) [-aAbBcdkmMpPuv] (2026-10-21 09-05-57) (Retool)</description>
-		<version>2026-10-21 09-05-57</version>
-		<date>2026-10-22 07-31-13</date>
+		<description>Microsoft - Xbox One (907) (-y) [-aAbBcdkmMpPuv] (2026-10-22 09-47-43) (Retool)</description>
+		<version>2026-10-22 09-47-43</version>
+		<date>2026-10-23 07-33-31</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3682,10 +3682,11 @@
 		<description>Sonic Forces (China)</description>
 		<rom name="Sonic Forces (China).iso" size="22978238464" crc="410097ff" md5="d8b2a652f26deb7376fb98478a10cea1" sha1="b732fc8b7fee21a3e62c0482867a379bba35f756"/>
 	</game>
-	<game name="Sonic Mania Plus (USA)" id="111618">
+	<game name="Sonic Mania Plus (USA, Europe)" id="111618">
 		<category>Games</category>
-		<description>Sonic Mania Plus (USA)</description>
-		<rom name="Sonic Mania Plus (USA).iso" size="19010357248" crc="dc59d7ff" md5="a85e9a11bfd2ac019499c2bc06dd2168" sha1="ad181e8c3069c0640c1d3e972512421dbf83c81c"/>
+		<description>Sonic Mania Plus (USA, Europe)</description>
+		<version>01.00</version>
+		<rom name="Sonic Mania Plus (USA, Europe).iso" size="19010357248" crc="dc59d7ff" md5="a85e9a11bfd2ac019499c2bc06dd2168" sha1="ad181e8c3069c0640c1d3e972512421dbf83c81c"/>
 	</game>
 	<game name="Sonic Superstars (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Th)" id="113028">
 		<category>Games</category>

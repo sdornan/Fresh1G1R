@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>SNK - Neo Geo CD (Retool)</name>
-		<description>SNK - Neo Geo CD (101) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-50-33) (Retool)</description>
-		<version>2026-10-14 05-50-33</version>
-		<date>2026-10-22 07-26-26</date>
+		<description>SNK - Neo Geo CD (102) (-y) [-aAbBcefkmMoprv] (2026-10-22 21-06-22) (Retool)</description>
+		<version>2026-10-22 21-06-22</version>
+		<date>2026-10-23 07-18-16</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -377,6 +377,12 @@
 		<rom name="Breakers (Japan) (En,Ja) (Track 31).bin" size="2862384" crc="84f33b7f" md5="f87853291bb2636b09402cdbd817d310" sha1="b01ef4b711cd32a48f76e3c7fa73e0d38f64f9e3"/>
 		<rom name="Breakers (Japan) (En,Ja) (Track 32).bin" size="2857680" crc="4fef1dd0" md5="1133920ee3011053c37cb4732d2d6efd" sha1="45c05e6e7263a5713779e6dad82f10059fd1e08e"/>
 		<rom name="Breakers (Japan) (En,Ja).cue" size="3790" crc="89b57c53" md5="fc0e297e8272e93d43c9eef4154fdff3" sha1="470a09d3ea06c31deb642491e21f739720de911a"/>
+	</game>
+	<game name="Breakers (USA) (En,Ja) (Polymega Collection)" id="139655">
+		<category>Games</category>
+		<description>Breakers (USA) (En,Ja) (Polymega Collection)</description>
+		<rom name="Breakers (USA) (En,Ja) (Polymega Collection).bin" size="25768512" crc="56e51752" md5="06f05b71371373a1c6fb5f71a9e1b6f0" sha1="efcd18c19137d7359a6c3c944ebf3959bd6215ca"/>
+		<rom name="Breakers (USA) (En,Ja) (Polymega Collection).cue" size="110" crc="e7e051d6" md5="abc0c659616e91d1211ab19b0ac01a32" sha1="6836678a5f5ffeb99ca288120c378900028723e0"/>
 	</game>
 	<game name="Burning Fight (Japan) (En,Ja)" id="62422">
 		<category>Games</category>

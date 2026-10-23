@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 (Retool)</name>
-		<description>Sony - PlayStation 2 (5,396) (-y) [-aAbBcefkmMoprv] (2026-10-22 03-56-22) (Retool)</description>
-		<version>2026-10-22 03-56-22</version>
-		<date>2026-10-22 07-26-45</date>
+		<description>Sony - PlayStation 2 (5,396) (-y) [-aAbBcefkmMoprv] (2026-10-23 01-56-22) (Retool)</description>
+		<version>2026-10-23 01-56-22</version>
+		<date>2026-10-23 07-18-36</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -701,7 +701,7 @@
 	<game name="Age of Empires II - The Age of Kings (Europe) (En,Fr,De,Es,It) (v2.00)" id="15067">
 		<category>Games</category>
 		<description>Age of Empires II: The Age of Kings (Europe) (En,Fr,De,Es,It) (v2.00)</description>
-		<serial>SLES-50282#</serial>
+		<serial>SLES-50282#, SLES-50282</serial>
 		<version>2.00</version>
 		<rom name="Age of Empires II - The Age of Kings (Europe) (En,Fr,De,Es,It) (v2.00).bin" size="632904384" crc="f48f5a46" md5="9cc68e9ff52f2ec533e8efc3c643cb0f" sha1="cf69204ac02a88ade5be6e9177a12d5d478510f4"/>
 		<rom name="Age of Empires II - The Age of Kings (Europe) (En,Fr,De,Es,It) (v2.00).cue" size="136" crc="9f98b419" md5="3448497d8d71f7318ae0b7ea1bea04b9" sha1="6564e8943f31b203efa4a565a3ccf8a1c7cbe854"/>
@@ -21301,7 +21301,7 @@
 	<game name="Mystic Heroes (USA)" id="30461">
 		<category>Games</category>
 		<description>Mystic Heroes (USA)</description>
-		<serial>SLUS-20521</serial>
+		<serial>SLUS 20521</serial>
 		<version>1.01</version>
 		<rom name="Mystic Heroes (USA).iso" size="3132424192" crc="4a575188" md5="d4f96216fe8f406c61c8c355c9fa3701" sha1="ec3535d18d707b742328ea24cebe601fe05037f3"/>
 	</game>
@@ -39150,7 +39150,7 @@
 	<game name="Yu-Gi-Oh! GX - The Beginning of Destiny (USA)" id="4187">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! GX: The Beginning of Destiny (USA)</description>
-		<serial>SLUS-21683</serial>
+		<serial>SLUS 21683</serial>
 		<version>2.00</version>
 		<rom name="Yu-Gi-Oh! GX - The Beginning of Destiny (USA).iso" size="4287463424" crc="b4a4428d" md5="c902ee6de3359be9d1e5d656b9d2ca47" sha1="dbbea877746c39415cc9b37c50ab3e347705e250"/>
 	</game>

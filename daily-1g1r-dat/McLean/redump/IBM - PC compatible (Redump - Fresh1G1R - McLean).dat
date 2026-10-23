@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,653) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-22 03-06-22) (Retool)</description>
-		<version>2026-10-22 03-06-22</version>
-		<date>2026-10-22 07-28-16</date>
+		<description>IBM - PC compatible (13,658) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-22 21-26-22) (Retool)</description>
+		<version>2026-10-22 21-26-22</version>
+		<date>2026-10-23 07-25-35</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2850,6 +2850,14 @@
 		<rom name="Age of Empires II - The Age of Kings (USA, Europe) (Track 2).bin" size="320276544" crc="3170e90a" md5="bc8200230f91965264d39495eb1e5072" sha1="27e9c1796e56d50be3dd52bf299d0da73652184c"/>
 		<rom name="Age of Empires II - The Age of Kings (USA, Europe).cue" size="285" crc="830651e9" md5="1ebdca7e59369a9dc687fcdaf70d0206" sha1="fc6628afbfbf6c7fc88549582e0e7010c6c02289"/>
 	</game>
+	<game name="Age of Empires III (Canada) (Disc 3) (Disque du jeu)" id="114027">
+		<category>Games</category>
+		<description>Age of Empires III (Canada) (Disc 3) (Disque du jeu)</description>
+		<serial>X11-44054 FR</serial>
+		<version>1.12</version>
+		<rom name="Age of Empires III (Canada) (Disc 3) (Disque du jeu).bin" size="653432640" crc="1541f4fb" md5="fedc6e14b5151615e04ac3e3f92f3352" sha1="69cb892adac70b0d6aaf424e80ec16a0d3598ab5"/>
+		<rom name="Age of Empires III (Canada) (Disc 3) (Disque du jeu).cue" size="118" crc="b6bda530" md5="28b3fc9c719ca492518c7c8cf3f7d22d" sha1="3d911a046fb6381566d5b9853c00c12f854c78b1"/>
+	</game>
 	<game name="Age of Empires III (Europe) (Disc 1) (Install Disc) (Collector's Edition)" id="71160">
 		<category>Games</category>
 		<description>Age of Empires III (Europe) (Disc 1) (Install Disc) (Collector's Edition)</description>
@@ -2857,13 +2865,21 @@
 		<rom name="Age of Empires III (Europe) (Disc 1) (Install Disc) (Collector's Edition).bin" size="712300848" crc="a9aac9b1" md5="9c47d4f698359f0049c987b728b5fba3" sha1="be4107ca3cc74f24ad48e7838cda545fe214d9f5"/>
 		<rom name="Age of Empires III (Europe) (Disc 1) (Install Disc) (Collector's Edition).cue" size="139" crc="7e22e229" md5="5f52f2076a5876700fb218d1734465ea" sha1="b26f1a42469ac3dd1af762123e9b77aa3fde7a53"/>
 	</game>
-	<game name="Age of Empires III (France, Canada) (Disc 2)" id="114026">
+	<game name="Age of Empires III (France, Canada) (Disc 1) (Disque d'installation)" id="114025">
 		<category>Games</category>
-		<description>Age of Empires III (France, Canada) (Disc 2)</description>
+		<description>Age of Empires III (France, Canada) (Disc 1) (Disque d'installation)</description>
+		<serial>X11-44046 FR</serial>
+		<version>1.12</version>
+		<rom name="Age of Empires III (France, Canada) (Disc 1) (Disque d'installation).bin" size="648366432" crc="1622dcc8" md5="ff6998d392e3b38354c421afe0c68495" sha1="b16f5459ea1af332622e26116a9bfb4dc9519d7b"/>
+		<rom name="Age of Empires III (France, Canada) (Disc 1) (Disque d'installation).cue" size="134" crc="f4bdce81" md5="d930e6d7b8058662f4a817986bb5e0fb" sha1="f9a4cabcd4a64cf436f68baa6bef21edc5aced14"/>
+	</game>
+	<game name="Age of Empires III (France, Canada) (Disc 2) (Disque du jeu)" id="114026">
+		<category>Games</category>
+		<description>Age of Empires III (France, Canada) (Disc 2) (Disque du jeu)</description>
 		<serial>X11-44050 FR</serial>
 		<version>1.12</version>
-		<rom name="Age of Empires III (France, Canada) (Disc 2).bin" size="636907488" crc="e00dc02b" md5="0a1cf73572f326670da8d64108b48d1a" sha1="5d893591899932afdd414e4c534a2a0710bc4ccf"/>
-		<rom name="Age of Empires III (France, Canada) (Disc 2).cue" size="110" crc="11245f1a" md5="193053632b00544d0de4cc13fadf3a55" sha1="583163cec5f9f2efbb62fb3f05db88f6cbe5733f"/>
+		<rom name="Age of Empires III (France, Canada) (Disc 2) (Disque du jeu).bin" size="636907488" crc="e00dc02b" md5="0a1cf73572f326670da8d64108b48d1a" sha1="5d893591899932afdd414e4c534a2a0710bc4ccf"/>
+		<rom name="Age of Empires III (France, Canada) (Disc 2) (Disque du jeu).cue" size="126" crc="54cf25a4" md5="06412691012f22a013a535d0e0e69449" sha1="27af203e4265899555f1764521fe6eb3548a20d1"/>
 	</game>
 	<game name="Age of Empires III (USA, Europe) (Disc 1) (Install Disc) (Rerelease)" id="13043">
 		<category>Games</category>
@@ -2873,21 +2889,21 @@
 		<rom name="Age of Empires III (USA, Europe) (Disc 1) (Install Disc) (Rerelease).bin" size="731617824" crc="d91b2c97" md5="e4c78343ef0e3206220e0a1d7ac70ed6" sha1="382df81192c6c3cb133f7b6f32f88f6b52c85360"/>
 		<rom name="Age of Empires III (USA, Europe) (Disc 1) (Install Disc) (Rerelease).cue" size="134" crc="5a805f1f" md5="f7ff1168c8ff4d5f64606c361cfb81c8" sha1="7e8806b7789c582847a08054da223e93b6a2e415"/>
 	</game>
-	<game name="Age of Empires III (USA, Europe) (Disc 2) (Game Disc) (Rerelease)" id="13044">
+	<game name="Age of Empires III (USA, Europe) (Disc 2) (Game Disc)" id="58562">
 		<category>Games</category>
-		<description>Age of Empires III (USA, Europe) (Disc 2) (Game Disc) (Rerelease)</description>
-		<serial>0705 Part No. X11-35587, 0705 Part No. X11-36697</serial>
-		<version>1.12</version>
-		<rom name="Age of Empires III (USA, Europe) (Disc 2) (Game Disc) (Rerelease).bin" size="674127888" crc="f822d86b" md5="1ee44b84cc7043feaeb5706e36625b06" sha1="f865a131a1ac34fe8ff78684754f156161208e24"/>
-		<rom name="Age of Empires III (USA, Europe) (Disc 2) (Game Disc) (Rerelease).cue" size="131" crc="c6618006" md5="25eabde20100029cd0cf78fef467c930" sha1="2885714d471047b2b9fbf54d03b2bd065a948a24"/>
+		<description>Age of Empires III (USA, Europe) (Disc 2) (Game Disc)</description>
+		<serial>0705 Part No. X11-35587, 0705 Part No. X11-43416, G10-00027</serial>
+		<version>4.0105.0919.3236</version>
+		<rom name="Age of Empires III (USA, Europe) (Disc 2) (Game Disc).bin" size="674497152" crc="201a7285" md5="6d4e9ec42e47104d9cdf75c9b30cb5db" sha1="95fd63314f3e43bf19260e7eb59d84f3cbaba100"/>
+		<rom name="Age of Empires III (USA, Europe) (Disc 2) (Game Disc).cue" size="119" crc="0ded2a0f" md5="0d4b737c06fb990a274e2a360ce70239" sha1="b2a6c6fc1e24b5c482b0b99376d559b2770d13fe"/>
 	</game>
-	<game name="Age of Empires III (USA, Europe) (Disc 3) (Game Disc) (Rerelease)" id="13045">
+	<game name="Age of Empires III (USA, Europe) (Disc 3) (Game Disc)" id="58563">
 		<category>Games</category>
-		<description>Age of Empires III (USA, Europe) (Disc 3) (Game Disc) (Rerelease)</description>
-		<serial>0705 Part No. X11-35590, 0705 Part No. X11-36699</serial>
-		<version>1.12</version>
-		<rom name="Age of Empires III (USA, Europe) (Disc 3) (Game Disc) (Rerelease).bin" size="653260944" crc="46c36ce1" md5="401a9cc1543808e178923878ebabb88e" sha1="430e514efbb459de0c535803fdda9ebc884ec234"/>
-		<rom name="Age of Empires III (USA, Europe) (Disc 3) (Game Disc) (Rerelease).cue" size="131" crc="5cd5b26c" md5="6dd83ee8ef48d189217091dd8f1950a3" sha1="72c95c544bf1214a1cad8cf82f78c8c7b217dbfc"/>
+		<description>Age of Empires III (USA, Europe) (Disc 3) (Game Disc)</description>
+		<serial>0705 Part No. X11-35590, 0705 Part No. X11-43418, G10-00027</serial>
+		<version>4.0105.0919.3236</version>
+		<rom name="Age of Empires III (USA, Europe) (Disc 3) (Game Disc).bin" size="659289120" crc="bfa19b5a" md5="b150d786adf62e7d1f78ad0e9cddef49" sha1="c028e02d32946998d2bf5c6f13773a15961f6c82"/>
+		<rom name="Age of Empires III (USA, Europe) (Disc 3) (Game Disc).cue" size="119" crc="eaa2cb54" md5="22df64b385c354f38ca82aa6feab4ff2" sha1="d8452d1bf2405f776d442a41907d93e55b615e64"/>
 	</game>
 	<game name="Age of Empires III - Complete Collection (UK)" id="77519">
 		<category>Games</category>
@@ -10538,7 +10554,7 @@
 	<game name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 1)" id="45940">
 		<category>Games</category>
 		<description>Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 1)</description>
-		<serial>651123-CD1, 5002477</serial>
+		<serial>651123-CD1, 5002477, 681120-BX</serial>
 		<version>1.0</version>
 		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 1).bin" size="795371136" crc="6336bc2b" md5="334482e471dd599b6965a6a491fc728c" sha1="f11b706d4d0c4e44a91dc4f7b86095f7d1b71fad"/>
 		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 1).cue" size="127" crc="ba99d590" md5="027f4a0454844a75ccdc55495c6b5649" sha1="e61726df218386e48d3579f81c6eeab0e236d2cd"/>
@@ -10546,7 +10562,7 @@
 	<game name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 2)" id="45941">
 		<category>Games</category>
 		<description>Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 2)</description>
-		<serial>651123-CD2, 5002477</serial>
+		<serial>651123-CD2, 5002477, 681120-BX</serial>
 		<version>1.0</version>
 		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 2).bin" size="795425232" crc="09a77928" md5="02fa38e82fa1338b51956778aecbcc0e" sha1="bd2e28b733df7567d1cb59cc20e86bf21f9787f1"/>
 		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 2).cue" size="127" crc="bbc4f341" md5="4c6f0ce82bb22605be7d14de2ad6b93e" sha1="f4fd96e3103b5fd1aaecf0136ec71b137ef2f92a"/>
@@ -10554,7 +10570,7 @@
 	<game name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 3)" id="8776">
 		<category>Games</category>
 		<description>Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 3)</description>
-		<serial>651123-CD3, 5002477</serial>
+		<serial>651123-CD3, 5002477, 681120-BX</serial>
 		<version>1.0</version>
 		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 3).bin" size="783041952" crc="da879fcd" md5="d93159109ee1e46b5fd7386f8dffc6fc" sha1="ac5ce1f61e5324b1d48885c1c54600b24c39618a"/>
 		<rom name="Beyond Good &amp; Evil (USA, Europe) (En,Fr,De,Es,It,Nl) (Disc 3).cue" size="127" crc="0ddf1331" md5="1ddfb6de53e90dcd4d445eda535e3dea" sha1="c643a03fa90fdc62069f10857a7154f71098825d"/>
@@ -11474,7 +11490,8 @@
 	<game name="Black Moon Chronicles (Europe) (En,Fr,De) (Disc 1)" id="94393">
 		<category>Games</category>
 		<description>Black Moon Chronicles (Europe) (En,Fr,De) (Disc 1)</description>
-		<serial>CLN-GRCD1</serial>
+		<serial>CLN-GRCD1, CLN-FRCD1</serial>
+		<version>1.0</version>
 		<rom name="Black Moon Chronicles (Europe) (En,Fr,De) (Disc 1).bin" size="431796624" crc="56d0842b" md5="d42822ef768ed5d35c3f5b8fc1de550a" sha1="f4e450d3447887c114a5c564b3dc0020a7ad7c15"/>
 		<rom name="Black Moon Chronicles (Europe) (En,Fr,De) (Disc 1).cue" size="139" crc="7f14a845" md5="3a0062217fdbb59a8fdebc9fe4de3781" sha1="47cdfb436c4b3315f9484391488ec58d0dfa9f48"/>
 	</game>
@@ -28439,6 +28456,13 @@
 		<serial>Part # 28392DV2</serial>
 		<rom name="Dungeons &amp; Dragons Anthology - The Master Collection (USA) (Disc 2).iso" size="2436005888" crc="31e74635" md5="728ecc0ecb8d6e8f0099a8accac0e8d2" sha1="3eedab3ffdabbd663a3ebdde025151f40ddbe0e9"/>
 	</game>
+	<game name="Dungeons &amp; Dragons Online - Stormbreach (USA)" id="139656">
+		<category>Games</category>
+		<description>Dungeons &amp; Dragons Online: Stormbreach (USA)</description>
+		<serial>Part # 26503DVTD</serial>
+		<version>v05.02.30.231</version>
+		<rom name="Dungeons &amp; Dragons Online - Stormbreach (USA).iso" size="3060269056" crc="977acb62" md5="ae9150c1c327b3bcd03c4d03b669f27a" sha1="fd36af23c242ea70bce5b5ee99fa5dcfe7a1d7b4"/>
+	</game>
 	<game name="Dungeons &amp; Dragons Online - Stormreach (USA)" id="65974">
 		<category>Games</category>
 		<description>Dungeons &amp; Dragons Online: Stormreach (USA)</description>
@@ -34290,6 +34314,13 @@
 		<version>1.0010</version>
 		<rom name="Field &amp; Stream - Trophy Hunting - Big Game Edition (USA) (Disc 2) (Game Disk) (OEM).bin" size="399115584" crc="8b4ebe20" md5="49a522910250eb3cb937ac22b235119b" sha1="bca04f9a8ed9c32176fbcf382d0beeb6bd3e923b"/>
 		<rom name="Field &amp; Stream - Trophy Hunting - Big Game Edition (USA) (Disc 2) (Game Disk) (OEM).cue" size="149" crc="c2464509" md5="5874ae74e220361684212621a50ae372" sha1="c752990c24a71a287cbd468b4250764f48c06d75"/>
+	</game>
+	<game name="Field &amp; Stream - Trophy Hunting 4 (USA)" id="139599">
+		<category>Games</category>
+		<description>Field &amp; Stream: Trophy Hunting 4 (USA)</description>
+		<version>4.0</version>
+		<rom name="Field &amp; Stream - Trophy Hunting 4 (USA).bin" size="243551952" crc="63bc15c3" md5="adba0ef3383db7967d39e0919dca121b" sha1="0b69761bc7047356b3627d5c7be82ff0bb362d46"/>
+		<rom name="Field &amp; Stream - Trophy Hunting 4 (USA).cue" size="105" crc="ba2600d3" md5="c820bf9e1a3e5046c91b8ac5d2415a77" sha1="9d39282af36bf82554ddfe6c05240897fa9d52f4"/>
 	</game>
 	<game name="Field &amp; Stream - Trophy Hunting 5 (USA)" id="139552">
 		<category>Games</category>
@@ -67646,12 +67677,12 @@
 		<description>Obscure (Czechia)</description>
 		<rom name="Obscure (Czechia).iso" size="4651352064" crc="cfc51fe0" md5="209c46348f633c67ad436e1a6d51b07c" sha1="5b468fe3fb2557954a8d5da0aed19836ede22184"/>
 	</game>
-	<game name="Obscure (Europe) (En,Fr,De,Es,It)" id="50972">
+	<game name="Obscure (Europe)" id="50972">
 		<category>Games</category>
-		<description>Obscure (Europe) (En,Fr,De,Es,It)</description>
+		<description>Obscure (Europe)</description>
 		<serial>719 02 102</serial>
 		<version>1.0</version>
-		<rom name="Obscure (Europe) (En,Fr,De,Es,It).iso" size="4279336960" crc="25b9dd52" md5="479e8b8b256de8c6cb3253365e5ab676" sha1="5c4909196b85c71fad61d77587b0aeadb1ab790a"/>
+		<rom name="Obscure (Europe).iso" size="4279336960" crc="25b9dd52" md5="479e8b8b256de8c6cb3253365e5ab676" sha1="5c4909196b85c71fad61d77587b0aeadb1ab790a"/>
 	</game>
 	<game name="Obscure (USA) (Disc 1)" id="79837">
 		<category>Games</category>
@@ -103707,6 +103738,15 @@
 		<serial>BBCMM048</serial>
 		<rom name="Walking with Beasts - Operation Salvage (Europe).bin" size="788533872" crc="d2bfba5b" md5="7fa7a916c421d7549ba843ec65a75a64" sha1="69d8f24561e032dbf587133eb19bd51c4dc48481"/>
 		<rom name="Walking with Beasts - Operation Salvage (Europe).cue" size="114" crc="4e6d7e49" md5="69aff1ebda8efacefc541fa21b50ccd0" sha1="fba90cdcb42f2665cd17d30797861bc93d2e024a"/>
+	</game>
+	<game name="Wall Breaker (France) (En,Fr,De,Es)" id="139668">
+		<category>Games</category>
+		<description>Wall Breaker (France) (En,Fr,De,Es)</description>
+		<serial>CD 1246</serial>
+		<rom name="Wall Breaker (France) (En,Fr,De,Es) (Track 1).bin" size="16750944" crc="19279b40" md5="9d558aeab9d05402102b93541c088de5" sha1="c1343319914f2dff7608c202976f8f166cc07c1d"/>
+		<rom name="Wall Breaker (France) (En,Fr,De,Es) (Track 2).bin" size="16647456" crc="112efe56" md5="271c4dffc94065f00d86aa47e6fc6548" sha1="9c52caf2da5ded04b2a8fa1d27455b3c8d9527c8"/>
+		<rom name="Wall Breaker (France) (En,Fr,De,Es) (Track 3).bin" size="37345056" crc="17e6186f" md5="847cfc4b6701913349276d03c98df928" sha1="a97ee11e84a8001299303d9874da6ac739407184"/>
+		<rom name="Wall Breaker (France) (En,Fr,De,Es).cue" size="346" crc="87aad5a8" md5="ba03690381c73ac5f7e752d6f73df045" sha1="37bd34dc350bf472f7f02420103a61c9eb0e7a01"/>
 	</game>
 	<game name="Wall Street Trader 2000 (USA)" id="107647">
 		<category>Games</category>

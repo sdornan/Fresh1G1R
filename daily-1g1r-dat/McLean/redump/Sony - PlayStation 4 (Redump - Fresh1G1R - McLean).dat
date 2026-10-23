@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,639) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-19 14-53-59) (Retool)</description>
-		<version>2026-10-19 14-53-59</version>
-		<date>2026-10-22 07-29-32</date>
+		<description>Sony - PlayStation 4 (1,666) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-23 01-36-34) (Retool)</description>
+		<version>2026-10-23 01-36-34</version>
+		<date>2026-10-23 07-26-50</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -690,12 +690,26 @@
 		<version>01.00</version>
 		<rom name="Assassin's Creed Mirage (USA) (En,Fr,Es,Pt).iso" size="38848495616" crc="9e441a99" md5="243449215029f642356129fb910012ab" sha1="ee87619ef23521a41b95ffdee4bbb3c08ffbae27"/>
 	</game>
+	<game name="Assassin's Creed Odyssey (UAE) (En,Ar)" id="89644">
+		<category>Games</category>
+		<description>Assassin's Creed Odyssey (UAE) (En,Ar)</description>
+		<serial>CUSA-12041</serial>
+		<version>01.00</version>
+		<rom name="Assassin's Creed Odyssey (UAE) (En,Ar).iso" size="48979968000" crc="ec32e72f" md5="e5af9c9e06deda3eed0171c8c0cd9fa2" sha1="e8b48054f4919232314686f2ce0282429fa25a2d"/>
+	</game>
 	<game name="Assassin's Creed Odyssey (USA) (En,Fr,Es,Pt)" id="57597">
 		<category>Games</category>
 		<description>Assassin's Creed Odyssey (USA) (En,Fr,Es,Pt)</description>
 		<serial>CUSA-09311</serial>
 		<version>01.00</version>
 		<rom name="Assassin's Creed Odyssey (USA) (En,Fr,Es,Pt).iso" size="48979968000" crc="27cdfd8e" md5="96c08da508b0c62501fa2a52ffceba97" sha1="14cc0c0c696649f58e4c874531bf9d2c2e209fe4"/>
+	</game>
+	<game name="Assassin's Creed Origins (UAE) (En,Ar)" id="95495">
+		<category>Games</category>
+		<description>Assassin's Creed Origins (UAE) (En,Ar)</description>
+		<serial>CUSA-10104</serial>
+		<version>01.00</version>
+		<rom name="Assassin's Creed Origins (UAE) (En,Ar).iso" size="47890300928" crc="c0f1f193" md5="22e2df9951c9ce55765db6c4a80c6446" sha1="9bb06f7556dad9838b43a3bd4ac93421cb8a75e3"/>
 	</game>
 	<game name="Assassin's Creed Origins (USA) (En,Fr,Es,Pt)" id="46065">
 		<category>Games</category>
@@ -717,6 +731,13 @@
 		<serial>CUSA-00663</serial>
 		<version>01.00</version>
 		<rom name="Assassin's Creed Unity (USA) (En,Fr,Es,Pt).iso" size="45917339648" crc="17a59d21" md5="719cf4d51fb19fb06508c5ce4d1d50df" sha1="2dc654303179fcf8e071197ffb4372f76fc5fe02"/>
+	</game>
+	<game name="Assassin's Creed Valhalla (UAE) (En,Ar)" id="111987">
+		<category>Games</category>
+		<description>Assassin's Creed Valhalla (UAE) (En,Ar)</description>
+		<serial>CUSA-18536</serial>
+		<version>01.00</version>
+		<rom name="Assassin's Creed Valhalla (UAE) (En,Ar).iso" size="45187792896" crc="8391669f" md5="8a1f723eeae426873796099ed28ac1bf" sha1="21bd4916415362a23cdbf671fdc741d4b93bdd82"/>
 	</game>
 	<game name="Assassin's Creed Valhalla (USA) (En,Fr,Es,Pt)" id="75563">
 		<category>Games</category>
@@ -871,6 +892,13 @@
 		<serial>CUSA-01264</serial>
 		<version>01.02</version>
 		<rom name="Awesomenauts Assemble! (Europe).iso" size="25024331776" crc="94b7bdc1" md5="22b2478725bfe49e440f09255b29fe32" sha1="9551bf07422eac9f782445ac638d536b9c77e390"/>
+	</game>
+	<game name="Axiom Verge (UAE) (En,Ja,Fr,De,Es,It,Pt,Ru)" id="91718">
+		<category>Games</category>
+		<description>Axiom Verge (UAE) (En,Ja,Fr,De,Es,It,Pt,Ru)</description>
+		<serial>CUSA-02312</serial>
+		<version>02.00</version>
+		<rom name="Axiom Verge (UAE) (En,Ja,Fr,De,Es,It,Pt,Ru).iso" size="1412235264" crc="1ec1709f" md5="bd2117544e84710eeffa02e9d5f8b723" sha1="dd48104f67269fb03e1308588313ebb8c608d876"/>
 	</game>
 	<game name="Axiom Verge (USA) (En,Fr,De,Es,It,Pt)" id="58340">
 		<category>Games</category>
@@ -1642,6 +1670,13 @@
 		<version>01.00</version>
 		<rom name="Call of Duty - Advanced Warfare (USA) (En,Fr,Es).iso" size="46298955776" crc="bdb17773" md5="bd0f122a0653cec14e953281383a8694" sha1="2c7fc5d508ae9c7bd6cc757c7385ee8d0e541e03"/>
 	</game>
+	<game name="Call of Duty - Black Ops 4 (UAE) (En,Ar)" id="99874">
+		<category>Games</category>
+		<description>Call of Duty: Black Ops 4 (UAE) (En,Ar)</description>
+		<serial>CUSA-12444</serial>
+		<version>01.00</version>
+		<rom name="Call of Duty - Black Ops 4 (UAE) (En,Ar).iso" size="45946765312" crc="2a0bc22a" md5="c7241396c1114623dd49b9b4d9a01b18" sha1="2c5c60e607834187a03cf5931084528c5c809b7d"/>
+	</game>
 	<game name="Call of Duty - Black Ops 4 (USA)" id="84694">
 		<category>Games</category>
 		<description>Call of Duty: Black Ops 4 (USA)</description>
@@ -1669,6 +1704,13 @@
 		<serial>CUSA-00018</serial>
 		<version>01.00</version>
 		<rom name="Call of Duty - Ghosts (USA).iso" size="33380499456" crc="15fc6b4b" md5="4846cf2da51e6b6108ed39ccbf1fe72a" sha1="162c40913dbd617d7c1b09be83bf4280dc6c69b5"/>
+	</game>
+	<game name="Call of Duty - Infinite Warfare (UAE) (En,Ar)" id="91253">
+		<category>Games</category>
+		<description>Call of Duty: Infinite Warfare (UAE) (En,Ar)</description>
+		<serial>CUSA-06453</serial>
+		<version>01.00</version>
+		<rom name="Call of Duty - Infinite Warfare (UAE) (En,Ar).iso" size="49378754560" crc="6d09fb20" md5="5935dc2f387590963de4d947623c5594" sha1="f245d6ba66fb0520b6ea7a696c55dc0517e25bc6"/>
 	</game>
 	<game name="Call of Duty - Infinite Warfare (USA) (En,Fr)" id="40070">
 		<category>Games</category>
@@ -2111,6 +2153,13 @@
 		<version>01.00</version>
 		<rom name="Crash Bandicoot - N. Sane Trilogy (USA) (En,Ja,Fr,De,Es,It) (CUSA-11970).iso" size="25024331776" crc="9632082c" md5="1391422e410f81415f4ceb95e89397f4" sha1="021d2e7f185e4ca1ddd90f5fd86db9a97441b17b"/>
 	</game>
+	<game name="Crash Bandicoot 4 - It's About Time (UAE) (En,Ar)" id="106074">
+		<category>Games</category>
+		<description>Crash Bandicoot 4: It's About Time (UAE) (En,Ar)</description>
+		<serial>CUSA-23511</serial>
+		<version>01.00</version>
+		<rom name="Crash Bandicoot 4 - It's About Time (UAE) (En,Ar).iso" size="23642243072" crc="153a826f" md5="26b537f856cb13addbc9985b96651f54" sha1="78458655f438bcd8d6833a5fdade7d4e771e3eff"/>
+	</game>
 	<game name="Crash Bandicoot 4 - It's About Time (USA) (En,Fr,Es,Pt)" id="74712">
 		<category>Games</category>
 		<description>Crash Bandicoot 4: It's About Time (USA) (En,Fr,Es,Pt)</description>
@@ -2453,6 +2502,13 @@
 		<serial>CUSA-17157</serial>
 		<version>01.00</version>
 		<rom name="Daymare - 1998 (USA).iso" size="25024331776" crc="d2b179ed" md5="db4b314950a758602b5ddf719ce4aef7" sha1="6e1fc14e5b26e7060f603dc0690ac94c58073490"/>
+	</game>
+	<game name="Days Gone (UAE) (En,Ar)" id="106241">
+		<category>Games</category>
+		<description>Days Gone (UAE) (En,Ar)</description>
+		<serial>CUSA-15027</serial>
+		<version>01.00</version>
+		<rom name="Days Gone (UAE) (En,Ar).iso" size="40860319744" crc="bd478d01" md5="ebe9fa78860836728136023339f955dd" sha1="6fee72fedb33f129bb85347467c4dfb8e923f305"/>
 	</game>
 	<game name="Days Gone (USA, Brazil) (En,Fr,Es,Pt)" id="67129">
 		<category>Games</category>
@@ -2901,6 +2957,13 @@
 		<serial>CUSA-02218</serial>
 		<version>01.00</version>
 		<rom name="Dishonored - Definitive Edition (USA) (En,Fr,Es).iso" size="40657682432" crc="5b4118b4" md5="39531ebf31916a9604ea376e7cc46ba8" sha1="e4e079303b55f038373d0664c65fa6ebe8315033"/>
+	</game>
+	<game name="Dishonored 2 (UAE) (En,Pl,Ru)" id="89937">
+		<category>Games</category>
+		<description>Dishonored 2 (UAE) (En,Pl,Ru)</description>
+		<serial>CUSA-03604</serial>
+		<version>01.01</version>
+		<rom name="Dishonored 2 (UAE) (En,Pl,Ru).iso" size="42882236416" crc="46063fdf" md5="5214197889562d5db3cb504279f2f767" sha1="f04c8902e7afbc99115ed2ca9deb315c0a4512ef"/>
 	</game>
 	<game name="Dishonored 2 (USA) (En,Fr,Es,Pt)" id="41023">
 		<category>Games</category>
@@ -3560,6 +3623,13 @@
 		<version>01.00</version>
 		<rom name="Escapists + The Escapists 2, The (Europe) (En,Fr,De,Es,It,Ru).iso" size="25024331776" crc="cdf62df5" md5="0836d42761e76a825cdcaf0d50a23c16" sha1="1641e2f707f2e91acb29e8724367982d0898ded0"/>
 	</game>
+	<game name="Escapists 2, The (Europe)" id="139625">
+		<category>Games</category>
+		<description>Escapists 2, The (Europe)</description>
+		<serial>CUSA-06244</serial>
+		<version>01.01</version>
+		<rom name="Escapists 2, The (Europe).iso" size="4652728320" crc="769d18af" md5="0f6b11265b89709e1900a8223ee7b0de" sha1="78de7f9edf965312aa7803c736340b44146a6e0b"/>
+	</game>
 	<game name="Eve - Valkyrie (USA)" id="70720">
 		<category>Games</category>
 		<description>Eve: Valkyrie (USA)</description>
@@ -3742,6 +3812,13 @@
 		<version>01.00</version>
 		<rom name="FIFA 18 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Pl,Ru,Tr).iso" size="47370010624" crc="edac463c" md5="b7cf5070a21144856a02afd674fa1a53" sha1="9a3cd884b0787b7c609a2c03549dd4f80960177b"/>
 	</game>
+	<game name="FIFA 18 (UAE) (En,Ar)" id="94709">
+		<category>Games</category>
+		<description>FIFA 18 (UAE) (En,Ar)</description>
+		<serial>CUSA-07996</serial>
+		<version>01.00</version>
+		<rom name="FIFA 18 (UAE) (En,Ar).iso" size="38683869184" crc="44872547" md5="05ce081cce52dabe16f698297f5d1067" sha1="e24c41f502fa9b5beb104f4a26e9e4cee4d2a9b5"/>
+	</game>
 	<game name="FIFA 19 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" id="68716">
 		<category>Games</category>
 		<description>FIFA 19 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
@@ -3868,6 +3945,13 @@
 		<version>02.02</version>
 		<rom name="Far - Lone Sails (USA).iso" size="5844566016" crc="0a8a608b" md5="4ef99aa924ed04e7484a66e3b702233d" sha1="256f5e5d53f2234c550b38eb6f3cbe7d75042415"/>
 	</game>
+	<game name="Far Cry - New Dawn (UAE) (En,Ar)" id="90093">
+		<category>Games</category>
+		<description>Far Cry: New Dawn (UAE) (En,Ar)</description>
+		<serial>CUSA-13887</serial>
+		<version>01.00</version>
+		<rom name="Far Cry - New Dawn (UAE) (En,Ar).iso" size="25024331776" crc="6b1257a2" md5="88733ef6ce2d4bf2e1919bdba0bcad80" sha1="bc033722b26e015ddd33f302ea23ed7c703531e4"/>
+	</game>
 	<game name="Far Cry - New Dawn (USA) (En,Fr,Es,Pt)" id="63050">
 		<category>Games</category>
 		<description>Far Cry: New Dawn (USA) (En,Fr,Es,Pt)</description>
@@ -3895,6 +3979,13 @@
 		<serial>CUSA-00496, CUSA-00496SA</serial>
 		<version>01.00</version>
 		<rom name="Far Cry 4 (USA, Brazil) (En,Fr,Es,Pt).iso" size="25024331776" crc="9b4aeda3" md5="e96109a4ff059b11c392121febe87aa2" sha1="072906f4df9c0464d1e128808ff29edbc0fa0ed6"/>
+	</game>
+	<game name="Far Cry 5 (UAE) (En,Ar)" id="108428">
+		<category>Games</category>
+		<description>Far Cry 5 (UAE) (En,Ar)</description>
+		<serial>CUSA-05849</serial>
+		<version>01.00</version>
+		<rom name="Far Cry 5 (UAE) (En,Ar).iso" size="36770807808" crc="c225c47e" md5="7d9eee51e77a649bb42f45b0d86f5423" sha1="f42cd748bcbfcd288b7851da20ac225d6d7d7fd1"/>
 	</game>
 	<game name="Far Cry 5 (USA) (En,Fr,Es,Pt)" id="59838">
 		<category>Games</category>
@@ -5540,12 +5631,26 @@
 		<version>01.01</version>
 		<rom name="Jurassic World Evolution 2 (USA).iso" size="25024331776" crc="2d4a1d94" md5="ba1a76ddead927ff0c5a1157e893cba2" sha1="e1b311568835316aecd2efacac06c8fe60c57379"/>
 	</game>
+	<game name="Just Cause 3 (UAE) (En,Pl,Ru)" id="96332">
+		<category>Games</category>
+		<description>Just Cause 3 (UAE) (En,Pl,Ru)</description>
+		<serial>CUSA-02748/GE</serial>
+		<version>01.01</version>
+		<rom name="Just Cause 3 (UAE) (En,Pl,Ru).iso" size="44029968384" crc="32678350" md5="8290a33e8ea6f07dc9c1db979d570185" sha1="9b74ca2dc24d9f8f5926f26f059285dae19c93e7"/>
+	</game>
 	<game name="Just Cause 3 (USA) (En,Fr,Es,Pt)" id="37390">
 		<category>Games</category>
 		<description>Just Cause 3 (USA) (En,Fr,Es,Pt)</description>
 		<serial>CUSA-01493</serial>
 		<version>01.01</version>
 		<rom name="Just Cause 3 (USA) (En,Fr,Es,Pt).iso" size="44029968384" crc="b18ca632" md5="2ad40261ae947da515948c374b51854c" sha1="19f39c747d41df838ab9c9b9426031bc0c581f04"/>
+	</game>
+	<game name="Just Cause 4 (UAE) (En,Pl,Ru,Ar)" id="97183">
+		<category>Games</category>
+		<description>Just Cause 4 (UAE) (En,Pl,Ru,Ar)</description>
+		<serial>CUSA-12635</serial>
+		<version>01.01</version>
+		<rom name="Just Cause 4 (UAE) (En,Pl,Ru,Ar).iso" size="44275793920" crc="7a3dcc2c" md5="bb435921cd372b3f34337f3ff7115789" sha1="93a619e3a51a042df0c8e934e50341ea1b31e034"/>
 	</game>
 	<game name="Just Cause 4 (USA)" id="101996">
 		<category>Games</category>
@@ -6918,12 +7023,12 @@
 		<version>01.01</version>
 		<rom name="MotoGP 14 (Europe).iso" size="16991846400" crc="0ebc25ed" md5="3186a35f4197829e40b2d0e3a6688666" sha1="f280c3d83701667421648c586a54496f4aa29488"/>
 	</game>
-	<game name="MotoGP 20 (United Arab Emirates) (En,Fr,De,Es,It,Zh)" id="88262">
+	<game name="MotoGP 20 (UAE) (En,Fr,De,Es,It,Zh)" id="88262">
 		<category>Games</category>
-		<description>MotoGP 20 (United Arab Emirates) (En,Fr,De,Es,It,Zh)</description>
+		<description>MotoGP 20 (UAE) (En,Fr,De,Es,It,Zh)</description>
 		<serial>CUSA-17832</serial>
 		<version>01.00</version>
-		<rom name="MotoGP 20 (United Arab Emirates) (En,Fr,De,Es,It,Zh).iso" size="17959813120" crc="f65d194a" md5="9c41fb91997a23eb3eab094194cc4f76" sha1="1c8cdeebf3bee07ca96b6df3d060e51e7b749146"/>
+		<rom name="MotoGP 20 (UAE) (En,Fr,De,Es,It,Zh).iso" size="17959813120" crc="f65d194a" md5="9c41fb91997a23eb3eab094194cc4f76" sha1="1c8cdeebf3bee07ca96b6df3d060e51e7b749146"/>
 	</game>
 	<game name="MotoGP 21 (Switzerland)" id="119667">
 		<category>Games</category>
@@ -7037,12 +7142,12 @@
 		<version>02.01</version>
 		<rom name="Mystik Belle (USA) (En,Fr,Es).iso" size="1199374336" crc="57c93428" md5="eda93d9a2cb036fdb648b57e67ef8e9b" sha1="646e0c365cfedf07fb8c63ab340f64a973ec5e6f"/>
 	</game>
-	<game name="NBA 2K Playgrounds 2 (United Arab Emirates) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)" id="87800">
+	<game name="NBA 2K Playgrounds 2 (UAE) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)" id="87800">
 		<category>Games</category>
-		<description>NBA 2K Playgrounds 2 (United Arab Emirates) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)</description>
+		<description>NBA 2K Playgrounds 2 (UAE) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)</description>
 		<serial>CUSA-13619</serial>
 		<version>01.01</version>
-		<rom name="NBA 2K Playgrounds 2 (United Arab Emirates) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso" size="6661668864" crc="912af97d" md5="814dba7a48e170cca1659762170ccaf9" sha1="f721c55bbfa28b0a98bc827cd798a6eb119c742c"/>
+		<rom name="NBA 2K Playgrounds 2 (UAE) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso" size="6661668864" crc="912af97d" md5="814dba7a48e170cca1659762170ccaf9" sha1="f721c55bbfa28b0a98bc827cd798a6eb119c742c"/>
 	</game>
 	<game name="NBA 2K14 (USA) (En,Ja,Fr,De,Es,It)" id="58901">
 		<category>Games</category>
@@ -7610,6 +7715,13 @@
 		<serial>CUSA-30938</serial>
 		<version>02.00</version>
 		<rom name="Outbreak - Contagious Memories (USA).iso" size="10333257728" crc="d2a8d71d" md5="1fc1881888a758861f25a4af119aeae3" sha1="03759532a32d5d45de869ce82ca0125c32cde9a1"/>
+	</game>
+	<game name="Outcast - Second Contact (UAE) (En,Fr,De,Es,It,Nl,Pt)" id="110135">
+		<category>Games</category>
+		<description>Outcast: Second Contact (UAE) (En,Fr,De,Es,It,Nl,Pt)</description>
+		<serial>CUSA-07582</serial>
+		<version>01.01</version>
+		<rom name="Outcast - Second Contact (UAE) (En,Fr,De,Es,It,Nl,Pt).iso" size="7621574656" crc="3b632179" md5="a63d1ed18a62d721b45440bb75747340" sha1="f37f037f03dff779c1b05bfab16844f21ba0d5ab"/>
 	</game>
 	<game name="Outcast - Second Contact (USA) (En,Fr,De,Es,It,Nl,Pt)" id="57466">
 		<category>Games</category>
@@ -8423,6 +8535,13 @@
 		<version>01.01</version>
 		<rom name="Resident Evil 4 (USA, Asia).iso" size="10052239360" crc="dc72460f" md5="1de220f1cc5141ad1a915889aa50c84c" sha1="d032394658a679d5e0c07b2214fad93c7e83a13c"/>
 	</game>
+	<game name="Resident Evil 5 (UAE) (En,Fr,De,Es,It)" id="100099">
+		<category>Games</category>
+		<description>Resident Evil 5 (UAE) (En,Fr,De,Es,It)</description>
+		<serial>CUSA-04284</serial>
+		<version>01.01</version>
+		<rom name="Resident Evil 5 (UAE) (En,Fr,De,Es,It).iso" size="25024331776" crc="172675d3" md5="2f85229ed3295f4101732e2ba5b0b784" sha1="9487a7553d1a866356f67b0799ecce69266792ad"/>
+	</game>
 	<game name="Resident Evil 5 (USA)" id="70691">
 		<category>Games</category>
 		<description>Resident Evil 5 (USA)</description>
@@ -8520,6 +8639,13 @@
 		<serial>CUSA-05796</serial>
 		<version>01.01</version>
 		<rom name="Rime (USA) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru,Ar).iso" size="25024331776" crc="35d8395b" md5="bae9e78b274369aeddc60458655924d5" sha1="89a2e2a00aa8340ee9ca1e3e317376ea18b58085"/>
+	</game>
+	<game name="Rise of the Tomb Raider - 20 Year Celebration (UAE) (En,Ar)" id="109986">
+		<category>Games</category>
+		<description>Rise of the Tomb Raider: 20 Year Celebration (UAE) (En,Ar)</description>
+		<serial>CUSA-05720</serial>
+		<version>01.00</version>
+		<rom name="Rise of the Tomb Raider - 20 Year Celebration (UAE) (En,Ar).iso" size="16789864448" crc="0b2f0107" md5="65dbe3e7578a058fdc0d318e3548bd47" sha1="18876e1cf0c0a4b0b1d1525f629b46b5a7f7125d"/>
 	</game>
 	<game name="Rise of the Tomb Raider - 20 Year Celebration (USA, Brazil) (En,Fr,Es,Pt)" id="40860">
 		<category>Games</category>
@@ -9136,6 +9262,13 @@
 		<serial>CUSA-08034</serial>
 		<version>01.00</version>
 		<rom name="Shadow of the Colossus (USA) (En,Fr,Es,Pt).iso" size="25024331776" crc="72d3d48c" md5="73f2b501385c6fdc9497d8381c5af437" sha1="b9200111cb63819aa8f91c183c05a66a1f55f4ed"/>
+	</game>
+	<game name="Shadow of the Tomb Raider (UAE) (En,Ar)" id="95501">
+		<category>Games</category>
+		<description>Shadow of the Tomb Raider (UAE) (En,Ar)</description>
+		<serial>CUSA-12089</serial>
+		<version>01.00</version>
+		<rom name="Shadow of the Tomb Raider (UAE) (En,Ar).iso" size="37531287552" crc="55126075" md5="187e3a48522823770b142ffd328462a8" sha1="44f7fdd8836c1e91cfd4e0bb78a0272b90f13020"/>
 	</game>
 	<game name="Shadow of the Tomb Raider - Definitive Edition (USA) (En,Fr,De,Es,It,Pt,Pl,Ru)" id="67445">
 		<category>Games</category>
@@ -9815,6 +9948,13 @@
 		<version>02.00</version>
 		<rom name="Street Fighter V (USA) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru) (v02.00).iso" size="19189858304" crc="7bab183f" md5="5b9e270797842c2c557820a5b71fefa0" sha1="dea105252336e180f56b07e8678a5cc6c5f7d946"/>
 	</game>
+	<game name="Street Power Football (Europe)" id="139626">
+		<category>Games</category>
+		<description>Street Power Football (Europe)</description>
+		<serial>CUSA-20023</serial>
+		<version>01.00</version>
+		<rom name="Street Power Football (Europe).iso" size="25024331776" crc="ee774620" md5="3968b61908108333d8cfd1e24173d012" sha1="ef57a8fe986ec9ca86d110055994cc399e23f8f4"/>
+	</game>
 	<game name="Streets of Rage 4 (USA) (En,Ja,Fr,De,Es,It,Pt,Ru) (CUSA-20483)" id="71934">
 		<category>Games</category>
 		<description>Streets of Rage 4 (USA) (En,Ja,Fr,De,Es,It,Pt,Ru) (CUSA-20483)</description>
@@ -10340,6 +10480,13 @@
 		<version>01.00</version>
 		<rom name="Toki (Europe) (En,Fr,De,Es,It,Nl,Pt).iso" size="1544617984" crc="50d7811b" md5="0188d84bf90399dd35dfbc05e8383293" sha1="413df5d9a3e29604d6b75ac67e6acd661e048fe0"/>
 	</game>
+	<game name="Toki Tori 2+ (Europe)" id="139629">
+		<category>Games</category>
+		<description>Toki Tori 2+ (Europe)</description>
+		<serial>CUSA-04135</serial>
+		<version>01.00</version>
+		<rom name="Toki Tori 2+ (Europe).iso" size="25024331776" crc="247649c6" md5="c433aeb18daa1ccc5aa7e0f54eb46d1b" sha1="d85864960516b7207a6a5f444a4086e6778b717f"/>
+	</game>
 	<game name="Tokyo Chronos (USA)" id="102265">
 		<category>Games</category>
 		<description>Tokyo Chronos (USA)</description>
@@ -10375,12 +10522,12 @@
 		<version>01.00</version>
 		<rom name="Tom Clancy's Ghost Recon - Wildlands (USA) (En,Fr,Es,Pt).iso" size="45468352512" crc="20f00e4d" md5="6d69489aa4ee2335355c2c74a4430bea" sha1="5217f1e05395eb286e485f7d043de4edfe27357f"/>
 	</game>
-	<game name="Tom Clancy's Rainbow Six - Extraction (United Arab Emirates) (En,Ru,Ar,Tr)" id="105015">
+	<game name="Tom Clancy's Rainbow Six - Extraction (UAE) (En,Ru,Ar,Tr)" id="105015">
 		<category>Games</category>
-		<description>Tom Clancy's Rainbow Six: Extraction (United Arab Emirates) (En,Ru,Ar,Tr)</description>
+		<description>Tom Clancy's Rainbow Six: Extraction (UAE) (En,Ru,Ar,Tr)</description>
 		<serial>CUSA-18095</serial>
 		<version>01.00</version>
-		<rom name="Tom Clancy's Rainbow Six - Extraction (United Arab Emirates) (En,Ru,Ar,Tr).iso" size="41574400000" crc="7f64f239" md5="1d408a91169b0104040f0f4a66240dc3" sha1="96106e099d3ad374c2a0bc1afae5573da49cd8a1"/>
+		<rom name="Tom Clancy's Rainbow Six - Extraction (UAE) (En,Ru,Ar,Tr).iso" size="41574400000" crc="7f64f239" md5="1d408a91169b0104040f0f4a66240dc3" sha1="96106e099d3ad374c2a0bc1afae5573da49cd8a1"/>
 	</game>
 	<game name="Tom Clancy's Rainbow Six Siege (USA) (En,Fr,Es,Pt)" id="37388">
 		<category>Games</category>
@@ -10395,6 +10542,13 @@
 		<serial>CUSA-01810</serial>
 		<version>01.00</version>
 		<rom name="Tom Clancy's The Division (USA) (En,Fr,Es,Pt).iso" size="34842935296" crc="9211ba0e" md5="42b379d328d1366b98a3943a39353b41" sha1="9ee9b7dfeecc950c3fa3035d3350641a27b4d6e5"/>
+	</game>
+	<game name="Tom Clancy's The Division 2 (UAE) (En,Ar)" id="105633">
+		<category>Games</category>
+		<description>Tom Clancy's The Division 2 (UAE) (En,Ar)</description>
+		<serial>CUSA-12632</serial>
+		<version>01.00</version>
+		<rom name="Tom Clancy's The Division 2 (UAE) (En,Ar).iso" size="46632009728" crc="742d0409" md5="48eaf183bf3905bc5f9f11939879b4fb" sha1="e735c9b5b850274a2a71fa231149b3ec9a3eaf23"/>
 	</game>
 	<game name="Tom Clancy's The Division 2 (USA)" id="132119">
 		<category>Games</category>
@@ -11061,6 +11215,13 @@
 		<version>01.01</version>
 		<rom name="Wasteland 3 (USA) (En,Fr,De,Es,Pl,Ru).iso" size="14814216192" crc="a7fda886" md5="703749d53ab0db697155bbc231bdae64" sha1="ea3cbfdcdeac308e4631fd067f82141f2bc5f23d"/>
 	</game>
+	<game name="Watch Dogs - Legion (UAE) (En,Ar)" id="110134">
+		<category>Games</category>
+		<description>Watch Dogs: Legion (UAE) (En,Ar)</description>
+		<serial>CUSA-13036</serial>
+		<version>01.00</version>
+		<rom name="Watch Dogs - Legion (UAE) (En,Ar).iso" size="37334089728" crc="1b7cbe61" md5="fbbc2e657bd0270f10857a5642a83ebe" sha1="4284167d6d4ac486ecccab894a9ad5bcb552179f"/>
+	</game>
 	<game name="Watch Dogs - Legion (USA) (En,Fr,Es,Pt)" id="83995">
 		<category>Games</category>
 		<description>Watch Dogs: Legion (USA) (En,Fr,Es,Pt)</description>
@@ -11068,12 +11229,26 @@
 		<version>01.00</version>
 		<rom name="Watch Dogs - Legion (USA) (En,Fr,Es,Pt).iso" size="37334089728" crc="647c6f28" md5="deb2db5683b24d576c0da9d936feb937" sha1="75316d0633141776fde89bfabb30143950d77ff6"/>
 	</game>
+	<game name="Watch_Dogs (UAE)" id="105667">
+		<category>Games</category>
+		<description>Watch_Dogs (UAE)</description>
+		<serial>CUSA-00812</serial>
+		<version>01.01</version>
+		<rom name="Watch_Dogs (UAE).iso" size="25024331776" crc="ed813f43" md5="7bb52ea768a645a2f16cec1a7950879a" sha1="05896d6526c558e8a634f2b49af3caa37b7e9ca7"/>
+	</game>
 	<game name="Watch_Dogs - Complete Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)" id="70994">
 		<category>Games</category>
 		<description>Watch_Dogs: Complete Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)</description>
 		<serial>CUSA-01395</serial>
 		<version>01.01</version>
 		<rom name="Watch_Dogs - Complete Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso" size="28767027200" crc="b8b363ed" md5="bb0c49cc5e3290b7aaa2230d6eff42d8" sha1="4c74178101a56b316dea9ccc35da47de785a701b"/>
+	</game>
+	<game name="Watch_Dogs 2 (UAE) (En,Ar)" id="112615">
+		<category>Games</category>
+		<description>Watch_Dogs 2 (UAE) (En,Ar)</description>
+		<serial>CUSA-06328</serial>
+		<version>01.00</version>
+		<rom name="Watch_Dogs 2 (UAE) (En,Ar).iso" size="29742530560" crc="f0f7649b" md5="c98bd4c766382ca6c0d11bcffb530edd" sha1="0f404503f3216dfc9adca792f8f46d31b2e24a73"/>
 	</game>
 	<game name="Watch_Dogs 2 (USA) (En,Fr,Es,Pt)" id="58372">
 		<category>Games</category>
@@ -11397,6 +11572,13 @@
 		<version>01.00</version>
 		<rom name="Yooka-Laylee and the Impossible Lair (USA) (En,Ja,Fr,De,Es,Zh).iso" size="4441833472" crc="01d38305" md5="a60fd3cfa6e89a386d3eff3edeb1c687" sha1="2d4fe234ee50902433e6cb67193f2dfb6a778de5"/>
 	</game>
+	<game name="Young Souls (USA)" id="139630">
+		<category>Games</category>
+		<description>Young Souls (USA)</description>
+		<serial>CUSA-29072</serial>
+		<version>02.00</version>
+		<rom name="Young Souls (USA).iso" size="25024331776" crc="78408511" md5="f458e5247f0a859af4929cece88a7fa8" sha1="16b91249635a2f0e34966b053c8218e042e8ed83"/>
+	</game>
 	<game name="Ys - Memories of Celceta (USA)" id="106882">
 		<category>Games</category>
 		<description>Ys: Memories of Celceta (USA)</description>
@@ -11466,6 +11648,13 @@
 		<serial>CUSA-32226</serial>
 		<version>01.01</version>
 		<rom name="Zorro - The Chronicles (Europe).iso" size="11918966784" crc="b9f6360b" md5="17b95b80ccd7dcef07636e961839527f" sha1="f706e04d7b2868bc8121fdb01459a4c19ef5b5a3"/>
+	</game>
+	<game name="eFootball PES 2020 (UAE) (En,Ar)" id="106240">
+		<category>Games</category>
+		<description>eFootball PES 2020 (UAE) (En,Ar)</description>
+		<serial>CUSA-14919</serial>
+		<version>01.00</version>
+		<rom name="eFootball PES 2020 (UAE) (En,Ar).iso" size="39766720512" crc="e36baf1b" md5="bd5d550dbe7a3bbb0b9b1dadd86121ce" sha1="6a1bd020b6fed1ed58b89ed3d52b024c602a659f"/>
 	</game>
 	<game name="eFootball PES 2020 (USA)" id="94542">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>BD-Video (Retool)</name>
-		<description>BD-Video (111) (-y) [-aAbBcdkmMpPuv] (2026-10-18 00-53-35) (Retool)</description>
-		<version>2026-10-18 00-53-35</version>
-		<date>2026-10-22 07-29-56</date>
+		<description>BD-Video (112) (-y) [-aAbBcdkmMpPuv] (2026-10-22 10-56-35) (Retool)</description>
+		<version>2026-10-22 10-56-35</version>
+		<date>2026-10-23 07-32-14</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -23,17 +23,17 @@
 		<serial>BMCR-380J2</serial>
 		<rom name="AKB1-48 - Idol to Koishitara... - Kami Kokuhaku Eizou Blu-ray Disc (Japan) (PSP Game Bundle).iso" size="23313383424" crc="a9b470e4" md5="fabb5afb85687413fdaaf030eab89a1a" sha1="4387373dd8a8eb06e55ed90d31b22c8fe79c4266"/>
 	</game>
+	<game name="Accel World #EX02 - Vacation (Japan) (PS3 Game Bundle)" id="88339">
+		<category>Bonus Discs</category>
+		<description>Accel World #EX02: Vacation (Japan) (PS3 Game Bundle)</description>
+		<serial>BLJS 10175</serial>
+		<rom name="Accel World #EX02 - Vacation (Japan) (PS3 Game Bundle).iso" size="7788167168" crc="6e8ae1d1" md5="c9725983b17118a60acbc0b0ab93cb3a" sha1="bc655ddf9e98e86142f0ea7a9dfe1cddb496c102"/>
+	</game>
 	<game name="Accel World EX01 (Japan) (PS3 Game Bundle)" id="103696">
 		<category>Bonus Discs</category>
 		<description>Accel World EX01 (Japan) (PS3 Game Bundle)</description>
 		<serial>BLJS 10173</serial>
 		<rom name="Accel World EX01 (Japan) (PS3 Game Bundle).iso" size="8337883136" crc="763d52dc" md5="8bc5a6151d59679f010d38897728b801" sha1="c93344ae5c248c2343c373fdb63b9b21f267c77b"/>
-	</game>
-	<game name="Accel World EX02 - Vacation (Japan) (PS3 Game Bundle)" id="88339">
-		<category>Bonus Discs</category>
-		<description>Accel World #EX02: Vacation (Japan) (PS3 Game Bundle)</description>
-		<serial>BLJS 10175</serial>
-		<rom name="Accel World EX02 - Vacation (Japan) (PS3 Game Bundle).iso" size="7788167168" crc="6e8ae1d1" md5="c9725983b17118a60acbc0b0ab93cb3a" sha1="bc655ddf9e98e86142f0ea7a9dfe1cddb496c102"/>
 	</game>
 	<game name="Accel World Vs Sword Art Online - Special Contents Blu-ray Disc (Japan) (Disc 1) (PSV Game Bundle)" id="103217">
 		<category>Bonus Discs</category>
@@ -70,6 +70,11 @@
 		<description>Assassin's Creed II: Bonus Content (USA) (PS3 Game Bundle)</description>
 		<serial>240105-DISC</serial>
 		<rom name="Assassin's Creed II - Bonus Content (USA) (PS3 Game Bundle).iso" size="12883197952" crc="b25544ac" md5="8c60d81888b109c25f2a90ca264bb17c" sha1="51aef38450c630557afbeeea0f15a27e422a7c0b"/>
+	</game>
+	<game name="Axiom Verge - Making-Of Documentary (UAE) (PS4 Game Bundle)" id="106650">
+		<category>Bonus Discs</category>
+		<description>Axiom Verge: Making-Of Documentary (UAE) (PS4 Game Bundle)</description>
+		<rom name="Axiom Verge - Making-Of Documentary (UAE) (PS4 Game Bundle).iso" size="19037880320" crc="90275c71" md5="d7389986915423e19cf13a7947450c93" sha1="db5d44b2735e752f8868dc669a744cc008eda617"/>
 	</game>
 	<game name="Axiom Verge - Making-Of Documentary (USA) (NSW Game Bundle)" id="113098">
 		<category>Bonus Discs</category>
