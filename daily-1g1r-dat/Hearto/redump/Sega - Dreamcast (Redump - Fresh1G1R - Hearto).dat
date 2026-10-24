@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (823) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-50-21) (Retool)</description>
-		<version>2026-10-14 05-50-21</version>
-		<date>2026-10-23 07-18-03</date>
+		<description>Sega - Dreamcast (823) (-y) [-aAbBcefkmMoprv] (2026-10-23 10-16-42) (Retool)</description>
+		<version>2026-10-23 10-16-42</version>
+		<date>2026-10-24 07-11-40</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1824,55 +1824,53 @@
 		<rom name="Death Crimson OX (USA) (Track 3).bin" size="1185760800" crc="f2bda688" md5="fcc75e21b9efaf1f2ff9364714273a68" sha1="274b5455b201078670da35a82232067b4bd19b64"/>
 		<rom name="Death Crimson OX (USA).cue" size="360" crc="ce2896c0" md5="a621f934c71e27ed63e59ffc2e603e10" sha1="4700b528e9dbcc9ca42d8319436080a335469c2e"/>
 	</game>
-	<game name="Debug Indie Sampler 1 (UK) (Unl)" id="102164">
+	<game name="Debug Indie Sampler #1 (UK) (Unl)" id="102164">
 		<category>Demos</category>
-		<category>Games</category>
 		<description>Debug Indie Sampler #1 (UK) (Unl)</description>
 		<version>1.000</version>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 01).bin" size="21172704" crc="b5b511ca" md5="5160a1ce26b0baf4f0cd9b24606be184" sha1="f5be975e834ef6eb61ad44994ce8ae489b4615b2"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 02).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 03).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 04).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 05).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 06).bin" size="10993248" crc="7d06ace3" md5="020d4c319ec96d1c81f11f3d72920666" sha1="510fd0737ecdeba1392030e418e465fea36c89bb"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 07).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 08).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 09).bin" size="23748144" crc="c6d933b5" md5="d2bdc8b17aa56fe5ab8b8331c4f5acc0" sha1="8e417a56799ba2304d939c2474bf5c5e8ddea0d6"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 10).bin" size="7039536" crc="6080dcf0" md5="7d94b76e5530c139f94ae942947a282b" sha1="238cfd2ffdbfc318f2278f384a8ffb81ef3e8137"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 11).bin" size="2175600" crc="cb056ed3" md5="51d867c1b9c39e38e26974db4373a15d" sha1="da85810433222ba1c5502cb5ffd78e92b74e4328"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 12).bin" size="2173248" crc="56238879" md5="41de5a52ec3902fb10f111f9520857ed" sha1="a5d4aad6c30873a1593adecae3a6d818f5edd00b"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 13).bin" size="15175104" crc="9cf7ac10" md5="a99c23d1620b5a4b470cefa4f7af0c33" sha1="7ae80b7c504acb311df3e3903e64e43bff93f3e5"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 14).bin" size="15175104" crc="0f65b0d0" md5="ba59d8521aadadf4d381cb991881719e" sha1="b5bd8880828f73a6e05376c53cd1e17caf766f8a"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 15).bin" size="15177456" crc="cd6cb863" md5="7aabbc325459dab4a594aa17434f1907" sha1="dace35ec5aa078fc5c08c9394f54fe0f276f672a"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 16).bin" size="15175104" crc="d690abcf" md5="09f9cb7bd828c0fc6fdf49d3e1505464" sha1="1a1ce86b0359d7d7ce1d7bea6e8927e0f276f9e6"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 17).bin" size="15179808" crc="f900c005" md5="5b2b5981586d3f26472bd3f35db71081" sha1="36f653fec7b8aa23e4b61f3727fb898af965522d"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 18).bin" size="16715664" crc="53178b59" md5="011d9d20acaffefb8a0aa41fbc58083a" sha1="c09134062cd53ef5d1e802ac07e597e18e384a18"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 19).bin" size="7754544" crc="a4b52b01" md5="d34b558d01d44f1681db62329133788c" sha1="6fe3ff8551188f19ef98fd526f5f3e331a6956bf"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 20).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 21).bin" size="21826560" crc="fdb7d2a4" md5="cf1a78a776ce3b3af949503b7c761c72" sha1="c76660aad458774696bee0373e0063fb18bf618f"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 22).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 23).bin" size="20716416" crc="39d92ea7" md5="9207d98e7e7dd2aa62a68cbce0723b00" sha1="7f57b5d2dfb60a2b9e651b8264dd480c0284250d"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 24).bin" size="12463248" crc="88f7b804" md5="c4c82e272fb6b0a32e3a35b647d9cc14" sha1="e20c05b16e56288b71e9a011679b9ac8ee9e5d8e"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 25).bin" size="1404144" crc="a6f0c64f" md5="c45884a9cbd0336ed1f9e100cd150b91" sha1="37cdd366bfc69228b803e8a08d482a5f238f74f8"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 26).bin" size="2700096" crc="45fc8cea" md5="8aa73f10b2a196598bcd3ec263d22210" sha1="b4da8dc795a3e61821286c4f96fe12765e0ee681"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 27).bin" size="32610480" crc="4d1a2fdc" md5="d28aaffb242bb9714775cd099c6f30e8" sha1="1fb9cee384fc08c4f108962a698bb7896b845c38"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 28).bin" size="26772816" crc="9547f4e6" md5="4069379b6955715e563a1a84d2bc42fb" sha1="4e869eb0bf0852652a4e6725154ac94c332a8fa1"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 29).bin" size="66119424" crc="403fc995" md5="7b90b7e1cc5cda781659ed671ee16736" sha1="028487026ffc1cee822a1aef120ade0949668723"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 30).bin" size="68937120" crc="0ea6ffb6" md5="355687081caa48b1a3cfa376e416497e" sha1="e577803b5467a47baf9990fe25a9d86744ae50f5"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 31).bin" size="29604624" crc="16d326a8" md5="1189e885c4997b3c17a66f72875eac38" sha1="a5c867b053cc335578fd4228c46e5d2de4345d78"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl) (Track 32).bin" size="256826640" crc="d31e5444" md5="b2ead833c4bd221d59cbfdf2f6d23f1a" sha1="3d975c843cb7c76a1d84fdad14b9af028b0046ee"/>
-		<rom name="Debug Indie Sampler 1 (UK) (Unl).cue" size="4055" crc="01f17237" md5="d3394e792dfad8d4b0ab42074756f3d6" sha1="1eccf233a164db6fb00094dda955bc249980fc22"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 01).bin" size="21172704" crc="b5b511ca" md5="5160a1ce26b0baf4f0cd9b24606be184" sha1="f5be975e834ef6eb61ad44994ce8ae489b4615b2"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 02).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 03).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 04).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 05).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 06).bin" size="10993248" crc="7d06ace3" md5="020d4c319ec96d1c81f11f3d72920666" sha1="510fd0737ecdeba1392030e418e465fea36c89bb"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 07).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 08).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 09).bin" size="23748144" crc="c6d933b5" md5="d2bdc8b17aa56fe5ab8b8331c4f5acc0" sha1="8e417a56799ba2304d939c2474bf5c5e8ddea0d6"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 10).bin" size="7039536" crc="6080dcf0" md5="7d94b76e5530c139f94ae942947a282b" sha1="238cfd2ffdbfc318f2278f384a8ffb81ef3e8137"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 11).bin" size="2175600" crc="cb056ed3" md5="51d867c1b9c39e38e26974db4373a15d" sha1="da85810433222ba1c5502cb5ffd78e92b74e4328"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 12).bin" size="2173248" crc="56238879" md5="41de5a52ec3902fb10f111f9520857ed" sha1="a5d4aad6c30873a1593adecae3a6d818f5edd00b"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 13).bin" size="15175104" crc="9cf7ac10" md5="a99c23d1620b5a4b470cefa4f7af0c33" sha1="7ae80b7c504acb311df3e3903e64e43bff93f3e5"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 14).bin" size="15175104" crc="0f65b0d0" md5="ba59d8521aadadf4d381cb991881719e" sha1="b5bd8880828f73a6e05376c53cd1e17caf766f8a"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 15).bin" size="15177456" crc="cd6cb863" md5="7aabbc325459dab4a594aa17434f1907" sha1="dace35ec5aa078fc5c08c9394f54fe0f276f672a"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 16).bin" size="15175104" crc="d690abcf" md5="09f9cb7bd828c0fc6fdf49d3e1505464" sha1="1a1ce86b0359d7d7ce1d7bea6e8927e0f276f9e6"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 17).bin" size="15179808" crc="f900c005" md5="5b2b5981586d3f26472bd3f35db71081" sha1="36f653fec7b8aa23e4b61f3727fb898af965522d"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 18).bin" size="16715664" crc="53178b59" md5="011d9d20acaffefb8a0aa41fbc58083a" sha1="c09134062cd53ef5d1e802ac07e597e18e384a18"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 19).bin" size="7754544" crc="a4b52b01" md5="d34b558d01d44f1681db62329133788c" sha1="6fe3ff8551188f19ef98fd526f5f3e331a6956bf"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 20).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 21).bin" size="21826560" crc="fdb7d2a4" md5="cf1a78a776ce3b3af949503b7c761c72" sha1="c76660aad458774696bee0373e0063fb18bf618f"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 22).bin" size="1756944" crc="28a1fa12" md5="17fe1718ea07361e9349d903b7f79a07" sha1="02bf1ced65a2e574d8cbb8be4998e1b6d1f66adb"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 23).bin" size="20716416" crc="39d92ea7" md5="9207d98e7e7dd2aa62a68cbce0723b00" sha1="7f57b5d2dfb60a2b9e651b8264dd480c0284250d"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 24).bin" size="12463248" crc="88f7b804" md5="c4c82e272fb6b0a32e3a35b647d9cc14" sha1="e20c05b16e56288b71e9a011679b9ac8ee9e5d8e"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 25).bin" size="1404144" crc="a6f0c64f" md5="c45884a9cbd0336ed1f9e100cd150b91" sha1="37cdd366bfc69228b803e8a08d482a5f238f74f8"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 26).bin" size="2700096" crc="45fc8cea" md5="8aa73f10b2a196598bcd3ec263d22210" sha1="b4da8dc795a3e61821286c4f96fe12765e0ee681"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 27).bin" size="32610480" crc="4d1a2fdc" md5="d28aaffb242bb9714775cd099c6f30e8" sha1="1fb9cee384fc08c4f108962a698bb7896b845c38"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 28).bin" size="26772816" crc="9547f4e6" md5="4069379b6955715e563a1a84d2bc42fb" sha1="4e869eb0bf0852652a4e6725154ac94c332a8fa1"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 29).bin" size="66119424" crc="403fc995" md5="7b90b7e1cc5cda781659ed671ee16736" sha1="028487026ffc1cee822a1aef120ade0949668723"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 30).bin" size="68937120" crc="0ea6ffb6" md5="355687081caa48b1a3cfa376e416497e" sha1="e577803b5467a47baf9990fe25a9d86744ae50f5"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 31).bin" size="29604624" crc="16d326a8" md5="1189e885c4997b3c17a66f72875eac38" sha1="a5c867b053cc335578fd4228c46e5d2de4345d78"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl) (Track 32).bin" size="256826640" crc="d31e5444" md5="b2ead833c4bd221d59cbfdf2f6d23f1a" sha1="3d975c843cb7c76a1d84fdad14b9af028b0046ee"/>
+		<rom name="Debug Indie Sampler #1 (UK) (Unl).cue" size="4087" crc="d841073e" md5="89e8127012532c1676bc5047d8063d78" sha1="81dd1d27547e1d92a280e48adf1cb38e16a0b6a0"/>
 	</game>
-	<game name="Debug Indie Sampler 2 (UK) (Unl)" id="105418">
+	<game name="Debug Indie Sampler #2 (UK) (Unl)" id="105418">
 		<category>Demos</category>
-		<category>Games</category>
 		<description>Debug Indie Sampler #2 (UK) (Unl)</description>
 		<version>1.000</version>
-		<rom name="Debug Indie Sampler 2 (UK) (Unl) (Track 1).bin" size="60333504" crc="f7b76d08" md5="3ae7c9a3c898497e90eefc0573a43a5a" sha1="8292db789dd9d895bacb16b7a98105d748dfd6ad"/>
-		<rom name="Debug Indie Sampler 2 (UK) (Unl) (Track 2).bin" size="51863952" crc="776cf1e6" md5="9c81069af99a114f03a8a8a6216a30c2" sha1="dd9cfdf14d85015336474c9cdf8ae17763533d38"/>
-		<rom name="Debug Indie Sampler 2 (UK) (Unl) (Track 3).bin" size="52449600" crc="92a86722" md5="da587c0f3ac2b6a0988c84e80f0c45be" sha1="a2103f85f86e458642cd1b333c96698123f9914d"/>
-		<rom name="Debug Indie Sampler 2 (UK) (Unl) (Track 4).bin" size="99353184" crc="684bdc8a" md5="cc33f3a4702962dbdb2e2d5ac286f22d" sha1="cf628bcc483bbc8959914ac1aff1da5d0ad71185"/>
-		<rom name="Debug Indie Sampler 2 (UK) (Unl).cue" size="495" crc="62fc4d59" md5="c621e358962dcb30a77abfd14a892554" sha1="81bc0e0043c264817ca04bb1eb07680ea3df911e"/>
+		<rom name="Debug Indie Sampler #2 (UK) (Unl) (Track 1).bin" size="60333504" crc="f7b76d08" md5="3ae7c9a3c898497e90eefc0573a43a5a" sha1="8292db789dd9d895bacb16b7a98105d748dfd6ad"/>
+		<rom name="Debug Indie Sampler #2 (UK) (Unl) (Track 2).bin" size="51863952" crc="776cf1e6" md5="9c81069af99a114f03a8a8a6216a30c2" sha1="dd9cfdf14d85015336474c9cdf8ae17763533d38"/>
+		<rom name="Debug Indie Sampler #2 (UK) (Unl) (Track 3).bin" size="52449600" crc="92a86722" md5="da587c0f3ac2b6a0988c84e80f0c45be" sha1="a2103f85f86e458642cd1b333c96698123f9914d"/>
+		<rom name="Debug Indie Sampler #2 (UK) (Unl) (Track 4).bin" size="99353184" crc="684bdc8a" md5="cc33f3a4702962dbdb2e2d5ac286f22d" sha1="cf628bcc483bbc8959914ac1aff1da5d0ad71185"/>
+		<rom name="Debug Indie Sampler #2 (UK) (Unl).cue" size="499" crc="fe385ec2" md5="9022a44785a7f3f022a439d3862e554d" sha1="18b76410ab9d8fdd0ea1de4fb0c1b21119db9849"/>
 	</game>
 	<game name="Deep Fighter (USA) (Disc 1)" id="56790">
 		<category>Games</category>
@@ -6592,16 +6590,16 @@
 		<rom name="Never 7 - The End of Infinity (Japan) (Track 3).bin" size="1185760800" crc="e25ae1df" md5="d0a66efdc624a88d72f19c0c84ed68b2" sha1="8f075d843b5f5ec51c1f247a048e90bba82b2bf6"/>
 		<rom name="Never 7 - The End of Infinity (Japan).cue" size="405" crc="9bc19e02" md5="09da1f2db43591e01578212b10193ccf" sha1="1ed01f78a603ce6d813b8e899c786e8d97ed86e1"/>
 	</game>
-	<game name="Newpowered Generation 1 (UK) (Unl)" id="97765">
+	<game name="Newpowered Generation #1 (UK) (Unl)" id="97765">
 		<category>Demos</category>
 		<description>Newpowered Generation #1 (UK) (Unl)</description>
-		<rom name="Newpowered Generation 1 (UK) (Unl) (Track 1).bin" size="60691008" crc="e0bc6de0" md5="6fbb0047b69ea5eacf65b640d55c5c52" sha1="169fdd70ff7795a0f7bf32e96c1fd5446081c2b5"/>
-		<rom name="Newpowered Generation 1 (UK) (Unl) (Track 2).bin" size="51868656" crc="b82ab69b" md5="97728d4a17e9362c88e7baf12ecd45d9" sha1="24d2c2a4ac25e0b1fee3fa5c498cbb1df34ff059"/>
-		<rom name="Newpowered Generation 1 (UK) (Unl) (Track 3).bin" size="52454304" crc="730feced" md5="d17b24f4963cf3a57c855992177005a5" sha1="343371a6588e9321923b20f8529865771020f106"/>
-		<rom name="Newpowered Generation 1 (UK) (Unl) (Track 4).bin" size="32612832" crc="279aada1" md5="8e38a8b5c07318495da17e43c6f22c90" sha1="807fed0410c525771361d9d5dd61848f266bde62"/>
-		<rom name="Newpowered Generation 1 (UK) (Unl) (Track 5).bin" size="64226064" crc="b50b592c" md5="798f2b5abdd1c6311c95d7c5f16b8deb" sha1="efa4df4d03ba2805209c88ab86110bce0fbd97df"/>
-		<rom name="Newpowered Generation 1 (UK) (Unl) (Track 6).bin" size="494545632" crc="ff1232ae" md5="6e3456880aafe996152620b778a6136b" sha1="21267af4505a85d22474bd4447b45e99056efbaf"/>
-		<rom name="Newpowered Generation 1 (UK) (Unl).cue" size="667" crc="ad7ecdd9" md5="d33a28c3069695baf91acd12ebd06575" sha1="bb951476e07a11b4deecb9b99ffabaff794d55c8"/>
+		<rom name="Newpowered Generation #1 (UK) (Unl) (Track 1).bin" size="60691008" crc="e0bc6de0" md5="6fbb0047b69ea5eacf65b640d55c5c52" sha1="169fdd70ff7795a0f7bf32e96c1fd5446081c2b5"/>
+		<rom name="Newpowered Generation #1 (UK) (Unl) (Track 2).bin" size="51868656" crc="b82ab69b" md5="97728d4a17e9362c88e7baf12ecd45d9" sha1="24d2c2a4ac25e0b1fee3fa5c498cbb1df34ff059"/>
+		<rom name="Newpowered Generation #1 (UK) (Unl) (Track 3).bin" size="52454304" crc="730feced" md5="d17b24f4963cf3a57c855992177005a5" sha1="343371a6588e9321923b20f8529865771020f106"/>
+		<rom name="Newpowered Generation #1 (UK) (Unl) (Track 4).bin" size="32612832" crc="279aada1" md5="8e38a8b5c07318495da17e43c6f22c90" sha1="807fed0410c525771361d9d5dd61848f266bde62"/>
+		<rom name="Newpowered Generation #1 (UK) (Unl) (Track 5).bin" size="64226064" crc="b50b592c" md5="798f2b5abdd1c6311c95d7c5f16b8deb" sha1="efa4df4d03ba2805209c88ab86110bce0fbd97df"/>
+		<rom name="Newpowered Generation #1 (UK) (Unl) (Track 6).bin" size="494545632" crc="ff1232ae" md5="6e3456880aafe996152620b778a6136b" sha1="21267af4505a85d22474bd4447b45e99056efbaf"/>
+		<rom name="Newpowered Generation #1 (UK) (Unl).cue" size="673" crc="31e9d100" md5="eade3aa3dde99bc4a9006463f906017d" sha1="f249a7484395399a7ddf97e1a3a9cd3cb1867ab7"/>
 	</game>
 	<game name="Next Tetris, The - On-Line Edition (USA)" id="53450">
 		<category>Games</category>
@@ -8195,15 +8193,15 @@
 		<rom name="Roadsters (USA) (Track 12).bin" size="207258240" crc="3b8c5f0f" md5="148eed2a8b09878a4f17de6bdb4bc553" sha1="fcd0ec83bde750dd6002664a15253b14965f5b76"/>
 		<rom name="Roadsters (USA).cue" size="1337" crc="fd633921" md5="0432cb7546fb58178ecf34e5944cedc0" sha1="f07419c901a827e94f129ced1fb3ff8aea440cb6"/>
 	</game>
-	<game name="Roommania 203 (Japan)" id="39771">
+	<game name="Roommania #203 (Japan)" id="39771">
 		<category>Games</category>
 		<description>Roommania #203 (Japan)</description>
 		<serial>HDR-0044</serial>
 		<version>1.007</version>
-		<rom name="Roommania 203 (Japan) (Track 1).bin" size="10012464" crc="31281666" md5="e4b4e80a8a8f489c4456f11177cb1e22" sha1="d9552051d0cd9f007469c75a3af27fa4da1b6ccc"/>
-		<rom name="Roommania 203 (Japan) (Track 2).bin" size="7418208" crc="df96ca54" md5="d33448480238f75768704ce507e8c251" sha1="6f295672c167d27d9c0a8853a4e35b0eb5bce5ed"/>
-		<rom name="Roommania 203 (Japan) (Track 3).bin" size="1185760800" crc="25e36374" md5="402f556f17f2625518c6b3573f2cd43c" sha1="8d9301a623d3cbac4cf24def5a799116783fb2ee"/>
-		<rom name="Roommania 203 (Japan).cue" size="357" crc="76164f94" md5="78b2c55760a1c345cc55c64dc2694122" sha1="8247af3c17a9260b908d44d6def14b763b339663"/>
+		<rom name="Roommania #203 (Japan) (Track 1).bin" size="10012464" crc="31281666" md5="e4b4e80a8a8f489c4456f11177cb1e22" sha1="d9552051d0cd9f007469c75a3af27fa4da1b6ccc"/>
+		<rom name="Roommania #203 (Japan) (Track 2).bin" size="7418208" crc="df96ca54" md5="d33448480238f75768704ce507e8c251" sha1="6f295672c167d27d9c0a8853a4e35b0eb5bce5ed"/>
+		<rom name="Roommania #203 (Japan) (Track 3).bin" size="1185760800" crc="25e36374" md5="402f556f17f2625518c6b3573f2cd43c" sha1="8d9301a623d3cbac4cf24def5a799116783fb2ee"/>
+		<rom name="Roommania #203 (Japan).cue" size="360" crc="a7b5af2d" md5="5a9aa06bc8246647a2c85838bb701b06" sha1="b998896016869d2febbdf74a250d1b628806824c"/>
 	</game>
 	<game name="Roommate Asami - Okusama wa Joshikousei - Director's Edition (Japan)" id="43451">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,830) (-y) [-aAbBcdkmMpPuv] (2026-10-18 19-16-05) (Retool)</description>
-		<version>2026-10-18 19-16-05</version>
-		<date>2026-10-23 07-34-41</date>
+		<description>Sony - PlayStation Portable (1,831) (-y) [-aAbBcdkmMpPuv] (2026-10-23 10-18-37) (Retool)</description>
+		<version>2026-10-23 10-18-37</version>
+		<date>2026-10-24 07-26-48</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2405,6 +2405,13 @@
 		<version>1.00</version>
 		<rom name="Disney-Pixar Up (USA).iso" size="556269568" crc="25ff3599" md5="31d050526b1fe94b8aaeaeaf4d3cefcb" sha1="09a635cd33da1c692ad21bf2dc60f8dfc56f9176"/>
 	</game>
+	<game name="Disney-Pixar WALL-E (UAE) (En,Ar)" id="106385">
+		<category>Games</category>
+		<description>Disney/Pixar WALL-E (UAE) (En,Ar)</description>
+		<serial>ULES-01079</serial>
+		<version>1.00</version>
+		<rom name="Disney-Pixar WALL-E (UAE) (En,Ar).iso" size="866975744" crc="bbae6bec" md5="154ec031615e5d9278613d74232c1a98" sha1="f329eafb6fe8a29de3adb133f49e6c5742f1e075"/>
+	</game>
 	<game name="Disney-Pixar WALL-E (USA)" id="52001">
 		<category>Games</category>
 		<description>Disney/Pixar WALL-E (USA)</description>
@@ -3812,19 +3819,19 @@
 		<version>1.01</version>
 		<rom name="Guilty Gear Judgment (USA).iso" size="600637440" crc="712813b6" md5="ae653f90899451c64484e1e2e1242df7" sha1="51778e88c1c4283f1c090055e20359ac94faf8df"/>
 	</game>
+	<game name="Guilty Gear XX #Reload - The Midnight Carnival (Japan)" id="54031">
+		<category>Games</category>
+		<description>Guilty Gear XX #Reload: The Midnight Carnival (Japan)</description>
+		<serial>ULJM 05042</serial>
+		<version>1.01</version>
+		<rom name="Guilty Gear XX #Reload - The Midnight Carnival (Japan).iso" size="486277120" crc="5f7eb782" md5="3080520af3cdd0e4de1afe0cfbf84c1e" sha1="f2738beacede77bda09a5cd470058a0d7be2aaaa"/>
+	</game>
 	<game name="Guilty Gear XX Accent Core Plus (USA)" id="19214">
 		<category>Games</category>
 		<description>Guilty Gear XX Accent Core Plus (USA)</description>
 		<serial>ULUS-10409</serial>
 		<version>1.00</version>
 		<rom name="Guilty Gear XX Accent Core Plus (USA).iso" size="902397952" crc="1834c23d" md5="a4b2be6e79435087a8442014900545a2" sha1="7173648a945d5dd88a70c1f92f99314f3bae779d"/>
-	</game>
-	<game name="Guilty Gear XX Reload - The Midnight Carnival (Japan)" id="54031">
-		<category>Games</category>
-		<description>Guilty Gear XX #Reload: The Midnight Carnival (Japan)</description>
-		<serial>ULJM 05042</serial>
-		<version>1.01</version>
-		<rom name="Guilty Gear XX Reload - The Midnight Carnival (Japan).iso" size="486277120" crc="5f7eb782" md5="3080520af3cdd0e4de1afe0cfbf84c1e" sha1="f2738beacede77bda09a5cd470058a0d7be2aaaa"/>
 	</game>
 	<game name="Gun Showdown (USA)" id="14395">
 		<category>Games</category>
@@ -6652,12 +6659,12 @@
 		<version>1.01</version>
 		<rom name="Megami no Etsubo (Japan).iso" size="1228439552" crc="fa04f82b" md5="0f5147e4d9088506a4f47fb347f7e046" sha1="368bced2861ad885c6d5d59294532601034a4f84"/>
 	</game>
-	<game name="Megpoid the Music (Japan)" id="99083">
+	<game name="Megpoid the Music# (Japan)" id="99083">
 		<category>Games</category>
 		<description>Megpoid the Music# (Japan)</description>
 		<serial>ULJM 06226</serial>
 		<version>1.04</version>
-		<rom name="Megpoid the Music (Japan).iso" size="737935360" crc="e6068dfb" md5="8a29a914f78eede846e125a5f14d4dab" sha1="19b62768a2c8f0efc55777cb8a538eb550afe18c"/>
+		<rom name="Megpoid the Music# (Japan).iso" size="737935360" crc="e6068dfb" md5="8a29a914f78eede846e125a5f14d4dab" sha1="19b62768a2c8f0efc55777cb8a538eb550afe18c"/>
 	</game>
 	<game name="Meiji Tokyo Renka (Japan)" id="136832">
 		<category>Games</category>
@@ -6679,6 +6686,20 @@
 		<serial>ULJS 00488</serial>
 		<version>1.02</version>
 		<rom name="Meitantei Conan - Kako kara no Prelude (Japan).iso" size="716505088" crc="7bbf2ca1" md5="8defe0b0188c134addcea5f686ce9bdc" sha1="eb1bc8284ad0a3e106f1a98e5828bc44d895a8da"/>
+	</game>
+	<game name="Memories Off #5 - Togireta Film (Japan)" id="108408">
+		<category>Games</category>
+		<description>Memories Off #5: Togireta Film (Japan)</description>
+		<serial>ULJM 05394, ULJM 05596</serial>
+		<version>1.01</version>
+		<rom name="Memories Off #5 - Togireta Film (Japan).iso" size="1101660160" crc="5706210b" md5="0bd5c9b3db5969953752c618e8cdbdf5" sha1="b1a1258247014ddb160d7c1f6af03d5b5c3b4734"/>
+	</game>
+	<game name="Memories Off #5 Encore (Japan)" id="72851">
+		<category>Games</category>
+		<description>Memories Off #5 Encore (Japan)</description>
+		<serial>ULJM 05527</serial>
+		<version>1.00</version>
+		<rom name="Memories Off #5 Encore (Japan).iso" size="848396288" crc="8893941d" md5="6de1a961003538511dfb9f8cf8cbcd48" sha1="76ada96b27944a159f40ff2f823d9b37136380c8"/>
 	</game>
 	<game name="Memories Off (Japan)" id="96450">
 		<category>Games</category>
@@ -6707,20 +6728,6 @@
 		<serial>ULJM 05335, ULJM 05593</serial>
 		<version>1.02</version>
 		<rom name="Memories Off 2nd (Japan).iso" size="856129536" crc="1d3f730d" md5="27bd63f967bc200e835e461fbb2d3d8c" sha1="b0de5173da32ad305b1159f42d63c350355b7bc8"/>
-	</game>
-	<game name="Memories Off 5 - Togireta Film (Japan)" id="108408">
-		<category>Games</category>
-		<description>Memories Off #5: Togireta Film (Japan)</description>
-		<serial>ULJM 05394, ULJM 05596</serial>
-		<version>1.01</version>
-		<rom name="Memories Off 5 - Togireta Film (Japan).iso" size="1101660160" crc="5706210b" md5="0bd5c9b3db5969953752c618e8cdbdf5" sha1="b1a1258247014ddb160d7c1f6af03d5b5c3b4734"/>
-	</game>
-	<game name="Memories Off 5 Encore (Japan)" id="72851">
-		<category>Games</category>
-		<description>Memories Off #5 Encore (Japan)</description>
-		<serial>ULJM 05527</serial>
-		<version>1.00</version>
-		<rom name="Memories Off 5 Encore (Japan).iso" size="848396288" crc="8893941d" md5="6de1a961003538511dfb9f8cf8cbcd48" sha1="76ada96b27944a159f40ff2f823d9b37136380c8"/>
 	</game>
 	<game name="Memories Off 6 - Next Relation (Japan)" id="126937">
 		<category>Games</category>

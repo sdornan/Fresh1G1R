@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (377) (-y) [-aAbBcdkmMpPuv] (2026-10-22 19-56-41) (Retool)</description>
-		<version>2026-10-22 19-56-41</version>
-		<date>2026-10-23 07-34-37</date>
+		<description>Sony - PlayStation 5 (378) (-y) [-aAbBcdkmMpPuv] (2026-10-23 10-18-36) (Retool)</description>
+		<version>2026-10-23 10-18-36</version>
+		<date>2026-10-24 07-26-46</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -416,6 +416,13 @@
 		<serial>PPSA-01949/US</serial>
 		<version>01.00</version>
 		<rom name="Control Ultimate Edition (USA) (En,Ja,De,Es,It,Pt,Fi,Zh,Ko,Pl,Ru,Ar).iso" size="40008351744" crc="cf5463b3" md5="8da2adc16ddb40f5001095e203906382" sha1="be7123fba92272665ba0983da469551571f542db"/>
+	</game>
+	<game name="Copycat (Europe) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Pl,Uk)" id="139675">
+		<category>Games</category>
+		<description>Copycat (Europe) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Pl,Uk)</description>
+		<serial>PPSA-18346</serial>
+		<version>03.00</version>
+		<rom name="Copycat (Europe) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Pl,Uk).iso" size="40008351744" crc="ed8d39f6" md5="dc35a39876776eec09950d3543156763" sha1="5849a8cca3a12c90c37bb8728b4afa6bb08150c5"/>
 	</game>
 	<game name="Crime Boss - Rockay City (Japan)" id="130516">
 		<category>Games</category>

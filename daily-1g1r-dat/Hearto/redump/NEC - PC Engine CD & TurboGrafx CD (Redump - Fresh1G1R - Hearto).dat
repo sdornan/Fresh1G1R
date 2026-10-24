@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC Engine CD &amp; TurboGrafx CD (Retool)</name>
-		<description>NEC - PC Engine CD &amp; TurboGrafx CD (420) (-y) [-aAbBcefkmMoprv] (2026-10-14 05-51-53) (Retool)</description>
-		<version>2026-10-14 05-51-53</version>
-		<date>2026-10-23 07-17-45</date>
+		<description>NEC - PC Engine CD &amp; TurboGrafx CD (421) (-y) [-aAbBcefkmMoprv] (2026-10-23 10-18-16) (Retool)</description>
+		<version>2026-10-23 10-18-16</version>
+		<date>2026-10-24 07-11-24</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5607,6 +5607,23 @@
 		<rom name="J. B. Harold Murder Club (USA) (En,Ja) (Track 10).bin" size="4619328" crc="56129108" md5="f6c0c3c78ff950f8e3e5e5e09efb4a7d" sha1="01976c196e34018c68199469e3dc653f46b17bfc"/>
 		<rom name="J. B. Harold Murder Club (USA) (En,Ja) (Track 11).bin" size="160159440" crc="a4743948" md5="dd303f7ddd5d7fb0417a5bf6ebfaaf93" sha1="613191babbcdfe553c3fda1ce25fc77066d17537"/>
 		<rom name="J. B. Harold Murder Club (USA) (En,Ja).cue" size="1312" crc="ca8e8911" md5="149311f89efc24e9a0e363cfd4f263a2" sha1="8a470dcdfb35a0a114accb8aa3448a9d2da5bdfb"/>
+	</game>
+	<game name="J. B. Harold Series #1 - Murder Club (Japan)" id="37152">
+		<category>Games</category>
+		<description>J. B. Harold Series #1: Murder Club (Japan)</description>
+		<serial>HCD0013</serial>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 02).bin" size="160509888" crc="cf416a01" md5="1c789459f48dbfde0b852268f7f29677" sha1="344e3087216495cce2013ae791a5faa2f453ad9b"/>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 03).bin" size="36319584" crc="512b68cd" md5="5d50bb462cbc1debe066db74cf563dce" sha1="9be80241f5d495576d11567b89031756af2eae78"/>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 04).bin" size="44424576" crc="6b984738" md5="78b17128f3faf288df558dd604c80eed" sha1="792db54181763014419baa2487b28fa83b8f97fc"/>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 05).bin" size="45602928" crc="19f8d99b" md5="5a5dbb929f6e7b588efa402b370e562f" sha1="fc352a85c42a3cd98159be02d0c5f48f05c86d43"/>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 06).bin" size="3509184" crc="56151e98" md5="7389a1e02a4b64303a000b11e4e451a9" sha1="8cb6fde0cf80c5bc44e8165227db1647ffd218ae"/>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 07).bin" size="1980384" crc="b1c5d1a6" md5="b67b05f543b189b2f4cd0a4f47bbf7da" sha1="f15e59fa4cc9a6e2f265c6c5d0bf585b3d7e7957"/>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 08).bin" size="966672" crc="2b1b11a4" md5="4ff4a2585735be0a522b1904810b37ba" sha1="8f00c35b008161aa04e31d1a3246f82710455eee"/>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 09).bin" size="2196768" crc="155d9d48" md5="15984759fd89e1d40805895c325d68d5" sha1="42530d796622fed244371ab5073e062b550f221a"/>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 10).bin" size="4619328" crc="56129108" md5="f6c0c3c78ff950f8e3e5e5e09efb4a7d" sha1="01976c196e34018c68199469e3dc653f46b17bfc"/>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 11).bin" size="160159440" crc="f930b68a" md5="13818e4e1914a64bec48143b2e4b14ab" sha1="6399edad6941b0f54c8fabdb5f881331ae19b379"/>
+		<rom name="J. B. Harold Series #1 - Murder Club (Japan).cue" size="1378" crc="078708ac" md5="656259a34eef322f5ba40d2c4fdec89e" sha1="17ec94a83b91125cfb33c2c73a291e141d05193f"/>
 	</game>
 	<game name="J.League Tremendous Soccer '94 (Japan)" id="29847">
 		<category>Games</category>

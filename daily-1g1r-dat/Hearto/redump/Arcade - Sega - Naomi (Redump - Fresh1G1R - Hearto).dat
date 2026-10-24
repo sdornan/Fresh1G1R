@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi (Retool)</name>
-		<description>Arcade - Sega - Naomi (35) (-y) [-aAbBcefkmMoprv] (2026-10-18 12-44-57) (Retool)</description>
-		<version>2026-10-18 12-44-57</version>
-		<date>2026-10-23 07-18-06</date>
+		<description>Arcade - Sega - Naomi (35) (-y) [-aAbBcefkmMoprv] (2026-10-23 10-16-54) (Retool)</description>
+		<version>2026-10-23 10-16-54</version>
+		<date>2026-10-24 07-11-43</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -51,6 +51,16 @@
 		<rom name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A) (Track 3).bin" size="1185760800" crc="61f4fa45" md5="8490d08f4b8b623e911f42c7620aa0b6" sha1="bb85ba2c98e19487fa761c9da1e5ee886a70f1e5"/>
 		<rom name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A).cue" size="444" crc="efe89eb4" md5="8b3bfedd027312a5d336e9485b1ed073" sha1="a754a70f00dfa8fb20ed46054bc6844944608de5"/>
 	</game>
+	<game name="Guilty Gear XX - The Midnight Carnival #Reload (Japan)" id="69604">
+		<category>Games</category>
+		<description>Guilty Gear XX: The Midnight Carnival #Reload (Japan)</description>
+		<serial>GDL-0019</serial>
+		<version>1.001</version>
+		<rom name="Guilty Gear XX - The Midnight Carnival #Reload (Japan) (Track 1).bin" size="1058400" crc="d6d785c9" md5="a5130352f5dbc46341f5bb4c30351d2a" sha1="ee57efa80f0ac4726ea44f6159d0731b7d7f30fd"/>
+		<rom name="Guilty Gear XX - The Midnight Carnival #Reload (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Guilty Gear XX - The Midnight Carnival #Reload (Japan) (Track 3).bin" size="1185760800" crc="16d0e0dc" md5="e57af9c31e4d0d82bede525c9237118f" sha1="f78e662fa7432805668aa36a0a7c5febeece4d78"/>
+		<rom name="Guilty Gear XX - The Midnight Carnival #Reload (Japan).cue" size="456" crc="11e61bed" md5="6c5a80e9ca45b95ef85ed7cba28834d9" sha1="b0ef0d7691f469930080ec7ff52bf6b8a874a9a7"/>
+	</game>
 	<game name="Guilty Gear XX - The Midnight Carnival (Japan)" id="77948">
 		<category>Games</category>
 		<description>Guilty Gear XX: The Midnight Carnival (Japan)</description>
@@ -60,16 +70,6 @@
 		<rom name="Guilty Gear XX - The Midnight Carnival (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Guilty Gear XX - The Midnight Carnival (Japan) (Track 3).bin" size="1185760800" crc="20ac72f3" md5="35a57faa136a8c8bc608140a79fda659" sha1="1d2a13ba78f9d56c7c4356b36558c32347e88017"/>
 		<rom name="Guilty Gear XX - The Midnight Carnival (Japan).cue" size="432" crc="b181fc0c" md5="dc14f7bf0534273c3ce8147dc4f20df2" sha1="7e3934c5be71b52188d5257602216a25085782b6"/>
-	</game>
-	<game name="Guilty Gear XX - The Midnight Carnival Reload (Japan)" id="69604">
-		<category>Games</category>
-		<description>Guilty Gear XX: The Midnight Carnival #Reload (Japan)</description>
-		<serial>GDL-0019</serial>
-		<version>1.001</version>
-		<rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan) (Track 1).bin" size="1058400" crc="d6d785c9" md5="a5130352f5dbc46341f5bb4c30351d2a" sha1="ee57efa80f0ac4726ea44f6159d0731b7d7f30fd"/>
-		<rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
-		<rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan) (Track 3).bin" size="1185760800" crc="16d0e0dc" md5="e57af9c31e4d0d82bede525c9237118f" sha1="f78e662fa7432805668aa36a0a7c5febeece4d78"/>
-		<rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan).cue" size="453" crc="f2095fe9" md5="527d46ae0a22ab666efa9018d9093ce9" sha1="633e43a4ef6962cd51a7289013e62e52e4f8cd68"/>
 	</game>
 	<game name="Guilty Gear XX Accent Core (Japan)" id="75446">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii U (Retool)</name>
-		<description>Nintendo - Wii U (210) (-y) [-aAbBcdkmMpPuv] (2026-10-18 12-54-59) (Retool)</description>
-		<version>2026-10-18 12-54-59</version>
-		<date>2026-10-23 07-33-46</date>
+		<description>Nintendo - Wii U (211) (-y) [-aAbBcdkmMpPuv] (2026-10-23 10-19-04) (Retool)</description>
+		<version>2026-10-23 10-19-04</version>
+		<date>2026-10-24 07-25-59</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -425,6 +425,12 @@
 		<description>Game Party Champions (USA) (En,Fr,Es)</description>
 		<serial>WUP-P-AGPE-USA-0</serial>
 		<rom name="Game Party Champions (USA) (En,Fr,Es).iso" size="25025314816" crc="58aba7ad" md5="66032169f46ab3950b2d7ad9b6a0a4ff" sha1="5c709ef5a5ba102b6a31d4dbb8092cde472c8a4a"/>
+	</game>
+	<game name="Gen'ei Ibunroku #FE (Japan)" id="47803">
+		<category>Games</category>
+		<description>Gen'ei Ibunroku #FE (Japan)</description>
+		<serial>WUP-P-ASEJ-JPN-0</serial>
+		<rom name="Gen'ei Ibunroku #FE (Japan).iso" size="25025314816" crc="4d4d6a3e" md5="fd56c5c845d133bac9fae3b8d4006019" sha1="359084664b027e9eada8faedca10b5daf721c686"/>
 	</game>
 	<game name="Giana Sisters - Twisted Dreams - Director's Cut (USA) (En,Fr,Es)" id="43307">
 		<category>Games</category>
@@ -1176,11 +1182,11 @@
 		<serial>WUP-P-WGDZ-EUR-0</serial>
 		<rom name="Teslagrad (Europe) (En,Fr,De,Es,It).iso" size="25025314816" crc="6d12525d" md5="84789d4baafb141c33e966c6edafa718" sha1="f14818a6a74f93d536f0a9a8fed012005b58e18d"/>
 	</game>
-	<game name="Tokyo Mirage Sessions FE (USA)" id="41055">
+	<game name="Tokyo Mirage Sessions #FE (USA)" id="41055">
 		<category>Games</category>
 		<description>Tokyo Mirage Sessions #FE (USA)</description>
 		<serial>WUP-P-ASEE-USA-0</serial>
-		<rom name="Tokyo Mirage Sessions FE (USA).iso" size="25025314816" crc="d041bb75" md5="3bb8aa12cf866cc6a5c3d06121e02f01" sha1="31b29da88afae4fe7fb2035af04f5ef98b40f511"/>
+		<rom name="Tokyo Mirage Sessions #FE (USA).iso" size="25025314816" crc="d041bb75" md5="3bb8aa12cf866cc6a5c3d06121e02f01" sha1="31b29da88afae4fe7fb2035af04f5ef98b40f511"/>
 	</game>
 	<game name="Tom Clancy's Splinter Cell - Blacklist (USA) (En,Fr,Es,Pt)" id="42191">
 		<category>Games</category>

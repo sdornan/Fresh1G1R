@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn (Retool)</name>
-		<description>Sega - Saturn (1,195) (-y) [-aAbBcdkmMpPuv] (2026-10-14 05-52-31) (Retool)</description>
-		<version>2026-10-14 05-52-31</version>
-		<date>2026-10-23 07-34-06</date>
+		<description>Sega - Saturn (1,195) (-y) [-aAbBcdkmMpPuv] (2026-10-23 10-18-56) (Retool)</description>
+		<version>2026-10-23 10-18-56</version>
+		<date>2026-10-24 07-26-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -12292,6 +12292,17 @@
 		<rom name="Night Warriors - Darkstalkers' Revenge (USA) (Track 2).bin" size="1766352" crc="e75e991c" md5="3b0c741e4fd1e326f4b3a69ecf401090" sha1="ac745b711b27c2488ee26410dadb7da29fd946d5"/>
 		<rom name="Night Warriors - Darkstalkers' Revenge (USA).cue" size="281" crc="eeefc0e2" md5="a49df201359ee2a43cf5d1fd13d77d17" sha1="df0ebbe7119acd59298da7bc0559b85f788a71e1"/>
 	</game>
+	<game name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M)" id="41078">
+		<category>Games</category>
+		<description>Nightruth: Explanation of the Paranormal #01: Yami no Tobira (Japan) (2M)</description>
+		<serial>T-20204G</serial>
+		<version>1.004</version>
+		<rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 1).bin" size="306634944" crc="29f9d01d" md5="6edf197d360407487f618b707c809978" sha1="52fb1a08d5e2f38cc6c78eff211377dfe2dbe59f"/>
+		<rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 2).bin" size="1764000" crc="14e3e448" md5="6620fdb9bdd11aeea86736f270f4178f" sha1="0d118d27cd9828e2b8224530d3a9711803377629"/>
+		<rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 3).bin" size="23468256" crc="d06d5f2b" md5="7a5a05c256980a247c1af83a3f7d9ba3" sha1="a7bf739e6089b2059b94c0113686e035fbc0da3f"/>
+		<rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 4).bin" size="45419472" crc="1417d4ca" md5="c33d6da44eea8a346a7e96428d5f3fc5" sha1="c804f98c232cf586176989d97e8396d7d0f5ac81"/>
+		<rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M).cue" size="681" crc="c27bcc80" md5="3a5932216d7441bd6ea9f2794b8ba1cd" sha1="d9350b2075c90189d5eb9ad24b61dc28c1a0ebd9"/>
+	</game>
 	<game name="Nightruth - Explanation of the Paranormal - Futatsu dake no Shinjitsu (Japan)" id="41087">
 		<category>Games</category>
 		<description>Nightruth: Explanation of the Paranormal: Futatsu dake no Shinjitsu (Japan)</description>
@@ -12322,17 +12333,6 @@
 		<rom name="Nightruth - Explanation of the Paranormal - Nightruth Voice Selection - Radio Drama-hen (Japan) (2M) (Track 3).bin" size="2535456" crc="bab67433" md5="e9c4e55972408444ecfd039ce1460cbd" sha1="5ac17946fbcedbd47e6d688627d9ada90f9a4979"/>
 		<rom name="Nightruth - Explanation of the Paranormal - Nightruth Voice Selection - Radio Drama-hen (Japan) (2M) (Track 4).bin" size="22623888" crc="8bea44c3" md5="0defe7fde4ecc4bc52dd94afad83fb33" sha1="683779427626ebb1721946436167551fe5a2aedf"/>
 		<rom name="Nightruth - Explanation of the Paranormal - Nightruth Voice Selection - Radio Drama-hen (Japan) (2M).cue" size="786" crc="4d5a3b81" md5="83f1170a036f79c69dfc50ab03bcdafc" sha1="5a55c6e5bc0d9f2f6b1754b06c495a6c03c1887f"/>
-	</game>
-	<game name="Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M)" id="41078">
-		<category>Games</category>
-		<description>Nightruth: Explanation of the Paranormal #01: Yami no Tobira (Japan) (2M)</description>
-		<serial>T-20204G</serial>
-		<version>1.004</version>
-		<rom name="Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M) (Track 1).bin" size="306634944" crc="29f9d01d" md5="6edf197d360407487f618b707c809978" sha1="52fb1a08d5e2f38cc6c78eff211377dfe2dbe59f"/>
-		<rom name="Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M) (Track 2).bin" size="1764000" crc="14e3e448" md5="6620fdb9bdd11aeea86736f270f4178f" sha1="0d118d27cd9828e2b8224530d3a9711803377629"/>
-		<rom name="Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M) (Track 3).bin" size="23468256" crc="d06d5f2b" md5="7a5a05c256980a247c1af83a3f7d9ba3" sha1="a7bf739e6089b2059b94c0113686e035fbc0da3f"/>
-		<rom name="Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M) (Track 4).bin" size="45419472" crc="1417d4ca" md5="c33d6da44eea8a346a7e96428d5f3fc5" sha1="c804f98c232cf586176989d97e8396d7d0f5ac81"/>
-		<rom name="Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M).cue" size="677" crc="a91af989" md5="0674a81ee838b29c00688b0bcee28cc6" sha1="b7e8276ed6ce3c398b1a535659e84d43d59a43ba"/>
 	</game>
 	<game name="Nights into Dreams... (USA) (with 3D Control Pad) (RE)" id="46348">
 		<category>Games</category>
