@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (936) (-y) [-aAbBcdkmMpPuv] (20261023-163152) (Retool)</description>
-		<version>20261023-163152</version>
-		<date>2026-10-24 07-27-09</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (936) (-y) [-aAbBcdkmMpPuv] (20261024-200741) (Retool)</description>
+		<version>20261024-200741</version>
+		<date>2026-10-25 07-39-41</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -512,6 +512,7 @@
 	<game name="Blazblue - Continuum Shift II (USA) (En,Ja,Zh,Ko) (Rev 1)" id="z088">
 		<category>Games</category>
 		<description>Blazblue - Continuum Shift II (USA) (En,Ja,Zh,Ko) (Rev 1)</description>
+		<game_id>000400000004AC00</game_id>
 		<rom name="Blazblue - Continuum Shift II (USA) (En,Ja,Zh,Ko) (Rev 1).3ds" size="2147483648" crc="d9bb31f7" md5="81099b3cb83a788e3bdc2f0660433702" sha1="b2179ec9f45281d833f9dbd82a131b450cc4dcec" sha256="3fb24c9a5837aac35072dda995bcfe03910837ac26f1a9b1b2bbbd7914f8744d"/>
 	</game>
 	<game name="Boku no Hero Academia - Battle for All (Japan)" id="1507">
@@ -1853,6 +1854,7 @@
 	<game name="Hana to Ikimono Rittai Zukan (Japan) (Rev 1)" id="z064">
 		<category>Games</category>
 		<description>Hana to Ikimono Rittai Zukan (Japan) (Rev 1)</description>
+		<game_id>0004000000036F00</game_id>
 		<rom name="Hana to Ikimono Rittai Zukan (Japan) (Rev 1).3ds" size="1073741824" crc="7c4e881f" md5="8d527081e0192b2885e1ef720e7c5817" sha1="bd3cd83aa5a5146172f25605dc79a23529b8d977" sha256="1ebcdb63b524ecd0aef87723698131793d34a5ed5372710b120dcb12f9d44c15"/>
 	</game>
 	<game name="Happiness Charge PreCure! Kawarun Collection (Japan)" id="1009">
@@ -2051,7 +2053,7 @@
 		<category>Games</category>
 		<description>Horses 3D (USA) (En,Fr,Es)</description>
 		<game_id>000400000004C200</game_id>
-		<rom name="Horses 3D (USA) (En,Fr,Es).3ds" size="268435456" crc="56b1c3f8" md5="1d817ad0e280669094d858fb35e1a58f" sha1="11017801e3fcb77a13caac3684a2eb1fcbeed6f0"/>
+		<rom name="Horses 3D (USA) (En,Fr,Es).3ds" size="268435456" crc="56b1c3f8" md5="1d817ad0e280669094d858fb35e1a58f" sha1="11017801e3fcb77a13caac3684a2eb1fcbeed6f0" sha256="bdc723cb71a314292f4cd4b25f214d9839ea3d66a685867db14ac42ab15b428f"/>
 	</game>
 	<game name="Hot Wheels - World's Best Driver (USA) (En,Fr,Es)" id="0449">
 		<category>Games</category>
@@ -2446,6 +2448,7 @@
 	<game name="Kirby Battle Royale (USA) (En,Ja,Fr,De,Es,It,Nl,Ko) (Rev 2)" id="z087">
 		<category>Games</category>
 		<description>Kirby Battle Royale (USA) (En,Ja,Fr,De,Es,It,Nl,Ko) (Rev 2)</description>
+		<game_id>00040000001C2000</game_id>
 		<rom name="Kirby Battle Royale (USA) (En,Ja,Fr,De,Es,It,Nl,Ko) (Rev 2).3ds" size="536870912" crc="898d7348" md5="1304df525f89fd739514c5babb33056d" sha1="580e378da29243bf6a76acf3714953ac97099488" sha256="55da06fb9e77c5b4a3b64d9c819ea9a0b2a6fc9054612d1f92be0e23d50dd57c"/>
 	</game>
 	<game name="Kirby's Extra Epic Yarn (USA) (En,Fr,Es)" id="1858">
@@ -2511,6 +2514,7 @@
 	<game name="Kouekizaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai - Kanken Training (Japan) (Rev 1)" id="z083">
 		<category>Games</category>
 		<description>Kouekizaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai - Kanken Training (Japan) (Rev 1)</description>
+		<game_id>0004000000118500</game_id>
 		<rom name="Kouekizaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai - Kanken Training (Japan) (Rev 1).3ds" size="268435456" crc="1fa8457c" md5="b182fbaf404c09717e1be86b8e544410" sha1="d92548c75fc8885b0b0cf91f4c23331411281ae3" sha256="8462002b45168f23ec62bf36407d8169fe27c562075e8ee02cc04d7f3e86e45c"/>
 	</game>
 	<game name="Kouekizaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai - Kanken Training 2 (Japan)" id="1736">
@@ -2913,6 +2917,7 @@
 	<game name="Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1)" id="z089">
 		<category>Games</category>
 		<description>Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1)</description>
+		<game_id>0004000000054800</game_id>
 		<rom name="Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="9ad0c715" md5="99a154169ef34e5aa0139a21ccf269e3" sha1="a9f35929b1a108e7159f52ba51e2cf7e787eb1b0"/>
 	</game>
 	<game name="Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (En,Fr,Es)" id="1468">
@@ -3890,6 +3895,7 @@
 	<game name="Pilotwings Resort (USA) (En,Fr,Es) (Rev 1)" id="z034">
 		<category>Games</category>
 		<description>Pilotwings Resort (USA) (En,Fr,Es) (Rev 1)</description>
+		<game_id>0004000000031C00</game_id>
 		<rom name="Pilotwings Resort (USA) (En,Fr,Es) (Rev 1).3ds" size="134217728" crc="6131c2cb" md5="b1eb4dbdbc458ec5cd592a390d7997ae" sha1="6f850099c50e4ba0e99e2dfbca30d01b6496acb8" sha256="1542947d33aad162171392f185faf280d610ec9b564691267c428aa2ee38bc0d"/>
 	</game>
 	<game name="Pinball Hall of Fame - The Williams' Collection (USA)" id="0139">
@@ -5299,6 +5305,7 @@
 	<game name="Tousouchuu - Shijou Saikyou no Hunter-tachi Kara Nigekire! (Japan) (Rev 1)" id="z174">
 		<category>Games</category>
 		<description>Tousouchuu - Shijou Saikyou no Hunter-tachi Kara Nigekire! (Japan) (Rev 1)</description>
+		<game_id>000400000009EC00</game_id>
 		<rom name="Tousouchuu - Shijou Saikyou no Hunter-tachi Kara Nigekire! (Japan) (Rev 1).3ds" size="268435456" crc="d1c37c81" md5="c69b6f0a8e87303e2e24cda3d5256d72" sha1="2876ef4e77bd2a0795b3b430e4132212740d2c47" sha256="25912bdd15a352e1460211f9237329488fff541c956a349af7b3c5ae3be034e7"/>
 	</game>
 	<game name="Transformers - Dark of the Moon - Stealth Force Edition (USA) (En,Fr)" id="0124">
@@ -5424,6 +5431,7 @@
 	<game name="WarioWare Gold (USA) (Rev 1)" id="z084">
 		<category>Games</category>
 		<description>WarioWare Gold (USA) (Rev 1)</description>
+		<game_id>00040000001D1C00</game_id>
 		<rom name="WarioWare Gold (USA) (Rev 1).3ds" size="2147483648" crc="e2bcebb2" md5="f40bb52ad134c05decc57f4bb9e3027e" sha1="16f3d62884ccade9ddfee4ee55885ed19552b72e" sha256="8d452adc83d706799424ffb3a646545727f15a808a9a5106e61aa0d6301973ee"/>
 	</game>
 	<game name="Winter Sports 2012 - Feel the Spirit (Europe) (En,Fr,De,It)" id="0286">

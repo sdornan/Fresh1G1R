@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Retool)</name>
-		<description>Commodore - Commodore 64 (230) (-y) [-aAbBcdkmMpPuv] (20261014-214312) (Retool)</description>
-		<version>20261014-214312</version>
-		<date>2026-10-24 07-27-35</date>
+		<description>Commodore - Commodore 64 (230) (-y) [-aAbBcdkmMpPuv] (20261024-051621) (Retool)</description>
+		<version>20261024-051621</version>
+		<date>2026-10-25 07-41-51</date>
 		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -34,7 +34,7 @@
 	<game name="Aegean Voyage (USA, Europe)" id="0121">
 		<category>Games</category>
 		<description>Aegean Voyage (USA, Europe)</description>
-		<rom name="Aegean Voyage (USA, Europe).crt" size="16464" crc="47d3d8cc" md5="d91ff569d803dc734760bd60087fffa5" sha1="da413ce48d418d0febf7a4ae7d0139ad55e4af27"/>
+		<rom name="Aegean Voyage (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="47d3d8cc" md5="d91ff569d803dc734760bd60087fffa5" sha1="da413ce48d418d0febf7a4ae7d0139ad55e4af27" sha256="4649bf98ff82442d28a2aa392d27a76325c2776b9f3494a069f02899ae27c642"/>
 	</game>
 	<game name="After the War (USA, Europe)" id="0122">
 		<category>Games</category>
@@ -124,7 +124,7 @@
 	<game name="Blueprint (USA, Europe)" id="0138">
 		<category>Games</category>
 		<description>Blueprint (USA, Europe)</description>
-		<rom name="Blueprint (USA, Europe).crt" size="16464" crc="8467ca0f" md5="8478f52ee2c1562ac030d33d4a189609" sha1="176114603d153b2f0a40986f3787023488a3d4d1"/>
+		<rom name="Blueprint (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="8467ca0f" md5="8478f52ee2c1562ac030d33d4a189609" sha1="176114603d153b2f0a40986f3787023488a3d4d1" sha256="57aa9de6afb2e1749aa296293a45153c968defee509567f05269bd06980800b8"/>
 	</game>
 	<game name="Bowling (Japan) (MAX)" id="0026">
 		<category>Games</category>

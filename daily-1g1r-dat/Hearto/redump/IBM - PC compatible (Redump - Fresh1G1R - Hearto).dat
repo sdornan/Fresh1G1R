@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,530) (-y) [-aAbBcefkmMoprv] (2026-10-24 02-52-34) (Retool)</description>
-		<version>2026-10-24 02-52-34</version>
-		<date>2026-10-24 07-11-05</date>
+		<description>IBM - PC compatible (26,531) (-y) [-aAbBcefkmMoprv] (2026-10-25 03-32-34) (Retool)</description>
+		<version>2026-10-25 03-32-34</version>
+		<date>2026-10-25 07-29-22</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -86245,20 +86245,6 @@
 		<rom name="Impero delle Formiche, L' (Italy) (Rerelease).bin" size="529421088" crc="c5378ff8" md5="808b931ee687f4fb828de90c0c2a8b0c" sha1="37020cdbf738996cf776f4bb841cf184eba6ef1b"/>
 		<rom name="Impero delle Formiche, L' (Italy) (Rerelease).cue" size="111" crc="80aad454" md5="1acd61fe3fbbac6f0deeab080891aaa4" sha1="a120184e2560959ba8804a5af5cd6f97e914ce41"/>
 	</game>
-	<game name="Impossible Creatures (Brazil) (Disc 1)" id="39273">
-		<category>Games</category>
-		<description>Impossible Creatures (Brazil) (Disc 1)</description>
-		<version>1.0</version>
-		<rom name="Impossible Creatures (Brazil) (Disc 1).bin" size="544452720" crc="3990a1e5" md5="41e73ed566852802b19bda507a002820" sha1="f44a091f27022503d7c829c641e2847d4b77a119"/>
-		<rom name="Impossible Creatures (Brazil) (Disc 1).cue" size="104" crc="e7b2b4c8" md5="82b8c72d1d663ca76085c3c5b851d141" sha1="c87406077e58e20017c9af27daa39c9bc271208c"/>
-	</game>
-	<game name="Impossible Creatures (Brazil) (Disc 2)" id="39274">
-		<category>Games</category>
-		<description>Impossible Creatures (Brazil) (Disc 2)</description>
-		<version>1.0</version>
-		<rom name="Impossible Creatures (Brazil) (Disc 2).bin" size="756113904" crc="60375526" md5="86c399313b3393f980bbf030bec34911" sha1="710a3b746ecc4de969bc25d2e905abf56696cf18"/>
-		<rom name="Impossible Creatures (Brazil) (Disc 2).cue" size="104" crc="e6ef9219" md5="a388bb3b39ff34bebb5ff11908cf9c57" sha1="79f8aea5709c590aaacd78adc5112d23cc2ee0bc"/>
-	</game>
 	<game name="Impossible Creatures (Russia) (En,Ru)" id="110399">
 		<category>Games</category>
 		<description>Impossible Creatures (Russia) (En,Ru)</description>
@@ -86271,6 +86257,21 @@
 		<serial>Part No. 098-96503</serial>
 		<rom name="Impossible Creatures (USA) (Demo).bin" size="735333984" crc="9291fc2b" md5="62fadfab3a62dd44db2599f7734bfd4d" sha1="5a58eaaa7db3aba41cb9195fa9be3550a43ea63b"/>
 		<rom name="Impossible Creatures (USA) (Demo).cue" size="99" crc="829e705b" md5="ad40d8b881bc356e85f1e0a8e168ec32" sha1="a4023de611f251094651a35eceaa7cf236e1cfb2"/>
+	</game>
+	<game name="Impossible Creatures (USA) (Disc 1)" id="139696">
+		<category>Games</category>
+		<description>Impossible Creatures (USA) (Disc 1)</description>
+		<serial>1102 Part No. X09-33079</serial>
+		<rom name="Impossible Creatures (USA) (Disc 1).bin" size="544452720" crc="97165aa4" md5="f9faa24a2ae5ee8dab75d2d9895ac582" sha1="93e173757ac66880be3975bd0226ab1e57a1a164"/>
+		<rom name="Impossible Creatures (USA) (Disc 1).cue" size="101" crc="676b3eec" md5="8f6aab2a77fe2a50f355a4356b179d89" sha1="36e3c135dde1dcff340249448268b97f7033f49f"/>
+	</game>
+	<game name="Impossible Creatures (USA, Brazil) (Disc 2)" id="39274">
+		<category>Games</category>
+		<description>Impossible Creatures (USA, Brazil) (Disc 2)</description>
+		<serial>1002 Part No. X09-33080</serial>
+		<version>1.0</version>
+		<rom name="Impossible Creatures (USA, Brazil) (Disc 2).bin" size="756113904" crc="60375526" md5="86c399313b3393f980bbf030bec34911" sha1="710a3b746ecc4de969bc25d2e905abf56696cf18"/>
+		<rom name="Impossible Creatures (USA, Brazil) (Disc 2).cue" size="109" crc="7ca61ff2" md5="65d40335b5978c1fb6876e92b49dfa30" sha1="cf0cf850b5abb233e9088d97e05eed4e15ecdfbc"/>
 	</game>
 	<game name="Impossible Golf - Worldwide Fantasy Tour (USA)" id="94694">
 		<category>Games</category>
@@ -127783,6 +127784,12 @@
 		<description>Offroad Extreme! Special Edition (Europe)</description>
 		<rom name="Offroad Extreme! Special Edition (Europe).bin" size="212766624" crc="86e3448c" md5="fb2048bb0fd0f771815d9388ef27fae1" sha1="443484f07e2b692163dfc2bc8962362a0b418143"/>
 		<rom name="Offroad Extreme! Special Edition (Europe).cue" size="107" crc="e7e13a0c" md5="f619b8caf964d9382413ecf79791c6b3" sha1="e5e0c7db52529512fe4aa7d4d2441583e297f482"/>
+	</game>
+	<game name="Offroad Racers &amp; Super Motocross Africa (Poland)" id="139697">
+		<category>Games</category>
+		<description>Offroad Racers / Super Motocross Africa (Poland)</description>
+		<rom name="Offroad Racers &amp; Super Motocross Africa (Poland).bin" size="819780192" crc="ed6c8f15" md5="ecf1c1bf4e17f46910859be05e5a2f84" sha1="f92af2d0fa7287fcf172ad74090893a68a716960"/>
+		<rom name="Offroad Racers &amp; Super Motocross Africa (Poland).cue" size="114" crc="1df9bbec" md5="411e6af06d2dee8434423962e94d2b32" sha1="b7acf72dd1ffef4811d567906cec31791489b71c"/>
 	</game>
 	<game name="Oficery (Russia)" id="139238">
 		<category>Games</category>

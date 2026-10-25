@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,658) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-24 02-52-34) (Retool)</description>
-		<version>2026-10-24 02-52-34</version>
-		<date>2026-10-24 07-18-32</date>
+		<description>IBM - PC compatible (13,658) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-25 03-32-34) (Retool)</description>
+		<version>2026-10-25 03-32-34</version>
+		<date>2026-10-25 07-34-09</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -46485,25 +46485,26 @@
 		<version>1.04.147</version>
 		<rom name="Imperium Romanum (Germany) (En,Fr,De).iso" size="2046689280" crc="58271670" md5="40cd8b4b02c315312a8e18f001a33340" sha1="949d2bca8d32b183d8e1ca9fc903f329521b7414"/>
 	</game>
-	<game name="Impossible Creatures (Brazil) (Disc 1)" id="39273">
-		<category>Games</category>
-		<description>Impossible Creatures (Brazil) (Disc 1)</description>
-		<version>1.0</version>
-		<rom name="Impossible Creatures (Brazil) (Disc 1).bin" size="544452720" crc="3990a1e5" md5="41e73ed566852802b19bda507a002820" sha1="f44a091f27022503d7c829c641e2847d4b77a119"/>
-		<rom name="Impossible Creatures (Brazil) (Disc 1).cue" size="104" crc="e7b2b4c8" md5="82b8c72d1d663ca76085c3c5b851d141" sha1="c87406077e58e20017c9af27daa39c9bc271208c"/>
-	</game>
-	<game name="Impossible Creatures (Brazil) (Disc 2)" id="39274">
-		<category>Games</category>
-		<description>Impossible Creatures (Brazil) (Disc 2)</description>
-		<version>1.0</version>
-		<rom name="Impossible Creatures (Brazil) (Disc 2).bin" size="756113904" crc="60375526" md5="86c399313b3393f980bbf030bec34911" sha1="710a3b746ecc4de969bc25d2e905abf56696cf18"/>
-		<rom name="Impossible Creatures (Brazil) (Disc 2).cue" size="104" crc="e6ef9219" md5="a388bb3b39ff34bebb5ff11908cf9c57" sha1="79f8aea5709c590aaacd78adc5112d23cc2ee0bc"/>
-	</game>
 	<game name="Impossible Creatures (Russia) (En,Ru)" id="110399">
 		<category>Games</category>
 		<description>Impossible Creatures (Russia) (En,Ru)</description>
 		<version>1.0 1855</version>
 		<rom name="Impossible Creatures (Russia) (En,Ru).iso" size="2158493696" crc="b16cf8a2" md5="00717238fa233ca4c28f6e090d1c382c" sha1="e920557f58ec3bdefbc5a19ecd74003e0a1ace37"/>
+	</game>
+	<game name="Impossible Creatures (USA) (Disc 1)" id="139696">
+		<category>Games</category>
+		<description>Impossible Creatures (USA) (Disc 1)</description>
+		<serial>1102 Part No. X09-33079</serial>
+		<rom name="Impossible Creatures (USA) (Disc 1).bin" size="544452720" crc="97165aa4" md5="f9faa24a2ae5ee8dab75d2d9895ac582" sha1="93e173757ac66880be3975bd0226ab1e57a1a164"/>
+		<rom name="Impossible Creatures (USA) (Disc 1).cue" size="101" crc="676b3eec" md5="8f6aab2a77fe2a50f355a4356b179d89" sha1="36e3c135dde1dcff340249448268b97f7033f49f"/>
+	</game>
+	<game name="Impossible Creatures (USA, Brazil) (Disc 2)" id="39274">
+		<category>Games</category>
+		<description>Impossible Creatures (USA, Brazil) (Disc 2)</description>
+		<serial>1002 Part No. X09-33080</serial>
+		<version>1.0</version>
+		<rom name="Impossible Creatures (USA, Brazil) (Disc 2).bin" size="756113904" crc="60375526" md5="86c399313b3393f980bbf030bec34911" sha1="710a3b746ecc4de969bc25d2e905abf56696cf18"/>
+		<rom name="Impossible Creatures (USA, Brazil) (Disc 2).cue" size="109" crc="7ca61ff2" md5="65d40335b5978c1fb6876e92b49dfa30" sha1="cf0cf850b5abb233e9088d97e05eed4e15ecdfbc"/>
 	</game>
 	<game name="Impossible Golf - Worldwide Fantasy Tour (USA)" id="94694">
 		<category>Games</category>

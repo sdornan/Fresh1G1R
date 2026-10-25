@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox (Retool)</name>
-		<description>Microsoft - Xbox (1,147) (-y) [-aAbBcefkmMoprv] (2026-10-23 10-19-04) (Retool)</description>
-		<version>2026-10-23 10-19-04</version>
-		<date>2026-10-24 07-11-15</date>
+		<description>Microsoft - Xbox (1,148) (-y) [-aAbBcefkmMoprv] (2026-10-25 04-42-34) (Retool)</description>
+		<version>2026-10-25 04-42-34</version>
+		<date>2026-10-25 07-29-28</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -6776,6 +6776,12 @@
 		<description>Xbox the Best of Demo Disk Version 10.0 (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
 		<serial>XK-010</serial>
 		<rom name="Xbox the Best of Demo Disk Version 10.0 (Europe) (En,Fr,De,Es,It,Nl,Sv).iso" size="7825162240" crc="e72b2c85" md5="00732467bf710dd50da70fc7eb7758d8" sha1="1c1520ae2b9bfe826c439cad74f6973cca0718b0"/>
+	</game>
+	<game name="Xbox-ism - Autumn 2002 (Japan)" id="139698">
+		<category>Demos</category>
+		<description>Xbox-ism: Autumn 2002 (Japan)</description>
+		<serial>XD-009</serial>
+		<rom name="Xbox-ism - Autumn 2002 (Japan).iso" size="7825162240" crc="c2e8a1b2" md5="170146f818c4144b3ebf381991ce8583" sha1="6dde43a2aa07bbdc9be636ff7c0ed88fc3413412"/>
 	</game>
 	<game name="Xbox-ism - February 2003 (Japan)" id="117548">
 		<category>Demos</category>

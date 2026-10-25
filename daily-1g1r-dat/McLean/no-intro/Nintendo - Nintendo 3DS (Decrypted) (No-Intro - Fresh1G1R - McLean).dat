@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (542) (-ly) [-aAbBcdDefkmMopPruv] (20261023-163152) (Retool)</description>
-		<version>20261023-163152</version>
-		<date>2026-10-24 07-23-04</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (542) (-ly) [-aAbBcdDefkmMopPruv] (20261024-200741) (Retool)</description>
+		<version>20261024-200741</version>
+		<date>2026-10-25 07-36-13</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -332,6 +332,7 @@
 	<game name="Blazblue - Continuum Shift II (USA) (En,Ja,Zh,Ko) (Rev 1)" id="z088">
 		<category>Games</category>
 		<description>Blazblue - Continuum Shift II (USA) (En,Ja,Zh,Ko) (Rev 1)</description>
+		<game_id>000400000004AC00</game_id>
 		<rom name="Blazblue - Continuum Shift II (USA) (En,Ja,Zh,Ko) (Rev 1).3ds" size="2147483648" crc="35376085" md5="9a56c431681d0fc5f2ad8413715778ea" sha1="6a828d03ad887eeb60cbf23d79ecfa3f0f01a3a2" sha256="3e986efebdcdd879c14f5f6e3b7eb15584ba672f523224809bc8af749c0553bb"/>
 	</game>
 	<game name="Boulder Dash-XL 3D (USA)" id="0415">
@@ -1176,7 +1177,7 @@
 		<category>Games</category>
 		<description>Horses 3D (USA) (En,Fr,Es)</description>
 		<game_id>000400000004C200</game_id>
-		<rom name="Horses 3D (USA) (En,Fr,Es).3ds" size="268435456" crc="3c28ebb5" md5="0f8fb9a91e639f08155ba08e03fc388b" sha1="4eeed22ba1cab2afc8e4b09109ae97416300a547"/>
+		<rom name="Horses 3D (USA) (En,Fr,Es).3ds" size="268435456" crc="3c28ebb5" md5="0f8fb9a91e639f08155ba08e03fc388b" sha1="4eeed22ba1cab2afc8e4b09109ae97416300a547" sha256="f8bc09c3543977ce18a7a04d0d523ca08d17a0ca8f32a161a0f50bf32890f650"/>
 	</game>
 	<game name="Hot Wheels - World's Best Driver (USA) (En,Fr,Es)" id="0449">
 		<category>Games</category>
@@ -1421,6 +1422,7 @@
 	<game name="Kirby Battle Royale (USA) (En,Ja,Fr,De,Es,It,Nl,Ko) (Rev 2)" id="z087">
 		<category>Games</category>
 		<description>Kirby Battle Royale (USA) (En,Ja,Fr,De,Es,It,Nl,Ko) (Rev 2)</description>
+		<game_id>00040000001C2000</game_id>
 		<rom name="Kirby Battle Royale (USA) (En,Ja,Fr,De,Es,It,Nl,Ko) (Rev 2).3ds" size="536870912" crc="a04f16da" md5="c8bce273e58edb79eb961c3e0b9db0ce" sha1="06ee8a0594c7a76e9bebde3459a9b94261e31e6d" sha256="0712303bd9df3c88ad0d880633d33c725deec0a436d4b405610502940dd39ac8"/>
 	</game>
 	<game name="Kirby's Extra Epic Yarn (USA) (En,Fr,Es)" id="1858">
@@ -1709,6 +1711,7 @@
 	<game name="Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1)" id="z089">
 		<category>Games</category>
 		<description>Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1)</description>
+		<game_id>0004000000054800</game_id>
 		<rom name="Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="71ce15c3" md5="dedad847bf6b79cc710ea07dfe2ec696" sha1="7dce286c7394495d5dd447112c84e51b877c20b9"/>
 	</game>
 	<game name="Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (En,Fr,Es)" id="1468">
@@ -2248,6 +2251,7 @@
 	<game name="Pilotwings Resort (USA) (En,Fr,Es) (Rev 1)" id="z034">
 		<category>Games</category>
 		<description>Pilotwings Resort (USA) (En,Fr,Es) (Rev 1)</description>
+		<game_id>0004000000031C00</game_id>
 		<rom name="Pilotwings Resort (USA) (En,Fr,Es) (Rev 1).3ds" size="134217728" crc="9fad1d06" md5="cf34797c3142163f117b8410f4887d5f" sha1="15c62fd4a1688f916572b233ca9ed21283de3bea" sha256="02173fc835063f3a83e68b0aa2c32fa2955d5c49e4d43ae69585c1128f715a35"/>
 	</game>
 	<game name="Pinball Hall of Fame - The Williams' Collection (USA)" id="0139">
@@ -3129,6 +3133,7 @@
 	<game name="WarioWare Gold (USA) (Rev 1)" id="z084">
 		<category>Games</category>
 		<description>WarioWare Gold (USA) (Rev 1)</description>
+		<game_id>00040000001D1C00</game_id>
 		<rom name="WarioWare Gold (USA) (Rev 1).3ds" size="2147483648" crc="9eca8de4" md5="e6ee5b0bfb73179fc9628dc6d49fb1dd" sha1="6ba9d94ac9798ebfa9788566d8153b7f4022938d" sha256="03fc72045e50c196576f8b554247fd2090830e99babd3e52b71f8d8e9f45c41d"/>
 	</game>
 	<game name="Winter Sports 2012 - Feel the Spirit (Europe) (En,Fr,De,It)" id="0286">

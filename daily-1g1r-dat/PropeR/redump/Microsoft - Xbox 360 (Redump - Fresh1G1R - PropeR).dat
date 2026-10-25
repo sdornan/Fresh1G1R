@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,573) (-y) [-aAbBcdkmMpPuv] (2026-10-23 17-36-22) (Retool)</description>
-		<version>2026-10-23 17-36-22</version>
-		<date>2026-10-24 07-25-44</date>
+		<description>Microsoft - Xbox 360 (1,573) (-y) [-aAbBcdkmMpPuv] (2026-10-24 16-32-34) (Retool)</description>
+		<version>2026-10-24 16-32-34</version>
+		<date>2026-10-25 07-38-49</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3121,18 +3121,18 @@
 		<serial>MS-2174</serial>
 		<rom name="Fable II (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu,Sk) (Bonus DVD).iso" size="7835492352" crc="14c352cd" md5="32f5018e80b63ec1fbffa91d256ab622" sha1="cf50e6b1def29ea7b072c63efeaad298cfede875"/>
 	</game>
-	<game name="Fable II (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu,Sk) (Bonus Disc)" id="76971">
-		<category>Bonus Discs</category>
-		<description>Fable II (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu,Sk) (Bonus Disc)</description>
-		<serial>MS-2174</serial>
-		<rom name="Fable II (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu,Sk) (Bonus Disc).iso" size="7835492352" crc="0a0675d3" md5="0d5d2a33c77a37583a5112a5211496c8" sha1="0aa09b7ffa2c41f546fe9750150968c35c78451a"/>
-	</game>
 	<game name="Fable II (USA, Europe) (En,Zh,Ko,Pl,Cs,Hu,Sk) (Rev 2)" id="20202">
 		<category>Games</category>
 		<description>Fable II (USA, Europe) (En,Zh,Ko,Pl,Cs,Hu,Sk) (Rev 2)</description>
 		<serial>MS-2033</serial>
 		<version>Rev 2</version>
 		<rom name="Fable II (USA, Europe) (En,Zh,Ko,Pl,Cs,Hu,Sk) (Rev 2).iso" size="7838695424" crc="8a52c9e7" md5="c22b76b8d6ffd6f7b43f1d0f043a37bf" sha1="f9a2954a1825b9f456196e2950a30fdcf23b709e"/>
+	</game>
+	<game name="Fable II - Bonus Disc (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu,Sk)" id="76971">
+		<category>Bonus Discs</category>
+		<description>Fable II: Bonus Disc (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu,Sk)</description>
+		<serial>MS-2174</serial>
+		<rom name="Fable II - Bonus Disc (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu,Sk).iso" size="7835492352" crc="0a0675d3" md5="0d5d2a33c77a37583a5112a5211496c8" sha1="0aa09b7ffa2c41f546fe9750150968c35c78451a"/>
 	</game>
 	<game name="Fable III (World) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk)" id="16634">
 		<category>Games</category>
