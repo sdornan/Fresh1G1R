@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (696) (-y) [-aAbBcdkmMpPuv] (2026-10-23 10-16-51) (Retool)</description>
-		<version>2026-10-23 10-16-51</version>
-		<date>2026-10-25 07-37-58</date>
+		<description>Apple - Macintosh (703) (-y) [-aAbBcdkmMpPuv] (2026-10-25 18-42-34) (Retool)</description>
+		<version>2026-10-25 18-42-34</version>
+		<date>2026-10-26 07-55-54</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3657,6 +3657,12 @@
 		<rom name="P.A.W.S - Personal Automated Wagging System (Japan).bin" size="235907952" crc="77d48354" md5="511de15a3d30a32cf011b98c66bf2576" sha1="329a8ede82e051a7d6fa4d9e13ee238696c9ca75"/>
 		<rom name="P.A.W.S - Personal Automated Wagging System (Japan).cue" size="117" crc="2528ada9" md5="44357e0fe640b1bfc8f41c2d79f8fddd" sha1="32df99a76a52f95ed6396bf71460cee400390e57"/>
 	</game>
+	<game name="Pangea Super Pack, The (USA)" id="139731">
+		<category>Games</category>
+		<description>Pangea Super Pack, The (USA)</description>
+		<rom name="Pangea Super Pack, The (USA).bin" size="771060864" crc="7c240b5f" md5="e695ece783f85721db6a4eedebe593f4" sha1="de789846c28495fc2ec6d66957054caaa29fed5e"/>
+		<rom name="Pangea Super Pack, The (USA).cue" size="94" crc="2d47382d" md5="a0c3caa07d78f30810d0c93d57860a8a" sha1="cf72a9fb7d2b187b9ef30c38a49dbe535a149aad"/>
+	</game>
 	<game name="Paparazzi! Tales of Tinseltown (USA) (Disc 1)" id="126338">
 		<category>Games</category>
 		<description>Paparazzi! Tales of Tinseltown (USA) (Disc 1)</description>
@@ -4777,6 +4783,14 @@
 		<rom name="Space Bar, The (USA) (Mac Disc 3).bin" size="771498336" crc="bc9f3179" md5="71a3e64412104d217699d12b76e5d62b" sha1="f7273f652e1c738fce0408dff0f927687b051dbb"/>
 		<rom name="Space Bar, The (USA) (Mac Disc 3).cue" size="99" crc="9a21d3a9" md5="e1f3cbde0e0f8095825ed9bc2bfafc11" sha1="372286498ba076c334e8d97237481067233fb2bd"/>
 	</game>
+	<game name="Space Colony (USA)" id="139732">
+		<category>Games</category>
+		<description>Space Colony (USA)</description>
+		<serial>10630-1CDA</serial>
+		<version>v1.1</version>
+		<rom name="Space Colony (USA).bin" size="831272064" crc="5c4a5fd5" md5="d90ef15e8773d626c3931aeba03b4ede" sha1="24a0e7ad1534ee5e4f8e604a682acb6ca5d4156a"/>
+		<rom name="Space Colony (USA).cue" size="84" crc="eb3b2acd" md5="a61052527e9e52f0a0ead79ab1aec078" sha1="d753cea2a0c61273205aeb74cee9f6624b9c95e6"/>
+	</game>
 	<game name="Space Quest 6 - Roger Wilco in the Spinal Frontier (France)" id="61627">
 		<category>Games</category>
 		<description>Space Quest 6: Roger Wilco in the Spinal Frontier (France)</description>
@@ -5311,6 +5325,20 @@
 		<rom name="Tony Hawk's Pro Skater 4 (USA) (Play Disc) (OEM).bin" size="775955376" crc="8fc4ba11" md5="4cb6fe2b164cf2042ad74f1dfe585dcd" sha1="36196be82f47e9816d74fa6d4bcf195f7c9fc699"/>
 		<rom name="Tony Hawk's Pro Skater 4 (USA) (Play Disc) (OEM).cue" size="114" crc="c124aca3" md5="46580a78469448886dcbc1680c8d27da" sha1="9f1fe8cdfd97b4b7c112b2c6f5f7ea86e4eb94b2"/>
 	</game>
+	<game name="Top Gun - Fire at Will (USA) (Disc 1)" id="139733">
+		<category>Games</category>
+		<description>Top Gun: Fire at Will (USA) (Disc 1)</description>
+		<serial>P/N 7325</serial>
+		<rom name="Top Gun - Fire at Will (USA) (Disc 1).bin" size="701890896" crc="5d3c7a1e" md5="396e014b507060c7cdf387e3f8ab4044" sha1="b8d8272e6f3aa87f7a339934f1abefd850b76185"/>
+		<rom name="Top Gun - Fire at Will (USA) (Disc 1).cue" size="103" crc="a069d064" md5="006de662eaad93404ff12f4f42cd9377" sha1="7bde517d117a9e1b6faf72427d1eb566544964fb"/>
+	</game>
+	<game name="Top Gun - Fire at Will (USA) (Disc 2)" id="139734">
+		<category>Games</category>
+		<description>Top Gun: Fire at Will (USA) (Disc 2)</description>
+		<serial>P/N 7331</serial>
+		<rom name="Top Gun - Fire at Will (USA) (Disc 2).bin" size="629860896" crc="afab6bfd" md5="317b51102f3eb702956ab955cff637b3" sha1="4c4208d17c7d9d7d0d969f7d1ef9d8f869fea4a3"/>
+		<rom name="Top Gun - Fire at Will (USA) (Disc 2).cue" size="103" crc="a134f6b5" md5="3f874cf33e89993a814e383242d7c1eb" sha1="8e1f90304f63f612e69c5e0e8fde876a796551fd"/>
+	</game>
 	<game name="Total Annihilation (USA) (Disc 1) (Install Disc)" id="67363">
 		<category>Games</category>
 		<description>Total Annihilation (USA) (Disc 1) (Install Disc)</description>
@@ -5375,6 +5403,13 @@
 		<rom name="Total Distortion (Japan).bin" size="735745584" crc="3f6e9858" md5="a37e081b80b76a44942953b01460d537" sha1="9554fd116a67eef602e232388a4779b8e84b6b85"/>
 		<rom name="Total Distortion (Japan).cue" size="113" crc="d825708b" md5="ca48ea7eff93de4d4264072581764c95" sha1="6960c9d76ab6425adcfc263b29145d7fe18c41c5"/>
 	</game>
+	<game name="Total Immersion Racing (Europe)" id="139735">
+		<category>Games</category>
+		<description>Total Immersion Racing (Europe)</description>
+		<version>1.0</version>
+		<rom name="Total Immersion Racing (Europe).bin" size="788886672" crc="d892cba5" md5="1ed935b9296bf4eb6ffe71be886a0d39" sha1="37bb94874573df940810e05925982e880521efc9"/>
+		<rom name="Total Immersion Racing (Europe).cue" size="97" crc="26b47019" md5="2fb88ac0e5630f6e4ac627d193a47a43" sha1="99bf731f0a7225f0340a49bcc1a1199de8cceea9"/>
+	</game>
 	<game name="Total War! (USA)" id="120414">
 		<category>Games</category>
 		<description>Total War! (USA)</description>
@@ -5421,11 +5456,29 @@
 		<rom name="Tron 2.0 (USA) (Disc 2).bin" size="419077008" crc="5075e8b1" md5="aaa576783e98719eac01dcf132334c4c" sha1="cae044627f90bbb39f35f1a9a657ae0296e6bd92"/>
 		<rom name="Tron 2.0 (USA) (Disc 2).cue" size="89" crc="35f2123c" md5="4c7f8baed713f5d37691b93dbf4df864" sha1="f6c0509b522d3b4b916463723e6a7408d5b6705c"/>
 	</game>
-	<game name="Tropico (Europe)" id="135718">
+	<game name="Tropico (USA)" id="139736">
 		<category>Games</category>
-		<description>Tropico (Europe)</description>
-		<rom name="Tropico (Europe).bin" size="837688320" crc="061d9a04" md5="623180f8798865d7f951ab761af5c620" sha1="127a0066c10f49ee6ac2318dc6ffa8788d16068e"/>
-		<rom name="Tropico (Europe).cue" size="82" crc="af19dca3" md5="4a72b837e54625410ec342de1a287559" sha1="bc95b6654490608daa4619caeb6225d42aa38349"/>
+		<description>Tropico (USA)</description>
+		<serial>04-22854CDA</serial>
+		<version>1.03</version>
+		<rom name="Tropico (USA).bin" size="737149728" crc="77709b19" md5="8eaf3a39faee3fbe27bab99fb9a75dc2" sha1="e390375193f8cafec7c8d4d5f10166032b6bcbb3"/>
+		<rom name="Tropico (USA).cue" size="79" crc="edac142e" md5="5887afa435ea415b4a62152350cd413a" sha1="f640332df7da5f891a66fc7ab6fb95480190204e"/>
+	</game>
+	<game name="Tropico - Mucho Macho Edition (USA) (Disc 1) (Install)" id="139737">
+		<category>Games</category>
+		<description>Tropico: Mucho Macho Edition (USA) (Disc 1) (Install)</description>
+		<serial>10302-5</serial>
+		<version>1.53</version>
+		<rom name="Tropico - Mucho Macho Edition (USA) (Disc 1) (Install).bin" size="780614688" crc="e5685bd8" md5="beb826d2e9691349393e92dbfc0676be" sha1="a0441ae56520d7841a8adca104e86b856c102583"/>
+		<rom name="Tropico - Mucho Macho Edition (USA) (Disc 1) (Install).cue" size="120" crc="39f62ee3" md5="e90a06638833fdb06f6da987e3d7acf0" sha1="3038c9a2309942fc8d42f0fb1c1db6275be95d27"/>
+	</game>
+	<game name="Tropico - Mucho Macho Edition (USA) (Disc 2) (Play)" id="139738">
+		<category>Games</category>
+		<description>Tropico: Mucho Macho Edition (USA) (Disc 2) (Play)</description>
+		<serial>10302-6</serial>
+		<version>1.53</version>
+		<rom name="Tropico - Mucho Macho Edition (USA) (Disc 2) (Play).bin" size="778093344" crc="f1392785" md5="081b2a93220d126856761005a0d500fe" sha1="9f90e839f6b60ce918c7a464db974701f1941ba2"/>
+		<rom name="Tropico - Mucho Macho Edition (USA) (Disc 2) (Play).cue" size="117" crc="e3985834" md5="ec4d02c2cd39c728907ebee82f9e5117" sha1="e90a9ea72abc9bfde5bf59146fdf5944655d8ce1"/>
 	</game>
 	<game name="Tropico 2 - Pirate Cove (USA) (Disc 1) (Install-Play)" id="89808">
 		<category>Games</category>

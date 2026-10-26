@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (271) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-24 20-22-34) (Retool)</description>
-		<version>2026-10-24 20-22-34</version>
-		<date>2026-10-25 07-33-37</date>
+		<description>DVD-Video (272) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-25 17-12-34) (Retool)</description>
+		<version>2026-10-25 17-12-34</version>
+		<date>2026-10-26 07-48-24</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -981,6 +981,12 @@
 		<category>Games</category>
 		<description>Scene It? (USA)</description>
 		<rom name="Scene It (USA).iso" size="8410136576" crc="b571b60e" md5="639ec207042f8c298f5affb7e3a77865" sha1="1683db4e4d62c88873d26acdd1297de82a7adeff"/>
+	</game>
+	<game name="Scene It 007 Edition (USA)" id="139703">
+		<category>Games</category>
+		<description>Scene It? 007 Edition (USA)</description>
+		<serial>H7255-9019</serial>
+		<rom name="Scene It 007 Edition (USA).iso" size="7939028992" crc="056aace2" md5="5f017770b9366e2b3f7f7d7bdf0ca6a5" sha1="f06d37207296e54f01c97e82cf36a15269afb798"/>
 	</game>
 	<game name="Scene It 80s (USA)" id="136581">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (542) (-ly) [-aAbBcdDefkmMopPruv] (20261024-200741) (Retool)</description>
-		<version>20261024-200741</version>
-		<date>2026-10-25 07-35-05</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (542) (-ly) [-aAbBcdDefkmMopPruv] (20261025-031325) (Retool)</description>
+		<version>20261025-031325</version>
+		<date>2026-10-26 07-53-01</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1010,11 +1010,13 @@
 	<game name="Go! Go! Kokopolo - Harmonious Forest Revenge (USA)" id="z085">
 		<category>Games</category>
 		<description>Go! Go! Kokopolo - Harmonious Forest Revenge (USA)</description>
+		<game_id>00040000001E2A00</game_id>
 		<rom name="Go! Go! Kokopolo - Harmonious Forest Revenge (USA).3ds" size="268435456" crc="95505f84" md5="f17e43625cd8f1252ecc8a179f2aef1c" sha1="43bfe07c4e9aed4cd153812f9b7e5bef71b09dd9" sha256="6750e9bcf9dc9fd5ecc83c2b925ddfc2a97a988d4246da625861e536bde73568"/>
 	</game>
 	<game name="Go! Go! Kokopolo 3D - Space Recipe For Disaster (USA)" id="z086">
 		<category>Games</category>
 		<description>Go! Go! Kokopolo 3D - Space Recipe For Disaster (USA)</description>
+		<game_id>00040000001E2500</game_id>
 		<rom name="Go! Go! Kokopolo 3D - Space Recipe For Disaster (USA).3ds" size="536870912" crc="9230980c" md5="f6003bf913d87f545485dcced2bd9260" sha1="0bf71f62c6e73aae7f4577c2d0293afa003f66d4" sha256="5b2eaa1a5677c9f03009b947ea2e14dad2bf58f54010880349a81968272db56e"/>
 	</game>
 	<game name="Goosebumps - The Game (USA)" id="1359">

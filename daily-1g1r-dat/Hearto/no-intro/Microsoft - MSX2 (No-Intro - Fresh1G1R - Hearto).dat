@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Microsoft - MSX2 (Retool)</name>
-		<description>Microsoft - MSX2 (151) (-y) [-aAbBcefkmMoprv] (20260124-112728) (Retool)</description>
-		<version>20260124-112728</version>
-		<date>2026-10-25 07-32-52</date>
-		<author>C. V. Reynolds, Gefflon, gigadeath, MeguCocoa, number, Powerpuff, rarenight, SonGoku</author>
+		<description>Microsoft - MSX2 (151) (-y) [-aAbBcefkmMoprv] (20261025-205303) (Retool)</description>
+		<version>20261025-205303</version>
+		<date>2026-10-26 07-42-34</date>
+		<author>1988reload, C. V. Reynolds, Gefflon, gigadeath, MeguCocoa, number, Powerpuff, rarenight, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -506,10 +506,10 @@
 		<description>Predator (Japan)</description>
 		<rom name="Predator (Japan).rom" size="131072" crc="e85a4a6b" md5="3a3bef37cb175a665e7abbbc80b32e92" sha1="ae6ad52d5ebcad7722ea070109a286fe13b06cb7"/>
 	</game>
-	<game name="Pro Yakyuu Family Stadium - Pennant Race (Japan)" id="0134">
+	<game name="Pro Yakyuu Family Stadium (Japan)" id="0134">
 		<category>Games</category>
-		<description>Pro Yakyuu Family Stadium - Pennant Race (Japan)</description>
-		<rom name="Pro Yakyuu Family Stadium - Pennant Race (Japan).rom" size="262144" crc="356b7d2a" md5="206945b66a897271269cdcf12070993b" sha1="970e26f3c2c085e39267115991add6ccc6e9ff80"/>
+		<description>Pro Yakyuu Family Stadium (Japan)</description>
+		<rom name="Pro Yakyuu Family Stadium (Japan).rom" size="262144" crc="356b7d2a" md5="206945b66a897271269cdcf12070993b" sha1="970e26f3c2c085e39267115991add6ccc6e9ff80"/>
 	</game>
 	<game name="Pro Yakyuu Fan - Telenet Stadium (Japan)" id="0135">
 		<category>Games</category>

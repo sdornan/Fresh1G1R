@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,658) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-25 03-32-34) (Retool)</description>
-		<version>2026-10-25 03-32-34</version>
-		<date>2026-10-25 07-34-09</date>
+		<description>IBM - PC compatible (13,671) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-26 00-42-51) (Retool)</description>
+		<version>2026-10-26 00-42-51</version>
+		<date>2026-10-26 07-49-18</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -538,6 +538,13 @@
 		<rom name="1nsane (USA) (En,Fr,Es).bin" size="637850640" crc="3457a5b0" md5="d53b833c407f184cb2e3987842d98e67" sha1="ac3400772b6f0ef605625160df3afaaeb7a7fbba"/>
 		<rom name="1nsane (USA) (En,Fr,Es).cue" size="127" crc="b5e2106f" md5="08fd675ea385556d1c6b724d53174514" sha1="6f77144330d270215a3bdd729338aea44dde685f"/>
 	</game>
+	<game name="1st Century After Tsunami 2265 (USA)" id="139739">
+		<category>Games</category>
+		<description>1st Century After Tsunami 2265 (USA)</description>
+		<version>Ver 1.1 - DLL 1.2</version>
+		<rom name="1st Century After Tsunami 2265 (USA).bin" size="740543664" crc="c0b55a85" md5="7c7b898e8e63d8430ba8b6c243fc3c31" sha1="cd1c5542fd167b58c4a5a2fda9e2acefa00a8852"/>
+		<rom name="1st Century After Tsunami 2265 (USA).cue" size="102" crc="645905f5" md5="986bf95aa872ec90d43e142038be93f8" sha1="97953689b708970849cad4a6b8d0d167b392b269"/>
+	</game>
 	<game name="2 for You Game Pack - Emoticon Swirl &amp; SlingDottery (USA)" id="40742">
 		<category>Games</category>
 		<description>2 for You Game Pack: Emoticon Swirl &amp; SlingDottery (USA)</description>
@@ -717,6 +724,13 @@
 		<category>Games</category>
 		<description>3-D Hunting 2010 (Europe)</description>
 		<rom name="3-D Hunting 2010 (Europe).iso" size="585695232" crc="758d8745" md5="671be8f61859481b9c6fbff0bbb4a345" sha1="659e91775b060dab8a24866679ad8decad3f2412"/>
+	</game>
+	<game name="3-D TableSports (Canada)" id="139740">
+		<category>Games</category>
+		<description>3-D TableSports (Canada)</description>
+		<version>1.00</version>
+		<rom name="3-D TableSports (Canada).bin" size="34075776" crc="abf714af" md5="196417e93a2fb371456387cb2ca283df" sha1="32ffb8f164ff4d2b5e13cfc4cc0ca0c5bc42242b"/>
+		<rom name="3-D TableSports (Canada).cue" size="113" crc="be638d82" md5="d8b1bfa354ee6419995fe2814855e868" sha1="59563656d5cc939d208a8fc004d69a62b6facef5"/>
 	</game>
 	<game name="3-D Ultra Cool Pool (USA)" id="16549">
 		<category>Games</category>
@@ -18554,7 +18568,7 @@
 	<game name="Command &amp; Conquer - Red Alert 2 (USA, Europe) (Allied Disc)" id="22275">
 		<category>Games</category>
 		<description>Command &amp; Conquer: Red Alert 2 (USA, Europe) (Allied Disc)</description>
-		<serial>1417907, WWE08903208D1</serial>
+		<serial>1417907, WWE08903208D1, 1446401</serial>
 		<version>1.08</version>
 		<rom name="Command &amp; Conquer - Red Alert 2 (USA, Europe) (Allied Disc).bin" size="793734144" crc="253671a7" md5="81428adf57182842955126f6fc09b4c4" sha1="de45484501e23644bff166d47919aeb88fc5a121"/>
 		<rom name="Command &amp; Conquer - Red Alert 2 (USA, Europe) (Allied Disc).cue" size="125" crc="6cdefb0d" md5="0462f144fcba180340d27a2f0a5bbb97" sha1="ff676da04e3b05704d41c475226610a4d3e27ebe"/>
@@ -18562,7 +18576,7 @@
 	<game name="Command &amp; Conquer - Red Alert 2 (USA, Europe) (Soviet Disc)" id="22276">
 		<category>Games</category>
 		<description>Command &amp; Conquer: Red Alert 2 (USA, Europe) (Soviet Disc)</description>
-		<serial>1417917, WWE08903208D2</serial>
+		<serial>1417917, WWE08903208D2, 1446401</serial>
 		<version>1.08</version>
 		<rom name="Command &amp; Conquer - Red Alert 2 (USA, Europe) (Soviet Disc).bin" size="731761296" crc="3404bfd6" md5="c1d0196fb13bdb509bdf0ed7b0878451" sha1="b4d504491f085917d612f37dea0724938cf5263a"/>
 		<rom name="Command &amp; Conquer - Red Alert 2 (USA, Europe) (Soviet Disc).cue" size="125" crc="85e06524" md5="6462fda75f3d409198eb0241903d15bf" sha1="e270341ec62929f6675665e5ff9a05b7a1033fab"/>
@@ -18616,7 +18630,7 @@
 	<game name="Command &amp; Conquer - Renegade (USA) (Disc 1) (Game Disc)" id="10491">
 		<category>Games</category>
 		<description>Command &amp; Conquer: Renegade (USA) (Disc 1) (Game Disc)</description>
-		<serial>1418007</serial>
+		<serial>1418007, 1418001</serial>
 		<rom name="Command &amp; Conquer - Renegade (USA) (Disc 1) (Game Disc).bin" size="756165648" crc="7a3011c7" md5="e936a61edae954c7d447ece27eb9a843" sha1="57f7388c941c78131de20a233b31020b560cd2cb"/>
 		<rom name="Command &amp; Conquer - Renegade (USA) (Disc 1) (Game Disc).cue" size="121" crc="bd284075" md5="5398c9ba109edc960b97850e1b2661f1" sha1="d62d6f25eed2518a6672b8383b218415d0707a3e"/>
 	</game>
@@ -22897,13 +22911,13 @@
 		<rom name="Deal or No Deal (USA).bin" size="778406160" crc="d2c6c1d1" md5="0f3cce503e440a4bf749bcf8ab93799d" sha1="a5b583a2e62988e2b4f172f3e66f71eb92d3ba30"/>
 		<rom name="Deal or No Deal (USA).cue" size="87" crc="507738ab" md5="5b18b51fd3f4e1967d66209b601b599a" sha1="8fc2aceccedff28d5804b1be86243f335d77887c"/>
 	</game>
-	<game name="Deal or No Deal - Secret Vault Games (USA)" id="101670">
+	<game name="Deal or No Deal - Secret Vault Games (USA, Canada)" id="101670">
 		<category>Games</category>
-		<description>Deal or No Deal: Secret Vault Games (USA)</description>
+		<description>Deal or No Deal: Secret Vault Games (USA, Canada)</description>
 		<serial>#31185-1</serial>
 		<version>1.0</version>
-		<rom name="Deal or No Deal - Secret Vault Games (USA).bin" size="505063776" crc="cf81bfcf" md5="8ddc48f8286e1d4a34a8735ff899927d" sha1="0517a28ece9c3660b131aaa2dd47dfe625ef07f8"/>
-		<rom name="Deal or No Deal - Secret Vault Games (USA).cue" size="108" crc="84e97217" md5="b9e15c7a177f767c4e3faa8cf41da3dd" sha1="63ced8b8c7aecc44f6ddaccd136989940701d7ed"/>
+		<rom name="Deal or No Deal - Secret Vault Games (USA, Canada).bin" size="505063776" crc="cf81bfcf" md5="8ddc48f8286e1d4a34a8735ff899927d" sha1="0517a28ece9c3660b131aaa2dd47dfe625ef07f8"/>
+		<rom name="Deal or No Deal - Secret Vault Games (USA, Canada).cue" size="116" crc="c8f25cf8" md5="60c241983c9317c54cf53d51fb2c372b" sha1="e47a5e7eed30e5ed07aa624579fa94178de5f67f"/>
 	</game>
 	<game name="Deal or No Deal - The Official PC Game (UK)" id="130612">
 		<category>Games</category>
@@ -30499,7 +30513,7 @@
 		<category>Games</category>
 		<description>Eraser Turnabout (USA) (Disc 2)</description>
 		<rom name="Eraser Turnabout (USA) (Disc 2).bin" size="745835664" crc="994c6be2" md5="e752351b3c56cc4205298528cbca20d4" sha1="3b6e41a7b35c878486a5aa756b4aec5f39280da7"/>
-		<rom name="Eraser Turnabout (USA) (Disc 2).cue" size="97" crc="2550a553" md5="99ba8383552a7f4ac37c4e177dcc2198" sha1="335ee3e15375a99cb7af9dfe4ec55fed04db0ed6"/>
+		<rom name="Eraser Turnabout (USA) (Disc 2).cue" size="120" crc="425f1d49" md5="f6c823355731f67fd063fc5a794a6b41" sha1="7ab7704da7f0be7cf42e4cbf1db8ce068c5b8c11"/>
 	</game>
 	<game name="Eric the Unready (USA)" id="69537">
 		<category>Games</category>
@@ -33642,12 +33656,12 @@
 		<version>1.03b</version>
 		<rom name="Far Cry 2 (Europe) (En,Fr,De,Es,It) (Fortune's Edition).iso" size="4096393216" crc="4954f28a" md5="d165e302dd93fbe4832dbc3cadc5cfa5" sha1="3ffc968305f2cd147fc79602c6f9589c789f6854"/>
 	</game>
-	<game name="Far Cry 2 (USA) (En,Fr,De,Es,It)" id="12956">
+	<game name="Far Cry 2 (USA, Canada) (En,Fr,De,Es,It)" id="12956">
 		<category>Games</category>
-		<description>Far Cry 2 (USA) (En,Fr,De,Es,It)</description>
+		<description>Far Cry 2 (USA, Canada) (En,Fr,De,Es,It)</description>
 		<serial>300017834, 684084-DVD</serial>
 		<version>1.00</version>
-		<rom name="Far Cry 2 (USA) (En,Fr,De,Es,It).iso" size="3946381312" crc="81351f39" md5="9d56731101cddeb4ebde68d4c14316be" sha1="8b08148f222c45df9a7ae8824bc077222527ae2c"/>
+		<rom name="Far Cry 2 (USA, Canada) (En,Fr,De,Es,It).iso" size="3946381312" crc="81351f39" md5="9d56731101cddeb4ebde68d4c14316be" sha1="8b08148f222c45df9a7ae8824bc077222527ae2c"/>
 	</game>
 	<game name="Far Cry 3 (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl) (Disc 1)" id="45592">
 		<category>Games</category>
@@ -33669,26 +33683,26 @@
 		<serial>300056257</serial>
 		<rom name="Far Cry 3 - Blood Dragon (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).iso" size="3209166848" crc="17d563b0" md5="e3b86d1f3ad64e6b0e2f1d3a88c5941a" sha1="849e661c66e0108250c7cb5bc9591c12706e6a05"/>
 	</game>
-	<game name="Far Cry 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 1)" id="65827">
+	<game name="Far Cry 4 (USA, Latin America) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 1)" id="65827">
 		<category>Games</category>
-		<description>Far Cry 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 1)</description>
-		<serial>UBP60800959-DVD1</serial>
+		<description>Far Cry 4 (USA, Latin America) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 1)</description>
+		<serial>UBP60800959-DVD1, UBP60800960-CVRT</serial>
 		<version>1.00</version>
-		<rom name="Far Cry 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 1).iso" size="8547762176" crc="eb427dc2" md5="466c740137656d467dc084d0c2eda9a5" sha1="3a3e4d6c6d32cefc8fe554948ba22b5bd8a182f7"/>
+		<rom name="Far Cry 4 (USA, Latin America) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 1).iso" size="8547762176" crc="eb427dc2" md5="466c740137656d467dc084d0c2eda9a5" sha1="3a3e4d6c6d32cefc8fe554948ba22b5bd8a182f7"/>
 	</game>
-	<game name="Far Cry 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 2)" id="65828">
+	<game name="Far Cry 4 (USA, Latin America) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 2)" id="65828">
 		<category>Games</category>
-		<description>Far Cry 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 2)</description>
-		<serial>UBP60800959-DVD2</serial>
+		<description>Far Cry 4 (USA, Latin America) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 2)</description>
+		<serial>UBP60800959-DVD2, UBP60800960-CVRT</serial>
 		<version>1.00</version>
-		<rom name="Far Cry 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 2).iso" size="8536064000" crc="4ec6bc7f" md5="ae9495a436ac2bca7cf54fc60f3e7b9c" sha1="e13361adedb55d54737f484f6d551e4f4f097629"/>
+		<rom name="Far Cry 4 (USA, Latin America) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 2).iso" size="8536064000" crc="4ec6bc7f" md5="ae9495a436ac2bca7cf54fc60f3e7b9c" sha1="e13361adedb55d54737f484f6d551e4f4f097629"/>
 	</game>
-	<game name="Far Cry 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 3)" id="65829">
+	<game name="Far Cry 4 (USA, Latin America) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 3)" id="65829">
 		<category>Games</category>
-		<description>Far Cry 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 3)</description>
-		<serial>UBP60800959-DVD3</serial>
+		<description>Far Cry 4 (USA, Latin America) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 3)</description>
+		<serial>UBP60800959-DVD3, UBP60800960-CVRT</serial>
 		<version>1.00</version>
-		<rom name="Far Cry 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 3).iso" size="8352727040" crc="d35ffc99" md5="740fa14f0167c2877db0b1b5db304d84" sha1="875fb307b0b93b89189cd8afdf3510891c634046"/>
+		<rom name="Far Cry 4 (USA, Latin America) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 3).iso" size="8352727040" crc="d35ffc99" md5="740fa14f0167c2877db0b1b5db304d84" sha1="875fb307b0b93b89189cd8afdf3510891c634046"/>
 	</game>
 	<game name="Far Cry Primal (World) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1)" id="67182">
 		<category>Games</category>
@@ -37063,7 +37077,7 @@
 	<game name="Fuel (Europe) (En,Fr,De,Es,It)" id="92143">
 		<category>Games</category>
 		<description>Fuel (Europe) (En,Fr,De,Es,It)</description>
-		<serial>MFUELCDEU00</serial>
+		<serial>MFUELCDEU00, 663-40570</serial>
 		<version>1.0</version>
 		<rom name="Fuel (Europe) (En,Fr,De,Es,It).iso" size="3886940160" crc="4100bc0c" md5="7e03c45674dddcaa91e1452722ba2bcb" sha1="f5d852487b31ae1afbd94a3cb6034ca009a55c31"/>
 	</game>
@@ -48356,6 +48370,12 @@
 		<serial>MAMG059</serial>
 		<rom name="J.U.L.I.A. (Europe).iso" size="847872000" crc="49a47283" md5="74df238ed3ac26895b07fe8da957f5c5" sha1="0a1d21e42e28ce3508af3cd31d33ebeacaecfa1f"/>
 	</game>
+	<game name="JAMband (USA)" id="139708">
+		<category>Games</category>
+		<description>JAMband (USA)</description>
+		<rom name="JAMband (USA).bin" size="831822432" crc="4e16fe6f" md5="f084368af51441da40bbc9195a1858c3" sha1="a2c6bf706b42ed43b8d2ce6891858d23a506642c"/>
+		<rom name="JAMband (USA).cue" size="79" crc="85c01fdf" md5="e8620c58e658f0b626e0820a8429cd8e" sha1="3bd387754f8d46e66b209b6377c15c5cdb79110c"/>
+	</game>
 	<game name="JASF - Jane's Advanced Strike Fighters (Europe) (En,Fr,De,Es,It)" id="117078">
 		<category>Games</category>
 		<description>JASF: Jane's Advanced Strike Fighters (Europe) (En,Fr,De,Es,It)</description>
@@ -59606,11 +59626,17 @@
 		<description>Metal Gear Solid 2: Substance (USA)</description>
 		<rom name="Metal Gear Solid 2 - Substance (USA).iso" size="8031567872" crc="4ce65218" md5="7d3cde777b75fd42b2a6c5b8728adca3" sha1="8244e12b0494299e540d053ce24c3fc5927ad75c"/>
 	</game>
-	<game name="Metal Gear Solid V - The Phantom Pain (UK)" id="125734">
+	<game name="Metal Gear Solid V - Ground Zeroes (Europe)" id="139715">
 		<category>Games</category>
-		<description>Metal Gear Solid V: The Phantom Pain (UK)</description>
+		<description>Metal Gear Solid V: Ground Zeroes (Europe)</description>
+		<serial>27368PEU1</serial>
+		<rom name="Metal Gear Solid V - Ground Zeroes (Europe).iso" size="3005939712" crc="d8689d88" md5="cde5b424bae9a43837aa8df10624d73b" sha1="f3803248767a60036f3a9ff710e3ee9e5caa717b"/>
+	</game>
+	<game name="Metal Gear Solid V - The Phantom Pain (Europe)" id="125734">
+		<category>Games</category>
+		<description>Metal Gear Solid V: The Phantom Pain (Europe)</description>
 		<serial>27558PEU1</serial>
-		<rom name="Metal Gear Solid V - The Phantom Pain (UK).iso" size="9764864" crc="f73923b1" md5="bae35a7a24f536022d4ee9515d46392c" sha1="2f7063bca1167339f56ef621b6b2ea7e205fab63"/>
+		<rom name="Metal Gear Solid V - The Phantom Pain (Europe).iso" size="9764864" crc="f73923b1" md5="bae35a7a24f536022d4ee9515d46392c" sha1="2f7063bca1167339f56ef621b6b2ea7e205fab63"/>
 	</game>
 	<game name="Metal Heart - Replicants Rampage (USA) (Disc 1)" id="98537">
 		<category>Games</category>
@@ -65642,6 +65668,13 @@
 		<rom name="National Geographic Game Collection (USA).bin" size="709396128" crc="e8f998ce" md5="03554ca1ba3fb8605f4c4b30e8fae66c" sha1="68e28a5a066e1d3fc7c87dbb6fb281ef531554c5"/>
 		<rom name="National Geographic Game Collection (USA).cue" size="107" crc="77d0538a" md5="e0d3a0f0fe2a752c4d5fd6aa688c7384" sha1="4899905d24a678774dc4a2f2d1315bc2493fa885"/>
 	</game>
+	<game name="National Geographic Games 2 Pack (USA)" id="139741">
+		<category>Games</category>
+		<description>National Geographic Games 2 Pack (USA)</description>
+		<serial>CDR261D1</serial>
+		<rom name="National Geographic Games 2 Pack (USA).bin" size="255450720" crc="69510e00" md5="f3cf9d59b8b19eb193a69eff3bc688cd" sha1="5cb0b56162761d603e7091efe89bb4667a16e5d3"/>
+		<rom name="National Geographic Games 2 Pack (USA).cue" size="104" crc="2023dba2" md5="1553bf78699f1ba2432f5ee4a86f899b" sha1="a1f4afc10c1e1f1daa8412b655b374446501da9b"/>
+	</game>
 	<game name="National Geographic Trivia Trek (Europe)" id="87436">
 		<category>Games</category>
 		<description>National Geographic Trivia Trek (Europe)</description>
@@ -69999,6 +70032,13 @@
 		<rom name="Panzer Campaigns - Kharkov '42 - A John Tiller Game (USA).bin" size="499538928" crc="8c9a8374" md5="d1da617aedc1cbd3cb3bef4856fd02ea" sha1="6de05cb0ccb4ed9b54e5a0fd170f56473a00b35f"/>
 		<rom name="Panzer Campaigns - Kharkov '42 - A John Tiller Game (USA).cue" size="123" crc="f4ad2a89" md5="7c9423354ae010a4bac0ae50725a222d" sha1="2614fbbce1ba8dbc302162a2d4696a778780ee8e"/>
 	</game>
+	<game name="Panzer Campaigns - Normandy '44 - A John Tiller Game (USA)" id="139743">
+		<category>Games</category>
+		<description>Panzer Campaigns: Normandy '44: A John Tiller Game (USA)</description>
+		<version>1.0</version>
+		<rom name="Panzer Campaigns - Normandy '44 - A John Tiller Game (USA).bin" size="493957632" crc="3d35a0d7" md5="387d132b2e8f2042e318d293504eb72f" sha1="778c1e9a1a91695768a6d7cd7ff2c7339c045c5c"/>
+		<rom name="Panzer Campaigns - Normandy '44 - A John Tiller Game (USA).cue" size="124" crc="aa39491d" md5="6520d426487f323adc3655a5160a346e" sha1="a766e590467ffa185b5bd7165940746e6a4ea802"/>
+	</game>
 	<game name="Panzer Commander (USA)" id="45480">
 		<category>Games</category>
 		<description>Panzer Commander (USA)</description>
@@ -73635,11 +73675,11 @@
 		<rom name="Prey (USA) (Install Disc) (Linux).bin" size="52642464" crc="0c173958" md5="cfac3f4c45a0c13040fd231e897d8d99" sha1="917cde70a281459dcecdd0ad950e207291d1c2b1"/>
 		<rom name="Prey (USA) (Install Disc) (Linux).cue" size="99" crc="f2d37b7e" md5="2026998926768210e8b9314cfd1e8760" sha1="1a84780b34af3acb1a0085eed711f4515ca71295"/>
 	</game>
-	<game name="Prey (USA, Australia) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (2017)" id="86766">
+	<game name="Prey (World) (En,Fr,De,Es,It,Pt,Pl,Ru) (2017)" id="86766">
 		<category>Games</category>
-		<description>Prey (USA, Australia) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (2017)</description>
+		<description>Prey (World) (En,Fr,De,Es,It,Pt,Pl,Ru) (2017)</description>
 		<serial>D9-PR2PCG02, TZB17149UND</serial>
-		<rom name="Prey (USA, Australia) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (2017).iso" size="7794065408" crc="3034fd25" md5="65a2ad3ec999d331fa1b68eb36371c4f" sha1="64d876a1298d3d8a87aba467b8c4c4e03567f380"/>
+		<rom name="Prey (World) (En,Fr,De,Es,It,Pt,Pl,Ru) (2017).iso" size="7794065408" crc="3034fd25" md5="65a2ad3ec999d331fa1b68eb36371c4f" sha1="64d876a1298d3d8a87aba467b8c4c4e03567f380"/>
 	</game>
 	<game name="Pride of Nations - Vainglory of Empires 1850-1920 (Germany) (En,Fr,De)" id="118192">
 		<category>Games</category>
@@ -76394,12 +76434,19 @@
 		<version>3.2.0</version>
 		<rom name="Raven, The - Legacy of a Master Thief (Europe).iso" size="5654282240" crc="ad833775" md5="95ddbb15320c0002b20b5e1d7af80e22" sha1="54c7b0513fa580fc22b21456a52f1211e4f1d444"/>
 	</game>
-	<game name="Ravenloft - Stone Prophet (Australia)" id="125540">
+	<game name="Ravenloft - Stone Prophet (USA)" id="139744">
 		<category>Games</category>
-		<description>Ravenloft: Stone Prophet (Australia)</description>
-		<version>1.0</version>
-		<rom name="Ravenloft - Stone Prophet (Australia).bin" size="739045440" crc="fc234704" md5="4d93c0ae441df1e350cc3293785430a5" sha1="711f13f93fda308ae2a39e4b8edab7502fc7b155"/>
-		<rom name="Ravenloft - Stone Prophet (Australia).cue" size="103" crc="3665a2a6" md5="89c9333aa1e2d3f32a56993c217840e5" sha1="9d9838e51b99a7164cb69175af5c1e4b81140b08"/>
+		<description>Ravenloft: Stone Prophet (USA)</description>
+		<version>1.10</version>
+		<rom name="Ravenloft - Stone Prophet (USA).bin" size="521386656" crc="6f1e01d9" md5="d8994b6d6b1d864ad04ff5cfe6804914" sha1="c567ddd585ee99aea83c59d0dc5be4f39193737f"/>
+		<rom name="Ravenloft - Stone Prophet (USA).cue" size="120" crc="a9b81797" md5="c53cde3c2b979b161e65a85a29aa8521" sha1="5633b19ad3d2640875d54b93c08bf3973eca1c48"/>
+	</game>
+	<game name="Ravenloft - Strahd's Possession (USA)" id="139745">
+		<category>Games</category>
+		<description>Ravenloft: Strahd's Possession (USA)</description>
+		<version>1.2a</version>
+		<rom name="Ravenloft - Strahd's Possession (USA).bin" size="401159472" crc="8544b25f" md5="0471b990f3066b48fd6d1d6a5bb646cc" sha1="07bafbcc950b1c21744f85d59acb3d4ed416b03d"/>
+		<rom name="Ravenloft - Strahd's Possession (USA).cue" size="126" crc="42347ff4" md5="c0e4a53f962491519eb7a60c57923637" sha1="e53f5a5e8d1dc294575f0e3b6ab2bc289e867baa"/>
 	</game>
 	<game name="Ray Bradbury's The Martian Chronicles Adventure Game (USA)" id="19975">
 		<category>Games</category>
@@ -77827,7 +77874,7 @@
 	<game name="Remember Me (Europe) (En,Fr,De,Es,It,Pt,Zh,Pl,Ru)" id="72491">
 		<category>Games</category>
 		<description>Remember Me (Europe) (En,Fr,De,Es,It,Pt,Zh,Pl,Ru)</description>
-		<serial>DV97185-00EUR</serial>
+		<serial>DV97185-00EUR, 500018538LB</serial>
 		<version>1.0.2056.0</version>
 		<rom name="Remember Me (Europe) (En,Fr,De,Es,It,Pt,Zh,Pl,Ru).iso" size="6540361728" crc="fe4dab5c" md5="13f1fc1b7cdaf08eeeab37f7e02aef6b" sha1="e1a98aed38361f35a8023bfe9b0b75ee7a6a61e7"/>
 	</game>
@@ -78883,16 +78930,11 @@
 		<rom name="RingRiker (USA) (X3D).bin" size="86337216" crc="066ec54b" md5="55d9c73ea4c6e595aba29fd1df1d7119" sha1="6fe2aaea180f6fbc5bc9d3977527791870cd6f08"/>
 		<rom name="RingRiker (USA) (X3D).cue" size="87" crc="3498275b" md5="c17990789d53fa00fd706cbcb26642e9" sha1="cbeef532f6a706ddc1c8f0ea10a3b579b15d26f7"/>
 	</game>
-	<game name="Ringworld - Revenge of the Patriarch (USA)" id="9795">
+	<game name="Ringworld - Revenge of the Patriarch (USA) (1994-12-02)" id="139746">
 		<category>Games</category>
-		<description>Ringworld: Revenge of the Patriarch (USA)</description>
-		<version>1.20D</version>
-		<rom name="Ringworld - Revenge of the Patriarch (USA) (Track 1).bin" size="49297920" crc="8f20dd43" md5="ef5416e6c0c4680239c8101c0b963306" sha1="285f992fc01668fd6aaae8fedefb9e1309f52759"/>
-		<rom name="Ringworld - Revenge of the Patriarch (USA) (Track 2).bin" size="467053104" crc="8d296dbf" md5="a0959828ea74232707d98e9e227a3c6f" sha1="2d70947bd33d863b60276dccf09d4438cb414394"/>
-		<rom name="Ringworld - Revenge of the Patriarch (USA) (Track 3).bin" size="34609680" crc="4336a91d" md5="510171680a549b81485f77d7dc345323" sha1="fc3027726bf8988b4e1ff39ea5128a3267e02df4"/>
-		<rom name="Ringworld - Revenge of the Patriarch (USA) (Track 4).bin" size="29324736" crc="c5f4b77d" md5="69816e1a77daf0b66a4785f25f1fb261" sha1="399bc55d1c22985c2a03f866e583648846131ca7"/>
-		<rom name="Ringworld - Revenge of the Patriarch (USA) (Track 5).bin" size="62175120" crc="01a10bbb" md5="052a25509cf3b0d1a4f4c9f9f0465874" sha1="79b5c688b413beeb38786e53631683a63e8498ad"/>
-		<rom name="Ringworld - Revenge of the Patriarch (USA).cue" size="639" crc="f7457451" md5="0c8129be4016b541aba489f485aab0a7" sha1="dab333600c1a2db4a92700d3af9a8918a4a5b5bd"/>
+		<description>Ringworld: Revenge of the Patriarch (USA) (1994-12-02)</description>
+		<rom name="Ringworld - Revenge of the Patriarch (USA) (1994-12-02).bin" size="448272384" crc="55a05c9a" md5="d2bd29a3c8a2711d67d8b913fa16557b" sha1="b2c4a8dc78c6b5f4d287d74fb2bae6149558d2f0"/>
+		<rom name="Ringworld - Revenge of the Patriarch (USA) (1994-12-02).cue" size="144" crc="86f7fedb" md5="d5c3355d54f45bff734d574cf646b670" sha1="debf0d5b4cc901778a11d1f01d2616fa504de3ff"/>
 	</game>
 	<game name="Rio - Beach Race (Europe) (En,Fr,De,Es,It,Nl,Pt,Fi,Ru,Hr,Cs,Hu,Sl,Th,Tr,Mk,Ms,Id,Sr,Sq,Bg)" id="85713">
 		<category>Games</category>
@@ -86725,6 +86767,13 @@
 		<rom name="Smart Games Puzzle Challenge 3 (USA).bin" size="148938048" crc="d96b5bb6" md5="e413240c6c04ba02ab35a88ef4435c23" sha1="7feb4d4632e0f0120207b09fa8d9c6a8370e3746"/>
 		<rom name="Smart Games Puzzle Challenge 3 (USA).cue" size="125" crc="1a251371" md5="c8acacee90c4307bb3648fe072a337c1" sha1="7454913a36c03019ce64668325a1d3150b3133c4"/>
 	</game>
+	<game name="Smart Games Word Puzzles 1 (USA)" id="139747">
+		<category>Games</category>
+		<description>Smart Games Word Puzzles 1 (USA)</description>
+		<version>Version 1.0 Revision 4</version>
+		<rom name="Smart Games Word Puzzles 1 (USA).bin" size="15116304" crc="39f95933" md5="b8f2f8a748c8f2e16004ec6d97c57f95" sha1="0e595f3c35ea784e3cda31798c54f42b8a2419a3"/>
+		<rom name="Smart Games Word Puzzles 1 (USA).cue" size="98" crc="364df7af" md5="4a2cfa1fbef5b362cc75e693b2650938" sha1="db8270a43d8322eeae693d0851026b29c23974ce"/>
+	</game>
 	<game name="Smashing Reversi (USA)" id="92164">
 		<category>Games</category>
 		<description>Smashing Reversi (USA)</description>
@@ -87079,6 +87128,13 @@
 		<rom name="SoftKey Afterhours CD-ROM Power Pack (USA) (Track 13).bin" size="31213392" crc="59f097b8" md5="6dec7d0d20e6eda21b7d71a6e078e9e2" sha1="e4edade5799424b9a4bdf76928aacf81b495789c"/>
 		<rom name="SoftKey Afterhours CD-ROM Power Pack (USA) (Track 14).bin" size="1938048" crc="5c64582f" md5="4d5517410ad83bed17bfe9d3b4cef2c2" sha1="ba60e68e791d28143eb50da64cb3174a72bb5a6d"/>
 		<rom name="SoftKey Afterhours CD-ROM Power Pack (USA).cue" size="1938" crc="fb3e29f6" md5="06dadf51a828fe60b68e4ed96a3a5b3d" sha1="453b4aa1c2089f5cca0fd567e94d879b845af2e2"/>
+	</game>
+	<game name="Software Gift Collection (USA) (Disc 1)" id="139748">
+		<category>Games</category>
+		<description>Software Gift Collection (USA) (Disc 1)</description>
+		<serial>2440 01</serial>
+		<rom name="Software Gift Collection (USA) (Disc 1).bin" size="108692976" crc="c059170b" md5="daadf6681e61566db1ca05e94e7c8354" sha1="495a4bd2dfbfdf07b078c37ee266afa3855a50e7"/>
+		<rom name="Software Gift Collection (USA) (Disc 1).cue" size="105" crc="eb4142d1" md5="ddef943c7b7e6105cf1a18ef9dff9c2a" sha1="fc9cded3deb5ed391c32282bccd8a1c0b853b6a3"/>
 	</game>
 	<game name="Software JukeBox - Fight, Flight &amp; Might (USA)" id="123862">
 		<category>Games</category>
@@ -93814,6 +93870,12 @@
 		<rom name="TV Manager 2 (Germany) (En,De).bin" size="172194624" crc="f70cef23" md5="cfd82912750b6b5d15213a8d26eb3dd2" sha1="16edaf19c7ff4dcaeb9bfa64af06e2aa60ed5500"/>
 		<rom name="TV Manager 2 (Germany) (En,De).cue" size="96" crc="8db0dea8" md5="63e62fab4e00c53024eb2836c58cf1fd" sha1="fdafcb745c0c4dfce7843c7e0cba4114e280103a"/>
 	</game>
+	<game name="TV Mogul (USA)" id="139750">
+		<category>Games</category>
+		<description>TV Mogul (USA)</description>
+		<rom name="TV Mogul (USA).bin" size="117705840" crc="528ad601" md5="a0ce03812f5602aa17ef985fb0757350" sha1="4838de497c0b07931ae5ccc730df136117776284"/>
+		<rom name="TV Mogul (USA).cue" size="103" crc="d705fd4c" md5="69754270a4840b3bb35403ef1ecd9bb0" sha1="6e329952fb298385eb2d857a683c0f4037031769"/>
+	</game>
 	<game name="TV Sports Football (Europe)" id="35748">
 		<category>Games</category>
 		<description>TV Sports Football (Europe)</description>
@@ -95208,23 +95270,29 @@
 		<rom name="They Call Me... The Skul (USA).bin" size="223134240" crc="4508a57e" md5="ed50ed923c383a836bc7f0db0276f24c" sha1="75d88bf397c6d1cc310fdd6c89997f385e5ac107"/>
 		<rom name="They Call Me... The Skul (USA).cue" size="96" crc="86df7c13" md5="f09a8984e0eb5639822da34e4b05b3e1" sha1="7a1a12ba837d31746c13d09fb1d68a576a212721"/>
 	</game>
+	<game name="Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1) (2014)" id="139714">
+		<category>Games</category>
+		<description>Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1) (2014)</description>
+		<serial>500019388LB1</serial>
+		<rom name="Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1) (2014).iso" size="8326742016" crc="5b372f78" md5="87eb9d5bc9fa7e0206e987e06639950b" sha1="4f84669fadcac82919135b38ffb6975579b5b3b5"/>
+	</game>
 	<game name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1)" id="58857">
 		<category>Games</category>
 		<description>Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1)</description>
 		<serial>MTHIEVEF01</serial>
 		<rom name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1).iso" size="8317829120" crc="07cffa3b" md5="5c6bef3bf950b24a6b1c8455532dcb8f" sha1="280cabe12aafc0493a9eb7b35b0b448d248a0510"/>
 	</game>
-	<game name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2)" id="58858">
+	<game name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2) (2014)" id="58858">
 		<category>Games</category>
-		<description>Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2)</description>
-		<serial>MTHIEVEF02</serial>
-		<rom name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2).iso" size="8285290496" crc="0a72c3c1" md5="198f9ae6c03cbb1c5d42ac3aa169bc9d" sha1="f3de165400b635b70d22e65bf086c3cbe2261a30"/>
+		<description>Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2) (2014)</description>
+		<serial>MTHIEVEF02, 500019388LB2</serial>
+		<rom name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2) (2014).iso" size="8285290496" crc="0a72c3c1" md5="198f9ae6c03cbb1c5d42ac3aa169bc9d" sha1="f3de165400b635b70d22e65bf086c3cbe2261a30"/>
 	</game>
-	<game name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3)" id="58859">
+	<game name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3) (2014)" id="58859">
 		<category>Games</category>
-		<description>Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3)</description>
-		<serial>MTHIEVEF03</serial>
-		<rom name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3).iso" size="7136641024" crc="54804c33" md5="567a0a62165a3f93bc00859877e4b770" sha1="a129f8abdd75e5e3a927065789d831ef3b6f9710"/>
+		<description>Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3) (2014)</description>
+		<serial>MTHIEVEF03, 500019388LB3</serial>
+		<rom name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3) (2014).iso" size="7136641024" crc="54804c33" md5="567a0a62165a3f93bc00859877e4b770" sha1="a129f8abdd75e5e3a927065789d831ef3b6f9710"/>
 	</game>
 	<game name="Thief - Deadly Shadows (Europe) (En,Fr,De,It) (Sold Out Software)" id="78980">
 		<category>Games</category>
@@ -99551,6 +99619,12 @@
 		<version>1.0.1b110</version>
 		<rom name="Trulon - The Shadow Engine (Germany) (En,De,Fi,Ru).iso" size="2499903488" crc="c26eaa52" md5="2a15d37dc3aa0ff81be9d8981cfbabfd" sha1="f36a1c48631f572b0a9935794b4d83364718ab50"/>
 	</game>
+	<game name="Trump Castle 3 (USA)" id="139749">
+		<category>Games</category>
+		<description>Trump Castle 3 (USA)</description>
+		<rom name="Trump Castle 3 (USA).bin" size="40687248" crc="00f82d50" md5="7c246a7501893df7488d9780e35ed8b9" sha1="35601d1d6b3676ef6ac3801733364f8ee28c9a47"/>
+		<rom name="Trump Castle 3 (USA).cue" size="109" crc="9ea5143f" md5="170cd20b8aec1876635a335cbe9b366f" sha1="d643531f131ae65876841b1db32ea4e616573fb9"/>
+	</game>
 	<game name="Truth is Out There, The - Mystery Adventure Pack (USA)" id="84333">
 		<category>Games</category>
 		<description>Truth is Out There, The: Mystery Adventure Pack (USA)</description>
@@ -100121,6 +100195,13 @@
 		<serial>50004-LBLGFW</serial>
 		<version>1.5</version>
 		<rom name="Two Worlds (USA) (Rev 1).iso" size="4262363136" crc="571f38fb" md5="43ba23096712174e5a517397e19fb80e" sha1="f5fa7de4e403085c8d7eb178a7170fb63aedc589"/>
+	</game>
+	<game name="Two Worlds - Epic Edition (USA)" id="139751">
+		<category>Games</category>
+		<description>Two Worlds: Epic Edition (USA)</description>
+		<serial>50022</serial>
+		<version>1.7</version>
+		<rom name="Two Worlds - Epic Edition (USA).iso" size="4431857664" crc="164fdf52" md5="853cbac0d6516e930a20e3edcb08408c" sha1="aa633c2568b03b40b6dc7d07a156647f693970d4"/>
 	</game>
 	<game name="Two Worlds - Game of the Year Edition (Europe) (En,Fr,De,Es,It)" id="46770">
 		<category>Games</category>

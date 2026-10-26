@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi (Retool)</name>
-		<description>Arcade - Sega - Naomi (35) (-y) [-aAbBcefkmMoprv] (2026-10-23 10-16-54) (Retool)</description>
-		<version>2026-10-23 10-16-54</version>
-		<date>2026-10-25 07-29-45</date>
+		<description>Arcade - Sega - Naomi (35) (-y) [-aAbBcefkmMoprv] (2026-10-25 17-12-37) (Retool)</description>
+		<version>2026-10-25 17-12-37</version>
+		<date>2026-10-26 07-41-36</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -351,14 +351,14 @@
 		<rom name="Under Defeat (Japan) (Track 3).bin" size="1185760800" crc="214e66a7" md5="2ea86f382420fa9a5531e2fd4cf16bd5" sha1="989866655541237ff172f9b41695aad58e8e4812"/>
 		<rom name="Under Defeat (Japan).cue" size="354" crc="e66077eb" md5="63b04eecc6b0354635658d4f62b015ec" sha1="d801f50668e776345c76a39cdcab4ba4b4224d44"/>
 	</game>
-	<game name="Virtua Athletics ~ Virtua Athlete (World)" id="75447">
+	<game name="Virtua Athletics ~ Virtua Athlete (World) (En,Ja)" id="75447">
 		<category>Games</category>
-		<description>Virtua Athletics ~ Virtua Athlete (World)</description>
+		<description>Virtua Athletics ~ Virtua Athlete (World) (En,Ja)</description>
 		<serial>GDS-0019</serial>
 		<version>1.003</version>
-		<rom name="Virtua Athletics ~ Virtua Athlete (World) (Track 1).bin" size="705600" crc="fc541c58" md5="6a41d4b17f309c4d30387f5b3f1a4b05" sha1="6840ef5ca039103e2db9f189fc20ea28f3d72df5"/>
-		<rom name="Virtua Athletics ~ Virtua Athlete (World) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
-		<rom name="Virtua Athletics ~ Virtua Athlete (World) (Track 3).bin" size="1185760800" crc="f2d965a1" md5="e90d79d4dc6fd62431d8a68a3cef8297" sha1="b28592a6aa02bdcfd3ada2b5becdb5c6b05eb6aa"/>
-		<rom name="Virtua Athletics ~ Virtua Athlete (World).cue" size="417" crc="6c496a83" md5="e9fb7bd89e1bd642a1db6919deaf337a" sha1="6f872c899d5f237d13b159bf8191892a3f14dd31"/>
+		<rom name="Virtua Athletics ~ Virtua Athlete (World) (En,Ja) (Track 1).bin" size="705600" crc="fc541c58" md5="6a41d4b17f309c4d30387f5b3f1a4b05" sha1="6840ef5ca039103e2db9f189fc20ea28f3d72df5"/>
+		<rom name="Virtua Athletics ~ Virtua Athlete (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Virtua Athletics ~ Virtua Athlete (World) (En,Ja) (Track 3).bin" size="1185760800" crc="f2d965a1" md5="e90d79d4dc6fd62431d8a68a3cef8297" sha1="b28592a6aa02bdcfd3ada2b5becdb5c6b05eb6aa"/>
+		<rom name="Virtua Athletics ~ Virtua Athlete (World) (En,Ja).cue" size="441" crc="9bb2e37c" md5="2d8da0e8177687c410709dd04a82c828" sha1="f17e38b08c929a8f52bf76f5b0d0fc8cdf1c01f3"/>
 	</game>
 </datafile>

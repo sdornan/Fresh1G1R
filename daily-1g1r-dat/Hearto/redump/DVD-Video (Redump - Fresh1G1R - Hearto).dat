@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (478) (-y) [-aAbBcefkmMoprv] (2026-10-24 20-22-34) (Retool)</description>
-		<version>2026-10-24 20-22-34</version>
-		<date>2026-10-25 07-28-52</date>
+		<description>DVD-Video (480) (-y) [-aAbBcefkmMoprv] (2026-10-25 17-12-34) (Retool)</description>
+		<version>2026-10-25 17-12-34</version>
+		<date>2026-10-26 07-40-00</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -810,6 +810,12 @@
 		<description>Great British Pub Quiz, The (UK)</description>
 		<serial>VCD7234</serial>
 		<rom name="Great British Pub Quiz, The (UK).iso" size="2733604864" crc="dcf25885" md5="067cc823c1ad7a9e7e7db3ba425bdb7e" sha1="1e1b55e53a0620b2f3bfd5e6812ca8ab56cb88e2"/>
+	</game>
+	<game name="Greatest NBA Finals Moments (USA)" id="139713">
+		<category>Demos</category>
+		<description>Greatest NBA Finals Moments (USA)</description>
+		<serial>960 060 085-2</serial>
+		<rom name="Greatest NBA Finals Moments (USA).iso" size="8401106944" crc="fabba2af" md5="7424d3dbd8c2da39fcd2bba2a463374b" sha1="16f3a5c5143c19d631cf35763a8afdb2621af5ff"/>
 	</game>
 	<game name="Greatest TV Trivia Quiz, The (UK)" id="109862">
 		<category>Games</category>
@@ -1799,6 +1805,12 @@
 		<category>Games</category>
 		<description>Scene It? (USA)</description>
 		<rom name="Scene It (USA).iso" size="8410136576" crc="b571b60e" md5="639ec207042f8c298f5affb7e3a77865" sha1="1683db4e4d62c88873d26acdd1297de82a7adeff"/>
+	</game>
+	<game name="Scene It 007 Edition (USA)" id="139703">
+		<category>Games</category>
+		<description>Scene It? 007 Edition (USA)</description>
+		<serial>H7255-9019</serial>
+		<rom name="Scene It 007 Edition (USA).iso" size="7939028992" crc="056aace2" md5="5f017770b9366e2b3f7f7d7bdf0ca6a5" sha1="f06d37207296e54f01c97e82cf36a15269afb798"/>
 	</game>
 	<game name="Scene It 80s (USA)" id="136581">
 		<category>Games</category>

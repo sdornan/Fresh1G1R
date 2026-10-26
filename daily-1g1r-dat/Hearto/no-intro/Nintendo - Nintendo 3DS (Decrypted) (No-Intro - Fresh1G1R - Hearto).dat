@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (977) (-y) [-aAbBcefkmMoprv] (20261024-200741) (Retool)</description>
-		<version>20261024-200741</version>
-		<date>2026-10-25 07-31-29</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (977) (-y) [-aAbBcefkmMoprv] (20261025-031325) (Retool)</description>
+		<version>20261025-031325</version>
+		<date>2026-10-26 07-42-48</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1730,11 +1730,13 @@
 	<game name="Go! Go! Kokopolo - Harmonious Forest Revenge (USA)" id="z085">
 		<category>Games</category>
 		<description>Go! Go! Kokopolo - Harmonious Forest Revenge (USA)</description>
+		<game_id>00040000001E2A00</game_id>
 		<rom name="Go! Go! Kokopolo - Harmonious Forest Revenge (USA).3ds" size="268435456" crc="26f5fd94" md5="243679e6e7e13f33660c0bffd028ba21" sha1="5c5ead59f3a454ad05fcacf6d5763b5df20ce40e" sha256="a338b9a7f436918fadb0da12d5f68bd1e32eca4a95101d4be555324c91f54f45"/>
 	</game>
 	<game name="Go! Go! Kokopolo 3D - Space Recipe For Disaster (USA)" id="z086">
 		<category>Games</category>
 		<description>Go! Go! Kokopolo 3D - Space Recipe For Disaster (USA)</description>
+		<game_id>00040000001E2500</game_id>
 		<rom name="Go! Go! Kokopolo 3D - Space Recipe For Disaster (USA).3ds" size="536870912" crc="bc13693e" md5="3930b4d94bdab8fdb919e97bdec03fa3" sha1="f4c1d63437e6cf040884b71c5b916b189eb7569a" sha256="d27aa83db8f1d34f4155d01bbbcdf1a293010cc63404093fe5ed93cbf44e7089"/>
 	</game>
 	<game name="Go! Princess PreCure - Sugar Oukoku to 6-nin no Princess! (Japan)" id="1315">

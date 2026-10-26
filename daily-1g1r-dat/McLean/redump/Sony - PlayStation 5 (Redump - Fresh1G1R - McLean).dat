@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (326) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-23 10-18-36) (Retool)</description>
-		<version>2026-10-23 10-18-36</version>
-		<date>2026-10-25 07-34-53</date>
+		<description>Sony - PlayStation 5 (335) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-25 19-03-58) (Retool)</description>
+		<version>2026-10-25 19-03-58</version>
+		<date>2026-10-26 07-50-37</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -326,6 +326,13 @@
 		<version>01.00</version>
 		<rom name="Concord (USA, Europe).iso" size="40008351744" crc="3992ce95" md5="7e8bc43b33d0befaa7b62a2c66f1bc6d" sha1="4d20ef6bf926c1bd00dfe5901971438a8d26586b"/>
 	</game>
+	<game name="Control Resonant (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Uk,Tr)" id="139710">
+		<category>Games</category>
+		<description>Control Resonant (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Uk,Tr)</description>
+		<serial>PPSA-34547/US</serial>
+		<version>01.01</version>
+		<rom name="Control Resonant (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Uk,Tr).iso" size="86490742784" crc="a87cb2e4" md5="109d1d3a4e536c8a2d82a0e2177f2200" sha1="1dbb429588564636425901ba43117d238611d2ad"/>
+	</game>
 	<game name="Control Ultimate Edition (USA) (En,Ja,De,Es,It,Pt,Fi,Zh,Ko,Pl,Ru,Ar)" id="135966">
 		<category>Games</category>
 		<description>Control Ultimate Edition (USA) (En,Ja,De,Es,It,Pt,Fi,Zh,Ko,Pl,Ru,Ar)</description>
@@ -339,6 +346,13 @@
 		<serial>PPSA-18346</serial>
 		<version>03.00</version>
 		<rom name="Copycat (Europe) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Pl,Uk).iso" size="40008351744" crc="ed8d39f6" md5="dc35a39876776eec09950d3543156763" sha1="5849a8cca3a12c90c37bb8728b4afa6bb08150c5"/>
+	</game>
+	<game name="Crew, The - Motorfest (Europe) (En,Fr,De,It,Pt,Pl)" id="139725">
+		<category>Games</category>
+		<description>Crew, The: Motorfest (Europe) (En,Fr,De,It,Pt,Pl)</description>
+		<serial>PPSA-02839</serial>
+		<version>01.00</version>
+		<rom name="Crew, The - Motorfest (Europe) (En,Fr,De,It,Pt,Pl).iso" size="40008351744" crc="4b546b4e" md5="f9249eee49aabe1cd50ed32988edf491" sha1="33ac04fc91774cd3f37d619b244c406aa11f53c4"/>
 	</game>
 	<game name="Crisis Core - Final Fantasy VII - Reunion (Europe)" id="101341">
 		<category>Games</category>
@@ -900,6 +914,13 @@
 		<version>01.00</version>
 		<rom name="Grim Guardians - Demon Purge (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).iso" size="40008351744" crc="ef89717f" md5="c7427cabf60636f9bcc380ba1ba41b7c" sha1="5d0ba1020b7609a08228248021ab856af0101dce"/>
 	</game>
+	<game name="Gungrave G.O.R.E (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru)" id="139726">
+		<category>Games</category>
+		<description>Gungrave G.O.R.E (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru)</description>
+		<serial>PPSA-03684</serial>
+		<version>01.00</version>
+		<rom name="Gungrave G.O.R.E (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru).iso" size="40008351744" crc="a92fb5a1" md5="5fd0e8e5f2795a7a29fe4f630a339ff8" sha1="2d76cfe40cb55d28c6aaf3574ad104552e527df5"/>
+	</game>
 	<game name="Hades (Europe)" id="103667">
 		<category>Games</category>
 		<description>Hades (Europe)</description>
@@ -970,12 +991,26 @@
 		<version>02.00</version>
 		<rom name="Honkai - Star Rail (USA).iso" size="70299484160" crc="16a93994" md5="e863d5012095093e8c19ba46f35c13e4" sha1="d1b222823e6cf6654b1817a98f5980479091f5c2"/>
 	</game>
-	<game name="Horizon II - Forbidden West (USA)" id="134206">
+	<game name="Horizon - Forbidden West (USA)" id="134206">
 		<category>Games</category>
-		<description>Horizon II: Forbidden West (USA)</description>
+		<description>Horizon: Forbidden West (USA)</description>
 		<serial>PPSA-04072</serial>
 		<version>01.00</version>
-		<rom name="Horizon II - Forbidden West (USA).iso" size="88066162688" crc="ede79263" md5="f3b4e5545ba16fee42976e056656c513" sha1="c73010ac239a57bb4b794760d780e57fa7215c56"/>
+		<rom name="Horizon - Forbidden West (USA).iso" size="88066162688" crc="ede79263" md5="f3b4e5545ba16fee42976e056656c513" sha1="c73010ac239a57bb4b794760d780e57fa7215c56"/>
+	</game>
+	<game name="Horizon - Forbidden West - Complete Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu,Ar,Th,Tr) (Data Disc)" id="139712">
+		<category>Games</category>
+		<description>Horizon: Forbidden West: Complete Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu,Ar,Th,Tr) (Data Disc)</description>
+		<serial>PPAS-17906</serial>
+		<version>01.00</version>
+		<rom name="Horizon - Forbidden West - Complete Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu,Ar,Th,Tr) (Data Disc).iso" size="40008351744" crc="fad4ec13" md5="90eef66becb3103b8e5c7b33511a385a" sha1="69dd1fdd8799aa6fb09c450c66c3f4ebab229ae1"/>
+	</game>
+	<game name="Horizon - Forbidden West - Complete Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu,Ar,Th,Tr) (Play Disc)" id="139711">
+		<category>Games</category>
+		<description>Horizon: Forbidden West: Complete Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu,Ar,Th,Tr) (Play Disc)</description>
+		<serial>PPSA-17905</serial>
+		<version>01.00</version>
+		<rom name="Horizon - Forbidden West - Complete Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu,Ar,Th,Tr) (Play Disc).iso" size="100096802816" crc="053afa6e" md5="a0c5127c2ffd88b396787c81e31df0c3" sha1="eff10a392d066efc040f1e34dbab0344b33bd6fd"/>
 	</game>
 	<game name="Immortals Fenyx Rising (USA) (En,Fr,Es,Pt)" id="101342">
 		<category>Games</category>
@@ -1249,6 +1284,13 @@
 		<serial>PPSA-03016</serial>
 		<version>01.00</version>
 		<rom name="Marvel Spider-Man 2 (USA).iso" size="87177691136" crc="18deef6e" md5="4d6317738ef6e9874aa67a63ddf251b4" sha1="8dcd8b581100ef39e7fd81e52600d8e98bfc30eb"/>
+	</game>
+	<game name="Marvel's Wolverine (USA)" id="139709">
+		<category>Games</category>
+		<description>Marvel's Wolverine (USA)</description>
+		<serial>PPSA-03671/US</serial>
+		<version>01.00</version>
+		<rom name="Marvel's Wolverine (USA).iso" size="80087678976" crc="ff66870c" md5="bd9aa10dbb5388361f8bfb6e52a0e325" sha1="16523ce99cd19a7f99aad4bd729de3ced12e5bbd"/>
 	</game>
 	<game name="Master Detective Archives - Rain Code+ (USA) (En,Ja,Fr,De,Es,It)" id="134142">
 		<category>Games</category>
@@ -1571,6 +1613,13 @@
 		<version>01.00</version>
 		<rom name="Pragmata (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso" size="40008351744" crc="a8cff562" md5="f2de880c2967a65167c9842e60a651e1" sha1="b3a9ea062efd3b419b2a6996a1de325c95d3bd5e"/>
 	</game>
+	<game name="Prince of Persia - The Lost Crown (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar)" id="139727">
+		<category>Games</category>
+		<description>Prince of Persia: The Lost Crown (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar)</description>
+		<serial>PPSA-10528</serial>
+		<version>01.00</version>
+		<rom name="Prince of Persia - The Lost Crown (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar).iso" size="40008351744" crc="ae4f3634" md5="bf3a4680570235252866d43c8433dcd1" sha1="7233c642cf4538ca748d37ec09445c0991418f2b"/>
+	</game>
 	<game name="Prince of Persia - The Lost Crown (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar,Fa)" id="120726">
 		<category>Games</category>
 		<description>Prince of Persia: The Lost Crown (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar,Fa)</description>
@@ -1605,6 +1654,13 @@
 		<serial>PPSA-19007</serial>
 		<version>01.01</version>
 		<rom name="Quiet Place, A - The Road Ahead (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru).iso" size="40008351744" crc="05050305" md5="dbbed22abb25a3c82c53fb18ed395ca0" sha1="4825add9d64d2f176d96c79a2e587b1ea139aa83"/>
+	</game>
+	<game name="Raidou Remastered - The Mystery of the Soulless Army (Japan, Europe) (En,Ja,Fr,De,Es,It,Zh)" id="134991">
+		<category>Games</category>
+		<description>Raidou Remastered: The Mystery of the Soulless Army (Japan, Europe) (En,Ja,Fr,De,Es,It,Zh)</description>
+		<serial>ELJM 30624, PPSA-15366</serial>
+		<version>01.00</version>
+		<rom name="Raidou Remastered - The Mystery of the Soulless Army (Japan, Europe) (En,Ja,Fr,De,Es,It,Zh).iso" size="40008351744" crc="0119d59b" md5="05df081f39b8ca8a6c45424d0f8def6e" sha1="24eee98102dbfa61a0a899313d7b5826ad87a1fe"/>
 	</game>
 	<game name="Ratchet &amp; Clank - Rift Apart (USA) (En,Fr,Es,Pt)" id="101350">
 		<category>Games</category>
@@ -1690,12 +1746,12 @@
 		<version>01.00</version>
 		<rom name="RoboCop - Rogue City (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="42549772288" crc="340ac683" md5="0c9bec0e162cf6f0d9a7b3e322d1094a" sha1="8cfb045d5fb60277688b59333372af8a69de52d0"/>
 	</game>
-	<game name="RoboCop - Rogue City - Unfinished Business (USA)" id="133831">
+	<game name="RoboCop - Rogue City - Unfinished Business (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="133831">
 		<category>Games</category>
-		<description>RoboCop: Rogue City: Unfinished Business (USA)</description>
-		<serial>PPSA-28329/US</serial>
+		<description>RoboCop: Rogue City: Unfinished Business (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
+		<serial>PPSA-28329/US, PPSA-28329</serial>
 		<version>01.01</version>
-		<rom name="RoboCop - Rogue City - Unfinished Business (USA).iso" size="40008351744" crc="a62cb387" md5="a48794eeceee6f76865353121582eba5" sha1="af72f8b460497bf657d5ae4d16f808ca8c9d8177"/>
+		<rom name="RoboCop - Rogue City - Unfinished Business (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="40008351744" crc="a62cb387" md5="a48794eeceee6f76865353121582eba5" sha1="af72f8b460497bf657d5ae4d16f808ca8c9d8177"/>
 	</game>
 	<game name="Rustler (Europe)" id="108132">
 		<category>Games</category>
@@ -2228,6 +2284,13 @@
 		<serial>PPSA-21120</serial>
 		<version>01.01</version>
 		<rom name="WhiteDay 2 - The Flower That Tells Lies - Complete Edition (USA).iso" size="40008351744" crc="90bf6f84" md5="28837f91d85943016cc7ce3334e55415" sha1="2703fdf0ae46dd351dd87b738777c41dcd41bf56"/>
+	</game>
+	<game name="Wild Hearts (Europe) (En,Ja,Fr,De,It,Pt,Zh,Pl)" id="139728">
+		<category>Games</category>
+		<description>Wild Hearts (Europe) (En,Ja,Fr,De,It,Pt,Zh,Pl)</description>
+		<serial>PPSA-07836</serial>
+		<version>01.00</version>
+		<rom name="Wild Hearts (Europe) (En,Ja,Fr,De,It,Pt,Zh,Pl).iso" size="59434926080" crc="b62714f6" md5="6f1b7f302c589ea5be8f3fc388c84436" sha1="da484b2f588504102b3e1784f9409bf224a5a044"/>
 	</game>
 	<game name="Winter Games 2023 (Europe)" id="106618">
 		<category>Games</category>
