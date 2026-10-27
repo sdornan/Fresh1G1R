@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Headerless) (Retool)</name>
-		<description>Commodore - Commodore 64 (Headerless) (18) (-y) [-aAbBcefkmMoprv] (20261024-051621) (Retool)</description>
-		<version>20261024-051621</version>
-		<date>2026-10-26 07-47-29</date>
+		<description>Commodore - Commodore 64 (Headerless) (21) (-y) [-aAbBcefkmMoprv] (20261026-234119) (Retool)</description>
+		<version>20261026-234119</version>
+		<date>2026-10-27 07-37-28</date>
 		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -15,6 +15,11 @@
 		<category>Games</category>
 		<description>Activision Decathlon, The (USA, Europe)</description>
 		<rom name="Activision Decathlon, The (USA, Europe).bin" size="16384" crc="d8fc4b32" md5="c0a8a155cd65a41d406ad02492789fa0" sha1="c8f6ceb56f6bf402db7d11e39c91f979abb9c10a" sha256="cb2383b7b825a130864391f4eb9cc954e2c524486de478460b9805a4c4bcb248"/>
+	</game>
+	<game name="Adventure 1 - The Mutant Spiders (USA, Europe)" id="0118">
+		<category>Games</category>
+		<description>Adventure 1 - The Mutant Spiders (USA, Europe)</description>
+		<rom name="Adventure 1 - The Mutant Spiders (USA, Europe).bin" size="16384" crc="8d072b2e" md5="d1af6f5c60cfb4d004cec0cc4f8daefa" sha1="c91ba12fac9ed7534680bad67cd4d7b5dd0afc16" sha256="90bdd61b1c80898fc871f325828f36e2116b610a21e3c226c547aa8aed2723a8"/>
 	</game>
 	<game name="Adventure Creator (USA, Europe)" id="0120">
 		<category>Games</category>
@@ -30,6 +35,11 @@
 		<category>Games</category>
 		<description>Alf in the Color Caves (USA, Europe)</description>
 		<rom name="Alf in the Color Caves (USA, Europe).bin" size="16384" crc="f06cd220" md5="f5ef92de3262c8b6c01dcf53a5f8773c" sha1="0fc963c41b2e748f7001c976d5a86231d8e61294" sha256="634d7cd152869332304585653bb368a5a1ba6f2434573d8cddfb75aabd0a6b00"/>
+	</game>
+	<game name="Big Bird's Funhouse (USA, Europe)" id="0136">
+		<category>Games</category>
+		<description>Big Bird's Funhouse (USA, Europe)</description>
+		<rom name="Big Bird's Funhouse (USA, Europe).bin" size="16384" crc="31eb66d6" md5="5a0017eb9b9bedad988578bc2612582d" sha1="6bd7e5d52ecab833065a86d492f6c399699d68f4" sha256="6c87e667bdd5f5f86ba851b743f6222cd7be367555454eadc2e60412241ac594"/>
 	</game>
 	<game name="Blueprint (USA, Europe)" id="0138">
 		<category>Games</category>
@@ -80,6 +90,12 @@
 		<category>Games</category>
 		<description>Gridrunner (USA, Europe)</description>
 		<rom name="Gridrunner (USA, Europe).bin" size="8192" crc="12f36a09" md5="20f4ce80b6eb3e05f4fcf1686192a8e1" sha1="218625325984ebdef88a5b56bc81bcff229d61db" sha256="52dab22623126061a1e8487568fa693b35bc0c8d3f8d5079f9223c420618b7a1"/>
+	</game>
+	<game name="Joust (USA, Europe) (Proto)" id="0351">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Joust (USA, Europe) (Proto)</description>
+		<rom name="Joust (USA, Europe) (Proto).bin" size="16384" crc="1388d4f2" md5="8504ba3be588371265b0b6403bf55ee7" sha1="e2df2bb169ebe7a2ce73e04b7e1db4b3026c293d" sha256="d7e9ad10111af82717194746ed37b53b90cd06afd5fc0c0f7eb0d50199d6815b"/>
 	</game>
 	<game name="Lazarian (USA, Europe)" id="0203">
 		<category>Games</category>

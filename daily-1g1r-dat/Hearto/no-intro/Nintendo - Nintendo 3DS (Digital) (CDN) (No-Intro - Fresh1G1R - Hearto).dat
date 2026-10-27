@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Digital) (CDN) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Digital) (CDN) (6,534) (-y) [-aAbBcefkmMoprv] (20261010-012316) (Retool)</description>
-		<version>20261010-012316</version>
-		<date>2026-10-26 07-46-47</date>
+		<description>Nintendo - Nintendo 3DS (Digital) (CDN) (6,534) (-y) [-aAbBcefkmMoprv] (20261026-173754) (Retool)</description>
+		<version>20261026-173754</version>
+		<date>2026-10-27 07-40-55</date>
 		<author>1988reload, ajshell1, Arctic Circle System, Aringon, bikerspade, buckwheat, C. V. Reynolds, Gefflon, Hiccup, Hiccup and DarkMatterCore, Icyelut, InternalLoss, Jack, Jarvik7, Just001Kim, MeguCocoa, MisterSheeple, niemand, nnssxx, norkmetnoil577, number, rarenight, root, SonGoku, u53r123, Whovian9369, xprism, xuom2, ZeroSkill, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -47562,14 +47562,6 @@
 		<rom name="00000001" size="200704" crc="ac0192b9" md5="45d6062b00b6d44a3d9fcb2fccf2847b" sha1="349232a103ef3cfc788cfcf10b6787cb7d636b8d"/>
 		<rom name="tmd.0" size="4708" crc="6d73e205" md5="92562d30f017b1894cd9c70d1069312a" sha1="b8700231dc3d5f7b8202bcb5d9c76de5e61bbdab"/>
 	</game>
-	<game name="Goodbye! Hakoboy! (Japan)" id="04042">
-		<category>Games</category>
-		<description>Goodbye! Hakoboy! (Japan)</description>
-		<game_id>00040000001ad300</game_id>
-		<rom name="00000000" size="158195712" crc="59391b1f" md5="2c8ee6740cc6e32261ae26e6223afb0f" sha1="b19e45a9633f775ffc2a98b80214b17f04428cd0"/>
-		<rom name="00000001" size="385024" crc="73894545" md5="4b2c705e1a5b66a029b543ac569e24b0" sha1="ceb0083f23387c407bc5dfc9d556404708d80533"/>
-		<rom name="tmd.0" size="4708" crc="746484f5" md5="8f2ee69c2f1d62cc124855c2bed45910" sha1="e828718d55403f54552d8e3772cfbd09927568d7"/>
-	</game>
 	<game name="Goony (USA) (DSiWare)" id="07651">
 		<category>Games</category>
 		<description>Goony (USA) (DSiWare)</description>
@@ -74895,6 +74887,14 @@
 		<game_id>000480044b375445</game_id>
 		<rom name="00000000" size="12474368" crc="ce0a24cf" md5="4dcf597f20a94ff164e587a1f9021bd8" sha1="d1687099183d14553f659ed1e2d6da221fae10e3"/>
 		<rom name="tmd.0" size="4660" crc="eba0c0e8" md5="e2dc5b9c29d830c405039335a901856f" sha1="1339baf580a3616ada409773cc72930088fa1bdf"/>
+	</game>
+	<game name="Sayonara! HakoBoy! (Japan)" id="04042">
+		<category>Games</category>
+		<description>Sayonara! HakoBoy! (Japan)</description>
+		<game_id>00040000001ad300</game_id>
+		<rom name="00000000" size="158195712" crc="59391b1f" md5="2c8ee6740cc6e32261ae26e6223afb0f" sha1="b19e45a9633f775ffc2a98b80214b17f04428cd0"/>
+		<rom name="00000001" size="385024" crc="73894545" md5="4b2c705e1a5b66a029b543ac569e24b0" sha1="ceb0083f23387c407bc5dfc9d556404708d80533"/>
+		<rom name="tmd.0" size="4708" crc="746484f5" md5="8f2ee69c2f1d62cc124855c2bed45910" sha1="e828718d55403f54552d8e3772cfbd09927568d7"/>
 	</game>
 	<game name="Scarygirl Illustration Kit (USA)" id="02673">
 		<category>Games</category>

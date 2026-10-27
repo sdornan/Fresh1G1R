@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Tapes) (Retool)</name>
-		<description>Commodore - Commodore 64 (Tapes) (1,654) (-y) [-aAbBcefkmMoprv] (20261024-050749) (Retool)</description>
-		<version>20261024-050749</version>
-		<date>2026-10-26 07-43-01</date>
+		<description>Commodore - Commodore 64 (Tapes) (1,654) (-y) [-aAbBcefkmMoprv] (20261026-223744) (Retool)</description>
+		<version>20261026-223744</version>
+		<date>2026-10-27 07-41-08</date>
 		<author>1988reload, C. V. Reynolds</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -396,47 +396,47 @@
 	<game name="Arcana (Europe)" id="0130">
 		<category>Games</category>
 		<description>Arcana (Europe)</description>
-		<rom name="Arcana (Europe).tap" size="647706" crc="4cb0a58f" md5="635cfe04249c9b95a61685e48f63e9c1" sha1="3e94f05128799b756e8f1edf316d1adea2c11ec8"/>
+		<rom name="Arcana (Europe).tap" size="647706" crc="4cb0a58f" md5="635cfe04249c9b95a61685e48f63e9c1" sha1="3e94f05128799b756e8f1edf316d1adea2c11ec8" sha256="16ffcfdebf58b146915b54171817a23e96a6d5a73fdfc1a72f809d79153c917f"/>
 	</game>
 	<game name="Archon 2 - Adept (Europe)" id="0131">
 		<category>Games</category>
 		<description>Archon 2 - Adept (Europe)</description>
-		<rom name="Archon 2 - Adept (Europe).tap" size="513454" crc="051c473d" md5="d9556ccb401b1cccd4bc5c46903bc1fe" sha1="4182f2a0d8b5609454d057de1f458fbaf913a07b"/>
+		<rom name="Archon 2 - Adept (Europe).tap" size="513454" crc="051c473d" md5="d9556ccb401b1cccd4bc5c46903bc1fe" sha1="4182f2a0d8b5609454d057de1f458fbaf913a07b" sha256="c20c52cab96810c1039786bfaecd20227d9f7defc7e5224757937a89102fe894"/>
 	</game>
 	<game name="Arctic Fox (Europe)" id="0132">
 		<category>Games</category>
 		<description>Arctic Fox (Europe)</description>
-		<rom name="Arctic Fox (Europe).tap" size="737433" crc="f7256523" md5="ad7dcc99b19be060b38b9510d0130bd0" sha1="4e2340a8fdef2e9b97b13026c5dca95d43b3429b"/>
+		<rom name="Arctic Fox (Europe).tap" size="737433" crc="f7256523" md5="ad7dcc99b19be060b38b9510d0130bd0" sha1="4e2340a8fdef2e9b97b13026c5dca95d43b3429b" sha256="8c905c3bc5c8d6c318e5e64d2d23f72500d58195106a5832502fce2ed8caf215"/>
 	</game>
 	<game name="Ark Pandora (Europe)" id="0133">
 		<category>Games</category>
 		<description>Ark Pandora (Europe)</description>
-		<rom name="Ark Pandora (Europe).tap" size="656722" crc="da2526ce" md5="4319e5c7c276590f574b18f2efc22985" sha1="08dc7948eb6757273f13e78936469c07e849ea7f"/>
+		<rom name="Ark Pandora (Europe).tap" size="656722" crc="da2526ce" md5="4319e5c7c276590f574b18f2efc22985" sha1="08dc7948eb6757273f13e78936469c07e849ea7f" sha256="d1f03efd96c59a328b44571af5e0e380e164012ab93211389d3036f6726111e8"/>
 	</game>
 	<game name="Arkanoid (Europe)" id="0134">
 		<category>Games</category>
 		<description>Arkanoid (Europe)</description>
-		<rom name="Arkanoid (Europe).tap" size="640962" crc="d9a0c2d0" md5="ee9eb374a1766967a4fea700c7083e74" sha1="9d85fe379c5cebd8501a06e099933c70c3a290ea"/>
+		<rom name="Arkanoid (Europe).tap" size="640962" crc="d9a0c2d0" md5="ee9eb374a1766967a4fea700c7083e74" sha1="9d85fe379c5cebd8501a06e099933c70c3a290ea" sha256="923014806d53f1a1d84b9e2e9729b8c63f3e19eb44224eb706fce592ba3fa526"/>
 	</game>
 	<game name="Arkanoid - Revenge of Doh (Europe)" id="0135">
 		<category>Games</category>
 		<description>Arkanoid - Revenge of Doh (Europe)</description>
-		<rom name="Arkanoid - Revenge of Doh (Europe).tap" size="712478" crc="e7095501" md5="9ab90ffd7933d82b9ff6a4e367e4727c" sha1="574c7dbc9c451bfc1043b74044d4280389decc1a"/>
+		<rom name="Arkanoid - Revenge of Doh (Europe).tap" size="712478" crc="e7095501" md5="9ab90ffd7933d82b9ff6a4e367e4727c" sha1="574c7dbc9c451bfc1043b74044d4280389decc1a" sha256="18c6f64ab23dd9b1eb45495ab4eeabf75cac963ed63ecaba1a9b391d84afae21"/>
 	</game>
 	<game name="Armageddon (Europe)" id="0136">
 		<category>Games</category>
 		<description>Armageddon (Europe)</description>
-		<rom name="Armageddon (Europe).tap" size="338262" crc="18c15942" md5="9771af456e4191be2794fd5dc76d7f66" sha1="2ad4ec6e6ab511fb9fd9a645db1ce3f8681b654c"/>
+		<rom name="Armageddon (Europe).tap" size="338262" crc="18c15942" md5="9771af456e4191be2794fd5dc76d7f66" sha1="2ad4ec6e6ab511fb9fd9a645db1ce3f8681b654c" sha256="996e3635b94d9d0bc9324a256d4729db85c53c80c8754ea55c0675eef230ae3c"/>
 	</game>
 	<game name="Armageddon Man, The (Europe)" id="0137">
 		<category>Games</category>
 		<description>Armageddon Man, The (Europe)</description>
-		<rom name="Armageddon Man, The (Europe).tap" size="495162" crc="2e59a067" md5="b28626cf9d3c60575e3dc07946a686d7" sha1="ab27048453d653a10cb051bbaa73899bbd1d0dfc"/>
+		<rom name="Armageddon Man, The (Europe).tap" size="495162" crc="2e59a067" md5="b28626cf9d3c60575e3dc07946a686d7" sha1="ab27048453d653a10cb051bbaa73899bbd1d0dfc" sha256="f26e408b04cc994d338d7e7618217725a2b575dd60c695fc28c3522db4137540"/>
 	</game>
 	<game name="Armourdillo (Europe)" id="0138">
 		<category>Games</category>
 		<description>Armourdillo (Europe)</description>
-		<rom name="Armourdillo (Europe).tap" size="838670" crc="6edfcd83" md5="430d6a00522129f0f49549214b0ea797" sha1="cccf03f5c3c43e5f33bff29203cd63d8a3076fe9"/>
+		<rom name="Armourdillo (Europe).tap" size="838670" crc="6edfcd83" md5="430d6a00522129f0f49549214b0ea797" sha1="cccf03f5c3c43e5f33bff29203cd63d8a3076fe9" sha256="9280bf120481fab33cbe624e2984dcc75147b70ba9515fb38e5efc12587c1358"/>
 	</game>
 	<game name="Army Days (Europe)" id="0139">
 		<category>Games</category>

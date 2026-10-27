@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (385) (-y) [-aAbBcefkmMoprv] (2026-10-25 19-03-58) (Retool)</description>
-		<version>2026-10-25 19-03-58</version>
-		<date>2026-10-26 07-42-16</date>
+		<description>Sony - PlayStation 5 (386) (-y) [-aAbBcefkmMoprv] (2026-10-27 04-22-40) (Retool)</description>
+		<version>2026-10-27 04-22-40</version>
+		<date>2026-10-27 07-36-59</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -532,7 +532,7 @@
 	<game name="Death Stranding 2 - On the Beach (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar)" id="134334">
 		<category>Games</category>
 		<description>Death Stranding 2: On the Beach (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar)</description>
-		<serial>PPSA-02015/US, PPSA-02015/EU, ECJS 00048</serial>
+		<serial>PPSA-02015/US, PPSA-02015/EU, ECJS 00048, PPSA-02015/ANZ</serial>
 		<version>01.00</version>
 		<rom name="Death Stranding 2 - On the Beach (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar).iso" size="94951374848" crc="574dd787" md5="096b5c2c7c908f32506a6f0d1151da78" sha1="387305d0b74adbd4a52174f3f9c164a9b89faecb"/>
 	</game>
@@ -1173,12 +1173,12 @@
 		<version>01.01</version>
 		<rom name="Hogwarts Legacy (USA).iso" size="62186258432" crc="afdcf005" md5="00d84a4b174900aedc1add9e84f4c2f8" sha1="0b9d327d8d98afc906df8e86cc1132671b95377f"/>
 	</game>
-	<game name="Honkai - Star Rail (USA)" id="134275">
+	<game name="Honkai - Star Rail (USA) (En,Ja,Zh,Ko)" id="134275">
 		<category>Games</category>
-		<description>Honkai: Star Rail (USA)</description>
+		<description>Honkai: Star Rail (USA) (En,Ja,Zh,Ko)</description>
 		<serial>PPSA-08459</serial>
 		<version>02.00</version>
-		<rom name="Honkai - Star Rail (USA).iso" size="70299484160" crc="16a93994" md5="e863d5012095093e8c19ba46f35c13e4" sha1="d1b222823e6cf6654b1817a98f5980479091f5c2"/>
+		<rom name="Honkai - Star Rail (USA) (En,Ja,Zh,Ko).iso" size="70299484160" crc="16a93994" md5="e863d5012095093e8c19ba46f35c13e4" sha1="d1b222823e6cf6654b1817a98f5980479091f5c2"/>
 	</game>
 	<game name="Horizon - Forbidden West (USA)" id="134206">
 		<category>Games</category>
@@ -1941,6 +1941,13 @@
 		<serial>ELJM 30088</serial>
 		<version>01.01</version>
 		<rom name="Record of Lodoss War - Deedlit in Wonder Labyrinth (Japan).iso" size="40008351744" crc="d9eb4434" md5="a3036551895ec5c17ef8344bd0deba74" sha1="f84a504b56347e6a26dade5b188be6017a83fa9a"/>
+	</game>
+	<game name="Red Dead Redemption (USA)" id="139766">
+		<category>Games</category>
+		<description>Red Dead Redemption (USA)</description>
+		<serial>PPSA-30528/US</serial>
+		<version>02.00</version>
+		<rom name="Red Dead Redemption (USA).iso" size="40008351744" crc="be2ef072" md5="e3c017c6022ac55a32fa888befcdf1b7" sha1="e5e7434be14dbbaf21b85036a4accbad87c6c4ab"/>
 	</game>
 	<game name="Renzo Racer (Europe)" id="101369">
 		<category>Games</category>

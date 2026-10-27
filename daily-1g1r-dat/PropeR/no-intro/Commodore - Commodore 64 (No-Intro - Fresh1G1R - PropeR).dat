@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Retool)</name>
-		<description>Commodore - Commodore 64 (230) (-y) [-aAbBcdkmMpPuv] (20261024-051621) (Retool)</description>
-		<version>20261024-051621</version>
-		<date>2026-10-26 08-02-37</date>
+		<description>Commodore - Commodore 64 (230) (-y) [-aAbBcdkmMpPuv] (20261026-234119) (Retool)</description>
+		<version>20261026-234119</version>
+		<date>2026-10-27 07-49-39</date>
 		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -19,7 +19,7 @@
 	<game name="Adventure 1 - The Mutant Spiders (USA, Europe)" id="0118">
 		<category>Games</category>
 		<description>Adventure 1 - The Mutant Spiders (USA, Europe)</description>
-		<rom name="Adventure 1 - The Mutant Spiders (USA, Europe).crt" size="16464" crc="b0490a7d" md5="2ddfd45aac45ba4693e9326312e2cdcf" sha1="1b086cc3cd79b678d878bd8dd2e7964f4abc0f63"/>
+		<rom name="Adventure 1 - The Mutant Spiders (USA, Europe).crt" size="16464" header="00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="b0490a7d" md5="2ddfd45aac45ba4693e9326312e2cdcf" sha1="1b086cc3cd79b678d878bd8dd2e7964f4abc0f63" sha256="9fa4bf0d57d26e2625b3cabf804159eedf9e2a6ca76486695604841546fb19a8"/>
 	</game>
 	<game name="Adventure 3 - The Fourth Sarcophagus (USA, Europe)" id="0119">
 		<category>Games</category>
@@ -114,7 +114,7 @@
 	<game name="Big Bird's Funhouse (USA, Europe)" id="0136">
 		<category>Games</category>
 		<description>Big Bird's Funhouse (USA, Europe)</description>
-		<rom name="Big Bird's Funhouse (USA, Europe).crt" size="16464" crc="0ca54785" md5="f810132f1f8436818c02090428faaf36" sha1="fcfd6b894ccd44de6f66748719bd62f721058b25"/>
+		<rom name="Big Bird's Funhouse (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="0ca54785" md5="f810132f1f8436818c02090428faaf36" sha1="fcfd6b894ccd44de6f66748719bd62f721058b25" sha256="2ada05fc09648d3ffe7c65f511eba903a5536fb2dd4ff4bd4e6638a56972f800"/>
 	</game>
 	<game name="Big Bird's Special Delivery (USA, Europe)" id="0137">
 		<category>Games</category>

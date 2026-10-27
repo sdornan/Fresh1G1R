@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,716) (-y) [-aAbBcdkmMpPuv] (20261025-045420) (Retool)</description>
-		<version>20261025-045420</version>
-		<date>2026-10-26 08-03-42</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,716) (-y) [-aAbBcdkmMpPuv] (20261026-212934) (Retool)</description>
+		<version>20261026-212934</version>
+		<date>2026-10-27 07-49-56</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -205,6 +205,11 @@
 		<category>Games</category>
 		<description>2 in 1 - My Riding Stables + My Western Horse (Europe) (En,Fr,De)</description>
 		<rom name="2 in 1 - My Riding Stables + My Western Horse (Europe) (En,Fr,De).nds" size="33554432" crc="bfc275de" md5="ff1951f10d8a519f314c86dd9a44ccb4" sha1="a32a8b70435a4a0044430a361ac190d8183a3c0e"/>
+	</game>
+	<game name="2 in 1 - Prinzessin Lillifee Spielesammlung - Meine Wunderbare Welt + Feenzauber (Germany)" id="6421">
+		<category>Games</category>
+		<description>2 in 1 - Prinzessin Lillifee Spielesammlung - Meine Wunderbare Welt + Feenzauber (Germany)</description>
+		<rom name="2 in 1 - Prinzessin Lillifee Spielesammlung - Meine Wunderbare Welt + Feenzauber (Germany).nds" size="67108864" crc="1f709702" md5="df8c258deb8489572737410ebf4c89ee" sha1="da77e9a57c32a3381c4add6d119bd374fce8c3b6" sha256="1d008ce19e7512c952f94a73c68975b02c9c6dac6ff5b4062f676f15bf3a5e73"/>
 	</game>
 	<game name="200 Klassische Buecher (Germany)" id="4447">
 		<category>Games</category>
@@ -1709,7 +1714,7 @@
 	<game name="Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)" id="3693">
 		<category>Games</category>
 		<description>Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="cae09803" md5="5f2c60b08181b442090e4118de495883" sha1="a38da729214dd4914befb6df2a4fead9cac034c9"/>
+		<rom name="Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="cae09803" md5="5f2c60b08181b442090e4118de495883" sha1="a38da729214dd4914befb6df2a4fead9cac034c9" sha256="ac198bfafb9238f1c98d46c731d5a6d64bebb30190049b5f5ed0b3e0e87ba2e6"/>
 	</game>
 	<game name="Bob the Builder - Festival of Fun (Europe) (En,Es)" id="6304">
 		<category>Games</category>
@@ -13058,11 +13063,6 @@
 		<category>Games</category>
 		<description>Prinzessin Lillifee - Meine Liebsten Freunde (Europe) (En,De)</description>
 		<rom name="Prinzessin Lillifee - Meine Liebsten Freunde (Europe) (En,De).nds" size="67108864" crc="dff1a270" md5="43c6f008848055b3b7b39ce02a275e30" sha1="970de982a4b1e0ec5535a8952768929e52107d4e"/>
-	</game>
-	<game name="Prinzessin Lillifee - Spielesammlung (Germany)" id="6421">
-		<category>Games</category>
-		<description>Prinzessin Lillifee - Spielesammlung (Germany)</description>
-		<rom name="Prinzessin Lillifee - Spielesammlung (Germany).nds" size="67108864" crc="1f709702" md5="df8c258deb8489572737410ebf4c89ee" sha1="da77e9a57c32a3381c4add6d119bd374fce8c3b6"/>
 	</game>
 	<game name="Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)" id="4734">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,547) (-y) [-aAbBcefkmMoprv] (2026-10-26 00-42-51) (Retool)</description>
-		<version>2026-10-26 00-42-51</version>
-		<date>2026-10-26 07-40-54</date>
+		<description>IBM - PC compatible (26,547) (-y) [-aAbBcefkmMoprv] (2026-10-26 22-32-34) (Retool)</description>
+		<version>2026-10-26 22-32-34</version>
+		<date>2026-10-27 07-35-58</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -22070,7 +22070,7 @@
 	<game name="Black Moon Chronicles (Europe) (En,Fr,De) (Disc 2)" id="94394">
 		<category>Games</category>
 		<description>Black Moon Chronicles (Europe) (En,Fr,De) (Disc 2)</description>
-		<serial>CLN-GRCD2</serial>
+		<serial>CLN-GRCD2, CLN-FRCD2</serial>
 		<rom name="Black Moon Chronicles (Europe) (En,Fr,De) (Disc 2) (Track 01).bin" size="198125424" crc="d5f926cd" md5="041aed12d1b6d1276a277570cb384708" sha1="86a4eef26d44c4ff967917a81a4c3cbc6d62b6fd"/>
 		<rom name="Black Moon Chronicles (Europe) (En,Fr,De) (Disc 2) (Track 02).bin" size="45358320" crc="20057cf9" md5="5a657acccd6b9b59e21ae6ca65006ee6" sha1="4cb57f042c463268d963b5b89908436cabf52ec1"/>
 		<rom name="Black Moon Chronicles (Europe) (En,Fr,De) (Disc 2) (Track 03).bin" size="72977856" crc="18b49b28" md5="2ef0250719dbe0e0341c568d9b437d36" sha1="b510f601d732bf68fdc8ba8db32270a20a08ef22"/>
@@ -78062,18 +78062,6 @@
 		<rom name="Harvest of Souls (Europe) (Disc 2) (Track 6).bin" size="48705216" crc="ef45488d" md5="16e9c9daa26d4533de0fe9fd402b7135" sha1="91333fb964f932e40e1cdcaee0471392c20b1261"/>
 		<rom name="Harvest of Souls (Europe) (Disc 2) (Track 7).bin" size="71378496" crc="af65d98b" md5="b3a8c47527b687b82b9106aca9233b67" sha1="15b92bb031c69fff5befb6bb213822b94d6c0df7"/>
 		<rom name="Harvest of Souls (Europe) (Disc 2).cue" size="938" crc="a3200f54" md5="e6bb7d47cc1fd29a0f06045b86dc6f10" sha1="7aff53bd22022b19b9ce3e394e0039c293a999ce"/>
-	</game>
-	<game name="Harvest of Souls (Europe) (Playable Demo and Original Soundtrack)" id="82627">
-		<category>Demos</category>
-		<description>Harvest of Souls (Europe) (Playable Demo and Original Soundtrack)</description>
-		<serial>P0010037</serial>
-		<rom name="Harvest of Souls (Europe) (Playable Demo and Original Soundtrack) (Track 1).bin" size="54444096" crc="a2534be3" md5="a45b8734fa634d6c80afc8fb0e976ac1" sha1="2eda24ac48435a6b8dc03751656aaa7b8e888342"/>
-		<rom name="Harvest of Souls (Europe) (Playable Demo and Original Soundtrack) (Track 2).bin" size="46379088" crc="611ed5c3" md5="38b4fec6822eaa31fbcd7a8b4a5f69f0" sha1="630463043bb7fa84b32485d6e2d896a964124342"/>
-		<rom name="Harvest of Souls (Europe) (Playable Demo and Original Soundtrack) (Track 3).bin" size="33379584" crc="eb4646e8" md5="f3c11255944240261493c4bee3b1e28d" sha1="a5f56ada307e5941ccb0097a15453a53b43ebcc8"/>
-		<rom name="Harvest of Souls (Europe) (Playable Demo and Original Soundtrack) (Track 4).bin" size="43977696" crc="68e4b4f0" md5="7ddb6d7d4228279fdf097d79fd09981c" sha1="b0dc990499c2c2d138c703a0d0afc2ef0dfff2c2"/>
-		<rom name="Harvest of Souls (Europe) (Playable Demo and Original Soundtrack) (Track 5).bin" size="40320336" crc="69abef05" md5="bb0da621934ff6f59b6cf1a0869bdee0" sha1="4e2b5eedf77b72ff162b45942357e289f08cc4fd"/>
-		<rom name="Harvest of Souls (Europe) (Playable Demo and Original Soundtrack) (Track 6).bin" size="49046256" crc="e3f2fd0d" md5="1b3d6cf4c0952cf6c21efa1ff2cd38d5" sha1="89b022ab8ee6dcea3c66213ca66b9580802afa59"/>
-		<rom name="Harvest of Souls (Europe) (Playable Demo and Original Soundtrack).cue" size="936" crc="095feee2" md5="01af450af04d8c8d239b9e0d54cbea05" sha1="f3df291074c07d6ca2506bdf5e488298bbdb137e"/>
 	</game>
 	<game name="Harvest of Souls - Stadt der verfluchten Seelen (Germany) (Disc 1)" id="98180">
 		<category>Games</category>
@@ -185979,6 +185967,11 @@
 		<description>Tomb Raider IV: The Last Revelation (Germany)</description>
 		<rom name="Tomb Raider IV - The Last Revelation (Germany).bin" size="817011888" crc="4c625e2c" md5="ba3fb8a891ac14b79a2a706b041588fe" sha1="4801557d7ee1a38f830cccea3e5dcbce931f3000"/>
 		<rom name="Tomb Raider IV - The Last Revelation (Germany).cue" size="112" crc="4ad2c54f" md5="f8663093b02debafb01997d26fcf722e" sha1="e79321a1f22fb523262945ce076c68225ea30d76"/>
+	</game>
+	<game name="Tomb Raider Trilogy (Germany)" id="139765">
+		<category>Games</category>
+		<description>Tomb Raider Trilogy (Germany)</description>
+		<rom name="Tomb Raider Trilogy (Germany).iso" size="7911145472" crc="cf61c9c5" md5="ccf09400ea58e5ed7fa582696897bdc1" sha1="b2a9df7049120d76194ead4a9c705719a164932d"/>
 	</game>
 	<game name="Tomb Raider Ultimate Edition (Poland) (Bonus Disc)" id="85068">
 		<category>Games</category>

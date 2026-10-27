@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Coleco - ColecoVision (Retool)</name>
-		<description>Coleco - ColecoVision (140) (-y) [-aAbBcdkmMpPuv] (20260710-180934) (Retool)</description>
-		<version>20260710-180934</version>
-		<date>2026-10-26 08-00-19</date>
-		<author>Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, kazumi213, omonim2007, Psychofox11, psykopat, rarenight, relax, SonGoku, xuom2</author>
+		<description>Coleco - ColecoVision (140) (-y) [-aAbBcdkmMpPuv] (20261026-214148) (Retool)</description>
+		<version>20261026-214148</version>
+		<date>2026-10-27 07-52-23</date>
+		<author>1988reload, Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, kazumi213, omonim2007, Psychofox11, psykopat, rarenight, relax, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -14,7 +14,7 @@
 	<game name="2010 - The Graphic Action Game (USA)" id="0001">
 		<category>Games</category>
 		<description>2010 - The Graphic Action Game (USA)</description>
-		<rom name="2010 - The Graphic Action Game (USA).col" size="32768" crc="c575a831" md5="0dfb83c1353481d297dfcc6123978533" sha1="b1621d39a2a6d1cda7eceb882a612a4baf3da70c"/>
+		<rom name="2010 - The Graphic Action Game (USA).col" size="32768" crc="c575a831" md5="0dfb83c1353481d297dfcc6123978533" sha1="b1621d39a2a6d1cda7eceb882a612a4baf3da70c" sha256="6dd7e4103ac1d2c66347eb56024bd4f4f9a6d337d07f3e8a1333671b3fd5ea05"/>
 	</game>
 	<game name="Activision Decathlon, The (USA)" id="0036">
 		<category>Games</category>
@@ -29,7 +29,7 @@
 	<game name="Alphabet Zoo (USA)" id="0004">
 		<category>Games</category>
 		<description>Alphabet Zoo (USA)</description>
-		<rom name="Alphabet Zoo (USA).col" size="16384" crc="4ffb4e8c" md5="d2b2efd04ef3e2596bfca82262f98664" sha1="d1aa4aff55e9febaa3e7577ffcc381fee0f8e241"/>
+		<rom name="Alphabet Zoo (USA).col" size="16384" crc="4ffb4e8c" md5="d2b2efd04ef3e2596bfca82262f98664" sha1="d1aa4aff55e9febaa3e7577ffcc381fee0f8e241" sha256="30233719f7a2d167a40a622e8ae0f4490d8d794415175370a1d4e5b09bcb4756"/>
 	</game>
 	<game name="Amazing Bumpman (USA)" id="0005">
 		<category>Games</category>
@@ -79,7 +79,7 @@
 	<game name="Brain Strainers (USA)" id="0015">
 		<category>Games</category>
 		<description>Brain Strainers (USA)</description>
-		<rom name="Brain Strainers (USA).col" size="16384" crc="829c967d" md5="302846579767d876883d8a560738daae" sha1="fe6235b99889388ff858c19eae7337dd0b75944a"/>
+		<rom name="Brain Strainers (USA).col" size="16384" crc="829c967d" md5="302846579767d876883d8a560738daae" sha1="fe6235b99889388ff858c19eae7337dd0b75944a" sha256="2f32895b9d8cc6da4e53d9d5486ec02c64d9961f8a02407f34b8a9bfaa7bace7"/>
 	</game>
 	<game name="Buck Rogers - Planet of Zoom (USA, Europe)" id="0016">
 		<category>Games</category>
