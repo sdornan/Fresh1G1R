@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,618) (-y) [-aAbBcefkmMoprv] (2026-10-26 20-12-50) (Retool)</description>
-		<version>2026-10-26 20-12-50</version>
-		<date>2026-10-27 07-36-09</date>
+		<description>Microsoft - Xbox 360 (1,619) (-y) [-aAbBcefkmMoprv] (2026-10-28 00-32-34) (Retool)</description>
+		<version>2026-10-28 00-32-34</version>
+		<date>2026-10-28 08-10-01</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -4496,6 +4496,12 @@
 		<serial>GE-2002</serial>
 		<rom name="Kengo - Legend of the 9 (USA).iso" size="7835492352" crc="1fa71b19" md5="2fc155aebd546395e8c00008693f1913" sha1="3e2de663b5ecdf51505426449257a12c2c70f42f"/>
 	</game>
+	<game name="Kengou Zero (Japan) (Taikenban)" id="139795">
+		<category>Demos</category>
+		<description>Kengou Zero (Japan) (Taikenban)</description>
+		<serial>GE-2004</serial>
+		<rom name="Kengou Zero (Japan) (Taikenban).iso" size="7834892288" crc="698b1b44" md5="c4047ebac6d499a673588836910d584d" sha1="962dbc7be2a2a8bc55562ab551c18d4dcd3dd912"/>
+	</game>
 	<game name="Ketsui - Kizuna Jigoku-tachi Extra (Japan)" id="13022">
 		<category>Games</category>
 		<description>Ketsui: Kizuna Jigoku-tachi Extra (Japan)</description>
@@ -5458,17 +5464,17 @@
 		<serial>EA-2088</serial>
 		<rom name="Mercenaries 2 - World in Flames (USA) (En,Fr).iso" size="7835492352" crc="cbc441f0" md5="381356fb3a5688a5c1642fb6bb04d26b" sha1="93cf6b6ed22f2334e00b5dfd11faa13e1d2bcab3"/>
 	</game>
-	<game name="Metal Gear Rising - Revengeance (USA, Europe) (En,Ja,Fr,De,Es,It,Pt) (Demo)" id="63133">
-		<category>Demos</category>
-		<description>Metal Gear Rising: Revengeance (USA, Europe) (En,Ja,Fr,De,Es,It,Pt) (Demo)</description>
-		<serial>KN-2133</serial>
-		<rom name="Metal Gear Rising - Revengeance (USA, Europe) (En,Ja,Fr,De,Es,It,Pt) (Demo).iso" size="7838695424" crc="3e0373a3" md5="ca453e0c6c61f7ca7af8ffe147601ac3" sha1="e329c4f7a97c181cc2f3494b3e2b1c87f781f004"/>
-	</game>
 	<game name="Metal Gear Rising - Revengeance (World) (En,Ja,Fr,De,Es,It,Pt)" id="39033">
 		<category>Games</category>
 		<description>Metal Gear Rising: Revengeance (World) (En,Ja,Fr,De,Es,It,Pt)</description>
 		<serial>KN-2058</serial>
 		<rom name="Metal Gear Rising - Revengeance (World) (En,Ja,Fr,De,Es,It,Pt).iso" size="8738846720" crc="7524ae2b" md5="d674877aea3144ae08e75ceb4d5ad0ac" sha1="81021826b07d93d1714dcd4574108a99b57410c6"/>
+	</game>
+	<game name="Metal Gear Rising - Revengeance (World) (En,Ja,Fr,De,Es,It,Pt) (Demo)" id="63133">
+		<category>Demos</category>
+		<description>Metal Gear Rising: Revengeance (World) (En,Ja,Fr,De,Es,It,Pt) (Demo)</description>
+		<serial>KN-2133</serial>
+		<rom name="Metal Gear Rising - Revengeance (World) (En,Ja,Fr,De,Es,It,Pt) (Demo).iso" size="7838695424" crc="3e0373a3" md5="ca453e0c6c61f7ca7af8ffe147601ac3" sha1="e329c4f7a97c181cc2f3494b3e2b1c87f781f004"/>
 	</game>
 	<game name="Metal Gear Solid - HD Collection (USA) (En,Fr,Es) (Disc 1)" id="50573">
 		<category>Games</category>
@@ -5832,11 +5838,11 @@
 		<serial>EA-2277</serial>
 		<rom name="MySims SkyHeroes (USA, Europe) (En,Fr,De,Es,It,Nl).iso" size="7838695424" crc="67e5fec9" md5="de7ec2e9ece62d7b7de87fcb87b5e851" sha1="65a1fc904c7795c36d090d59919529d18564b092"/>
 	</game>
-	<game name="N3 - Ninety-Nine Nights (Japan) (Demo)" id="89825">
+	<game name="N3 - Ninety-Nine Nights (Japan) (Taikenban)" id="89825">
 		<category>Demos</category>
-		<description>N3: Ninety-Nine Nights (Japan) (Demo)</description>
+		<description>N3: Ninety-Nine Nights (Japan) (Taikenban)</description>
 		<serial>MS-2031</serial>
-		<rom name="N3 - Ninety-Nine Nights (Japan) (Demo).iso" size="7834892288" crc="823098a5" md5="ff431ca2cc3350eaba80be2cb11a3922" sha1="057477b6262205aa17e64a3371d44be33b3c792b"/>
+		<rom name="N3 - Ninety-Nine Nights (Japan) (Taikenban).iso" size="7834892288" crc="823098a5" md5="ff431ca2cc3350eaba80be2cb11a3922" sha1="057477b6262205aa17e64a3371d44be33b3c792b"/>
 	</game>
 	<game name="N3 - Ninety-Nine Nights (USA, Europe) (En,Fr,De,Es,It)" id="12506">
 		<category>Games</category>
@@ -9705,11 +9711,11 @@
 		<serial>TO-2001</serial>
 		<rom name="Zoids Infinity EX Neo (Japan).iso" size="7834892288" crc="6f659449" md5="5cc82abd9e64d9f76d752016025950a2" sha1="789c279b5176ea169d67f95adc0f2cba73988b38"/>
 	</game>
-	<game name="Zone of the Enders HD Collection (USA)" id="63129">
+	<game name="Zone of the Enders HD Collection (USA, Asia)" id="63129">
 		<category>Games</category>
-		<description>Zone of the Enders HD Collection (USA)</description>
+		<description>Zone of the Enders HD Collection (USA, Asia)</description>
 		<serial>KN-2114</serial>
-		<rom name="Zone of the Enders HD Collection (USA).iso" size="8738846720" crc="224cb44c" md5="f97f084fb504b2212cf0e01a90c36fd1" sha1="57e4de198ec92e754b2562521f8cecd4234e3a12"/>
+		<rom name="Zone of the Enders HD Collection (USA, Asia).iso" size="8738846720" crc="224cb44c" md5="f97f084fb504b2212cf0e01a90c36fd1" sha1="57e4de198ec92e754b2562521f8cecd4234e3a12"/>
 	</game>
 	<game name="Zoo Tycoon (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Pl,Ru)" id="72085">
 		<category>Games</category>

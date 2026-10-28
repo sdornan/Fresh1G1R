@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,547) (-y) [-aAbBcefkmMoprv] (2026-10-26 22-32-34) (Retool)</description>
-		<version>2026-10-26 22-32-34</version>
-		<date>2026-10-27 07-35-58</date>
+		<description>IBM - PC compatible (26,556) (-y) [-aAbBcefkmMoprv] (2026-10-28 02-02-34) (Retool)</description>
+		<version>2026-10-28 02-02-34</version>
+		<date>2026-10-28 08-09-47</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -32102,7 +32102,7 @@
 		<serial>1-162-40-101</serial>
 		<version>1.0</version>
 		<rom name="ClockWerx (USA).bin" size="783216000" crc="d6944ae6" md5="abfa02c637600cac8d6678026292d549" sha1="51c399109625e29891f555ea59f165acc304e150"/>
-		<rom name="ClockWerx (USA).cue" size="81" crc="ed71c1d3" md5="28149b3943baa34e980df2cf06be5767" sha1="444d355d4edd5f50069bb8e7c754daa36699a724"/>
+		<rom name="ClockWerx (USA).cue" size="104" crc="c8feace5" md5="7ec63a86b48abf4eaa330a0c500355a7" sha1="80b1c0e60002020b71adbcfab5c1c788d07f36b1"/>
 	</game>
 	<game name="Clockwork Man, The (USA)" id="82955">
 		<category>Games</category>
@@ -41769,7 +41769,8 @@
 	<game name="Deer Hunter - The 2005 Season (USA)" id="130571">
 		<category>Games</category>
 		<description>Deer Hunter: The 2005 Season (USA)</description>
-		<serial>Part # 25626CD</serial>
+		<serial>Part # 25626CD, BIPDEERH05CDRV1</serial>
+		<version>1.0</version>
 		<rom name="Deer Hunter - The 2005 Season (USA).bin" size="727007904" crc="d82b7a59" md5="90a53f40d7f2c6d8f94912525af13429" sha1="43886824111a6a53e6b4d6371f025c63ec3d43b5"/>
 		<rom name="Deer Hunter - The 2005 Season (USA).cue" size="101" crc="ed0de999" md5="a2b79a1d23d7842ee32acf4bc0a67a0d" sha1="f1e69ddd68393072fa41b0ae8fc6410f6e5b8be0"/>
 	</game>
@@ -49358,13 +49359,13 @@
 		<serial>TZB00011834UND</serial>
 		<rom name="Doom 3 - BFG Edition (USA) (En,Fr,Es).iso" size="3983671296" crc="12ff3b9a" md5="667c96ea4373a43edd06d322115b1496" sha1="73caf8c7b31f08be957ea36cff565c2918222fda"/>
 	</game>
-	<game name="Doom 3 - Resurrection of Evil (Taiwan, World)" id="13010">
+	<game name="Doom 3 - Resurrection of Evil (World)" id="13010">
 		<category>Add-Ons</category>
-		<description>Doom 3: Resurrection of Evil (Taiwan, World)</description>
+		<description>Doom 3: Resurrection of Evil (World)</description>
 		<serial>32649.101.IT, 32649.101.UK, 32649.101.US, 32649.101.AU</serial>
 		<version>1.0</version>
-		<rom name="Doom 3 - Resurrection of Evil (Taiwan, World).bin" size="775821312" crc="ac356de2" md5="424f57d26bb332d5ab49a2a852c78199" sha1="da041e66da9f958e564fd62acfc91670750ce22b"/>
-		<rom name="Doom 3 - Resurrection of Evil (Taiwan, World).cue" size="111" crc="d1da919a" md5="d238284ec8a95c5a3d6b9066b6f5fd4e" sha1="a3f3b691f44a72c8baa0c2c153e5a53ba3a09f3b"/>
+		<rom name="Doom 3 - Resurrection of Evil (World).bin" size="775821312" crc="ac356de2" md5="424f57d26bb332d5ab49a2a852c78199" sha1="da041e66da9f958e564fd62acfc91670750ce22b"/>
+		<rom name="Doom 3 - Resurrection of Evil (World).cue" size="103" crc="a8411376" md5="4b877fac3c4b12737e51111acea873c6" sha1="c6c9ab5c7f14ddbea145f1c6947863bc99666866"/>
 	</game>
 	<game name="Doom Companion CD-ROM (USA)" id="4440">
 		<category>Add-Ons</category>
@@ -62705,6 +62706,30 @@
 		<rom name="Field &amp; Stream - Trophy Buck (Germany) (Track 9).bin" size="19204080" crc="1d5d409f" md5="ab2b43f955731bec0ddf0661908654f3" sha1="34151d898bb6496bf0f522b680eb038959f717e6"/>
 		<rom name="Field &amp; Stream - Trophy Buck (Germany).cue" size="1032" crc="8d322323" md5="11f764357f168007bba4343741f3601b" sha1="1fe52f4e3864d3ddb462d96203f28bb9cd078a8c"/>
 	</game>
+	<game name="Field &amp; Stream - Trophy Hunting (USA) (Disc 1) (Installation Disk)" id="139775">
+		<category>Games</category>
+		<description>Field &amp; Stream: Trophy Hunting (USA) (Disc 1) (Installation Disk)</description>
+		<version>1.0</version>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 1) (Installation Disk).bin" size="548453472" crc="054a65a2" md5="9a446951d45eae321351178835bdaa11" sha1="bbca3f3517a6fb4eca6a5ec6d1c3cba2ac3db7c8"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 1) (Installation Disk).cue" size="132" crc="88a85526" md5="92210d7bbc5e74a356afc61da4cd8eb0" sha1="05db74a8d44aa8898e7016bf31ec01d6c0d8bb32"/>
+	</game>
+	<game name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk)" id="139776">
+		<category>Games</category>
+		<description>Field &amp; Stream: Trophy Hunting (USA) (Disc 2) (Game Disk)</description>
+		<version>1.0</version>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk) (Track 01).bin" size="399136752" crc="e45ab05a" md5="3b475e96b8f8db2145b65aafe1abab2f" sha1="0d13c18fe62352757ac346e2ee117b7f49f1b371"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk) (Track 02).bin" size="21539616" crc="eac23bfb" md5="b763678ec8e81f24c3792123c9831015" sha1="6aa959e85cbfb49f3a0bff314d0dbb9f025ebbf7"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk) (Track 03).bin" size="21407904" crc="a8493c5b" md5="ec3f96053e3cf89cb6fe8b299a7d3df8" sha1="2f2ccc12eb2f4da4d005e36152a3b8155573fdf4"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk) (Track 04).bin" size="21407904" crc="e3aa8ba1" md5="e10865238e964035ac5d67cccffdae96" sha1="15c31dcbc9a7d436a3bec4742abb58f405792336"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk) (Track 05).bin" size="21407904" crc="bc76f152" md5="0debab6f16651a730ef7758e60d8d94c" sha1="2a794302d505047c2f290a08aa758361de3310c6"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk) (Track 06).bin" size="22181712" crc="9b218410" md5="aa20ccf2777eb6240e9c36f2f7cb950d" sha1="daa09cddfc263539b6ba7306428b107625176f60"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk) (Track 07).bin" size="21962976" crc="d982bed1" md5="4ddde428288cbfa338543e830c082f11" sha1="335a4831333bf0677f23a2605d31d67abf2ba091"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk) (Track 08).bin" size="30371376" crc="0f5536b8" md5="78927c571cc1e158b3ea2b495695f55e" sha1="c58bb7a737b7dcc34e24df22f6f9b4f5872dca24"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk) (Track 09).bin" size="13441680" crc="b53efd26" md5="987f2e6407bec8920eb957dbac1f5e2e" sha1="5944059165f38fc4dc9fec10e0801bd27fe7ac7f"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk) (Track 10).bin" size="16052400" crc="1e8cc016" md5="508ba04fb07a141deb625428273feb53" sha1="43917995d4fc7a3fba686a40b0dcd7d3439b5e81"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk) (Track 11).bin" size="16066512" crc="918e51e1" md5="dd2ef0386a848e145967cfd17a593aa6" sha1="5c73c898fcc19287576f3368081095fd5a62251f"/>
+		<rom name="Field &amp; Stream - Trophy Hunting (USA) (Disc 2) (Game Disk).cue" size="1665" crc="df07cde0" md5="fdab9afcc643121133f9cf427f204194" sha1="8fd9ec5559dab93f1a734429b8ff7f264bd171d7"/>
+	</game>
 	<game name="Field &amp; Stream - Trophy Hunting - Big Game Edition (USA) (Disc 1) (Installation Disk) (OEM)" id="117678">
 		<category>Games</category>
 		<description>Field &amp; Stream: Trophy Hunting: Big Game Edition (USA) (Disc 1) (Installation Disk) (OEM)</description>
@@ -73742,19 +73767,19 @@
 		<rom name="Grand Theft Auto (USA) (Rev 1) (Track 11).bin" size="13058304" crc="fbd91296" md5="78a77d75ea443b0f225859992132f424" sha1="17e85c31c352aa3447dc3a30a88f2067fe05bea1"/>
 		<rom name="Grand Theft Auto (USA) (Rev 1).cue" size="1380" crc="3980b0e7" md5="bbe6af32898dace21b83cb38e2c38819" sha1="1d3a35368841ab47d78548a055b528172a806c63"/>
 	</game>
-	<game name="Grand Theft Auto - Episodes from Liberty City (USA) (En,Fr,De,Es,It) (Disc 1)" id="63989">
+	<game name="Grand Theft Auto - Episodes from Liberty City (USA, Canada) (En,Fr,De,Es,It) (Disc 1)" id="63989">
 		<category>Games</category>
-		<description>Grand Theft Auto: Episodes from Liberty City (USA) (En,Fr,De,Es,It) (Disc 1)</description>
+		<description>Grand Theft Auto: Episodes from Liberty City (USA, Canada) (En,Fr,De,Es,It) (Disc 1)</description>
 		<serial>31781-1.1</serial>
 		<version>1.1.0.0</version>
-		<rom name="Grand Theft Auto - Episodes from Liberty City (USA) (En,Fr,De,Es,It) (Disc 1).iso" size="8294400000" crc="fd0882b2" md5="ece531a4d17166b3bf56e2adda7ff0ea" sha1="e1f5ee90a766548486fb8c256ac2dff147b1497b"/>
+		<rom name="Grand Theft Auto - Episodes from Liberty City (USA, Canada) (En,Fr,De,Es,It) (Disc 1).iso" size="8294400000" crc="fd0882b2" md5="ece531a4d17166b3bf56e2adda7ff0ea" sha1="e1f5ee90a766548486fb8c256ac2dff147b1497b"/>
 	</game>
-	<game name="Grand Theft Auto - Episodes from Liberty City (USA, Argentina) (En,Fr,De,Es,It) (Disc 2)" id="63988">
+	<game name="Grand Theft Auto - Episodes from Liberty City (USA, Canada) (En,Fr,De,Es,It) (Disc 2)" id="63988">
 		<category>Games</category>
-		<description>Grand Theft Auto: Episodes from Liberty City (USA, Argentina) (En,Fr,De,Es,It) (Disc 2)</description>
+		<description>Grand Theft Auto: Episodes from Liberty City (USA, Canada) (En,Fr,De,Es,It) (Disc 2)</description>
 		<serial>31781-1.2, SYX26183GM2</serial>
 		<version>1.1.0.0</version>
-		<rom name="Grand Theft Auto - Episodes from Liberty City (USA, Argentina) (En,Fr,De,Es,It) (Disc 2).iso" size="7412514816" crc="ab9ef975" md5="9be1504636b423d39e4eae792e14678c" sha1="8d5b1451011dabe0752f1ae75a97d761c3dddb59"/>
+		<rom name="Grand Theft Auto - Episodes from Liberty City (USA, Canada) (En,Fr,De,Es,It) (Disc 2).iso" size="7412514816" crc="ab9ef975" md5="9be1504636b423d39e4eae792e14678c" sha1="8d5b1451011dabe0752f1ae75a97d761c3dddb59"/>
 	</game>
 	<game name="Grand Theft Auto - London (Japan) (En,Ja)" id="114258">
 		<category>Games</category>
@@ -73820,12 +73845,12 @@
 		<version>2.00</version>
 		<rom name="Grand Theft Auto - San Andreas (Poland) (En,Fr,De,Es,It,Pl) (Dysk 1) (Wersja Angielska).iso" size="4213833728" crc="9de5d2a0" md5="64097c953765dca3f5774c4bf907342c" sha1="b8ffd33b84ab4e15a0da9e61d342c993af97f41e"/>
 	</game>
-	<game name="Grand Theft Auto - San Andreas (USA) (En,Es) (v2.0)" id="10494">
+	<game name="Grand Theft Auto - San Andreas (USA, Canada) (En,Es) (v2.0)" id="10494">
 		<category>Games</category>
-		<description>Grand Theft Auto: San Andreas (USA) (En,Es) (v2.0)</description>
+		<description>Grand Theft Auto: San Andreas (USA, Canada) (En,Es) (v2.0)</description>
 		<serial>31586-1.5</serial>
 		<version>2.0</version>
-		<rom name="Grand Theft Auto - San Andreas (USA) (En,Es) (v2.0).iso" size="4213047296" crc="c6dd788f" md5="656b43bc87004246d3189b2615a336f4" sha1="b4417a7209960f5064064097f8485d5522ed25b0"/>
+		<rom name="Grand Theft Auto - San Andreas (USA, Canada) (En,Es) (v2.0).iso" size="4213047296" crc="c6dd788f" md5="656b43bc87004246d3189b2615a336f4" sha1="b4417a7209960f5064064097f8485d5522ed25b0"/>
 	</game>
 	<game name="Grand Theft Auto - Vice City (Germany) (En,Fr,De,Es,It) (Rerelease)" id="48108">
 		<category>Games</category>
@@ -73897,19 +73922,19 @@
 		<rom name="Grand Theft Auto III (USA) (En,Fr,De,Es,It) (Play).bin" size="788538576" crc="5632668d" md5="db48222b8707f5c671cb05f56b89a079" sha1="801de658a568b819defc94e13276b9c71b6fb414"/>
 		<rom name="Grand Theft Auto III (USA) (En,Fr,De,Es,It) (Play).cue" size="116" crc="cc7efe9e" md5="9a0fe668316af1d78789459a4289a763" sha1="de7f54f5d8054011dc56cb787f9d7cb3f1d5bc6b"/>
 	</game>
-	<game name="Grand Theft Auto IV (USA) (En,Fr,De,Es,It) (Disc 1) (Rev 1)" id="11990">
-		<category>Games</category>
-		<description>Grand Theft Auto IV (USA) (En,Fr,De,Es,It) (Disc 1) (Rev 1)</description>
-		<serial>31510-1.1</serial>
-		<version>1.0</version>
-		<rom name="Grand Theft Auto IV (USA) (En,Fr,De,Es,It) (Disc 1) (Rev 1).iso" size="7553908736" crc="74e09d30" md5="6da9441e87e80ddf703fa156eeede9fc" sha1="faa67734c74abd91a6c6a19bc1d45b628fd9593c"/>
-	</game>
 	<game name="Grand Theft Auto IV (USA) (En,Fr,De,Es,It) (Disc 2)" id="117764">
 		<category>Games</category>
 		<description>Grand Theft Auto IV (USA) (En,Fr,De,Es,It) (Disc 2)</description>
 		<serial>31510-1.2</serial>
 		<version>1.00</version>
 		<rom name="Grand Theft Auto IV (USA) (En,Fr,De,Es,It) (Disc 2).iso" size="7314374656" crc="dff91253" md5="cb9dce70759a625e8f4a0d6eaf75ca27" sha1="a05819a44cb76182f2d47bcf24cc27200064e3cc"/>
+	</game>
+	<game name="Grand Theft Auto IV (USA, Canada) (En,Fr,De,Es,It) (Disc 1) (Rev 1)" id="11990">
+		<category>Games</category>
+		<description>Grand Theft Auto IV (USA, Canada) (En,Fr,De,Es,It) (Disc 1) (Rev 1)</description>
+		<serial>31510-1.1</serial>
+		<version>1.0</version>
+		<rom name="Grand Theft Auto IV (USA, Canada) (En,Fr,De,Es,It) (Disc 1) (Rev 1).iso" size="7553908736" crc="74e09d30" md5="6da9441e87e80ddf703fa156eeede9fc" sha1="faa67734c74abd91a6c6a19bc1d45b628fd9593c"/>
 	</game>
 	<game name="Grand Theft Auto Trylogia (Poland) (En,Fr,De,Es,It,Pl)" id="31387">
 		<category>Games</category>
@@ -88873,7 +88898,7 @@
 	<game name="Iron Storm (USA) (Disc 2) (Rev 1)" id="30218">
 		<category>Games</category>
 		<description>Iron Storm (USA) (Disc 2) (Rev 1)</description>
-		<version>1.0</version>
+		<version>1.00</version>
 		<rom name="Iron Storm (USA) (Disc 2) (Rev 1).bin" size="788891376" crc="add3fd85" md5="d85927453b1fdb61c70bb25bb28bd81b" sha1="0b0b5a052b4c37817c0a585d801c55962fb37622"/>
 		<rom name="Iron Storm (USA) (Disc 2) (Rev 1).cue" size="99" crc="4462af83" md5="60b51fb3deb0403f6e4f073c2251c585" sha1="15095b9ee0aeb5e8bf66283d9efd9e10ec7b66db"/>
 	</game>
@@ -97376,17 +97401,17 @@
 		<version>13/10/2011 08:46:26 (Build: 2382)</version>
 		<rom name="L.A. Noire - Rasshirennoe izdanie (Russia) (Disc 2).iso" size="5744263168" crc="26733b99" md5="e3f435b7ac24453cf90bb572b1c1e46d" sha1="1b9229f9f092ee0829fd32af1ba82218ce3c927e"/>
 	</game>
-	<game name="L.A. Noire - The Complete Edition (USA) (Disc 1)" id="26217">
+	<game name="L.A. Noire - The Complete Edition (USA, Canada) (Disc 1)" id="26217">
 		<category>Games</category>
-		<description>L.A. Noire: The Complete Edition (USA) (Disc 1)</description>
+		<description>L.A. Noire: The Complete Edition (USA, Canada) (Disc 1)</description>
 		<serial>31805-1.1</serial>
-		<rom name="L.A. Noire - The Complete Edition (USA) (Disc 1).iso" size="8538619904" crc="6d8f18af" md5="65019c520062df14834d3b592583947f" sha1="c77288846be0ab9b9580d7c0add3531d60d72453"/>
+		<rom name="L.A. Noire - The Complete Edition (USA, Canada) (Disc 1).iso" size="8538619904" crc="6d8f18af" md5="65019c520062df14834d3b592583947f" sha1="c77288846be0ab9b9580d7c0add3531d60d72453"/>
 	</game>
-	<game name="L.A. Noire - The Complete Edition (USA) (Disc 2)" id="26218">
+	<game name="L.A. Noire - The Complete Edition (USA, Canada) (Disc 2)" id="26218">
 		<category>Games</category>
-		<description>L.A. Noire: The Complete Edition (USA) (Disc 2)</description>
+		<description>L.A. Noire: The Complete Edition (USA, Canada) (Disc 2)</description>
 		<serial>31805-1.2</serial>
-		<rom name="L.A. Noire - The Complete Edition (USA) (Disc 2).iso" size="5747900416" crc="fdd8a7a8" md5="24cb0062d1c8ef3aa8c22e1d91051bac" sha1="953d32317082f4f9ce5c9fabcf98bfd238006c00"/>
+		<rom name="L.A. Noire - The Complete Edition (USA, Canada) (Disc 2).iso" size="5747900416" crc="fdd8a7a8" md5="24cb0062d1c8ef3aa8c22e1d91051bac" sha1="953d32317082f4f9ce5c9fabcf98bfd238006c00"/>
 	</game>
 	<game name="L.A. Rush (Russia)" id="116664">
 		<category>Games</category>
@@ -99840,6 +99865,12 @@
 		<description>Leisure Suit Larry: Collection Series (USA) (Disc 2)</description>
 		<rom name="Leisure Suit Larry - Collection Series (USA) (Disc 2).bin" size="648556944" crc="9314e7c4" md5="87d5aae2b061c5bba19fcef8f2fe6c04" sha1="6e02bfbcf4e5ac6eff3c5c8080c2da97ff4b3612"/>
 		<rom name="Leisure Suit Larry - Collection Series (USA) (Disc 2).cue" size="119" crc="5e47cbf7" md5="3825d827e8978596ec337e6c7a069ce0" sha1="d76e028171a99162319024c27d58f1b26dde17a8"/>
+	</game>
+	<game name="Leisure Suit Larry - Drague En Haute Mer (France)" id="139779">
+		<category>Games</category>
+		<description>Leisure Suit Larry: Drague En Haute Mer (France)</description>
+		<rom name="Leisure Suit Larry - Drague En Haute Mer (France).bin" size="660490992" crc="10a15625" md5="b12ea8152c5c0b503e631101d2f702b1" sha1="45413eeddcbe966ef0f072681ed1c87837e8d174"/>
+		<rom name="Leisure Suit Larry - Drague En Haute Mer (France).cue" size="115" crc="e12ada19" md5="c2533268e829d0a50149c66c86acb579" sha1="156ec7519d78ef919d0a8118406724058f82a21b"/>
 	</game>
 	<game name="Leisure Suit Larry - Kuhle Drinks &amp; Heisse Girls (Germany)" id="104239">
 		<category>Games</category>
@@ -108333,19 +108364,6 @@
 		<rom name="Mass Destruction (USA) (En,Fr,De,Es) (Track 12).bin" size="20485920" crc="706279f8" md5="80e0c58e6f29cfdf45d8b51538ec76a9" sha1="fe31835d93d1833c548d8b79a3fe6ee392c2a6a5"/>
 		<rom name="Mass Destruction (USA) (En,Fr,De,Es).cue" size="1554" crc="d3e55b2b" md5="3a9beb18f7f167a5d011d0e15b299807" sha1="ce89f63170b9ce86b2d96505eb449834ff4d726f"/>
 	</game>
-	<game name="Mass Effect (Europe) (En,Fr,De,Es,It) (Disc 1)" id="71233">
-		<category>Games</category>
-		<description>Mass Effect (Europe) (En,Fr,De,Es,It) (Disc 1)</description>
-		<serial>EAX07706226D1</serial>
-		<version>1.0.14184.0</version>
-		<rom name="Mass Effect (Europe) (En,Fr,De,Es,It) (Disc 1).iso" size="7712440320" crc="0620e09a" md5="3a7a779784b4129e65022fdfc1288bf1" sha1="32ce3cb96f1d53b798a52ac5e53f507d43fdd7e4"/>
-	</game>
-	<game name="Mass Effect (Europe) (En,Fr,De,Es,It) (Disc 2) (Rev 1)" id="17726">
-		<category>Games</category>
-		<description>Mass Effect (Europe) (En,Fr,De,Es,It) (Disc 2) (Rev 1)</description>
-		<version>1.0</version>
-		<rom name="Mass Effect (Europe) (En,Fr,De,Es,It) (Disc 2) (Rev 1).iso" size="5176459264" crc="a4e16ef0" md5="ecb049f06163874bf6a54b783b099fa4" sha1="03570f5edea38e42155ba7363df144133410b931"/>
-	</game>
 	<game name="Mass Effect (Russia) (Disc 1) (Ustanovochnyj)" id="85010">
 		<category>Games</category>
 		<description>Mass Effect (Russia) (Disc 1) (Ustanovochnyj)</description>
@@ -108355,6 +108373,18 @@
 		<category>Games</category>
 		<description>Mass Effect (Russia) (Disc 2) (Igrovoj)</description>
 		<rom name="Mass Effect (Russia) (Disc 2) (Igrovoj).iso" size="4411162624" crc="d42b2226" md5="9a3c10b4ea316afab97833fad3464dc1" sha1="b11e08fc2f35990a2ff6fa8b4d930cf0ec8f9370"/>
+	</game>
+	<game name="Mass Effect (USA) (Disc 1) (Rerelease)" id="139780">
+		<category>Games</category>
+		<description>Mass Effect (USA) (Disc 1) (Rerelease)</description>
+		<serial>1980403301</serial>
+		<rom name="Mass Effect (USA) (Disc 1) (Rerelease).iso" size="8440741888" crc="8f0d5e2d" md5="daed93cd263e6ba6270a845982d9fb47" sha1="bce0f117b517971278951fee1bebfec351060557"/>
+	</game>
+	<game name="Mass Effect (USA) (Disc 2) (Rerelease)" id="139781">
+		<category>Games</category>
+		<description>Mass Effect (USA) (Disc 2) (Rerelease)</description>
+		<serial>1980403302</serial>
+		<rom name="Mass Effect (USA) (Disc 2) (Rerelease).iso" size="7628324864" crc="d758fe15" md5="9d5656cb34b01b5eb2a567b150ca3a1e" sha1="c8330a52bea0baf986dcde281fed3125196de08b"/>
 	</game>
 	<game name="Mass Effect (USA) (En,Es)" id="13325">
 		<category>Games</category>
@@ -108428,13 +108458,13 @@
 	<game name="Mass Effect 3 (USA) (En,Fr,De,Es,It,Pl,Ru) (Disc 1)" id="66598">
 		<category>Games</category>
 		<description>Mass Effect 3 (USA) (En,Fr,De,Es,It,Pl,Ru) (Disc 1)</description>
-		<serial>1958307</serial>
+		<serial>1958307, 1980403305</serial>
 		<rom name="Mass Effect 3 (USA) (En,Fr,De,Es,It,Pl,Ru) (Disc 1).iso" size="8395259904" crc="87c273a0" md5="842d338f476c60ffc48f6746625db147" sha1="c07996c900d9d9d0dd56edac71fcfb43e16a511f"/>
 	</game>
 	<game name="Mass Effect 3 (USA) (En,Fr,De,Es,It,Pl,Ru) (Disc 2)" id="66599">
 		<category>Games</category>
 		<description>Mass Effect 3 (USA) (En,Fr,De,Es,It,Pl,Ru) (Disc 2)</description>
-		<serial>1958317</serial>
+		<serial>1958317, 1980403306</serial>
 		<rom name="Mass Effect 3 (USA) (En,Fr,De,Es,It,Pl,Ru) (Disc 2).iso" size="6532890624" crc="6fff1bb9" md5="d1d7bc122588e9db1fa7622cec82ea43" sha1="42f5506cf21ba6000bf85221e89e2b9944043d18"/>
 	</game>
 	<game name="Massive Assault (USA)" id="58781">
@@ -110526,6 +110556,13 @@
 		<rom name="Mechty - Vo sne i nayavu (Russia) (Disc 2) (Track 13).bin" size="34369776" crc="29db4306" md5="088f7ab77d6ffb6629a6dc71d87d7d8a" sha1="82520ea91042ed8779ef6391a3118bf7351b6ea2"/>
 		<rom name="Mechty - Vo sne i nayavu (Russia) (Disc 2) (Track 14).bin" size="11799984" crc="af8d028a" md5="fcd26d0c19d022f347bcd273ba38544e" sha1="792e43ccbdf5d84818f7b72732401e5dfd938f1a"/>
 		<rom name="Mechty - Vo sne i nayavu (Russia) (Disc 2).cue" size="1900" crc="474e7330" md5="5a7476257e3c3de80c67266d5601dc4f" sha1="3f1a89cdef0e8d948b07bd02b2167300b60ce00e"/>
+	</game>
+	<game name="Medal Of Honor - Pacific Assault - Single Player Demo (USA)" id="139790">
+		<category>Demos</category>
+		<description>Medal Of Honor: Pacific Assault: Single Player Demo (USA)</description>
+		<serial>1625987</serial>
+		<rom name="Medal Of Honor - Pacific Assault - Single Player Demo (USA).bin" size="643657728" crc="8df28bff" md5="29a03675ba7710ef92ef3ec7cbe51649" sha1="bea78a9873723637b84b681cc59525fef919e0dc"/>
+		<rom name="Medal Of Honor - Pacific Assault - Single Player Demo (USA).cue" size="125" crc="d46b0c8d" md5="ad7be3156e78f2b06f1aa6b794b17006" sha1="995c9d085cbd63520022a4dfee09174b27ec55fc"/>
 	</game>
 	<game name="Medal of Honor (Poland) (Pl,Ru) (2010)" id="138495">
 		<category>Games</category>
@@ -118781,7 +118818,7 @@
 	<game name="Motor City Online (USA)" id="18343">
 		<category>Games</category>
 		<description>Motor City Online (USA)</description>
-		<serial>1404607</serial>
+		<serial>1404607, 1404601</serial>
 		<rom name="Motor City Online (USA).bin" size="776529264" crc="a4506d05" md5="d5bbdd1dfadc37f33103798b43ace1b4" sha1="f15feed23d342d20eb093dd47275e269776fa924"/>
 		<rom name="Motor City Online (USA).cue" size="89" crc="9123d3e7" md5="2139636cd1cdfd15ebc9395240b4b0fa" sha1="89734e575937474f542e5e142353ee5d717b5e6a"/>
 	</game>
@@ -134230,11 +134267,10 @@
 		<description>Phantasy Star Universe (USA)</description>
 		<rom name="Phantasy Star Universe (USA).iso" size="5605392384" crc="b46879e6" md5="bb58bddefd3e4c6073e0aee16b654eef" sha1="20e8c39df1722b55c86fb3dae2adb1489cb2bb68"/>
 	</game>
-	<game name="Phantasy Star Universe - Ambition of the Illuminus (Europe)" id="38136">
+	<game name="Phantasy Star Universe - Ambition of the Illuminus (USA)" id="139798">
 		<category>Games</category>
-		<description>Phantasy Star Universe: Ambition of the Illuminus (Europe)</description>
-		<serial>SEGA-PC057</serial>
-		<rom name="Phantasy Star Universe - Ambition of the Illuminus (Europe).iso" size="5153095680" crc="c0304e4f" md5="774ade1a4ef3dd427a1961e3f961d31f" sha1="5d42c25e7f198d2004d186154a97d33588209a56"/>
+		<description>Phantasy Star Universe: Ambition of the Illuminus (USA)</description>
+		<rom name="Phantasy Star Universe - Ambition of the Illuminus (USA).iso" size="5152931840" crc="3ca04355" md5="9aff8f53fd88e245cf609243aee13a68" sha1="cd53f85fc10ed0b6e2a0360df3647da50d539787"/>
 	</game>
 	<game name="Phantasy Star Universe - Illuminus no Yabou (Japan) (Disc 1)" id="113916">
 		<category>Games</category>
@@ -135462,18 +135498,18 @@
 		<rom name="Pink Panther ...und die Zauberformel (Germany).bin" size="650746656" crc="a673283c" md5="ccb5b37f1232e1938c5abe2d03a5af6b" sha1="7b733174c00c6c1d8db440224c53c03529d54011"/>
 		<rom name="Pink Panther ...und die Zauberformel (Germany).cue" size="135" crc="44712ff9" md5="4627a7a97b7eb857f3159f539bef09f2" sha1="31a12924dedf237b08452ed3726e2fc67465c43a"/>
 	</game>
+	<game name="Pink Panther's Passport to Peril, The (USA)" id="45187">
+		<category>Games</category>
+		<description>Pink Panther's Passport to Peril, The (USA)</description>
+		<version>1.0</version>
+		<rom name="Pink Panther's Passport to Peril, The (USA).bin" size="745819200" crc="f500997c" md5="032d78e907b939f016899a8b407d55c1" sha1="310f6d9717ba3ebe32104a94e84d9f4ca210a414"/>
+		<rom name="Pink Panther's Passport to Peril, The (USA).cue" size="132" crc="04e86b63" md5="6b3a9a1501b7b9d42ab6896f3a0ec1c6" sha1="d401ceab892efd6e39ad8d44b674e77d1acf9a06"/>
+	</game>
 	<game name="Pink Panther, The - Hokus Pokus Pink (USA) (Rerelease)" id="45256">
 		<category>Games</category>
 		<description>Pink Panther, The: Hokus Pokus Pink (USA) (Rerelease)</description>
 		<rom name="Pink Panther, The - Hokus Pokus Pink (USA) (Rerelease).bin" size="605266032" crc="be5cd93f" md5="67de191a4c0c0875fa5a9f601275a197" sha1="109eeff80a00b69298fe514befb48b2a2d771263"/>
 		<rom name="Pink Panther, The - Hokus Pokus Pink (USA) (Rerelease).cue" size="120" crc="2f871291" md5="bdc598daab861303c40c0fd72dfe94e2" sha1="fa9a49a7dd83384551e4891918c014e38a27230c"/>
-	</game>
-	<game name="Pink Panther, The - Passport to Peril (USA)" id="45187">
-		<category>Games</category>
-		<description>Pink Panther, The: Passport to Peril (USA)</description>
-		<version>1.0</version>
-		<rom name="Pink Panther, The - Passport to Peril (USA).bin" size="745819200" crc="f500997c" md5="032d78e907b939f016899a8b407d55c1" sha1="310f6d9717ba3ebe32104a94e84d9f4ca210a414"/>
-		<rom name="Pink Panther, The - Passport to Peril (USA).cue" size="132" crc="8c28e801" md5="6366888f7b184a25bbc2919e7b7aad7e" sha1="3731f1ec97ebb62f79bb25c26469bfbde5bc0b06"/>
 	</game>
 	<game name="Pink Panthers Gefahrliche Mission (Germany)" id="104760">
 		<category>Games</category>
@@ -159421,6 +159457,13 @@
 		<rom name="Shadow President (USA).bin" size="8958768" crc="f462695f" md5="ec95ea93c564a44eabb01a488f33594c" sha1="cb0e34eea828f6adf3aac7b358c0a9d110a61236"/>
 		<rom name="Shadow President (USA).cue" size="88" crc="1e6d51d0" md5="d7cda0c2db7e5acda34f228fda1276bf" sha1="ddb31cfc967fca8fccb6bf7f0c917a03484b8b3d"/>
 	</game>
+	<game name="Shadow Vault (USA)" id="139799">
+		<category>Games</category>
+		<description>Shadow Vault (USA)</description>
+		<serial>90145CD</serial>
+		<rom name="Shadow Vault (USA).bin" size="826833840" crc="0a08ebc2" md5="74200374bb1dddf7c3f383c192178e83" sha1="22c1527ef2f00da234261fd4f3df62b0b51aff79"/>
+		<rom name="Shadow Vault (USA).cue" size="84" crc="51f05a37" md5="83854f2589e18aebc252a5fdebb8e773" sha1="0af5460f7c00d8194e5cc664b5e4b214dc46337a"/>
+	</game>
 	<game name="Shadow Vault - Demos and Materials (Europe)" id="108017">
 		<category>Preproduction</category>
 		<description>Shadow Vault: Demos and Materials (Europe)</description>
@@ -165755,7 +165798,7 @@
 		<category>Games</category>
 		<description>Sims Online, The (USA) (Disc 1)</description>
 		<serial>1436707</serial>
-		<version>1.0</version>
+		<version>1.145.1.0</version>
 		<rom name="Sims Online, The (USA) (Disc 1).bin" size="764762208" crc="da2d2548" md5="a1d255162f1f1e74369dcee8e756c45f" sha1="9c03bc59e1e5302a3b9a37a87b8b9fe5cc733bc4"/>
 		<rom name="Sims Online, The (USA) (Disc 1).cue" size="97" crc="74beef25" md5="3b98a309d590c681ef17c555699c3f29" sha1="ab87e40beb7ea5ab655fc6f216ce4e6b114e614c"/>
 	</game>
@@ -165763,15 +165806,23 @@
 		<category>Games</category>
 		<description>Sims Online, The (USA) (Disc 1) (Charter Edition)</description>
 		<serial>1461517</serial>
-		<version>1.0</version>
+		<version>1.145.1.0</version>
 		<rom name="Sims Online, The (USA) (Disc 1) (Charter Edition).bin" size="764762208" crc="89e97a13" md5="24122dfa1c299ea929015c2699887e25" sha1="43521c88cc0b5a24de1a428554c1804282e53b12"/>
 		<rom name="Sims Online, The (USA) (Disc 1) (Charter Edition).cue" size="115" crc="7cb851a0" md5="cd9fcd61305dfb48193aa733d9668a4e" sha1="439d40a8531ee6827506cb35dda49acf22a523b1"/>
+	</game>
+	<game name="Sims Online, The (USA) (Disc 1) (Play Test)" id="139786">
+		<category>Games</category>
+		<description>Sims Online, The (USA) (Disc 1) (Play Test)</description>
+		<serial>4026607</serial>
+		<version>1.3.2.144</version>
+		<rom name="Sims Online, The (USA) (Disc 1) (Play Test).bin" size="764811600" crc="01206c76" md5="8c4f01118e6856bdaf286a78ec329f0d" sha1="c0fefe31457e4f5c3411c85d34a24f7786cbfbd1"/>
+		<rom name="Sims Online, The (USA) (Disc 1) (Play Test).cue" size="109" crc="e3ad906a" md5="12457ead9ccc99628fb1b6c28f7f9ed3" sha1="f67e65a5d2056e0062fa95d8c01b0d0d2eee7952"/>
 	</game>
 	<game name="Sims Online, The (USA) (Disc 2)" id="19977">
 		<category>Games</category>
 		<description>Sims Online, The (USA) (Disc 2)</description>
 		<serial>1436717</serial>
-		<version>1.0</version>
+		<version>1.145.1.0</version>
 		<rom name="Sims Online, The (USA) (Disc 2).bin" size="754406352" crc="7da404b2" md5="d4f2bcc3be2881c6a9a447405e969bdb" sha1="8c9526c15144f282b89c99a5424a731a46bb1760"/>
 		<rom name="Sims Online, The (USA) (Disc 2).cue" size="97" crc="75e3c9f4" md5="61b819640ae9db27870d5952d96bef0d" sha1="e29bc21ba81336c468cde3604d8c4cfb699aac99"/>
 	</game>
@@ -165779,9 +165830,17 @@
 		<category>Games</category>
 		<description>Sims Online, The (USA) (Disc 2) (Charter Edition)</description>
 		<serial>1461527</serial>
-		<version>1.0</version>
+		<version>1.145.1.0</version>
 		<rom name="Sims Online, The (USA) (Disc 2) (Charter Edition).bin" size="754406352" crc="243032fc" md5="baf4720ec4c1d2c43be30b2172635ace" sha1="48fff6e70bbd0681704b2c0bc8fd0a7e7dbb191f"/>
 		<rom name="Sims Online, The (USA) (Disc 2) (Charter Edition).cue" size="115" crc="58d0f99f" md5="b8928d3730ec62cdd252f67ab20a7ad3" sha1="74f7d90bcbf39c5be0f44fba8f72790fd31c592d"/>
+	</game>
+	<game name="Sims Online, The (USA) (Disc 2) (Play Test)" id="139787">
+		<category>Games</category>
+		<description>Sims Online, The (USA) (Disc 2) (Play Test)</description>
+		<serial>4026617</serial>
+		<version>1.3.2.144</version>
+		<rom name="Sims Online, The (USA) (Disc 2) (Play Test).bin" size="716644992" crc="2e92eb9c" md5="98e32873fdc94e6776ba738d501db8c2" sha1="860425a5bc622a634600b5aeb1166d6a0cfbe596"/>
+		<rom name="Sims Online, The (USA) (Disc 2) (Play Test).cue" size="109" crc="110cb5c6" md5="e727c3a5ffc0d26e4ca7c133a1c1a087" sha1="14f5479d30b4dcdaa88443071a29796806503419"/>
 	</game>
 	<game name="Sims Pet Stories, The (USA) (En,Es)" id="60086">
 		<category>Games</category>
@@ -187605,6 +187664,12 @@
 		<rom name="Touhou Kaeizuka - Phantasmagoria of Flower View (Japan).bin" size="608744640" crc="3b8bf2aa" md5="236958d128dea1b3ac484d155b6ceee5" sha1="ab520cd348e8cb5fc3e5d229c8d8bd7bf2a594c1"/>
 		<rom name="Touhou Kaeizuka - Phantasmagoria of Flower View (Japan).cue" size="121" crc="f79c665e" md5="84673244c49babefadfd92e69e6a2cb6" sha1="f545bbd6c7255b915d1450ca319386283933466d"/>
 	</game>
+	<game name="Touhou Kaeizuka Taikenban Plus - Phantasmagoria of Flower View (Japan)" id="139796">
+		<category>Demos</category>
+		<description>Touhou Kaeizuka Taikenban Plus: Phantasmagoria of Flower View (Japan)</description>
+		<rom name="Touhou Kaeizuka Taikenban Plus - Phantasmagoria of Flower View (Japan).bin" size="208276656" crc="d268878b" md5="918af31a0768d9f88e9d6bae0dd000ce" sha1="07900c1e4084526fbe6dcacb6847d08a2bf94a2a"/>
+		<rom name="Touhou Kaeizuka Taikenban Plus - Phantasmagoria of Flower View (Japan).cue" size="136" crc="93d1e98e" md5="53870807aa8c6f112c84a584e5d40e9b" sha1="29992bde574e41d0fe51f7a1734b0846ace546e1"/>
+	</game>
 	<game name="Touhou Kanjuden - Legacy of Lunatic Kingdom (Japan) (Taikenban)" id="123594">
 		<category>Demos</category>
 		<description>Touhou Kanjuden: Legacy of Lunatic Kingdom (Japan) (Taikenban)</description>
@@ -194302,6 +194367,11 @@
 		<version>1.0</version>
 		<rom name="Vampire Cows! Die Attacke der kackenden Kuhe (Germany).bin" size="396495456" crc="2bda7096" md5="774c5d3de249b2892b3184acf26d72b1" sha1="b41fb721fc5b9df4420c8558b88a2693a7d3920c"/>
 		<rom name="Vampire Cows! Die Attacke der kackenden Kuhe (Germany).cue" size="120" crc="e91357b5" md5="7c44dd1c28185f781a957f5d0a8481f8" sha1="645cb4ac39c0fbd7b95a91d5a273a4d87d53ec3e"/>
+	</game>
+	<game name="Vampire Hunters (USA)" id="139800">
+		<category>Games</category>
+		<description>Vampire Hunters (USA)</description>
+		<rom name="Vampire Hunters (USA).iso" size="895123456" crc="d84c5e4f" md5="398e53ae5572c10b69c71da8d7d88b33" sha1="2293100a1583be32da29bbe0fbeaad786344ada6"/>
 	</game>
 	<game name="Vampire Hurts (Japan)" id="8609">
 		<category>Games</category>

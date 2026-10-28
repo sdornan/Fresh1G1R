@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,925) (-y) [-aAbBcefkmMoprv] (20261026-212934) (Retool)</description>
-		<version>20261026-212934</version>
-		<date>2026-10-27 07-41-02</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,924) (-y) [-aAbBcefkmMoprv] (20261027-234536) (Retool)</description>
+		<version>20261027-234536</version>
+		<date>2026-10-28 08-16-22</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1052,7 +1052,7 @@
 	<game name="Asterix - These Romans Are Crazy! (Europe) (En,Fr,De,It,Nl)" id="4358">
 		<category>Games</category>
 		<description>Asterix - These Romans Are Crazy! (Europe) (En,Fr,De,It,Nl)</description>
-		<rom name="Asterix - These Romans Are Crazy! (Europe) (En,Fr,De,It,Nl).nds" size="67108864" crc="eb7a5788" md5="53349a4a277268a107013ef27e4abce3" sha1="fadfcfcbc96967a29b1daf8eac8a124c25642822"/>
+		<rom name="Asterix - These Romans Are Crazy! (Europe) (En,Fr,De,It,Nl).nds" size="67108864" crc="eb7a5788" md5="53349a4a277268a107013ef27e4abce3" sha1="fadfcfcbc96967a29b1daf8eac8a124c25642822" sha256="7703a8691bbeb28928bfa96d968f7350c15a1a93afbc77854799ee7b68f5f36f"/>
 	</game>
 	<game name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It,Nl)" id="1609">
 		<category>Games</category>
@@ -1442,7 +1442,7 @@
 	<game name="Bauernhof, Der (Germany)" id="4635">
 		<category>Games</category>
 		<description>Bauernhof, Der (Germany)</description>
-		<rom name="Bauernhof, Der (Germany).nds" size="33554432" crc="fb041b3b" md5="bbda7ebb1ea1a286cac053bf67d21ed3" sha1="643cce938ce28372a2391278d6940122854f2f16"/>
+		<rom name="Bauernhof, Der (Germany).nds" size="33554432" crc="fb041b3b" md5="bbda7ebb1ea1a286cac053bf67d21ed3" sha1="643cce938ce28372a2391278d6940122854f2f16" sha256="17eab46f326f4f48addbfb8201d3368d930e35765daa78894a6fb9daf168756d"/>
 	</game>
 	<game name="Beach de Reach! DS (Japan)" id="2977">
 		<category>Games</category>
@@ -1543,11 +1543,6 @@
 		<category>Games</category>
 		<description>Benoit Sokal Last King of Africa (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Benoit Sokal Last King of Africa (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="c0d65ce6" md5="da6b53d7f75feb41cbb71213d4de314e" sha1="db0dc12f170de124e27fabfd35050da25f220e90" sha256="19ddca52a17eab3cbb18c2a881643f2a0c96055c0be01f6ba99e2681d23d08e6"/>
-	</game>
-	<game name="Berlitz - English Dictionary (Europe) (En,Fr,De,Es,It)" id="2192">
-		<category>Games</category>
-		<description>Berlitz - English Dictionary (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Berlitz - English Dictionary (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="58f918d3" md5="497165d38bfb4e69eb4dde36caca7cdf" sha1="cb9b7f31576dbc4162ac0b4a74d0d3f9c360b628" sha256="0dc07d31bd5ffa09d28c014ddf1f710b3b74163694df97748a9bd1ad029bc73b"/>
 	</game>
 	<game name="Berlitz - My English Coach (Europe) (En,Fr,De,Es,It)" id="4179">
 		<category>Games</category>
@@ -7914,11 +7909,6 @@
 		<category>Games</category>
 		<description>JumpStart - Legend of Lost Island (USA)</description>
 		<rom name="JumpStart - Legend of Lost Island (USA).nds" size="16777216" crc="495bbeca" md5="dd6d6406c0716804891498b5d57f62d1" sha1="1ac610383b792fa1cb65b9b6c0464a4c22b9dac0"/>
-	</game>
-	<game name="Jungle School (Europe) (En,Fr,De,Es,It,Nl)" id="5003">
-		<category>Games</category>
-		<description>Jungle School (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Jungle School (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="32f83ace" md5="311909484d5d2dd207d9c58d8f3c7449" sha1="90c2a5fc5788c621c943ca233555a97c75925a94"/>
 	</game>
 	<game name="Junior Brain Trainer (USA) (En,Fr,De,Es,It)" id="6439">
 		<category>Games</category>
@@ -16713,6 +16703,11 @@
 		<category>Games</category>
 		<description>Super Star Kartz (USA) (En,Fr)</description>
 		<rom name="Super Star Kartz (USA) (En,Fr).nds" size="134217728" crc="674e8fda" md5="8e3a3b646953d93f884976a3046a154c" sha1="015a79173e6412c52761ee9962938a7ab8e4ac99"/>
+	</game>
+	<game name="Super Teacher - The Crazy School (Europe) (En,Fr,De,Es,It,Nl)" id="5003">
+		<category>Games</category>
+		<description>Super Teacher - The Crazy School (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Super Teacher - The Crazy School (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="32f83ace" md5="311909484d5d2dd207d9c58d8f3c7449" sha1="90c2a5fc5788c621c943ca233555a97c75925a94" sha256="6a8d1a6af9951b0f6ff57a1c2bdc6acab1e60b3ef1aa3d30855e5f76d75d27e6"/>
 	</game>
 	<game name="Super Yoshi no Tamago (Japan) (Proto)" id="z649">
 		<category>Preproduction</category>

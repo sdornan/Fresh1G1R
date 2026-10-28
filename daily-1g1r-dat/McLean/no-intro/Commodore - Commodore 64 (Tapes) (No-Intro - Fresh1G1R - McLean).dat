@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Tapes) (Retool)</name>
-		<description>Commodore - Commodore 64 (Tapes) (1,650) (-ly) [-aAbBcdDefkmMopPruv] (20261026-223744) (Retool)</description>
-		<version>20261026-223744</version>
-		<date>2026-10-27 07-47-01</date>
+		<description>Commodore - Commodore 64 (Tapes) (1,650) (-ly) [-aAbBcdDefkmMopPruv] (20261027-092937) (Retool)</description>
+		<version>20261027-092937</version>
+		<date>2026-10-28 08-24-07</date>
 		<author>1988reload, C. V. Reynolds</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -441,23 +441,23 @@
 	<game name="Army Days (Europe)" id="0139">
 		<category>Games</category>
 		<description>Army Days (Europe)</description>
-		<rom name="Army Days (Europe).tap" size="634844" crc="ccbcda19" md5="c04dde2dcdba8d8110f83e33094f767e" sha1="3a70e55d4524260dd7ecb0a0ca8034e4752cc6b0"/>
+		<rom name="Army Days (Europe).tap" size="634844" crc="ccbcda19" md5="c04dde2dcdba8d8110f83e33094f767e" sha1="3a70e55d4524260dd7ecb0a0ca8034e4752cc6b0" sha256="8ccf6a780d9ea4cbf65c25552aba48b1ed0dc6bb6be976f74be159a8d2140d4a"/>
 	</game>
 	<game name="Army Moves (Europe)" id="0140">
 		<category>Games</category>
 		<description>Army Moves (Europe)</description>
-		<rom name="Army Moves (Europe) (Side 1).tap" size="708754" crc="4fc2b512" md5="923c6effa77261c77967d24f45c17eb9" sha1="b4428b649f4c8ef2d4ae5ee876b66835f08ed037"/>
-		<rom name="Army Moves (Europe) (Side 2).tap" size="708754" crc="d5765ec9" md5="1ff90c19eae69e891397d893fbb309ae" sha1="268124a15db808a8fd5bef477f2d22bd5659f3d1"/>
+		<rom name="Army Moves (Europe) (Side 1).tap" size="708754" crc="4fc2b512" md5="923c6effa77261c77967d24f45c17eb9" sha1="b4428b649f4c8ef2d4ae5ee876b66835f08ed037" sha256="d7918ca3a7085965ca182ee31221b4e7b19902ef1cca7f781add9fde9d4d4cea"/>
+		<rom name="Army Moves (Europe) (Side 2).tap" size="708754" crc="d5765ec9" md5="1ff90c19eae69e891397d893fbb309ae" sha1="268124a15db808a8fd5bef477f2d22bd5659f3d1" sha256="a60cabe9aee11efe87adbf2a65fe54818f9933c28095b82abfbe11572e97f3f5"/>
 	</game>
 	<game name="Arnie (Europe)" id="0142">
 		<category>Games</category>
 		<description>Arnie (Europe)</description>
-		<rom name="Arnie (Europe).tap" size="939279" crc="0c4aa4d4" md5="b34e0db70ffbbdabef74c32d9cf48611" sha1="f6673dcc4be7b212fbf847965f32655e41c301cd"/>
+		<rom name="Arnie (Europe).tap" size="939279" crc="0c4aa4d4" md5="b34e0db70ffbbdabef74c32d9cf48611" sha1="f6673dcc4be7b212fbf847965f32655e41c301cd" sha256="60318c9da5f8e1a90088afa184875411bf7a740cdbb16d8e95c1d6f15d54d707"/>
 	</game>
 	<game name="Arnie II (Europe)" id="0143">
 		<category>Games</category>
 		<description>Arnie II (Europe)</description>
-		<rom name="Arnie II (Europe).tap" size="957019" crc="6a2223d5" md5="2149b26f60efd9fc18ec82e572907eb7" sha1="9843b592400842683a2ac23a1b89bc615b6fa64f"/>
+		<rom name="Arnie II (Europe).tap" size="957019" crc="6a2223d5" md5="2149b26f60efd9fc18ec82e572907eb7" sha1="9843b592400842683a2ac23a1b89bc615b6fa64f" sha256="ae8f84ba9b69a73ca28d8bbe8a06e38fdc82ae3f92c81b4457936d1969a80485"/>
 	</game>
 	<game name="Around the World in 80 Days (Europe)" id="0144">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (655) (-y) [-aAbBcefkmMoprv] (2026-10-25 18-42-34) (Retool)</description>
-		<version>2026-10-25 18-42-34</version>
-		<date>2026-10-27 07-35-05</date>
+		<description>Apple - Macintosh (658) (-y) [-aAbBcefkmMoprv] (2026-10-27 16-42-34) (Retool)</description>
+		<version>2026-10-27 16-42-34</version>
+		<date>2026-10-28 08-08-37</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2746,6 +2746,13 @@
 		<rom name="MacPack Blitz (USA) (Disc 5).bin" size="653973600" crc="392dec05" md5="66ea81be40dbb70952c98916870d3a2c" sha1="fdd4ee906672e7ec4961103daef4f2832d6fbf2b"/>
 		<rom name="MacPack Blitz (USA) (Disc 5).cue" size="94" crc="98df9de7" md5="c1ff32e72c523d5c9f3fe37e090d610f" sha1="3e6e3b9dabaccfd660e3300b37531dbbd119d567"/>
 	</game>
+	<game name="MacPlay's Spring Decathlon - Exclusive 6 Game Sampler (USA)" id="139772">
+		<category>Demos</category>
+		<description>MacPlay's Spring Decathlon: Exclusive 6 Game Sampler (USA)</description>
+		<serial>CD-MCR-277-0</serial>
+		<rom name="MacPlay's Spring Decathlon - Exclusive 6 Game Sampler (USA).bin" size="294343392" crc="7d1ce8f8" md5="ea1b75be5af332a0c2a3ab453dd035fa" sha1="c1bf4c584184aa2a22c78a8c418ccfa28c6fbe86"/>
+		<rom name="MacPlay's Spring Decathlon - Exclusive 6 Game Sampler (USA).cue" size="125" crc="0c35f7a8" md5="32f4132f6f4641a35178f1de1923653d" sha1="96f1d0d7f3c244a1ca861751bb19c533d51d74f1"/>
+	</game>
 	<game name="MacPon II (Japan)" id="136289">
 		<category>Games</category>
 		<description>MacPon II (Japan)</description>
@@ -4469,6 +4476,20 @@
 		<serial>10440-2CDA</serial>
 		<rom name="Star Trek - Elite Force II (USA) (Disc 2).bin" size="518194992" crc="aaf40e9d" md5="b0a6696f989a48d6ed669d2acf14f989" sha1="806a7dd50fd716f1116319eb9aed90acde06c785"/>
 		<rom name="Star Trek - Elite Force II (USA) (Disc 2).cue" size="107" crc="858fb147" md5="db16ac6e0820e0ed7e8ae5b787f72450" sha1="b23dbf243bf2b67cbe21ebe7221fa846052344cb"/>
+	</game>
+	<game name="Star Trek - Judgment Rites (USA) (Collector's Disc)" id="139774">
+		<category>Games</category>
+		<description>Star Trek: Judgment Rites (USA) (Collector's Disc)</description>
+		<serial>CD-MCR-200-2</serial>
+		<rom name="Star Trek - Judgment Rites (USA) (Collector's Disc).bin" size="783538224" crc="c63666f1" md5="86ff00aff8a31e38de21c6dd243525f4" sha1="83caeae9c908cd674b8fbc5fd1bfa026d8988680"/>
+		<rom name="Star Trek - Judgment Rites (USA) (Collector's Disc).cue" size="117" crc="99ac5276" md5="08258855b688bab89c7a1c0adc2618bd" sha1="1d1c7481a7150ed50b613085e959d5eb1176101f"/>
+	</game>
+	<game name="Star Trek - Judgment Rites (USA) (Game Disc)" id="139773">
+		<category>Games</category>
+		<description>Star Trek: Judgment Rites (USA) (Game Disc)</description>
+		<serial>CD-MCR-200-1</serial>
+		<rom name="Star Trek - Judgment Rites (USA) (Game Disc).bin" size="775315632" crc="8f2dfde4" md5="614984ca0b8d4d00d406045d0981d586" sha1="924bf4ba1d84292a9bafbe38c06f6f1065cea673"/>
+		<rom name="Star Trek - Judgment Rites (USA) (Game Disc).cue" size="110" crc="0e722fb1" md5="55f85a210805661b2fd9c8805d0311a2" sha1="ea6d7f1ef303b10e485f470c3d97ab0ef7383edc"/>
 	</game>
 	<game name="Star Trek - Starfleet Academy (USA) (Disc 1)" id="53138">
 		<category>Games</category>

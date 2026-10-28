@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,936) (-y) [-aAbBcdkmMpPuv] (2026-10-26 11-43-55) (Retool)</description>
-		<version>2026-10-26 11-43-55</version>
-		<date>2026-10-27 07-49-16</date>
+		<description>Sony - PlayStation 4 (1,941) (-y) [-aAbBcdkmMpPuv] (2026-10-27 23-42-50) (Retool)</description>
+		<version>2026-10-27 23-42-50</version>
+		<date>2026-10-28 08-26-58</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1305,6 +1305,13 @@
 		<serial>CUSA-28433</serial>
 		<version>01.00</version>
 		<rom name="Beyond a Steel Sky (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Ar,Tr).iso" size="25024331776" crc="e80100f5" md5="83fa1a3b65b7e71326275027dcce6bb0" sha1="94aed7d67c72f6f869a0c9b3e5752364574525a4"/>
+	</game>
+	<game name="Bibi &amp; Tina - Das Spiel zum Kinofilm (Germany)" id="139792">
+		<category>Games</category>
+		<description>Bibi &amp; Tina: Das Spiel zum Kinofilm (Germany)</description>
+		<serial>CUSA-12396</serial>
+		<version>01.01</version>
+		<rom name="Bibi &amp; Tina - Das Spiel zum Kinofilm (Germany).iso" size="2085224448" crc="07ed5078" md5="41d486b7fa0085b93a33fd77f9f9843c" sha1="f683769a20feeaa032e877de4547fe04a4186cbc"/>
 	</game>
 	<game name="Bibi &amp; Tina at the Horse Farm (USA)" id="82213">
 		<category>Games</category>
@@ -2901,6 +2908,13 @@
 		<serial>CUSA-03245</serial>
 		<version>01.01</version>
 		<rom name="Deadpool (USA) (En,Fr,Es).iso" size="6851264512" crc="f608ea64" md5="fc8c2433fc165f07c8910f65e3171a4d" sha1="e8c61bc0b43d089971d5730f1c24f70f7cedc9cc"/>
+	</game>
+	<game name="Dear Esther (USA)" id="139801">
+		<category>Games</category>
+		<description>Dear Esther (USA)</description>
+		<serial>CUSA-05092</serial>
+		<version>01.00</version>
+		<rom name="Dear Esther (USA).iso" size="4087021568" crc="5a56231b" md5="26b4a37d58f8bbe8e76aba21a70380eb" sha1="711730be3d37c457f4b08f8a1d075a60363a512f"/>
 	</game>
 	<game name="Death Come True (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko,Th)" id="118323">
 		<category>Games</category>
@@ -4707,6 +4721,13 @@
 		<serial>CUSA-24172</serial>
 		<version>02.00</version>
 		<rom name="Five Nights at Freddy's - Security Breach (USA).iso" size="25024331776" crc="36d2ac26" md5="8522e14756e9c8890d1a26daa1850cbb" sha1="2c0d9511d96c5989eaf311aa79150929e2b38122"/>
+	</game>
+	<game name="Flame In The Flood, The (USA)" id="139802">
+		<category>Games</category>
+		<description>Flame In The Flood, The (USA)</description>
+		<serial>CUSA-07205</serial>
+		<version>01.01</version>
+		<rom name="Flame In The Flood, The (USA).iso" size="3689545728" crc="c4135c92" md5="d22d7533a7215b41e6e217ef3134dcee" sha1="8f61765ba9d094451bf908b7aaf4a1e2c870aacd"/>
 	</game>
 	<game name="Flashback (USA) (En,Fr,Es)" id="96497">
 		<category>Games</category>
@@ -12657,6 +12678,13 @@
 		<version>01.01</version>
 		<rom name="Vampyr (USA) (En,Fr,De,Es,It,Pt,Pl,Ru).iso" size="15282864128" crc="e2e78505" md5="a07680bd47b0b7b78cf0cdd332b0866f" sha1="5793fe3502f1cbd34bc80788d59d41870290a739"/>
 	</game>
+	<game name="Vegas Party (Canada)" id="139793">
+		<category>Games</category>
+		<description>Vegas Party (Canada)</description>
+		<serial>CUSA-08769</serial>
+		<version>01.01</version>
+		<rom name="Vegas Party (Canada).iso" size="1327104000" crc="5d4c46cc" md5="c809d746e22c7dc313856bbcb0915977" sha1="de037f9df49558bf10f4d5421ce51b30f13f06c8"/>
+	</game>
 	<game name="Velocity 2X - Critical Mass Edition (USA) (En,Fr,De,Es,It,Pt)" id="57692">
 		<category>Games</category>
 		<description>Velocity 2X: Critical Mass Edition (USA) (En,Fr,De,Es,It,Pt)</description>
@@ -12999,6 +13027,13 @@
 		<serial>CUSA-06216</serial>
 		<version>02.00</version>
 		<rom name="Windjammers (USA) (En,Fr,De,Es,It).iso" size="1152319488" crc="82f1382f" md5="2e63dc46e1996055b3fe214a468930a0" sha1="d7d6a40b3d30e0622b587f09c645a469627b2f18"/>
+	</game>
+	<game name="Windstorm - An Unexpected Arrival (Europe)" id="139794">
+		<category>Games</category>
+		<description>Windstorm: An Unexpected Arrival (Europe)</description>
+		<serial>CUSA-13711</serial>
+		<version>01.02</version>
+		<rom name="Windstorm - An Unexpected Arrival (Europe).iso" size="25024331776" crc="41ad6839" md5="a553e4ebdbfb99f5b276fa0864c0227d" sha1="492c701c465eacf1c6d26d1a37a1d4e27ef6736e"/>
 	</game>
 	<game name="Windstorm - The Game (Germany)" id="135074">
 		<category>Games</category>

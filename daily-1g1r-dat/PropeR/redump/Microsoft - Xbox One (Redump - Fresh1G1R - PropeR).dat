@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (908) (-y) [-aAbBcdkmMpPuv] (2026-10-27 00-22-34) (Retool)</description>
-		<version>2026-10-27 00-22-34</version>
-		<date>2026-10-27 07-48-25</date>
+		<description>Microsoft - Xbox One (909) (-y) [-aAbBcdkmMpPuv] (2026-10-27 23-42-52) (Retool)</description>
+		<version>2026-10-27 23-42-52</version>
+		<date>2026-10-28 08-25-53</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -651,10 +651,11 @@
 		<description>Children of Morta (USA)</description>
 		<rom name="Children of Morta (USA).iso" size="20038885376" crc="61c6431b" md5="2224d1935f9a96fd4535448b0862ded2" sha1="64113ddfaa5b2e90aae5745132744926fadffad9"/>
 	</game>
-	<game name="Chivalry II (USA)" id="101539">
+	<game name="Chivalry II (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="101539">
 		<category>Games</category>
-		<description>Chivalry II (USA)</description>
-		<rom name="Chivalry II (USA).iso" size="22978238464" crc="a90723a0" md5="acbf629969d4acd61c39eaa7a147eef3" sha1="c44a2cb158ba3b1a1507670cb84a72ed32bbc4da"/>
+		<description>Chivalry II (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
+		<serial>1063305</serial>
+		<rom name="Chivalry II (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="22978238464" crc="a90723a0" md5="acbf629969d4acd61c39eaa7a147eef3" sha1="c44a2cb158ba3b1a1507670cb84a72ed32bbc4da"/>
 	</game>
 	<game name="Cities - Skylines - Xbox One Edition (USA)" id="112840">
 		<category>Games</category>
@@ -782,6 +783,11 @@
 		<category>Games</category>
 		<description>Dark Pictures Anthology, The: House of Ashes (USA)</description>
 		<rom name="Dark Pictures Anthology, The - House of Ashes (USA).iso" size="45957781504" crc="bda50d98" md5="79b03aefceea566a106398d16e54a228" sha1="901814952776d3474bc9ec980d7a8ffa76f432bc"/>
+	</game>
+	<game name="Dark Pictures Anthology, The - Little Hope (USA)" id="139764">
+		<category>Games</category>
+		<description>Dark Pictures Anthology, The: Little Hope (USA)</description>
+		<rom name="Dark Pictures Anthology, The - Little Hope (USA).iso" size="45957781504" crc="4b3f7e17" md5="d8fcf829041bbeeaec22bdb3abd2a2fd" sha1="276a1a1604697be1f68b19775239e1f470080bb8"/>
 	</game>
 	<game name="Dark Pictures Anthology, The - The Devil in Me (USA)" id="109738">
 		<category>Games</category>
