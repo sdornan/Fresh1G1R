@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,133) (-y) [-aAbBcdkmMpPuv] (2026-10-28 02-02-34) (Retool)</description>
-		<version>2026-10-28 02-02-34</version>
-		<date>2026-10-28 08-25-38</date>
+		<description>IBM - PC compatible (27,139) (-y) [-aAbBcdkmMpPuv] (2026-10-28 23-18-28) (Retool)</description>
+		<version>2026-10-28 23-18-28</version>
+		<date>2026-10-29 08-35-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -26367,6 +26367,13 @@
 		<rom name="Byggare Bob - Bob Bygger en Park (Sweden).bin" size="661088400" crc="c8c857be" md5="31ba360553e1b28287259ac7523bd897" sha1="498dbf17909b33d17a601a0b45c20de60dfa506d"/>
 		<rom name="Byggare Bob - Bob Bygger en Park (Sweden).cue" size="107" crc="5fab7bca" md5="2ed2ddc47fc10ba03e5dec505e5c88c2" sha1="da0514f0bcd56f1f9292b4a621f6eb7fedf49992"/>
 	</game>
+	<game name="Byggare Bob - Kan vi fixa det (Sweden)" id="139831">
+		<category>Games</category>
+		<description>Byggare Bob: Kan vi fixa det? (Sweden)</description>
+		<serial>177341</serial>
+		<rom name="Byggare Bob - Kan vi fixa det (Sweden).bin" size="213695664" crc="0ebf2709" md5="5ac47500950d5a7b8a99e6c838733cc0" sha1="98da024c560c155427e1c980cd8b45dda4aada07"/>
+		<rom name="Byggare Bob - Kan vi fixa det (Sweden).cue" size="104" crc="d58e07ac" md5="606e8255b556ebaf3383220c86dbcb36" sha1="7de45e1fd605fd1b67d3073e1a9e0d3227811f22"/>
+	</game>
 	<game name="Bylo sobie zycie - Oddychanie (Poland) (Covermount)" id="125187">
 		<category>Games</category>
 		<description>Było sobie życie: Oddychanie (Poland) (Covermount)</description>
@@ -43516,6 +43523,14 @@
 		<rom name="Depths of Peril (USA).bin" size="129717504" crc="927827ff" md5="84c5741f3087bfda5893d1bd53974c2d" sha1="869270b3e84ca54ff867f043433e476d382436cd"/>
 		<rom name="Depths of Peril (USA).cue" size="87" crc="e28c9b31" md5="93abdb28209af827f8f82e95c26ede12" sha1="d524301fb07820e5e92b09a62af2060ee1e43564"/>
 	</game>
+	<game name="Derby Master 2 (Japan)" id="139836">
+		<category>Games</category>
+		<description>Derby Master 2 (Japan)</description>
+		<serial>7091-13-01</serial>
+		<version>2.00</version>
+		<rom name="Derby Master 2 (Japan).bin" size="77369040" crc="6c27bb9f" md5="17b353cac8af1110266a45ce6f4c7df1" sha1="60a3e067bf6051042ff8ed9c622b7f2d3e62bbfd"/>
+		<rom name="Derby Master 2 (Japan).cue" size="88" crc="335d6acb" md5="85d71a1f1bd1fc190254c38be8303436" sha1="5d1f7d8c9a1c81dcc6be087e493ee41c73f95a06"/>
+	</game>
 	<game name="Derby Owners Club Online (Japan)" id="117199">
 		<category>Games</category>
 		<description>Derby Owners Club Online (Japan)</description>
@@ -49587,7 +49602,7 @@
 	<game name="Dockskapet (Sweden)" id="123093">
 		<category>Games</category>
 		<description>Dockskåpet (Sweden)</description>
-		<serial>GAMM 400</serial>
+		<serial>GAMM 400, GAMM441</serial>
 		<rom name="Dockskapet (Sweden).bin" size="117334224" crc="04314a74" md5="c54545dd55a2a988e56e14a9573751da" sha1="391ebaf22efb950d6f8a3e3c719170416fa82a50"/>
 		<rom name="Dockskapet (Sweden).cue" size="108" crc="441899da" md5="b4ec0cf15e7c90a3f4ba6ad7fa550e94" sha1="1566571e47405d2e7c4ec060bdd9d23a9cb52bdf"/>
 	</game>
@@ -130023,6 +130038,13 @@
 		<rom name="Nihongo Tanken Series - Hougen Momotarou (Japan).bin" size="724874640" crc="9c07afe8" md5="ee8a2c0ebe2a1b4b00e3416794846f92" sha1="9741b3c8dad8defb14c304c978cfcb53e473911d"/>
 		<rom name="Nihongo Tanken Series - Hougen Momotarou (Japan).cue" size="114" crc="273ad614" md5="08b14d57e234d4e27b9d33126417962a" sha1="e06add31618aa06cc6df56f2f85eb8fe44bfef14"/>
 	</game>
+	<game name="Niigata Keibajou - Update Program (Japan)" id="139838">
+		<category>Add-Ons</category>
+		<description>Niigata Keibajou: Update Program (Japan)</description>
+		<version>1.0.0.1</version>
+		<rom name="Niigata Keibajou - Update Program (Japan).bin" size="3426864" crc="62f7e478" md5="9a19f9b796aab7caa0043e301fa1e2af" sha1="5dd37eb4ac6a37a7e7b6eac7af01294700420f0e"/>
+		<rom name="Niigata Keibajou - Update Program (Japan).cue" size="107" crc="088069e0" md5="87ec9661421473624585aa98f5317539" sha1="c99a235740e10760459eb3691d7569c16f9a8528"/>
+	</game>
 	<game name="Nikita - Das Geheimnis des verborgenen Schatzes (Germany)" id="42293">
 		<category>Games</category>
 		<description>Nikita: Das Geheimnis des verborgenen Schatzes (Germany)</description>
@@ -139112,6 +139134,13 @@
 		<description>Pier Solar and the Great Architects (World) (En,Ja,Fr,De,Es,Pt)</description>
 		<serial>T-574283</serial>
 		<rom name="Pier Solar and the Great Architects (World) (En,Ja,Fr,De,Es,Pt).iso" size="4622090240" crc="633e53e3" md5="0337845c65635b31bbbb3d91b44bde3a" sha1="fbbe41ee95bcca514949e95bb92a3f3ee24a5c02"/>
+	</game>
+	<game name="Piggley Winks aventyr (Sweden)" id="139832">
+		<category>Games</category>
+		<description>Piggley Winks äventyr (Sweden)</description>
+		<serial>ART.SE.48978</serial>
+		<rom name="Piggley Winks aventyr (Sweden).bin" size="562977072" crc="a14c94b9" md5="65559e4bfdd2a075bbe89877f47c60f3" sha1="dc3c2d3a2225b27becf5cb6eb05c07934322c91c"/>
+		<rom name="Piggley Winks aventyr (Sweden).cue" size="96" crc="bc39c143" md5="424695e801cefe6c479c7dae82573b35" sha1="e8236f2f2fc3dc39171e7d1e9bf3dc46a0907462"/>
 	</game>
 	<game name="Pigiamino Sam - L'Eroe della Merenda (Italy)" id="108371">
 		<category>Games</category>
@@ -165697,6 +165726,11 @@
 		<rom name="Shannara (USA).bin" size="715019760" crc="bd12ef95" md5="92c7d69870fe1ad5779d27b5cc18233e" sha1="791b3bba0ad5d83b3c28072fd86bb5c9bae050fc"/>
 		<rom name="Shannara (USA).cue" size="103" crc="21572dd6" md5="d079a96a54e9225c1bfcc64028f58766" sha1="757100f78f9611009ef739542e4bf67905402de8"/>
 	</game>
+	<game name="Shantae Advance - Risky Revolution (USA) (En,Fr,De,Es,It)" id="139833">
+		<category>Games</category>
+		<description>Shantae Advance: Risky Revolution (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Shantae Advance - Risky Revolution (USA) (En,Fr,De,Es,It).iso" size="4290641920" crc="1b3f7b0a" md5="572e497f6d9e461ef3fde1b76ced1687" sha1="d45b4a586db22d042a4a1afce0d0c979ac9c1e13"/>
+	</game>
 	<game name="Shaolin Mystery - Tale of the Jade Dragon Staff (Australia)" id="128862">
 		<category>Games</category>
 		<description>Shaolin Mystery: Tale of the Jade Dragon Staff (Australia)</description>
@@ -172463,6 +172497,12 @@
 		<description>Skippy: Het Geheim van de Gestolen Papyrusrol (Belgium, Netherlands)</description>
 		<rom name="Skippy - Het Geheim van de Gestolen Papyrusrol (Belgium, Netherlands).bin" size="775675488" crc="2c77bc17" md5="6ebed14278d060084fbcb65a20a971ab" sha1="6a06a5e9d9d50aaf496ddc46adf46bbe755d2412"/>
 		<rom name="Skippy - Het Geheim van de Gestolen Papyrusrol (Belgium, Netherlands).cue" size="135" crc="e0ec1b20" md5="4ae73d40229e29a149216192087a5ccc" sha1="2fc582d77dddaac20851eb1f9b7de7aa7672c9f8"/>
+	</game>
+	<game name="Skiregion-Simulator 2012 (Germany)" id="139835">
+		<category>Games</category>
+		<description>Skiregion-Simulator 2012 (Germany)</description>
+		<rom name="Skiregion-Simulator 2012 (Germany).bin" size="696869376" crc="17888096" md5="5e08f4d4a5ed5c73509c6fc825f65eae" sha1="29c3b44e0c5636011270a4d49c52a880c32d2481"/>
+		<rom name="Skiregion-Simulator 2012 (Germany).cue" size="100" crc="782e920b" md5="dfc27fdcc3813d3503bc92d282043011" sha1="114acb453ef8ed011575b9b75e4d367168158d3f"/>
 	</game>
 	<game name="Skitaniya Tajera (Russia)" id="104840">
 		<category>Games</category>

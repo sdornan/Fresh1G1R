@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,573) (-y) [-aAbBcdkmMpPuv] (2026-10-28 00-32-34) (Retool)</description>
-		<version>2026-10-28 00-32-34</version>
-		<date>2026-10-28 08-25-52</date>
+		<description>Microsoft - Xbox 360 (1,576) (-y) [-aAbBcdkmMpPuv] (2026-10-29 08-15-36) (Retool)</description>
+		<version>2026-10-29 08-15-36</version>
+		<date>2026-10-29 08-35-31</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5364,6 +5364,12 @@
 		<serial>KN-2108</serial>
 		<rom name="Metal Gear Solid - HD Collection (USA) (En,Fr,Es) (Disc 2).iso" size="8738846720" crc="f0dbe54a" md5="49c1af359ff923d45c673f094cfe2c7e" sha1="fae36743039d474614d3080d43a541f75fb95d63"/>
 	</game>
+	<game name="Metal Gear Solid - Peace Walker - HD Edition (Japan)" id="139816">
+		<category>Games</category>
+		<description>Metal Gear Solid: Peace Walker: HD Edition (Japan)</description>
+		<serial>KN-2108</serial>
+		<rom name="Metal Gear Solid - Peace Walker - HD Edition (Japan).iso" size="8738846720" crc="929857ab" md5="2019c3ea58c01598e431fae982920aa2" sha1="504ee665b709013119aaba3cf83299dbca3d0ead"/>
+	</game>
 	<game name="Metal Gear Solid V - Ground Zeroes (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)" id="57863">
 		<category>Games</category>
 		<description>Metal Gear Solid V: Ground Zeroes (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)</description>
@@ -6154,6 +6160,12 @@
 		<serial>NM-2152</serial>
 		<rom name="Naruto Shippuden - Ultimate Ninja Storm Revolution (USA).iso" size="8738846720" crc="50c0462b" md5="d099b7f1f34e47afd75d2b60068c5b10" sha1="415d71e3ba6f2d7e7c158997fabe1d324e5908c7"/>
 	</game>
+	<game name="Naruto Shippuuden - Narutimate Storm Revolution (Japan)" id="139817">
+		<category>Games</category>
+		<description>Naruto Shippuuden: Narutimate Storm Revolution (Japan)</description>
+		<serial>NM-2152</serial>
+		<rom name="Naruto Shippuuden - Narutimate Storm Revolution (Japan).iso" size="8738846720" crc="afde497e" md5="0c8c84ff811c6837b45fecd72967364f" sha1="0ee8caef6333585dd64d8e687648be911d615be0"/>
+	</game>
 	<game name="Nat Geo Quiz! Wild Life (Europe)" id="69929">
 		<category>Games</category>
 		<description>Nat Geo Quiz! Wild Life (Europe)</description>
@@ -6706,6 +6718,12 @@
 		<description>PopCap Hits! Vol. 2 (Europe)</description>
 		<serial>MK-2003</serial>
 		<rom name="PopCap Hits! Vol. 2 (Europe).iso" size="7838695424" crc="dfad64c1" md5="6d1e7057acdb4edb2b9997f3497cf575" sha1="30d47f242c3ea8dc502e7a3ace4fcfbae3090281"/>
+	</game>
+	<game name="Port Royale 3 (Japan)" id="139820">
+		<category>Games</category>
+		<description>Port Royale 3 (Japan)</description>
+		<serial>KY-2015</serial>
+		<rom name="Port Royale 3 (Japan).iso" size="8738846720" crc="e1526e8a" md5="af257d0a9db38abacf243fc3e778678a" sha1="ab01d1b470c1999f109803316798a5e53f244df9"/>
 	</game>
 	<game name="Port Royale 3 - Pirates &amp; Merchants (USA, Europe) (En,Fr,De,Es,It)" id="50642">
 		<category>Games</category>
@@ -8530,11 +8548,11 @@
 		<serial>TT-2047</serial>
 		<rom name="Top Spin 3 (USA, Europe) (En,Fr,De,Es,It).iso" size="7835492352" crc="5491e7ef" md5="38e2b609990fb9993e1899b2c825cbbb" sha1="2f095e3a6ee853bb6b5e49cb9a015e8a6acbee9f"/>
 	</game>
-	<game name="Top Spin 4 (USA, Europe) (En,Fr,De,Es,It)" id="57594">
+	<game name="Top Spin 4 (World) (En,Fr,De,Es,It)" id="57594">
 		<category>Games</category>
-		<description>Top Spin 4 (USA, Europe) (En,Fr,De,Es,It)</description>
+		<description>Top Spin 4 (World) (En,Fr,De,Es,It)</description>
 		<serial>TT-2137</serial>
-		<rom name="Top Spin 4 (USA, Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="c8d1418b" md5="9b9439dcb30604770afae2de1387b282" sha1="1b2694a0ee39be02a145afd426f082b7210d1278"/>
+		<rom name="Top Spin 4 (World) (En,Fr,De,Es,It).iso" size="7838695424" crc="c8d1418b" md5="9b9439dcb30604770afae2de1387b282" sha1="1b2694a0ee39be02a145afd426f082b7210d1278"/>
 	</game>
 	<game name="Tornado Outbreak (USA)" id="100844">
 		<category>Games</category>

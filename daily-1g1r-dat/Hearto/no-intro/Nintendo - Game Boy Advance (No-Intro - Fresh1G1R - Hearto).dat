@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,719) (-y) [-aAbBcefkmMoprv] (20261027-135051) (Retool)</description>
-		<version>20261027-135051</version>
-		<date>2026-10-28 08-11-52</date>
+		<description>Nintendo - Game Boy Advance (1,718) (-y) [-aAbBcefkmMoprv] (20261028-031703) (Retool)</description>
+		<version>20261028-031703</version>
+		<date>2026-10-29 08-22-51</date>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, UnlockerPT, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1713,11 +1713,6 @@
 		<category>Games</category>
 		<description>Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="7bd01b31" md5="bab43e61606514080129a179e931b2b6" sha1="939f52824d6598de9c3ca5f1f33787e1ee01d442"/>
-	</game>
-	<game name="Disney Cart (USA) (Unl)" id="2919">
-		<category>Games</category>
-		<description>Disney Cart (USA) (Unl)</description>
-		<rom name="Disney Cart (USA) (Unl).gba" size="33554432" crc="5dc17eee" md5="512c5356bf5d875e6f2d2d4eabd38ca3" sha1="0a24e6e903779c5e512ed7eab5256b5bfe59c06b" sha256="6457912f94588ed90907b365182c5edd8a40ef597defe2d0be782abf819fd9c4"/>
 	</game>
 	<game name="Disney Princess (USA, Europe)" id="0926">
 		<category>Games</category>

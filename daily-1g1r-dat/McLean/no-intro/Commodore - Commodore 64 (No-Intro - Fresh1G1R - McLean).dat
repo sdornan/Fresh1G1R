@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Retool)</name>
-		<description>Commodore - Commodore 64 (211) (-ly) [-aAbBcdDefkmMopPruv] (20261027-074610) (Retool)</description>
-		<version>20261027-074610</version>
-		<date>2026-10-28 08-20-25</date>
+		<description>Commodore - Commodore 64 (211) (-ly) [-aAbBcdDefkmMopPruv] (20261028-092528) (Retool)</description>
+		<version>20261028-092528</version>
+		<date>2026-10-29 08-31-33</date>
 		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -59,7 +59,7 @@
 	<game name="Alphabet Zoo (USA, Europe)" id="0126">
 		<category>Games</category>
 		<description>Alphabet Zoo (USA, Europe)</description>
-		<rom name="Alphabet Zoo (USA, Europe).crt" size="16464" crc="185f2310" md5="6c65754e17a2fcd839bebde21c743334" sha1="4f46a2dbf540cd972d65e32a54b6160c9d768725"/>
+		<rom name="Alphabet Zoo (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="185f2310" md5="6c65754e17a2fcd839bebde21c743334" sha1="4f46a2dbf540cd972d65e32a54b6160c9d768725" sha256="e832a22f9816c85672121989c01d090b318272c0c61d7cbf5f5f74562620090b"/>
 	</game>
 	<game name="Arnie Armchair's Howzat Cricket Game (USA, Europe)" id="0127">
 		<category>Games</category>
@@ -69,7 +69,7 @@
 	<game name="Astroblitz (USA, Europe)" id="0128">
 		<category>Games</category>
 		<description>Astroblitz (USA, Europe)</description>
-		<rom name="Astroblitz (USA, Europe).crt" size="8272" crc="f10447a9" md5="c5aad2c3b1c076f4631e792a934ce7fa" sha1="e994e6061a296c77dbed8f1d94a1e2cd3b7ae396"/>
+		<rom name="Astroblitz (USA, Europe).crt" size="8272" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000020100000000080002000" crc="f10447a9" md5="c5aad2c3b1c076f4631e792a934ce7fa" sha1="e994e6061a296c77dbed8f1d94a1e2cd3b7ae396" sha256="7f79fe34769ffb87a1c3954cdc223e3b538618df07fc62b641ba89d2ea302373"/>
 	</game>
 	<game name="Attack of the Mutant Camels (USA)" id="0129">
 		<category>Games</category>
@@ -109,7 +109,7 @@
 	<game name="Beamrider (USA, Europe)" id="0135">
 		<category>Games</category>
 		<description>Beamrider (USA, Europe)</description>
-		<rom name="Beamrider (USA, Europe).crt" size="16464" crc="bb1685ce" md5="0f5ae8944e360ece1baea70ebfe2f6f5" sha1="80912924dd9499bf078165ea88c9c7bcc89686b3"/>
+		<rom name="Beamrider (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="bb1685ce" md5="0f5ae8944e360ece1baea70ebfe2f6f5" sha1="80912924dd9499bf078165ea88c9c7bcc89686b3" sha256="0f53c674cee00cc6b99657bd7b25d70ed4b7749a45a3306271f5ffae6c610e67"/>
 	</game>
 	<game name="Big Bird's Funhouse (USA, Europe)" id="0136">
 		<category>Games</category>
@@ -129,7 +129,7 @@
 	<game name="Bridge 64 (USA, Europe)" id="0139">
 		<category>Games</category>
 		<description>Bridge 64 (USA, Europe)</description>
-		<rom name="Bridge 64 (USA, Europe).crt" size="16464" crc="e2729a5c" md5="66364d4d07717be98212c345adf3a687" sha1="93042daa61982a48cf06744072d33c0085659131"/>
+		<rom name="Bridge 64 (USA, Europe).crt" size="16464" header="43363420434152545249444745202020 00000040010000000000000000000000 00000000000000000000000000000000 00000000000000000000000000000000 43484950000040100000000080004000" crc="e2729a5c" md5="66364d4d07717be98212c345adf3a687" sha1="93042daa61982a48cf06744072d33c0085659131" sha256="236f352d62000e9312b16552f7ff00018dfce965a73dae88385257485ac69f14"/>
 	</game>
 	<game name="Bubble Burst (USA, Europe)" id="0140">
 		<category>Games</category>

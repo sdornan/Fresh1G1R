@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (705) (-y) [-aAbBcdkmMpPuv] (2026-10-27 16-42-34) (Retool)</description>
-		<version>2026-10-27 16-42-34</version>
-		<date>2026-10-28 08-24-25</date>
+		<description>Apple - Macintosh (706) (-y) [-aAbBcdkmMpPuv] (2026-10-28 16-18-24) (Retool)</description>
+		<version>2026-10-28 16-18-24</version>
+		<date>2026-10-29 08-34-07</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2879,6 +2879,12 @@
 		<description>Ma-ri-a: Ningyoukan no Noroi (Japan) (Disc 2)</description>
 		<rom name="Ma-ri-a - Ningyoukan no Noroi (Japan) (Disc 2).bin" size="529202352" crc="3c88cc4d" md5="e79787a164e8bad6a384baf7719f7fb9" sha1="d69ab2bbd5c54fb0e67332587c3c9fe8fd5bfac2"/>
 		<rom name="Ma-ri-a - Ningyoukan no Noroi (Japan) (Disc 2).cue" size="112" crc="6353bad2" md5="5646fdd48d351fa6b665abf1ed9a4c9b" sha1="68978ae8a9c796cdacf845d11607f6568cd968d2"/>
+	</game>
+	<game name="Mac 4 Pac (USA)" id="139829">
+		<category>Games</category>
+		<description>Mac 4 Pac (USA)</description>
+		<rom name="Mac 4 Pac (USA).bin" size="382907952" crc="a2155717" md5="91d57f52ec4a0ef9dcc281479cccea5b" sha1="8f7e863b38f3fd128190179b84cebe38c05553ef"/>
+		<rom name="Mac 4 Pac (USA).cue" size="81" crc="082ee1ca" md5="5ce81280043d4366ef816803b49fa9f6" sha1="89ef1c7c48ec72add86207767d99da957b60c742"/>
 	</game>
 	<game name="Mac Action Games (USA)" id="139559">
 		<category>Games</category>

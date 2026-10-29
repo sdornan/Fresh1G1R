@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (Headerless) (Retool)</name>
-		<description>Commodore - Commodore 64 (Headerless) (20) (-y) [-aAbBcdkmMpPuv] (20261027-074610) (Retool)</description>
-		<version>20261027-074610</version>
-		<date>2026-10-28 08-27-21</date>
+		<description>Commodore - Commodore 64 (Headerless) (24) (-y) [-aAbBcdkmMpPuv] (20261028-092528) (Retool)</description>
+		<version>20261028-092528</version>
+		<date>2026-10-29 08-40-59</date>
 		<author>1988reload, baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -36,6 +36,21 @@
 		<description>Alf in the Color Caves (USA, Europe)</description>
 		<rom name="Alf in the Color Caves (USA, Europe).bin" size="16384" crc="f06cd220" md5="f5ef92de3262c8b6c01dcf53a5f8773c" sha1="0fc963c41b2e748f7001c976d5a86231d8e61294" sha256="634d7cd152869332304585653bb368a5a1ba6f2434573d8cddfb75aabd0a6b00"/>
 	</game>
+	<game name="Alphabet Zoo (USA, Europe)" id="0126">
+		<category>Games</category>
+		<description>Alphabet Zoo (USA, Europe)</description>
+		<rom name="Alphabet Zoo (USA, Europe).bin" size="16384" crc="25110243" md5="1b93d940ba459204b42e859d18935d45" sha1="7bd6a648e1d1c84270e785d0759746b2d7a4ea44" sha256="ff66cb7414abc08418bad130db47559c46870e85ffdfd4b91a16665abbd9af87"/>
+	</game>
+	<game name="Astroblitz (USA, Europe)" id="0128">
+		<category>Games</category>
+		<description>Astroblitz (USA, Europe)</description>
+		<rom name="Astroblitz (USA, Europe).bin" size="8192" crc="a5e4f18e" md5="f5ccc5aaeb3c956fb58dd391149c591e" sha1="3967977ccf53742e132c8e238f2e5596f949d9d1" sha256="ae9d98d70304943a790964679d5e4f0c269ae018d0dbb6ed046e7318f1388328"/>
+	</game>
+	<game name="Beamrider (USA, Europe)" id="0135">
+		<category>Games</category>
+		<description>Beamrider (USA, Europe)</description>
+		<rom name="Beamrider (USA, Europe).bin" size="16384" crc="8658a49d" md5="a3f72817c5bc631cbdf989f410492b41" sha1="6d43734e80b5e27678721faa8574a6d8831236e7" sha256="fdb249a74f48f4bd851c51c73d4d133e4fb4177539781985a6effd0ccb6daef5"/>
+	</game>
 	<game name="Big Bird's Funhouse (USA, Europe)" id="0136">
 		<category>Games</category>
 		<description>Big Bird's Funhouse (USA, Europe)</description>
@@ -45,6 +60,11 @@
 		<category>Games</category>
 		<description>Blueprint (USA, Europe)</description>
 		<rom name="Blueprint (USA, Europe).bin" size="16384" crc="b929eb5c" md5="c6cecefd5966dc7a1bb9593e75c8a9ff" sha1="0acd28c13074ab0af4e6437ae4612cecad5c3133" sha256="6118ab8e5160511ff5c392758d5d563f1f96500fcae785d36a96f9d0d73f45cd"/>
+	</game>
+	<game name="Bridge 64 (USA, Europe)" id="0139">
+		<category>Games</category>
+		<description>Bridge 64 (USA, Europe)</description>
+		<rom name="Bridge 64 (USA, Europe).bin" size="16384" crc="df3cbb0f" md5="5702ba14be9a13228926661e80aa7f5e" sha1="6a00991eb13203da3f4f3e3b1b723adf225e1b42" sha256="bb575e925e27028727a91303f9aa11f2d86e9a223ed714f2307afef9c255ca84"/>
 	</game>
 	<game name="Bubble Burst (USA, Europe)" id="0140">
 		<category>Games</category>
