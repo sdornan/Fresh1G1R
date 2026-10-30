@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Enhanced CD (Retool)</name>
-		<description>Enhanced CD (5) (-y) [-aAbBcefkmMoprv] (2026-10-29 08-15-33) (Retool)</description>
-		<version>2026-10-29 08-15-33</version>
-		<date>2026-10-29 08-19-03</date>
+		<description>Enhanced CD (6) (-y) [-aAbBcefkmMoprv] (2026-10-29 09-15-33) (Retool)</description>
+		<version>2026-10-29 09-15-33</version>
+		<date>2026-10-30 08-23-36</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -63,6 +63,29 @@
 		<rom name="Hit Parade Dance Champions 90's (Italy) (Track 16).bin" size="33753552" crc="8d782142" md5="4edee6d419b8e0bbf82b11638a5d5d0c" sha1="b2f34a9c4ae7e2818bf370ff23481205aac057c3"/>
 		<rom name="Hit Parade Dance Champions 90's (Italy) (Track 17).bin" size="251910960" crc="699dd90e" md5="999213a9cf89902ac511525e9f112ce2" sha1="5ea9bc7234d0e6b0556b77a2a535be2d505ab393"/>
 		<rom name="Hit Parade Dance Champions 90's (Italy).cue" size="1924" crc="ad2311cc" md5="30298bf226767f3dc57e034290f5be74" sha1="786fc9e7f767420a34bb0ea873cd336aabd67dbf"/>
+	</game>
+	<game name="Most Wanted Cruisin' (Sweden)" id="139841">
+		<category>Demos</category>
+		<description>Most Wanted Cruisin´ (Sweden)</description>
+		<serial>MWCRCD 1, 564742-2</serial>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 01).bin" size="42288960" crc="a2f1c8c3" md5="8960f16d68da40b0c0728079db15d761" sha1="190b2d7f45374d186e653df1c5a40f0b2c96d059"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 02).bin" size="35820960" crc="65ae6999" md5="a98522b78440ec73e0826abb884a20e1" sha1="91fd0420164c76fec9f81c6c68df3fefbb3bf682"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 03).bin" size="37342704" crc="9df67465" md5="d91e45a7d48d10e2cad397ec352e5439" sha1="20e8c296df04d72d638655b7fba791579beaed63"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 04).bin" size="35228256" crc="80731e0c" md5="d3c39a53ae13eb2588a1cfdf1ac6ede1" sha1="fb66397ff0cda79130805e615c960d733cf8cf4a"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 05).bin" size="43787184" crc="3c5ddc50" md5="146cef265832460c0e10fe27d37b2f9c" sha1="3f8bcf4d1b5c990d945c9190e2249d18abde6055"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 06).bin" size="42371280" crc="276b8dec" md5="760674d3c34ef4a88b70ee8b72dad47e" sha1="b2cd1cf2e3a8527504e636f6689937629e840602"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 07).bin" size="43382640" crc="4aecf02d" md5="6f8bec7dad3f6a75c8b4666f512ca5e9" sha1="1953e2bc2658a800c26186ab9af62366caeeff55"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 08).bin" size="48105456" crc="0de33976" md5="93e5b21c8cebb02ef67f0575ae546ac9" sha1="7897a999acc019b042f105bf9f82be9326a286c7"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 09).bin" size="41595120" crc="c0aaa187" md5="6113fa6b0af2371d260dd50f3f665b5b" sha1="046f8f4b37e30cf08f78464d150fe9c510c43551"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 10).bin" size="30404304" crc="0e604306" md5="7092253df6da1af2c71a1ca9f9e32fa6" sha1="9d432201d923289aca7b7d820175b0570b4c54ba"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 11).bin" size="51962736" crc="925fe602" md5="d9316a9f78b2c38048a12eadd7461852" sha1="aff811aed58e53ddaeea07ab8a76a6dda1bfc7ed"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 12).bin" size="38789184" crc="9f45fa0e" md5="589b5327d4376381f36995677f20a465" sha1="dae79185c4eebf88c9a7f608983ab6c7058e3e27"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 13).bin" size="37820160" crc="0837c2d8" md5="ced31c00384789a28feeae11640e17b0" sha1="652fba8df84a4fa92efd49fd94488f645444ed0a"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 14).bin" size="40461456" crc="a648c5de" md5="68e5baae4670df543be52dec50b304fa" sha1="6221c3de896e8597dc248f974f338c71fdb05cbe"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 15).bin" size="45205440" crc="eed98e2d" md5="3ec129dce4a8c7a792a70f6f3a4f968b" sha1="1677a7bc06b91a331fd3c1aa9650282449680cc9"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 16).bin" size="48067824" crc="7827c802" md5="aada7512aa1c53e18917ac9194c5b51e" sha1="4e869a988098995611cca651da3ec1b122b75e6f"/>
+		<rom name="Most Wanted Cruisin' (Sweden) (Track 17).bin" size="14563584" crc="765404e0" md5="71872bd20dad8797cb8f3462a3ceed77" sha1="a9ad10c598a2fda4fe129d6da950488f98221510"/>
+		<rom name="Most Wanted Cruisin' (Sweden).cue" size="1754" crc="4c1654ce" md5="319d896020805da7c684c1864fec8f6b" sha1="4af929379e4fb6a509c49d0e38a0d02325444397"/>
 	</game>
 	<game name="Project Gotham Racing 2 - Music Sampler (USA) (E3)" id="102403">
 		<category>Preproduction</category>

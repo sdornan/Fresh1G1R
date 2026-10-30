@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,139) (-y) [-aAbBcdkmMpPuv] (2026-10-28 23-18-28) (Retool)</description>
-		<version>2026-10-28 23-18-28</version>
-		<date>2026-10-29 08-35-17</date>
+		<description>IBM - PC compatible (27,143) (-y) [-aAbBcdkmMpPuv] (2026-10-30 03-38-06) (Retool)</description>
+		<version>2026-10-30 03-38-06</version>
+		<date>2026-10-30 08-37-19</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -24827,7 +24827,7 @@
 	<game name="Breed (USA)" id="64373">
 		<category>Games</category>
 		<description>Breed (USA)</description>
-		<serial>CDR7078/US2</serial>
+		<serial>ARTICLE-NUMBER CDR7078/US2</serial>
 		<rom name="Breed (USA).bin" size="819389760" crc="cc47c855" md5="25efc536eb239d59a38a0825c0ef585a" sha1="f8828a80a54592446090ea80be5a8d6f01b4ef5c"/>
 		<rom name="Breed (USA).cue" size="77" crc="06d23153" md5="bd8f7bbe080ec96ec174089721833aaa" sha1="fa1966c0fbfbf4cab78a1f78ec4928a0a8bd8ba8"/>
 	</game>
@@ -25309,11 +25309,11 @@
 		<rom name="Broken Sword II - The Smoking Mirror (Czechia) (Rerelease).bin" size="806251488" crc="9c65b644" md5="eaab00d0acd2803be30be751e2aefba3" sha1="24bf53d8491458bce1cad401dac86097c6626a7d"/>
 		<rom name="Broken Sword II - The Smoking Mirror (Czechia) (Rerelease).cue" size="124" crc="d5f8dda3" md5="b40ed3817390a273b903ab5033a0f119" sha1="871b82e080011cc4af1fa781a296106b050ef0c5"/>
 	</game>
-	<game name="Broken Sword II - The Smoking Mirror (Europe) (Disc 1) (Sold Out Software)" id="50674">
+	<game name="Broken Sword II - The Smoking Mirror (Europe) (Disc 1) (Sold Out Software) (2001-03-26) (Alt)" id="50292">
 		<category>Games</category>
-		<description>Broken Sword II: The Smoking Mirror (Europe) (Disc 1) (Sold Out Software)</description>
-		<rom name="Broken Sword II - The Smoking Mirror (Europe) (Disc 1) (Sold Out Software).bin" size="665611296" crc="1e0c9439" md5="cc8d0c251219fbfd07fbd9cb64a3d9e3" sha1="a3130a5c16095a9a611935f67d016c33f037699a"/>
-		<rom name="Broken Sword II - The Smoking Mirror (Europe) (Disc 1) (Sold Out Software).cue" size="163" crc="423c629d" md5="15985bddae6b3550399a4e1dbc7a74a9" sha1="3f04eb5f83c92248160c43ac19981dc1e665cabc"/>
+		<description>Broken Sword II: The Smoking Mirror (Europe) (Disc 1) (Sold Out Software) (2001-03-26) (Alt)</description>
+		<rom name="Broken Sword II - The Smoking Mirror (Europe) (Disc 1) (Sold Out Software) (2001-03-26) (Alt).bin" size="696864672" crc="35e014f6" md5="edcfdef38139076046b54ef84f59beae" sha1="d180427495cb63e824f2d7f5768f7e983f7dc42e"/>
+		<rom name="Broken Sword II - The Smoking Mirror (Europe) (Disc 1) (Sold Out Software) (2001-03-26) (Alt).cue" size="159" crc="2ec80486" md5="80d5b91338d1ed8110c4331b3947991e" sha1="9116f443caf4fea743635c34cc91b33d2e45149f"/>
 	</game>
 	<game name="Broken Sword II - The Smoking Mirror (Europe, Australia) (Disc 2)" id="35370">
 		<category>Games</category>
@@ -28341,6 +28341,12 @@
 		<category>Games</category>
 		<description>Car Mechanic Simulator 2015 / Truck Mechanic Simulator 2015 (USA) (En,Fr,De,Es,It,Nl,Pl,Ru,Cs)</description>
 		<rom name="Car Mechanic Simulator 2015 &amp; Truck Mechanic Simulator 2015 (USA) (En,Fr,De,Es,It,Nl,Pl,Ru,Cs).iso" size="1572077568" crc="24230064" md5="bbf8b9fae43d821e0492dad15957e6da" sha1="b3a842062f4e0620c045189b21ada382812b0450"/>
+	</game>
+	<game name="Car Mechanic Simulator 2015 (Poland)" id="139842">
+		<category>Games</category>
+		<description>Car Mechanic Simulator 2015 (Poland)</description>
+		<serial>50323_C1</serial>
+		<rom name="Car Mechanic Simulator 2015 (Poland).iso" size="918224896" crc="170d0d5f" md5="d39703fd29ff5707f82f063e25cc9a9c" sha1="8fc2a76c5402c1c7dc01d634e783a0d96b322bc4"/>
 	</game>
 	<game name="Car Transport &amp; Towing Simulator Pack 2014 (Europe)" id="128488">
 		<category>Games</category>
@@ -77872,7 +77878,7 @@
 	<game name="Half-Life 2 - Episode Pack (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Th)" id="13226">
 		<category>Games</category>
 		<description>Half-Life 2: Episode Pack (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Th)</description>
-		<serial>VAE07706213D</serial>
+		<serial>VAE07706213D, VAEX7706213D</serial>
 		<rom name="Half-Life 2 - Episode Pack (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Th).iso" size="5624594432" crc="9213fe6d" md5="c674134dd8d98a6a763b005d0f5ad9f9" sha1="e382e8c371c1790d3a49372e69e81d5e270d44e0"/>
 	</game>
 	<game name="Half-Life 2 - Episode Two (Russia, Ukraine) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru)" id="109651">
@@ -101795,7 +101801,7 @@
 	<game name="Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu)" id="9926">
 		<category>Games</category>
 		<description>Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu)</description>
-		<serial>987807, VAX07707102D/UK, VAY07707102D, VAY07707102D/ANZ</serial>
+		<serial>987807, VAX07707102D/UK, VAY07707102D, VAY07707102D/ANZ, VAX07707102D</serial>
 		<rom name="Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu).iso" size="8396800000" crc="f7bad42d" md5="89a3ef5dddc81de75557c5c9ceff5647" sha1="b483bff06e7710285d046d259a319ba5e4190465"/>
 	</game>
 	<game name="Left 4 Dead 2 + Cold Stream (Russia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th,Tr,Ro) (Disc 1)" id="112521">
@@ -178559,7 +178565,7 @@
 		<serial>CD-C95-1185-0</serial>
 		<version>1.0.0.2</version>
 		<rom name="Star Trek - Starfleet Command II - Empires at War (USA) (Disc 1).bin" size="783982752" crc="dbede300" md5="8b0d6f20f9a1179ac0685ec53a98d0b3" sha1="858a6d71d1ae09f85764b48a55295bc87fcf5d88"/>
-		<rom name="Star Trek - Starfleet Command II - Empires at War (USA) (Disc 1).cue" size="153" crc="60fd13af" md5="7ce7e6c6b549c9f20898ba2691822158" sha1="7b7978ff46b7f48a6234b690cf9bc31715bbc3d6"/>
+		<rom name="Star Trek - Starfleet Command II - Empires at War (USA) (Disc 1).cue" size="130" crc="5929a0fd" md5="241c95f782a3061530934813ad2a9426" sha1="24c44623d1d3097f227edf55ceb20f599fc5f20b"/>
 	</game>
 	<game name="Star Trek - Starfleet Command II - Empires at War (USA) (Disc 2)" id="54474">
 		<category>Games</category>
@@ -190873,25 +190879,25 @@
 	<game name="Tom Clancy's The Division (Europe, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 3)" id="85389">
 		<category>Games</category>
 		<description>Tom Clancy's The Division (Europe, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 3)</description>
-		<serial>300084036, 300084041, UBP60801035-DISC3</serial>
+		<serial>300084036, 300084041, UBP60801035-DISC3, 300084031</serial>
 		<rom name="Tom Clancy's The Division (Europe, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 3).iso" size="8525185024" crc="783e5e35" md5="52bb7315227ef0e2bd259e564e347f8f" sha1="854b70156bfb836dfa45e6b01be20a07c40c9e60"/>
 	</game>
 	<game name="Tom Clancy's The Division (Europe, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 4)" id="85390">
 		<category>Games</category>
 		<description>Tom Clancy's The Division (Europe, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 4)</description>
-		<serial>300084037, UBP60801035-DISC4</serial>
+		<serial>300084037, UBP60801035-DISC4, 300084032</serial>
 		<rom name="Tom Clancy's The Division (Europe, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 4).iso" size="8525119488" crc="f2a3e651" md5="e625fe7406d4b9bbaf096be669996c74" sha1="930f823e15dd6dfaea116cf8b33b47ee5cb3a09a"/>
 	</game>
 	<game name="Tom Clancy's The Division (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1)" id="85387">
 		<category>Games</category>
 		<description>Tom Clancy's The Division (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1)</description>
-		<serial>300084034, 300084039, UBP60801035-DISC1</serial>
+		<serial>300084034, 300084039, UBP60801035-DISC1, 300084029</serial>
 		<rom name="Tom Clancy's The Division (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1).iso" size="8526823424" crc="2fc44bba" md5="60ec6de37af0fe7c1152c2810388df34" sha1="75783559a06cfe6983477be1aa8f353301783961"/>
 	</game>
 	<game name="Tom Clancy's The Division (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2)" id="85388">
 		<category>Games</category>
 		<description>Tom Clancy's The Division (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2)</description>
-		<serial>300084035, UBP60801035-DISC2</serial>
+		<serial>300084035, UBP60801035-DISC2, 300084030</serial>
 		<rom name="Tom Clancy's The Division (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2).iso" size="8526757888" crc="31b7a220" md5="488582677409ecdca1c7c1c8973d9c46" sha1="6e1aed895d1183755167b3c8f8f3214b9e7e1c5d"/>
 	</game>
 	<game name="Tom Landry Strategy Football &amp; World Hockey 95 (USA) (En,Fr,De,Es,It)" id="131345">
@@ -193735,6 +193741,24 @@
 		<description>Trainz: Comboios Virtuais no PC! (Portugal) (Covermount)</description>
 		<rom name="Trainz - Comboios Virtuais no PC! (Portugal) (Covermount).bin" size="763755552" crc="c5196f59" md5="b55a6f41e5827e883e6a3eb4b2a9be8d" sha1="72ec29f80ae684e80054a43b2c8ecd11ee27b801"/>
 		<rom name="Trainz - Comboios Virtuais no PC! (Portugal) (Covermount).cue" size="123" crc="f2b65c2e" md5="78cb268289c8bf739c710cb09c4c8da8" sha1="97e10c78a8a9adc0d5e91c04a96c3969024c17f7"/>
+	</game>
+	<game name="Trainz - Driver Edition (USA) (Disc 1)" id="139853">
+		<category>Games</category>
+		<description>Trainz: Driver Edition (USA) (Disc 1)</description>
+		<rom name="Trainz - Driver Edition (USA) (Disc 1).bin" size="671317248" crc="76a406ed" md5="342d5f07c946d644d6851f2209283a55" sha1="aa602bed174a8027998a57c60112d6a32a42250d"/>
+		<rom name="Trainz - Driver Edition (USA) (Disc 1).cue" size="104" crc="04eb04ac" md5="ce3800893ad62de4f93d310a89c30f84" sha1="81e41aa1e42e0e7eb2373afe29482353dd6a6909"/>
+	</game>
+	<game name="Trainz - Driver Edition (USA) (Disc 2)" id="139854">
+		<category>Games</category>
+		<description>Trainz: Driver Edition (USA) (Disc 2)</description>
+		<rom name="Trainz - Driver Edition (USA) (Disc 2).bin" size="713084064" crc="23cb824d" md5="dccc80cd83157d22812a148334f89af6" sha1="3f38dc93741363183aed767a5baa433ac166c1f8"/>
+		<rom name="Trainz - Driver Edition (USA) (Disc 2).cue" size="104" crc="05b6227d" md5="3e52f2d9f5795554f623a501ef71cdec" sha1="5fdc487e61a0dd902f182b63a424919ea1203f24"/>
+	</game>
+	<game name="Trainz - Driver Edition (USA) (Disc 3)" id="139855">
+		<category>Games</category>
+		<description>Trainz: Driver Edition (USA) (Disc 3)</description>
+		<rom name="Trainz - Driver Edition (USA) (Disc 3).bin" size="499776480" crc="3799b230" md5="b36ef208dfc6a73a0282fea2feaed676" sha1="d2c065e38d2ca6a1d8590c55db0ccbf549433432"/>
+		<rom name="Trainz - Driver Edition (USA) (Disc 3).cue" size="104" crc="b3adc20d" md5="480f329a027e26e27fe446343f93c415" sha1="ed074f89cd815b80e7a461373e919b90d5c37c5a"/>
 	</game>
 	<game name="Trainz Classics (UK)" id="124764">
 		<category>Games</category>

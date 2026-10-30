@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (480) (-y) [-aAbBcefkmMoprv] (2026-10-29 02-05-21) (Retool)</description>
-		<version>2026-10-29 02-05-21</version>
-		<date>2026-10-29 08-19-03</date>
+		<description>DVD-Video (481) (-y) [-aAbBcefkmMoprv] (2026-10-29 14-08-06) (Retool)</description>
+		<version>2026-10-29 14-08-06</version>
+		<date>2026-10-30 08-23-36</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1293,6 +1293,11 @@
 		<category>Games</category>
 		<description>NFL DVD Trivia Game (USA)</description>
 		<rom name="NFL DVD Trivia Game (USA).iso" size="7806670848" crc="e7096941" md5="9fccb6195e44b31ab856742ae6102d5f" sha1="aa7c827db3860851d5b9e4943c904daf2e0e96a1"/>
+	</game>
+	<game name="Nar &amp; Fjarran (Sweden)" id="118008">
+		<category>Games</category>
+		<description>När &amp; Fjärran (Sweden)</description>
+		<rom name="Nar &amp; Fjarran (Sweden).iso" size="8496906240" crc="b8c5c996" md5="ed89f647b1794b22209620c4438c7a64" sha1="ea9e1d6e2dbed9c1d506177d16b163a02d80f219"/>
 	</game>
 	<game name="Nedetskie igry - 2+3= (Russia)" id="109009">
 		<category>Games</category>
