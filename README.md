@@ -62,6 +62,21 @@ All DAT files are updated daily, so you can always get the latest filtered colle
 
 ---
 
+## Report retention
+
+Each system has one current report in `report/{configuration}/{collection}/`,
+named `System Name report.txt`. A successful Retool run replaces it atomically.
+Failed runs and runs that produce no report preserve the previous report.
+
+On the first automation run after upgrading, existing dated reports are
+consolidated automatically. The report with the newest **Retool timestamp in
+its filename** is retained for each system, then the dated copies are removed.
+If a stable report already exists, it is retained. Configuration and collection
+folders remain separate, as do format variants such as headered/headerless NES.
+Earlier committed reports remain available in Git history.
+
+Run the report tests with `python3 -m unittest discover -s tests -v`.
+
 ## 🙏 Thanks
 
 - **[hugo19941994](https://github.com/hugo19941994)** for **[auto-datfile-generator](https://github.com/hugo19941994/auto-datfile-generator)** — Inspiration for automated DAT processing  
@@ -72,3 +87,5 @@ All DAT files are updated daily, so you can always get the latest filtered colle
 - **[No-Intro](https://www.no-intro.org)** — For providing cartridge-based DAT files
 
 ---
+
+

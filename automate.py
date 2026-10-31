@@ -19,6 +19,7 @@ import subprocess
 import shutil
 import sys
 import json
+import tempfile
 from pathlib import Path
 from io import BytesIO
 from time import sleep
@@ -958,8 +959,8 @@ def run_retool(input_dat: Path, retool_dir: Path, output_dat_dir: Path, report_d
         return None, None, "failed", "Retool script not found."
     
     # Create temporary output directory for Retool (it needs a directory)
-    temp_output_dir = output_dat_dir / input_dat.stem
-    temp_output_dir.mkdir(parents=True, exist_ok=True)
+    output_dat_dir.mkdir(parents=True, exist_ok=True)
+    temp_output_dir = Path(tempfile.mkdtemp(prefix="retool-", dir=output_dat_dir))
     
     cmd = [
         sys.executable,
@@ -980,7 +981,7 @@ def run_retool(input_dat: Path, retool_dir: Path, output_dat_dir: Path, report_d
         # Find output .dat file in temp directory
         output_files = list(temp_output_dir.glob("*.dat"))
         output_dat = None
-        if output_files:
+        if output_files and result.returncode == 0:
             temp_dat = max(output_files, key=lambda p: p.stat().st_mtime)
             # Extract system name (without date) from input DAT for constant filename
             system_name = extract_system_name(input_dat.stem, collection)
@@ -1015,29 +1016,16 @@ def run_retool(input_dat: Path, retool_dir: Path, output_dat_dir: Path, report_d
         # Find report .txt file in temp directory
         report_files = list(temp_output_dir.glob("*.txt"))
         report_txt = None
-        if report_files:
-            temp_report = max(report_files, key=lambda p: p.stat().st_mtime)
-            # Keep report filename as Retool generated it (includes date and Retool metadata)
-            # Just move it to the report directory without renaming
-            report_dir.mkdir(parents=True, exist_ok=True)
-            final_report_path = report_dir / temp_report.name
-            shutil.move(str(temp_report), str(final_report_path))
-            report_txt = final_report_path
-        
-        # Clean up temp directory
-        try:
-            if temp_output_dir.exists():
-                shutil.rmtree(temp_output_dir)
-        except Exception:
-            pass  # Ignore cleanup errors
-        
-        # Determine status
         retool_output = (result.stdout or "") + "\n" + (result.stderr or "")
         no_titles_match = (
             "No titles in the input DAT match your preferences" in retool_output or
             "No DAT file has been created" in retool_output
         )
         no_valid_titles = "No valid titles in input DAT file" in retool_output
+        if report_files and result.returncode == 0 and (output_dat or no_titles_match or no_valid_titles):
+            temp_report = max(report_files, key=lambda p: p.stat().st_mtime)
+            system_name = report_system_name(input_dat.stem, collection)
+            report_txt = publish_report(temp_report, report_dir / f"{system_name} report.txt")
         
         # Determine status based on conditions
         if output_dat:
@@ -1054,6 +1042,8 @@ def run_retool(input_dat: Path, retool_dir: Path, output_dat_dir: Path, report_d
     except Exception as e:
         print(f"  ❌ Error running Retool: {e}", file=sys.stderr)
         return None, None, "failed", str(e)
+    finally:
+        shutil.rmtree(temp_output_dir, ignore_errors=True)
 
 
 def extract_system_name(filename_stem: str, collection: str) -> str:
@@ -1246,63 +1236,59 @@ def process_all_dats_with_retool(dat_files: list[Path], retool_dir: Path, output
 # Main Function
 # ============================================================================
 
-def cleanup_old_files(directory: Path, pattern: str, keep_count: int = 7, collection: str = "redump") -> int:
-    """
-    Keep only the most recent files matching the pattern, grouped by system name + date.
-    Deletes older files, keeping `keep_count` files per system+date combination.
-    
-    Groups reports by system name and date (e.g., all "System Name (20231029-220453) (Retool ...)" 
-    reports for the same system+date are grouped together).
+def report_system_name(filename_stem: str, collection: str) -> str:
+    """Normalize input DAT and legacy report names without losing format qualifiers."""
+    stem = re.sub(r" report$", "", filename_stem)
+    stem = re.sub(r" \(Retool.*$", "", stem)
+    system = extract_system_name(stem, collection)
+    # Redump downloads can include both a field list and a changing entry count.
+    return re.sub(r" - Datfile(?: \([^)]*\))+$", "", system).strip()
+
+
+def publish_report(source: Path, destination: Path) -> Path:
+    """Atomically replace a report, preserving the old file if copying fails."""
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    with tempfile.NamedTemporaryFile(dir=destination.parent, prefix=".report-", suffix=".tmp", delete=False) as staging:
+        staging_path = Path(staging.name)
+    try:
+        shutil.copyfile(source, staging_path)
+        staging_path.replace(destination)
+    finally:
+        staging_path.unlink(missing_ok=True)
+    return destination
+
+
+def consolidate_reports(directory: Path, collection: str) -> int:
+    """Migrate dated reports to one stable report per system, using Retool timestamps.
+
+    A stable report is already authoritative. Without one, promote the newest
+    dated report before deleting older copies. Unrecognized text files are left
+    alone. Re-running migration is safe, including after a partial cleanup.
     """
     if not directory.exists():
         return 0
-    
-    files = list(directory.glob(pattern))
-    if not files:
-        return 0
-    
-    # Group files by system name + date (for reports which keep their Retool-generated names)
-    files_by_system: dict[str, list[Path]] = {}
-    for file_path in files:
-        # Extract system name + date from report filename
-        # Reports have format: "System Name (date) (Retool ...).txt"
-        stem = file_path.stem
-        # Remove Fresh1G1R suffix if present
-        stem = re.sub(r' \([^)]+- Fresh1G1R - [^)]+\)$', '', stem)
-        
-        if collection == "no-intro":
-            # Extract up to and including date: (YYYYMMDD-HHMMSS)
-            date_pattern = r'\(\d{8}-\d{6}\)'
-            date_match = re.search(date_pattern, stem)
-            if date_match:
-                normalized_system = stem[:date_match.end()]
-            else:
-                normalized_system = stem
-        else:
-            # Redump: Remove Retool metadata, keep system name + date
-            normalized = re.sub(r' \(Retool.*$', '', stem)
-            normalized_system = normalized
-        
-        files_by_system.setdefault(normalized_system, []).append(file_path)
-    
-    # For each system, keep only the most recent `keep_count` files
-    deleted_count = 0
-    for system_name, system_files in files_by_system.items():
-        if len(system_files) <= keep_count:
+    groups: dict[str, list[tuple[str, Path]]] = {}
+    timestamp_pattern = r" \(Retool (\d{4}-\d{2}-\d{2} \d{2}[-:]\d{2}[-:]\d{2})\)"
+    for report in directory.glob("* report.txt"):
+        timestamp = re.search(timestamp_pattern, report.stem)
+        if not timestamp:
             continue
-        
-        # Sort by modification time (most recent first)
-        system_files.sort(key=lambda p: p.stat().st_mtime, reverse=True)
-        
-        # Delete older files
-        for file_to_delete in system_files[keep_count:]:
-            try:
-                file_to_delete.unlink()
-                deleted_count += 1
-            except Exception as e:
-                print(f"  ⚠️  Could not delete {file_to_delete.name}: {e}")
-    
-    return deleted_count
+        system = report_system_name(report.stem, collection)
+        groups.setdefault(system, []).append((timestamp[1].replace(":", "-"), report))
+
+    removed = 0
+    for system, reports in groups.items():
+        destination = directory / f"{system} report.txt"
+        try:
+            if not destination.exists():
+                newest = max(reports, key=lambda item: (item[0], item[1].name))[1]
+                publish_report(newest, destination)
+            for _, report in reports:
+                report.unlink()
+                removed += 1
+        except OSError as error:
+            print(f"  ⚠️  Could not consolidate reports for {system}: {error}")
+    return removed
 
 
 def cleanup_previous_dats(output_dir: Path, config_name: str, collection: str, preserve_files: set[str] = None):
@@ -1433,6 +1419,10 @@ def main():
     all_results = {}
     
     for (config_name, collection), settings in config_settings.items():
+        # Migrate legacy reports even when this collection has no input DATs.
+        removed_reports = consolidate_reports(settings["report_dir"], collection)
+        if removed_reports:
+            print(f"  🗑️  Consolidated {removed_reports} dated reports for {config_name}/{collection}")
         # Skip if this collection has no DATs
         if collection not in collection_dats or not collection_dats[collection]:
             continue
@@ -1468,12 +1458,6 @@ def main():
                 print(f"  ✅ Found {existing_count} existing processed file(s) that match current input DATs")
             else:
                 print(f"  ℹ️  No existing processed files found - all {len(collection_dat_files)} DAT file(s) will be processed")
-        
-        # Clean up old reports (keep only last 7 per system)
-        if report_output_dir.exists():
-            deleted_reports = cleanup_old_files(report_output_dir, "*.txt", keep_count=7, collection=collection)
-            if deleted_reports > 0:
-                print(f"  🗑️  Removed {deleted_reports} old report file(s) (keeping last 7 per system)")
         
         # Process all DATs through Retool with this config's settings
         results = process_all_dats_with_retool(
@@ -1533,3 +1517,4 @@ if __name__ == "__main__":
         import traceback
         traceback.print_exc()
         sys.exit(1)
+
