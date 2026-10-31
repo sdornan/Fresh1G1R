@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,681) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-30 03-38-06) (Retool)</description>
-		<version>2026-10-30 03-38-06</version>
-		<date>2026-10-30 08-31-02</date>
+		<description>IBM - PC compatible (13,682) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-31 00-28-06) (Retool)</description>
+		<version>2026-10-31 00-28-06</version>
+		<date>2026-10-31 08-18-24</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -26381,13 +26381,12 @@
 		<rom name="Dogz 4 - Your Virtual Petz Palz (USA).bin" size="215572560" crc="d16d2fdd" md5="25b548b19950bcccf8171d56dec1bf62" sha1="0d990f5a0630751508c7890f152c1fbabc354192"/>
 		<rom name="Dogz 4 - Your Virtual Petz Palz (USA).cue" size="103" crc="fb7dbd82" md5="cfa04193318313f079afec4a0bca6ccf" sha1="c32b5d0efc45c32192df48bb3a4beb883a12dab5"/>
 	</game>
-	<game name="Dogz 5 (Europe)" id="98206">
+	<game name="Dogz 5 (USA)" id="139878">
 		<category>Games</category>
-		<description>Dogz 5 (Europe)</description>
-		<serial>Artikel-Nr.: 43002, ESS424</serial>
-		<version>5.0</version>
-		<rom name="Dogz 5 (Europe).bin" size="371872368" crc="1bb2a4ad" md5="0b3c285f52a2555d65d05cce6022417a" sha1="ad5296e91bf6b3e327224cc35ef1864e917512ac"/>
-		<rom name="Dogz 5 (Europe).cue" size="81" crc="8f781205" md5="3871c197e1a9b81058ca6748c748a190" sha1="adbdce22f323465897fd608b039bfdff5d88b389"/>
+		<description>Dogz 5 (USA)</description>
+		<serial>650911-CD</serial>
+		<rom name="Dogz 5 (USA).bin" size="788891376" crc="ea201f98" md5="3a730dabdacdb1ce9a2131bf55570c42" sha1="01d72696e952d7299fa06f234af59651a86ec5c7"/>
+		<rom name="Dogz 5 (USA).cue" size="78" crc="cff68d21" md5="1657b5b631345ee7bf7b177c9b4cfb4b" sha1="1b88e85cd3cd9e1b8644873bca5bfa3c05a4a5e7"/>
 	</game>
 	<game name="Dogz II - Your Virtual Petz (USA)" id="97005">
 		<category>Games</category>
@@ -40444,6 +40443,12 @@
 		<description>Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 6) (2019)</description>
 		<serial>1033105L6INT</serial>
 		<rom name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 6) (2019).iso" size="7568687104" crc="a080f9c2" md5="e83caddf689ca87e94be1e72c02906a7" sha1="a3bbaae432809b93923014ecd38db21f055ffa9d"/>
+	</game>
+	<game name="Grid 2 (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl)" id="138253">
+		<category>Games</category>
+		<description>Grid 2 (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl)</description>
+		<serial>MGRI2CDEU00</serial>
+		<rom name="Grid 2 (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl).iso" size="6190432256" crc="23fd3617" md5="f475febcbe1e33fe150df168d13767d0" sha1="533d9d492398f3d883e9281192a901458877261f"/>
 	</game>
 	<game name="Grid Run (Europe)" id="84089">
 		<category>Games</category>

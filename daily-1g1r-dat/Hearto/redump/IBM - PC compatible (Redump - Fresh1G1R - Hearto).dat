@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,568) (-y) [-aAbBcefkmMoprv] (2026-10-30 03-38-06) (Retool)</description>
-		<version>2026-10-30 03-38-06</version>
-		<date>2026-10-30 08-24-20</date>
+		<description>IBM - PC compatible (26,570) (-y) [-aAbBcefkmMoprv] (2026-10-31 00-28-06) (Retool)</description>
+		<version>2026-10-31 00-28-06</version>
+		<date>2026-10-31 08-16-20</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2813,6 +2813,12 @@
 		<description>7.62 (Russia)</description>
 		<version>1.0</version>
 		<rom name="7.62 (Russia).iso" size="4661248000" crc="063e6248" md5="4021e12f22ce69578b3d21836b138ff8" sha1="375f88e827342b3c4afff866b282bfd8e7fef422"/>
+	</game>
+	<game name="7.62 - High Calibre (Turkey)" id="139871">
+		<category>Games</category>
+		<description>7.62: High Calibre (Turkey)</description>
+		<version>1.11 Build 286</version>
+		<rom name="7.62 - High Calibre (Turkey).iso" size="2728427520" crc="3b2daa55" md5="3f14f63be81a68110deba3a6787424d2" sha1="9079122de208edaf6568f91535a1a2d44bc8d11b"/>
 	</game>
 	<game name="7.62 - Perezaryadka (Russia)" id="116658">
 		<category>Games</category>
@@ -48897,13 +48903,12 @@
 		<rom name="Dogz 4 - Your Virtual Petz Palz (USA).bin" size="215572560" crc="d16d2fdd" md5="25b548b19950bcccf8171d56dec1bf62" sha1="0d990f5a0630751508c7890f152c1fbabc354192"/>
 		<rom name="Dogz 4 - Your Virtual Petz Palz (USA).cue" size="103" crc="fb7dbd82" md5="cfa04193318313f079afec4a0bca6ccf" sha1="c32b5d0efc45c32192df48bb3a4beb883a12dab5"/>
 	</game>
-	<game name="Dogz 5 (Europe)" id="98206">
+	<game name="Dogz 5 (USA)" id="139878">
 		<category>Games</category>
-		<description>Dogz 5 (Europe)</description>
-		<serial>Artikel-Nr.: 43002, ESS424</serial>
-		<version>5.0</version>
-		<rom name="Dogz 5 (Europe).bin" size="371872368" crc="1bb2a4ad" md5="0b3c285f52a2555d65d05cce6022417a" sha1="ad5296e91bf6b3e327224cc35ef1864e917512ac"/>
-		<rom name="Dogz 5 (Europe).cue" size="81" crc="8f781205" md5="3871c197e1a9b81058ca6748c748a190" sha1="adbdce22f323465897fd608b039bfdff5d88b389"/>
+		<description>Dogz 5 (USA)</description>
+		<serial>650911-CD</serial>
+		<rom name="Dogz 5 (USA).bin" size="788891376" crc="ea201f98" md5="3a730dabdacdb1ce9a2131bf55570c42" sha1="01d72696e952d7299fa06f234af59651a86ec5c7"/>
+		<rom name="Dogz 5 (USA).cue" size="78" crc="cff68d21" md5="1657b5b631345ee7bf7b177c9b4cfb4b" sha1="1b88e85cd3cd9e1b8644873bca5bfa3c05a4a5e7"/>
 	</game>
 	<game name="Dogz II - Your Virtual Petz (USA)" id="97005">
 		<category>Games</category>
@@ -74597,11 +74602,11 @@
 		<serial>1033105L6INT</serial>
 		<rom name="Grid (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl) (Disc 6) (2019).iso" size="7568687104" crc="a080f9c2" md5="e83caddf689ca87e94be1e72c02906a7" sha1="a3bbaae432809b93923014ecd38db21f055ffa9d"/>
 	</game>
-	<game name="Grid 2 (Poland)" id="138253">
+	<game name="Grid 2 (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl)" id="138253">
 		<category>Games</category>
-		<description>Grid 2 (Poland)</description>
+		<description>Grid 2 (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl)</description>
 		<serial>MGRI2CDEU00</serial>
-		<rom name="Grid 2 (Poland).iso" size="6190432256" crc="23fd3617" md5="f475febcbe1e33fe150df168d13767d0" sha1="533d9d492398f3d883e9281192a901458877261f"/>
+		<rom name="Grid 2 (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl).iso" size="6190432256" crc="23fd3617" md5="f475febcbe1e33fe150df168d13767d0" sha1="533d9d492398f3d883e9281192a901458877261f"/>
 	</game>
 	<game name="Grid Autosport (Poland)" id="138254">
 		<category>Games</category>
@@ -94489,7 +94494,6 @@
 	<game name="Kidou Senshi Gundam - Zaku-da EXP (Japan)" id="115455">
 		<category>Games</category>
 		<description>Kidou Senshi Gundam: Zaku-da EXP (Japan)</description>
-		<serial>V-003320</serial>
 		<rom name="Kidou Senshi Gundam - Zaku-da EXP (Japan).bin" size="684980016" crc="7829b3dd" md5="baa79fbd18a86fd6b2b721aee700d6cd" sha1="8a4b5357a8325276c2e663de4c5bd048b1000939"/>
 		<rom name="Kidou Senshi Gundam - Zaku-da EXP (Japan).cue" size="107" crc="6f81b8bb" md5="4fa6534a88bf8e4605c8f9587d83afde" sha1="29e6e6b5dd549404166a7aa5408703efe99ead0c"/>
 	</game>
@@ -94511,7 +94515,6 @@
 	<game name="Kidou Senshi Gundam Zaku-da - Typing Ichinen Sensou (Japan)" id="125189">
 		<category>Games</category>
 		<description>Kidou Senshi Gundam Zaku-da: Typing Ichinen Sensou (Japan)</description>
-		<serial>V-003320</serial>
 		<version>1.00</version>
 		<rom name="Kidou Senshi Gundam Zaku-da - Typing Ichinen Sensou (Japan).bin" size="711628176" crc="eda317c2" md5="370ff31184a89445f688d89fff01411d" sha1="b2ee8990e32c5940fb46daceae9b8d1625b0a84c"/>
 		<rom name="Kidou Senshi Gundam Zaku-da - Typing Ichinen Sensou (Japan).cue" size="148" crc="393baf54" md5="6e6bb64965fa60ecca5d5644694eb77a" sha1="f1070985fdab675413a10996b999badbd7ca7de7"/>
@@ -175686,6 +175689,12 @@
 		<serial>99032</serial>
 		<rom name="Stratego (USA) (En,Fr,De,Es,It,Nl,Sv).bin" size="669706128" crc="2e4ba21c" md5="a0dd3d3751d4c53e94a21757d677c553" sha1="911a2d9436b96cff41cb2198525eee0f1e53adc0"/>
 		<rom name="Stratego (USA) (En,Fr,De,Es,It,Nl,Sv).cue" size="103" crc="fc77e1ff" md5="be63a9790fcb4b7d95521fdddafd9a0c" sha1="c167f343fd64e2bc4bacf1c41d3fe48d576f970e"/>
+	</game>
+	<game name="Strategy Games (Denmark)" id="139861">
+		<category>Demos</category>
+		<description>Strategy Games (Denmark)</description>
+		<rom name="Strategy Games (Denmark).bin" size="411607056" crc="b9d53278" md5="9dce9bd358df2a9a0884e075b7e8f04e" sha1="a3720046036bc4f66eb9e321304205f417071efd"/>
+		<rom name="Strategy Games (Denmark).cue" size="113" crc="2e1e2d47" md5="0b9030c8abe2a1b7eb0844be48b1288f" sha1="3896670e6d961c8cb07341b26f21c11d78fbc476"/>
 	</game>
 	<game name="Strategy Games of the World (USA) (OEM)" id="87420">
 		<category>Games</category>

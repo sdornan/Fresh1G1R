@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,622) (-y) [-aAbBcefkmMoprv] (2026-10-30 01-28-06) (Retool)</description>
-		<version>2026-10-30 01-28-06</version>
-		<date>2026-10-30 08-24-31</date>
+		<description>Microsoft - Xbox 360 (1,625) (-y) [-aAbBcefkmMoprv] (2026-10-31 01-08-06) (Retool)</description>
+		<version>2026-10-31 01-08-06</version>
+		<date>2026-10-31 08-16-30</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -8426,12 +8426,6 @@
 		<serial>XK-2112</serial>
 		<rom name="Tenpo-you Demo Disc for Xbox 360 - February 2009 Issue (Japan).iso" size="7835492352" crc="8570dd3f" md5="949f971c98e6582522ac8f39ad2818d5" sha1="4b6ac2bb422a4cb116b255cfcd55db9680bd2929"/>
 	</game>
-	<game name="Tenpo-you Demo Disc for Xbox 360 - July 2006 Issue (Japan)" id="58022">
-		<category>Demos</category>
-		<description>Tenpo-you Demo Disc for Xbox 360: July 2006 Issue (Japan)</description>
-		<serial>XK-2035</serial>
-		<rom name="Tenpo-you Demo Disc for Xbox 360 - July 2006 Issue (Japan).iso" size="7834892288" crc="59c39c77" md5="63d1036557b181206bf8e7544cda2957" sha1="d27fd59dac98f9cc0bcdc317eb0c15e652e64a13"/>
-	</game>
 	<game name="Tenpo-you Demo Disc for Xbox 360 - May 2008 Issue (Japan)" id="57647">
 		<category>Demos</category>
 		<description>Tenpo-you Demo Disc for Xbox 360: May 2008 Issue (Japan)</description>
@@ -9608,6 +9602,30 @@
 		<description>Xbox 360 Experience Disc 2.4 Version 2 (USA)</description>
 		<serial>XK-2063</serial>
 		<rom name="Xbox 360 Experience Disc 2.4 Version 2 (USA).iso" size="7835492352" crc="14c60119" md5="538cde8dbe4e6173f13a7b16ec4e2ddb" sha1="a43643cdcd619da4f18c7a2d8167fd1266b10ff2"/>
+	</game>
+	<game name="Xbox 360 Tentou-you Demo Disc - 2005-nen 12-gatsugou (Japan)" id="139873">
+		<category>Demos</category>
+		<description>Xbox 360 Tentou-you Demo Disc: 2005-nen 12-gatsugou (Japan)</description>
+		<serial>XK-2019</serial>
+		<rom name="Xbox 360 Tentou-you Demo Disc - 2005-nen 12-gatsugou (Japan).iso" size="7834892288" crc="09fe6548" md5="17c44e45551f52891375dba7194051cc" sha1="7b0e9bd4fbc603e2922d505d84323feccfd1062f"/>
+	</game>
+	<game name="Xbox 360 Tentou-you Demo Disc - 2006-nen 11-gatsugou (Japan)" id="139880">
+		<category>Demos</category>
+		<description>Xbox 360 Tentou-you Demo Disc: 2006-nen 11-gatsugou (Japan)</description>
+		<serial>XK-2044</serial>
+		<rom name="Xbox 360 Tentou-you Demo Disc - 2006-nen 11-gatsugou (Japan).iso" size="7834892288" crc="67775321" md5="044f7d111ffb8f51905311c0c33a8707" sha1="4b83fe9283b5aca268f9093b6fa7e8d46ff7e782"/>
+	</game>
+	<game name="Xbox 360 Tentou-you Demo Disc - 2006-nen 7-gatsugou (Japan)" id="58022">
+		<category>Demos</category>
+		<description>Xbox 360 Tentou-you Demo Disc: 2006-nen 7-gatsugou (Japan)</description>
+		<serial>XK-2035</serial>
+		<rom name="Xbox 360 Tentou-you Demo Disc - 2006-nen 7-gatsugou (Japan).iso" size="7834892288" crc="59c39c77" md5="63d1036557b181206bf8e7544cda2957" sha1="d27fd59dac98f9cc0bcdc317eb0c15e652e64a13"/>
+	</game>
+	<game name="Xbox 360 Tentou-you Demo Disc - 2006-nen 9-gatsugou (Japan)" id="139877">
+		<category>Demos</category>
+		<description>Xbox 360 Tentou-you Demo Disc: 2006-nen 9-gatsugou (Japan)</description>
+		<serial>XK-2039</serial>
+		<rom name="Xbox 360 Tentou-you Demo Disc - 2006-nen 9-gatsugou (Japan).iso" size="7834892288" crc="f03a74b7" md5="3cdf80f5ca75ce0b0f88d42f6c494b03" sha1="ebed4ee5f63ac5e5cab5209afc6af54dd59e90e6"/>
 	</game>
 	<game name="Xbox 360 Trial Disk (USA) (En,Es)" id="58095">
 		<category>Demos</category>

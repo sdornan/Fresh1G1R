@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi (Retool)</name>
-		<description>Arcade - Sega - Naomi (35) (-y) [-aAbBcefkmMoprv] (2026-10-29 19-28-06) (Retool)</description>
-		<version>2026-10-29 19-28-06</version>
-		<date>2026-10-30 08-24-53</date>
+		<description>Arcade - Sega - Naomi (37) (-y) [-aAbBcefkmMoprv] (2026-10-30 16-38-06) (Retool)</description>
+		<version>2026-10-30 16-38-06</version>
+		<date>2026-10-31 08-16-51</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -351,6 +351,16 @@
 		<rom name="Under Defeat (Japan) (Track 3).bin" size="1185760800" crc="214e66a7" md5="2ea86f382420fa9a5531e2fd4cf16bd5" sha1="989866655541237ff172f9b41695aad58e8e4812"/>
 		<rom name="Under Defeat (Japan).cue" size="354" crc="e66077eb" md5="63b04eecc6b0354635658d4f62b015ec" sha1="d801f50668e776345c76a39cdcab4ba4b4224d44"/>
 	</game>
+	<game name="Usagi - Yasei no Touhai - Yamashiro Mahjong-hen (Japan)" id="139870">
+		<category>Games</category>
+		<description>Usagi: Yasei no Touhai: Yamashiro Mahjong-hen (Japan)</description>
+		<serial>GDL-0022</serial>
+		<version>1.002</version>
+		<rom name="Usagi - Yasei no Touhai - Yamashiro Mahjong-hen (Japan) (Track 1).bin" size="1058400" crc="55f79ea3" md5="bfc498ee5b358e130b0d68f31588f237" sha1="71fb9cd2b67faceb53a2db68d2472c5a66686eec"/>
+		<rom name="Usagi - Yasei no Touhai - Yamashiro Mahjong-hen (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Usagi - Yasei no Touhai - Yamashiro Mahjong-hen (Japan) (Track 3).bin" size="1185760800" crc="fe74ad19" md5="a1b6cc1f12cfb9d558cd1ba2e542375b" sha1="9616f7284e2a5fabf785e68f7beafeca9849fd7f"/>
+		<rom name="Usagi - Yasei no Touhai - Yamashiro Mahjong-hen (Japan).cue" size="459" crc="e4647fcb" md5="9173e5abeacb9dd59c7a7a3e37a216cd" sha1="593086759b8179e629244b1e4fc58a1f65acf3ac"/>
+	</game>
 	<game name="Virtua Athletics ~ Virtua Athlete (World) (En,Ja)" id="75447">
 		<category>Games</category>
 		<description>Virtua Athletics ~ Virtua Athlete (World) (En,Ja)</description>
@@ -360,5 +370,15 @@
 		<rom name="Virtua Athletics ~ Virtua Athlete (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Virtua Athletics ~ Virtua Athlete (World) (En,Ja) (Track 3).bin" size="1185760800" crc="f2d965a1" md5="e90d79d4dc6fd62431d8a68a3cef8297" sha1="b28592a6aa02bdcfd3ada2b5becdb5c6b05eb6aa"/>
 		<rom name="Virtua Athletics ~ Virtua Athlete (World) (En,Ja).cue" size="441" crc="9bb2e37c" md5="2d8da0e8177687c410709dd04a82c828" sha1="f17e38b08c929a8f52bf76f5b0d0fc8cdf1c01f3"/>
+	</game>
+	<game name="World Series Baseball ~ Super Major League (World) (En,Ja)" id="139869">
+		<category>Games</category>
+		<description>World Series Baseball ~ Super Major League (World) (En,Ja)</description>
+		<serial>GDS-0010</serial>
+		<version>1.001</version>
+		<rom name="World Series Baseball ~ Super Major League (World) (En,Ja) (Track 1).bin" size="1058400" crc="d61f4891" md5="7d88d18bcd0119e06b3a15b044680aad" sha1="19416455ffd79bf63724b74c647b6b7b2c36efd5"/>
+		<rom name="World Series Baseball ~ Super Major League (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="World Series Baseball ~ Super Major League (World) (En,Ja) (Track 3).bin" size="1185760800" crc="c075af77" md5="90876efbdd54e97da03e8ce231d7385a" sha1="5eeb30b61b51e724d70976bce3834ca7e9d987c2"/>
+		<rom name="World Series Baseball ~ Super Major League (World) (En,Ja).cue" size="468" crc="1cf907d1" md5="f17edb47fc2c9e7c312d244b049fa9dc" sha1="f0aa5c80b3fc8630bca7547a63b2567cedc7e3e5"/>
 	</game>
 </datafile>

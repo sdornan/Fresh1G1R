@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,941) (-y) [-aAbBcdkmMpPuv] (2026-10-29 14-19-30) (Retool)</description>
-		<version>2026-10-29 14-19-30</version>
-		<date>2026-10-30 08-38-24</date>
+		<description>Sony - PlayStation 4 (1,942) (-y) [-aAbBcdkmMpPuv] (2026-10-30 15-08-06) (Retool)</description>
+		<version>2026-10-30 15-08-06</version>
+		<date>2026-10-31 08-21-28</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -11228,6 +11228,13 @@
 		<serial>CUSA-03246</serial>
 		<version>01.01</version>
 		<rom name="Star Ocean - Integrity and Faithlessness (USA) (En,Fr).iso" size="35573334016" crc="d2d5c413" md5="2e6597ac57ba814c813db353b6fcf67a" sha1="0fbf28b8cedc486737b8760ff86d8057f6075f64"/>
+	</game>
+	<game name="Star Ocean - The Divine Force (Europe) (En,Ja,Fr)" id="139864">
+		<category>Games</category>
+		<description>Star Ocean: The Divine Force (Europe) (En,Ja,Fr)</description>
+		<serial>CUSA-31855</serial>
+		<version>01.00</version>
+		<rom name="Star Ocean - The Divine Force (Europe) (En,Ja,Fr).iso" size="44553273344" crc="c51c2184" md5="b9a0f7aaf5f1f1430d6a44b386da56ff" sha1="453d5b3aaceffa6dd2eaa652e38e0f6503be1ec6"/>
 	</game>
 	<game name="Star Trek - Bridge Crew (USA) (En,Fr,De)" id="46219">
 		<category>Games</category>
