@@ -33,6 +33,9 @@ jobs:
       run: |
         python3 -m playwright install --with-deps chromium
     
+    - name: Test report retention
+      run: python3 -m unittest discover -s tests -v
+
     - name: Run automation script
       run: |
         python3 automate.py
@@ -56,3 +59,5 @@ jobs:
         else
           echo "No changes to commit in daily-virgin-dat/, daily-1g1r-dat/, or report/ folders"
         fi
+
+
