@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62041) (2026-10-31 00-28-06)</description>
-		<version>2026-10-31 00-28-06</version>
-		<date>2026-10-31 00-28-06</date>
+		<description>IBM - PC compatible - Datfile (62045) (2026-11-01 08-48-06)</description>
+		<version>2026-11-01 08-48-06</version>
+		<date>2026-11-01 08-48-06</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -14687,11 +14687,11 @@
 		<description>Alan Wake's American Nightmare (Europe) (En,Ja,Fr,De,Es,It) (Rerelease)</description>
 		<rom name="Alan Wake's American Nightmare (Europe) (En,Ja,Fr,De,Es,It) (Rerelease).iso" size="2173468672" crc="f2eaf5aa" md5="a26d21467188cd9e30f772280952fdba" sha1="1e9d0cd61b48d104e2c7cdcabbca13b945503dc6"/>
 	</game>
-	<game name="Alan Wake's American Nightmare (Poland) (En,Pl)" id="139439">
+	<game name="Alan Wake's American Nightmare (Poland) (En,Ja,Fr,De,Es,It,Pl,Ru,Cs,Hu)" id="139439">
 		<category>Games</category>
 		<serial>500016969LB</serial>
-		<description>Alan Wake's American Nightmare (Poland) (En,Pl)</description>
-		<rom name="Alan Wake's American Nightmare (Poland) (En,Pl).iso" size="2172878848" crc="7011d0ed" md5="ac827f987718ec283088c795d173d6ae" sha1="42c58d33f2e9813fea25bc731146c870793f8d74"/>
+		<description>Alan Wake's American Nightmare (Poland) (En,Ja,Fr,De,Es,It,Pl,Ru,Cs,Hu)</description>
+		<rom name="Alan Wake's American Nightmare (Poland) (En,Ja,Fr,De,Es,It,Pl,Ru,Cs,Hu).iso" size="2172878848" crc="7011d0ed" md5="ac827f987718ec283088c795d173d6ae" sha1="42c58d33f2e9813fea25bc731146c870793f8d74"/>
 	</game>
 	<game name="Alarm for Cobra 11 - Nitro (Poland)" id="23702">
 		<category>Games</category>
@@ -241093,11 +241093,17 @@
 		<rom name="Lieyan Zhanji (China).cue" size="102" crc="3c18f376" md5="099a7dcc79732f8579c6d4ed61f43eab" sha1="a18f50dabf4bb2384ddd5c1977092c1fc9d2058d"/>
 		<rom name="Lieyan Zhanji (China).bin" size="56673792" crc="93730a70" md5="f88f8e3f1d04217f13c59c885a2d7245" sha1="94bb948fcbedbbc4339a11de511d3cdacd4d843b"/>
 	</game>
-	<game name="Life Is Strange (Germany)" id="132313">
+	<game name="Life Is Strange (Europe)" id="132313">
 		<category>Games</category>
 		<serial>MLIFEVMB01</serial>
-		<description>Life Is Strange (Germany)</description>
-		<rom name="Life Is Strange (Germany).iso" size="8293040128" crc="cb0827d0" md5="f423e703972ca44de021d4c5674a566b" sha1="3a81d07eb2d6bddbbde4930126aee8c8c4997b27"/>
+		<description>Life Is Strange (Europe)</description>
+		<rom name="Life Is Strange (Europe).iso" size="8293040128" crc="cb0827d0" md5="f423e703972ca44de021d4c5674a566b" sha1="3a81d07eb2d6bddbbde4930126aee8c8c4997b27"/>
+	</game>
+	<game name="Life Is Strange - Before The Storm (Europe) (En,Fr,De,Es,It,Pt,Zh)" id="139894">
+		<category>Games</category>
+		<serial>MLSBSVMB02</serial>
+		<description>Life Is Strange: Before The Storm (Europe) (En,Fr,De,Es,It,Pt,Zh)</description>
+		<rom name="Life Is Strange - Before The Storm (Europe) (En,Fr,De,Es,It,Pt,Zh).iso" size="8300724224" crc="63fe51b5" md5="9c60c26a6bfeabe4b834e44acfa55a0a" sha1="8f0ebbcdb3d9ec3dc9b28188784654030d901e14"/>
 	</game>
 	<game name="Life of Christ, The (USA)" id="91665">
 		<category>Games</category>
@@ -298404,6 +298410,18 @@
 		<description>Nicolas Eymerich Inquisitore: Capitolo II: Il Villaggio (Italy) (It,La)</description>
 		<rom name="Nicolas Eymerich Inquisitore - Capitolo II - Il Villaggio (Italy) (It,La).iso" size="4301389824" crc="c4a8f17a" md5="2a6dcbec654af0317a07bf7474d53829" sha1="1d5922737e49175db5a662506dd3369e9b761a72"/>
 	</game>
+	<game name="NieR - Automata (Europe)" id="139895">
+		<category>Games</category>
+		<serial>MNRAUVMB01</serial>
+		<description>NieR: Automata (Europe)</description>
+		<rom name="NieR - Automata (Europe).iso" size="8404729856" crc="632d81dc" md5="0f144095fbc8b9e9a89d2df7c7029c44" sha1="9a972a82d2186d586415310feceb0724a362b0bc"/>
+	</game>
+	<game name="NieR Replicant ver.1.22474487139... (Europe)" id="139896">
+		<category>Games</category>
+		<serial>MNIRRVMB01</serial>
+		<description>NieR Replicant ver.1.22474487139... (Europe)</description>
+		<rom name="NieR Replicant ver.1.22474487139... (Europe).iso" size="8405450752" crc="cfd09543" md5="8e92204f5e527652cf6a2378952fdbc6" sha1="7f88d7b49edac258194842887d4b6efc37be47c1"/>
+	</game>
 	<game name="Niesamowicie Bakusiowe Podroze (Poland) (Disc 1)" id="111087">
 		<category>Games</category>
 		<description>Niesamowicie Bakusiowe Podróże (Poland) (Disc 1)</description>
@@ -320142,6 +320160,12 @@
 		<serial>PCGWDVD1104</serial>
 		<description>PC Gaming World DVD 11/2004 (Sweden) (Sida 1: Dataområde)</description>
 		<rom name="PC Gaming World DVD 11-2004 (Sweden) (Sida 1 - Dataomrade).iso" size="4044521472" crc="49ed3c27" md5="45fcd8e6b0f9a9b397429030d0d3fc87" sha1="dc64a1f06afa9aee3105b45fecc9d2e8f320401f"/>
+	</game>
+	<game name="PC Gaming World DVD 2-2005 (Sweden) (Sida 1 - Dataomrade)" id="139885">
+		<category>Coverdiscs</category>
+		<serial>PCGWWDDVD0205</serial>
+		<description>PC Gaming World DVD 2/2005 (Sweden) (Sida 1: Dataområde)</description>
+		<rom name="PC Gaming World DVD 2-2005 (Sweden) (Sida 1 - Dataomrade).iso" size="4196368384" crc="d1131e18" md5="a7e54650e9f7eabbdb6fde5cbc0924c6" sha1="c4f09787e24a00f1cb61cf7c8e6da9c2c444cfb3"/>
 	</game>
 	<game name="PC Genius 1 - The Wonderful World of Animals (UK)" id="105625">
 		<category>Educational</category>
@@ -444587,6 +444611,11 @@
 		<description>Tom Clancy's Ghost Recon: Advanced Warfighter (Poland) (Rerelease) (v1.35)</description>
 		<rom name="Tom Clancy's Ghost Recon - Advanced Warfighter (Poland) (Rerelease) (v1.35).iso" size="4218486784" crc="e4da8ace" md5="445258bc08dcaab294ac4aab7152c026" sha1="444a01b400c434ccb20d013fc1db35e4a56d28ea"/>
 	</game>
+	<game name="Tom Clancy's Ghost Recon - Advanced Warfighter (Portugal) (Covermount)" id="92653">
+		<category>Games</category>
+		<description>Tom Clancy's Ghost Recon: Advanced Warfighter (Portugal) (Covermount)</description>
+		<rom name="Tom Clancy's Ghost Recon - Advanced Warfighter (Portugal) (Covermount).iso" size="2993979392" crc="6e7c0858" md5="0c8ae8757cc769933138398e7f0c20cd" sha1="230915030933719f83a651920a251701cfd54f5c"/>
+	</game>
 	<game name="Tom Clancy's Ghost Recon - Advanced Warfighter (Russia)" id="5862">
 		<category>Games</category>
 		<version>1.10.000</version>
@@ -444653,6 +444682,12 @@
 		<version>1.00</version>
 		<description>Tom Clancy's Ghost Recon: Advanced Warfighter 2 (Germany) (En,Fr,De,Es,It) (Rerelease)</description>
 		<rom name="Tom Clancy's Ghost Recon - Advanced Warfighter 2 (Germany) (En,Fr,De,Es,It) (Rerelease).iso" size="3597336576" crc="7964d52a" md5="db26594949b634c51feacdce9442117d" sha1="e92c7a6a76370984990ea02fc6bb5e15dc506d5b"/>
+	</game>
+	<game name="Tom Clancy's Ghost Recon - Advanced Warfighter 2 (Korea) (En,Fr,De,Es,It)" id="129473">
+		<category>Games</category>
+		<version>1.02 (30292.2673)</version>
+		<description>Tom Clancy's Ghost Recon: Advanced Warfighter 2 (Korea) (En,Fr,De,Es,It)</description>
+		<rom name="Tom Clancy's Ghost Recon - Advanced Warfighter 2 (Korea) (En,Fr,De,Es,It).iso" size="3601465344" crc="42814ca1" md5="5097f8d4795faf3b31758f16d3fa340f" sha1="7b030cbc148b0d30c0ff0d836ff111a62a89d62f"/>
 	</game>
 	<game name="Tom Clancy's Ghost Recon - Advanced Warfighter 2 (Poland)" id="138327">
 		<category>Games</category>
@@ -444829,17 +444864,6 @@
 		<serial>300091681</serial>
 		<description>Tom Clancy's Ghost Recon: Wildlands (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar) (Disc 6)</description>
 		<rom name="Tom Clancy's Ghost Recon - Wildlands (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar) (Disc 6).iso" size="2040594432" crc="87b953c8" md5="a38876a2efc78ba84bc6520e9492f3d3" sha1="3982b4eb66da29fd1428bc01ba7ca5fa2300a07b"/>
-	</game>
-	<game name="Tom Clancy's Ghost Recon Advanced Warfighter (Portugal) (Side A)" id="92653">
-		<category>Games</category>
-		<description>Tom Clancy's Ghost Recon Advanced Warfighter (Portugal) (Side A)</description>
-		<rom name="Tom Clancy's Ghost Recon Advanced Warfighter (Portugal) (Side A).iso" size="2993979392" crc="6e7c0858" md5="0c8ae8757cc769933138398e7f0c20cd" sha1="230915030933719f83a651920a251701cfd54f5c"/>
-	</game>
-	<game name="Tom Clancy's Ghost Recon Advanced Warfighter 2 (Korea) (En,Fr,De,Es,It)" id="129473">
-		<category>Games</category>
-		<version>1.02 (30292.2673)</version>
-		<description>Tom Clancy's Ghost Recon Advanced Warfighter 2 (Korea) (En,Fr,De,Es,It)</description>
-		<rom name="Tom Clancy's Ghost Recon Advanced Warfighter 2 (Korea) (En,Fr,De,Es,It).iso" size="3601465344" crc="42814ca1" md5="5097f8d4795faf3b31758f16d3fa340f" sha1="7b030cbc148b0d30c0ff0d836ff111a62a89d62f"/>
 	</game>
 	<game name="Tom Clancy's Ghost Recon Phantoms (Poland)" id="131798">
 		<category>Games</category>

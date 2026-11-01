@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Datfile (3736) (2026-10-31 01-08-06)</description>
-		<version>2026-10-31 01-08-06</version>
-		<date>2026-10-31 01-08-06</date>
+		<description>Microsoft - Xbox 360 - Datfile (3737) (2026-10-31 12-58-06)</description>
+		<version>2026-10-31 12-58-06</version>
+		<date>2026-10-31 12-58-06</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -17900,6 +17900,13 @@
 		<description>Shin Sangoku Musou 5: Empires (Japan)</description>
 		<rom name="Shin Sangoku Musou 5 - Empires (Japan).iso" size="7838695424" crc="a2aa2b70" md5="fc32dc0f4295a7b54095e387e8246b40" sha1="3309090b44509c1c3d1ff8f13c1026af28235322"/>
 	</game>
+	<game name="Shodai Xbox Game Gokansei Update Disc - 2007-nen 11-gatsuban (Japan)" id="139881">
+		<category>Applications</category>
+		<serial>XF-2001</serial>
+		<description>Shodai Xbox Game Gokansei Update Disc: 2007-nen 11-gatsuban (Japan)</description>
+		<rom name="Shodai Xbox Game Gokansei Update Disc - 2007-nen 11-gatsuban (Japan).cue" size="134" crc="2c86e0a7" md5="e45364e6412d40c056c0ba8781fb0153" sha1="1466bd2816eeffa12393a410ec77d862a65ea910"/>
+		<rom name="Shodai Xbox Game Gokansei Update Disc - 2007-nen 11-gatsuban (Japan).bin" size="15652560" crc="42ad76c6" md5="d3eb5dc16e6ab11a79766a0e742640ac" sha1="13dc25f7f96f0238a195b36612679d0bc31bcc81"/>
+	</game>
 	<game name="Shodai Xbox Game Gokansei Update Disc - 2007-nen 7-gatsuban (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="34143">
 		<category>Applications</category>
 		<serial>XF-2001</serial>
@@ -19112,12 +19119,6 @@
 		<serial>XK-2112</serial>
 		<description>Tenpo-you Demo Disc for Xbox 360: February 2009 Issue (Japan)</description>
 		<rom name="Tenpo-you Demo Disc for Xbox 360 - February 2009 Issue (Japan).iso" size="7835492352" crc="8570dd3f" md5="949f971c98e6582522ac8f39ad2818d5" sha1="4b6ac2bb422a4cb116b255cfcd55db9680bd2929"/>
-	</game>
-	<game name="Tenpo-you Demo Disc for Xbox 360 - May 2008 Issue (Japan)" id="57647">
-		<category>Demos</category>
-		<serial>XK-2082</serial>
-		<description>Tenpo-you Demo Disc for Xbox 360: May 2008 Issue (Japan)</description>
-		<rom name="Tenpo-you Demo Disc for Xbox 360 - May 2008 Issue (Japan).iso" size="7835492352" crc="33793027" md5="2a91c42d6cb88e4c63271343d452333e" sha1="af0ab4875a5ea47f4424fb96b03f09d0542f5a5a"/>
 	</game>
 	<game name="Tenpo-you Demo Disc for Xbox 360 - September 2008 Issue (Japan)" id="57631">
 		<category>Demos</category>
@@ -22157,6 +22158,12 @@
 		<serial>XK-2039</serial>
 		<description>Xbox 360 Tentou-you Demo Disc: 2006-nen 9-gatsugou (Japan)</description>
 		<rom name="Xbox 360 Tentou-you Demo Disc - 2006-nen 9-gatsugou (Japan).iso" size="7834892288" crc="f03a74b7" md5="3cdf80f5ca75ce0b0f88d42f6c494b03" sha1="ebed4ee5f63ac5e5cab5209afc6af54dd59e90e6"/>
+	</game>
+	<game name="Xbox 360 Tentou-you Demo Disc - 2008-nen 5-gatsugou (Japan)" id="57647">
+		<category>Demos</category>
+		<serial>XK-2082</serial>
+		<description>Xbox 360 Tentou-you Demo Disc: 2008-nen 5-gatsugou (Japan)</description>
+		<rom name="Xbox 360 Tentou-you Demo Disc - 2008-nen 5-gatsugou (Japan).iso" size="7835492352" crc="33793027" md5="2a91c42d6cb88e4c63271343d452333e" sha1="af0ab4875a5ea47f4424fb96b03f09d0542f5a5a"/>
 	</game>
 	<game name="Xbox 360 Trial Disk (USA) (En,Es)" id="58095">
 		<category>Demos</category>

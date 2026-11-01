@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4520) (2026-10-29 16-38-06)</description>
-		<version>2026-10-29 16-38-06</version>
-		<date>2026-10-29 16-38-06</date>
+		<description>Sony - PlayStation 3 - Datfile (4521) (2026-11-01 02-28-06)</description>
+		<version>2026-11-01 02-28-06</version>
+		<date>2026-11-01 02-28-06</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -18540,12 +18540,19 @@
 		<description>Naughty Bear: Gold Edition (USA) (En,Fr,Es)</description>
 		<rom name="Naughty Bear - Gold Edition (USA) (En,Fr,Es).iso" size="1709244416" crc="9f8c4bb4" md5="6211c9c1a0b7a3548a086f3b30b7110a" sha1="827567e1954837e9b70958d22e538ca529171511"/>
 	</game>
-	<game name="NBA 07 (Japan)" id="4885">
+	<game name="NBA 07 (Asia) (v01.00)" id="139893">
+		<category>Games</category>
+		<serial>BCAS 20006</serial>
+		<version>01.00</version>
+		<description>NBA 07 (Asia) (v01.00)</description>
+		<rom name="NBA 07 (Asia) (v01.00).iso" size="5439946752" crc="429cd42f" md5="b19238688b04a6d26c06df18c0067652" sha1="ed4baef97b996a24674837ecc13ae058792d0162"/>
+	</game>
+	<game name="NBA 07 (Japan) (v02.00)" id="4885">
 		<category>Games</category>
 		<serial>BCJS 30006</serial>
 		<version>02.00</version>
-		<description>NBA 07 (Japan)</description>
-		<rom name="NBA 07 (Japan).iso" size="5438767104" crc="516b3084" md5="8b9c53041115bf3b1aac4ba18dcca051" sha1="2c8e50f47df5645b4dcaeef8610d7d03331dedec"/>
+		<description>NBA 07 (Japan) (v02.00)</description>
+		<rom name="NBA 07 (Japan) (v02.00).iso" size="5438767104" crc="516b3084" md5="8b9c53041115bf3b1aac4ba18dcca051" sha1="2c8e50f47df5645b4dcaeef8610d7d03331dedec"/>
 	</game>
 	<game name="NBA 07 (USA)" id="43818">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,682) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-31 00-28-06) (Retool)</description>
-		<version>2026-10-31 00-28-06</version>
-		<date>2026-10-31 08-18-24</date>
+		<description>IBM - PC compatible (13,686) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-01 08-48-06) (Retool)</description>
+		<version>2026-11-01 08-48-06</version>
+		<date>2026-11-01 09-04-24</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -53645,6 +53645,18 @@
 		<rom name="Lie, The (USA) (Track 7).bin" size="6950160" crc="c2ec59ee" md5="a1f9051198c7ec1090bbfbabe5ce7c96" sha1="4d98940576ed3c370cdc2e64ffb29555d2d1a161"/>
 		<rom name="Lie, The (USA).cue" size="646" crc="ac271d1a" md5="553d1eebe408ec0b06b0efaa32f79c58" sha1="fa6bf51a18fc314fd0e2588484560ba5575628b4"/>
 	</game>
+	<game name="Life Is Strange (Europe)" id="132313">
+		<category>Games</category>
+		<description>Life Is Strange (Europe)</description>
+		<serial>MLIFEVMB01</serial>
+		<rom name="Life Is Strange (Europe).iso" size="8293040128" crc="cb0827d0" md5="f423e703972ca44de021d4c5674a566b" sha1="3a81d07eb2d6bddbbde4930126aee8c8c4997b27"/>
+	</game>
+	<game name="Life Is Strange - Before The Storm (Europe) (En,Fr,De,Es,It,Pt,Zh)" id="139894">
+		<category>Games</category>
+		<description>Life Is Strange: Before The Storm (Europe) (En,Fr,De,Es,It,Pt,Zh)</description>
+		<serial>MLSBSVMB02</serial>
+		<rom name="Life Is Strange - Before The Storm (Europe) (En,Fr,De,Es,It,Pt,Zh).iso" size="8300724224" crc="63fe51b5" md5="9c60c26a6bfeabe4b834e44acfa55a0a" sha1="8f0ebbcdb3d9ec3dc9b28188784654030d901e14"/>
+	</game>
 	<game name="Life Quest &amp; My Tribe (USA)" id="88764">
 		<category>Games</category>
 		<description>Life Quest &amp; My Tribe (USA)</description>
@@ -67133,6 +67145,18 @@
 		<serial>P/N: 10547</serial>
 		<rom name="Nicktoons Winners Cup Racing (USA).bin" size="162447936" crc="209bf38d" md5="fd36a04c696fdf83339f950027116601" sha1="7b9f3ef5cd7ce50620008da545007bf715a233ac"/>
 		<rom name="Nicktoons Winners Cup Racing (USA).cue" size="100" crc="32e889d3" md5="40b5e6e00c0f80d8251bf0f67b55119d" sha1="c8edf135975528d3f8d0a4511d31d2a27fdb82d4"/>
+	</game>
+	<game name="NieR - Automata (Europe)" id="139895">
+		<category>Games</category>
+		<description>NieR: Automata (Europe)</description>
+		<serial>MNRAUVMB01</serial>
+		<rom name="NieR - Automata (Europe).iso" size="8404729856" crc="632d81dc" md5="0f144095fbc8b9e9a89d2df7c7029c44" sha1="9a972a82d2186d586415310feceb0724a362b0bc"/>
+	</game>
+	<game name="NieR Replicant ver.1.22474487139... (Europe)" id="139896">
+		<category>Games</category>
+		<description>NieR Replicant ver.1.22474487139... (Europe)</description>
+		<serial>MNIRRVMB01</serial>
+		<rom name="NieR Replicant ver.1.22474487139... (Europe).iso" size="8405450752" crc="cfd09543" md5="8e92204f5e527652cf6a2378952fdbc6" sha1="7f88d7b49edac258194842887d4b6efc37be47c1"/>
 	</game>
 	<game name="Night Watch (USA) (Disc 1)" id="124386">
 		<category>Games</category>
