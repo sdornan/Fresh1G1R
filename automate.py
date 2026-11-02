@@ -20,6 +20,7 @@ import shutil
 import sys
 import json
 import tempfile
+import xml.etree.ElementTree as ET
 from pathlib import Path
 from io import BytesIO
 from time import sleep
@@ -530,39 +531,6 @@ def download_redump_dat(dat_name: str, output_dir: Path, skip_if_exists: bool = 
         return None, False
 
 
-def cleanup_old_redump_dat(new_dat_path: Path, output_dir: Path) -> int:
-    """
-    Remove old Redump DAT files for the same system when a new one is downloaded.
-    Matches by system name only (ignoring dates).
-    Returns the number of old files removed.
-    """
-    if not new_dat_path.exists():
-        return 0
-    
-    # Extract system name from the new file
-    new_system_name = extract_system_name(new_dat_path.stem, "redump")
-    
-    # Find all DAT files in the directory
-    all_dats = list(output_dir.glob("*.dat"))
-    removed_count = 0
-    
-    for old_dat in all_dats:
-        # Skip the newly downloaded file itself
-        if old_dat == new_dat_path:
-            continue
-        
-        # Extract system name from the old file
-        old_system_name = extract_system_name(old_dat.stem, "redump")
-        
-        # If system names match, remove the old version
-        if old_system_name == new_system_name:
-            try:
-                old_dat.unlink()
-                removed_count += 1
-            except Exception as e:
-                pass  # Ignore errors
-    
-    return removed_count
 
 
 def download_all_redump_dats(output_dir: Path) -> list[Path]:
@@ -578,7 +546,6 @@ def download_all_redump_dats(output_dir: Path) -> list[Path]:
     
     downloaded_dats = []
     skipped_count = 0
-    cleaned_count = 0
     for i, dat in enumerate(dat_list, 1):
         print(f"  [{i}/{len(dat_list)}] Checking {dat}...")
         dat_path, was_skipped = download_redump_dat(dat, output_dir, skip_if_exists=True)
@@ -588,10 +555,6 @@ def download_all_redump_dats(output_dir: Path) -> list[Path]:
                 skipped_count += 1
             else:
                 print(f"    ✅ Saved: {dat_path.name}")
-                # Clean up old versions of the same system
-                removed = cleanup_old_redump_dat(dat_path, output_dir)
-                if removed > 0:
-                    cleaned_count += removed
         else:
             print(f"    ❌ Failed to download {dat}")
         
@@ -602,8 +565,6 @@ def download_all_redump_dats(output_dir: Path) -> list[Path]:
     print(f"\n  ✅ Successfully processed {len(downloaded_dats)}/{len(dat_list)} Redump DAT files")
     if skipped_count > 0:
         print(f"  ❎  Skipped {skipped_count} existing files (saved time and bandwidth)")
-    if cleaned_count > 0:
-        print(f"  🗑️  Removed {cleaned_count} old version(s) of updated systems")
     return downloaded_dats
 
 
@@ -1025,7 +986,7 @@ def run_retool(input_dat: Path, retool_dir: Path, output_dat_dir: Path, report_d
         if report_files and result.returncode == 0 and (output_dat or no_titles_match or no_valid_titles):
             temp_report = max(report_files, key=lambda p: p.stat().st_mtime)
             system_name = report_system_name(input_dat.stem, collection)
-            report_txt = publish_report(temp_report, report_dir / f"{system_name} report.txt")
+            report_txt = publish_file(temp_report, report_dir / f"{system_name} report.txt")
         
         # Determine status based on conditions
         if output_dat:
@@ -1068,8 +1029,8 @@ def extract_system_name(filename_stem: str, collection: str) -> str:
             return filename_stem[:date_match.start()].strip()
         return filename_stem
     else:
-        # Redump: Remove "- Datfile (number)" and extract everything before date
-        normalized = re.sub(r' - Datfile \(\d+\)', '', filename_stem)
+        # Redump: Remove Datfile fields/counts, including legacy (serial,version).
+        normalized = re.sub(r' - Datfile(?: \([^)]*\))+', '', filename_stem)
         # Remove date pattern: (YYYY-MM-DD HH-MM-SS) or (YYYY-MM-DD HH:MM:SS)
         date_pattern = r'\(\d{4}-\d{2}-\d{2} \d{2}[-:]\d{2}[-:]\d{2}\)'
         date_match = re.search(date_pattern, normalized)
@@ -1245,10 +1206,10 @@ def report_system_name(filename_stem: str, collection: str) -> str:
     return re.sub(r" - Datfile(?: \([^)]*\))+$", "", system).strip()
 
 
-def publish_report(source: Path, destination: Path) -> Path:
-    """Atomically replace a report, preserving the old file if copying fails."""
+def publish_file(source: Path, destination: Path) -> Path:
+    """Atomically replace a file, preserving the old file if copying fails."""
     destination.parent.mkdir(parents=True, exist_ok=True)
-    with tempfile.NamedTemporaryFile(dir=destination.parent, prefix=".report-", suffix=".tmp", delete=False) as staging:
+    with tempfile.NamedTemporaryFile(dir=destination.parent, prefix=".publish-", suffix=".tmp", delete=False) as staging:
         staging_path = Path(staging.name)
     try:
         shutil.copyfile(source, staging_path)
@@ -1282,12 +1243,90 @@ def consolidate_reports(directory: Path, collection: str) -> int:
         try:
             if not destination.exists():
                 newest = max(reports, key=lambda item: (item[0], item[1].name))[1]
-                publish_report(newest, destination)
+                publish_file(newest, destination)
             for _, report in reports:
                 report.unlink()
                 removed += 1
         except OSError as error:
             print(f"  ⚠️  Could not consolidate reports for {system}: {error}")
+    return removed
+
+
+def dat_source_version(path: Path) -> str | None:
+    """Read the source version from the XML header without loading game entries.
+
+    Do not use filesystem mtime, the game count, or Retool's processing date.
+    Unknown or unreadable headers prevent automatic cleanup of that group.
+    """
+    try:
+        with path.open("rb") as stream:
+            for _, element in ET.iterparse(stream, events=("end",)):
+                if element.tag.rsplit("}", 1)[-1] != "header":
+                    continue
+                for child in element:
+                    if child.tag.rsplit("}", 1)[-1] == "version":
+                        value = (child.text or "").strip()
+                        if re.fullmatch(r"\d{8}-\d{6}|\d{4}-\d{2}-\d{2} \d{2}[-:]\d{2}[-:]\d{2}", value):
+                            return re.sub(r"\D", "", value)
+                return None
+    except (OSError, ET.ParseError):
+        return None
+    return None
+
+
+def consolidate_dats(directory: Path, collection: str, config_name: str = "") -> int:
+    """Keep the newest source version per system within this one DAT folder.
+
+    Input filenames are retained. Processed outputs are promoted to the stable
+    Fresh1G1R name before obsolete copies are removed. A partial migration can
+    be retried; unrelated systems and unreadable/undated groups are preserved.
+    """
+    if not directory.exists():
+        return 0
+    groups: dict[str, list[Path]] = {}
+    for dat in directory.glob("*.dat"):
+        # Fixdats and other user-generated DATs are not source catalogs.
+        if " fixdat " in dat.stem.lower():
+            continue
+        system = extract_system_name(dat.stem, collection)
+        groups.setdefault(system, []).append(dat)
+
+    metadata = load_metadata(directory) if config_name else {}
+    original_metadata = dict(metadata)
+    removed = 0
+    for system, paths in groups.items():
+        display = {"no-intro": "No-Intro", "redump": "Redump"}.get(collection, collection.title())
+        stable = directory / f"{system} ({display} - Fresh1G1R - {config_name}).dat" if config_name else None
+        if len(paths) == 1 and (stable is None or paths[0] == stable):
+            continue
+        versions = [(dat_source_version(path), path) for path in paths]
+        if any(version is None for version, _ in versions):
+            print(f"  ⚠️  Preserving DATs for {system}: source version could not be read")
+            continue
+        newest = max(versions, key=lambda item: (item[0], item[1] == stable, item[1].name))[1]
+        destination = stable or newest
+        try:
+            if newest != destination:
+                publish_file(newest, destination)
+            # Repair metadata only for this system, preserving the selected
+            # input mapping if it is known. Otherwise force reprocessing.
+            if config_name:
+                keys = [key for key in metadata if extract_system_name(key, collection) == system]
+                entry = next((dict(metadata[key]) for key in keys
+                              if metadata[key].get("output_path") == newest.name), None)
+                for key in keys:
+                    del metadata[key]
+                if entry is not None:
+                    entry["output_path"] = destination.name
+                    metadata[system] = entry
+            for path in paths:
+                if path != destination:
+                    path.unlink()
+                    removed += 1
+        except OSError as error:
+            print(f"  ⚠️  Could not consolidate DATs for {system}: {error}")
+    if metadata != original_metadata:
+        save_metadata(directory, metadata)
     return removed
 
 
@@ -1378,18 +1417,17 @@ def main():
         
         if skip_flag:
             print_step(f"Skipping {collection} DAT download (using existing files)", "❎")
-            dats = list(collection_dir.glob("*.dat"))
-            if not dats:
-                print(f"  ⚠️  No DAT files found in {collection_dir}")
-            else:
-                print(f"  ✅ Found {len(dats)} existing {collection} DAT file(s)")
-                collection_dats[collection] = dats
         else:
-            dats = download_func(collection_dir)
-            if dats:
-                collection_dats[collection] = dats
-            else:
-                print(f"  ⚠️  No {collection} DAT files downloaded")
+            download_func(collection_dir)
+        removed_dats = consolidate_dats(collection_dir, collection)
+        if removed_dats:
+            print(f"  🗑️  Removed {removed_dats} obsolete {collection} input DATs")
+        # Re-enumerate after cleanup, including cached catalogs on download failure.
+        dats = list(collection_dir.glob("*.dat"))
+        if dats:
+            collection_dats[collection] = dats
+        else:
+            print(f"  ⚠️  No {collection} DAT files available")
     
     # Check if we have any DATs to process
     total_dats = sum(len(dats) for dats in collection_dats.values())
@@ -1419,6 +1457,9 @@ def main():
     all_results = {}
     
     for (config_name, collection), settings in config_settings.items():
+        removed_dats = consolidate_dats(settings["daily_dir"], collection, config_name)
+        if removed_dats:
+            print(f"  🗑️  Removed {removed_dats} obsolete output DATs for {config_name}/{collection}")
         # Migrate legacy reports even when this collection has no input DATs.
         removed_reports = consolidate_reports(settings["report_dir"], collection)
         if removed_reports:
@@ -1517,4 +1558,6 @@ if __name__ == "__main__":
         import traceback
         traceback.print_exc()
         sys.exit(1)
+
+
 
