@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (336) (-ly) [-aAbBcdDefkmMopPruv] (2026-10-30 14-58-06) (Retool)</description>
-		<version>2026-10-30 14-58-06</version>
-		<date>2026-11-01 09-05-41</date>
+		<description>Sony - PlayStation 5 (337) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-01 16-18-09) (Retool)</description>
+		<version>2026-11-01 16-18-09</version>
+		<date>2026-11-02 09-12-07</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1794,6 +1794,13 @@
 		<serial>PPSA-01289</serial>
 		<version>01.00</version>
 		<rom name="Sackboy - A Big Adventure (USA).iso" size="40008351744" crc="4b23e43b" md5="1e016ebd142a3de6b718594b9030ca75" sha1="2ea906311957ed2f4e45e4fe98e9eca2e6eadc9a"/>
+	</game>
+	<game name="Saga of Sins (Europe)" id="139932">
+		<category>Games</category>
+		<description>Saga of Sins (Europe)</description>
+		<serial>PPSA-10049</serial>
+		<version>02.00</version>
+		<rom name="Saga of Sins (Europe).iso" size="40008351744" crc="a7fe2319" md5="8c536e0b8dc239fcc8fea4c9be9485da" sha1="f792eefd52f70516f06fd2966647c3c154a6503d"/>
 	</game>
 	<game name="Saros (USA) (En,Fr,Es,Pt)" id="135415">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,625) (-y) [-aAbBcefkmMoprv] (2026-10-31 12-58-06) (Retool)</description>
-		<version>2026-10-31 12-58-06</version>
-		<date>2026-11-01 09-01-54</date>
+		<description>Microsoft - Xbox 360 (1,625) (-y) [-aAbBcefkmMoprv] (2026-11-01 18-48-09) (Retool)</description>
+		<version>2026-11-01 18-48-09</version>
+		<date>2026-11-02 09-07-30</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1914,12 +1914,6 @@
 		<serial>CC-2016</serial>
 		<rom name="Dark Void (USA, Europe).iso" size="7838695424" crc="bc87a2df" md5="153d98fb2b40024fb8de65e6850ac13b" sha1="0fe6b5e0aec075be5b6de1900ac398b06ce4f6c5"/>
 	</game>
-	<game name="DarkStar One - Broken Alliance (USA, Europe) (En,Fr,De)" id="16340">
-		<category>Games</category>
-		<description>DarkStar One: Broken Alliance (USA, Europe) (En,Fr,De)</description>
-		<serial>KY-2010</serial>
-		<rom name="DarkStar One - Broken Alliance (USA, Europe) (En,Fr,De).iso" size="7838695424" crc="c1ea12fb" md5="17c3373df50e1b76c6687f528d719ff7" sha1="55157639016f12f7883dd44a5b5977b196c1893b"/>
-	</game>
 	<game name="Darkest of Days (USA)" id="16105">
 		<category>Games</category>
 		<description>Darkest of Days (USA)</description>
@@ -1949,6 +1943,12 @@
 		<description>Darksiders II (USA, Europe) (En,Fr,De,Es,It,Nl,Pl,Ru)</description>
 		<serial>TQ-2198</serial>
 		<rom name="Darksiders II (USA, Europe) (En,Fr,De,Es,It,Nl,Pl,Ru).iso" size="8738846720" crc="493efafe" md5="2d784c17d80df4392ec908a2b3566c69" sha1="422bcb268f5079b7f46ec69b62e8a719269d6fdb"/>
+	</game>
+	<game name="Darkstar One - Broken Alliance (USA, Europe) (En,Fr,De)" id="16340">
+		<category>Games</category>
+		<description>Darkstar One: Broken Alliance (USA, Europe) (En,Fr,De)</description>
+		<serial>KY-2010</serial>
+		<rom name="Darkstar One - Broken Alliance (USA, Europe) (En,Fr,De).iso" size="7838695424" crc="c1ea12fb" md5="17c3373df50e1b76c6687f528d719ff7" sha1="55157639016f12f7883dd44a5b5977b196c1893b"/>
 	</game>
 	<game name="De Blob 2 (USA, Europe) (En,Fr,De,Es,It)" id="26919">
 		<category>Games</category>
@@ -3907,11 +3907,11 @@
 		<serial>MS-2139</serial>
 		<rom name="Halo - Reach (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).iso" size="7838695424" crc="cc7d4428" md5="4d951122d42124c0bcdeb7bf1868ccfa" sha1="979ad29ddfea4359e876461d8d8ae66268c1f1a2"/>
 	</game>
-	<game name="Halo 3 (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)" id="7749">
+	<game name="Halo 3 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)" id="7749">
 		<category>Games</category>
-		<description>Halo 3 (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)</description>
+		<description>Halo 3 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)</description>
 		<serial>MS-2022</serial>
-		<rom name="Halo 3 (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).iso" size="7835492352" crc="3e97d574" md5="f84c357b70c30829098c3e66aa11972d" sha1="09b5e4354e62b9547a7776cb1be42010fb7b5208"/>
+		<rom name="Halo 3 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).iso" size="7835492352" crc="3e97d574" md5="f84c357b70c30829098c3e66aa11972d" sha1="09b5e4354e62b9547a7776cb1be42010fb7b5208"/>
 	</game>
 	<game name="Halo 3 - Essentials (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1)" id="101061">
 		<category>Games</category>
@@ -4827,17 +4827,17 @@
 		<serial>SC-2004</serial>
 		<rom name="Lara Croft Tomb Raider - Legend (USA, Europe) (En,Fr,De,Es,It).iso" size="7834892288" crc="0e46bb6e" md5="3a1c432f5f87512d7f4eccd1a4aec433" sha1="995d6fb7ac5b2bb642a275f78ea340031d6c89da"/>
 	</game>
-	<game name="Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 1)" id="12494">
+	<game name="Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 1)" id="12494">
 		<category>Games</category>
-		<description>Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 1)</description>
+		<description>Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 1)</description>
 		<serial>SQ-2010</serial>
-		<rom name="Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 1).iso" size="7835492352" crc="7af76819" md5="2ee985d8dd121171335663d4b9499ef3" sha1="12a55b0517d9762f98ca089896bef9036dacc1ad"/>
+		<rom name="Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 1).iso" size="7835492352" crc="7af76819" md5="2ee985d8dd121171335663d4b9499ef3" sha1="12a55b0517d9762f98ca089896bef9036dacc1ad"/>
 	</game>
-	<game name="Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 2)" id="12495">
+	<game name="Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 2)" id="12495">
 		<category>Games</category>
-		<description>Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 2)</description>
+		<description>Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 2)</description>
 		<serial>SQ-2010</serial>
-		<rom name="Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 2).iso" size="7835492352" crc="112e3995" md5="919bc39732ee03a5fb2c44709d8b1515" sha1="f0a4e7d3ae12f135c6bf6697da61d1c4496a8ba6"/>
+		<rom name="Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 2).iso" size="7835492352" crc="112e3995" md5="919bc39732ee03a5fb2c44709d8b1515" sha1="f0a4e7d3ae12f135c6bf6697da61d1c4496a8ba6"/>
 	</game>
 	<game name="Left 4 Dead - Game of the Year Edition (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="101528">
 		<category>Games</category>

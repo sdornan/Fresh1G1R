@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi (Retool)</name>
-		<description>Arcade - Sega - Naomi (37) (-y) [-aAbBcefkmMoprv] (2026-10-30 16-38-06) (Retool)</description>
-		<version>2026-10-30 16-38-06</version>
-		<date>2026-11-01 09-02-21</date>
+		<description>Arcade - Sega - Naomi (38) (-y) [-aAbBcefkmMoprv] (2026-11-01 12-38-06) (Retool)</description>
+		<version>2026-11-01 12-38-06</version>
+		<date>2026-11-02 09-07-31</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -180,6 +180,16 @@
 		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="f4e4500d" md5="e626c8d3a7772f2cd8ee366ebd3cd31e" sha1="1e1bd4f86da0a4ec09bc6da4e33748a5356286f4"/>
 		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A).cue" size="438" crc="1365eb08" md5="0ba60661cb75ae7d273bf495afc3f4d4" sha1="2062ec47b826491df99c530eb7f588a73a211f0c"/>
+	</game>
+	<game name="Moeru Casinyo (Japan)" id="139904">
+		<category>Games</category>
+		<description>Moeru Casinyo (Japan)</description>
+		<serial>GDL-0013</serial>
+		<version>1.003</version>
+		<rom name="Moeru Casinyo (Japan) (Track 1).bin" size="1058400" crc="6f95b509" md5="09e033c003351b27e5d52d469d432ba8" sha1="8277e8e5bb0112ee7f3b348c2d13904761e83fd8"/>
+		<rom name="Moeru Casinyo (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Moeru Casinyo (Japan) (Track 3).bin" size="1185760800" crc="3633b406" md5="b78690c60bb0b488ebd91d8d2f570729" sha1="c1ea19877ab17b412fd49cf95851259ce4254f7b"/>
+		<rom name="Moeru Casinyo (Japan).cue" size="357" crc="2c6b66b4" md5="a148654f5ca082e6c547d25f3f696b24" sha1="f78b7449371d7b412b91d7f2e89f3d0de0a64ad4"/>
 	</game>
 	<game name="Monkey Ball (World) (En,Ja)" id="75285">
 		<category>Games</category>

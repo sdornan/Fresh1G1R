@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,982) (-y) [-aAbBcefkmMoprv] (2026-10-30 15-08-06) (Retool)</description>
-		<version>2026-10-30 15-08-06</version>
-		<date>2026-11-01 09-03-00</date>
+		<description>Sony - PlayStation 4 (1,990) (-y) [-aAbBcefkmMoprv] (2026-11-01 18-59-25) (Retool)</description>
+		<version>2026-11-01 18-59-25</version>
+		<date>2026-11-02 09-07-03</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -381,6 +381,13 @@
 		<serial>CUSA-24652</serial>
 		<version>01.00</version>
 		<rom name="Alan Wake Remastered (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Tr).iso" size="44548947968" crc="c5fe8039" md5="db3945a5f91f9297d87d65b628e11a7b" sha1="e54620405f5142b60e705d3b2343b346394cbb5c"/>
+	</game>
+	<game name="Alchemic Cutie (Europe)" id="139962">
+		<category>Games</category>
+		<description>Alchemic Cutie (Europe)</description>
+		<serial>CUSA-35709</serial>
+		<version>01.04</version>
+		<rom name="Alchemic Cutie (Europe).iso" size="25024331776" crc="5be9aa70" md5="fd36abde4adb8fc4927b9783f6e5357c" sha1="6e004ea579fc4fb9afb62c453e8331548fb7d91c"/>
 	</game>
 	<game name="Alekhine's Gun (USA)" id="52831">
 		<category>Games</category>
@@ -843,6 +850,13 @@
 		<serial>CUSA-17301</serial>
 		<version>01.00</version>
 		<rom name="Assetto Corsa Competizione (USA).iso" size="10618994688" crc="1b03df3d" md5="a37f893738b5fef229d2f2db92e5738d" sha1="b5733d8323b92544105a57b84af9c3750e97f898"/>
+	</game>
+	<game name="Asterix &amp; Obelix - Heroes (Europe)" id="139963">
+		<category>Games</category>
+		<description>Astérix &amp; Obélix: Heroes (Europe)</description>
+		<serial>CUSA-43616</serial>
+		<version>01.00</version>
+		<rom name="Asterix &amp; Obelix - Heroes (Europe).iso" size="2702245888" crc="7d94939c" md5="d2458ddf3610a2b273b9425315219561" sha1="17310a0416e806189685c20a926e4624ba52f639"/>
 	</game>
 	<game name="Astro Bot - Rescue Mission (USA)" id="70718">
 		<category>Games</category>
@@ -2992,6 +3006,13 @@
 		<serial>CUSA-09127</serial>
 		<version>02.00</version>
 		<rom name="Defender's Quest - Valley of the Forgotten (USA) (En,Fr,De,Es).iso" size="25024331776" crc="2cbbb91a" md5="506f002a3bcf2e2ab57bac6cd15b5d5c" sha1="8b5256c9aeb8c24c5b3ff0c7996d906f5822f4f9"/>
+	</game>
+	<game name="Dein Erstes Pferd - Die Reitschule (Germany)" id="139964">
+		<category>Games</category>
+		<description>Dein Erstes Pferd: Die Reitschule (Germany)</description>
+		<serial>CUSA-32785</serial>
+		<version>01.00</version>
+		<rom name="Dein Erstes Pferd - Die Reitschule (Germany).iso" size="3407675392" crc="a5e3f598" md5="a8c2d6d87fec4ace6d4c892ceea457da" sha1="73c7fa40b8d6181869a88bf546b938b952957605"/>
 	</game>
 	<game name="Deliver Us the Moon (USA)" id="91194">
 		<category>Games</category>
@@ -6135,6 +6156,13 @@
 		<version>02.00</version>
 		<rom name="Ion Fury (USA).iso" size="25024331776" crc="6a01ace6" md5="830ac835e771a7ab5f96083fdff08a6d" sha1="07627faa23dd31bef0033912b37dd51c4095bdf5"/>
 	</game>
+	<game name="Iris Fall (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Tr,Vi)" id="139930">
+		<category>Games</category>
+		<description>Iris Fall (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Tr,Vi)</description>
+		<serial>CUSA-24668</serial>
+		<version>01.01</version>
+		<rom name="Iris Fall (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Tr,Vi).iso" size="3907911680" crc="89fd325c" md5="02b9cce2b3d36daed39e9b90eb55f293" sha1="7974120cc0e32a4086936fea9030af93948a193a"/>
+	</game>
 	<game name="Iris Fall (USA)" id="101156">
 		<category>Games</category>
 		<description>Iris Fall (USA)</description>
@@ -8115,6 +8143,13 @@
 		<version>01.02</version>
 		<rom name="Mount &amp; Blade II - Bannerlord (Europe).iso" size="46298693632" crc="cacda65b" md5="1a96072a05065dac9d7747fa99b566c5" sha1="1b08b2c22a91974758489fbfa9ace4a3a6be8791"/>
 	</game>
+	<game name="Moving Out (Europe) (En,Ja,Fr,De,Es,It,Pt,Sv,Zh,Ko,Pl,Ru)" id="139931">
+		<category>Games</category>
+		<description>Moving Out (Europe) (En,Ja,Fr,De,Es,It,Pt,Sv,Zh,Ko,Pl,Ru)</description>
+		<serial>CUSA-17675</serial>
+		<version>01.00</version>
+		<rom name="Moving Out (Europe) (En,Ja,Fr,De,Es,It,Pt,Sv,Zh,Ko,Pl,Ru).iso" size="1733754880" crc="6d31a486" md5="0f0e39575e898f1934361ea47e42abea" sha1="15126250ea2662fa5fa5fa2eca4c6a823edc4915"/>
+	</game>
 	<game name="Mozart Requiem (USA)" id="102873">
 		<category>Games</category>
 		<description>Mozart Requiem (USA)</description>
@@ -9322,6 +9357,13 @@
 		<version>01.01</version>
 		<rom name="Payday 2 - Crimewave Edition (USA).iso" size="25024331776" crc="f33fa336" md5="3dd3c5704d6563f8a4c093e0bac52a84" sha1="9655eaed813874735c70b5819f1cf655e997b961"/>
 	</game>
+	<game name="Peppa Pig - World Adventures (Europe)" id="139966">
+		<category>Games</category>
+		<description>Peppa Pig: World Adventures (Europe)</description>
+		<serial>CUSA-36261</serial>
+		<version>01.02</version>
+		<rom name="Peppa Pig - World Adventures (Europe).iso" size="7645495296" crc="57112eef" md5="d7491b33ae1944f8978b4a0facf5b32e" sha1="1462808a8e1e1188a9e86ab96ef39baf1426e821"/>
+	</game>
 	<game name="Persona 3 - Dancing in Moonlight (USA)" id="70883">
 		<category>Games</category>
 		<description>Persona 3: Dancing in Moonlight (USA)</description>
@@ -10491,12 +10533,12 @@
 		<version>01.01</version>
 		<rom name="Ryuu ga Gotoku 8 (Japan).iso" size="46755282944" crc="ca0c4039" md5="3d22d50acc7beff0b50e43839a17d51b" sha1="cfe97631722f644250678a9f2560aa3a445f6c63"/>
 	</game>
-	<game name="Ryuu ga Gotoku 8 Gaiden - Pirates in Hawaii (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)" id="122291">
+	<game name="Ryuu ga Gotoku 8 Gaiden - Pirates in Hawaii (Japan, Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)" id="122291">
 		<category>Games</category>
-		<description>Ryuu ga Gotoku 8 Gaiden: Pirates in Hawaii (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)</description>
-		<serial>PLJM 17408</serial>
+		<description>Ryuu ga Gotoku 8 Gaiden: Pirates in Hawaii (Japan, Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)</description>
+		<serial>PLJM 17408, PLAS 11561</serial>
 		<version>01.00</version>
-		<rom name="Ryuu ga Gotoku 8 Gaiden - Pirates in Hawaii (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso" size="45815824384" crc="4f341440" md5="6df169dbb28c6cdf5de9eb95b20caef0" sha1="6003329269b967c4c571e2a517c097a04431b794"/>
+		<rom name="Ryuu ga Gotoku 8 Gaiden - Pirates in Hawaii (Japan, Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso" size="45815824384" crc="4f341440" md5="6df169dbb28c6cdf5de9eb95b20caef0" sha1="6003329269b967c4c571e2a517c097a04431b794"/>
 	</game>
 	<game name="Ryuu ga Gotoku Kiwami 3 &amp; Ryuu ga Gotoku 3 Gaiden - Dark Ties (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)" id="131496">
 		<category>Games</category>
@@ -11764,6 +11806,13 @@
 		<version>01.01</version>
 		<rom name="Super Dungeon Bros (Europe).iso" size="25024331776" crc="e78b031d" md5="457beb4ccab5653309898fb3797b54a9" sha1="b52d27a0f993436834cad280994f5e8811cc67c0"/>
 	</game>
+	<game name="Super Kickers - League Ultimate (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Ru)" id="139933">
+		<category>Games</category>
+		<description>Super Kickers: League Ultimate (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Ru)</description>
+		<serial>CUSA-19422</serial>
+		<version>01.00</version>
+		<rom name="Super Kickers - League Ultimate (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Ru).iso" size="25024331776" crc="ea484c25" md5="72eb8a4c88dcc229eb11db734b437e31" sha1="734f986c061e809aa0ccadf8dfd7e0f1fa62921e"/>
+	</game>
 	<game name="Super Monkey Ball - Banana Blitz HD (USA) (En,Fr,De,Es,It)" id="95597">
 		<category>Games</category>
 		<description>Super Monkey Ball: Banana Blitz HD (USA) (En,Fr,De,Es,It)</description>
@@ -11819,6 +11868,13 @@
 		<serial>CUSA-31513</serial>
 		<version>01.02</version>
 		<rom name="Superlative Night Dreams - Cotton Fantasy (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).iso" size="2789408768" crc="b2c53c67" md5="e13e7b7535b1763025c3c2c9a650ace8" sha1="202953929e39380e958a9d370b451a26fc40c3f5"/>
+	</game>
+	<game name="Supermarket Shriek (Europe)" id="139967">
+		<category>Games</category>
+		<description>Supermarket Shriek (Europe)</description>
+		<serial>CUSA-23530</serial>
+		<version>01.02</version>
+		<rom name="Supermarket Shriek (Europe).iso" size="25024331776" crc="823b2d5f" md5="65fcfed0c0ef94323d8bd0befb0dc40a" sha1="b1405fcafcc80645bf6572fbda0e1e208e1af6a9"/>
 	</game>
 	<game name="Surge 2, The (USA)" id="136485">
 		<category>Games</category>

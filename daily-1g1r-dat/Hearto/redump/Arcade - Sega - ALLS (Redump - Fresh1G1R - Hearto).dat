@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - ALLS (Retool)</name>
-		<description>Arcade - Sega - ALLS (22) (-y) [-aAbBcefkmMoprv] (2026-10-23 10-16-24) (Retool)</description>
-		<version>2026-10-23 10-16-24</version>
-		<date>2026-11-01 09-02-16</date>
+		<description>Arcade - Sega - ALLS (24) (-y) [-aAbBcefkmMoprv] (2026-11-01 15-58-06) (Retool)</description>
+		<version>2026-11-01 15-58-06</version>
+		<date>2026-11-02 09-06-22</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -101,6 +101,20 @@
 		<serial>CDA-0004K-1D</serial>
 		<version>2.00.00</version>
 		<rom name="Fate-Grand Order Arcade (Japan) (Rev K).iso" size="8347582464" crc="a610e705" md5="002bf0806cad7a88d7c83160e70aabc9" sha1="0536f4c0201631d3bc78ea6003604bf4444c07b4"/>
+	</game>
+	<game name="House of the Dead - Scarlet Dawn (Japan) (Disc 1)" id="139925">
+		<category>Games</category>
+		<description>House of the Dead: Scarlet Dawn (Japan) (Disc 1)</description>
+		<serial>CDA-0005-1D</serial>
+		<version>1.00.02</version>
+		<rom name="House of the Dead - Scarlet Dawn (Japan) (Disc 1).iso" size="8386904064" crc="48a1259d" md5="977c1ad1de4266da6c618e7ee47876f7" sha1="aa14ad2118c24c1bc8487c0eeebf0c4c7f8db823"/>
+	</game>
+	<game name="House of the Dead - Scarlet Dawn (Japan) (Disc 2)" id="139926">
+		<category>Games</category>
+		<description>House of the Dead: Scarlet Dawn (Japan) (Disc 2)</description>
+		<serial>CDA-0005-2</serial>
+		<version>1.00.02</version>
+		<rom name="House of the Dead - Scarlet Dawn (Japan) (Disc 2).iso" size="2766258176" crc="c240d2ec" md5="edf1a22fc2e17f6fc8b2b7063de403eb" sha1="1c547ad74bfc414db26761a505d288291add805d"/>
 	</game>
 	<game name="Initial D - The Arcade (Japan) (En,Ja) (Disc 1)" id="134624">
 		<category>Games</category>

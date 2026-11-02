@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One (Retool)</name>
-		<description>Microsoft - Xbox One (909) (-y) [-aAbBcdkmMpPuv] (2026-10-28 22-30-02) (Retool)</description>
-		<version>2026-10-28 22-30-02</version>
-		<date>2026-11-01 09-07-21</date>
+		<description>Microsoft - Xbox One (910) (-y) [-aAbBcdkmMpPuv] (2026-11-01 16-18-08) (Retool)</description>
+		<version>2026-11-01 16-18-08</version>
+		<date>2026-11-02 09-16-35</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -237,6 +237,12 @@
 		<category>Games</category>
 		<description>Assetto Corsa (USA, Europe)</description>
 		<rom name="Assetto Corsa (USA, Europe).iso" size="22978238464" crc="a97ba4f6" md5="52530ca60f1fa1995075d5c9e08aff11" sha1="8657774368422cde847c7baca36e76b9b32fe4f8"/>
+	</game>
+	<game name="Asterix &amp; Obelix XXL 3 - The Crystal Menhir (Europe)" id="139929">
+		<category>Games</category>
+		<description>Asterix &amp; Obelix XXL 3: The Crystal Menhir (Europe)</description>
+		<serial>11924_EUR_LAB</serial>
+		<rom name="Asterix &amp; Obelix XXL 3 - The Crystal Menhir (Europe).iso" size="21006028800" crc="442e7523" md5="2470c19e6ec1dc5bcc67cbb95a549977" sha1="bfbc334bd71cf9349da337041efa2fc001cf8be4"/>
 	</game>
 	<game name="Astroneer (USA)" id="102684">
 		<category>Games</category>
@@ -687,10 +693,10 @@
 		<description>Contra: Rogue Corps (USA)</description>
 		<rom name="Contra - Rogue Corps (USA).iso" size="22978238464" crc="25c8933f" md5="f71483df0146be1ff2b364b7129c97b3" sha1="5ce664455a3ed007aeba66386bcbe238e161e5e8"/>
 	</game>
-	<game name="Control - Ultimate Edition (Europe)" id="108316">
+	<game name="Control - Ultimate Edition (USA, Europe)" id="108316">
 		<category>Games</category>
-		<description>Control: Ultimate Edition (Europe)</description>
-		<rom name="Control - Ultimate Edition (Europe).iso" size="22978713600" crc="356a2f37" md5="fe7a97def3d4427ab8f7165c00e8d6b8" sha1="119578478f91e06ebfd85861a8073b70ff948337"/>
+		<description>Control: Ultimate Edition (USA, Europe)</description>
+		<rom name="Control - Ultimate Edition (USA, Europe).iso" size="22978713600" crc="356a2f37" md5="fe7a97def3d4427ab8f7165c00e8d6b8" sha1="119578478f91e06ebfd85861a8073b70ff948337"/>
 	</game>
 	<game name="Council, The - Complete Edition (USA)" id="103215">
 		<category>Games</category>

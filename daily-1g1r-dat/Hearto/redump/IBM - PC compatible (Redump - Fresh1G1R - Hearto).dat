@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,572) (-y) [-aAbBcefkmMoprv] (2026-11-01 08-48-06) (Retool)</description>
-		<version>2026-11-01 08-48-06</version>
-		<date>2026-11-01 09-01-40</date>
+		<description>IBM - PC compatible (26,593) (-y) [-aAbBcefkmMoprv] (2026-11-02 08-32-30) (Retool)</description>
+		<version>2026-11-02 08-32-30</version>
+		<date>2026-11-02 09-06-49</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2866,6 +2866,12 @@
 		<rom name="747-400 Professional (Europe) (En,Fr,De).bin" size="274814736" crc="874fb96c" md5="b8986345e9a0317133949fbd5a5a6e0c" sha1="b319ecd22c27f344b14ae3457e89f2c58770f08b"/>
 		<rom name="747-400 Professional (Europe) (En,Fr,De).cue" size="106" crc="23ec562c" md5="4f7ca52fce156512362711f24df9c6f6" sha1="8fcf0730fb231c1599d3ba3bd244641cfded6fb4"/>
 	</game>
+	<game name="747-400X - Queen of the Skies (Europe)" id="139908">
+		<category>Add-Ons</category>
+		<description>747-400X: Queen of the Skies (Europe)</description>
+		<version>2.10</version>
+		<rom name="747-400X - Queen of the Skies (Europe).iso" size="2324692992" crc="12910a27" md5="94bdbb5e4b4e7fff3149524dd1cca6a2" sha1="a992c4cb008c3eeb50c695d69989175ba85a6042"/>
+	</game>
 	<game name="7554 (USA) (En,Fr,De)" id="90965">
 		<category>Games</category>
 		<description>7554 (USA) (En,Fr,De)</description>
@@ -3019,6 +3025,12 @@
 		<category>Games</category>
 		<description>9 Clues 2: The Ward (Australia)</description>
 		<rom name="9 Clues 2 - The Ward (Australia).iso" size="1047068672" crc="58597bab" md5="5b8098a9a8079fe272845fabea7e8383" sha1="50ce837796fd752bc60e4c534fb69c9bad43c095"/>
+	</game>
+	<game name="9 Monkeys of Shaolin (Europe)" id="139897">
+		<category>Games</category>
+		<description>9 Monkeys of Shaolin (Europe)</description>
+		<serial>1033615LAINT</serial>
+		<rom name="9 Monkeys of Shaolin (Europe).iso" size="2866132992" crc="ea25bc6c" md5="e654dd062bc90b383d549935a5f27f17" sha1="0bd0280678f2027f74d3dc877bea987d55066301"/>
 	</game>
 	<game name="911 Paramedic (USA) (Disc 1)" id="104141">
 		<category>Games</category>
@@ -17577,6 +17589,12 @@
 		<rom name="Bashers onlajn (Russia).bin" size="51442944" crc="0cd80726" md5="99e9cb587d223ebbae432ef6256fd591" sha1="0048eb4cda0d35224db52751cc9d2b21e97ae0ab"/>
 		<rom name="Bashers onlajn (Russia).cue" size="89" crc="8039597b" md5="48a28f9560e86c604a288f4b0104f8dc" sha1="e08a0d0fae8c21b0020c4f8f5d3c1d45e126dd33"/>
 	</game>
+	<game name="Basket PC3 (Argentina) (Covermount)" id="139942">
+		<category>Games</category>
+		<description>Basket PC3 (Argentina) (Covermount)</description>
+		<rom name="Basket PC3 (Argentina) (Covermount).bin" size="204826272" crc="cbbfda63" md5="a0431f6b2f76801e7f6f37ed62097685" sha1="71afc0285935f5d4c828cfe2e094f8380645c913"/>
+		<rom name="Basket PC3 (Argentina) (Covermount).cue" size="124" crc="856e979f" md5="364c8c75cb322eefe6654965b3ca5388" sha1="313adaad44e0e90484a9a12030eed8922a31fdb6"/>
+	</game>
 	<game name="Bass Masters Classic - Tournament Edition (USA)" id="66448">
 		<category>Games</category>
 		<description>Bass Masters Classic: Tournament Edition (USA)</description>
@@ -23984,6 +24002,12 @@
 		<version>1.0</version>
 		<rom name="Box Blox Deluxe (Europe).bin" size="36366624" crc="27ce1f05" md5="0f970f630724152e2652fc7d8a833ff9" sha1="9724d01570e944b6cb6cc3921c040abca2152ab2"/>
 		<rom name="Box Blox Deluxe (Europe).cue" size="90" crc="e3c764fd" md5="1e3e88a654a2359206d3921868f1c7ef" sha1="7728a1b2aedfcdb0082a418bded8edada29e2aa8"/>
+	</game>
+	<game name="Box PC3 (Argentina) (Covermount)" id="139943">
+		<category>Games</category>
+		<description>Box PC3 (Argentina) (Covermount)</description>
+		<rom name="Box PC3 (Argentina) (Covermount).bin" size="123383568" crc="f556ea8c" md5="64ad8335ac05e8fe3656d67c29bf46ea" sha1="eee85f4fc0339e4c00ff4524c8f703b6228b2ae1"/>
+		<rom name="Box PC3 (Argentina) (Covermount).cue" size="121" crc="ad7e8492" md5="faf643f10bc381fdfbf203c5ad000077" sha1="1c8f21e2f376829e3fcdf049c8c20f90eff0a002"/>
 	</game>
 	<game name="Boxsport Manager (Germany)" id="119038">
 		<category>Games</category>
@@ -30677,6 +30701,12 @@
 		<version>1.0</version>
 		<rom name="Chicken Hunter - License to Grill - The Great Poultry Race (USA).bin" size="96467280" crc="970f52b8" md5="31282b9775c6a76f6f4eca083c34e960" sha1="f5e686164c86eea75e9263f6173ff701fa8d799c"/>
 		<rom name="Chicken Hunter - License to Grill - The Great Poultry Race (USA).cue" size="130" crc="59744a9a" md5="616040a6e2d3be06262d1044976650f7" sha1="4f00c772a9009abf10e22b342dce47721c3e92d1"/>
+	</game>
+	<game name="Chicken Little - As en Accion (Argentina) (Rerelease)" id="139939">
+		<category>Games</category>
+		<description>Chicken Little: As en Acción (Argentina) (Rerelease)</description>
+		<version>1.0</version>
+		<rom name="Chicken Little - As en Accion (Argentina) (Rerelease).iso" size="1958051840" crc="220d8fc2" md5="3d70f91e9ce22c414c7d9e1da1f56ac8" sha1="5f9a58964c9a283680b202351cc68ac431e0880e"/>
 	</game>
 	<game name="Chicken Poppen 2 (Germany) (En,De)" id="104232">
 		<category>Games</category>
@@ -59991,6 +60021,20 @@
 		<rom name="FMV Family - 1998 No. 2 - Tokubetsu Furoku CD-ROM (Japan).bin" size="324444288" crc="4e42a57e" md5="3f7c2fc08da6f95db9a6fedb10777748" sha1="122f4dcaa074d32acff983585beb9683539f563b"/>
 		<rom name="FMV Family - 1998 No. 2 - Tokubetsu Furoku CD-ROM (Japan).cue" size="123" crc="a838f6bd" md5="d23b95fa256a68e096fb2c7a11ae9f0b" sha1="31a2a1d9fc04c3cc873c35811c69c7d107bc843b"/>
 	</game>
+	<game name="FMV Family - 1998 No. 3 - Tokubetsu Furoku CD-ROM (Japan)" id="139937">
+		<category>Demos</category>
+		<description>FMV Family: 1998 No. 3: Tokubetsu Furoku CD-ROM (Japan)</description>
+		<serial>FMV-98003</serial>
+		<rom name="FMV Family - 1998 No. 3 - Tokubetsu Furoku CD-ROM (Japan).bin" size="329682192" crc="d08dbe51" md5="0c3fe992042001e61a9207b1ad285f95" sha1="2feee1e4490cd1d47d11e4f478cad5f5e15de502"/>
+		<rom name="FMV Family - 1998 No. 3 - Tokubetsu Furoku CD-ROM (Japan).cue" size="123" crc="ce5af711" md5="6d096647e992e725efadd81ddb4e071e" sha1="32be930896717ed25f8d8e3529f516f7ed56ddcd"/>
+	</game>
+	<game name="FMV Family - 1998 No. 4 - Tokubetsu Furoku CD-ROM (Japan)" id="139970">
+		<category>Demos</category>
+		<description>FMV Family: 1998 No. 4: Tokubetsu Furoku CD-ROM (Japan)</description>
+		<serial>FMV-98004</serial>
+		<rom name="FMV Family - 1998 No. 4 - Tokubetsu Furoku CD-ROM (Japan).bin" size="358644720" crc="2de7a331" md5="9d431c3d085ec7baa19a6061468d4c30" sha1="d5912dee608446616090084867eb656c8c03b1f7"/>
+		<rom name="FMV Family - 1998 No. 4 - Tokubetsu Furoku CD-ROM (Japan).cue" size="123" crc="2605f514" md5="9e0400f9461e8d39612e2710046168b2" sha1="f5f2b9f0b13e7ff23b23e5cbd819f547f8bf06de"/>
+	</game>
 	<game name="FMV Taikenban CD-ROM (Japan)" id="22504">
 		<category>Demos</category>
 		<description>FMV Taikenban CD-ROM (Japan)</description>
@@ -60031,6 +60075,38 @@
 		<serial>JFC000930</serial>
 		<version>1.00</version>
 		<rom name="FS Global - Special Edition (Europe) (En,Fr,De) (Disc 3).iso" size="4442193920" crc="777c34fe" md5="28e6ca74066ba085d8d8b8679ac0e0a2" sha1="227b752f814cee51d171ed6e9d7598191d575fbd"/>
+	</game>
+	<game name="FS Global 2008 for Microsoft Flight Simulator 2004 (Europe) (Disc 1)" id="139911">
+		<category>Add-Ons</category>
+		<description>FS Global 2008 for Microsoft Flight Simulator 2004 (Europe) (Disc 1)</description>
+		<rom name="FS Global 2008 for Microsoft Flight Simulator 2004 (Europe) (Disc 1).iso" size="4574511104" crc="edc43a88" md5="f902845816b9e3c57610209e1d4cf8d2" sha1="d1c8d06a7d609bebe3a8f8b0057309492111786b"/>
+	</game>
+	<game name="FS Global 2008 for Microsoft Flight Simulator 2004 (Europe) (Disc 2) (Side 1)" id="139912">
+		<category>Add-Ons</category>
+		<description>FS Global 2008 for Microsoft Flight Simulator 2004 (Europe) (Disc 2) (Side 1)</description>
+		<serial>FS9 (FS2004) Disc 2 Side 1</serial>
+		<rom name="FS Global 2008 for Microsoft Flight Simulator 2004 (Europe) (Disc 2) (Side 1).iso" size="4634443776" crc="128c4e80" md5="c61b5282ccef2a408421ff0e4c10932b" sha1="a000afba1a6bd66214a0c5d6eb4555143186c058"/>
+	</game>
+	<game name="FS Global 2008 for Microsoft Flight Simulator 2004 (Europe) (Disc 2) (Side 2)" id="139913">
+		<category>Add-Ons</category>
+		<description>FS Global 2008 for Microsoft Flight Simulator 2004 (Europe) (Disc 2) (Side 2)</description>
+		<serial>FS9 (FS2004) Disc 2 Side 2</serial>
+		<rom name="FS Global 2008 for Microsoft Flight Simulator 2004 (Europe) (Disc 2) (Side 2).iso" size="4614520832" crc="a592cfe7" md5="8e16211dad6579ac67ae749cd47a1410" sha1="57711882b3b7eab3ac9ac732b63ae5ce3baa0636"/>
+	</game>
+	<game name="FS Global 2008 for Microsoft Flight Simulator X (Europe) (Disc 1)" id="139914">
+		<category>Add-Ons</category>
+		<description>FS Global 2008 for Microsoft Flight Simulator X (Europe) (Disc 1)</description>
+		<rom name="FS Global 2008 for Microsoft Flight Simulator X (Europe) (Disc 1).iso" size="4071227392" crc="f63a08a3" md5="969bbf9d735fa5dcf73005c0c2414e7d" sha1="e4f4d7b3d670bdfa18dba33614fff43767e03e5c"/>
+	</game>
+	<game name="FS Global 2008 for Microsoft Flight Simulator X (Europe) (Disc 2) (Side 1)" id="139915">
+		<category>Add-Ons</category>
+		<description>FS Global 2008 for Microsoft Flight Simulator X (Europe) (Disc 2) (Side 1)</description>
+		<rom name="FS Global 2008 for Microsoft Flight Simulator X (Europe) (Disc 2) (Side 1).iso" size="4612423680" crc="b080b87f" md5="f1f504adf303c28db79e5b758c9b46b4" sha1="8d1f216aa5840653021dfc071e5d43a347713a71"/>
+	</game>
+	<game name="FS Global 2008 for Microsoft Flight Simulator X (Europe) (Disc 2) (Side 2)" id="139916">
+		<category>Add-Ons</category>
+		<description>FS Global 2008 for Microsoft Flight Simulator X (Europe) (Disc 2) (Side 2)</description>
+		<rom name="FS Global 2008 for Microsoft Flight Simulator X (Europe) (Disc 2) (Side 2).iso" size="4678418432" crc="a041b691" md5="f64c58a27a82a493e12c3b76bf70ccfa" sha1="d43811a3d4ca9af699e455937eb347d028d3d060"/>
 	</game>
 	<game name="FS Traffic 2002 (Germany) (En,Fr,De)" id="49526">
 		<category>Add-Ons</category>
@@ -62724,20 +62800,20 @@
 		<rom name="Field &amp; Stream - Trophy Big Game Hunting (USA) (Disc 2).bin" size="443476656" crc="6fdd4ff7" md5="feebb8721a5ffd80c413242a79d85ae8" sha1="6bc4df5e1295fe22305b73198e58bb48de1c1219"/>
 		<rom name="Field &amp; Stream - Trophy Big Game Hunting (USA) (Disc 2).cue" size="121" crc="a5a5ee6c" md5="f2b3b38eae92ffce55fa12d740718a5f" sha1="979e2a4803d942d725dd5035f13657fe564f6829"/>
 	</game>
-	<game name="Field &amp; Stream - Trophy Buck (Germany)" id="56194">
+	<game name="Field &amp; Stream - Trophy Buck (USA)" id="139921">
 		<category>Games</category>
-		<description>Field &amp; Stream: Trophy Buck (Germany)</description>
-		<serial>S0014574</serial>
-		<rom name="Field &amp; Stream - Trophy Buck (Germany) (Track 1).bin" size="480438336" crc="1d99c346" md5="e5093303cea85b6d2f01c29a4242c042" sha1="cfcfa2bd92242f8f2d1fdc3540a7fb669c899e56"/>
-		<rom name="Field &amp; Stream - Trophy Buck (Germany) (Track 2).bin" size="21003360" crc="96e6ee68" md5="161e89b8b56a207636565c64ec65729a" sha1="f0d665a39de03cc5172f0d38945cb88a7f3ea89b"/>
-		<rom name="Field &amp; Stream - Trophy Buck (Germany) (Track 3).bin" size="21744240" crc="a9b55a9e" md5="15ba2e6ae83a3f4d650ea8c7dfcd723e" sha1="65522b8cc7071a4091540636a1d71141d3262ad9"/>
-		<rom name="Field &amp; Stream - Trophy Buck (Germany) (Track 4).bin" size="20972784" crc="78026fb0" md5="04307aab882b4fcfb66bf9e26eeb6abf" sha1="27a3c15f06e1daf7311c71d30a50de931bfe4c1f"/>
-		<rom name="Field &amp; Stream - Trophy Buck (Germany) (Track 5).bin" size="21179760" crc="46f01896" md5="76d093cc67d0b2fef46ad575facdbfb6" sha1="15960f5cf1aaff74380821cc0205d75da0914f54"/>
-		<rom name="Field &amp; Stream - Trophy Buck (Germany) (Track 6).bin" size="22550976" crc="7c9e4f3f" md5="d2a6d8ac9b4dee76036bd014ecc58e79" sha1="6805eb3320d01be20f77d32c302fc227ea8b13a1"/>
-		<rom name="Field &amp; Stream - Trophy Buck (Germany) (Track 7).bin" size="21617232" crc="dc39e85b" md5="8836f942f7cabbd2d4a687951605e9fa" sha1="82a7348e3af946b79a0095c52a288f39a5d94421"/>
-		<rom name="Field &amp; Stream - Trophy Buck (Germany) (Track 8).bin" size="22682688" crc="d0e29535" md5="af4b92f4dacfc5e328194af0428fc3f3" sha1="6beba42b5efba2e2ce9cee5545f5b2969c7ff2ff"/>
-		<rom name="Field &amp; Stream - Trophy Buck (Germany) (Track 9).bin" size="19204080" crc="1d5d409f" md5="ab2b43f955731bec0ddf0661908654f3" sha1="34151d898bb6496bf0f522b680eb038959f717e6"/>
-		<rom name="Field &amp; Stream - Trophy Buck (Germany).cue" size="1032" crc="8d322323" md5="11f764357f168007bba4343741f3601b" sha1="1fe52f4e3864d3ddb462d96203f28bb9cd078a8c"/>
+		<description>Field &amp; Stream: Trophy Buck (USA)</description>
+		<version>1.0.0.7</version>
+		<rom name="Field &amp; Stream - Trophy Buck (USA) (Track 1).bin" size="529446960" crc="d77c4bc0" md5="6faf01003cbfd3217a05d84e97a8a718" sha1="8ebcd95ca1cc9a2b7b1fbbcb189e281824ad0468"/>
+		<rom name="Field &amp; Stream - Trophy Buck (USA) (Track 2).bin" size="21325584" crc="372b63ab" md5="6ea5c3f9aa9297b3ca072f0dc411c62e" sha1="c2428ad06e911635bea5da3d7366630708c31eef"/>
+		<rom name="Field &amp; Stream - Trophy Buck (USA) (Track 3).bin" size="21017472" crc="cad63de7" md5="1f8a75754c30c7a40ac3a23f9f24b94a" sha1="8725bc97e6c858e8ba7383e95b5d08c33fdcebb6"/>
+		<rom name="Field &amp; Stream - Trophy Buck (USA) (Track 4).bin" size="21198576" crc="60c088d3" md5="d9a6517c24b3d9b0cf5dae4348ff69b0" sha1="83789a9e1306e9e0dc603ac537b31ab0f1e71476"/>
+		<rom name="Field &amp; Stream - Trophy Buck (USA) (Track 5).bin" size="21356160" crc="bca51790" md5="defdf130af4c35a7cefef6d09a5affd2" sha1="90371bad34fe307466ac877dfd0656de9d1e6770"/>
+		<rom name="Field &amp; Stream - Trophy Buck (USA) (Track 6).bin" size="22649760" crc="8eb666b2" md5="73175e8a770580c61312b6d183de68e0" sha1="53b39a9b69b1891abe42797216eb95c267adc52e"/>
+		<rom name="Field &amp; Stream - Trophy Buck (USA) (Track 7).bin" size="21057456" crc="d9208e9d" md5="90ce488488ce7dbe9e64c6446e0c2734" sha1="cabe602e0a7514ed3b69e1a0274885598edf2c63"/>
+		<rom name="Field &amp; Stream - Trophy Buck (USA) (Track 8).bin" size="22795584" crc="8dddc6b6" md5="9cb515e22bbc63d27a6f051a5fa37b41" sha1="a2ab72d21353166c9e40753ebf6ae33ee9c72e0f"/>
+		<rom name="Field &amp; Stream - Trophy Buck (USA) (Track 9).bin" size="18773664" crc="e0bcd535" md5="c8a33a7993099973048a52ada9f56755" sha1="0e796cf61f0cc6371c26f26dbbe94edd8be385df"/>
+		<rom name="Field &amp; Stream - Trophy Buck (USA).cue" size="1134" crc="58932b69" md5="a4800e606ec6a74d23348759cb591fc7" sha1="0e931bb101bacae5c6b64d55500ea52d32c7f2cd"/>
 	</game>
 	<game name="Field &amp; Stream - Trophy Hunting (USA) (Disc 1) (Installation Disk)" id="139775">
 		<category>Games</category>
@@ -70941,17 +71017,16 @@
 		<rom name="Genetic Evolution - The Race for Intelligent Life (Germany).bin" size="809875920" crc="c113a426" md5="8c405d84cb2422eb6094118030e2f10b" sha1="75f8f53f185a6321c5edbd8d0fcaba163067c54e"/>
 		<rom name="Genetic Evolution - The Race for Intelligent Life (Germany).cue" size="148" crc="81a63baa" md5="1162372c1560ffb6426f858cd8454cd4" sha1="d14cc44078f0f0b8e588e34fbed506444a368f05"/>
 	</game>
-	<game name="Genewars (Europe) (En,Fr,De,Es,It,Sv)" id="34907">
+	<game name="Genewars (USA)" id="139922">
 		<category>Games</category>
-		<description>Genewars (Europe) (En,Fr,De,Es,It,Sv)</description>
-		<serial>BFX05100345D</serial>
-		<version>Beta v5</version>
-		<rom name="Genewars (Europe) (En,Fr,De,Es,It,Sv) (Track 1).bin" size="238909104" crc="d09d6273" md5="c61616719a802f368ab9d64888b08020" sha1="3108630804a87590e660539e47442a1f036cf48d"/>
-		<rom name="Genewars (Europe) (En,Fr,De,Es,It,Sv) (Track 2).bin" size="96436704" crc="d13a7d25" md5="16d693da1e71f13d6a7294bb417fd77b" sha1="ac52a3765f954fb2863e83d570bc2a78c57da0c8"/>
-		<rom name="Genewars (Europe) (En,Fr,De,Es,It,Sv) (Track 3).bin" size="104602848" crc="235621c3" md5="24bba561d5cd5a3a4fbac5686a1715e0" sha1="3f2928c517da2ebd5ee9d2be7b9f07563145d104"/>
-		<rom name="Genewars (Europe) (En,Fr,De,Es,It,Sv) (Track 4).bin" size="140155680" crc="510c5fe3" md5="060dca6548d6be9d542a4306fa6eb230" sha1="2fa2cca04748a609c3d9d370cc2b89d01ebe8dea"/>
-		<rom name="Genewars (Europe) (En,Fr,De,Es,It,Sv) (Track 5).bin" size="50843184" crc="e0cd1c35" md5="8aa088fc5023a742b60d35731c600cf6" sha1="987335a05689a3b2b640967f817a63598a26928e"/>
-		<rom name="Genewars (Europe) (En,Fr,De,Es,It,Sv).cue" size="637" crc="4ed78d5d" md5="08cec636d8e622897f9104c6f0be53f1" sha1="f83597f9c55e392bb50540674b93c284bb584957"/>
+		<description>Genewars (USA)</description>
+		<serial>EA 759507</serial>
+		<rom name="Genewars (USA) (Track 1).bin" size="238906752" crc="1317fb61" md5="42fcaf76ffa848abc4eecde92277fe6e" sha1="4b87a0c40643eccb178aaceec0097565724c709b"/>
+		<rom name="Genewars (USA) (Track 2).bin" size="96789504" crc="ddff8377" md5="d666dfd8dbe39d4f837377189eaffbcc" sha1="8289715080dbf42214dfa355e90de07e6cff6dea"/>
+		<rom name="Genewars (USA) (Track 3).bin" size="104602848" crc="2b7d8b24" md5="aa9481fbe827b7c4ab389a0ec7693736" sha1="5085b6656b86ac5c0a9d937d54b014f52811f673"/>
+		<rom name="Genewars (USA) (Track 4).bin" size="140155680" crc="cb9eddc0" md5="895aa451a4450d4d7280ac8baea9e152" sha1="9b5be1f5b4c77afb0e1a0d1ec6c59cfbfcfdc7d9"/>
+		<rom name="Genewars (USA) (Track 5).bin" size="50492736" crc="5cb63445" md5="9d73856a779aa220ca284a89a7bdd2e3" sha1="972e39d29f4a3af5f3be98d6fc79ea501402c7a6"/>
+		<rom name="Genewars (USA).cue" size="476" crc="0e69a012" md5="bf09490831da00a37d49bbe671fec1ae" sha1="6d6d8dc4ffd34e511065ee4bc910c48a6a0e3cfa"/>
 	</game>
 	<game name="Genghis Khan - Aoki Ookami to Shiroki Mejika IV (Japan)" id="119553">
 		<category>Games</category>
@@ -81719,6 +81794,12 @@
 		<serial>MHMFSVMB04</serial>
 		<version>1.7.0</version>
 		<rom name="Hitman - The Complete First Season (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 4).iso" size="8388388864" crc="a8e1c990" md5="6a596bba7866fa92e8ba303e5e2ff91e" sha1="4c9b2bd750db19dbf09f84c6d8806efab75e3796"/>
+	</game>
+	<game name="Hitman - Ultimate Contract (UK)" id="139917">
+		<category>Games</category>
+		<description>Hitman: Ultimate Contract (UK)</description>
+		<serial>125 MT v3.6 MTC000424</serial>
+		<rom name="Hitman - Ultimate Contract (UK).iso" size="6386024448" crc="25a24c9c" md5="dfaea940e578d51c66a7e7e5b2aa97f6" sha1="265dc52632e3c17e30f4a23def69c5507fcf2837"/>
 	</game>
 	<game name="Hitman 2 - Besshumnyj ubijca (Russia) (En,Ru)" id="91337">
 		<category>Games</category>
@@ -110821,6 +110902,7 @@
 	<game name="Medieval - Total War (Europe) (En,De,Es,It)" id="79531">
 		<category>Games</category>
 		<description>Medieval: Total War (Europe) (En,De,Es,It)</description>
+		<serial>053 MT v2d.5.4.1</serial>
 		<version>2.0</version>
 		<rom name="Medieval - Total War (Europe) (En,De,Es,It).iso" size="2366013440" crc="177739c7" md5="f4d6f4ce09b7c3d6c2046a46b2bf091f" sha1="442e4a32b054924aa40dfa897a46dac5efb2bb51"/>
 	</game>
@@ -111839,11 +111921,13 @@
 		<rom name="Mensch argere Dich nicht (Germany).bin" size="216647424" crc="24e07085" md5="c8f4aa3725e460c7d863ea94ffada51f" sha1="f9519662fd7104284bdb45bce3494777ad8b1457"/>
 		<rom name="Mensch argere Dich nicht (Germany).cue" size="100" crc="d506ff75" md5="3ff0f8bb30a9631ca747b1127cd33a1c" sha1="62714e82747ae4b877eb2db5f6edebb405e5e160"/>
 	</game>
-	<game name="Menzoberranzan (USA)" id="89519">
+	<game name="Menzoberranzan (USA, Europe)" id="2882">
 		<category>Games</category>
-		<description>Menzoberranzan (USA)</description>
-		<rom name="Menzoberranzan (USA).bin" size="391485696" crc="e2df080b" md5="196550175288c993ec3ee6ff06ce71db" sha1="e8364eb779009221fc26af31c289de89213a33aa"/>
-		<rom name="Menzoberranzan (USA).cue" size="109" crc="28a525c3" md5="497e864e3885c1fbd5d8c3b15e74b7c9" sha1="32a1a60cd7fd7288661cab9b3cc468cfd51ace63"/>
+		<description>Menzoberranzan (USA, Europe)</description>
+		<serial>CS090094</serial>
+		<version>1.00</version>
+		<rom name="Menzoberranzan (USA, Europe).bin" size="391838496" crc="c81992d3" md5="3f094a793eba31e28f1205e9e1a55e70" sha1="0a960d20502d38ea56ff008c1e23d150bbb88356"/>
+		<rom name="Menzoberranzan (USA, Europe).cue" size="117" crc="41008d11" md5="a6a231c64ab33f85e395c86ce13196bf" sha1="a1bc3534b1dc0c5a103fd269e4a52e72dbf0f969"/>
 	</game>
 	<game name="Mephisto Genius Pro (Germany) (En,De)" id="94384">
 		<category>Games</category>
@@ -117932,6 +118016,13 @@
 		<rom name="Moorhuhn X (Germany).bin" size="157160640" crc="f7be9a93" md5="9eafbd42c2253bf07831e41a4e04eda1" sha1="1a11f0bb66435c1a4a32f4d4da1fd793bda28c5a"/>
 		<rom name="Moorhuhn X (Germany).cue" size="86" crc="0ab06a5d" md5="3f9316040d31ac58bee2e7bcb5b11763" sha1="3d3ec4c05527beb1098aa4e195acfb98d18e2230"/>
 	</game>
+	<game name="Moorhuhn prasentiert - 10 Fun Games (Germany)" id="139901">
+		<category>Games</category>
+		<description>Moorhuhn präsentiert: 10 Fun Games (Germany)</description>
+		<serial>Artikelnummer 90513</serial>
+		<rom name="Moorhuhn prasentiert - 10 Fun Games (Germany).bin" size="136538304" crc="2c93ebfc" md5="1d8224d98cbe2124f48519d4f91f33a7" sha1="117434733644246b995ca65089fb84961ec2dd49"/>
+		<rom name="Moorhuhn prasentiert - 10 Fun Games (Germany).cue" size="134" crc="213caeed" md5="30ca5bf53b4a782151d79724c940bdeb" sha1="427ec9ddbb648824629ba8b20fa89b6a20e347ef"/>
+	</game>
 	<game name="Moose on the Loose (Europe)" id="38629">
 		<category>Games</category>
 		<description>Moose on the Loose (Europe)</description>
@@ -118853,6 +118944,13 @@
 		<rom name="Motocross Mania (Europe) (Track 11).bin" size="26229504" crc="0529707a" md5="801c7a46762c815221a04930651f25d9" sha1="ba1610f80c2ce1392dab892371456f37b0214d75"/>
 		<rom name="Motocross Mania (Europe).cue" size="1291" crc="09d385f6" md5="c8134fd33cad4006f4c25457778f44c0" sha1="74d533b3da52fa8d2aecce48f0c8f0718d6851b9"/>
 	</game>
+	<game name="Motocross Simulator (Germany)" id="139902">
+		<category>Games</category>
+		<description>Motocross Simulator (Germany)</description>
+		<serial>Art.-Nr. 6257</serial>
+		<rom name="Motocross Simulator (Germany).bin" size="796648272" crc="a1ee3de7" md5="949cca1cd50126f9317b3c454f35e26c" sha1="1cf8b1bcefc7dbd2934d3286610220e9c2d51b05"/>
+		<rom name="Motocross Simulator (Germany).cue" size="95" crc="80a20ad5" md5="0a6c90be502c15fce8478fbda1ac32f9" sha1="0d07d0c3ff75317e131c083b09990a6778eaffbd"/>
+	</game>
 	<game name="Motocross Stunt Racer (Poland)" id="31368">
 		<category>Games</category>
 		<description>Motocross Stunt Racer (Poland)</description>
@@ -119323,6 +119421,12 @@
 		<version>1.00.08b</version>
 		<rom name="Mulan - Interaktivnaya skazka (Russia).bin" size="711712848" crc="1affc5d6" md5="9ee416ca8380e4d1857c628646739148" sha1="a32a20b145d58c98e14e05a615f6a6e916df14b2"/>
 		<rom name="Mulan - Interaktivnaya skazka (Russia).cue" size="104" crc="cb0addb6" md5="a343f279825733d9d4b65d8e4db9865c" sha1="424ec85bb76e8c77c27214fca3e71bfdea2f59df"/>
+	</game>
+	<game name="Mullabfuhr-Simulator 2008 (Germany)" id="139903">
+		<category>Games</category>
+		<description>Müllabfuhr-Simulator 2008 (Germany)</description>
+		<serial>Artikel Nummer 31142</serial>
+		<rom name="Mullabfuhr-Simulator 2008 (Germany).iso" size="2753036288" crc="7c15042a" md5="fc4bd7d54cd0442a84b886e41523cc92" sha1="b4a51c19d47c1fd57c17f695a9460c1ffe2a0dd0"/>
 	</game>
 	<game name="Multi-Player Games (Germany)" id="129311">
 		<category>Demos</category>
@@ -121844,7 +121948,7 @@
 	<game name="Na Grani Zero (Russia)" id="139297">
 		<category>Games</category>
 		<description>Na Grani Zero (Russia)</description>
-		<rom name="Na Grani Zero (Russia).bin" size="74760672" crc="04eaa71e" md5="593a8e15fa7675af0d4272f57cb65cbb" sha1="5b622d936be8e43e2d6c7a0e6471bdef84bce3bc"/>
+		<rom name="Na Grani Zero (Russia).bin" size="74760672" crc="4b2a7f7a" md5="d78b0811419a30a70c8007ab6d5bf82c" sha1="ae0b97b88b7bfe6cd3e7b41705086729c7c6a3f7"/>
 		<rom name="Na Grani Zero (Russia).cue" size="111" crc="9f30d6f4" md5="658ba4c9f3dcea76de7d5966814472e8" sha1="1045f64c08f39c9dea4a5b7b1f51e4a34143b52a"/>
 	</game>
 	<game name="Na Palauk! Antras Leidimas. Apvali Suma (Lithuania)" id="91843">
@@ -143325,11 +143429,11 @@
 		<rom name="R.O.M. Gold - Rings of Medusa (Germany).bin" size="86485392" crc="5bef9766" md5="6451d6e8da6cdcee9802cff0339b449d" sha1="c790b36d240e61cee259f8dc7e8f7fe3ce1206c2"/>
 		<rom name="R.O.M. Gold - Rings of Medusa (Germany).cue" size="128" crc="16b275f7" md5="5c84430511765ba52def5e11602ad9a5" sha1="40db9beff2df1dd3bc946b6657b2eac8abb03068"/>
 	</game>
-	<game name="R.U.S.E. (Europe)" id="108211">
+	<game name="R.U.S.E. (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs)" id="108211">
 		<category>Games</category>
-		<description>R.U.S.E. (Europe)</description>
+		<description>R.U.S.E. (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs)</description>
 		<serial>300030585</serial>
-		<rom name="R.U.S.E. (Europe).iso" size="5807603712" crc="0547be76" md5="c397176d4cd1227ca14ae338dcaa898a" sha1="baf5136e71febee331ea226f2842068bf08d79e2"/>
+		<rom name="R.U.S.E. (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs).iso" size="5807603712" crc="0547be76" md5="c397176d4cd1227ca14ae338dcaa898a" sha1="baf5136e71febee331ea226f2842068bf08d79e2"/>
 	</game>
 	<game name="R2 - Reign of Revolution (Russia)" id="139107">
 		<category>Games</category>
@@ -147374,6 +147478,13 @@
 		<description>Reich des Drachen, Das (Germany)</description>
 		<rom name="Reich des Drachen, Das (Germany).bin" size="501862704" crc="b97adc5d" md5="cdc83d43f3dff020f0c93f30b42e77fd" sha1="d32bc995d1908e6f7d41a761d68379e897c52d76"/>
 		<rom name="Reich des Drachen, Das (Germany).cue" size="98" crc="94b856c3" md5="679ff2adbe52fd25cde9cdbd2a2f0aef" sha1="76689b02d378472664ac67b2abb215f794254b08"/>
+	</game>
+	<game name="Reign - Conflict of Nations (Argentina)" id="139940">
+		<category>Games</category>
+		<description>Reign: Conflict of Nations (Argentina)</description>
+		<version>1.1</version>
+		<rom name="Reign - Conflict of Nations (Argentina).bin" size="716614416" crc="fc3b5a92" md5="3f1a7094be13f4b551c0163dba285f2a" sha1="94f1ca171c497e8fa10ceb39d2736e4e6a800a81"/>
+		<rom name="Reign - Conflict of Nations (Argentina).cue" size="105" crc="a5877afe" md5="395790e378439857ed71c09fa87e01b4" sha1="d18becc9263781db4a3a58d3883302e00c914160"/>
 	</game>
 	<game name="Reincarnations - Awakening &amp; Reincarnations - Uncover the Past (USA)" id="82064">
 		<category>Games</category>
@@ -159959,25 +160070,24 @@
 		<rom name="Shanghai - Grosse Momente (Germany).bin" size="635406912" crc="6b7f2724" md5="16293d162f0e06f27792258f68130c2d" sha1="7fd415c56c366dbf9c6a66b14bb97aaed5f7e607"/>
 		<rom name="Shanghai - Grosse Momente (Germany).cue" size="124" crc="12aab495" md5="0a5dca4414dd4f1d83e7d81d6fd2d608" sha1="5e93f2bdf28040d2f4493a65e16948dd143f0742"/>
 	</game>
-	<game name="Shanghai - Second Dynasty (Europe)" id="57950">
+	<game name="Shanghai - Second Dynasty (USA)" id="139924">
 		<category>Games</category>
-		<description>Shanghai: Second Dynasty (Europe)</description>
-		<serial>1000930.101.UK</serial>
-		<version>1.0</version>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 01).bin" size="398671056" crc="90851bf7" md5="4f6556f91ecbcb74b311b6a530f94ec6" sha1="87d507b48eafd75763b34da2755a75db95a8a90b"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 02).bin" size="18004560" crc="0375007f" md5="8948613e1d6321c76b09d4b6ab6e3fe7" sha1="ec8e22b8bb5ad5c3801829050d270f9113314eb4"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 03).bin" size="16939104" crc="d57a501e" md5="938b613e3814c0fc9368978cf21a612f" sha1="e46219bd925134f69401610e38a5bb780f0395eb"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 04).bin" size="25853184" crc="944e2ba3" md5="01eae3ec1dec057150427c546bf505c4" sha1="1ca8611b81ee6a804531c0004f214ea710b65f13"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 05).bin" size="21871248" crc="c0ab97af" md5="1999c1c4d5279e2cf0af8dc7318b056c" sha1="178973fc08623c6facdbbacffa8806c2ec3e75f6"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 06).bin" size="22986096" crc="b89e1e05" md5="928faf7e67125cde548b521a16d8508d" sha1="256656cb740124f3e0c094763cc48f6e8d8b4db3"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 07).bin" size="21452592" crc="c1a3dab7" md5="ec5bdb8916ebbdaa0d2e03c19b2f721a" sha1="a35175b05d166dd4a6cdb80a25b62059c5682c2f"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 08).bin" size="22141728" crc="a79c16a7" md5="f02059cd1ab7b5e94aae35cf37dcb159" sha1="2fe9f612a13673e10a5fb9fc9cdbb70311cf246f"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 09).bin" size="24030384" crc="4c4ecbae" md5="18646f8f9fa9c0880483f2a034ab4e0b" sha1="3a2e5cd0eda584502bf72e9d2e61c3c1c63d5d16"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 10).bin" size="21666624" crc="64c756b9" md5="4b2a3d5d73e3de9a7a2760f9b1c32a0d" sha1="e9d439ca3755fca7fd3d3b1dacb6ec8513ba5012"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 11).bin" size="21231504" crc="65312d9d" md5="11b1f8599e36fb489de93783fe12717c" sha1="cc215da2a1c390085601bf924b951076c47c88cd"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 12).bin" size="26189520" crc="7c402f25" md5="664c921a35f69d63adfbfb62108e49e1" sha1="a8c39282c5ec9d35376929759af9b9b114a1144a"/>
-		<rom name="Shanghai - Second Dynasty (Europe) (Track 13).bin" size="148533504" crc="6d0eec80" md5="0ec9cafc8aa200b31db99d105bc3ef20" sha1="b6c7407ea75e82d1a9f7ff508b832f9703e1ff8b"/>
-		<rom name="Shanghai - Second Dynasty (Europe).cue" size="1659" crc="3bff1a4c" md5="1ed7f48ccb832a787761ba85af675f8c" sha1="f7b94da0c95701157d2c5bd7ecd0256eeb4ddb95"/>
+		<description>Shanghai: Second Dynasty (USA)</description>
+		<serial>1000930.101.US</serial>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 01).bin" size="422395680" crc="be1f371a" md5="7a8f62c5724982d7c6cb0a36900f23b6" sha1="afcb31c33557ffa34b1beed14dbfbd08240c7fdd"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 02).bin" size="18004560" crc="0d238cb8" md5="596c6a8b4a717cc3d9e76de1820ef882" sha1="f2f699545ec1d0255f07484dde4eb2016f8c5df5"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 03).bin" size="16939104" crc="ac600def" md5="93c47a990b6ebb6d37c48b7c2b1ea342" sha1="81b66a19a83dd0a41e684a120a3a1674c581a460"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 04).bin" size="25853184" crc="285815c7" md5="e52884389b79c049e53ce320cedc9cea" sha1="f7a752db7bc76b03f529a2ce66367dd433cce525"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 05).bin" size="21871248" crc="754a18d7" md5="0b54637908fba149a7c0d7fcae944103" sha1="593bf1fb2cbeade43973f8a3ee3fe448e83b7052"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 06).bin" size="22986096" crc="4c6c02bc" md5="9e35a1f579459676da449532bf3d0e42" sha1="5d4ef0813cf5952664aee0b2474287531bb06ec0"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 07).bin" size="21452592" crc="5f9a464d" md5="a598ed8483c64d18b73b5d458e2d361d" sha1="007daaf56f64cf64a2d20a241d7eca551a6908af"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 08).bin" size="22141728" crc="25d59324" md5="401ba9d4984e89bfc24528051d35acd0" sha1="4c460bb4e987fcff40f12af580ef8d3a7ec73870"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 09).bin" size="24030384" crc="847a0684" md5="903c69efb7b1b38a724ac4972c8b24fc" sha1="bf68ae6b99ccdcbc83fba565c2bdc4983201caf5"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 10).bin" size="21666624" crc="cae7109e" md5="43c332c81551aa78a1eed41818a2189d" sha1="e8b987f0edf1df3a2840735055bf0e17242f41d8"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 11).bin" size="21231504" crc="d7a3702f" md5="f3f2f03620a1c28617ce02bba6cad639" sha1="db36a618e12503e131f9da7f3b862a14c6444dca"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 12).bin" size="26189520" crc="2e9bbfa1" md5="161bd80aeeb402c985789cad68cba761" sha1="f61d34d2a58186175bd5d279e133309362f7dc0b"/>
+		<rom name="Shanghai - Second Dynasty (USA) (Track 13).bin" size="137949504" crc="e68594e9" md5="805e81dd4927252f1e76d7d7f9fe5424" sha1="aaa4e082a84eca57f63fb3a6a61edff6f4388de3"/>
+		<rom name="Shanghai - Second Dynasty (USA).cue" size="1620" crc="0d2869f0" md5="6344868ff9afeae54634a0c14fa176d0" sha1="fd7fae53abed0cdb219a274246da9c652eec82c2"/>
 	</game>
 	<game name="Shanghai Dafuweng 1940 (Taiwan)" id="96482">
 		<category>Games</category>
@@ -175234,6 +175344,11 @@
 		<rom name="Steel Tide (USA).bin" size="168440832" crc="77a00b41" md5="4c5b9147b9df0bdb9c210cd85ef62caa" sha1="e656d6c98ec4a663f880b1b9439757dad0b39ddd"/>
 		<rom name="Steel Tide (USA).cue" size="82" crc="9254e0d6" md5="7161f8acb834a3a0b214c67eedd9b40f" sha1="2a792219519664092b31e0c2ef491979cb092c14"/>
 	</game>
+	<game name="Steelrising (Europe)" id="139898">
+		<category>Games</category>
+		<description>Steelrising (Europe)</description>
+		<rom name="Steelrising (Europe).iso" size="1626112" crc="a8784b95" md5="f3a7739ae9881942ea365bd158c90ae1" sha1="6ec6c1649c23a379bbb47ad780e8e665a8ff569e"/>
+	</game>
 	<game name="Stein der Weisen, Der (Germany)" id="122728">
 		<category>Games</category>
 		<description>Stein der Weisen, Der (Germany)</description>
@@ -182472,6 +182587,12 @@
 		<rom name="This Means War! (USA) (Track 18).bin" size="81447408" crc="8816d1e8" md5="4b0198ec5e39beeee34550c700625062" sha1="640a92c6788c77d7aea7e9ac41491dc04429fb85"/>
 		<rom name="This Means War! (USA) (Track 19).bin" size="2862384" crc="2de13729" md5="1031eb826968744a1564c7ea2067b78e" sha1="d460109edf9c7df8c8d86be51568dcad10060952"/>
 		<rom name="This Means War! (USA).cue" size="2186" crc="40d596c1" md5="ea6e44631bc4101f6e35126ba67ee1a4" sha1="afa7ef94feb00a20d05624631864f73160d93290"/>
+	</game>
+	<game name="This War of Mine (Poland)" id="139899">
+		<category>Games</category>
+		<description>This War of Mine (Poland)</description>
+		<serial>05209720LB</serial>
+		<rom name="This War of Mine (Poland).iso" size="850657280" crc="24ad8bfd" md5="2e4d0cb4093e9228897337003fbab051" sha1="549528aa54197a2577b7d73915e9d932c2e97bf1"/>
 	</game>
 	<game name="Thomas &amp; Friends - Building the New Line (USA)" id="69629">
 		<category>Games</category>
@@ -197716,6 +197837,12 @@
 		<description>Walt Disney Pictures Presents Meet the Robinsons (USA)</description>
 		<rom name="Walt Disney Pictures Presents Meet the Robinsons (USA).iso" size="1531478016" crc="c6ea7ea4" md5="5f1aaf2ed156bda1b29b2d3b2b4c6b27" sha1="25373b9bb026e4da1807b8390fa31fecaf12afd6"/>
 	</game>
+	<game name="Walt Disney Presenta Descubriendo a los Robinsons (Argentina)" id="139941">
+		<category>Games</category>
+		<description>Walt Disney Presenta Descubriendo a los Robinsons (Argentina)</description>
+		<version>1.0</version>
+		<rom name="Walt Disney Presenta Descubriendo a los Robinsons (Argentina).iso" size="1521483776" crc="843d9e96" md5="be41163250ad99acb6b45c7cb6ec860b" sha1="f6a9bd39abb02eeabb412970cbaf501350883917"/>
+	</game>
 	<game name="Walt Disney World Quest - Magical Racing Tour (Europe)" id="55768">
 		<category>Games</category>
 		<description>Walt Disney World Quest: Magical Racing Tour (Europe)</description>
@@ -209872,26 +209999,26 @@
 		<version>1.0</version>
 		<rom name="Zolushka - Neporochnyj son (Russia).iso" size="1054670848" crc="5f1e8082" md5="778c40388ad41be8347d150601ac6c4c" sha1="9364ac58a4d8b9747bb5780458380b25545ffc44"/>
 	</game>
-	<game name="Zombi (Germany) (Disc 1)" id="97558">
+	<game name="Zombi (Europe) (Disc 1)" id="97558">
 		<category>Games</category>
-		<description>Zombi (Germany) (Disc 1)</description>
+		<description>Zombi (Europe) (Disc 1)</description>
 		<serial>300083052</serial>
 		<version>1.10</version>
-		<rom name="Zombi (Germany) (Disc 1).iso" size="8527413248" crc="3a9005ab" md5="c1edc093f990bd997d2b16e3cf73b37f" sha1="f485171a41264526a0908f0c3d57d0092b26f0ec"/>
+		<rom name="Zombi (Europe) (Disc 1).iso" size="8527413248" crc="3a9005ab" md5="c1edc093f990bd997d2b16e3cf73b37f" sha1="f485171a41264526a0908f0c3d57d0092b26f0ec"/>
 	</game>
-	<game name="Zombi (Germany) (Disc 2)" id="97559">
+	<game name="Zombi (Europe) (Disc 2)" id="97559">
 		<category>Games</category>
-		<description>Zombi (Germany) (Disc 2)</description>
+		<description>Zombi (Europe) (Disc 2)</description>
 		<serial>300083053</serial>
 		<version>1.10</version>
-		<rom name="Zombi (Germany) (Disc 2).iso" size="8527675392" crc="44c52f18" md5="c3eae06fe1875c854e89a673f168aee8" sha1="cc2d461e495f8db2853bf17d32721e6b30928f81"/>
+		<rom name="Zombi (Europe) (Disc 2).iso" size="8527675392" crc="44c52f18" md5="c3eae06fe1875c854e89a673f168aee8" sha1="cc2d461e495f8db2853bf17d32721e6b30928f81"/>
 	</game>
-	<game name="Zombi (Germany) (Disc 3)" id="97560">
+	<game name="Zombi (Europe) (Disc 3)" id="97560">
 		<category>Games</category>
-		<description>Zombi (Germany) (Disc 3)</description>
+		<description>Zombi (Europe) (Disc 3)</description>
 		<serial>300083054</serial>
 		<version>1.10</version>
-		<rom name="Zombi (Germany) (Disc 3).iso" size="6273630208" crc="036a11ab" md5="5af0fa694378b63a39040adb13418a4b" sha1="9e7d772ed83b77242161f29c11a9b79e68884562"/>
+		<rom name="Zombi (Europe) (Disc 3).iso" size="6273630208" crc="036a11ab" md5="5af0fa694378b63a39040adb13418a4b" sha1="9e7d772ed83b77242161f29c11a9b79e68884562"/>
 	</game>
 	<game name="Zombie Bowl-o-Rama (USA)" id="96398">
 		<category>Games</category>
