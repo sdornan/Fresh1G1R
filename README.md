@@ -62,6 +62,23 @@ All DAT files are updated daily, so you can always get the latest filtered colle
 
 ---
 
+## DAT retention
+
+Automation keeps the newest source catalog for each system in
+`daily-virgin-dat/{collection}/` and one processed catalog per system in
+`daily-1g1r-dat/{configuration}/{collection}/`. Legacy Redump names containing
+`- Datfile (serial,version) (count)` are normalized to the same system as newer
+`- Datfile (count)` names.
+
+Existing duplicates are consolidated on the next automation run, using the
+source version in each XML header rather than the game count, filesystem
+modification time, or Retool processing date. Processed catalogs use the stable
+Fresh1G1R filename. Unreadable or undated groups are preserved with a warning.
+Configuration folders, collections, and format variants remain separate.
+Cached input catalogs remain available if a download fails.
+
+Run all cleanup and report tests with `python3 -m unittest discover -s tests -v`.
+
 ## Report retention
 
 Each system has one current report in `report/{configuration}/{collection}/`,
@@ -87,5 +104,7 @@ Run the report tests with `python3 -m unittest discover -s tests -v`.
 - **[No-Intro](https://www.no-intro.org)** — For providing cartridge-based DAT files
 
 ---
+
+
 
 
