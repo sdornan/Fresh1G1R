@@ -3,20 +3,20 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (337) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-01 16-18-09) (Retool)</description>
-		<version>2026-11-01 16-18-09</version>
-		<date>2026-11-02 09-12-07</date>
+		<description>Sony - PlayStation 5 (338) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-02 21-32-10) (Retool)</description>
+		<version>2026-11-02 21-32-10</version>
+		<date>2026-11-03 09-26-32</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
-	<game name="007 First Light (USA) (En,Fr,Es,Pt)" id="134898">
+	<game name="007 First Light (USA, Japan) (En,Fr,Es,Pt)" id="134898">
 		<category>Games</category>
-		<description>007 First Light (USA) (En,Fr,Es,Pt)</description>
-		<serial>PPSA-11386/US</serial>
+		<description>007 First Light (USA, Japan) (En,Fr,Es,Pt)</description>
+		<serial>PPSA-11386/US, ELJM 30834</serial>
 		<version>01.02</version>
-		<rom name="007 First Light (USA) (En,Fr,Es,Pt).iso" size="47827910656" crc="d33378e8" md5="91674e56dd67ee5d8ce548633663cc9c" sha1="8c78a4aa7c64a4db9636d3b10c62dc590fe53454"/>
+		<rom name="007 First Light (USA, Japan) (En,Fr,Es,Pt).iso" size="47827910656" crc="d33378e8" md5="91674e56dd67ee5d8ce548633663cc9c" sha1="8c78a4aa7c64a4db9636d3b10c62dc590fe53454"/>
 	</game>
 	<game name="3D Billiards - Pool &amp; Snooker (Europe)" id="101371">
 		<category>Games</category>
@@ -493,6 +493,13 @@
 		<serial>PPSA-02442</serial>
 		<version>01.00</version>
 		<rom name="Diablo IV (USA).iso" size="90173865984" crc="fa4c1088" md5="d0e9bfec9004b6cd6f1f9a6ecd036610" sha1="bf4a3b21df973b92cde76c468f0be425ef427c8c"/>
+	</game>
+	<game name="Disney - Pixar Toy Story - Retro Roundup! + Toy Story 3 Complete Edition (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl)" id="139979">
+		<category>Games</category>
+		<description>Disney · Pixar Toy Story: Retro Roundup! + Toy Story 3 Complete Edition (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl)</description>
+		<serial>PPSA-39067/EU</serial>
+		<version>01.00</version>
+		<rom name="Disney - Pixar Toy Story - Retro Roundup! + Toy Story 3 Complete Edition (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl).iso" size="40008351744" crc="b9ae2e3e" md5="071bbefdfea8be64e80b0e420707d0a6" sha1="2dc74790b42c39db9412d93bd2fc18216d9938cc"/>
 	</game>
 	<game name="Disney Epic Mickey - Rebrushed (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Zh,Ko,Pl)" id="133868">
 		<category>Games</category>
@@ -1110,12 +1117,12 @@
 		<version>01.00</version>
 		<rom name="LEGO 2K Drive (USA).iso" size="40008351744" crc="09bbdeaf" md5="6afe04ee4468cd541572fe2036bea968" sha1="baeff0420294dbc4d73278b62e990bfffd25c840"/>
 	</game>
-	<game name="LEGO Batman - Legacy of the Dark Knight (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar)" id="134264">
+	<game name="LEGO Batman - Legacy of the Dark Knight (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar)" id="134264">
 		<category>Games</category>
-		<description>LEGO Batman: Legacy of the Dark Knight (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar)</description>
-		<serial>PPSA-16833/US, PPSA-16833/EU</serial>
+		<description>LEGO Batman: Legacy of the Dark Knight (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar)</description>
+		<serial>PPSA-16833/US, PPSA-16833/EU, ELJM 30877</serial>
 		<version>01.00</version>
-		<rom name="LEGO Batman - Legacy of the Dark Knight (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar).iso" size="40008351744" crc="b170da4d" md5="c7e08cd9b9a2afc6cb48db0826bb1afd" sha1="89f74e62744acd628ff504b19389776ca7b70ce2"/>
+		<rom name="LEGO Batman - Legacy of the Dark Knight (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar).iso" size="40008351744" crc="b170da4d" md5="c7e08cd9b9a2afc6cb48db0826bb1afd" sha1="89f74e62744acd628ff504b19389776ca7b70ce2"/>
 	</game>
 	<game name="LEGO Brawls (USA)" id="102539">
 		<category>Games</category>

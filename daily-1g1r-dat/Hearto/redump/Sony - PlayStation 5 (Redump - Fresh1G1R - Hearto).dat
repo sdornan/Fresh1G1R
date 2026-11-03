@@ -3,20 +3,20 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (387) (-y) [-aAbBcefkmMoprv] (2026-11-01 16-18-09) (Retool)</description>
-		<version>2026-11-01 16-18-09</version>
-		<date>2026-11-02 09-07-35</date>
+		<description>Sony - PlayStation 5 (391) (-y) [-aAbBcefkmMoprv] (2026-11-02 21-32-10) (Retool)</description>
+		<version>2026-11-02 21-32-10</version>
+		<date>2026-11-03 09-18-06</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
-	<game name="007 First Light (USA) (En,Fr,Es,Pt)" id="134898">
+	<game name="007 First Light (USA, Japan) (En,Fr,Es,Pt)" id="134898">
 		<category>Games</category>
-		<description>007 First Light (USA) (En,Fr,Es,Pt)</description>
-		<serial>PPSA-11386/US</serial>
+		<description>007 First Light (USA, Japan) (En,Fr,Es,Pt)</description>
+		<serial>PPSA-11386/US, ELJM 30834</serial>
 		<version>01.02</version>
-		<rom name="007 First Light (USA) (En,Fr,Es,Pt).iso" size="47827910656" crc="d33378e8" md5="91674e56dd67ee5d8ce548633663cc9c" sha1="8c78a4aa7c64a4db9636d3b10c62dc590fe53454"/>
+		<rom name="007 First Light (USA, Japan) (En,Fr,Es,Pt).iso" size="47827910656" crc="d33378e8" md5="91674e56dd67ee5d8ce548633663cc9c" sha1="8c78a4aa7c64a4db9636d3b10c62dc590fe53454"/>
 	</game>
 	<game name="3D Billiards - Pool &amp; Snooker (Europe)" id="101371">
 		<category>Games</category>
@@ -24,6 +24,13 @@
 		<serial>PPSA-02799</serial>
 		<version>01.01</version>
 		<rom name="3D Billiards - Pool &amp; Snooker (Europe).iso" size="40008351744" crc="93824785" md5="d3a216f3d99a5d9e9a0bba196f9ab454" sha1="624370aacf4d41744aa16240d7996a854b27c833"/>
+	</game>
+	<game name="70-nendaifuu Robot Anime Geppy-X (Japan)" id="139985">
+		<category>Games</category>
+		<description>70-nendaifuu Robot Anime Geppy-X (Japan)</description>
+		<serial>ELJM 30851</serial>
+		<version>01.02</version>
+		<rom name="70-nendaifuu Robot Anime Geppy-X (Japan).iso" size="40008351744" crc="63507ca7" md5="691d36a6c886d429d4675a2349a49f50" sha1="ad4597ea81e04133986c9e19c82dcd94ab09356f"/>
 	</game>
 	<game name="Absolum (Japan)" id="139186">
 		<category>Games</category>
@@ -599,6 +606,13 @@
 		<version>01.00</version>
 		<rom name="Diablo IV (USA).iso" size="90173865984" crc="fa4c1088" md5="d0e9bfec9004b6cd6f1f9a6ecd036610" sha1="bf4a3b21df973b92cde76c468f0be425ef427c8c"/>
 	</game>
+	<game name="Disney - Pixar Toy Story - Retro Roundup! + Toy Story 3 Complete Edition (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl)" id="139979">
+		<category>Games</category>
+		<description>Disney · Pixar Toy Story: Retro Roundup! + Toy Story 3 Complete Edition (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl)</description>
+		<serial>PPSA-39067/EU</serial>
+		<version>01.00</version>
+		<rom name="Disney - Pixar Toy Story - Retro Roundup! + Toy Story 3 Complete Edition (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl).iso" size="40008351744" crc="b9ae2e3e" md5="071bbefdfea8be64e80b0e420707d0a6" sha1="2dc74790b42c39db9412d93bd2fc18216d9938cc"/>
+	</game>
 	<game name="Disney Epic Mickey - Rebrushed (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Zh,Ko,Pl)" id="133868">
 		<category>Games</category>
 		<description>Disney Epic Mickey: Rebrushed (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Zh,Ko,Pl)</description>
@@ -991,6 +1005,13 @@
 		<version>01.02</version>
 		<rom name="Games Advent Calendar 2024 (USA).iso" size="40008351744" crc="4c817beb" md5="f5c8c7eb03882af8b72d882b0664c0d6" sha1="769892a48fb2ad7f5e4b0baa04437cc0441962d2"/>
 	</game>
+	<game name="Ganbare Goemon Daishuugou! (Japan)" id="139984">
+		<category>Games</category>
+		<description>Ganbare Goemon Daishuugou! (Japan)</description>
+		<serial>ELJM 30911</serial>
+		<version>01.00</version>
+		<rom name="Ganbare Goemon Daishuugou! (Japan).iso" size="40008351744" crc="7270dbec" md5="95d39f11a77ad1a52e29f451050c501d" sha1="86a43c8a15d3de26f7e7a652a2d3711e9fecee0d"/>
+	</game>
 	<game name="Gears of War - Reloaded (USA, Europe)" id="134354">
 		<category>Games</category>
 		<description>Gears of War: Reloaded (USA, Europe)</description>
@@ -1327,12 +1348,12 @@
 		<version>01.00</version>
 		<rom name="LEGO 2K Drive (USA).iso" size="40008351744" crc="09bbdeaf" md5="6afe04ee4468cd541572fe2036bea968" sha1="baeff0420294dbc4d73278b62e990bfffd25c840"/>
 	</game>
-	<game name="LEGO Batman - Legacy of the Dark Knight (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar)" id="134264">
+	<game name="LEGO Batman - Legacy of the Dark Knight (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar)" id="134264">
 		<category>Games</category>
-		<description>LEGO Batman: Legacy of the Dark Knight (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar)</description>
-		<serial>PPSA-16833/US, PPSA-16833/EU</serial>
+		<description>LEGO Batman: Legacy of the Dark Knight (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar)</description>
+		<serial>PPSA-16833/US, PPSA-16833/EU, ELJM 30877</serial>
 		<version>01.00</version>
-		<rom name="LEGO Batman - Legacy of the Dark Knight (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar).iso" size="40008351744" crc="b170da4d" md5="c7e08cd9b9a2afc6cb48db0826bb1afd" sha1="89f74e62744acd628ff504b19389776ca7b70ce2"/>
+		<rom name="LEGO Batman - Legacy of the Dark Knight (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Ar).iso" size="40008351744" crc="b170da4d" md5="c7e08cd9b9a2afc6cb48db0826bb1afd" sha1="89f74e62744acd628ff504b19389776ca7b70ce2"/>
 	</game>
 	<game name="LEGO Brawls (USA)" id="102539">
 		<category>Games</category>
@@ -1725,6 +1746,13 @@
 		<serial>PPSA-28002/US</serial>
 		<version>01.02</version>
 		<rom name="Ninja Gaiden - Ragebound (USA).iso" size="40008351744" crc="d7f83c70" md5="c3e736b5ddd0293bf6b89f1288006850" sha1="2cbf6647e6f579ccaa544d0c8f5aaf73f0acca57"/>
+	</game>
+	<game name="Ninja Gaiden 4 (Japan)" id="139983">
+		<category>Games</category>
+		<description>Ninja Gaiden 4 (Japan)</description>
+		<serial>ELJM 30734</serial>
+		<version>01.00</version>
+		<rom name="Ninja Gaiden 4 (Japan).iso" size="40008351744" crc="84a8ed5e" md5="82902a9136d9828011ef8a6d48db9b2c" sha1="561b98e800d1bf5b72f1a11eeab1f37574d92927"/>
 	</game>
 	<game name="No More Heroes III (Europe) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko)" id="113755">
 		<category>Games</category>
