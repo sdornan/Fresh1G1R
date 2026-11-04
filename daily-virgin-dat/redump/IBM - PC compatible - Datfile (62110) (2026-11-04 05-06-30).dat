@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62096) (2026-11-03 08-36-30)</description>
-		<version>2026-11-03 08-36-30</version>
-		<date>2026-11-03 08-36-30</date>
+		<description>IBM - PC compatible - Datfile (62110) (2026-11-04 05-06-30)</description>
+		<version>2026-11-04 05-06-30</version>
+		<date>2026-11-04 05-06-30</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -921,6 +921,12 @@
 		<description>123: Riian Nap Lek Duuay Pleng (Thailand)</description>
 		<rom name="123 - Riian Nap Lek Duuay Pleng (Thailand).cue" size="108" crc="9bde31b2" md5="463877b5f9b636f6188b3a651ca1b5d7" sha1="d53727d4277ee8450960f9a7e1259a9428f290fd"/>
 		<rom name="123 - Riian Nap Lek Duuay Pleng (Thailand).bin" size="782764416" crc="1355b15d" md5="6f787003655872c09c901dfb5a123f74" sha1="4483d6edb6ec230bfc2fa727271e7aab1aafc5fd"/>
+	</game>
+	<game name="123Movies2PSP (USA)" id="139997">
+		<category>Applications</category>
+		<description>123Movies2PSP (USA)</description>
+		<rom name="123Movies2PSP (USA).cue" size="85" crc="e57d6d0c" md5="a4a1c83c4af200cb56b52dd3451aa812" sha1="a8cfce7ff36a5ea28a98758ed8130299d177c2de"/>
+		<rom name="123Movies2PSP (USA).bin" size="12503232" crc="0accdcf1" md5="2ac6e67e56440bae83d51d0540475fd6" sha1="c172ee473e6870113a35efba942b7c7c6a8e69ed"/>
 	</game>
 	<game name="13 podvig Gerakla (Russia)" id="107319">
 		<category>Games</category>
@@ -17043,6 +17049,11 @@
 		<version>1.08.04.23</version>
 		<description>Almaznyj mech-Derevyannyj mech (Russia) (Alt)</description>
 		<rom name="Almaznyj mech-Derevyannyj mech (Russia) (Alt).iso" size="4456448000" crc="ed4aef48" md5="742dc12b618dec49a53c658890e80d72" sha1="30a4122160ea5183f560bd64f24a6f3890e806cd"/>
+	</game>
+	<game name="Alone in the Dark (Europe) (2024)" id="140004">
+		<category>Games</category>
+		<description>Alone in the Dark (Europe) (2024)</description>
+		<rom name="Alone in the Dark (Europe) (2024).iso" size="8408432640" crc="895f97c1" md5="203049c618ffd336545458fb5125b8a0" sha1="27da9f09521e924d364ea2739439ce4f6d014cf5"/>
 	</game>
 	<game name="Alone in the Dark (Europe) (En,Fr,De,Es,It) (2008)" id="35487">
 		<category>Games</category>
@@ -79999,12 +80010,26 @@
 		<description>Company of Heroes (Australia) (Assets Disk)</description>
 		<rom name="Company of Heroes (Australia) (Assets Disk).iso" size="3522035712" crc="5d26bf19" md5="9ed4a8f5c3c64b90c6bed669f1edf755" sha1="27e13bb8db932814db40478268ce38fe50aac010"/>
 	</game>
+	<game name="Company of Heroes (Europe) (En,Fr,De,Es,It) (Disc 1) (MSI OEM)" id="140012">
+		<category>Games</category>
+		<serial>G71-VGL1XX1-SH0</serial>
+		<version>1.0.0.10332</version>
+		<description>Company of Heroes (Europe) (En,Fr,De,Es,It) (Disc 1) (MSI OEM)</description>
+		<rom name="Company of Heroes (Europe) (En,Fr,De,Es,It) (Disc 1) (MSI OEM).iso" size="3736707072" crc="57ee3aca" md5="87695ae36500b343da541d3bc1f94e69" sha1="aefbc1296bc52bc5332ce9cc87aa6be73eddcad2"/>
+	</game>
 	<game name="Company of Heroes (Europe) (En,Fr,De,Es,It) (Disc 1) (OEM)" id="88971">
 		<category>Games</category>
 		<serial>4 005209 096362</serial>
 		<version>1.0</version>
 		<description>Company of Heroes (Europe) (En,Fr,De,Es,It) (Disc 1) (OEM)</description>
 		<rom name="Company of Heroes (Europe) (En,Fr,De,Es,It) (Disc 1) (OEM).iso" size="3655501824" crc="5572631b" md5="61bef8c349c610dbd11ea1148fc33a09" sha1="5bc8529c47d6aa0f61f27ca10c871937a2b286aa"/>
+	</game>
+	<game name="Company of Heroes (Europe) (En,Fr,De,Es,It) (Disc 2) (MSI OEM)" id="140013">
+		<category>Games</category>
+		<serial>G71-VGL1XX2-SH0</serial>
+		<version>1.0.0.10332</version>
+		<description>Company of Heroes (Europe) (En,Fr,De,Es,It) (Disc 2) (MSI OEM)</description>
+		<rom name="Company of Heroes (Europe) (En,Fr,De,Es,It) (Disc 2) (MSI OEM).iso" size="2830475264" crc="20525a9f" md5="af1d60a9ccfbef78910c070b8be3f2a6" sha1="5faa1a5c54654b0ea4a670131bb69c1c3bfabc3d"/>
 	</game>
 	<game name="Company of Heroes (Europe) (En,Fr,De,Es,It) (Disc 2) (OEM)" id="88972">
 		<category>Games</category>
@@ -150183,41 +150208,6 @@
 		<rom name="Fisher-Price Dream Dollhouse - Where Dreams Come to Life (USA).cue" size="151" crc="6711755f" md5="9bd194c508f58df523709ebb3947ed1a" sha1="ecbec0bbceac58961a3361f3803ac70b55dfe5b3"/>
 		<rom name="Fisher-Price Dream Dollhouse - Where Dreams Come to Life (USA).bin" size="159698448" crc="5fb05f7a" md5="c52badc313d51083cbffc52ff66279b6" sha1="0ab5a81e698b970a9ef0a817dcefa847785012c3"/>
 	</game>
-	<game name="Fisher-Price Great Adventures Pirate Ship (USA)" id="59569">
-		<category>Games</category>
-		<version>1.0</version>
-		<description>Fisher-Price Great Adventures Pirate Ship (USA)</description>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA).cue" size="877" crc="65439a5f" md5="ca48d0b817f2486799cb4b3493f73673" sha1="d6415f5c83cc20af4847a6a20a6a0e659535752b"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Track 1).bin" size="363090000" crc="6f3dbfd5" md5="a57c47261b051b8a28e786009a2e2b42" sha1="762fa6d6538977017e7d5fa981b6115f70759ffa"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Track 2).bin" size="12395040" crc="8d5423aa" md5="ce1eb6dde7a8a721f53dafed0c486aac" sha1="4d736922b99829ed2e2b792020ed9165583898a8"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Track 3).bin" size="7985040" crc="94926484" md5="84edf85752c1e3620402f21f740731bf" sha1="2212c7f82ed272506713567e796ce97b5abfec37"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Track 4).bin" size="6905472" crc="eb2b18c9" md5="9537a96b989dd4820a291d71b31cbdfd" sha1="513c6c91e10aa1e2aff2841b0e0c34a568ce2827"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Track 5).bin" size="7034832" crc="70ee06dd" md5="86abc5e9e5bb5b11008cce342d772786" sha1="fa4f405192d186f3c94185205dd389c26bcb63aa"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Track 6).bin" size="6952512" crc="b881e7c8" md5="04304a6d91a98e95875280289412e460" sha1="d2153918ca880a5fd852b544ecb464f1caf6d6e8"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Track 7).bin" size="9734928" crc="dd70ca0d" md5="7a91464d968d8dccf1b555edb2faf7ec" sha1="5106721a98acb0520a1aa9426fe25f13a7a3bd16"/>
-	</game>
-	<game name="Fisher-Price Great Adventures Pirate Ship (USA) (Alt)" id="90347">
-		<category>Games</category>
-		<serial>03832</serial>
-		<version>1.0</version>
-		<description>Fisher-Price Great Adventures Pirate Ship (USA) (Alt)</description>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Alt).cue" size="919" crc="63151f54" md5="a4cb2efa683c6a871b72166c3844559b" sha1="10d2342734ce1d7fbda6daa84cc1ad35507e7b40"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Alt) (Track 1).bin" size="363090000" crc="6f3dbfd5" md5="a57c47261b051b8a28e786009a2e2b42" sha1="762fa6d6538977017e7d5fa981b6115f70759ffa"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Alt) (Track 2).bin" size="12395040" crc="6429aa19" md5="4342f5120e92b3548bedeb1683a94624" sha1="ee5f010b0cbba030e0f7fc6f0ecdce063eb6b544"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Alt) (Track 3).bin" size="7985040" crc="d957edc0" md5="838981fdb51d77d82e15895d19b26481" sha1="a195694b7d89e459401cd0c4417514676c9c543d"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Alt) (Track 4).bin" size="6905472" crc="b857b572" md5="1971218ac54c37bd7caf5f5cbb75eba3" sha1="7ddebf7e672f25317c331214eae092caeebf5eff"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Alt) (Track 5).bin" size="7034832" crc="7e93d8c2" md5="b6ddac573f9471f952b5655cb6564fc1" sha1="9d7a64e4e88b4a7efe48282090134c368a0fe27f"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Alt) (Track 6).bin" size="6952512" crc="acf7f62a" md5="21e4b5555e7d9ba1466a33081334843c" sha1="a04ce7787a89645beade074742059eb714876026"/>
-		<rom name="Fisher-Price Great Adventures Pirate Ship (USA) (Alt) (Track 7).bin" size="10087728" crc="e3bf2e5e" md5="19825d1a3ea3ea2ac66db727eff6928c" sha1="17d0413510aa629cf627e517e05afe42e8094e7e"/>
-	</game>
-	<game name="Fisher-Price Great Adventures Wild Western Town (Europe)" id="98141">
-		<category>Games</category>
-		<serial>FPW844AB-CD</serial>
-		<version>1.0</version>
-		<description>Fisher-Price Great Adventures Wild Western Town (Europe)</description>
-		<rom name="Fisher-Price Great Adventures Wild Western Town (Europe).cue" size="122" crc="fae67399" md5="2c75f31426f59bf412ae1b9c437c5d7b" sha1="32517cf27bd4083ce00f4ae1f6bd0cc2908dd6cd"/>
-		<rom name="Fisher-Price Great Adventures Wild Western Town (Europe).bin" size="237368544" crc="387c3eb9" md5="5c823b138aad457ca265110d7c74ecb2" sha1="0a4c374d56ebeaf160ba5b522511c4e26220856e"/>
-	</game>
 	<game name="Fisher-Price Little People Christmas Activity Center (USA)" id="59565">
 		<category>Games</category>
 		<serial>FPCHSMS-CD</serial>
@@ -179397,6 +179387,41 @@
 		<description>Great Adventures by Fisher-Price: Castle (USA) (1998)</description>
 		<rom name="Great Adventures by Fisher-Price - Castle (USA) (1998).cue" size="143" crc="ac1cc5ef" md5="638cba1445422a765b2bee765687a35d" sha1="db771191e6607090933a1785abc7b1c5e948a592"/>
 		<rom name="Great Adventures by Fisher-Price - Castle (USA) (1998).bin" size="616496832" crc="5677fa10" md5="b7659c06d7a4808fa6689c9f119cfb28" sha1="a272d8c9ebf5472d81b0c6465977b410d652c1e7"/>
+	</game>
+	<game name="Great Adventures by Fisher-Price - Pirate Ship (USA)" id="59569">
+		<category>Games</category>
+		<version>1.0</version>
+		<description>Great Adventures by Fisher-Price: Pirate Ship (USA)</description>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA).cue" size="912" crc="ecc65e8e" md5="cef50e4d0a2802bfa3ec45da519b1bc2" sha1="81612564a755b22797c14a32204869ccab3aa22a"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Track 1).bin" size="363090000" crc="6f3dbfd5" md5="a57c47261b051b8a28e786009a2e2b42" sha1="762fa6d6538977017e7d5fa981b6115f70759ffa"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Track 2).bin" size="12395040" crc="8d5423aa" md5="ce1eb6dde7a8a721f53dafed0c486aac" sha1="4d736922b99829ed2e2b792020ed9165583898a8"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Track 3).bin" size="7985040" crc="94926484" md5="84edf85752c1e3620402f21f740731bf" sha1="2212c7f82ed272506713567e796ce97b5abfec37"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Track 4).bin" size="6905472" crc="eb2b18c9" md5="9537a96b989dd4820a291d71b31cbdfd" sha1="513c6c91e10aa1e2aff2841b0e0c34a568ce2827"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Track 5).bin" size="7034832" crc="70ee06dd" md5="86abc5e9e5bb5b11008cce342d772786" sha1="fa4f405192d186f3c94185205dd389c26bcb63aa"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Track 6).bin" size="6952512" crc="b881e7c8" md5="04304a6d91a98e95875280289412e460" sha1="d2153918ca880a5fd852b544ecb464f1caf6d6e8"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Track 7).bin" size="9734928" crc="dd70ca0d" md5="7a91464d968d8dccf1b555edb2faf7ec" sha1="5106721a98acb0520a1aa9426fe25f13a7a3bd16"/>
+	</game>
+	<game name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Alt)" id="90347">
+		<category>Games</category>
+		<serial>03832</serial>
+		<version>1.0</version>
+		<description>Great Adventures by Fisher-Price: Pirate Ship (USA) (Alt)</description>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Alt).cue" size="954" crc="96adf68c" md5="dc6f6555f48d1381271cd90cf74c5741" sha1="4b2f07174fcca3ec9a4a515f11af2d3579433ffc"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Alt) (Track 1).bin" size="363090000" crc="6f3dbfd5" md5="a57c47261b051b8a28e786009a2e2b42" sha1="762fa6d6538977017e7d5fa981b6115f70759ffa"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Alt) (Track 2).bin" size="12395040" crc="6429aa19" md5="4342f5120e92b3548bedeb1683a94624" sha1="ee5f010b0cbba030e0f7fc6f0ecdce063eb6b544"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Alt) (Track 3).bin" size="7985040" crc="d957edc0" md5="838981fdb51d77d82e15895d19b26481" sha1="a195694b7d89e459401cd0c4417514676c9c543d"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Alt) (Track 4).bin" size="6905472" crc="b857b572" md5="1971218ac54c37bd7caf5f5cbb75eba3" sha1="7ddebf7e672f25317c331214eae092caeebf5eff"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Alt) (Track 5).bin" size="7034832" crc="7e93d8c2" md5="b6ddac573f9471f952b5655cb6564fc1" sha1="9d7a64e4e88b4a7efe48282090134c368a0fe27f"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Alt) (Track 6).bin" size="6952512" crc="acf7f62a" md5="21e4b5555e7d9ba1466a33081334843c" sha1="a04ce7787a89645beade074742059eb714876026"/>
+		<rom name="Great Adventures by Fisher-Price - Pirate Ship (USA) (Alt) (Track 7).bin" size="10087728" crc="e3bf2e5e" md5="19825d1a3ea3ea2ac66db727eff6928c" sha1="17d0413510aa629cf627e517e05afe42e8094e7e"/>
+	</game>
+	<game name="Great Adventures by Fisher-Price - Wild Western Town (Europe)" id="98141">
+		<category>Games</category>
+		<serial>FPW844AB-CD</serial>
+		<version>1.0</version>
+		<description>Great Adventures by Fisher-Price: Wild Western Town (Europe)</description>
+		<rom name="Great Adventures by Fisher-Price - Wild Western Town (Europe).cue" size="127" crc="f1c78a06" md5="6a771e9479083ad26b6f123ded5e1894" sha1="03d1de3fbb8c89b2e39ca25d0846772a99cc8eb9"/>
+		<rom name="Great Adventures by Fisher-Price - Wild Western Town (Europe).bin" size="237368544" crc="387c3eb9" md5="5c823b138aad457ca265110d7c74ecb2" sha1="0a4c374d56ebeaf160ba5b522511c4e26220856e"/>
 	</game>
 	<game name="Great Adventures by Fisher-Price - Wild Western Town (USA)" id="84921">
 		<category>Educational</category>
@@ -282765,12 +282790,12 @@
 		<rom name="Moto Racer 3 (Europe) (En,Fr,De,It,Sv,Ca) (Gold Edition) (Sold Out Software).cue" size="142" crc="30ea2ffd" md5="8e593ee0efd63b643d85764db718217f" sha1="f2491073673c2b6bb5ab8b7715b340c25a5107d8"/>
 		<rom name="Moto Racer 3 (Europe) (En,Fr,De,It,Sv,Ca) (Gold Edition) (Sold Out Software).bin" size="787990560" crc="8a9ab21a" md5="9c06a4574c836f68157003082de100e1" sha1="719a5c49612f9d4c336b59e864dd58e7afc247ff"/>
 	</game>
-	<game name="Moto Racer 3 (France) (En,Fr,De,It,Sv,Ca) (Gold Edition)" id="49086">
+	<game name="Moto Racer 3 (France, Canada) (En,Fr,De,It,Sv,Ca) (Gold Edition)" id="49086">
 		<category>Games</category>
 		<version>1.30</version>
-		<description>Moto Racer 3 (France) (En,Fr,De,It,Sv,Ca) (Gold Edition)</description>
-		<rom name="Moto Racer 3 (France) (En,Fr,De,It,Sv,Ca) (Gold Edition).cue" size="122" crc="ca2c8390" md5="550bd727c218bebfd78f90d867534404" sha1="9027f4c6cbf034395a5693c8230c57a5f7d831b2"/>
-		<rom name="Moto Racer 3 (France) (En,Fr,De,It,Sv,Ca) (Gold Edition).bin" size="781569600" crc="bbadc619" md5="b26091c785366d6f8da72838837aa213" sha1="523faa9d4667c875ca6b7b0ad4952847ac5237d7"/>
+		<description>Moto Racer 3 (France, Canada) (En,Fr,De,It,Sv,Ca) (Gold Edition)</description>
+		<rom name="Moto Racer 3 (France, Canada) (En,Fr,De,It,Sv,Ca) (Gold Edition).cue" size="130" crc="34214d53" md5="3b88b628b90cbb2b96029e8f7c72f49f" sha1="ec3dcb84084ae104459b9e353b1ad2fcfbb53dcc"/>
+		<rom name="Moto Racer 3 (France, Canada) (En,Fr,De,It,Sv,Ca) (Gold Edition).bin" size="781569600" crc="bbadc619" md5="b26091c785366d6f8da72838837aa213" sha1="523faa9d4667c875ca6b7b0ad4952847ac5237d7"/>
 	</game>
 	<game name="Moto Racer 3 (Germany) (Gold Edition) (Rerelease)" id="61262">
 		<category>Games</category>
@@ -302493,6 +302518,12 @@
 		<description>Obscure II (Russia)</description>
 		<rom name="Obscure II (Russia).iso" size="4674584576" crc="456f92e6" md5="182d40e504afccd01182687339a7d1bc" sha1="e005a8d5c1bfbe675ef770d26e2865a423ac1648"/>
 	</game>
+	<game name="Observer - System Redux (Europe)" id="140005">
+		<category>Games</category>
+		<serial>1066358LAINT</serial>
+		<description>Observer: System Redux (Europe)</description>
+		<rom name="Observer - System Redux (Europe).iso" size="2123698176" crc="c3be7cba" md5="cfe2c8b234d3b76be649c1f6d7ea5625" sha1="e2bae895e210be07aa47da4ee00c8d33b5db9aa4"/>
+	</game>
 	<game name="Obsidian (Germany) (Disc 1)" id="58637">
 		<category>Games</category>
 		<description>Obsidian (Germany) (Disc 1)</description>
@@ -305990,11 +306021,11 @@
 		<rom name="Orgazumi (Japan) (Disc 2).cue" size="114" crc="833f0d79" md5="da1c61893e7f9f1a1461580a5d33e351" sha1="cd619ac02ee84d28575384ce803af435934aff30"/>
 		<rom name="Orgazumi (Japan) (Disc 2).bin" size="781633104" crc="76e6af6c" md5="ab613844fd8a8ce8d714674c756b0b08" sha1="764c4cf298b1f24ef15bec59920be7a647427a7b"/>
 	</game>
-	<game name="Ori and the Blind Forest - Definitive Edition (USA, Germany) (En,Fr,De,Es,It)" id="105189">
+	<game name="Ori and the Blind Forest - Definitive Edition (USA, Europe) (En,Fr,De,Es,It)" id="105189">
 		<category>Games</category>
 		<version>5.3.2.9582331</version>
-		<description>Ori and the Blind Forest: Definitive Edition (USA, Germany) (En,Fr,De,Es,It)</description>
-		<rom name="Ori and the Blind Forest - Definitive Edition (USA, Germany) (En,Fr,De,Es,It).iso" size="6566135808" crc="7aab65d3" md5="05fed732e7673c98ff596c68f82fb4c3" sha1="24615ba4d402d63cad7d52c47b5f522206d8ddc3"/>
+		<description>Ori and the Blind Forest: Definitive Edition (USA, Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Ori and the Blind Forest - Definitive Edition (USA, Europe) (En,Fr,De,Es,It).iso" size="6566135808" crc="7aab65d3" md5="05fed732e7673c98ff596c68f82fb4c3" sha1="24615ba4d402d63cad7d52c47b5f522206d8ddc3"/>
 	</game>
 	<game name="Original Links, The (USA)" id="30855">
 		<category>Games</category>
@@ -349667,31 +349698,26 @@
 	</game>
 	<game name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 1)" id="65600">
 		<category>Games</category>
-		<serial>055188</serial>
 		<description>Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 1)</description>
 		<rom name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 1).iso" size="8408520704" crc="54755976" md5="917d8de924725a565b64606894d8b040" sha1="91f8abeabc41b44a989981cfa1a1b8d88957d0a9"/>
 	</game>
 	<game name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 2)" id="65601">
 		<category>Games</category>
-		<serial>055188</serial>
 		<description>Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 2)</description>
 		<rom name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 2).iso" size="8388151296" crc="64613b6f" md5="04097972d55af5de46babd1cd8b03e00" sha1="35fa649d5c838e0f1d0ec12e479d14f0f2b1a45e"/>
 	</game>
 	<game name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 3)" id="65602">
 		<category>Games</category>
-		<serial>055188</serial>
 		<description>Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 3)</description>
 		<rom name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 3).iso" size="8388677632" crc="f3916f42" md5="4a5ba2c40fd6c3f21e472699fba1e43f" sha1="c9dfa317a10c7398073526c6792dff12d478533e"/>
 	</game>
 	<game name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 4)" id="65603">
 		<category>Games</category>
-		<serial>055188</serial>
 		<description>Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 4)</description>
 		<rom name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 4).iso" size="8388513792" crc="46cd53bf" md5="dd301e98c49f045e1f2c6af56fe67eeb" sha1="58d51757a5c625f2113481ab8c2eb1d522dc5fee"/>
 	</game>
 	<game name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 5)" id="65604">
 		<category>Games</category>
-		<serial>055188</serial>
 		<description>Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 5)</description>
 		<rom name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 5).iso" size="5085497344" crc="d5ff38ac" md5="0b998796e0fb288a15bc6abc4be73e91" sha1="d908e681106f8696e99b335f4acea798c12fbc92"/>
 	</game>
@@ -358063,6 +358089,18 @@
 		<version>2.2.1</version>
 		<description>realMyst: Masterpiece Edition (USA)</description>
 		<rom name="realMyst - Masterpiece Edition (USA).iso" size="1635909632" crc="627c29e1" md5="703706d1b5bd70d9ec036f52fc5b7410" sha1="6cd58302308c9f0785b5dfe1fe32ab6d1d4177e3"/>
+	</game>
+	<game name="Reanimal (Europe) (Disc 1)" id="140006">
+		<category>Games</category>
+		<serial>SE-602827</serial>
+		<description>Reanimal (Europe) (Disc 1)</description>
+		<rom name="Reanimal (Europe) (Disc 1).iso" size="8478883840" crc="d3fde1ab" md5="189470c2f8d3325f4ad227e5bdecb2c2" sha1="923fa607b7546c64ce187847625511b685be49f9"/>
+	</game>
+	<game name="Reanimal (Europe) (Disc 2)" id="140007">
+		<category>Games</category>
+		<serial>SE-602827</serial>
+		<description>Reanimal (Europe) (Disc 2)</description>
+		<rom name="Reanimal (Europe) (Disc 2).iso" size="4617928704" crc="e2d0c692" md5="fa515b2edd103877e82006d4f84a8baf" sha1="d23c52efaa60928cdb68b97fc5961db53854cc95"/>
 	</game>
 	<game name="Reap, The (Europe) (En,Fr,De,Es,It,Fi)" id="29192">
 		<category>Games</category>
@@ -381646,6 +381684,13 @@
 		<rom name="Secret Weapons over Normandy (USA) (Disc 1).cue" size="109" crc="62431552" md5="b092f231e11cdda97093780470df370a" sha1="e8ec15c149cb3e24ee08e9eeea4f39fd4f68e5ad"/>
 		<rom name="Secret Weapons over Normandy (USA) (Disc 1).bin" size="824613552" crc="250624c5" md5="dc30a33770d987ba36c804e8742b0c3b" sha1="b4e62d1d4f02c7ee09cd1275a5b7dd2e65df7be4"/>
 	</game>
+	<game name="Secret Weapons over Normandy (USA) (Disc 1) (Rerelease)" id="139998">
+		<category>Games</category>
+		<serial>1625907</serial>
+		<description>Secret Weapons over Normandy (USA) (Disc 1) (Rerelease)</description>
+		<rom name="Secret Weapons over Normandy (USA) (Disc 1) (Rerelease).cue" size="121" crc="eb6c1029" md5="a8a3d585b3c9b5c54857226850b1f062" sha1="efcaeaacbcd4a499aa5cf79573262050417e1638"/>
+		<rom name="Secret Weapons over Normandy (USA) (Disc 1) (Rerelease).bin" size="826951440" crc="ae3df22f" md5="05cf00cb2c6659c2682647e38a7ee965" sha1="d5398f10b3c04e63a8866f835b776eb5a6e40996"/>
+	</game>
 	<game name="Secret Weapons over Normandy (USA) (Disc 2)" id="90967">
 		<category>Games</category>
 		<serial>2101831</serial>
@@ -381653,6 +381698,13 @@
 		<description>Secret Weapons over Normandy (USA) (Disc 2)</description>
 		<rom name="Secret Weapons over Normandy (USA) (Disc 2).cue" size="109" crc="631e3383" md5="8c5a6eca2bf058a3a271d4f7ae8befd7" sha1="21ba193a3e958b5011f52ba5c377882436882c22"/>
 		<rom name="Secret Weapons over Normandy (USA) (Disc 2).bin" size="735733824" crc="ce5116f5" md5="b271088bd7f3b54eb5a846a58893a736" sha1="35d8f1d0eca7ff8337426e8d26f056dd831162f8"/>
+	</game>
+	<game name="Secret Weapons over Normandy (USA) (Disc 2) (Rerelease)" id="139999">
+		<category>Games</category>
+		<serial>1625917</serial>
+		<description>Secret Weapons over Normandy (USA) (Disc 2) (Rerelease)</description>
+		<rom name="Secret Weapons over Normandy (USA) (Disc 2) (Rerelease).cue" size="121" crc="19cd3585" md5="0365d1bcd097b65fd454dba0a1870bc6" sha1="ea74da2ab36c7020eb27114533ab1713f3088acd"/>
+		<rom name="Secret Weapons over Normandy (USA) (Disc 2) (Rerelease).bin" size="736335936" crc="11594f0e" md5="0c0e0de5ff1d9041d680fde41a1927ad" sha1="6232cbee3f5c758c7a4cbb00ab6538606fed30da"/>
 	</game>
 	<game name="Secret Weapons over Normandy (USA) (Disc 3)" id="90968">
 		<category>Games</category>
@@ -381662,6 +381714,13 @@
 		<rom name="Secret Weapons over Normandy (USA) (Disc 3).cue" size="109" crc="d505d3f3" md5="f7e90d7ae5a5ca899bb8e65e27d60ab9" sha1="62253ad64d37422211bdaca31c20de6bc809af3d"/>
 		<rom name="Secret Weapons over Normandy (USA) (Disc 3).bin" size="763682640" crc="e1001e53" md5="eb473b375ffae55ef5f9251eb9c4019e" sha1="1b3d34fd3543806bd88491da90b3314be47217c3"/>
 	</game>
+	<game name="Secret Weapons over Normandy (USA) (Disc 3) (Rerelease)" id="140000">
+		<category>Games</category>
+		<serial>1625927</serial>
+		<description>Secret Weapons over Normandy (USA) (Disc 3) (Rerelease)</description>
+		<rom name="Secret Weapons over Normandy (USA) (Disc 3) (Rerelease).cue" size="121" crc="fe82d4de" md5="4f87a38a3c2a8f706f48188edd54f0cd" sha1="418cc36b22e70a487d22871a70d5c76a8f14a4ea"/>
+		<rom name="Secret Weapons over Normandy (USA) (Disc 3) (Rerelease).bin" size="764284752" crc="18d397e5" md5="4219edb0617ed1994f736334ecab9c18" sha1="e2fe3ae0d8355a81c3e75bacb4cc6ce1bf30a125"/>
+	</game>
 	<game name="Secret Weapons over Normandy (USA) (Disc 4) (Play Disc)" id="90969">
 		<category>Games</category>
 		<serial>2101833</serial>
@@ -381669,6 +381728,13 @@
 		<description>Secret Weapons over Normandy (USA) (Disc 4) (Play Disc)</description>
 		<rom name="Secret Weapons over Normandy (USA) (Disc 4) (Play Disc).cue" size="121" crc="b079de17" md5="713ad700228aea7b9f75f46d3ba3090a" sha1="6fabea18d36eed5412062031c77dad338fd1044b"/>
 		<rom name="Secret Weapons over Normandy (USA) (Disc 4) (Play Disc).bin" size="731392032" crc="30cfb774" md5="a9a982e64248ff2a47966b8fab149e14" sha1="7ebb98355356745d4f24219e5933b1a629731795"/>
+	</game>
+	<game name="Secret Weapons over Normandy (USA) (Disc 4) (Rerelease)" id="140001">
+		<category>Games</category>
+		<serial>1625937</serial>
+		<description>Secret Weapons over Normandy (USA) (Disc 4) (Rerelease)</description>
+		<rom name="Secret Weapons over Normandy (USA) (Disc 4) (Rerelease).cue" size="121" crc="27fe789c" md5="73dbfaf6c6fe199832e2a8be90a7c414" sha1="ad9ce0e7186f2b37842de8680fe66755ecb888fe"/>
+		<rom name="Secret Weapons over Normandy (USA) (Disc 4) (Rerelease).bin" size="731994144" crc="3b48f062" md5="d455b766d8228376c7db0d7c3357df18" sha1="8461e4d5e80994572484c2b5c2a1c75a3a4d1855"/>
 	</game>
 	<game name="Secret World, The (Europe) (En,Fr,De) (Disc 1)" id="59271">
 		<category>Games</category>
@@ -393104,6 +393170,12 @@
 		<rom name="Sid Meier's Civilization III Complete (USA, Europe) (Disc 3) (Conquests) (Rerelease).cue" size="150" crc="75694938" md5="7dad7ab4b4325a43f7c9a882a22a36c9" sha1="898fe35a0422f1d64ca7f3ec604d700c8965d0ea"/>
 		<rom name="Sid Meier's Civilization III Complete (USA, Europe) (Disc 3) (Conquests) (Rerelease).bin" size="663567408" crc="d1868066" md5="ac61d7a213847b9758dd066822ed9053" sha1="0266d75d4854402b6c5349abe65f1d5f480c85ca"/>
 	</game>
+	<game name="Sid Meier's Civilization IV (Canada) (Instruction Manuals)" id="140002">
+		<category>Bonus Discs</category>
+		<description>Sid Meier's Civilization IV (Canada) (Instruction Manuals)</description>
+		<rom name="Sid Meier's Civilization IV (Canada) (Instruction Manuals).cue" size="124" crc="947e3134" md5="1a08e2d397fc3d0076982dc043df047f" sha1="67a50ed402e96713f651523104f13ee60c15d8b8"/>
+		<rom name="Sid Meier's Civilization IV (Canada) (Instruction Manuals).bin" size="7159488" crc="07f9edfd" md5="2a643cf85a1d5b95727eedfd3188b111" sha1="efafa50dde283622e15f8ac28acae5d348dd524e"/>
+	</game>
 	<game name="Sid Meier's Civilization IV (Europe) (En,Fr,De,Es,It) (OEM)" id="56927">
 		<category>Games</category>
 		<serial>12DD1-2KCIV4-10R</serial>
@@ -393164,35 +393236,35 @@
 		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 1) (Install).cue" size="135" crc="6d5885c3" md5="8424ad5765f27f0fa2a9e14aa7816217" sha1="20c90cb04d7aee0d463160fc3712cd206e629930"/>
 		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 1) (Install).bin" size="788886672" crc="ca41c95f" md5="3327f327e959196a7b6d6815e3ed0698" sha1="28ee75de0ea33838b130f26e9181010ee7afb343"/>
 	</game>
-	<game name="Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 2) (Play)" id="77104">
+	<game name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 2) (Play)" id="77104">
 		<category>Games</category>
-		<description>Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 2) (Play)</description>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 2) (Play).cue" size="132" crc="1749d37e" md5="5c246890c30c5b25837357bf316c6d2a" sha1="9b7a3fddcf07c9c6a6465690ccb51619fdfc7a6b"/>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 2) (Play).bin" size="771063216" crc="055b03a3" md5="9ae2eec675cc588abdb7f5f739d8c4da" sha1="92f543dc7aa9b14dacc65c48380400c21944f77f"/>
+		<description>Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 2) (Play)</description>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 2) (Play).cue" size="140" crc="d66422ac" md5="46dfcb5e0242f26e36864454854cd390" sha1="72ff40eccb47a83fd2d753427453412570053b96"/>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 2) (Play).bin" size="771063216" crc="055b03a3" md5="9ae2eec675cc588abdb7f5f739d8c4da" sha1="92f543dc7aa9b14dacc65c48380400c21944f77f"/>
 	</game>
-	<game name="Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 1) (Game of the Year Edition)" id="56348">
+	<game name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 1) (Game of the Year Edition)" id="56348">
 		<category>Games</category>
 		<serial>77875-1.1REA</serial>
 		<version>1.61</version>
-		<description>Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 1) (Game of the Year Edition)</description>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 1) (Game of the Year Edition).cue" size="146" crc="71f5eb78" md5="47e64cf811296aa4eed6c3eb6705c9a8" sha1="1261f4ac8fb5a818a8ba533fd433c588fb9760a5"/>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 1) (Game of the Year Edition).bin" size="788886672" crc="a8f31b42" md5="02750984a9199fe268f56895590ca855" sha1="5dc0d8f48a06fcdf43e17eda99b19328d353b5dc"/>
+		<description>Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 1) (Game of the Year Edition)</description>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 1) (Game of the Year Edition).cue" size="154" crc="1552a21a" md5="fb9d6e595e0b371ef77668f2de8fa63d" sha1="f6c20f084cdc0a7ff0f57498ce6e9f1f18db51eb"/>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 1) (Game of the Year Edition).bin" size="788886672" crc="a8f31b42" md5="02750984a9199fe268f56895590ca855" sha1="5dc0d8f48a06fcdf43e17eda99b19328d353b5dc"/>
 	</game>
-	<game name="Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 2) (Game of the Year Edition)" id="56349">
+	<game name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 2) (Game of the Year Edition)" id="56349">
 		<category>Games</category>
 		<serial>77875-1.2REA</serial>
 		<version>1.61</version>
-		<description>Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 2) (Game of the Year Edition)</description>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 2) (Game of the Year Edition).cue" size="146" crc="ddb15de0" md5="aba410d44c3577a30d751773d905229c" sha1="c3504610f007967a1bca2ee6b7c61d8296868d2d"/>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 2) (Game of the Year Edition).bin" size="783639360" crc="36f19b48" md5="887bcbba23fc913e8fef3e994d8d9712" sha1="606ac356f4431194d0dff218117e281647ada135"/>
+		<description>Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 2) (Game of the Year Edition)</description>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 2) (Game of the Year Edition).cue" size="154" crc="b9161482" md5="dc0dae298fd6ae2602ded639d1f9fd94" sha1="3eb31dd91a479e819cc3d663bc3a39c85a4b8008"/>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 2) (Game of the Year Edition).bin" size="783639360" crc="36f19b48" md5="887bcbba23fc913e8fef3e994d8d9712" sha1="606ac356f4431194d0dff218117e281647ada135"/>
 	</game>
-	<game name="Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 3 &amp; Manual) (Game of the Year Edition)" id="56350">
+	<game name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 3 &amp; Manual) (Game of the Year Edition)" id="56350">
 		<category>Games</category>
 		<serial>21712-1.3D</serial>
 		<version>1.61</version>
-		<description>Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 3 &amp; Manual) (Game of the Year Edition)</description>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 3 &amp; Manual) (Game of the Year Edition).cue" size="155" crc="62f962ba" md5="72240d07d15d21c29dbac5ce50b55c87" sha1="78c45f48c2a3b4826cccbdd88f788302658f6178"/>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,Es) (Disc 3 &amp; Manual) (Game of the Year Edition).bin" size="47562144" crc="c72fd005" md5="13695594012be664ce82b7c598eb400d" sha1="783df8d894d37b9c2ecfcd8be9afd8ff0057a3a7"/>
+		<description>Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 3 &amp; Manual) (Game of the Year Edition)</description>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 3 &amp; Manual) (Game of the Year Edition).cue" size="163" crc="37d7b2f2" md5="6fc6cfa045a9d6afdca1763d33299d73" sha1="a81760c8a1d1996567f802aba0a69218c76f2f8a"/>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,Es) (Disc 3 &amp; Manual) (Game of the Year Edition).bin" size="47562144" crc="c72fd005" md5="13695594012be664ce82b7c598eb400d" sha1="783df8d894d37b9c2ecfcd8be9afd8ff0057a3a7"/>
 	</game>
 	<game name="Sid Meier's Civilization IV - Beyond the Sword (Germany)" id="85052">
 		<category>Add-Ons</category>
@@ -393255,29 +393327,35 @@
 		<description>Sid Meier's Civilization IV: E'poxa ognya (Russia)</description>
 		<rom name="Sid Meier's Civilization IV - E'poxa ognya (Russia).iso" size="1302560768" crc="43332d05" md5="035e48a21ecc555f5116ba5086fc2546" sha1="73c0f9ab6c945512f247ae261d4e399d105d1275"/>
 	</game>
-	<game name="Sid Meier's Civilization IV - Gold Edition (USA) (En,Fr,De,Es,It) (Disc 1)" id="45407">
+	<game name="Sid Meier's Civilization IV - Gold Edition (Canada) (Civ IV &amp; Warlords Game Manuals)" id="140003">
+		<category>Bonus Discs</category>
+		<description>Sid Meier's Civilization IV: Gold Edition (Canada) (Civ IV &amp; Warlords Game Manuals)</description>
+		<rom name="Sid Meier's Civilization IV - Gold Edition (Canada) (Civ IV &amp; Warlords Game Manuals).cue" size="150" crc="2ee1b3a8" md5="635c8ac33593e90babcb273566a4109d" sha1="6702aed210503ec09a18258b42f0fda2a0152d85"/>
+		<rom name="Sid Meier's Civilization IV - Gold Edition (Canada) (Civ IV &amp; Warlords Game Manuals).bin" size="9563232" crc="4403bbb5" md5="8137fdbfd615cd21de005335e8babe40" sha1="bd1e909ae32711ddcfd3ea7fa347596856c40b5c"/>
+	</game>
+	<game name="Sid Meier's Civilization IV - Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 1)" id="45407">
 		<category>Games</category>
 		<serial>31183-1.1</serial>
 		<version>1.7.4.0</version>
-		<description>Sid Meier's Civilization IV: Gold Edition (USA) (En,Fr,De,Es,It) (Disc 1)</description>
-		<rom name="Sid Meier's Civilization IV - Gold Edition (USA) (En,Fr,De,Es,It) (Disc 1).cue" size="140" crc="d2d0b305" md5="d6d925b1e0c8e9916b6e2f698814283a" sha1="19bc2b2e6f1ad4001dd3ab38e79f7b40a5a72903"/>
-		<rom name="Sid Meier's Civilization IV - Gold Edition (USA) (En,Fr,De,Es,It) (Disc 1).bin" size="792353520" crc="60b714a5" md5="1e55ec89917be15cd21c4420320edb14" sha1="3bde84730f2707231f72232751e5eb1767af2899"/>
+		<description>Sid Meier's Civilization IV: Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 1)</description>
+		<rom name="Sid Meier's Civilization IV - Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 1).cue" size="148" crc="b5cf6812" md5="8711f340bace09838a996cb52757e708" sha1="2a3dc2d772a45413183318370cf7b79501ea6171"/>
+		<rom name="Sid Meier's Civilization IV - Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 1).bin" size="792353520" crc="60b714a5" md5="1e55ec89917be15cd21c4420320edb14" sha1="3bde84730f2707231f72232751e5eb1767af2899"/>
 	</game>
-	<game name="Sid Meier's Civilization IV - Gold Edition (USA) (En,Fr,De,Es,It) (Disc 2)" id="45408">
+	<game name="Sid Meier's Civilization IV - Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 2)" id="45408">
 		<category>Games</category>
 		<serial>31183-1.2</serial>
 		<version>1.7.4.0</version>
-		<description>Sid Meier's Civilization IV: Gold Edition (USA) (En,Fr,De,Es,It) (Disc 2)</description>
-		<rom name="Sid Meier's Civilization IV - Gold Edition (USA) (En,Fr,De,Es,It) (Disc 2).cue" size="140" crc="d38d95d4" md5="d97efb32437c3418e666a7cdf8fad3c2" sha1="02371ac5e785ba55369ddb5766b7e355decf5738"/>
-		<rom name="Sid Meier's Civilization IV - Gold Edition (USA) (En,Fr,De,Es,It) (Disc 2).bin" size="783639360" crc="c67ec6cf" md5="f2a977c45b6907b780f3fd8ebc84d066" sha1="48b542fe8269dc3b5b6151e4ca8b721022e899c3"/>
+		<description>Sid Meier's Civilization IV: Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 2)</description>
+		<rom name="Sid Meier's Civilization IV - Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 2).cue" size="148" crc="b4924ec3" md5="a8bde41e7ce7f0e7daf06c7f87a9c82b" sha1="2c0af99c9393a254328f1c0e97f722f9487454aa"/>
+		<rom name="Sid Meier's Civilization IV - Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 2).bin" size="783639360" crc="c67ec6cf" md5="f2a977c45b6907b780f3fd8ebc84d066" sha1="48b542fe8269dc3b5b6151e4ca8b721022e899c3"/>
 	</game>
-	<game name="Sid Meier's Civilization IV - Gold Edition (USA) (En,Fr,De,Es,It) (Disc 3)" id="45409">
+	<game name="Sid Meier's Civilization IV - Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 3)" id="45409">
 		<category>Games</category>
 		<serial>31183-1.3</serial>
 		<version>1.7.4.0</version>
-		<description>Sid Meier's Civilization IV: Gold Edition (USA) (En,Fr,De,Es,It) (Disc 3)</description>
-		<rom name="Sid Meier's Civilization IV - Gold Edition (USA) (En,Fr,De,Es,It) (Disc 3).cue" size="140" crc="659675a4" md5="41313f147a74b3a409b339518ff2f014" sha1="1909f8d808e5792002e4a4187afafe2d354b7257"/>
-		<rom name="Sid Meier's Civilization IV - Gold Edition (USA) (En,Fr,De,Es,It) (Disc 3).bin" size="512625456" crc="a65e8ccb" md5="9e2bffba1d428661d57e3902386e18a2" sha1="db7f91206acd513b264f7898576c816eef40b4be"/>
+		<description>Sid Meier's Civilization IV: Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 3)</description>
+		<rom name="Sid Meier's Civilization IV - Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 3).cue" size="148" crc="0289aeb3" md5="cc5d198e811e043f8c48637e20e743e8" sha1="1ae6798361dbc272709985edbf3ed4ba40d89de7"/>
+		<rom name="Sid Meier's Civilization IV - Gold Edition (USA, Canada) (En,Fr,De,Es,It) (Disc 3).bin" size="512625456" crc="a65e8ccb" md5="9e2bffba1d428661d57e3902386e18a2" sha1="db7f91206acd513b264f7898576c816eef40b4be"/>
 	</game>
 	<game name="Sid Meier's Civilization IV - Kolonizaciya (Russia)" id="84568">
 		<category>Games</category>
@@ -393370,22 +393448,17 @@
 		<description>Sid Meier's Civilization V (UK)</description>
 		<rom name="Sid Meier's Civilization V (UK).iso" size="3867246592" crc="dfc361d6" md5="b35a84f260c2889eaab01e3c7bdeba0d" sha1="5eabe42f2c5a28849a3249d4d7d22a448e26b930"/>
 	</game>
-	<game name="Sid Meier's Civilization V (USA)" id="30494">
-		<category>Games</category>
-		<serial>31817-1</serial>
-		<description>Sid Meier's Civilization V (USA)</description>
-		<rom name="Sid Meier's Civilization V (USA).iso" size="3238559744" crc="ad7abad5" md5="32496a009776073bfb73b405adbadd67" sha1="33084757ba9af83348cc85ecaacbbbcecb8a2fff"/>
-	</game>
 	<game name="Sid Meier's Civilization V (USA) (Rerelease)" id="125824">
 		<category>Games</category>
 		<serial>31817-1</serial>
 		<description>Sid Meier's Civilization V (USA) (Rerelease)</description>
 		<rom name="Sid Meier's Civilization V (USA) (Rerelease).iso" size="3758358528" crc="77b73497" md5="8972be214b5e19b230207de679b3de9c" sha1="7fce7a7ece373162371ca71a8f92c6b5ab6b500a"/>
 	</game>
-	<game name="Sid Meier's Civilization V - Bogi i koroli (Russia)" id="84877">
+	<game name="Sid Meier's Civilization V (USA, Canada)" id="30494">
 		<category>Games</category>
-		<description>Sid Meier's Civilization V: Bogi i koroli (Russia)</description>
-		<rom name="Sid Meier's Civilization V - Bogi i koroli (Russia).iso" size="1247870976" crc="be054827" md5="a6d42e883ac4c3fa39f8010e06124e5e" sha1="45e6025891bf9cda73eba54f012aa72fe1b2261f"/>
+		<serial>31817-1</serial>
+		<description>Sid Meier's Civilization V (USA, Canada)</description>
+		<rom name="Sid Meier's Civilization V (USA, Canada).iso" size="3238559744" crc="ad7abad5" md5="32496a009776073bfb73b405adbadd67" sha1="33084757ba9af83348cc85ecaacbbbcecb8a2fff"/>
 	</game>
 	<game name="Sid Meier's Civilization V - Brave New World (Europe, Australia)" id="84878">
 		<category>Add-Ons</category>
@@ -393404,6 +393477,12 @@
 		<serial>500014271B</serial>
 		<description>Sid Meier's Civilization V: Game of the Year Edition (Poland)</description>
 		<rom name="Sid Meier's Civilization V - Game of the Year Edition (Poland).iso" size="3868983296" crc="7af187c7" md5="4f228552b709773d053c1399cc61855b" sha1="cbb837950a60699665f79f17a85828c18648df75"/>
+	</game>
+	<game name="Sid Meier's Civilization V - Gods &amp; Kings (Expansion Pack) (Canada, Russia)" id="84877">
+		<category>Add-Ons</category>
+		<serial>41179-1</serial>
+		<description>Sid Meier's Civilization V: Gods &amp; Kings (Expansion Pack) (Canada, Russia)</description>
+		<rom name="Sid Meier's Civilization V - Gods &amp; Kings (Expansion Pack) (Canada, Russia).iso" size="1247870976" crc="be054827" md5="a6d42e883ac4c3fa39f8010e06124e5e" sha1="45e6025891bf9cda73eba54f012aa72fe1b2261f"/>
 	</game>
 	<game name="Sid Meier's Civilization V - Gold Edition (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)" id="58616">
 		<category>Games</category>
@@ -406247,13 +406326,6 @@
 		<rom name="Soldier of Fortune II - Double Helix (USA) (En,Fr,De,Es,It) (Disc 1).cue" size="134" crc="c2375666" md5="c7b0703431229f1fd76db4c87f05705c" sha1="5bfc573787541857fe5a5d2ae2c45f2434669f01"/>
 		<rom name="Soldier of Fortune II - Double Helix (USA) (En,Fr,De,Es,It) (Disc 1).bin" size="705324816" crc="d6bdf3c2" md5="56079a649de5cb170bbafe42005ddbb3" sha1="efafa675e2ca625f5c6d895586b01d33f7b63679"/>
 	</game>
-	<game name="Soldier of Fortune II - Double Helix (USA, Asia) (Disc 2)" id="10513">
-		<category>Games</category>
-		<serial>3002648AU, 31147.101.US, 31147.102.US</serial>
-		<description>Soldier of Fortune II: Double Helix (USA, Asia) (Disc 2)</description>
-		<rom name="Soldier of Fortune II - Double Helix (USA, Asia) (Disc 2).cue" size="123" crc="057cb7a6" md5="72c5760c8f29d3952091005ebcdf88c6" sha1="b8ba5d416c1e0635597dc0d0c439daea63ee4def"/>
-		<rom name="Soldier of Fortune II - Double Helix (USA, Asia) (Disc 2).bin" size="782999616" crc="38e6d93e" md5="3a3b7ed402e0f9af8797c82a9fb44131" sha1="133cf332b475c781c053c1977454064079fb810b"/>
-	</game>
 	<game name="Soldier of Fortune II - Double Helix (USA, Europe) (En,Fr,De,Es,It) (Disc 1)" id="15775">
 		<category>Games</category>
 		<serial>31147.101.UK, 31147.101.US</serial>
@@ -406261,6 +406333,13 @@
 		<description>Soldier of Fortune II: Double Helix (USA, Europe) (En,Fr,De,Es,It) (Disc 1)</description>
 		<rom name="Soldier of Fortune II - Double Helix (USA, Europe) (En,Fr,De,Es,It) (Disc 1).cue" size="142" crc="ac633368" md5="a89579ec5368c082c8222aa4e6f86a45" sha1="1bca35361a84f7a3978944d16d3769a73ac88510"/>
 		<rom name="Soldier of Fortune II - Double Helix (USA, Europe) (En,Fr,De,Es,It) (Disc 1).bin" size="616767312" crc="26575b66" md5="b68dac1e19d480aa0a0039cb1b8876af" sha1="554f0316571e3f4e40309564935e40c77f89b41a"/>
+	</game>
+	<game name="Soldier of Fortune II - Double Helix (USA, Taiwan) (Disc 2)" id="10513">
+		<category>Games</category>
+		<serial>3002648AU, 31147.101.US, 31147.102.US</serial>
+		<description>Soldier of Fortune II: Double Helix (USA, Taiwan) (Disc 2)</description>
+		<rom name="Soldier of Fortune II - Double Helix (USA, Taiwan) (Disc 2).cue" size="125" crc="99af4d1a" md5="103deab8326fd9e362b6fa63571db219" sha1="2db5387cae144a8c282c7072ea048139a363d8d7"/>
+		<rom name="Soldier of Fortune II - Double Helix (USA, Taiwan) (Disc 2).bin" size="782999616" crc="38e6d93e" md5="3a3b7ed402e0f9af8797c82a9fb44131" sha1="133cf332b475c781c053c1977454064079fb810b"/>
 	</game>
 	<game name="Soldier of Fortune II - Double Helix (World) (En,Fr,De,Es,It) (Disc 1) (Gold Edition)" id="27602">
 		<category>Games</category>
@@ -430208,6 +430287,12 @@
 		<description>Superhero League of Hoboken (USA)</description>
 		<rom name="Superhero League of Hoboken (USA).cue" size="122" crc="62c67c5e" md5="c21f7013730f4751df23a3c4f7af8331" sha1="14482c07190649f598046cff520a7b2b8ee4fb19"/>
 		<rom name="Superhero League of Hoboken (USA).bin" size="220300080" crc="732d0ff1" md5="2251eed58297237ba4e8ff148d775d33" sha1="a16c6e2f9bd4e04068a43b3ec4fb5ba2e8cf8a59"/>
+	</game>
+	<game name="Superhot (Poland)" id="140008">
+		<category>Games</category>
+		<serial>51566_C1</serial>
+		<description>Superhot (Poland)</description>
+		<rom name="Superhot (Poland).iso" size="730529792" crc="1a4fc363" md5="378b84100ba3ffd4867fe1912ca4a152" sha1="808268c6c5d3f72cadf06bc30a8213d252fcdc6f"/>
 	</game>
 	<game name="SuperKarts (Europe)" id="62486">
 		<category>Games</category>

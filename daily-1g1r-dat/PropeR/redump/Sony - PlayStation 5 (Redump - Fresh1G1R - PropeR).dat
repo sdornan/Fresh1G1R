@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (391) (-y) [-aAbBcdkmMpPuv] (2026-11-02 21-32-10) (Retool)</description>
-		<version>2026-11-02 21-32-10</version>
-		<date>2026-11-03 09-34-30</date>
+		<description>Sony - PlayStation 5 (394) (-y) [-aAbBcdkmMpPuv] (2026-11-03 12-56-30) (Retool)</description>
+		<version>2026-11-03 12-56-30</version>
+		<date>2026-11-04 09-01-46</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -451,6 +451,13 @@
 		<serial>ELJM 30307</serial>
 		<version>01.01</version>
 		<rom name="Crime Boss - Rockay City (Japan).iso" size="66280095744" crc="28969ddc" md5="26fb736a685118f28c63fbb595160aa5" sha1="1d310fc3f8567adf265d5e26d2604f2bc7837666"/>
+	</game>
+	<game name="Crimson Desert (Japan)" id="140010">
+		<category>Games</category>
+		<description>Crimson Desert (Japan)</description>
+		<serial>ELJM 30776</serial>
+		<version>01.04</version>
+		<rom name="Crimson Desert (Japan).iso" size="78208237568" crc="02135975" md5="3bd60f3d563281e3921672371d38d1d8" sha1="eeea96228000e04de178de2fbdd395d424e79817"/>
 	</game>
 	<game name="Crisis Core - Final Fantasy VII - Reunion (Europe)" id="101341">
 		<category>Games</category>
@@ -1341,6 +1348,13 @@
 		<version>01.02</version>
 		<rom name="Kung Fury - Street Rage - Ultimate Edition (USA).iso" size="40008351744" crc="cc35074a" md5="51ed088671979011f2b948a5fb9b52f6" sha1="c79e42c03e6935b4bf0dc7f659e1a40962a44702"/>
 	</game>
+	<game name="Kyoto Xanadu - Ouka Genbu (Japan)" id="140011">
+		<category>Games</category>
+		<description>Kyoto Xanadu: Ouka Genbu (Japan)</description>
+		<serial>ELJM 30910</serial>
+		<version>01.00</version>
+		<rom name="Kyoto Xanadu - Ouka Genbu (Japan).iso" size="40008351744" crc="ec681e83" md5="6f8139431e3219e92251746c7bde5bc7" sha1="cba36726f705264d497493c2e7a1ddccc9a69eda"/>
+	</game>
 	<game name="LEGO 2K Drive (USA)" id="106727">
 		<category>Games</category>
 		<description>LEGO 2K Drive (USA)</description>
@@ -1522,6 +1536,13 @@
 		<serial>PPSA-03016</serial>
 		<version>01.00</version>
 		<rom name="Marvel Spider-Man 2 (USA).iso" size="87177691136" crc="18deef6e" md5="4d6317738ef6e9874aa67a63ddf251b4" sha1="8dcd8b581100ef39e7fd81e52600d8e98bfc30eb"/>
+	</game>
+	<game name="Marvel Tokon - Fighting Souls (Japan)" id="140009">
+		<category>Games</category>
+		<description>Marvel Tōkon: Fighting Souls (Japan)</description>
+		<serial>ECJS 00054</serial>
+		<version>01.00</version>
+		<rom name="Marvel Tokon - Fighting Souls (Japan).iso" size="40008351744" crc="e453e710" md5="fe07df97d274b061311c1b1c54a295c7" sha1="105d0858202778d8444117cf7b2d126ee9807ef6"/>
 	</game>
 	<game name="Marvel's Wolverine (USA)" id="139709">
 		<category>Games</category>

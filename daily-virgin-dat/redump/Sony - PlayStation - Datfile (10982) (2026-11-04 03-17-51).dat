@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10982) (2026-10-31 22-38-06)</description>
-		<version>2026-10-31 22-38-06</version>
-		<date>2026-10-31 22-38-06</date>
+		<description>Sony - PlayStation - Datfile (10982) (2026-11-04 03-17-51)</description>
+		<version>2026-11-04 03-17-51</version>
+		<date>2026-11-04 03-17-51</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -44248,19 +44248,19 @@
 		<rom name="I.Q Final (Japan).cue" size="83" crc="e606ebcf" md5="b99da9a6d653e51745565daeccd43208" sha1="4a7b8f26c09de2dc092e46c65d3bd910f031e012"/>
 		<rom name="I.Q Final (Japan).bin" size="606968880" crc="9ba0ac84" md5="7e0dba23269c05cca46e7ae388b48165" sha1="fbbd9f86e0d95382cfbcd625e83123ad0751797f"/>
 	</game>
-	<game name="I.Q Final (Japan) (Demo 1)" id="6649">
-		<category>Demos</category>
-		<serial>PCPX 96137</serial>
-		<description>I.Q Final (Japan) (Demo 1)</description>
-		<rom name="I.Q Final (Japan) (Demo 1).cue" size="92" crc="5bdfb4da" md5="b9f25a3e270bbcdab4c9ba4050d98646" sha1="d2cc19fa24285041e251059d78fc1cf94fd3a3cc"/>
-		<rom name="I.Q Final (Japan) (Demo 1).bin" size="256313904" crc="40decb97" md5="d1d4fdbc581bd1e8aa77840a9046c933" sha1="f8d7648c72f6fa577cdf16fc653ff2cde1d806e6"/>
-	</game>
-	<game name="I.Q Final (Japan) (Demo 2)" id="32988">
+	<game name="I.Q Final (Japan) (Muryou Rental-ban)" id="32988">
 		<category>Demos</category>
 		<serial>PAPX 90063</serial>
-		<description>I.Q Final (Japan) (Demo 2)</description>
-		<rom name="I.Q Final (Japan) (Demo 2).cue" size="92" crc="5a82920b" md5="7ae24521446610cbfd605a6d69ed024c" sha1="0c8918e04bd5edc71de5df56933b881ce0a0ad43"/>
-		<rom name="I.Q Final (Japan) (Demo 2).bin" size="256313904" crc="18e546eb" md5="f3caf22c86c87de11bfba04ef8d38f1a" sha1="26b288ec11fb19afd2cd6bc959c23fcf3ed7a9a1"/>
+		<description>I.Q Final (Japan) (Muryou Rental-ban)</description>
+		<rom name="I.Q Final (Japan) (Muryou Rental-ban).cue" size="103" crc="0858f004" md5="8eb34534d4b8a2bcba09eb99521e4ecf" sha1="3e72b493f86e6fa0fcb6bb6fbb25bff359b3b44b"/>
+		<rom name="I.Q Final (Japan) (Muryou Rental-ban).bin" size="256313904" crc="18e546eb" md5="f3caf22c86c87de11bfba04ef8d38f1a" sha1="26b288ec11fb19afd2cd6bc959c23fcf3ed7a9a1"/>
+	</game>
+	<game name="I.Q Final (Japan) (Taikenban)" id="6649">
+		<category>Demos</category>
+		<serial>PCPX 96137</serial>
+		<description>I.Q Final (Japan) (Taikenban)</description>
+		<rom name="I.Q Final (Japan) (Taikenban).cue" size="95" crc="f4d6018a" md5="2db44ff30ddbf94bca11bafb13386aaa" sha1="81afbb1d34c8bc904de4a87608fd1d8e5a3ce684"/>
+		<rom name="I.Q Final (Japan) (Taikenban).bin" size="256313904" crc="40decb97" md5="d1d4fdbc581bd1e8aa77840a9046c933" sha1="f8d7648c72f6fa577cdf16fc653ff2cde1d806e6"/>
 	</game>
 	<game name="Ian Livingstone's Deathtrap Dungeon (Europe) (En,Fr,De,Es,It)" id="15664">
 		<category>Games</category>
