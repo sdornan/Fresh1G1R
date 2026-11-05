@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,175) (-y) [-aAbBcdkmMpPuv] (2026-11-04 05-06-30) (Retool)</description>
-		<version>2026-11-04 05-06-30</version>
-		<date>2026-11-04 09-01-31</date>
+		<description>IBM - PC compatible (27,175) (-y) [-aAbBcdkmMpPuv] (2026-11-05 01-26-30) (Retool)</description>
+		<version>2026-11-05 01-26-30</version>
+		<date>2026-11-05 09-25-00</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -32669,7 +32669,7 @@
 	<game name="Clifford the Big Red Dog - Thinking Adventures (USA)" id="68808">
 		<category>Educational</category>
 		<description>Clifford the Big Red Dog: Thinking Adventures (USA)</description>
-		<serial>P/N 921551</serial>
+		<serial>P/N 921551, WP5</serial>
 		<rom name="Clifford the Big Red Dog - Thinking Adventures (USA).bin" size="552621216" crc="78764fa7" md5="969f320cb82b814f416cf8aa4a908be0" sha1="b26a0fc73ff59bcea632e33eeabec13b84245852"/>
 		<rom name="Clifford the Big Red Dog - Thinking Adventures (USA).cue" size="118" crc="b4dc0e99" md5="6aec4f7d27db7cbb85b1f7c0fb771a4d" sha1="9f2e050ac3b224f6e2be7231298c12542d9c8edf"/>
 	</game>
@@ -65264,7 +65264,7 @@
 	<game name="Fisher-Price Rescue Heroes - Hurricane Havoc (USA)" id="59572">
 		<category>Games</category>
 		<description>Fisher-Price Rescue Heroes: Hurricane Havoc (USA)</description>
-		<serial>378505-CD</serial>
+		<serial>378505-CD, S7127310</serial>
 		<version>1.0c</version>
 		<rom name="Fisher-Price Rescue Heroes - Hurricane Havoc (USA).bin" size="751974384" crc="d23de2eb" md5="77d228272902b79ed0aabb1b79b5deaa" sha1="809b0f16a7d27368619b914fd0243cfe338c473f"/>
 		<rom name="Fisher-Price Rescue Heroes - Hurricane Havoc (USA).cue" size="116" crc="b84a056c" md5="ed240b89a476d608f4d68d27abd6fdc7" sha1="858dec3db6674de9246f1a8e2dc6789426d3ec8f"/>
@@ -128794,13 +128794,13 @@
 		<rom name="Neverwinter Nights - Platinum (USA) (Disc 4).bin" size="684570768" crc="46848c16" md5="cecf658de6b801685278cb8c9c8a5997" sha1="51903430dbdd5f3f2235baf1f0b13ae9a0d146e4"/>
 		<rom name="Neverwinter Nights - Platinum (USA) (Disc 4).cue" size="110" crc="261903ec" md5="2e7facc888ce7b1df3cdc1bd1deccef6" sha1="dcbefb64c12f75ea0b3032d14a626340cfdbae2a"/>
 	</game>
-	<game name="Neverwinter Nights - Shadows of Undrentide (USA, Asia)" id="29021">
+	<game name="Neverwinter Nights - Shadows of Undrentide (USA, China)" id="29021">
 		<category>Add-Ons</category>
-		<description>Neverwinter Nights: Shadows of Undrentide (USA, Asia)</description>
+		<description>Neverwinter Nights: Shadows of Undrentide (USA, China)</description>
 		<serial>Part # 24588CD</serial>
 		<version>1.30.7041</version>
-		<rom name="Neverwinter Nights - Shadows of Undrentide (USA, Asia).bin" size="634917696" crc="114cf7c0" md5="46c896cbbe061d745fa1b0d30f8884f5" sha1="6c09e58ff143f4f1e80ee43194c0a3767676400d"/>
-		<rom name="Neverwinter Nights - Shadows of Undrentide (USA, Asia).cue" size="120" crc="a77a23fb" md5="ce2dedfb4a0219f548ddc584d8d05349" sha1="9d197ba39e4eda9d679dc4d0cd3e651110db8959"/>
+		<rom name="Neverwinter Nights - Shadows of Undrentide (USA, China).bin" size="634917696" crc="114cf7c0" md5="46c896cbbe061d745fa1b0d30f8884f5" sha1="6c09e58ff143f4f1e80ee43194c0a3767676400d"/>
+		<rom name="Neverwinter Nights - Shadows of Undrentide (USA, China).cue" size="121" crc="b9ce2127" md5="52bb2f757e29a50d2483e4ffb0fc7bd7" sha1="6c556930ec6f3a4431b3d48f10fb18f94ea0ab17"/>
 	</game>
 	<game name="Neverwinter Nights 2 (Europe) (En,Fr,De,Es,It)" id="72861">
 		<category>Games</category>
