@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,700) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-05 01-26-30) (Retool)</description>
-		<version>2026-11-05 01-26-30</version>
-		<date>2026-11-05 09-20-12</date>
+		<description>IBM - PC compatible (13,701) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-05 21-53-51) (Retool)</description>
+		<version>2026-11-05 21-53-51</version>
+		<date>2026-11-06 09-17-22</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -24950,11 +24950,11 @@
 		<serial>TZB00011889UND2</serial>
 		<rom name="Dishonored - Game of the Year Edition (USA) (En,Fr,Es) (Disc 2).iso" size="5256740864" crc="7ad679ca" md5="60e65704ab0f6751b261e2d1fbda581e" sha1="7015a90ec2416cfd469a1fb5bb7c19cdc7765ee9"/>
 	</game>
-	<game name="Dishonored 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)" id="65937">
+	<game name="Dishonored 2 (World)" id="65937">
 		<category>Games</category>
-		<description>Dishonored 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)</description>
+		<description>Dishonored 2 (World)</description>
 		<serial>D9-DI2PCG02, TZB17134UND</serial>
-		<rom name="Dishonored 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru).iso" size="8166899712" crc="5090e16e" md5="aca5d3b69043ebf96a2fe4ba9d94a3e2" sha1="44df30b3a5a38b204ec7971d2fdd4c2fc8eb1269"/>
+		<rom name="Dishonored 2 (World).iso" size="8166899712" crc="5090e16e" md5="aca5d3b69043ebf96a2fe4ba9d94a3e2" sha1="44df30b3a5a38b204ec7971d2fdd4c2fc8eb1269"/>
 	</game>
 	<game name="Disney - Pixar Buzz Lightyear of Star Command (USA, Australia)" id="30026">
 		<category>Games</category>
@@ -31513,11 +31513,11 @@
 		<rom name="Evil Twin - Cyprien's Chronicles (Europe) (En,Fr,De,Es,It) (Disc 2).bin" size="272700288" crc="be988be5" md5="5df7f7eb1ba7ed43549565bc9caa4981" sha1="132792405fe4f40c9c4d15ee27a0d39ff354bd4a"/>
 		<rom name="Evil Twin - Cyprien's Chronicles (Europe) (En,Fr,De,Es,It) (Disc 2).cue" size="133" crc="7b76d5e7" md5="d61a3cb185f83e0f4b6fd71c97358eaf" sha1="df26890f68a20eb28b089ed2d791954697bb4ac3"/>
 	</game>
-	<game name="Evil Within 2, The (Australia)" id="130291">
+	<game name="Evil Within 2, The (Europe, Australia)" id="130291">
 		<category>Games</category>
-		<description>Evil Within 2, The (Australia)</description>
+		<description>Evil Within 2, The (Europe, Australia)</description>
 		<serial>D9-EV2PCG02</serial>
-		<rom name="Evil Within 2, The (Australia).iso" size="8472625152" crc="5509f34d" md5="2961b691b5ca1a0c5d6ea38b532da7b5" sha1="9637a65212444fbfb2e183b1757a64b54c6d0b05"/>
+		<rom name="Evil Within 2, The (Europe, Australia).iso" size="8472625152" crc="5509f34d" md5="2961b691b5ca1a0c5d6ea38b532da7b5" sha1="9637a65212444fbfb2e183b1757a64b54c6d0b05"/>
 	</game>
 	<game name="Evil Within, The (Europe, Asia) (Disc 1)" id="126969">
 		<category>Games</category>
@@ -40459,6 +40459,12 @@
 		<description>Grid 2 (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl)</description>
 		<serial>MGRI2CDEU00</serial>
 		<rom name="Grid 2 (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl).iso" size="6190432256" crc="23fd3617" md5="f475febcbe1e33fe150df168d13767d0" sha1="533d9d492398f3d883e9281192a901458877261f"/>
+	</game>
+	<game name="Grid Autosport (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru)" id="138254">
+		<category>Games</category>
+		<description>Grid Autosport (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru)</description>
+		<serial>500032111LB</serial>
+		<rom name="Grid Autosport (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru).iso" size="7992868864" crc="decb187d" md5="616029c6254c4727b694eb8cf1995ed2" sha1="1f06f19f40a7827d279879a2bf352503d246d307"/>
 	</game>
 	<game name="Grid Run (Europe)" id="84089">
 		<category>Games</category>
@@ -92082,7 +92088,7 @@
 	<game name="Street Fighter V (Europe, Brazil) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru)" id="55371">
 		<category>Games</category>
 		<description>Street Fighter V (Europe, Brazil) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru)</description>
-		<serial>DV1-97242-00EUR, CP5360PN</serial>
+		<serial>DV1-97242-00EUR, CP5360PN, 500034291LB</serial>
 		<rom name="Street Fighter V (Europe, Brazil) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru).iso" size="6752108544" crc="e9ce0439" md5="d696dfe9e8c6315f4788441fb56ed48b" sha1="d79fff66f378d83e1ee3b261a31f253c7e13ee7b"/>
 	</game>
 	<game name="Street Fighter X Tekken (Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru,Cs)" id="52269">
@@ -105013,23 +105019,23 @@
 		<description>Wasteland 2: Director's Cut (USA) (En,Fr,De,Es,It,Pl,Ru,Tr)</description>
 		<rom name="Wasteland 2 - Director's Cut (USA) (En,Fr,De,Es,It,Pl,Ru,Tr).iso" size="7934410752" crc="2ba17246" md5="485384117d808083d5928931e9b92a8e" sha1="587993e843c1084fb0bc5a2e2e13faefeea04647"/>
 	</game>
-	<game name="Watch_Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1)" id="48433">
+	<game name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1)" id="48433">
 		<category>Games</category>
-		<description>Watch_Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1)</description>
+		<description>Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1)</description>
 		<serial>300062334, 300062344, 688051-DVD1</serial>
-		<rom name="Watch_Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1).iso" size="7936540672" crc="0a5654e9" md5="43a374e46c3bf5815c18959a73ad43a5" sha1="19519e5456c736036cfe2a34c1c4323b7407e5e2"/>
+		<rom name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1).iso" size="7936540672" crc="0a5654e9" md5="43a374e46c3bf5815c18959a73ad43a5" sha1="19519e5456c736036cfe2a34c1c4323b7407e5e2"/>
 	</game>
-	<game name="Watch_Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2)" id="48434">
+	<game name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2)" id="48434">
 		<category>Games</category>
-		<description>Watch_Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2)</description>
+		<description>Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2)</description>
 		<serial>300062335, 300062345, 688051-DVD2</serial>
-		<rom name="Watch_Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2).iso" size="7898988544" crc="72e0a0df" md5="b499206f881d1279fcc9125724e23482" sha1="72667c89fcd7abbcd8a543b6b2d76f98c17c4ad4"/>
+		<rom name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2).iso" size="7898988544" crc="72e0a0df" md5="b499206f881d1279fcc9125724e23482" sha1="72667c89fcd7abbcd8a543b6b2d76f98c17c4ad4"/>
 	</game>
-	<game name="Watch_Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3)" id="48435">
+	<game name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3)" id="48435">
 		<category>Games</category>
-		<description>Watch_Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3)</description>
+		<description>Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3)</description>
 		<serial>300062336, 300062346, 688051-DVD3</serial>
-		<rom name="Watch_Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3).iso" size="7863402496" crc="0f4250de" md5="38348e16804be8b3cdd06435d48ce13c" sha1="94420d12d091d7580f72a5f0ecc2899f654d4e62"/>
+		<rom name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3).iso" size="7863402496" crc="0f4250de" md5="38348e16804be8b3cdd06435d48ce13c" sha1="94420d12d091d7580f72a5f0ecc2899f654d4e62"/>
 	</game>
 	<game name="Water Horse, The - Legend of the Deep (Australia)" id="129071">
 		<category>Games</category>

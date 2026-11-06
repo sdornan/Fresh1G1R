@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (394) (-y) [-aAbBcefkmMoprv] (2026-11-03 12-56-30) (Retool)</description>
-		<version>2026-11-03 12-56-30</version>
-		<date>2026-11-05 09-15-01</date>
+		<description>Sony - PlayStation 5 (397) (-y) [-aAbBcefkmMoprv] (2026-11-05 11-06-30) (Retool)</description>
+		<version>2026-11-05 11-06-30</version>
+		<date>2026-11-06 09-09-11</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1039,6 +1039,13 @@
 		<serial>PPSA-30144/US, ECJS 00050</serial>
 		<version>01.00</version>
 		<rom name="Ghost of Yotei (USA, Japan).iso" size="97135624192" crc="897472a2" md5="469b27b71f13025ab9b589e8abd3d01d" sha1="04efa89d7643dd3a8fb705049193e3855abff54f"/>
+	</game>
+	<game name="Ghost of Yotei - Complete Edition (Japan)" id="140025">
+		<category>Games</category>
+		<description>Ghost of Yōtei: Complete Edition (Japan)</description>
+		<serial>ECJS 00057</serial>
+		<version>01.00</version>
+		<rom name="Ghost of Yotei - Complete Edition (Japan).iso" size="96144064512" crc="518b69da" md5="44425cd7b034372c474920aa970912c9" sha1="3ee164fdffb931641916c13186859dd9c38200dc"/>
 	</game>
 	<game name="Ghostwire Tokyo (Europe) (En,Ja,Fr,De,Es,It,Pl,Ru,Ar)" id="103831">
 		<category>Games</category>
@@ -2292,6 +2299,13 @@
 		<version>01.01</version>
 		<rom name="Star Trek - Resurgence (USA) (En,Fr,De,Es,Zh).iso" size="40008351744" crc="29764716" md5="f0a5e1e6033908b00cb73b9461fbd0c0" sha1="5bedcbf2589dcfac17680c5679d5f4f82309abd4"/>
 	</game>
+	<game name="Star Trek - Voyager - Across the Unknown - Deluxe Edition (Germany)" id="140026">
+		<category>Games</category>
+		<description>Star Trek: Voyager: Across the Unknown: Deluxe Edition (Germany)</description>
+		<serial>PPSA-36358/EU</serial>
+		<version>01.00</version>
+		<rom name="Star Trek - Voyager - Across the Unknown - Deluxe Edition (Germany).iso" size="40008351744" crc="9818577a" md5="dbf86e9ecae8e5184e9f07fdcb6cf833" sha1="8955529eeefe0138990f97d3dfe98f5729c7cc26"/>
+	</game>
 	<game name="Star Wars - Dark Forces - Remaster (USA) (En,Fr,De,Es,It)" id="133240">
 		<category>Games</category>
 		<description>Star Wars: Dark Forces: Remaster (USA) (En,Fr,De,Es,It)</description>
@@ -2767,5 +2781,12 @@
 		<serial>CUSA-24038</serial>
 		<version>01.00</version>
 		<rom name="Ys Memoire - The Oath in Felghana (USA).iso" size="40008351744" crc="a7220b7d" md5="21a8307458d71f9da45287eff0d45b81" sha1="0e3caa3ac87dcb05a067600378093e0f8756123b"/>
+	</game>
+	<game name="Ys X - Proud Nordics (Japan)" id="140024">
+		<category>Games</category>
+		<description>Ys X: Proud Nordics (Japan)</description>
+		<serial>ELJM 30701</serial>
+		<version>01.00</version>
+		<rom name="Ys X - Proud Nordics (Japan).iso" size="40008351744" crc="0b953572" md5="53dc5c90617c95a39d6455d39540dc90" sha1="03c80bc25813656d0a5334b28c79504488b38754"/>
 	</game>
 </datafile>

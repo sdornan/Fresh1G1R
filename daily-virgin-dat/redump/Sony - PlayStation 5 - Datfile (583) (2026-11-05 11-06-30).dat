@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5</name>
-		<description>Sony - PlayStation 5 - Datfile (579) (2026-11-03 12-56-30)</description>
-		<version>2026-11-03 12-56-30</version>
-		<date>2026-11-03 12-56-30</date>
+		<description>Sony - PlayStation 5 - Datfile (583) (2026-11-05 11-06-30)</description>
+		<version>2026-11-05 11-06-30</version>
+		<date>2026-11-05 11-06-30</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -1543,6 +1543,13 @@
 		<description>Ghost of Yōtei (USA, Japan)</description>
 		<rom name="Ghost of Yotei (USA, Japan).iso" size="97135624192" crc="897472a2" md5="469b27b71f13025ab9b589e8abd3d01d" sha1="04efa89d7643dd3a8fb705049193e3855abff54f"/>
 	</game>
+	<game name="Ghost of Yotei - Complete Edition (Japan)" id="140025">
+		<category>Games</category>
+		<serial>ECJS 00057</serial>
+		<version>01.00</version>
+		<description>Ghost of Yōtei: Complete Edition (Japan)</description>
+		<rom name="Ghost of Yotei - Complete Edition (Japan).iso" size="96144064512" crc="518b69da" md5="44425cd7b034372c474920aa970912c9" sha1="3ee164fdffb931641916c13186859dd9c38200dc"/>
+	</game>
 	<game name="Ghostwire Tokyo (Europe) (En,Ja,Fr,De,Es,It,Pl,Ru,Ar)" id="103831">
 		<category>Games</category>
 		<serial>PPSA-03397</serial>
@@ -1619,6 +1626,13 @@
 		<version>01.00</version>
 		<description>Gran Turismo 7 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="Gran Turismo 7 (Europe, Australia) (En,Fr,De,Es,It).iso" size="91598880768" crc="bf5ba6f1" md5="7d66d57a19af7268f265850290648ee6" sha1="ad8592066ea11bfa54ebbafe77febc8b5c0a7924"/>
+	</game>
+	<game name="Gran Turismo 7 (Japan)" id="140023">
+		<category>Games</category>
+		<serial>ECJS 00017</serial>
+		<version>01.00</version>
+		<description>Gran Turismo 7 (Japan)</description>
+		<rom name="Gran Turismo 7 (Japan).iso" size="91598880768" crc="3388e6f3" md5="1485a513b05a169615ef67ba483afbf9" sha1="f610fbb4a734d1a4d4c4a1aef2dca3b237338674"/>
 	</game>
 	<game name="Gran Turismo 7 (USA)" id="134272">
 		<category>Games</category>
@@ -3425,6 +3439,13 @@
 		<description>Star Trek: Resurgence (USA) (En,Fr,De,Es,Zh)</description>
 		<rom name="Star Trek - Resurgence (USA) (En,Fr,De,Es,Zh).iso" size="40008351744" crc="29764716" md5="f0a5e1e6033908b00cb73b9461fbd0c0" sha1="5bedcbf2589dcfac17680c5679d5f4f82309abd4"/>
 	</game>
+	<game name="Star Trek - Voyager - Across the Unknown - Deluxe Edition (Germany)" id="140026">
+		<category>Games</category>
+		<serial>PPSA-36358/EU</serial>
+		<version>01.00</version>
+		<description>Star Trek: Voyager: Across the Unknown: Deluxe Edition (Germany)</description>
+		<rom name="Star Trek - Voyager - Across the Unknown - Deluxe Edition (Germany).iso" size="40008351744" crc="9818577a" md5="dbf86e9ecae8e5184e9f07fdcb6cf833" sha1="8955529eeefe0138990f97d3dfe98f5729c7cc26"/>
+	</game>
 	<game name="Star Wars - Dark Forces - Remaster (USA) (En,Fr,De,Es,It)" id="133240">
 		<category>Games</category>
 		<serial>PPSA-19728</serial>
@@ -4061,5 +4082,12 @@
 		<version>01.00</version>
 		<description>Ys Memoire: The Oath in Felghana (USA)</description>
 		<rom name="Ys Memoire - The Oath in Felghana (USA).iso" size="40008351744" crc="a7220b7d" md5="21a8307458d71f9da45287eff0d45b81" sha1="0e3caa3ac87dcb05a067600378093e0f8756123b"/>
+	</game>
+	<game name="Ys X - Proud Nordics (Japan)" id="140024">
+		<category>Games</category>
+		<serial>ELJM 30701</serial>
+		<version>01.00</version>
+		<description>Ys X: Proud Nordics (Japan)</description>
+		<rom name="Ys X - Proud Nordics (Japan).iso" size="40008351744" crc="0b953572" md5="53dc5c90617c95a39d6455d39540dc90" sha1="03c80bc25813656d0a5334b28c79504488b38754"/>
 	</game>
 </datafile>

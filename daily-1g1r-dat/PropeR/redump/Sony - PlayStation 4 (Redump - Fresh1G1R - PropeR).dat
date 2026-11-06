@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,952) (-y) [-aAbBcdkmMpPuv] (2026-11-05 02-16-30) (Retool)</description>
-		<version>2026-11-05 02-16-30</version>
-		<date>2026-11-05 09-23-34</date>
+		<description>Sony - PlayStation 4 (1,953) (-y) [-aAbBcdkmMpPuv] (2026-11-06 00-33-51) (Retool)</description>
+		<version>2026-11-06 00-33-51</version>
+		<date>2026-11-06 09-25-30</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -879,12 +879,12 @@
 		<version>01.01</version>
 		<rom name="Astro Bot - Soujiu Xingdong (China).iso" size="8312913920" crc="8e519b64" md5="3f2b818e6ddc0d4bb83ce24129344590" sha1="2b1afe5abd4911eb5c97e9d0d6fc758024b14826"/>
 	</game>
-	<game name="Astroneer (USA)" id="80421">
+	<game name="Astroneer (USA, Japan)" id="80421">
 		<category>Games</category>
-		<description>Astroneer (USA)</description>
-		<serial>CUSA-16473</serial>
+		<description>Astroneer (USA, Japan)</description>
+		<serial>CUSA-16473, PLJM 16967</serial>
 		<version>01.04</version>
-		<rom name="Astroneer (USA).iso" size="25024331776" crc="257fcc23" md5="619e31da7288a62cb197144a6f5d2527" sha1="c6a171ea276a6bbabe9ce2ad013c8f134f4ca9a1"/>
+		<rom name="Astroneer (USA, Japan).iso" size="25024331776" crc="257fcc23" md5="619e31da7288a62cb197144a6f5d2527" sha1="c6a171ea276a6bbabe9ce2ad013c8f134f4ca9a1"/>
 	</game>
 	<game name="Atari Flashback Classics Vol. 1 (USA)" id="65437">
 		<category>Games</category>
@@ -3503,6 +3503,13 @@
 		<serial>CUSA-09125</serial>
 		<version>01.01</version>
 		<rom name="Doom VFR (USA).iso" size="15482486784" crc="623dfddb" md5="19db7a0f5b8fae8d5e94f46541714bfc" sha1="404017cf2425f41d011ee0fd783d61846e21d8ba"/>
+	</game>
+	<game name="Doraemon - Nobita no Bokujou Monogatari (Japan)" id="140033">
+		<category>Games</category>
+		<description>Doraemon: Nobita no Bokujou Monogatari (Japan)</description>
+		<serial>PLJS 36148</serial>
+		<version>01.00</version>
+		<rom name="Doraemon - Nobita no Bokujou Monogatari (Japan).iso" size="2142502912" crc="57192e48" md5="5e2c6eb0073582bb7adf3767d31f2b4b" sha1="508403e111b727fc3228785a2a9ff8736b0cdbc9"/>
 	</game>
 	<game name="Doraemon - Story of Seasons (Europe)" id="139473">
 		<category>Games</category>
