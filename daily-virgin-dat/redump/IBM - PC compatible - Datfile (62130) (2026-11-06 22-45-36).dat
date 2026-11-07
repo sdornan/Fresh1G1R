@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62120) (2026-11-05 21-53-51)</description>
-		<version>2026-11-05 21-53-51</version>
-		<date>2026-11-05 21-53-51</date>
+		<description>IBM - PC compatible - Datfile (62130) (2026-11-06 22-45-36)</description>
+		<version>2026-11-06 22-45-36</version>
+		<date>2026-11-06 22-45-36</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -85478,6 +85478,27 @@
 		<rom name="Computer Shopper - Issue 171 May 2002 (UK).cue" size="131" crc="6a361c18" md5="a965f762bc9d4469c6e93346c0ddef5e" sha1="c94cac56c4af0848de56e1932929738565ab70ec"/>
 		<rom name="Computer Shopper - Issue 171 May 2002 (UK).bin" size="778606080" crc="67ad9a02" md5="1ce585a78bc1198f781158416a300723" sha1="ba851a733d7aa39fda65d1893d2e424b101121fb"/>
 	</game>
+	<game name="Computer Shopper - Issue 172 June 2002 (UK)" id="140040">
+		<category>Coverdiscs</category>
+		<serial>DPCS0602</serial>
+		<description>Computer Shopper: Issue 172 June 2002 (UK)</description>
+		<rom name="Computer Shopper - Issue 172 June 2002 (UK).cue" size="109" crc="5026cd35" md5="6779707e51b41db36793593248b1f9c5" sha1="601bf1199ba9d23da87bba9d83dba898b551bbbc"/>
+		<rom name="Computer Shopper - Issue 172 June 2002 (UK).bin" size="764882160" crc="3f9d154b" md5="68d9aa50acda33f00ad3f2d6a50a7032" sha1="ddd2fbf685877d38ec5f4cbfdb712c07598ba9c7"/>
+	</game>
+	<game name="Computer Shopper - Issue 173 July 2002 (UK)" id="140041">
+		<category>Coverdiscs</category>
+		<serial>DPCS0702</serial>
+		<description>Computer Shopper: Issue 173 July 2002 (UK)</description>
+		<rom name="Computer Shopper - Issue 173 July 2002 (UK).cue" size="109" crc="2e8a924f" md5="adb875acd7fba008b0ee73c2ac5291b6" sha1="219df0b06b9a4b1599336b7a6676375fb8c6e8fd"/>
+		<rom name="Computer Shopper - Issue 173 July 2002 (UK).bin" size="768920544" crc="fe594c2f" md5="2c3e7d31e6a00c664ebb2efd39612e72" sha1="8abc92e2e9678ac38f218de71a19db99d0f9f2b2"/>
+	</game>
+	<game name="Computer Shopper - Issue 175 September 2002 (UK)" id="140042">
+		<category>Coverdiscs</category>
+		<serial>DPCS0902</serial>
+		<description>Computer Shopper: Issue 175 September 2002 (UK)</description>
+		<rom name="Computer Shopper - Issue 175 September 2002 (UK).cue" size="114" crc="54a5d87f" md5="fe8a6c3a96e02f25f44ccb20f377d471" sha1="b21fb958b724a63a615962c43631ce51c1a681f1"/>
+		<rom name="Computer Shopper - Issue 175 September 2002 (UK).bin" size="780913392" crc="2d11d57e" md5="63df7e462f84af001b0513db9fc78d81" sha1="9d783ae14f44b98c05fdd68d6df4b6257333d414"/>
+	</game>
 	<game name="Computer Shopper - Issue 176 October 2002 (UK)" id="99884">
 		<category>Coverdiscs</category>
 		<serial>DPCS1002</serial>
@@ -110856,10 +110877,10 @@
 		<description>Dishonored (Europe, Australia)</description>
 		<rom name="Dishonored (Europe, Australia).iso" size="5703139328" crc="f48ee6d5" md5="6d90577decdc3a813f382df6f10ab31b" sha1="8888d8e9f70f2e12fd81e624ccae42a088bef680"/>
 	</game>
-	<game name="Dishonored (Poland)" id="140037">
+	<game name="Dishonored (Poland) (En,Pl,Ru,Cs,Hu)" id="140037">
 		<category>Games</category>
-		<description>Dishonored (Poland)</description>
-		<rom name="Dishonored (Poland).iso" size="5699110912" crc="40d32ec0" md5="df69cbb5051577e9d6a53e2733e3b323" sha1="0ca8a283425ab90bedecef10a03b24f678dd5009"/>
+		<description>Dishonored (Poland) (En,Pl,Ru,Cs,Hu)</description>
+		<rom name="Dishonored (Poland) (En,Pl,Ru,Cs,Hu).iso" size="5699110912" crc="40d32ec0" md5="df69cbb5051577e9d6a53e2733e3b323" sha1="0ca8a283425ab90bedecef10a03b24f678dd5009"/>
 	</game>
 	<game name="Dishonored (Russia) (En,Pl,Ru,Cs,Hu)" id="103510">
 		<category>Games</category>
@@ -212500,6 +212521,11 @@
 		<description>iP! 2008.12 (Japan)</description>
 		<rom name="iP! 2008.12 (Japan).iso" size="4706037760" crc="37c9e45f" md5="8b52b933acc66390858aeda9fe64e5ef" sha1="7ccde2c5e2af17134a5998821e6444104685973f"/>
 	</game>
+	<game name="iP! 2009.01 (Japan)" id="140049">
+		<category>Coverdiscs</category>
+		<description>iP! 2009.01 (Japan)</description>
+		<rom name="iP! 2009.01 (Japan).iso" size="4384268288" crc="0f8b3c0c" md5="d35fac98f6962543f4148d6a06c2ea5d" sha1="0ecd7ad265fafd796c25b99b09561cf3e973dd55"/>
+	</game>
 	<game name="iPanzer '44 (Europe)" id="32230">
 		<category>Games</category>
 		<version>1.08</version>
@@ -264274,6 +264300,14 @@
 		<description>MechWarrior 3 (Japan)</description>
 		<rom name="MechWarrior 3 (Japan).iso" size="512393216" crc="79d2eef0" md5="cdc1be14e20bd8fa2cd8d2cb757aa68a" sha1="8ce70f07b76fac980486b89ad6d72a05bc17c6de"/>
 	</game>
+	<game name="MechWarrior 3 (UK) (Rerelease)" id="140047">
+		<category>Games</category>
+		<description>MechWarrior 3 (UK) (Rerelease)</description>
+		<rom name="MechWarrior 3 (UK) (Rerelease).cue" size="354" crc="17aa5c18" md5="7451e62f970ddd1c06c1a77da3325053" sha1="9b3c0db8c2b8e70807ab1fe1acc2d7c22017ed4d"/>
+		<rom name="MechWarrior 3 (UK) (Rerelease) (Track 1).bin" size="623609280" crc="5cb25f24" md5="8df0472ec7aaf2e77e95235436352205" sha1="bc977b9585fafa47a8b0efa361caad4ed72296bd"/>
+		<rom name="MechWarrior 3 (UK) (Rerelease) (Track 2).bin" size="34207488" crc="b8b225cb" md5="edf7b46e6176ab1eb20b4ca3346c63b6" sha1="3a4b0153016bd6322fe5e77290bdf7400ca66413"/>
+		<rom name="MechWarrior 3 (UK) (Rerelease) (Track 3).bin" size="33172608" crc="1143d3a8" md5="1c3040e3e8b9cd0fcbe02fd432ff65b8" sha1="eda6aaddff86a60b3325d4f2a89caee4394a0d97"/>
+	</game>
 	<game name="MechWarrior 3 (USA)" id="58026">
 		<category>Games</category>
 		<version>1.0.0.8</version>
@@ -264320,6 +264354,14 @@
 		<rom name="MechWarrior 3 (USA) (Rerelease) (1999-10-05) (Track 1).bin" size="626299968" crc="101241b9" md5="3c8d8144125ee5680e7ac637386c0b58" sha1="13f40191e79dd3a50721da4920baaadd67ebfd5f"/>
 		<rom name="MechWarrior 3 (USA) (Rerelease) (1999-10-05) (Track 2).bin" size="33177312" crc="2a92b884" md5="2087af200c41c08c10e98c03ce7e1417" sha1="3942724cda1963269436d6abe175eb27f224c968"/>
 		<rom name="MechWarrior 3 (USA) (Rerelease) (1999-10-05) (Track 3).bin" size="33854688" crc="e4a6c0b5" md5="31c1533fcd21f846dcf7e0d01b923820" sha1="01c30cd1244fbfc16f406f31d9f1e947a8f26617"/>
+	</game>
+	<game name="MechWarrior 3 - Pirate's Moon (Expansion Pack) (UK) (Rerelease)" id="140048">
+		<category>Add-Ons</category>
+		<serial>57154.102.PM</serial>
+		<description>MechWarrior 3: Pirate's Moon (Expansion Pack) (UK) (Rerelease)</description>
+		<rom name="MechWarrior 3 - Pirate's Moon (Expansion Pack) (UK) (Rerelease).cue" size="296" crc="b8918161" md5="1b45cb1c2e1e9b3aceb3e28b8e088aa4" sha1="2e8a321ec4cf70893c12e895f8da751078d23b05"/>
+		<rom name="MechWarrior 3 - Pirate's Moon (Expansion Pack) (UK) (Rerelease) (Track 1).bin" size="236046720" crc="e5c948c3" md5="53b4c6b89f87fe412328b1ff2af0b7be" sha1="576c55f1ab5a95778b785b9e9674af33b4118eef"/>
+		<rom name="MechWarrior 3 - Pirate's Moon (Expansion Pack) (UK) (Rerelease) (Track 2).bin" size="99633072" crc="83e38287" md5="dc9a45a2ad7ee97c0ce77b3dee821bbd" sha1="acbe4a7efb1d9b6890c7bb966543ff282e2c118b"/>
 	</game>
 	<game name="MechWarrior 3 - Pirate's Moon (Expansion Pack) (USA)" id="45315">
 		<category>Add-Ons</category>
@@ -357710,6 +357752,12 @@
 		<rom name="Real Drift - Racing Handle (Korea).cue" size="100" crc="733e1b85" md5="7173e4c1a7a87a706b932b21d2c53335" sha1="6f85a138d6b308c219f3c5789c6ef5f7096070f2"/>
 		<rom name="Real Drift - Racing Handle (Korea).bin" size="3198720" crc="cba61704" md5="5c17ce04c32468c6c05d2113d6d40de4" sha1="82b5afb40d82b64fb896cc231a00952cdc4e69d8"/>
 	</game>
+	<game name="Real E$tate Empire (Europe)" id="140043">
+		<category>Games</category>
+		<description>Real E$tate Empire (Europe)</description>
+		<rom name="Real E$tate Empire (Europe).cue" size="93" crc="2cff3ebe" md5="187484391df4cfa19d854584b0b0d2c7" sha1="96b9c4d94e87e1ac19176f83f9930e8418323140"/>
+		<rom name="Real E$tate Empire (Europe).bin" size="11266080" crc="357464f4" md5="84bee0a2bf1701277310afaae00b8b61" sha1="2f5c2fa3d8516f6a5ee9ef64ff65a0f0874eaaf8"/>
+	</game>
 	<game name="Real Pool (USA)" id="47238">
 		<category>Games</category>
 		<serial>04-20881CD</serial>
@@ -379303,12 +379351,12 @@
 		<rom name="Scooby-Doo! Activity Challenge (USA).cue" size="102" crc="48aa3763" md5="51f07d4a1365245f4447abb7fbc98f58" sha1="90d2806d8cbafcb110d82bcac9444fc83d134029"/>
 		<rom name="Scooby-Doo! Activity Challenge (USA).bin" size="266451024" crc="cf287130" md5="c56237e272ec806fb6d33b19cd6215f9" sha1="da1fb65091b4a08e921de67b2cfe4eeebccd33a8"/>
 	</game>
-	<game name="Scooby-Doo! Case File #1 - The Glowing Bug Man (UK)" id="88127">
+	<game name="Scooby-Doo! Case File #1 - The Glowing Bug Man (Europe)" id="88127">
 		<category>Games</category>
 		<serial>1063A</serial>
-		<description>Scooby-Doo! Case File #1: The Glowing Bug Man (UK)</description>
-		<rom name="Scooby-Doo! Case File #1 - The Glowing Bug Man (UK).cue" size="117" crc="9ff08cd3" md5="ca96b2524d706987f84c190b6b289068" sha1="04eb93c6851f915b9386f16df412651a492da3d7"/>
-		<rom name="Scooby-Doo! Case File #1 - The Glowing Bug Man (UK).bin" size="490848288" crc="876e52fd" md5="115e1f36fe0a7db24667e1ac3b7d2775" sha1="dac982c2ea1d547a4b59e0e194ed6f21d27f69d9"/>
+		<description>Scooby-Doo! Case File #1: The Glowing Bug Man (Europe)</description>
+		<rom name="Scooby-Doo! Case File #1 - The Glowing Bug Man (Europe).cue" size="121" crc="ffb7f171" md5="b3d950c68e62f7f7cb980eb67c01782f" sha1="6c70522e87cf3945de521b41bbecb0498eca891e"/>
+		<rom name="Scooby-Doo! Case File #1 - The Glowing Bug Man (Europe).bin" size="490848288" crc="876e52fd" md5="115e1f36fe0a7db24667e1ac3b7d2775" sha1="dac982c2ea1d547a4b59e0e194ed6f21d27f69d9"/>
 	</game>
 	<game name="Scooby-Doo! Case File #1 - The Glowing Bug Man (USA, Canada)" id="40702">
 		<category>Educational</category>
@@ -391182,6 +391230,20 @@
 		<rom name="Shogun - Total War - The Mongol Invasion (USA).cue" size="112" crc="b3e9224f" md5="7a121e19bc8c2ff5546efc7d74a6ca36" sha1="2d46d1428845f93043ebaff152f7d0b0356667e2"/>
 		<rom name="Shogun - Total War - The Mongol Invasion (USA).bin" size="756654864" crc="11b5bbc1" md5="cee4508ae19f4b4bdd4f5d39aec03791" sha1="6bd738015a83b03fe7d6ee370f3b33ed7625c1bc"/>
 	</game>
+	<game name="Shogun - Total War - Warlord Edition (Europe) (Disc 1)" id="140044">
+		<category>Games</category>
+		<serial>sov. 2.6.1</serial>
+		<description>Shogun: Total War: Warlord Edition (Europe) (Disc 1)</description>
+		<rom name="Shogun - Total War - Warlord Edition (Europe) (Disc 1).cue" size="120" crc="cd9e1854" md5="5c8300663b05bdab4caff5c36702b3b0" sha1="02801c6710449f2c574a6bb3413db7c3da4d64dc"/>
+		<rom name="Shogun - Total War - Warlord Edition (Europe) (Disc 1).bin" size="831034512" crc="7473d7cd" md5="3ecd2145e832118be31a123a60dfac70" sha1="9ce7805caf572ddab8efe1bc9c08a47eebba6335"/>
+	</game>
+	<game name="Shogun - Total War - Warlord Edition (Europe) (Disc 2)" id="140045">
+		<category>Games</category>
+		<serial>sov. 2.6.1</serial>
+		<description>Shogun: Total War: Warlord Edition (Europe) (Disc 2)</description>
+		<rom name="Shogun - Total War - Warlord Edition (Europe) (Disc 2).cue" size="120" crc="ccc33e85" md5="c6fe46329fb80178e991708924c09f0a" sha1="1612735aceeacce3b68ed8c31f102af6f67049e6"/>
+		<rom name="Shogun - Total War - Warlord Edition (Europe) (Disc 2).bin" size="754601568" crc="2a3d155a" md5="87c92203976d65b4424c159bedc3365d" sha1="81364251079b823e5a17bba2a56b98ba2e081507"/>
+	</game>
 	<game name="Shogun - Total War - Warlord Edition (Germany) (Disc 1)" id="54547">
 		<category>Games</category>
 		<serial>EAD08803525D</serial>
@@ -392047,6 +392109,13 @@
 		<description>Sid Meier's Alpha Centauri (Europe) (Rerelease) (2001-06-01)</description>
 		<rom name="Sid Meier's Alpha Centauri (Europe) (Rerelease) (2001-06-01).cue" size="126" crc="3e3d96ba" md5="9c38c00f8d273fab6091a3f30758f584" sha1="430f548193698ea4d9f863b49cd878285136fa36"/>
 		<rom name="Sid Meier's Alpha Centauri (Europe) (Rerelease) (2001-06-01).bin" size="701999088" crc="32a16cbd" md5="635cd4946cfc90a89bfc603d59c205d6" sha1="ef2935f348a2f3200d5c47b80d07319c84385512"/>
+	</game>
+	<game name="Sid Meier's Alpha Centauri (Europe) (Rerelease) (2003-06-19)" id="140046">
+		<category>Games</category>
+		<serial>sov. 2.5</serial>
+		<description>Sid Meier's Alpha Centauri (Europe) (Rerelease) (2003-06-19)</description>
+		<rom name="Sid Meier's Alpha Centauri (Europe) (Rerelease) (2003-06-19).cue" size="126" crc="147ddc65" md5="c487fd1cc83e0c890e07be2c3d73e50d" sha1="0d7f30752f6f34aa2445500b27c7ddf26ff9e68e"/>
+		<rom name="Sid Meier's Alpha Centauri (Europe) (Rerelease) (2003-06-19).bin" size="633087840" crc="096eea0a" md5="6696dd3c961061dd456e78e6051c0f79" sha1="6642b2bd53c75dfb6efa85c130bf735891887395"/>
 	</game>
 	<game name="Sid Meier's Alpha Centauri (Germany)" id="52568">
 		<category>Games</category>
@@ -400756,7 +400825,7 @@
 		<rom name="Sims Magazine #25, Les (France).bin" size="762727728" crc="ae8ad402" md5="af34813bdefae0b481ad98ae1f191724" sha1="e2046b43af0419041154c2275de1f480aeb77a89"/>
 	</game>
 	<game name="Sims Magazine #26, Les (France)" id="102414">
-		<category>Bonus Discs</category>
+		<category>Coverdiscs</category>
 		<description>Sims Magazine #26, Les (France)</description>
 		<rom name="Sims Magazine #26, Les (France).cue" size="97" crc="357510ee" md5="869d0f639cead1cb821b4bbd769b2b5b" sha1="74c38faafff907336d6f6d2c1e97571f9a046e1f"/>
 		<rom name="Sims Magazine #26, Les (France).bin" size="623964432" crc="a8efaba3" md5="cce7dfaac4b144b5daefd14b4229f994" sha1="ad8e40f199464d18066ff5d413b91d4ab122f0e8"/>

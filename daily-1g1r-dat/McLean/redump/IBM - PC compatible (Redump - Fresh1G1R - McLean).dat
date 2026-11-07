@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,701) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-05 21-53-51) (Retool)</description>
-		<version>2026-11-05 21-53-51</version>
-		<date>2026-11-06 09-17-22</date>
+		<description>IBM - PC compatible (13,702) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-06 22-45-36) (Retool)</description>
+		<version>2026-11-06 22-45-36</version>
+		<date>2026-11-07 08-46-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -77115,6 +77115,12 @@
 		<rom name="Real Deal Mega Solitaire, The (USA).bin" size="81546192" crc="75bcbdb4" md5="205864cc53df2b2364e5cd3e29260ee8" sha1="4d9f0e4f10563154ad5d2fed746f706b38502dbb"/>
 		<rom name="Real Deal Mega Solitaire, The (USA).cue" size="101" crc="80568c36" md5="0389088e17f0242f0b9263c202fe0b20" sha1="3ee4db3655c81edd3d23a1b488c6266122c7ff1b"/>
 	</game>
+	<game name="Real E$tate Empire (Europe)" id="140043">
+		<category>Games</category>
+		<description>Real E$tate Empire (Europe)</description>
+		<rom name="Real E$tate Empire (Europe).bin" size="11266080" crc="357464f4" md5="84bee0a2bf1701277310afaae00b8b61" sha1="2f5c2fa3d8516f6a5ee9ef64ff65a0f0874eaaf8"/>
+		<rom name="Real E$tate Empire (Europe).cue" size="93" crc="2cff3ebe" md5="187484391df4cfa19d854584b0b0d2c7" sha1="96b9c4d94e87e1ac19176f83f9930e8418323140"/>
+	</game>
 	<game name="Real Pool (USA)" id="47238">
 		<category>Games</category>
 		<description>Real Pool (USA)</description>
@@ -81893,12 +81899,12 @@
 		<rom name="Scooby-Doo! Activity Challenge (USA).bin" size="266451024" crc="cf287130" md5="c56237e272ec806fb6d33b19cd6215f9" sha1="da1fb65091b4a08e921de67b2cfe4eeebccd33a8"/>
 		<rom name="Scooby-Doo! Activity Challenge (USA).cue" size="102" crc="48aa3763" md5="51f07d4a1365245f4447abb7fbc98f58" sha1="90d2806d8cbafcb110d82bcac9444fc83d134029"/>
 	</game>
-	<game name="Scooby-Doo! Case File #1 - The Glowing Bug Man (UK)" id="88127">
+	<game name="Scooby-Doo! Case File #1 - The Glowing Bug Man (Europe)" id="88127">
 		<category>Games</category>
-		<description>Scooby-Doo! Case File #1: The Glowing Bug Man (UK)</description>
+		<description>Scooby-Doo! Case File #1: The Glowing Bug Man (Europe)</description>
 		<serial>1063A</serial>
-		<rom name="Scooby-Doo! Case File #1 - The Glowing Bug Man (UK).bin" size="490848288" crc="876e52fd" md5="115e1f36fe0a7db24667e1ac3b7d2775" sha1="dac982c2ea1d547a4b59e0e194ed6f21d27f69d9"/>
-		<rom name="Scooby-Doo! Case File #1 - The Glowing Bug Man (UK).cue" size="117" crc="9ff08cd3" md5="ca96b2524d706987f84c190b6b289068" sha1="04eb93c6851f915b9386f16df412651a492da3d7"/>
+		<rom name="Scooby-Doo! Case File #1 - The Glowing Bug Man (Europe).bin" size="490848288" crc="876e52fd" md5="115e1f36fe0a7db24667e1ac3b7d2775" sha1="dac982c2ea1d547a4b59e0e194ed6f21d27f69d9"/>
+		<rom name="Scooby-Doo! Case File #1 - The Glowing Bug Man (Europe).cue" size="121" crc="ffb7f171" md5="b3d950c68e62f7f7cb980eb67c01782f" sha1="6c70522e87cf3945de521b41bbecb0498eca891e"/>
 	</game>
 	<game name="Scooby-Doo! Jinx at the Sphinx (USA) (v1.02)" id="101460">
 		<category>Games</category>
