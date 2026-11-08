@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,183) (-y) [-aAbBcdkmMpPuv] (2026-11-06 22-45-36) (Retool)</description>
-		<version>2026-11-06 22-45-36</version>
-		<date>2026-11-07 08-54-10</date>
+		<description>IBM - PC compatible (27,192) (-y) [-aAbBcdkmMpPuv] (2026-11-07 22-47-42) (Retool)</description>
+		<version>2026-11-07 22-47-42</version>
+		<date>2026-11-08 09-02-29</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -17553,6 +17553,12 @@
 		<version>1.0</version>
 		<rom name="Barbie Magic Genie Bottle and CD-ROM (USA).bin" size="521151456" crc="af9ad62d" md5="2a0b9c54eeb4f58f132aa5d1e1c0a28d" sha1="378dc97db5b604651afbb760d7c1d55aac8a7ae5"/>
 		<rom name="Barbie Magic Genie Bottle and CD-ROM (USA).cue" size="123" crc="82454cd7" md5="ba9590f855fedf6ec40670b95392ec8c" sha1="8f55ba79b1987f7fb3aa49a223e10a3305f0e2e0"/>
+	</game>
+	<game name="Barbie Modedesigner (Denmark)" id="140055">
+		<category>Games</category>
+		<description>Barbie Modedesigner (Denmark)</description>
+		<rom name="Barbie Modedesigner (Denmark).bin" size="562624272" crc="efbcdaf6" md5="761b844bab769d060d917353dd68a220" sha1="c3025fd43da4d25a2e5ae70e917c63986a04b685"/>
+		<rom name="Barbie Modedesigner (Denmark).cue" size="118" crc="12e6d20c" md5="74c8ef063bbc27c1250c8406adf45016" sha1="2a404552428e3978ad1bd831a6c4bef64188d795"/>
 	</game>
 	<game name="Barbie Pferdeabenteuer - Wo ist Lucky (Germany)" id="131457">
 		<category>Games</category>
@@ -69683,6 +69689,21 @@
 		<serial>LOS-011</serial>
 		<rom name="Gaku Ou - It's Heartful Days!! (Japan).iso" size="945127424" crc="c937e16e" md5="fd08e9e7ff2d8f4b1b5e58300c2ddb3d" sha1="8cd9109f1fbda3d96802b10d01c56f6d098224a2"/>
 	</game>
+	<game name="Gal's Frontier (Japan)" id="140052">
+		<category>Games</category>
+		<description>Gal's Frontier (Japan)</description>
+		<rom name="Gal's Frontier (Japan) (Track 01).bin" size="484145088" crc="37b96cca" md5="78c83f981eaea621aadf495c5a54a167" sha1="baa627e43b5e433ec50de2ef5545d22faa8ae380"/>
+		<rom name="Gal's Frontier (Japan) (Track 02).bin" size="15828960" crc="f85ad88b" md5="7a5f61422e802ccb7aa0ae3d4732bace" sha1="f5d9d91f5ca16e6e660a2d4535cea9832ddf61f8"/>
+		<rom name="Gal's Frontier (Japan) (Track 03).bin" size="15685488" crc="a954c410" md5="aaa590dd2bbe92cfc87d39f33c73fae2" sha1="9d8110f0a6bf794db1a6ebdebc9709c8d63b2062"/>
+		<rom name="Gal's Frontier (Japan) (Track 04).bin" size="15224496" crc="215837b2" md5="42a93087b3b4158a36464e45d6043119" sha1="8da5efd16f4523360e63f162fa8e120810d51811"/>
+		<rom name="Gal's Frontier (Japan) (Track 05).bin" size="17908128" crc="51097b28" md5="f395e5287acaf0c93442f49a0771f14c" sha1="bdd2417f5b4250f15c8c4b3dcf3c8800df56d209"/>
+		<rom name="Gal's Frontier (Japan) (Track 06).bin" size="17658816" crc="1e272aed" md5="1a03c7cd838cf66ec23379e253aa4333" sha1="996693077af6cb2b61cdd560a54f3a6853e1c2aa"/>
+		<rom name="Gal's Frontier (Japan) (Track 07).bin" size="15967728" crc="be0c3baa" md5="17f28a206ff367ac3da81cda18619fe5" sha1="ebeba384928db245a042f47087e354e3609c12e2"/>
+		<rom name="Gal's Frontier (Japan) (Track 08).bin" size="20391840" crc="40d20414" md5="bb1fa63d378039bce24de92513797ef9" sha1="815a32f85ee989dc8de313c1778ac1175df8e84d"/>
+		<rom name="Gal's Frontier (Japan) (Track 09).bin" size="20648208" crc="aa711262" md5="d74c0fdd687b4dae487411d1ad6f3138" sha1="9678edcfa10ff1943f03a9719354953c7dc88986"/>
+		<rom name="Gal's Frontier (Japan) (Track 10).bin" size="20627040" crc="d06d562b" md5="751d2cf26c55330361a45bb14010abc4" sha1="76dfe9e25a2ee93858eb3dcd16ebbb7ba9a4eea5"/>
+		<rom name="Gal's Frontier (Japan).cue" size="968" crc="98737986" md5="b9b645a50608ce5e2744e16c59f7fc1d" sha1="b79f20ba09985d5bb312d0ce1109f817b290e0fc"/>
+	</game>
 	<game name="GalZoo Island (Japan)" id="95955">
 		<category>Games</category>
 		<description>GalZoo Island (Japan)</description>
@@ -109520,6 +109541,14 @@
 		<rom name="Magnus &amp; Myggen - Den store skattejakten (Norway).bin" size="169489824" crc="8685f194" md5="bfd95251fe9ae784c82f63546d8ce4e7" sha1="64dabfe34378817a13d1fe6378511207b51b10f6"/>
 		<rom name="Magnus &amp; Myggen - Den store skattejakten (Norway).cue" size="115" crc="80fcb742" md5="c6169851b3982ca436d2e208417c0cf3" sha1="a673813c04d0697ca281e0bfe036c535fb31d718"/>
 	</game>
+	<game name="Magnus &amp; Myggen - Skumlesens Skygge (Denmark)" id="140056">
+		<category>Games</category>
+		<description>Magnus &amp; Myggen: Skumlesens Skygge (Denmark)</description>
+		<serial>MM4-07-02-DK</serial>
+		<version>1.0</version>
+		<rom name="Magnus &amp; Myggen - Skumlesens Skygge (Denmark).bin" size="788886672" crc="1b27ece0" md5="5ffee4206c5a794c3572b8862cf3af7e" sha1="efbb8d4f9e41ec55b1515ffc2b31c4d92411736b"/>
+		<rom name="Magnus &amp; Myggen - Skumlesens Skygge (Denmark).cue" size="111" crc="acdd4581" md5="fe66898d8ec6ee4f0e8b5d704c181580" sha1="fb0fed82e41371c6f5f81ff3e671c6bb696efb06"/>
+	</game>
 	<game name="Magotti e la Pentola Magica, I (Italy)" id="76244">
 		<category>Games</category>
 		<description>Magotti e la Pentola Magica, I (Italy)</description>
@@ -138779,7 +138808,7 @@
 	<game name="Phantasy Star Online 2 Episode 4 (Japan) (Disc 4)" id="74832">
 		<category>Games</category>
 		<description>Phantasy Star Online 2 Episode 4 (Japan) (Disc 4)</description>
-		<serial>673-05521</serial>
+		<serial>673-05521, 573-05521</serial>
 		<rom name="Phantasy Star Online 2 Episode 4 (Japan) (Disc 4).iso" size="6415286272" crc="0eb80804" md5="f4a77fc1cc3ac2318901c1d1f7b708a1" sha1="e78fc7ecb9864d4907685fab82d97b538a0af8b4"/>
 	</game>
 	<game name="Phantasy Star Online 2 Episode 6 (Japan)" id="90945">
@@ -162092,6 +162121,12 @@
 		<rom name="Scooby-Doo! Showdown in Ghost Town (USA).bin" size="731072160" crc="cb1a3ac0" md5="b17b5689ccd4cdb8f639561224f53865" sha1="456bfb5baf6b2368a9c65d8ff042cb2b404e40b6"/>
 		<rom name="Scooby-Doo! Showdown in Ghost Town (USA).cue" size="106" crc="26709c3f" md5="5efb2ce4ada9f73b5d6855396be5a872" sha1="2120168c836dddd15628d7ce7ec38996aa42942f"/>
 	</game>
+	<game name="Scooter Challenge (Poland)" id="140082">
+		<category>Games</category>
+		<description>Scooter Challenge (Poland)</description>
+		<rom name="Scooter Challenge (Poland).bin" size="51384144" crc="25fe4fae" md5="52d91ce68f683ec1fd108942707621db" sha1="6fd78b479a0c19039d272bf4839c2ef117ef741f"/>
+		<rom name="Scooter Challenge (Poland).cue" size="92" crc="bc98b2eb" md5="d8a13e3ebc1320dfad43964eb2452f33" sha1="b61fae5f461f680f57f06f4dc7b78360e0cccc29"/>
+	</game>
 	<game name="Scooter Pro (Europe)" id="38794">
 		<category>Games</category>
 		<description>Scooter Pro (Europe)</description>
@@ -168783,11 +168818,11 @@
 		<rom name="Sid Meier's Civilization IV (USA) (Disc 2) (Rev 1).bin" size="778488480" crc="58f97e6f" md5="7d707a736d5b8540278bb7562b913b73" sha1="55f4e8890b1d3a2ae0b4749c490fb64cb811f225"/>
 		<rom name="Sid Meier's Civilization IV (USA) (Disc 2) (Rev 1).cue" size="116" crc="f83de3d8" md5="faccb14bcc9397397e90250fdf9d593b" sha1="febfb23e9ca8677306fa40b71d4f8afe4194aa39"/>
 	</game>
-	<game name="Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 1) (Install)" id="77105">
+	<game name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 1) (Install)" id="77105">
 		<category>Games</category>
-		<description>Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 1) (Install)</description>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 1) (Install).bin" size="788886672" crc="ca41c95f" md5="3327f327e959196a7b6d6815e3ed0698" sha1="28ee75de0ea33838b130f26e9181010ee7afb343"/>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 1) (Install).cue" size="135" crc="6d5885c3" md5="8424ad5765f27f0fa2a9e14aa7816217" sha1="20c90cb04d7aee0d463160fc3712cd206e629930"/>
+		<description>Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 1) (Install)</description>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 1) (Install).bin" size="788886672" crc="ca41c95f" md5="3327f327e959196a7b6d6815e3ed0698" sha1="28ee75de0ea33838b130f26e9181010ee7afb343"/>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 1) (Install).cue" size="143" crc="ab2de8d5" md5="93fe35827fff008a559b47e518f4e99f" sha1="add568383ad01c379738fa285b900e60d0d6efc5"/>
 	</game>
 	<game name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 2) (Play)" id="77104">
 		<category>Games</category>
@@ -171042,6 +171077,24 @@
 		<serial>MXX07705630D/GER</serial>
 		<rom name="Sims 2, Die - Deluxe (Germany) (Spiel-DVD).iso" size="4323213312" crc="0d47dad1" md5="a29c744b1f40645282d514122067a051" sha1="00e2b3779056ad059f50f8a49e45769280fecdb8"/>
 	</game>
+	<game name="Sims 2, Les - Bon Voyage (France)" id="140057">
+		<category>Add-Ons</category>
+		<description>Sims 2, Les: Bon Voyage (France)</description>
+		<serial>MXF07705691IS</serial>
+		<rom name="Sims 2, Les - Bon Voyage (France).iso" size="807600128" crc="ccfbfb41" md5="a46b4f8e8fbb32d616414007fd952812" sha1="c4939ee0c846ba5e7225c3a27e9f069458d53efa"/>
+	</game>
+	<game name="Sims 2, Les - Deluxe (France) (Disque de jeu)" id="140058">
+		<category>Games</category>
+		<description>Sims 2, Les: Deluxe (France) (Disque de jeu)</description>
+		<serial>MXX07705630D/FRA</serial>
+		<rom name="Sims 2, Les - Deluxe (France) (Disque de jeu).iso" size="4323213312" crc="ff987dfe" md5="353a275e22c017a0aa2ac5d3fe5c3425" sha1="18514e1aaf552d157cb5cb7613bc1108e0428f65"/>
+	</game>
+	<game name="Sims 2, Les - Demeures de Reve Kit (France)" id="140059">
+		<category>Add-Ons</category>
+		<description>Sims 2, Les: Demeures de Rêve Kit (France)</description>
+		<serial>MXX07706511D/FRE</serial>
+		<rom name="Sims 2, Les - Demeures de Reve Kit (France).iso" size="705101824" crc="2fd805e3" md5="159494e23cc15a86573bf7dadff7e41c" sha1="a464064c5ee9dfa88ed5908406490150441d261f"/>
+	</game>
 	<game name="Sims 2, Los - Abren Negocios (Disco de Expansion) (Argentina) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs,Hu)" id="122869">
 		<category>Add-Ons</category>
 		<description>Sims 2, Los: Abren Negocios (Disco de Expansión) (Argentina) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs,Hu)</description>
@@ -171200,11 +171253,11 @@
 		<version>1.2.0.375</version>
 		<rom name="Sims 2, The - Deluxe (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Game Disc).iso" size="4323213312" crc="4d0b5645" md5="3defc30feb5e2cbdb01759f0e2ac6e91" sha1="1b8291f9c1b9b24f75cead4e3160ea51c9a9e0b9"/>
 	</game>
-	<game name="Sims 2, The - Deluxe (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)" id="53561">
+	<game name="Sims 2, The - Deluxe (Europe, France, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)" id="53561">
 		<category>Bonus Discs</category>
-		<description>Sims 2, The: Deluxe (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)</description>
-		<serial>MXX07705630D2/ENG, MXX07705630D2/GER, MXX07706214D2, MXX07706214D2/GER, MXX07705630D2</serial>
-		<rom name="Sims 2, The - Deluxe (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD).iso" size="2406500352" crc="41f0e969" md5="c5685d1b8317c8ea0e7ffe8fc1ac83f1" sha1="27d1826761cabe1844c2ea7384cf1a31e8e867d6"/>
+		<description>Sims 2, The: Deluxe (Europe, France, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)</description>
+		<serial>MXX07705630D2/ENG, MXX07705630D2/GER, MXX07706214D2, MXX07706214D2/GER, MXX07705630D2, MXX07705630D2/FRA</serial>
+		<rom name="Sims 2, The - Deluxe (Europe, France, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD).iso" size="2406500352" crc="41f0e969" md5="c5685d1b8317c8ea0e7ffe8fc1ac83f1" sha1="27d1826761cabe1844c2ea7384cf1a31e8e867d6"/>
 	</game>
 	<game name="Sims 2, The - Deluxe (USA) (En,Es)" id="94467">
 		<category>Games</category>
@@ -171258,13 +171311,13 @@
 		<rom name="Sims 2, The - Fashion Stuff (Australia) (En,Es) (Alt).bin" size="495477024" crc="ff052e85" md5="ac477c08cbda3e9ce573e93d6a39a842" sha1="fddfd3ad7d8aa1621b566f107d2f607a2c8e4c57"/>
 		<rom name="Sims 2, The - Fashion Stuff (Australia) (En,Es) (Alt).cue" size="119" crc="ec5441e9" md5="ebc1faa75ce90f6ebbf657acaa137752" sha1="63f5a8c91342a1d33b5dbd86db7df0e1c869eb3a"/>
 	</game>
-	<game name="Sims 2, The - Festive Holiday Stuff (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs)" id="125166">
+	<game name="Sims 2, The - Festive Holiday Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs)" id="125166">
 		<category>Add-Ons</category>
-		<description>Sims 2, The: Festive Holiday Stuff (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs)</description>
-		<serial>MXX08005230D</serial>
+		<description>Sims 2, The: Festive Holiday Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs)</description>
+		<serial>MXX08005230D, MXX08005230D/FRE</serial>
 		<version>1.0.0.999</version>
-		<rom name="Sims 2, The - Festive Holiday Stuff (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs).bin" size="166836768" crc="0e48656f" md5="b84e875ad59443d6b5abfcfe1ffb6212" sha1="2be063c42277c9766b60b143c910e9904c100dd2"/>
-		<rom name="Sims 2, The - Festive Holiday Stuff (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs).cue" size="147" crc="46308914" md5="f1bc27ea8277f40b502377063497274f" sha1="618e6f78e6958db51c9d67214ceaa81c2d3ac48f"/>
+		<rom name="Sims 2, The - Festive Holiday Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs).bin" size="166836768" crc="0e48656f" md5="b84e875ad59443d6b5abfcfe1ffb6212" sha1="2be063c42277c9766b60b143c910e9904c100dd2"/>
+		<rom name="Sims 2, The - Festive Holiday Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs).cue" size="151" crc="da91b7e5" md5="1c449ae74c3f9ef8a9b99c4b6a404743" sha1="02b3856c8a60f07b1843480647e2b9dbd223c2b1"/>
 	</game>
 	<game name="Sims 2, The - Forhandningsboknings-CD (Sweden)" id="113223">
 		<category>Bonus Discs</category>
@@ -171327,7 +171380,7 @@
 	<game name="Sims 2, The - Happy Holiday Stuff (USA)" id="80559">
 		<category>Add-Ons</category>
 		<description>Sims 2, The: Happy Holiday Stuff (USA)</description>
-		<serial>1527707</serial>
+		<serial>1527707, 1527647</serial>
 		<rom name="Sims 2, The - Happy Holiday Stuff (USA).bin" size="166836768" crc="c75b871e" md5="a2a0f8e6d0b05e641fb5a6fa2cf392d5" sha1="a745b239b0fae69ab03006584a3beef39e8019a8"/>
 		<rom name="Sims 2, The - Happy Holiday Stuff (USA).cue" size="105" crc="40ef1653" md5="338ca40ed164ace28aeeeb7ca5cf8a91" sha1="1555ea8ff7d6e052ed91a7aefe722c1be48c7979"/>
 	</game>
@@ -171450,7 +171503,7 @@
 	<game name="Sims 2, The - Seasons (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)" id="48351">
 		<category>Add-Ons</category>
 		<description>Sims 2, The: Seasons (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)</description>
-		<serial>MXX07705518D, MXX07705518D/GER</serial>
+		<serial>MXX07705518D, MXX07705518D/GER, MXF07705518IS</serial>
 		<version>1.7.0.145</version>
 		<rom name="Sims 2, The - Seasons (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso" size="762904576" crc="955ef68b" md5="5ef3b3cab79927b039ec4eedf3d1a50f" sha1="82e8a912a6cfefb247cea6c4e5403d27a8d3c0fb"/>
 	</game>
@@ -176501,6 +176554,16 @@
 		<rom name="Specznaz - Antiterror - Missiya na Balkanax (Russia) (Disc 2).bin" size="202436640" crc="90beefb9" md5="c0ceddf847aff69b784884421a76246a" sha1="17c4539c74e1e8e374b9369ebb79f52aa221c2af"/>
 		<rom name="Specznaz - Antiterror - Missiya na Balkanax (Russia) (Disc 2).cue" size="127" crc="660163dc" md5="dd40016c893adc903b141ed3fe1268a5" sha1="363e46c4f5c8f18dfd66908c15fae3ef30ff6c6e"/>
 	</game>
+	<game name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan)" id="140053">
+		<category>Games</category>
+		<description>Speed &amp; Doubt: Ninki Card Game ga Set de Toujou (Japan)</description>
+		<serial>MSDJ-99093</serial>
+		<rom name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan) (Track 1).bin" size="167248368" crc="1d9a4b82" md5="c155ad9af5e8c258717c9dea07e69de4" sha1="15deff4c7f6d40740ebcd09c513ad8949c7cb4ce"/>
+		<rom name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan) (Track 2).bin" size="32650464" crc="b2d40a76" md5="432a71d5076d08910927f8b991ca4c51" sha1="8cc9648131d7d6828ed86758eb8d202d7486c198"/>
+		<rom name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan) (Track 3).bin" size="55406064" crc="9fac564e" md5="ac6fc4954a4365cc7929d019d20a1326" sha1="5a24c0a481820db1111a5ddb44be83292c1a0912"/>
+		<rom name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan) (Track 4).bin" size="50817312" crc="3bc9d7ce" md5="dbe2c9fcb5177bdd2e5d85023be6a9c2" sha1="88c9eea9afe5de92191a74f4825aad377ffcd00f"/>
+		<rom name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan).cue" size="605" crc="44b40bce" md5="24753917c84e3ac3c80551f53b6674c9" sha1="d38d5241e85fc945820043a49dddd38697f04ee7"/>
+	</game>
 	<game name="Speed &amp; Space Adventure &amp; Undersea Adventure (USA) (Rev 1)" id="96307">
 		<category>Educational</category>
 		<description>Speed / Space Adventure / Undersea Adventure (USA) (Rev 1)</description>
@@ -178943,6 +179006,13 @@
 		<description>Star Wars: Battlefront (Europe, Australia) (En,Fr,De,Es,It,Pt,Zh,Pl,Ru,Ar) (Disc 4)</description>
 		<serial>103487903304</serial>
 		<rom name="Star Wars - Battlefront (Europe, Australia) (En,Fr,De,Es,It,Pt,Zh,Pl,Ru,Ar) (Disc 4).iso" size="3794190336" crc="2f6d7f81" md5="8d8a327cdebca1086885bca7b5947fc4" sha1="eda7eb2b96a2e508c0085a0c79c26643af24901c"/>
+	</game>
+	<game name="Star Wars - Battlefront (France) (Disque 1) (Disque de jeu)" id="140072">
+		<category>Games</category>
+		<description>Star Wars: Battlefront (France) (Disque 1) (Disque de jeu)</description>
+		<serial>41121.101.FR</serial>
+		<rom name="Star Wars - Battlefront (France) (Disque 1) (Disque de jeu).bin" size="816031104" crc="0d5ed131" md5="1e02f6906287a6224dc0b83816cd3797" sha1="bdabfdc805c46f27c7a1f76d15474c0fb739b491"/>
+		<rom name="Star Wars - Battlefront (France) (Disque 1) (Disque de jeu).cue" size="125" crc="087fab22" md5="ba6217aed81c15def0cf9c31152a5159" sha1="15c825a6dda9ab4b89a788d27f58581e0f65d540"/>
 	</game>
 	<game name="Star Wars - Battlefront (Italy) (Disco 1) (Disco di Gioco)" id="64346">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox Series X (Retool)</name>
-		<description>Microsoft - Xbox Series X (116) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-01 14-59-31) (Retool)</description>
-		<version>2026-11-01 14-59-31</version>
-		<date>2026-11-07 08-47-48</date>
+		<description>Microsoft - Xbox Series X (118) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-07 17-27-42) (Retool)</description>
+		<version>2026-11-07 17-27-42</version>
+		<date>2026-11-08 08-57-13</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -481,6 +481,11 @@
 		<description>RoboCop: Rogue City (USA)</description>
 		<rom name="RoboCop - Rogue City (USA).iso" size="49999802368" crc="5253e543" md5="4c3cd48eb3271668a0580b57b5995017" sha1="08f6ac6d8af332c82d39d2f0ce5aece63f284446"/>
 	</game>
+	<game name="RuneScape - Dragonwilds (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)" id="140054">
+		<category>Games</category>
+		<description>RuneScape: Dragonwilds (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)</description>
+		<rom name="RuneScape - Dragonwilds (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).iso" size="45957781504" crc="f547b1f6" md5="dfb5ad6a055ef091c482e6cf48c226a0" sha1="a8dcd08ef59b9d5593f77bb126a7f0bff2a8e4ba"/>
+	</game>
 	<game name="Scorn (USA)" id="135209">
 		<category>Games</category>
 		<description>Scorn (USA)</description>
@@ -535,6 +540,11 @@
 		<category>Games</category>
 		<description>Truck Driver: The American Dream (USA)</description>
 		<rom name="Truck Driver - The American Dream (USA).iso" size="22978238464" crc="33ec987d" md5="7d912584957bf0e908faa55521782fd6" sha1="ce5f245a81c89f7e87f543b8dbc9509c7f526afb"/>
+	</game>
+	<game name="Truxton Extreme (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ko)" id="140076">
+		<category>Games</category>
+		<description>Truxton Extreme (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ko)</description>
+		<rom name="Truxton Extreme (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ko).iso" size="22978607104" crc="39db1ddc" md5="969effd74d517ea20926a0b2d20b5c18" sha1="1b13522c272bef5233d2421f26968808db52066e"/>
 	</game>
 	<game name="Unicorn Overlord (USA)" id="114729">
 		<category>Games</category>

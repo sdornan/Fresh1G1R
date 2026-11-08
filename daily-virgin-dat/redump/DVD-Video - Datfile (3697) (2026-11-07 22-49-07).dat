@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video</name>
-		<description>DVD-Video - Datfile (3689) (2026-11-03 10-56-30)</description>
-		<version>2026-11-03 10-56-30</version>
-		<date>2026-11-03 10-56-30</date>
+		<description>DVD-Video - Datfile (3697) (2026-11-07 22-49-07)</description>
+		<version>2026-11-07 22-49-07</version>
+		<date>2026-11-07 22-49-07</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -2608,6 +2608,12 @@
 		<description>Digest Movie-shuu Presented by Microsoft (Japan)</description>
 		<rom name="Digest Movie-shuu Presented by Microsoft (Japan).iso" size="395112448" crc="5cea2b25" md5="a89d57b620bcc0f8fb0e440c70267a6b" sha1="abb3e36093dece0dfb50b282f1b6a6d804523a64"/>
 	</game>
+	<game name="Digital Devil Saga - Avatar Tuner 2 - Special DVD (Japan)" id="140062">
+		<category>Bonus Discs</category>
+		<serial>ATLS-41121</serial>
+		<description>Digital Devil Saga: Avatar Tuner 2: Special DVD (Japan)</description>
+		<rom name="Digital Devil Saga - Avatar Tuner 2 - Special DVD (Japan).iso" size="2421358592" crc="5c209dc1" md5="acc66b418f2951bfccd762c8d1c48a5d" sha1="dc30aa775ba6a9382cecd975053e84ce849cd4a0"/>
+	</game>
 	<game name="Dino Crisis 5th Anniversary - CG Movie Collection (Japan) (En,Ja)" id="10483">
 		<category>Video</category>
 		<serial>CPCS-00701</serial>
@@ -3428,10 +3434,11 @@
 		<description>Eien no Nagi-setsu: Final Fantasy X Another Story (Japan) (PS2 Game Bundle)</description>
 		<rom name="Eien no Nagi-setsu - Final Fantasy X Another Story (Japan) (PS2 Game Bundle).iso" size="926711808" crc="6482de0e" md5="f80679ba67b57398d4ea7d17da461a78" sha1="9d739d6010bc8b2879d21fc9b91078d5403b00a8"/>
 	</game>
-	<game name="Elder Scrolls IV, The - Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Xbox 360 Game Bundle)" id="19372">
+	<game name="Elder Scrolls IV, The - Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Multisystem Game Bundle)" id="19372">
 		<category>Bonus Discs</category>
-		<description>Elder Scrolls IV, The: Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Xbox 360 Game Bundle)</description>
-		<rom name="Elder Scrolls IV, The - Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Xbox 360 Game Bundle).iso" size="2580703232" crc="207c6697" md5="a5f0b598982203fa21843421b1d229df" sha1="ea960416b06f04bf9473ee43e27da43c07e8921c"/>
+		<serial>5051286/DVDBON</serial>
+		<description>Elder Scrolls IV, The: Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Multisystem Game Bundle)</description>
+		<rom name="Elder Scrolls IV, The - Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Multisystem Game Bundle).iso" size="2580703232" crc="207c6697" md5="a5f0b598982203fa21843421b1d229df" sha1="ea960416b06f04bf9473ee43e27da43c07e8921c"/>
 	</game>
 	<game name="Elder Scrolls IV, The - Oblivion (Poland) (En,Fr,De,Es,It) (Plyta Bonusowa) (PC Game Bundle)" id="23802">
 		<category>Bonus Discs</category>
@@ -7268,6 +7275,11 @@
 		<category>Coverdiscs</category>
 		<description>Hideo Kojima in MGS3 Private Disc (Japan)</description>
 		<rom name="Hideo Kojima in MGS3 Private Disc (Japan).iso" size="3201376256" crc="571a4ba9" md5="c3e70b43f60813e9738ac76634468338" sha1="6ff7b671e380fc475879333d229360cba82dcc92"/>
+	</game>
+	<game name="High Voltage Software - Corporate Profile - Special Edition DVD (USA)" id="140060">
+		<category>Video</category>
+		<description>High Voltage Software: Corporate Profile: Special Edition DVD (USA)</description>
+		<rom name="High Voltage Software - Corporate Profile - Special Edition DVD (USA).iso" size="268468224" crc="0ba25339" md5="f7dda9e44aa2286cf3da90a4d7abdb79" sha1="577686d29d41d8639275bb3d25207370635e8c9f"/>
 	</game>
 	<game name="Hiiro no Kakera - Shin Tamayori-hime Denshou - Cast Interview DVD (Japan) (PS2 Game Bundle)" id="75570">
 		<category>Bonus Discs</category>
@@ -11125,6 +11137,11 @@
 		<description>Pajama Sam: You Are What You Eat from Your Head to Your Feet (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Pajama Sam - You Are What You Eat from Your Head to Your Feet (Europe) (En,Fr,De,Es,It,Nl).iso" size="3933306880" crc="df63822c" md5="3056c87556ac2c9dc85de0ca3a5162b8" sha1="dc51fc479422e5ef05cdc188dffac27c7f946bcd"/>
 	</game>
+	<game name="Pandemic Studios - Put Your Name on the Biggest Games in the World (USA)" id="140061">
+		<category>Video</category>
+		<description>Pandemic Studios: Put Your Name on the Biggest Games in the World (USA)</description>
+		<rom name="Pandemic Studios - Put Your Name on the Biggest Games in the World (USA).iso" size="185106432" crc="43d77a6f" md5="2519e5b32e8c1dc4f0e0e4ec4eeb29d1" sha1="06bd9089fb26c4260338382e98a0228f4137b5c6"/>
+	</game>
 	<game name="Paparazzi - The Celebrity Video Quiz (UK)" id="134318">
 		<category>Games</category>
 		<serial>2EDVD0117</serial>
@@ -11642,6 +11659,11 @@
 		<category>Video</category>
 		<description>Persona 4: The Golden Tentou Houei-you DVD (Japan)</description>
 		<rom name="Persona 4 - The Golden Tentou Houei-you DVD (Japan).iso" size="115671040" crc="8b12d94c" md5="8b532d0e75b5adcc8719765f651baed3" sha1="1d7192d1050ef4fda49f25b6f86751b052e72101"/>
+	</game>
+	<game name="Persona 4 Shuukan Famitsu 4-gatsu 4-nichigou Tokubetsu Furoku (Japan)" id="140101">
+		<category>Coverdiscs</category>
+		<description>Persona 4 Shuukan Famitsu 4-gatsu 4-nichigou Tokubetsu Furoku (Japan)</description>
+		<rom name="Persona 4 Shuukan Famitsu 4-gatsu 4-nichigou Tokubetsu Furoku (Japan).iso" size="2418507776" crc="62441b85" md5="2ccbaa1a59ebac29bf5fd31595f0a6b2" sha1="1308dfafd588c60db15708b650bb8c1beafe2a71"/>
 	</game>
 	<game name="PES 2008 - Pro Evolution Soccer (Europe) (Behind the Scenes)" id="51933">
 		<category>Video</category>
@@ -15843,6 +15865,12 @@
 		<description>Scarface: The World Is Yours (USA) (Bonus DVD-Video) (PS2 Game Bundle)</description>
 		<rom name="Scarface - The World Is Yours (USA) (Bonus DVD-Video) (PS2 Game Bundle).iso" size="4613406720" crc="e61dfd99" md5="955ef38fea7ff6f7d212c22a6c58b16e" sha1="b6651a65ce741cf29adf46567c6b27fd1914a906"/>
 	</game>
+	<game name="SCE Natsu no Osusume Soft 2003 - Tentou-you DVD-Video (Japan)" id="140064">
+		<category>Video</category>
+		<serial>PCPX 96549</serial>
+		<description>SCE Natsu no Osusume Soft 2003: Tentou-you DVD-Video (Japan)</description>
+		<rom name="SCE Natsu no Osusume Soft 2003 - Tentou-you DVD-Video (Japan).iso" size="1612122112" crc="030b9328" md5="728670de1bcc0c15491d69ac830f281b" sha1="7a949c4f97a0712701b364ff8c8f475dae1bd4c2"/>
+	</game>
 	<game name="SCEA Sales Planning Vol. 2 - Key Art &amp; Videos (USA)" id="136234">
 		<category>Multimedia</category>
 		<description>SCEA Sales Planning Vol. 2: Key Art &amp; Videos (USA)</description>
@@ -16567,10 +16595,20 @@
 		<description>Shikigami no Shiro II Appreciate DVD (Japan) (Disc 3)</description>
 		<rom name="Shikigami no Shiro II Appreciate DVD (Japan) (Disc 3).iso" size="8438480896" crc="fa8eeb04" md5="1d7cac3368a87ed8946efb51f5f7378c" sha1="356ee36272bf7162488284e058e4fa149e1187d2"/>
 	</game>
+	<game name="Shin Kamaitachi no Yoru - 11-ninme no Suspect - Premium Fan Disc (Japan)" id="140084">
+		<category>Bonus Discs</category>
+		<description>Shin Kamaitachi no Yoru: 11-ninme no Suspect: Premium Fan Disc (Japan)</description>
+		<rom name="Shin Kamaitachi no Yoru - 11-ninme no Suspect - Premium Fan Disc (Japan).iso" size="4313710592" crc="2267229c" md5="66b7b73c6b3d0c91ff1adf7131542892" sha1="0ae73509ad074ec4060be7f2527cfee2fed401e5"/>
+	</game>
 	<game name="Shin Megami Tensei III - Nocturne - Special DVD (Japan)" id="69197">
 		<category>Bonus Discs</category>
 		<description>Shin Megami Tensei III: Nocturne: Special DVD (Japan)</description>
 		<rom name="Shin Megami Tensei III - Nocturne - Special DVD (Japan).iso" size="1120831488" crc="c99eacfc" md5="03d8617a7fed731c251da988ff72ca97" sha1="c7603b20c467cdd6912d795752e1457e5235e0dd"/>
+	</game>
+	<game name="Shin Megami Tensei III - Nocturne - Tentou Houei-you DVD (Japan)" id="140102">
+		<category>Video</category>
+		<description>Shin Megami Tensei III: Nocturne: Tentou Houei-you DVD (Japan)</description>
+		<rom name="Shin Megami Tensei III - Nocturne - Tentou Houei-you DVD (Japan).iso" size="245790720" crc="981cb93c" md5="2db19d0281fe117fa331d27498a34085" sha1="e94b7e0a4c6f6a31b3d51d9541e36e121d77bf1b"/>
 	</game>
 	<game name="Shin Onimusha - Dawn of Dreams - The Story (Hong Kong) (En,Zh)" id="136914">
 		<category>Video</category>
@@ -16926,6 +16964,12 @@
 		<serial>PAPX 96509</serial>
 		<description>Sony Computer Entertainment Inc. Software (Japan)</description>
 		<rom name="Sony Computer Entertainment Inc. Software (Japan).iso" size="4209612800" crc="3911ea10" md5="e0434d23c431964183bd2e2ef0a34197" sha1="42605b5032c87c5b221d3b564b2840476cb632d0"/>
+	</game>
+	<game name="Sony Computer Entertainment Japan - Aki no Osusume Soft - Tentou Houei-you DVD Video (Japan)" id="140063">
+		<category>Video</category>
+		<serial>PCPX 96529</serial>
+		<description>Sony Computer Entertainment Japan: Aki no Osusume Soft: Tentou Houei-you DVD Video (Japan)</description>
+		<rom name="Sony Computer Entertainment Japan - Aki no Osusume Soft - Tentou Houei-you DVD Video (Japan).iso" size="925636608" crc="76012707" md5="ee58452db72898e2370ab75a274bced0" sha1="302a14cc4dd483dbde860eeb599832e6002aae20"/>
 	</game>
 	<game name="Sopranos, The - Road to Respect (USA) (Limited Edition - Bonus Content) (PS2 Game Bundle)" id="89129">
 		<category>Bonus Discs</category>

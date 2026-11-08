@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62130) (2026-11-06 22-45-36)</description>
-		<version>2026-11-06 22-45-36</version>
-		<date>2026-11-06 22-45-36</date>
+		<description>IBM - PC compatible - Datfile (62153) (2026-11-07 22-47-42)</description>
+		<version>2026-11-07 22-47-42</version>
+		<date>2026-11-07 22-47-42</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -34753,6 +34753,12 @@
 		<rom name="Barbie Magic Genie Bottle and CD-ROM (USA).cue" size="123" crc="82454cd7" md5="ba9590f855fedf6ec40670b95392ec8c" sha1="8f55ba79b1987f7fb3aa49a223e10a3305f0e2e0"/>
 		<rom name="Barbie Magic Genie Bottle and CD-ROM (USA).bin" size="521151456" crc="af9ad62d" md5="2a0b9c54eeb4f58f132aa5d1e1c0a28d" sha1="378dc97db5b604651afbb760d7c1d55aac8a7ae5"/>
 	</game>
+	<game name="Barbie Modedesigner (Denmark)" id="140055">
+		<category>Games</category>
+		<description>Barbie Modedesigner (Denmark)</description>
+		<rom name="Barbie Modedesigner (Denmark).cue" size="118" crc="12e6d20c" md5="74c8ef063bbc27c1250c8406adf45016" sha1="2a404552428e3978ad1bd831a6c4bef64188d795"/>
+		<rom name="Barbie Modedesigner (Denmark).bin" size="562624272" crc="efbcdaf6" md5="761b844bab769d060d917353dd68a220" sha1="c3025fd43da4d25a2e5ae70e917c63986a04b685"/>
+	</game>
 	<game name="Barbie of Swan Lake CD-ROM - The Enchanted Forest (USA)" id="45326">
 		<category>Games</category>
 		<serial>S7205710</serial>
@@ -46688,6 +46694,13 @@
 		<description>Billy Hatcher and the Giant Egg (Europe) (En,Fr,De,Es,It) (Rerelease)</description>
 		<rom name="Billy Hatcher and the Giant Egg (Europe) (En,Fr,De,Es,It) (Rerelease).cue" size="135" crc="cbe4c8b9" md5="2221b4f9b17cfbb4495ddacc2fbb6e0d" sha1="48d3b7efe94015331444987ef5f97275f23c38af"/>
 		<rom name="Billy Hatcher and the Giant Egg (Europe) (En,Fr,De,Es,It) (Rerelease).bin" size="771117312" crc="0610c4b1" md5="4ec0a073d41f2179f62f1d9c0d45c89a" sha1="83b691e70277c2581ec5f21345d5f2c3173572ef"/>
+	</game>
+	<game name="Billy Hatcher and the Giant Egg (France) (Rerelease)" id="140070">
+		<category>Games</category>
+		<serial>BYH854AF-CD</serial>
+		<description>Billy Hatcher and the Giant Egg (France) (Rerelease)</description>
+		<rom name="Billy Hatcher and the Giant Egg (France) (Rerelease).cue" size="118" crc="951587fa" md5="0f28b4c8951f1d4c728bc76f0ef60372" sha1="284d7f0f233c89114f3b5c00c580ae1b2dd87554"/>
+		<rom name="Billy Hatcher and the Giant Egg (France) (Rerelease).bin" size="796467168" crc="f0ef99f1" md5="d989c082a82e47d54d785fc56eec7ddb" sha1="b7b33779cdfb4ce9b3ff3cddb13f0537aaa7fcc5"/>
 	</game>
 	<game name="Billy's Drumstel (Netherlands)" id="119455">
 		<category>Games</category>
@@ -85506,6 +85519,13 @@
 		<rom name="Computer Shopper - Issue 176 October 2002 (UK).cue" size="112" crc="e1e025be" md5="0fc31790fedbc89fb5701d83c54da96f" sha1="bdf34b15852124aecc27c2200e5605e08868c1fd"/>
 		<rom name="Computer Shopper - Issue 176 October 2002 (UK).bin" size="762640704" crc="f3aca404" md5="1cd4f369922fd4016e0dae8ac78d82e0" sha1="aa448b94d3637a0dd24965c78af4a0d9d877e996"/>
 	</game>
+	<game name="Computer Shopper - Issue 177 November 2002 (UK)" id="140079">
+		<category>Coverdiscs</category>
+		<serial>DPCS1102</serial>
+		<description>Computer Shopper: Issue 177 November 2002 (UK)</description>
+		<rom name="Computer Shopper - Issue 177 November 2002 (UK).cue" size="113" crc="23b5f3fb" md5="90045bbc46c3e9de068541ba33a7e47c" sha1="be146543c6dc05894e6e7275e1d5026367467eb7"/>
+		<rom name="Computer Shopper - Issue 177 November 2002 (UK).bin" size="765437232" crc="c800cacb" md5="8646522d40043e6cb32a3d232106ed22" sha1="9e381d4954fea261973c6b2255382d90fe12b187"/>
+	</game>
 	<game name="Computer Shopper - Issue 188 October 2003 (UK)" id="100911">
 		<category>Coverdiscs</category>
 		<serial>DPCS1003A</serial>
@@ -94154,10 +94174,10 @@
 		<rom name="CyberMycha 01-2007 (Poland) (Disc 2).cue" size="102" crc="8f1536b2" md5="d78ec249a63e8ce0f7ab7c69dc18d045" sha1="4ef4157ab0d7ef43974c0586fecd17f79c56af86"/>
 		<rom name="CyberMycha 01-2007 (Poland) (Disc 2).bin" size="840263760" crc="3e65e599" md5="097fc589abb7d0fef8f0072b77ab1949" sha1="0aa456cfb9c9d1d4d59a873ba4e7a0c6a43c3bbf"/>
 	</game>
-	<game name="CyberMycha 01-2008 (Poland)" id="57866">
+	<game name="CyberMycha 01-2008 (Poland) (En,Pl)" id="57866">
 		<category>Coverdiscs</category>
-		<description>CyberMycha 01/2008 (Poland)</description>
-		<rom name="CyberMycha 01-2008 (Poland).iso" size="4686610432" crc="7e6d1674" md5="82e5d5cc454e551ced1fa8d02d9fc0dd" sha1="715a995d876d5f0a900f3bff5162336e1bec494d"/>
+		<description>CyberMycha 01/2008 (Poland) (En,Pl)</description>
+		<rom name="CyberMycha 01-2008 (Poland) (En,Pl).iso" size="4686610432" crc="7e6d1674" md5="82e5d5cc454e551ced1fa8d02d9fc0dd" sha1="715a995d876d5f0a900f3bff5162336e1bec494d"/>
 	</game>
 	<game name="CyberMycha 02-2001 (Poland)" id="53996">
 		<category>Coverdiscs</category>
@@ -99717,6 +99737,14 @@
 		<description>Darkstone (Germany)</description>
 		<rom name="Darkstone (Germany).cue" size="85" crc="a54cb8b9" md5="32c4f3f3ba44c5c53503bf4f540ea00f" sha1="9716409ed9b9a112125bc9e3ef0543e79a2466c2"/>
 		<rom name="Darkstone (Germany).bin" size="789239472" crc="f0941d28" md5="8444f739bc146ab6e7ac638e45868123" sha1="937c4312720107c94e853048ab4dd2df3fe4ec37"/>
+	</game>
+	<game name="Darkstone (Germany) (Press Kit)" id="140097">
+		<category>Multimedia</category>
+		<serial>DEPK001D</serial>
+		<description>Darkstone (Germany) (Press Kit)</description>
+		<rom name="Darkstone (Germany) (Press Kit).cue" size="232" crc="fcc8205b" md5="234449e2f4d61eb40251808c4a6b6637" sha1="2a5d890e541e51b994ed9e54846214caacad0886"/>
+		<rom name="Darkstone (Germany) (Press Kit) (Track 1).bin" size="289093728" crc="ed979218" md5="9ad69a3bb00ce83f8f5978f8723bb2ba" sha1="d082135243576920980bdfb1aa67d84e5d94c30a"/>
+		<rom name="Darkstone (Germany) (Press Kit) (Track 2).bin" size="34155744" crc="2ef00d4e" md5="a5fe150fac88062e780f125cc309e296" sha1="cca314935b67c6fba402e00d1a10677d25a1ac9c"/>
 	</game>
 	<game name="Darkstone (Japan)" id="74927">
 		<category>Games</category>
@@ -109049,13 +109077,6 @@
 		<description>Die Hard Trilogy 2: Viva Las Vegas (USA)</description>
 		<rom name="Die Hard Trilogy 2 - Viva Las Vegas (USA).cue" size="107" crc="f5657919" md5="2c570792cea744cd5dd29e02f2d5ffed" sha1="e1183deaf929773721d4d2092df5f707a97958f2"/>
 		<rom name="Die Hard Trilogy 2 - Viva Las Vegas (USA).bin" size="788886672" crc="638cfd63" md5="457face1b3a9650bd0b6c193bb199ec5" sha1="7046633549d6dd3435c5fbff7dce11d18088b44b"/>
-	</game>
-	<game name="Die Prinzen CD-ROM (Germany)" id="139730">
-		<category>Multimedia</category>
-		<serial>768 96410572</serial>
-		<description>Die Prinzen CD-ROM (Germany)</description>
-		<rom name="Die Prinzen CD-ROM (Germany).cue" size="117" crc="38c7d91b" md5="860d726014bfda7a9ca61bba37a647ec" sha1="48fcfe1510eca2f6c2961312f6f63e36d240ec7b"/>
-		<rom name="Die Prinzen CD-ROM (Germany).bin" size="707157024" crc="376cdec9" md5="b94d3cf6fa8061382311a847d92458c3" sha1="074787a8aaa59d2b72d7b0b88ee20e64f0728963"/>
 	</game>
 	<game name="Dies Irae - Amantes Amentes (USA)" id="136455">
 		<category>Games</category>
@@ -159804,6 +159825,21 @@
 		<rom name="Gakupara - Gakuen Paradise (Japan) (Demo Taikenban).cue" size="117" crc="b35356d8" md5="c1e2484b9d2356d18053c5133969e64c" sha1="608150c70abc591cbe90ca0155bb9b160d819308"/>
 		<rom name="Gakupara - Gakuen Paradise (Japan) (Demo Taikenban).bin" size="363496896" crc="9a966c91" md5="50e571da00703ca969a2d04cfa8538ae" sha1="b1c9a0c8f5cc84750f5d3209e87bd6039671ba85"/>
 	</game>
+	<game name="Gal's Frontier (Japan)" id="140052">
+		<category>Games</category>
+		<description>Gal's Frontier (Japan)</description>
+		<rom name="Gal's Frontier (Japan).cue" size="968" crc="98737986" md5="b9b645a50608ce5e2744e16c59f7fc1d" sha1="b79f20ba09985d5bb312d0ce1109f817b290e0fc"/>
+		<rom name="Gal's Frontier (Japan) (Track 01).bin" size="484145088" crc="37b96cca" md5="78c83f981eaea621aadf495c5a54a167" sha1="baa627e43b5e433ec50de2ef5545d22faa8ae380"/>
+		<rom name="Gal's Frontier (Japan) (Track 02).bin" size="15828960" crc="f85ad88b" md5="7a5f61422e802ccb7aa0ae3d4732bace" sha1="f5d9d91f5ca16e6e660a2d4535cea9832ddf61f8"/>
+		<rom name="Gal's Frontier (Japan) (Track 03).bin" size="15685488" crc="a954c410" md5="aaa590dd2bbe92cfc87d39f33c73fae2" sha1="9d8110f0a6bf794db1a6ebdebc9709c8d63b2062"/>
+		<rom name="Gal's Frontier (Japan) (Track 04).bin" size="15224496" crc="215837b2" md5="42a93087b3b4158a36464e45d6043119" sha1="8da5efd16f4523360e63f162fa8e120810d51811"/>
+		<rom name="Gal's Frontier (Japan) (Track 05).bin" size="17908128" crc="51097b28" md5="f395e5287acaf0c93442f49a0771f14c" sha1="bdd2417f5b4250f15c8c4b3dcf3c8800df56d209"/>
+		<rom name="Gal's Frontier (Japan) (Track 06).bin" size="17658816" crc="1e272aed" md5="1a03c7cd838cf66ec23379e253aa4333" sha1="996693077af6cb2b61cdd560a54f3a6853e1c2aa"/>
+		<rom name="Gal's Frontier (Japan) (Track 07).bin" size="15967728" crc="be0c3baa" md5="17f28a206ff367ac3da81cda18619fe5" sha1="ebeba384928db245a042f47087e354e3609c12e2"/>
+		<rom name="Gal's Frontier (Japan) (Track 08).bin" size="20391840" crc="40d20414" md5="bb1fa63d378039bce24de92513797ef9" sha1="815a32f85ee989dc8de313c1778ac1175df8e84d"/>
+		<rom name="Gal's Frontier (Japan) (Track 09).bin" size="20648208" crc="aa711262" md5="d74c0fdd687b4dae487411d1ad6f3138" sha1="9678edcfa10ff1943f03a9719354953c7dc88986"/>
+		<rom name="Gal's Frontier (Japan) (Track 10).bin" size="20627040" crc="d06d562b" md5="751d2cf26c55330361a45bb14010abc4" sha1="76dfe9e25a2ee93858eb3dcd16ebbb7ba9a4eea5"/>
+	</game>
 	<game name="Galactic Adventures - Command Adventures - Starship &amp; The Fortress of Dr. Radiaki (USA)" id="115274">
 		<category>Games</category>
 		<serial>08470 60308</serial>
@@ -160495,6 +160531,12 @@
 		<rom name="Galgje (Netherlands).cue" size="109" crc="a7c8f82b" md5="78aaddd78197f2a98aca866be6b826b0" sha1="e2cb1e8375ca1c789592c1a7c83d4af888fd5ba3"/>
 		<rom name="Galgje (Netherlands).bin" size="11075568" crc="70e84e59" md5="912db64bc60c17e536ba4ce5f143e5e5" sha1="4c8d0972b57dd208c9bfc82a99772dbad19cbee0"/>
 	</game>
+	<game name="Galidor - Defenders of the Outer Dimension - Defenders Disk (USA)" id="140080">
+		<category>Multimedia</category>
+		<description>Galidor: Defenders of the Outer Dimension: Defenders Disk (USA)</description>
+		<rom name="Galidor - Defenders of the Outer Dimension - Defenders Disk (USA).cue" size="131" crc="0944f8f9" md5="01583fdb288c9f3cb87a0f465835c47e" sha1="34a0c8527022e13671e8d3d881ab22417a88c223"/>
+		<rom name="Galidor - Defenders of the Outer Dimension - Defenders Disk (USA).bin" size="216649776" crc="c391b543" md5="0a3786bf578a7d3bc62ba3075c354d7d" sha1="8efddca9ed466d467a0e6c95d47171b959648cc0"/>
+	</game>
 	<game name="Galilei ja Kadonneet Lelut (Finland)" id="93671">
 		<category>Games</category>
 		<description>Galilei ja Kadonneet Lelut (Finland)</description>
@@ -161059,6 +161101,12 @@
 		<serial>P/N: 184-000003-10</serial>
 		<description>Game Developers Conference: San Francisco | California 2005: ATI Speaker Sessions and Presentations (USA)</description>
 		<rom name="Game Developers Conference - San Francisco + California 2005 - ATI Speaker Sessions and Presentations (USA).iso" size="4631212032" crc="587a7fe3" md5="4b3f7ec85aede1312387c139538485f8" sha1="8847aa75dbff26e750de2e0d9b339c0b5559302f"/>
+	</game>
+	<game name="Game Developers Conference - San Jose, CA - March 24-26, 2004 - Conference Proceedings (USA)" id="140083">
+		<category>Multimedia</category>
+		<description>Game Developers Conference: San Jose, CA: March 24-26, 2004: Conference Proceedings (USA)</description>
+		<rom name="Game Developers Conference - San Jose, CA - March 24-26, 2004 - Conference Proceedings (USA).cue" size="158" crc="dd09e87b" md5="99f9741ec667f2066ce61dad17111c82" sha1="c77223abd896b61b36548f04abda512e25725ec1"/>
+		<rom name="Game Developers Conference - San Jose, CA - March 24-26, 2004 - Conference Proceedings (USA).bin" size="249027408" crc="3c28f305" md5="33792748834811ecb7d7b93e348f1b25" sha1="c54aaf2247d2c948fa66dbd50d5f8b412d1857c7"/>
 	</game>
 	<game name="Game Developers Conference 07 - March 5-9, 2007 - The Moscone Center, San Francisco, CA (USA) (Introductory-Installer Disc)" id="120582">
 		<category>Multimedia</category>
@@ -236850,6 +236898,11 @@
 		<description>LEGO Harry Potter: Years 1-4 (USA) (En,Fr,De,Es,It,Da)</description>
 		<rom name="LEGO Harry Potter - Years 1-4 (USA) (En,Fr,De,Es,It,Da).iso" size="6282182656" crc="8b01d714" md5="571682c08232838651d61beb2f1430b2" sha1="6318ee89b6082fc6ebb73107a49fc946813cc9de"/>
 	</game>
+	<game name="LEGO Harry Potter - Years 1-4 - Press Disc (Europe) (En,Fr,De,Es,It,Nl,Da)" id="140051">
+		<category>Multimedia</category>
+		<description>LEGO Harry Potter: Years 1-4: Press Disc (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+		<rom name="LEGO Harry Potter - Years 1-4 - Press Disc (Europe) (En,Fr,De,Es,It,Nl,Da).iso" size="4045471744" crc="85742de1" md5="c7cd41f2059a4f3979807683c8f9a506" sha1="ce7adf013da8dc995f59e7086b70bd48bef7b665"/>
+	</game>
 	<game name="LEGO Harry Potter - Years 5-7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)" id="69232">
 		<category>Games</category>
 		<serial>2000067309/7000048066</serial>
@@ -252994,6 +253047,14 @@
 		<rom name="Magnus &amp; Myggen - Den store skattejakten (Norway).cue" size="115" crc="80fcb742" md5="c6169851b3982ca436d2e208417c0cf3" sha1="a673813c04d0697ca281e0bfe036c535fb31d718"/>
 		<rom name="Magnus &amp; Myggen - Den store skattejakten (Norway).bin" size="169489824" crc="8685f194" md5="bfd95251fe9ae784c82f63546d8ce4e7" sha1="64dabfe34378817a13d1fe6378511207b51b10f6"/>
 	</game>
+	<game name="Magnus &amp; Myggen - Skumlesens Skygge (Denmark)" id="140056">
+		<category>Games</category>
+		<serial>MM4-07-02-DK</serial>
+		<version>1.0</version>
+		<description>Magnus &amp; Myggen: Skumlesens Skygge (Denmark)</description>
+		<rom name="Magnus &amp; Myggen - Skumlesens Skygge (Denmark).cue" size="111" crc="acdd4581" md5="fe66898d8ec6ee4f0e8b5d704c181580" sha1="fb0fed82e41371c6f5f81ff3e671c6bb696efb06"/>
+		<rom name="Magnus &amp; Myggen - Skumlesens Skygge (Denmark).bin" size="788886672" crc="1b27ece0" md5="5ffee4206c5a794c3572b8862cf3af7e" sha1="efbb8d4f9e41ec55b1515ffc2b31c4d92411736b"/>
+	</game>
 	<game name="Magotti e la Pentola Magica, I (Italy)" id="76244">
 		<category>Games</category>
 		<description>Magotti e la Pentola Magica, I (Italy)</description>
@@ -259490,6 +259551,12 @@
 		<description>Max Payne (Russia)</description>
 		<rom name="Max Payne (Russia).cue" size="84" crc="2317cb34" md5="8a5dcb9c813a540630851471dbcf2939" sha1="f94081c99c32ac9c2540ed7ece772ec50c3244de"/>
 		<rom name="Max Payne (Russia).bin" size="830820480" crc="54072d38" md5="435b26829f621260458924dc5f3101c6" sha1="c8b094243ffbff9ebb3b5474ac70f2ce9dc5c184"/>
+	</game>
+	<game name="Max Payne (Scandinavia) (Manual)" id="140068">
+		<category>Bonus Discs</category>
+		<description>Max Payne (Scandinavia) (Manual)</description>
+		<rom name="Max Payne (Scandinavia) (Manual).cue" size="98" crc="c3752ad2" md5="99775f3ed4a8fd22e33f501375cf28c1" sha1="8928b6a3bcc3f69c5c3264748806fd63722a3bad"/>
+		<rom name="Max Payne (Scandinavia) (Manual).bin" size="16593360" crc="8e06a45b" md5="7c0d653447d44ff5aaa4ee250e6d9568" sha1="3bad947c4201105d5a68001c2432e3609dd09a38"/>
 	</game>
 	<game name="Max Payne (Spain)" id="132660">
 		<category>Games</category>
@@ -283111,6 +283178,24 @@
 		<rom name="Motocross Mania (Europe) (Track 09).bin" size="25777920" crc="b8112d8e" md5="45e19ad81d503030fed66ee48223cdb1" sha1="ef640f109160f070d6ffda435763f2ea704a6090"/>
 		<rom name="Motocross Mania (Europe) (Track 10).bin" size="24921792" crc="a01a5e82" md5="ebd11bc627599b20cc91d65489f52cd9" sha1="fbea93e4eccafca0235e906fc29a17f1087ee687"/>
 		<rom name="Motocross Mania (Europe) (Track 11).bin" size="26229504" crc="0529707a" md5="801c7a46762c815221a04930651f25d9" sha1="ba1610f80c2ce1392dab892371456f37b0214d75"/>
+	</game>
+	<game name="Motocross Mania (Japan) (En,Fr,De) (OEM)" id="140050">
+		<category>Games</category>
+		<serial>12DC1-09GM05-11</serial>
+		<version>1.0.2 build 85</version>
+		<description>Motocross Mania (Japan) (En,Fr,De) (OEM)</description>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM).cue" size="1467" crc="47b4b9a3" md5="23a3526662e5c7fb6c7216ad5896ee67" sha1="c5bd62de50a55fd87f6782f505c6f108d52e285c"/>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM) (Track 01).bin" size="487611936" crc="4214527e" md5="e1d12608c29786ab4b0f442593d83733" sha1="747877b2ceb99b5bf75d04816f118aa482924878"/>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM) (Track 02).bin" size="25554480" crc="65d44e1e" md5="37237a77aa8172241f73913880632f85" sha1="9b8d457a6e56f6a0ff0897235e912920478b9559"/>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM) (Track 03).bin" size="37185120" crc="4351ad0d" md5="879db73dc85b8bed034b8772fedbb7b2" sha1="faadde964fb194a88c6f4d7b9e16fa9956861c5f"/>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM) (Track 04).bin" size="24162096" crc="af324be7" md5="0dca78e5eacb9226cac430d959b60658" sha1="f3791cd203886ffeb94bd242981e1c078255ed75"/>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM) (Track 05).bin" size="26723424" crc="bc17c77c" md5="3a3ae709066b93862724a4739ca5d92e" sha1="41430b4a5ce3e06e57ee535824904a6e2e5c136f"/>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM) (Track 06).bin" size="26645808" crc="23f4a029" md5="bd6578192d6041a0b9bf3b852607383e" sha1="6efe6e702fb536f9e0318ca6f07bf698df437a4b"/>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM) (Track 07).bin" size="24437280" crc="25ac7f0a" md5="4298847617c10fcb7534031e12241acb" sha1="0a87a4881ef04dcc0e10054bf9b1832e97d8f6c0"/>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM) (Track 08).bin" size="25159344" crc="9daf7582" md5="067e43a37959766553f372a0b6c9f1cc" sha1="fd9f0fe956fc4a6aa3eba14757c215ada8ef87b9"/>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM) (Track 09).bin" size="25425120" crc="e4be555f" md5="0ff49f9931fcb4fe00077a8565fd5429" sha1="132957652ec311d5bddcc0bce95f3a717a536382"/>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM) (Track 10).bin" size="24568992" crc="d0fcde2e" md5="52090f6f8109c9cbc28367b23c03d034" sha1="962c1685d112f2dbad970c43df8e718d1730af09"/>
+		<rom name="Motocross Mania (Japan) (En,Fr,De) (OEM) (Track 11).bin" size="26229504" crc="7e217453" md5="890f9e00902158ec2bd054aa29361092" sha1="ef946bb8f32936e2eb955b6e67dfa8cfaf3da2dd"/>
 	</game>
 	<game name="Motocross Mania (Netherlands)" id="34618">
 		<category>Games</category>
@@ -329450,7 +329535,7 @@
 	</game>
 	<game name="Phantasy Star Online 2 Episode 4 (Japan) (Disc 4)" id="74832">
 		<category>Games</category>
-		<serial>673-05521</serial>
+		<serial>673-05521, 573-05521</serial>
 		<description>Phantasy Star Online 2 Episode 4 (Japan) (Disc 4)</description>
 		<rom name="Phantasy Star Online 2 Episode 4 (Japan) (Disc 4).iso" size="6415286272" crc="0eb80804" md5="f4a77fc1cc3ac2318901c1d1f7b708a1" sha1="e78fc7ecb9864d4907685fab82d97b538a0af8b4"/>
 	</game>
@@ -332415,6 +332500,12 @@
 		<description>Pizi Guanjunxiu (Taiwan)</description>
 		<rom name="Pizi Guanjunxiu (Taiwan).cue" size="90" crc="e97e8230" md5="bee07599d8f4cb8cc79af1a886ee5e87" sha1="e79aa171a0ca718f6e42f071e7eee03cfa0ad541"/>
 		<rom name="Pizi Guanjunxiu (Taiwan).bin" size="455777616" crc="e6d04fde" md5="11e04d5adb09c909a1b281ef4c6ba6ed" sha1="8cd8f7ec3f884fc3d9e94ccadf774f38eba7b182"/>
+	</game>
+	<game name="Pizza Commander &amp; Elf - Crazy Adventures (Hungary) (En,Pl,Hu)" id="140081">
+		<category>Coverdiscs</category>
+		<description>Pizza Commander / Elf: Crazy Adventures (Hungary) (En,Pl,Hu)</description>
+		<rom name="Pizza Commander &amp; Elf - Crazy Adventures (Hungary) (En,Pl,Hu).cue" size="127" crc="6d4be910" md5="2644ccf4c7b52953becc620667101aeb" sha1="8ef45e24308e4677253d6be3ace3ea5ca710ec22"/>
+		<rom name="Pizza Commander &amp; Elf - Crazy Adventures (Hungary) (En,Pl,Hu).bin" size="706580784" crc="c75a9c9c" md5="ea912281ea31c6c4a9359ccf53c79431" sha1="49d97c21997edd5fc58f1497413fe39a16ac7177"/>
 	</game>
 	<game name="Pizza Connection (Germany)" id="44132">
 		<category>Games</category>
@@ -342872,6 +342963,13 @@
 		<description>PrintMaster Gold Publishing Suite / Pingu (Europe) (OEM)</description>
 		<rom name="PrintMaster Gold Publishing Suite &amp; Pingu (Europe) (OEM).cue" size="145" crc="15d2a201" md5="cc0d45b79a5554fbabf54d9e3c3ee81a" sha1="6b0d235a01ec96967b2ac6736de2f1ebfb16554c"/>
 		<rom name="PrintMaster Gold Publishing Suite &amp; Pingu (Europe) (OEM).bin" size="577105536" crc="26fe8641" md5="725515613642a497163f59d1b37c1bbb" sha1="59b67adab6f318bbcda40040e908c558654941da"/>
+	</game>
+	<game name="Prinzen CD-ROM, Die (Germany)" id="139730">
+		<category>Multimedia</category>
+		<serial>768 96410572</serial>
+		<description>Prinzen CD-ROM, Die (Germany)</description>
+		<rom name="Prinzen CD-ROM, Die (Germany).cue" size="118" crc="3f03e3ba" md5="e6d4fd6566f20c0ce2e6db5f0288b6ea" sha1="c606b6147fe10b7e5443c37b75ab9f7245d6a6a8"/>
+		<rom name="Prinzen CD-ROM, Die (Germany).bin" size="707157024" crc="376cdec9" md5="b94d3cf6fa8061382311a847d92458c3" sha1="074787a8aaa59d2b72d7b0b88ee20e64f0728963"/>
 	</game>
 	<game name="Prision, La (Spain)" id="55244">
 		<category>Games</category>
@@ -354781,6 +354879,12 @@
 		<version>1.0.0</version>
 		<description>Rayman 3: Hoodlum Havoc (Europe, Australia) (En,Fr,De,Es,It) (Rerelease)</description>
 		<rom name="Rayman 3 - Hoodlum Havoc (Europe, Australia) (En,Fr,De,Es,It) (Rerelease).iso" size="1813405696" crc="f50a501d" md5="e005f6ac60e528f15655950789c19f9a" sha1="deaa26e27b135299f6529551f3df81ff3337ae65"/>
+	</game>
+	<game name="Rayman 3 - Hoodlum Havoc (France) (Disc 3) (Rerelease)" id="140098">
+		<category>Games</category>
+		<description>Rayman 3: Hoodlum Havoc (France) (Disc 3) (Rerelease)</description>
+		<rom name="Rayman 3 - Hoodlum Havoc (France) (Disc 3) (Rerelease).cue" size="120" crc="b1091aa3" md5="564490874b8de483f39839b14e89943e" sha1="3c8f69695250016eb12c2586c5cb3115dd5aafad"/>
+		<rom name="Rayman 3 - Hoodlum Havoc (France) (Disc 3) (Rerelease).bin" size="788533872" crc="2ffe4c89" md5="a067cbc0305c0a3f21e80736352bb53e" sha1="68c471cba0526bd97a5154cdbe9b2a889d8e2cd6"/>
 	</game>
 	<game name="Rayman 3 - Hoodlum Havoc (France) (En,Fr,De,Es,It) (Rerelease) (2005-08-02)" id="51597">
 		<category>Games</category>
@@ -379549,6 +379653,12 @@
 		<rom name="Scooby-Doo! Showdown in Ghost Town (USA) (Rerelease).cue" size="118" crc="51871de5" md5="0b2fcf50005263e08fa465d34f48e9ac" sha1="c65100a8fdd5f82b9e35d2677897dfeeff06da79"/>
 		<rom name="Scooby-Doo! Showdown in Ghost Town (USA) (Rerelease).bin" size="752009664" crc="ebf8f047" md5="161ac2778eb0d0921772d3e9ed5f5de8" sha1="a1ed7172a9287222a55fabfa85d41396e00c19b6"/>
 	</game>
+	<game name="Scooter Challenge (Poland)" id="140082">
+		<category>Games</category>
+		<description>Scooter Challenge (Poland)</description>
+		<rom name="Scooter Challenge (Poland).cue" size="92" crc="bc98b2eb" md5="d8a13e3ebc1320dfad43964eb2452f33" sha1="b61fae5f461f680f57f06f4dc7b78360e0cccc29"/>
+		<rom name="Scooter Challenge (Poland).bin" size="51384144" crc="25fe4fae" md5="52d91ce68f683ec1fd108942707621db" sha1="6fd78b479a0c19039d272bf4839c2ef117ef741f"/>
+	</game>
 	<game name="Scooter Pro (Europe)" id="38794">
 		<category>Games</category>
 		<serial>APWCDR1001</serial>
@@ -393317,11 +393427,11 @@
 		<rom name="Sid Meier's Civilization IV (USA) (Disc 2) (Rev 1).cue" size="116" crc="f83de3d8" md5="faccb14bcc9397397e90250fdf9d593b" sha1="febfb23e9ca8677306fa40b71d4f8afe4194aa39"/>
 		<rom name="Sid Meier's Civilization IV (USA) (Disc 2) (Rev 1).bin" size="778488480" crc="58f97e6f" md5="7d707a736d5b8540278bb7562b913b73" sha1="55f4e8890b1d3a2ae0b4749c490fb64cb811f225"/>
 	</game>
-	<game name="Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 1) (Install)" id="77105">
+	<game name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 1) (Install)" id="77105">
 		<category>Games</category>
-		<description>Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 1) (Install)</description>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 1) (Install).cue" size="135" crc="6d5885c3" md5="8424ad5765f27f0fa2a9e14aa7816217" sha1="20c90cb04d7aee0d463160fc3712cd206e629930"/>
-		<rom name="Sid Meier's Civilization IV (USA) (En,Fr,De,Es,It) (Disc 1) (Install).bin" size="788886672" crc="ca41c95f" md5="3327f327e959196a7b6d6815e3ed0698" sha1="28ee75de0ea33838b130f26e9181010ee7afb343"/>
+		<description>Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 1) (Install)</description>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 1) (Install).cue" size="143" crc="ab2de8d5" md5="93fe35827fff008a559b47e518f4e99f" sha1="add568383ad01c379738fa285b900e60d0d6efc5"/>
+		<rom name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 1) (Install).bin" size="788886672" crc="ca41c95f" md5="3327f327e959196a7b6d6815e3ed0698" sha1="28ee75de0ea33838b130f26e9181010ee7afb343"/>
 	</game>
 	<game name="Sid Meier's Civilization IV (USA, Canada) (En,Fr,De,Es,It) (Disc 2) (Play)" id="77104">
 		<category>Games</category>
@@ -398587,6 +398697,24 @@
 		<description>Sims 2, Die: Deluxe (Germany) (Spiel-DVD)</description>
 		<rom name="Sims 2, Die - Deluxe (Germany) (Spiel-DVD).iso" size="4323213312" crc="0d47dad1" md5="a29c744b1f40645282d514122067a051" sha1="00e2b3779056ad059f50f8a49e45769280fecdb8"/>
 	</game>
+	<game name="Sims 2, Les - Bon Voyage (France)" id="140057">
+		<category>Add-Ons</category>
+		<serial>MXF07705691IS</serial>
+		<description>Sims 2, Les: Bon Voyage (France)</description>
+		<rom name="Sims 2, Les - Bon Voyage (France).iso" size="807600128" crc="ccfbfb41" md5="a46b4f8e8fbb32d616414007fd952812" sha1="c4939ee0c846ba5e7225c3a27e9f069458d53efa"/>
+	</game>
+	<game name="Sims 2, Les - Deluxe (France) (Disque de jeu)" id="140058">
+		<category>Games</category>
+		<serial>MXX07705630D/FRA</serial>
+		<description>Sims 2, Les: Deluxe (France) (Disque de jeu)</description>
+		<rom name="Sims 2, Les - Deluxe (France) (Disque de jeu).iso" size="4323213312" crc="ff987dfe" md5="353a275e22c017a0aa2ac5d3fe5c3425" sha1="18514e1aaf552d157cb5cb7613bc1108e0428f65"/>
+	</game>
+	<game name="Sims 2, Les - Demeures de Reve Kit (France)" id="140059">
+		<category>Add-Ons</category>
+		<serial>MXX07706511D/FRE</serial>
+		<description>Sims 2, Les: Demeures de Rêve Kit (France)</description>
+		<rom name="Sims 2, Les - Demeures de Reve Kit (France).iso" size="705101824" crc="2fd805e3" md5="159494e23cc15a86573bf7dadff7e41c" sha1="a464064c5ee9dfa88ed5908406490150441d261f"/>
+	</game>
 	<game name="Sims 2, Los - Abren Negocios (Disco de Expansion) (Argentina) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs,Hu)" id="122869">
 		<category>Add-Ons</category>
 		<serial>MXS08004985D/ESP</serial>
@@ -399058,7 +399186,7 @@
 	</game>
 	<game name="Sims 2, The - Apartment Life (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Alt)" id="115068">
 		<category>Add-Ons</category>
-		<serial>MXX07706246D</serial>
+		<serial>MXX07706246D, MXF07706246IS</serial>
 		<description>Sims 2, The: Apartment Life (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Alt)</description>
 		<rom name="Sims 2, The - Apartment Life (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Alt).iso" size="1056538624" crc="a66fe298" md5="374c9c2ce6998d5bb69a09f61c5806d2" sha1="969c4040c872c19f3a0524353d8a134fd0db8597"/>
 	</game>
@@ -399211,11 +399339,11 @@
 		<description>Sims 2, The: Deluxe (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Game Disc)</description>
 		<rom name="Sims 2, The - Deluxe (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Game Disc).iso" size="4323213312" crc="4d0b5645" md5="3defc30feb5e2cbdb01759f0e2ac6e91" sha1="1b8291f9c1b9b24f75cead4e3160ea51c9a9e0b9"/>
 	</game>
-	<game name="Sims 2, The - Deluxe (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)" id="53561">
+	<game name="Sims 2, The - Deluxe (Europe, France, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)" id="53561">
 		<category>Bonus Discs</category>
-		<serial>MXX07705630D2/ENG, MXX07705630D2/GER, MXX07706214D2, MXX07706214D2/GER, MXX07705630D2</serial>
-		<description>Sims 2, The: Deluxe (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)</description>
-		<rom name="Sims 2, The - Deluxe (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD).iso" size="2406500352" crc="41f0e969" md5="c5685d1b8317c8ea0e7ffe8fc1ac83f1" sha1="27d1826761cabe1844c2ea7384cf1a31e8e867d6"/>
+		<serial>MXX07705630D2/ENG, MXX07705630D2/GER, MXX07706214D2, MXX07706214D2/GER, MXX07705630D2, MXX07705630D2/FRA</serial>
+		<description>Sims 2, The: Deluxe (Europe, France, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)</description>
+		<rom name="Sims 2, The - Deluxe (Europe, France, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD).iso" size="2406500352" crc="41f0e969" md5="c5685d1b8317c8ea0e7ffe8fc1ac83f1" sha1="27d1826761cabe1844c2ea7384cf1a31e8e867d6"/>
 	</game>
 	<game name="Sims 2, The - Deluxe (USA) (En,Es)" id="94467">
 		<category>Games</category>
@@ -399354,6 +399482,14 @@
 		<rom name="Sims 2, The - Fashion Stuff (Australia) (En,Es) (Alt).cue" size="119" crc="ec5441e9" md5="ebc1faa75ce90f6ebbf657acaa137752" sha1="63f5a8c91342a1d33b5dbd86db7df0e1c869eb3a"/>
 		<rom name="Sims 2, The - Fashion Stuff (Australia) (En,Es) (Alt).bin" size="495477024" crc="ff052e85" md5="ac477c08cbda3e9ce573e93d6a39a842" sha1="fddfd3ad7d8aa1621b566f107d2f607a2c8e4c57"/>
 	</game>
+	<game name="Sims 2, The - Festive Holiday Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs)" id="125166">
+		<category>Add-Ons</category>
+		<serial>MXX08005230D, MXX08005230D/FRE</serial>
+		<version>1.0.0.999</version>
+		<description>Sims 2, The: Festive Holiday Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs)</description>
+		<rom name="Sims 2, The - Festive Holiday Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs).cue" size="151" crc="da91b7e5" md5="1c449ae74c3f9ef8a9b99c4b6a404743" sha1="02b3856c8a60f07b1843480647e2b9dbd223c2b1"/>
+		<rom name="Sims 2, The - Festive Holiday Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs).bin" size="166836768" crc="0e48656f" md5="b84e875ad59443d6b5abfcfe1ffb6212" sha1="2be063c42277c9766b60b143c910e9904c100dd2"/>
+	</game>
 	<game name="Sims 2, The - Festive Holiday Stuff (Europe) (Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru,Cs,Hu)" id="118391">
 		<category>Add-Ons</category>
 		<serial>MXX08005230D</serial>
@@ -399368,14 +399504,6 @@
 		<description>Sims 2, The: Festive Holiday Stuff (Sweden)</description>
 		<rom name="Sims 2, The - Festive Holiday Stuff (Sweden).cue" size="110" crc="4e77b86e" md5="9a3e50d5cbef90a53bffac2e1aba9226" sha1="48d1fdb1c1ed82e899040e7bdda68e04387d3adf"/>
 		<rom name="Sims 2, The - Festive Holiday Stuff (Sweden).bin" size="166836768" crc="bd58ff56" md5="2ea1f6131408b9375c711f5dc7a90950" sha1="5efbd8599759d64887052f84e45a9ad122c68a80"/>
-	</game>
-	<game name="Sims 2, The - Festive Holiday Stuff (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs)" id="125166">
-		<category>Add-Ons</category>
-		<serial>MXX08005230D</serial>
-		<version>1.0.0.999</version>
-		<description>Sims 2, The: Festive Holiday Stuff (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs)</description>
-		<rom name="Sims 2, The - Festive Holiday Stuff (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs).cue" size="147" crc="46308914" md5="f1bc27ea8277f40b502377063497274f" sha1="618e6f78e6958db51c9d67214ceaa81c2d3ac48f"/>
-		<rom name="Sims 2, The - Festive Holiday Stuff (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs).bin" size="166836768" crc="0e48656f" md5="b84e875ad59443d6b5abfcfe1ffb6212" sha1="2be063c42277c9766b60b143c910e9904c100dd2"/>
 	</game>
 	<game name="Sims 2, The - Forhandningsboknings-CD (Sweden)" id="113223">
 		<category>Bonus Discs</category>
@@ -399526,7 +399654,7 @@
 	</game>
 	<game name="Sims 2, The - Happy Holiday Stuff (USA)" id="80559">
 		<category>Add-Ons</category>
-		<serial>1527707</serial>
+		<serial>1527707, 1527647</serial>
 		<description>Sims 2, The: Happy Holiday Stuff (USA)</description>
 		<rom name="Sims 2, The - Happy Holiday Stuff (USA).cue" size="105" crc="40ef1653" md5="338ca40ed164ace28aeeeb7ca5cf8a91" sha1="1555ea8ff7d6e052ed91a7aefe722c1be48c7979"/>
 		<rom name="Sims 2, The - Happy Holiday Stuff (USA).bin" size="166836768" crc="c75b871e" md5="a2a0f8e6d0b05e641fb5a6fa2cf392d5" sha1="a745b239b0fae69ab03006584a3beef39e8019a8"/>
@@ -399718,7 +399846,7 @@
 	</game>
 	<game name="Sims 2, The - Nightlife (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs,Hu) (Disc 1) (Alt)" id="125016">
 		<category>Add-Ons</category>
-		<serial>MXX08004773D</serial>
+		<serial>MXX08004773D, MXX08004773D/FRA</serial>
 		<version>1.2.0.312</version>
 		<description>Sims 2, The: Nightlife (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs,Hu) (Disc 1) (Alt)</description>
 		<rom name="Sims 2, The - Nightlife (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs,Hu) (Disc 1) (Alt).cue" size="174" crc="6fe4eda7" md5="4b503fc14c20f1cd3f44ef438e16b260" sha1="7ea88741dfbcf8ccdf4109298367064e0f3bb6dd"/>
@@ -399726,7 +399854,7 @@
 	</game>
 	<game name="Sims 2, The - Nightlife (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs,Hu) (Disc 2)" id="76688">
 		<category>Add-Ons</category>
-		<serial>MXX08004773D2</serial>
+		<serial>MXX08004773D2, MXX08004773D2/FRA</serial>
 		<version>1.2.0.312</version>
 		<description>Sims 2, The: Nightlife (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs,Hu) (Disc 2)</description>
 		<rom name="Sims 2, The - Nightlife (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs,Hu) (Disc 2).cue" size="168" crc="ff373974" md5="72496255cdfa35e6d93b505533495fee" sha1="6353c606b0c45aeafc07008e28fbbedfeadcef13"/>
@@ -399969,7 +400097,7 @@
 	</game>
 	<game name="Sims 2, The - Seasons (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)" id="48351">
 		<category>Add-Ons</category>
-		<serial>MXX07705518D, MXX07705518D/GER</serial>
+		<serial>MXX07705518D, MXX07705518D/GER, MXF07705518IS</serial>
 		<version>1.7.0.145</version>
 		<description>Sims 2, The: Seasons (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)</description>
 		<rom name="Sims 2, The - Seasons (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso" size="762904576" crc="955ef68b" md5="5ef3b3cab79927b039ec4eedf3d1a50f" sha1="82e8a912a6cfefb247cea6c4e5403d27a8d3c0fb"/>
@@ -400817,6 +400945,12 @@
 		<version>1.0.22.17622</version>
 		<description>Sims Life Stories, The (USA) (En,Es)</description>
 		<rom name="Sims Life Stories, The (USA) (En,Es).iso" size="2315911168" crc="0f1c00d6" md5="c23339253ac26a193920226c0bad9e0a" sha1="9ef910b8c8678bb6aeafd9ce61d13367e0d215b4"/>
+	</game>
+	<game name="Sims Magazine #24, Les (France)" id="140071">
+		<category>Coverdiscs</category>
+		<description>Sims Magazine #24, Les (France)</description>
+		<rom name="Sims Magazine #24, Les (France).cue" size="97" crc="16b99995" md5="f66c0153523c33f3021072d8ed766727" sha1="ee4b24be89ad1b8b82435b55bf4ecdacee7199bd"/>
+		<rom name="Sims Magazine #24, Les (France).bin" size="633464160" crc="f7905bb1" md5="677f31e6a06d1108532d3479fe23e74c" sha1="e87035fd550640039ff433733c44be018ddb63f6"/>
 	</game>
 	<game name="Sims Magazine #25, Les (France)" id="113233">
 		<category>Coverdiscs</category>
@@ -411413,6 +411547,16 @@
 		<rom name="Specznaz - Antiterror - Missiya na Balkanax (Russia) (Disc 2).cue" size="127" crc="660163dc" md5="dd40016c893adc903b141ed3fe1268a5" sha1="363e46c4f5c8f18dfd66908c15fae3ef30ff6c6e"/>
 		<rom name="Specznaz - Antiterror - Missiya na Balkanax (Russia) (Disc 2).bin" size="202436640" crc="90beefb9" md5="c0ceddf847aff69b784884421a76246a" sha1="17c4539c74e1e8e374b9369ebb79f52aa221c2af"/>
 	</game>
+	<game name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan)" id="140053">
+		<category>Games</category>
+		<serial>MSDJ-99093</serial>
+		<description>Speed &amp; Doubt: Ninki Card Game ga Set de Toujou (Japan)</description>
+		<rom name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan).cue" size="605" crc="44b40bce" md5="24753917c84e3ac3c80551f53b6674c9" sha1="d38d5241e85fc945820043a49dddd38697f04ee7"/>
+		<rom name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan) (Track 1).bin" size="167248368" crc="1d9a4b82" md5="c155ad9af5e8c258717c9dea07e69de4" sha1="15deff4c7f6d40740ebcd09c513ad8949c7cb4ce"/>
+		<rom name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan) (Track 2).bin" size="32650464" crc="b2d40a76" md5="432a71d5076d08910927f8b991ca4c51" sha1="8cc9648131d7d6828ed86758eb8d202d7486c198"/>
+		<rom name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan) (Track 3).bin" size="55406064" crc="9fac564e" md5="ac6fc4954a4365cc7929d019d20a1326" sha1="5a24c0a481820db1111a5ddb44be83292c1a0912"/>
+		<rom name="Speed &amp; Doubt - Ninki Card Game ga Set de Toujou (Japan) (Track 4).bin" size="50817312" crc="3bc9d7ce" md5="dbe2c9fcb5177bdd2e5d85023be6a9c2" sha1="88c9eea9afe5de92191a74f4825aad377ffcd00f"/>
+	</game>
 	<game name="Speed &amp; Space Adventure &amp; Undersea Adventure (USA)" id="96306">
 		<category>Educational</category>
 		<serial>170159</serial>
@@ -417009,6 +417153,27 @@
 		<serial>103487903304</serial>
 		<description>Star Wars: Battlefront (Europe, Australia) (En,Fr,De,Es,It,Pt,Zh,Pl,Ru,Ar) (Disc 4)</description>
 		<rom name="Star Wars - Battlefront (Europe, Australia) (En,Fr,De,Es,It,Pt,Zh,Pl,Ru,Ar) (Disc 4).iso" size="3794190336" crc="2f6d7f81" md5="8d8a327cdebca1086885bca7b5947fc4" sha1="eda7eb2b96a2e508c0085a0c79c26643af24901c"/>
+	</game>
+	<game name="Star Wars - Battlefront (France) (Disque 1) (Disque de jeu)" id="140072">
+		<category>Games</category>
+		<serial>41121.101.FR</serial>
+		<description>Star Wars: Battlefront (France) (Disque 1) (Disque de jeu)</description>
+		<rom name="Star Wars - Battlefront (France) (Disque 1) (Disque de jeu).cue" size="125" crc="087fab22" md5="ba6217aed81c15def0cf9c31152a5159" sha1="15c825a6dda9ab4b89a788d27f58581e0f65d540"/>
+		<rom name="Star Wars - Battlefront (France) (Disque 1) (Disque de jeu).bin" size="816031104" crc="0d5ed131" md5="1e02f6906287a6224dc0b83816cd3797" sha1="bdabfdc805c46f27c7a1f76d15474c0fb739b491"/>
+	</game>
+	<game name="Star Wars - Battlefront (France) (Disque 2)" id="140073">
+		<category>Games</category>
+		<serial>41121.102.FR</serial>
+		<description>Star Wars: Battlefront (France) (Disque 2)</description>
+		<rom name="Star Wars - Battlefront (France) (Disque 2).cue" size="109" crc="8ad8013a" md5="cafa93d5f6cc2d41665e703896dd5dfa" sha1="50d33aa6a828d52ab6fc1ff7a3907e648cd31d83"/>
+		<rom name="Star Wars - Battlefront (France) (Disque 2).bin" size="757852032" crc="77cb9aa4" md5="e16ef2a4d54bb99cddb5b57cc8ff94ac" sha1="db5b7c9d04469e3abef2f859fd53de761ff9c67b"/>
+	</game>
+	<game name="Star Wars - Battlefront (France) (Disque 3)" id="140074">
+		<category>Games</category>
+		<serial>41121.103.FR</serial>
+		<description>Star Wars: Battlefront (France) (Disque 3)</description>
+		<rom name="Star Wars - Battlefront (France) (Disque 3).cue" size="109" crc="3cc3e14a" md5="122128168d22ec7a9ea01670e6413d12" sha1="b23142affaeca11c640939af714703f2d34e4845"/>
+		<rom name="Star Wars - Battlefront (France) (Disque 3).bin" size="815932320" crc="af5c309b" md5="bba84a6dbb6f82c8160e2ceebe2c0ed4" sha1="177585b7c7cccc2bbd0f972ca1a6161f12bb1604"/>
 	</game>
 	<game name="Star Wars - Battlefront (Germany) (Disc 1) (Play Disc)" id="80746">
 		<category>Games</category>
@@ -434812,6 +434977,12 @@
 		<rom name="Tajemnicza Wyspa (Poland).cue" size="274" crc="15606792" md5="be804bbb03857fbcf3b096c86d66319a" sha1="ee475870fcf0aa44df98a63977d16c0af9541ee5"/>
 		<rom name="Tajemnicza Wyspa (Poland) (Track 1).bin" size="194258736" crc="16ce2745" md5="fa039db8fd72382438ca647a72fc604b" sha1="550671bdd201a33864fe96f75f0083c3156fdb1f"/>
 		<rom name="Tajemnicza Wyspa (Poland) (Track 2).bin" size="528727248" crc="5d8e8899" md5="7d77edc9f94c611b6e13ecfa609d0c9a" sha1="9b256624e1d45cfef4b4c59f06ad0e94f94dc2c6"/>
+	</game>
+	<game name="Tajemnicza Wyspa (Poland) (Covermount)" id="140099">
+		<category>Coverdiscs</category>
+		<description>Tajemnicza Wyspa (Poland) (Covermount)</description>
+		<rom name="Tajemnicza Wyspa (Poland) (Covermount).cue" size="104" crc="fbfec2a5" md5="b7c198ef4ba937fb8033d121e10ed325" sha1="2adda4544b19a721b18fd78ac5875eca8e414d00"/>
+		<rom name="Tajemnicza Wyspa (Poland) (Covermount).bin" size="254923872" crc="4598cbfb" md5="310376bd4a658577293557e8ed68fb66" sha1="830beed5d038df742313fb692eb527e6c6f9871c"/>
 	</game>
 	<game name="Tajm aut - Vypusk 3 (Russia)" id="124477">
 		<category>Games</category>

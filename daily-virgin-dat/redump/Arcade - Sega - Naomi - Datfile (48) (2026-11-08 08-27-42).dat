@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi</name>
-		<description>Arcade - Sega - Naomi - Datfile (47) (2026-11-01 12-38-06)</description>
-		<version>2026-11-01 12-38-06</version>
-		<date>2026-11-01 12-38-06</date>
+		<description>Arcade - Sega - Naomi - Datfile (48) (2026-11-08 08-27-42)</description>
+		<version>2026-11-08 08-27-42</version>
+		<date>2026-11-08 08-27-42</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -289,6 +289,16 @@
 		<rom name="Puyo Puyo Fever (Japan) (Track 1).bin" size="1058400" crc="c775f766" md5="21828cd5e77d3026950d25122891d52a" sha1="cd7888a06c3e7787b6dc98f4f973efb2d9bc47da"/>
 		<rom name="Puyo Puyo Fever (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Puyo Puyo Fever (Japan) (Track 3).bin" size="1185760800" crc="3784f5b7" md5="a7f0b608fad73cf118963be9b065d28a" sha1="36c67d76080b9316f6ed3fe86d79022a0c5cd4e5"/>
+	</game>
+	<game name="Quiz Keitai Q Mode (Japan)" id="140103">
+		<category>Games</category>
+		<serial>GDL-0017</serial>
+		<version>1.003</version>
+		<description>Quiz Keitai Q Mode (Japan)</description>
+		<rom name="Quiz Keitai Q Mode (Japan).cue" size="372" crc="1e25ae0a" md5="57b71329ff2b8a7b4e66b2eada8a9571" sha1="305a306a0936aeac5cd939ae6649e563aab28261"/>
+		<rom name="Quiz Keitai Q Mode (Japan) (Track 1).bin" size="20874000" crc="61b278df" md5="713fac4773226c83f6042e73d4d53c1a" sha1="c8f3bdd5c60f36f534d69d00c60ee1097370959a"/>
+		<rom name="Quiz Keitai Q Mode (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Quiz Keitai Q Mode (Japan) (Track 3).bin" size="1185760800" crc="2280f9ab" md5="2bb20f14e2049dc8ee3dbbc684d0e5cc" sha1="0cafe837c15cec8b7dd495bbec8a25c6954b7286"/>
 	</game>
 	<game name="Radirgy (Japan)" id="69608">
 		<category>Games</category>

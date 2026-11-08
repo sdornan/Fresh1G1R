@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Enhanced CD</name>
-		<description>Enhanced CD - Datfile (256) (2026-10-31 16-48-06)</description>
-		<version>2026-10-31 16-48-06</version>
-		<date>2026-10-31 16-48-06</date>
+		<description>Enhanced CD - Datfile (258) (2026-11-07 21-09-04)</description>
+		<version>2026-11-07 21-09-04</version>
+		<date>2026-11-07 21-09-04</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -2560,6 +2560,17 @@
 		<rom name="Minibosses (USA) (Track 17).bin" size="106896048" crc="95b85b65" md5="7080182149740b991c81dac521f0a638" sha1="b6195f34845cae12d496ed4b31cf22e87c48e507"/>
 		<rom name="Minibosses (USA) (Track 18).bin" size="154415856" crc="e3acc6d7" md5="f1aa41a56ec47caf1e3c74253338a839" sha1="2483c10a0e80d8afa0f34009bea30d32b01208ac"/>
 	</game>
+	<game name="Miraisou (Japan)" id="140091">
+		<category>Audio</category>
+		<serial>XQET-1006</serial>
+		<description>Miraisou (Japan)</description>
+		<rom name="Miraisou (Japan).cue" size="541" crc="dc8b7fb6" md5="5b7d64cdcc8fa99bcd3b7fe4e2c534e4" sha1="ef0e5ce7bdfd018f3d48d073d17446d301b22bf0"/>
+		<rom name="Miraisou (Japan) (Track 1).bin" size="45929856" crc="d29016f4" md5="219b8ee44815c80b5efd883ab28abbb9" sha1="82984b9f12647c1953ffc6ba2af03515c9777f51"/>
+		<rom name="Miraisou (Japan) (Track 2).bin" size="38384640" crc="6fafb063" md5="e94d5a1e1044352b666538fa913d9be0" sha1="2e314281626cbc55b979e0c77d209ecb96b1423e"/>
+		<rom name="Miraisou (Japan) (Track 3).bin" size="40788384" crc="1e190d21" md5="a8cb430f1bf891eaaf5e0bf676748f91" sha1="b44ee91571a2e97ec35654f646606e8148e93ce3"/>
+		<rom name="Miraisou (Japan) (Track 4).bin" size="20276592" crc="8913a15d" md5="100f1f4457cd03f23717669497e380bf" sha1="d76445501779de551aabbc7d62a04e13b09bc49c"/>
+		<rom name="Miraisou (Japan) (Track 5).bin" size="14899920" crc="f26d78b2" md5="82cacfc96add457db3ec04c92894c275" sha1="927c0d5c5b037ff5b9c770ccef5525c0cfa6fda3"/>
+	</game>
 	<game name="Moon Gate (Japan)" id="119623">
 		<category>Audio</category>
 		<serial>AVCD-30502</serial>
@@ -4209,6 +4220,15 @@
 		<rom name="Super Mario Dance (Norway) (En,No) (Track 17).bin" size="36227856" crc="9429ba82" md5="6bbb8594e6bbf67e5dda84a28a5c327f" sha1="42dcb214db739b6940118c818848d0653f33f1c9"/>
 		<rom name="Super Mario Dance (Norway) (En,No) (Track 18).bin" size="37641408" crc="cf2f02fa" md5="9392bcc9f1d26e33bcbb41561969fc18" sha1="077dff0dd794e622f293fed4f89d458360347d42"/>
 		<rom name="Super Mario Dance (Norway) (En,No) (Track 19).bin" size="67001424" crc="58e305ea" md5="2bdb589f229fbb125de2d4fea1ede709" sha1="a3012c3a2d3f9bbd5379192cf5b5f314ed3f5542"/>
+	</game>
+	<game name="Suzunone Seven! Taikenban &amp; Shudaika Short Version (Japan)" id="140096">
+		<category>Multimedia</category>
+		<version>1.0</version>
+		<description>Suzunone Seven! Taikenban &amp; Shudaika Short Version (Japan)</description>
+		<rom name="Suzunone Seven! Taikenban &amp; Shudaika Short Version (Japan).cue" size="477" crc="c89cc0d1" md5="d230344f1111421f3c4448d0e22f9dc7" sha1="8c2bdc1592d6e502ccf5791d15d19ef946f9998c"/>
+		<rom name="Suzunone Seven! Taikenban &amp; Shudaika Short Version (Japan) (Track 1).bin" size="19135872" crc="adf69b6d" md5="25ec6d13696e906f78a94f05ea2e55dc" sha1="c313bb31d36856f8996488c93cd2da20be99f1df"/>
+		<rom name="Suzunone Seven! Taikenban &amp; Shudaika Short Version (Japan) (Track 2).bin" size="32003664" crc="375c7639" md5="47eb0f4f32122f7afdc3e5c31f4c5d05" sha1="4feadecd6a3c579374e65b4934e032760dbfb3ba"/>
+		<rom name="Suzunone Seven! Taikenban &amp; Shudaika Short Version (Japan) (Track 3).bin" size="559317360" crc="1a2502a5" md5="fb2275f32334feaeee157fb207862ec2" sha1="ead5458bce8a70fb887b0ad70579491aa40d9773"/>
 	</game>
 	<game name="Tales of Symphonia - Special Disc (Japan)" id="93596">
 		<category>Audio</category>

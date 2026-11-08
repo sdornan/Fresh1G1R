@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (1,034) (-y) [-aAbBcdkmMpPuv] (2026-11-03 10-56-30) (Retool)</description>
-		<version>2026-11-03 10-56-30</version>
-		<date>2026-11-07 08-55-30</date>
+		<description>DVD-Video (1,036) (-y) [-aAbBcdkmMpPuv] (2026-11-07 22-49-07) (Retool)</description>
+		<version>2026-11-07 22-49-07</version>
+		<date>2026-11-08 09-03-45</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1085,6 +1085,12 @@
 		<serial>DLDF-0001</serial>
 		<rom name="Diabolik Lovers - Dark Fate - Genteiban Animate Gentei Set - Original Animation DVD (Japan) (PSV Game Bundle).iso" size="772952064" crc="d8a3c0b4" md5="4a435387db1db238bde64d56abc722b1" sha1="235f7f1b14859d71be286925aca24b97b1e5af71"/>
 	</game>
+	<game name="Digital Devil Saga - Avatar Tuner 2 - Special DVD (Japan)" id="140062">
+		<category>Bonus Discs</category>
+		<description>Digital Devil Saga: Avatar Tuner 2: Special DVD (Japan)</description>
+		<serial>ATLS-41121</serial>
+		<rom name="Digital Devil Saga - Avatar Tuner 2 - Special DVD (Japan).iso" size="2421358592" crc="5c209dc1" md5="acc66b418f2951bfccd762c8d1c48a5d" sha1="dc30aa775ba6a9382cecd975053e84ce849cd4a0"/>
+	</game>
 	<game name="Discovery Channel DVD - Promotion Eizoushuu (Japan) (PS2 Game Bundle)" id="97822">
 		<category>Bonus Discs</category>
 		<description>Discovery Channel DVD: Promotion Eizoushuu (Japan) (PS2 Game Bundle)</description>
@@ -1449,10 +1455,11 @@
 		<serial>SE-W 0001</serial>
 		<rom name="Eien no Nagi-setsu - Final Fantasy X Another Story (Japan) (PS2 Game Bundle).iso" size="926711808" crc="6482de0e" md5="f80679ba67b57398d4ea7d17da461a78" sha1="9d739d6010bc8b2879d21fc9b91078d5403b00a8"/>
 	</game>
-	<game name="Elder Scrolls IV, The - Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Xbox 360 Game Bundle)" id="19372">
+	<game name="Elder Scrolls IV, The - Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Multisystem Game Bundle)" id="19372">
 		<category>Bonus Discs</category>
-		<description>Elder Scrolls IV, The: Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Xbox 360 Game Bundle)</description>
-		<rom name="Elder Scrolls IV, The - Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Xbox 360 Game Bundle).iso" size="2580703232" crc="207c6697" md5="a5f0b598982203fa21843421b1d229df" sha1="ea960416b06f04bf9473ee43e27da43c07e8921c"/>
+		<description>Elder Scrolls IV, The: Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Multisystem Game Bundle)</description>
+		<serial>5051286/DVDBON</serial>
+		<rom name="Elder Scrolls IV, The - Oblivion (Europe) (En,Fr,De,Es,It) (Bonus Materials) (Multisystem Game Bundle).iso" size="2580703232" crc="207c6697" md5="a5f0b598982203fa21843421b1d229df" sha1="ea960416b06f04bf9473ee43e27da43c07e8921c"/>
 	</game>
 	<game name="Elder Scrolls IV, The - Oblivion (Poland) (En,Fr,De,Es,It) (Plyta Bonusowa) (PC Game Bundle)" id="23802">
 		<category>Bonus Discs</category>
@@ -4521,6 +4528,11 @@
 		<description>Shijou Saikyou no Deshi Ken'ichi: Gekitou! Ragnarok Hachikengou: The Most Powerful Calendar Ever With DVD (Japan)</description>
 		<serial>CAP-07018</serial>
 		<rom name="Shijou Saikyou no Deshi Ken'ichi - Gekitou! Ragnarok Hachikengou - The Most Powerful Calendar Ever With DVD (Japan).iso" size="1021569024" crc="e8c1c41a" md5="cdf4aa30687cbc0db1a65784416e21ec" sha1="ed1e74a513088471074aa6854f12e4b778cbb505"/>
+	</game>
+	<game name="Shin Kamaitachi no Yoru - 11-ninme no Suspect - Premium Fan Disc (Japan)" id="140084">
+		<category>Bonus Discs</category>
+		<description>Shin Kamaitachi no Yoru: 11-ninme no Suspect: Premium Fan Disc (Japan)</description>
+		<rom name="Shin Kamaitachi no Yoru - 11-ninme no Suspect - Premium Fan Disc (Japan).iso" size="4313710592" crc="2267229c" md5="66b7b73c6b3d0c91ff1adf7131542892" sha1="0ae73509ad074ec4060be7f2527cfee2fed401e5"/>
 	</game>
 	<game name="Shin Megami Tensei III - Nocturne - Special DVD (Japan)" id="69197">
 		<category>Bonus Discs</category>

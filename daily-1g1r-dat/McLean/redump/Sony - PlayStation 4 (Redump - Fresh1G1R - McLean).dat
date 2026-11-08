@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,686) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-06 19-05-36) (Retool)</description>
-		<version>2026-11-06 19-05-36</version>
-		<date>2026-11-07 08-47-05</date>
+		<description>Sony - PlayStation 4 (1,688) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-07 21-17-42) (Retool)</description>
+		<version>2026-11-07 21-17-42</version>
+		<date>2026-11-08 08-57-10</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1872,6 +1872,13 @@
 		<serial>CUSA-14836</serial>
 		<version>01.00</version>
 		<rom name="Catherine - Full Body (USA) (En,Fr,De,Es,It).iso" size="14443544576" crc="1bfee9ca" md5="e8ab5bde64805b3f1b7f73efa8079161" sha1="81f7603068a1107f041b2545029c14483cfe1a23"/>
+	</game>
+	<game name="Catty &amp; Batty - The Spirit Guide (Europe)" id="140085">
+		<category>Games</category>
+		<description>Catty &amp; Batty: The Spirit Guide (Europe)</description>
+		<serial>CUSA-27896</serial>
+		<version>02.00</version>
+		<rom name="Catty &amp; Batty - The Spirit Guide (Europe).iso" size="25024331776" crc="826a44cd" md5="b8d8db2e5fd0aa00eb53e4e54b0c03bb" sha1="35e085b03e53c9c9cca4a025d9fe19bcaf5181f4"/>
 	</game>
 	<game name="Celeste (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)" id="66816">
 		<category>Games</category>
@@ -6903,6 +6910,13 @@
 		<serial>CUSA-12759</serial>
 		<version>02.00</version>
 		<rom name="Mighty Switch Force! Collection (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).iso" size="1967652864" crc="f9568e1d" md5="7ffdb24b7384600c43f3f06e8c27b65b" sha1="0c94a13917a6b5c9e4d411a86295c16d2f20db5f"/>
+	</game>
+	<game name="Milli &amp; Greg (Europe)" id="140087">
+		<category>Games</category>
+		<description>Milli &amp; Greg (Europe)</description>
+		<serial>CUSA-32615</serial>
+		<version>01.00</version>
+		<rom name="Milli &amp; Greg (Europe).iso" size="1302855680" crc="48bfbb7c" md5="d037a8a790145c95c29ca78645daf9b3" sha1="78a67aa22050abafaa374b870a4ecde1d761d453"/>
 	</game>
 	<game name="Minecraft - PlayStation 4 Edition (USA, Brazil) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Tr)" id="63101">
 		<category>Games</category>
