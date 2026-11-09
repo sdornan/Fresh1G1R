@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,702) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-07 22-47-42) (Retool)</description>
-		<version>2026-11-07 22-47-42</version>
-		<date>2026-11-08 08-56-31</date>
+		<description>IBM - PC compatible (13,705) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-09 02-17-42) (Retool)</description>
+		<version>2026-11-09 02-17-42</version>
+		<date>2026-11-09 09-36-35</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -26249,10 +26249,12 @@
 		<version>1.0</version>
 		<rom name="Divinity II - Ego Draconis (USA) (En,Fr,Es).iso" size="7206141952" crc="67182740" md5="f77f1c12f34ed8d98c4af5cd1e9bfa40" sha1="353eccd3832cbb8f182909c419c78377dc63f84e"/>
 	</game>
-	<game name="DmC - Devil May Cry (Europe, Australia)" id="101780">
+	<game name="DmC - Devil May Cry (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)" id="101780">
 		<category>Games</category>
-		<description>DmC: Devil May Cry (Europe, Australia)</description>
-		<rom name="DmC - Devil May Cry (Europe, Australia).iso" size="8262844416" crc="b680af43" md5="c2b91ca573bc21f7a474dfd88ab36a82" sha1="48b4eac757b83c2f60780bc14c3b3c1b24cbae55"/>
+		<description>DmC: Devil May Cry (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)</description>
+		<serial>500017114LB</serial>
+		<version>1.0</version>
+		<rom name="DmC - Devil May Cry (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru).iso" size="8262844416" crc="b680af43" md5="c2b91ca573bc21f7a474dfd88ab36a82" sha1="48b4eac757b83c2f60780bc14c3b3c1b24cbae55"/>
 	</game>
 	<game name="Do You Know the Bible (USA)" id="117582">
 		<category>Games</category>
@@ -28588,6 +28590,16 @@
 		<description>Dying Light (Australia) (Disc 2)</description>
 		<serial>2000106754, 7000064252</serial>
 		<rom name="Dying Light (Australia) (Disc 2).iso" size="8449101824" crc="4a1c1416" md5="5c9ce3cdbd25501351b91ed8a6a2e768" sha1="ab861728078554f9c76c008aa47a00478c8e6d00"/>
+	</game>
+	<game name="Dying Light - The Following - Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 1)" id="140108">
+		<category>Games</category>
+		<description>Dying Light: The Following: Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 1)</description>
+		<rom name="Dying Light - The Following - Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 1).iso" size="8478785536" crc="69ce87b6" md5="7556ef15a8a1f2ca7db8904c4af1ad08" sha1="76b2fc65fb4b94425326a1baa2a00b3fa197639b"/>
+	</game>
+	<game name="Dying Light - The Following - Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 2)" id="140109">
+		<category>Games</category>
+		<description>Dying Light: The Following: Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 2)</description>
+		<rom name="Dying Light - The Following - Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 2).iso" size="8449097728" crc="5df19fe3" md5="fe5ff0a07aa3af812f41207c1d883c03" sha1="11ed69bc643c1ef9145e82d06a644cfe7b0b14a7"/>
 	</game>
 	<game name="Dynasty (USA)" id="110828">
 		<category>Games</category>
@@ -62745,10 +62757,11 @@
 		<rom name="Mortal Kombat &amp; Mortal Kombat II (Europe).bin" size="48564096" crc="69d72c74" md5="d6aaf6930c7b5b2bc1815f5b919e7af6" sha1="20fbd31ef25e5c904a378d659a1b89fe13d0343c"/>
 		<rom name="Mortal Kombat &amp; Mortal Kombat II (Europe).cue" size="130" crc="f55138b0" md5="a2a2d2e7db6b3979b286bf46ab135492" sha1="9421f7cbf11a28ea5846ba3c5e12d0d882869b6c"/>
 	</game>
-	<game name="Mortal Kombat - Komplete Edition (Europe, India) (En,Fr,De,Es,It,Pt)" id="30379">
+	<game name="Mortal Kombat - Komplete Edition (Europe, India) (En,Fr,Es,Pt)" id="30379">
 		<category>Games</category>
-		<description>Mortal Kombat: Komplete Edition (Europe, India) (En,Fr,De,Es,It,Pt)</description>
-		<rom name="Mortal Kombat - Komplete Edition (Europe, India) (En,Fr,De,Es,It,Pt).iso" size="8361879552" crc="83e1af42" md5="4f6d94e65a1495ea8582dda12e90693f" sha1="c476a0940a8382c6c6cee8a7920b06847c87e081"/>
+		<description>Mortal Kombat: Komplete Edition (Europe, India) (En,Fr,Es,Pt)</description>
+		<serial>2000086217, 7000056360</serial>
+		<rom name="Mortal Kombat - Komplete Edition (Europe, India) (En,Fr,Es,Pt).iso" size="8361879552" crc="83e1af42" md5="4f6d94e65a1495ea8582dda12e90693f" sha1="c476a0940a8382c6c6cee8a7920b06847c87e081"/>
 	</game>
 	<game name="Mortal Kombat 3 (USA)" id="26271">
 		<category>Games</category>
@@ -89418,6 +89431,13 @@
 		<description>Springy (UK)</description>
 		<rom name="Springy (UK).bin" size="131281584" crc="0d10b168" md5="6070365d3fc31f2dd5820dfc9bd7392b" sha1="f2eb1bf0fa8aef4951148a62e5defff88cf99479"/>
 		<rom name="Springy (UK).cue" size="78" crc="2061cb86" md5="440ee473aa9c53054c8529028a3484f9" sha1="a35c72c90032b71e7957800111d0d093a7313b18"/>
+	</game>
+	<game name="Sprint Cars - Road to Knoxville (Poland) (En,Pl)" id="140107">
+		<category>Games</category>
+		<description>Sprint Cars: Road to Knoxville (Poland) (En,Pl)</description>
+		<version>1.04</version>
+		<rom name="Sprint Cars - Road to Knoxville (Poland) (En,Pl).bin" size="246268512" crc="f5209b7a" md5="30994956fdb16f95efc5fdea0153c8ea" sha1="e87b82cfd32d6bd39686c87f5aa5d29356179383"/>
+		<rom name="Sprint Cars - Road to Knoxville (Poland) (En,Pl).cue" size="114" crc="609b3934" md5="690239c2e0b1558747096a54990abb44" sha1="f0c4146059da76ef70716bb043b8daa684a6bbe4"/>
 	</game>
 	<game name="Sproink (USA)" id="131371">
 		<category>Games</category>

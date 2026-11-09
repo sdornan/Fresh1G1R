@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5</name>
-		<description>Sony - PlayStation 5 - Datfile (583) (2026-11-05 11-06-30)</description>
-		<version>2026-11-05 11-06-30</version>
-		<date>2026-11-05 11-06-30</date>
+		<description>Sony - PlayStation 5 - Datfile (585) (2026-11-08 22-49-06)</description>
+		<version>2026-11-08 22-49-06</version>
+		<date>2026-11-08 22-49-06</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -493,12 +493,12 @@
 		<description>Callisto Protocol, The (USA)</description>
 		<rom name="Callisto Protocol, The (USA).iso" size="44786581504" crc="0e8194bd" md5="6087f2e9ba97e58909d08e6db05278e1" sha1="13eb4a17c32c4fa95475c27a4d85cf1d2b0cc7b5"/>
 	</game>
-	<game name="Castlevania - Belmont's Curse (Japan)" id="139520">
+	<game name="Castlevania - Belmont's Curse (Japan, Australia)" id="139520">
 		<category>Games</category>
-		<serial>ELJM 30974, VH015</serial>
+		<serial>ELJM 30974, PPSA-37523/EU</serial>
 		<version>01.00</version>
-		<description>Castlevania: Belmont's Curse (Japan)</description>
-		<rom name="Castlevania - Belmont's Curse (Japan).iso" size="40008351744" crc="71d93a3d" md5="284253c271eef9c5894527f9cf0f6fc9" sha1="ba8706d3166e16df13789094b43c66b98a1261b7"/>
+		<description>Castlevania: Belmont's Curse (Japan, Australia)</description>
+		<rom name="Castlevania - Belmont's Curse (Japan, Australia).iso" size="40008351744" crc="71d93a3d" md5="284253c271eef9c5894527f9cf0f6fc9" sha1="ba8706d3166e16df13789094b43c66b98a1261b7"/>
 	</game>
 	<game name="Castlevania Dominus Collection (Japan)" id="128654">
 		<category>Games</category>
@@ -2572,6 +2572,13 @@
 		<description>NHL 24 (USA) (En,Fr)</description>
 		<rom name="NHL 24 (USA) (En,Fr).iso" size="41913876480" crc="98209d34" md5="304c0ec1cfcf04f0338ac380a57fda85" sha1="8db603a52bb48205d167ff48a8f78e3c390550fa"/>
 	</game>
+	<game name="Nickelodeon All-Star Brawl 2 (Europe)" id="140117">
+		<category>Games</category>
+		<serial>PPSA-16745</serial>
+		<version>01.00</version>
+		<description>Nickelodeon All-Star Brawl 2 (Europe)</description>
+		<rom name="Nickelodeon All-Star Brawl 2 (Europe).iso" size="40008351744" crc="ae1961b4" md5="1dd2b4a45dc59baf0dd886dc01085bcd" sha1="50452be8dd0b3eafe3f9f4198c636eb2bc81db13"/>
+	</game>
 	<game name="Nickelodeon Dora - Rainforest Rescue (USA)" id="133970">
 		<category>Games</category>
 		<serial>PPSA-26396/US</serial>
@@ -3935,6 +3942,13 @@
 		<version>01.00</version>
 		<description>Warhammer 40,000: Space Marine II (Japan)</description>
 		<rom name="Warhammer 40,000 - Space Marine II (Japan).iso" size="52699660288" crc="50ec959c" md5="0fe8f29533d92b8445736cf10a9d5c23" sha1="4122f6c30893eda45329bda0d560314d5f8ee9eb"/>
+	</game>
+	<game name="Warrior Cats - Clans of the Forest - Feral Edition (USA) (En,Fr,De,Es,It,Nl)" id="140115">
+		<category>Games</category>
+		<serial>PPSA-38744/US</serial>
+		<version>01.00</version>
+		<description>Warrior Cats: Clans of the Forest: Feral Edition (USA) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Warrior Cats - Clans of the Forest - Feral Edition (USA) (En,Fr,De,Es,It,Nl).iso" size="40008351744" crc="4af0eb30" md5="e5849174417a5547a0218d0c0abba774" sha1="a5d41181eb246cb819e706db46ea072ebd32aeac"/>
 	</game>
 	<game name="Watch Dogs - Legion (Japan)" id="101386">
 		<category>Games</category>

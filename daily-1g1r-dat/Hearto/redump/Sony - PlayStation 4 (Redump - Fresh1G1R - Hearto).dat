@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,996) (-y) [-aAbBcefkmMoprv] (2026-11-07 21-17-42) (Retool)</description>
-		<version>2026-11-07 21-17-42</version>
-		<date>2026-11-08 08-50-47</date>
+		<description>Sony - PlayStation 4 (1,997) (-y) [-aAbBcefkmMoprv] (2026-11-09 09-07-42) (Retool)</description>
+		<version>2026-11-09 09-07-42</version>
+		<date>2026-11-09 09-30-22</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -647,6 +647,13 @@
 		<serial>CUSA-01644</serial>
 		<version>01.01</version>
 		<rom name="Arcania - The Complete Tale (USA) (En,Ja,Fr,De,Es,It,Zh,Pl,Ru,Cs,Hu).iso" size="6863126528" crc="128fd5a7" md5="adf7160ead798b4dd4009b6726bc2ae5" sha1="624b8a5988a53f84fe16cf0b9b5693fe937a8d84"/>
+	</game>
+	<game name="Arietta of Spirits (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)" id="140116">
+		<category>Games</category>
+		<description>Arietta of Spirits (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)</description>
+		<serial>CUSA-28802</serial>
+		<version>02.00</version>
+		<rom name="Arietta of Spirits (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru).iso" size="25024331776" crc="e97b0e7f" md5="04bed940896a36afd1ad2625ad490b46" sha1="bbb8c0bce9d3ed0aeeef2a146a3998851eb7743c"/>
 	</game>
 	<game name="Ark - Survival Evolved (USA)" id="79940">
 		<category>Games</category>
@@ -3164,7 +3171,7 @@
 	<game name="Devil May Cry 4 - Special Edition (Japan, Asia) (En,Ja,Fr,De,Es,It)" id="69296">
 		<category>Games</category>
 		<description>Devil May Cry 4: Special Edition (Japan, Asia) (En,Ja,Fr,De,Es,It)</description>
-		<serial>PLAS 05084, PLJM 80174</serial>
+		<serial>PLAS 05084, PLJM 80174, PLAS 05085</serial>
 		<version>01.00</version>
 		<rom name="Devil May Cry 4 - Special Edition (Japan, Asia) (En,Ja,Fr,De,Es,It).iso" size="21522743296" crc="a8315bb6" md5="3680cbf55348beb52be8f721ff4233f7" sha1="3086db3075301f0c47ba2305c570bbf4fe029658"/>
 	</game>

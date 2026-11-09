@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62153) (2026-11-07 22-47-42)</description>
-		<version>2026-11-07 22-47-42</version>
-		<date>2026-11-07 22-47-42</date>
+		<description>IBM - PC compatible - Datfile (62168) (2026-11-09 02-17-42)</description>
+		<version>2026-11-09 02-17-42</version>
+		<date>2026-11-09 02-17-42</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -24866,6 +24866,11 @@
 		<description>Aragami (Australia)</description>
 		<rom name="Aragami (Australia).iso" size="4491902976" crc="4eb14977" md5="75cd94a3d0b4eb767ac7ce709b694dce" sha1="595d1ac848a0b6a73addf34fda9ab241fd9a60a4"/>
 	</game>
+	<game name="Aragami (Poland)" id="140114">
+		<category>Games</category>
+		<description>Aragami (Poland)</description>
+		<rom name="Aragami (Poland).iso" size="4535746560" crc="17867e5f" md5="2472883baddfa187e54865cfc110c411" sha1="fd2ef32f8664fb92a301fe9cefa6987b3b3dd2c7"/>
+	</game>
 	<game name="Arc of Doom (USA)" id="115284">
 		<category>Games</category>
 		<serial>PN 9254-8003-B</serial>
@@ -28740,6 +28745,12 @@
 		<description>Atari Arcade Hits 1 (Germany)</description>
 		<rom name="Atari Arcade Hits 1 (Germany).cue" size="95" crc="2d4f406c" md5="6dd92972778e8163d21fbe86f8a3c6d2" sha1="e0e983ac2b310708a93e98726719f120d14bf592"/>
 		<rom name="Atari Arcade Hits 1 (Germany).bin" size="642521712" crc="f264a002" md5="cb10f0f0b3c09783bd95dcddc92e6815" sha1="7b6aaf226afc93a5fa22431355deebf294315adb"/>
+	</game>
+	<game name="Atari Arcade Hits 1 (Germany) (Rerelease)" id="140120">
+		<category>Games</category>
+		<description>Atari Arcade Hits 1 (Germany) (Rerelease)</description>
+		<rom name="Atari Arcade Hits 1 (Germany) (Rerelease).cue" size="107" crc="048aa80d" md5="b94ea7ec9c1b93b3a685e507293ec157" sha1="6ff8ec34cea7a6c85ff0e82b0a7a77a26c83e3c9"/>
+		<rom name="Atari Arcade Hits 1 (Germany) (Rerelease).bin" size="668466624" crc="cc23b315" md5="5024c653d170c6b80994f5c111f5610e" sha1="b3d2a0b1a49c3cbf35d3dfc95a4a7c8df2115584"/>
 	</game>
 	<game name="Atari Arcade Hits 1 (USA, Canada) (En,Fr,De,Es)" id="127684">
 		<category>Games</category>
@@ -106428,11 +106439,11 @@
 		<description>Deus Ex: Human Revolution (Germany)</description>
 		<rom name="Deus Ex - Human Revolution (Germany).iso" size="7672168448" crc="05f6baf6" md5="7c7487fead1b9817b5344e2a8b2931fa" sha1="f666b5d461d923c39d131a1ab372ea95c52e5495"/>
 	</game>
-	<game name="Deus Ex - Human Revolution (Russia) (Pl,Ru)" id="103509">
+	<game name="Deus Ex - Human Revolution (Poland, Russia) (Pl,Ru)" id="103509">
 		<category>Games</category>
-		<serial>MDXHRVRP01</serial>
-		<description>Deus Ex: Human Revolution (Russia) (Pl,Ru)</description>
-		<rom name="Deus Ex - Human Revolution (Russia) (Pl,Ru).iso" size="8388411392" crc="03152097" md5="a7947f496416c1c149265c7037f19950" sha1="af990125cad99df3b886dc72736e44efe1a76bbb"/>
+		<serial>MDXHRVRP01, 500011261LB</serial>
+		<description>Deus Ex: Human Revolution (Poland, Russia) (Pl,Ru)</description>
+		<rom name="Deus Ex - Human Revolution (Poland, Russia) (Pl,Ru).iso" size="8388411392" crc="03152097" md5="a7947f496416c1c149265c7037f19950" sha1="af990125cad99df3b886dc72736e44efe1a76bbb"/>
 	</game>
 	<game name="Deus Ex - Human Revolution (USA) (En,Fr)" id="75814">
 		<category>Games</category>
@@ -116617,10 +116628,12 @@
 		<rom name="DMB (Russia).cue" size="78" crc="feedc604" md5="c4793b3cac373c27318edb82781ee870" sha1="5f8d0cd6175c44978bd5a77319dfe3756dfa7d7c"/>
 		<rom name="DMB (Russia).bin" size="810856704" crc="adfbe1fd" md5="8a81674fd270b001c1e3ef3025228ade" sha1="f48253a4b8906e43efd79d1c14c4e6adbbeb505d"/>
 	</game>
-	<game name="DmC - Devil May Cry (Europe, Australia)" id="101780">
+	<game name="DmC - Devil May Cry (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)" id="101780">
 		<category>Games</category>
-		<description>DmC: Devil May Cry (Europe, Australia)</description>
-		<rom name="DmC - Devil May Cry (Europe, Australia).iso" size="8262844416" crc="b680af43" md5="c2b91ca573bc21f7a474dfd88ab36a82" sha1="48b4eac757b83c2f60780bc14c3b3c1b24cbae55"/>
+		<serial>500017114LB</serial>
+		<version>1.0</version>
+		<description>DmC: Devil May Cry (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)</description>
+		<rom name="DmC - Devil May Cry (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru).iso" size="8262844416" crc="b680af43" md5="c2b91ca573bc21f7a474dfd88ab36a82" sha1="48b4eac757b83c2f60780bc14c3b3c1b24cbae55"/>
 	</game>
 	<game name="Dnevnoj Dozor (Russia) (Disc 1)" id="90377">
 		<category>Games</category>
@@ -125532,6 +125545,16 @@
 		<description>Dying Light (Australia) (Disc 2)</description>
 		<rom name="Dying Light (Australia) (Disc 2).iso" size="8449101824" crc="4a1c1416" md5="5c9ce3cdbd25501351b91ed8a6a2e768" sha1="ab861728078554f9c76c008aa47a00478c8e6d00"/>
 	</game>
+	<game name="Dying Light - The Following - Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 1)" id="140108">
+		<category>Games</category>
+		<description>Dying Light: The Following: Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 1)</description>
+		<rom name="Dying Light - The Following - Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 1).iso" size="8478785536" crc="69ce87b6" md5="7556ef15a8a1f2ca7db8904c4af1ad08" sha1="76b2fc65fb4b94425326a1baa2a00b3fa197639b"/>
+	</game>
+	<game name="Dying Light - The Following - Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 2)" id="140109">
+		<category>Games</category>
+		<description>Dying Light: The Following: Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 2)</description>
+		<rom name="Dying Light - The Following - Enhanced Edition (Poland) (En,Fr,De,Es,It,Pt,Pl) (Disc 2).iso" size="8449097728" crc="5df19fe3" md5="fe5ff0a07aa3af812f41207c1d883c03" sha1="11ed69bc643c1ef9145e82d06a644cfe7b0b14a7"/>
+	</game>
 	<game name="Dykumu Ziurkes pries Afrikos Korpusa (Lithuania)" id="85211">
 		<category>Games</category>
 		<version>1.18</version>
@@ -126027,6 +126050,18 @@
 		<rom name="Earth 2140 &amp; Bundesliga Manager '97 Gold Edition (Germany) (Track 4).bin" size="10616928" crc="07db47a1" md5="d0059c99e3a4d2ea3513b6e1032bcbab" sha1="1a0d3e257a22aa5d74db9a292d28c4b6316dbd97"/>
 		<rom name="Earth 2140 &amp; Bundesliga Manager '97 Gold Edition (Germany) (Track 5).bin" size="8711808" crc="55f3c592" md5="48d9a406b5de016616c9d94410a167df" sha1="ea80f28b7215e0ce98ed6870b514286b05f51998"/>
 		<rom name="Earth 2140 &amp; Bundesliga Manager '97 Gold Edition (Germany) (Track 6).bin" size="10558128" crc="4eabeb1b" md5="fd6e69910d1bdbdde41c1503bbba4115" sha1="f97454994662d5279b5fad4bc322c5473fa8104f"/>
+	</game>
+	<game name="Earth 2140 &amp; Bundesliga Manager '97 Gold Edition (Germany) (Alt)" id="140121">
+		<category>Games</category>
+		<serial>SPI 047</serial>
+		<description>Earth 2140 / Bundesliga Manager '97 Gold Edition (Germany) (Alt)</description>
+		<rom name="Earth 2140 &amp; Bundesliga Manager '97 Gold Edition (Germany) (Alt).cue" size="930" crc="15b3e728" md5="55dc5f152e3ab5de34eb243d72f82545" sha1="9ef87332f9601335dcaaa6f9bf6dea5718deceec"/>
+		<rom name="Earth 2140 &amp; Bundesliga Manager '97 Gold Edition (Germany) (Alt) (Track 1).bin" size="714071904" crc="5d40fb06" md5="24d609b801622d952e76ba2c07683211" sha1="caf03252a97a42677e14c4babfd41658c6df0e70"/>
+		<rom name="Earth 2140 &amp; Bundesliga Manager '97 Gold Edition (Germany) (Alt) (Track 2).bin" size="28875504" crc="487528f2" md5="a822a5cefbe514597f7f373ab287129e" sha1="617905a90d1fa392c22c012d29b47c3d126e62e7"/>
+		<rom name="Earth 2140 &amp; Bundesliga Manager '97 Gold Edition (Germany) (Alt) (Track 3).bin" size="23308320" crc="573cab04" md5="5767ab5def50eb4b115e425dc8e425c2" sha1="dfc9d5ba84b5942c14625ed4c8fe69999998f210"/>
+		<rom name="Earth 2140 &amp; Bundesliga Manager '97 Gold Edition (Germany) (Alt) (Track 4).bin" size="10616928" crc="b138d688" md5="b9936a0e8210e24268248ad6ebf5168f" sha1="335c503114e4597220b3ce4f170ae6ffc6459dbc"/>
+		<rom name="Earth 2140 &amp; Bundesliga Manager '97 Gold Edition (Germany) (Alt) (Track 5).bin" size="8711808" crc="a7853761" md5="cde7e3cab4a2536ab2fb0f11c0b6ca07" sha1="cfa7c8c3d724ee052c32a1155473890ce113fecf"/>
+		<rom name="Earth 2140 &amp; Bundesliga Manager '97 Gold Edition (Germany) (Alt) (Track 6).bin" size="10558128" crc="5a70c2f1" md5="f033b8acd162d8cf14ba2227d50110ae" sha1="b7f04989ea9a575fe8479d70b95d92a8d02898c1"/>
 	</game>
 	<game name="Earth 2140 (Australia)" id="117123">
 		<category>Games</category>
@@ -201234,6 +201269,12 @@
 		<rom name="Hugo - Fallskarm-Slade-Berget-Stock Hopp (Rerelease) (Sweden).cue" size="127" crc="67ae7798" md5="2ca5f9d049aac8146f0ddf8baf9d6a9e" sha1="3019430628ddf4ae5b49d12d53bd54ee41afe592"/>
 		<rom name="Hugo - Fallskarm-Slade-Berget-Stock Hopp (Rerelease) (Sweden).bin" size="825246240" crc="c595470c" md5="1fad4ff8f761a41a351dba7b33346d4d" sha1="584ec6b1ad102827fd89a50c94f09cd3b772e012"/>
 	</game>
+	<game name="Hugo - Game Factory (Europe) (Pl,Cs,Hu,Sk,Ro)" id="75213">
+		<category>Games</category>
+		<serial>CENEGA 772/2009</serial>
+		<description>Hugo: Game Factory (Europe) (Pl,Cs,Hu,Sk,Ro)</description>
+		<rom name="Hugo - Game Factory (Europe) (Pl,Cs,Hu,Sk,Ro).iso" size="3009609728" crc="471a211d" md5="42cafbbbdb580ff991c596d62ee0ff79" sha1="fe6398e35598e18667a5687eb889a90679d30feb"/>
+	</game>
 	<game name="Hugo - Goraczka Czarnych Diamentow (Poland)" id="106122">
 		<category>Games</category>
 		<serial>172-1 POL/G</serial>
@@ -201313,12 +201354,6 @@
 		<serial>CENEGA 780/2009</serial>
 		<description>Hugo: Și Aventura Limbii Engleze (Romania) (Pl,Cs,Hu,Sk,Ro)</description>
 		<rom name="Hugo - Si Aventura Limbii Engleze (Romania) (Pl,Cs,Hu,Sk,Ro).iso" size="3194093568" crc="e5540525" md5="590c183aedc4e5a4d14e2a1c89d8242e" sha1="de9166151299a29b48d380cbc22dcbeb81bad891"/>
-	</game>
-	<game name="Hugo - Si Depozitul De Jocuri (Romania) (Pl,Cs,Hu,Sk,Ro)" id="75213">
-		<category>Games</category>
-		<serial>CENEGA 772/2009</serial>
-		<description>Hugo: Și Depozitul De Jocuri (Romania) (Pl,Cs,Hu,Sk,Ro)</description>
-		<rom name="Hugo - Si Depozitul De Jocuri (Romania) (Pl,Cs,Hu,Sk,Ro).iso" size="3009609728" crc="471a211d" md5="42cafbbbdb580ff991c596d62ee0ff79" sha1="fe6398e35598e18667a5687eb889a90679d30feb"/>
 	</game>
 	<game name="Hugo - Smakkaball (UK) (En,Sv,No,Da,Fi)" id="119366">
 		<category>Games</category>
@@ -223572,6 +223607,12 @@
 		<rom name="Kharoumenes Ores (Greece).cue" size="106" crc="43a37ac9" md5="93586421b66546fc003c1203ab054520" sha1="a016fc175dd35163b5c0a0989af0e23ee39fcf80"/>
 		<rom name="Kharoumenes Ores (Greece).bin" size="487454352" crc="6bb72ae5" md5="42504c457dff49a073547e268091e0be" sha1="be12985aa1a3c3ae91545cf3b69532d82e69834f"/>
 	</game>
+	<game name="Kholat (Poland)" id="140113">
+		<category>Games</category>
+		<serial>50522_C1</serial>
+		<description>Kholat (Poland)</description>
+		<rom name="Kholat (Poland).iso" size="3372941312" crc="3d773842" md5="0e2f53f8ac3e1ab974bfb1484769e5cd" sha1="f19355d5b1fd08d2c978a753ce293fb59c23b5d6"/>
+	</game>
 	<game name="Khroniki Geroev - Poveliteli Stikhij (Russia)" id="85212">
 		<category>Games</category>
 		<version>1.0.0.0</version>
@@ -234595,6 +234636,11 @@
 		<rom name="Layer Section (USA) (Track 16).bin" size="18693696" crc="84ba4ed3" md5="d7914fc31f4bfbd74541c39b51d62bc8" sha1="c8c10cf2a638573b070254e6f978d96895787029"/>
 		<rom name="Layer Section (USA) (Track 17).bin" size="12178656" crc="af4c878b" md5="7223bf1097db0613b763af22ed0c8eb1" sha1="efebe043c46650496a7b9966e93ce35fffac988b"/>
 		<rom name="Layer Section (USA) (Track 18).bin" size="6660864" crc="7388e0ac" md5="703688aa53a70e1076cd00db7005be62" sha1="512b4d1ef4265dc0feef7396de38f565ca4b9958"/>
+	</game>
+	<game name="Layers of Fear (Poland)" id="140112">
+		<category>Games</category>
+		<description>Layers of Fear (Poland)</description>
+		<rom name="Layers of Fear (Poland).iso" size="1888616448" crc="78985755" md5="c2bdcf2d2bec082c6cc67d1eb85652c3" sha1="05dd1a5505a113fb7eddac09132971093a562ea8"/>
 	</game>
 	<game name="Le Mans 24 Hours (Europe) (Beta) (1999-09-29)" id="108014">
 		<category>Preproduction</category>
@@ -281037,10 +281083,11 @@
 		<description>Mortal Kombat (Europe) (Press Kit)</description>
 		<rom name="Mortal Kombat (Europe) (Press Kit).iso" size="7550795776" crc="b25830b1" md5="604ce5cccf20bbaacfe2b0411e542fbf" sha1="70802b1093966b0d234071859370d9b7299607fe"/>
 	</game>
-	<game name="Mortal Kombat - Komplete Edition (Europe, India) (En,Fr,De,Es,It,Pt)" id="30379">
+	<game name="Mortal Kombat - Komplete Edition (Europe, India) (En,Fr,Es,Pt)" id="30379">
 		<category>Games</category>
-		<description>Mortal Kombat: Komplete Edition (Europe, India) (En,Fr,De,Es,It,Pt)</description>
-		<rom name="Mortal Kombat - Komplete Edition (Europe, India) (En,Fr,De,Es,It,Pt).iso" size="8361879552" crc="83e1af42" md5="4f6d94e65a1495ea8582dda12e90693f" sha1="c476a0940a8382c6c6cee8a7920b06847c87e081"/>
+		<serial>2000086217, 7000056360</serial>
+		<description>Mortal Kombat: Komplete Edition (Europe, India) (En,Fr,Es,Pt)</description>
+		<rom name="Mortal Kombat - Komplete Edition (Europe, India) (En,Fr,Es,Pt).iso" size="8361879552" crc="83e1af42" md5="4f6d94e65a1495ea8582dda12e90693f" sha1="c476a0940a8382c6c6cee8a7920b06847c87e081"/>
 	</game>
 	<game name="Mortal Kombat - Shaolin Monks - Prima CD-ROM Code Vault (USA)" id="122029">
 		<category>Coverdiscs</category>
@@ -295647,6 +295694,12 @@
 		<description>neue Rache der Sumpfhühner, Die (Germany)</description>
 		<rom name="neue Rache der Sumpfhuhner, Die (Germany).cue" size="107" crc="b76729f7" md5="05fac048a37f9cc4f2f25534bf5d567e" sha1="09bb4d27b9aa0e8fe921cb48745d431b8e9868f8"/>
 		<rom name="neue Rache der Sumpfhuhner, Die (Germany).bin" size="361024944" crc="6704dd36" md5="c76c78d9429536e8c88cd165161fc8c2" sha1="5892766916f3d2db1390e3040393727ed2b7cc5c"/>
+	</game>
+	<game name="Neue Spiele fur den PC (Germany)" id="140122">
+		<category>Games</category>
+		<description>Neue Spiele für den PC (Germany)</description>
+		<rom name="Neue Spiele fur den PC (Germany).cue" size="98" crc="13925900" md5="6b0a95a43229713e77c2feda4d5ee2cd" sha1="3237f52ba6c6de881d47dc822966493b8e9bb5ea"/>
+		<rom name="Neue Spiele fur den PC (Germany).bin" size="40092192" crc="f805b7e0" md5="fd4e220d09674456feb572b5e71b19e6" sha1="18fa8613f6476f359d02ec845c0e301cfdde48cc"/>
 	</game>
 	<game name="Neuer Antiker Roman (Japan)" id="114651">
 		<category>Games</category>
@@ -372194,6 +372247,12 @@
 		<description>S.T.A.L.K.E.R.: Shadow of Chernobyl (USA) (En,Fr,Es,It)</description>
 		<rom name="S.T.A.L.K.E.R. - Shadow of Chernobyl (USA) (En,Fr,Es,It).iso" size="3496994816" crc="f9e9b638" md5="c9b6180dc3c113f2842d53f9036cc0f5" sha1="0046ead79f5ae3ac5f02981b6d6db6db3283a377"/>
 	</game>
+	<game name="S.T.A.L.K.E.R. - Zew Prypeci (Poland) (Pl,Cs)" id="140106">
+		<category>Games</category>
+		<version>1.6.01</version>
+		<description>S.T.A.L.K.E.R.: Zew Prypeci (Poland) (Pl,Cs)</description>
+		<rom name="S.T.A.L.K.E.R. - Zew Prypeci (Poland) (Pl,Cs).iso" size="4505894912" crc="b3deef1c" md5="7180a04b778131e310137f64c41862da" sha1="8e843dcbe83bf17cb37aa5eaa90f9b3558d8ec8e"/>
+	</game>
 	<game name="S.T.A.L.K.E.R. - Zov Pripyati (Russia)" id="84566">
 		<category>Add-Ons</category>
 		<version>1.6.00</version>
@@ -395124,6 +395183,12 @@
 		<rom name="Sierra-Coktel Multimedia Katalog (Germany).cue" size="131" crc="b57c842a" md5="c24f4d35f7bbf08b769eb85e151b32a9" sha1="337701f4eb7eef470a0094f47bbe9ef48431ff9c"/>
 		<rom name="Sierra-Coktel Multimedia Katalog (Germany).bin" size="583154880" crc="0949a999" md5="b5afcbadbb252021323aba2694a06018" sha1="d9972f8ba0fdbf298124aa40f81dad460329d191"/>
 	</game>
+	<game name="Sifu (Europe)" id="140111">
+		<category>Multimedia</category>
+		<serial>12360_EUR_DIS</serial>
+		<description>Sifu (Europe)</description>
+		<rom name="Sifu (Europe).iso" size="4678555648" crc="eb2c0828" md5="750494b979b780f42b1371f0af119d10" sha1="b63e3107d6d8fcef69345500318de41935e7a306"/>
+	</game>
 	<game name="Sigma Puzzle World (Japan)" id="123091">
 		<category>Games</category>
 		<serial>SGSA00005</serial>
@@ -399584,6 +399649,14 @@
 		<rom name="Sims 2, The - Glamour Life Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).cue" size="154" crc="55fbc7ea" md5="d6cdfedb55870bf9da3a785a0ad3ac52" sha1="888db565cde18f303493181430c86607d2b596da"/>
 		<rom name="Sims 2, The - Glamour Life Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).bin" size="358637664" crc="91a16b2b" md5="8b8dba6697e0e89cddb8ce3e791d3608" sha1="39709362e1afe7d35ac13dcce0a2ab7775cc7f3a"/>
 	</game>
+	<game name="Sims 2, The - Glamour Life Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Alt)" id="125125">
+		<category>Add-Ons</category>
+		<serial>MXX08005081D, MXX08005081D/FRA</serial>
+		<version>1.5.0.121</version>
+		<description>Sims 2, The: Glamour Life Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Alt)</description>
+		<rom name="Sims 2, The - Glamour Life Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Alt).cue" size="160" crc="f8be55c6" md5="32cae66bd95569a3b29838fbb6bc46f1" sha1="204e5fb16035535c817683343f35fed6f911f549"/>
+		<rom name="Sims 2, The - Glamour Life Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Alt).bin" size="358284864" crc="ea6b1fde" md5="a69f835cf5ebe82e6fe982789a10f67e" sha1="6c3db8fe3c6649345799f570417c53ef5f1283c7"/>
+	</game>
 	<game name="Sims 2, The - Glamour Life Stuff (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)" id="53558">
 		<category>Add-Ons</category>
 		<serial>MXX08005081D/GER</serial>
@@ -399591,14 +399664,6 @@
 		<description>Sims 2, The: Glamour Life Stuff (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)</description>
 		<rom name="Sims 2, The - Glamour Life Stuff (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).cue" size="155" crc="1cc50362" md5="d99a7b376f89121e1e78f42658dc25ca" sha1="666982846a3c173dc22e6fda372ca35fb04d00d4"/>
 		<rom name="Sims 2, The - Glamour Life Stuff (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).bin" size="358284864" crc="73c57614" md5="bd8eab89eb16fe852a4aa66811c0c541" sha1="ad1c0b0210592eec96a0e4c3a548035db8d269ba"/>
-	</game>
-	<game name="Sims 2, The - Glamour Life Stuff (Sweden) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)" id="125125">
-		<category>Add-Ons</category>
-		<serial>MXX08005081D</serial>
-		<version>1.5.0.121</version>
-		<description>Sims 2, The: Glamour Life Stuff (Sweden) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)</description>
-		<rom name="Sims 2, The - Glamour Life Stuff (Sweden) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).cue" size="154" crc="20eece36" md5="3a6d629ff3c9b27dc4807c8b65091fab" sha1="6f1f85c306499ffbf5f3cb8fb49f8115b9fa87cd"/>
-		<rom name="Sims 2, The - Glamour Life Stuff (Sweden) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).bin" size="358284864" crc="ea6b1fde" md5="a69f835cf5ebe82e6fe982789a10f67e" sha1="6c3db8fe3c6649345799f570417c53ef5f1283c7"/>
 	</game>
 	<game name="Sims 2, The - Glamour Life Stuff (USA) (En,Es)" id="21464">
 		<category>Add-Ons</category>
@@ -413872,6 +413937,13 @@
 		<description>Springy (UK)</description>
 		<rom name="Springy (UK).cue" size="78" crc="2061cb86" md5="440ee473aa9c53054c8529028a3484f9" sha1="a35c72c90032b71e7957800111d0d093a7313b18"/>
 		<rom name="Springy (UK).bin" size="131281584" crc="0d10b168" md5="6070365d3fc31f2dd5820dfc9bd7392b" sha1="f2eb1bf0fa8aef4951148a62e5defff88cf99479"/>
+	</game>
+	<game name="Sprint Cars - Road to Knoxville (Poland) (En,Pl)" id="140107">
+		<category>Games</category>
+		<version>1.04</version>
+		<description>Sprint Cars: Road to Knoxville (Poland) (En,Pl)</description>
+		<rom name="Sprint Cars - Road to Knoxville (Poland) (En,Pl).cue" size="114" crc="609b3934" md5="690239c2e0b1558747096a54990abb44" sha1="f0c4146059da76ef70716bb043b8daa684a6bbe4"/>
+		<rom name="Sprint Cars - Road to Knoxville (Poland) (En,Pl).bin" size="246268512" crc="f5209b7a" md5="30994956fdb16f95efc5fdea0153c8ea" sha1="e87b82cfd32d6bd39686c87f5aa5d29356179383"/>
 	</game>
 	<game name="Sproink (USA)" id="131371">
 		<category>Games</category>
@@ -433614,6 +433686,12 @@
 		<category>Games</category>
 		<description>Syberia: Edizione Oro (Italy)</description>
 		<rom name="Syberia - Edizione Oro (Italy).iso" size="4166582272" crc="e1d3df67" md5="5475b35a8fc4606e558986e22a7e0ac3" sha1="c927a0f2acc486f35797efb3f13ffe2e02f1f29a"/>
+	</game>
+	<game name="Syberia - The World Before (Poland)" id="140110">
+		<category>Games</category>
+		<serial>11601_EUR_LAB</serial>
+		<description>Syberia: The World Before (Poland)</description>
+		<rom name="Syberia - The World Before (Poland).iso" size="3463440384" crc="61ce43d9" md5="769a29bc4589baab1ccc14e83464afbe" sha1="320a555504d3a8830308d678086c568501eb2dc4"/>
 	</game>
 	<game name="Syberia - Zlota Edycja (Poland)" id="34475">
 		<category>Games</category>
@@ -481005,6 +481083,12 @@
 		<rom name="Wer wird Millionar - 2. Edition (Germany).cue" size="107" crc="92e92e57" md5="5e65fc878b7f7d7c932947a3dbf1e40f" sha1="35c311e02212c4895e7e70f9bb97db8cba6b3d64"/>
 		<rom name="Wer wird Millionar - 2. Edition (Germany).bin" size="590787120" crc="64efa365" md5="6f0c50e68eb351d72c133b31d2c0c3b5" sha1="49052c4e928f45d5b0e2c6d0b7ea3c0b1e86d41d"/>
 	</game>
+	<game name="Wer wird Millionar - 3. Edition (Germany)" id="140123">
+		<category>Games</category>
+		<description>Wer wird Millionär: 3. Edition (Germany)</description>
+		<rom name="Wer wird Millionar - 3. Edition (Germany).cue" size="107" crc="8eceb642" md5="a486efe78de02d26d09f098718271b0c" sha1="67b02f10a198bc2e117ac899bd6a1385280a1c6d"/>
+		<rom name="Wer wird Millionar - 3. Edition (Germany).bin" size="513693264" crc="d8783f38" md5="fa7ed8f296d365be420cb7ef8bf27f05" sha1="7e297b2d5dbd97b101a9b8c4a4dc71f216faa281"/>
+	</game>
 	<game name="Wer wird Millionar - Collection (Germany)" id="13451">
 		<category>Games</category>
 		<description>Wer wird Millionär: Collection (Germany)</description>
@@ -484212,6 +484296,12 @@
 		<description>Windows Super Hits (Germany) (En,Fr,De,Es,Nl)</description>
 		<rom name="Windows Super Hits (Germany) (En,Fr,De,Es,Nl).cue" size="134" crc="d2fff8e9" md5="9f8d371c5fc7e4002907df1acbf1919c" sha1="b49d29333d7c85518d03a79cf4b48b839d9b0ce1"/>
 		<rom name="Windows Super Hits (Germany) (En,Fr,De,Es,Nl).bin" size="12919536" crc="d3f8eed7" md5="22f29a7da7ae357f9da44f211a8048c9" sha1="bebbd7089e572d1264013697a76d76e4dd1a306d"/>
+	</game>
+	<game name="Windows XP-Spielesammlung (Germany)" id="140124">
+		<category>Games</category>
+		<description>Windows XP-Spielesammlung (Germany)</description>
+		<rom name="Windows XP-Spielesammlung (Germany).cue" size="101" crc="ed674268" md5="a616a812580ab36d28bf176c62a23992" sha1="c4c2a1ebd13b9e9619e4b49007480a7883affe00"/>
+		<rom name="Windows XP-Spielesammlung (Germany).bin" size="157050096" crc="1f5fe4ea" md5="89c0cd994f0d52dc18d228d84e99eed9" sha1="cab6c6b7ec330d2cc4ff529c9ff651a9fe91da74"/>
 	</game>
 	<game name="Windows-Spiele 2 (Germany)" id="104675">
 		<category>Demos</category>
@@ -488005,6 +488095,13 @@
 		<description>Wordshark 4 (UK)</description>
 		<rom name="Wordshark 4 (UK).cue" size="82" crc="3d5d1ac8" md5="c4caabd021a0e2685461c7331def9d88" sha1="2c85cbf1d4232d92c7beabc69a3aa0ea6b643d1e"/>
 		<rom name="Wordshark 4 (UK).bin" size="788886672" crc="a724f779" md5="03c6825f486862f1998765be221c4e94" sha1="61726ffa2fb932d376b26994f0e311f5b7d552d2"/>
+	</game>
+	<game name="WordSmart Vocabulary Builder - Volume J (USA)" id="140105">
+		<category>Educational</category>
+		<version>4</version>
+		<description>WordSmart Vocabulary Builder: Volume J (USA)</description>
+		<rom name="WordSmart Vocabulary Builder - Volume J (USA).cue" size="111" crc="fe93a7b9" md5="80fd6196eec7e96f5aeac38872573a55" sha1="fbf39d886b0fe8f22f5f4ee4d548abb8d6848101"/>
+		<rom name="WordSmart Vocabulary Builder - Volume J (USA).bin" size="750245664" crc="ca209c04" md5="cb5eaed568098d94ad41f3433e4a4f1b" sha1="3e67d11c5df930e5f89504c54cdb1b33641a5f7d"/>
 	</game>
 	<game name="Working Designs - E3 Press CD 2002 (USA)" id="70216">
 		<category>Multimedia</category>

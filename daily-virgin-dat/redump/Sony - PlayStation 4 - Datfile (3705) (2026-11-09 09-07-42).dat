@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4</name>
-		<description>Sony - PlayStation 4 - Datfile (3700) (2026-11-07 21-17-42)</description>
-		<version>2026-11-07 21-17-42</version>
-		<date>2026-11-07 21-17-42</date>
+		<description>Sony - PlayStation 4 - Datfile (3705) (2026-11-09 09-07-42)</description>
+		<version>2026-11-09 09-07-42</version>
+		<date>2026-11-09 09-07-42</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -884,6 +884,13 @@
 		<version>01.00</version>
 		<description>ArcRunner (Japan)</description>
 		<rom name="ArcRunner (Japan).iso" size="25024331776" crc="45a79e5f" md5="abaa0a248e3ac142936b38af72ad91ae" sha1="bf3a80d89a079e8db9639e56af6146132fd875dc"/>
+	</game>
+	<game name="Arietta of Spirits (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)" id="140116">
+		<category>Games</category>
+		<serial>CUSA-28802</serial>
+		<version>02.00</version>
+		<description>Arietta of Spirits (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)</description>
+		<rom name="Arietta of Spirits (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru).iso" size="25024331776" crc="e97b0e7f" md5="04bed940896a36afd1ad2625ad490b46" sha1="bbb8c0bce9d3ed0aeeef2a146a3998851eb7743c"/>
 	</game>
 	<game name="Ark - Survival Evolved (Europe) (En,Fr,De,Es,It)" id="118159">
 		<category>Games</category>
@@ -2670,6 +2677,13 @@
 		<description>Bloodborne (Japan)</description>
 		<rom name="Bloodborne (Japan).iso" size="37604491264" crc="1505a22c" md5="13ec87b780c6a2904da07d8d58054f3b" sha1="5268de9f4d10679c2d05538aa33ac14441c36a73"/>
 	</game>
+	<game name="Bloodborne (Korea) (En,Zh,Ko)" id="140128">
+		<category>Games</category>
+		<serial>PCKS 70008</serial>
+		<version>01.00</version>
+		<description>Bloodborne (Korea) (En,Zh,Ko)</description>
+		<rom name="Bloodborne (Korea) (En,Zh,Ko).iso" size="37604491264" crc="39890667" md5="583d0692ce487d999e419836b6455be6" sha1="00e59446246fadcf0d56bbb9ac776056a5d0d8e8"/>
+	</game>
 	<game name="Bloodborne (USA) (En,Fr,Es,Pt)" id="38246">
 		<category>Games</category>
 		<serial>CUSA-00900</serial>
@@ -2684,12 +2698,12 @@
 		<description>Bloodborne: Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Tr)</description>
 		<rom name="Bloodborne - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Tr).iso" size="40740519936" crc="24a4f6a1" md5="30a4edbdcf2dea82e48701408a094a59" sha1="ea606314aec392e4d936c09dd814dff853b68666"/>
 	</game>
-	<game name="Bloodborne - The Old Hunters Edition (Asia) (En,Zh,Ko)" id="121452">
+	<game name="Bloodborne - The Old Hunters Edition (Asia, Korea) (En,Zh,Ko)" id="121452">
 		<category>Games</category>
-		<serial>PCAS 02020</serial>
+		<serial>PCAS 02020, PCKS 92015A</serial>
 		<version>01.00</version>
-		<description>Bloodborne: The Old Hunters Edition (Asia) (En,Zh,Ko)</description>
-		<rom name="Bloodborne - The Old Hunters Edition (Asia) (En,Zh,Ko).iso" size="40740519936" crc="08a1275a" md5="6a78964b59b9d0dfa4d9df7da5f16467" sha1="e3c2cd2e2c3caa32d66ba66b3772fbbe7e3196d7"/>
+		<description>Bloodborne: The Old Hunters Edition (Asia, Korea) (En,Zh,Ko)</description>
+		<rom name="Bloodborne - The Old Hunters Edition (Asia, Korea) (En,Zh,Ko).iso" size="40740519936" crc="08a1275a" md5="6a78964b59b9d0dfa4d9df7da5f16467" sha1="e3c2cd2e2c3caa32d66ba66b3772fbbe7e3196d7"/>
 	</game>
 	<game name="Bloodborne - The Old Hunters Edition (Japan)" id="80132">
 		<category>Games</category>
@@ -4903,6 +4917,13 @@
 		<description>Days Gone (Japan)</description>
 		<rom name="Days Gone (Japan).iso" size="40952201216" crc="0ad912a6" md5="1a821b57d4b23513f5cd08d838d96969" sha1="f6f7a498708d32b0e1707bcdc81e44e74b939263"/>
 	</game>
+	<game name="Days Gone (Korea) (En,Zh,Ko)" id="140129">
+		<category>Games</category>
+		<serial>PCKS 10070</serial>
+		<version>01.00</version>
+		<description>Days Gone (Korea) (En,Zh,Ko)</description>
+		<rom name="Days Gone (Korea) (En,Zh,Ko).iso" size="39096745984" crc="d2607b6d" md5="64d7f2f7cc7bf4ff503272dd61c7e3ad" sha1="277b88d8138244fff71edf1b3dcd32e0d22c3b4e"/>
+	</game>
 	<game name="Days Gone (UAE) (En,Ar)" id="106241">
 		<category>Games</category>
 		<serial>CUSA-15027</serial>
@@ -5078,12 +5099,12 @@
 		<description>Dead or Alive 6 (USA)</description>
 		<rom name="Dead or Alive 6 (USA).iso" size="41950445568" crc="2cdc6b5a" md5="e4f11fea97baa6f37fc991aa9bd5a3e4" sha1="04c8679005465538838c3e9ebb635f36521dad48"/>
 	</game>
-	<game name="Dead or Alive Xtreme 3 - Fortune (Asia)" id="114286">
+	<game name="Dead or Alive Xtreme 3 - Fortune (Asia, Korea) (En,Zh,Ko)" id="114286">
 		<category>Games</category>
-		<serial>PLAS 05151</serial>
+		<serial>PLAS 05151, PLKS 95074</serial>
 		<version>01.01</version>
-		<description>Dead or Alive Xtreme 3: Fortune (Asia)</description>
-		<rom name="Dead or Alive Xtreme 3 - Fortune (Asia).iso" size="17619091456" crc="ffa3bae4" md5="5e54daaa5b3a7ce4bae447e9142890e5" sha1="d08def17ea0e19ded3f179e57e96cd68879afa7a"/>
+		<description>Dead or Alive Xtreme 3: Fortune (Asia, Korea) (En,Zh,Ko)</description>
+		<rom name="Dead or Alive Xtreme 3 - Fortune (Asia, Korea) (En,Zh,Ko).iso" size="17619091456" crc="ffa3bae4" md5="5e54daaa5b3a7ce4bae447e9142890e5" sha1="d08def17ea0e19ded3f179e57e96cd68879afa7a"/>
 	</game>
 	<game name="Dead or Alive Xtreme 3 - Fortune (Japan)" id="115808">
 		<category>Games</category>
@@ -5512,6 +5533,13 @@
 		<description>Detroit: Become Human (Japan)</description>
 		<rom name="Detroit - Become Human (Japan).iso" size="49926176768" crc="98d3ba49" md5="5e1f3651f5bdef6c5b307e91b3d21d94" sha1="7d432e7bf4064fe1b281bf5c41de76a859e5ccf4"/>
 	</game>
+	<game name="Detroit - Become Human (Korea) (En,Zh,Ko)" id="140130">
+		<category>Games</category>
+		<serial>PCKS 10039</serial>
+		<version>01.01</version>
+		<description>Detroit: Become Human (Korea) (En,Zh,Ko)</description>
+		<rom name="Detroit - Become Human (Korea) (En,Zh,Ko).iso" size="49700274176" crc="7e20cb11" md5="0f2e0db5fa4fdb23dfa18e02db772f57" sha1="8aafc8598730bd77db034585d681c4d0cc264b3a"/>
+	</game>
 	<game name="Detroit - Become Human (USA) (En,Fr,Es,Pt)" id="58348">
 		<category>Games</category>
 		<serial>CUSA-08344</serial>
@@ -5556,7 +5584,7 @@
 	</game>
 	<game name="Devil May Cry 4 - Special Edition (Japan, Asia) (En,Ja,Fr,De,Es,It)" id="69296">
 		<category>Games</category>
-		<serial>PLAS 05084, PLJM 80174</serial>
+		<serial>PLAS 05084, PLJM 80174, PLAS 05085</serial>
 		<version>01.00</version>
 		<description>Devil May Cry 4: Special Edition (Japan, Asia) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Devil May Cry 4 - Special Edition (Japan, Asia) (En,Ja,Fr,De,Es,It).iso" size="21522743296" crc="a8315bb6" md5="3680cbf55348beb52be8f721ff4233f7" sha1="3086db3075301f0c47ba2305c570bbf4fe029658"/>
@@ -6618,12 +6646,12 @@
 		<description>Dreams (USA) (En,Fr,Es,Pt)</description>
 		<rom name="Dreams (USA) (En,Fr,Es,Pt).iso" size="25024331776" crc="64cf4678" md5="5e6c8ccca8cd2b2d325b09754dc393fa" sha1="4a95b8ecc8b20878a119e28cb6534378c3dfef9c"/>
 	</game>
-	<game name="Dreamworks Dragons - Dawn of New Riders (Europe)" id="118316">
+	<game name="DreamWorks Dragons - Dawn of New Riders (Europe)" id="118316">
 		<category>Games</category>
 		<serial>CUSA-12945</serial>
 		<version>01.00</version>
-		<description>Dreamworks Dragons: Dawn of New Riders (Europe)</description>
-		<rom name="Dreamworks Dragons - Dawn of New Riders (Europe).iso" size="1889927168" crc="2e7b4317" md5="cf448fd57f2a1d081f60a3076f8a9179" sha1="f2ec56a0766a357b5f90c8b29da3e3c3448311d3"/>
+		<description>DreamWorks Dragons: Dawn of New Riders (Europe)</description>
+		<rom name="DreamWorks Dragons - Dawn of New Riders (Europe).iso" size="1889927168" crc="2e7b4317" md5="cf448fd57f2a1d081f60a3076f8a9179" sha1="f2ec56a0766a357b5f90c8b29da3e3c3448311d3"/>
 	</game>
 	<game name="DreamWorks Dragons - Dawn of New Riders (USA)" id="92894">
 		<category>Games</category>
@@ -6666,6 +6694,13 @@
 		<version>01.05</version>
 		<description>Driveclub (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Tr)</description>
 		<rom name="Driveclub (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Tr).iso" size="25024331776" crc="1392623f" md5="4f152148d25786d4f08bb9b240134ca7" sha1="d0960dc007616002d79fd6f476bc5965c4cac88c"/>
+	</game>
+	<game name="Driveclub (Korea) (En,Zh,Ko)" id="140131">
+		<category>Games</category>
+		<serial>PCKS 90001, PCKS 70004</serial>
+		<version>01.00</version>
+		<description>Driveclub (Korea) (En,Zh,Ko)</description>
+		<rom name="Driveclub (Korea) (En,Zh,Ko).iso" size="25024331776" crc="3daa7944" md5="816e42da531b5a87db7001b8b497b0e2" sha1="b4747aadb2dc684e8e6453c1251a1a6ade2dcb0a"/>
 	</game>
 	<game name="Driveclub (USA) (En,Es,Pt)" id="53819">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (338) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-05 11-06-30) (Retool)</description>
-		<version>2026-11-05 11-06-30</version>
-		<date>2026-11-08 08-56-53</date>
+		<description>Sony - PlayStation 5 (341) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-08 22-49-06) (Retool)</description>
+		<version>2026-11-08 22-49-06</version>
+		<date>2026-11-09 09-35-35</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -297,6 +297,13 @@
 		<serial>PPSA-03351</serial>
 		<version>01.01</version>
 		<rom name="Callisto Protocol, The (USA).iso" size="44786581504" crc="0e8194bd" md5="6087f2e9ba97e58909d08e6db05278e1" sha1="13eb4a17c32c4fa95475c27a4d85cf1d2b0cc7b5"/>
+	</game>
+	<game name="Castlevania - Belmont's Curse (Japan, Australia)" id="139520">
+		<category>Games</category>
+		<description>Castlevania: Belmont's Curse (Japan, Australia)</description>
+		<serial>ELJM 30974, PPSA-37523/EU</serial>
+		<version>01.00</version>
+		<rom name="Castlevania - Belmont's Curse (Japan, Australia).iso" size="40008351744" crc="71d93a3d" md5="284253c271eef9c5894527f9cf0f6fc9" sha1="ba8706d3166e16df13789094b43c66b98a1261b7"/>
 	</game>
 	<game name="Chernobylite (Europe)" id="132203">
 		<category>Games</category>
@@ -1474,6 +1481,13 @@
 		<version>01.01</version>
 		<rom name="Neptunia Riders VS Dogoos (USA) (En,Fr,Es).iso" size="40008351744" crc="ab601308" md5="97c1b49f5d890076c4f8c2d0bbfb0d58" sha1="6fb1cdfba67392573b6526cbc46362fa255230bd"/>
 	</game>
+	<game name="Nickelodeon All-Star Brawl 2 (Europe)" id="140117">
+		<category>Games</category>
+		<description>Nickelodeon All-Star Brawl 2 (Europe)</description>
+		<serial>PPSA-16745</serial>
+		<version>01.00</version>
+		<rom name="Nickelodeon All-Star Brawl 2 (Europe).iso" size="40008351744" crc="ae1961b4" md5="1dd2b4a45dc59baf0dd886dc01085bcd" sha1="50452be8dd0b3eafe3f9f4198c636eb2bc81db13"/>
+	</game>
 	<game name="Nickelodeon Dora - Rainforest Rescue (USA)" id="133970">
 		<category>Games</category>
 		<description>Nickelodeon Dora: Rainforest Rescue (USA)</description>
@@ -2284,6 +2298,13 @@
 		<serial>PPSA-06711</serial>
 		<version>01.02</version>
 		<rom name="War Mongrels (Europe).iso" size="40008351744" crc="0257f952" md5="1d61cb0cfe3b2282e76dbf37f741bc82" sha1="4935eebb1ddc976ac85650682045fdc3f1f39eff"/>
+	</game>
+	<game name="Warrior Cats - Clans of the Forest - Feral Edition (USA) (En,Fr,De,Es,It,Nl)" id="140115">
+		<category>Games</category>
+		<description>Warrior Cats: Clans of the Forest: Feral Edition (USA) (En,Fr,De,Es,It,Nl)</description>
+		<serial>PPSA-38744/US</serial>
+		<version>01.00</version>
+		<rom name="Warrior Cats - Clans of the Forest - Feral Edition (USA) (En,Fr,De,Es,It,Nl).iso" size="40008351744" crc="4af0eb30" md5="e5849174417a5547a0218d0c0abba774" sha1="a5d41181eb246cb819e706db46ea072ebd32aeac"/>
 	</game>
 	<game name="Werewolf - The Apocalypse - Earthblood (Europe)" id="108135">
 		<category>Games</category>

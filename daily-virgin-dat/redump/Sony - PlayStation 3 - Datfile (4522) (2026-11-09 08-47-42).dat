@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4522) (2026-11-07 17-17-55)</description>
-		<version>2026-11-07 17-17-55</version>
-		<date>2026-11-07 17-17-55</date>
+		<description>Sony - PlayStation 3 - Datfile (4522) (2026-11-09 08-47-42)</description>
+		<version>2026-11-09 08-47-42</version>
+		<date>2026-11-09 08-47-42</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -2624,7 +2624,7 @@
 	</game>
 	<game name="Biohazard - Chronicles HD Selection (Japan, Asia)" id="25071">
 		<category>Games</category>
-		<serial>BLAS 50483, BLJM 55064, BLJM 60433</serial>
+		<serial>BLAS 50483, BLJM 55064, BLJM 60433, BLKS 20367</serial>
 		<version>01.01</version>
 		<description>Biohazard: Chronicles HD Selection (Japan, Asia)</description>
 		<rom name="Biohazard - Chronicles HD Selection (Japan, Asia).iso" size="12943622144" crc="7a97464d" md5="e8e0971f6d8e0504ec0f7fd63e89f25a" sha1="5f7dd88715ca86fee9586b2c698d6e049f3665c0"/>
@@ -2659,7 +2659,7 @@
 	</game>
 	<game name="Biohazard - Revival Selection (Japan, Asia)" id="20944">
 		<category>Games</category>
-		<serial>BLAS 50355, BLJM 55068, BLJM 60372</serial>
+		<serial>BLAS 50355, BLJM 55068, BLJM 60372, BLKS 20296</serial>
 		<version>01.01</version>
 		<description>Biohazard: Revival Selection (Japan, Asia)</description>
 		<rom name="Biohazard - Revival Selection (Japan, Asia).iso" size="6323503104" crc="a27dcf2e" md5="44f63c2659f8d520d946a0c4a665abb9" sha1="15a349dab7f6c4f11add5e1388b9f9525cc0870e"/>
@@ -15287,12 +15287,12 @@
 		<description>LEGO Star Wars III: The Clone Wars (USA) (En,Fr,Es) (v02.00)</description>
 		<rom name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (v02.00).iso" size="8750563328" crc="7ae73e5b" md5="5a1f11d22b9e14b92ebb68e2930adc7e" sha1="ba69449792c5f16305f4689c33795157d27ea827"/>
 	</game>
-	<game name="LEGO The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)" id="36912">
+	<game name="LEGO The Hobbit (Europe, Australia) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)" id="36912">
 		<category>Games</category>
-		<serial>BLES-01998</serial>
+		<serial>BLES-01998, BLES-01998/ANZ</serial>
 		<version>01.01</version>
-		<description>LEGO The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
-		<rom name="LEGO The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).iso" size="24269488128" crc="05dc3776" md5="e9922e8fc5636cf352b442a8a8ca7617" sha1="bcc5b0cf0239ca1e8eebf0f601c75a3df0c93adb"/>
+		<description>LEGO The Hobbit (Europe, Australia) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+		<rom name="LEGO The Hobbit (Europe, Australia) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).iso" size="24269488128" crc="05dc3776" md5="e9922e8fc5636cf352b442a8a8ca7617" sha1="bcc5b0cf0239ca1e8eebf0f601c75a3df0c93adb"/>
 	</game>
 	<game name="LEGO The Hobbit (USA) (En,Fr,Es,Pt)" id="32285">
 		<category>Games</category>
@@ -15301,12 +15301,12 @@
 		<description>LEGO The Hobbit (USA) (En,Fr,Es,Pt)</description>
 		<rom name="LEGO The Hobbit (USA) (En,Fr,Es,Pt).iso" size="24269488128" crc="8e86f817" md5="8032b0ffd2220ed6501aff802b0534f4" sha1="593a35acb1269045de20a0ff3db84edcd7cf02e2"/>
 	</game>
-	<game name="LEGO The Lord of the Rings (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)" id="54127">
+	<game name="LEGO The Lord of the Rings (Europe, Australia) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)" id="54127">
 		<category>Games</category>
-		<serial>BLES-01516, BLES-01516/E</serial>
+		<serial>BLES-01516, BLES-01516/E, BLES-01516/ANZ</serial>
 		<version>01.01</version>
-		<description>LEGO The Lord of the Rings (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
-		<rom name="LEGO The Lord of the Rings (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).iso" size="8609398784" crc="f6f4ad58" md5="c90c454dad54127d15ee41af402f2374" sha1="d0dc1e370ebfa08f34d08bdb7fe5c70f4346c209"/>
+		<description>LEGO The Lord of the Rings (Europe, Australia) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+		<rom name="LEGO The Lord of the Rings (Europe, Australia) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).iso" size="8609398784" crc="f6f4ad58" md5="c90c454dad54127d15ee41af402f2374" sha1="d0dc1e370ebfa08f34d08bdb7fe5c70f4346c209"/>
 	</game>
 	<game name="LEGO The Lord of the Rings (USA, Asia) (En,Fr,Es,Pt)" id="29301">
 		<category>Games</category>
@@ -17083,12 +17083,12 @@
 		<description>Middle-Earth: Shadow of Mordor (USA) (En,Fr,Es)</description>
 		<rom name="Middle-Earth - Shadow of Mordor (USA) (En,Fr,Es).iso" size="8422621184" crc="cbf2469f" md5="ff0e0d7d895a5f009a65a18fc147936d" sha1="63f29e6d784f0c85d0801a7ecf578262607927c1"/>
 	</game>
-	<game name="Midnight Club - Los Angeles (Europe) (En,Fr,De,Es,It)" id="52902">
+	<game name="Midnight Club - Los Angeles (Europe, Australia) (En,Fr,De,Es,It)" id="52902">
 		<category>Games</category>
 		<serial>BLES-00362</serial>
 		<version>01.03</version>
-		<description>Midnight Club: Los Angeles (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Midnight Club - Los Angeles (Europe) (En,Fr,De,Es,It).iso" size="5037490176" crc="ab95a242" md5="a7be640e6c297547a80a31d9ec96db2b" sha1="c3fceb0744e0b598f96d867d24b08b5e2f9722fb"/>
+		<description>Midnight Club: Los Angeles (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Midnight Club - Los Angeles (Europe, Australia) (En,Fr,De,Es,It).iso" size="5037490176" crc="ab95a242" md5="a7be640e6c297547a80a31d9ec96db2b" sha1="c3fceb0744e0b598f96d867d24b08b5e2f9722fb"/>
 	</game>
 	<game name="Midnight Club - Los Angeles (Japan)" id="91953">
 		<category>Games</category>
@@ -22101,12 +22101,12 @@
 		<description>Rage (USA, Korea) (En,Fr,Es)</description>
 		<rom name="Rage (USA, Korea) (En,Fr,Es).iso" size="22012887040" crc="5f1482df" md5="9ec9e2da38ce10a34dc2c89daeb86fcb" sha1="5743cfebe4441dee4b93b98fa296f4cf2237237d"/>
 	</game>
-	<game name="Ragnarok Odyssey Ace (Korea)" id="127200">
+	<game name="Ragnarok Odyssey Ace (Asia, Korea)" id="127200">
 		<category>Games</category>
-		<serial>BCKS 10271</serial>
+		<serial>BCKS 10271, BCAS 20317</serial>
 		<version>01.00</version>
-		<description>Ragnarok Odyssey Ace (Korea)</description>
-		<rom name="Ragnarok Odyssey Ace (Korea).iso" size="5892014080" crc="c3d5d0bf" md5="b5aae5c61cc80b48363528c11655fcbf" sha1="9d4044718baeb33c16a779ef7f147dd392fe2541"/>
+		<description>Ragnarok Odyssey Ace (Asia, Korea)</description>
+		<rom name="Ragnarok Odyssey Ace (Asia, Korea).iso" size="5892014080" crc="c3d5d0bf" md5="b5aae5c61cc80b48363528c11655fcbf" sha1="9d4044718baeb33c16a779ef7f147dd392fe2541"/>
 	</game>
 	<game name="Ragnarok Odyssey Ace (USA)" id="32158">
 		<category>Games</category>
@@ -22707,7 +22707,7 @@
 	</game>
 	<game name="Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru)" id="33316">
 		<category>Games</category>
-		<serial>BLAS 50598, BLUS-31051</serial>
+		<serial>BLAS 50598, BLUS-31051, BLKS 20428</serial>
 		<version>01.00</version>
 		<description>Resident Evil: Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru)</description>
 		<rom name="Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).iso" size="12451905536" crc="abfad2c6" md5="3f5090755527ae77cc18cd238da2d18c" sha1="bde0be61fd0e7c1fb8c00d081ae0913ce8ccf6a7"/>
@@ -22719,19 +22719,19 @@
 		<description>Resident Evil: Revelations 2 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
 		<rom name="Resident Evil - Revelations 2 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="8653438976" crc="aeb5843f" md5="7d700b8b727431392ce4b36d89e4e97c" sha1="b18df26d8b042bc6cb177baa30f7808e3d42564b"/>
 	</game>
-	<game name="Resident Evil - Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="38431">
+	<game name="Resident Evil - Revelations 2 (USA, Korea) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="38431">
 		<category>Games</category>
-		<serial>BLUS-31444</serial>
+		<serial>BLUS-31444, BLAS 50795</serial>
 		<version>01.01</version>
-		<description>Resident Evil: Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
-		<rom name="Resident Evil - Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="8653438976" crc="f16ad4d4" md5="e16f5cf9213139172276b6da2f36f38b" sha1="103fce24029e4fba2e8a8b51c5e996280f3b36ff"/>
+		<description>Resident Evil: Revelations 2 (USA, Korea) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
+		<rom name="Resident Evil - Revelations 2 (USA, Korea) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="8653438976" crc="f16ad4d4" md5="e16f5cf9213139172276b6da2f36f38b" sha1="103fce24029e4fba2e8a8b51c5e996280f3b36ff"/>
 	</game>
-	<game name="Resident Evil 5 (Asia) (En,Ja,Fr,De,Es,It)" id="26219">
+	<game name="Resident Evil 5 (Asia, Korea) (En,Ja,Fr,De,Es,It)" id="26219">
 		<category>Games</category>
 		<serial>BLAS 50102, BLKS 20117</serial>
 		<version>01.03</version>
-		<description>Resident Evil 5 (Asia) (En,Ja,Fr,De,Es,It)</description>
-		<rom name="Resident Evil 5 (Asia) (En,Ja,Fr,De,Es,It).iso" size="12166234112" crc="29f48465" md5="2ef6d8b10b2f038115e254156d8bd389" sha1="90caa26d826bb712b13159444f98e26cda166aae"/>
+		<description>Resident Evil 5 (Asia, Korea) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Resident Evil 5 (Asia, Korea) (En,Ja,Fr,De,Es,It).iso" size="12166234112" crc="29f48465" md5="2ef6d8b10b2f038115e254156d8bd389" sha1="90caa26d826bb712b13159444f98e26cda166aae"/>
 	</game>
 	<game name="Resident Evil 5 (Europe) (En,Ja,Fr,De,Es,It)" id="16386">
 		<category>Games</category>
