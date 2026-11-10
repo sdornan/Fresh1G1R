@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (399) (-y) [-aAbBcdkmMpPuv] (2026-11-08 22-49-06) (Retool)</description>
-		<version>2026-11-08 22-49-06</version>
-		<date>2026-11-09 09-41-31</date>
+		<description>Sony - PlayStation 5 (401) (-y) [-aAbBcdkmMpPuv] (2026-11-09 21-03-17) (Retool)</description>
+		<version>2026-11-09 21-03-17</version>
+		<date>2026-11-10 09-48-13</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -388,6 +388,13 @@
 		<serial>ELJM 30931</serial>
 		<version>01.00</version>
 		<rom name="Chou Shin Jikuu Game Neptune - Unlimited (Japan).iso" size="40008351744" crc="c05e1d19" md5="cecab0b4aaf15a88800c1bf728c7f33e" sha1="0269bef4f6a1b603ae5719aa9e2cafe8775304c3"/>
+	</game>
+	<game name="Cities Skylines - Remastered - Japan Special Edition (Japan)" id="140146">
+		<category>Games</category>
+		<description>Cities Skylines: Remastered: Japan Special Edition (Japan)</description>
+		<serial>ELJM 30941</serial>
+		<version>01.01</version>
+		<rom name="Cities Skylines - Remastered - Japan Special Edition (Japan).iso" size="40008351744" crc="6e873a8b" md5="513ac72885421ff7dcaf571d27079a76" sha1="36a00a493cbada477f47f002771f653a0716e64e"/>
 	</game>
 	<game name="CityDriver (Germany)" id="135078">
 		<category>Games</category>
@@ -2271,12 +2278,19 @@
 		<version>1.00</version>
 		<rom name="Sonic X Shadow Generations (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Th).iso" size="40008351744" crc="75daccca" md5="f535f9bc8115d4b235fe4a5e12694447" sha1="f56468af68e1e03ad002618c7cc3cc1bc8d67256"/>
 	</game>
-	<game name="Sora no Kiseki the 2nd (Asia)" id="138800">
+	<game name="Sora no Kiseki the 1st (Japan)" id="140147">
 		<category>Games</category>
-		<description>Sora no Kiseki the 2nd (Asia)</description>
-		<serial>ELAS 11391</serial>
+		<description>Sora no Kiseki the 1st (Japan)</description>
+		<serial>ELJM 30729</serial>
 		<version>01.00</version>
-		<rom name="Sora no Kiseki the 2nd (Asia).iso" size="40008351744" crc="3f325350" md5="f8fe4a49624730533e4de84f0fff65ea" sha1="92f01eb2fef6b9de274212f56ef75db208468f56"/>
+		<rom name="Sora no Kiseki the 1st (Japan).iso" size="40008351744" crc="450aea6e" md5="a66646237417164d17c99d5de3145e54" sha1="2755f0bacaee8c6416256d2aceee3f95c6a0b7b6"/>
+	</game>
+	<game name="Sora no Kiseki the 2nd (Japan)" id="140148">
+		<category>Games</category>
+		<description>Sora no Kiseki the 2nd (Japan)</description>
+		<serial>ELJM 30961</serial>
+		<version>01.00</version>
+		<rom name="Sora no Kiseki the 2nd (Japan).iso" size="40008351744" crc="be57fcc0" md5="f2631d99ebd095b34639e1b1cbdd90f7" sha1="2013f42ca799f6fce221193e18b2fb7c65ed6aee"/>
 	</game>
 	<game name="Soul Hackers 2 (USA)" id="132613">
 		<category>Games</category>

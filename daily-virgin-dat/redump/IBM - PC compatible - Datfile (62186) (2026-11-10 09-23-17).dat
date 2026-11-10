@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62168) (2026-11-09 02-17-42)</description>
-		<version>2026-11-09 02-17-42</version>
-		<date>2026-11-09 02-17-42</date>
+		<description>IBM - PC compatible - Datfile (62186) (2026-11-10 09-23-17)</description>
+		<version>2026-11-10 09-23-17</version>
+		<date>2026-11-10 09-23-17</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -9611,6 +9611,12 @@
 		<description>Agatha Christie: Murder on the Orient Express (USA) (Disc 2) (Rerelease)</description>
 		<rom name="Agatha Christie - Murder on the Orient Express (USA) (Disc 2) (Rerelease).cue" size="139" crc="b805f519" md5="3b321120de478efacd6392ae7b6cbd09" sha1="661829903255fdd67ff0bca10a9f80f3fa4b20e9"/>
 		<rom name="Agatha Christie - Murder on the Orient Express (USA) (Disc 2) (Rerelease).bin" size="728586096" crc="6aa190ac" md5="475a834187dcc9c09bfce6943cfb9202" sha1="2e24da081cab9867fcef06e3e83d3f6a60f470d6"/>
+	</game>
+	<game name="Agatha Christie - Mysteries (Europe)" id="140150">
+		<category>Games</category>
+		<serial>ROAGATHACH0010LAB</serial>
+		<description>Agatha Christie: Mysteries (Europe)</description>
+		<rom name="Agatha Christie - Mysteries (Europe).iso" size="3420815360" crc="92ba97c5" md5="f596275fe03f1f1ef91e2e1e25b5ff31" sha1="88268eca72dc5cac179dbf1248723c4008e8aae0"/>
 	</game>
 	<game name="Agatha Christie - The ABC Murders (Australia)" id="85965">
 		<category>Games</category>
@@ -70969,6 +70975,13 @@
 		<rom name="Cities in Motion (Europe) (En,Ja,Fr,De,Es).cue" size="108" crc="0a35ef3e" md5="f45b0aef64163bbb6be2777d925b5651" sha1="40e8e3ee959aa48fa85c16a2bfad562f48762146"/>
 		<rom name="Cities in Motion (Europe) (En,Ja,Fr,De,Es).bin" size="491379840" crc="f651bec6" md5="2992b09b3acbd8594b1a1d3a599ad853" sha1="e96d0f4f0170f3711bdbcaa64ed0cd060fb34167"/>
 	</game>
+	<game name="Cities in Motion (Europe) (En,Pl)" id="140153">
+		<category>Games</category>
+		<version>1.0.15</version>
+		<description>Cities in Motion (Europe) (En,Pl)</description>
+		<rom name="Cities in Motion (Europe) (En,Pl).cue" size="99" crc="0caf3054" md5="84cb91f59aa6819589194bb2d2f34e38" sha1="3cf53a48835a1f5417785edd546d0a123d84e15d"/>
+		<rom name="Cities in Motion (Europe) (En,Pl).bin" size="672686112" crc="1a6d8373" md5="7d1219d0446907ddf2f0da439e349bb0" sha1="8edcb14d65c9c9105f9ae88a1d1ba0637524fe9f"/>
+	</game>
 	<game name="Cities in Motion 2 (Europe) (En,Fr,De,Es,It,Ru)" id="104389">
 		<category>Games</category>
 		<serial>20132103-00, ECD009118D</serial>
@@ -85536,6 +85549,13 @@
 		<description>Computer Shopper: Issue 177 November 2002 (UK)</description>
 		<rom name="Computer Shopper - Issue 177 November 2002 (UK).cue" size="113" crc="23b5f3fb" md5="90045bbc46c3e9de068541ba33a7e47c" sha1="be146543c6dc05894e6e7275e1d5026367467eb7"/>
 		<rom name="Computer Shopper - Issue 177 November 2002 (UK).bin" size="765437232" crc="c800cacb" md5="8646522d40043e6cb32a3d232106ed22" sha1="9e381d4954fea261973c6b2255382d90fe12b187"/>
+	</game>
+	<game name="Computer Shopper - Issue 180 February 2003 (UK)" id="140151">
+		<category>Coverdiscs</category>
+		<serial>DPCS0203A</serial>
+		<description>Computer Shopper: Issue 180 February 2003 (UK)</description>
+		<rom name="Computer Shopper - Issue 180 February 2003 (UK).cue" size="113" crc="283e2ab5" md5="850f380f61f64e9e2508b911922e8738" sha1="f87144f0009a3d32c06192c2982e0ba758791278"/>
+		<rom name="Computer Shopper - Issue 180 February 2003 (UK).bin" size="771042048" crc="1b8c845f" md5="adc3d3682f3cece3d5c19b706b2debdf" sha1="a86f55236fcd2bb8c3c0ca7ad09882c672348689"/>
 	</game>
 	<game name="Computer Shopper - Issue 188 October 2003 (UK)" id="100911">
 		<category>Coverdiscs</category>
@@ -179101,6 +179121,32 @@
 		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 18).bin" size="34677888" crc="47e2d4c1" md5="6347eb9a89d2d72f2e5def4cb236aa30" sha1="7efe2efd8a38df8ef0b981985d121d345b550322"/>
 		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 19).bin" size="31326288" crc="03503e4d" md5="b441b53cff2c62732ff865faf64b11b2" sha1="39853c6ddead53acb9a98c1a222de109af9b011c"/>
 	</game>
+	<game name="Grand Touring (Europe) (En,Fr,De,Es,It)" id="140154">
+		<category>Games</category>
+		<serial>EI-1177 ENGLISH</serial>
+		<version>1.0</version>
+		<description>Grand Touring (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It).cue" size="2528" crc="fe5a0473" md5="7f060c6050c9171f310ed120eccf12b7" sha1="d0d7860b35b255fe2ea903abb1018fb99368d30c"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="107295888" crc="a1e1a578" md5="bd40462671a89c981466617f1c0bd76e" sha1="d70ab2bbe96643721bdab892f12438cefb7cf64c"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="4885104" crc="2c2440c5" md5="b0ea948849bb2ef433ab0aa02f193745" sha1="05753a3081d57e3d0773d8933ece63286149a85c"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="20805792" crc="fb66924f" md5="d14643f84c520fd7a2a43a01d9f55f88" sha1="e026f592266c6e7c691ac24fd27728b40b5029dc"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 04).bin" size="32502288" crc="7999fb83" md5="29601180378f25d7d536b82dd17fdcdb" sha1="9cde60d28d7045384d7d85655cfead48ead5ef5c"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 05).bin" size="32895072" crc="868e01c6" md5="40391c732b19f1e45378431cbf6082ae" sha1="88fc468e4806bfb1e650d287674b603a03b75c11"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 06).bin" size="34960128" crc="aa64d769" md5="7bdb794de97d3d47750561ee17947ab9" sha1="992499a51ebf07711a8983faa6bc83ac3b4b905f"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 07).bin" size="34306272" crc="64777478" md5="4283ff5ed12ebead1f1d9eb8ccb22af0" sha1="2785d6b1885966cf372ca202d5858c9102f88002"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 08).bin" size="32208288" crc="b4cf61d0" md5="c2aa62c690f9736a051435f66ed7c425" sha1="cf5cdbce93d6ff9b1fbb703a3304994f9787ef07"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 09).bin" size="37091040" crc="e6a3ef0e" md5="eaaaa8ed262f5b38f0e7ad3e280bc7aa" sha1="244928e55bf7ee2204e3921efbce78c8d169c8a5"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 10).bin" size="34748448" crc="c4a44d83" md5="83504efb73684411262a48c69d5d8582" sha1="52da5607cb492ffd6089ccc08fa049ed356da324"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 11).bin" size="32535216" crc="623a462b" md5="120096fd73e1153539cb9f9792cc0384" sha1="6a7a646aec2d8645bc96d7fbc4f50645c142b578"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 12).bin" size="33944064" crc="ac6841e2" md5="ecaecc3aa4f2aa3442e4fd3f5309b99c" sha1="968edd432ad585db4fec9197e5f0b253d2ac5e5c"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 13).bin" size="32419968" crc="991e4966" md5="f28b6d15ee04b5e225ef5a9a2e3290cd" sha1="4a3232c1dc7819e41285a089cd1c06826d4b4973"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 14).bin" size="32749248" crc="d4f5db52" md5="602234a0dd0dbab27726b6a69a6059a7" sha1="5b75c7d60bff58dc2c6f415117e6a82af8b5d12d"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 15).bin" size="33666528" crc="b23343eb" md5="735f54648261e4b7028832f1342f67e3" sha1="5e311d8c91c48514304513826644f28dede1933f"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 16).bin" size="33682992" crc="0747f2dc" md5="a2944aff61576c5219d371fb54327beb" sha1="8ade346bedd9a0af35e709bde744f81c7158a5c9"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 17).bin" size="32732784" crc="5faf8856" md5="dc3a97dfaa5c40abca982e1d39d812d4" sha1="87fdca1fa56aac799ee5bd59c8d709326d6b5cf6"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 18).bin" size="34534416" crc="deda0786" md5="f102a7dce09845446c0c9a3aa760968f" sha1="15647ef8e56c2cd17889d8aecaa5dc8a5b09a6b9"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 19).bin" size="31189872" crc="7bfb140c" md5="76d42fd1ae80f6ceab7678a880b780d6" sha1="eb19f085906a08dc8bf311dd603404a39383cf45"/>
+	</game>
 	<game name="Grand Touring (Germany)" id="54374">
 		<category>Games</category>
 		<serial>EI-1132</serial>
@@ -242334,11 +242380,17 @@
 		<rom name="Links 5-Course Library - Volume 1 (Europe).cue" size="131" crc="daaae96e" md5="1f4f3ff3c9ce315d1fea28978dec9760" sha1="14e9233e79f06fed669616861f44bb920709c20b"/>
 		<rom name="Links 5-Course Library - Volume 1 (Europe).bin" size="782787936" crc="3e335ff6" md5="fc6cf6a0b67684f36c7069dd5358e916" sha1="5ef29b6e404cd0794258e9ae4e87e90df7aa3435"/>
 	</game>
-	<game name="Links 5-Course Library - Volume 1 (USA)" id="115517">
+	<game name="Links 5-Course Library - Volume 1 (USA)" id="140152">
 		<category>Add-Ons</category>
 		<description>Links 5-Course Library: Volume 1 (USA)</description>
 		<rom name="Links 5-Course Library - Volume 1 (USA).cue" size="128" crc="39b99bc4" md5="6346ea139c3b48d27786a760aae46bc8" sha1="107be5068ba803a4c900e753f95f7a795b78f8de"/>
-		<rom name="Links 5-Course Library - Volume 1 (USA).bin" size="270948048" crc="1b022d2b" md5="8940c52ca3f3f29e8c4a3d65bf8c9c52" sha1="8628997e394381bcd122b7e2578d5b78b08000f8"/>
+		<rom name="Links 5-Course Library - Volume 1 (USA).bin" size="400279824" crc="71bb7321" md5="2e30f848992a30295fb7aee0150b1d68" sha1="7b46b66814b6b0f5b59dc59168f080d71b7aa9cf"/>
+	</game>
+	<game name="Links 5-Course Library - Volume 1 (USA) (Rerelease)" id="115517">
+		<category>Add-Ons</category>
+		<description>Links 5-Course Library: Volume 1 (USA) (Rerelease)</description>
+		<rom name="Links 5-Course Library - Volume 1 (USA) (Rerelease).cue" size="140" crc="ba70eab7" md5="dc3384e35ea5a397d2e25c97f9175cf6" sha1="f3d55b55a3942246c01bc15fd4b0b16c45572fe2"/>
+		<rom name="Links 5-Course Library - Volume 1 (USA) (Rerelease).bin" size="270948048" crc="1b022d2b" md5="8940c52ca3f3f29e8c4a3d65bf8c9c52" sha1="8628997e394381bcd122b7e2578d5b78b08000f8"/>
 	</game>
 	<game name="Links 5-Course Library - Volume 2 (Europe)" id="10257">
 		<category>Add-Ons</category>
@@ -400470,6 +400522,12 @@
 		<rom name="Sims 2, The - Winter Pack (Japan).cue" size="99" crc="52dbf5d6" md5="48ef0ec6bfed47fa3f037ff51c00c7e7" sha1="5c040f7b6c9523ea46ca66359d9cd4a84cdaa78a"/>
 		<rom name="Sims 2, The - Winter Pack (Japan).bin" size="166841472" crc="b14f52f2" md5="34ec9cf4c02f0aa5ce942ba580961aac" sha1="e3dfe3118bc02a66abc0ae9d653b8fdd004d839b"/>
 	</game>
+	<game name="Sims 3, Les - Cinema Kit (France)" id="140132">
+		<category>Add-Ons</category>
+		<serial>100251901601</serial>
+		<description>Sims 3, Les: Cinema Kit (France)</description>
+		<rom name="Sims 3, Les - Cinema Kit (France).iso" size="3157458944" crc="f1a17f45" md5="0aad9026ce416a779eeee749b2b711fb" sha1="e0f272e261726c723afae65ce321e22ab6a7fd46"/>
+	</game>
 	<game name="Sims 3, The (Asia)" id="136696">
 		<category>Games</category>
 		<serial>1539007LENLBL</serial>
@@ -400504,7 +400562,7 @@
 	</game>
 	<game name="Sims 3, The (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu) (Rerelease)" id="124087">
 		<category>Games</category>
-		<serial>MXX09210336D, MXX09210336Dv2</serial>
+		<serial>MXX09210336D, MXX09210336Dv2, 101030901601</serial>
 		<description>Sims 3, The (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu) (Rerelease)</description>
 		<rom name="Sims 3, The (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu) (Rerelease).iso" size="7443742720" crc="31e7456f" md5="ba1368ebe3f6e650c8439a57549a7d34" sha1="4444852956b1ab579a7251c67fdbc32b76847cde"/>
 	</game>
@@ -400549,6 +400607,11 @@
 		<version>17.0.77.020001</version>
 		<description>Sims 3, The: 70s, 80s, &amp; 90s Stuff (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)</description>
 		<rom name="Sims 3, The - 70s, 80s, &amp; 90s Stuff (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu).iso" size="3303702528" crc="c697cc8f" md5="aecc844bab4fd7dcbdf60526e2a2d696" sha1="6d81c2dcb417573bd2955b2d8a2449a99128ea22"/>
+	</game>
+	<game name="Sims 3, The - 70s, 80s, &amp; 90s Stuff (USA)" id="140133">
+		<category>Add-Ons</category>
+		<description>Sims 3, The: 70s, 80s, &amp; 90s Stuff (USA)</description>
+		<rom name="Sims 3, The - 70s, 80s, &amp; 90s Stuff (USA).iso" size="3303702528" crc="58d30f8a" md5="19753f677e3f59e894ab0ed4a3931f4b" sha1="f4583c4fde4ae5fb1fd127e6434f0b6a4cc8f5a0"/>
 	</game>
 	<game name="Sims 3, The - Ambitions (Expansion Pack) (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)" id="27874">
 		<category>Add-Ons</category>
@@ -400596,19 +400659,19 @@
 		<description>Sims 3, The: Fast Lane Stuff (World) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Pl,Ru,El,Cs,Hu,Mk)</description>
 		<rom name="Sims 3, The - Fast Lane Stuff (World) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Pl,Ru,El,Cs,Hu,Mk).iso" size="2614722560" crc="62010dc2" md5="d72257d483ea47dd22ccdcf9d3e81fe8" sha1="34a391df418f7a64281b8a06d1cc7631f48aba64"/>
 	</game>
+	<game name="Sims 3, The - Generations (Expansion Pack) (Europe)" id="138350">
+		<category>Add-Ons</category>
+		<serial>MXX09208053D</serial>
+		<version>8.0.152.011001</version>
+		<description>Sims 3, The: Generations (Expansion Pack) (Europe)</description>
+		<rom name="Sims 3, The - Generations (Expansion Pack) (Europe).iso" size="5295013888" crc="2ced4c5b" md5="d3ee1eadf0d67b8578b16fe6d73b8c2f" sha1="eaae7425c94769005710f0e92b7d20d0e8cf5d3a"/>
+	</game>
 	<game name="Sims 3, The - Generations (Expansion Pack) (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)" id="99747">
 		<category>Add-Ons</category>
 		<serial>MXX09208053D</serial>
 		<version>8.0.152.011001</version>
 		<description>Sims 3, The: Generations (Expansion Pack) (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)</description>
 		<rom name="Sims 3, The - Generations (Expansion Pack) (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu).iso" size="5295013888" crc="39b4ec1c" md5="714f87503c4b07573bb1c332b8b34b66" sha1="fa05f7f9343cc72c32ea68695fbf021233b07c0b"/>
-	</game>
-	<game name="Sims 3, The - Generations (Expansion Pack) (Germany)" id="138350">
-		<category>Add-Ons</category>
-		<serial>MXX09208053D</serial>
-		<version>8.0.152.011001</version>
-		<description>Sims 3, The: Generations (Expansion Pack) (Germany)</description>
-		<rom name="Sims 3, The - Generations (Expansion Pack) (Germany).iso" size="5295013888" crc="2ced4c5b" md5="d3ee1eadf0d67b8578b16fe6d73b8c2f" sha1="eaae7425c94769005710f0e92b7d20d0e8cf5d3a"/>
 	</game>
 	<game name="Sims 3, The - Generations (Expansion Pack) (USA)" id="43745">
 		<category>Add-Ons</category>
@@ -400638,7 +400701,7 @@
 	</game>
 	<game name="Sims 3, The - High-End Loft Stuff (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu)" id="43747">
 		<category>Add-Ons</category>
-		<serial>1941517, MXX09207146D</serial>
+		<serial>1941517, MXX09207146D, 101030901601</serial>
 		<version>3.0.38.004001</version>
 		<description>Sims 3, The: High-End Loft Stuff (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu)</description>
 		<rom name="Sims 3, The - High-End Loft Stuff (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu).iso" size="4854513664" crc="c4f62a6a" md5="d3de4d8024e5e2e77937c7f3777eb33e" sha1="53b1f58152a2e9805a12f4b0fb40e31edc289423"/>
@@ -400684,7 +400747,7 @@
 	</game>
 	<game name="Sims 3, The - Late Night (Expansion Pack) (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu)" id="101936">
 		<category>Add-Ons</category>
-		<serial>MXX09207582D</serial>
+		<serial>MXX09207582D, 101030901601</serial>
 		<version>6.0.81.009001</version>
 		<description>Sims 3, The: Late Night (Expansion Pack) (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu)</description>
 		<rom name="Sims 3, The - Late Night (Expansion Pack) (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu).iso" size="7245168640" crc="c83af310" md5="5a061c4050c3df7d5e609171032d198e" sha1="d4d914e85edca3d5e8a5790e1d8bcfccf32e2e1e"/>
@@ -400833,12 +400896,12 @@
 		<description>Sims 3, The: Town Life Stuff (USA)</description>
 		<rom name="Sims 3, The - Town Life Stuff (USA).iso" size="1970143232" crc="f2218694" md5="ecc81edc22e58ccea1a46cba1c796952" sha1="ccefad899608c65d6972a4e362628751dda10515"/>
 	</game>
-	<game name="Sims 3, The - University Life (Expansion Pack) (Australia)" id="99755">
+	<game name="Sims 3, The - University Life (Expansion Pack) (Europe, Australia)" id="99755">
 		<category>Add-Ons</category>
 		<serial>MXX09209713D</serial>
 		<version>18.0.126.021001</version>
-		<description>Sims 3, The: University Life (Expansion Pack) (Australia)</description>
-		<rom name="Sims 3, The - University Life (Expansion Pack) (Australia).iso" size="5591203840" crc="ba115851" md5="951b0a1444dc2e148185eb59c0fd7f32" sha1="455af0a9cc86f5b5678eb4d35496ce04ed5875cc"/>
+		<description>Sims 3, The: University Life (Expansion Pack) (Europe, Australia)</description>
+		<rom name="Sims 3, The - University Life (Expansion Pack) (Europe, Australia).iso" size="5591203840" crc="ba115851" md5="951b0a1444dc2e148185eb59c0fd7f32" sha1="455af0a9cc86f5b5678eb4d35496ce04ed5875cc"/>
 	</game>
 	<game name="Sims 3, The - University Life (Expansion Pack) (USA)" id="43753">
 		<category>Add-Ons</category>
@@ -401011,6 +401074,12 @@
 		<description>Sims Life Stories, The (USA) (En,Es)</description>
 		<rom name="Sims Life Stories, The (USA) (En,Es).iso" size="2315911168" crc="0f1c00d6" md5="c23339253ac26a193920226c0bad9e0a" sha1="9ef910b8c8678bb6aeafd9ce61d13367e0d215b4"/>
 	</game>
+	<game name="Sims Magazine #13, Les - Octobre-Novembre 2009 (France)" id="140156">
+		<category>Coverdiscs</category>
+		<description>Sims Magazine #13, Les: Octobre-Novembre 2009 (France)</description>
+		<rom name="Sims Magazine #13, Les - Octobre-Novembre 2009 (France).cue" size="121" crc="0d3fa9c9" md5="21560794dbbe9ac5643a56faaab3e41d" sha1="54c3030f0c86c24af820c1da6be407c00d64ec02"/>
+		<rom name="Sims Magazine #13, Les - Octobre-Novembre 2009 (France).bin" size="571136160" crc="6cd5a33e" md5="f2186d1efeb32d9f091fd205a9f016ab" sha1="cbd899d110ccd49de29905379af077cb4710bb1b"/>
+	</game>
 	<game name="Sims Magazine #24, Les (France)" id="140071">
 		<category>Coverdiscs</category>
 		<description>Sims Magazine #24, Les (France)</description>
@@ -401146,6 +401215,19 @@
 		<description>Sims, Die (Germany)</description>
 		<rom name="Sims, Die (Germany).cue" size="85" crc="40f659b8" md5="fe390400c7d9b540fa50763a659ce9d9" sha1="cf46c0b0564998628bb0696667b39e8806e4a6d0"/>
 		<rom name="Sims, Die (Germany).bin" size="570585792" crc="d281f4b0" md5="8f3e32cdbba87bb96940302c63d3da5c" sha1="14303ade98c2f6c8fd60e821d474ef0928d52301"/>
+	</game>
+	<game name="Sims, Les (France) (Documentation)" id="140155">
+		<category>Bonus Discs</category>
+		<serial>MXF08903517D</serial>
+		<description>Sims, Les (France) (Documentation)</description>
+		<rom name="Sims, Les (France) (Documentation).cue" size="100" crc="90d6ee59" md5="46fcabdabf49a62bc01c207c0afa94ce" sha1="3a4bd022f9e680dc2971f5b31f70e99e568e268d"/>
+		<rom name="Sims, Les (France) (Documentation).bin" size="10174752" crc="1784556a" md5="59465389d4a41b93dfc9fb428ba165e3" sha1="95720d8b9f8cbc0788f1ccc28857827d1071c92f"/>
+	</game>
+	<game name="Sims, Les - Histoires de Naufrages (France)" id="140134">
+		<category>Games</category>
+		<serial>MXX07705586D</serial>
+		<description>Sims, Les: Histoires de Naufragés (France)</description>
+		<rom name="Sims, Les - Histoires de Naufrages (France).iso" size="2405498880" crc="b6d3234b" md5="9e6d11dbd064a73049fa578754fae135" sha1="5111b60a2b3915d15569d385206f069d4c5e33ab"/>
 	</game>
 	<game name="Sims, Los - Superstar (Disco de Expansion) (Argentina) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl) (Disc 1)" id="115800">
 		<category>Add-Ons</category>
@@ -401524,7 +401606,7 @@
 	<game name="Sims, The - Hot Date (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl)" id="37772">
 		<category>Add-Ons</category>
 		<serial>MXX088003645D</serial>
-		<version>1.3</version>
+		<version>1.4</version>
 		<description>Sims, The: Hot Date (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl)</description>
 		<rom name="Sims, The - Hot Date (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl).cue" size="141" crc="ff8ff5fd" md5="775400f595eae29c4f1cac57981bc943" sha1="d604d16bc3ddd7bd2593af475735d68c054de9c2"/>
 		<rom name="Sims, The - Hot Date (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl).bin" size="788886672" crc="a24db398" md5="7a8aafa07314c2b633e11c775f886948" sha1="202b4e491d6b280002b41ce06a8d3ac40d1d3a7b"/>
@@ -401792,7 +401874,7 @@
 	<game name="Sims, The - On Holiday (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl)" id="78477">
 		<category>Add-Ons</category>
 		<serial>MXX08803801D</serial>
-		<version>1.5 Prototype</version>
+		<version>1.5</version>
 		<description>Sims, The: On Holiday (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl)</description>
 		<rom name="Sims, The - On Holiday (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl).cue" size="143" crc="4dd5f415" md5="568a6f90be6111c1bfa890fa64323a43" sha1="15faad0235a561748dfb8cbe1fcb4834314a7f03"/>
 		<rom name="Sims, The - On Holiday (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl).bin" size="788886672" crc="b7581a68" md5="431e4742b230e7a743f1818d5c2412bc" sha1="f3060d2b66c505864c942e6b424cc0f9cdf71a6a"/>
@@ -401978,7 +402060,7 @@
 	<game name="Sims, The - Unleashed (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2)" id="39537">
 		<category>Add-Ons</category>
 		<serial>MXX08803906D2</serial>
-		<version>1.7</version>
+		<version>1,7</version>
 		<description>Sims, The: Unleashed (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2)</description>
 		<rom name="Sims, The - Unleashed (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2).cue" size="160" crc="255c5972" md5="1b4eb1d2099e94e6af39fa0ca36d0917" sha1="ab09bcbd4ef61894f2a2733b76e2bb5098b64539"/>
 		<rom name="Sims, The - Unleashed (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2).bin" size="665046816" crc="4c8fde15" md5="bac7284610ccd5bb7a1db662d82c214d" sha1="996884d28de2145f49e555ce0abaddfa0aa535fd"/>
@@ -414529,6 +414611,18 @@
 		<description>Srpske Igre (Serbia)</description>
 		<rom name="Srpske Igre (Serbia).cue" size="86" crc="40c4a0f5" md5="02f428f4587695a6fed57724bb7960cc" sha1="e591e91acbd1d353a3241bc79e47e7527b55690e"/>
 		<rom name="Srpske Igre (Serbia).bin" size="283662960" crc="7d5a4183" md5="36fe08f68f617b120da12eb176c368fe" sha1="510b1a1c83d40a3e6dea930dfc8cec9c1febfcd3"/>
+	</game>
+	<game name="SRS - Street Racing Syndicate (France) (Disc 1)" id="140137">
+		<category>Games</category>
+		<description>SRS: Street Racing Syndicate (France) (Disc 1)</description>
+		<rom name="SRS - Street Racing Syndicate (France) (Disc 1).cue" size="113" crc="33381a33" md5="a4e2998b83318433780da122ebca5dd7" sha1="2c175577713e6f40b6bb3f2b31ae365afd80bc52"/>
+		<rom name="SRS - Street Racing Syndicate (France) (Disc 1).bin" size="686873376" crc="ac6ea016" md5="d641bb662cbeef5db20a1f52b9b27a06" sha1="ba52cb8a54ce849542546801c19b55103ccebaf5"/>
+	</game>
+	<game name="SRS - Street Racing Syndicate (France) (Disc 2)" id="140138">
+		<category>Games</category>
+		<description>SRS: Street Racing Syndicate (France) (Disc 2)</description>
+		<rom name="SRS - Street Racing Syndicate (France) (Disc 2).cue" size="113" crc="32653ce2" md5="6858458c12cb8115f832c123cb0e795e" sha1="a2c34b7772e690647cb737e3a2ea6beba2d08588"/>
+		<rom name="SRS - Street Racing Syndicate (France) (Disc 2).bin" size="649166112" crc="01e0f2ba" md5="87ec1c94a3c7ac17883b5f9435fded95" sha1="d4f3d5b6a137cd1e0d697619e0cacdc4c49b819b"/>
 	</game>
 	<game name="SRS - Street Racing Syndicate (Italy) (En,Fr,De,Es,It) (Disc 1) (Covermount)" id="74382">
 		<category>Games</category>
@@ -430624,6 +430718,11 @@
 		<description>Superhot (Poland)</description>
 		<rom name="Superhot (Poland).iso" size="730529792" crc="1a4fc363" md5="378b84100ba3ffd4867fe1912ca4a152" sha1="808268c6c5d3f72cadf06bc30a8213d252fcdc6f"/>
 	</game>
+	<game name="SuperHot (USA)" id="140139">
+		<category>Games</category>
+		<description>SuperHot (USA)</description>
+		<rom name="SuperHot (USA).iso" size="737148928" crc="2115e125" md5="e437ccc5db1f2338eb248cd5efe4421d" sha1="1d8bd434263b0071ef7e40a0bbcb35815dd3c95a"/>
+	</game>
 	<game name="SuperKarts (Europe)" id="62486">
 		<category>Games</category>
 		<version>1.01</version>
@@ -436270,6 +436369,12 @@
 		<description>Tävlingar på Rosemond Hill (Sweden)</description>
 		<rom name="Tavlingar pa Rosemond Hill (Sweden).cue" size="101" crc="3bf77e5c" md5="c90f0f4b7d80a95f2ea32d43c4a8c7da" sha1="1ab187c6e3f464d4ae4976c12293e4ca6680ec01"/>
 		<rom name="Tavlingar pa Rosemond Hill (Sweden).bin" size="158475408" crc="0208671e" md5="37e028e783eda6f103a31e5d6382b017" sha1="74a1dd0d3f2c27cb0a6c6e7cf342bf29be288c89"/>
+	</game>
+	<game name="Taxi 3 (France)" id="140140">
+		<category>Games</category>
+		<description>Taxi 3 (France)</description>
+		<rom name="Taxi 3 (France).cue" size="81" crc="c5d35860" md5="51de0bfab9767e73b7447832b575c2de" sha1="a4ee1287aa709fc3dd89faad0676fc056cdd259c"/>
+		<rom name="Taxi 3 (France).bin" size="788886672" crc="e4cd85b0" md5="0d9d13500d20883fd3c555810bcf68e7" sha1="fa590d7d514ba4501f226afd08be14aac7321cc3"/>
 	</game>
 	<game name="Taxi 3 - Extreme Rush (Italy) (Rerelease)" id="65507">
 		<category>Games</category>
@@ -457060,6 +457165,12 @@
 		<rom name="TrackMania (Europe).cue" size="85" crc="d05e914c" md5="567392777f928b6dc26eb7f779bf0a0f" sha1="1a4ebf57eaba2fbab6d564dfc60232682e069530"/>
 		<rom name="TrackMania (Europe).bin" size="718632432" crc="ff79208e" md5="4ed21cc61b618706f0afff123ddeda1c" sha1="9c3e9d5c86a075dc21a414f4ddb4d92893799bda"/>
 	</game>
+	<game name="TrackMania (France)" id="140141">
+		<category>Games</category>
+		<description>TrackMania (France)</description>
+		<rom name="TrackMania (France).cue" size="85" crc="f6562049" md5="910354ec2999550cc953c072ab0fde26" sha1="27e118f059d155bfec41f0b06c009620eae67f7d"/>
+		<rom name="TrackMania (France).bin" size="718655952" crc="855aec8d" md5="39a74d0db6913a20b470663844fdf596" sha1="e06b3399d9f70d3420be51d9432b014d473376b3"/>
+	</game>
 	<game name="TrackMania (Italy)" id="113502">
 		<category>Games</category>
 		<serial>00040501-01, ECD008018M</serial>
@@ -457186,6 +457297,12 @@
 		<description>TrackMania Sunrise Extreme (Europe) (Rerelease)</description>
 		<rom name="TrackMania Sunrise Extreme (Europe) (Rerelease).cue" size="113" crc="308650a7" md5="67ffaa252d59118db58f64cd7bcc2f58" sha1="9e7b09b94fa72503e376692a71fa3d632a2381df"/>
 		<rom name="TrackMania Sunrise Extreme (Europe) (Rerelease).bin" size="819225120" crc="709a4710" md5="a74e304083ab6f4e6f71c054a1e592c9" sha1="ea4409b213dea2f05021fd0d8c53ad45a2168e6f"/>
+	</game>
+	<game name="TrackMania Sunrise Extreme (France)" id="140142">
+		<category>Games</category>
+		<description>TrackMania Sunrise Extreme (France)</description>
+		<rom name="TrackMania Sunrise Extreme (France).cue" size="101" crc="ff3b7ef8" md5="57c40737c36965e4f6c052c4554bed4d" sha1="1c3468e8d926a2d31898dcce25f17115fceac451"/>
+		<rom name="TrackMania Sunrise Extreme (France).bin" size="819225120" crc="d0311246" md5="f8c852fc7d5c2e17b6d9ffd8989bce36" sha1="5392fd4c63d151db9059f636f69d038f4f12bf21"/>
 	</game>
 	<game name="TrackMania Sunrise Extreme (Germany)" id="104488">
 		<category>Games</category>
@@ -461970,6 +462087,12 @@
 		<description>TV Tycoon (Europe)</description>
 		<rom name="TV Tycoon (Europe).cue" size="84" crc="f46f5b64" md5="bf7e941bef5527c154c5c43c2d277d05" sha1="dba0eb9965c7a9df3b4496c929be1e70966551f3"/>
 		<rom name="TV Tycoon (Europe).bin" size="129581088" crc="7833bf95" md5="9d45fbfe14473c92703c58e76a39d304" sha1="430d2c6db0bf50cb11916d9d86d775f40c2dd473"/>
+	</game>
+	<game name="TV Tycoon (USA)" id="140143">
+		<category>Games</category>
+		<description>TV Tycoon (USA)</description>
+		<rom name="TV Tycoon (USA).cue" size="81" crc="ecc5edcc" md5="6a9e13a27f93ebb1769dc2b1492345a2" sha1="b984d4afb138a1f0fd592fb928bcd466defe46e4"/>
+		<rom name="TV Tycoon (USA).bin" size="129581088" crc="0961a938" md5="94af673296077478cb20b4fecb204205" sha1="d81100bbeb85db900e7baa7c7a8282855647ffa8"/>
 	</game>
 	<game name="TV14 Game-Hits (Germany)" id="55655">
 		<category>Coverdiscs</category>
@@ -480531,19 +480654,19 @@
 	</game>
 	<game name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1)" id="48433">
 		<category>Games</category>
-		<serial>300062334, 300062344, 688051-DVD1</serial>
+		<serial>300062334, 300062344, 688051-DVD1, 688051-CVRT</serial>
 		<description>Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1)</description>
 		<rom name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1).iso" size="7936540672" crc="0a5654e9" md5="43a374e46c3bf5815c18959a73ad43a5" sha1="19519e5456c736036cfe2a34c1c4323b7407e5e2"/>
 	</game>
 	<game name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2)" id="48434">
 		<category>Games</category>
-		<serial>300062335, 300062345, 688051-DVD2</serial>
+		<serial>300062335, 300062345, 688051-DVD2, 688051-CVRT</serial>
 		<description>Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2)</description>
 		<rom name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2).iso" size="7898988544" crc="72e0a0df" md5="b499206f881d1279fcc9125724e23482" sha1="72667c89fcd7abbcd8a543b6b2d76f98c17c4ad4"/>
 	</game>
 	<game name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3)" id="48435">
 		<category>Games</category>
-		<serial>300062336, 300062346, 688051-DVD3</serial>
+		<serial>300062336, 300062346, 688051-DVD3, 688051-CVRT</serial>
 		<description>Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3)</description>
 		<rom name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3).iso" size="7863402496" crc="0f4250de" md5="38348e16804be8b3cdd06435d48ce13c" sha1="94420d12d091d7580f72a5f0ecc2899f654d4e62"/>
 	</game>
@@ -481688,11 +481811,11 @@
 		<description>Wheelman (Russia)</description>
 		<rom name="Wheelman (Russia).iso" size="8514437120" crc="4a5d53e1" md5="d5663047399157fd539b563add7872ec" sha1="5c3f454871192e099985e10f2066dbe480db83d5"/>
 	</game>
-	<game name="Wheelman (USA) (En,Fr,De,Es,It)" id="89518">
+	<game name="Wheelman (USA, Canada) (En,Fr,De,Es,It)" id="89518">
 		<category>Games</category>
-		<serial>685333-DVD</serial>
-		<description>Wheelman (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Wheelman (USA) (En,Fr,De,Es,It).iso" size="7909048320" crc="6e47a779" md5="7a4fb48834883de48d1a4a39f5296058" sha1="14a7381d5ec2dec7d36d54e6be0bd9e5f777e2fa"/>
+		<serial>685333-DVD, 685333-CVRF</serial>
+		<description>Wheelman (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Wheelman (USA, Canada) (En,Fr,De,Es,It).iso" size="7909048320" crc="6e47a779" md5="7a4fb48834883de48d1a4a39f5296058" sha1="14a7381d5ec2dec7d36d54e6be0bd9e5f777e2fa"/>
 	</game>
 	<game name="Wheels on the Bus, The - Humpty Dumpty (Europe)" id="36010">
 		<category>Educational</category>
@@ -500472,6 +500595,13 @@
 		<category>Games</category>
 		<description>Zoo Tycoon: Ultimate Animal Collection (USA, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Pl,Ru) (Rerelease)</description>
 		<rom name="Zoo Tycoon - Ultimate Animal Collection (USA, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Pl,Ru) (Rerelease).iso" size="5020504064" crc="9066555b" md5="ce0453be6c7076ec834e8745d2ab9053" sha1="7d4d223abaf0f4f95794ce15367658edbac2c6a2"/>
+	</game>
+	<game name="Zoo Tycoon 2 (Canada)" id="140144">
+		<category>Games</category>
+		<serial>X10-75863 FR</serial>
+		<description>Zoo Tycoon 2 (Canada)</description>
+		<rom name="Zoo Tycoon 2 (Canada).cue" size="87" crc="98c08182" md5="dac125cf3cfe687d620046e34e8a32e3" sha1="6aadaf258324f9f1b6a998f418f4703c7290c208"/>
+		<rom name="Zoo Tycoon 2 (Canada).bin" size="525904848" crc="7e2ece7d" md5="e69a119a666a8483df91ee2ffea972a4" sha1="a7b93b0d19bc3f8b774e9f7f71ef1ecaefaec953"/>
 	</game>
 	<game name="Zoo Tycoon 2 (Europe)" id="121332">
 		<category>Games</category>

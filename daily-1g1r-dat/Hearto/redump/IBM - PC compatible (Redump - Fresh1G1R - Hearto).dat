@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,629) (-y) [-aAbBcefkmMoprv] (2026-11-09 02-17-42) (Retool)</description>
-		<version>2026-11-09 02-17-42</version>
-		<date>2026-11-09 09-30-16</date>
+		<description>IBM - PC compatible (26,633) (-y) [-aAbBcefkmMoprv] (2026-11-10 09-23-17) (Retool)</description>
+		<version>2026-11-10 09-23-17</version>
+		<date>2026-11-10 09-34-10</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5557,6 +5557,12 @@
 		<version>1.0</version>
 		<rom name="Agatha Christie - Murder on the Orient Express (USA) (Disc 2).bin" size="728586096" crc="2a54de9f" md5="e8ccef86cb31122b38924e34e9429e18" sha1="eb012ce64658f0c0ca1e44f3b4f369c218ad4001"/>
 		<rom name="Agatha Christie - Murder on the Orient Express (USA) (Disc 2).cue" size="127" crc="36555cd3" md5="f1a34836f815a1ee9befc46d7cbb87d3" sha1="fae5f14d837e606441a6eadb5d61ec5723059ac2"/>
+	</game>
+	<game name="Agatha Christie - Mysteries (Europe)" id="140150">
+		<category>Games</category>
+		<description>Agatha Christie: Mysteries (Europe)</description>
+		<serial>ROAGATHACH0010LAB</serial>
+		<rom name="Agatha Christie - Mysteries (Europe).iso" size="3420815360" crc="92ba97c5" md5="f596275fe03f1f1ef91e2e1e25b5ff31" sha1="88268eca72dc5cac179dbf1248723c4008e8aae0"/>
 	</game>
 	<game name="Agatha Christie - The ABC Murders (Australia)" id="85965">
 		<category>Games</category>
@@ -74116,31 +74122,31 @@
 		<version>1.0.231.0</version>
 		<rom name="Grand Theft Auto V (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Install Disc 7).iso" size="6805061632" crc="f5d01a57" md5="2436126a212e38bf8263e1984661ca09" sha1="8b428895983a6b864fcb210d375da6b46a4a7726"/>
 	</game>
-	<game name="Grand Touring (Europe) (En,Fr,De)" id="128790">
+	<game name="Grand Touring (Europe) (En,Fr,De,Es,It)" id="140154">
 		<category>Games</category>
-		<description>Grand Touring (Europe) (En,Fr,De)</description>
-		<serial>CAT NO EI-1132</serial>
-		<version>2.0</version>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 01).bin" size="110160624" crc="dbbdc832" md5="4b86bf5f47c4cd0ebd856d285672a383" sha1="eb071c8ae3dcc7224b1a35336f17df3eec98da95"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 02).bin" size="5374320" crc="95eea703" md5="f93a06229721f11022aa1fc218288792" sha1="ce3d7d9b7e6e1b6eb52688f5b8fdaeefa0b3eafc"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 03).bin" size="20455344" crc="1eed29aa" md5="705a486591fd1c5b4d5b17b5358dbc33" sha1="6016a4d496e68c7815b5f27e8f043097eb99d821"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 04).bin" size="32695152" crc="9a8c60a2" md5="40b6d54b0d749a820144d1f6f4087496" sha1="bf1aa84d5f7462f79f5b47658042acfda1384a16"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 05).bin" size="33120864" crc="12936d11" md5="721d6e83962186e6ab10af82c7536918" sha1="1d110a7d7fe692a857075e4c8f6bf9608bd774b2"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 06).bin" size="35136528" crc="516d6607" md5="6734f5bacc7a0d64c6539b1d7f9a23d3" sha1="b1b0a24efb36990dc314087235360c3b78c1e12e"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 07).bin" size="34480320" crc="244fe71e" md5="a2ce40a57e9905b2afa117a8627f975b" sha1="d357618de84ca271d5dbaee5b7a0293407d66587"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 08).bin" size="32793936" crc="742f2dd6" md5="590fccf24c76f0411adc578d45eb55ee" sha1="f17a89a29dd4f06c16a5597ca4af0c8646602c34"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 09).bin" size="37347408" crc="e94c19b0" md5="3d40176dfa480c317d999a780f677ce7" sha1="b7047b9deb9dbb9af0d4614deeb9bb2a1ac854cd"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 10).bin" size="34971888" crc="0609e070" md5="1b05b524c8936a6384fd88b8142257c6" sha1="e6ef1856557c40a6e861a4bc01e9917e9688ec91"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 11).bin" size="32711616" crc="da62813f" md5="bede1032478e16022adea0cf4402118e" sha1="a71ed2d1cc0fbcc4d0ea9c334cd23263bc2a0b8a"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 12).bin" size="34104000" crc="35575fa5" md5="588e4714a4c829a36323539428c7749b" sha1="02f57c961b4cdf1425fe0b6b1e0a64a18a6f6cd4"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 13).bin" size="32596368" crc="3aa74d58" md5="ee9faa1299bbfcb944c72718355c2367" sha1="2ab430a1c15b29e5e99e9fc68518c2937ac74568"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 14).bin" size="32906832" crc="b73316f2" md5="20adc1896e35a951df1a86b5e24f5ee1" sha1="31bb9e73d7c691b2180a0b5395320410edae5143"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 15).bin" size="33810000" crc="c93eca1e" md5="b5af78b52646eab81b189ddf9a29d9e9" sha1="cab13a64b0256b3ab0ab47f0f037e7f9758254cb"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 16).bin" size="34087536" crc="bbd5d8ed" md5="02d249c6335598b3109cda9d53072ce4" sha1="fed7a51933517df7bb5d669df7036baf36f909f3"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 17).bin" size="33120864" crc="28250697" md5="0576d8e01492ee704f0e51f1cc4a5c65" sha1="87b5ed42e2940cd7e1ad1d8101056346d9f6a717"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 18).bin" size="34677888" crc="47e2d4c1" md5="6347eb9a89d2d72f2e5def4cb236aa30" sha1="7efe2efd8a38df8ef0b981985d121d345b550322"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De) (Track 19).bin" size="31326288" crc="03503e4d" md5="b441b53cff2c62732ff865faf64b11b2" sha1="39853c6ddead53acb9a98c1a222de109af9b011c"/>
-		<rom name="Grand Touring (Europe) (En,Fr,De).cue" size="2046" crc="73b6e9c0" md5="1107ac3985139514f952bc3987c067d7" sha1="0a0093710f92d9680763fdaedd6ae7f5b1a4d15a"/>
+		<description>Grand Touring (Europe) (En,Fr,De,Es,It)</description>
+		<serial>EI-1177 ENGLISH</serial>
+		<version>1.0</version>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="107295888" crc="a1e1a578" md5="bd40462671a89c981466617f1c0bd76e" sha1="d70ab2bbe96643721bdab892f12438cefb7cf64c"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="4885104" crc="2c2440c5" md5="b0ea948849bb2ef433ab0aa02f193745" sha1="05753a3081d57e3d0773d8933ece63286149a85c"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="20805792" crc="fb66924f" md5="d14643f84c520fd7a2a43a01d9f55f88" sha1="e026f592266c6e7c691ac24fd27728b40b5029dc"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 04).bin" size="32502288" crc="7999fb83" md5="29601180378f25d7d536b82dd17fdcdb" sha1="9cde60d28d7045384d7d85655cfead48ead5ef5c"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 05).bin" size="32895072" crc="868e01c6" md5="40391c732b19f1e45378431cbf6082ae" sha1="88fc468e4806bfb1e650d287674b603a03b75c11"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 06).bin" size="34960128" crc="aa64d769" md5="7bdb794de97d3d47750561ee17947ab9" sha1="992499a51ebf07711a8983faa6bc83ac3b4b905f"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 07).bin" size="34306272" crc="64777478" md5="4283ff5ed12ebead1f1d9eb8ccb22af0" sha1="2785d6b1885966cf372ca202d5858c9102f88002"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 08).bin" size="32208288" crc="b4cf61d0" md5="c2aa62c690f9736a051435f66ed7c425" sha1="cf5cdbce93d6ff9b1fbb703a3304994f9787ef07"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 09).bin" size="37091040" crc="e6a3ef0e" md5="eaaaa8ed262f5b38f0e7ad3e280bc7aa" sha1="244928e55bf7ee2204e3921efbce78c8d169c8a5"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 10).bin" size="34748448" crc="c4a44d83" md5="83504efb73684411262a48c69d5d8582" sha1="52da5607cb492ffd6089ccc08fa049ed356da324"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 11).bin" size="32535216" crc="623a462b" md5="120096fd73e1153539cb9f9792cc0384" sha1="6a7a646aec2d8645bc96d7fbc4f50645c142b578"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 12).bin" size="33944064" crc="ac6841e2" md5="ecaecc3aa4f2aa3442e4fd3f5309b99c" sha1="968edd432ad585db4fec9197e5f0b253d2ac5e5c"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 13).bin" size="32419968" crc="991e4966" md5="f28b6d15ee04b5e225ef5a9a2e3290cd" sha1="4a3232c1dc7819e41285a089cd1c06826d4b4973"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 14).bin" size="32749248" crc="d4f5db52" md5="602234a0dd0dbab27726b6a69a6059a7" sha1="5b75c7d60bff58dc2c6f415117e6a82af8b5d12d"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 15).bin" size="33666528" crc="b23343eb" md5="735f54648261e4b7028832f1342f67e3" sha1="5e311d8c91c48514304513826644f28dede1933f"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 16).bin" size="33682992" crc="0747f2dc" md5="a2944aff61576c5219d371fb54327beb" sha1="8ade346bedd9a0af35e709bde744f81c7158a5c9"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 17).bin" size="32732784" crc="5faf8856" md5="dc3a97dfaa5c40abca982e1d39d812d4" sha1="87fdca1fa56aac799ee5bd59c8d709326d6b5cf6"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 18).bin" size="34534416" crc="deda0786" md5="f102a7dce09845446c0c9a3aa760968f" sha1="15647ef8e56c2cd17889d8aecaa5dc8a5b09a6b9"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It) (Track 19).bin" size="31189872" crc="7bfb140c" md5="76d42fd1ae80f6ceab7678a880b780d6" sha1="eb19f085906a08dc8bf311dd603404a39383cf45"/>
+		<rom name="Grand Touring (Europe) (En,Fr,De,Es,It).cue" size="2528" crc="fe5a0473" md5="7f060c6050c9171f310ed120eccf12b7" sha1="d0d7860b35b255fe2ea903abb1018fb99368d30c"/>
 	</game>
 	<game name="Grande Armee at Austerlitz, La (USA) (En,Fr)" id="131484">
 		<category>Games</category>
@@ -101401,10 +101407,10 @@
 		<rom name="Links 386 CD (USA).bin" size="565728912" crc="f7fb6431" md5="072eb67ecf22b0cb6ae303a2f9eef2a3" sha1="2a125ac81b069e728b0a8e60c4cfe3d694399d07"/>
 		<rom name="Links 386 CD (USA).cue" size="107" crc="f5eb266f" md5="693c5cfbc438565acd37bb98f879d244" sha1="e0f0619bedc91a2e2c4797c7bcacd9c5a265d545"/>
 	</game>
-	<game name="Links 5-Course Library - Volume 1 (USA)" id="115517">
+	<game name="Links 5-Course Library - Volume 1 (USA)" id="140152">
 		<category>Add-Ons</category>
 		<description>Links 5-Course Library: Volume 1 (USA)</description>
-		<rom name="Links 5-Course Library - Volume 1 (USA).bin" size="270948048" crc="1b022d2b" md5="8940c52ca3f3f29e8c4a3d65bf8c9c52" sha1="8628997e394381bcd122b7e2578d5b78b08000f8"/>
+		<rom name="Links 5-Course Library - Volume 1 (USA).bin" size="400279824" crc="71bb7321" md5="2e30f848992a30295fb7aee0150b1d68" sha1="7b46b66814b6b0f5b59dc59168f080d71b7aa9cf"/>
 		<rom name="Links 5-Course Library - Volume 1 (USA).cue" size="128" crc="39b99bc4" md5="6346ea139c3b48d27786a760aae46bc8" sha1="107be5068ba803a4c900e753f95f7a795b78f8de"/>
 	</game>
 	<game name="Links 5-Course Library - Volume 2 (USA) (Rev 1)" id="115518">
@@ -165823,6 +165829,12 @@
 		<version>2.0</version>
 		<rom name="Sims 2, The - University Life Collection (USA) (En,Es).iso" size="2953314304" crc="bb89f8ea" md5="0b2b5ed59d310984d29e6c54c75d941d" sha1="8b2d62620101c3edc0681ed293cddefdec01de9d"/>
 	</game>
+	<game name="Sims 3, Les - Cinema Kit (France)" id="140132">
+		<category>Add-Ons</category>
+		<description>Sims 3, Les: Cinema Kit (France)</description>
+		<serial>100251901601</serial>
+		<rom name="Sims 3, Les - Cinema Kit (France).iso" size="3157458944" crc="f1a17f45" md5="0aad9026ce416a779eeee749b2b711fb" sha1="e0f272e261726c723afae65ce321e22ab6a7fd46"/>
+	</game>
 	<game name="Sims 3, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037)" id="62948">
 		<category>Games</category>
 		<description>Sims 3, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037)</description>
@@ -165830,12 +165842,10 @@
 		<version>1.42.130.019037</version>
 		<rom name="Sims 3, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037).iso" size="7443742720" crc="35db64d7" md5="0c7d9d4df65074d19f9044cb1f016edb" sha1="9de7a0805c9b85b474740d5dd36c6686e0a66909"/>
 	</game>
-	<game name="Sims 3, The - 70s, 80s, &amp; 90s Stuff (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)" id="99080">
+	<game name="Sims 3, The - 70s, 80s, &amp; 90s Stuff (USA)" id="140133">
 		<category>Add-Ons</category>
-		<description>Sims 3, The: 70s, 80s, &amp; 90s Stuff (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)</description>
-		<serial>100043603401</serial>
-		<version>17.0.77.020001</version>
-		<rom name="Sims 3, The - 70s, 80s, &amp; 90s Stuff (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu).iso" size="3303702528" crc="c697cc8f" md5="aecc844bab4fd7dcbdf60526e2a2d696" sha1="6d81c2dcb417573bd2955b2d8a2449a99128ea22"/>
+		<description>Sims 3, The: 70s, 80s, &amp; 90s Stuff (USA)</description>
+		<rom name="Sims 3, The - 70s, 80s, &amp; 90s Stuff (USA).iso" size="3303702528" crc="58d30f8a" md5="19753f677e3f59e894ab0ed4a3931f4b" sha1="f4583c4fde4ae5fb1fd127e6434f0b6a4cc8f5a0"/>
 	</game>
 	<game name="Sims 3, The - Ambitions (Expansion Pack) (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)" id="27874">
 		<category>Add-Ons</category>
@@ -166174,6 +166184,12 @@
 		<rom name="Sims, Die (Germany).bin" size="570585792" crc="d281f4b0" md5="8f3e32cdbba87bb96940302c63d3da5c" sha1="14303ade98c2f6c8fd60e821d474ef0928d52301"/>
 		<rom name="Sims, Die (Germany).cue" size="85" crc="40f659b8" md5="fe390400c7d9b540fa50763a659ce9d9" sha1="cf46c0b0564998628bb0696667b39e8806e4a6d0"/>
 	</game>
+	<game name="Sims, Les - Histoires de Naufrages (France)" id="140134">
+		<category>Games</category>
+		<description>Sims, Les: Histoires de Naufragés (France)</description>
+		<serial>MXX07705586D</serial>
+		<rom name="Sims, Les - Histoires de Naufrages (France).iso" size="2405498880" crc="b6d3234b" md5="9e6d11dbd064a73049fa578754fae135" sha1="5111b60a2b3915d15569d385206f069d4c5e33ab"/>
+	</game>
 	<game name="Sims, Los - Superstar (Disco de Expansion) (Argentina) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl) (Disc 1)" id="115800">
 		<category>Add-Ons</category>
 		<description>Sims, Los: Superstar (Disco de Expansión) (Argentina) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl) (Disc 1)</description>
@@ -166326,7 +166342,7 @@
 		<category>Add-Ons</category>
 		<description>Sims, The: On Holiday (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl)</description>
 		<serial>MXX08803801D</serial>
-		<version>1.5 Prototype</version>
+		<version>1.5</version>
 		<rom name="Sims, The - On Holiday (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl).bin" size="788886672" crc="b7581a68" md5="431e4742b230e7a743f1818d5c2412bc" sha1="f3060d2b66c505864c942e6b424cc0f9cdf71a6a"/>
 		<rom name="Sims, The - On Holiday (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Pl).cue" size="143" crc="4dd5f415" md5="568a6f90be6111c1bfa890fa64323a43" sha1="15faad0235a561748dfb8cbe1fcb4834314a7f03"/>
 	</game>
@@ -177939,6 +177955,11 @@
 		<rom name="SuperCross Kings (Poland) (En,Fr,De,Es,It,Nl).bin" size="34127520" crc="df234aaf" md5="37e4ea52748ab4af52b6ca1a94e58407" sha1="323ca4a53c984a7549d8d345f794a450373c2d5b"/>
 		<rom name="SuperCross Kings (Poland) (En,Fr,De,Es,It,Nl).cue" size="111" crc="f304fa13" md5="ed023b351d70ec8041f2f5271c82120c" sha1="a955374ae3a79e8787d5f45f209c55c93427601c"/>
 	</game>
+	<game name="SuperHot (USA)" id="140139">
+		<category>Games</category>
+		<description>SuperHot (USA)</description>
+		<rom name="SuperHot (USA).iso" size="737148928" crc="2115e125" md5="e437ccc5db1f2338eb248cd5efe4421d" sha1="1d8bd434263b0071ef7e40a0bbcb35815dd3c95a"/>
+	</game>
 	<game name="SuperKarts (USA)" id="68335">
 		<category>Games</category>
 		<description>SuperKarts (USA)</description>
@@ -178115,12 +178136,6 @@
 		<version>1.1</version>
 		<rom name="Superhero League of Hoboken (USA).bin" size="220300080" crc="732d0ff1" md5="2251eed58297237ba4e8ff148d775d33" sha1="a16c6e2f9bd4e04068a43b3ec4fb5ba2e8cf8a59"/>
 		<rom name="Superhero League of Hoboken (USA).cue" size="122" crc="62c67c5e" md5="c21f7013730f4751df23a3c4f7af8331" sha1="14482c07190649f598046cff520a7b2b8ee4fb19"/>
-	</game>
-	<game name="Superhot (Poland)" id="140008">
-		<category>Games</category>
-		<description>Superhot (Poland)</description>
-		<serial>51566_C1</serial>
-		<rom name="Superhot (Poland).iso" size="730529792" crc="1a4fc363" md5="378b84100ba3ffd4867fe1912ca4a152" sha1="808268c6c5d3f72cadf06bc30a8213d252fcdc6f"/>
 	</game>
 	<game name="Supermarket Mania (USA)" id="125442">
 		<category>Games</category>
@@ -179414,12 +179429,11 @@
 		<rom name="TV Star (Europe).bin" size="519961344" crc="5b5aec3e" md5="47071e1cc48d0cc9cccb1a1e6fb42116" sha1="6c364acd305f586e894042b0e8e1910707484bad"/>
 		<rom name="TV Star (Europe).cue" size="82" crc="8fb3cdcf" md5="97fe5d6561b47e28dba33be230e22d1f" sha1="f388e3ab2b34dfef4e155cae39c76b07012e89ca"/>
 	</game>
-	<game name="TV Tycoon (Europe)" id="98981">
+	<game name="TV Tycoon (USA)" id="140143">
 		<category>Games</category>
-		<description>TV Tycoon (Europe)</description>
-		<version>1.0</version>
-		<rom name="TV Tycoon (Europe).bin" size="129581088" crc="7833bf95" md5="9d45fbfe14473c92703c58e76a39d304" sha1="430d2c6db0bf50cb11916d9d86d775f40c2dd473"/>
-		<rom name="TV Tycoon (Europe).cue" size="84" crc="f46f5b64" md5="bf7e941bef5527c154c5c43c2d277d05" sha1="dba0eb9965c7a9df3b4496c929be1e70966551f3"/>
+		<description>TV Tycoon (USA)</description>
+		<rom name="TV Tycoon (USA).bin" size="129581088" crc="0961a938" md5="94af673296077478cb20b4fecb204205" sha1="d81100bbeb85db900e7baa7c7a8282855647ffa8"/>
+		<rom name="TV Tycoon (USA).cue" size="81" crc="ecc5edcc" md5="6a9e13a27f93ebb1769dc2b1492345a2" sha1="b984d4afb138a1f0fd592fb928bcd466defe46e4"/>
 	</game>
 	<game name="TV total prasentiert Wok WM (Germany)" id="100383">
 		<category>Games</category>
@@ -180656,6 +180670,12 @@
 		<description>Tävlingar på Rosemond Hill (Sweden)</description>
 		<rom name="Tavlingar pa Rosemond Hill (Sweden).bin" size="158475408" crc="0208671e" md5="37e028e783eda6f103a31e5d6382b017" sha1="74a1dd0d3f2c27cb0a6c6e7cf342bf29be288c89"/>
 		<rom name="Tavlingar pa Rosemond Hill (Sweden).cue" size="101" crc="3bf77e5c" md5="c90f0f4b7d80a95f2ea32d43c4a8c7da" sha1="1ab187c6e3f464d4ae4976c12293e4ca6680ec01"/>
+	</game>
+	<game name="Taxi 3 (France)" id="140140">
+		<category>Games</category>
+		<description>Taxi 3 (France)</description>
+		<rom name="Taxi 3 (France).bin" size="788886672" crc="e4cd85b0" md5="0d9d13500d20883fd3c555810bcf68e7" sha1="fa590d7d514ba4501f226afd08be14aac7321cc3"/>
+		<rom name="Taxi 3 (France).cue" size="81" crc="c5d35860" md5="51de0bfab9767e73b7447832b575c2de" sha1="a4ee1287aa709fc3dd89faad0676fc056cdd259c"/>
 	</game>
 	<game name="Taxi 3 - Extreme Rush (Italy) (Rerelease)" id="65507">
 		<category>Games</category>
@@ -199586,19 +199606,19 @@
 	<game name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1)" id="48433">
 		<category>Games</category>
 		<description>Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1)</description>
-		<serial>300062334, 300062344, 688051-DVD1</serial>
+		<serial>300062334, 300062344, 688051-DVD1, 688051-CVRT</serial>
 		<rom name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 1).iso" size="7936540672" crc="0a5654e9" md5="43a374e46c3bf5815c18959a73ad43a5" sha1="19519e5456c736036cfe2a34c1c4323b7407e5e2"/>
 	</game>
 	<game name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2)" id="48434">
 		<category>Games</category>
 		<description>Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2)</description>
-		<serial>300062335, 300062345, 688051-DVD2</serial>
+		<serial>300062335, 300062345, 688051-DVD2, 688051-CVRT</serial>
 		<rom name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 2).iso" size="7898988544" crc="72e0a0df" md5="b499206f881d1279fcc9125724e23482" sha1="72667c89fcd7abbcd8a543b6b2d76f98c17c4ad4"/>
 	</game>
 	<game name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3)" id="48435">
 		<category>Games</category>
 		<description>Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3)</description>
-		<serial>300062336, 300062346, 688051-DVD3</serial>
+		<serial>300062336, 300062346, 688051-DVD3, 688051-CVRT</serial>
 		<rom name="Watch Dogs (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (Disc 3).iso" size="7863402496" crc="0f4250de" md5="38348e16804be8b3cdd06435d48ce13c" sha1="94420d12d091d7580f72a5f0ecc2899f654d4e62"/>
 	</game>
 	<game name="Watch Dogs 2 (Poland) (Disc 1)" id="140032">
@@ -200280,11 +200300,11 @@
 		<rom name="Wheel of Time, The (USA) (Disc 2).bin" size="768817056" crc="ad0cac4a" md5="05d5a4756b01add824eb4d9a44f2b97e" sha1="c3b8383272e2be34720062a05a512c65ed1f4d5e"/>
 		<rom name="Wheel of Time, The (USA) (Disc 2).cue" size="99" crc="93e398fe" md5="cba7c90e5a90920275bf2cbff0f122d4" sha1="12de1458d6b5a5029262291ce0c141e6e6d4d811"/>
 	</game>
-	<game name="Wheelman (USA) (En,Fr,De,Es,It)" id="89518">
+	<game name="Wheelman (USA, Canada) (En,Fr,De,Es,It)" id="89518">
 		<category>Games</category>
-		<description>Wheelman (USA) (En,Fr,De,Es,It)</description>
-		<serial>685333-DVD</serial>
-		<rom name="Wheelman (USA) (En,Fr,De,Es,It).iso" size="7909048320" crc="6e47a779" md5="7a4fb48834883de48d1a4a39f5296058" sha1="14a7381d5ec2dec7d36d54e6be0bd9e5f777e2fa"/>
+		<description>Wheelman (USA, Canada) (En,Fr,De,Es,It)</description>
+		<serial>685333-DVD, 685333-CVRF</serial>
+		<rom name="Wheelman (USA, Canada) (En,Fr,De,Es,It).iso" size="7909048320" crc="6e47a779" md5="7a4fb48834883de48d1a4a39f5296058" sha1="14a7381d5ec2dec7d36d54e6be0bd9e5f777e2fa"/>
 	</game>
 	<game name="When Bugs Attack &amp; Sea Bubble Burst (USA) (En,Fr,De,Es)" id="105870">
 		<category>Games</category>

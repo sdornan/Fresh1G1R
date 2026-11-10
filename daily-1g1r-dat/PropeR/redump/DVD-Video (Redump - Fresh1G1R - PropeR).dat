@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (1,036) (-y) [-aAbBcdkmMpPuv] (2026-11-09 08-57-42) (Retool)</description>
-		<version>2026-11-09 08-57-42</version>
-		<date>2026-11-09 09-41-02</date>
+		<description>DVD-Video (1,037) (-y) [-aAbBcdkmMpPuv] (2026-11-09 17-03-17) (Retool)</description>
+		<version>2026-11-09 17-03-17</version>
+		<date>2026-11-10 09-48-35</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3274,6 +3274,12 @@
 		<description>Naruto: Narutimate Animation (Japan) (PS2 Game Bundle)</description>
 		<serial>TGBS 2065</serial>
 		<rom name="Naruto - Narutimate Animation (Japan) (PS2 Game Bundle).iso" size="1685716992" crc="b44baed5" md5="3be75a6dabf50379f0ed36564d0874e4" sha1="249ee755de70e656e0220d173a3a5e5a83983c5f"/>
+	</game>
+	<game name="National Geographic Channel - Totally Wild - Bonus Interactive DVD (Canada) (PC Game Bundle)" id="140145">
+		<category>Bonus Discs</category>
+		<description>National Geographic Channel: Totally Wild: Bonus Interactive DVD (Canada) (PC Game Bundle)</description>
+		<serial>X10-83424</serial>
+		<rom name="National Geographic Channel - Totally Wild - Bonus Interactive DVD (Canada) (PC Game Bundle).iso" size="3729250304" crc="c2cde593" md5="a132f63e54435a2669afbd718a0f0478" sha1="df404db34c9ceda781a7b27d3f871796018ba8dc"/>
 	</game>
 	<game name="Nedetskie igry - 2+3= (Russia)" id="109009">
 		<category>Games</category>

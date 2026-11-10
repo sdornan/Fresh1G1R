@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,689) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-09 09-07-42) (Retool)</description>
-		<version>2026-11-09 09-07-42</version>
-		<date>2026-11-09 09-36-40</date>
+		<description>Sony - PlayStation 4 (1,691) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-09 15-53-41) (Retool)</description>
+		<version>2026-11-09 15-53-41</version>
+		<date>2026-11-10 09-42-03</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -6428,6 +6428,13 @@
 		<version>01.00</version>
 		<rom name="Lost Judgment (Europe) (En,Fr,De,Es,It).iso" size="46235123712" crc="b47215d6" md5="088a7a721d83143b23dfa70f455a9112" sha1="7f6d5b4958a261b585acf46eef2bb8b57ebd6ae7"/>
 	</game>
+	<game name="Lost Sea (USA) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru)" id="140135">
+		<category>Games</category>
+		<description>Lost Sea (USA) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru)</description>
+		<serial>CUSA-00589</serial>
+		<version>01.00</version>
+		<rom name="Lost Sea (USA) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru).iso" size="25024331776" crc="ab75d7cb" md5="96f63c85153a4a8ca5f8c1adb9e3cef1" sha1="3780f7b1043d38e9443e61441cc1347fe740ca06"/>
+	</game>
 	<game name="Lumines Remastered (USA) (En,Ja,Fr,De,Es,It)" id="63097">
 		<category>Games</category>
 		<description>Lumines Remastered (USA) (En,Ja,Fr,De,Es,It)</description>
@@ -11648,6 +11655,13 @@
 		<serial>CUSA-28397</serial>
 		<version>01.02</version>
 		<rom name="Xuan Yuan 7 (Europe).iso" size="19038601216" crc="7dc0cb2e" md5="dd1286cb0bd9290460fd1a1947e239c0" sha1="345930720a6b0e1eabee004d91384f1677e0b907"/>
+	</game>
+	<game name="Yaga (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Ar,Tr,Ro)" id="140136">
+		<category>Games</category>
+		<description>Yaga (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Ar,Tr,Ro)</description>
+		<serial>CUSA-16455</serial>
+		<version>02.00</version>
+		<rom name="Yaga (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Ar,Tr,Ro).iso" size="3740073984" crc="2dad3df9" md5="bea051531d7f631b0062964884f84b28" sha1="e23da0cc9c3df56b9c32ca25a05ee40adf66a573"/>
 	</game>
 	<game name="Yakuza - Like a Dragon (USA) (En,Fr,De,Es,It)" id="77091">
 		<category>Games</category>
