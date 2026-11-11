@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62186) (2026-11-10 09-23-17)</description>
-		<version>2026-11-10 09-23-17</version>
-		<date>2026-11-10 09-23-17</date>
+		<description>IBM - PC compatible - Datfile (62203) (2026-11-11 08-52-38)</description>
+		<version>2026-11-11 08-52-38</version>
+		<date>2026-11-11 08-52-38</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -35366,6 +35366,36 @@
 		<description>Batman: Arkham City: Game of the Year Edition (UK) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3)</description>
 		<rom name="Batman - Arkham City - Game of the Year Edition (UK) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3).iso" size="5105123328" crc="765b5ead" md5="d3493bcbcd832cfa17d014084f4e87be" sha1="bdfaa4435c6951f2157d6e366a451f45bd334d89"/>
 	</game>
+	<game name="Batman - Arkham Knight (Poland) (Disc 1)" id="140167">
+		<category>Games</category>
+		<serial>2000110054, 7000065883</serial>
+		<description>Batman: Arkham Knight (Poland) (Disc 1)</description>
+		<rom name="Batman - Arkham Knight (Poland) (Disc 1).iso" size="6572001280" crc="b95a663e" md5="c3123b2d72a90c8c9fab2dfb0281f431" sha1="ddbf81ffe9f7c8f1bad131fe5534f4b6726dd8d0"/>
+	</game>
+	<game name="Batman - Arkham Knight (Poland) (Disc 2)" id="140168">
+		<category>Games</category>
+		<serial>2000110055, 7000065884</serial>
+		<description>Batman: Arkham Knight (Poland) (Disc 2)</description>
+		<rom name="Batman - Arkham Knight (Poland) (Disc 2).iso" size="6443325440" crc="5d30d6c8" md5="69b54802678f2e2c0d88ccd799fad079" sha1="dbf659acd8b121521ae7a249acaee6b56ccd6026"/>
+	</game>
+	<game name="Batman - Arkham Knight (Poland) (Disc 3)" id="140169">
+		<category>Games</category>
+		<serial>2000110056, 7000065885</serial>
+		<description>Batman: Arkham Knight (Poland) (Disc 3)</description>
+		<rom name="Batman - Arkham Knight (Poland) (Disc 3).iso" size="6444029952" crc="1b153fc2" md5="dbcf4107b21904abc7821a6763360e6a" sha1="a11f67a2edc6ec430f34534b1f930a03c0f345df"/>
+	</game>
+	<game name="Batman - Arkham Knight (Poland) (Disc 4)" id="140170">
+		<category>Games</category>
+		<serial>2000111884, 7000066845</serial>
+		<description>Batman: Arkham Knight (Poland) (Disc 4)</description>
+		<rom name="Batman - Arkham Knight (Poland) (Disc 4).iso" size="6444056576" crc="cd512188" md5="0d5bba23cd2283c98b9da5df5a6a85fd" sha1="a741465db47530cfacd880905ff23e37a89f06ff"/>
+	</game>
+	<game name="Batman - Arkham Knight (Poland) (Disc 5)" id="140171">
+		<category>Games</category>
+		<serial>2000111876, 7000066850</serial>
+		<description>Batman: Arkham Knight (Poland) (Disc 5)</description>
+		<rom name="Batman - Arkham Knight (Poland) (Disc 5).iso" size="4083595264" crc="5351a1e7" md5="8b0d458ff0c58c50ecba61b9cbf13461" sha1="c627a0f96dc13b24d1a0ca50b45e6fa6d76b03ef"/>
+	</game>
 	<game name="Batman - Arkham Origins (Europe, Australia) (En,Fr,De,Es,It,Pt,Ko,Pl,Ru) (Disc 1)" id="71490">
 		<category>Games</category>
 		<serial>2000092588, 7000058834</serial>
@@ -56921,6 +56951,15 @@
 		<description>C64 Forever: Plus Edition 8 (Europe)</description>
 		<rom name="C64 Forever - Plus Edition 8 (Europe).cue" size="118" crc="21d45563" md5="82874dc7013126b3503094df14062779" sha1="e6ca4b0517843aa1113aa949a8efa81186f8d090"/>
 		<rom name="C64 Forever - Plus Edition 8 (Europe).bin" size="406427952" crc="1fc4d023" md5="e9892d4fd5c362be22f93c4fa5798d48" sha1="c72c0bbd670873cdfb272bd667a8838606220421"/>
+	</game>
+	<game name="Cabela's 4x4 Off-Road Adventure (USA)" id="140159">
+		<category>Games</category>
+		<serial>30119.101.US</serial>
+		<version>01/26/2001</version>
+		<description>Cabela's 4x4 Off-Road Adventure (USA)</description>
+		<rom name="Cabela's 4x4 Off-Road Adventure (USA).cue" size="244" crc="25b54f7f" md5="ecfa7a87008d09638953d45c11818242" sha1="1afd143e301384d81509671428da0e3c94a00479"/>
+		<rom name="Cabela's 4x4 Off-Road Adventure (USA) (Track 1).bin" size="677780544" crc="5084e6c4" md5="394d7b12df6b21c470e56760b58fca82" sha1="aaa08fba68dee35bdfa7168f4308397050fd272c"/>
+		<rom name="Cabela's 4x4 Off-Road Adventure (USA) (Track 2).bin" size="123832800" crc="3de87827" md5="f4693696f1a3e218829744f0f2f703e1" sha1="45d60848be36e11c2231d0dfd20d041c65b0328e"/>
 	</game>
 	<game name="Cabela's 4x4 Off-Road Adventure (USA) (Rerelease)" id="45330">
 		<category>Games</category>
@@ -106611,15 +106650,21 @@
 	</game>
 	<game name="Deus Ex - Mankind Divided (Europe) (En,Fr,De,Pl) (Disc 2)" id="118463">
 		<category>Games</category>
-		<serial>MDXMDVMB02</serial>
+		<serial>MDXMDVMB02, 500035114LB2</serial>
 		<description>Deus Ex: Mankind Divided (Europe) (En,Fr,De,Pl) (Disc 2)</description>
 		<rom name="Deus Ex - Mankind Divided (Europe) (En,Fr,De,Pl) (Disc 2).iso" size="8388431872" crc="27bcec50" md5="e553f1dd850301164ec7e658bf390cab" sha1="6cf6fb762aae30e3bd1a7fc1a32509dca5f7ef74"/>
 	</game>
 	<game name="Deus Ex - Mankind Divided (Europe) (En,Fr,De,Pl) (Disc 3)" id="118464">
 		<category>Games</category>
-		<serial>MDXMDVMB03</serial>
+		<serial>MDXMDVMB03, 500035114LB3</serial>
 		<description>Deus Ex: Mankind Divided (Europe) (En,Fr,De,Pl) (Disc 3)</description>
 		<rom name="Deus Ex - Mankind Divided (Europe) (En,Fr,De,Pl) (Disc 3).iso" size="6486306816" crc="dae42147" md5="0dc8a403ae76cb491d7ce989c1b1a4c4" sha1="90c9bc55a60c8caa34f45cfabc9b37b98e8f55f3"/>
+	</game>
+	<game name="Deus Ex - Mankind Divided (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)" id="140157">
+		<category>Games</category>
+		<serial>500035114LB1</serial>
+		<description>Deus Ex: Mankind Divided (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)</description>
+		<rom name="Deus Ex - Mankind Divided (Poland) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1).iso" size="8406171648" crc="a28ebda1" md5="478a79407a8e4bdd64aa2de7c3d42ed0" sha1="0237ad974d47a679901374295075062c2a372ac3"/>
 	</game>
 	<game name="Deus Ex - Mankind Divided (Russia) (Disc 1)" id="89138">
 		<category>Games</category>
@@ -106936,29 +106981,29 @@
 		<description>Devil May Cry 4 (USA) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Devil May Cry 4 (USA) (En,Ja,Fr,De,Es,It).iso" size="7953776640" crc="b0c0817d" md5="5afb9fdca609747b08b90be680c6b001" sha1="71cb4429f94b56297e094619f916913c37b39605"/>
 	</game>
-	<game name="Devil May Cry 5 (Europe, Asia) (Disc 1)" id="121175">
+	<game name="Devil May Cry 5 (Europe, Korea) (Disc 1)" id="121175">
 		<category>Games</category>
 		<serial>DV1-97218-00EUR</serial>
-		<description>Devil May Cry 5 (Europe, Asia) (Disc 1)</description>
-		<rom name="Devil May Cry 5 (Europe, Asia) (Disc 1).iso" size="8401780736" crc="bf80ab95" md5="dab413d4e1525f560b9429749a2a4e91" sha1="58fb79ceb3144515992261d1e93dc2ebc3c6683f"/>
+		<description>Devil May Cry 5 (Europe, Korea) (Disc 1)</description>
+		<rom name="Devil May Cry 5 (Europe, Korea) (Disc 1).iso" size="8401780736" crc="bf80ab95" md5="dab413d4e1525f560b9429749a2a4e91" sha1="58fb79ceb3144515992261d1e93dc2ebc3c6683f"/>
 	</game>
-	<game name="Devil May Cry 5 (Europe, Asia) (Disc 2)" id="121176">
+	<game name="Devil May Cry 5 (Europe, Korea) (Disc 2)" id="121176">
 		<category>Games</category>
 		<serial>DV2-97218-00EUR</serial>
-		<description>Devil May Cry 5 (Europe, Asia) (Disc 2)</description>
-		<rom name="Devil May Cry 5 (Europe, Asia) (Disc 2).iso" size="8388345856" crc="21f9cb69" md5="f03dfa984ca0d25a34628460b245237d" sha1="2d9fc58c84f76370de54ecd43a633691051c7944"/>
+		<description>Devil May Cry 5 (Europe, Korea) (Disc 2)</description>
+		<rom name="Devil May Cry 5 (Europe, Korea) (Disc 2).iso" size="8388345856" crc="21f9cb69" md5="f03dfa984ca0d25a34628460b245237d" sha1="2d9fc58c84f76370de54ecd43a633691051c7944"/>
 	</game>
-	<game name="Devil May Cry 5 (Europe, Asia) (Disc 3)" id="121177">
+	<game name="Devil May Cry 5 (Europe, Korea) (Disc 3)" id="121177">
 		<category>Games</category>
 		<serial>DV3-97218-00EUR</serial>
-		<description>Devil May Cry 5 (Europe, Asia) (Disc 3)</description>
-		<rom name="Devil May Cry 5 (Europe, Asia) (Disc 3).iso" size="8388870144" crc="ce04d775" md5="97592daa3606172c433bbeb8979680d9" sha1="bad1cfc8bd6dd9c3ed350f84d48ca96ca7cc19d8"/>
+		<description>Devil May Cry 5 (Europe, Korea) (Disc 3)</description>
+		<rom name="Devil May Cry 5 (Europe, Korea) (Disc 3).iso" size="8388870144" crc="ce04d775" md5="97592daa3606172c433bbeb8979680d9" sha1="bad1cfc8bd6dd9c3ed350f84d48ca96ca7cc19d8"/>
 	</game>
-	<game name="Devil May Cry 5 (Europe, Asia) (Disc 4)" id="121178">
+	<game name="Devil May Cry 5 (Europe, Korea) (Disc 4)" id="121178">
 		<category>Games</category>
 		<serial>DV4-97218-00EUR</serial>
-		<description>Devil May Cry 5 (Europe, Asia) (Disc 4)</description>
-		<rom name="Devil May Cry 5 (Europe, Asia) (Disc 4).iso" size="7409500160" crc="787e3f3a" md5="730b0d7ae6f9a54ada5c5f6215a067f2" sha1="d25c2e913f1513fd84ff074dce6b9b0a70c05a1d"/>
+		<description>Devil May Cry 5 (Europe, Korea) (Disc 4)</description>
+		<rom name="Devil May Cry 5 (Europe, Korea) (Disc 4).iso" size="7409500160" crc="787e3f3a" md5="730b0d7ae6f9a54ada5c5f6215a067f2" sha1="d25c2e913f1513fd84ff074dce6b9b0a70c05a1d"/>
 	</game>
 	<game name="Devil Whiskey (USA) (Rerelease) (2004-06-10)" id="96631">
 		<category>Games</category>
@@ -121954,6 +121999,13 @@
 		<rom name="DreamWorks Shrek - SuperSlam (USA).cue" size="100" crc="c4fb4ed9" md5="6e57daa6a70745fa8de34e43ab43fd03" sha1="88a77d1e1e0d17e18cb2ff24787f29d0b5bc3c94"/>
 		<rom name="DreamWorks Shrek - SuperSlam (USA).bin" size="693195552" crc="fd565220" md5="c395391fa9ce0bcf0312c70096e15c3b" sha1="c6073801031c148fa996db84eed4c7981c684c8c"/>
 	</game>
+	<game name="DreamWorks Shrek den tredje (Sweden) (It,Sv)" id="66608">
+		<category>Games</category>
+		<serial>33115.101.E3</serial>
+		<version>1.0</version>
+		<description>DreamWorks Shrek den tredje (Sweden) (It,Sv)</description>
+		<rom name="DreamWorks Shrek den tredje (Sweden) (It,Sv).iso" size="3425402880" crc="04840b7b" md5="7f9d87652e500a4900ee2d4dbfea46c5" sha1="983e4157beb73cf4b75ee0b0b2e8394af6fc747b"/>
+	</game>
 	<game name="DreamWorks Shrek e Vissero Felici e Contenti (Italy)" id="97903">
 		<category>Games</category>
 		<serial>35793101IT</serial>
@@ -121979,13 +122031,6 @@
 		<description>DreamWorks Shrek Terzo (Italy) (Demo)</description>
 		<rom name="DreamWorks Shrek Terzo (Italy) (Demo).cue" size="103" crc="70f65278" md5="6d1be5b58cc4898b2b5ee2fb0e7f455b" sha1="4da4fa39def1ee024b7ac1d482629f72c847f8fa"/>
 		<rom name="DreamWorks Shrek Terzo (Italy) (Demo).bin" size="518733600" crc="9a0fc670" md5="4a172a23a94cc92b30a758ea991649ce" sha1="3040f0597ecdef8a6ec93eed2411b6516807396c"/>
-	</game>
-	<game name="DreamWorks Shrek the Third (Europe) (It,Sv)" id="66608">
-		<category>Games</category>
-		<serial>33115.101.E3</serial>
-		<version>1.0</version>
-		<description>DreamWorks Shrek the Third (Europe) (It,Sv)</description>
-		<rom name="DreamWorks Shrek the Third (Europe) (It,Sv).iso" size="3425402880" crc="04840b7b" md5="7f9d87652e500a4900ee2d4dbfea46c5" sha1="983e4157beb73cf4b75ee0b0b2e8394af6fc747b"/>
 	</game>
 	<game name="DreamWorks Shrek the Third (Europe, Australia) (En,Fr,De,Es,Nl)" id="88970">
 		<category>Games</category>
@@ -135729,6 +135774,13 @@
 		<version>1.1.1</version>
 		<description>Euro Truck Simulator 2 (Germany)</description>
 		<rom name="Euro Truck Simulator 2 (Germany).iso" size="631308288" crc="0cd0f6f0" md5="b5c653c5cf20d8b098ff3600e7b5ffb6" sha1="dcd44652c77eb6b40697fbbf4a8703f7a785d377"/>
+	</game>
+	<game name="Euro Truck Simulator 2 (Poland)" id="140175">
+		<category>Games</category>
+		<serial>54431_B1</serial>
+		<version>1.5.2</version>
+		<description>Euro Truck Simulator 2 (Poland)</description>
+		<rom name="Euro Truck Simulator 2 (Poland).iso" size="707035136" crc="a31040e8" md5="64730f9fb4f97ce1e09a5d0249826c11" sha1="65843b042544168862bb7a93bd876adabf8de75c"/>
 	</game>
 	<game name="Euro Truck Simulator 2 (Russia)" id="91323">
 		<category>Games</category>
@@ -254379,6 +254431,12 @@
 		<rom name="Maks i piraty (Russia).cue" size="88" crc="c1ae6aa6" md5="c988823cdc9569dab31e2c30db637b19" sha1="8bfb16a448d9deead37d05c5f2cce1193610f698"/>
 		<rom name="Maks i piraty (Russia).bin" size="475708464" crc="0f8e88c9" md5="455c070ef1c7eac91ae16e1355d3cc7d" sha1="83c0f7ae4b5bbed2b39df77b01c1e76d25dab137"/>
 	</game>
+	<game name="Maksimal'noe Uskorenie (Russia)" id="140164">
+		<category>Games</category>
+		<description>Maksimal'noe Uskorenie (Russia)</description>
+		<rom name="Maksimal'noe Uskorenie (Russia).cue" size="97" crc="131a1aec" md5="c42fd9474dd0454b42276840e4089730" sha1="cb753cebcc89a2a5822112da50d0e8ff633ca1a8"/>
+		<rom name="Maksimal'noe Uskorenie (Russia).bin" size="260676864" crc="5ca5c223" md5="698a3f8a5cc01976cb7d4aad6494dab9" sha1="ae63a34c220c9c4c0142bf7a0ca2ce6447bc07ac"/>
+	</game>
 	<game name="Mala Syrenka + Dema Reksia (Poland)" id="62191">
 		<category>Games</category>
 		<description>Mała Syrenka + Dema Reksia (Poland)</description>
@@ -261975,6 +262033,13 @@
 		<description>MechCommander (USA) (Demo)</description>
 		<rom name="MechCommander (USA) (Demo).cue" size="92" crc="bc68bd66" md5="b3131ed23087c909fcbe1db376582e45" sha1="f25326917ab24e7c821455d750b16a8ac1846030"/>
 		<rom name="MechCommander (USA) (Demo).bin" size="286781712" crc="dae19242" md5="ebf5d5d5f6aa274793352860d0c8c54e" sha1="e3e456d895135770789ef6f7694ec31b82e8ad60"/>
+	</game>
+	<game name="MechCommander - Desperate Measures (UK) (Rerelease)" id="140160">
+		<category>Games</category>
+		<serial>57154.102.MCG</serial>
+		<description>MechCommander: Desperate Measures (UK) (Rerelease)</description>
+		<rom name="MechCommander - Desperate Measures (UK) (Rerelease).cue" size="117" crc="e0aa7922" md5="d751ef0d35f496c0f7275a06f4b30413" sha1="02bd213c064b867424fa4bb87328ecd752544e35"/>
+		<rom name="MechCommander - Desperate Measures (UK) (Rerelease).bin" size="759343200" crc="50ed0349" md5="ccac8ac90fa60ff59469829b9e30f857" sha1="ec79f1d67be35b1e496fac815287c73ef0955f4f"/>
 	</game>
 	<game name="MechCommander - Desperate Measures (USA)" id="81763">
 		<category>Games</category>
@@ -271542,6 +271607,13 @@
 		<description>Microsoft Flight Simulator 98 (Europe) (OEM) (Alt)</description>
 		<rom name="Microsoft Flight Simulator 98 (Europe) (OEM) (Alt).cue" size="139" crc="89d68b04" md5="b772f0f8212dbbc0b31fc92ed6ae45ea" sha1="0be3c0e8fdf6f6644051b020f9a2f257805f829f"/>
 		<rom name="Microsoft Flight Simulator 98 (Europe) (OEM) (Alt).bin" size="757287552" crc="fc867ac5" md5="3c6c669640a565a1faf544d6c852d204" sha1="1692e305653f9a5dd917c61f51495a8385900e9e"/>
+	</game>
+	<game name="Microsoft Flight Simulator 98 (Europe) (Rerelease)" id="140158">
+		<category>Games</category>
+		<version>6.10 Build 418</version>
+		<description>Microsoft Flight Simulator 98 (Europe) (Rerelease)</description>
+		<rom name="Microsoft Flight Simulator 98 (Europe) (Rerelease).cue" size="116" crc="6e6c2a60" md5="7295c28105bf002cf39dbe417fb4bb9b" sha1="381493d8befbd95a092665da9fff8c6554eac000"/>
+		<rom name="Microsoft Flight Simulator 98 (Europe) (Rerelease).bin" size="760418064" crc="28fe9fad" md5="74646a41cae471710c620d176cbd9e7f" sha1="629cd305e13f545fecfa9003050fa29885192ff9"/>
 	</game>
 	<game name="Microsoft Flight Simulator 98 (Europe, Canada) (Rerelease) (2002-03-14)" id="124612">
 		<category>Games</category>
@@ -294892,6 +294964,13 @@
 		<description>Nekronomikon (Russia) (Disc 2)</description>
 		<rom name="Nekronomikon (Russia) (Disc 2).cue" size="96" crc="ed4a94a1" md5="7e22d1915d06d593dbbbf1d986d88faf" sha1="8f96464ae636a3f7904ba4fc028ae5e6edc220ce"/>
 		<rom name="Nekronomikon (Russia) (Disc 2).bin" size="773297616" crc="8a448bfd" md5="30a82673bb2beda2e46da8ffee6cf8dc" sha1="1cee359dd1540579aafa0d5bbbe7e3f1885aeb7b"/>
+	</game>
+	<game name="Nelson Piquet - E'volyuciya gran-pri (Russia)" id="140165">
+		<category>Games</category>
+		<version>87.65 Ent</version>
+		<description>Nelson Piquet: E'volyuciya gran-pri (Russia)</description>
+		<rom name="Nelson Piquet - E'volyuciya gran-pri (Russia).cue" size="111" crc="03257933" md5="e633b12b3087fd7a5759f6c07ee5f546" sha1="f7e97bfe6596c2b04843d86f6ce52df4dd0b769a"/>
+		<rom name="Nelson Piquet - E'volyuciya gran-pri (Russia).bin" size="79652832" crc="9af499e9" md5="137952358084bce4f906444dc6d52712" sha1="04fe5542942fd937b71f580c79b2b5efc21936ee"/>
 	</game>
 	<game name="Nemesis - Ein Wizardry Adventure (Germany) (Disc 1)" id="58602">
 		<category>Games</category>
@@ -351229,6 +351308,24 @@
 		<description>Rage (Europe, Australia) (En,Ja,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3) (Anarchy Edition)</description>
 		<rom name="Rage (Europe, Australia) (En,Ja,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3) (Anarchy Edition).iso" size="2614099968" crc="1ee8129b" md5="93e9ac8b1301313eff2faee219371a05" sha1="ba594ed87e63b740c7d252e3a3034f568bd69505"/>
 	</game>
+	<game name="Rage (Poland) (Pl,Ru,Cs) (Disc 1)" id="140172">
+		<category>Games</category>
+		<serial>500011264LB1</serial>
+		<description>Rage (Poland) (Pl,Ru,Cs) (Disc 1)</description>
+		<rom name="Rage (Poland) (Pl,Ru,Cs) (Disc 1).iso" size="8329560064" crc="b838c779" md5="52d7c1af8b2e8545e6f779e473bfb413" sha1="ec89a4eefafa2878517744c79f1f14fdfbd9069c"/>
+	</game>
+	<game name="Rage (Poland) (Pl,Ru,Cs) (Disc 2)" id="140173">
+		<category>Games</category>
+		<serial>500011264LB2</serial>
+		<description>Rage (Poland) (Pl,Ru,Cs) (Disc 2)</description>
+		<rom name="Rage (Poland) (Pl,Ru,Cs) (Disc 2).iso" size="8180793344" crc="6e786845" md5="ec3bd159c8b4394a9881a0c7499abefc" sha1="dcf33c7fbc69989dd810a5a28b5172a9382ded2e"/>
+	</game>
+	<game name="Rage (Poland) (Pl,Ru,Cs) (Disc 3)" id="140174">
+		<category>Games</category>
+		<serial>500011264LB3</serial>
+		<description>Rage (Poland) (Pl,Ru,Cs) (Disc 3)</description>
+		<rom name="Rage (Poland) (Pl,Ru,Cs) (Disc 3).iso" size="3607756800" crc="5ce26ba3" md5="61a616b5456c06069681a50b8d387bb9" sha1="f512eeb7a661823bc965f372d6abda4d9457266a"/>
+	</game>
 	<game name="Rage (Russia) (Disc 1)" id="86586">
 		<category>Games</category>
 		<description>Rage (Russia) (Disc 1)</description>
@@ -354880,14 +354977,6 @@
 		<rom name="Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It) (Rerelease).cue" size="128" crc="3905a363" md5="dd9f3a1456e7c7020b188ff8f24e26b0" sha1="7a40857e817f7d4366d98a73bfacc2894620f24d"/>
 		<rom name="Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It) (Rerelease).bin" size="781621344" crc="85263b7a" md5="80365b03ad7b699aef33dc46df80cb25" sha1="bff0b437f81e75a98e8676ed31c93c53fded8ba2"/>
 	</game>
-	<game name="Rayman 2 - The Great Escape (USA, Brazil, Israel) (En,Fr,De,Es,It) (Rerelease)" id="61652">
-		<category>Games</category>
-		<serial>782674-CD3, SORO 297</serial>
-		<version>1.0</version>
-		<description>Rayman 2: The Great Escape (USA, Brazil, Israel) (En,Fr,De,Es,It) (Rerelease)</description>
-		<rom name="Rayman 2 - The Great Escape (USA, Brazil, Israel) (En,Fr,De,Es,It) (Rerelease).cue" size="167" crc="5402c889" md5="7b4c14d6535076f7568fa0aee5bf15c5" sha1="1cd7568076c88597e0c997e4dd8a5d9a7a83d2bb"/>
-		<rom name="Rayman 2 - The Great Escape (USA, Brazil, Israel) (En,Fr,De,Es,It) (Rerelease).bin" size="762391392" crc="69b6d181" md5="03cc8307d5b797b293e61d6b15f1408e" sha1="12dbf361f7df239abeba73577a5ed0d536f159ca"/>
-	</game>
 	<game name="Rayman 2 - The Great Escape (USA, Europe) (En,Fr,De,Es,It)" id="7447">
 		<category>Games</category>
 		<serial>6036, 65013-CD</serial>
@@ -354895,6 +354984,14 @@
 		<description>Rayman 2: The Great Escape (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Rayman 2 - The Great Escape (USA, Europe) (En,Fr,De,Es,It).cue" size="124" crc="d76f9d4d" md5="e4f90654ed50c91c2dbcced5ac931bbc" sha1="20ac5f96503d033395f2b39da5c48ecffffbc8b7"/>
 		<rom name="Rayman 2 - The Great Escape (USA, Europe) (En,Fr,De,Es,It).bin" size="788891376" crc="8561f541" md5="685bd7cdcb66f0c588113b740e2ee899" sha1="d50d30e40d15447a42480ce6b291582cd601618a"/>
+	</game>
+	<game name="Rayman 2 - The Great Escape (USA, Israel) (En,Fr,De,Es,It) (Rerelease)" id="61652">
+		<category>Games</category>
+		<serial>782674-CD3, SORO 297</serial>
+		<version>1.0</version>
+		<description>Rayman 2: The Great Escape (USA, Israel) (En,Fr,De,Es,It) (Rerelease)</description>
+		<rom name="Rayman 2 - The Great Escape (USA, Israel) (En,Fr,De,Es,It) (Rerelease).cue" size="159" crc="11ec85f0" md5="4cee3188b9219f444d62d703d1b18550" sha1="0c4cb4cc93cb3dfacd242c8bbdd333b0f69bcbc3"/>
+		<rom name="Rayman 2 - The Great Escape (USA, Israel) (En,Fr,De,Es,It) (Rerelease).bin" size="762391392" crc="69b6d181" md5="03cc8307d5b797b293e61d6b15f1408e" sha1="12dbf361f7df239abeba73577a5ed0d536f159ca"/>
 	</game>
 	<game name="Rayman 2 - The Great Escape (World) (En,Fr,De,Es,It)" id="9924">
 		<category>Games</category>
@@ -364548,6 +364645,13 @@
 		<version>3.0.2.2680</version>
 		<description>Rig 'n' Roll (Germany)</description>
 		<rom name="Rig 'n' Roll (Germany).iso" size="3779919872" crc="759e1a68" md5="3929fcc86a0dd9e9d684dda1dea3ee36" sha1="96cdd361d4ec0068b37f888c07d73eedebe27fb2"/>
+	</game>
+	<game name="Rig 'n' Roll (Poland) (En,Pl)" id="140176">
+		<category>Games</category>
+		<serial>802/DVD/2010</serial>
+		<version>3.0.0.0</version>
+		<description>Rig 'n' Roll (Poland) (En,Pl)</description>
+		<rom name="Rig 'n' Roll (Poland) (En,Pl).iso" size="7460454400" crc="eead570d" md5="a8c9ce83bb9828dbd924cbb19a205067" sha1="3ecd3b6f61d4fa677f10fd2fca65636a4db3fb8e"/>
 	</game>
 	<game name="Rig 'n' Roll Gold Edition (Poland) (En,Pl)" id="132161">
 		<category>Games</category>
@@ -399456,11 +399560,11 @@
 		<description>Sims 2, The: Deluxe (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Game Disc)</description>
 		<rom name="Sims 2, The - Deluxe (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Game Disc).iso" size="4323213312" crc="4d0b5645" md5="3defc30feb5e2cbdb01759f0e2ac6e91" sha1="1b8291f9c1b9b24f75cead4e3160ea51c9a9e0b9"/>
 	</game>
-	<game name="Sims 2, The - Deluxe (Europe, France, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)" id="53561">
+	<game name="Sims 2, The - Deluxe (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)" id="53561">
 		<category>Bonus Discs</category>
 		<serial>MXX07705630D2/ENG, MXX07705630D2/GER, MXX07706214D2, MXX07706214D2/GER, MXX07705630D2, MXX07705630D2/FRA</serial>
-		<description>Sims 2, The: Deluxe (Europe, France, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)</description>
-		<rom name="Sims 2, The - Deluxe (Europe, France, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD).iso" size="2406500352" crc="41f0e969" md5="c5685d1b8317c8ea0e7ffe8fc1ac83f1" sha1="27d1826761cabe1844c2ea7384cf1a31e8e867d6"/>
+		<description>Sims 2, The: Deluxe (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD)</description>
+		<rom name="Sims 2, The - Deluxe (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Bonus-DVD).iso" size="2406500352" crc="41f0e969" md5="c5685d1b8317c8ea0e7ffe8fc1ac83f1" sha1="27d1826761cabe1844c2ea7384cf1a31e8e867d6"/>
 	</game>
 	<game name="Sims 2, The - Deluxe (USA) (En,Es)" id="94467">
 		<category>Games</category>
@@ -501512,6 +501616,13 @@
 		<description>Zvezdnyj Legion (Russia) (Disc 2)</description>
 		<rom name="Zvezdnyj Legion (Russia) (Disc 2).cue" size="99" crc="29f4f944" md5="ad2b44388ec766d676a13fed61839baa" sha1="ec5189b71c7a097f1c5ccda68d6ee4d2de95722e"/>
 		<rom name="Zvezdnyj Legion (Russia) (Disc 2).bin" size="827664096" crc="41a5c1d1" md5="2ade8f42cfc091c8451c870e5b24b672" sha1="10288b625b1930e4886bd038e0dd319f33d35e42"/>
+	</game>
+	<game name="Zvyozdnye kolesnicy (Russia)" id="140166">
+		<category>Games</category>
+		<version>1.2</version>
+		<description>Zvyozdnye kolesnicy (Russia)</description>
+		<rom name="Zvyozdnye kolesnicy (Russia).cue" size="117" crc="c9c3940d" md5="e4fc3f53a640315e202d56876428945c" sha1="730cd9c09e9aebbc7f9af0684bcfbb313b61a5e8"/>
+		<rom name="Zvyozdnye kolesnicy (Russia).bin" size="70752864" crc="5178a1cb" md5="35d5020cd6a33b5f4fa79bb0b68134a3" sha1="e32c23c42fb251681b8e4d2513cbc599cd10e6d9"/>
 	</game>
 	<game name="Zvyozdnye nacii (Russia) (Disc 1) (Ustanovochnyj)" id="112129">
 		<category>Games</category>

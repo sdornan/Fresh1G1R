@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,691) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-09 15-53-41) (Retool)</description>
-		<version>2026-11-09 15-53-41</version>
-		<date>2026-11-10 09-42-03</date>
+		<description>Sony - PlayStation 4 (1,693) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-10 14-03-41) (Retool)</description>
+		<version>2026-11-10 14-03-41</version>
+		<date>2026-11-11 09-17-31</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -59,6 +59,13 @@
 		<serial>CUSA-03446</serial>
 		<version>01.00</version>
 		<rom name="7 Days to Die (USA).iso" size="25024331776" crc="22f245be" md5="d2626fd0cee2121810edab45feebdfce" sha1="c37a42d5d1c9e96f49e14045d369df802a0ed4b6"/>
+	</game>
+	<game name="8 to Glory - Official Game of the PBR (Europe)" id="140162">
+		<category>Games</category>
+		<description>8 to Glory: Official Game of the PBR (Europe)</description>
+		<serial>CUSA-11489</serial>
+		<version>02.00</version>
+		<rom name="8 to Glory - Official Game of the PBR (Europe).iso" size="2504392704" crc="56306efa" md5="a58f415203b2f43395517c4b6c2e1c3d" sha1="530d1fef0a60ce8cce11388eaa1800fbff47a762"/>
 	</game>
 	<game name="8-Bit Armies (USA)" id="63485">
 		<category>Games</category>
@@ -1319,6 +1326,13 @@
 		<serial>CUSA-16064</serial>
 		<version>01.01</version>
 		<rom name="Blacksad - Under the Skin (USA).iso" size="14644019200" crc="6d97c410" md5="47d146437eda7cf8ef6a25c28640f274" sha1="214a3b7130121589abd073c582f681c9bcda8382"/>
+	</game>
+	<game name="Blade Assault (Europe)" id="140163">
+		<category>Games</category>
+		<description>Blade Assault (Europe)</description>
+		<serial>CUSA-35005</serial>
+		<version>01.00</version>
+		<rom name="Blade Assault (Europe).iso" size="1478819840" crc="76567e94" md5="caeb9bce13d4135bdc98e32bb963d4da" sha1="454373c19ade99033caeb7b051745d7e60239c30"/>
 	</game>
 	<game name="Blade Strangers (USA)" id="69744">
 		<category>Games</category>

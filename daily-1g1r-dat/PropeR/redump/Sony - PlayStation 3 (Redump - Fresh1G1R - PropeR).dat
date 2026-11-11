@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,635) (-y) [-aAbBcdkmMpPuv] (2026-11-10 09-23-41) (Retool)</description>
-		<version>2026-11-10 09-23-41</version>
-		<date>2026-11-10 09-48-08</date>
+		<description>Sony - PlayStation 3 (1,635) (-y) [-aAbBcdkmMpPuv] (2026-11-10 15-03-17) (Retool)</description>
+		<version>2026-11-10 15-03-17</version>
+		<date>2026-11-11 09-23-30</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -319,12 +319,12 @@
 		<version>01.00</version>
 		<rom name="Alpha Protocol (USA) (En,Fr,De,Es,It).iso" size="6049562624" crc="cb7cdec7" md5="fced722d100ede0ac37e381c4eedd563" sha1="42f5bf1a07a0e3d15a7f33bb47b4282116df1209"/>
 	</game>
-	<game name="Amazing Spider-Man 2, The (USA) (En,Fr,Es,Pt)" id="32510">
+	<game name="Amazing Spider-Man 2, The (USA, Canada) (En,Fr,Es,Pt)" id="32510">
 		<category>Games</category>
-		<description>Amazing Spider-Man 2, The (USA) (En,Fr,Es,Pt)</description>
+		<description>Amazing Spider-Man 2, The (USA, Canada) (En,Fr,Es,Pt)</description>
 		<serial>BLUS-41044</serial>
 		<version>01.00</version>
-		<rom name="Amazing Spider-Man 2, The (USA) (En,Fr,Es,Pt).iso" size="6924009472" crc="53bac2d0" md5="b4e9e75343709129afe5dde20cee0924" sha1="986a3bd634883b53fed024dc965941b3f98b378d"/>
+		<rom name="Amazing Spider-Man 2, The (USA, Canada) (En,Fr,Es,Pt).iso" size="6924009472" crc="53bac2d0" md5="b4e9e75343709129afe5dde20cee0924" sha1="986a3bd634883b53fed024dc965941b3f98b378d"/>
 	</game>
 	<game name="Amazing Spider-Man, The (USA) (En,Fr,Es)" id="29547">
 		<category>Games</category>
@@ -578,12 +578,12 @@
 		<version>02.00</version>
 		<rom name="Assassin's Creed III (USA) (En,Fr,Es,Pt) (v02.00).iso" size="11576803328" crc="981ad314" md5="958e11c8c2eb45846ccc0226db0971bc" sha1="548a0f1d1c59882a6acd0c34b3b476c45663953e"/>
 	</game>
-	<game name="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)" id="32554">
+	<game name="Assassin's Creed IV - Black Flag (USA, Canada) (En,Fr,Es,Pt)" id="32554">
 		<category>Games</category>
-		<description>Assassin's Creed IV: Black Flag (USA) (En,Fr,Es,Pt)</description>
+		<description>Assassin's Creed IV: Black Flag (USA, Canada) (En,Fr,Es,Pt)</description>
 		<serial>BLUS-31193</serial>
 		<version>01.00</version>
-		<rom name="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt).iso" size="10759962624" crc="5da24949" md5="7428b78694dc755a1be75176d71f2075" sha1="3bdf960e804d2160854fc288b979994f2c1625c4"/>
+		<rom name="Assassin's Creed IV - Black Flag (USA, Canada) (En,Fr,Es,Pt).iso" size="10759962624" crc="5da24949" md5="7428b78694dc755a1be75176d71f2075" sha1="3bdf960e804d2160854fc288b979994f2c1625c4"/>
 	</game>
 	<game name="Asura's Wrath (USA, Korea) (En,Ja,Fr,De,Es,It)" id="27962">
 		<category>Games</category>
@@ -739,12 +739,12 @@
 		<version>01.04</version>
 		<rom name="Battle vs. Chess (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs,Hu).iso" size="1456144384" crc="b8e4784f" md5="5ed6dbb8520bec7946125f782783b7fc" sha1="aa45f2db79fdeeddfc1f2594039cee9aa9e0eddb"/>
 	</game>
-	<game name="Battlefield - Bad Company (USA) (Gold Edition)" id="58235">
+	<game name="Battlefield - Bad Company (USA, Canada) (Gold Edition)" id="58235">
 		<category>Games</category>
-		<description>Battlefield: Bad Company (USA) (Gold Edition)</description>
-		<serial>BLUS-30121</serial>
+		<description>Battlefield: Bad Company (USA, Canada) (Gold Edition)</description>
+		<serial>BLUS-30121, BLUS-30121F</serial>
 		<version>01.00</version>
-		<rom name="Battlefield - Bad Company (USA) (Gold Edition).iso" size="6889668608" crc="b9bd0cc4" md5="51bbc31a6bd481606f77f88c456938e1" sha1="241b1d2f37f9c01ca3bda88ad6e8a1bf8909a17c"/>
+		<rom name="Battlefield - Bad Company (USA, Canada) (Gold Edition).iso" size="6889668608" crc="b9bd0cc4" md5="51bbc31a6bd481606f77f88c456938e1" sha1="241b1d2f37f9c01ca3bda88ad6e8a1bf8909a17c"/>
 	</game>
 	<game name="Battlefield - Bad Company 2 (USA, Korea) (En,Fr) (Limited Edition)" id="11731">
 		<category>Games</category>
@@ -753,17 +753,17 @@
 		<version>01.01</version>
 		<rom name="Battlefield - Bad Company 2 (USA, Korea) (En,Fr) (Limited Edition).iso" size="7089356800" crc="bb4703a6" md5="15b4264076695106d1258677fda76e21" sha1="aa5760fc09f09413de3a4453f3f1d874ee5ffb62"/>
 	</game>
-	<game name="Battlefield 3 (World) (En,Fr)" id="29912">
+	<game name="Battlefield 3 (USA, Asia) (En,Fr)" id="29912">
 		<category>Games</category>
-		<description>Battlefield 3 (World) (En,Fr)</description>
-		<serial>BLAS 50384, BLAS 50517, BLUS-30762, BLUS-30762GH, BLUS-30762LE, BLUS-30762SA, BLUS-31068</serial>
+		<description>Battlefield 3 (USA, Asia) (En,Fr)</description>
+		<serial>BLAS 50384, BLAS 50517, BLUS-30762, BLUS-30762GH, BLUS-30762LE, BLUS-30762SA, BLUS-31068, BLUS-30762GHF, BLUS-30762LEF, BLUS-31068F</serial>
 		<version>01.01</version>
-		<rom name="Battlefield 3 (World) (En,Fr).iso" size="11632574464" crc="bd769cdc" md5="8cfaee3766d96f308c5f1c9707cccad9" sha1="d02672d9125f1825243a867598cf5c3cac5e8b78"/>
+		<rom name="Battlefield 3 (USA, Asia) (En,Fr).iso" size="11632574464" crc="bd769cdc" md5="8cfaee3766d96f308c5f1c9707cccad9" sha1="d02672d9125f1825243a867598cf5c3cac5e8b78"/>
 	</game>
 	<game name="Battlefield 4 (USA, Canada) (En,Fr,Es,Pt)" id="32563">
 		<category>Games</category>
 		<description>Battlefield 4 (USA, Canada) (En,Fr,Es,Pt)</description>
-		<serial>BLUS-31162</serial>
+		<serial>BLUS-31162, BLUS-31162LEF</serial>
 		<version>01.01</version>
 		<rom name="Battlefield 4 (USA, Canada) (En,Fr,Es,Pt).iso" size="10925047808" crc="bc11d900" md5="a030090f77b8e9559f8c96f87c4d1616" sha1="2812147340e290742d0ef409222a09ca5d213928"/>
 	</game>
@@ -1061,12 +1061,12 @@
 		<version>01.03</version>
 		<rom name="Blazing Angels - Squadrons of WWII (USA) (En,Fr,Es).iso" size="4457562112" crc="9f11f3f4" md5="bab4b64d990fde10e30c8722c712e8fb" sha1="592f3969183d0844798a75b6fefff2be350cf0e2"/>
 	</game>
-	<game name="Blazing Angels 2 - Secret Missions of WWII (USA)" id="33217">
+	<game name="Blazing Angels 2 - Secret Missions of WWII (USA, Canada)" id="33217">
 		<category>Games</category>
-		<description>Blazing Angels 2: Secret Missions of WWII (USA)</description>
-		<serial>BLUS-30052</serial>
+		<description>Blazing Angels 2: Secret Missions of WWII (USA, Canada)</description>
+		<serial>BLUS-30052, BLUS-30052-F</serial>
 		<version>01.02</version>
-		<rom name="Blazing Angels 2 - Secret Missions of WWII (USA).iso" size="13764919296" crc="f56cc697" md5="5af09aa11bba8d7d5c55a19f17fd2536" sha1="b537dfd961f3534e62aa62af85bf682d9f885997"/>
+		<rom name="Blazing Angels 2 - Secret Missions of WWII (USA, Canada).iso" size="13764919296" crc="f56cc697" md5="5af09aa11bba8d7d5c55a19f17fd2536" sha1="b537dfd961f3534e62aa62af85bf682d9f885997"/>
 	</game>
 	<game name="Bleach - Soul Resurreccion (USA)" id="32575">
 		<category>Games</category>
@@ -1096,12 +1096,12 @@
 		<version>01.04</version>
 		<rom name="Bloodbath (Europe) (En,Fr,De,Es,It,Ru).iso" size="697565184" crc="ddf789a3" md5="eac62c707b57c6c220ca2efaf99a9d58" sha1="661306f725ea3d91e65ea920e13427b4b2dc2642"/>
 	</game>
-	<game name="Blur (USA) (En,Fr)" id="13759">
+	<game name="Blur (USA, Canada) (En,Fr)" id="13759">
 		<category>Games</category>
-		<description>Blur (USA) (En,Fr)</description>
-		<serial>BLUS-30295</serial>
+		<description>Blur (USA, Canada) (En,Fr)</description>
+		<serial>BLUS-30295, BLUS-30295F</serial>
 		<version>01.01</version>
-		<rom name="Blur (USA) (En,Fr).iso" size="6714621952" crc="c51999da" md5="1065ddc94ecb60f3c3b848b4cb7cf03a" sha1="23d2556ef6b3e7fe6cd8a522224614ccdeb69732"/>
+		<rom name="Blur (USA, Canada) (En,Fr).iso" size="6714621952" crc="c51999da" md5="1065ddc94ecb60f3c3b848b4cb7cf03a" sha1="23d2556ef6b3e7fe6cd8a522224614ccdeb69732"/>
 	</game>
 	<game name="Bodycount (USA) (En,Fr,Es)" id="33322">
 		<category>Games</category>
@@ -1369,17 +1369,17 @@
 		<version>01.00</version>
 		<rom name="Call of Duty - Advanced Warfare (UAE) (En,Ar).iso" size="14424932352" crc="623d1202" md5="275e61478b1cf63b11c6ee631f462769" sha1="c728e7028d0c6923957776bea2b99efd8bad717d"/>
 	</game>
-	<game name="Call of Duty - Advanced Warfare (USA) (En,Fr,Es,Pt)" id="34219">
+	<game name="Call of Duty - Advanced Warfare (USA, Canada) (En,Fr,Es,Pt)" id="34219">
 		<category>Games</category>
-		<description>Call of Duty: Advanced Warfare (USA) (En,Fr,Es,Pt)</description>
-		<serial>BLUS-31466</serial>
+		<description>Call of Duty: Advanced Warfare (USA, Canada) (En,Fr,Es,Pt)</description>
+		<serial>BLUS-31466, BLUS-31466WF</serial>
 		<version>01.00</version>
-		<rom name="Call of Duty - Advanced Warfare (USA) (En,Fr,Es,Pt).iso" size="14837743616" crc="0cd66893" md5="472e5012b775af6ff5b5c5e549092a1d" sha1="db680b6dc56697590672ed52a87f64ec41f484c6"/>
+		<rom name="Call of Duty - Advanced Warfare (USA, Canada) (En,Fr,Es,Pt).iso" size="14837743616" crc="0cd66893" md5="472e5012b775af6ff5b5c5e549092a1d" sha1="db680b6dc56697590672ed52a87f64ec41f484c6"/>
 	</game>
 	<game name="Call of Duty - Black Ops (USA, Canada) (En,Fr)" id="29880">
 		<category>Games</category>
 		<description>Call of Duty: Black Ops (USA, Canada) (En,Fr)</description>
-		<serial>BCUS-90162NFR, BLUS-30591, BLUS-30638</serial>
+		<serial>BCUS-90162NFR, BLUS-30591, BLUS-30638, BLUS-30591F</serial>
 		<version>01.01</version>
 		<rom name="Call of Duty - Black Ops (USA, Canada) (En,Fr).iso" size="19518783488" crc="4cad9da5" md5="ede2897d811b96d16c81f949798c2bcf" sha1="4df1911dd7481425106499404db10720380f0f70"/>
 	</game>
@@ -1427,7 +1427,7 @@
 	<game name="Call of Duty - World at War (USA) (En,Fr)" id="11117">
 		<category>Games</category>
 		<description>Call of Duty: World at War (USA) (En,Fr)</description>
-		<serial>BLUS-30192, BLUS-30192GH</serial>
+		<serial>BLUS-30192, BLUS-30192GH, BLUS-30192GHL, BLUS-30192L</serial>
 		<version>01.01</version>
 		<rom name="Call of Duty - World at War (USA) (En,Fr).iso" size="12109611008" crc="fa8d37c6" md5="a05cd091a15c171552b748d189183a49" sha1="4015aa0a08610c3ef881ac434e5ba2390488e090"/>
 	</game>
@@ -1658,7 +1658,7 @@
 	<game name="Command &amp; Conquer - Red Alert 3 - Ultimate Edition (USA, Asia) (En,Fr)" id="32718">
 		<category>Games</category>
 		<description>Command &amp; Conquer: Red Alert 3: Ultimate Edition (USA, Asia) (En,Fr)</description>
-		<serial>BLAS 50105, BLUS-30283</serial>
+		<serial>BLAS 50105, BLUS-30283, BLUS-30283F</serial>
 		<version>01.01</version>
 		<rom name="Command &amp; Conquer - Red Alert 3 - Ultimate Edition (USA, Asia) (En,Fr).iso" size="20343226368" crc="7d273181" md5="1cec7c9e7a696daf72484ead72df8b23" sha1="f947655c14ce074907888a0f03cd2c782e0c5874"/>
 	</game>
@@ -2208,12 +2208,12 @@
 		<version>01.00</version>
 		<rom name="Digimon All-Star Rumble (USA) (En,Fr,Es,Pt).iso" size="681443328" crc="1d7f1a03" md5="a87349b2c9c090a3985c28d8a644e4da" sha1="fdad9114d686d6739fb537dc195ea9f2ccc6b76c"/>
 	</game>
-	<game name="Dirt (USA) (En,Fr,De,Es,It)" id="40882">
+	<game name="Dirt (USA, Canada) (En,Fr,De,Es,It)" id="40882">
 		<category>Games</category>
-		<description>Dirt (USA) (En,Fr,De,Es,It)</description>
-		<serial>BLUS-30064</serial>
+		<description>Dirt (USA, Canada) (En,Fr,De,Es,It)</description>
+		<serial>BLUS-30064, BLUS-30064F</serial>
 		<version>01.02</version>
-		<rom name="Dirt (USA) (En,Fr,De,Es,It).iso" size="7319519232" crc="60b7ad8b" md5="1c8d24156ddde1e31a57693f6b1b72e6" sha1="b4eacc9d4e610390dcd72239e1ad739377d53000"/>
+		<rom name="Dirt (USA, Canada) (En,Fr,De,Es,It).iso" size="7319519232" crc="60b7ad8b" md5="1c8d24156ddde1e31a57693f6b1b72e6" sha1="b4eacc9d4e610390dcd72239e1ad739377d53000"/>
 	</game>
 	<game name="Dirt 2 (USA) (En,Fr,Es)" id="11747">
 		<category>Games</category>
@@ -2222,19 +2222,19 @@
 		<version>01.01</version>
 		<rom name="Dirt 2 (USA) (En,Fr,Es).iso" size="7315849216" crc="bf38ed47" md5="1aa909ad36190b11e56752ea0ed79950" sha1="cd073205624db7c532b3a9478e6fa1072000fd18"/>
 	</game>
-	<game name="Dirt 3 - Complete Edition (USA) (En,Fr,Es)" id="28639">
+	<game name="Dirt 3 - Complete Edition (USA, Canada) (En,Fr,Es)" id="28639">
 		<category>Games</category>
-		<description>Dirt 3: Complete Edition (USA) (En,Fr,Es)</description>
-		<serial>BLUS-30975</serial>
+		<description>Dirt 3: Complete Edition (USA, Canada) (En,Fr,Es)</description>
+		<serial>BLUS-30975, BLUS-30975F</serial>
 		<version>01.00</version>
-		<rom name="Dirt 3 - Complete Edition (USA) (En,Fr,Es).iso" size="7280263168" crc="d18a033a" md5="843bace1a62f71c21a27ac4ce366cfc0" sha1="1de68d59570933ec12ec1d3ac7fe418d76b8de52"/>
+		<rom name="Dirt 3 - Complete Edition (USA, Canada) (En,Fr,Es).iso" size="7280263168" crc="d18a033a" md5="843bace1a62f71c21a27ac4ce366cfc0" sha1="1de68d59570933ec12ec1d3ac7fe418d76b8de52"/>
 	</game>
-	<game name="Dirt Showdown (USA) (En,Fr,Es)" id="30595">
+	<game name="Dirt Showdown (USA, Canada) (En,Fr,Es)" id="30595">
 		<category>Games</category>
-		<description>Dirt Showdown (USA) (En,Fr,Es)</description>
+		<description>Dirt Showdown (USA, Canada) (En,Fr,Es)</description>
 		<serial>BLUS-30938</serial>
 		<version>01.00</version>
-		<rom name="Dirt Showdown (USA) (En,Fr,Es).iso" size="4643028992" crc="649e34c1" md5="825615265151fe3dabc5072a7d1e4695" sha1="bcdd54b7ce6d3b517196989cf563bea274b7b6c5"/>
+		<rom name="Dirt Showdown (USA, Canada) (En,Fr,Es).iso" size="4643028992" crc="649e34c1" md5="825615265151fe3dabc5072a7d1e4695" sha1="bcdd54b7ce6d3b517196989cf563bea274b7b6c5"/>
 	</game>
 	<game name="Disgaea 3 - Absence of Justice (USA)" id="17301">
 		<category>Games</category>
@@ -2397,12 +2397,12 @@
 		<version>01.01</version>
 		<rom name="Disney-Pixar Cars - Mater-National Championship (USA).iso" size="3179479040" crc="b4ef51c7" md5="eb92cc537606a637d82808a54771f7a0" sha1="a4f05dc80e514e4f3a21994ed7e3068041dbf7a3"/>
 	</game>
-	<game name="Disney-Pixar Cars - Race-O-Rama (USA) (En,Fr)" id="32993">
+	<game name="Disney-Pixar Cars - Race-O-Rama (USA, Canada) (En,Fr)" id="32993">
 		<category>Games</category>
-		<description>Disney/Pixar Cars: Race-O-Rama (USA) (En,Fr)</description>
-		<serial>BLUS-30319</serial>
+		<description>Disney/Pixar Cars: Race-O-Rama (USA, Canada) (En,Fr)</description>
+		<serial>BLUS-30319, BLUS-30319F</serial>
 		<version>01.01</version>
-		<rom name="Disney-Pixar Cars - Race-O-Rama (USA) (En,Fr).iso" size="4267114496" crc="c541950f" md5="963ff3cd43f158e2a2a056a5b82b1ae2" sha1="f723badcb4062df0bc8f283597fb57d375c7ea4e"/>
+		<rom name="Disney-Pixar Cars - Race-O-Rama (USA, Canada) (En,Fr).iso" size="4267114496" crc="c541950f" md5="963ff3cd43f158e2a2a056a5b82b1ae2" sha1="f723badcb4062df0bc8f283597fb57d375c7ea4e"/>
 	</game>
 	<game name="Disney-Pixar Cars 2 (USA, Asia) (En,Fr,Es)" id="28522">
 		<category>Games</category>
@@ -2771,7 +2771,7 @@
 	<game name="Driver - San Francisco (USA, Asia) (En,Fr,Es)" id="34458">
 		<category>Games</category>
 		<description>Driver: San Francisco (USA, Asia) (En,Fr,Es)</description>
-		<serial>BLAS 50480, BLUS-30536</serial>
+		<serial>BLAS 50480, BLUS-30536, BLUS-30536F</serial>
 		<version>01.01</version>
 		<rom name="Driver - San Francisco (USA, Asia) (En,Fr,Es).iso" size="7991263232" crc="f0b8a9e2" md5="caec4e6341b38451c83bba84b14c9088" sha1="c1696d5c459f5a3daafb9b13842fe43d7a2aed02"/>
 	</game>
@@ -3321,12 +3321,12 @@
 		<version>01.00</version>
 		<rom name="Family Game Night 4 - The Game Show (USA).iso" size="582680576" crc="f0ad1fbb" md5="119f4cc4a2aed32b4afaf6b6e228495c" sha1="68aadaee7e05062ed80faf7284aec773fd63c375"/>
 	</game>
-	<game name="Family Guy - Back to the Multiverse (USA)" id="35276">
+	<game name="Family Guy - Back to the Multiverse (USA, Canada)" id="35276">
 		<category>Games</category>
-		<description>Family Guy: Back to the Multiverse (USA)</description>
-		<serial>BLUS-30824</serial>
+		<description>Family Guy: Back to the Multiverse (USA, Canada)</description>
+		<serial>BLUS-30824, BLUS-30824F</serial>
 		<version>01.00</version>
-		<rom name="Family Guy - Back to the Multiverse (USA).iso" size="5273026560" crc="1bee2d4e" md5="64ad62151f2535c9c0cc40fed865b334" sha1="f7fe358317ccd130a437fd4fae5bc03fecf2b658"/>
+		<rom name="Family Guy - Back to the Multiverse (USA, Canada).iso" size="5273026560" crc="1bee2d4e" md5="64ad62151f2535c9c0cc40fed865b334" sha1="f7fe358317ccd130a437fd4fae5bc03fecf2b658"/>
 	</game>
 	<game name="Fantastic Four - Rise of the Silver Surfer (USA) (En,Fr)" id="40885">
 		<category>Games</category>
@@ -3352,14 +3352,14 @@
 	<game name="Far Cry 3 (USA) (En,Fr,Es,Pt)" id="29472">
 		<category>Games</category>
 		<description>Far Cry 3 (USA) (En,Fr,Es,Pt)</description>
-		<serial>BLUS-30687</serial>
+		<serial>BLUS-30687, BLUS-30687L, BLUS-30687GSL, BLUS-30687BBFL</serial>
 		<version>01.00</version>
 		<rom name="Far Cry 3 (USA) (En,Fr,Es,Pt).iso" size="6191513600" crc="90cf51bb" md5="2069672ca38e740f7c1ddd1721c7578e" sha1="73b5fcb3cbe0e398b5a3bdc106d3cbf78324c3e7"/>
 	</game>
 	<game name="Far Cry 4 (USA) (En,Fr,Es,Pt)" id="35291">
 		<category>Games</category>
 		<description>Far Cry 4 (USA) (En,Fr,Es,Pt)</description>
-		<serial>BLUS-31420</serial>
+		<serial>BLUS-31420, BLUS-31420L</serial>
 		<version>01.00</version>
 		<rom name="Far Cry 4 (USA) (En,Fr,Es,Pt).iso" size="10344005632" crc="ecaa4aeb" md5="046176132fbc38f8f593f9f7dca3df63" sha1="9438693d2ea61128111572cdef5baeaac51bd7c0"/>
 	</game>
@@ -3727,12 +3727,12 @@
 		<version>02.00</version>
 		<rom name="God of War III (USA, Canada) (v02.00).iso" size="38169870336" crc="d44f7b66" md5="12b8d6a611195a894d8b24923699bfba" sha1="b6fdbf294297c95a0b5b741b01d7802bd530c8d4"/>
 	</game>
-	<game name="Godfather II, The (USA) (En,Fr,Es)" id="43493">
+	<game name="Godfather II, The (USA, Canada) (En,Fr,Es)" id="43493">
 		<category>Games</category>
-		<description>Godfather II, The (USA) (En,Fr,Es)</description>
-		<serial>BLUS-30261</serial>
+		<description>Godfather II, The (USA, Canada) (En,Fr,Es)</description>
+		<serial>BLUS-30261, BLUS-30261F</serial>
 		<version>01.00</version>
-		<rom name="Godfather II, The (USA) (En,Fr,Es).iso" size="11386748928" crc="add8039e" md5="eee2747c2f1f9e3542f6961bd102d846" sha1="3faf03386c35114910a13198ce5df7823561b7b3"/>
+		<rom name="Godfather II, The (USA, Canada) (En,Fr,Es).iso" size="11386748928" crc="add8039e" md5="eee2747c2f1f9e3542f6961bd102d846" sha1="3faf03386c35114910a13198ce5df7823561b7b3"/>
 	</game>
 	<game name="Godfather, The - The Don's Edition (USA)" id="11753">
 		<category>Games</category>
@@ -3769,12 +3769,12 @@
 		<version>01.01</version>
 		<rom name="GoldenEye 007 - Reloaded (USA) (En,Fr).iso" size="7494762496" crc="587ef03b" md5="ed5ad5aa54ffea008cb6b5e968ebd5b9" sha1="5b8baee8b398ac2afc02d2b1516419bf0f4a69e3"/>
 	</game>
-	<game name="Gran Turismo 5 - Prologue (USA) (En,Fr) (v03.00)" id="102219">
+	<game name="Gran Turismo 5 - Prologue (USA, Canada) (En,Fr) (v03.00)" id="102219">
 		<category>Games</category>
-		<description>Gran Turismo 5: Prologue (USA) (En,Fr) (v03.00)</description>
+		<description>Gran Turismo 5: Prologue (USA, Canada) (En,Fr) (v03.00)</description>
 		<serial>BCUS-98158</serial>
 		<version>03.00</version>
-		<rom name="Gran Turismo 5 - Prologue (USA) (En,Fr) (v03.00).iso" size="6556876800" crc="d3d7a95a" md5="ca629aedd387b4a50908c7d535303740" sha1="ba4304b7fccc0dfbb815275a976e58a7ff0f7c80"/>
+		<rom name="Gran Turismo 5 - Prologue (USA, Canada) (En,Fr) (v03.00).iso" size="6556876800" crc="d3d7a95a" md5="ca629aedd387b4a50908c7d535303740" sha1="ba4304b7fccc0dfbb815275a976e58a7ff0f7c80"/>
 	</game>
 	<game name="Gran Turismo 5 - XL Edition (USA) (En,Ja,Fr,Es,Pt)" id="44959">
 		<category>Games</category>
@@ -3783,12 +3783,12 @@
 		<version>04.00</version>
 		<rom name="Gran Turismo 5 - XL Edition (USA) (En,Ja,Fr,Es,Pt).iso" size="22404530176" crc="e4e8a4b7" md5="bd3ba522d416e02efdfe1f5cabd9db4b" sha1="3f34be13d071dca095d582ca611dcc9e428270dd"/>
 	</game>
-	<game name="Gran Turismo 6 (USA) (En,Ja,Fr)" id="30588">
+	<game name="Gran Turismo 6 (USA, Canada) (En,Ja,Fr)" id="30588">
 		<category>Games</category>
-		<description>Gran Turismo 6 (USA) (En,Ja,Fr)</description>
+		<description>Gran Turismo 6 (USA, Canada) (En,Ja,Fr)</description>
 		<serial>BCUS-98296</serial>
 		<version>01.00</version>
-		<rom name="Gran Turismo 6 (USA) (En,Ja,Fr).iso" size="25293815808" crc="0ff5c533" md5="8662a372ee16c8c8853216cdc6ffdc47" sha1="19e32b40a334e3d2fae1c8920078f9125df63181"/>
+		<rom name="Gran Turismo 6 (USA, Canada) (En,Ja,Fr).iso" size="25293815808" crc="0ff5c533" md5="8662a372ee16c8c8853216cdc6ffdc47" sha1="19e32b40a334e3d2fae1c8920078f9125df63181"/>
 	</game>
 	<game name="Grand Slam Tennis 2 (USA) (En,Fr)" id="34999">
 		<category>Games</category>
@@ -3804,24 +3804,24 @@
 		<version>01.01</version>
 		<rom name="Grand Theft Auto - Episodes from Liberty City (USA) (En,Fr,De,Es,It).iso" size="7991132160" crc="53dbe74f" md5="6bbca1f919641851da64131ddcd536e8" sha1="ef4a0717701898a02da0b7ada901e6dc892b2500"/>
 	</game>
-	<game name="Grand Theft Auto - San Andreas (USA) (En,Fr,De,Es,It,Ru)" id="40953">
+	<game name="Grand Theft Auto - San Andreas (USA, Canada) (En,Fr,De,Es,It,Ru)" id="40953">
 		<category>Games</category>
-		<description>Grand Theft Auto: San Andreas (USA) (En,Fr,De,Es,It,Ru)</description>
+		<description>Grand Theft Auto: San Andreas (USA, Canada) (En,Fr,De,Es,It,Ru)</description>
 		<serial>BLUS-31584</serial>
 		<version>01.02</version>
-		<rom name="Grand Theft Auto - San Andreas (USA) (En,Fr,De,Es,It,Ru).iso" size="2489647104" crc="8b71771b" md5="be082ae541d63b1c5e615b66408360c8" sha1="cb8d8e936479db715718f62ef30dabea4a28f102"/>
+		<rom name="Grand Theft Auto - San Andreas (USA, Canada) (En,Fr,De,Es,It,Ru).iso" size="2489647104" crc="8b71771b" md5="be082ae541d63b1c5e615b66408360c8" sha1="cb8d8e936479db715718f62ef30dabea4a28f102"/>
 	</game>
-	<game name="Grand Theft Auto IV (USA) (En,Fr,De,Es,It)" id="16201">
+	<game name="Grand Theft Auto IV (USA, Canada) (En,Fr,De,Es,It)" id="16201">
 		<category>Games</category>
-		<description>Grand Theft Auto IV (USA) (En,Fr,De,Es,It)</description>
-		<serial>BLUS-30127, BLUS-30127GH</serial>
+		<description>Grand Theft Auto IV (USA, Canada) (En,Fr,De,Es,It)</description>
+		<serial>BLUS-30127, BLUS-30127GH, BLUS-30127GHF, BLUS-30127F</serial>
 		<version>01.01</version>
-		<rom name="Grand Theft Auto IV (USA) (En,Fr,De,Es,It).iso" size="11287068672" crc="9dbf4b81" md5="81ff6de36bf8d57a2b56a96c390be1c7" sha1="123a50e911502e30ce9c773b5a0a1e7c4b1cbb2e"/>
+		<rom name="Grand Theft Auto IV (USA, Canada) (En,Fr,De,Es,It).iso" size="11287068672" crc="9dbf4b81" md5="81ff6de36bf8d57a2b56a96c390be1c7" sha1="123a50e911502e30ce9c773b5a0a1e7c4b1cbb2e"/>
 	</game>
 	<game name="Grand Theft Auto V (USA, Asia) (En,Fr,Es,Pt,Zh,Ko)" id="36045">
 		<category>Games</category>
 		<description>Grand Theft Auto V (USA, Asia) (En,Fr,Es,Pt,Zh,Ko)</description>
-		<serial>BLAS 50639, BLUS-31156</serial>
+		<serial>BLAS 50639, BLUS-31156, BLUS-41018, BLUS-31156F</serial>
 		<version>01.01</version>
 		<rom name="Grand Theft Auto V (USA, Asia) (En,Fr,Es,Pt,Zh,Ko).iso" size="18738249728" crc="70c8dd34" md5="17ae11484d1754b8c90a350003cbd587" sha1="26ecb93496361a4ebfa6d21a7087f00b3eedf8bc"/>
 	</game>
@@ -3860,12 +3860,12 @@
 		<version>01.01</version>
 		<rom name="Grid 2 (USA) (En,Fr,Es,Pt).iso" size="6476529664" crc="c592b9df" md5="4f7cad0da64dcd4c8c5fc0de1bad1416" sha1="265e1ef58c46e19236b3f2f511d3c8c59304b21a"/>
 	</game>
-	<game name="Grid Autosport (USA) (En,Fr,Es,Pt)" id="32712">
+	<game name="Grid Autosport (USA, Canada) (En,Fr,Es,Pt)" id="32712">
 		<category>Games</category>
-		<description>Grid Autosport (USA) (En,Fr,Es,Pt)</description>
+		<description>Grid Autosport (USA, Canada) (En,Fr,Es,Pt)</description>
 		<serial>BLUS-31452LE, BLUS-31452LES</serial>
 		<version>01.01</version>
-		<rom name="Grid Autosport (USA) (En,Fr,Es,Pt).iso" size="8102543360" crc="550817fb" md5="13bdd64d5c1ff15a070b8b9e38a5dc0e" sha1="61840e2717ff0859f72bfec7f99e8ca4a15c14da"/>
+		<rom name="Grid Autosport (USA, Canada) (En,Fr,Es,Pt).iso" size="8102543360" crc="550817fb" md5="13bdd64d5c1ff15a070b8b9e38a5dc0e" sha1="61840e2717ff0859f72bfec7f99e8ca4a15c14da"/>
 	</game>
 	<game name="Guided Fate Paradox, The (USA)" id="30738">
 		<category>Games</category>
