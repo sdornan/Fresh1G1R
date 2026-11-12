@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62203) (2026-11-11 08-52-38)</description>
-		<version>2026-11-11 08-52-38</version>
-		<date>2026-11-11 08-52-38</date>
+		<description>IBM - PC compatible - Datfile (62209) (2026-11-12 09-20-56)</description>
+		<version>2026-11-12 09-20-56</version>
+		<date>2026-11-12 09-20-56</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -85595,6 +85595,20 @@
 		<description>Computer Shopper: Issue 180 February 2003 (UK)</description>
 		<rom name="Computer Shopper - Issue 180 February 2003 (UK).cue" size="113" crc="283e2ab5" md5="850f380f61f64e9e2508b911922e8738" sha1="f87144f0009a3d32c06192c2982e0ba758791278"/>
 		<rom name="Computer Shopper - Issue 180 February 2003 (UK).bin" size="771042048" crc="1b8c845f" md5="adc3d3682f3cece3d5c19b706b2debdf" sha1="a86f55236fcd2bb8c3c0ca7ad09882c672348689"/>
+	</game>
+	<game name="Computer Shopper - Issue 181 March 2003 (UK)" id="140181">
+		<category>Coverdiscs</category>
+		<serial>DPCS0303A</serial>
+		<description>Computer Shopper: Issue 181 March 2003 (UK)</description>
+		<rom name="Computer Shopper - Issue 181 March 2003 (UK).cue" size="110" crc="60b958a8" md5="5e3a36b2b9ef11e10da58757abec2da6" sha1="645f515a4bd117aa00b407d7ea92eed8ac30c8a9"/>
+		<rom name="Computer Shopper - Issue 181 March 2003 (UK).bin" size="773010672" crc="27675a53" md5="54b0d4f6ad3154c70a0b7638dfa30b73" sha1="c081c369679347a076270453838dd99fcf3124b5"/>
+	</game>
+	<game name="Computer Shopper - Issue 182 April 2003 (UK)" id="140182">
+		<category>Coverdiscs</category>
+		<serial>DPCS0403</serial>
+		<description>Computer Shopper: Issue 182 April 2003 (UK)</description>
+		<rom name="Computer Shopper - Issue 182 April 2003 (UK).cue" size="110" crc="50041712" md5="ef4781d04d9ef0c154454d4c83bfa2f1" sha1="5888dc5078d6af513fb27f76235f083698cb845c"/>
+		<rom name="Computer Shopper - Issue 182 April 2003 (UK).bin" size="767034240" crc="446e495b" md5="83b763b9cc0f652f3257e0ba2ffd64c8" sha1="94de772f08376560ef021547aeec4f7f344e3ec3"/>
 	</game>
 	<game name="Computer Shopper - Issue 188 October 2003 (UK)" id="100911">
 		<category>Coverdiscs</category>
@@ -183663,6 +183677,24 @@
 		<rom name="Gunman Chronicles (Europe) (Rerelease).cue" size="104" crc="b02aaf18" md5="4a5793957327961fde32848091a650d1" sha1="700724c3aec80237af2600704f40531456a49928"/>
 		<rom name="Gunman Chronicles (Europe) (Rerelease).bin" size="548733360" crc="ec067459" md5="23acc293aec539bced14068dd93829ea" sha1="c12d73e24cca07c07e9b5ec60af6afa2c637c9ea"/>
 	</game>
+	<game name="Gunman Chronicles (Europe) (Sold Out Software)" id="140183">
+		<category>Games</category>
+		<version>1.0.0.0</version>
+		<description>Gunman Chronicles (Europe) (Sold Out Software)</description>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software).cue" size="1674" crc="e0344d2d" md5="2bc69071ac734bd77d630121cdf338af" sha1="6826dea6ec253aeb96ea69dec16492dcc3e754f9"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 01).bin" size="601942656" crc="5b8b5b99" md5="c268dc7def63924470e125b09d3ed88e" sha1="a49aca98d883981512223b87d3a84fae30df2d44"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 02).bin" size="4619328" crc="45398f22" md5="6953d19ddf72b497dd157d5c48881662" sha1="868890aeb2dabf7b7b05d91d82941c3ad076de9b"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 03).bin" size="6590304" crc="e6f1aded" md5="c138857597ad2a0f03a43edd4e840bd6" sha1="f97cd48220f8384ea876628df26fe812eafe5036"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 04).bin" size="11414256" crc="ffe1fb4f" md5="7949343f857070b7c754a749a8efae22" sha1="79f725e352bc2eaffcbc8584303307c1eca34771"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 05).bin" size="14069664" crc="19340d5c" md5="15fcd57f700bd80c30c433ccfadf9a60" sha1="14df413b876b6f6d9b3e28cd0d8da577541b9d83"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 06).bin" size="9678480" crc="3103d2ad" md5="4841cdeffb4aee1cc314da6a4f9e1d72" sha1="87cbd22407f74fe52ce320830b3e5fe730075e0b"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 07).bin" size="5745936" crc="a2e595be" md5="6d83bc76fac1a1f30d4bc45533554644" sha1="048558d009e49b78a8f2410e655f89c540c9f061"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 08).bin" size="29096592" crc="1bfa1aee" md5="144397f114bc26c58c2115ff60ab6c6b" sha1="01c2bf91881d56859b9fd1186ffdd0fe9920b41c"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 09).bin" size="13709808" crc="f8734091" md5="ee4d2e826760889e996c0579c993095b" sha1="5a19aec3b1b0def73086a76c2f70176ecd3df021"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 10).bin" size="10569888" crc="388ac88c" md5="7e2cf9038ab40c7a721e660d0f3a13c1" sha1="f835f8107811a3711926d85d9a008c61a8610920"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 11).bin" size="12557328" crc="75732dae" md5="0e4095da5be23825ac528961bdbff5d9" sha1="c2d0ff422ba0ac7ef35dd2f514e58cb97cd4641e"/>
+		<rom name="Gunman Chronicles (Europe) (Sold Out Software) (Track 12).bin" size="38803296" crc="bea33642" md5="87605716362c5dd4d101e6e587509d7c" sha1="e44b55a08af3147d40711946512466fa2ef3a792"/>
+	</game>
 	<game name="Gunman Chronicles (Germany)" id="100373">
 		<category>Games</category>
 		<serial>S0021801</serial>
@@ -205965,6 +205997,12 @@
 		<rom name="Il-2 Shturmovik - Zabytye srazheniya - Asy v nebe (Russia).cue" size="124" crc="3520d35a" md5="67eb4bf246b631abf4af41e830b3c607" sha1="98a494885dbc77591275914686d2614e3c4d84aa"/>
 		<rom name="Il-2 Shturmovik - Zabytye srazheniya - Asy v nebe (Russia).bin" size="521127936" crc="6f9d95ca" md5="a8f270f9e5e2df63bdbe0039de7dc1c1" sha1="4036d3c95f52cb9ce94a0b5a6b4ef3f5a576bbf6"/>
 	</game>
+	<game name="Il-2 Shturmovik - Zolotaya kollekciya (Russia)" id="140177">
+		<category>Games</category>
+		<version>4.04m</version>
+		<description>Il-2 Shturmovik: Zolotaya kollekciya (Russia)</description>
+		<rom name="Il-2 Shturmovik - Zolotaya kollekciya (Russia).iso" size="2680258560" crc="68c69b2f" md5="4549a9eda92930145a6edc993e8ae21f" sha1="89745d0375a3bff36d180ba4a2e8e835eaec3e0c"/>
+	</game>
 	<game name="IL-2 Sturmovik (Europe)" id="35979">
 		<category>Games</category>
 		<description>IL-2 Sturmovik (Europe)</description>
@@ -207217,10 +207255,15 @@
 		<description>Imperivm Romanvm (Russia)</description>
 		<rom name="Imperivm Romanvm (Russia).iso" size="4295098368" crc="887d9caa" md5="a025de410cc13d0485974e315ef5a9aa" sha1="1e943bbb2fe2b60dfa595173a602bccc7757013b"/>
 	</game>
-	<game name="Imperiya - Smutnoe Vremya (Russia)" id="91174">
+	<game name="Imperiya - Smutnoe vremya (Russia)" id="91174">
 		<category>Games</category>
-		<description>Imperiya: Smutnoe Vremya (Russia)</description>
-		<rom name="Imperiya - Smutnoe Vremya (Russia).iso" size="640942080" crc="2a933537" md5="0140a4d28dd13f5065271d136a482376" sha1="6c11cf2ac2e1c32a5ba05e8f14e9d653a3c8ed5f"/>
+		<description>Imperiya: Smutnoe vremya (Russia)</description>
+		<rom name="Imperiya - Smutnoe vremya (Russia).iso" size="640942080" crc="2a933537" md5="0140a4d28dd13f5065271d136a482376" sha1="6c11cf2ac2e1c32a5ba05e8f14e9d653a3c8ed5f"/>
+	</game>
+	<game name="Imperiya - Smutnoe vremya (Russia) (Alt)" id="140178">
+		<category>Games</category>
+		<description>Imperiya: Smutnoe vremya (Russia) (Alt)</description>
+		<rom name="Imperiya - Smutnoe vremya (Russia) (Alt).iso" size="640974848" crc="9f6d1427" md5="c7cbdf7cbe8dae9ed1d596f42bccb23e" sha1="82ae1771ac8af427f249b669eabe312cf52fd192"/>
 	</game>
 	<game name="Imperiya strasti (Russia)" id="109008">
 		<category>Games</category>
@@ -332120,6 +332163,12 @@
 		<description>Pirritx eta Porrotx: Familiak Milakolore 2 (Spain)</description>
 		<rom name="Pirritx eta Porrotx - Familiak Milakolore 2 (Spain).cue" size="117" crc="3f5eb664" md5="fdb7eed4b387deec27791eac2e45cacf" sha1="7b655e693449fa91d00cb14d6b542a81283816e4"/>
 		<rom name="Pirritx eta Porrotx - Familiak Milakolore 2 (Spain).bin" size="481953024" crc="c3617575" md5="20f79bd4ed703309b35296617619edfd" sha1="2c5029df25fec21b497a1b544a8c3261ec166005"/>
+	</game>
+	<game name="Pistenraupen Simulator (Germany) (En,Fr,De,Sl)" id="140186">
+		<category>Games</category>
+		<description>Pistenraupen Simulator (Germany) (En,Fr,De,Sl)</description>
+		<rom name="Pistenraupen Simulator (Germany) (En,Fr,De,Sl).cue" size="112" crc="5919ad27" md5="abe49ce79543e323368230249d061772" sha1="6a72a7dcbae571cd7fca09f8921528efa2428358"/>
+		<rom name="Pistenraupen Simulator (Germany) (En,Fr,De,Sl).bin" size="289667616" crc="aaa49c8b" md5="6ad78e12413b2630e14b9772058a4a5d" sha1="9690a4d5d8f426ef17307bdd03c23a729d359040"/>
 	</game>
 	<game name="Pistol Ryuta no Teppoudama - Surprise Yakuza (Japan)" id="115473">
 		<category>Games</category>

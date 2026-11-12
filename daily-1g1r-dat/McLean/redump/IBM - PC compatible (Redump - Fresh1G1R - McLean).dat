@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,708) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-11 08-52-38) (Retool)</description>
-		<version>2026-11-11 08-52-38</version>
-		<date>2026-11-11 09-16-48</date>
+		<description>IBM - PC compatible (13,709) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-12 09-20-56) (Retool)</description>
+		<version>2026-11-12 09-20-56</version>
+		<date>2026-11-12 09-44-55</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -71970,6 +71970,12 @@
 		<version>432.03</version>
 		<rom name="Pirates! (Europe).bin" size="727579440" crc="8ac4a0e7" md5="5eb40927b5ba38237a2015092250c38b" sha1="efb36ff5a15ac0de6cbf00634f05f896cbdc7b1c"/>
 		<rom name="Pirates! (Europe).cue" size="106" crc="12d2c47d" md5="b14e7d6b512ad59e3d1ffbef8613462a" sha1="8168e41783c3642b400370d7814d63dace8270af"/>
+	</game>
+	<game name="Pistenraupen Simulator (Germany) (En,Fr,De,Sl)" id="140186">
+		<category>Games</category>
+		<description>Pistenraupen Simulator (Germany) (En,Fr,De,Sl)</description>
+		<rom name="Pistenraupen Simulator (Germany) (En,Fr,De,Sl).bin" size="289667616" crc="aaa49c8b" md5="6ad78e12413b2630e14b9772058a4a5d" sha1="9690a4d5d8f426ef17307bdd03c23a729d359040"/>
+		<rom name="Pistenraupen Simulator (Germany) (En,Fr,De,Sl).cue" size="112" crc="5919ad27" md5="abe49ce79543e323368230249d061772" sha1="6a72a7dcbae571cd7fca09f8921528efa2428358"/>
 	</game>
 	<game name="Pitfall - The Lost Expedition (USA) (Install Disk)" id="114199">
 		<category>Games</category>

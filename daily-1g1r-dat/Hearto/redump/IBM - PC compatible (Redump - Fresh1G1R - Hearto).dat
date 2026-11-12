@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,642) (-y) [-aAbBcefkmMoprv] (2026-11-11 08-52-38) (Retool)</description>
-		<version>2026-11-11 08-52-38</version>
-		<date>2026-11-11 09-08-20</date>
+		<description>IBM - PC compatible (26,644) (-y) [-aAbBcefkmMoprv] (2026-11-12 09-20-56) (Retool)</description>
+		<version>2026-11-12 09-20-56</version>
+		<date>2026-11-12 09-36-35</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -85917,6 +85917,12 @@
 		<rom name="Il-2 Shturmovik - Zabytye srazheniya - Asy v nebe (Russia).bin" size="521127936" crc="6f9d95ca" md5="a8f270f9e5e2df63bdbe0039de7dc1c1" sha1="4036d3c95f52cb9ce94a0b5a6b4ef3f5a576bbf6"/>
 		<rom name="Il-2 Shturmovik - Zabytye srazheniya - Asy v nebe (Russia).cue" size="124" crc="3520d35a" md5="67eb4bf246b631abf4af41e830b3c607" sha1="98a494885dbc77591275914686d2614e3c4d84aa"/>
 	</game>
+	<game name="Il-2 Shturmovik - Zolotaya kollekciya (Russia)" id="140177">
+		<category>Games</category>
+		<description>Il-2 Shturmovik: Zolotaya kollekciya (Russia)</description>
+		<version>4.04m</version>
+		<rom name="Il-2 Shturmovik - Zolotaya kollekciya (Russia).iso" size="2680258560" crc="68c69b2f" md5="4549a9eda92930145a6edc993e8ae21f" sha1="89745d0375a3bff36d180ba4a2e8e835eaec3e0c"/>
+	</game>
 	<game name="Ile Kellogg's, L' (France)" id="121745">
 		<category>Games</category>
 		<description>Île Kellogg's, L' (France)</description>
@@ -86431,10 +86437,10 @@
 		<description>Imperivm Romanvm (Russia)</description>
 		<rom name="Imperivm Romanvm (Russia).iso" size="4295098368" crc="887d9caa" md5="a025de410cc13d0485974e315ef5a9aa" sha1="1e943bbb2fe2b60dfa595173a602bccc7757013b"/>
 	</game>
-	<game name="Imperiya - Smutnoe Vremya (Russia)" id="91174">
+	<game name="Imperiya - Smutnoe vremya (Russia)" id="91174">
 		<category>Games</category>
-		<description>Imperiya: Smutnoe Vremya (Russia)</description>
-		<rom name="Imperiya - Smutnoe Vremya (Russia).iso" size="640942080" crc="2a933537" md5="0140a4d28dd13f5065271d136a482376" sha1="6c11cf2ac2e1c32a5ba05e8f14e9d653a3c8ed5f"/>
+		<description>Imperiya: Smutnoe vremya (Russia)</description>
+		<rom name="Imperiya - Smutnoe vremya (Russia).iso" size="640942080" crc="2a933537" md5="0140a4d28dd13f5065271d136a482376" sha1="6c11cf2ac2e1c32a5ba05e8f14e9d653a3c8ed5f"/>
 	</game>
 	<game name="Imperiya strasti (Russia)" id="109008">
 		<category>Games</category>
@@ -136116,6 +136122,12 @@
 		<description>Piraty Karibskogo morya: Na krayu sveta (Russia) (Disc 3)</description>
 		<rom name="Piraty Karibskogo morya - Na krayu sveta (Russia) (Disc 3).bin" size="741797280" crc="aac53584" md5="69a4340a67d65e260dddce20a954b794" sha1="a45906cf030e8cfe92756a13384cc8e0c8959906"/>
 		<rom name="Piraty Karibskogo morya - Na krayu sveta (Russia) (Disc 3).cue" size="124" crc="3789a41f" md5="895680faaa9e0c387a6237971b7165eb" sha1="d0e762387fce24c149f3312e7526208907ac485f"/>
+	</game>
+	<game name="Pistenraupen Simulator (Germany) (En,Fr,De,Sl)" id="140186">
+		<category>Games</category>
+		<description>Pistenraupen Simulator (Germany) (En,Fr,De,Sl)</description>
+		<rom name="Pistenraupen Simulator (Germany) (En,Fr,De,Sl).bin" size="289667616" crc="aaa49c8b" md5="6ad78e12413b2630e14b9772058a4a5d" sha1="9690a4d5d8f426ef17307bdd03c23a729d359040"/>
+		<rom name="Pistenraupen Simulator (Germany) (En,Fr,De,Sl).cue" size="112" crc="5919ad27" md5="abe49ce79543e323368230249d061772" sha1="6a72a7dcbae571cd7fca09f8921528efa2428358"/>
 	</game>
 	<game name="Pitfall - Das Maya-Abenteuer (Germany)" id="42116">
 		<category>Games</category>

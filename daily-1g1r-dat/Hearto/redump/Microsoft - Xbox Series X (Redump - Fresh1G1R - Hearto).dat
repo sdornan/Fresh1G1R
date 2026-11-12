@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox Series X (Retool)</name>
-		<description>Microsoft - Xbox Series X (119) (-y) [-aAbBcefkmMoprv] (2026-11-07 17-27-42) (Retool)</description>
-		<version>2026-11-07 17-27-42</version>
-		<date>2026-11-11 09-07-32</date>
+		<description>Microsoft - Xbox Series X (120) (-y) [-aAbBcefkmMoprv] (2026-11-12 09-00-56) (Retool)</description>
+		<version>2026-11-12 09-00-56</version>
+		<date>2026-11-12 09-35-35</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -110,6 +110,11 @@
 		<category>Games</category>
 		<description>Control: Ultimate Edition (USA)</description>
 		<rom name="Control - Ultimate Edition (USA).iso" size="45957781504" crc="e8123533" md5="4f69acd2e0248479728cd55b5c5a7182" sha1="e48cb41a93ec122d2648d79c23caaf327da42a59"/>
+	</game>
+	<game name="Control Resonant (USA) (En,Ja,Fr,De,It,Pt,Zh,Ko,Pl,Ru,Uk,Tr)" id="140184">
+		<category>Games</category>
+		<description>Control Resonant (USA) (En,Ja,Fr,De,It,Pt,Zh,Ko,Pl,Ru,Uk,Tr)</description>
+		<rom name="Control Resonant (USA) (En,Ja,Fr,De,It,Pt,Zh,Ko,Pl,Ru,Uk,Tr).iso" size="24999823360" crc="26af0bcf" md5="86b8d624365845048ce82e3c218f65e0" sha1="7cd99657237dd4ac851b158ad60139f28933bcb5"/>
 	</game>
 	<game name="Crimson Desert (USA)" id="134889">
 		<category>Games</category>
