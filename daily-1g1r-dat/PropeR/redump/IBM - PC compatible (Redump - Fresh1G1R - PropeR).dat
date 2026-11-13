@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,219) (-y) [-aAbBcdkmMpPuv] (2026-11-12 09-20-56) (Retool)</description>
-		<version>2026-11-12 09-20-56</version>
-		<date>2026-11-12 09-52-41</date>
+		<description>IBM - PC compatible (27,224) (-y) [-aAbBcdkmMpPuv] (2026-11-13 08-21-22) (Retool)</description>
+		<version>2026-11-13 08-21-22</version>
+		<date>2026-11-13 09-34-12</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -15071,12 +15071,12 @@
 		<rom name="Atomowki - Atak Klonow Straszliwego Mojo Jojo (Poland).bin" size="528964800" crc="0cad7efb" md5="dabbc3461032e08c53897bfc053b985d" sha1="44c7fafe16881a31ce3c82aed68cbe474fc4f147"/>
 		<rom name="Atomowki - Atak Klonow Straszliwego Mojo Jojo (Poland).cue" size="120" crc="e71e5764" md5="47833bacd6fa96a5bb92cbfd13fc5387" sha1="36558cb3e37194afffaffb62ce4a07b2825e946c"/>
 	</game>
-	<game name="Atout Clic - CE2 CM1 CM2 (France)" id="137267">
+	<game name="Atout Clic - CE2 CM1 CM2 (France) (OEM)" id="137267">
 		<category>Educational</category>
-		<description>Atout Clic: CE2 CM1 CM2 (France)</description>
+		<description>Atout Clic: CE2 CM1 CM2 (France) (OEM)</description>
 		<serial>6720240002</serial>
-		<rom name="Atout Clic - CE2 CM1 CM2 (France).bin" size="622085184" crc="d1d93a7c" md5="a48599ae8c96c8d571242524db027505" sha1="e002acece4cd929cc15774264978d463e23cd549"/>
-		<rom name="Atout Clic - CE2 CM1 CM2 (France).cue" size="122" crc="123bf6d5" md5="014aabb1174cce0968159ba622ebe21c" sha1="054a3331a967d162ccf297e26b225bab781aa90f"/>
+		<rom name="Atout Clic - CE2 CM1 CM2 (France) (OEM).bin" size="622085184" crc="d1d93a7c" md5="a48599ae8c96c8d571242524db027505" sha1="e002acece4cd929cc15774264978d463e23cd549"/>
+		<rom name="Atout Clic - CE2 CM1 CM2 (France) (OEM).cue" size="128" crc="19a14bcf" md5="c8455ef1995535a9910223030aa6e18f" sha1="735d5bcc77716ab04413caad63c2776077ccc5d0"/>
 	</game>
 	<game name="Atri - My Dear Moments (Japan) (En,Ja,Zh) (Game Disc)" id="135805">
 		<category>Bonus Discs</category>
@@ -20159,6 +20159,12 @@
 		<description>Berties Buben WM' 98 CD-ROM (Germany)</description>
 		<rom name="Berties Buben WM' 98 CD-ROM (Germany).bin" size="358727040" crc="c0fcfe00" md5="435ee87d29e4aeb148e3e51da92a6102" sha1="ab388f3151e977c633b8166f4a4ca1758a84168d"/>
 		<rom name="Berties Buben WM' 98 CD-ROM (Germany).cue" size="118" crc="ed24207a" md5="994ad3e99b89f85da8487832f8b0b804" sha1="8636ab5ee997d812fc177c1b16f4e8067a9ffcaa"/>
+	</game>
+	<game name="Beshenyj klyov (Russia)" id="140196">
+		<category>Games</category>
+		<description>Beshenyj klyov (Russia)</description>
+		<rom name="Beshenyj klyov (Russia).bin" size="97652688" crc="b1ef54b8" md5="1d0d3b91f6c5debe00933eb230238a5c" sha1="ef76216efa8ac996506134443d4836c333d977ba"/>
+		<rom name="Beshenyj klyov (Russia).cue" size="112" crc="5dee1394" md5="25aa8a93604e5f4b8c2542b680626d0e" sha1="043a9827f55eb711402c70107ebe126bdb881ad9"/>
 	</game>
 	<game name="Besiedlung Agyptens, Die (Germany)" id="113073">
 		<category>Games</category>
@@ -38793,7 +38799,7 @@
 	<game name="Cyberchase - Carnival Chaos (USA)" id="65942">
 		<category>Educational</category>
 		<description>Cyberchase: Carnival Chaos (USA)</description>
-		<serial>P/N 75000-CD</serial>
+		<serial>P/N 75000-CD, 382047-CD</serial>
 		<rom name="Cyberchase - Carnival Chaos (USA).bin" size="506077488" crc="58fd7e5f" md5="1ff7a87714a7d52f0031a6c37d4a5bd4" sha1="a188e4389dd1344c87a082016b68d26f74941211"/>
 		<rom name="Cyberchase - Carnival Chaos (USA).cue" size="99" crc="19496357" md5="2c24adfbe3286eb4fbf8bd1200876b3f" sha1="d3e8d6c0d264f1f7ae3321d0d3e61187c279ce7e"/>
 	</game>
@@ -75950,6 +75956,12 @@
 		<serial>GRE744CB-CD</serial>
 		<rom name="Green Eggs and Ham By Dr. Seuss (Europe).bin" size="472432128" crc="57d24273" md5="43632e309fb7566fe4428050974bd481" sha1="5cb329e9778d5b9a5d994ae19acb0932d3591754"/>
 		<rom name="Green Eggs and Ham By Dr. Seuss (Europe).cue" size="106" crc="7b21d9ca" md5="7a4fb01ecb3bd08f3c62877e7a3ac50c" sha1="41479ef99fe3cc457333632d84720fbb4ae2218f"/>
+	</game>
+	<game name="Green Face (Russia)" id="140197">
+		<category>Games</category>
+		<description>Green Face (Russia)</description>
+		<rom name="Green Face (Russia).bin" size="69802656" crc="d3d30c44" md5="f4cbaa61497f71d5e4926b3c42d9e170" sha1="ce334b90d1c301594b28834af9b5779ca86aa3ce"/>
+		<rom name="Green Face (Russia).cue" size="85" crc="11418260" md5="43d78d4febbfbca6bbccc6423acd0ac0" sha1="b222cf0ecf452cd6b77038ac6abf378ca5c14cbc"/>
 	</game>
 	<game name="Green Moon (USA)" id="115816">
 		<category>Games</category>
@@ -124044,6 +124056,12 @@
 		<rom name="Musical World of Professor Piccolo, The (USA) (Track 65).bin" size="2356704" crc="e3e0660c" md5="08e895aafe39d240b07002bca6a6921e" sha1="09a6e1f003f60f971df26cbd24fb145287b40c8b"/>
 		<rom name="Musical World of Professor Piccolo, The (USA) (Track 66).bin" size="5007408" crc="92fa262f" md5="8b32a72d0e74ab74d6ec5e6fb330c4b6" sha1="3b6f93ab1163234205ed61307e8f2859083b83a8"/>
 		<rom name="Musical World of Professor Piccolo, The (USA).cue" size="7773" crc="3d5eda76" md5="cc76061e48f427c93c8462700dc0bf57" sha1="21cf8752c29bf6462f838d9116d83a05c45a837b"/>
+	</game>
+	<game name="Musorshhik - Gorod xlama (Russia)" id="140193">
+		<category>Games</category>
+		<description>Musorshhik: Gorod xlama (Russia)</description>
+		<rom name="Musorshhik - Gorod xlama (Russia).bin" size="99040368" crc="9eac0848" md5="85fa01fecee121a7bcb4d498c91815a4" sha1="d2812b72c8dc9d497f61625138562c1a7dc17553"/>
+		<rom name="Musorshhik - Gorod xlama (Russia).cue" size="99" crc="041dbe51" md5="2325b92ac57aa93af587858cc644fd05" sha1="6479edad45436d80db6277cd3a78a9023b0f9a7d"/>
 	</game>
 	<game name="Musou Orochi Z (Taiwan) (Anzhuang Guangdie)" id="101289">
 		<category>Games</category>
@@ -181199,10 +181217,10 @@
 		<rom name="Steel Tide (USA).bin" size="168440832" crc="77a00b41" md5="4c5b9147b9df0bdb9c210cd85ef62caa" sha1="e656d6c98ec4a663f880b1b9439757dad0b39ddd"/>
 		<rom name="Steel Tide (USA).cue" size="82" crc="9254e0d6" md5="7161f8acb834a3a0b214c67eedd9b40f" sha1="2a792219519664092b31e0c2ef491979cb092c14"/>
 	</game>
-	<game name="Steelrising (Europe)" id="139898">
+	<game name="Steelrising &amp; RoboCop - Rogue City (Europe)" id="139898">
 		<category>Games</category>
-		<description>Steelrising (Europe)</description>
-		<rom name="Steelrising (Europe).iso" size="1626112" crc="a8784b95" md5="f3a7739ae9881942ea365bd158c90ae1" sha1="6ec6c1649c23a379bbb47ad780e8e665a8ff569e"/>
+		<description>Steelrising / RoboCop: Rogue City (Europe)</description>
+		<rom name="Steelrising &amp; RoboCop - Rogue City (Europe).iso" size="1626112" crc="a8784b95" md5="f3a7739ae9881942ea365bd158c90ae1" sha1="6ec6c1649c23a379bbb47ad780e8e665a8ff569e"/>
 	</game>
 	<game name="Stein der Weisen, Der (Germany)" id="122728">
 		<category>Games</category>
@@ -184324,6 +184342,13 @@
 		<serial>CDR 720 OD1, SJ 041001 G</serial>
 		<rom name="Swift Classics Card Games for Windows (USA).bin" size="48724032" crc="e3949e91" md5="2b77027a9809ad72a17c765d07a58d30" sha1="761f3f3cf0370eab573134d248e4b47251bfc7d3"/>
 		<rom name="Swift Classics Card Games for Windows (USA).cue" size="132" crc="178512f0" md5="40de5f7f752cf3c6a3eee351c1897838" sha1="15d6d3a14af7371add7b005b0dfd08fc03d82667"/>
+	</game>
+	<game name="Swift Typing 4 Kids (USA)" id="140200">
+		<category>Educational</category>
+		<description>Swift Typing 4 Kids (USA)</description>
+		<serial>CDRA2Z700D1, SJ111507</serial>
+		<rom name="Swift Typing 4 Kids (USA).bin" size="37996560" crc="84f08c86" md5="ca3537d339a5daabcf3f52a9d5672b63" sha1="fe1aecfa6ba1202a7014cb8ff9b7d14331975c31"/>
+		<rom name="Swift Typing 4 Kids (USA).cue" size="91" crc="00f1b47f" md5="651e4547da5788f232a46dc503976f48" sha1="d5d382f1a77bd63c1dac4bb682fd5cb171b676ad"/>
 	</game>
 	<game name="Swing (Germany) (En,De)" id="97522">
 		<category>Games</category>
@@ -192149,12 +192174,12 @@
 		<rom name="Tonka Dig'n Rigs CD-ROM Playset (USA).bin" size="445186560" crc="5cb96533" md5="f342123563a66a561b7f4afb3018d06a" sha1="2db825ad3de5b28a23157ba4c92fde26c2000ed6"/>
 		<rom name="Tonka Dig'n Rigs CD-ROM Playset (USA).cue" size="103" crc="902aa38d" md5="e6c830a34e632bf5d382e737705c1a3f" sha1="6d38a23d6591ac01366adb891afb0f71f416ab77"/>
 	</game>
-	<game name="Tonka Firefighter (Australia)" id="125545">
+	<game name="Tonka Firefighter (Europe)" id="140189">
 		<category>Games</category>
-		<description>Tonka Firefighter (Australia)</description>
-		<serial>Cat# 12157</serial>
-		<rom name="Tonka Firefighter (Australia).bin" size="615593664" crc="1c0ee8a8" md5="a87936689a04321c7c48696464ff360a" sha1="880323e6f7f22a80574e3cf0052020fe42f3e05c"/>
-		<rom name="Tonka Firefighter (Australia).cue" size="95" crc="c90c8997" md5="83d090c10ff1005cecea1d8bf0b73d3d" sha1="d0ef8a78075a1149246746585bcbe5c5421975cb"/>
+		<description>Tonka Firefighter (Europe)</description>
+		<serial>1396A</serial>
+		<rom name="Tonka Firefighter (Europe).bin" size="619867248" crc="1e1a2ed8" md5="eed32cc0f3b453cf07aa9ec90dd21663" sha1="1a7c434bd6c26da1f9e7777a73dd6438742b95e2"/>
+		<rom name="Tonka Firefighter (Europe).cue" size="92" crc="22871dbb" md5="9b71e584ea945ffaacf9b2c04709d7a1" sha1="e9b05550f7e97ddd22a51abd4ccb088b0a6aded9"/>
 	</game>
 	<game name="Tonka Garage (USA)" id="58405">
 		<category>Games</category>
@@ -200558,6 +200583,12 @@
 		<description>Velikaja Otechestvennaja. Bitva za Rodinu. (Russia) (Disc 2)</description>
 		<rom name="Velikaja Otechestvennaja. Bitva za Rodinu. (Russia) (Disc 2).bin" size="519937824" crc="3a118694" md5="6228ea7a1acb9e554af6a49535607f29" sha1="c6be48d26fc63a8ed08dcb69d2fbaa9783893661"/>
 		<rom name="Velikaja Otechestvennaja. Bitva za Rodinu. (Russia) (Disc 2).cue" size="126" crc="e0c14ea5" md5="5cdddb2f051699cda96d9518382ed8e2" sha1="9d8f86489b7a1c07de9c18a9d3ef1d47364e9a0c"/>
+	</game>
+	<game name="Velikaya Otechestvennaya - Bitva za rodinu (Russia) (Disc 1)" id="140194">
+		<category>Games</category>
+		<description>Velikaya Otechestvennaya: Bitva za rodinu (Russia) (Disc 1)</description>
+		<rom name="Velikaya Otechestvennaya - Bitva za rodinu (Russia) (Disc 1).bin" size="671025600" crc="21850559" md5="8ea235b23eeb406befcaffe124f2e84d" sha1="219bd409ce48621e0e352e0cbecd67eefd0b142c"/>
+		<rom name="Velikaya Otechestvennaya - Bitva za rodinu (Russia) (Disc 1).cue" size="149" crc="28f0353e" md5="653a7792d2615649acc9dc1183b00026" sha1="53e1188b204ce1ffdba60846481df2d685f4220a"/>
 	</game>
 	<game name="Velikie bitvy - Kurskaya duga (Russia) (Disc 1) (Igrovoj)" id="92886">
 		<category>Games</category>

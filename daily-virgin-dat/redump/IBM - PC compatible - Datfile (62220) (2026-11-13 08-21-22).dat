@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62209) (2026-11-12 09-20-56)</description>
-		<version>2026-11-12 09-20-56</version>
-		<date>2026-11-12 09-20-56</date>
+		<description>IBM - PC compatible - Datfile (62220) (2026-11-13 08-21-22)</description>
+		<version>2026-11-13 08-21-22</version>
+		<date>2026-11-13 08-21-22</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -29807,12 +29807,12 @@
 		<rom name="Atomowki - Wielka potyczka z Ksiezniczka Chytruska (Poland).cue" size="125" crc="0e5e5fc7" md5="1cdd4f8780d73262d9c9176e9b54b431" sha1="51aa2071994e3ec7ddf5922240410378d7963a20"/>
 		<rom name="Atomowki - Wielka potyczka z Ksiezniczka Chytruska (Poland).bin" size="782145840" crc="eee7e677" md5="8f725cb444f61b377602fbd4f87ab54a" sha1="d1c26f5430a71038d3a78a341bcbebf28237473e"/>
 	</game>
-	<game name="Atout Clic - CE2 CM1 CM2 (France)" id="137267">
+	<game name="Atout Clic - CE2 CM1 CM2 (France) (OEM)" id="137267">
 		<category>Educational</category>
 		<serial>6720240002</serial>
-		<description>Atout Clic: CE2 CM1 CM2 (France)</description>
-		<rom name="Atout Clic - CE2 CM1 CM2 (France).cue" size="122" crc="123bf6d5" md5="014aabb1174cce0968159ba622ebe21c" sha1="054a3331a967d162ccf297e26b225bab781aa90f"/>
-		<rom name="Atout Clic - CE2 CM1 CM2 (France).bin" size="622085184" crc="d1d93a7c" md5="a48599ae8c96c8d571242524db027505" sha1="e002acece4cd929cc15774264978d463e23cd549"/>
+		<description>Atout Clic: CE2 CM1 CM2 (France) (OEM)</description>
+		<rom name="Atout Clic - CE2 CM1 CM2 (France) (OEM).cue" size="128" crc="19a14bcf" md5="c8455ef1995535a9910223030aa6e18f" sha1="735d5bcc77716ab04413caad63c2776077ccc5d0"/>
+		<rom name="Atout Clic - CE2 CM1 CM2 (France) (OEM).bin" size="622085184" crc="d1d93a7c" md5="a48599ae8c96c8d571242524db027505" sha1="e002acece4cd929cc15774264978d463e23cd549"/>
 	</game>
 	<game name="Atri - My Dear Moments (Japan) (En,Ja,Zh) (Game Disc)" id="135805">
 		<category>Bonus Discs</category>
@@ -40753,6 +40753,12 @@
 		<description>Berties Buben WM' 98 CD-ROM (Germany)</description>
 		<rom name="Berties Buben WM' 98 CD-ROM (Germany).cue" size="118" crc="ed24207a" md5="994ad3e99b89f85da8487832f8b0b804" sha1="8636ab5ee997d812fc177c1b16f4e8067a9ffcaa"/>
 		<rom name="Berties Buben WM' 98 CD-ROM (Germany).bin" size="358727040" crc="c0fcfe00" md5="435ee87d29e4aeb148e3e51da92a6102" sha1="ab388f3151e977c633b8166f4a4ca1758a84168d"/>
+	</game>
+	<game name="Beshenyj klyov (Russia)" id="140196">
+		<category>Games</category>
+		<description>Beshenyj klyov (Russia)</description>
+		<rom name="Beshenyj klyov (Russia).cue" size="112" crc="5dee1394" md5="25aa8a93604e5f4b8c2542b680626d0e" sha1="043a9827f55eb711402c70107ebe126bdb881ad9"/>
+		<rom name="Beshenyj klyov (Russia).bin" size="97652688" crc="b1ef54b8" md5="1d0d3b91f6c5debe00933eb230238a5c" sha1="ef76216efa8ac996506134443d4836c333d977ba"/>
 	</game>
 	<game name="Besiedlung Agyptens, Die (Germany)" id="113073">
 		<category>Games</category>
@@ -69255,6 +69261,12 @@
 		<rom name="Chicago 1930 (Poland).cue" size="87" crc="151d06b5" md5="dcbcc7d412a488ea5ab0f64355e476e1" sha1="d47dfa765063acccd3b43bc73d54519793b56338"/>
 		<rom name="Chicago 1930 (Poland).bin" size="771484224" crc="ba291ea9" md5="3b45e31affb10c3f1561ac60bc0e5340" sha1="4b079fd6474022b2b283af1debe8a7381c63f29c"/>
 	</game>
+	<game name="Chicago 1930 (Russia)" id="140195">
+		<category>Games</category>
+		<description>Chicago 1930 (Russia)</description>
+		<rom name="Chicago 1930 (Russia).cue" size="110" crc="a300a0e6" md5="346d4bc9982eda57043f666f5e7c13aa" sha1="d0b56c39a48de51d02f62382c77d9cf46d131a2a"/>
+		<rom name="Chicago 1930 (Russia).bin" size="809774784" crc="98cb6175" md5="7366120a5c29ffa1ec738bdadc24d0b2" sha1="971b05f73a6932742938e44b9c314253e2e5336c"/>
+	</game>
 	<game name="Chicago 1930 (Spain)" id="130175">
 		<category>Games</category>
 		<serial>CHI037 - CD</serial>
@@ -93778,7 +93790,7 @@
 	</game>
 	<game name="Cyberchase - Carnival Chaos (USA)" id="65942">
 		<category>Educational</category>
-		<serial>P/N 75000-CD</serial>
+		<serial>P/N 75000-CD, 382047-CD</serial>
 		<description>Cyberchase: Carnival Chaos (USA)</description>
 		<rom name="Cyberchase - Carnival Chaos (USA).cue" size="99" crc="19496357" md5="2c24adfbe3286eb4fbf8bd1200876b3f" sha1="d3e8d6c0d264f1f7ae3321d0d3e61187c279ce7e"/>
 		<rom name="Cyberchase - Carnival Chaos (USA).bin" size="506077488" crc="58fd7e5f" md5="1ff7a87714a7d52f0031a6c37d4a5bd4" sha1="a188e4389dd1344c87a082016b68d26f74941211"/>
@@ -128768,6 +128780,12 @@
 		<description>Edge of Chaos: Independence War 2 (Greece) (Covermount)</description>
 		<rom name="Edge of Chaos - Independence War 2 (Greece) (Covermount).iso" size="1126236160" crc="79cf01b9" md5="4b80c22bdc0a3915dc483421d6960b1f" sha1="ea054b407cf08da2de21257cb75798e68b55ab4d"/>
 	</game>
+	<game name="Edmark CD-ROM Sampler (USA)" id="140202">
+		<category>Demos</category>
+		<description>Edmark CD-ROM Sampler (USA)</description>
+		<rom name="Edmark CD-ROM Sampler (USA).cue" size="93" crc="991d3e58" md5="eaca589b189c776fc616ed5c8c0858ac" sha1="3f32fbc7c822f16d5c64b017f93589d956de7964"/>
+		<rom name="Edmark CD-ROM Sampler (USA).bin" size="60128880" crc="cd1214ff" md5="3c8bc1653a83bd3b397859f37874da59" sha1="fa4e1518fc4d9bb58db7510699b5b19bece75f22"/>
+	</game>
 	<game name="Edna &amp; Harvey (Germany) (Bonus &amp; Ich will noch mehr!)" id="87456">
 		<category>Bonus Discs</category>
 		<description>Edna &amp; Harvey (Germany) (Bonus / Ich will noch mehr!)</description>
@@ -161176,6 +161194,12 @@
 		<rom name="Game Cracker - Expanded Edition (USA).cue" size="103" crc="1689e2f0" md5="4c2866df4dcd5aa75e04f51ea9777add" sha1="2fe0fcce607d3e9737f8f38db354c318dc510ec6"/>
 		<rom name="Game Cracker - Expanded Edition (USA).bin" size="73949232" crc="dc028f9b" md5="5b4b24169ccf1798de66fbfc446694f3" sha1="5d3b1f11c3d4d84be71c53c0c83ef6395e623a99"/>
 	</game>
+	<game name="Game Crackers &amp; Tools Pro - Professional Edition (USA)" id="140198">
+		<category>Applications</category>
+		<description>Game Crackers &amp; Tools Pro: Professional Edition (USA)</description>
+		<rom name="Game Crackers &amp; Tools Pro - Professional Edition (USA).cue" size="120" crc="59f5c2b2" md5="38906506ead8def3da11e7b7fd68baac" sha1="40ca8c32cbc8e508b7a7c425690c6231f886d867"/>
+		<rom name="Game Crackers &amp; Tools Pro - Professional Edition (USA).bin" size="731394384" crc="2e799c86" md5="b53b4eef68bdd26ad35e85a0661381c8" sha1="e9f8975da0027ca2cf920c6efca1e208f28a2e06"/>
+	</game>
 	<game name="Game Densetsu - Dig Dug II (Japan) (Demo)" id="4119">
 		<category>Demos</category>
 		<serial>GD-004</serial>
@@ -180095,6 +180119,12 @@
 		<description>Green Eggs and Ham By Dr. Seuss (Europe)</description>
 		<rom name="Green Eggs and Ham By Dr. Seuss (Europe).cue" size="106" crc="7b21d9ca" md5="7a4fb01ecb3bd08f3c62877e7a3ac50c" sha1="41479ef99fe3cc457333632d84720fbb4ae2218f"/>
 		<rom name="Green Eggs and Ham By Dr. Seuss (Europe).bin" size="472432128" crc="57d24273" md5="43632e309fb7566fe4428050974bd481" sha1="5cb329e9778d5b9a5d994ae19acb0932d3591754"/>
+	</game>
+	<game name="Green Face (Russia)" id="140197">
+		<category>Games</category>
+		<description>Green Face (Russia)</description>
+		<rom name="Green Face (Russia).cue" size="85" crc="11418260" md5="43d78d4febbfbca6bbccc6423acd0ac0" sha1="b222cf0ecf452cd6b77038ac6abf378ca5c14cbc"/>
+		<rom name="Green Face (Russia).bin" size="69802656" crc="d3d30c44" md5="f4cbaa61497f71d5e4926b3c42d9e170" sha1="ce334b90d1c301594b28834af9b5779ca86aa3ce"/>
 	</game>
 	<game name="Green Green 2 - Koi no Special Summer (Japan) (Taikenban)" id="98547">
 		<category>Demos</category>
@@ -210500,6 +210530,12 @@
 		<rom name="Intel - CD-ROM Sampler (USA) (Track 2).bin" size="20471808" crc="30f6c1aa" md5="f3e03e55cad4a71f2724d59e1cdc9a23" sha1="5cbf3e997362e86514bc9a9a247bac1d37a5717a"/>
 		<rom name="Intel - CD-ROM Sampler (USA) (Track 3).bin" size="15824256" crc="708cf047" md5="fbc32f7112e9f0768760b0a02e8c8cf2" sha1="9fb31dd55f662257fdef881f041a6e9e652fa668"/>
 		<rom name="Intel - CD-ROM Sampler (USA) (Track 4).bin" size="49958832" crc="ddd332fa" md5="093d3adaf15c76e8575488e3a88aa92e" sha1="ce9869032662711dc18bffb803c6316a85874359"/>
+	</game>
+	<game name="Intel Click Connect CD (USA)" id="140201">
+		<category>Demos</category>
+		<description>Intel Click Connect CD (USA)</description>
+		<rom name="Intel Click Connect CD (USA).cue" size="117" crc="2ea4068c" md5="1d07e42fe151ac437be69dab771aa325" sha1="2d07c85b24a7c01aa3e1224afe29d81913e4c05c"/>
+		<rom name="Intel Click Connect CD (USA).bin" size="318432576" crc="e7d3506d" md5="383cc9fd891a9b5a3a0c64a7396f1a79" sha1="eef00b86c864dcaf9c11b920cb64420a04e37eb2"/>
 	</game>
 	<game name="Intelligames - 12 Classic Games (Europe)" id="96993">
 		<category>Games</category>
@@ -285877,6 +285913,12 @@
 		<rom name="Musical World of Professor Piccolo, The (USA) (Track 65).bin" size="2356704" crc="e3e0660c" md5="08e895aafe39d240b07002bca6a6921e" sha1="09a6e1f003f60f971df26cbd24fb145287b40c8b"/>
 		<rom name="Musical World of Professor Piccolo, The (USA) (Track 66).bin" size="5007408" crc="92fa262f" md5="8b32a72d0e74ab74d6ec5e6fb330c4b6" sha1="3b6f93ab1163234205ed61307e8f2859083b83a8"/>
 	</game>
+	<game name="Musorshhik - Gorod xlama (Russia)" id="140193">
+		<category>Games</category>
+		<description>Musorshhik: Gorod xlama (Russia)</description>
+		<rom name="Musorshhik - Gorod xlama (Russia).cue" size="99" crc="041dbe51" md5="2325b92ac57aa93af587858cc644fd05" sha1="6479edad45436d80db6277cd3a78a9023b0f9a7d"/>
+		<rom name="Musorshhik - Gorod xlama (Russia).bin" size="99040368" crc="9eac0848" md5="85fa01fecee121a7bcb4d498c91815a4" sha1="d2812b72c8dc9d497f61625138562c1a7dc17553"/>
+	</game>
 	<game name="Musou Orochi Z (Taiwan) (Anzhuang Guangdie)" id="101289">
 		<category>Games</category>
 		<serial>09.12.01084</serial>
@@ -333652,6 +333694,13 @@
 		<rom name="Platoon - Vietnam War (Germany).cue" size="97" crc="45edd88a" md5="ccf7011cfc59f1be33e47e7e962fcabb" sha1="864962784492ebb54df5844c2b6c308400ac0bc3"/>
 		<rom name="Platoon - Vietnam War (Germany).bin" size="789239472" crc="17790d18" md5="721b80485f77d8d07c48ce0ab74690e8" sha1="3609bdeca8af00db64b4c17e40a3cffe755e87b6"/>
 	</game>
+	<game name="Platoon - Vietnam War (Germany) (Rerelease)" id="140188">
+		<category>Games</category>
+		<serial>CD 2484</serial>
+		<description>Platoon: Vietnam War (Germany) (Rerelease)</description>
+		<rom name="Platoon - Vietnam War (Germany) (Rerelease).cue" size="109" crc="99c8de37" md5="10290f83b8e4621b6a8a00ab96b6696a" sha1="4b35f120df15edc14df9d3276e9e71790d10aaa8"/>
+		<rom name="Platoon - Vietnam War (Germany) (Rerelease).bin" size="555278976" crc="5bdd445c" md5="f99d8de4bf083a5f95e92b1a5b96ac6d" sha1="78a4657524a4a04edbb2c06704aa5a13f5fae190"/>
+	</game>
 	<game name="Platoon Leader (Japan)" id="94548">
 		<category>Games</category>
 		<serial>HCJ-0106</serial>
@@ -356065,7 +356114,7 @@
 	</game>
 	<game name="Rayman M (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Disc 2) (Rerelease)" id="51599">
 		<category>Games</category>
-		<serial>5053917, 5053917</serial>
+		<serial>5053917</serial>
 		<version>1.0.0</version>
 		<description>Rayman M (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Disc 2) (Rerelease)</description>
 		<rom name="Rayman M (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Disc 2) (Rerelease).cue" size="133" crc="3886c8a9" md5="13d3deece592818623d052dfd4fb35a1" sha1="ce833174947c2cc050b2e3cf73714a8082810e8c"/>
@@ -369361,7 +369410,7 @@
 	</game>
 	<game name="RollerCoaster Tycoon (USA) (Rerelease) (2001-09-05)" id="40819">
 		<category>Games</category>
-		<serial>SP1, Product #04-23121CD</serial>
+		<serial>SP1, Product #04-23121CD, A49187</serial>
 		<description>RollerCoaster Tycoon (USA) (Rerelease) (2001-09-05)</description>
 		<rom name="RollerCoaster Tycoon (USA) (Rerelease) (2001-09-05).cue" size="117" crc="0aee8c19" md5="7666c6ee1fae19b57f6eb6ff6a10c446" sha1="4c67916180a7be0cec0b9ecccd885033b75c44f7"/>
 		<rom name="RollerCoaster Tycoon (USA) (Rerelease) (2001-09-05).bin" size="225585024" crc="dbac2fc5" md5="8963f3c3484cb13bb9e6dd8614283359" sha1="476315aeb5ec3f1324f5e057b29d64145fc271de"/>
@@ -424776,10 +424825,10 @@
 		<rom name="Steel Tide (USA).cue" size="82" crc="9254e0d6" md5="7161f8acb834a3a0b214c67eedd9b40f" sha1="2a792219519664092b31e0c2ef491979cb092c14"/>
 		<rom name="Steel Tide (USA).bin" size="168440832" crc="77a00b41" md5="4c5b9147b9df0bdb9c210cd85ef62caa" sha1="e656d6c98ec4a663f880b1b9439757dad0b39ddd"/>
 	</game>
-	<game name="Steelrising (Europe)" id="139898">
+	<game name="Steelrising &amp; RoboCop - Rogue City (Europe)" id="139898">
 		<category>Games</category>
-		<description>Steelrising (Europe)</description>
-		<rom name="Steelrising (Europe).iso" size="1626112" crc="a8784b95" md5="f3a7739ae9881942ea365bd158c90ae1" sha1="6ec6c1649c23a379bbb47ad780e8e665a8ff569e"/>
+		<description>Steelrising / RoboCop: Rogue City (Europe)</description>
+		<rom name="Steelrising &amp; RoboCop - Rogue City (Europe).iso" size="1626112" crc="a8784b95" md5="f3a7739ae9881942ea365bd158c90ae1" sha1="6ec6c1649c23a379bbb47ad780e8e665a8ff569e"/>
 	</game>
 	<game name="Steffy Nr. 8 (Romania)" id="77235">
 		<category>Educational</category>
@@ -433402,6 +433451,13 @@
 		<description>Swift Classics Card Games for Windows (USA) (Alt)</description>
 		<rom name="Swift Classics Card Games for Windows (USA) (Alt).cue" size="138" crc="aa510c00" md5="d0d770b9559de834a947f9d5800e4ced" sha1="6ba4588b984879570939441febe91daa982c168f"/>
 		<rom name="Swift Classics Card Games for Windows (USA) (Alt).bin" size="48018432" crc="5d544b58" md5="0ed9e80c5e6001ac37f9a548411f58cc" sha1="607a73b29553aaedd1c109899c88e633e7544ce2"/>
+	</game>
+	<game name="Swift Typing 4 Kids (USA)" id="140200">
+		<category>Educational</category>
+		<serial>CDRA2Z700D1, SJ111507</serial>
+		<description>Swift Typing 4 Kids (USA)</description>
+		<rom name="Swift Typing 4 Kids (USA).cue" size="91" crc="00f1b47f" md5="651e4547da5788f232a46dc503976f48" sha1="d5d382f1a77bd63c1dac4bb682fd5cb171b676ad"/>
+		<rom name="Swift Typing 4 Kids (USA).bin" size="37996560" crc="84f08c86" md5="ca3537d339a5daabcf3f52a9d5672b63" sha1="fe1aecfa6ba1202a7014cb8ff9b7d14331975c31"/>
 	</game>
 	<game name="Swing (Germany) (En,De)" id="97522">
 		<category>Games</category>
@@ -453147,6 +453203,13 @@
 		<rom name="Tonka Firefighter (Australia).cue" size="95" crc="c90c8997" md5="83d090c10ff1005cecea1d8bf0b73d3d" sha1="d0ef8a78075a1149246746585bcbe5c5421975cb"/>
 		<rom name="Tonka Firefighter (Australia).bin" size="615593664" crc="1c0ee8a8" md5="a87936689a04321c7c48696464ff360a" sha1="880323e6f7f22a80574e3cf0052020fe42f3e05c"/>
 	</game>
+	<game name="Tonka Firefighter (Europe)" id="140189">
+		<category>Games</category>
+		<serial>1396A</serial>
+		<description>Tonka Firefighter (Europe)</description>
+		<rom name="Tonka Firefighter (Europe).cue" size="92" crc="22871dbb" md5="9b71e584ea945ffaacf9b2c04709d7a1" sha1="e9b05550f7e97ddd22a51abd4ccb088b0a6aded9"/>
+		<rom name="Tonka Firefighter (Europe).bin" size="619867248" crc="1e1a2ed8" md5="eed32cc0f3b453cf07aa9ec90dd21663" sha1="1a7c434bd6c26da1f9e7777a73dd6438742b95e2"/>
+	</game>
 	<game name="Tonka Garage (Australia)" id="112478">
 		<category>Games</category>
 		<serial>PETT 202788	8263</serial>
@@ -470614,6 +470677,12 @@
 		<rom name="Velikaja Otechestvennaja. Bitva za Rodinu. (Russia) (Disc 2).cue" size="126" crc="e0c14ea5" md5="5cdddb2f051699cda96d9518382ed8e2" sha1="9d8f86489b7a1c07de9c18a9d3ef1d47364e9a0c"/>
 		<rom name="Velikaja Otechestvennaja. Bitva za Rodinu. (Russia) (Disc 2).bin" size="519937824" crc="3a118694" md5="6228ea7a1acb9e554af6a49535607f29" sha1="c6be48d26fc63a8ed08dcb69d2fbaa9783893661"/>
 	</game>
+	<game name="Velikaya Otechestvennaya - Bitva za rodinu (Russia) (Disc 1)" id="140194">
+		<category>Games</category>
+		<description>Velikaya Otechestvennaya: Bitva za rodinu (Russia) (Disc 1)</description>
+		<rom name="Velikaya Otechestvennaya - Bitva za rodinu (Russia) (Disc 1).cue" size="149" crc="28f0353e" md5="653a7792d2615649acc9dc1183b00026" sha1="53e1188b204ce1ffdba60846481df2d685f4220a"/>
+		<rom name="Velikaya Otechestvennaya - Bitva za rodinu (Russia) (Disc 1).bin" size="671025600" crc="21850559" md5="8ea235b23eeb406befcaffe124f2e84d" sha1="219bd409ce48621e0e352e0cbecd67eefd0b142c"/>
+	</game>
 	<game name="Velikie bitvy - Kurskaya duga (Russia) (Disc 1) (Igrovoj)" id="92886">
 		<category>Games</category>
 		<version>1.0</version>
@@ -482888,11 +482957,11 @@
 		<rom name="Who Wants to Be a Millionaire - Kids Edition (USA, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).cue" size="162" crc="bd637ddb" md5="1ae1726099780c2df2f303dee96a4841" sha1="fa1a3bd9682bf83e4f50542e019ff9a106829b4d"/>
 		<rom name="Who Wants to Be a Millionaire - Kids Edition (USA, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).bin" size="527346624" crc="6d28ed5b" md5="899a54dfef0d5e4bb26f6820dd822fa8" sha1="692f7474bd9140fe361a7c5174b4bab79b8ad00c"/>
 	</game>
-	<game name="Who Wants to Be a Millionaire - Kids Edition Preview (USA)" id="128261">
+	<game name="Who Wants to Be a Millionaire - Kids Edition - Preview (USA)" id="128261">
 		<category>Demos</category>
-		<description>Who Wants to Be a Millionaire: Kids Edition Preview (USA)</description>
-		<rom name="Who Wants to Be a Millionaire - Kids Edition Preview (USA).cue" size="124" crc="ec37ee3d" md5="8539f707b86d83e0d51882cb99d4f416" sha1="5540ba138d16b49e3c910b4fdb53c9be8abe714b"/>
-		<rom name="Who Wants to Be a Millionaire - Kids Edition Preview (USA).bin" size="258611808" crc="efe74f1f" md5="dd450c6db7ade959200fbb910e4783d1" sha1="d57c6c3902f8f9d471ffac6f675a2aa2ded84eaa"/>
+		<description>Who Wants to Be a Millionaire: Kids Edition: Preview (USA)</description>
+		<rom name="Who Wants to Be a Millionaire - Kids Edition - Preview (USA).cue" size="126" crc="2f147cd3" md5="6c208866b79a1ad3684ea74b7131f079" sha1="44c80ee0e57b1e2efbe0cc8bd096a802e9aa2ce1"/>
+		<rom name="Who Wants to Be a Millionaire - Kids Edition - Preview (USA).bin" size="258611808" crc="efe74f1f" md5="dd450c6db7ade959200fbb910e4783d1" sha1="d57c6c3902f8f9d471ffac6f675a2aa2ded84eaa"/>
 	</game>
 	<game name="Who Wants to Be a Millionaire - Party Edition (Europe)" id="38619">
 		<category>Games</category>

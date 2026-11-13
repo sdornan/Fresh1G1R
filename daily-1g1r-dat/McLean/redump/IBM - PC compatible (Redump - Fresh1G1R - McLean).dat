@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,709) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-12 09-20-56) (Retool)</description>
-		<version>2026-11-12 09-20-56</version>
-		<date>2026-11-12 09-44-55</date>
+		<description>IBM - PC compatible (13,709) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-13 08-21-22) (Retool)</description>
+		<version>2026-11-13 08-21-22</version>
+		<date>2026-11-13 09-28-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -91773,10 +91773,10 @@
 		<rom name="Steel Tide (USA).bin" size="168440832" crc="77a00b41" md5="4c5b9147b9df0bdb9c210cd85ef62caa" sha1="e656d6c98ec4a663f880b1b9439757dad0b39ddd"/>
 		<rom name="Steel Tide (USA).cue" size="82" crc="9254e0d6" md5="7161f8acb834a3a0b214c67eedd9b40f" sha1="2a792219519664092b31e0c2ef491979cb092c14"/>
 	</game>
-	<game name="Steelrising (Europe)" id="139898">
+	<game name="Steelrising &amp; RoboCop - Rogue City (Europe)" id="139898">
 		<category>Games</category>
-		<description>Steelrising (Europe)</description>
-		<rom name="Steelrising (Europe).iso" size="1626112" crc="a8784b95" md5="f3a7739ae9881942ea365bd158c90ae1" sha1="6ec6c1649c23a379bbb47ad780e8e665a8ff569e"/>
+		<description>Steelrising / RoboCop: Rogue City (Europe)</description>
+		<rom name="Steelrising &amp; RoboCop - Rogue City (Europe).iso" size="1626112" crc="a8784b95" md5="f3a7739ae9881942ea365bd158c90ae1" sha1="6ec6c1649c23a379bbb47ad780e8e665a8ff569e"/>
 	</game>
 	<game name="Steins;Gate (USA)" id="32494">
 		<category>Games</category>
@@ -97875,12 +97875,12 @@
 		<rom name="Tonka Dig'n Rigs CD-ROM Playset (USA).bin" size="445186560" crc="5cb96533" md5="f342123563a66a561b7f4afb3018d06a" sha1="2db825ad3de5b28a23157ba4c92fde26c2000ed6"/>
 		<rom name="Tonka Dig'n Rigs CD-ROM Playset (USA).cue" size="103" crc="902aa38d" md5="e6c830a34e632bf5d382e737705c1a3f" sha1="6d38a23d6591ac01366adb891afb0f71f416ab77"/>
 	</game>
-	<game name="Tonka Firefighter (Australia)" id="125545">
+	<game name="Tonka Firefighter (Europe)" id="140189">
 		<category>Games</category>
-		<description>Tonka Firefighter (Australia)</description>
-		<serial>Cat# 12157</serial>
-		<rom name="Tonka Firefighter (Australia).bin" size="615593664" crc="1c0ee8a8" md5="a87936689a04321c7c48696464ff360a" sha1="880323e6f7f22a80574e3cf0052020fe42f3e05c"/>
-		<rom name="Tonka Firefighter (Australia).cue" size="95" crc="c90c8997" md5="83d090c10ff1005cecea1d8bf0b73d3d" sha1="d0ef8a78075a1149246746585bcbe5c5421975cb"/>
+		<description>Tonka Firefighter (Europe)</description>
+		<serial>1396A</serial>
+		<rom name="Tonka Firefighter (Europe).bin" size="619867248" crc="1e1a2ed8" md5="eed32cc0f3b453cf07aa9ec90dd21663" sha1="1a7c434bd6c26da1f9e7777a73dd6438742b95e2"/>
+		<rom name="Tonka Firefighter (Europe).cue" size="92" crc="22871dbb" md5="9b71e584ea945ffaacf9b2c04709d7a1" sha1="e9b05550f7e97ddd22a51abd4ccb088b0a6aded9"/>
 	</game>
 	<game name="Tonka Garage (USA)" id="58405">
 		<category>Games</category>

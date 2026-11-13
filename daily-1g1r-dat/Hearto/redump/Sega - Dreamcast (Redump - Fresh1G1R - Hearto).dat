@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (823) (-y) [-aAbBcefkmMoprv] (2026-11-12 01-24-56) (Retool)</description>
-		<version>2026-11-12 01-24-56</version>
-		<date>2026-11-12 09-35-46</date>
+		<description>Sega - Dreamcast (824) (-y) [-aAbBcefkmMoprv] (2026-11-12 17-12-25) (Retool)</description>
+		<version>2026-11-12 17-12-25</version>
+		<date>2026-11-13 09-22-47</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2430,6 +2430,16 @@
 		<rom name="Dreamcast Promotion Disk (Japan) (610-7027) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Dreamcast Promotion Disk (Japan) (610-7027) (Track 3).bin" size="1185760800" crc="180ca884" md5="e5ea32167bd5073c63a0c0aa48b05016" sha1="62ad4fc3cde320f738a3c9a367bc77f723ae625c"/>
 		<rom name="Dreamcast Promotion Disk (Japan) (610-7027).cue" size="423" crc="3e7c690d" md5="69f51b400f49bbbf22ccc02903cf237f" sha1="6da7c59f56984ca39178173252480231d828ef8a"/>
+	</game>
+	<game name="Dreamcast de Network!! Demonstration Disc (Japan)" id="140191">
+		<category>Demos</category>
+		<description>Dreamcast de Network!! Demonstration Disc (Japan)</description>
+		<serial>610-7367</serial>
+		<version>1.001</version>
+		<rom name="Dreamcast de Network!! Demonstration Disc (Japan) (Track 1).bin" size="5802384" crc="a0f6e1a6" md5="1ab66979d345c4d86cbcd33f3344a670" sha1="5bf4a0aeb38e66d484456348cc5167d6814f14e0"/>
+		<rom name="Dreamcast de Network!! Demonstration Disc (Japan) (Track 2).bin" size="1994496" crc="295a221d" md5="6b970200bc800ac1f7d9ea9943f23e96" sha1="feff872e02c286e924a3baca945646b55f7a48d9"/>
+		<rom name="Dreamcast de Network!! Demonstration Disc (Japan) (Track 3).bin" size="1185760800" crc="f1f19b9b" md5="217a3abb1ac212c271deb867b165b172" sha1="39bc702a6ffd37f7f4d6e3ac18a4f5ea6a12f3f7"/>
+		<rom name="Dreamcast de Network!! Demonstration Disc (Japan).cue" size="441" crc="f4bfd889" md5="c70d956418047238ed08cdc6de2dbfcd" sha1="f486465c2d46583c74fc67462360f29859a34198"/>
 	</game>
 	<game name="Dreamon Collection 2 (Europe) (En,Fr,De,Es)" id="5711">
 		<category>Demos</category>

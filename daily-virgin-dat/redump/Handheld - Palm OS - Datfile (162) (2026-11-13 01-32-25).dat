@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Handheld - Palm OS</name>
-		<description>Handheld - Palm OS - Datfile (161) (2026-10-23 10-16-55)</description>
-		<version>2026-10-23 10-16-55</version>
-		<date>2026-10-23 10-16-55</date>
+		<description>Handheld - Palm OS - Datfile (162) (2026-11-13 01-32-25)</description>
+		<version>2026-11-13 01-32-25</version>
+		<date>2026-11-13 01-32-25</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -659,6 +659,13 @@
 		<description>Palm Vx: Connected Organizer (USA)</description>
 		<rom name="Palm Vx - Connected Organizer (USA).cue" size="101" crc="8d39283e" md5="97da0cc58df3c8a1ae1ae07f82f50f07" sha1="28553d053b382f7634c161eb6be30a9d2b6291ab"/>
 		<rom name="Palm Vx - Connected Organizer (USA).bin" size="25961376" crc="9bf7a9e7" md5="8586ad1dc39db87557b37bbc81c8861a" sha1="3cc45cb3e65dda91a638d5a03d04b7beff9e0596"/>
+	</game>
+	<game name="PalmPilot Personal Edition (USA)" id="140199">
+		<category>Applications</category>
+		<serial>742-0231-01</serial>
+		<description>PalmPilot Personal Edition (USA)</description>
+		<rom name="PalmPilot Personal Edition (USA).cue" size="98" crc="6d1384a8" md5="067a726ca5feccc64c44b54cf0c417a8" sha1="8e224ab681e55198970a08fe29e96e2958319bca"/>
+		<rom name="PalmPilot Personal Edition (USA).bin" size="34917792" crc="041f837b" md5="3d2207a9510e5ad9b0ac1ef68450da27" sha1="bbbb1a3292f01716b13ad1a2a6617e1dcccec5a1"/>
 	</game>
 	<game name="Papa and Palm Series No. 01 - Palm Mahjong (Japan)" id="73122">
 		<category>Games</category>

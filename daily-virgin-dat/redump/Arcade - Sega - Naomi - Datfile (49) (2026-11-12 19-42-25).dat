@@ -3,13 +3,23 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi</name>
-		<description>Arcade - Sega - Naomi - Datfile (48) (2026-11-08 09-57-42)</description>
-		<version>2026-11-08 09-57-42</version>
-		<date>2026-11-08 09-57-42</date>
+		<description>Arcade - Sega - Naomi - Datfile (49) (2026-11-12 19-42-25)</description>
+		<version>2026-11-12 19-42-25</version>
+		<date>2026-11-12 19-42-25</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
 	</header>
+	<game name="Azumanga Daioh Puzzle Bobble (Japan)" id="140192">
+		<category>Games</category>
+		<serial>GDL-0018</serial>
+		<version>1.000</version>
+		<description>Azumanga Daioh Puzzle Bobble (Japan)</description>
+		<rom name="Azumanga Daioh Puzzle Bobble (Japan).cue" size="402" crc="cc4144a6" md5="e28239f805dc955a6361ef565453a2a5" sha1="c477b131d10c7edba4a89295c571fdd6425bd7f0"/>
+		<rom name="Azumanga Daioh Puzzle Bobble (Japan) (Track 1).bin" size="705600" crc="0f63edbd" md5="55f8b0d1574b671f8925a9617a6b22c4" sha1="80592d000cf6c26b4930d4c5e9247a1d8739446a"/>
+		<rom name="Azumanga Daioh Puzzle Bobble (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Azumanga Daioh Puzzle Bobble (Japan) (Track 3).bin" size="1185760800" crc="76ac102c" md5="5eabac7b0021f9734f80eef97cf70929" sha1="a2d9120c9f3a95cbf624802c9b10b57807aa8e75"/>
+	</game>
 	<game name="Border Down (Japan) (Rev A)" id="139328">
 		<category>Games</category>
 		<serial>GDL-0023A</serial>

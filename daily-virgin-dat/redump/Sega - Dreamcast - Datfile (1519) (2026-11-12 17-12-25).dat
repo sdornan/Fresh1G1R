@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Datfile (1518) (2026-11-12 01-24-56)</description>
-		<version>2026-11-12 01-24-56</version>
-		<date>2026-11-12 01-24-56</date>
+		<description>Sega - Dreamcast - Datfile (1519) (2026-11-12 17-12-25)</description>
+		<version>2026-11-12 17-12-25</version>
+		<date>2026-11-12 17-12-25</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -4252,6 +4252,16 @@
 		<rom name="Dream Preview Vol. 8 (Japan) (Track 1).bin" size="705600" crc="aa33aed9" md5="8dd0d34066575d0ed26a4c29445e3760" sha1="6434eacfb888e74c573a24906234769d164e7073"/>
 		<rom name="Dream Preview Vol. 8 (Japan) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Dream Preview Vol. 8 (Japan) (Track 3).bin" size="1185760800" crc="13e21740" md5="51ee10875a2fda4c416af264615382f6" sha1="cdcb6dcf304159551608a381cbc7d3abdec55cff"/>
+	</game>
+	<game name="Dreamcast de Network!! Demonstration Disc (Japan)" id="140191">
+		<category>Demos</category>
+		<serial>610-7367</serial>
+		<version>1.001</version>
+		<description>Dreamcast de Network!! Demonstration Disc (Japan)</description>
+		<rom name="Dreamcast de Network!! Demonstration Disc (Japan).cue" size="441" crc="f4bfd889" md5="c70d956418047238ed08cdc6de2dbfcd" sha1="f486465c2d46583c74fc67462360f29859a34198"/>
+		<rom name="Dreamcast de Network!! Demonstration Disc (Japan) (Track 1).bin" size="5802384" crc="a0f6e1a6" md5="1ab66979d345c4d86cbcd33f3344a670" sha1="5bf4a0aeb38e66d484456348cc5167d6814f14e0"/>
+		<rom name="Dreamcast de Network!! Demonstration Disc (Japan) (Track 2).bin" size="1994496" crc="295a221d" md5="6b970200bc800ac1f7d9ea9943f23e96" sha1="feff872e02c286e924a3baca945646b55f7a48d9"/>
+		<rom name="Dreamcast de Network!! Demonstration Disc (Japan) (Track 3).bin" size="1185760800" crc="f1f19b9b" md5="217a3abb1ac212c271deb867b165b172" sha1="39bc702a6ffd37f7f4d6e3ac18a4f5ea6a12f3f7"/>
 	</game>
 	<game name="Dreamcast Express Extra (Japan)" id="44762">
 		<category>Demos</category>

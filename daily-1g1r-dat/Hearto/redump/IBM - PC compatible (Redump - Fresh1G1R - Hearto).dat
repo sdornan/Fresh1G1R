@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,644) (-y) [-aAbBcefkmMoprv] (2026-11-12 09-20-56) (Retool)</description>
-		<version>2026-11-12 09-20-56</version>
-		<date>2026-11-12 09-36-35</date>
+		<description>IBM - PC compatible (26,650) (-y) [-aAbBcefkmMoprv] (2026-11-13 08-21-22) (Retool)</description>
+		<version>2026-11-13 08-21-22</version>
+		<date>2026-11-13 09-21-59</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -19821,6 +19821,12 @@
 		<description>Berties Buben WM' 98 CD-ROM (Germany)</description>
 		<rom name="Berties Buben WM' 98 CD-ROM (Germany).bin" size="358727040" crc="c0fcfe00" md5="435ee87d29e4aeb148e3e51da92a6102" sha1="ab388f3151e977c633b8166f4a4ca1758a84168d"/>
 		<rom name="Berties Buben WM' 98 CD-ROM (Germany).cue" size="118" crc="ed24207a" md5="994ad3e99b89f85da8487832f8b0b804" sha1="8636ab5ee997d812fc177c1b16f4e8067a9ffcaa"/>
+	</game>
+	<game name="Beshenyj klyov (Russia)" id="140196">
+		<category>Games</category>
+		<description>Beshenyj klyov (Russia)</description>
+		<rom name="Beshenyj klyov (Russia).bin" size="97652688" crc="b1ef54b8" md5="1d0d3b91f6c5debe00933eb230238a5c" sha1="ef76216efa8ac996506134443d4836c333d977ba"/>
+		<rom name="Beshenyj klyov (Russia).cue" size="112" crc="5dee1394" md5="25aa8a93604e5f4b8c2542b680626d0e" sha1="043a9827f55eb711402c70107ebe126bdb881ad9"/>
 	</game>
 	<game name="Besiedlung Agyptens, Die (Germany)" id="113073">
 		<category>Games</category>
@@ -53984,6 +53990,12 @@
 		<description>Edge of Chaos: Independence War 2 (Greece) (Covermount)</description>
 		<rom name="Edge of Chaos - Independence War 2 (Greece) (Covermount).iso" size="1126236160" crc="79cf01b9" md5="4b80c22bdc0a3915dc483421d6960b1f" sha1="ea054b407cf08da2de21257cb75798e68b55ab4d"/>
 	</game>
+	<game name="Edmark CD-ROM Sampler (USA)" id="140202">
+		<category>Demos</category>
+		<description>Edmark CD-ROM Sampler (USA)</description>
+		<rom name="Edmark CD-ROM Sampler (USA).bin" size="60128880" crc="cd1214ff" md5="3c8bc1653a83bd3b397859f37874da59" sha1="fa4e1518fc4d9bb58db7510699b5b19bece75f22"/>
+		<rom name="Edmark CD-ROM Sampler (USA).cue" size="93" crc="991d3e58" md5="eaca589b189c776fc616ed5c8c0858ac" sha1="3f32fbc7c822f16d5c64b017f93589d956de7964"/>
+	</game>
 	<game name="Edna &amp; Harvey (Germany) (Du sollst installieren!)" id="87455">
 		<category>Games</category>
 		<description>Edna &amp; Harvey (Germany) (Du sollst installieren!)</description>
@@ -74672,6 +74684,12 @@
 		<rom name="Green Berets (USA) (v1.1).bin" size="575875440" crc="13349e10" md5="4397ae79ee7866272a01b89e8aee96cc" sha1="a228a0da154dd9bf16298cec32f1ede43ef872a4"/>
 		<rom name="Green Berets (USA) (v1.1).cue" size="91" crc="4d2d726c" md5="3cd367619e0a7f97208cb7d0d0d8c7ce" sha1="6c292c0632360a46421d87042074a6682d6fb17d"/>
 	</game>
+	<game name="Green Face (Russia)" id="140197">
+		<category>Games</category>
+		<description>Green Face (Russia)</description>
+		<rom name="Green Face (Russia).bin" size="69802656" crc="d3d30c44" md5="f4cbaa61497f71d5e4926b3c42d9e170" sha1="ce334b90d1c301594b28834af9b5779ca86aa3ce"/>
+		<rom name="Green Face (Russia).cue" size="85" crc="11418260" md5="43d78d4febbfbca6bbccc6423acd0ac0" sha1="b222cf0ecf452cd6b77038ac6abf378ca5c14cbc"/>
+	</game>
 	<game name="Green Green 2 - Koi no Special Summer (Japan) (Taikenban)" id="98547">
 		<category>Demos</category>
 		<description>Green Green 2: Koi no Special Summer (Japan) (Taikenban)</description>
@@ -88066,6 +88084,12 @@
 		<serial>CD-01921/B</serial>
 		<rom name="Insurrection - Campaigns for StarCraft (USA) (Rev 2).bin" size="124009200" crc="f99cf569" md5="a7ba29c7eed47625d2623484c9322b92" sha1="8bf561a40603907eef2399349b4ce0fed9e1837e"/>
 		<rom name="Insurrection - Campaigns for StarCraft (USA) (Rev 2).cue" size="118" crc="63ba7a1a" md5="79e4c2ba5fda49edd2b42ab372042510" sha1="891722e0d076ad86123f452c75eaaeb9a65f91d4"/>
+	</game>
+	<game name="Intel Click Connect CD (USA)" id="140201">
+		<category>Demos</category>
+		<description>Intel Click Connect CD (USA)</description>
+		<rom name="Intel Click Connect CD (USA).bin" size="318432576" crc="e7d3506d" md5="383cc9fd891a9b5a3a0c64a7396f1a79" sha1="eef00b86c864dcaf9c11b920cb64420a04e37eb2"/>
+		<rom name="Intel Click Connect CD (USA).cue" size="117" crc="2ea4068c" md5="1d07e42fe151ac437be69dab771aa325" sha1="2d07c85b24a7c01aa3e1224afe29d81913e4c05c"/>
 	</game>
 	<game name="Intelligames - 12 Classic Games (Europe)" id="96993">
 		<category>Games</category>
@@ -119846,6 +119870,12 @@
 		<description>Music Maker (Russia)</description>
 		<rom name="Music Maker (Russia).bin" size="191196432" crc="b2e10050" md5="3583d2537502565c683a9498c4d0e15c" sha1="4945ca72721906f297c87125f48836f99702f380"/>
 		<rom name="Music Maker (Russia).cue" size="86" crc="83870205" md5="1e2b88fe1ed14fc021c2b663fd321f4c" sha1="e5a1f8a9f00d680b3868978e0a785d7cda83fdb3"/>
+	</game>
+	<game name="Musorshhik - Gorod xlama (Russia)" id="140193">
+		<category>Games</category>
+		<description>Musorshhik: Gorod xlama (Russia)</description>
+		<rom name="Musorshhik - Gorod xlama (Russia).bin" size="99040368" crc="9eac0848" md5="85fa01fecee121a7bcb4d498c91815a4" sha1="d2812b72c8dc9d497f61625138562c1a7dc17553"/>
+		<rom name="Musorshhik - Gorod xlama (Russia).cue" size="99" crc="041dbe51" md5="2325b92ac57aa93af587858cc644fd05" sha1="6479edad45436d80db6277cd3a78a9023b0f9a7d"/>
 	</game>
 	<game name="Musou Orochi Z (Taiwan) (Anzhuang Guangdie)" id="101289">
 		<category>Games</category>
@@ -175586,10 +175616,10 @@
 		<rom name="Steel Tide (USA).bin" size="168440832" crc="77a00b41" md5="4c5b9147b9df0bdb9c210cd85ef62caa" sha1="e656d6c98ec4a663f880b1b9439757dad0b39ddd"/>
 		<rom name="Steel Tide (USA).cue" size="82" crc="9254e0d6" md5="7161f8acb834a3a0b214c67eedd9b40f" sha1="2a792219519664092b31e0c2ef491979cb092c14"/>
 	</game>
-	<game name="Steelrising (Europe)" id="139898">
+	<game name="Steelrising &amp; RoboCop - Rogue City (Europe)" id="139898">
 		<category>Games</category>
-		<description>Steelrising (Europe)</description>
-		<rom name="Steelrising (Europe).iso" size="1626112" crc="a8784b95" md5="f3a7739ae9881942ea365bd158c90ae1" sha1="6ec6c1649c23a379bbb47ad780e8e665a8ff569e"/>
+		<description>Steelrising / RoboCop: Rogue City (Europe)</description>
+		<rom name="Steelrising &amp; RoboCop - Rogue City (Europe).iso" size="1626112" crc="a8784b95" md5="f3a7739ae9881942ea365bd158c90ae1" sha1="6ec6c1649c23a379bbb47ad780e8e665a8ff569e"/>
 	</game>
 	<game name="Stein der Weisen, Der (Germany)" id="122728">
 		<category>Games</category>
@@ -186686,12 +186716,12 @@
 		<rom name="Tonka Dig'n Rigs CD-ROM Playset (USA).bin" size="445186560" crc="5cb96533" md5="f342123563a66a561b7f4afb3018d06a" sha1="2db825ad3de5b28a23157ba4c92fde26c2000ed6"/>
 		<rom name="Tonka Dig'n Rigs CD-ROM Playset (USA).cue" size="103" crc="902aa38d" md5="e6c830a34e632bf5d382e737705c1a3f" sha1="6d38a23d6591ac01366adb891afb0f71f416ab77"/>
 	</game>
-	<game name="Tonka Firefighter (Australia)" id="125545">
+	<game name="Tonka Firefighter (Europe)" id="140189">
 		<category>Games</category>
-		<description>Tonka Firefighter (Australia)</description>
-		<serial>Cat# 12157</serial>
-		<rom name="Tonka Firefighter (Australia).bin" size="615593664" crc="1c0ee8a8" md5="a87936689a04321c7c48696464ff360a" sha1="880323e6f7f22a80574e3cf0052020fe42f3e05c"/>
-		<rom name="Tonka Firefighter (Australia).cue" size="95" crc="c90c8997" md5="83d090c10ff1005cecea1d8bf0b73d3d" sha1="d0ef8a78075a1149246746585bcbe5c5421975cb"/>
+		<description>Tonka Firefighter (Europe)</description>
+		<serial>1396A</serial>
+		<rom name="Tonka Firefighter (Europe).bin" size="619867248" crc="1e1a2ed8" md5="eed32cc0f3b453cf07aa9ec90dd21663" sha1="1a7c434bd6c26da1f9e7777a73dd6438742b95e2"/>
+		<rom name="Tonka Firefighter (Europe).cue" size="92" crc="22871dbb" md5="9b71e584ea945ffaacf9b2c04709d7a1" sha1="e9b05550f7e97ddd22a51abd4ccb088b0a6aded9"/>
 	</game>
 	<game name="Tonka Garage (USA)" id="58405">
 		<category>Games</category>
@@ -195270,6 +195300,12 @@
 		<description>Velikaja Otechestvennaja. Bitva za Rodinu. (Russia) (Disc 2)</description>
 		<rom name="Velikaja Otechestvennaja. Bitva za Rodinu. (Russia) (Disc 2).bin" size="519937824" crc="3a118694" md5="6228ea7a1acb9e554af6a49535607f29" sha1="c6be48d26fc63a8ed08dcb69d2fbaa9783893661"/>
 		<rom name="Velikaja Otechestvennaja. Bitva za Rodinu. (Russia) (Disc 2).cue" size="126" crc="e0c14ea5" md5="5cdddb2f051699cda96d9518382ed8e2" sha1="9d8f86489b7a1c07de9c18a9d3ef1d47364e9a0c"/>
+	</game>
+	<game name="Velikaya Otechestvennaya - Bitva za rodinu (Russia) (Disc 1)" id="140194">
+		<category>Games</category>
+		<description>Velikaya Otechestvennaya: Bitva za rodinu (Russia) (Disc 1)</description>
+		<rom name="Velikaya Otechestvennaya - Bitva za rodinu (Russia) (Disc 1).bin" size="671025600" crc="21850559" md5="8ea235b23eeb406befcaffe124f2e84d" sha1="219bd409ce48621e0e352e0cbecd67eefd0b142c"/>
+		<rom name="Velikaya Otechestvennaya - Bitva za rodinu (Russia) (Disc 1).cue" size="149" crc="28f0353e" md5="653a7792d2615649acc9dc1183b00026" sha1="53e1188b204ce1ffdba60846481df2d685f4220a"/>
 	</game>
 	<game name="Velikie bitvy - Kurskaya duga (Russia) (Disc 1) (Igrovoj)" id="92886">
 		<category>Games</category>
