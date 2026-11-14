@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62220) (2026-11-13 08-21-22)</description>
-		<version>2026-11-13 08-21-22</version>
-		<date>2026-11-13 08-21-22</date>
+		<description>IBM - PC compatible - Datfile (62227) (2026-11-14 03-05-26)</description>
+		<version>2026-11-14 03-05-26</version>
+		<date>2026-11-14 03-05-26</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -20882,12 +20882,26 @@
 		<rom name="American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 1).cue" size="123" crc="1e92d5ef" md5="30f364e3a0c5077d0237ad000de8cc70" sha1="bd7c264326eb0b097b5f687eeea11f5abc80fc73"/>
 		<rom name="American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 1).bin" size="745878000" crc="9c825c6d" md5="ddf4c8cb419cc1c9c34bc2d5b5b6f777" sha1="634db69630727aa1034a7f796a4f9ffaa0f19879"/>
 	</game>
+	<game name="American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 1) (Sold Out Software)" id="140211">
+		<category>Games</category>
+		<version>1.0.11.140</version>
+		<description>American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 1) (Sold Out Software)</description>
+		<rom name="American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 1) (Sold Out Software).cue" size="143" crc="eb8b47d2" md5="05bf9623a4ca1b74e48c602a48de7918" sha1="62a31e791a492d9ac8d0813af614bc7f5d1d0234"/>
+		<rom name="American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 1) (Sold Out Software).bin" size="807919056" crc="e9d73c0d" md5="6e1041269ae83ef131ee36491fb27b82" sha1="e5688e5078b09c6d3797e31b6b7c58daf856e58f"/>
+	</game>
 	<game name="American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 2)" id="31985">
 		<category>Games</category>
 		<serial>EAX08903307D2</serial>
 		<description>American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 2)</description>
 		<rom name="American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 2).cue" size="123" crc="1fcff33e" md5="3dd6f7201a3ee36f1028fc957f87082e" sha1="832db21e26ad59366f9c044fb42d12242ea72e2f"/>
 		<rom name="American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 2).bin" size="618369024" crc="07ee6ccc" md5="4bd3ff065c381ff65ff0f5a0897c289e" sha1="203dd12bf3f704019a90f33d120e1c0a34785c14"/>
+	</game>
+	<game name="American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 2) (Sold Out Software)" id="140212">
+		<category>Games</category>
+		<version>1.0.11.140</version>
+		<description>American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 2) (Sold Out Software)</description>
+		<rom name="American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 2) (Sold Out Software).cue" size="143" crc="6b58625c" md5="4d5140ce48f364abd804da62ba2addd5" sha1="c543eb6b1238e8b1832485f3dc88c005c3c963d7"/>
+		<rom name="American McGee's Alice (Europe) (En,Fr,De,Es,Nl) (Disc 2) (Sold Out Software).bin" size="788533872" crc="799aa29b" md5="e07e5a14df0e9e0874ec05d5534d099d" sha1="6b5ae7184d9253c145ac6cc745415a596028ca5c"/>
 	</game>
 	<game name="American McGee's Alice (Germany) (En,Fr,De,Es,Nl) (Disc 1)" id="112597">
 		<category>Games</category>
@@ -58850,6 +58864,13 @@
 		<description>Call of Duty 2 (Germany)</description>
 		<rom name="Call of Duty 2 (Germany).iso" size="3755114496" crc="d97cb56c" md5="be53643184c99a9d7f2ac44de92c8fac" sha1="0d5188c0feb68367000003bc64e300074dfad383"/>
 	</game>
+	<game name="Call of Duty 2 (Germany) (Rerelease)" id="140204">
+		<category>Games</category>
+		<serial>32865.101.GM</serial>
+		<version>1.2</version>
+		<description>Call of Duty 2 (Germany) (Rerelease)</description>
+		<rom name="Call of Duty 2 (Germany) (Rerelease).iso" size="3767271424" crc="e1393492" md5="c8335df6ca0d3bc22efcf70a999439dc" sha1="aa2e366b5d8a051e3e45c981e59695bef93fbcff"/>
+	</game>
 	<game name="Call of Duty 2 (Italy)" id="65963">
 		<category>Games</category>
 		<serial>32865.101.IT</serial>
@@ -85622,6 +85643,13 @@
 		<rom name="Computer Shopper - Issue 182 April 2003 (UK).cue" size="110" crc="50041712" md5="ef4781d04d9ef0c154454d4c83bfa2f1" sha1="5888dc5078d6af513fb27f76235f083698cb845c"/>
 		<rom name="Computer Shopper - Issue 182 April 2003 (UK).bin" size="767034240" crc="446e495b" md5="83b763b9cc0f652f3257e0ba2ffd64c8" sha1="94de772f08376560ef021547aeec4f7f344e3ec3"/>
 	</game>
+	<game name="Computer Shopper - Issue 183 May 2003 (UK)" id="140213">
+		<category>Coverdiscs</category>
+		<serial>DPCS0503</serial>
+		<description>Computer Shopper: Issue 183 May 2003 (UK)</description>
+		<rom name="Computer Shopper - Issue 183 May 2003 (UK).cue" size="108" crc="60e08ec3" md5="56f8f1cdcfc822b85c38bfd65e2dd9ed" sha1="b17cfdff8ab97917e057f241536da1e86295cdb8"/>
+		<rom name="Computer Shopper - Issue 183 May 2003 (UK).bin" size="759359664" crc="226b3f72" md5="71a2789260fcfdf0d27b8585f94fa425" sha1="ef5f9dba54363db4f0b0442a3beacf50eb9bca0b"/>
+	</game>
 	<game name="Computer Shopper - Issue 188 October 2003 (UK)" id="100911">
 		<category>Coverdiscs</category>
 		<serial>DPCS1003A</serial>
@@ -108553,13 +108581,13 @@
 		<rom name="Diamond Monster 3D II Eidos Game Demo CD-ROM (USA).cue" size="116" crc="4d01ac61" md5="789de4db4c7742037d10481d801dd83a" sha1="8969e21323df8504dfd3851eac9155431220409a"/>
 		<rom name="Diamond Monster 3D II Eidos Game Demo CD-ROM (USA).bin" size="435016512" crc="01a58b9d" md5="f8757526603cbb5bd749c22606352d27" sha1="69ae3798f6a58c9d1d2d57a530614e589724bfae"/>
 	</game>
-	<game name="Diamond Viper II - Installation CD-ROM (Europe) (OEM)" id="128422">
+	<game name="Diamond Viper II - Installation CD-ROM (Europe)" id="128422">
 		<category>Multimedia</category>
 		<serial>75500229-002</serial>
 		<version>1.01</version>
-		<description>Diamond Viper II: Installation CD-ROM (Europe) (OEM)</description>
-		<rom name="Diamond Viper II - Installation CD-ROM (Europe) (OEM).cue" size="119" crc="fc170044" md5="684eb349883593626fd450c7482ac6ee" sha1="8512e2fabb2d68d156dc371e6e2ba5e7d523b939"/>
-		<rom name="Diamond Viper II - Installation CD-ROM (Europe) (OEM).bin" size="530394816" crc="d0ad7ef0" md5="2b0511ed1a816fa0d28c4505d35f79ca" sha1="62f496b50fa6465c98e6c19cb04b360f2570f31a"/>
+		<description>Diamond Viper II: Installation CD-ROM (Europe)</description>
+		<rom name="Diamond Viper II - Installation CD-ROM (Europe).cue" size="113" crc="495b0c4f" md5="fd54a495f7313be254e5698f11530eb6" sha1="469e3eb3317346b8b5e5192e54e3f6cf6ab6c782"/>
+		<rom name="Diamond Viper II - Installation CD-ROM (Europe).bin" size="530394816" crc="d0ad7ef0" md5="2b0511ed1a816fa0d28c4505d35f79ca" sha1="62f496b50fa6465c98e6c19cb04b360f2570f31a"/>
 	</game>
 	<game name="Diamonds in the Rough (Greece)" id="123717">
 		<category>Games</category>
@@ -179309,6 +179337,13 @@
 		<rom name="Grand Touring (Poland) (En,Fr,De,Es,It) (Track 17).bin" size="32612832" crc="ba5fb700" md5="156ef8e4a92572771555109155ebd375" sha1="2673344509d306eb56256b330087826b60fca57c"/>
 		<rom name="Grand Touring (Poland) (En,Fr,De,Es,It) (Track 18).bin" size="34169856" crc="2d86e8d0" md5="72b7d56a5a2af407bf4306f014418598" sha1="6abc55f7f50cc92eaca2071feebaa28202e3ac58"/>
 		<rom name="Grand Touring (Poland) (En,Fr,De,Es,It) (Track 19).bin" size="30825312" crc="27934103" md5="71a5d0095855d9ce26192c526c8323e0" sha1="318f68e2c48e84956843325e7b025a1791c7b50b"/>
+	</game>
+	<game name="Grand Touring (Scandinavia) (En,Fr,De,Es,It)" id="140207">
+		<category>Games</category>
+		<serial>900548, CAT NO EL-1132</serial>
+		<description>Grand Touring (Scandinavia) (En,Fr,De,Es,It)</description>
+		<rom name="Grand Touring (Scandinavia) (En,Fr,De,Es,It).cue" size="110" crc="fa4efaf8" md5="1d19425c3fcac53be9a0f67da6197ac0" sha1="0892d75c5d92870314192acf4c49d8778c2e7edf"/>
+		<rom name="Grand Touring (Scandinavia) (En,Fr,De,Es,It).bin" size="123411792" crc="a6971ced" md5="5fd56f2630835083880771df5c555671" sha1="7e03e34f57418d9a34497f0150f600b96af1789c"/>
 	</game>
 	<game name="Grande Armee at Austerlitz, La (USA) (En,Fr)" id="131484">
 		<category>Games</category>
@@ -388356,6 +388391,12 @@
 		<rom name="Shape Shifter (USA).cue" size="85" crc="875261e4" md5="0557ae4138cb27ed04315d0c7f9e15ef" sha1="4eef39e913bf2a9410a708f59b6768c6045f2a17"/>
 		<rom name="Shape Shifter (USA).bin" size="819973056" crc="dbae8fda" md5="5da2c47898bde033c4ef18f9073f04cf" sha1="82788ce97420f5e48d9ffd76c107b419afbf6342"/>
 	</game>
+	<game name="Shaq Fu - A Legend Reborn (Europe) (En,Fr,De,Es,It,Pt,Ru)" id="140209">
+		<category>Games</category>
+		<serial>CD0003</serial>
+		<description>Shaq Fu: A Legend Reborn (Europe) (En,Fr,De,Es,It,Pt,Ru)</description>
+		<rom name="Shaq Fu - A Legend Reborn (Europe) (En,Fr,De,Es,It,Pt,Ru).iso" size="2401265664" crc="5059f374" md5="8a8fce91b1e9fb7a9bed969712d1ec18" sha1="08be8df2e1d3edec8519ad2749feb950fcd7415c"/>
+	</game>
 	<game name="Shaqiu Mobao - Huangquan Zhengba (Taiwan) (Disc 1) (Anzhuang Guangdie)" id="85934">
 		<category>Games</category>
 		<version>1.04</version>
@@ -411658,6 +411699,13 @@
 		<description>Spec Ops: Ranger Assault (Poland) (Rerelease)</description>
 		<rom name="Spec Ops - Ranger Assault (Poland) (Rerelease).cue" size="112" crc="9234f4b3" md5="068e306ff90717feae49a84ddfaa4cdf" sha1="fe8876d2cc95b9eede08432b331ec68839c2d6bc"/>
 		<rom name="Spec Ops - Ranger Assault (Poland) (Rerelease).bin" size="519164016" crc="52b64f71" md5="14138b5409c4b38e5ce3459456cecb20" sha1="2fb91a35fbb21d5a6579e3616a42c3d0ede0f27b"/>
+	</game>
+	<game name="Spec Ops - Ranger Assault (Scandinavia) (En,Fr,De,It)" id="140205">
+		<category>Games</category>
+		<serial>900523</serial>
+		<description>Spec Ops: Ranger Assault (Scandinavia) (En,Fr,De,It)</description>
+		<rom name="Spec Ops - Ranger Assault (Scandinavia) (En,Fr,De,It).cue" size="119" crc="70740b1d" md5="75de4ca5e13ba6f44869cdfbe18548f1" sha1="2126b20ce4b545269f5c4722b52080f1639de52b"/>
+		<rom name="Spec Ops - Ranger Assault (Scandinavia) (En,Fr,De,It).bin" size="391278720" crc="4cb8690e" md5="5cda78e61da8da1cf7dc289082935915" sha1="a01b048472e4f9d6f060953557ec1d9c6b770bde"/>
 	</game>
 	<game name="Spec Ops - Ranger Gold (USA)" id="9702">
 		<category>Games</category>

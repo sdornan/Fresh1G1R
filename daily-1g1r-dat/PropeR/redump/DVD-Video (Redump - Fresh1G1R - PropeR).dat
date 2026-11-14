@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (1,037) (-y) [-aAbBcdkmMpPuv] (2026-11-12 17-42-25) (Retool)</description>
-		<version>2026-11-12 17-42-25</version>
-		<date>2026-11-13 09-34-58</date>
+		<description>DVD-Video (1,038) (-y) [-aAbBcdkmMpPuv] (2026-11-14 06-05-31) (Retool)</description>
+		<version>2026-11-14 06-05-31</version>
+		<date>2026-11-14 08-59-48</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -715,6 +715,11 @@
 		<category>Bonus Discs</category>
 		<description>Chillin' with Scrat (USA)</description>
 		<rom name="Chillin' with Scrat (USA).iso" size="1890148352" crc="2e21c80d" md5="e299f872fa541daafd330eb9ca70e720" sha1="30db61304e13b962d43fcaf0b90938ee8063bf25"/>
+	</game>
+	<game name="Chitose Tsuzuri - Music Clip DVD (Japan) (Disc 2)" id="140216">
+		<category>Bonus Discs</category>
+		<description>Chitose Tsuzuri: Music Clip DVD (Japan) (Disc 2)</description>
+		<rom name="Chitose Tsuzuri - Music Clip DVD (Japan) (Disc 2).iso" size="312301568" crc="4a834a7a" md5="2cd57dcea6db262e2cf64bfad64b1e0a" sha1="1818e20b63d3790dda94109528e5bb09d32f339a"/>
 	</game>
 	<game name="Choose Your Own Adventure - The Abominable Snowman (USA)" id="130022">
 		<category>Games</category>

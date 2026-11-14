@@ -3,13 +3,21 @@
 <datafile>
 	<header>
 		<name>Enhanced CD</name>
-		<description>Enhanced CD - Datfile (258) (2026-11-07 21-09-04)</description>
-		<version>2026-11-07 21-09-04</version>
-		<date>2026-11-07 21-09-04</date>
+		<description>Enhanced CD - Datfile (259) (2026-11-14 07-45-31)</description>
+		<version>2026-11-14 07-45-31</version>
+		<date>2026-11-14 07-45-31</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
 	</header>
+	<game name="99.2 (UK) (Disc 2)" id="140220">
+		<category>Multimedia</category>
+		<serial>ASHADOW992CD</serial>
+		<description>99.2 (UK) (Disc 2)</description>
+		<rom name="99.2 (UK) (Disc 2).cue" size="215" crc="972225b1" md5="da53205b43964ed0393156dd7f986368" sha1="ce9991450008d321aec3b40106c1a515f91435b1"/>
+		<rom name="99.2 (UK) (Disc 2) (Track 1).bin" size="223016640" crc="c3bbf7e1" md5="6fe25b7714d23d3084deb47be94ca023" sha1="156cd58b4992e1b6a2245cc1eb040efe7bd00fd0"/>
+		<rom name="99.2 (UK) (Disc 2) (Track 2).bin" size="357090048" crc="e96d2a7f" md5="565eac29c77792c4d896802ab6b934c3" sha1="a1c48bf0c19a0841218fb7825168633f40459fef"/>
+	</game>
 	<game name="After... Drama Theater with Character Voice - After My Own Heart... (Japan)" id="115899">
 		<category>Bonus Discs</category>
 		<description>After... Drama Theater with Character Voice: After My Own Heart... (Japan)</description>
@@ -2604,6 +2612,13 @@
 		<rom name="Most Wanted Cruisin' (Sweden) (Track 16).bin" size="48067824" crc="7827c802" md5="aada7512aa1c53e18917ac9194c5b51e" sha1="4e869a988098995611cca651da3ec1b122b75e6f"/>
 		<rom name="Most Wanted Cruisin' (Sweden) (Track 17).bin" size="14563584" crc="765404e0" md5="71872bd20dad8797cb8f3462a3ceed77" sha1="a9ad10c598a2fda4fe129d6da950488f98221510"/>
 	</game>
+	<game name="Moving Shadow - 99.1 (UK) (Disc 2)" id="134134">
+		<category>Multimedia</category>
+		<description>Moving Shadow: 99.1 (UK) (Disc 2)</description>
+		<rom name="Moving Shadow - 99.1 (UK) (Disc 2).cue" size="247" crc="1d93adee" md5="f6c21371e97889263ad31294d3146265" sha1="f2249b47ae5c6a3304a410292af4381c34fbf04b"/>
+		<rom name="Moving Shadow - 99.1 (UK) (Disc 2) (Track 1).bin" size="252760032" crc="44b610b5" md5="6a53d965d440d81f5bb19e089445e3b0" sha1="072d34ce46ed5d17e56d2aec39ece8072cfb29e4"/>
+		<rom name="Moving Shadow - 99.1 (UK) (Disc 2) (Track 2).bin" size="524601840" crc="fc5fa1c7" md5="7a42189a43d7daa431b545eba2375abb" sha1="db0e2eebddb3260e2496b0cd4a033b2c9cba125c"/>
+	</game>
 	<game name="Moving Shadow 02.1 (UK)" id="138963">
 		<category>Multimedia</category>
 		<serial>ASHADOW921CD</serial>
@@ -2625,13 +2640,6 @@
 		<rom name="Moving Shadow 02.1 (UK) (Track 14).bin" size="31984848" crc="5aca12ba" md5="33c70d6378061fec19a814149e552f6a" sha1="9a7d3d45441a11be1a7d69fc071a11cffc785ce2"/>
 		<rom name="Moving Shadow 02.1 (UK) (Track 15).bin" size="52910592" crc="647ad6e0" md5="a987a4030409e82549773c45d9424696" sha1="d0659b2532abc92b001f2c73db5a0216ba72184b"/>
 		<rom name="Moving Shadow 02.1 (UK) (Track 16).bin" size="71606640" crc="9980ddb6" md5="e58892487787121a599869dd058ce474" sha1="9b36da470afc31e87e1b5378962fae0a8fe0c0f5"/>
-	</game>
-	<game name="Moving Shadow 99.1 (UK) (Disc 2)" id="134134">
-		<category>Multimedia</category>
-		<description>Moving Shadow 99.1 (UK) (Disc 2)</description>
-		<rom name="Moving Shadow 99.1 (UK) (Disc 2).cue" size="243" crc="6806212b" md5="7e840d20f2808db6d0493bf945d0a692" sha1="63b0cab0cea4c3ee1b48d40dc174bc32b8a21047"/>
-		<rom name="Moving Shadow 99.1 (UK) (Disc 2) (Track 1).bin" size="252760032" crc="44b610b5" md5="6a53d965d440d81f5bb19e089445e3b0" sha1="072d34ce46ed5d17e56d2aec39ece8072cfb29e4"/>
-		<rom name="Moving Shadow 99.1 (UK) (Disc 2) (Track 2).bin" size="524601840" crc="fc5fa1c7" md5="7a42189a43d7daa431b545eba2375abb" sha1="db0e2eebddb3260e2496b0cd4a033b2c9cba125c"/>
 	</game>
 	<game name="Moving Shadow Presents - Rollcage Stage II - The Soundtrack (UK) (En,Fr,De,Es,It)" id="139516">
 		<category>Multimedia</category>

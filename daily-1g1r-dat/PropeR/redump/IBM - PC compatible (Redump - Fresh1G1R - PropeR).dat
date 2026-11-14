@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,224) (-y) [-aAbBcdkmMpPuv] (2026-11-13 08-21-22) (Retool)</description>
-		<version>2026-11-13 08-21-22</version>
-		<date>2026-11-13 09-34-12</date>
+		<description>IBM - PC compatible (27,225) (-y) [-aAbBcdkmMpPuv] (2026-11-14 03-05-26) (Retool)</description>
+		<version>2026-11-14 03-05-26</version>
+		<date>2026-11-14 09-00-28</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -166135,6 +166135,12 @@
 		<description>Shape Shifter (USA)</description>
 		<rom name="Shape Shifter (USA).bin" size="819973056" crc="dbae8fda" md5="5da2c47898bde033c4ef18f9073f04cf" sha1="82788ce97420f5e48d9ffd76c107b419afbf6342"/>
 		<rom name="Shape Shifter (USA).cue" size="85" crc="875261e4" md5="0557ae4138cb27ed04315d0c7f9e15ef" sha1="4eef39e913bf2a9410a708f59b6768c6045f2a17"/>
+	</game>
+	<game name="Shaq Fu - A Legend Reborn (Europe) (En,Fr,De,Es,It,Pt,Ru)" id="140209">
+		<category>Games</category>
+		<description>Shaq Fu: A Legend Reborn (Europe) (En,Fr,De,Es,It,Pt,Ru)</description>
+		<serial>CD0003</serial>
+		<rom name="Shaq Fu - A Legend Reborn (Europe) (En,Fr,De,Es,It,Pt,Ru).iso" size="2401265664" crc="5059f374" md5="8a8fce91b1e9fb7a9bed969712d1ec18" sha1="08be8df2e1d3edec8519ad2749feb950fcd7415c"/>
 	</game>
 	<game name="Shaqiu Mobao - Huangquan Zhengba (Taiwan) (Disc 1) (Anzhuang Guangdie)" id="85934">
 		<category>Games</category>

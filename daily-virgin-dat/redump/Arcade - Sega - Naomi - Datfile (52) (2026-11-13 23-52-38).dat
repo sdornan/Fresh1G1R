@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi</name>
-		<description>Arcade - Sega - Naomi - Datfile (49) (2026-11-12 19-42-25)</description>
-		<version>2026-11-12 19-42-25</version>
-		<date>2026-11-12 19-42-25</date>
+		<description>Arcade - Sega - Naomi - Datfile (52) (2026-11-13 23-52-38)</description>
+		<version>2026-11-13 23-52-38</version>
+		<date>2026-11-13 23-52-38</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -49,6 +49,16 @@
 		<rom name="Chaos Field (Japan) (Track 1).bin" size="705600" crc="23c2bcca" md5="deb8fc43fcdb19e1582d22eebc0b6095" sha1="90313a10c427d3a036ff1f0c9f2169fa304718af"/>
 		<rom name="Chaos Field (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Chaos Field (Japan) (Track 3).bin" size="1185760800" crc="286cf26e" md5="83b3f69ade6a19ef8093659d1da0c693" sha1="924121ac1c372421469fcf773bda22b6d946910d"/>
+	</game>
+	<game name="Cleopatra Fortune Plus - Matamata Shinpi de Suu (Japan)" id="140206">
+		<category>Games</category>
+		<serial>GDL-0012</serial>
+		<version>1.008</version>
+		<description>Cleopatra Fortune Plus: Matamata Shinpi de Suu (Japan)</description>
+		<rom name="Cleopatra Fortune Plus - Matamata Shinpi de Suu (Japan).cue" size="459" crc="d4adcdaa" md5="78d1984a51f1f05da481968c44ee3ee7" sha1="842ea6870e5a9568269af30a385714bfe4496438"/>
+		<rom name="Cleopatra Fortune Plus - Matamata Shinpi de Suu (Japan) (Track 1).bin" size="705600" crc="454389cf" md5="c7c42e623d02b13613eea600ef49811e" sha1="b6a15c9f2707d7b11cb1652633d16126b7bca7e4"/>
+		<rom name="Cleopatra Fortune Plus - Matamata Shinpi de Suu (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Cleopatra Fortune Plus - Matamata Shinpi de Suu (Japan) (Track 3).bin" size="1185760800" crc="2591906f" md5="78a1a65d4b9a2727a28394dea9245913" sha1="df7450e18d1f9b7df4ff3f599675504c398fb69d"/>
 	</game>
 	<game name="DIMM Firm Update (Japan) (Rev A)" id="128843">
 		<category>Applications</category>
@@ -200,35 +210,45 @@
 		<rom name="Maze of the Kings, The (World) (En,Ja) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Maze of the Kings, The (World) (En,Ja) (Track 3).bin" size="1185760800" crc="064cf39d" md5="10cd29f9c1d73ee3199f6c1b022d856d" sha1="e76aca3a8a723fd3cfca908b8c05dafade0b27f8"/>
 	</game>
-	<game name="Melty Blood - Act Cadenza (Japan) (Rev C)" id="73283">
+	<game name="Melty Blood - Act Cadenza (Japan)" id="140203">
+		<category>Games</category>
+		<serial>GDL-0028</serial>
+		<version>1.000</version>
+		<description>Melty Blood: Act Cadenza (Japan)</description>
+		<rom name="Melty Blood - Act Cadenza (Japan).cue" size="393" crc="66872757" md5="ed042b512ab1251106b4b4c70a7d8ca3" sha1="62372693756815dcf51189c95fa412d4acc07c37"/>
+		<rom name="Melty Blood - Act Cadenza (Japan) (Track 1).bin" size="5764752" crc="adcf08ee" md5="c81de6eb1990a6d9e4a552bd29fe53cc" sha1="42de518a90420ce12ce0d4a7d0ef16a3ddebeb8b"/>
+		<rom name="Melty Blood - Act Cadenza (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Melty Blood - Act Cadenza (Japan) (Track 3).bin" size="1185760800" crc="80e19713" md5="40c9ce0b6cd4994decd3f14ad467b1cb" sha1="f9a8778414dbd23a77231885dcbb1e4ecfec682a"/>
+	</game>
+	<game name="Melty Blood - Act Cadenza - Ver. A (Japan) (Rev C)" id="73283">
 		<category>Games</category>
 		<serial>GDL-0028C</serial>
 		<version>4.000</version>
-		<description>Melty Blood: Act Cadenza (Japan) (Rev C)</description>
-		<rom name="Melty Blood - Act Cadenza (Japan) (Rev C).cue" size="417" crc="470f48a0" md5="65297930ea7b9cdc5a5d1c0cc3bdf85e" sha1="52cfaeea125cf4e787bb60998f8640d5c8496b87"/>
-		<rom name="Melty Blood - Act Cadenza (Japan) (Rev C) (Track 1).bin" size="5764752" crc="4d16b0de" md5="4c23da79927491b0e4f74acbd69eedc9" sha1="8c0bf8b24862911c21d2074a9784d500cbf9d4d4"/>
-		<rom name="Melty Blood - Act Cadenza (Japan) (Rev C) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
-		<rom name="Melty Blood - Act Cadenza (Japan) (Rev C) (Track 3).bin" size="1185760800" crc="60225b27" md5="5737ab7464581652de0504551bef39a1" sha1="bf166199f7fc82ab50ea0c92530f540952cbd0f1"/>
+		<description>Melty Blood: Act Cadenza: Ver. A (Japan) (Rev C)</description>
+		<rom name="Melty Blood - Act Cadenza - Ver. A (Japan) (Rev C).cue" size="444" crc="1aa97259" md5="413238244e42b69e6a11d957eb1a577a" sha1="41d0e491ce16c9a63f0fdd60f7cebca9cd407e35"/>
+		<rom name="Melty Blood - Act Cadenza - Ver. A (Japan) (Rev C) (Track 1).bin" size="5764752" crc="4d16b0de" md5="4c23da79927491b0e4f74acbd69eedc9" sha1="8c0bf8b24862911c21d2074a9784d500cbf9d4d4"/>
+		<rom name="Melty Blood - Act Cadenza - Ver. A (Japan) (Rev C) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Melty Blood - Act Cadenza - Ver. A (Japan) (Rev C) (Track 3).bin" size="1185760800" crc="60225b27" md5="5737ab7464581652de0504551bef39a1" sha1="bf166199f7fc82ab50ea0c92530f540952cbd0f1"/>
 	</game>
-	<game name="Melty Blood - Act Cadenza Ver. B (Japan)" id="82873">
+	<game name="Melty Blood - Act Cadenza - Version B (Japan)" id="82873">
 		<category>Games</category>
 		<serial>GDL-0039</serial>
 		<version>1.003</version>
-		<description>Melty Blood: Act Cadenza Ver. B (Japan)</description>
-		<rom name="Melty Blood - Act Cadenza Ver. B (Japan).cue" size="414" crc="eb967ab5" md5="ddf7ece22c632cceb7178286bcf2b549" sha1="28c2befbda08c37562e5147347beb632b9a7bedf"/>
-		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Track 1).bin" size="5764752" crc="445cae0a" md5="5ec95b09f0e0af1cdae30b9251501443" sha1="87a5374fdb08a0e2b369cb1704cc8c969373c85d"/>
-		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
-		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Track 3).bin" size="1185760800" crc="e7747173" md5="a6d6ba4972396ac51d9a98c606118cba" sha1="bc124979a970fcedd021e07eda529bdf8dec71be"/>
+		<description>Melty Blood: Act Cadenza: Version B (Japan)</description>
+		<rom name="Melty Blood - Act Cadenza - Version B (Japan).cue" size="429" crc="31370e26" md5="4c7dd1d790c84564b0cd76ba5fb3d5d7" sha1="db072779608fe6846d4d3f19dab67c7e6a95ca12"/>
+		<rom name="Melty Blood - Act Cadenza - Version B (Japan) (Track 1).bin" size="5764752" crc="445cae0a" md5="5ec95b09f0e0af1cdae30b9251501443" sha1="87a5374fdb08a0e2b369cb1704cc8c969373c85d"/>
+		<rom name="Melty Blood - Act Cadenza - Version B (Japan) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Melty Blood - Act Cadenza - Version B (Japan) (Track 3).bin" size="1185760800" crc="e7747173" md5="a6d6ba4972396ac51d9a98c606118cba" sha1="bc124979a970fcedd021e07eda529bdf8dec71be"/>
 	</game>
-	<game name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A)" id="96305">
+	<game name="Melty Blood - Act Cadenza - Version B2 (Japan) (Rev A)" id="96305">
 		<category>Games</category>
 		<serial>GDL-0039A</serial>
 		<version>2.000</version>
-		<description>Melty Blood: Act Cadenza Ver. B (Japan) (Rev A)</description>
-		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A).cue" size="438" crc="1365eb08" md5="0ba60661cb75ae7d273bf495afc3f4d4" sha1="2062ec47b826491df99c530eb7f588a73a211f0c"/>
-		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A) (Track 1).bin" size="5764752" crc="75849f1f" md5="a2c802fb9a82a5a22d4d2e540fa33434" sha1="6a57c687d23d18a79f3c818bdfaf8da44e4b011a"/>
-		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
-		<rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="f4e4500d" md5="e626c8d3a7772f2cd8ee366ebd3cd31e" sha1="1e1bd4f86da0a4ec09bc6da4e33748a5356286f4"/>
+		<description>Melty Blood: Act Cadenza: Version B2 (Japan) (Rev A)</description>
+		<rom name="Melty Blood - Act Cadenza - Version B2 (Japan) (Rev A).cue" size="456" crc="dddc9f15" md5="eb26a2b86a16a6af00e07528fc163d6a" sha1="2c31ee9b16fc75c3ee2785adb492c61fd8e83e98"/>
+		<rom name="Melty Blood - Act Cadenza - Version B2 (Japan) (Rev A) (Track 1).bin" size="5764752" crc="75849f1f" md5="a2c802fb9a82a5a22d4d2e540fa33434" sha1="6a57c687d23d18a79f3c818bdfaf8da44e4b011a"/>
+		<rom name="Melty Blood - Act Cadenza - Version B2 (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Melty Blood - Act Cadenza - Version B2 (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="f4e4500d" md5="e626c8d3a7772f2cd8ee366ebd3cd31e" sha1="1e1bd4f86da0a4ec09bc6da4e33748a5356286f4"/>
 	</game>
 	<game name="Moeru Casinyo (Japan)" id="139904">
 		<category>Games</category>
@@ -349,6 +369,16 @@
 		<rom name="Senko no Ronde (Japan) (Rev A) (Track 1).bin" size="15248016" crc="b02042c8" md5="7ef2ed57e26b573babe159b2afcd1a61" sha1="c9f347d2345b7514987cdf23d07cc9dc0e5e456c"/>
 		<rom name="Senko no Ronde (Japan) (Rev A) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Senko no Ronde (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="41424a93" md5="65142c7bc6d31b231bd1d58b1d2e696c" sha1="95f7d705ec9d8e2e833ba88d201781e3735c5308"/>
+	</game>
+	<game name="Senko no Ronde SP (World)" id="140208">
+		<category>Games</category>
+		<serial>GDL-0038</serial>
+		<version>1.000</version>
+		<description>Senko no Ronde SP (World)</description>
+		<rom name="Senko no Ronde SP (World).cue" size="369" crc="8285784b" md5="f25cc8c2901c1cd47531c658c65ee5ed" sha1="43741bd250e7d9e8d71f709753e7b362fa3ca3c7"/>
+		<rom name="Senko no Ronde SP (World) (Track 1).bin" size="705600" crc="38b19445" md5="0baf7d8ab341e11f4724316724a11450" sha1="38a55ab240546fe2374082e65d9513b4a5656f06"/>
+		<rom name="Senko no Ronde SP (World) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Senko no Ronde SP (World) (Track 3).bin" size="1185760800" crc="517f9fd1" md5="35e834a486dfbbbedcca82f8a6e0fb9d" sha1="5b0708fad5418b2cc56e1f6a7a47fc256a312fad"/>
 	</game>
 	<game name="Shikigami no Shiro II (Japan)" id="75301">
 		<category>Games</category>

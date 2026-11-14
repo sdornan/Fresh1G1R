@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Naomi (Retool)</name>
-		<description>Arcade - Sega - Naomi (13) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-12 19-42-25) (Retool)</description>
-		<version>2026-11-12 19-42-25</version>
-		<date>2026-11-13 09-29-22</date>
+		<description>Arcade - Sega - Naomi (14) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-13 23-52-38) (Retool)</description>
+		<version>2026-11-13 23-52-38</version>
+		<date>2026-11-14 08-55-57</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -90,6 +90,16 @@
 		<rom name="Puyo Pop Fever (World) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
 		<rom name="Puyo Pop Fever (World) (Track 3).bin" size="1185760800" crc="e07684e4" md5="005dcfbfca160510382ff1d3ecf24eb5" sha1="ea7d131570389fcc11f5d86b3d71823e049fb00b"/>
 		<rom name="Puyo Pop Fever (World).cue" size="360" crc="4dfe9dae" md5="3b384118a13ac27afeebfab163537adf" sha1="ea13b4ded9a4fbf9055dc67eacf939ac2eb6f8a2"/>
+	</game>
+	<game name="Senko no Ronde SP (World)" id="140208">
+		<category>Games</category>
+		<description>Senko no Ronde SP (World)</description>
+		<serial>GDL-0038</serial>
+		<version>1.000</version>
+		<rom name="Senko no Ronde SP (World) (Track 1).bin" size="705600" crc="38b19445" md5="0baf7d8ab341e11f4724316724a11450" sha1="38a55ab240546fe2374082e65d9513b4a5656f06"/>
+		<rom name="Senko no Ronde SP (World) (Track 2).bin" size="5369616" crc="5936f07d" md5="65a39e76e9315aeae5d2fc383b8b063d" sha1="c9148e24e4254818b5b193c00777a706458dad1d"/>
+		<rom name="Senko no Ronde SP (World) (Track 3).bin" size="1185760800" crc="517f9fd1" md5="35e834a486dfbbbedcca82f8a6e0fb9d" sha1="5b0708fad5418b2cc56e1f6a7a47fc256a312fad"/>
+		<rom name="Senko no Ronde SP (World).cue" size="369" crc="8285784b" md5="f25cc8c2901c1cd47531c658c65ee5ed" sha1="43741bd250e7d9e8d71f709753e7b362fa3ca3c7"/>
 	</game>
 	<game name="Slashout (World) (En,Ja)" id="69429">
 		<category>Games</category>
