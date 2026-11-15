@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Audio CD</name>
-		<description>Audio CD - Datfile (7691) (2026-11-14 08-25-26)</description>
-		<version>2026-11-14 08-25-26</version>
-		<date>2026-11-14 08-25-26</date>
+		<description>Audio CD - Datfile (7692) (2026-11-15 07-59-52)</description>
+		<version>2026-11-15 07-59-52</version>
+		<date>2026-11-15 07-59-52</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -186215,6 +186215,16 @@
 		<rom name="Theta de Tsukisashite (Japan) (Track 3).bin" size="57990912" crc="c5d9dbec" md5="48ce7d9bf5773d6159732493dcbd8dde" sha1="e5aa879648674db55cfbda80fcad6da4800f7881"/>
 		<rom name="Theta de Tsukisashite (Japan) (Track 4).bin" size="38088288" crc="7b16cc51" md5="b1fe0b74e9340642ddb06a800e9a5511" sha1="05b91246d1208ca5ed7d1d1077e5ef2cc0bf54e8"/>
 		<rom name="Theta de Tsukisashite (Japan) (Track 5).bin" size="51489984" crc="cc262394" md5="3abf2a8b6e30eda7b59fa5bfc25046b4" sha1="21f776f4bc20564e1bb87e804f551d98116b9d35"/>
+	</game>
+	<game name="This Illusion (Japan)" id="140225">
+		<category>Audio</category>
+		<serial>TMC-1001</serial>
+		<description>This Illusion (Japan)</description>
+		<rom name="This Illusion (Japan).cue" size="437" crc="fc52d76f" md5="72f37df2f1b3865be2f6724ee21ee38b" sha1="feb5d5a736ea9f175464d5f3d2267048ad81dffb"/>
+		<rom name="This Illusion (Japan) (Track 1).bin" size="43987104" crc="e62fc047" md5="5b30f42acc809b7da5ad6030df2f1a8a" sha1="4648c017c210401c1ab7ab61d2db59254628b458"/>
+		<rom name="This Illusion (Japan) (Track 2).bin" size="46863600" crc="36fdb015" md5="6b9500a5b59f065db94cea27000bc0cd" sha1="0d7d295ba034f46d05906473f597bc1bd0867732"/>
+		<rom name="This Illusion (Japan) (Track 3).bin" size="44382240" crc="4ce5110c" md5="0386bc534ed748a1bc3c53dea18a4739" sha1="5b8c206550b5170d7eba9578014afc031f59506c"/>
+		<rom name="This Illusion (Japan) (Track 4).bin" size="46875360" crc="0453b040" md5="d7402dd1d00610cd588fe566c42f0fdc" sha1="2e947e917704e2e7966e0145b688551316810700"/>
 	</game>
 	<game name="This Is the Police 2 - Soundtrack (Korea)" id="136767">
 		<category>Bonus Discs</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (1,038) (-y) [-aAbBcdkmMpPuv] (2026-11-14 06-05-31) (Retool)</description>
-		<version>2026-11-14 06-05-31</version>
-		<date>2026-11-14 08-59-48</date>
+		<description>DVD-Video (1,039) (-y) [-aAbBcdkmMpPuv] (2026-11-15 02-39-52) (Retool)</description>
+		<version>2026-11-15 02-39-52</version>
+		<date>2026-11-15 09-13-37</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2275,6 +2275,11 @@
 		<category>Bonus Discs</category>
 		<description>Hospital. 6-nin no Ishi Special DVD (Japan)</description>
 		<rom name="Hospital. 6-nin no Ishi Special DVD (Japan).iso" size="3222921216" crc="e16500e0" md5="556265d6dd7acecdd351575a5277db42" sha1="e08630faf0cfe92b81fb2558dbe241032fe07602"/>
+	</game>
+	<game name="Hot Trax - Volume 1 (USA) (PC Game Bundle)" id="140258">
+		<category>Bonus Discs</category>
+		<description>Hot Trax: Volume 1 (USA) (PC Game Bundle)</description>
+		<rom name="Hot Trax - Volume 1 (USA) (PC Game Bundle).iso" size="1951563776" crc="66fb0896" md5="289c374a6946b3806f797be4649a5bc7" sha1="c6d7b5a2aef227c212e6af84ea80000004e71a37"/>
 	</game>
 	<game name="Hourglass of Summer (USA)" id="107816">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,225) (-y) [-aAbBcdkmMpPuv] (2026-11-14 03-05-26) (Retool)</description>
-		<version>2026-11-14 03-05-26</version>
-		<date>2026-11-14 09-00-28</date>
+		<description>IBM - PC compatible (27,240) (-y) [-aAbBcdkmMpPuv] (2026-11-15 08-49-52) (Retool)</description>
+		<version>2026-11-15 08-49-52</version>
+		<date>2026-11-15 09-13-23</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -116,6 +116,12 @@
 		<version>20000804-00</version>
 		<rom name="10 Pro Board Games (USA).bin" size="46522560" crc="8cf6f727" md5="3cd7df4621033e43409490e07d81dc6f" sha1="bc2eb805454e9d0c934c2c68efabbaa0245993c4"/>
 		<rom name="10 Pro Board Games (USA).cue" size="90" crc="a4f9796e" md5="8cbf8c7751652d5a47d91bd394416324" sha1="406b29b1dc756634edbfde62e3076023efd8936b"/>
+	</game>
+	<game name="10 Talismans (USA)" id="140254">
+		<category>Games</category>
+		<description>10 Talismans (USA)</description>
+		<rom name="10 Talismans (USA).bin" size="13690992" crc="32788183" md5="fd2059673cc44dc0d2c3ec737172d101" sha1="56f9fae81da7104ca22a163656963dd347695362"/>
+		<rom name="10 Talismans (USA).cue" size="84" crc="f8eba006" md5="ebf692dbd1558085c031ae973d605f9e" sha1="81483dbd153a8eb097cb9b6190a8dc94fe1162c7"/>
 	</game>
 	<game name="100 Action Arcade Games Vol. 4 (Canada)" id="90228">
 		<category>Games</category>
@@ -19754,11 +19760,11 @@
 		<rom name="Beat the House 2 (USA).bin" size="290217984" crc="a32f70fa" md5="f4065c6f6bdc25c4e6cd5a684f9a3c90" sha1="27fc881908a93dda65e9fcd8d12ece1232704ba6"/>
 		<rom name="Beat the House 2 (USA).cue" size="88" crc="dba8c003" md5="c368d39611fc94f7f3c7d846bd03ff57" sha1="bb6f593b826f409fa71ac0ee93b6dc15a6ef89c0"/>
 	</game>
-	<game name="Beauty Factory (Europe)" id="93668">
+	<game name="Beauty Factory (USA) (En,Fr)" id="140259">
 		<category>Games</category>
-		<description>Beauty Factory (Europe)</description>
-		<rom name="Beauty Factory (Europe).bin" size="137354448" crc="6309a98d" md5="c3cf02d3562b482568189faeca2eb5dd" sha1="ff2b49cbf792baab79f4c13a9d85e9bb029b938d"/>
-		<rom name="Beauty Factory (Europe).cue" size="89" crc="79127b5c" md5="f39bac32f457ae82b04ef8a21f172c13" sha1="459ba9da493a06f6e70de440f53a6e584128eddd"/>
+		<description>Beauty Factory (USA) (En,Fr)</description>
+		<version>1.0</version>
+		<rom name="Beauty Factory (USA) (En,Fr).iso" size="207945728" crc="6462d378" md5="1460be2fb0b24f2f9ecbc42cba2a98fc" sha1="33964c8337dc3a8609e967fd8cc824613fdbb7eb"/>
 	</game>
 	<game name="Become a British Isles Explorer (UK) (Covermount)" id="107831">
 		<category>Educational</category>
@@ -38295,7 +38301,7 @@
 	<game name="Culpa Innata (USA)" id="81888">
 		<category>Games</category>
 		<description>Culpa Innata (USA)</description>
-		<serial>90389DVD</serial>
+		<serial>903809DVD</serial>
 		<rom name="Culpa Innata (USA).iso" size="1646919680" crc="61b190bd" md5="94c91fd4fc3a57b0181aeed13d969fc0" sha1="30d8fd49a581880c9ffff0d8bcfdc50f5d530d57"/>
 	</game>
 	<game name="Cult Akazukin Chacha (Japan)" id="96370">
@@ -44087,12 +44093,11 @@
 		<rom name="Destiny (Japan) (Track 11).bin" size="26942160" crc="c4df124a" md5="fb332f06ae7839854c0e3ddc119e0dae" sha1="c7cbba2df765b19d5fc9b2e11db5d5ef1afccac8"/>
 		<rom name="Destiny (Japan).cue" size="1357" crc="d34119dc" md5="dde55b64ac0bf0ce735517335835656c" sha1="e9801625fc984d9d431d0d6d0c755e8f6131fbf1"/>
 	</game>
-	<game name="Destroyer Command (Russia)" id="109929">
+	<game name="Destroyer Command (Spain)" id="140253">
 		<category>Games</category>
-		<description>Destroyer Command (Russia)</description>
-		<version>1.0.3</version>
-		<rom name="Destroyer Command (Russia).bin" size="673631616" crc="8a462abf" md5="a9c53839dcec4ebdddb2f82a333dbe2b" sha1="c7e2f9059f22f95fc283b8e763ffac9bb3a3516b"/>
-		<rom name="Destroyer Command (Russia).cue" size="92" crc="df1bce92" md5="87b748eba64799cb86413ef095084138" sha1="92f8629b1410a8208176523844317b48a69b3ce6"/>
+		<description>Destroyer Command (Spain)</description>
+		<rom name="Destroyer Command (Spain).bin" size="783216000" crc="8d758394" md5="d2913056597d1719c4962249a32b286d" sha1="545008a81cefeed97d606eaa3e26b273171cb13d"/>
+		<rom name="Destroyer Command (Spain).cue" size="91" crc="d60f326e" md5="2b625e6957fbbca7f5bd06df6ddb040b" sha1="1e2a4c6c86c47e0a4dc235d15ae66da4b9bead21"/>
 	</game>
 	<game name="Destroyer Command - WWII Naval Combat Simulator (USA, Asia)" id="64920">
 		<category>Games</category>
@@ -50291,7 +50296,7 @@
 	<game name="Doom 3 - Resurrection of Evil (World)" id="13010">
 		<category>Add-Ons</category>
 		<description>Doom 3: Resurrection of Evil (World)</description>
-		<serial>32649.101.IT, 32649.101.UK, 32649.101.US, 32649.101.AU</serial>
+		<serial>32649.101.IT, 32649.101.UK, 32649.101.US, 32649.101.AU, 32649.101.00</serial>
 		<version>1.0</version>
 		<rom name="Doom 3 - Resurrection of Evil (World).bin" size="775821312" crc="ac356de2" md5="424f57d26bb332d5ab49a2a852c78199" sha1="da041e66da9f958e564fd62acfc91670750ce22b"/>
 		<rom name="Doom 3 - Resurrection of Evil (World).cue" size="103" crc="a8411376" md5="4b877fac3c4b12737e51111acea873c6" sha1="c6c9ab5c7f14ddbea145f1c6947863bc99666866"/>
@@ -60141,22 +60146,21 @@
 		<rom name="F-15 Strike Eagle III (Germany).bin" size="184309776" crc="a1309da3" md5="2e2dbd2c01468e14ba5514af0020bf62" sha1="18740e12fdfbb97974342452f22227d9af322924"/>
 		<rom name="F-15 Strike Eagle III (Germany).cue" size="97" crc="a5224732" md5="269d184c5a70c63b0bffa58dc5d3a456" sha1="ab94c52f307a71326ed7eb597c8b2607ee6f54ce"/>
 	</game>
-	<game name="F-16 Aggressor (Europe) (En,Fr,De)" id="100308">
+	<game name="F-16 Aggressor (Europe) (Sold Out Software)" id="140251">
 		<category>Games</category>
-		<description>F-16 Aggressor (Europe) (En,Fr,De)</description>
-		<version>3.05.000</version>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De) (Track 01).bin" size="424528944" crc="cb965762" md5="e5899f8aa85438dc450a6af1e148a743" sha1="3b1d6cdbc0b467ffdc590c8827ac31a473e938e4"/>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De) (Track 02).bin" size="26057808" crc="42c1f9a4" md5="1b6c1bde2b34a2fa1497de7daa9758b7" sha1="ca396fdf033fde0512cda3b19bce54abf138b604"/>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De) (Track 03).bin" size="24599568" crc="33e48248" md5="9bff2c9c169fbddef45ad70c26a46adb" sha1="7a8d542bdb6fce99526fb6362e9dd0a6c4d65d1f"/>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De) (Track 04).bin" size="27396096" crc="acf4f0b2" md5="abfca93075b85081c49919da6a33af99" sha1="9ae44fff95157d09aca71ed0e5337cd71f52e43c"/>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De) (Track 05).bin" size="44321088" crc="6dc77c73" md5="8410fffdcffe4fc79f79d6e7c3d65cc1" sha1="1f449bbb9008fbd9fe05f8a43d4437a8d0b1846e"/>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De) (Track 06).bin" size="49043904" crc="2b179126" md5="c7ba1926d4a8fe3c2fd321e9f08b8c29" sha1="f76523812015b930130f73fd9a6bc0330c76671a"/>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De) (Track 07).bin" size="44170560" crc="36b0de61" md5="59c3bd93f10c7dad3171b771495356ab" sha1="47521d3ea3cc67b08eb04ff043bd3cebcc12d51b"/>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De) (Track 08).bin" size="44497488" crc="c2dd540a" md5="2e642e86b3b334c9f8a54d33803fe163" sha1="2e912e32f948ac8ad818e221cda1d1c51c6b515e"/>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De) (Track 09).bin" size="50151696" crc="ac2ed445" md5="46e7e0a8669e7c72b7f11b74ba827515" sha1="e3a858fcba3f2820cadd5f9a2de6129c5384683b"/>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De) (Track 10).bin" size="34129872" crc="629251cf" md5="ef93ef51486cf1f790e5d066a9828118" sha1="27934ad17d6f4e7d5dc8e921ab8735de4fe73e6f"/>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De) (Track 11).bin" size="26709312" crc="3f327307" md5="0171c4f318f825406783740447896406" sha1="450720ee6be900ab93db40c9a93aae9da7e96b70"/>
-		<rom name="F-16 Aggressor (Europe) (En,Fr,De).cue" size="1378" crc="20e75df4" md5="e5ea5653b3c3d37214d38a1abe8c5e16" sha1="c67cc042f2de575ee30435ab3ec72746774eee5c"/>
+		<description>F-16 Aggressor (Europe) (Sold Out Software)</description>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software) (Track 01).bin" size="462619584" crc="b4462323" md5="ba93f2d4f0c51b138acd041e65ff928d" sha1="7ca2f9837bf7f571b558f3db09ce0097cec99b25"/>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software) (Track 02).bin" size="26328288" crc="7cdc9fa0" md5="952bd0e09dae2192856b16ed4a6bbe41" sha1="d2a0a235f587dbd9740ca8f1576a09a072e30862"/>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software) (Track 03).bin" size="24434928" crc="f98d8f81" md5="1e471b0b6646c998a12dfc3fcabc254c" sha1="7af38031bcae617fbca28ec0b0a8d2840120da07"/>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software) (Track 04).bin" size="27396096" crc="6aa83f1d" md5="fc9d0e76bddb9e72e4e500499649d80c" sha1="c957358940d5c10c50dd0e83fb2c8f1ebb612068"/>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software) (Track 05).bin" size="44147040" crc="21f27c78" md5="d08a3e1bac51d4bd13b9b6e8f7ec3ff3" sha1="a1de65c47325e0299a4ef1f48c8fae7cf6f70fa2"/>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software) (Track 06).bin" size="49036848" crc="ce2e6713" md5="a192aa30262c08690343e2dc804b589a" sha1="fbd43289b023e48cafb4be27e39700959792fbe3"/>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software) (Track 07).bin" size="44104704" crc="9fb5be54" md5="182ebec0eb6cf1709f2893e7fb173d73" sha1="bbfd254f551e63dbee5e26901c19e34fdea7e733"/>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software) (Track 08).bin" size="44368128" crc="300c23dc" md5="a5affb1c9a8bcd152e4c53c5341ac52b" sha1="41d1f11ec29e7629f989c4cce2ed03bfbfa57064"/>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software) (Track 09).bin" size="50076432" crc="2e465a76" md5="85a547fe72f6cbd16289a53e53c10a00" sha1="8d53a444d81310d6ed53b5155deb3226114b1b43"/>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software) (Track 10).bin" size="34045200" crc="a424cdff" md5="9cad4836d7ac7b997a858f466d5b5b93" sha1="19a78cf058b40ce513ef8911aa7e06b9409cb01b"/>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software) (Track 11).bin" size="27022128" crc="08f5bf79" md5="8f6c5a105abaab5f955eccf91677740e" sha1="aa8c6c09fece1ae9219537663471c814aeada97d"/>
+		<rom name="F-16 Aggressor (Europe) (Sold Out Software).cue" size="1500" crc="c1f4fa2b" md5="bb29255fdc1f806216f2e99819901578" sha1="0f9cdea4fe8e31875ae27de821c07eb8c6a044a2"/>
 	</game>
 	<game name="F-16 Fighting Falcon (USA) (En,Fr,De,Es)" id="132837">
 		<category>Add-Ons</category>
@@ -72155,6 +72159,12 @@
 		<rom name="General Admission Time Out Sports Basketball (USA).bin" size="692960352" crc="68b6ef54" md5="e17263fbc8e0bf07be0ee3c583d6d723" sha1="f4872096b1e6b42c8a9052bf2ee1732ef9209d9a"/>
 		<rom name="General Admission Time Out Sports Basketball (USA).cue" size="139" crc="43c6cdd1" md5="d58f08d7989889760ff998eac858861c" sha1="157253c67757802a25046deb916a84473a2aed73"/>
 	</game>
+	<game name="General Election (UK)" id="140249">
+		<category>Games</category>
+		<description>General Election (UK)</description>
+		<rom name="General Election (UK).bin" size="15073968" crc="705ca323" md5="f6a94d3763482e0c5b5d513030ad7c66" sha1="57270c897e2eb8a92c84d10975fd24450e47a5be"/>
+		<rom name="General Election (UK).cue" size="87" crc="e3f8e7cd" md5="2ba6d1a8028328de3c2da90f8a39dd56" sha1="20162eacd4fc3a5eecf184fdd9e056d93e9bab69"/>
+	</game>
 	<game name="Generation Xth - Code Realize (Japan)" id="89904">
 		<category>Games</category>
 		<description>Generation Xth: Code Realize (Japan)</description>
@@ -74283,6 +74293,13 @@
 		<description>Golod (Russia, Ukraine) (Disc 2)</description>
 		<rom name="Golod (Russia, Ukraine) (Disc 2).bin" size="594606768" crc="16deb8ad" md5="5ceb1c75a712fb7aac6d8fc2dfde89d2" sha1="4f686db55acaa382dd2a612f484548ffa30bab8e"/>
 		<rom name="Golod (Russia, Ukraine) (Disc 2).cue" size="98" crc="9e723f4f" md5="fefeec1da7980444d54f978a54e29cc8" sha1="efa9e8c41d40447c5bd6d5112552bd07292551a1"/>
+	</game>
+	<game name="Golovorezy na dzhipax (Russia)" id="140227">
+		<category>Games</category>
+		<description>Golovorezy na dzhipax (Russia)</description>
+		<version>1.03</version>
+		<rom name="Golovorezy na dzhipax (Russia).bin" size="174525456" crc="0b7f9fa3" md5="25ecf99c670c740ed69de498813aa8d9" sha1="44b32cfd9be32c657f53030fb4281b4aab13ea19"/>
+		<rom name="Golovorezy na dzhipax (Russia).cue" size="96" crc="9d5bf7f2" md5="bc0c4a9465ab187e550f493bd25a5114" sha1="9f111f36cd6cdb1915cfad00c7d1b70f4d11fdb3"/>
 	</game>
 	<game name="Gone - Sugisarishi Hibi (Japan)" id="95957">
 		<category>Games</category>
@@ -83619,11 +83636,11 @@
 		<rom name="Hopkins FBI (USA) (BeOS).bin" size="662680704" crc="78d248bb" md5="5800fb9e3d390e2012ae171b40e3606a" sha1="5509776f5920759720a987625b00283f4af120c1"/>
 		<rom name="Hopkins FBI (USA) (BeOS).cue" size="90" crc="ba153b94" md5="3d6592efe29be42d848e70c890b9e65b" sha1="2b70252bcee99246b389e77fc52a5bb458caccf5"/>
 	</game>
-	<game name="Hopmon (Europe)" id="27786">
+	<game name="Hopmon (Europe)" id="140248">
 		<category>Games</category>
 		<description>Hopmon (Europe)</description>
 		<serial>APWCDR1030</serial>
-		<rom name="Hopmon (Europe).bin" size="3083472" crc="cd96d2e1" md5="fd4b92e765183d6d52e797e1b72624cb" sha1="0d2777070915de06a32a966375764d5dae845f77"/>
+		<rom name="Hopmon (Europe).bin" size="32862144" crc="f08c1eea" md5="cb0c2307f944e8e448c920b42ada631c" sha1="deb7751914698632a61a560a0772dd134b19f795"/>
 		<rom name="Hopmon (Europe).cue" size="81" crc="e2d51a45" md5="32e8542c276375f0354179a7de8ee8b7" sha1="ee4aa0595d4e2d4b592f7a713b521d8b865bc6aa"/>
 	</game>
 	<game name="Horde - Northern Wind (Taiwan)" id="87174">
@@ -88274,6 +88291,20 @@
 		<version>F12.0</version>
 		<rom name="Independence War 2 - Edge of Chaos (USA, Korea) (Disc 2) (Play).bin" size="739525248" crc="7e7afdf5" md5="4793c3c3b80e46ad35cbe640f7aeb807" sha1="fb7e70ea8595058a1438e26da51901b847937b23"/>
 		<rom name="Independence War 2 - Edge of Chaos (USA, Korea) (Disc 2) (Play).cue" size="129" crc="033acd4f" md5="956ca3a14cabe33486ab8e27385d2ea3" sha1="0b20a3a7e2245797fccf50f82243dc6fb015a605"/>
+	</game>
+	<game name="Independent Games (USA)" id="140260">
+		<category>Games</category>
+		<description>Independent Games (USA)</description>
+		<serial>(423-01)</serial>
+		<rom name="Independent Games (USA).bin" size="815118528" crc="a1f237d5" md5="aec99310d3116691a77cc602b7a6be2a" sha1="f6f6c252b77afc10edaf3baaab4767e3d9d9c435"/>
+		<rom name="Independent Games (USA).cue" size="89" crc="beb9ccf2" md5="3398f025bfe6aeb97a40ed613cf5d1d0" sha1="c2a62041f5b846988e79a85c60dcb885ece41b47"/>
+	</game>
+	<game name="Independent Games - Volume 2 (USA)" id="140261">
+		<category>Games</category>
+		<description>Independent Games: Volume 2 (USA)</description>
+		<serial>(423-02)</serial>
+		<rom name="Independent Games - Volume 2 (USA).bin" size="694637328" crc="3255021c" md5="9015f73d4d5cee5f4dea910326e6f4db" sha1="587cd75adfdbae62737e1cc4b44d9aed60ad6ecc"/>
+		<rom name="Independent Games - Volume 2 (USA).cue" size="100" crc="5203dcf4" md5="8c0cab35ba77d82a56ed130c7086d82f" sha1="c2d03333156f2172d13f5125634fea36265f7e1d"/>
 	</game>
 	<game name="Independent, The - Grand Master Sudoku (UK)" id="110132">
 		<category>Games</category>
@@ -103472,6 +103503,13 @@
 		<description>Lew Leon (Poland) (Rerelease) (1997-06-13)</description>
 		<rom name="Lew Leon (Poland) (Rerelease) (1997-06-13).bin" size="726643344" crc="50f10c73" md5="d8ba023127d44f46dbcf9a2a8f8e254e" sha1="b816fbafefac43722b85ce214b7891a607827c84"/>
 		<rom name="Lew Leon (Poland) (Rerelease) (1997-06-13).cue" size="108" crc="ec470fd3" md5="b316989afdca3b21e7dacb2d88637a75" sha1="d69aa3e6193d81c1fa9959d09101b911ad40efdd"/>
+	</game>
+	<game name="Lexicon Word Challenge (Europe)" id="140246">
+		<category>Games</category>
+		<description>Lexicon Word Challenge (Europe)</description>
+		<version>1.2</version>
+		<rom name="Lexicon Word Challenge (Europe).bin" size="63405216" crc="6be5af6a" md5="e7cd04ffae20188af3a7b1e7a50d31c3" sha1="2bde8165604d399fa345397912e721f58108c636"/>
+		<rom name="Lexicon Word Challenge (Europe).cue" size="97" crc="62b4ad9b" md5="1a1a0b2c5aeb6d25f982cadb6ad0411b" sha1="8e20e68ab866c55569bfa08d5abdb6501e7bdfc9"/>
 	</game>
 	<game name="Leyenda de la Isla Perdida, La (Argentina)" id="102018">
 		<category>Games</category>
@@ -123671,11 +123709,11 @@
 		<rom name="Multiwinia - Survival of the Flattest (Europe).bin" size="694738464" crc="85083bf2" md5="7ff2d702e22dbbb5c7c7b5fbd64dbe1d" sha1="b3756e7e7cfe59956f532cbd412ea515f3a115ab"/>
 		<rom name="Multiwinia - Survival of the Flattest (Europe).cue" size="112" crc="c09cb670" md5="6ed7cab3476d04f26a0fb3c8c1fec39c" sha1="8895ce76a4a40ce8c0cfe092339766a957ad2fea"/>
 	</game>
-	<game name="Mumble Jumble (UK)" id="109744">
+	<game name="Mumble Jumble (Europe)" id="140237">
 		<category>Games</category>
-		<description>Mumble Jumble (UK)</description>
-		<rom name="Mumble Jumble (UK).bin" size="114307200" crc="b61faf60" md5="f164a472da4bc82a649a28466f0c4ac8" sha1="f04a2c435eaa0dcfe9493638cd57103f9c128026"/>
-		<rom name="Mumble Jumble (UK).cue" size="84" crc="cd648dda" md5="82106981271dba93c15dc6d386ed40a2" sha1="31cfaf674e667c1a628c195aba2c7d0d350268e1"/>
+		<description>Mumble Jumble (Europe)</description>
+		<rom name="Mumble Jumble (Europe).bin" size="114128448" crc="fead2ecc" md5="0ff5403fc897ee81b9f50688af3d8fd4" sha1="f442d8aa7f809b901902ecfb399a4b4a3fc92e9f"/>
+		<rom name="Mumble Jumble (Europe).cue" size="88" crc="1335ab0a" md5="f99c77e4ff44a363854ee7d134682c2c" sha1="bc1a763a00a8ab975ed44f6110ab217551f7ce56"/>
 	</game>
 	<game name="Mumi-trolli - Morskaya progulka (Russia)" id="112189">
 		<category>Games</category>
@@ -130079,12 +130117,12 @@
 		<rom name="Nightfall Mysteries (USA).bin" size="599115552" crc="4e161802" md5="c2f9b0fd90a1531589cb6f5f54f2d70b" sha1="8ea41368524c520af52e11a48f6618e58a129839"/>
 		<rom name="Nightfall Mysteries (USA).cue" size="91" crc="d51618bb" md5="bf28cd61b5848187616ace6df8c968c3" sha1="1884a325bf026f431ea92630d99aa95ad9a7abac"/>
 	</game>
-	<game name="Nightfall Mysteries - Curse of the Opera (Australia)" id="124144">
+	<game name="Nightfall Mysteries - Curse of the Opera (Europe)" id="140243">
 		<category>Games</category>
-		<description>Nightfall Mysteries: Curse of the Opera (Australia)</description>
+		<description>Nightfall Mysteries: Curse of the Opera (Europe)</description>
 		<serial>MTC000539-D</serial>
-		<rom name="Nightfall Mysteries - Curse of the Opera (Australia).bin" size="669322752" crc="ccf6d4b9" md5="431dae9e8a1e7e20babf570345591ac4" sha1="a9e8d3b8c72097cf43d0d8bf4d16b0e0262e94c5"/>
-		<rom name="Nightfall Mysteries - Curse of the Opera (Australia).cue" size="118" crc="7e7c6244" md5="e04b3fe77e385b9b699fc9ee51c4402d" sha1="878f3338c5134dc1b5e091aa72c7a90bd08e0d9a"/>
+		<rom name="Nightfall Mysteries - Curse of the Opera (Europe).bin" size="669327456" crc="aad5eb76" md5="6b27ed98f02904d31d8115808d279c7e" sha1="68621650936f06627b590fe8820b5dbda21306a7"/>
+		<rom name="Nightfall Mysteries - Curse of the Opera (Europe).cue" size="115" crc="6fcc0457" md5="2fb067dbb3eb187d0c7570d37192eb97" sha1="bd26b926e5311550c7c327559c50d0593a3816e1"/>
 	</game>
 	<game name="Nightfall Mysteries - Der Fluch der Oper (Germany)" id="89407">
 		<category>Games</category>
@@ -134172,6 +134210,12 @@
 		<rom name="Ou est Charlie Au cirque (France).bin" size="219429840" crc="6a201450" md5="7b1aa623227fa7d6b48436ffb1390036" sha1="d0925efcb2efc3deb4d398c2371c1b73720fd608"/>
 		<rom name="Ou est Charlie Au cirque (France).cue" size="122" crc="59440986" md5="3994f543517fef6070f1ecac1f8315d8" sha1="ea004d8996e6f2b0ac48ffc693a9791ef48baf7c"/>
 	</game>
+	<game name="Ouba - The Great Journey (USA)" id="140255">
+		<category>Games</category>
+		<description>Ouba: The Great Journey (USA)</description>
+		<rom name="Ouba - The Great Journey (USA).bin" size="175271040" crc="43a89e3a" md5="cfa4a65607c03e639ea2bde1ff68c44e" sha1="459815216374f50786d2680e6e5799dff2a99e46"/>
+		<rom name="Ouba - The Great Journey (USA).cue" size="96" crc="264a62d8" md5="77bf87c494e02c567724524aca6ffa17" sha1="fd5529515c601023a4c0db4c13f35a3c23360e58"/>
+	</game>
 	<game name="Oudou Aniki (Japan)" id="108031">
 		<category>Games</category>
 		<description>Oudou Aniki (Japan)</description>
@@ -135698,6 +135742,20 @@
 		<rom name="Pacific Theatre (USA).bin" size="38857392" crc="1a31a4d8" md5="23cc4a168f8b1f30080f8841dcf8f53d" sha1="fa41c3d98fc10b0fee3ec81225e729dc9db7322c"/>
 		<rom name="Pacific Theatre (USA).cue" size="87" crc="f292599b" md5="4add0a8113769f76acf0247b9c493966" sha1="ac20b4b8a346bd7b637a82f046532798a12ab4e0"/>
 	</game>
+	<game name="Pacific Warriors (Europe)" id="140242">
+		<category>Games</category>
+		<description>Pacific Warriors (Europe)</description>
+		<serial>CD-W95-V072-EWL</serial>
+		<rom name="Pacific Warriors (Europe) (Track 1).bin" size="98765184" crc="e301a6fe" md5="51f9c4911521b3904d3853e31df3c337" sha1="6ce11048789edbbfe11e6ae95a8ac14bbd0ee25b"/>
+		<rom name="Pacific Warriors (Europe) (Track 2).bin" size="47940816" crc="86c0a592" md5="319fb14f68b6b546ae6a7fafae6221fa" sha1="66704d0542fbf8f71f1bd5394afc760ad321878d"/>
+		<rom name="Pacific Warriors (Europe) (Track 3).bin" size="43671936" crc="eccde853" md5="11c28eaa32e08855c3922eb2bec1a332" sha1="1892974a0565f368e6e2f9a14862f6461eafd601"/>
+		<rom name="Pacific Warriors (Europe) (Track 4).bin" size="45363024" crc="24c11a63" md5="b9b65e7861f46029675fac895d6c3d07" sha1="16c502e6f47b2c1bd2b414d066f10b2280a6f28b"/>
+		<rom name="Pacific Warriors (Europe) (Track 5).bin" size="46524912" crc="e66dc5b8" md5="578a3efd2b78e341cf2c62cb23cdfdbf" sha1="383c626abc658fde890b932302f8041c6b334674"/>
+		<rom name="Pacific Warriors (Europe) (Track 6).bin" size="46694256" crc="1a763714" md5="05c1af2aa236f56de3d2a466bda73c6d" sha1="bd60225e0b1d8ca95305c96f9ab1c06359824977"/>
+		<rom name="Pacific Warriors (Europe) (Track 7).bin" size="20808144" crc="fcffc473" md5="60d45a1eb41363f7bddd387e71674982" sha1="ab66b6c04b4de02a28cf87851a48904cbc0170cd"/>
+		<rom name="Pacific Warriors (Europe) (Track 8).bin" size="1192464" crc="a87bb4f1" md5="b15050d6d4bce1fa7858060802dc6159" sha1="2fa1fe1f67184868d28f858f8a9583fc0f154e09"/>
+		<rom name="Pacific Warriors (Europe).cue" size="934" crc="03243309" md5="aa3b9fa2fb6e9da2ebc9978f7fe13241" sha1="733100c008164589ea752c840e9bb43652191d1b"/>
+	</game>
 	<game name="Pacific Warriors - Air Combat Action (Germany) (En,Fr,De,Es,It,Nl)" id="100594">
 		<category>Games</category>
 		<description>Pacific Warriors: Air Combat Action (Germany) (En,Fr,De,Es,It,Nl)</description>
@@ -136510,6 +136568,12 @@
 		<rom name="Panthalassa - The Alternative Noah (Korea) (Track 10).bin" size="18086880" crc="8cc302e4" md5="deaed67cf3c490312eefc2a7957bf016" sha1="d9e6b111947cac3269b14f6a86e1491f7e2d9563"/>
 		<rom name="Panthalassa - The Alternative Noah (Korea) (Track 11).bin" size="1907472" crc="489d26f0" md5="ff9449ee3362f16fa722a039f6c84978" sha1="a15532d7e01c25745ffcadeeada9a3e7253ff320"/>
 		<rom name="Panthalassa - The Alternative Noah (Korea).cue" size="1282" crc="dfe03189" md5="6e0ec0be0e04cd43dd6e5cc5a513b350" sha1="2271be98699791b00ee6be96628740591d41dcc0"/>
+	</game>
+	<game name="Pantheon (USA)" id="140256">
+		<category>Games</category>
+		<description>Pantheon (USA)</description>
+		<rom name="Pantheon (USA).bin" size="15711360" crc="e8d0d42f" md5="0e7ee18fe259d7988408dab3a2121458" sha1="4f8a3ad15b52253a08497f4a88b882cdfc069f54"/>
+		<rom name="Pantheon (USA).cue" size="80" crc="4676c33c" md5="ef8ec507d7a38c2835efff06b2daf3ca" sha1="c58b9c60230b8b8452dbfdef8e8dd46343c94aea"/>
 	</game>
 	<game name="Pantos Story (Japan)" id="71039">
 		<category>Games</category>
@@ -146791,13 +146855,12 @@
 		<rom name="Puzzle &amp; Mind Games for Windows (USA).bin" size="227130288" crc="abdf8b90" md5="bf3fa93de2b2cc70ea434c73c334d0bb" sha1="f6812a790a79aa617cdabf46c42a496c85a0c113"/>
 		<rom name="Puzzle &amp; Mind Games for Windows (USA).cue" size="103" crc="1322218a" md5="c1c86f9f54f403b101583c1eee34eee5" sha1="5338ac045e8ca579cb15eb333599dad58f1a0b55"/>
 	</game>
-	<game name="Puzzle &amp; Word Games (Australia)" id="106083">
+	<game name="Puzzle &amp; Word Games (Europe)" id="140241">
 		<category>Games</category>
-		<description>Puzzle &amp; Word Games (Australia)</description>
-		<serial>02-8101-10</serial>
+		<description>Puzzle &amp; Word Games (Europe)</description>
 		<version>1.0</version>
-		<rom name="Puzzle &amp; Word Games (Australia).bin" size="392548800" crc="23992669" md5="9dd4d787e390433b5d34a218a2992877" sha1="d593fb46a2037c35cf2241c460cde567ba3340e9"/>
-		<rom name="Puzzle &amp; Word Games (Australia).cue" size="97" crc="ce5c52d6" md5="3321ca187015a60861c0a720656d45a7" sha1="7a20092173a26fc165948306b3a01e87bc75597d"/>
+		<rom name="Puzzle &amp; Word Games (Europe).bin" size="392504112" crc="09e36ed2" md5="b64ebeb0e50287ff33bd8b427fc9ec8f" sha1="c8e8658cfdd4f49f776900f9bdb91404a63f0c54"/>
+		<rom name="Puzzle &amp; Word Games (Europe).cue" size="94" crc="290af294" md5="c365ed51f44329c8a671e9c51131b293" sha1="3cfc97be10182ca12087cea89e1ca1b783d8878b"/>
 	</game>
 	<game name="Puzzle (Poland) (Covermount)" id="84823">
 		<category>Games</category>
@@ -146911,6 +146974,13 @@
 		<rom name="Puzzle Master (USA).bin" size="48836928" crc="67a545fd" md5="701c0102c7dd58127ce16eef19511192" sha1="d3e980ff229baadb7f0b9b91703af4c053b58a05"/>
 		<rom name="Puzzle Master (USA).cue" size="85" crc="3c6bf73c" md5="2a35bbcfe464261057ea8d2c03f7e491" sha1="04dd079b942a748f27b30c9b7dc3854106a0312d"/>
 	</game>
+	<game name="Puzzle Master 2 (Europe)" id="140240">
+		<category>Games</category>
+		<description>Puzzle Master 2 (Europe)</description>
+		<version>1</version>
+		<rom name="Puzzle Master 2 (Europe).bin" size="103716144" crc="632244c2" md5="8a1a661042cba480505361ef65df648f" sha1="71729fd735162552315c6633474d0fa379440a20"/>
+		<rom name="Puzzle Master 2 (Europe).cue" size="90" crc="077017a6" md5="621ab62eef06cf5b0d7d1894afea1a61" sha1="d6a7284948a00537129965893d089aeccc0a5f26"/>
+	</game>
 	<game name="Puzzle Master 3 (USA)" id="113146">
 		<category>Games</category>
 		<description>Puzzle Master 3 (USA)</description>
@@ -146956,6 +147026,13 @@
 		<serial>P/N: 123112-G</serial>
 		<rom name="Puzzle Odyssey Collection (USA).bin" size="121788912" crc="817be096" md5="23ae472d80fabcd68b2d90a67ce7d263" sha1="c5ab5be56c9c16962402b2b1ffca95dd333d8f6d"/>
 		<rom name="Puzzle Odyssey Collection (USA).cue" size="97" crc="645cdb15" md5="97b45d48410e489a1caab150806d57b9" sha1="b76caa19265ec89bfa2e6a3393e7056d81aec042"/>
+	</game>
+	<game name="Puzzle Paradise (Europe)" id="140238">
+		<category>Games</category>
+		<description>Puzzle Paradise (Europe)</description>
+		<version>1.1</version>
+		<rom name="Puzzle Paradise (Europe).bin" size="127854720" crc="cf858389" md5="80cc733373aafb541c8f149dbb4c97d9" sha1="8446262dc47fdf2fd1245cec9d2f1592f768660d"/>
+		<rom name="Puzzle Paradise (Europe).cue" size="90" crc="b72a3d83" md5="9d429983ddd809ec5cc06069dc31c8e6" sha1="3637a419650006bc2608970f8fa54b5a66eec03e"/>
 	</game>
 	<game name="Puzzle Play Mazes (USA)" id="125854">
 		<category>Educational</category>
@@ -148432,12 +148509,11 @@
 		<rom name="Racing Simulation 3 (Europe) (En,Fr,De,Es,It).bin" size="788533872" crc="5b0c6322" md5="b2e048a25dde8c1204365909516f4a0e" sha1="44eb3bc51df3b5cd08ce6fcf6e56ab8f4be9a530"/>
 		<rom name="Racing Simulation 3 (Europe) (En,Fr,De,Es,It).cue" size="111" crc="dacc6949" md5="5f090febba51d90ba310954915f92c3b" sha1="c224e2faa2ada5de964cb32074930c5a7d61eb12"/>
 	</game>
-	<game name="Racing Team Manager (Europe) (Rerelease)" id="36642">
+	<game name="Racing Team Manager (Europe)" id="140236">
 		<category>Games</category>
-		<description>Racing Team Manager (Europe) (Rerelease)</description>
-		<serial>2177A</serial>
-		<rom name="Racing Team Manager (Europe) (Rerelease).bin" size="306719616" crc="f5a99e11" md5="2e9b63eacf74c0021135f57b772ef0b2" sha1="bbd8e8109d8d26e4508ac4353a382424dcdd7f5d"/>
-		<rom name="Racing Team Manager (Europe) (Rerelease).cue" size="106" crc="86815ebb" md5="3307260deedb3b627b57b38c678fb6b8" sha1="0f4f6ada21f4b1f98c65ff33bbc205fbafc99056"/>
+		<description>Racing Team Manager (Europe)</description>
+		<rom name="Racing Team Manager (Europe).bin" size="247126992" crc="01cf973b" md5="fd5b2a4d2792eac3b71e2eb365c29e01" sha1="79b6247cf4007874c559cdf218cc0a9187bfed5a"/>
+		<rom name="Racing Team Manager (Europe).cue" size="94" crc="f0bcdeef" md5="eaad11bb6c2fcd702d7f4b941c16150f" sha1="4e0ffd6990f5734793c83f6d30eb554c8f878049"/>
 	</game>
 	<game name="Raciocinar (Portugal)" id="137517">
 		<category>Games</category>
@@ -155103,17 +155179,17 @@
 		<rom name="Rise of the Robots (USA).bin" size="87581424" crc="4c09b9fd" md5="13dfb6aa00bc2d57790fedac1aa5ecb1" sha1="36af05c7b9c220dec5065c8da46e8e1ac41d623f"/>
 		<rom name="Rise of the Robots (USA).cue" size="113" crc="2275d931" md5="a885f28c7d0cfa46fbeb0e245b03c8e7" sha1="606466b6f7bcaf8cad3a1ace121d2c7bd0a13f7c"/>
 	</game>
-	<game name="Rise of the Tomb Raider (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Disc 1) (Rerelease)" id="71760">
+	<game name="Rise of the Tomb Raider (Europe, Australia) (Disc 1)" id="130633">
 		<category>Games</category>
-		<description>Rise of the Tomb Raider (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Disc 1) (Rerelease)</description>
-		<serial>MTR20VFE10</serial>
-		<rom name="Rise of the Tomb Raider (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Disc 1) (Rerelease).iso" size="8475508736" crc="f061f80c" md5="84c9809d1f47a01ed42641dffd390c28" sha1="9ba97f58a50f8760c483ff732f5deda850843db8"/>
+		<description>Rise of the Tomb Raider (Europe, Australia) (Disc 1)</description>
+		<serial>MRTTRVMB10</serial>
+		<rom name="Rise of the Tomb Raider (Europe, Australia) (Disc 1).iso" size="8521869312" crc="bf8c4699" md5="be61c3ac17c130cfe43f1586489894ae" sha1="b5cda739f41e28ef69dfe6b7d40d96353cf9a41d"/>
 	</game>
-	<game name="Rise of the Tomb Raider (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Disc 2) (Rerelease)" id="59707">
+	<game name="Rise of the Tomb Raider (Europe, Australia) (Disc 2)" id="130634">
 		<category>Games</category>
-		<description>Rise of the Tomb Raider (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Disc 2) (Rerelease)</description>
-		<serial>MRTTRVMB11, MTR20VMB11</serial>
-		<rom name="Rise of the Tomb Raider (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Disc 2) (Rerelease).iso" size="8049338368" crc="bedae1ab" md5="451289ed3ed040486e9eee56995e287b" sha1="2b6914792823a14603586df44ff2886981590e81"/>
+		<description>Rise of the Tomb Raider (Europe, Australia) (Disc 2)</description>
+		<serial>MRTTRVMB11</serial>
+		<rom name="Rise of the Tomb Raider (Europe, Australia) (Disc 2).iso" size="8514299904" crc="8d7c5212" md5="6394750b51e928aff05ed11824a0a2f9" sha1="b1c1b0f65315e8b6cb7bb85de1c52279e677977b"/>
 	</game>
 	<game name="Rise of the Triad - Dark War (USA) (Site License) (v1.3)" id="33505">
 		<category>Games</category>
@@ -165683,6 +165759,12 @@
 		<description>Shadow of Memories (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Shadow of Memories (Europe) (En,Fr,De,Es,It).bin" size="773356416" crc="6e3c0589" md5="1d759ed6a9a55f5b012c28f8d9ac1160" sha1="df0b0bae6678ea7684a0c08841f916bfb322ea97"/>
 		<rom name="Shadow of Memories (Europe) (En,Fr,De,Es,It).cue" size="110" crc="f0ad54b1" md5="7189e517272b4c377eb9bc802ad8a00b" sha1="d5a47b8b5931868c6316dff993ce614906a203c7"/>
+	</game>
+	<game name="Shadow of the Tomb Raider (Poland)" id="140233">
+		<category>Games</category>
+		<description>Shadow of the Tomb Raider (Poland)</description>
+		<serial>MSHTRVMB01</serial>
+		<rom name="Shadow of the Tomb Raider (Poland).iso" size="8455258112" crc="40f667b5" md5="4997cb2970bffab29f0e4ee0ce5ae1da" sha1="1e1cc8ff5559891e6e3262bacde4a7424c63335e"/>
 	</game>
 	<game name="ShadowCaster (USA, Europe)" id="24319">
 		<category>Games</category>
@@ -191409,6 +191491,16 @@
 		<rom name="Tomb Fever (Europe) (Track 2).bin" size="323084832" crc="b62531c8" md5="0723daa4c8f95fab422339d74ce2de70" sha1="c44ff2aea2018c2072f6f449ac7a6fb6caf3aa20"/>
 		<rom name="Tomb Fever (Europe).cue" size="222" crc="7fd2d576" md5="0254be77512af788e26118c614bb4b32" sha1="5406fe24f58f17e84acd2850ea616c9dd7029d4a"/>
 	</game>
+	<game name="Tomb Raider (Europe) (En,Nl,Pt,Zh,Ko,Cs) (Hra, Jatek) (2013)" id="140234">
+		<category>Games</category>
+		<description>Tomb Raider (Europe) (En,Nl,Pt,Zh,Ko,Cs) (Hra, Játék) (2013)</description>
+		<rom name="Tomb Raider (Europe) (En,Nl,Pt,Zh,Ko,Cs) (Hra, Jatek) (2013).iso" size="8459845632" crc="c7c64e98" md5="425187fd3b7c2302ecb5a0b5c3d934cd" sha1="5f0339e024a58a92735d1cd35bd424794cb684db"/>
+	</game>
+	<game name="Tomb Raider (Europe) (Gra) (2013)" id="140235">
+		<category>Games</category>
+		<description>Tomb Raider (Europe) (Gra) (2013)</description>
+		<rom name="Tomb Raider (Europe) (Gra) (2013).iso" size="8421539840" crc="17902e63" md5="96fcca9cc17d94dda33703798d208a49" sha1="b52276c66d1a980fcd9775033684a99902a72c5b"/>
+	</game>
 	<game name="Tomb Raider (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar) (2013)" id="59308">
 		<category>Games</category>
 		<description>Tomb Raider (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar) (2013)</description>
@@ -194945,6 +195037,12 @@
 		<rom name="TrickStyle (USA) (Diamond OEM) (Track 11).bin" size="33697104" crc="6cc96362" md5="8da37caf4c64f4f05b22b32a93cc04c6" sha1="ec3e03a46949885ea035668ccfb245574519a2b2"/>
 		<rom name="TrickStyle (USA) (Diamond OEM) (Track 12).bin" size="1060752" crc="eee33dca" md5="780e4b6c9034063a3ac5c4f73c2ddbd8" sha1="f06c19b3eabaacbce9d642e9a29d566bba53dff0"/>
 		<rom name="TrickStyle (USA) (Diamond OEM).cue" size="1482" crc="490e045c" md5="a61f524243985296982e85ae3033ef82" sha1="cddc99de87e1ea6a6b08b66d35a6a649c3073683"/>
+	</game>
+	<game name="Tricked n' Tuned - West Coast Streets (USA)" id="140257">
+		<category>Games</category>
+		<description>Tricked n' Tuned: West Coast Streets (USA)</description>
+		<rom name="Tricked n' Tuned - West Coast Streets (USA).bin" size="637883568" crc="20da3192" md5="d789ac2f2a7bf29c3bf3a963191e8b8c" sha1="e468ab9943eef90ee0d0633731499bb797c4377e"/>
+		<rom name="Tricked n' Tuned - West Coast Streets (USA).cue" size="109" crc="2fd24ba2" md5="da7a5ec9a94049ba470497cda594ac94" sha1="947d2607664d2ad68f7276dfe374abc19df9093e"/>
 	</game>
 	<game name="Tricks of the Doom Gurus (USA)" id="4479">
 		<category>Add-Ons</category>
