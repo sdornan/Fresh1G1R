@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - RingEdge 2</name>
-		<description>Arcade - Sega - RingEdge 2 - Datfile (45) (2026-10-23 10-18-56)</description>
-		<version>2026-10-23 10-18-56</version>
-		<date>2026-10-23 10-18-56</date>
+		<description>Arcade - Sega - RingEdge 2 - Datfile (45) (2026-11-16 00-13-57)</description>
+		<version>2026-11-16 00-13-57</version>
+		<date>2026-11-16 00-13-57</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -84,6 +84,20 @@
 		<description>Guilty Gear XX Accent Core Plus R (Japan) (Rev A)</description>
 		<rom name="Guilty Gear XX Accent Core Plus R (Japan) (Rev A).iso" size="1118240768" crc="83705910" md5="eb94983433db57af4c721581b256a4d3" sha1="b6e9e0765ff6477dc88daef4480d921ae0889091"/>
 	</game>
+	<game name="Hokuto no Ken - Battle Medal (Japan) (Rev A)" id="135476">
+		<category>Games</category>
+		<serial>DVR-5021A</serial>
+		<version>1.01.00</version>
+		<description>Hokuto no Ken: Battle Medal (Japan) (Rev A)</description>
+		<rom name="Hokuto no Ken - Battle Medal (Japan) (Rev A).iso" size="7078313984" crc="5d563d60" md5="30c6b5df575f250358463aaa8669f153" sha1="f34d041640d7f82d01478a6e6cd4f0abddf5e9ea"/>
+	</game>
+	<game name="Hokuto no Ken - Battle Medal (Japan) (Rev C)" id="135475">
+		<category>Games</category>
+		<serial>DVR-5021C</serial>
+		<version>1.03.00</version>
+		<description>Hokuto no Ken: Battle Medal (Japan) (Rev C)</description>
+		<rom name="Hokuto no Ken - Battle Medal (Japan) (Rev C).iso" size="7142539264" crc="7cc3dafb" md5="6bc46b1bdcd2079757c6ddbcc29cbd30" sha1="ffdbe4097ece51e754189c39622e5dba006648e3"/>
+	</game>
 	<game name="Hokuto no Ken - Battle Medal (Japan) (Rev D)" id="126145">
 		<category>Games</category>
 		<serial>DVR-5021D</serial>
@@ -97,20 +111,6 @@
 		<version>1.06.00</version>
 		<description>Hokuto no Ken: Battle Medal (Japan) (Rev F)</description>
 		<rom name="Hokuto no Ken - Battle Medal (Japan) (Rev F).iso" size="7492861952" crc="85f18ca9" md5="7015c89010eb34eecb696bd1617c95a7" sha1="e4fb568895bd21cdc38e1e669983d607acb0b543"/>
-	</game>
-	<game name="Hokuto no Ken - Battle Medal (Japan) (v1.01.00)" id="135476">
-		<category>Games</category>
-		<serial>DVR-5021A</serial>
-		<version>1.01.00</version>
-		<description>Hokuto no Ken: Battle Medal (Japan) (v1.01.00)</description>
-		<rom name="Hokuto no Ken - Battle Medal (Japan) (v1.01.00).iso" size="7078313984" crc="5d563d60" md5="30c6b5df575f250358463aaa8669f153" sha1="f34d041640d7f82d01478a6e6cd4f0abddf5e9ea"/>
-	</game>
-	<game name="Hokuto no Ken - Battle Medal (Japan) (v1.03.00)" id="135475">
-		<category>Games</category>
-		<serial>DVR-5021C</serial>
-		<version>1.03.00</version>
-		<description>Hokuto no Ken: Battle Medal (Japan) (v1.03.00)</description>
-		<rom name="Hokuto no Ken - Battle Medal (Japan) (v1.03.00).iso" size="7142539264" crc="7cc3dafb" md5="6bc46b1bdcd2079757c6ddbcc29cbd30" sha1="ffdbe4097ece51e754189c39622e5dba006648e3"/>
 	</game>
 	<game name="Horuka x Toruka (Japan) (Rev B)" id="117969">
 		<category>Games</category>

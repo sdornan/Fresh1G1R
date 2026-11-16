@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,706) (-y) [-aAbBcefkmMoprv] (2026-11-14 10-15-26) (Retool)</description>
-		<version>2026-11-14 10-15-26</version>
-		<date>2026-11-15 09-02-16</date>
+		<description>Sony - PlayStation (5,707) (-y) [-aAbBcefkmMoprv] (2026-11-15 20-53-57) (Retool)</description>
+		<version>2026-11-15 20-53-57</version>
+		<date>2026-11-16 09-16-01</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -23317,6 +23317,28 @@
 		<rom name="Jin Bao Re Shu (Taiwan) (Demo) (Unl) (Track 3).bin" size="1477056" crc="31269654" md5="ef741a13fc0f3cc98f8164cfe9ccdb82" sha1="cee26779139bb24fe36014df9b6e72e5adf16cdc"/>
 		<rom name="Jin Bao Re Shu (Taiwan) (Demo) (Unl) (Track 4).bin" size="21908880" crc="5a9a2c65" md5="b1f81b32a826272b3c4a6fcf88f5929f" sha1="7e253786f9cd97b3e15f180f7fbb7099301101ec"/>
 		<rom name="Jin Bao Re Shu (Taiwan) (Demo) (Unl).cue" size="502" crc="c50a2625" md5="e8eaefec8e94a229685db9fb4b336a23" sha1="5c35c802b2074b48a57c8c79f7ce4e3b76112770"/>
+	</game>
+	<game name="Jin Bao Re Shu (Taiwan) (Unl)" id="140149">
+		<category>Games</category>
+		<description>Jin Bao Re Shu (Taiwan) (Unl)</description>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 01).bin" size="454135920" crc="e20bf268" md5="e3f98a39bea76d988e1b8da6a3db97ec" sha1="5e58b8416ec9b04c40709374c1f303bab4b503ea"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 02).bin" size="11054400" crc="ccf640a1" md5="c650d2dea5b1383fae6a8e563a3aefdd" sha1="d5bd91a398564152e5d14ca603e755ffab130c2f"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 03).bin" size="2556624" crc="3e4e598f" md5="612518be63e449df754292dded43a3fd" sha1="4235d76b121f3dd566d8a5480bdd28c0361896c1"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 04).bin" size="13258224" crc="b1729b7f" md5="f35b68b7975497ac3b6874917245dd9f" sha1="b4655f972fc657e0ff94c2c1790dad64307b5026"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 05).bin" size="13258224" crc="b1729b7f" md5="f35b68b7975497ac3b6874917245dd9f" sha1="b4655f972fc657e0ff94c2c1790dad64307b5026"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 06).bin" size="18324432" crc="0b374b5b" md5="ed692814c5c8806fc8bdd5cc031dbf23" sha1="b0f1692ee752ec2dc0aad867e5524b164e3495ba"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 07).bin" size="20725824" crc="1e7a594c" md5="32c39b83d022f27ea59f21f2ebeca2ae" sha1="71923fd47b94215720f7861827faed5ac07ffa8c"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 08).bin" size="17211936" crc="0513b605" md5="bfe0a29a461d7997a596a82aa113df9f" sha1="db77a93112a574b2310267c43c6e2a0b5a288fe6"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 09).bin" size="22144080" crc="49f0b35a" md5="975bf6c3e356e6bae11b84689ef390db" sha1="c95eb64bbf935cf98a6d6d5574c34549a8771a7d"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 10).bin" size="22873200" crc="106038c9" md5="55fbef4b1626da9f82a9cb2f832ed0df" sha1="cfa1377aee4063e9056d2000c10aa4af29b603b0"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 11).bin" size="22821456" crc="0aff3fc1" md5="86a03b7a7ba21c80254f64e006da9f93" sha1="f841efc4655eb50e4cbc26d4f68becfa1643a78a"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 12).bin" size="22779120" crc="67e22f02" md5="7b750b433ac1abc976617f8b2a45b7ad" sha1="8926dc477d0a06f02405b9930126771a6ec2ad07"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 13).bin" size="17905776" crc="17127162" md5="2a1ad2be8f933c1aa64417a7769d0033" sha1="152c2a0bd56868fd6c274067ee46ea49b4409d66"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 14).bin" size="22473360" crc="46460ec4" md5="8e012d23cc688bd70d43ddc5471e437f" sha1="3bb3f992b1528b90a45bf0c492f95057a8f50ed5"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 15).bin" size="19046496" crc="7f07b27a" md5="2a3118e9df302e00679dc51fbd399c37" sha1="b5b0a615c87f3b8838c29659ac48b8011554a8f2"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 16).bin" size="17917536" crc="fc39527d" md5="65b050529aa8214f4032f8f105fa97de" sha1="df43f4f73b798ca680520f9f004242730bbeff8e"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 17).bin" size="22040592" crc="416d0212" md5="d830001eeae45f43e7e09f6b12229b71" sha1="3a7b105bf740d70e9592acde4ca12861aac5ca95"/>
+		<rom name="Jin Bao Re Shu (Taiwan) (Unl).cue" size="2090" crc="d0a68e76" md5="b199423cc7b281c41ac855eeb7726d48" sha1="8f361250cd342311383dc6ea82267c0abad94299"/>
 	</game>
 	<game name="Jingle Cats - Love-Para Daisakusen no Maki (Japan) (Demo)" id="33045">
 		<category>Demos</category>
@@ -50268,13 +50290,13 @@
 		<rom name="Super Robot Taisen F (Japan) (Track 2).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
 		<rom name="Super Robot Taisen F (Japan).cue" size="226" crc="1b9c1216" md5="0d025659f4407524d0b85d4ccf53d372" sha1="d397125bf25c42d3edbb2dd12b8e936a5a77c464"/>
 	</game>
-	<game name="Super Robot Taisen F - Kanketsu-hen (Japan)" id="2682">
+	<game name="Super Robot Taisen F - Kanketsuhen (Japan)" id="2682">
 		<category>Games</category>
-		<description>Super Robot Taisen F: Kanketsu-hen (Japan)</description>
+		<description>Super Robot Taisen F: Kanketsuhen (Japan)</description>
 		<serial>SLPS 01924, SLPS 91217</serial>
-		<rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Track 1).bin" size="525672000" crc="a04ec282" md5="bbdd2cdbc756513bf3d11e68cb7df4ff" sha1="28b3988d5e405f5bd602ed42113c709b4bc4e0d4"/>
-		<rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Track 2).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
-		<rom name="Super Robot Taisen F - Kanketsu-hen (Japan).cue" size="256" crc="d24cb6e8" md5="744b2f266d9412f4a3b479848a9b22ff" sha1="3aba0613fba3aecaef8d7a382024de36d5e52b68"/>
+		<rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Track 1).bin" size="525672000" crc="a04ec282" md5="bbdd2cdbc756513bf3d11e68cb7df4ff" sha1="28b3988d5e405f5bd602ed42113c709b4bc4e0d4"/>
+		<rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Track 2).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
+		<rom name="Super Robot Taisen F - Kanketsuhen (Japan).cue" size="254" crc="9b5b6360" md5="215dbe6359641b588a290f88ee668bb1" sha1="52145d6b807726a1321d3894bbb6376dbe4fb51f"/>
 	</game>
 	<game name="Super Shot Soccer (USA)" id="81287">
 		<category>Games</category>

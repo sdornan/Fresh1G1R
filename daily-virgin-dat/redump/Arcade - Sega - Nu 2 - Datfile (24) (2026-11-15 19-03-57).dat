@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - Nu 2</name>
-		<description>Arcade - Sega - Nu 2 - Datfile (23) (2026-11-01 18-38-18)</description>
-		<version>2026-11-01 18-38-18</version>
-		<date>2026-11-01 18-38-18</date>
+		<description>Arcade - Sega - Nu 2 - Datfile (24) (2026-11-15 19-03-57)</description>
+		<version>2026-11-15 19-03-57</version>
+		<date>2026-11-15 19-03-57</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -38,13 +38,6 @@
 		<description>Initial D: Arcade Stage Zero (Japan) (Disc 2) (Rev D)</description>
 		<rom name="Initial D - Arcade Stage Zero (Japan) (Disc 2) (Rev D).iso" size="4491427840" crc="c4cbb415" md5="ced10fa666e50912c28b2c1a0d1eee94" sha1="ea06c52271eacfcdc8f49625773f5232849b71f3"/>
 	</game>
-	<game name="Initial D - Arcade Stage Zero (Japan) (Disc 2) (Rev M)" id="139953">
-		<category>Games</category>
-		<serial>CDN-0007M-2D</serial>
-		<version>2.20.00</version>
-		<description>Initial D: Arcade Stage Zero (Japan) (Disc 2) (Rev M)</description>
-		<rom name="Initial D - Arcade Stage Zero (Japan) (Disc 2) (Rev M).iso" size="7825915904" crc="dc00cb96" md5="f4b9147ce4364064afb11ceb99d71703" sha1="7d8460891f972869f90700ba45d187781a46851b"/>
-	</game>
 	<game name="Initial D - Arcade Stage Zero (Japan) (En,Ja) (Disc 1) (Rev F)" id="135941">
 		<category>Games</category>
 		<serial>CDN-0007F-1D</serial>
@@ -59,6 +52,13 @@
 		<description>Initial D: Arcade Stage Zero (Japan) (En,Ja) (Disc 1) (Rev H)</description>
 		<rom name="Initial D - Arcade Stage Zero (Japan) (En,Ja) (Disc 1) (Rev H).iso" size="8386893824" crc="578aeefc" md5="47ce5ce47c577da50355cc3e3293848c" sha1="b60835ba4055418e6f32505f7bb1e160eb0b8701"/>
 	</game>
+	<game name="Initial D - Arcade Stage Zero (Japan) (En,Ja) (Disc 1) (Rev M)" id="140308">
+		<category>Games</category>
+		<serial>CDN-0007M-1D</serial>
+		<version>2.20.00</version>
+		<description>Initial D: Arcade Stage Zero (Japan) (En,Ja) (Disc 1) (Rev M)</description>
+		<rom name="Initial D - Arcade Stage Zero (Japan) (En,Ja) (Disc 1) (Rev M).iso" size="8386904064" crc="58c8f6d3" md5="3c95b08fe6d174c29a2385ca5a456223" sha1="27945cc7c529955cc6ec9a9859d7d82bffe42598"/>
+	</game>
 	<game name="Initial D - Arcade Stage Zero (Japan) (En,Ja) (Disc 2) (Rev F)" id="135942">
 		<category>Games</category>
 		<serial>CDN-0007F-2D</serial>
@@ -72,6 +72,13 @@
 		<version>2.00.00</version>
 		<description>Initial D: Arcade Stage Zero (Japan) (En,Ja) (Disc 2) (Rev H)</description>
 		<rom name="Initial D - Arcade Stage Zero (Japan) (En,Ja) (Disc 2) (Rev H).iso" size="6337183744" crc="9a5cc688" md5="1c473b6aac71e3ffbba863926e7cba87" sha1="eb5e08688285e4fa45de4db359162b1b0014cb2f"/>
+	</game>
+	<game name="Initial D - Arcade Stage Zero (Japan) (En,Ja) (Disc 2) (Rev M)" id="139953">
+		<category>Games</category>
+		<serial>CDN-0007M-2D</serial>
+		<version>2.20.00</version>
+		<description>Initial D: Arcade Stage Zero (Japan) (En,Ja) (Disc 2) (Rev M)</description>
+		<rom name="Initial D - Arcade Stage Zero (Japan) (En,Ja) (Disc 2) (Rev M).iso" size="7825915904" crc="dc00cb96" md5="f4b9147ce4364064afb11ceb99d71703" sha1="7d8460891f972869f90700ba45d187781a46851b"/>
 	</game>
 	<game name="Sangokushi Taisen (Japan) (Disc 1) (Rev E)" id="134740">
 		<category>Games</category>

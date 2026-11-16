@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,723) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-15 08-49-52) (Retool)</description>
-		<version>2026-11-15 08-49-52</version>
-		<date>2026-11-15 09-08-25</date>
+		<description>IBM - PC compatible (13,734) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-16 07-03-53) (Retool)</description>
+		<version>2026-11-16 07-03-53</version>
+		<date>2026-11-16 09-20-41</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1184,11 +1184,11 @@
 		<rom name="4 Elements (USA).bin" size="57612240" crc="71e2f61a" md5="7c640e877015dd240abd6e9273191770" sha1="ed1bb0714159eeb0e73fd94a74f47fd8aa84a0c3"/>
 		<rom name="4 Elements (USA).cue" size="82" crc="169f4f5b" md5="d03aef9d59e527581d23935b0c293592" sha1="565147bd49da46a4b4ebcf306c29570eb35cf734"/>
 	</game>
-	<game name="4 Game Pack (Europe)" id="27738">
+	<game name="4 Game Pack (Europe)" id="140274">
 		<category>Games</category>
 		<description>4 Game Pack (Europe)</description>
 		<serial>APWCDR1015</serial>
-		<rom name="4 Game Pack (Europe).bin" size="10962672" crc="1800165f" md5="79a678fd9186c57f1206e93b1014aa22" sha1="bb019d0bc25075378dcf57ab28fa61ef708825f3"/>
+		<rom name="4 Game Pack (Europe).bin" size="24162096" crc="9b117a94" md5="a11e82fc6b16ba729a01730f1a0761d9" sha1="c5afddccae4d598ca410335996ca4a15009c0fcc"/>
 		<rom name="4 Game Pack (Europe).cue" size="86" crc="19edc9ca" md5="6d88293c4f0f733af50afe29e1ee1d80" sha1="55d93fddb8d964f39ebba534305b05ba2bbbbdc7"/>
 	</game>
 	<game name="4 Games in 1 - Strike Commander + Syndicate Plus + Ultima VIII - Pagan + Wing Commander II (USA)" id="2939">
@@ -4017,6 +4017,20 @@
 		<rom name="Alien Virus (USA) (Track 7).bin" size="10515792" crc="6e116112" md5="050317c8bb36f3bf4991ac38bbcb8d62" sha1="5bc5852f771d22e11d626ecd9c3dc73ac8f5390e"/>
 		<rom name="Alien Virus (USA).cue" size="667" crc="e5c8f721" md5="ac93934051ef1bdf0fb7b41e680564e5" sha1="f7ba5e94bf97ac5c1aa23ebb92afe40a0eafd7f5"/>
 	</game>
+	<game name="Alien versus Predator 2 (Europe) (Disc 1) (Alt)" id="140271">
+		<category>Games</category>
+		<description>Alien versus Predator 2 (Europe) (Disc 1) (Alt)</description>
+		<serial>S0027969</serial>
+		<rom name="Alien versus Predator 2 (Europe) (Disc 1) (Alt).bin" size="669522672" crc="edc6897a" md5="368c114f6b8f92b9a1feb745f086de1f" sha1="2c575f329211d94c20f4bf33eec441fbd81dacf0"/>
+		<rom name="Alien versus Predator 2 (Europe) (Disc 1) (Alt).cue" size="113" crc="a9a6ac41" md5="d50a1259a136d13297a1e19bcc3fec0f" sha1="9f37307fbc807e79eb53e39a0d280404993a6173"/>
+	</game>
+	<game name="Alien versus Predator 2 (Europe) (Disc 2) (Rerelease)" id="140272">
+		<category>Games</category>
+		<description>Alien versus Predator 2 (Europe) (Disc 2) (Rerelease)</description>
+		<serial>S0027970</serial>
+		<rom name="Alien versus Predator 2 (Europe) (Disc 2) (Rerelease).bin" size="749206080" crc="ee210829" md5="ddd8cc3b0156248a0d70a22c26f57ac8" sha1="16e3a0129477529277280b149a7743e1e864eb33"/>
+		<rom name="Alien versus Predator 2 (Europe) (Disc 2) (Rerelease).cue" size="119" crc="552f0088" md5="f4ca6fd74b83dcf80abd27a30f069a33" sha1="788c81b007c47c67c7a980281b6719c6f97255ca"/>
+	</game>
 	<game name="Aliens (USA) (Disc 1)" id="64079">
 		<category>Games</category>
 		<description>Aliens (USA) (Disc 1)</description>
@@ -6095,6 +6109,12 @@
 		<version>1.1.9</version>
 		<rom name="Archon Classic (Germany).bin" size="251155968" crc="3ad4748c" md5="ebc6d330a2bfb470a23074710350b385" sha1="57b47fac4a8388befd39eceb9df907c6007fd89b"/>
 		<rom name="Archon Classic (Germany).cue" size="90" crc="1cc1ea2f" md5="c28b494e03c33e75c567fb6d3e0c6d53" sha1="17295edc544281b04b3be39fb71444d833929c50"/>
+	</game>
+	<game name="Arctic Baron (Canada)" id="140299">
+		<category>Games</category>
+		<description>Arctic Baron (Canada)</description>
+		<rom name="Arctic Baron (Canada).bin" size="2622480" crc="e4d20819" md5="2a79f6e15b5a3e9f0af247ba4ae46098" sha1="0cdf35c721f94f37b204652f091b8b9cfa328848"/>
+		<rom name="Arctic Baron (Canada).cue" size="110" crc="2fd1a569" md5="5e8697a6071b0b9c49dc51b9ed9324a3" sha1="9f5fdead7d782a8fcfc18bceb5fa740c65e3a507"/>
 	</game>
 	<game name="Arctic Flyer (Europe) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Zh,Pl,Ru,El,Hr,Cs,Hu,Sk,Sl,Th,Tr,He,Ro,Mk,Ms,Id,Lt,Sr,Et,Lv,Sq,Bg)" id="45509">
 		<category>Games</category>
@@ -8581,6 +8601,13 @@
 		<rom name="Barbie as Sleeping Beauty (USA) (Track 4).bin" size="5811792" crc="5a6ef735" md5="1646e46330a0ca622872fd6ffc5ade2e" sha1="8acad7daae02a5030e8b78298c55061452eb3f54"/>
 		<rom name="Barbie as Sleeping Beauty (USA).cue" size="482" crc="e92632a7" md5="a67bf910f6385cbd0bb66ba08f745eb4" sha1="751021d1115d0295df9c698ebfb172a327b6b7e9"/>
 	</game>
+	<game name="Barbie of Swan Lake - The Enchanted Forest (Europe)" id="140269">
+		<category>Games</category>
+		<description>Barbie of Swan Lake: The Enchanted Forest (Europe)</description>
+		<serial>S0029072</serial>
+		<rom name="Barbie of Swan Lake - The Enchanted Forest (Europe).bin" size="674638272" crc="343959e4" md5="435540eff020cfc842a66592a9ccce79" sha1="6f72cbba343f7e370a51ace9c4119ecc48b69068"/>
+		<rom name="Barbie of Swan Lake - The Enchanted Forest (Europe).cue" size="117" crc="56678252" md5="e22b75d97a283348cee42b028cd810c8" sha1="55853925428847b02e51a9953b0e934289d813ee"/>
+	</game>
 	<game name="Barbie of Swan Lake CD-ROM - The Enchanted Forest (USA)" id="45326">
 		<category>Games</category>
 		<description>Barbie of Swan Lake CD-ROM: The Enchanted Forest (USA)</description>
@@ -10297,6 +10324,13 @@
 		<rom name="Best of Apogee #2 (USA).bin" size="58917600" crc="153d5497" md5="385f33cc3a4f2272f555cab4f8e7bd46" sha1="9ec322be9e5e011a8b97d2a37d1498950b93b705"/>
 		<rom name="Best of Apogee #2 (USA).cue" size="89" crc="eb8501b4" md5="f34fb94d79148b714f57edf53f9799da" sha1="8adebc106f1c479d68bf7a68796c5bedeaac422e"/>
 	</game>
+	<game name="Best of Bible Study and Games (USA)" id="140300">
+		<category>Games</category>
+		<description>Best of Bible Study and Games (USA)</description>
+		<serial>P/N 7064B</serial>
+		<rom name="Best of Bible Study and Games (USA).bin" size="43533168" crc="bbcfcef1" md5="472b8c58f3bcd9761438c22ec0734d87" sha1="8b5e2fa581f53800cdf5c72b66813efa95cdf252"/>
+		<rom name="Best of Bible Study and Games (USA).cue" size="124" crc="3cc654e1" md5="c8e98a0d877a42d05fa6225ea7ce74c7" sha1="056de1cd32834879909565177ab8a92345d3217b"/>
+	</game>
 	<game name="Best of Casino &amp; Card Games (USA)" id="125952">
 		<category>Games</category>
 		<description>Best of Casino &amp; Card Games (USA)</description>
@@ -11146,6 +11180,19 @@
 		<description>Bikini Karate Babes 2: Warriors of Elysia (Japan)</description>
 		<rom name="Bikini Karate Babes 2 - Warriors of Elysia (Japan).iso" size="3320446976" crc="b2fa8cdf" md5="76b0dd865641206a00b6effa73234f9a" sha1="6078aab86527b7d7abfb21364dbfb135346d3ebd"/>
 	</game>
+	<game name="Bill &amp; Ben - Flowerpot Fun! (UK)" id="140312">
+		<category>Games</category>
+		<description>Bill &amp; Ben: Flowerpot Fun! (UK)</description>
+		<serial>BBCMM112 V1</serial>
+		<rom name="Bill &amp; Ben - Flowerpot Fun! (UK).bin" size="516198144" crc="160b94fc" md5="74749fe7c0252772b1434c115cf0b7d9" sha1="91797da3e3eff1dc318edd2fb10b2a365e580630"/>
+		<rom name="Bill &amp; Ben - Flowerpot Fun! (UK).cue" size="98" crc="44cc5ce8" md5="ed32d34e6b2c11cb8a606ce445be5e21" sha1="ccbc052077d3e2f7dcd068fd80d37cd7dd03055b"/>
+	</game>
+	<game name="Billiards Champ 3D (USA)" id="140301">
+		<category>Games</category>
+		<description>Billiards Champ 3D (USA)</description>
+		<rom name="Billiards Champ 3D (USA).bin" size="39306624" crc="d22b3ee5" md5="0f029425fe2504d779b8e5c7e773970d" sha1="ca56a1ab9f7400051c4df4585e8d24dd6c61d225"/>
+		<rom name="Billiards Champ 3D (USA).cue" size="90" crc="6ab86278" md5="7088f42b2c2297dce94809778745d296" sha1="9a51e945687166ab76ed1e41932b94925895e79b"/>
+	</game>
 	<game name="Billy Blade - Temple of Time (Europe) (OEM)" id="118806">
 		<category>Games</category>
 		<description>Billy Blade: Temple of Time (Europe) (OEM)</description>
@@ -11970,6 +12017,13 @@
 		<description>Blood Bowl (Europe) (En,Fr,De,Es,It)</description>
 		<version>1.0.1.3</version>
 		<rom name="Blood Bowl (Europe) (En,Fr,De,Es,It).iso" size="4312268800" crc="ffbc44f4" md5="659f936bed1f53de4c84a875787848db" sha1="ec62fb11af9ef4acb58161b5575d269c693c2085"/>
+	</game>
+	<game name="Blood Bowl - Dark Elves Edition (USA) (En,Es)" id="140302">
+		<category>Games</category>
+		<description>Blood Bowl: Dark Elves Edition (USA) (En,Es)</description>
+		<serial>50051-LBL</serial>
+		<version>1.1.3.2</version>
+		<rom name="Blood Bowl - Dark Elves Edition (USA) (En,Es).iso" size="1478191104" crc="9faa4cdc" md5="a411bd7d6b4da47ca47b3edbc7f60b17" sha1="af95047ea97629cb191c1f7292cc0653afe125f2"/>
 	</game>
 	<game name="Blood Bowl II (Europe)" id="55382">
 		<category>Games</category>
@@ -12927,13 +12981,13 @@
 		<rom name="Bricks of Egypt 2 - Tears of the Pharaohs (USA).bin" size="5611872" crc="9f7e21bf" md5="415213add2809380fa40e99d8d67920b" sha1="b24d0645fca4ea1d62834381550f05ae207b959c"/>
 		<rom name="Bricks of Egypt 2 - Tears of the Pharaohs (USA).cue" size="113" crc="964d390f" md5="f1970e8cb602b0de7bcc22c25c117b9a" sha1="be631975e2ab585344eb0026c8b89a9fa3b6d481"/>
 	</game>
-	<game name="Bridge (UK)" id="130251">
+	<game name="Bridge (UK) (Rev 1)" id="137701">
 		<category>Games</category>
-		<description>Bridge (UK)</description>
-		<serial>0922A</serial>
-		<version>1.0</version>
-		<rom name="Bridge (UK).bin" size="10125360" crc="cdcd45d3" md5="de3526136f901f15dbfc97b861627df7" sha1="95908dd169fafb431ee4f186666e48542a8fa060"/>
-		<rom name="Bridge (UK).cue" size="77" crc="59f98e90" md5="a0385e468ed41da4a11cabd98df9d4e7" sha1="58f906af9f345b81bf7ac578a9f74e0257e26038"/>
+		<description>Bridge (UK) (Rev 1)</description>
+		<serial>0940A</serial>
+		<version>v1.0.0.0</version>
+		<rom name="Bridge (UK) (Rev 1).bin" size="22407504" crc="6de3c0fb" md5="e209ee4401b0cc6e505d871ec5de8835" sha1="f37154d0f0f5cf04a131f24fcacc026bd9114505"/>
+		<rom name="Bridge (UK) (Rev 1).cue" size="85" crc="f71decaf" md5="ab13aa56be00eb1eafea04c633e3a857" sha1="ab999abbfb6c63aab4dcf7b9d8b1757a45608859"/>
 	</game>
 	<game name="Bridge Baron 15 (USA)" id="64774">
 		<category>Games</category>
@@ -15816,6 +15870,14 @@
 		<version>1.0</version>
 		<rom name="Catechumen (USA).bin" size="199494288" crc="60e8f6a4" md5="419a3ffcece5b4b2d9d0d0730c9d0888" sha1="d1f955e96a4dbb729c24b0929582aa383e101950"/>
 		<rom name="Catechumen (USA).cue" size="97" crc="8acfc695" md5="7c4c31be51b795553a4a34a3c0b1b6ce" sha1="7fd5def62ade741a1812580309c76bd8f82d9271"/>
+	</game>
+	<game name="Caterpillar (USA)" id="140303">
+		<category>Games</category>
+		<description>Caterpillar (USA)</description>
+		<serial>02-1759-10</serial>
+		<version>1.0</version>
+		<rom name="Caterpillar (USA).bin" size="12905424" crc="18716975" md5="3bae7183157e32024bfcbd6542187b51" sha1="427e7c4713a8727edbd0652bdebb976845c7fbea"/>
+		<rom name="Caterpillar (USA).cue" size="83" crc="231cea4c" md5="7cb51387c4d713ca8b93fd0f56ce5fe8" sha1="595480daaa9efa1c9d8d0fd77be6643ab416fb77"/>
 	</game>
 	<game name="Catfight (USA)" id="135174">
 		<category>Games</category>
@@ -44014,6 +44076,13 @@
 		<serial>35443.101.US</serial>
 		<rom name="History Channel, The - Battle for the Pacific (USA).iso" size="2020737024" crc="2d76967f" md5="7ea944de79064feb1d81b864e3b98dd3" sha1="50ac4b5d3915a51fa3c614f71d7e06e2d20850a9"/>
 	</game>
+	<game name="History Channel, The - Battle of Britain - World War II 1940 (USA)" id="140304">
+		<category>Games</category>
+		<description>History Channel, The: Battle of Britain: World War II 1940 (USA)</description>
+		<serial>31785.101.US</serial>
+		<rom name="History Channel, The - Battle of Britain - World War II 1940 (USA).bin" size="439440624" crc="65ba49b8" md5="9e851ac9e2cb327558781475521db2df" sha1="0df21441689f9865c1dfebacb8984cf60cfd96b8"/>
+		<rom name="History Channel, The - Battle of Britain - World War II 1940 (USA).cue" size="132" crc="797f731e" md5="85102e9a08129e946df1a871c4a533dd" sha1="d290f277e99b7a2ff575f4e5aeab542089baff83"/>
+	</game>
 	<game name="History Channel, The - Great Battles of Rome (USA) (En,Fr,De,Es,It)" id="123784">
 		<category>Games</category>
 		<description>History Channel, The: Great Battles of Rome (USA) (En,Fr,De,Es,It)</description>
@@ -50883,6 +50952,12 @@
 		<description>Kenny's Adventure: In Search of Family Treasures (Hungary)</description>
 		<rom name="Kenny's Adventure - In Search of Family Treasures (Hungary).bin" size="53778480" crc="5b4790b8" md5="d42e7b3bb0c7887a25b9751ff1ea9a47" sha1="9a8b9391c3153a41542f260312236ded9f40a43d"/>
 		<rom name="Kenny's Adventure - In Search of Family Treasures (Hungary).cue" size="125" crc="ccfd1724" md5="fd83fe46fe77f50385932ad2c185f96a" sha1="26409b68b86d72016b73740c5440386d07b34aa6"/>
+	</game>
+	<game name="Key Commando - The Key to Killer Production (USA)" id="140280">
+		<category>Games</category>
+		<description>Key Commando: The Key to Killer Production (USA)</description>
+		<rom name="Key Commando - The Key to Killer Production (USA).bin" size="36258432" crc="5fe2ca1f" md5="c79be5756d3cfbdc5686a9611c5bbf47" sha1="74f70a941cc4fe042e9aca0e8bd00fe807cc54c6"/>
+		<rom name="Key Commando - The Key to Killer Production (USA).cue" size="115" crc="5da1fa2e" md5="756b607aaa4c6a7e4c27a2179395c8dc" sha1="a1e004ab26114d5cf6ecd9f9349efe20f5a53f89"/>
 	</game>
 	<game name="Keys of the Kingdom (USA)" id="124652">
 		<category>Games</category>
@@ -57970,6 +58045,14 @@
 		<description>Matchball Tennis (Australia)</description>
 		<rom name="Matchball Tennis (Australia).bin" size="207455808" crc="5becb180" md5="a775fce71a0c95301947c01419fd8aa9" sha1="fd6f3406c2e9684afb9c0924ab7426c3944f9f90"/>
 		<rom name="Matchball Tennis (Australia).cue" size="94" crc="d63322b3" md5="7a429cd00b830d5076a0947f9caca2af" sha1="fac2813903e052bf08c1840ee6b60bdfb2bfc3b2"/>
+	</game>
+	<game name="Matchbox Caterpillar Big Dirt Movers (USA)" id="140305">
+		<category>Games</category>
+		<description>Matchbox Caterpillar Big Dirt Movers (USA)</description>
+		<serial>380377-CD/I060jg</serial>
+		<version>1.0</version>
+		<rom name="Matchbox Caterpillar Big Dirt Movers (USA).bin" size="367716384" crc="3a6bb1ec" md5="d39a3d829d9c6a20dc9fea9199151bbb" sha1="39ca88394237b30c13f1b9a789f1029576265523"/>
+		<rom name="Matchbox Caterpillar Big Dirt Movers (USA).cue" size="108" crc="7ee1a066" md5="4d4a5434b7e8f645f8e69bac5002a5da" sha1="a1f0af5a0151ba653b9219df1e7c93d2fefe7565"/>
 	</game>
 	<game name="Matchbox Caterpillar Construction Zone (USA)" id="60085">
 		<category>Games</category>
@@ -96477,14 +96560,6 @@
 		<rom name="Timeline (USA, Canada).bin" size="624173760" crc="1e5e7ad4" md5="5d8e9031068bb5f91b216bf73dee6866" sha1="4793cb25910ae77bc0da5a47e187e4390ebbfde4"/>
 		<rom name="Timeline (USA, Canada).cue" size="88" crc="90275d13" md5="9bec367d220f840e1b51f0a2d7bebe9a" sha1="971d12676a2ca7f50a2e365acb05649cea75b9e2"/>
 	</game>
-	<game name="Times Software Collection, The - Bridge (Europe)" id="137701">
-		<category>Games</category>
-		<description>Times Software Collection, The: Bridge (Europe)</description>
-		<serial>catalogue number 0940A</serial>
-		<version>V1.0.0.0</version>
-		<rom name="Times Software Collection, The - Bridge (Europe).bin" size="22407504" crc="6de3c0fb" md5="e209ee4401b0cc6e505d871ec5de8835" sha1="f37154d0f0f5cf04a131f24fcacc026bd9114505"/>
-		<rom name="Times Software Collection, The - Bridge (Europe).cue" size="114" crc="3980b1d1" md5="a0f7ec07e2fa44f92848e7b752f5214d" sha1="4c756d001d68f445b3d525b513586b32aaa058ba"/>
-	</game>
 	<game name="Timez Attack (USA)" id="131855">
 		<category>Games</category>
 		<description>Timez Attack (USA)</description>
@@ -104637,14 +104712,13 @@
 		<rom name="Wargasm (USA) (Track 14).bin" size="9586752" crc="0d1e81ac" md5="d4290d8058e430a9d32bf0e43d2878b4" sha1="2dadb9d85f13f81313e4b3e1884cf7fd8ad4987c"/>
 		<rom name="Wargasm (USA).cue" size="1494" crc="1ef704ba" md5="88262b11f103be4e54337d1750082e4b" sha1="3eeeec78f2b376310765ac37d13af379bc2a953b"/>
 	</game>
-	<game name="Warhammer - Dark Omen (Europe) (En,Fr,De)" id="37499">
+	<game name="Warhammer - Dark Omen (USA) (En,Fr,De)" id="140307">
 		<category>Games</category>
-		<description>Warhammer: Dark Omen (Europe) (En,Fr,De)</description>
-		<serial>EAX08801445D</serial>
-		<version>1.0</version>
-		<rom name="Warhammer - Dark Omen (Europe) (En,Fr,De) (Track 1).bin" size="762617184" crc="ca46a4a8" md5="59508773b886d76de41fc996052d5288" sha1="6a26575e30f3177a18d0c00f95f38c3e23480775"/>
-		<rom name="Warhammer - Dark Omen (Europe) (En,Fr,De) (Track 2).bin" size="12926592" crc="0a914394" md5="ec81b544e63ee32be66ec0a6a847785d" sha1="3b5efb589dcf2b509b367a65f49e5325e56f982a"/>
-		<rom name="Warhammer - Dark Omen (Europe) (En,Fr,De).cue" size="252" crc="eb66c932" md5="19a3109c23f24c29f8d25b957292abd8" sha1="0e1d942103eec2f34043e250ea1e37fc8b60f10f"/>
+		<description>Warhammer: Dark Omen (USA) (En,Fr,De)</description>
+		<serial>WHU844AE-CD4</serial>
+		<rom name="Warhammer - Dark Omen (USA) (En,Fr,De) (Track 1).bin" size="762617184" crc="dd6855ba" md5="b4c622219fabb33accfcee8acb53865e" sha1="fd28a8b9b498ea0fb96ce33335e31a2ba8cde65a"/>
+		<rom name="Warhammer - Dark Omen (USA) (En,Fr,De) (Track 2).bin" size="12921888" crc="bb09781c" md5="34dd97390d188099bba77271abf5dcea" sha1="787c8c7a59faee2fba0b07edabc0ced2c00ec299"/>
+		<rom name="Warhammer - Dark Omen (USA) (En,Fr,De).cue" size="246" crc="fea617e5" md5="d0aa1a0eb2db9dcee53b213298df52c5" sha1="77bc100360ec3bc5e709d7a98db7182385dc8ee9"/>
 	</game>
 	<game name="Warhammer - Mark of Chaos (Europe)" id="127114">
 		<category>Games</category>

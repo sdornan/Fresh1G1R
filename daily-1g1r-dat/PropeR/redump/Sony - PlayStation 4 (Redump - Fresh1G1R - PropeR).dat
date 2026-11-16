@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,963) (-y) [-aAbBcdkmMpPuv] (2026-11-14 16-19-52) (Retool)</description>
-		<version>2026-11-14 16-19-52</version>
-		<date>2026-11-15 09-14-12</date>
+		<description>Sony - PlayStation 4 (1,965) (-y) [-aAbBcdkmMpPuv] (2026-11-16 05-00-23) (Retool)</description>
+		<version>2026-11-16 05-00-23</version>
+		<date>2026-11-16 09-25-52</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5394,12 +5394,19 @@
 		<version>01.00</version>
 		<rom name="Gravel (USA) (En,Fr,De,Es,It,Pt).iso" size="13526171648" crc="b8c89ccd" md5="8e94fd3e95474fa8972050e516bc0faf" sha1="4cd885c894441f25e6493e9c82c70a6486e21c0e"/>
 	</game>
-	<game name="Gravity Daze - Juuryoku-teki Memai - Jousou e no Kikan ni Oite Kanojo no Nai-uchuu ni Shoujita Setsudou (Japan)" id="121036">
+	<game name="Gravity Daze - Juuryokuteki Memai - Jousou e no Kikan ni Oite Kanojo no Naiuchuu ni Shoujita Setsudou (Japan)" id="121036">
 		<category>Games</category>
-		<description>Gravity Daze: Juuryoku-teki Memai: Jousou e no Kikan ni Oite Kanojo no Nai-uchuu ni Shoujita Setsudou (Japan)</description>
+		<description>Gravity Daze: Juuryokuteki Memai: Jousou e no Kikan ni Oite Kanojo no Naiuchuu ni Shoujita Setsudou (Japan)</description>
 		<serial>PCJS 66015</serial>
 		<version>01.01</version>
-		<rom name="Gravity Daze - Juuryoku-teki Memai - Jousou e no Kikan ni Oite Kanojo no Nai-uchuu ni Shoujita Setsudou (Japan).iso" size="25024331776" crc="a960f132" md5="b8299ec7d9ff6af1549ec5163e0787ec" sha1="59db6cd77962432767accbccb10a8c7f15077dc3"/>
+		<rom name="Gravity Daze - Juuryokuteki Memai - Jousou e no Kikan ni Oite Kanojo no Naiuchuu ni Shoujita Setsudou (Japan).iso" size="25024331776" crc="a960f132" md5="b8299ec7d9ff6af1549ec5163e0787ec" sha1="59db6cd77962432767accbccb10a8c7f15077dc3"/>
+	</game>
+	<game name="Gravity Daze 2 - Juuryokuteki Memai Kanketsuhen - Jousou e no Kikan no Hate, Kanojo no Naiuchuu ni Shuuren Shita Sentaku (Japan)" id="98779">
+		<category>Games</category>
+		<description>Gravity Daze 2: Juuryokuteki Memai Kanketsuhen: Jousou e no Kikan no Hate, Kanojo no Naiuchuu ni Shuuren Shita Sentaku (Japan)</description>
+		<serial>PCJS 50010</serial>
+		<version>01.01</version>
+		<rom name="Gravity Daze 2 - Juuryokuteki Memai Kanketsuhen - Jousou e no Kikan no Hate, Kanojo no Naiuchuu ni Shuuren Shita Sentaku (Japan).iso" size="25024331776" crc="61f1be5a" md5="34a3bb27de9a035867bd1ccecf8c38a1" sha1="e9d135faa51363109be09f4a4fdb2f914f2fe030"/>
 	</game>
 	<game name="Gravity Ghost (USA)" id="102259">
 		<category>Games</category>
@@ -6414,6 +6421,13 @@
 		<serial>CUSA-14470</serial>
 		<version>01.01</version>
 		<rom name="Journey to the Savage Planet (USA).iso" size="25024331776" crc="0958d140" md5="da237ad25b1e153acfe5269649fa95cb" sha1="a6edc98a15f64e3005414fdd8651a090cfeaacd9"/>
+	</game>
+	<game name="Judge Eyes - The Grim Reaper's Will (Korea)" id="140293">
+		<category>Games</category>
+		<description>Judge Eyes: The Grim Reaper's Will (Korea)</description>
+		<serial>PLKS 10172</serial>
+		<version>01.00</version>
+		<rom name="Judge Eyes - The Grim Reaper's Will (Korea).iso" size="39205470208" crc="3fad6f71" md5="3b9416facc8d0e41f92687794f2324a7" sha1="aeef224ea9a81bc3fb83ccb2a8c0e37523579697"/>
 	</game>
 	<game name="Judgment (USA) (En,Fr,De,Es,It)" id="67134">
 		<category>Games</category>
