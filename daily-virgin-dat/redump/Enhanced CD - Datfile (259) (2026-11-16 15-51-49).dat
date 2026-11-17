@@ -3,13 +3,35 @@
 <datafile>
 	<header>
 		<name>Enhanced CD</name>
-		<description>Enhanced CD - Datfile (259) (2026-11-14 07-45-31)</description>
-		<version>2026-11-14 07-45-31</version>
-		<date>2026-11-14 07-45-31</date>
+		<description>Enhanced CD - Datfile (259) (2026-11-16 15-51-49)</description>
+		<version>2026-11-16 15-51-49</version>
+		<date>2026-11-16 15-51-49</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
 	</header>
+	<game name="02.1 (UK)" id="138963">
+		<category>Multimedia</category>
+		<serial>ASHADOW921CD</serial>
+		<description>02.1 (UK)</description>
+		<rom name="02.1 (UK).cue" size="1333" crc="b8cc9fd8" md5="f175342a810962bd98de988d014f99d2" sha1="0548fd8295377490f885d54bb08314b17d9e2899"/>
+		<rom name="02.1 (UK) (Track 01).bin" size="34572048" crc="3af2ea4d" md5="01256f95bfabb43697758261fbb4ae11" sha1="5ee79ce58d56a4e9e879ceca974e6df70eef3eda"/>
+		<rom name="02.1 (UK) (Track 02).bin" size="41693904" crc="d4d3c370" md5="b15d19cb41e8505607f5cf60fcc75639" sha1="c24ed1e7d21c418c1c1088ab6a2d0eeeb8202181"/>
+		<rom name="02.1 (UK) (Track 03).bin" size="31987200" crc="d90ff76b" md5="445695ad48f81bf802f6dcc3f846e036" sha1="d998d888e87e5990f72280d5f0235507b6be0537"/>
+		<rom name="02.1 (UK) (Track 04).bin" size="56445648" crc="b404fd07" md5="781e1a4e2967b072d7f843584a10a64c" sha1="1b8e107b06b3f03e74de18bdce42d6c26e5c8b9b"/>
+		<rom name="02.1 (UK) (Track 05).bin" size="39986352" crc="9eeea802" md5="92fc8f9d4e0726ffe72fcb232621629f" sha1="e7195307a610a69741fc6a27a07d1edc58d1e7c9"/>
+		<rom name="02.1 (UK) (Track 06).bin" size="40922448" crc="d96fcb9b" md5="dd637080118e33535dbda3031d4bd136" sha1="52217fa3a776787d46d65ad1a29717acf1bc3e92"/>
+		<rom name="02.1 (UK) (Track 07).bin" size="30578352" crc="54ff99ae" md5="abdd2895588faae5b4d10cceb25d8173" sha1="13c085d5a115fd1fa614eb7143f38947181acc03"/>
+		<rom name="02.1 (UK) (Track 08).bin" size="60211200" crc="179d3f0a" md5="5f49b31a9e6f0f6c3aefa55a5d2115d5" sha1="1c5eeda70fc83c8d694ba0eda70ba7987aaef883"/>
+		<rom name="02.1 (UK) (Track 09).bin" size="33868800" crc="1c111421" md5="7a468e92a8345a26ad07d47778ccde3c" sha1="fad7353e6f9579629127d22448786cc844e3bbfd"/>
+		<rom name="02.1 (UK) (Track 10).bin" size="22579200" crc="df5362cf" md5="87908f5d281b699cf3e4a918dc64971c" sha1="fe28854f1d8f6e1d2ab7fedd6f8912497163cd95"/>
+		<rom name="02.1 (UK) (Track 11).bin" size="52687152" crc="a63fc827" md5="c5c40461f747ccb334353fdc6bb57beb" sha1="d257c1f9a4ea1b2ff526c1e2b1adcf0895ee7d6f"/>
+		<rom name="02.1 (UK) (Track 12).bin" size="33868800" crc="e95bdca8" md5="f6bb7241dcdea538d179e8c338cc39b0" sha1="3282effc61e6b29887b888ec08fcd3eb42ec18c4"/>
+		<rom name="02.1 (UK) (Track 13).bin" size="26342400" crc="9ecff225" md5="463cea03b1624a0972f2664909086c06" sha1="6a8bbd36fdc8351b915bf15ea8a1dc711ef743fd"/>
+		<rom name="02.1 (UK) (Track 14).bin" size="31984848" crc="5aca12ba" md5="33c70d6378061fec19a814149e552f6a" sha1="9a7d3d45441a11be1a7d69fc071a11cffc785ce2"/>
+		<rom name="02.1 (UK) (Track 15).bin" size="52910592" crc="647ad6e0" md5="a987a4030409e82549773c45d9424696" sha1="d0659b2532abc92b001f2c73db5a0216ba72184b"/>
+		<rom name="02.1 (UK) (Track 16).bin" size="71606640" crc="9980ddb6" md5="e58892487787121a599869dd058ce474" sha1="9b36da470afc31e87e1b5378962fae0a8fe0c0f5"/>
+	</game>
 	<game name="99.2 (UK) (Disc 2)" id="140220">
 		<category>Multimedia</category>
 		<serial>ASHADOW992CD</serial>
@@ -2618,28 +2640,6 @@
 		<rom name="Moving Shadow - 99.1 (UK) (Disc 2).cue" size="247" crc="1d93adee" md5="f6c21371e97889263ad31294d3146265" sha1="f2249b47ae5c6a3304a410292af4381c34fbf04b"/>
 		<rom name="Moving Shadow - 99.1 (UK) (Disc 2) (Track 1).bin" size="252760032" crc="44b610b5" md5="6a53d965d440d81f5bb19e089445e3b0" sha1="072d34ce46ed5d17e56d2aec39ece8072cfb29e4"/>
 		<rom name="Moving Shadow - 99.1 (UK) (Disc 2) (Track 2).bin" size="524601840" crc="fc5fa1c7" md5="7a42189a43d7daa431b545eba2375abb" sha1="db0e2eebddb3260e2496b0cd4a033b2c9cba125c"/>
-	</game>
-	<game name="Moving Shadow 02.1 (UK)" id="138963">
-		<category>Multimedia</category>
-		<serial>ASHADOW921CD</serial>
-		<description>Moving Shadow 02.1 (UK)</description>
-		<rom name="Moving Shadow 02.1 (UK).cue" size="1557" crc="4e2c540d" md5="285d8a5d2f8ca3c0ff6118278391ab51" sha1="75612214ca4a26a993deb9760ed452e258a4b734"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 01).bin" size="34572048" crc="3af2ea4d" md5="01256f95bfabb43697758261fbb4ae11" sha1="5ee79ce58d56a4e9e879ceca974e6df70eef3eda"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 02).bin" size="41693904" crc="d4d3c370" md5="b15d19cb41e8505607f5cf60fcc75639" sha1="c24ed1e7d21c418c1c1088ab6a2d0eeeb8202181"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 03).bin" size="31987200" crc="d90ff76b" md5="445695ad48f81bf802f6dcc3f846e036" sha1="d998d888e87e5990f72280d5f0235507b6be0537"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 04).bin" size="56445648" crc="b404fd07" md5="781e1a4e2967b072d7f843584a10a64c" sha1="1b8e107b06b3f03e74de18bdce42d6c26e5c8b9b"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 05).bin" size="39986352" crc="9eeea802" md5="92fc8f9d4e0726ffe72fcb232621629f" sha1="e7195307a610a69741fc6a27a07d1edc58d1e7c9"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 06).bin" size="40922448" crc="d96fcb9b" md5="dd637080118e33535dbda3031d4bd136" sha1="52217fa3a776787d46d65ad1a29717acf1bc3e92"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 07).bin" size="30578352" crc="54ff99ae" md5="abdd2895588faae5b4d10cceb25d8173" sha1="13c085d5a115fd1fa614eb7143f38947181acc03"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 08).bin" size="60211200" crc="179d3f0a" md5="5f49b31a9e6f0f6c3aefa55a5d2115d5" sha1="1c5eeda70fc83c8d694ba0eda70ba7987aaef883"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 09).bin" size="33868800" crc="1c111421" md5="7a468e92a8345a26ad07d47778ccde3c" sha1="fad7353e6f9579629127d22448786cc844e3bbfd"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 10).bin" size="22579200" crc="df5362cf" md5="87908f5d281b699cf3e4a918dc64971c" sha1="fe28854f1d8f6e1d2ab7fedd6f8912497163cd95"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 11).bin" size="52687152" crc="a63fc827" md5="c5c40461f747ccb334353fdc6bb57beb" sha1="d257c1f9a4ea1b2ff526c1e2b1adcf0895ee7d6f"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 12).bin" size="33868800" crc="e95bdca8" md5="f6bb7241dcdea538d179e8c338cc39b0" sha1="3282effc61e6b29887b888ec08fcd3eb42ec18c4"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 13).bin" size="26342400" crc="9ecff225" md5="463cea03b1624a0972f2664909086c06" sha1="6a8bbd36fdc8351b915bf15ea8a1dc711ef743fd"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 14).bin" size="31984848" crc="5aca12ba" md5="33c70d6378061fec19a814149e552f6a" sha1="9a7d3d45441a11be1a7d69fc071a11cffc785ce2"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 15).bin" size="52910592" crc="647ad6e0" md5="a987a4030409e82549773c45d9424696" sha1="d0659b2532abc92b001f2c73db5a0216ba72184b"/>
-		<rom name="Moving Shadow 02.1 (UK) (Track 16).bin" size="71606640" crc="9980ddb6" md5="e58892487787121a599869dd058ce474" sha1="9b36da470afc31e87e1b5378962fae0a8fe0c0f5"/>
 	</game>
 	<game name="Moving Shadow Presents - Rollcage Stage II - The Soundtrack (UK) (En,Fr,De,Es,It)" id="139516">
 		<category>Multimedia</category>

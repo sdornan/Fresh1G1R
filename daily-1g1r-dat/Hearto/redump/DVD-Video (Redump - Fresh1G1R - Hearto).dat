@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (481) (-y) [-aAbBcefkmMoprv] (2026-11-15 22-33-57) (Retool)</description>
-		<version>2026-11-15 22-33-57</version>
-		<date>2026-11-16 09-15-49</date>
+		<description>DVD-Video (482) (-y) [-aAbBcefkmMoprv] (2026-11-17 10-16-35) (Retool)</description>
+		<version>2026-11-17 10-16-35</version>
+		<date>2026-11-17 10-28-57</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2186,6 +2186,12 @@
 		<category>Games</category>
 		<description>Space Pirates (USA, Canada)</description>
 		<rom name="Space Pirates (USA, Canada).iso" size="4624646144" crc="345a1bbe" md5="ab07463612a22769cfb352dd83a75e7c" sha1="617a2f145c0945fa038bc80c2701a3776740be30"/>
+	</game>
+	<game name="Spider-Man (Mexico) (En,Es,Pt) (Disc 2)" id="140334">
+		<category>Demos</category>
+		<description>Spider-Man (Mexico) (En,Es,Pt) (Disc 2)</description>
+		<serial>06190-MX</serial>
+		<rom name="Spider-Man (Mexico) (En,Es,Pt) (Disc 2).iso" size="7573143552" crc="2718e1ed" md5="e739128e352ddf06a053681d95fee1b6" sha1="d2723c5418656ff9879ce212ab7eb34f03101d2a"/>
 	</game>
 	<game name="Star Trek (USA) (En,Fr,De,Es,It) (Disc 3)" id="55390">
 		<category>Demos</category>

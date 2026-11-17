@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4522) (2026-11-15 15-33-57)</description>
-		<version>2026-11-15 15-33-57</version>
-		<date>2026-11-15 15-33-57</date>
+		<description>Sony - PlayStation 3 - Datfile (4523) (2026-11-17 10-16-40)</description>
+		<version>2026-11-17 10-16-40</version>
+		<date>2026-11-17 10-16-40</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -12700,12 +12700,12 @@
 		<description>Heavy Rain (USA, Canada) (En,Fr,Es,Pt)</description>
 		<rom name="Heavy Rain (USA, Canada) (En,Fr,Es,Pt).iso" size="21799567360" crc="69ad58b6" md5="3bb7b180fb9e1dff8878d8fa92d66b60" sha1="ab2b0801983cdc45ae24d8f7ad5a4920fc2fbd1e"/>
 	</game>
-	<game name="Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt)" id="44804">
+	<game name="Heavy Rain - Director's Cut (USA, Canada) (En,Fr,Es,Pt)" id="44804">
 		<category>Games</category>
 		<serial>BCUS-98280</serial>
 		<version>02.00</version>
-		<description>Heavy Rain: Director's Cut (USA) (En,Fr,Es,Pt)</description>
-		<rom name="Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt).iso" size="30187978752" crc="39914807" md5="5a4b3268c4533957a7fec62148c2b177" sha1="7b3369e95195110c7ea089a48cf169e444c0ed69"/>
+		<description>Heavy Rain: Director's Cut (USA, Canada) (En,Fr,Es,Pt)</description>
+		<rom name="Heavy Rain - Director's Cut (USA, Canada) (En,Fr,Es,Pt).iso" size="30187978752" crc="39914807" md5="5a4b3268c4533957a7fec62148c2b177" sha1="7b3369e95195110c7ea089a48cf169e444c0ed69"/>
 	</game>
 	<game name="Heavy Rain - Edition Modifiee (France) (En,Fr,De,Es,It,Nl,Pt)" id="90145">
 		<category>Games</category>
@@ -12784,12 +12784,12 @@
 		<description>Heroes over Europe (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Heroes over Europe (Europe) (En,Fr,De,Es,It).iso" size="5704384512" crc="c7e44b1e" md5="dbe8746c325225cd6b9b2b53ff84a168" sha1="8200c37c9b3132a9e14fd609a8e405980a1c6f2d"/>
 	</game>
-	<game name="Heroes over Europe (USA) (En,Fr,De,Es,It)" id="36032">
+	<game name="Heroes over Europe (USA, Canada) (En,Fr,De,Es,It)" id="36032">
 		<category>Games</category>
 		<serial>BLUS-30308</serial>
 		<version>01.01</version>
-		<description>Heroes over Europe (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Heroes over Europe (USA) (En,Fr,De,Es,It).iso" size="5704384512" crc="cd445ae1" md5="09c201ad1223accfc2b1683fbd46d80c" sha1="2f678f740643c6896ff7ea1caa50454bd7b17098"/>
+		<description>Heroes over Europe (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Heroes over Europe (USA, Canada) (En,Fr,De,Es,It).iso" size="5704384512" crc="cd445ae1" md5="09c201ad1223accfc2b1683fbd46d80c" sha1="2f678f740643c6896ff7ea1caa50454bd7b17098"/>
 	</game>
 	<game name="High Velocity Bowling (USA) (En,Fr,Es) (FW3.41)" id="36033">
 		<category>Games</category>
@@ -12910,19 +12910,19 @@
 		<description>Hitman: Absolution (Turkey) (En,Tr)</description>
 		<rom name="Hitman - Absolution (Turkey) (En,Tr).iso" size="12444499968" crc="c2a66b26" md5="28879382ea584b74308f0745a5038157" sha1="9020f4c08b2ae9cfa92c3f506189efc848713e0b"/>
 	</game>
-	<game name="Hitman - Absolution (USA) (En,Fr,Es)" id="36244">
-		<category>Games</category>
-		<serial>BLUS-31142</serial>
-		<version>01.00</version>
-		<description>Hitman: Absolution (USA) (En,Fr,Es)</description>
-		<rom name="Hitman - Absolution (USA) (En,Fr,Es).iso" size="17606574080" crc="aed091ab" md5="a58f21308eb9f9afa13597b18e649dc6" sha1="30ed5fef8973abaeaf839b4ab3f58ceca3eeb129"/>
-	</game>
 	<game name="Hitman - Absolution (USA) (Greatest Hits)" id="132151">
 		<category>Games</category>
 		<serial>BLUS-30835</serial>
 		<version>01.00</version>
 		<description>Hitman: Absolution (USA) (Greatest Hits)</description>
 		<rom name="Hitman - Absolution (USA) (Greatest Hits).iso" size="12404981760" crc="c35de1b0" md5="cd6eb2970e1620518947135128f5fbfd" sha1="ea673b9998c2add603d4237f478f1c338aa5fc1c"/>
+	</game>
+	<game name="Hitman - Absolution (USA, Canada) (En,Fr,Es)" id="36244">
+		<category>Games</category>
+		<serial>BLUS-31142</serial>
+		<version>01.00</version>
+		<description>Hitman: Absolution (USA, Canada) (En,Fr,Es)</description>
+		<rom name="Hitman - Absolution (USA, Canada) (En,Fr,Es).iso" size="17606574080" crc="aed091ab" md5="a58f21308eb9f9afa13597b18e649dc6" sha1="30ed5fef8973abaeaf839b4ab3f58ceca3eeb129"/>
 	</game>
 	<game name="Hitman HD Trilogy (Europe) (En,Fr,De,Es,It)" id="49155">
 		<category>Games</category>
@@ -13323,12 +13323,12 @@
 		<description>IL-2 Sturmovik: Birds of Prey (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="IL-2 Sturmovik - Birds of Prey (Europe) (En,Fr,De,Es,It).iso" size="5561384960" crc="7eb9e72d" md5="8f9c567f636542c0727012ac734cf58c" sha1="7d1739cc0c4a49ec0d2a9f4f9372be7cf04e478b"/>
 	</game>
-	<game name="IL-2 Sturmovik - Birds of Prey (USA) (En,Fr,De,Es,It)" id="36368">
+	<game name="IL-2 Sturmovik - Birds of Prey (USA, Canada) (En,Fr,De,Es,It)" id="36368">
 		<category>Games</category>
 		<serial>BLUS-30424</serial>
 		<version>01.01</version>
-		<description>IL-2 Sturmovik: Birds of Prey (USA) (En,Fr,De,Es,It)</description>
-		<rom name="IL-2 Sturmovik - Birds of Prey (USA) (En,Fr,De,Es,It).iso" size="5561253888" crc="3ff4eada" md5="ed0a69329a3abf77166c557436b84ce2" sha1="6e1047b317a2a876144e0616baa03af839a4e9a0"/>
+		<description>IL-2 Sturmovik: Birds of Prey (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="IL-2 Sturmovik - Birds of Prey (USA, Canada) (En,Fr,De,Es,It).iso" size="5561253888" crc="3ff4eada" md5="ed0a69329a3abf77166c557436b84ce2" sha1="6e1047b317a2a876144e0616baa03af839a4e9a0"/>
 	</game>
 	<game name="Imabikisou (Japan)" id="61217">
 		<category>Games</category>
@@ -13940,12 +13940,12 @@
 		<description>Juiced 2: Hot Import Nights (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Juiced 2 - Hot Import Nights (Europe) (En,Fr,De,Es,It).iso" size="4477878272" crc="2d25099b" md5="c0691eb0f3cf21b3f1e29349c0aa4119" sha1="ca6160816617fac2250a55c8b6ae2986f9fd8aea"/>
 	</game>
-	<game name="Juiced 2 - Hot Import Nights (USA)" id="44806">
+	<game name="Juiced 2 - Hot Import Nights (USA, Canada)" id="44806">
 		<category>Games</category>
 		<serial>BLUS-30084</serial>
 		<version>01.02</version>
-		<description>Juiced 2: Hot Import Nights (USA)</description>
-		<rom name="Juiced 2 - Hot Import Nights (USA).iso" size="4218748928" crc="9f6e0666" md5="0e0c06cfbf74ebd9629ec76a89df9f50" sha1="bf23db944874f4ac483385dc44b54faa547829a8"/>
+		<description>Juiced 2: Hot Import Nights (USA, Canada)</description>
+		<rom name="Juiced 2 - Hot Import Nights (USA, Canada).iso" size="4218748928" crc="9f6e0666" md5="0e0c06cfbf74ebd9629ec76a89df9f50" sha1="bf23db944874f4ac483385dc44b54faa547829a8"/>
 	</game>
 	<game name="Jurassic - The Hunted (USA)" id="36443">
 		<category>Games</category>
@@ -13968,12 +13968,12 @@
 		<description>Just Cause 2 (Japan) (En,Ja)</description>
 		<rom name="Just Cause 2 (Japan) (En,Ja).iso" size="7624720384" crc="0f90de88" md5="822074fdec7afdaf0c86cc9626507e43" sha1="2b2022720ef2359b8830d5163bcca73864e39457"/>
 	</game>
-	<game name="Just Cause 2 (USA) (En,Fr,De,Es,It)" id="12249">
+	<game name="Just Cause 2 (USA, Canada) (En,Fr,De,Es,It)" id="12249">
 		<category>Games</category>
 		<serial>BLUS-30400</serial>
 		<version>01.01</version>
-		<description>Just Cause 2 (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Just Cause 2 (USA) (En,Fr,De,Es,It).iso" size="8121548800" crc="6afeb341" md5="261a067e8620659d844da0ad3df0d734" sha1="816e75e794c5e85720b824b13c229e2d72b2ff2c"/>
+		<description>Just Cause 2 (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Just Cause 2 (USA, Canada) (En,Fr,De,Es,It).iso" size="8121548800" crc="6afeb341" md5="261a067e8620659d844da0ad3df0d734" sha1="816e75e794c5e85720b824b13c229e2d72b2ff2c"/>
 	</game>
 	<game name="Just Dance 2014 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="31407">
 		<category>Games</category>
@@ -16782,12 +16782,12 @@
 		<description>Mercenaries 2: World in Flames (Japan)</description>
 		<rom name="Mercenaries 2 - World in Flames (Japan).iso" size="9741074432" crc="38d45965" md5="24098e18ceb32d6cfd55745dce82b59d" sha1="d0ea9f38c3e1ea73212ef940cba74ea25bca6af5"/>
 	</game>
-	<game name="Mercenaries 2 - World in Flames (USA) (En,Fr,De,Es,It,Ru)" id="30001">
+	<game name="Mercenaries 2 - World in Flames (USA, Canada) (En,Fr,De,Es,It,Ru)" id="30001">
 		<category>Games</category>
 		<serial>BCUS-90142, BLUS-30056</serial>
 		<version>01.00</version>
-		<description>Mercenaries 2: World in Flames (USA) (En,Fr,De,Es,It,Ru)</description>
-		<rom name="Mercenaries 2 - World in Flames (USA) (En,Fr,De,Es,It,Ru).iso" size="9996533760" crc="416f4382" md5="cb94bfd99894956ea9c18a53800e98e9" sha1="6b21c3281da438d1ae5f54b70bc8b16a955f551a"/>
+		<description>Mercenaries 2: World in Flames (USA, Canada) (En,Fr,De,Es,It,Ru)</description>
+		<rom name="Mercenaries 2 - World in Flames (USA, Canada) (En,Fr,De,Es,It,Ru).iso" size="9996533760" crc="416f4382" md5="cb94bfd99894956ea9c18a53800e98e9" sha1="6b21c3281da438d1ae5f54b70bc8b16a955f551a"/>
 	</game>
 	<game name="Meruru no Atelier - Arland no Renkinjutsushi 3 (Japan) (v01.01)" id="67456">
 		<category>Games</category>
@@ -17104,12 +17104,12 @@
 		<description>Midnight Club: Los Angeles (Japan) (Rockstar Classics)</description>
 		<rom name="Midnight Club - Los Angeles (Japan) (Rockstar Classics).iso" size="5138808832" crc="9ec089a9" md5="ced5727fb07eee9f473e7cd791a5451d" sha1="3b48ca86ef94f52c99642bf724b7e6dc7b485cb8"/>
 	</game>
-	<game name="Midnight Club - Los Angeles (USA) (En,Fr,De,Es,It)" id="10623">
+	<game name="Midnight Club - Los Angeles (USA, Canada) (En,Fr,De,Es,It)" id="10623">
 		<category>Games</category>
 		<serial>BLUS-30190</serial>
 		<version>01.03</version>
-		<description>Midnight Club: Los Angeles (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Midnight Club - Los Angeles (USA) (En,Fr,De,Es,It).iso" size="5037490176" crc="84f35084" md5="8f42c6c5befbe57f31c818c8b3c100da" sha1="1b50ea541aac8e3761eedbc61ec119e4abe9d119"/>
+		<description>Midnight Club: Los Angeles (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Midnight Club - Los Angeles (USA, Canada) (En,Fr,De,Es,It).iso" size="5037490176" crc="84f35084" md5="8f42c6c5befbe57f31c818c8b3c100da" sha1="1b50ea541aac8e3761eedbc61ec119e4abe9d119"/>
 	</game>
 	<game name="Midnight Club - Los Angeles - Complete Edition (Europe) (En,Fr,De,Es,It)" id="53789">
 		<category>Games</category>
@@ -17118,12 +17118,12 @@
 		<description>Midnight Club: Los Angeles: Complete Edition (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Midnight Club - Los Angeles - Complete Edition (Europe) (En,Fr,De,Es,It).iso" size="5669519360" crc="328c1be3" md5="5ddb8e0c796b43065030fa54a5d8212f" sha1="dfa2d2822714344e970b2af8587a3ce89897f851"/>
 	</game>
-	<game name="Midnight Club - Los Angeles - Complete Edition (USA) (En,Fr,De,Es,It)" id="42533">
+	<game name="Midnight Club - Los Angeles - Complete Edition (USA, Canada) (En,Fr,De,Es,It)" id="42533">
 		<category>Games</category>
 		<serial>BLUS-30442</serial>
 		<version>01.03</version>
-		<description>Midnight Club: Los Angeles: Complete Edition (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Midnight Club - Los Angeles - Complete Edition (USA) (En,Fr,De,Es,It).iso" size="5669519360" crc="488b0f96" md5="8c5902657bb7d25d3fd1db420b8b7699" sha1="fe85559bcba7d1fbac9e3d2c721126f21fcfcf8d"/>
+		<description>Midnight Club: Los Angeles: Complete Edition (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Midnight Club - Los Angeles - Complete Edition (USA, Canada) (En,Fr,De,Es,It).iso" size="5669519360" crc="488b0f96" md5="8c5902657bb7d25d3fd1db420b8b7699" sha1="fe85559bcba7d1fbac9e3d2c721126f21fcfcf8d"/>
 	</game>
 	<game name="Midway Arcade Origins (Europe) (En,Fr,De,Es,It)" id="35558">
 		<category>Games</category>
@@ -17473,12 +17473,12 @@
 		<description>ModNation Racers (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
 		<rom name="ModNation Racers (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso" size="18455592960" crc="ce920d31" md5="497a3128d0ab9f7e882fd105acb4bbdf" sha1="e846a6433f3d131da091c8ebaed75de0a4c275e3"/>
 	</game>
-	<game name="ModNation Racers (USA) (En,Fr,Es)" id="29141">
+	<game name="ModNation Racers (USA, Canada) (En,Fr,Es)" id="29141">
 		<category>Games</category>
 		<serial>BCUS-98167</serial>
 		<version>01.00</version>
-		<description>ModNation Racers (USA) (En,Fr,Es)</description>
-		<rom name="ModNation Racers (USA) (En,Fr,Es).iso" size="9941680128" crc="66c6d19f" md5="18c799b5dadb6b648d88100cd5d933c9" sha1="5505c5544b7b68d84e1a427f1ff5f9aaeb5d3de7"/>
+		<description>ModNation Racers (USA, Canada) (En,Fr,Es)</description>
+		<rom name="ModNation Racers (USA, Canada) (En,Fr,Es).iso" size="9941680128" crc="66c6d19f" md5="18c799b5dadb6b648d88100cd5d933c9" sha1="5505c5544b7b68d84e1a427f1ff5f9aaeb5d3de7"/>
 	</game>
 	<game name="Moe Moe Daisensou - Gendaiban++ (Japan)" id="100777">
 		<category>Games</category>
@@ -17501,12 +17501,12 @@
 		<description>Monopoly (Europe) (En,Fr,De,Es,Nl)</description>
 		<rom name="Monopoly (Europe) (En,Fr,De,Es,Nl).iso" size="2430795776" crc="6e537d0a" md5="9ff2284efac011435c1f1a83bd085453" sha1="5338b7238d5833231aad20b70c1b7cdbf3e948fb"/>
 	</game>
-	<game name="Monopoly (USA) (En,Fr)" id="45711">
+	<game name="Monopoly (USA, Canada) (En,Fr)" id="45711">
 		<category>Games</category>
 		<serial>BLUS-30213</serial>
 		<version>01.00</version>
-		<description>Monopoly (USA) (En,Fr)</description>
-		<rom name="Monopoly (USA) (En,Fr).iso" size="1230962688" crc="0f3e82f3" md5="65d39c5faff3e0fac0d53b4744460d7f" sha1="b324ba012bba2ebab9f62dd2ba1bf7e7d76d6b60"/>
+		<description>Monopoly (USA, Canada) (En,Fr)</description>
+		<rom name="Monopoly (USA, Canada) (En,Fr).iso" size="1230962688" crc="0f3e82f3" md5="65d39c5faff3e0fac0d53b4744460d7f" sha1="b324ba012bba2ebab9f62dd2ba1bf7e7d76d6b60"/>
 	</game>
 	<game name="Monopoly Streets (Europe) (En,Fr,De,Es,It,Nl)" id="52903">
 		<category>Games</category>
@@ -17802,12 +17802,12 @@
 		<description>MotorStorm: Apocalypse (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru) (v01.00)</description>
 		<rom name="MotorStorm - Apocalypse (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru) (v01.00).iso" size="19414319104" crc="dfeb3268" md5="83429e95efd4771a434c10fbe0ee1327" sha1="0f9f01399d14d3dcb195c1de48eef9d925861d56"/>
 	</game>
-	<game name="MotorStorm - Apocalypse (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru) (v02.00)" id="44810">
+	<game name="MotorStorm - Apocalypse (USA, Canada) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru) (v02.00)" id="44810">
 		<category>Games</category>
 		<serial>BCUS-98242</serial>
 		<version>02.00</version>
-		<description>MotorStorm: Apocalypse (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru) (v02.00)</description>
-		<rom name="MotorStorm - Apocalypse (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru) (v02.00).iso" size="19525533696" crc="25e13225" md5="615abce1cb71086ad1b099e87bade19e" sha1="626fb8e622862f913d255451bb5c9b03de762ec3"/>
+		<description>MotorStorm: Apocalypse (USA, Canada) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru) (v02.00)</description>
+		<rom name="MotorStorm - Apocalypse (USA, Canada) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru) (v02.00).iso" size="19525533696" crc="25e13225" md5="615abce1cb71086ad1b099e87bade19e" sha1="626fb8e622862f913d255451bb5c9b03de762ec3"/>
 	</game>
 	<game name="MotorStorm - Complete Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)" id="55692">
 		<category>Games</category>
@@ -18120,12 +18120,12 @@
 		<description>MX vs. ATV Reflex (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="MX vs. ATV Reflex (Europe) (En,Fr,De,Es,It).iso" size="7091978240" crc="c5df52a1" md5="ffdca8a585b0ae1d22c4b3a35325c3bf" sha1="e6c544f69e775ab7571d5f1783519a7b8c9ee554"/>
 	</game>
-	<game name="MX vs. ATV Reflex (USA) (En,Fr)" id="10955">
+	<game name="MX vs. ATV Reflex (USA, Canada) (En,Fr)" id="10955">
 		<category>Games</category>
 		<serial>BLUS-30321</serial>
 		<version>01.00</version>
-		<description>MX vs. ATV Reflex (USA) (En,Fr)</description>
-		<rom name="MX vs. ATV Reflex (USA) (En,Fr).iso" size="5915082752" crc="f33819d8" md5="d6148a02400753017a66fbc16f3110e5" sha1="81ac389047eace959794e85a73de6b12818e30b9"/>
+		<description>MX vs. ATV Reflex (USA, Canada) (En,Fr)</description>
+		<rom name="MX vs. ATV Reflex (USA, Canada) (En,Fr).iso" size="5915082752" crc="f33819d8" md5="d6148a02400753017a66fbc16f3110e5" sha1="81ac389047eace959794e85a73de6b12818e30b9"/>
 	</game>
 	<game name="MX vs. ATV Supercross (Europe) (En,Fr,De,Es,It)" id="61392">
 		<category>Games</category>
@@ -18407,12 +18407,12 @@
 		<description>NASCAR 08 (Europe)</description>
 		<rom name="NASCAR 08 (Europe).iso" size="4498128896" crc="6a0f86af" md5="06e95755f5b95d5d43f28c12da58b3d0" sha1="d2497595684e92f49b87f1bbb2d79732df879bd7"/>
 	</game>
-	<game name="NASCAR 08 (USA)" id="37295">
+	<game name="NASCAR 08 (USA, Canada)" id="37295">
 		<category>Games</category>
 		<serial>BLUS-30040</serial>
 		<version>01.02</version>
-		<description>NASCAR 08 (USA)</description>
-		<rom name="NASCAR 08 (USA).iso" size="4567007232" crc="30d07e9e" md5="4161e614c4920de6a6ec8b8f2f34c32e" sha1="ce74cce31755a83296cc13f7ad9d98ec782e896c"/>
+		<description>NASCAR 08 (USA, Canada)</description>
+		<rom name="NASCAR 08 (USA, Canada).iso" size="4567007232" crc="30d07e9e" md5="4161e614c4920de6a6ec8b8f2f34c32e" sha1="ce74cce31755a83296cc13f7ad9d98ec782e896c"/>
 	</game>
 	<game name="NASCAR 09 (Europe)" id="53226">
 		<category>Games</category>
@@ -18421,19 +18421,19 @@
 		<description>NASCAR 09 (Europe)</description>
 		<rom name="NASCAR 09 (Europe).iso" size="5409079296" crc="8aac4e66" md5="adb130775a9e2e4e094bdbc48b424372" sha1="c91d1c53502baef1fefe33f71c3117094bd8251b"/>
 	</game>
-	<game name="NASCAR 09 (USA)" id="30036">
+	<game name="NASCAR 09 (USA, Canada)" id="30036">
 		<category>Games</category>
 		<serial>BLUS 30139B, BLUS-30139</serial>
 		<version>01.00</version>
-		<description>NASCAR 09 (USA)</description>
-		<rom name="NASCAR 09 (USA).iso" size="5422645248" crc="7112bca4" md5="206932ff245fba77d8c88d737987c470" sha1="c6c527400e30b8cff103a79d27b8a99db1033361"/>
+		<description>NASCAR 09 (USA, Canada)</description>
+		<rom name="NASCAR 09 (USA, Canada).iso" size="5422645248" crc="7112bca4" md5="206932ff245fba77d8c88d737987c470" sha1="c6c527400e30b8cff103a79d27b8a99db1033361"/>
 	</game>
-	<game name="NASCAR 2011 - The Game (USA)" id="37303">
+	<game name="NASCAR 2011 - The Game (USA, Canada)" id="37303">
 		<category>Games</category>
 		<serial>BLUS-30604</serial>
 		<version>01.01</version>
-		<description>NASCAR 2011: The Game (USA)</description>
-		<rom name="NASCAR 2011 - The Game (USA).iso" size="3331784704" crc="7c1f399e" md5="44876ea51bd223f6fbefc88d18a72d2a" sha1="647a298d443451dea677b83a7096e8826e3e86b2"/>
+		<description>NASCAR 2011: The Game (USA, Canada)</description>
+		<rom name="NASCAR 2011 - The Game (USA, Canada).iso" size="3331784704" crc="7c1f399e" md5="44876ea51bd223f6fbefc88d18a72d2a" sha1="647a298d443451dea677b83a7096e8826e3e86b2"/>
 	</game>
 	<game name="NASCAR the Game - Inside Line (USA)" id="37373">
 		<category>Games</category>
@@ -19100,6 +19100,13 @@
 		<description>Need for Speed: Most Wanted: A Criterion Game (Asia)</description>
 		<rom name="Need for Speed - Most Wanted - A Criterion Game (Asia).iso" size="4955176960" crc="0e893722" md5="ee7ddaff6fbe8f95ac39ccb66e85ec18" sha1="abf5b40e7f3c1976dd179b17a133aa8f112cd0dc"/>
 	</game>
+	<game name="Need for Speed - Most Wanted - A Criterion Game (Europe)" id="31105">
+		<category>Games</category>
+		<serial>BLES-01660, BLES-01660/E</serial>
+		<version>01.00</version>
+		<description>Need for Speed: Most Wanted: A Criterion Game (Europe)</description>
+		<rom name="Need for Speed - Most Wanted - A Criterion Game (Europe).iso" size="4955176960" crc="be610bb7" md5="ddaba530e8891d2efc12121e82835a6e" sha1="8d4d54c9318679a2ef761f043bb352211de9cdee"/>
+	</game>
 	<game name="Need for Speed - Most Wanted - A Criterion Game (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,Ar)" id="58271">
 		<category>Games</category>
 		<serial>BLES-01659</serial>
@@ -19114,25 +19121,18 @@
 		<description>Need for Speed: Most Wanted: A Criterion Game (Japan)</description>
 		<rom name="Need for Speed - Most Wanted - A Criterion Game (Japan).iso" size="4955176960" crc="bdf3e117" md5="765dc5d5841b34aa4ba856ff350cb998" sha1="4cb129884f5d9a0052b12fc27d259c6263755993"/>
 	</game>
-	<game name="Need for Speed - Most Wanted - A Criterion Game (UK)" id="31105">
-		<category>Games</category>
-		<serial>BLES-01660, BLES-01660/E</serial>
-		<version>01.00</version>
-		<description>Need for Speed: Most Wanted: A Criterion Game (UK)</description>
-		<rom name="Need for Speed - Most Wanted - A Criterion Game (UK).iso" size="4955176960" crc="be610bb7" md5="ddaba530e8891d2efc12121e82835a6e" sha1="8d4d54c9318679a2ef761f043bb352211de9cdee"/>
-	</game>
-	<game name="Need for Speed - Most Wanted - A Criterion Game (USA) (En,Fr,Es)" id="30739">
-		<category>Games</category>
-		<serial>BLUS-31010LE</serial>
-		<version>01.00</version>
-		<description>Need for Speed: Most Wanted: A Criterion Game (USA) (En,Fr,Es)</description>
-		<rom name="Need for Speed - Most Wanted - A Criterion Game (USA) (En,Fr,Es).iso" size="4955176960" crc="c3c87352" md5="08edfcb14ed39c5609c7da650a286d2b" sha1="de8d6503e92dfe3d83ea06df959a60e75769ee69"/>
-	</game>
 	<game name="Need for Speed - Most Wanted - A Criterion Game (USA) (En,Fr,Es) (Beta) (2012-09-26)" id="62300">
 		<category>Preproduction</category>
 		<version>01.00</version>
 		<description>Need for Speed: Most Wanted: A Criterion Game (USA) (En,Fr,Es) (Beta) (2012-09-26)</description>
 		<rom name="Need for Speed - Most Wanted - A Criterion Game (USA) (En,Fr,Es) (Beta) (2012-09-26).iso" size="4955176960" crc="b2527c6c" md5="44549984fe9f8911bf98d526b4b6fc9c" sha1="05d914eff4acd33e37978c2752211c99087dfa8b"/>
+	</game>
+	<game name="Need for Speed - Most Wanted - A Criterion Game (USA, Canada) (En,Fr,Es)" id="30739">
+		<category>Games</category>
+		<serial>BLUS-31010LE</serial>
+		<version>01.00</version>
+		<description>Need for Speed: Most Wanted: A Criterion Game (USA, Canada) (En,Fr,Es)</description>
+		<rom name="Need for Speed - Most Wanted - A Criterion Game (USA, Canada) (En,Fr,Es).iso" size="4955176960" crc="c3c87352" md5="08edfcb14ed39c5609c7da650a286d2b" sha1="de8d6503e92dfe3d83ea06df959a60e75769ee69"/>
 	</game>
 	<game name="Need for Speed - ProStreet (Europe)" id="28996">
 		<category>Games</category>
@@ -19162,12 +19162,12 @@
 		<description>Need for Speed: ProStreet (Russia)</description>
 		<rom name="Need for Speed - ProStreet (Russia).iso" size="6074138624" crc="9cbcd21a" md5="c3128e539b1551c97f9df959e3b8a7b3" sha1="3ca09a8f4eafce677a3bdc3beb46265b851d938d"/>
 	</game>
-	<game name="Need for Speed - ProStreet (USA)" id="11120">
+	<game name="Need for Speed - ProStreet (USA, Canada)" id="11120">
 		<category>Games</category>
 		<serial>BLUS-30066, BLUS-30066GH</serial>
 		<version>01.00</version>
-		<description>Need for Speed: ProStreet (USA)</description>
-		<rom name="Need for Speed - ProStreet (USA).iso" size="6169559040" crc="3fbebb35" md5="74738633cf35b87eafccb6da43167639" sha1="a81fb48bf11027552971b39d783b6197fe3aff5d"/>
+		<description>Need for Speed: ProStreet (USA, Canada)</description>
+		<rom name="Need for Speed - ProStreet (USA, Canada).iso" size="6169559040" crc="3fbebb35" md5="74738633cf35b87eafccb6da43167639" sha1="a81fb48bf11027552971b39d783b6197fe3aff5d"/>
 	</game>
 	<game name="Need for Speed - Rivals (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Ru)" id="31275">
 		<category>Games</category>
@@ -21919,19 +21919,19 @@
 		<description>Pure (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Pure (Europe) (En,Fr,De,Es,It,Nl).iso" size="5180817408" crc="3344628a" md5="d3be3084ede7d8b9b57d126507fb84c6" sha1="99024dd0167154d982c772f0f72a2699141a4af2"/>
 	</game>
-	<game name="Pure (USA) (En,Fr,Es)" id="10891">
-		<category>Games</category>
-		<serial>BLUS-30182</serial>
-		<version>01.00</version>
-		<description>Pure (USA) (En,Fr,Es)</description>
-		<rom name="Pure (USA) (En,Fr,Es).iso" size="5180948480" crc="c5fece73" md5="09cd9280bff20efa09b2cbdd16d07ae3" sha1="32e4043789a666e81face503ff053ff4df003198"/>
-	</game>
 	<game name="Pure (USA) (En,Fr,Es) (Demo)" id="48314">
 		<category>Demos</category>
 		<serial>BLUD-90005</serial>
 		<version>01.00</version>
 		<description>Pure (USA) (En,Fr,Es) (Demo)</description>
 		<rom name="Pure (USA) (En,Fr,Es) (Demo).iso" size="1993605120" crc="c56954b4" md5="33d1a1bb67647522b22f5584d027170b" sha1="22835407dd2891b265d13b0d24a79eab9ef62936"/>
+	</game>
+	<game name="Pure (USA, Canada) (En,Fr,Es)" id="10891">
+		<category>Games</category>
+		<serial>BLUS-30182</serial>
+		<version>01.00</version>
+		<description>Pure (USA, Canada) (En,Fr,Es)</description>
+		<rom name="Pure (USA, Canada) (En,Fr,Es).iso" size="5180948480" crc="c5fece73" md5="09cd9280bff20efa09b2cbdd16d07ae3" sha1="32e4043789a666e81face503ff053ff4df003198"/>
 	</game>
 	<game name="Pure Football (Australia) (En,Fr,De,Es,It,Nl)" id="32044">
 		<category>Games</category>
@@ -22406,6 +22406,13 @@
 		<description>Ratchet &amp; Clank Future 2 (Japan) (En,Ja)</description>
 		<rom name="Ratchet &amp; Clank Future 2 (Japan) (En,Ja).iso" size="20505559040" crc="f69f353c" md5="2c1ba8b5036beacefddbb2475336ce2f" sha1="1ea459c74c97a93409c9fb4a5902df019d776e1e"/>
 	</game>
+	<game name="Ratchet &amp; Clank Trilogy, The (Australia) (En,Fr,De,Es,It) (v01.00)" id="140329">
+		<category>Games</category>
+		<serial>BCES-01503/ANZ</serial>
+		<version>01.00</version>
+		<description>Ratchet &amp; Clank Trilogy, The (Australia) (En,Fr,De,Es,It) (v01.00)</description>
+		<rom name="Ratchet &amp; Clank Trilogy, The (Australia) (En,Fr,De,Es,It) (v01.00).iso" size="10872094720" crc="d20ebb18" md5="2b9a8dd73af43f7fa4d6c4e132b57f64" sha1="59f043802e13133becac1c26618f937a8bf89dbf"/>
+	</game>
 	<game name="Ratchet &amp; Clank Trilogy, The (Europe, Asia) (En,Fr,De,Es,It)" id="47911">
 		<category>Games</category>
 		<serial>BCES-01503, BCKS 10221, BCAS 20246</serial>
@@ -22546,12 +22553,12 @@
 		<description>Red Dead Redemption: Game of the Year Edition (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Red Dead Redemption - Game of the Year Edition (Europe) (En,Fr,De,Es,It).iso" size="10218962944" crc="e54eb843" md5="65e0881ea0ec58b238e64efeb3f0d220" sha1="bd817ba5e7f85bc699908a2bc5bb1fcec44c27ef"/>
 	</game>
-	<game name="Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It)" id="29814">
+	<game name="Red Dead Redemption - Game of the Year Edition (USA, Canada) (En,Fr,De,Es,It)" id="29814">
 		<category>Games</category>
 		<serial>BLUS-30758, BLUS-30758GH</serial>
 		<version>01.00</version>
-		<description>Red Dead Redemption: Game of the Year Edition (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It).iso" size="10218897408" crc="4f11d75f" md5="42f2268b381cffadedb9a1da120da9f6" sha1="95b2f6ae36df32bb47a63c365fa842b02bb10394"/>
+		<description>Red Dead Redemption: Game of the Year Edition (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Red Dead Redemption - Game of the Year Edition (USA, Canada) (En,Fr,De,Es,It).iso" size="10218897408" crc="4f11d75f" md5="42f2268b381cffadedb9a1da120da9f6" sha1="95b2f6ae36df32bb47a63c365fa842b02bb10394"/>
 	</game>
 	<game name="Red Dead Redemption - Undead Nightmare (Europe) (En,Fr,De,Es,It)" id="47909">
 		<category>Games</category>
@@ -22567,12 +22574,12 @@
 		<description>Red Dead Redemption: Undead Nightmare (Japan)</description>
 		<rom name="Red Dead Redemption - Undead Nightmare (Japan).iso" size="11091902464" crc="a7633f01" md5="4e61234b796f95fc39ec4b7f3c3ac8a0" sha1="a2acce22c4283c41c1b738005f4e314c0c142fc5"/>
 	</game>
-	<game name="Red Dead Redemption - Undead Nightmare (USA) (En,Fr,De,Es,It)" id="29028">
+	<game name="Red Dead Redemption - Undead Nightmare (USA, Canada) (En,Fr,De,Es,It)" id="29028">
 		<category>Games</category>
 		<serial>BLUS-30711</serial>
 		<version>01.00</version>
-		<description>Red Dead Redemption: Undead Nightmare (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Red Dead Redemption - Undead Nightmare (USA) (En,Fr,De,Es,It).iso" size="10928979968" crc="237b1e18" md5="66d8a7911ef228024943dc77b87ad778" sha1="daab5566189c90f7e75c622b7f5cb3d76d79a0bb"/>
+		<description>Red Dead Redemption: Undead Nightmare (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Red Dead Redemption - Undead Nightmare (USA, Canada) (En,Fr,De,Es,It).iso" size="10928979968" crc="237b1e18" md5="66d8a7911ef228024943dc77b87ad778" sha1="daab5566189c90f7e75c622b7f5cb3d76d79a0bb"/>
 	</game>
 	<game name="Red Faction - Armageddon (Europe) (En,Fr,De,Es,It) (Beta) (2011-03-24)" id="62115">
 		<category>Preproduction</category>
@@ -24473,12 +24480,12 @@
 		<description>Shift 2: Unleashed (Europe) (En,Fr,De,Es,It,Pl,Ru)</description>
 		<rom name="Shift 2 - Unleashed (Europe) (En,Fr,De,Es,It,Pl,Ru).iso" size="6639910912" crc="e6989dca" md5="da55a0b32d1a3fd54296d502fe7425f7" sha1="bbdc83c03459e58605d6fb5e6674f856e2a03132"/>
 	</game>
-	<game name="Shift 2 - Unleashed (USA) (En,Fr,Es)" id="39373">
+	<game name="Shift 2 - Unleashed (USA, Canada) (En,Fr,Es)" id="39373">
 		<category>Games</category>
 		<serial>BLUS-30580LE</serial>
 		<version>01.00</version>
-		<description>Shift 2: Unleashed (USA) (En,Fr,Es)</description>
-		<rom name="Shift 2 - Unleashed (USA) (En,Fr,Es).iso" size="6610288640" crc="f748cbd3" md5="0e033f06ad5ee533b6ecc3abc4fd2bcf" sha1="5b7942552d4b064370e5f53cf47936cf4e3835f2"/>
+		<description>Shift 2: Unleashed (USA, Canada) (En,Fr,Es)</description>
+		<rom name="Shift 2 - Unleashed (USA, Canada) (En,Fr,Es).iso" size="6610288640" crc="f748cbd3" md5="0e033f06ad5ee533b6ecc3abc4fd2bcf" sha1="5b7942552d4b064370e5f53cf47936cf4e3835f2"/>
 	</game>
 	<game name="Shin Gundam Musou (Asia)" id="129524">
 		<category>Games</category>

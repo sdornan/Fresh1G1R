@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,965) (-y) [-aAbBcdkmMpPuv] (2026-11-16 05-00-23) (Retool)</description>
-		<version>2026-11-16 05-00-23</version>
-		<date>2026-11-16 09-25-52</date>
+		<description>Sony - PlayStation 4 (1,967) (-y) [-aAbBcdkmMpPuv] (2026-11-17 08-12-30) (Retool)</description>
+		<version>2026-11-17 08-12-30</version>
+		<date>2026-11-17 10-45-22</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -4917,6 +4917,13 @@
 		<serial>PLJM 16378</serial>
 		<version>01.01</version>
 		<rom name="Full Kiss (Japan).iso" size="4755226624" crc="c85185fc" md5="9b2bd6730de9668869a699507b89422b" sha1="584ff39cda54423ce6d29df915a5ca99c194e923"/>
+	</game>
+	<game name="Full Metal Panic! - Tatakau Who Dares Wins (Japan)" id="140348">
+		<category>Games</category>
+		<description>Full Metal Panic!: Tatakau Who Dares Wins (Japan)</description>
+		<serial>PLJS 36007</serial>
+		<version>01.00</version>
+		<rom name="Full Metal Panic! - Tatakau Who Dares Wins (Japan).iso" size="8326348800" crc="daac0888" md5="d69736caadfdf0001e589ea572529dc5" sha1="222ba247a861e4cdb1d980cf01bf55254de985e6"/>
 	</game>
 	<game name="Future Unfolding (USA)" id="96403">
 		<category>Games</category>
@@ -11347,6 +11354,13 @@
 		<serial>CUSA-13342</serial>
 		<version>01.00</version>
 		<rom name="Spintires - Mudrunner - American Wilds (USA).iso" size="3847946240" crc="2022e92b" md5="20e17fc4604867be9f70391da74bcbf7" sha1="06c76637c5e44d050b4fe689eef1e5c0f9693ad0"/>
+	</game>
+	<game name="Spirit of the North (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru)" id="140331">
+		<category>Games</category>
+		<description>Spirit of the North (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru)</description>
+		<serial>CUSA-17576</serial>
+		<version>02.00</version>
+		<rom name="Spirit of the North (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru).iso" size="25024331776" crc="fb032d31" md5="1663c633d030ab731cc9c4017830c0cd" sha1="32976712b2bab079c919a929ffa89f4cbddf9c05"/>
 	</game>
 	<game name="Spiritfarer (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)" id="139433">
 		<category>Games</category>

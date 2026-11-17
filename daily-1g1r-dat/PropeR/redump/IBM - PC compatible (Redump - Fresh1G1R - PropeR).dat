@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,254) (-y) [-aAbBcdkmMpPuv] (2026-11-16 07-03-53) (Retool)</description>
-		<version>2026-11-16 07-03-53</version>
-		<date>2026-11-16 09-25-26</date>
+		<description>IBM - PC compatible (27,263) (-y) [-aAbBcdkmMpPuv] (2026-11-17 10-06-35) (Retool)</description>
+		<version>2026-11-17 10-06-35</version>
+		<date>2026-11-17 10-47-48</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -19045,23 +19045,23 @@
 		<version>1.0</version>
 		<rom name="Battlefield Hardline (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs) (Disc 5).iso" size="7964794880" crc="0d1ba8cf" md5="06e1a9e3263901993166ea0adbde530a" sha1="9e1ed7a3684937b29b88da19b0bdc723010491da"/>
 	</game>
-	<game name="Battlefield Vietnam (Europe) (Disc 1) (Play) (Alt)" id="137993">
+	<game name="Battlefield Vietnam (Europe) (Disc 1) (Play)" id="137993">
 		<category>Games</category>
-		<description>Battlefield Vietnam (Europe) (Disc 1) (Play) (Alt)</description>
-		<rom name="Battlefield Vietnam (Europe) (Disc 1) (Play) (Alt).bin" size="762725376" crc="fd57da22" md5="94f7268dfa6fe52f4a91589f9d09c0d2" sha1="29102227f169482a9d176fe2a6c4118b79c4ba27"/>
-		<rom name="Battlefield Vietnam (Europe) (Disc 1) (Play) (Alt).cue" size="116" crc="7b786edd" md5="879abaaa0c2ea726c3a03ddb76134ede" sha1="f98d0e63de4b651bb9efe881602d3b0b2c2f1e37"/>
+		<description>Battlefield Vietnam (Europe) (Disc 1) (Play)</description>
+		<rom name="Battlefield Vietnam (Europe) (Disc 1) (Play).bin" size="762725376" crc="fd57da22" md5="94f7268dfa6fe52f4a91589f9d09c0d2" sha1="29102227f169482a9d176fe2a6c4118b79c4ba27"/>
+		<rom name="Battlefield Vietnam (Europe) (Disc 1) (Play).cue" size="110" crc="0ff85e04" md5="02a50cf6d08be79e848fdfc50f900936" sha1="374aea9855f0d00a1a87d868ed6e80c10f43a41c"/>
 	</game>
-	<game name="Battlefield Vietnam (Europe) (Disc 2) (Install) (Alt)" id="137994">
+	<game name="Battlefield Vietnam (Europe) (Disc 2) (Install)" id="137994">
 		<category>Games</category>
-		<description>Battlefield Vietnam (Europe) (Disc 2) (Install) (Alt)</description>
-		<rom name="Battlefield Vietnam (Europe) (Disc 2) (Install) (Alt).bin" size="760834368" crc="c385c8c8" md5="ce606db1d9f514e2d7226a493424a62e" sha1="88b1cdc7721c22cbc0e075190b950940695aceed"/>
-		<rom name="Battlefield Vietnam (Europe) (Disc 2) (Install) (Alt).cue" size="119" crc="4bbc1570" md5="80995fdb035792d94af50a81ae319c3b" sha1="15deab231130bd768a463f9dc566f2a433f2bb4e"/>
+		<description>Battlefield Vietnam (Europe) (Disc 2) (Install)</description>
+		<rom name="Battlefield Vietnam (Europe) (Disc 2) (Install).bin" size="760834368" crc="c385c8c8" md5="ce606db1d9f514e2d7226a493424a62e" sha1="88b1cdc7721c22cbc0e075190b950940695aceed"/>
+		<rom name="Battlefield Vietnam (Europe) (Disc 2) (Install).cue" size="113" crc="06750d41" md5="f741a1c24faa92bd1164707ff0c4b9a2" sha1="d90709563efacbd0f498c29a95fffc6eafa66373"/>
 	</game>
-	<game name="Battlefield Vietnam (Europe) (Disc 3) (Install) (Alt)" id="137995">
+	<game name="Battlefield Vietnam (Europe) (Disc 3) (Install)" id="137995">
 		<category>Games</category>
-		<description>Battlefield Vietnam (Europe) (Disc 3) (Install) (Alt)</description>
-		<rom name="Battlefield Vietnam (Europe) (Disc 3) (Install) (Alt).bin" size="586174848" crc="247bc801" md5="c37509de53c7da5b3681539fdf512b88" sha1="faae32c87db2c49924b7f107f1f9412c6506b745"/>
-		<rom name="Battlefield Vietnam (Europe) (Disc 3) (Install) (Alt).cue" size="119" crc="b61f0355" md5="a0b982fc4abb5126526d42970bc73bcc" sha1="2ba55c8732bb9552c0e13b8537fe9b4ac115c234"/>
+		<description>Battlefield Vietnam (Europe) (Disc 3) (Install)</description>
+		<rom name="Battlefield Vietnam (Europe) (Disc 3) (Install).bin" size="586174848" crc="247bc801" md5="c37509de53c7da5b3681539fdf512b88" sha1="faae32c87db2c49924b7f107f1f9412c6506b745"/>
+		<rom name="Battlefield Vietnam (Europe) (Disc 3) (Install).cue" size="113" crc="a87e5ed5" md5="8609c967b106cfd6ad590fbc2ae4b17a" sha1="9bb6ea34c55299de0f000cf24a8be5c04f09e409"/>
 	</game>
 	<game name="Battlefield Vietnam (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko) (Disc 4) (Bonus Disc)" id="104640">
 		<category>Games</category>
@@ -21666,6 +21666,13 @@
 		<description>Bikou 3 (Japan)</description>
 		<serial>ILN 064</serial>
 		<rom name="Bikou 3 (Japan).iso" size="2974101504" crc="30c65bcf" md5="4dc0a72cf197677e5ba16d11b7005791" sha1="ddcef460ce40ee2fe564641ad3c77a8e83e643e6"/>
+	</game>
+	<game name="Bil'yard (Russia)" id="140350">
+		<category>Games</category>
+		<description>Bil'yard (Russia)</description>
+		<version>1.1</version>
+		<rom name="Bil'yard (Russia).bin" size="337450848" crc="f5c07755" md5="027b7dd984827d66491d0afa1b2b7507" sha1="8d01d40eae5cac1bab178276f0e8fefc6acf428d"/>
+		<rom name="Bil'yard (Russia).cue" size="83" crc="4e194ce2" md5="159a8499d2db4e98bf8d7c46588aaa7b" sha1="7ce85a46bfc2b35de0fbaa91cfbae16cdb640417"/>
 	</game>
 	<game name="Bilardo (Turkey)" id="139333">
 		<category>Games</category>
@@ -43422,13 +43429,6 @@
 		<rom name="Demonworld II - Dunkle Armeen (Germany) (Disc 2).bin" size="725403840" crc="97939bda" md5="0dcbfc0c0681c36d88bf6a5963db31aa" sha1="791471e348e908772a4f845da7c302946ebc307d"/>
 		<rom name="Demonworld II - Dunkle Armeen (Germany) (Disc 2).cue" size="114" crc="89f62517" md5="3d6ad9cdca257e67da7cf7341712e23e" sha1="caf068072e2db11ecebcddbc88478d7daa0d0650"/>
 	</game>
-	<game name="Den fortrollade staden (Sweden) (En,Sv,No,Da)" id="140309">
-		<category>Educational</category>
-		<description>Den förtrollade staden (Sweden) (En,Sv,No,Da)</description>
-		<serial>ESS 96 100 509</serial>
-		<rom name="Den fortrollade staden (Sweden) (En,Sv,No,Da).bin" size="75047616" crc="531a282c" md5="efa08221795ff621f38a39f6bca7f274" sha1="e7a95d49d43f854ac93005a8018635ef1de4a2f1"/>
-		<rom name="Den fortrollade staden (Sweden) (En,Sv,No,Da).cue" size="134" crc="eed82195" md5="858adadb52baa5ba133e153807521a1f" sha1="9129910e6a92ce5ec1cf571ca81a4127be545104"/>
-	</game>
 	<game name="Den' Pobedy (Russia) (Disc 1)" id="112212">
 		<category>Games</category>
 		<description>Den' Pobedy (Russia) (Disc 1)</description>
@@ -44014,11 +44014,11 @@
 		<rom name="Desktop Partner Dear Dog 3 (Japan).bin" size="613314576" crc="6f0792ce" md5="9ce029570a97429ab625c93547c43a7f" sha1="b8241205f52bb518333cefb49e1719c9c602e0d0"/>
 		<rom name="Desktop Partner Dear Dog 3 (Japan).cue" size="100" crc="b5b5881d" md5="ac60c0b69fba48116f629fe658661e1e" sha1="279cb9ea3c66d096b1ad837ed038bb176f0dfc45"/>
 	</game>
-	<game name="Desperados (USA)" id="65485">
+	<game name="Desperados - Be Quick or Be Dead (USA)" id="65485">
 		<category>Games</category>
-		<description>Desperados (USA)</description>
-		<rom name="Desperados (USA).bin" size="526615152" crc="2d8d11ef" md5="c2c194b6f794506a47aab2153042868c" sha1="951f3246a0b78d82ea232e26ab0f2dcebdaf53f9"/>
-		<rom name="Desperados (USA).cue" size="82" crc="014c49a7" md5="55dbe1527d2677d2e36680dd1ec2dcd2" sha1="a320298e9f6dd09a8cab7b9c593e81f657cdb956"/>
+		<description>Desperados: Be Quick or Be Dead (USA)</description>
+		<rom name="Desperados - Be Quick or Be Dead (USA).bin" size="526615152" crc="2d8d11ef" md5="c2c194b6f794506a47aab2153042868c" sha1="951f3246a0b78d82ea232e26ab0f2dcebdaf53f9"/>
+		<rom name="Desperados - Be Quick or Be Dead (USA).cue" size="104" crc="db7030ab" md5="97ed5848a8be3618be593f5157e53af5" sha1="e6b5faf1b0ad50adb248d58fb94f4f4274557aa3"/>
 	</game>
 	<game name="Desperados - Poszukiwany Zywy lub Martwy (Poland)" id="35110">
 		<category>Games</category>
@@ -51614,12 +51614,12 @@
 		<rom name="Dragon Tales - Learn &amp; Fly with Dragons (USA).bin" size="743135568" crc="dd9353b6" md5="5f13ec177386249c145fcdcd4112ed84" sha1="de72d792890c2012e1a330e33059a9b6df0ef69d"/>
 		<rom name="Dragon Tales - Learn &amp; Fly with Dragons (USA).cue" size="111" crc="0a44065c" md5="6e3cb59cd2dc35d2f85ed7cb25a1e6c6" sha1="b4de516c0f5bfeb899864afb617424b425e0c4a4"/>
 	</game>
-	<game name="Dragon Throne - Battle of Red Cliffs (Europe) (En,Zh)" id="39037">
+	<game name="Dragon Throne - Battle of Red Cliffs (USA) (En,Zh)" id="140322">
 		<category>Games</category>
-		<description>Dragon Throne: Battle of Red Cliffs (Europe) (En,Zh)</description>
-		<serial>DTZ844AU-CD</serial>
-		<rom name="Dragon Throne - Battle of Red Cliffs (Europe) (En,Zh).bin" size="789239472" crc="d567a133" md5="c63945d5f48dcb5d13f231ad9b0610d3" sha1="1b4e4ef4223ee1f13904f798926385c4cf6942c5"/>
-		<rom name="Dragon Throne - Battle of Red Cliffs (Europe) (En,Zh).cue" size="119" crc="543bc425" md5="a77311b18d063a92236fee1af9febb54" sha1="ae944d5b8378c3a1b5bc5c08bf0d547296b1cb01"/>
+		<description>Dragon Throne: Battle of Red Cliffs (USA) (En,Zh)</description>
+		<serial>23853CD</serial>
+		<rom name="Dragon Throne - Battle of Red Cliffs (USA) (En,Zh).bin" size="581611968" crc="d8a876de" md5="b108a0d5236aa0343d3c49e0010de386" sha1="9700dbf9fb5a69a2486df2143a8dc80f5cc0f633"/>
+		<rom name="Dragon Throne - Battle of Red Cliffs (USA) (En,Zh).cue" size="116" crc="d71e308b" md5="b48c60fc44b63e032b4a49cdbcc18eeb" sha1="344cecee123081f0c05f341b6cac67ebb7195406"/>
 	</game>
 	<game name="Dragon Throne - Bitwa o Czerwone Klify (Poland)" id="124006">
 		<category>Games</category>
@@ -61722,6 +61722,14 @@
 		<rom name="Fairly OddParents, The - Shadow Showdown (USA).bin" size="652073184" crc="c4471a6f" md5="e2eb238340e4acbf90d61abb5922090f" sha1="fa307b52040d680eb030166117fbf7aa400d05ae"/>
 		<rom name="Fairly OddParents, The - Shadow Showdown (USA).cue" size="112" crc="3abfdca7" md5="7652907ad8c27c833b3014eeed06534e" sha1="ad33f0427f5804eea4193034781407eeeae8181b"/>
 	</game>
+	<game name="Fairy Godmother Tycoon (USA)" id="140323">
+		<category>Games</category>
+		<description>Fairy Godmother Tycoon (USA)</description>
+		<serial>1563007</serial>
+		<version>1.0R</version>
+		<rom name="Fairy Godmother Tycoon (USA).bin" size="88289376" crc="f7b06c56" md5="5ebec63dcf261089bdad3c8c31caee50" sha1="2ce18de82677d2e7edba0c191eb516f162922f20"/>
+		<rom name="Fairy Godmother Tycoon (USA).cue" size="94" crc="71a35dd3" md5="91099296f846b184c70fd4f6f5c2e47e" sha1="22e3cac8e301902ae61cd08395b20c2bd4dbe4fe"/>
+	</game>
 	<game name="Fairy Symphony (Japan)" id="115541">
 		<category>Games</category>
 		<description>Fairy Symphony (Japan)</description>
@@ -67863,6 +67871,22 @@
 		<rom name="Free Spirit - The Other Dimension (Germany) (Track 8).bin" size="47628000" crc="0dfbb7e2" md5="0a13b718526fa5ddbbdf493404e28276" sha1="f55815f2334e816b370e25994eeee881c17aea0b"/>
 		<rom name="Free Spirit - The Other Dimension (Germany).cue" size="1078" crc="f08fe2a5" md5="3d6f98108dadca50ad1c838939602f53" sha1="b828675a1dce1aedd349240004c66ed2590ae3a3"/>
 	</game>
+	<game name="Free Wheelin' USA (USA)" id="140325">
+		<category>Games</category>
+		<description>Free Wheelin' USA (USA)</description>
+		<serial>650249-CD</serial>
+		<version>1.00</version>
+		<rom name="Free Wheelin' USA (USA) (Track 1).bin" size="366011184" crc="ec634521" md5="18fdc692454c2f873253561ec495f197" sha1="acb5f8e75aeef1da4793d60693546d743d78ae4d"/>
+		<rom name="Free Wheelin' USA (USA) (Track 2).bin" size="41816208" crc="ace66ae2" md5="0cb9faba2958b64bcec71000009b8460" sha1="df4a639d6e5adf39e0d9a5be61b539bce9df2709"/>
+		<rom name="Free Wheelin' USA (USA) (Track 3).bin" size="38351712" crc="c1856292" md5="493e01d699b9fc1e6e0f1bd4dfc6a2e2" sha1="978f067e67f934017124dd400483cb50e1131422"/>
+		<rom name="Free Wheelin' USA (USA) (Track 4).bin" size="41164704" crc="858f7fc8" md5="cc7db238f95c585ea396405b96295930" sha1="29a44daded76b6273d8ff0a315941b37df3a71f9"/>
+		<rom name="Free Wheelin' USA (USA) (Track 5).bin" size="37613184" crc="009c82f9" md5="308acf5bd8eee196bfe6ab4924dab94c" sha1="3dbd80fae8abc55072ff3a798ca99eab5e13fa30"/>
+		<rom name="Free Wheelin' USA (USA) (Track 6).bin" size="23679936" crc="06881c50" md5="805d6e09722588f46ced7fd8ed8da821" sha1="c20c99e86afb63200bf7a8b7446873a95cdab7c7"/>
+		<rom name="Free Wheelin' USA (USA) (Track 7).bin" size="31596768" crc="783c56cb" md5="0955cc31c526ad306ab83b9fc25badf5" sha1="940d8428cf0643f87a9dafd47c030a02f0b03347"/>
+		<rom name="Free Wheelin' USA (USA) (Track 8).bin" size="28762608" crc="d715ce69" md5="f0c3f4325a2f5f963c0b4bba37142cd8" sha1="99aab4d34de3ae0f421a293a3ba5488802badf17"/>
+		<rom name="Free Wheelin' USA (USA) (Track 9).bin" size="17207232" crc="e69160be" md5="f5549575fcec48a63a87ca855025f8ca" sha1="e54784291f80a9a43c20779870511470fbe54646"/>
+		<rom name="Free Wheelin' USA (USA).cue" size="874" crc="9209f51a" md5="52ba734c6da24e152ba85cdf0f3dd42e" sha1="07aae33a6f776e87c1bb5cf8c548d4f1994731a6"/>
+	</game>
 	<game name="Free Willy 2 - The Adventure Home - Interactive MovieBook (USA)" id="86371">
 		<category>Educational</category>
 		<description>Free Willy 2: The Adventure Home: Interactive MovieBook (USA)</description>
@@ -69957,6 +69981,14 @@
 		<description>Galactic Miner (USA)</description>
 		<rom name="Galactic Miner (USA).bin" size="28910784" crc="505838d8" md5="53e26c99380b4c4cc222a494cf8a430e" sha1="2d7e32a07c9600290beb33d67f5db90caf587ab3"/>
 		<rom name="Galactic Miner (USA).cue" size="86" crc="d85d4d56" md5="73041e9058184d88e2c8f34555a5acbb" sha1="2b8e5318ea321f5e1b4ee61b75a5b0243752833f"/>
+	</game>
+	<game name="Galactic Patrol (USA)" id="140326">
+		<category>Games</category>
+		<description>Galactic Patrol (USA)</description>
+		<serial>20-3551-10</serial>
+		<version>1.0a</version>
+		<rom name="Galactic Patrol (USA).bin" size="16647456" crc="7e5df6ff" md5="3d7e1376bf190a410be6ac609d2d8692" sha1="20254a02a3cd00d5e05b2f68890c8903592ab1a6"/>
+		<rom name="Galactic Patrol (USA).cue" size="87" crc="d2a1efe8" md5="d522314fa28cb645fd2e882c6a23add6" sha1="3a97d7679f0b391256f290abb2fada6835f5929d"/>
 	</game>
 	<game name="Galactic Swarm (USA)" id="112590">
 		<category>Games</category>
@@ -106839,6 +106871,12 @@
 		<rom name="Lost Secrets - Vatican Mysteries &amp; Lost Secrets - Bermuda Triangle (USA).bin" size="154058352" crc="f72463dc" md5="feeb0e0cbfdc0e65c66311e6df7908eb" sha1="dc3a18c867a981173f9da687c644de2cbfd5b2ca"/>
 		<rom name="Lost Secrets - Vatican Mysteries &amp; Lost Secrets - Bermuda Triangle (USA).cue" size="138" crc="aff3eb82" md5="acfedcf55434abad2609e483487e2be9" sha1="3fdd0f0640b814e119b200f2ca7ccbb828480d87"/>
 	</game>
+	<game name="Lost Souls - Echanted Paintings + 2 weitere Vollversionen (Germany)" id="140353">
+		<category>Games</category>
+		<description>Lost Souls: Echanted Paintings + 2 weitere Vollversionen (Germany)</description>
+		<rom name="Lost Souls - Echanted Paintings + 2 weitere Vollversionen (Germany).bin" size="803636064" crc="f228d3fa" md5="06e1ed3b74352dc289e3bf2d4f43e4a8" sha1="f39a40c87a7e0246dc9e97f8801ac1fc88e98869"/>
+		<rom name="Lost Souls - Echanted Paintings + 2 weitere Vollversionen (Germany).cue" size="133" crc="26698570" md5="6325c4dd076c5f8d1ba1bb42882f22cf" sha1="74d0e562b9e5e19c663e986eb522cb90511ff426"/>
+	</game>
 	<game name="Lost Treasures of Alexandria, The (USA)" id="59473">
 		<category>Games</category>
 		<description>Lost Treasures of Alexandria, The (USA)</description>
@@ -119201,6 +119239,13 @@
 		<description>Minds &amp; Mystery (UK)</description>
 		<serial>ESS1039</serial>
 		<rom name="Minds &amp; Mystery (UK).iso" size="3337224192" crc="9d151cd8" md5="d67082872b9cfc30e67b1283de4b6e2f" sha1="fffb0e537aca35fda74fab16692d5b3726ad6699"/>
+	</game>
+	<game name="Mindscape CD Deluxe Pack 6 (USA)" id="140327">
+		<category>Games</category>
+		<description>Mindscape CD Deluxe Pack 6 (USA)</description>
+		<serial>2202510-590002 / I06125S</serial>
+		<rom name="Mindscape CD Deluxe Pack 6 (USA).bin" size="777808752" crc="ee392079" md5="1012f2e86fddbb7391e6c14b90d077a7" sha1="dba4f4da6fadd09b15f3bb49ac6419842b2107d6"/>
+		<rom name="Mindscape CD Deluxe Pack 6 (USA).cue" size="98" crc="65a2c7d2" md5="b239966cedb7d645872a47bbd4b5b523" sha1="c0c4831b5d7ad863ad90a6eec8d99581305e8048"/>
 	</game>
 	<game name="Mindscape CD-ROM Challenge Pack 2 (USA)" id="7985">
 		<category>Games</category>
@@ -131629,6 +131674,13 @@
 		<serial>RUSSOBIT-M 033/2000</serial>
 		<rom name="Novye e'roticheskie igrushki (Russia).bin" size="833990976" crc="19090670" md5="8e021f1543e5d5f176ee781ab230c86f" sha1="c8c519d1d1ee0b93008b09384ec10c83ea696f78"/>
 		<rom name="Novye e'roticheskie igrushki (Russia).cue" size="103" crc="8e84bebc" md5="381684825e85939979e02e90a262d75d" sha1="df9a09eb072ba15ec06319aa8982601c19a8faa7"/>
+	</game>
+	<game name="Novyj Barmalej (Russia)" id="140351">
+		<category>Games</category>
+		<description>Novyj Barmalej (Russia)</description>
+		<serial>NB 2000</serial>
+		<rom name="Novyj Barmalej (Russia).bin" size="423710448" crc="8064581a" md5="e61e26d242e6f74060b625f2d64e0713" sha1="b6f2e29933c9a76865583b7b5cf0e27a5108ca91"/>
+		<rom name="Novyj Barmalej (Russia).cue" size="112" crc="28fa0e58" md5="f151afbe198bdcd63e04d5035a6dcbf5" sha1="531f3bd6d698a0ecf47901ad984cf3b72516fe40"/>
 	</game>
 	<game name="Novyj Chelovek-pauk (Russia)" id="119523">
 		<category>Games</category>
@@ -163802,26 +163854,6 @@
 		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc) (Track 14).bin" size="19968480" crc="59218cc0" md5="15aee215997f98444b65b6f2750a5b83" sha1="8e9aab93dfd6f4d371dd8c5970fd8e23ed5df30e"/>
 		<rom name="Sega Rally 2 - Sega Rally Championship (Japan, Australia) (En,Ja) (Play Disc).cue" size="2390" crc="ed719b5d" md5="598de48234296177e0d40dd22a32c408" sha1="093d92265e89af138a28e8d66306a40a5d9e054d"/>
 	</game>
-	<game name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt)" id="140278">
-		<category>Games</category>
-		<description>Sega Rally 2: Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt)</description>
-		<serial>MKW-166</serial>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 01).bin" size="206046960" crc="80d945cf" md5="4f66e5aaffa77ecb69f40f6114b00b2a" sha1="5a9edb76531ea40d592bd0de3fe7e9747382a828"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 02).bin" size="11153184" crc="8f9eb681" md5="f35200ff8398a6fb01f483410ae40063" sha1="5e0f04ae135d70c3d27058b53916a5c561ba1469"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 03).bin" size="40033392" crc="c5c88ff0" md5="9387d10b3afbc75bf1297f9de430b2eb" sha1="1a453395d27a0a65fad3ee84564de220ca4c2f3a"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 04).bin" size="34089888" crc="4f19b2a3" md5="412e0e9eaeff7dd826a88e395d350565" sha1="ca690ed45c8773bf0b3ee6c8ef230fa7dedfdb5f"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 05).bin" size="42510048" crc="80110bc2" md5="9b6fbfbcda608df9647c0aff680ab625" sha1="6d9dc1c459b6e3e6f5b0a9fd366db637a7d4ac2b"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 06).bin" size="39708816" crc="34f68126" md5="0e6de1aee61510440bd82f4c8daea55b" sha1="d735bf3f0793e8f2659fb692303310f8d660d432"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 07).bin" size="43895376" crc="7d4ebde2" md5="fa19e456c81aeebd58d29d1ebb8d466a" sha1="14e31bce195c720ca4913fccacc4ca6bff4f6c28"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 08).bin" size="40997712" crc="fd8579c0" md5="ed3e0e120766f8b59ba57ae16de38e51" sha1="0bbd9b3b90bdcd2cdbf73cecaf5e1f076e81d90a"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 09).bin" size="46635456" crc="70354f3e" md5="9447ff0537b02a65b46a2ad3e5ffc7e9" sha1="4cecc204d90b1e53e9ba8f40d5b5112429ab9e09"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 10).bin" size="10706304" crc="de216e97" md5="e068a33690e5c3317feb380d4a0bd45f" sha1="51256cc5a934561711a53344edd6bbd0cfc84d79"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 11).bin" size="30486624" crc="7a66ed2e" md5="0fb1eac04d5ee72f14285b58e55b9784" sha1="a96fdf4f8d087bccea2dbd0352bfec36b59ecf38"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 12).bin" size="21894768" crc="4e29ce77" md5="d34b4f548b3f16f76afd0a719553e927" sha1="cc596d610d8c1da22ed7789d0e8b0d2b3ccef69b"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 13).bin" size="35108304" crc="9c0ff6f7" md5="8ab3ab6f1b61508d8db1cfcc58c4cf63" sha1="c931ca8f0e5649dfc617ab3c3f574cae9279fb77"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt) (Track 14).bin" size="19618032" crc="05147242" md5="d532f44f277570f8469598f657170bdb" sha1="f7c03ac62b0204d8d9f2191b6cdfec4dbff2a269"/>
-		<rom name="Sega Rally 2 - Sega Rally Championship (Play Disc) (Japan) (Play Disc) (Rerelease) (Alt).cue" size="2544" crc="b1eb6408" md5="b30dd4137ae5fede100b0f595017f83a" sha1="f51171242b10b23682783fe135edbae17755710d"/>
-	</game>
 	<game name="Sega Rally Championship (USA)" id="69649">
 		<category>Games</category>
 		<description>Sega Rally Championship (USA)</description>
@@ -166943,6 +166975,11 @@
 		<category>Games</category>
 		<description>Sherlock Holmes Trilogy (Europe)</description>
 		<rom name="Sherlock Holmes Trilogy (Europe).iso" size="3833561088" crc="51f963ec" md5="d0f17484cddb6f6b9c4e886249ad5f72" sha1="ec28bc9e88affc4f33ebc50d20cf27d1202180e3"/>
+	</game>
+	<game name="Sherlock Holmes Versus Arsene Lupin (Europe)" id="140349">
+		<category>Games</category>
+		<description>Sherlock Holmes Versus Arsène Lupin (Europe)</description>
+		<rom name="Sherlock Holmes Versus Arsene Lupin (Europe).iso" size="4697497600" crc="d77663bd" md5="5414ef45f95112aa1d909d1ec94f13d2" sha1="6cbbc3526908bc328abc776b1d8e00859c37dc82"/>
 	</game>
 	<game name="Sherlock Holmes Versus Jack the Ripper (USA)" id="82044">
 		<category>Games</category>
@@ -201948,6 +201985,12 @@
 		<rom name="Virtuacall 2 (Japan) (Track 17).bin" size="1237152" crc="879c32db" md5="eb471e62be2b181a51b0e29c43e4b848" sha1="02070c7b2ced2f76e5f5f10745dce7d9c3c65e21"/>
 		<rom name="Virtuacall 2 (Japan).cue" size="1615" crc="9db54d6f" md5="b73e0b173f2cc6be7a09b2c599a28b33" sha1="9865649e22e2a9b12b39f7694f9173a27d31f98f"/>
 	</game>
+	<game name="Virtual Casino (Europe)" id="140352">
+		<category>Games</category>
+		<description>Virtual Casino (Europe)</description>
+		<rom name="Virtual Casino (Europe).bin" size="361596480" crc="9b237bdb" md5="96bf53bfd49bea8087e25729e9b4097b" sha1="d5df181dba213a83b3def0061e9333bc90d45d2a"/>
+		<rom name="Virtual Casino (Europe).cue" size="89" crc="0c4bc1aa" md5="dfc16839b451619e32ca2222da0cc714" sha1="f7bb5fb191910bdc1800dc5f2771d8c11f3d5569"/>
+	</game>
 	<game name="Virtual Casino (USA) (Blackjack &amp; Craps)" id="129417">
 		<category>Games</category>
 		<description>Virtual Casino (USA) (Blackjack &amp; Craps)</description>
@@ -203388,6 +203431,13 @@
 		<description>WWII Battle Tanks: T-34 vs. Tiger (Europe)</description>
 		<version>1.0</version>
 		<rom name="WWII Battle Tanks - T-34 vs. Tiger (Europe).iso" size="1928626176" crc="3c8f74d6" md5="54d3f389e04fdb32f1c9b942d8860795" sha1="e80714fa2f1e5cbf49833053f448edf378e28e3f"/>
+	</game>
+	<game name="WWII Desert Rats (USA)" id="140328">
+		<category>Games</category>
+		<description>WWII Desert Rats (USA)</description>
+		<serial>P/N: 10157</serial>
+		<rom name="WWII Desert Rats (USA).bin" size="338866752" crc="b0c585a4" md5="1b220bf0613d33a545f50e62acf3bfc9" sha1="81adb1f5c28c11b72b516064322e2fe5415b9bf2"/>
+		<rom name="WWII Desert Rats (USA).cue" size="88" crc="95ea8e2c" md5="f6d330c936bafc8fa80f72b8e1d8e0fe" sha1="bccfe63c51f1a8aa0e800de14e66ec6411e9e3df"/>
 	</game>
 	<game name="WWII GI (Europe) (Manual - English)" id="63893">
 		<category>Bonus Discs</category>
@@ -217111,6 +217161,13 @@
 		<description>ferme de Paille la Canaille, La (France)</description>
 		<rom name="ferme de Paille la Canaille, La (France).bin" size="793310784" crc="32261a72" md5="0570a5cfe65f0642db11b4b160c0a28d" sha1="1f6ffcfbe27d70cc435e049ae283f47c211450c1"/>
 		<rom name="ferme de Paille la Canaille, La (France).cue" size="106" crc="932f2289" md5="d28f61e4deef00b61d9ad39d96f316d4" sha1="184255f7d5fb0d1a75f1a277e53c219bb10090b0"/>
+	</game>
+	<game name="fortrollade staden, Den (Sweden) (En,Sv,No,Da)" id="140309">
+		<category>Educational</category>
+		<description>förtrollade staden, Den (Sweden) (En,Sv,No,Da)</description>
+		<serial>ESS 96 100 509</serial>
+		<rom name="fortrollade staden, Den (Sweden) (En,Sv,No,Da).bin" size="75047616" crc="531a282c" md5="efa08221795ff621f38a39f6bca7f274" sha1="e7a95d49d43f854ac93005a8018635ef1de4a2f1"/>
+		<rom name="fortrollade staden, Den (Sweden) (En,Sv,No,Da).cue" size="135" crc="f649e77d" md5="4a1cf338e9441b32b9879544e0c9057b" sha1="3d20ed5769b14ed33222ca1aeb2c436aa67fd2fa"/>
 	</game>
 	<game name="grosse Abenteuer, Das (Germany) (En,Fr,De,Es,It)" id="130824">
 		<category>Games</category>
