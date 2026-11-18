@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (341) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-13 15-03-07) (Retool)</description>
-		<version>2026-11-13 15-03-07</version>
-		<date>2026-11-17 10-38-36</date>
+		<description>Sony - PlayStation 5 (342) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-17 14-22-04) (Retool)</description>
+		<version>2026-11-17 14-22-04</version>
+		<date>2026-11-18 10-05-01</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1829,6 +1829,13 @@
 		<serial>PPSA-07632/US</serial>
 		<version>01.00</version>
 		<rom name="Saros (USA) (En,Fr,Es,Pt).iso" size="82464866304" crc="f96800fd" md5="faf4138fa3f9d79e55955dae73f9251f" sha1="f4dfc3e454be314945a64b9fd502be66cb4b50a2"/>
+	</game>
+	<game name="Scarlet Nexus (USA) (En,Ja)" id="140368">
+		<category>Games</category>
+		<description>Scarlet Nexus (USA) (En,Ja)</description>
+		<serial>PPSA-02211</serial>
+		<version>01.00</version>
+		<rom name="Scarlet Nexus (USA) (En,Ja).iso" size="40008351744" crc="905739f4" md5="0424afe5b06a73f12007d975b8fea0af" sha1="8b9fb2346434ce3e0738aefc5d65f2b5030747fb"/>
 	</game>
 	<game name="Scars Above (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="121462">
 		<category>Games</category>

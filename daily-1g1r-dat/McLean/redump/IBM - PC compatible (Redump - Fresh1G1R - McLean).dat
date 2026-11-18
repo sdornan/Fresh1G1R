@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,741) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-17 10-06-35) (Retool)</description>
-		<version>2026-11-17 10-06-35</version>
-		<date>2026-11-17 10-39-50</date>
+		<description>IBM - PC compatible (13,743) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-18 09-30-38) (Retool)</description>
+		<version>2026-11-18 09-30-38</version>
+		<date>2026-11-18 10-05-34</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1040,6 +1040,13 @@
 		<description>3D Games (Spain) (Disc 2)</description>
 		<rom name="3D Games (Spain) (Disc 2).bin" size="840473088" crc="b07912d0" md5="83ddb87cce07168a8adf4cf457ef6392" sha1="4ecb4d544e912d9e864501fb2ec979530d97eff2"/>
 		<rom name="3D Games (Spain) (Disc 2).cue" size="91" crc="f0b70d10" md5="9e84d4d221ab89ce54a438d2f8474cc5" sha1="53f9b73b3da795d886f508f84e345019fed08afa"/>
+	</game>
+	<game name="3D Golf World Tournament (Europe)" id="140359">
+		<category>Games</category>
+		<description>3D Golf World Tournament (Europe)</description>
+		<serial>DE-034</serial>
+		<rom name="3D Golf World Tournament (Europe).bin" size="785739696" crc="d5ec215c" md5="c5c4d7610267c513711bc9ef1bde37bc" sha1="7c205207094a208060500b413165601f26f2375f"/>
+		<rom name="3D Golf World Tournament (Europe).cue" size="99" crc="a6b607ad" md5="a82cb733a02f1be9fa516ddc561953d2" sha1="f7c2eefe6ace602ac7426df948750a3dad535d94"/>
 	</game>
 	<game name="3D Lemmings (USA)" id="130104">
 		<category>Games</category>
@@ -106922,6 +106929,12 @@
 		<rom name="Wizards &amp; Warriors (USA) (Disc 2) (Track 1).bin" size="712571328" crc="60e69b5c" md5="728c95d895c70134a8fed5ee8c89d290" sha1="57f027412973ee7aecc7e0dfb47e1af4efa42445"/>
 		<rom name="Wizards &amp; Warriors (USA) (Disc 2) (Track 2).bin" size="86711184" crc="73d68f04" md5="31abe2821d45c5508046058be0a43d12" sha1="9f55a0bd44802dc93b547368124335cc60691dec"/>
 		<rom name="Wizards &amp; Warriors (USA) (Disc 2).cue" size="289" crc="a68b2532" md5="51a9964b18bee18a3dd6c8879d03a32a" sha1="85c08f0f95c536f5c05599aeed542f0ee2d31b66"/>
+	</game>
+	<game name="Wizzerd Quest 2 (USA)" id="140375">
+		<category>Games</category>
+		<description>Wizzerd Quest 2 (USA)</description>
+		<version>1.1</version>
+		<rom name="Wizzerd Quest 2 (USA).iso" size="4208197632" crc="618a7733" md5="4bfc36b2d1d70ed61a0054de4cc06969" sha1="a3911495d5535fee366a993ff57bda666b843893"/>
 	</game>
 	<game name="Wobbly Bobbly (USA)" id="124375">
 		<category>Games</category>

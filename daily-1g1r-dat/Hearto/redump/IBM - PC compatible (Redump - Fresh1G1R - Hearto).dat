@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,688) (-y) [-aAbBcefkmMoprv] (2026-11-17 10-06-35) (Retool)</description>
-		<version>2026-11-17 10-06-35</version>
-		<date>2026-11-17 10-31-26</date>
+		<description>IBM - PC compatible (26,700) (-y) [-aAbBcefkmMoprv] (2026-11-18 09-30-38) (Retool)</description>
+		<version>2026-11-18 09-30-38</version>
+		<date>2026-11-18 10-00-01</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1947,6 +1947,13 @@
 		<serial>TGC-202-1</serial>
 		<rom name="3D Golf (Japan).bin" size="59820768" crc="55094842" md5="afd05e816d97ff9a8cc8317996de28b9" sha1="4e51410f95dc58743520807c68a75033b6d3d458"/>
 		<rom name="3D Golf (Japan).cue" size="81" crc="2f5b8647" md5="7ccc7fc83295a2a7eb6faafe386f2acc" sha1="597bb5a4d333d33afda17ef4ad687f770268ea1f"/>
+	</game>
+	<game name="3D Golf World Tournament (Europe)" id="140359">
+		<category>Games</category>
+		<description>3D Golf World Tournament (Europe)</description>
+		<serial>DE-034</serial>
+		<rom name="3D Golf World Tournament (Europe).bin" size="785739696" crc="d5ec215c" md5="c5c4d7610267c513711bc9ef1bde37bc" sha1="7c205207094a208060500b413165601f26f2375f"/>
+		<rom name="3D Golf World Tournament (Europe).cue" size="99" crc="a6b607ad" md5="a82cb733a02f1be9fa516ddc561953d2" sha1="f7c2eefe6ace602ac7426df948750a3dad535d94"/>
 	</game>
 	<game name="3D Lemmings (USA)" id="130104">
 		<category>Games</category>
@@ -17943,12 +17950,12 @@
 		<rom name="Battle Beast (USA) (Demo).bin" size="97946688" crc="152116c8" md5="73b23d4ed6eee2226782bea838bfba12" sha1="bafb8766fa03cf3f43e8c9b55b0ce48d833e533e"/>
 		<rom name="Battle Beast (USA) (Demo).cue" size="114" crc="265d935c" md5="6fb09f6e93b36b9b0f77a28786220f59" sha1="676b79ed330a8534205985db3ebf713d0b66943b"/>
 	</game>
-	<game name="Battle Beast (USA) (Pre-release Version)" id="54065">
+	<game name="Battle Beast (USA) (Pre-Release Version)" id="54065">
 		<category>Preproduction</category>
-		<description>Battle Beast (USA) (Pre-release Version)</description>
+		<description>Battle Beast (USA) (Pre-Release Version)</description>
 		<serial>BB804</serial>
-		<rom name="Battle Beast (USA) (Pre-release Version).bin" size="210478128" crc="72e47827" md5="7453c34ae34f540d5e17d467e7bec683" sha1="980d93caf092dd9bcebe6f3dfccdac7e8a85f342"/>
-		<rom name="Battle Beast (USA) (Pre-release Version).cue" size="129" crc="f62720d0" md5="b8da393c2fb8e778b47eba51e3b9b57a" sha1="81234a6f0e3bb3397a9d3584ece53f55e4a0989b"/>
+		<rom name="Battle Beast (USA) (Pre-Release Version).bin" size="210478128" crc="72e47827" md5="7453c34ae34f540d5e17d467e7bec683" sha1="980d93caf092dd9bcebe6f3dfccdac7e8a85f342"/>
+		<rom name="Battle Beast (USA) (Pre-Release Version).cue" size="129" crc="3f7a5bcb" md5="e6af303016748cf2cd7a81d5df9073df" sha1="46e87519b5b01ad04039d0a1a926e4361fb83576"/>
 	</game>
 	<game name="Battle Beast - The Ultimate Fight Game (Europe) (OEM)" id="104019">
 		<category>Games</category>
@@ -19889,6 +19896,12 @@
 		<version>1.1 (1.04.05.20)</version>
 		<rom name="Besieger (USA) (Disc 2).bin" size="510706224" crc="81e1390c" md5="7ba2e4c96c1dcd63ceef69d68efc8a20" sha1="fe69275668786b23367300cef0780c4b9ccaf030"/>
 		<rom name="Besieger (USA) (Disc 2).cue" size="89" crc="d2fe088c" md5="fc5ec2e56052c9aa0bdefeff4348ca88" sha1="b3b9987d3959d3f57272e8eda4b4d237a3a545d4"/>
+	</game>
+	<game name="Beskonechnoe puteshestvie (Russia)" id="140366">
+		<category>Games</category>
+		<description>Beskonechnoe puteshestvie (Russia)</description>
+		<version>1.0.0.161</version>
+		<rom name="Beskonechnoe puteshestvie (Russia).iso" size="1617395712" crc="3f9a4f09" md5="dbb5ee5da7d28faf8c4f1890d3f83edb" sha1="453855c3fd635f12e20f35973d8e999db815ab2a"/>
 	</game>
 	<game name="Beskonechnoe puteshestvie (Russia) (Disc 1) (Install Disc)" id="2465">
 		<category>Games</category>
@@ -62308,6 +62321,11 @@
 		<rom name="Fate, The (Europe) (Game).bin" size="577931088" crc="1c3e9f13" md5="6cf2f390b7ca64a3b2490cdb829db98f" sha1="b891844bab299d7f655b8afe30d7f5d6f47dfaf0"/>
 		<rom name="Fate, The (Europe) (Game).cue" size="91" crc="5767d51f" md5="9afb2f842537a4537f8b7a8373580719" sha1="5df2c3af95eb037d843adc7e465952dacf949ef4"/>
 	</game>
+	<game name="Fate-Hollow Ataraxia (Japan)" id="140354">
+		<category>Games</category>
+		<description>Fate/Hollow Ataraxia (Japan)</description>
+		<rom name="Fate-Hollow Ataraxia (Japan).iso" size="6072076288" crc="4be0402a" md5="726f5d8a254d96ee360186528e0b5d00" sha1="42fe4d5d4e890d48a5958d237b7b9e487f6d71cf"/>
+	</game>
 	<game name="Fate-Stay Night (Japan) (Disc 1)" id="112567">
 		<category>Games</category>
 		<description>Fate/Stay Night (Japan) (Disc 1)</description>
@@ -70213,6 +70231,13 @@
 		<description>Gamepack (Germany)</description>
 		<rom name="Gamepack (Germany).bin" size="265547856" crc="eada6506" md5="1075923267c782f54dc1abfa16ed1c1d" sha1="43c4c2a583dbc39a1466bdbab97538341b3b710a"/>
 		<rom name="Gamepack (Germany).cue" size="84" crc="ceafa877" md5="6ff40b10b1525937e109ec3ff2c2f180" sha1="662a30818343de6e7b5e18eed009d40569150e8c"/>
+	</game>
+	<game name="Gamer Collector - Special le Top des Jeux de Plate-Forme (France) (Disc 2)" id="140357">
+		<category>Games</category>
+		<description>Gamer Collector : Spécial le Top des Jeux de Plate-Forme (France) (Disc 2)</description>
+		<serial>CD2 FUGA20</serial>
+		<rom name="Gamer Collector - Special le Top des Jeux de Plate-Forme (France) (Disc 2).bin" size="449608320" crc="3f7ded1c" md5="0f6a9a2d3c8aeea60ca271df3f3aed51" sha1="b20dd2e2fb22502ce7fd3864d515c4a050e1a775"/>
+		<rom name="Gamer Collector - Special le Top des Jeux de Plate-Forme (France) (Disc 2).cue" size="140" crc="036b3f50" md5="d4c7f68e08a82ab0cc51c4e69f236be9" sha1="cce4efbf52370dcc8064c2252e17202766031a81"/>
 	</game>
 	<game name="Gamer's Choice Spieleanleitungen &amp; Demos (Germany)" id="41992">
 		<category>Demos</category>
@@ -80815,6 +80840,12 @@
 		<rom name="Herr der Ringe, Der - Die Ruckkehr des Konigs (Germany) (Spiel-CD).bin" size="649295472" crc="a98451e0" md5="651ee3b92eb8dcff06718058c8c831ae" sha1="d3f75df14b8ae32ca9c7d4e6de2f376cc646526f"/>
 		<rom name="Herr der Ringe, Der - Die Ruckkehr des Konigs (Germany) (Spiel-CD).cue" size="132" crc="3b256aae" md5="bdacf68567fc73bdedce7de7bc7a2ef5" sha1="b24b4104ae24609c1bc4dcd8c4ea0c6723a41aee"/>
 	</game>
+	<game name="Herr der Ringe, Der - Die Schlacht um Mittelerde II - Aufstieg des Hexenkonigs (Germany) (En,Fr,De,Es,It,Nl,Sv,No,Pl,Ru) (Rerelease)" id="140383">
+		<category>Add-Ons</category>
+		<description>Herr der Ringe, Der: Die Schlacht um Mittelerde II: Aufstieg des Hexenkönigs (Germany) (En,Fr,De,Es,It,Nl,Sv,No,Pl,Ru) (Rerelease)</description>
+		<serial>EAD07706447D/GER</serial>
+		<rom name="Herr der Ringe, Der - Die Schlacht um Mittelerde II - Aufstieg des Hexenkonigs (Germany) (En,Fr,De,Es,It,Nl,Sv,No,Pl,Ru) (Rerelease).iso" size="4631527424" crc="732252e8" md5="1e9c62f377e7bd3279e2fadf3d86ceac" sha1="8ef219fb8bdd6d96ebb9ff9d0fd47525d2e68818"/>
+	</game>
 	<game name="Herr der Ringe, Der - War of the Ring - Der Ringkrieg (Germany) (Installations CD)" id="83449">
 		<category>Games</category>
 		<description>Herr der Ringe, Der: War of the Ring: Der Ringkrieg (Germany) (Installations CD)</description>
@@ -88442,6 +88473,14 @@
 		<description>Internet Games, The: Stellar Mercenaries (Italy) (Covermount)</description>
 		<rom name="Internet Games, The - Stellar Mercenaries (Italy) (Covermount).bin" size="95559408" crc="42e9f363" md5="8f17bac88a6b2a370d796e0b3c923a65" sha1="43a059de42f9f3d3c6f5971d7a5dc9e89eb85104"/>
 		<rom name="Internet Games, The - Stellar Mercenaries (Italy) (Covermount).cue" size="151" crc="98a4771c" md5="1854eae133fa0e690a6d116a3f828579" sha1="4ec04a332f5b4231a4ec441a7262be47d14f6e4f"/>
+	</game>
+	<game name="Internet Road Map (USA)" id="140379">
+		<category>Demos</category>
+		<description>Internet Road Map (USA)</description>
+		<serial>AG-QF00B-BH</serial>
+		<version>2.0</version>
+		<rom name="Internet Road Map (USA).bin" size="238285824" crc="65fee97b" md5="193a99f2ef0018b6e9f16ffae7695699" sha1="6b44fb51e30f39d627513785a9946b96311fc5c7"/>
+		<rom name="Internet Road Map (USA).cue" size="89" crc="f9115339" md5="769fea75d09fc1fe963969c2d65a46dc" sha1="93eb1ce8b5c90c9fde60da33813e10c43508f75c"/>
 	</game>
 	<game name="Interplay 15th Anniversary (USA) (Disc 1)" id="130282">
 		<category>Games</category>
@@ -96679,6 +96718,12 @@
 		<version>1.00</version>
 		<rom name="Korol' Druidov II - Punicheskie Vojny (Russia).bin" size="624416016" crc="ea8d3dbe" md5="3600d31383a82fda030320b9bba5f474" sha1="83563621b3caf381a319938ae5c2d26d58862da5"/>
 		<rom name="Korol' Druidov II - Punicheskie Vojny (Russia).cue" size="112" crc="47f5a9e8" md5="ac8c29e5f6989b0ca06f286b6249412b" sha1="d405e0dc4fa2adda07bd12addbb53d84a3174445"/>
+	</game>
+	<game name="Koroli zheleznyx dorog (Russia)" id="140385">
+		<category>Games</category>
+		<description>Koroli zheleznyx dorog (Russia)</description>
+		<rom name="Koroli zheleznyx dorog (Russia).bin" size="139026720" crc="b01688a9" md5="4b2eac7e01926c3eb1cfdd83c47ab621" sha1="ad456cf3ea77cda9dcad97dfdb7dce0ea6c86faf"/>
+		<rom name="Koroli zheleznyx dorog (Russia).cue" size="120" crc="dcd37348" md5="58e04dad4fbf5db0e2628faa53ba5f40" sha1="0d16f470b4b06554d71de950cbe303b842fd5c25"/>
 	</game>
 	<game name="Koropokkur in Love - A Little Fairy's Tale (USA) (En,Ja)" id="79753">
 		<category>Games</category>
@@ -118224,6 +118269,11 @@
 		<rom name="Moorhuhn Adventure - Der Fluch des Goldes (Germany).bin" size="630580608" crc="e04eef4e" md5="1591e1665b63630d8dcfd80c28441f48" sha1="0f024b13cb8e6a6fd0b912d3534e6e280811e06c"/>
 		<rom name="Moorhuhn Adventure - Der Fluch des Goldes (Germany).cue" size="117" crc="8aec2e71" md5="dfacfd23faac4968dd870478b54a40e4" sha1="91cb4715c9cfa8a143491cfb8923bd211f2643c7"/>
 	</game>
+	<game name="Moorhuhn Complete (Germany)" id="140355">
+		<category>Games</category>
+		<description>Moorhuhn Complete (Germany)</description>
+		<rom name="Moorhuhn Complete (Germany).iso" size="3939848192" crc="2d985e3a" md5="fc3f1f8ba168d3bb6b78d57c70bff879" sha1="6bc5abcc3845aff18bd5c6fcc65ab39fa132fcf9"/>
+	</game>
 	<game name="Moorhuhn Explosiv (Germany)" id="94772">
 		<category>Games</category>
 		<description>Moorhuhn Explosiv (Germany)</description>
@@ -123997,6 +124047,12 @@
 		<description>Nefarious (USA)</description>
 		<version>1.1</version>
 		<rom name="Nefarious (USA).iso" size="851705856" crc="434a146c" md5="770abd21d4aecff77ad1e0e2b773731a" sha1="70e9e763c71597299665d844337c9a3ac0e6ac2f"/>
+	</game>
+	<game name="Neftyanye koroli (Russia)" id="140384">
+		<category>Games</category>
+		<description>Neftyanye koroli (Russia)</description>
+		<rom name="Neftyanye koroli (Russia).bin" size="459545520" crc="7ae5649b" md5="c75359e5eaa9fef990c8eed0e80184ea" sha1="b8f2dd51001435e41ba141649a858ac62e835318"/>
+		<rom name="Neftyanye koroli (Russia).cue" size="114" crc="c0107d13" md5="db1a0e582e7971eadb9442debf562288" sha1="33c34da592afb1498b2a0e8e672ed2834d077014"/>
 	</game>
 	<game name="Negi Collector Miku - Gaichuu o Taiji Seyo! (Japan)" id="108332">
 		<category>Games</category>
@@ -146252,7 +146308,7 @@
 	<game name="Razorvannoe nebo - Ka-52 protiv Komancha (Russia)" id="4331">
 		<category>Games</category>
 		<description>Razorvannoe nebo: Ka-52 protiv Komancha (Russia)</description>
-		<version>1.4.1C</version>
+		<version>1.4.1 C</version>
 		<rom name="Razorvannoe nebo - Ka-52 protiv Komancha (Russia) (Track 1).bin" size="440487264" crc="70de5958" md5="9f9c2d285fa32c459e3d1101b9379ea3" sha1="a033df0d1af5dca52c704d463a8261578423d54e"/>
 		<rom name="Razorvannoe nebo - Ka-52 protiv Komancha (Russia) (Track 2).bin" size="43041600" crc="c5bb05df" md5="da9fb9b9319c4fbf4aa3b3be6b60198d" sha1="59bbece2e32014982e850ae3ffe5f2eb18a3e163"/>
 		<rom name="Razorvannoe nebo - Ka-52 protiv Komancha (Russia) (Track 3).bin" size="27247920" crc="bd51d7bf" md5="57598d09ed8e3bad606b9a907e995b8d" sha1="33d9b8ebae1af854f121189951c8d5f86514e403"/>
@@ -192227,6 +192283,20 @@
 		<rom name="Udarnaya e'skadril'ya - V nebe nad Tixim (Russia).bin" size="621189072" crc="ed455aec" md5="1e0842a11b5a7814d717e92551167644" sha1="3081b001db86a43540fe027b52918923ebe6dc7a"/>
 		<rom name="Udarnaya e'skadril'ya - V nebe nad Tixim (Russia).cue" size="115" crc="b1cc76e4" md5="f7b492bf576edb100aa54d7b76ca958e" sha1="6cefb04af73a902c968870cc3a9f2ae66d9699a5"/>
 	</game>
+	<game name="Udarnaya sila (Russia) (Disc 1)" id="140361">
+		<category>Games</category>
+		<description>Udarnaya sila (Russia) (Disc 1)</description>
+		<version>1.01</version>
+		<rom name="Udarnaya sila (Russia) (Disc 1).bin" size="776484576" crc="4886f753" md5="c40b3a7c0b15e7bf49f779aa7f3cd3ec" sha1="6da5111849efd73afed36f03238681cb07e65745"/>
+		<rom name="Udarnaya sila (Russia) (Disc 1).cue" size="97" crc="357eb47c" md5="d5e8beb24df143da23cba1e43fb3626c" sha1="9a48c8d104abae4edc1dd4fcd8acf814f8dfd326"/>
+	</game>
+	<game name="Udarnaya sila (Russia) (Disc 2)" id="140362">
+		<category>Games</category>
+		<description>Udarnaya sila (Russia) (Disc 2)</description>
+		<version>1.01</version>
+		<rom name="Udarnaya sila (Russia) (Disc 2).bin" size="289046688" crc="80998637" md5="1bcc433af4b0d1c8815a7327cef163fd" sha1="3b2454a69777e233eeb1bf391e7517799090be9c"/>
+		<rom name="Udarnaya sila (Russia) (Disc 2).cue" size="97" crc="342392ad" md5="eb94d5954420f8e60e3a8fe2355d8ed9" sha1="a462ab5c0f82337bc187694318cb49780d638204"/>
+	</game>
 	<game name="Ugnat' za 40 sekund (Russia)" id="112239">
 		<category>Games</category>
 		<description>Ugnat' za 40 sekund (Russia)</description>
@@ -203366,6 +203436,12 @@
 		<rom name="Wizards Star - The Magical Shooters (Japan).bin" size="51765168" crc="c49cf19c" md5="05c6196e8dcf795db4220c9e1204a2cb" sha1="088f9ec6f62700761997bf9d03e81664672dbc2c"/>
 		<rom name="Wizards Star - The Magical Shooters (Japan).cue" size="109" crc="b3558894" md5="461b8f45c5835d2570c21440af072c29" sha1="651fe584b64f3894a1913fd377717347df0f2e86"/>
 	</game>
+	<game name="Wizzerd Quest 2 (USA)" id="140375">
+		<category>Games</category>
+		<description>Wizzerd Quest 2 (USA)</description>
+		<version>1.1</version>
+		<rom name="Wizzerd Quest 2 (USA).iso" size="4208197632" crc="618a7733" md5="4bfc36b2d1d70ed61a0054de4cc06969" sha1="a3911495d5535fee366a993ff57bda666b843893"/>
+	</game>
 	<game name="Wladca Pierscieni - Druzyna Pierscienia (Poland) (Rerelease)" id="125423">
 		<category>Games</category>
 		<description>Władca Pierścieni: Drużyna Pierścienia (Poland) (Rerelease)</description>
@@ -210479,12 +210555,12 @@
 		<rom name="Zipi y Zape - La vuelta al mundo (Spain).bin" size="764691648" crc="b980539e" md5="5b9b296c71508082ea95fb472ab225b9" sha1="592ae43fe68c34171f53257a75897a7ded24bdd0"/>
 		<rom name="Zipi y Zape - La vuelta al mundo (Spain).cue" size="106" crc="61072101" md5="b3744f5136dc34a4111e51d9e2c30d3a" sha1="f6d47b77fd9000204389c09aa3002fba03835441"/>
 	</game>
-	<game name="Ziyou Yu Rongyao (China) (Feimaipin)" id="79281">
+	<game name="Ziyou Yu Rongyao (China)" id="79281">
 		<category>Games</category>
-		<description>Ziyou Yu Rongyao (China) (Feimaipin)</description>
+		<description>Ziyou Yu Rongyao (China)</description>
 		<version>1.6.2</version>
-		<rom name="Ziyou Yu Rongyao (China) (Feimaipin).bin" size="575722560" crc="451c2efd" md5="73fb4ab93f8930ad1f268cb2010f1464" sha1="990d6a75429d0e68b4218b6c9abcbfd567257757"/>
-		<rom name="Ziyou Yu Rongyao (China) (Feimaipin).cue" size="102" crc="76f67f71" md5="e592a610444be5341d688495f4a047a7" sha1="680bada7f2b77ca0a812b643731eef778dd37ca0"/>
+		<rom name="Ziyou Yu Rongyao (China).bin" size="575722560" crc="451c2efd" md5="73fb4ab93f8930ad1f268cb2010f1464" sha1="990d6a75429d0e68b4218b6c9abcbfd567257757"/>
+		<rom name="Ziyou Yu Rongyao (China).cue" size="90" crc="2120a49e" md5="2b0f31dc74610464ae12deb8f37a3c6b" sha1="279f815e82e8d0594a6b040194096413e7103404"/>
 	</game>
 	<game name="Ziyou Yu Rongyao II (China)" id="60201">
 		<category>Games</category>

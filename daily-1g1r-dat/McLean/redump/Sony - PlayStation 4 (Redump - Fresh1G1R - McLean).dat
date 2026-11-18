@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,695) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-17 08-12-30) (Retool)</description>
-		<version>2026-11-17 08-12-30</version>
-		<date>2026-11-17 10-37-31</date>
+		<description>Sony - PlayStation 4 (1,698) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-17 14-22-03) (Retool)</description>
+		<version>2026-11-17 14-22-03</version>
+		<date>2026-11-18 10-06-07</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -6337,6 +6337,13 @@
 		<version>01.01</version>
 		<rom name="Life Is Strange - True Colors (USA) (En,Fr,De,Es,It,Pt,Zh,Ru).iso" size="12843679744" crc="69174230" md5="b47cf28d7002761e4d204d45427c5caa" sha1="1be879b54c8d7be13e024d3c0ad49e0fdc32b82c"/>
 	</game>
+	<game name="Life in Willowdale - Farm Adventures (Europe)" id="140371">
+		<category>Games</category>
+		<description>Life in Willowdale: Farm Adventures (Europe)</description>
+		<serial>CUSA-30931</serial>
+		<version>01.02</version>
+		<rom name="Life in Willowdale - Farm Adventures (Europe).iso" size="2606170112" crc="9c0ae70c" md5="d68f852218b00e68e0f4714843828bc7" sha1="0451087debcf4d946847a58c6d5ddf03727b568f"/>
+	</game>
 	<game name="Like a Dragon - Infinite Wealth (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru)" id="116490">
 		<category>Games</category>
 		<description>Like a Dragon: Infinite Wealth (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru)</description>
@@ -7239,6 +7246,13 @@
 		<serial>CUSA-33990</serial>
 		<version>02.00</version>
 		<rom name="My Life - Riding Stables 3 (Europe).iso" size="25024331776" crc="b3d820a2" md5="51d3f4201b79da9660caaa5507943f97" sha1="53e7526c9f78f8749042632e360030b63622bc4f"/>
+	</game>
+	<game name="My Little Riding Champion (Europe)" id="140372">
+		<category>Games</category>
+		<description>My Little Riding Champion (Europe)</description>
+		<serial>CUSA-13577</serial>
+		<version>01.00</version>
+		<rom name="My Little Riding Champion (Europe).iso" size="3891331072" crc="8c9f776b" md5="3d1a0a95016f29c8ed3e5924d36eda0b" sha1="9ac9a467225150bd960a46bde9908683449206f8"/>
 	</game>
 	<game name="My Time at Portia (USA) (En,Ja,Fr,De,Es,It,Zh)" id="63845">
 		<category>Games</category>
@@ -10234,6 +10248,13 @@
 		<serial>CUSA-23530</serial>
 		<version>01.02</version>
 		<rom name="Supermarket Shriek (Europe).iso" size="25024331776" crc="823b2d5f" md5="65fcfed0c0ef94323d8bd0befb0dc40a" sha1="b1405fcafcc80645bf6572fbda0e1e208e1af6a9"/>
+	</game>
+	<game name="Surf World Series (Europe)" id="140374">
+		<category>Games</category>
+		<description>Surf World Series (Europe)</description>
+		<serial>CUSA-05665</serial>
+		<version>02.00</version>
+		<rom name="Surf World Series (Europe).iso" size="25024331776" crc="0ee6a2db" md5="4438ec8b0c27c81579624d18ea990c34" sha1="6a45328ece84ce0fd968567b2fdebf8e17e458a2"/>
 	</game>
 	<game name="Surge 2, The (USA)" id="136485">
 		<category>Games</category>
