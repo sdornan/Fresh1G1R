@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Audio CD (Retool)</name>
-		<description>Audio CD (2,427) (-y) [-aAbBcdkmMpPuv] (2026-11-17 12-51-34) (Retool)</description>
-		<version>2026-11-17 12-51-34</version>
-		<date>2026-11-18 10-11-45</date>
+		<description>Audio CD (2,428) (-y) [-aAbBcdkmMpPuv] (2026-11-18 20-06-19) (Retool)</description>
+		<version>2026-11-18 20-06-19</version>
+		<date>2026-11-19 10-26-36</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -16261,6 +16261,17 @@
 		<rom name="Final Fantasy VIII (Japan) (Music Collection) (PC Game Bundle) (Track 5).bin" size="30477216" crc="1c615d99" md5="2b59cceadeb4216424807d19d9d57ab8" sha1="53ae7f42c9037d3c4ec595a2d582adfcce24f9bf"/>
 		<rom name="Final Fantasy VIII (Japan) (Music Collection) (PC Game Bundle) (Track 6).bin" size="37455600" crc="925b89c6" md5="9f4901e1fe3e78e3d9bbb8545c8176b0" sha1="649483198d4773f76256aff054d0b674632c8d2c"/>
 		<rom name="Final Fantasy VIII (Japan) (Music Collection) (PC Game Bundle).cue" size="798" crc="970f2978" md5="5c463155f00f4b2ce62edd7239398622" sha1="4f097e54675a541fd22732918331e598002ded19"/>
+	</game>
+	<game name="Final Fantasy XI - Online - Musicbox Adventures (Japan)" id="140390">
+		<category>Bonus Discs</category>
+		<description>Final Fantasy XI: Online: Musicbox Adventures (Japan)</description>
+		<serial>SQEX-10362PR</serial>
+		<rom name="Final Fantasy XI - Online - Musicbox Adventures (Japan) (Track 1).bin" size="27506640" crc="fda2f4fa" md5="18d600ff43be853844be1810ccd31616" sha1="d497118f76e0606c2a3ca75c5720a027d86ea271"/>
+		<rom name="Final Fantasy XI - Online - Musicbox Adventures (Japan) (Track 2).bin" size="24164448" crc="97125b6b" md5="d01b29da88eb72591229a2cdacf60124" sha1="6a3684334cd1002994a870290677ff80d2835d24"/>
+		<rom name="Final Fantasy XI - Online - Musicbox Adventures (Japan) (Track 3).bin" size="30096192" crc="f07e375a" md5="c202cb770218fdc8b7a0d4e9769c1e56" sha1="5b1f5c10683027d9b36ac6b25012d2fbbe1b5ac4"/>
+		<rom name="Final Fantasy XI - Online - Musicbox Adventures (Japan) (Track 4).bin" size="32288256" crc="f5b5e670" md5="42271e6a7fb0383c3418a1f14a667b7e" sha1="fa597725ba49ca6e1f939e566b57d3e6fb2456bd"/>
+		<rom name="Final Fantasy XI - Online - Musicbox Adventures (Japan) (Track 5).bin" size="21739536" crc="0773297e" md5="81b1c670962a0f52c0ef9aebf590c487" sha1="21af8a1521adc8df124bfd736f04cad1a210fef1"/>
+		<rom name="Final Fantasy XI - Online - Musicbox Adventures (Japan).cue" size="791" crc="d4d60953" md5="101a5d4869d0995cf54191f8d4832a5b" sha1="e520def01274feffee63371e4205d952ecbbae1d"/>
 	</game>
 	<game name="Final Fantasy XIII - Original Sound Selection (Europe) (PS3 Game Bundle)" id="65770">
 		<category>Bonus Discs</category>
@@ -38011,27 +38022,27 @@
 		<rom name="Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle) (Track 7).bin" size="217101360" crc="43c5d306" md5="b097d95573e6d2c320f0c6cb85d8005f" sha1="5cd2b30a55e29e736b55477ab1c16d0f9481a48e"/>
 		<rom name="Ring des Nibelungen, Der - Great Scenes (France) (PC Game Bundle).cue" size="1274" crc="7282aeec" md5="34c9594c5b398ad2a6d8ded273d076f0" sha1="e6141f8b7f3c0036393237ae5d9f405c08006cac"/>
 	</game>
-	<game name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia)" id="140365">
+	<game name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle)" id="140365">
 		<category>Bonus Discs</category>
-		<description>Risen 2: Dark Waters: E'ksklyuzivnyj Original Soundtrack (Russia)</description>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 01).bin" size="27603072" crc="f0d4cc90" md5="446669179db165b501b176e226909e65" sha1="a01493021eba057b52fc65b69c8e1790d91523ca"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 02).bin" size="22285200" crc="42e6187d" md5="0e2e5f54cbc9c579a79eef2e02b06363" sha1="2f071019836adc39e1193c8ca0112147e3fb9c4a"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 03).bin" size="32544624" crc="cbf636df" md5="6a97cccd50365564b6d17ff5d8e4b7f2" sha1="901c6821f3425b816006e0a6893b5c7466d0a632"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 04).bin" size="17842272" crc="382d33bf" md5="8abe90863af6404548ea37409f7f59dd" sha1="0fd680b0d323368b2dae603b74cce15a9b4df956"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 05).bin" size="32222400" crc="56bd32dd" md5="174dec4f7adf8e1b4c0fc0da7deced85" sha1="147cb930530900361e75d93f0e9273b9b829b48f"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 06).bin" size="43074528" crc="01e25010" md5="043c285c208783a16a3889e689e0a293" sha1="ce0120edd2f7fc90bbf68d9f72c1be1a4c78c22e"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 07).bin" size="43366176" crc="d4f93a17" md5="c7b209d89f029be360ff55726b8f1052" sha1="e221e6fcbb3ba56320bdf9cb2d4476eabca90ef2"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 08).bin" size="43366176" crc="68f76d2b" md5="cc3966dbaa3e26ab8faa26f9126e4f30" sha1="f2cbdac3182aca191b20a8f8adb5ce2d8e5b5131"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 09).bin" size="17886960" crc="e3eea7e1" md5="c5f05d9f4cea0bf1cecb43242658ebdc" sha1="9a075673886350133ab816a09bd07aaf773dc7e6"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 10).bin" size="17886960" crc="98bd2f9d" md5="3be5d372d4dbebb8167fd5c92a28905d" sha1="5e30a30b370952703f196bd54fffdc8fc3d20264"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 11).bin" size="31392144" crc="688e5ed7" md5="23f617f5be5075caeb33b410ba874093" sha1="e04b586165303d98f683413f76788cb918f757c5"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 12).bin" size="31389792" crc="fa50191d" md5="dc62b55de439f21f9c070ccab6b61bd2" sha1="c235f1f8d6c0fe042ea5f0ef273d13fa306e22b4"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 13).bin" size="32314128" crc="73c236de" md5="b86851b046f254e45109962fa2b2df24" sha1="f5f5e40b16fe1532827f5f7796b7f483addbc42b"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 14).bin" size="32316480" crc="fbbbc07f" md5="0d83fb73130673d591cf0075de311195" sha1="74c75bb546976ed08297926dec52ec4b21e27162"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 15).bin" size="32111856" crc="9ae6ca8a" md5="cd80bc5a7b9fbd5191494938cd143eb5" sha1="071610ecd3932057b4b2975bad1dfce6a4100372"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 16).bin" size="32111856" crc="c6149609" md5="b83ca82bd46a37dd03d66afba394d794" sha1="6046e089773fe94d5f693f61628d158c2d8d3453"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (Track 17).bin" size="33379584" crc="1975d37c" md5="b3a26689262a19873d0e3b502ab7458d" sha1="63daf03a3094eb9c051362f137d72d13a7b9cde2"/>
-		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia).cue" size="2986" crc="b7b9e108" md5="bb1712b5e7c11046dd2ce978f800a5eb" sha1="5c5149a392899c6a3d0c15e3095ac3dd811c70c8"/>
+		<description>Risen 2: Dark Waters: E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle)</description>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 01).bin" size="27603072" crc="f0d4cc90" md5="446669179db165b501b176e226909e65" sha1="a01493021eba057b52fc65b69c8e1790d91523ca"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 02).bin" size="22285200" crc="42e6187d" md5="0e2e5f54cbc9c579a79eef2e02b06363" sha1="2f071019836adc39e1193c8ca0112147e3fb9c4a"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 03).bin" size="32544624" crc="cbf636df" md5="6a97cccd50365564b6d17ff5d8e4b7f2" sha1="901c6821f3425b816006e0a6893b5c7466d0a632"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 04).bin" size="17842272" crc="382d33bf" md5="8abe90863af6404548ea37409f7f59dd" sha1="0fd680b0d323368b2dae603b74cce15a9b4df956"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 05).bin" size="32222400" crc="56bd32dd" md5="174dec4f7adf8e1b4c0fc0da7deced85" sha1="147cb930530900361e75d93f0e9273b9b829b48f"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 06).bin" size="43074528" crc="01e25010" md5="043c285c208783a16a3889e689e0a293" sha1="ce0120edd2f7fc90bbf68d9f72c1be1a4c78c22e"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 07).bin" size="43366176" crc="d4f93a17" md5="c7b209d89f029be360ff55726b8f1052" sha1="e221e6fcbb3ba56320bdf9cb2d4476eabca90ef2"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 08).bin" size="43366176" crc="68f76d2b" md5="cc3966dbaa3e26ab8faa26f9126e4f30" sha1="f2cbdac3182aca191b20a8f8adb5ce2d8e5b5131"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 09).bin" size="17886960" crc="e3eea7e1" md5="c5f05d9f4cea0bf1cecb43242658ebdc" sha1="9a075673886350133ab816a09bd07aaf773dc7e6"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 10).bin" size="17886960" crc="98bd2f9d" md5="3be5d372d4dbebb8167fd5c92a28905d" sha1="5e30a30b370952703f196bd54fffdc8fc3d20264"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 11).bin" size="31392144" crc="688e5ed7" md5="23f617f5be5075caeb33b410ba874093" sha1="e04b586165303d98f683413f76788cb918f757c5"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 12).bin" size="31389792" crc="fa50191d" md5="dc62b55de439f21f9c070ccab6b61bd2" sha1="c235f1f8d6c0fe042ea5f0ef273d13fa306e22b4"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 13).bin" size="32314128" crc="73c236de" md5="b86851b046f254e45109962fa2b2df24" sha1="f5f5e40b16fe1532827f5f7796b7f483addbc42b"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 14).bin" size="32316480" crc="fbbbc07f" md5="0d83fb73130673d591cf0075de311195" sha1="74c75bb546976ed08297926dec52ec4b21e27162"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 15).bin" size="32111856" crc="9ae6ca8a" md5="cd80bc5a7b9fbd5191494938cd143eb5" sha1="071610ecd3932057b4b2975bad1dfce6a4100372"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 16).bin" size="32111856" crc="c6149609" md5="b83ca82bd46a37dd03d66afba394d794" sha1="6046e089773fe94d5f693f61628d158c2d8d3453"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle) (Track 17).bin" size="33379584" crc="1975d37c" md5="b3a26689262a19873d0e3b502ab7458d" sha1="63daf03a3094eb9c051362f137d72d13a7b9cde2"/>
+		<rom name="Risen 2 - Dark Waters - E'ksklyuzivnyj Original Soundtrack (Russia) (PC Game Bundle).cue" size="3275" crc="f9344d98" md5="0cc73a2593ceb8dce9844ce9f7b9e321" sha1="2c8174b8487aec3d1df5ef25d231cf321577e5ef"/>
 	</game>
 	<game name="Risk of Rain - Official Game Soundtrack (USA) (PC Game Bundle)" id="122941">
 		<category>Bonus Discs</category>

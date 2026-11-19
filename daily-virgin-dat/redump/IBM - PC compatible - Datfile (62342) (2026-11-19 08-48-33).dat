@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62340) (2026-11-18 09-30-38)</description>
-		<version>2026-11-18 09-30-38</version>
-		<date>2026-11-18 09-30-38</date>
+		<description>IBM - PC compatible - Datfile (62342) (2026-11-19 08-48-33)</description>
+		<version>2026-11-19 08-48-33</version>
+		<date>2026-11-19 08-48-33</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -108896,6 +108896,12 @@
 		<rom name="Diamenty (Poland).cue" size="83" crc="a3aae33c" md5="66f0446710278823cbf604bccd957e0a" sha1="145f178cd6dfcbc810898201d2048a8e0378d107"/>
 		<rom name="Diamenty (Poland).bin" size="77035056" crc="6e84aaf4" md5="d1166692a1925360230beccec8d219e5" sha1="fa743f785a50b098fd31317253ce24958c093250"/>
 	</game>
+	<game name="Diamond Drop (USA)" id="140392">
+		<category>Games</category>
+		<description>Diamond Drop (USA)</description>
+		<rom name="Diamond Drop (USA).cue" size="84" crc="0ab8f29a" md5="f0426c7511e90499315995a415b292c7" sha1="fc7fddff29305474b8260e417944c0651f2a15c6"/>
+		<rom name="Diamond Drop (USA).bin" size="12416208" crc="5c21ff76" md5="0d2b93a07fd80cf5d50c871d357be4d9" sha1="b07e1d8bd6559c352ab94e47c68e8aab47c296be"/>
+	</game>
 	<game name="Diamond Drop Deluxe (USA)" id="61641">
 		<category>Games</category>
 		<description>Diamond Drop Deluxe (USA)</description>
@@ -156674,24 +156680,43 @@
 		<rom name="Frogger 2 - Swampy's Revenge (Europe) (En,Fr,De,It) (Track 11).bin" size="1853376" crc="5268e8c4" md5="ae56f7c2f086bb6fd835f1c0d90728c6" sha1="213935faccb0028cc614190d7ea5bdae97d3a31c"/>
 		<rom name="Frogger 2 - Swampy's Revenge (Europe) (En,Fr,De,It) (Track 12).bin" size="3184608" crc="16477a95" md5="a8f333d64324aa555dba8076fd1cb806" sha1="212cbcadfa6ed4a1cb444a443897c8d6258cba42"/>
 	</game>
-	<game name="Frogger 2 - Swampy's Revenge (USA)" id="26381">
+	<game name="Frogger 2 - Swampy's Revenge (USA)" id="140391">
+		<category>Games</category>
+		<serial>04-23100CD</serial>
+		<version>1.00.000</version>
+		<description>Frogger 2: Swampy's Revenge (USA)</description>
+		<rom name="Frogger 2 - Swampy's Revenge (USA).cue" size="1507" crc="84ee9207" md5="695dcf99f0a3ed651e32dc5a3cb8947d" sha1="c64cb4aef16d1bd68fbf98950880ca0cc02475e0"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 01).bin" size="216915552" crc="d73a2cfa" md5="b18ed442997f1f1579aaed65c3782830" sha1="d4d9d7d87acd37e537492dd0566202cc09e11428"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 02).bin" size="29632848" crc="be1eee27" md5="add76143ffaaef588cff92bbcdfb52c9" sha1="77cabd470b23009c887d43c7468de03053075dd6"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 03).bin" size="34964832" crc="334ccbde" md5="4349da7552a6c1b2bc351a152a2d666d" sha1="b59c226f5475d055226eba6fd64e436e8b6e4e5e"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 04).bin" size="34833120" crc="bf1bd873" md5="ae11b74895050dc344b3e07a2798c6b3" sha1="7e636a629950d67b09a117ae47c8f8604192e625"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 05).bin" size="32022480" crc="02533e8e" md5="b130c14fda93d49daa4d06996a1df379" sha1="ce88feb84cee67e88a70459780e09f378079dfc0"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 06).bin" size="34482672" crc="dc08a021" md5="f045c927d0007f1b4927cbaa179cdc6e" sha1="53c922c7437cc7c76734618bbe30c6b26027cb37"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 07).bin" size="31984848" crc="829b7b03" md5="91be3f51b58e4448a2ea18cfbb55aa09" sha1="3d5420ed73ada0b1741007a86587ff6f16a8ee74"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 08).bin" size="31472112" crc="840f16a9" md5="8a753f75a5507e185e1aef5356ea45e7" sha1="10e41bb18ea98fda094a6b10f658f7ecd8768dca"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 09).bin" size="32008368" crc="6f87cebe" md5="f5c30530faa3c80f0f61b11e7e99b593" sha1="1535aab5a29bbd1faba702f5dbe132f6a13ccfdb"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 10).bin" size="1980384" crc="8c24bd71" md5="9701148f74265540804df1a3e2e4b9a3" sha1="f116633617f8417ff632dceb127cefa829001966"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 11).bin" size="1491168" crc="50c15117" md5="f9eed937e1a66438136dd93ce44e39d6" sha1="e58a975a38a5620878df53f829d5ecb5efc4ae39"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 12).bin" size="3163440" crc="0e1f4ede" md5="b212053a2297374cc44fe7031a88354d" sha1="96104d2e0473d50f80c29b6e100a6eaa2d2803b0"/>
+	</game>
+	<game name="Frogger 2 - Swampy's Revenge (USA) (Rev 1)" id="26381">
 		<category>Games</category>
 		<serial>Product # 99220</serial>
-		<version>US English Version 0.02</version>
-		<description>Frogger 2: Swampy's Revenge (USA)</description>
-		<rom name="Frogger 2 - Swampy's Revenge (USA).cue" size="1507" crc="87888bf2" md5="b982ab8d26df538d808afcf602b728ea" sha1="06fb799ea18e2cfc1f3f58cda7f74300559125a8"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 01).bin" size="218823024" crc="020e7c84" md5="ad58028106e4f7f7cfcb775a42ed215c" sha1="6cbaea5810a99483a123a7e6d10e9f3a3ebbebfd"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 02).bin" size="29997408" crc="aea61a34" md5="fed473b76b618d90e5e9e13f8ab22d66" sha1="84294d22b365507444a201ed203d0d57a92b0a57"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 03).bin" size="35327040" crc="34e01ed2" md5="556226b0330084a2bacca07bb14a4480" sha1="0f469fb25b3ade4e0bb4fbd0c0988973359a0e78"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 04).bin" size="35195328" crc="d0e60493" md5="f01553d88ecc24f80120cc801c9b2fc4" sha1="846863a5e7a036df5586d1422dfddef68421046c"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 05).bin" size="32387040" crc="276c937e" md5="708280e129c0684a7b20de4f787c2444" sha1="f92749146a4cdea35dd880f6368fcd585f57f7de"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 06).bin" size="34847232" crc="d6a70930" md5="53b412edf47d06c86711fbcbb425044d" sha1="b57530cfd7030398a319757ad2e6e0ab240d4db2"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 07).bin" size="32697504" crc="057c3f08" md5="6112b81530fa632df065de7273d7f9f3" sha1="e1f298222d8fa09b2d72e6aadb27bab30bd63bfe"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 08).bin" size="31483872" crc="c1deffcf" md5="3a4061a90eb1ecdd5c5cb3d6eea865f7" sha1="6b1dd346020b386c8721618c94664ea4f741892c"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 09).bin" size="32372928" crc="8c5b539e" md5="190d22d9a09e665dbbfe1403439937f7" sha1="16a2d7d6e8238d87c056cd959128d5d8509a8a96"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 10).bin" size="2344944" crc="051ff272" md5="42af8f0a02b7b896a591dc2b76ce1020" sha1="3ff74e0578e54387dcbd6b15f48d854a91209041"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 11).bin" size="1853376" crc="68fd2e91" md5="7440ce4dddf76d301e527476fee840c2" sha1="396d606797fbcf16cb11414fb8722a2a988b6535"/>
-		<rom name="Frogger 2 - Swampy's Revenge (USA) (Track 12).bin" size="3184608" crc="f8d7f130" md5="545c38ab475f9389bb95c26470b835e9" sha1="01ff7bf992ab69fc3a53a0bf547d75ceb31e7526"/>
+		<version>1.00.000</version>
+		<description>Frogger 2: Swampy's Revenge (USA) (Rev 1)</description>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1).cue" size="1603" crc="77232c41" md5="c709f9a3e9c63c960091bdf530e0bde3" sha1="410b9747d06fbe9551a6b0322b4852cfd87faba3"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 01).bin" size="218823024" crc="020e7c84" md5="ad58028106e4f7f7cfcb775a42ed215c" sha1="6cbaea5810a99483a123a7e6d10e9f3a3ebbebfd"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 02).bin" size="29997408" crc="aea61a34" md5="fed473b76b618d90e5e9e13f8ab22d66" sha1="84294d22b365507444a201ed203d0d57a92b0a57"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 03).bin" size="35327040" crc="34e01ed2" md5="556226b0330084a2bacca07bb14a4480" sha1="0f469fb25b3ade4e0bb4fbd0c0988973359a0e78"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 04).bin" size="35195328" crc="d0e60493" md5="f01553d88ecc24f80120cc801c9b2fc4" sha1="846863a5e7a036df5586d1422dfddef68421046c"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 05).bin" size="32387040" crc="276c937e" md5="708280e129c0684a7b20de4f787c2444" sha1="f92749146a4cdea35dd880f6368fcd585f57f7de"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 06).bin" size="34847232" crc="d6a70930" md5="53b412edf47d06c86711fbcbb425044d" sha1="b57530cfd7030398a319757ad2e6e0ab240d4db2"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 07).bin" size="32697504" crc="057c3f08" md5="6112b81530fa632df065de7273d7f9f3" sha1="e1f298222d8fa09b2d72e6aadb27bab30bd63bfe"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 08).bin" size="31483872" crc="c1deffcf" md5="3a4061a90eb1ecdd5c5cb3d6eea865f7" sha1="6b1dd346020b386c8721618c94664ea4f741892c"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 09).bin" size="32372928" crc="8c5b539e" md5="190d22d9a09e665dbbfe1403439937f7" sha1="16a2d7d6e8238d87c056cd959128d5d8509a8a96"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 10).bin" size="2344944" crc="051ff272" md5="42af8f0a02b7b896a591dc2b76ce1020" sha1="3ff74e0578e54387dcbd6b15f48d854a91209041"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 11).bin" size="1853376" crc="68fd2e91" md5="7440ce4dddf76d301e527476fee840c2" sha1="396d606797fbcf16cb11414fb8722a2a988b6535"/>
+		<rom name="Frogger 2 - Swampy's Revenge (USA) (Rev 1) (Track 12).bin" size="3184608" crc="f8d7f130" md5="545c38ab475f9389bb95c26470b835e9" sha1="01ff7bf992ab69fc3a53a0bf547d75ceb31e7526"/>
 	</game>
 	<game name="Frogger Beyond (USA) (Disc 1)" id="74434">
 		<category>Games</category>
