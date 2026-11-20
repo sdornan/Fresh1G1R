@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (1,698) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-17 14-22-03) (Retool)</description>
-		<version>2026-11-17 14-22-03</version>
-		<date>2026-11-19 10-18-56</date>
+		<description>Sony - PlayStation 4 (1,700) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-19 19-48-33) (Retool)</description>
+		<version>2026-11-19 19-48-33</version>
+		<date>2026-11-20 10-06-23</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -5078,6 +5078,13 @@
 		<version>02.00</version>
 		<rom name="Hellblade - Senua's Sacrifice (USA).iso" size="25024331776" crc="91097777" md5="8b94f6096b76ba85eecfd0f537bd3ae4" sha1="a5ffb8915ad39feca5f8afe3caac6ca1776bfdfe"/>
 	</game>
+	<game name="Hellbreachers (Europe)" id="140399">
+		<category>Games</category>
+		<description>Hellbreachers (Europe)</description>
+		<serial>CUSA-26477</serial>
+		<version>02.00</version>
+		<rom name="Hellbreachers (Europe).iso" size="25024331776" crc="0a493f37" md5="7d00e0915eb0ebea0530d63a3cdae317" sha1="5447a8fd5b012b7a4f64b3902847013ebbade944"/>
+	</game>
 	<game name="Helldivers - Super-Earth Ultimate Edition (USA)" id="98782">
 		<category>Games</category>
 		<description>Helldivers: Super-Earth Ultimate Edition (USA)</description>
@@ -8107,6 +8114,13 @@
 		<serial>CUSA-13584</serial>
 		<version>01.02</version>
 		<rom name="Pillars of Eternity II - Deadfire - Ultimate Edition (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="22254977024" crc="232a91da" md5="d61817b83ebf88a0c4f6af0aca0a0065" sha1="a111658e5dace780ad15e83788cc71664692a28b"/>
+	</game>
+	<game name="Pilot Sports (Europe)" id="140398">
+		<category>Games</category>
+		<description>Pilot Sports (Europe)</description>
+		<serial>CUSA-12963</serial>
+		<version>01.02</version>
+		<rom name="Pilot Sports (Europe).iso" size="1741160448" crc="4249025b" md5="3baa464b709770136ad148518aac7e81" sha1="768189ad2a8243318e25565bed82a064046e9234"/>
 	</game>
 	<game name="Pinball Arcade (USA) (En,Fr,De,Es,It)" id="57472">
 		<category>Games</category>

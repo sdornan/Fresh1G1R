@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,277) (-y) [-aAbBcdkmMpPuv] (2026-11-19 08-48-33) (Retool)</description>
-		<version>2026-11-19 08-48-33</version>
-		<date>2026-11-19 10-26-04</date>
+		<description>IBM - PC compatible (27,278) (-y) [-aAbBcdkmMpPuv] (2026-11-20 09-48-33) (Retool)</description>
+		<version>2026-11-20 09-48-33</version>
+		<date>2026-11-20 10-15-18</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -146844,11 +146844,11 @@
 		<rom name="Putt-Putt - Pep's Birthday Surprise (USA).bin" size="780078432" crc="f353246f" md5="e96d215c3288b310100fb7ebae193550" sha1="ed4fa5a5a8a186e82c2e8c706da1a507d36f9776"/>
 		<rom name="Putt-Putt - Pep's Birthday Surprise (USA).cue" size="107" crc="47a4f486" md5="521687b0013eb0dace9a764f5e4a15e7" sha1="ebfca331db41a797c73ed59063e679a18eb81d4f"/>
 	</game>
-	<game name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands)" id="129752">
+	<game name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (2007-05-25)" id="129787">
 		<category>Games</category>
-		<description>Putt-Putt 2: De Reis door de Tijd (Belgium, Netherlands)</description>
-		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands).bin" size="614554080" crc="40afe1f0" md5="a85936affca99fe255a931d41654413a" sha1="622fcdf002b234f5a1786d8031ecf05d1cd91263"/>
-		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands).cue" size="146" crc="57fe790d" md5="45fd72d3e4829fe89223fccaf87b0938" sha1="7c60dea3f45669251bb4c8e8209f7ad8c86987a5"/>
+		<description>Putt-Putt 2: De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (2007-05-25)</description>
+		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (2007-05-25).bin" size="520485840" crc="0e1653c7" md5="70491f46106c0c6250a5395611900562" sha1="ba6333ee9f2a36792d3acfd73d5f400710d3aba9"/>
+		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (2007-05-25).cue" size="148" crc="58e4a995" md5="7800cfbd1c740ab87e958175b364dbed" sha1="e0cddf749d0a38a38f13fb2780bde807d06ef461"/>
 	</game>
 	<game name="Putt-Putt 3 - De Autostad 500 (Belgium, Netherlands) (Rerelease) (2001-02-28)" id="129789">
 		<category>Games</category>
@@ -184787,6 +184787,13 @@
 		<description>Sword Art Mahjongg (Japan)</description>
 		<serial>SW-00039</serial>
 		<rom name="Sword Art Mahjongg (Japan).iso" size="3909640192" crc="a05e6db3" md5="b0aa82648f42c7443584e3a0ed504748" sha1="4937303039f591d487463a281b300bc15733c664"/>
+	</game>
+	<game name="Sword of Moonlight - King's Field Making Tool (Japan)" id="140401">
+		<category>Games</category>
+		<description>Sword of Moonlight: King's Field Making Tool (Japan)</description>
+		<serial>FSMW-4001</serial>
+		<rom name="Sword of Moonlight - King's Field Making Tool (Japan).bin" size="788533872" crc="e0fe7d96" md5="d140a09409e1058408671973264597f2" sha1="46d3e79df066119385cd1fefc8d2b62da7140d3f"/>
+		<rom name="Sword of Moonlight - King's Field Making Tool (Japan).cue" size="119" crc="95c42158" md5="d5345991a24f147c37a5b34ef10af6a1" sha1="94151081e91425b07c1ff26fe71d28770d2b15c8"/>
 	</game>
 	<game name="Sword of the New World - Granado Espada (USA)" id="104707">
 		<category>Games</category>

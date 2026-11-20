@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62342) (2026-11-19 08-48-33)</description>
-		<version>2026-11-19 08-48-33</version>
-		<date>2026-11-19 08-48-33</date>
+		<description>IBM - PC compatible - Datfile (62351) (2026-11-20 09-48-33)</description>
+		<version>2026-11-20 09-48-33</version>
+		<date>2026-11-20 09-48-33</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -284704,6 +284704,12 @@
 		<description>Mount &amp; Blade: Ognyom i mechom (Russia)</description>
 		<rom name="Mount &amp; Blade - Ognyom i mechom (Russia).iso" size="3129769984" crc="46bfdde3" md5="1a30d2570c14501e2f034484982b3a60" sha1="45e5cde228172133515ac1285c5b974f8ca39f18"/>
 	</game>
+	<game name="Mount &amp; Blade - Warband (Germany) (En,Fr,De,Es,Pl,Cs,Hu)" id="140403">
+		<category>Games</category>
+		<serial>PDX5507GER</serial>
+		<description>Mount &amp; Blade: Warband (Germany) (En,Fr,De,Es,Pl,Cs,Hu)</description>
+		<rom name="Mount &amp; Blade - Warband (Germany) (En,Fr,De,Es,Pl,Cs,Hu).iso" size="651231232" crc="1380c3b8" md5="68bed259d3f48beb23627c5207961b83" sha1="a5301a24a87d2ac54cac478bbf40b8d5d39b0b3b"/>
+	</game>
 	<game name="Mount &amp; Blade - Warband (Japan)" id="122463">
 		<category>Games</category>
 		<version>1.127</version>
@@ -330422,6 +330428,12 @@
 		<rom name="Phantasy Star Online (Japan) (En,Ja,Fr,De,Zh,Ko) (Disc 2) (Play Disc).cue" size="135" crc="6b9d49a5" md5="eace2b3878f7300446460db15bcecb48" sha1="e70496869a712f612cbd72dee5f97c236d2b3719"/>
 		<rom name="Phantasy Star Online (Japan) (En,Ja,Fr,De,Zh,Ko) (Disc 2) (Play Disc).bin" size="528560256" crc="b59314f9" md5="4293487801f438b696b64c06e04a5e7b" sha1="705755c6e6dfdc445f3007cb133b2fdd10f2b070"/>
 	</game>
+	<game name="Phantasy Star Online - Blue Burst (China)" id="140402">
+		<category>Games</category>
+		<description>Phantasy Star Online: Blue Burst (China)</description>
+		<rom name="Phantasy Star Online - Blue Burst (China).cue" size="107" crc="fd254681" md5="9bdd858f761865bd8fadea4470278a08" sha1="528f11d389548452f704d45a6230285423129dd0"/>
+		<rom name="Phantasy Star Online - Blue Burst (China).bin" size="711228336" crc="df69c594" md5="8efb94a196e69d542d95917fdeea3583" sha1="87b8fd8e710930c128d8bace64c1b3ade9a0c43e"/>
+	</game>
 	<game name="Phantasy Star Online - Blue Burst (Japan)" id="34888">
 		<category>Games</category>
 		<serial>HCJ-0348</serial>
@@ -348079,17 +348091,17 @@
 		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands).cue" size="146" crc="57fe790d" md5="45fd72d3e4829fe89223fccaf87b0938" sha1="7c60dea3f45669251bb4c8e8209f7ad8c86987a5"/>
 		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands).bin" size="614554080" crc="40afe1f0" md5="a85936affca99fe255a931d41654413a" sha1="622fcdf002b234f5a1786d8031ecf05d1cd91263"/>
 	</game>
-	<game name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease)" id="129787">
+	<game name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (1999-06-16)" id="31750">
 		<category>Games</category>
-		<description>Putt-Putt 2: De Reis door de Tijd (Belgium, Netherlands) (Rerelease)</description>
-		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease).cue" size="135" crc="b8af5866" md5="f7d1cca04a0e7d1138031175078068f2" sha1="a334e08722e73e5ecfaca969dafa3939f191f1c3"/>
-		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease).bin" size="520485840" crc="0e1653c7" md5="70491f46106c0c6250a5395611900562" sha1="ba6333ee9f2a36792d3acfd73d5f400710d3aba9"/>
+		<description>Putt-Putt 2: De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (1999-06-16)</description>
+		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (1999-06-16).cue" size="148" crc="7a9d7777" md5="14b137c31851ef247aafe091cfbd4720" sha1="2db932df49afdbf25564515aa37afd7b5c6ea581"/>
+		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (1999-06-16).bin" size="362756016" crc="98b6aed1" md5="f10839965ed6abf8670064a5a2e2580e" sha1="2683bffe706210f6248b206e9ca8685b55cab5cd"/>
 	</game>
-	<game name="Putt-Putt 2 - De Reis door de Tijd (Netherlands) (Rerelease) (1999-06-16)" id="31750">
+	<game name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (2007-05-25)" id="129787">
 		<category>Games</category>
-		<description>Putt-Putt 2: De Reis door de Tijd (Netherlands) (Rerelease) (1999-06-16)</description>
-		<rom name="Putt-Putt 2 - De Reis door de Tijd (Netherlands) (Rerelease) (1999-06-16).cue" size="139" crc="2b13c509" md5="dc9422b84378ca3139da3f2796a96c5a" sha1="8c6fb5a683cf9e27f67a6dd2145acee199a23704"/>
-		<rom name="Putt-Putt 2 - De Reis door de Tijd (Netherlands) (Rerelease) (1999-06-16).bin" size="362756016" crc="98b6aed1" md5="f10839965ed6abf8670064a5a2e2580e" sha1="2683bffe706210f6248b206e9ca8685b55cab5cd"/>
+		<description>Putt-Putt 2: De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (2007-05-25)</description>
+		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (2007-05-25).cue" size="148" crc="58e4a995" md5="7800cfbd1c740ab87e958175b364dbed" sha1="e0cddf749d0a38a38f13fb2780bde807d06ef461"/>
+		<rom name="Putt-Putt 2 - De Reis door de Tijd (Belgium, Netherlands) (Rerelease) (2007-05-25).bin" size="520485840" crc="0e1653c7" md5="70491f46106c0c6250a5395611900562" sha1="ba6333ee9f2a36792d3acfd73d5f400710d3aba9"/>
 	</game>
 	<game name="Putt-Putt 2 - De Reis door de Tijd (Netherlands) (Rerelease) (2000-08-29)" id="55030">
 		<category>Games</category>
@@ -359586,6 +359598,13 @@
 		<rom name="Recoil (Germany) (Track 4).bin" size="92635872" crc="1c73d5bd" md5="bee8b13f593f08d6da94b2a52ca92a67" sha1="611495087b0454e713413e8238f515e9284828a8"/>
 		<rom name="Recoil (Germany) (Track 5).bin" size="77989968" crc="1ef7031b" md5="4d10f0e741e3ac3f2d8371168f88b520" sha1="26dc7b81eb35f7c875247d56b95dcb4ed723f152"/>
 	</game>
+	<game name="Recoil (Korea)" id="140404">
+		<category>Games</category>
+		<version>1.0.6.8</version>
+		<description>Recoil (Korea)</description>
+		<rom name="Recoil (Korea).cue" size="103" crc="ba96750e" md5="cf6aa011a7493c808c1b6ddbc13ed715" sha1="9e54368997c1e7da881db32709b04b058183d8f9"/>
+		<rom name="Recoil (Korea).bin" size="510264048" crc="b9d4e958" md5="d2379ffe1d8e627f6d6ca4d532a94bea" sha1="3503882ae34655401712c72f1def28722d9b7aea"/>
+	</game>
 	<game name="Recoil (UK) (OEM)" id="67277">
 		<category>Games</category>
 		<version>1.0.6.8</version>
@@ -366604,6 +366623,38 @@
 		<version>0.0612.1201.0000.13.0</version>
 		<description>Rise of Nations: Rise of Legends (Poland) (Rerelease)</description>
 		<rom name="Rise of Nations - Rise of Legends (Poland) (Rerelease).iso" size="2774138880" crc="9127ebf5" md5="df876c94ad0779f1cfadc1a3fac7a2ff" sha1="4d20803f764890ae83c306f86847536bfcc8c92c"/>
+	</game>
+	<game name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 1)" id="140394">
+		<category>Games</category>
+		<serial>0206 Part No. X12-04350-01</serial>
+		<version>0.13.04.2001</version>
+		<description>Rise of Nations: Rise of Legends (Scandinavia) (Disc 1)</description>
+		<rom name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 1).cue" size="122" crc="1d36ca12" md5="91308c91678c5d789aa5d37bc2b77c69" sha1="691a78a4b3b9fa22aa8f37f52c83df8ef7c3a7c6"/>
+		<rom name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 1).bin" size="731156832" crc="3eb1bf28" md5="9e997e3bf87434ae1a2c62f05036aa80" sha1="1d87079775362317364b850b6a452d6809154cf7"/>
+	</game>
+	<game name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 2)" id="140395">
+		<category>Games</category>
+		<serial>0206 Part No. X12-04351-01</serial>
+		<version>0.13.04.2001</version>
+		<description>Rise of Nations: Rise of Legends (Scandinavia) (Disc 2)</description>
+		<rom name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 2).cue" size="122" crc="1c6becc3" md5="fa433e98f605ffe747f4be28e3fca05d" sha1="1b0fa4fb370a8e04e1e2d27fa9f05c24c46c869d"/>
+		<rom name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 2).bin" size="732782064" crc="89ab3179" md5="b9d57550e5772d157b6bd820e09464ad" sha1="cef9def57db12f59c9701af9ae44c874c07a3827"/>
+	</game>
+	<game name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 3)" id="140396">
+		<category>Games</category>
+		<serial>0206 Part No. X12-04352-01</serial>
+		<version>0.13.04.2001</version>
+		<description>Rise of Nations: Rise of Legends (Scandinavia) (Disc 3)</description>
+		<rom name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 3).cue" size="122" crc="aa700cb3" md5="cf2596ceec144cfe5fc7da6b7ba999c9" sha1="73fdbd99c3b8797f9febf0533a08b1c3ca51d7f1"/>
+		<rom name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 3).bin" size="641674992" crc="5be1088f" md5="e8c994276cc6d419ee70e9a9cebc2f7d" sha1="db5683b78059af92f3eb10821b9785b3ea5512e2"/>
+	</game>
+	<game name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 4)" id="140397">
+		<category>Games</category>
+		<serial>0206 Part No. X12-04353-01</serial>
+		<version>0.13.04.2001</version>
+		<description>Rise of Nations: Rise of Legends (Scandinavia) (Disc 4)</description>
+		<rom name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 4).cue" size="122" crc="1ed1a161" md5="04f355f1001002b5e7094eac87db06a2" sha1="91a8170622998253b9924c345b32613ac7292b86"/>
+		<rom name="Rise of Nations - Rise of Legends (Scandinavia) (Disc 4).bin" size="726657456" crc="6b566953" md5="f43f0fa7006779f9ce4b2ae071f62f9b" sha1="e69f12dec9f293f8d687bc3a77454ae957bc442c"/>
 	</game>
 	<game name="Rise of Nations - Rise of Legends (USA) (Demo)" id="117790">
 		<category>Demos</category>
@@ -413778,6 +413829,12 @@
 		<rom name="Spells of Gold (Poland).cue" size="89" crc="08867b64" md5="18b2ed5ca46169b2076b1bdf320aca70" sha1="74aa7c937531c912d5c319d7aac3fcc792986f5b"/>
 		<rom name="Spells of Gold (Poland).bin" size="788886672" crc="6f3a4a7f" md5="45cdf8e88901d414ac950a3bb9e55105" sha1="b73e682ac6c41a2b4e75ea94e86a5378cabaf5f9"/>
 	</game>
+	<game name="Spells of Gold (USA) (Beta) (2002-05-17)" id="140393">
+		<category>Preproduction</category>
+		<description>Spells of Gold (USA) (Beta) (2002-05-17)</description>
+		<rom name="Spells of Gold (USA) (Beta) (2002-05-17).cue" size="106" crc="a02dafc6" md5="28c5d711383a8f093f57e14471249b07" sha1="6df1b971060cc7d3bf259b222f3926e94fff89fd"/>
+		<rom name="Spells of Gold (USA) (Beta) (2002-05-17).bin" size="102217920" crc="f79f95f1" md5="4bf84f5c6f9b60c7fd908c26f6174089" sha1="6b51326725949022e72e40f07cb34de599c8f0f3"/>
+	</game>
 	<game name="Spelnij Marzenia - Gra Pilkarska Pepsi (Poland)" id="47179">
 		<category>Games</category>
 		<description>Spełnij Marzenia: Gra Piłkarska Pepsi (Poland)</description>
@@ -434557,6 +434614,13 @@
 		<serial>SW-00039</serial>
 		<description>Sword Art Mahjongg (Japan)</description>
 		<rom name="Sword Art Mahjongg (Japan).iso" size="3909640192" crc="a05e6db3" md5="b0aa82648f42c7443584e3a0ed504748" sha1="4937303039f591d487463a281b300bc15733c664"/>
+	</game>
+	<game name="Sword of Moonlight - King's Field Making Tool (Japan)" id="140401">
+		<category>Games</category>
+		<serial>FSMW-4001</serial>
+		<description>Sword of Moonlight: King's Field Making Tool (Japan)</description>
+		<rom name="Sword of Moonlight - King's Field Making Tool (Japan).cue" size="119" crc="95c42158" md5="d5345991a24f147c37a5b34ef10af6a1" sha1="94151081e91425b07c1ff26fe71d28770d2b15c8"/>
+		<rom name="Sword of Moonlight - King's Field Making Tool (Japan).bin" size="788533872" crc="e0fe7d96" md5="d140a09409e1058408671973264597f2" sha1="46d3e79df066119385cd1fefc8d2b62da7140d3f"/>
 	</game>
 	<game name="Sword of the New World - Granado Espada (USA)" id="104707">
 		<category>Games</category>
