@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (26,703) (-y) [-aAbBcefkmMoprv] (2026-11-20 09-48-33) (Retool)</description>
-		<version>2026-11-20 09-48-33</version>
-		<date>2026-11-20 09-58-51</date>
+		<description>IBM - PC compatible (26,707) (-y) [-aAbBcefkmMoprv] (2026-11-21 08-04-08) (Retool)</description>
+		<version>2026-11-21 08-04-08</version>
+		<date>2026-11-21 09-28-30</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -28682,6 +28682,13 @@
 		<description>Cartoon History of the Universe Volumes 1-7, The (USA) (Disc 2)</description>
 		<rom name="Cartoon History of the Universe Volumes 1-7, The (USA) (Disc 2).bin" size="598647504" crc="2546afd3" md5="33dc0e97202679629aa6278135106044" sha1="9207c94f4d53de592004f8b3e3ed2ed5af9b29dc"/>
 		<rom name="Cartoon History of the Universe Volumes 1-7, The (USA) (Disc 2).cue" size="152" crc="0bf9d737" md5="52d8f300915a5fa7d67a34c01a961e82" sha1="bd59e64060e735513ce5fee58468cd69642c63dc"/>
+	</game>
+	<game name="Cartoon Jukebox (USA)" id="140429">
+		<category>Games</category>
+		<description>Cartoon Jukebox (USA)</description>
+		<serial>310691011-2, 310691045-2</serial>
+		<rom name="Cartoon Jukebox (USA).bin" size="765037392" crc="e72e34e3" md5="6401f571f8ea95f299f1187a5762e6e9" sha1="1ccb9a77f110da3b0fb81d61551bdbf797af200a"/>
+		<rom name="Cartoon Jukebox (USA).cue" size="87" crc="7858bae5" md5="044ef97d971859c2c2d25732dfd79426" sha1="ae2e2a78299a17a790ad5b7db8ff87c336923569"/>
 	</game>
 	<game name="Cartoon Network - Candy Capers (UK) (Side A)" id="117797">
 		<category>Games</category>
@@ -111845,6 +111852,12 @@
 		<description>Mein neues Leben: Abenteuer auf Tropicana (Germany)</description>
 		<rom name="Mein neues Leben - Abenteuer auf Tropicana (Germany).iso" size="2892693504" crc="0acc57d5" md5="7b597b4edd6cc24ba11322391abae166" sha1="670805b788107159790f411a8596e3f91cc72841"/>
 	</game>
+	<game name="Meine Tierarztpraxis - Special Edition (Germany)" id="140409">
+		<category>Games</category>
+		<description>Meine Tierarztpraxis: Special Edition (Germany)</description>
+		<rom name="Meine Tierarztpraxis - Special Edition (Germany).bin" size="819554400" crc="a3bf28c1" md5="25b4e3fe622c70cbab913072ccef0a37" sha1="0e88d2cef8aa5205b75ead3537a08ffcf69ccfca"/>
+		<rom name="Meine Tierarztpraxis - Special Edition (Germany).cue" size="114" crc="7932dcac" md5="1a3176fcb81ec2ccf447c5505985153e" sha1="dcf24675f15cfe437cbfb4eb3f0885bc637abaf9"/>
+	</game>
 	<game name="Meine Tierklinik (Germany)" id="130444">
 		<category>Games</category>
 		<description>Meine Tierklinik (Germany)</description>
@@ -120132,6 +120145,12 @@
 		<rom name="Musti Leert Goochelen (Belgium, Netherlands).bin" size="93536688" crc="c24f12e2" md5="ed3ffaace8ed0d2fe3102fe38d690621" sha1="2aac740c0be046d0db68dc8184b20e9bff7c47b6"/>
 		<rom name="Musti Leert Goochelen (Belgium, Netherlands).cue" size="110" crc="83f22218" md5="a9d4eb198a5264a67691ef84399552d5" sha1="0ff14d5fcc1dd548ac64c0348be7a4c466c4f265"/>
 	</game>
+	<game name="Musti en de Indiaan (Belgium)" id="140415">
+		<category>Games</category>
+		<description>Musti en de Indiaan (Belgium)</description>
+		<rom name="Musti en de Indiaan (Belgium).bin" size="158621232" crc="eb32b528" md5="b018b0025475ced0add1676d36212696" sha1="8b3a6fff4821896d70c50b5488341145c60fbdaf"/>
+		<rom name="Musti en de Indiaan (Belgium).cue" size="95" crc="6ae38ef6" md5="8b1792c3fa5a76bdf7aa0f275456be89" sha1="7762614c9a8b8bfd85e32171fcf27da794a8ccae"/>
+	</game>
 	<game name="Mutant (Russia)" id="106009">
 		<category>Games</category>
 		<description>Mutant (Russia)</description>
@@ -127316,6 +127335,13 @@
 		<version>1.0.0.1501</version>
 		<rom name="Nosferatu - Gniew Malachiego (Poland).bin" size="325970736" crc="35b48f11" md5="84f17d74a7aad45284c9c259df98f44f" sha1="e6a1ff01a178d7898b5f013fb843ba1630ec64c9"/>
 		<rom name="Nosferatu - Gniew Malachiego (Poland).cue" size="103" crc="6d6b418f" md5="82180f73f68ddb212a2caa5027663495" sha1="3b4a9192e5f1c5bf6abf0d4f2f01562b9d837aa0"/>
+	</game>
+	<game name="Nosferatu - La Colera de Malaquias (Spain)" id="140416">
+		<category>Games</category>
+		<description>Nosferatu: La Cólera de Malaquías (Spain)</description>
+		<serial>10005006</serial>
+		<rom name="Nosferatu - La Colera de Malaquias (Spain).bin" size="789239472" crc="217f229d" md5="75a9da3c1fd0b5bb5a7520cfe0c02a3c" sha1="1ff547060d3cbf0baa83e3edea61935226b2c485"/>
+		<rom name="Nosferatu - La Colera de Malaquias (Spain).cue" size="108" crc="ac051063" md5="3f25375c156b2c769a0ba9a68fb5b22f" sha1="9b2eb42e01ccdf3b601c086cf1f4ef5fa61c100d"/>
 	</game>
 	<game name="Nosferatu - The Wrath of Malachi (Europe)" id="52399">
 		<category>Games</category>

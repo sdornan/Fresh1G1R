@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (1,789) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-18 04-46-47) (Retool)</description>
-		<version>2026-11-18 04-46-47</version>
-		<date>2026-11-20 10-05-19</date>
+		<description>Sony - PlayStation (1,790) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-21 07-54-32) (Retool)</description>
+		<version>2026-11-21 07-54-32</version>
+		<date>2026-11-21 09-33-55</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -15353,6 +15353,13 @@
 		<serial>SLES-01658</serial>
 		<rom name="Shaolin (Europe).bin" size="527922864" crc="0c2866d6" md5="949770b749493655fe5cabd79884f9f9" sha1="1a6cbccd485bae020386b3803e66a836b49d017d"/>
 		<rom name="Shaolin (Europe).cue" size="82" crc="8ebbaeef" md5="ad49494c591ffd60f67ba57609d95cf3" sha1="a66b29e787cbae6fbff748d4ef84ca9d8a97d2e4"/>
+	</game>
+	<game name="Shediao Yingxiong Chuan (Asia)" id="63643">
+		<category>Games</category>
+		<description>Shediao Yingxiong Chuan (Asia)</description>
+		<serial>SCPS 45510</serial>
+		<rom name="Shediao Yingxiong Chuan (Asia).bin" size="669849600" crc="addd10d1" md5="2675c6a586e0f1685c3abd19fb9d755b" sha1="c096b030f1c36849912dd6bc2bd8ed3a621ab0a4"/>
+		<rom name="Shediao Yingxiong Chuan (Asia).cue" size="96" crc="a85c7a2c" md5="3e403abd2f9119df638a0682f2dc9d7f" sha1="a2d245434f0de086619378a91cf0abdc55015214"/>
 	</game>
 	<game name="Sheep (USA)" id="11123">
 		<category>Games</category>

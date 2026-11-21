@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,744) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-20 09-48-33) (Retool)</description>
-		<version>2026-11-20 09-48-33</version>
-		<date>2026-11-20 10-07-22</date>
+		<description>IBM - PC compatible (13,745) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-21 08-04-08) (Retool)</description>
+		<version>2026-11-21 08-04-08</version>
+		<date>2026-11-21 09-33-18</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -15514,6 +15514,13 @@
 		<description>Cartoon History of the Universe Volumes 1-7, The (USA) (Disc 2)</description>
 		<rom name="Cartoon History of the Universe Volumes 1-7, The (USA) (Disc 2).bin" size="598647504" crc="2546afd3" md5="33dc0e97202679629aa6278135106044" sha1="9207c94f4d53de592004f8b3e3ed2ed5af9b29dc"/>
 		<rom name="Cartoon History of the Universe Volumes 1-7, The (USA) (Disc 2).cue" size="152" crc="0bf9d737" md5="52d8f300915a5fa7d67a34c01a961e82" sha1="bd59e64060e735513ce5fee58468cd69642c63dc"/>
+	</game>
+	<game name="Cartoon Jukebox (USA)" id="140429">
+		<category>Games</category>
+		<description>Cartoon Jukebox (USA)</description>
+		<serial>310691011-2, 310691045-2</serial>
+		<rom name="Cartoon Jukebox (USA).bin" size="765037392" crc="e72e34e3" md5="6401f571f8ea95f299f1187a5762e6e9" sha1="1ccb9a77f110da3b0fb81d61551bdbf797af200a"/>
+		<rom name="Cartoon Jukebox (USA).cue" size="87" crc="7858bae5" md5="044ef97d971859c2c2d25732dfd79426" sha1="ae2e2a78299a17a790ad5b7db8ff87c336923569"/>
 	</game>
 	<game name="Cartoon Network - Candy Capers (UK) (Side A)" id="117797">
 		<category>Games</category>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Handheld - Texas Instruments - TI series</name>
+		<description>Handheld - Texas Instruments - TI series - Datfile (5) (2026-11-21 03-38-33)</description>
+		<version>2026-11-21 03-38-33</version>
+		<date>2026-11-21 03-38-33</date>
+		<author>redump.info</author>
+		<homepage>redump.info</homepage>
+		<url>https://redump.info/</url>
+	</header>
+	<game name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.0)" id="140422">
+		<category>Multimedia</category>
+		<serial>0404, X/CD/Z80/A</serial>
+		<version>1.0</version>
+		<description>TI-83 Plus &amp; TI-84 Plus Family: TI Graphing Product CD (USA) (v1.0)</description>
+		<rom name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.0).cue" size="134" crc="e559716e" md5="de5314fd1e3aac8bf6542956c7983ac5" sha1="ee0f4dc0ed91369a1dcabec9c89cde7c54b97976"/>
+		<rom name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.0).bin" size="582188208" crc="4e02eb5d" md5="e617683486b084d3a5653794645b7a6c" sha1="c20dd62b9e4ead59fb94213b31a678affc34316f"/>
+	</game>
+	<game name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.3)" id="140423">
+		<category>Multimedia</category>
+		<serial>012006, XX/CD/Z80/D</serial>
+		<version>1.3</version>
+		<description>TI-83 Plus &amp; TI-84 Plus Family: TI Graphing Product CD (USA) (v1.3)</description>
+		<rom name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.3).cue" size="134" crc="e40457bf" md5="f9c7a46f95830e6c6e36df17e0bc3bf1" sha1="0dc243f6afe890fad51bb2d8f9c40e8d4da960ce"/>
+		<rom name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.3).bin" size="461469456" crc="a52994f7" md5="f2fc09bf48aa905305b1af3c6da9daad" sha1="f416a299ad816074e0b1b201b3bc2aaf442199f5"/>
+	</game>
+	<game name="TI-83 Plus and TI-84 Plus Family - Product CD (USA) (v1.4.1)" id="136855">
+		<category>Multimedia</category>
+		<serial>041608, XX/CD/Z80/E</serial>
+		<version>1.4.1</version>
+		<description>TI-83 Plus and TI-84 Plus Family: Product CD (USA) (v1.4.1)</description>
+		<rom name="TI-83 Plus and TI-84 Plus Family - Product CD (USA) (v1.4.1).cue" size="126" crc="3d1fc51e" md5="202127e133e8173cfbe5647cfac767a9" sha1="514779abc681ba8eec8bb9f61a5c85af9b80581b"/>
+		<rom name="TI-83 Plus and TI-84 Plus Family - Product CD (USA) (v1.4.1).bin" size="464449440" crc="cc38c9af" md5="ff5a9eda3e4d2b3d25da83c01e035429" sha1="bea2974897f374a1720b4ee6c6751bca3f0217bc"/>
+	</game>
+	<game name="TI-83 Plus and TI-84 Plus Family - Product CD (USA) (v1.5)" id="140425">
+		<category>Multimedia</category>
+		<serial>123109, XX/CD/Z80/F</serial>
+		<version>1.5</version>
+		<description>TI-83 Plus and TI-84 Plus Family: Product CD (USA) (v1.5)</description>
+		<rom name="TI-83 Plus and TI-84 Plus Family - Product CD (USA) (v1.5).cue" size="124" crc="1098d7f5" md5="47842a661f1d30edb8a74c6bf8daae7e" sha1="35871cae8f93b16b75f5af59b946288ae89f89be"/>
+		<rom name="TI-83 Plus and TI-84 Plus Family - Product CD (USA) (v1.5).bin" size="162883056" crc="0e5662bf" md5="8b607f273309f6c371ecf276ff2b0344" sha1="6cf5c2bf6ae9fbf9154685f20e274ea3f37ef772"/>
+	</game>
+	<game name="TI-89 Titanium-Voyage 200 - TI Graphing Product CD (USA) (v1.4)" id="140424">
+		<category>Multimedia</category>
+		<serial>XX/CD/68K/E, 042626</serial>
+		<version>1.4</version>
+		<description>TI-89 Titanium/Voyage 200: TI Graphing Product CD (USA) (v1.4)</description>
+		<rom name="TI-89 Titanium-Voyage 200 - TI Graphing Product CD (USA) (v1.4).cue" size="129" crc="e3361af8" md5="0cd9cc2ee637a4126d3ce49493203319" sha1="49aa396672b575ecd5a1e6318bc35ef2f1e2ab23"/>
+		<rom name="TI-89 Titanium-Voyage 200 - TI Graphing Product CD (USA) (v1.4).bin" size="609262080" crc="7f11f293" md5="b869d279318f09a198fe6776e4c990c9" sha1="5f0c6fcba0939020946c0123f34f7b3fdc57d2ff"/>
+	</game>
+</datafile>

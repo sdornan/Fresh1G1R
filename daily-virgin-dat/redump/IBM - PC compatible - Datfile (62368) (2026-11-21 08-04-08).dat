@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62351) (2026-11-20 09-48-33)</description>
-		<version>2026-11-20 09-48-33</version>
-		<date>2026-11-20 09-48-33</date>
+		<description>IBM - PC compatible - Datfile (62368) (2026-11-21 08-04-08)</description>
+		<version>2026-11-21 08-04-08</version>
+		<date>2026-11-21 08-04-08</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -61719,6 +61719,13 @@
 		<rom name="Cartoon History of the Universe Volumes 1-7, The (USA) (Disc 2).cue" size="152" crc="0bf9d737" md5="52d8f300915a5fa7d67a34c01a961e82" sha1="bd59e64060e735513ce5fee58468cd69642c63dc"/>
 		<rom name="Cartoon History of the Universe Volumes 1-7, The (USA) (Disc 2).bin" size="598647504" crc="2546afd3" md5="33dc0e97202679629aa6278135106044" sha1="9207c94f4d53de592004f8b3e3ed2ed5af9b29dc"/>
 	</game>
+	<game name="Cartoon Jukebox (USA)" id="140429">
+		<category>Games</category>
+		<serial>310691011-2, 310691045-2</serial>
+		<description>Cartoon Jukebox (USA)</description>
+		<rom name="Cartoon Jukebox (USA).cue" size="87" crc="7858bae5" md5="044ef97d971859c2c2d25732dfd79426" sha1="ae2e2a78299a17a790ad5b7db8ff87c336923569"/>
+		<rom name="Cartoon Jukebox (USA).bin" size="765037392" crc="e72e34e3" md5="6401f571f8ea95f299f1187a5762e6e9" sha1="1ccb9a77f110da3b0fb81d61551bdbf797af200a"/>
+	</game>
 	<game name="Cartoon Network - Candy Capers (UK) (Side A)" id="117797">
 		<category>Games</category>
 		<serial>GDL 255</serial>
@@ -67682,6 +67689,14 @@
 		<description>Championship Manager: Season 03/04 (Japan)</description>
 		<rom name="Championship Manager - Season 03-04 (Japan).cue" size="109" crc="fd33f0c4" md5="c1698b65a25c7cf84bd1c8b1d11e3ef5" sha1="58aa4a2b44ccff3412448808d5663d589b001a4f"/>
 		<rom name="Championship Manager - Season 03-04 (Japan).bin" size="289218384" crc="08b029f6" md5="fb965ec1ef8e0108159d3f82df4b2c29" sha1="5cf089c8b8be4b48008e66f3e2c29b1963deed44"/>
+	</game>
+	<game name="Championship Manager - Season 03-04 (Portugal) (En,Fr,It,Pt)" id="140412">
+		<category>Games</category>
+		<serial>MCM03PPR81</serial>
+		<version>4.1.0</version>
+		<description>Championship Manager: Season 03/04 (Portugal) (En,Fr,It,Pt)</description>
+		<rom name="Championship Manager - Season 03-04 (Portugal) (En,Fr,It,Pt).cue" size="126" crc="5e289891" md5="07fbd3f284b4e1fde6149b8e7f02becc" sha1="75d01941704d1e3558fcfbbe28e1f46bb7ed416f"/>
+		<rom name="Championship Manager - Season 03-04 (Portugal) (En,Fr,It,Pt).bin" size="252157920" crc="f6e9db35" md5="bc8b08846216785f4ea202e72980ea07" sha1="c44286b52f6449641a0e101df45e011b5831c8ed"/>
 	</game>
 	<game name="Championship Manager - Season 03-04 (Spain) (En,Es)" id="92376">
 		<category>Games</category>
@@ -85923,6 +85938,27 @@
 		<rom name="Computer Shopper - Issue 190 December 2003 (UK).cue" size="113" crc="43f59091" md5="b59557714d199b95a0f8cb367d6f55f5" sha1="7bba2d60962015cff1f6e191c4ddc0cf6157bc44"/>
 		<rom name="Computer Shopper - Issue 190 December 2003 (UK).bin" size="771827616" crc="d373e38e" md5="4b7d63224b72e63c0d24177e11891852" sha1="5e16eac34902c9268b04003141df485674ff6e76"/>
 	</game>
+	<game name="Computer Shopper - Issue 191 January 2004 (UK)" id="140406">
+		<category>Coverdiscs</category>
+		<serial>DPCS0104</serial>
+		<description>Computer Shopper: Issue 191 January 2004 (UK)</description>
+		<rom name="Computer Shopper - Issue 191 January 2004 (UK).cue" size="112" crc="31b68242" md5="b08d357d3dbdd0d0513d955e1cb549a3" sha1="12575c1db9f0ed9f72d168e81e2a58aaf4ffccf1"/>
+		<rom name="Computer Shopper - Issue 191 January 2004 (UK).bin" size="778789536" crc="c6584187" md5="4705b731a23f32d4cf9f68bbde5bcf9f" sha1="a6e16952c0ae00d1f07c1f704ccc608ff9c44e03"/>
+	</game>
+	<game name="Computer Shopper - Issue 192 February 2004 (UK)" id="140407">
+		<category>Coverdiscs</category>
+		<serial>DPCS0204</serial>
+		<description>Computer Shopper: Issue 192 February 2004 (UK)</description>
+		<rom name="Computer Shopper - Issue 192 February 2004 (UK).cue" size="113" crc="5b5d9cf0" md5="bcb79c31115eb34eb5912b89d553a3ae" sha1="bcfe730f1066636ea2be5cb2f571ecf57765075d"/>
+		<rom name="Computer Shopper - Issue 192 February 2004 (UK).bin" size="843711792" crc="fc60377c" md5="82773001f65b0abc289e9949b4a1f2fd" sha1="68689276288c07ebfc9d3a5f3e4fdcb6ad43f141"/>
+	</game>
+	<game name="Computer Shopper - Issue 193 March 2004 (UK)" id="140408">
+		<category>Coverdiscs</category>
+		<serial>DPCS0304</serial>
+		<description>Computer Shopper: Issue 193 March 2004 (UK)</description>
+		<rom name="Computer Shopper - Issue 193 March 2004 (UK).cue" size="110" crc="e358b3e4" md5="3a2879d2a369470c0896245f51f15367" sha1="107268920fdf768271cb6c49a469f35882371bf6"/>
+		<rom name="Computer Shopper - Issue 193 March 2004 (UK).bin" size="758783424" crc="d890760b" md5="8eab4ae802074e69eb73d8aab38110a5" sha1="79751a7f642aba761c06793cb746f823e39bd286"/>
+	</game>
 	<game name="Computer Shopper - Issue 194 April 2004 (UK)" id="99885">
 		<category>Coverdiscs</category>
 		<serial>DPCS0404DVD</serial>
@@ -97882,6 +97918,13 @@
 		<description>Danny and the Dinosaur (USA)</description>
 		<rom name="Danny and the Dinosaur (USA).cue" size="94" crc="8a7f54af" md5="aed8c9051d0d4544bb414d11081e6bbb" sha1="b5233a4fde1bce4144fef409c3f381a88c2470ae"/>
 		<rom name="Danny and the Dinosaur (USA).bin" size="116132352" crc="e6bb7452" md5="a47e009364796a4733128190bf137815" sha1="2d05b5f75ab1a05c9d2cf3fc77b1ec7bcd9c7a1c"/>
+	</game>
+	<game name="Danny Glover Tells Aesop's Fables (USA)" id="140428">
+		<category>Educational</category>
+		<serial>310691029-2</serial>
+		<description>Danny Glover Tells Aesop's Fables (USA)</description>
+		<rom name="Danny Glover Tells Aesop's Fables (USA).cue" size="128" crc="f89eeda3" md5="5cb4765a81680f17f17378b95c1865f1" sha1="06c70bf3b384195c9d919bc5669de9d829f7ae22"/>
+		<rom name="Danny Glover Tells Aesop's Fables (USA).bin" size="584307360" crc="c42533ae" md5="89bf76aac18c30607bf040ee9987555d" sha1="314283aa02d6baa038d5f61c592960bea6150aac"/>
 	</game>
 	<game name="Daqin Hanjiang (China)" id="60207">
 		<category>Games</category>
@@ -123925,6 +123968,14 @@
 		<description>Duke Nukem: Manhattan Project (Netherlands) (En,Fr,De,Es,It)</description>
 		<rom name="Duke Nukem - Manhattan Project (Netherlands) (En,Fr,De,Es,It).cue" size="127" crc="2cae0adf" md5="8f9254ad9419fb51b5221471ec4ee702" sha1="066e15a7b7f2cf33c8a37cec2463b52d5c7eeb41"/>
 		<rom name="Duke Nukem - Manhattan Project (Netherlands) (En,Fr,De,Es,It).bin" size="557753280" crc="53278c7d" md5="c76e39cbd58a7de0fc146ddbbcc96b11" sha1="0559febfbca0a58b670f8dbddc38f9476cffed57"/>
+	</game>
+	<game name="Duke Nukem - Manhattan Project (UK) (En,Fr,De,Es,It)" id="140430">
+		<category>Games</category>
+		<serial>SUN023</serial>
+		<version>1.0.1</version>
+		<description>Duke Nukem: Manhattan Project (UK) (En,Fr,De,Es,It)</description>
+		<rom name="Duke Nukem - Manhattan Project (UK) (En,Fr,De,Es,It).cue" size="118" crc="20a9ce3b" md5="da6fd583614ed878bbecadec2ac37ec9" sha1="85276ddd2a29b7d1f2da801f29162aae9a7a96a8"/>
+		<rom name="Duke Nukem - Manhattan Project (UK) (En,Fr,De,Es,It).bin" size="581332080" crc="b831c798" md5="c305001c59f4a3bf52a8ba8c023f249e" sha1="f1fd2481967e87ecd66609de1ce5a4613d154a11"/>
 	</game>
 	<game name="Duke Nukem - Manhattan Project (USA)" id="47047">
 		<category>Games</category>
@@ -200537,18 +200588,6 @@
 		<rom name="Hotel Giant (Europe) (Sold Out Software) (Track 6).bin" size="38911488" crc="95580408" md5="11986b6558832561a80db7b8641bc4f6" sha1="acd1452d1cf66dc783a7c56b387be200d4f34ffd"/>
 		<rom name="Hotel Giant (Europe) (Sold Out Software) (Track 7).bin" size="39741744" crc="3a560369" md5="7e06af72dca8477f47a3ff99a5ee7b59" sha1="7b84814ef2489471f90e5159112e68d837519e42"/>
 	</game>
-	<game name="Hotel Giant (Europe) (Sold Out Software) (Alt 2)" id="140315">
-		<category>Games</category>
-		<description>Hotel Giant (Europe) (Sold Out Software) (Alt 2)</description>
-		<rom name="Hotel Giant (Europe) (Sold Out Software) (Alt 2).cue" size="976" crc="2eb28645" md5="96cfbf0a08446c02201927f5804c59a2" sha1="85d3dcdb91058ab88eabdef9651b7c5a12bd2d1d"/>
-		<rom name="Hotel Giant (Europe) (Sold Out Software) (Alt 2) (Track 1).bin" size="506884224" crc="317d988a" md5="77bf6996e4d9b3f566dde2a4aab9ddd8" sha1="a39b9b173a067eb24084979882dd9f3d59e25b0d"/>
-		<rom name="Hotel Giant (Europe) (Sold Out Software) (Alt 2) (Track 2).bin" size="34835472" crc="95ba2ccd" md5="a13305d30082c2376ab03faef64e0c2c" sha1="dcc8c37c2d33aa7a58a897c57e8cb5f8aa09c257"/>
-		<rom name="Hotel Giant (Europe) (Sold Out Software) (Alt 2) (Track 3).bin" size="33240816" crc="1c7895e9" md5="e2d9878df9df6e19060c55fab5449895" sha1="725a409513ccda3f561510b996dd48bfbc7aff66"/>
-		<rom name="Hotel Giant (Europe) (Sold Out Software) (Alt 2) (Track 4).bin" size="41496336" crc="d19c0171" md5="9d5acf266040dd73c7273fa629d4f53c" sha1="7a6983f51d471d548b80ee5555f4bf4c74f6aba2"/>
-		<rom name="Hotel Giant (Europe) (Sold Out Software) (Alt 2) (Track 5).bin" size="45170160" crc="cfed03ef" md5="7e624ac80cdb6e3de321853796e5455a" sha1="7c6bd98350f64563e6df4e0cef964ff3772257cd"/>
-		<rom name="Hotel Giant (Europe) (Sold Out Software) (Alt 2) (Track 6).bin" size="38911488" crc="b3de0242" md5="9169a6cdbd5a5c1d0ae5bb7ddada4e39" sha1="ea9a373c6f8b02d89e45f9fcc6c0e9ea9240f949"/>
-		<rom name="Hotel Giant (Europe) (Sold Out Software) (Alt 2) (Track 7).bin" size="39741744" crc="c76ed697" md5="143523d46b19139696be98a1defdfb4f" sha1="4f50315ab7d9c5e211ad9966bfb440f79e24d143"/>
-	</game>
 	<game name="Hotel Giant (Europe) (Sold Out Software) (Alt)" id="101121">
 		<category>Games</category>
 		<description>Hotel Giant (Europe) (Sold Out Software) (Alt)</description>
@@ -268585,6 +268624,12 @@
 		<rom name="Meine Lernwelt - 2. Klasse Mathematik (Germany).cue" size="113" crc="9c394a52" md5="75360f7f2625266cc845a8a1543d347d" sha1="4d5edafde23e9d3b9e4e170db405294735701f7c"/>
 		<rom name="Meine Lernwelt - 2. Klasse Mathematik (Germany).bin" size="399110880" crc="91fad129" md5="ad560287615b0f3ea6b272d709fc06ff" sha1="fe65280ed5d018fde33ccaf71a941b6f930a4e3d"/>
 	</game>
+	<game name="Meine Tierarztpraxis - Special Edition (Germany)" id="140409">
+		<category>Games</category>
+		<description>Meine Tierarztpraxis: Special Edition (Germany)</description>
+		<rom name="Meine Tierarztpraxis - Special Edition (Germany).cue" size="114" crc="7932dcac" md5="1a3176fcb81ec2ccf447c5505985153e" sha1="dcf24675f15cfe437cbfb4eb3f0885bc637abaf9"/>
+		<rom name="Meine Tierarztpraxis - Special Edition (Germany).bin" size="819554400" crc="a3bf28c1" md5="25b4e3fe622c70cbab913072ccef0a37" sha1="0e88d2cef8aa5205b75ead3537a08ffcf69ccfca"/>
+	</game>
 	<game name="Meine Tierklinik (Germany)" id="130444">
 		<category>Games</category>
 		<description>Meine Tierklinik (Germany)</description>
@@ -281321,6 +281366,7 @@
 	</game>
 	<game name="Moop &amp; Dreadly - De Schat van Bing Bong Eiland (Netherlands) (Rerelease)" id="135374">
 		<category>Games</category>
+		<serial>07DSILK17</serial>
 		<description>Moop &amp; Dreadly: De Schat van Bing Bong Eiland (Netherlands) (Rerelease)</description>
 		<rom name="Moop &amp; Dreadly - De Schat van Bing Bong Eiland (Netherlands) (Rerelease).cue" size="161" crc="05e64944" md5="83242a49147878524c7660cb98da820e" sha1="b6b6c11636ae6f166f43282e7c0bc503429940d3"/>
 		<rom name="Moop &amp; Dreadly - De Schat van Bing Bong Eiland (Netherlands) (Rerelease).bin" size="711962160" crc="d73dedf9" md5="00266ad00b2e68641d9c99503ed47c33" sha1="9a64f1f7673c14edb5dbbb7cba022cf210949477"/>
@@ -286625,6 +286671,12 @@
 		<description>Musouki: Constitution World Story: 1-shou Urou Shinden Shou (Japan)</description>
 		<rom name="Musouki - Constitution World Story - 1-shou Urou Shinden Shou (Japan).cue" size="135" crc="0f9f896b" md5="4d6b226ce1f32030fefd844b9beeb549" sha1="66bf5578d75617b71c791f710ff360f4c936f428"/>
 		<rom name="Musouki - Constitution World Story - 1-shou Urou Shinden Shou (Japan).bin" size="107476992" crc="8e3922ba" md5="c291d3831c5654316c37c291af7b1f94" sha1="d66cf76206156427e0025eb29b713c2492272e1d"/>
+	</game>
+	<game name="Musti en de Indiaan (Belgium)" id="140415">
+		<category>Games</category>
+		<description>Musti en de Indiaan (Belgium)</description>
+		<rom name="Musti en de Indiaan (Belgium).cue" size="95" crc="6ae38ef6" md5="8b1792c3fa5a76bdf7aa0f275456be89" sha1="7762614c9a8b8bfd85e32171fcf27da794a8ccae"/>
+		<rom name="Musti en de Indiaan (Belgium).bin" size="158621232" crc="eb32b528" md5="b018b0025475ced0add1676d36212696" sha1="8b3a6fff4821896d70c50b5488341145c60fbdaf"/>
 	</game>
 	<game name="Musti Leert Goochelen (Belgium, Netherlands)" id="116045">
 		<category>Games</category>
@@ -300894,6 +300946,24 @@
 		<rom name="Nintendo Nintendogs Presseinformation (Germany).cue" size="113" crc="d9140bf0" md5="271904e9c0e95966b728f7b76a2cfdef" sha1="b147fd03445077a39ffb9a30ff8df22c1eec631d"/>
 		<rom name="Nintendo Nintendogs Presseinformation (Germany).bin" size="607291104" crc="37817e3b" md5="ed273be1650bf72fc8c16fd5b22ba622" sha1="9ea3869ac260b117bfe45f3453a47b61d0db3ee6"/>
 	</game>
+	<game name="Nintendo Nitro Devkit 1-20-04 (Japan)" id="140419">
+		<category>Applications</category>
+		<description>Nintendo Nitro Devkit 1-20-04 (Japan)</description>
+		<rom name="Nintendo Nitro Devkit 1-20-04 (Japan).cue" size="103" crc="04cf8852" md5="1c3d1a11f911b37d5bf005b36651b278" sha1="0aaa7d4a5bba26947064d76d2e58f41985ed5736"/>
+		<rom name="Nintendo Nitro Devkit 1-20-04 (Japan).bin" size="92694672" crc="068e04ef" md5="3f91fd85e7b7b73902c80011a044dee9" sha1="c62c3766d171dca7d917a79369586394590ca1b4"/>
+	</game>
+	<game name="Nintendo Nitro Devkit 4-12-04 (Japan)" id="140418">
+		<category>Applications</category>
+		<description>Nintendo Nitro Devkit 4-12-04 (Japan)</description>
+		<rom name="Nintendo Nitro Devkit 4-12-04 (Japan).cue" size="103" crc="fb4a1e03" md5="33f1c23b5a7fb4d3ab114374028a04f3" sha1="f6835a5aa4844c6bb60752d82bc25da2d5454afb"/>
+		<rom name="Nintendo Nitro Devkit 4-12-04 (Japan).bin" size="153380976" crc="04a80317" md5="4d686b0b3d74e117174bffab2499856d" sha1="f381888fd6fbfde3ea9e63e19e4013e215c35198"/>
+	</game>
+	<game name="Nintendo Nitro System 1-26-04 (Japan)" id="140420">
+		<category>Applications</category>
+		<description>Nintendo Nitro System 1-26-04 (Japan)</description>
+		<rom name="Nintendo Nitro System 1-26-04 (Japan).cue" size="103" crc="b9253e7d" md5="2dc59669335aa8ee2f47d035299454cf" sha1="69006e0c425a909d795bb2f9a11707c57b55f7d9"/>
+		<rom name="Nintendo Nitro System 1-26-04 (Japan).bin" size="4370016" crc="4a585c16" md5="29c9f10b1dc58a024335cc833de2c8ce" sha1="e0beb6a5c7da57e9b56f83ed8ed2899169809b9b"/>
+	</game>
 	<game name="Nintendo Power 2-Sided Poster (USA) (Disc 1) (Assets)" id="135116">
 		<category>Multimedia</category>
 		<description>Nintendo Power 2-Sided Poster (USA) (Disc 1) (Assets)</description>
@@ -300911,6 +300981,12 @@
 		<description>Nintendo Power 2-Sided Poster (USA) (Disc 3) (Assets)</description>
 		<rom name="Nintendo Power 2-Sided Poster (USA) (Disc 3) (Assets).cue" size="119" crc="a5036ee6" md5="a723c9883db2cd8a4e870be08673624a" sha1="f89c5d93029602aed246a1709e63f214bc4ca4c0"/>
 		<rom name="Nintendo Power 2-Sided Poster (USA) (Disc 3) (Assets).bin" size="416148768" crc="c4474852" md5="396cf6e8ec83a69ce05fc804c2d64c90" sha1="c051b25775af7f6f5fe144431799ff6768e9ef8f"/>
+	</game>
+	<game name="Nintendo Preliminary Nitro Tools February 12, 2004 (Japan)" id="140421">
+		<category>Applications</category>
+		<description>Nintendo Preliminary Nitro Tools February 12, 2004 (Japan)</description>
+		<rom name="Nintendo Preliminary Nitro Tools February 12, 2004 (Japan).cue" size="124" crc="cf5cb39d" md5="81c6877eaea95fd357738426e28e9571" sha1="31bf1c05c643f8a7ed761bfbc7f001cc64f40d00"/>
+		<rom name="Nintendo Preliminary Nitro Tools February 12, 2004 (Japan).bin" size="95978064" crc="0c0a92bd" md5="099fbbbf972bc6770b64da2c40a49416" sha1="e12991e80bd3c7583957d572a5d482cba5c337d5"/>
 	</game>
 	<game name="Nintendo Press.nintendo.com (USA) (2003)" id="58254">
 		<category>Multimedia</category>
@@ -302592,6 +302668,13 @@
 		<description>Nosferatu: Gniew Malachiego (Poland)</description>
 		<rom name="Nosferatu - Gniew Malachiego (Poland).cue" size="103" crc="6d6b418f" md5="82180f73f68ddb212a2caa5027663495" sha1="3b4a9192e5f1c5bf6abf0d4f2f01562b9d837aa0"/>
 		<rom name="Nosferatu - Gniew Malachiego (Poland).bin" size="325970736" crc="35b48f11" md5="84f17d74a7aad45284c9c259df98f44f" sha1="e6a1ff01a178d7898b5f013fb843ba1630ec64c9"/>
+	</game>
+	<game name="Nosferatu - La Colera de Malaquias (Spain)" id="140416">
+		<category>Games</category>
+		<serial>10005006</serial>
+		<description>Nosferatu: La Cólera de Malaquías (Spain)</description>
+		<rom name="Nosferatu - La Colera de Malaquias (Spain).cue" size="108" crc="ac051063" md5="3f25375c156b2c769a0ba9a68fb5b22f" sha1="9b2eb42e01ccdf3b601c086cf1f4ef5fa61c100d"/>
+		<rom name="Nosferatu - La Colera de Malaquias (Spain).bin" size="789239472" crc="217f229d" md5="75a9da3c1fd0b5bb5a7520cfe0c02a3c" sha1="1ff547060d3cbf0baa83e3edea61935226b2c485"/>
 	</game>
 	<game name="Nosferatu - The Wrath of Malachi (Europe)" id="52399">
 		<category>Games</category>
@@ -385607,6 +385690,7 @@
 	</game>
 	<game name="Serious Sam - The First Encounter (USA) (OEM)" id="67722">
 		<category>Games</category>
+		<serial>12DC1-09GM02-11</serial>
 		<version>1.02</version>
 		<description>Serious Sam: The First Encounter (USA) (OEM)</description>
 		<rom name="Serious Sam - The First Encounter (USA) (OEM).cue" size="111" crc="784338f8" md5="6a85b623b582b6635454c10fae80422f" sha1="02d3798d71a7d625dbf7fcb47e2bb6e8f9917cbf"/>
@@ -418622,6 +418706,12 @@
 		<description>Star Wars: Battlefront II (Europe) (En,Es,It)</description>
 		<rom name="Star Wars - Battlefront II (Europe) (En,Es,It).iso" size="3914283008" crc="4945d624" md5="931fdbc5ade05221ac7e2e6cab3f7214" sha1="b31e691d95cc2c87c160010b366b0a4a9d94dcdf"/>
 	</game>
+	<game name="Star Wars - Battlefront II (France)" id="140426">
+		<category>Games</category>
+		<serial>41133.101.FR</serial>
+		<description>Star Wars: Battlefront II (France)</description>
+		<rom name="Star Wars - Battlefront II (France).iso" size="3237423104" crc="85114d8d" md5="1a34660d9e2578116e45ba80fd1433a6" sha1="f5b965f2de84ee221cd7b0fb7c1dbb33b68505d1"/>
+	</game>
 	<game name="Star Wars - Battlefront II (Germany)" id="80749">
 		<category>Games</category>
 		<serial>41133.101.GM</serial>
@@ -444943,6 +445033,13 @@
 		<rom name="Tip Top - Il Mistero dei Libri Scomparsi (Italy).cue" size="137" crc="d9ac949a" md5="45dedb1e623086b2111f3eb96145b52e" sha1="92448dfce1e50340fa582f48fbb8bbf20a397b42"/>
 		<rom name="Tip Top - Il Mistero dei Libri Scomparsi (Italy).bin" size="746228448" crc="5a9a6c4d" md5="9e8f9288ed0214ed1d0f5ed8073ab103" sha1="0e2ed8369cf8efc52c02a5a3ba729fa81da6437f"/>
 	</game>
+	<game name="Tipps und Tricks fur World of Warcraft Cataclysm (Germany)" id="140410">
+		<category>Multimedia</category>
+		<serial>ECD008807D</serial>
+		<description>Tipps und Tricks für World of Warcraft Cataclysm (Germany)</description>
+		<rom name="Tipps und Tricks fur World of Warcraft Cataclysm (Germany).cue" size="124" crc="763e2562" md5="dff449640510d56162d089709150b990" sha1="02a9772cc70fa6368df52c6bac83fadc32ac2a19"/>
+		<rom name="Tipps und Tricks fur World of Warcraft Cataclysm (Germany).bin" size="108695328" crc="5904de9c" md5="be37c4b640f28c730cb1652c463dab13" sha1="95dc6276a5a45851b1cdb5c6e435ebd99019b3bd"/>
+	</game>
 	<game name="Tir-nan-og III (Japan)" id="123188">
 		<category>Games</category>
 		<serial>007J1250TA, TN3-V1.02</serial>
@@ -445489,6 +445586,12 @@
 		<serial>5005495</serial>
 		<description>TMNT (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="TMNT (Europe) (En,Fr,De,Es,It).iso" size="1964343296" crc="de41e34a" md5="54a0cf8e1f626e1375fa0dd64da960a0" sha1="8e3a8fca60dfab0a9ad4824403143cf2e3e093fd"/>
+	</game>
+	<game name="TMNT (Italy) (En,Fr,De,Es,It)" id="140411">
+		<category>Games</category>
+		<serial>115005495</serial>
+		<description>TMNT (Italy) (En,Fr,De,Es,It)</description>
+		<rom name="TMNT (Italy) (En,Fr,De,Es,It).iso" size="1958772736" crc="a78cf426" md5="f8d089792b6a902faaba94c5866467fc" sha1="9deca7b2431cf2b4505790e679f4672e0999e079"/>
 	</game>
 	<game name="TMNT (Russia, Ukraine)" id="88014">
 		<category>Games</category>
@@ -495183,6 +495286,12 @@
 		<category>Multimedia</category>
 		<description>Xbox E3 2002 Media DVD (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Xbox E3 2002 Media DVD (USA) (En,Fr,De,Es,It).iso" size="1247217664" crc="5cb613cb" md5="98ab09126a0fd6426c08e1333964b41b" sha1="4f0f6519b5c7ea27237a3220c43c2c6ad856956f"/>
+	</game>
+	<game name="Xbox Premiere - Oct 3, 2001 (Japan)" id="140417">
+		<category>Multimedia</category>
+		<description>Xbox Premiere: Oct 3, 2001 (Japan)</description>
+		<rom name="Xbox Premiere - Oct 3, 2001 (Japan).cue" size="101" crc="6555dde2" md5="0745fda5a3f3fe160b91c30dba1487f6" sha1="40d06c225c4b5add4d6bef028bce90c56c1a36d4"/>
+		<rom name="Xbox Premiere - Oct 3, 2001 (Japan).bin" size="601359360" crc="6f6c5e20" md5="f96a0f0b24884e5d133d68219caa2ada" sha1="f21f33cdbdb451da95606f390203caadcdea619e"/>
 	</game>
 	<game name="XCar - Experimental Racing (USA)" id="31586">
 		<category>Games</category>
