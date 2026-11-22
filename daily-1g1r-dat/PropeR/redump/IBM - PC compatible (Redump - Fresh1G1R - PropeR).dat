@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,283) (-y) [-aAbBcdkmMpPuv] (2026-11-21 08-04-08) (Retool)</description>
-		<version>2026-11-21 08-04-08</version>
-		<date>2026-11-21 09-37-54</date>
+		<description>IBM - PC compatible (27,285) (-y) [-aAbBcdkmMpPuv] (2026-11-22 09-18-54) (Retool)</description>
+		<version>2026-11-22 09-18-54</version>
+		<date>2026-11-22 09-50-10</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -107934,6 +107934,12 @@
 		<rom name="Luxor Evolved (USA).bin" size="56972496" crc="07eef6bf" md5="bff1058144a0766d864ff8e03a58bde6" sha1="9424ba1a1692a1d1c7a0ca161485fecdc2f33863"/>
 		<rom name="Luxor Evolved (USA).cue" size="85" crc="b9b96282" md5="cea9cfa484095c843949ec0e40bae494" sha1="298f85cef8ef08df60c748713b97dec25e4341b5"/>
 	</game>
+	<game name="Luxor HD (Germany)" id="140447">
+		<category>Games</category>
+		<description>Luxor HD (Germany)</description>
+		<rom name="Luxor HD (Germany).bin" size="38386992" crc="a129a824" md5="b8aa6dfb657c514fd77ffb35609cab06" sha1="a7acbed95942dc769214ef0a7aed223d7df02c59"/>
+		<rom name="Luxor HD (Germany).cue" size="84" crc="b4383e9b" md5="e6cb7d04b9678f61f32ce4f8cc269fa1" sha1="d9cb7177f76fc119c466798f47b422f40813bcdf"/>
+	</game>
 	<game name="Luxuria - The Ultimate Sex Situation Vol. 4 (Italy) (En,It)" id="78547">
 		<category>Games</category>
 		<description>Luxuria: The Ultimate Sex Situation Vol. 4 (Italy) (En,It)</description>
@@ -127494,6 +127500,12 @@
 		<description>Nasledie Kaina: Defiance (Russia)</description>
 		<version>1.1</version>
 		<rom name="Nasledie Kaina - Defiance (Russia).iso" size="1778876416" crc="9ee6e958" md5="7564e3cfef884aef2a233b06ff0ada5c" sha1="01b1585a279c554ed7a1c4f3a0fe4ec906a3976a"/>
+	</game>
+	<game name="Nastoyashhaya vojna (Russia)" id="140444">
+		<category>Games</category>
+		<description>Nastoyashhaya vojna (Russia)</description>
+		<rom name="Nastoyashhaya vojna (Russia).bin" size="101114832" crc="a2a50b90" md5="a20ac6d2ecb05cef29db764c25057e6e" sha1="f6a9e0c4d116a6f28247305fc15e4f2b17ed10f2"/>
+		<rom name="Nastoyashhaya vojna (Russia).cue" size="117" crc="d2d1f14e" md5="0ba00d0d1f575f532425dd4e04a28c88" sha1="abcfc16834be5c8dfba1955d69f08836b2ebef0d"/>
 	</game>
 	<game name="Natali Bruks - Sokrovishha zateryannogo korolevstva (Russia)" id="137971">
 		<category>Games</category>

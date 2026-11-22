@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62368) (2026-11-21 08-04-08)</description>
-		<version>2026-11-21 08-04-08</version>
-		<date>2026-11-21 08-04-08</date>
+		<description>IBM - PC compatible - Datfile (62372) (2026-11-22 09-18-54)</description>
+		<version>2026-11-22 09-18-54</version>
+		<date>2026-11-22 09-18-54</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -85959,11 +85959,18 @@
 		<rom name="Computer Shopper - Issue 193 March 2004 (UK).cue" size="110" crc="e358b3e4" md5="3a2879d2a369470c0896245f51f15367" sha1="107268920fdf768271cb6c49a469f35882371bf6"/>
 		<rom name="Computer Shopper - Issue 193 March 2004 (UK).bin" size="758783424" crc="d890760b" md5="8eab4ae802074e69eb73d8aab38110a5" sha1="79751a7f642aba761c06793cb746f823e39bd286"/>
 	</game>
-	<game name="Computer Shopper - Issue 194 April 2004 (UK)" id="99885">
+	<game name="Computer Shopper - Issue 194 April 2004 (UK) (Disc A)" id="140445">
+		<category>Coverdiscs</category>
+		<serial>DPCS0404A</serial>
+		<description>Computer Shopper: Issue 194 April 2004 (UK) (Disc A)</description>
+		<rom name="Computer Shopper - Issue 194 April 2004 (UK) (Disc A).cue" size="119" crc="1f10308c" md5="1697ebbd2449ab27b8ea1b230f97a6ae" sha1="4c462714d7bef40da61cf447a5d436512df2b36f"/>
+		<rom name="Computer Shopper - Issue 194 April 2004 (UK) (Disc A).bin" size="788383344" crc="299131e4" md5="7fe47ba74ffe5743a606c7f9fe7976cf" sha1="0d2ad11cc77a9801c9ba533a2f41d66559b8ca71"/>
+	</game>
+	<game name="Computer Shopper - Issue 194 April 2004 (UK) (DVD-ROM)" id="99885">
 		<category>Coverdiscs</category>
 		<serial>DPCS0404DVD</serial>
-		<description>Computer Shopper: Issue 194 April 2004 (UK)</description>
-		<rom name="Computer Shopper - Issue 194 April 2004 (UK).iso" size="4688273408" crc="28074a93" md5="6e2dde87e4a125b15694d79469c000c8" sha1="61d2f10b23afc27b743999f62afe005a6c879936"/>
+		<description>Computer Shopper: Issue 194 April 2004 (UK) (DVD-ROM)</description>
+		<rom name="Computer Shopper - Issue 194 April 2004 (UK) (DVD-ROM).iso" size="4688273408" crc="28074a93" md5="6e2dde87e4a125b15694d79469c000c8" sha1="61d2f10b23afc27b743999f62afe005a6c879936"/>
 	</game>
 	<game name="Computer Shopper - Issue 195 May 2004 (UK)" id="99886">
 		<category>Coverdiscs</category>
@@ -250078,6 +250085,12 @@
 		<rom name="Luxor Evolved (USA).cue" size="85" crc="b9b96282" md5="cea9cfa484095c843949ec0e40bae494" sha1="298f85cef8ef08df60c748713b97dec25e4341b5"/>
 		<rom name="Luxor Evolved (USA).bin" size="56972496" crc="07eef6bf" md5="bff1058144a0766d864ff8e03a58bde6" sha1="9424ba1a1692a1d1c7a0ca161485fecdc2f33863"/>
 	</game>
+	<game name="Luxor HD (Germany)" id="140447">
+		<category>Games</category>
+		<description>Luxor HD (Germany)</description>
+		<rom name="Luxor HD (Germany).cue" size="84" crc="b4383e9b" md5="e6cb7d04b9678f61f32ce4f8cc269fa1" sha1="d9cb7177f76fc119c466798f47b422f40813bcdf"/>
+		<rom name="Luxor HD (Germany).bin" size="38386992" crc="a129a824" md5="b8aa6dfb657c514fd77ffb35609cab06" sha1="a7acbed95942dc769214ef0a7aed223d7df02c59"/>
+	</game>
 	<game name="Luxuria - The Ultimate Sex Situation Vol. 4 (Italy) (En,It)" id="78547">
 		<category>Games</category>
 		<serial>LUX 004</serial>
@@ -291625,6 +291638,12 @@
 		<version>1.1</version>
 		<description>Nasledie Kaina: Defiance (Russia)</description>
 		<rom name="Nasledie Kaina - Defiance (Russia).iso" size="1778876416" crc="9ee6e958" md5="7564e3cfef884aef2a233b06ff0ada5c" sha1="01b1585a279c554ed7a1c4f3a0fe4ec906a3976a"/>
+	</game>
+	<game name="Nastoyashhaya vojna (Russia)" id="140444">
+		<category>Games</category>
+		<description>Nastoyashhaya vojna (Russia)</description>
+		<rom name="Nastoyashhaya vojna (Russia).cue" size="117" crc="d2d1f14e" md5="0ba00d0d1f575f532425dd4e04a28c88" sha1="abcfc16834be5c8dfba1955d69f08836b2ebef0d"/>
+		<rom name="Nastoyashhaya vojna (Russia).bin" size="101114832" crc="a2a50b90" md5="a20ac6d2ecb05cef29db764c25057e6e" sha1="f6a9e0c4d116a6f28247305fc15e4f2b17ed10f2"/>
 	</game>
 	<game name="Natali Bruks - Sokrovishha zateryannogo korolevstva (Russia)" id="137971">
 		<category>Games</category>
@@ -453715,6 +453734,12 @@
 		<rom name="Tomb Raider III - Adventures of Lara Croft (Japan) (Track 2).bin" size="3880800" crc="56903d96" md5="039286cd61d33ac2a516334949672529" sha1="5baa34fe7687fe35e2b20baa307180850335bb07"/>
 		<rom name="Tomb Raider III - Adventures of Lara Croft (Japan) (Track 3).bin" size="137667264" crc="469c0cd0" md5="5b20ba41bff38174b1ddc574fa372867" sha1="a67ad00a57bcf4cd05e17b0d96cfdbae77a33378"/>
 		<rom name="Tomb Raider III - Adventures of Lara Croft (Japan) (Track 4).bin" size="3010560" crc="bee9cd57" md5="e1383eac4cd0b68d41c3fc828813e55a" sha1="e1d6532ce8c7fd22bf6a6ca0b9913ab20a1cdffb"/>
+	</game>
+	<game name="Tomb Raider III - Adventures of Lara Croft (Netherlands)" id="140435">
+		<category>Games</category>
+		<description>Tomb Raider III: Adventures of Lara Croft (Netherlands)</description>
+		<rom name="Tomb Raider III - Adventures of Lara Croft (Netherlands).cue" size="122" crc="7077b754" md5="143e38365c15c3e9b771249083415848" sha1="7165e240d92d413cddbc7745668fd9ca5457ebd2"/>
+		<rom name="Tomb Raider III - Adventures of Lara Croft (Netherlands).bin" size="650118672" crc="6c97e418" md5="c9a8534107c4787f6a45449bf15bdd33" sha1="fa7e3f9517c03d54e52f6e928d21167da0d4975c"/>
 	</game>
 	<game name="Tomb Raider III - Adventures of Lara Croft (Netherlands) (Rerelease)" id="35146">
 		<category>Games</category>

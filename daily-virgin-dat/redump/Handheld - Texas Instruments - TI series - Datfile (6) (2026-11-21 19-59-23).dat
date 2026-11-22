@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Handheld - Texas Instruments - TI series</name>
-		<description>Handheld - Texas Instruments - TI series - Datfile (5) (2026-11-21 03-38-33)</description>
-		<version>2026-11-21 03-38-33</version>
-		<date>2026-11-21 03-38-33</date>
+		<description>Handheld - Texas Instruments - TI series - Datfile (6) (2026-11-21 19-59-23)</description>
+		<version>2026-11-21 19-59-23</version>
+		<date>2026-11-21 19-59-23</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -17,6 +17,14 @@
 		<description>TI-83 Plus &amp; TI-84 Plus Family: TI Graphing Product CD (USA) (v1.0)</description>
 		<rom name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.0).cue" size="134" crc="e559716e" md5="de5314fd1e3aac8bf6542956c7983ac5" sha1="ee0f4dc0ed91369a1dcabec9c89cde7c54b97976"/>
 		<rom name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.0).bin" size="582188208" crc="4e02eb5d" md5="e617683486b084d3a5653794645b7a6c" sha1="c20dd62b9e4ead59fb94213b31a678affc34316f"/>
+	</game>
+	<game name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.2)" id="140443">
+		<category>Multimedia</category>
+		<serial>0105, XX/CD/Z80/C</serial>
+		<version>1.2</version>
+		<description>TI-83 Plus &amp; TI-84 Plus Family: TI Graphing Product CD (USA) (v1.2)</description>
+		<rom name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.2).cue" size="134" crc="521fb7cf" md5="b949f1a8c0c9f9990c9265f47538d843" sha1="65b1d8d9f5ab5c904c4d90bedb4c3e52d2fd6454"/>
+		<rom name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.2).bin" size="605021424" crc="484d2749" md5="c648e16f1d7945bd8857a04ee28c829d" sha1="2739e20080bac71b32dcb06ea9550958316186b9"/>
 	</game>
 	<game name="TI-83 Plus &amp; TI-84 Plus Family - TI Graphing Product CD (USA) (v1.3)" id="140423">
 		<category>Multimedia</category>
