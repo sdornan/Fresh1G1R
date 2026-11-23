@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One</name>
-		<description>Microsoft - Xbox One - Datfile (1209) (2026-11-21 09-54-35)</description>
-		<version>2026-11-21 09-54-35</version>
-		<date>2026-11-21 09-54-35</date>
+		<description>Microsoft - Xbox One - Datfile (1210) (2026-11-22 11-49-18)</description>
+		<version>2026-11-22 11-49-18</version>
+		<date>2026-11-22 11-49-18</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -2265,7 +2265,7 @@
 	</game>
 	<game name="Grand Theft Auto V (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="44753">
 		<category>Games</category>
-		<serial>5284073/BLU</serial>
+		<serial>5284073/BLU, 49451-1</serial>
 		<description>Grand Theft Auto V (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
 		<rom name="Grand Theft Auto V (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="45957781504" crc="9569a359" md5="d5eb8fc8b27624bd18cb73908625ef92" sha1="5f18ab05eb632a3b9865fc35e7572c153af24087"/>
 	</game>
@@ -4709,6 +4709,7 @@
 	</game>
 	<game name="Shadow of the Tomb Raider (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)" id="55427">
 		<category>Games</category>
+		<version>1.3.1807.5</version>
 		<description>Shadow of the Tomb Raider (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
 		<rom name="Shadow of the Tomb Raider (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="45957781504" crc="0222addc" md5="8c555c7a4b2543ae13d9a45fcb6af465" sha1="764c536a4ffd4ee7fffd4308aab3652cdbe5fac8"/>
 	</game>
@@ -5314,15 +5315,21 @@
 		<description>Them's Fightin' Herds (USA, Europe)</description>
 		<rom name="Them's Fightin' Herds (USA, Europe).iso" size="22978480128" crc="de456bcb" md5="2a65a3432fa30b5c8a7b8b3501cf6c1c" sha1="89212b8bc1ac2f21f3d53597456fd801c4d10c98"/>
 	</game>
+	<game name="Thief (Canada)" id="44714">
+		<category>Games</category>
+		<description>Thief (Canada)</description>
+		<rom name="Thief (Canada).iso" size="22778085376" crc="01782008" md5="5c1542db49ec88a7249fc6505aa43b50" sha1="253ba3d9ba749984ac640023516300cfdd3b0f55"/>
+	</game>
 	<game name="Thief (Japan)" id="73550">
 		<category>Games</category>
 		<description>Thief (Japan)</description>
 		<rom name="Thief (Japan).iso" size="20666253312" crc="f5de051f" md5="b0f69d0587a9cc667102e3df39bccefc" sha1="02ce55ec58c9d533fbffc336f22a9c1664c7c27d"/>
 	</game>
-	<game name="Thief (USA)" id="44714">
+	<game name="Thief (USA)" id="140460">
 		<category>Games</category>
+		<serial>1880120, 1880100A</serial>
 		<description>Thief (USA)</description>
-		<rom name="Thief (USA).iso" size="22778085376" crc="01782008" md5="5c1542db49ec88a7249fc6505aa43b50" sha1="253ba3d9ba749984ac640023516300cfdd3b0f55"/>
+		<rom name="Thief (USA).iso" size="22785097728" crc="e253daf3" md5="75eeb39b5b22bf318d071463fb9c6af8" sha1="f6b6e528eddf276ecb5c07c8a512d1cfb4e6416b"/>
 	</game>
 	<game name="This War of Mine - The Little Ones (Europe)" id="122611">
 		<category>Games</category>

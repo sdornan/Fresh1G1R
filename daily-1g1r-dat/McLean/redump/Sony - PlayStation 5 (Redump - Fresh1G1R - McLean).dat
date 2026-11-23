@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 5 (Retool)</name>
-		<description>Sony - PlayStation 5 (343) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-19 19-48-35) (Retool)</description>
-		<version>2026-11-19 19-48-35</version>
-		<date>2026-11-22 09-44-16</date>
+		<description>Sony - PlayStation 5 (344) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-23 01-59-24) (Retool)</description>
+		<version>2026-11-23 01-59-24</version>
+		<date>2026-11-23 10-43-39</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -500,6 +500,13 @@
 		<serial>PPSA-02442</serial>
 		<version>01.00</version>
 		<rom name="Diablo IV (USA).iso" size="90173865984" crc="fa4c1088" md5="d0e9bfec9004b6cd6f1f9a6ecd036610" sha1="bf4a3b21df973b92cde76c468f0be425ef427c8c"/>
+	</game>
+	<game name="Digimon Story - Time Stranger (USA)" id="140480">
+		<category>Games</category>
+		<description>Digimon Story: Time Stranger (USA)</description>
+		<serial>PPSA-24702/US</serial>
+		<version>01.00</version>
+		<rom name="Digimon Story - Time Stranger (USA).iso" size="40008351744" crc="d6769ac2" md5="d37ddb459c0fee095bef7c6d54b01c98" sha1="ba2014fe1f638c26904327df0989957b3000e194"/>
 	</game>
 	<game name="Disney - Pixar Toy Story - Retro Roundup! + Toy Story 3 Complete Edition (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl)" id="139979">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Purikura</name>
-		<description>Arcade - Purikura - Datfile (18) (2026-11-22 03-18-54)</description>
-		<version>2026-11-22 03-18-54</version>
-		<date>2026-11-22 03-18-54</date>
+		<description>Arcade - Purikura - Datfile (19) (2026-11-22 20-08-54)</description>
+		<version>2026-11-22 20-08-54</version>
+		<date>2026-11-22 20-08-54</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -129,5 +129,12 @@
 		<description>Tenshin Ranman 2: Update-you (Japan) (v02.00) (Omron)</description>
 		<rom name="Tenshin Ranman 2 - Update-you (Japan) (v02.00) (Omron).cue" size="120" crc="00b77ad4" md5="b4be449d8b8230b11635d1d4619080fa" sha1="0d6974f1b26d37e7c1f2e7b4e3535d7667ccefbe"/>
 		<rom name="Tenshin Ranman 2 - Update-you (Japan) (v02.00) (Omron).bin" size="679196448" crc="c35b3ff9" md5="bf399b9032d851f7390de1b41dc4a125" sha1="e66e3a7c2f6a50fec981f617036a38e6fd0578bd"/>
+	</game>
+	<game name="Yamato Nadeshiko (Japan) (v1.10) (Atlus)" id="140477">
+		<category>Applications</category>
+		<version>1.10</version>
+		<description>Yamato Nadeshiko (Japan) (v1.10) (Atlus)</description>
+		<rom name="Yamato Nadeshiko (Japan) (v1.10) (Atlus).cue" size="106" crc="e3dca522" md5="b5d758fa10bbb3657cfea9157c91f084" sha1="d90d472041fd35a3b196a8619b13a2549f96cc2c"/>
+		<rom name="Yamato Nadeshiko (Japan) (v1.10) (Atlus).bin" size="753620784" crc="97ff1585" md5="3d07c1415ec88ac2189ccf83edf8df72" sha1="7ef4d9a778f672f2afea8468b59bf5225af56e0b"/>
 	</game>
 </datafile>

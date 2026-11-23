@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62372) (2026-11-22 09-18-54)</description>
-		<version>2026-11-22 09-18-54</version>
-		<date>2026-11-22 09-18-54</date>
+		<description>IBM - PC compatible - Datfile (62387) (2026-11-23 04-40-31)</description>
+		<version>2026-11-23 04-40-31</version>
+		<date>2026-11-23 04-40-31</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -20747,6 +20747,20 @@
 		<rom name="American Girls Premiere, The (USA) (Disc 2) (Rerelease).cue" size="121" crc="fcc5de96" md5="1871a46ee00b7205671ff058ae66137d" sha1="881e7f320d28c0d47233c0d55c66436ea1ee2085"/>
 		<rom name="American Girls Premiere, The (USA) (Disc 2) (Rerelease).bin" size="723242352" crc="ba6d2bd8" md5="3b625dcf83e78b5ca6f49d9982ddc5f1" sha1="dd4267a230e338451d95816bf4bc367d4c617a09"/>
 	</game>
+	<game name="American Heroes Collection (USA) (Disc 1)" id="140462">
+		<category>Games</category>
+		<serial>P/N: 10182/1A</serial>
+		<description>American Heroes Collection (USA) (Disc 1)</description>
+		<rom name="American Heroes Collection (USA) (Disc 1).cue" size="1062" crc="32214250" md5="26a5c4cfc114c2add695f65874298569" sha1="a9a472bb6b5651441aaa9630d99fa8d508a4a644"/>
+		<rom name="American Heroes Collection (USA) (Disc 1) (Track 1).bin" size="436411248" crc="cef55985" md5="13946d3d17b0935a961fd68d91861d60" sha1="b7de258bb22d236bec2f61b8ea50e13de057be0f"/>
+		<rom name="American Heroes Collection (USA) (Disc 1) (Track 2).bin" size="47914944" crc="3c541d9a" md5="4b345c089cc9b2191a4c795a3abf382b" sha1="24e219eb0807ae34456bacc8abedd3e4a7eff3f8"/>
+		<rom name="American Heroes Collection (USA) (Disc 1) (Track 3).bin" size="43667232" crc="b72f5f20" md5="cfaf40ea2ad9b69f743005a0362da810" sha1="4b4fee4114186ba12a33a76f99128dc0252e1874"/>
+		<rom name="American Heroes Collection (USA) (Disc 1) (Track 4).bin" size="45283056" crc="44d6ae71" md5="d5379bab8a73377a0d1d71b6c43a6fa8" sha1="4fbde3f8d9673ee7ab5e2ff6f3ae641b02c9c43e"/>
+		<rom name="American Heroes Collection (USA) (Disc 1) (Track 5).bin" size="46524912" crc="8ab657e9" md5="4c0ebcee2a7f6f5528bfe23a0464c1a2" sha1="6c9fc02f7a06bf5981f5fc87a162214fffe41c94"/>
+		<rom name="American Heroes Collection (USA) (Disc 1) (Track 6).bin" size="46654272" crc="b367fdab" md5="c4bc6edf30f7d7e8e3d1551c750eec2a" sha1="5dce6122a23ca2c8d442855fbc3175cdaa19e0f6"/>
+		<rom name="American Heroes Collection (USA) (Disc 1) (Track 7).bin" size="20808144" crc="f1fd9a1a" md5="514dbf31b3e2150effbf90d30b984c94" sha1="cf7862926f9ddb80c05a4e7b232b7d69f9046bcd"/>
+		<rom name="American Heroes Collection (USA) (Disc 1) (Track 8).bin" size="1065456" crc="eb1ad5d8" md5="713a37ec88c9cd69428a978464d57fc5" sha1="38fb6d09de832b5b411da1f76603b05be0d67504"/>
+	</game>
 	<game name="American Heroes Collection (USA) (Disc 2)" id="32452">
 		<category>Games</category>
 		<serial>10182/2</serial>
@@ -20754,6 +20768,17 @@
 		<description>American Heroes Collection (USA) (Disc 2)</description>
 		<rom name="American Heroes Collection (USA) (Disc 2).cue" size="107" crc="79df5ce9" md5="9d36450ce00759731b819a5254ee85a1" sha1="21b692140d99f94e5be2e19c5efada64e8465869"/>
 		<rom name="American Heroes Collection (USA) (Disc 2).bin" size="685824384" crc="85d9ed27" md5="d5422d24fc9d4b390ccac12f4d0b07f8" sha1="168fa627c05aacf96b668cc87b79cc34b48458c7"/>
+	</game>
+	<game name="American Heroes Collection (USA) (Disc 2) (Rev 1)" id="140463">
+		<category>Games</category>
+		<serial>P/N: 10182/2A</serial>
+		<description>American Heroes Collection (USA) (Disc 2) (Rev 1)</description>
+		<rom name="American Heroes Collection (USA) (Disc 2) (Rev 1).cue" size="697" crc="e9cad872" md5="0204b9e14d1da31f4d21c39ceeb25091" sha1="83db98472dad337f502a8f332bdf2035167a1bd2"/>
+		<rom name="American Heroes Collection (USA) (Disc 2) (Rev 1) (Track 1).bin" size="685643280" crc="4efb8734" md5="86354b9cdfd943787b3e50e8b5fe3e28" sha1="9f4337432a826e62be4e082661cfe7ce9279f58d"/>
+		<rom name="American Heroes Collection (USA) (Disc 2) (Rev 1) (Track 2).bin" size="9445632" crc="7e689b4c" md5="b007ee40b9be8dac969183e296829ccc" sha1="4bff31fb3b7f54c3b33b34db95f213342cf22a43"/>
+		<rom name="American Heroes Collection (USA) (Disc 2) (Rev 1) (Track 3).bin" size="28579152" crc="dc672b90" md5="fd01d729eea7ec0e8101be9c243aec4e" sha1="09ff4a17741fdd38570e615cd3ddff76438f4b3b"/>
+		<rom name="American Heroes Collection (USA) (Disc 2) (Rev 1) (Track 4).bin" size="27092688" crc="e9755248" md5="64c99b0a4d14af1618cea6a4e4a44308" sha1="dad3592d3c42762d48d6a6f94d60c4522193bac7"/>
+		<rom name="American Heroes Collection (USA) (Disc 2) (Rev 1) (Track 5).bin" size="27095040" crc="564566b2" md5="71db7eab92973be794d73c07e66778e8" sha1="bc63644a15e3cc0b1208eb9c6c0e71a2da7f6cf3"/>
 	</game>
 	<game name="American Horror (USA)" id="117860">
 		<category>Games</category>
@@ -221568,6 +221593,12 @@
 		<rom name="Junjou Gakuen Adventure - Spark! (Japan) (Track 11).bin" size="25639152" crc="7f441e24" md5="edd326e1f7a626334a13d03a5199c0c1" sha1="af100ecba38b75c7c2eb6b9e757b0e94fb18d909"/>
 		<rom name="Junjou Gakuen Adventure - Spark! (Japan) (Track 12).bin" size="16273488" crc="a54ff9f6" md5="8f5dee0e6b95c52fd3fffde96ca9eb85" sha1="794ca338088f1325c70c320f86a6be36c9c29f19"/>
 	</game>
+	<game name="Junkland Jam (USA)" id="140465">
+		<category>Games</category>
+		<description>Junkland Jam (USA)</description>
+		<rom name="Junkland Jam (USA).cue" size="84" crc="57ece982" md5="82a1026a5717f20359cb81a27a4817c8" sha1="99b9f6fee4af4c5d6ce906bb65b288468b4b855b"/>
+		<rom name="Junkland Jam (USA).bin" size="484784832" crc="6ceb1f15" md5="947dc84336211edef3b447f55856ccae" sha1="dc674b7ced97377498d2f4b7270b8fcc5804e550"/>
+	</game>
 	<game name="Jupik - 3 Supergry (Poland)" id="111011">
 		<category>Games</category>
 		<description>Jupik: 3 Supergry (Poland)</description>
@@ -246603,6 +246634,12 @@
 		<rom name="Loom (USA) (Alt) (Track 1).bin" size="52237920" crc="5cba4c4d" md5="8e9d62fffe84aeb28a463ae261588a04" sha1="ae77995a38b1dd946185bc2c966d5bd8f3a2507b"/>
 		<rom name="Loom (USA) (Alt) (Track 2).bin" size="579097680" crc="7b7098fe" md5="c235d5303bab92d72ef5e4133418fc14" sha1="e52aa20225d2fdcc8a7441808ade70258f088eeb"/>
 	</game>
+	<game name="Looney Tunes - Assorted Nuts - Animated Jigsaws (USA)" id="140469">
+		<category>Games</category>
+		<description>Looney Tunes: Assorted Nuts: Animated Jigsaws (USA)</description>
+		<rom name="Looney Tunes - Assorted Nuts - Animated Jigsaws (USA).cue" size="142" crc="0c073ff9" md5="55ebfd5fb4fb43d6b8b6f180357a2738" sha1="1f8c69c9d42880fe55784139a582a8f67d98c9b7"/>
+		<rom name="Looney Tunes - Assorted Nuts - Animated Jigsaws (USA).bin" size="226257696" crc="369e2e0f" md5="662a9cbc4e33ef3eb4826ff31c0f795e" sha1="02ccbd1e5d0ac5cc1462981b9625460258e559af"/>
+	</game>
 	<game name="Looney Tunes - Cosmic Capers Animated Jigsaws (Europe)" id="79163">
 		<category>Games</category>
 		<description>Looney Tunes: Cosmic Capers Animated Jigsaws (Europe)</description>
@@ -249992,12 +250029,18 @@
 		<rom name="Luxor - Amun Rising (USA) (Alt).cue" size="97" crc="0aa86c0f" md5="d5af749516bfe29422bc5b7096001ec0" sha1="02e2559e36049f4c5488ad5f547bd8152dfd81a2"/>
 		<rom name="Luxor - Amun Rising (USA) (Alt).bin" size="451847424" crc="0f6d1945" md5="b29c0f20cae4fab8a72124bc75916ed4" sha1="769bb3de7cc5b7d08ed7d27a5ef846a48b03a764"/>
 	</game>
-	<game name="Luxor - Mah Jong (USA)" id="91635">
+	<game name="Luxor - Mah Jong (USA)" id="140482">
 		<category>Games</category>
-		<version>1.0.5.17 S</version>
 		<description>Luxor: Mah Jong (USA)</description>
 		<rom name="Luxor - Mah Jong (USA).cue" size="88" crc="06d7878a" md5="3bfaf9e0f4a7d37ffbba94a4139e0643" sha1="8abc9d5f6baccf3898912f05a3896b28c21eca5e"/>
-		<rom name="Luxor - Mah Jong (USA).bin" size="411738768" crc="d9c4d5fe" md5="77accfb0a1f336a48d09bec4bd7c426d" sha1="01070a6c594070a2913d329227105613d1329ac3"/>
+		<rom name="Luxor - Mah Jong (USA).bin" size="777091392" crc="7fe04c68" md5="4ce6586691373d79410e14a9778bbc69" sha1="df0d43a99a91f8166551170fd111f0b4e7202137"/>
+	</game>
+	<game name="Luxor - Mah Jong (USA) (Rerelease)" id="91635">
+		<category>Games</category>
+		<version>1.0.5.17 S</version>
+		<description>Luxor: Mah Jong (USA) (Rerelease)</description>
+		<rom name="Luxor - Mah Jong (USA) (Rerelease).cue" size="100" crc="f968e395" md5="8502fdc4f1bdef289539bab90b2fea37" sha1="582e6a08fed5dcda7667e463da2e4a82faa4a02d"/>
+		<rom name="Luxor - Mah Jong (USA) (Rerelease).bin" size="411738768" crc="d9c4d5fe" md5="77accfb0a1f336a48d09bec4bd7c426d" sha1="01070a6c594070a2913d329227105613d1329ac3"/>
 	</game>
 	<game name="Luxor - Quest for the Afterlife (USA)" id="86715">
 		<category>Games</category>
@@ -254177,6 +254220,13 @@
 		<description>Mahjong Master (Taiwan)</description>
 		<rom name="Mahjong Master (Taiwan).cue" size="89" crc="221bfbf0" md5="ccf584e283b9a73e068ff25fc7ff5bb8" sha1="9ab4661c039bfded552fb8e84db849297ba413e3"/>
 		<rom name="Mahjong Master (Taiwan).bin" size="129879792" crc="a42c0539" md5="fedc3c30ecb3df8f10d9a211ae4733d6" sha1="a189897fe80ee2b18b0c318fc6d1b36f0a3bdce4"/>
+	</game>
+	<game name="Mahjong Memoirs (USA)" id="140466">
+		<category>Games</category>
+		<serial>P/N: 124049-G</serial>
+		<description>Mahjong Memoirs (USA)</description>
+		<rom name="Mahjong Memoirs (USA).cue" size="87" crc="e91ff5c6" md5="5666be2cbc0fd9223387c6f40c75ffc3" sha1="90462cf1f4766b78ba987570b4c9a14fb0158cff"/>
+		<rom name="Mahjong Memoirs (USA).bin" size="587635440" crc="84867939" md5="ba54d3e667dca30ae3b83885fba9e1d4" sha1="3eeb7bc60f8461c266b5d100c795704e95dbe88e"/>
 	</game>
 	<game name="Mahjong Pirates MJ - Gesen Kibun de Taisen Mahjong (Japan)" id="132568">
 		<category>Games</category>
@@ -259007,6 +259057,12 @@
 		<description>Math Grade 1 (USA)</description>
 		<rom name="Math Grade 1 (USA).cue" size="84" crc="9537acf0" md5="311f1b82f8f6b805a6493bd952d5738f" sha1="ccfe76eb8e19d8f3c5a229f5ee64fc8665ecd6d2"/>
 		<rom name="Math Grade 1 (USA).bin" size="431359152" crc="3f14655f" md5="77cac358fc07a865f14d2ea79553f604" sha1="6c97c21032336568cfe55f7261b33288f44174cc"/>
+	</game>
+	<game name="Math Grade 4 - The Mission Masters - Alien Encounter! (USA)" id="140467">
+		<category>Educational</category>
+		<description>Math Grade 4: The Mission Masters: Alien Encounter! (USA)</description>
+		<rom name="Math Grade 4 - The Mission Masters - Alien Encounter! (USA).cue" size="148" crc="bc4c621a" md5="61adfe39faeb63bd32abe324908b1c03" sha1="cbce54c803b576953b04ce18bd4efb62e47350ff"/>
+		<rom name="Math Grade 4 - The Mission Masters - Alien Encounter! (USA).bin" size="106888992" crc="dbd1ff6a" md5="8b410d5b19180cfbeb8e6cc7c0a5343f" sha1="10250dcad6414fac76769580a27bc72a9080d69a"/>
 	</game>
 	<game name="Math Missions - The Amazing Arcade Adventure (Grades 3-5) (USA)" id="85653">
 		<category>Educational</category>
@@ -283349,6 +283405,12 @@
 		<rom name="Mosquitos (Russia).cue" size="84" crc="ca40b8ee" md5="81af13929834aa6d8f806a153e5d90d9" sha1="e7df81a546c98d494ada4e9187b4c32a7600c872"/>
 		<rom name="Mosquitos (Russia).bin" size="143152128" crc="3d39026d" md5="0d9dd56a7e889806dfd5c5b809830c1d" sha1="4d860aa4bea2470626f2a1d46b9cfc9b29cd8dd7"/>
 	</game>
+	<game name="Mossy Oak - Hooks &amp; Horns (USA)" id="140464">
+		<category>Games</category>
+		<description>Mossy Oak: Hooks &amp; Horns (USA)</description>
+		<rom name="Mossy Oak - Hooks &amp; Horns (USA).cue" size="97" crc="c0990092" md5="9fee52374668fa48a56415c16111b34a" sha1="6a0ff2793a0a83c196b48f3d9fd74bd655d7810a"/>
+		<rom name="Mossy Oak - Hooks &amp; Horns (USA).bin" size="477319584" crc="25b8102b" md5="26b497d26272918c1d1169b8dcfa4d1c" sha1="1162e833618dce35ad3d18084296e6736f0635b4"/>
+	</game>
 	<game name="Motelsoft's Welt der Abenteuer (Germany)" id="129553">
 		<category>Games</category>
 		<serial>CDR2143</serial>
@@ -296222,6 +296284,12 @@
 		<description>Net Power: January 96 (USA)</description>
 		<rom name="Net Power - January 96 (USA).cue" size="117" crc="a1c4fd1b" md5="009f621612a0ad1fbc670cd0320fa56d" sha1="00de0390d81f2fb3721d69cd1b6c97083808eb39"/>
 		<rom name="Net Power - January 96 (USA).bin" size="413507472" crc="ce781c32" md5="10c84f6a0191cac39ffbee7b299c75ad" sha1="d4d1cf4aa20b1a4d3b5fe37345b70f5f40f0614b"/>
+	</game>
+	<game name="Net Power - May 96 (USA)" id="140468">
+		<category>Coverdiscs</category>
+		<description>Net Power: May 96 (USA)</description>
+		<rom name="Net Power - May 96 (USA).cue" size="90" crc="125d7049" md5="ffff8acdfc25907ac7d6ee87ab051d86" sha1="7e06d4ac7508f6f5d80dccc2e3933609a90d252f"/>
+		<rom name="Net Power - May 96 (USA).bin" size="172547424" crc="979765c5" md5="887511c0d58c4f149698765729d85fcb" sha1="180861c741bf2020c92ccbb28d607600e037691d"/>
 	</game>
 	<game name="Net Power - October 96 (USA)" id="67037">
 		<category>Coverdiscs</category>
@@ -347528,11 +347596,25 @@
 		<rom name="Psychic Force 2012 (Japan) (Alt) (Track 28).bin" size="12844272" crc="15923644" md5="544b02911458098b2b71ca73fc9e6df2" sha1="a742ad8855abb00e37bb154f7098cc59681495bf"/>
 		<rom name="Psychic Force 2012 (Japan) (Alt) (Track 29).bin" size="705600" crc="cd09ddb1" md5="daac192c2910b2c9c066f7028d53ebb9" sha1="aac03381d7681ca0033af48aa88fb783db811d5d"/>
 	</game>
+	<game name="Psycho Games (USA)" id="140471">
+		<category>Demos</category>
+		<serial>10026CD</serial>
+		<description>Psycho Games (USA)</description>
+		<rom name="Psycho Games (USA).cue" size="107" crc="9e060d37" md5="90fd323513f138c8c0a9b9b3b6189484" sha1="3dbc4e7ee5750021bcafa7a18dbeaa1c9f227d2d"/>
+		<rom name="Psycho Games (USA).bin" size="33440736" crc="91e1a1fc" md5="830a73248ef4dddadc85d938c49167db" sha1="06b757dbdd4c76e6eff080caf0b50997bd1e9860"/>
+	</game>
 	<game name="Psycho Pinball (Europe) (En,Fr,De,Es,It)" id="30948">
 		<category>Games</category>
 		<description>Psycho Pinball (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Psycho Pinball (Europe) (En,Fr,De,Es,It).cue" size="129" crc="a9d4fb56" md5="5e7c1a52311d9a5562f60b8745b67b3e" sha1="7a7e26d6c7bb4b2de9740ece9f06ac8f61f879b9"/>
 		<rom name="Psycho Pinball (Europe) (En,Fr,De,Es,It).bin" size="43293264" crc="97a191b1" md5="c38af9ad5e21b36dc65cb35f3f29da4d" sha1="3c07a4eb909a1fcaf45f190e3fa3fa88514027cc"/>
+	</game>
+	<game name="Psycho Pinball (USA) (En,Fr,De,Es,It)" id="140470">
+		<category>Games</category>
+		<serial>Catalog No.: 310691095-2</serial>
+		<description>Psycho Pinball (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Psycho Pinball (USA) (En,Fr,De,Es,It).cue" size="126" crc="28a84b44" md5="3dc357f923c562153fb8971b074e9352" sha1="6e58b652a2bbdc992bf9e8e8c9b23147f14a0d52"/>
+		<rom name="Psycho Pinball (USA) (En,Fr,De,Es,It).bin" size="43660176" crc="0e07a607" md5="17538fc3d9abd9daa860e64eafccd831" sha1="95cc7784f238767fcd24d75c12b91d51f7f18737"/>
 	</game>
 	<game name="Psychonauts (Europe) (En,Fr,De)" id="19695">
 		<category>Games</category>
@@ -361514,6 +361596,12 @@
 		<rom name="ReflexSpex (Sweden).cue" size="85" crc="b89b8c19" md5="827247ffe636a2e2cb8047bc9c02fd95" sha1="eede9be9e60894f29b83009e018423fbcb01112e"/>
 		<rom name="ReflexSpex (Sweden).bin" size="220963344" crc="dfac7c62" md5="3b6bbcc59ee26d9da5fffb8a0f517db1" sha1="96ed7d4b2992e30d826ecb87f50ad88150c1d227"/>
 	</game>
+	<game name="Reflux - Issue.02 - The Threshold (USA)" id="140472">
+		<category>Games</category>
+		<description>Reflux: Issue.02: The Threshold (USA)</description>
+		<rom name="Reflux - Issue.02 - The Threshold (USA).cue" size="128" crc="c28fd55a" md5="3783a718056d722d87dcceb9bbf79873" sha1="159c74a14a19fe73a0d3ef4434935082158fdafa"/>
+		<rom name="Reflux - Issue.02 - The Threshold (USA).bin" size="288962016" crc="970d1127" md5="f12a6318e21e1b1a5aeab3a423caf7ce" sha1="cf9be2aca0e5b7d452c69d40cd6889b6afb8e520"/>
+	</game>
 	<game name="RefRain - Prism Memories (Japan) (C70 Taikenban)" id="123564">
 		<category>Demos</category>
 		<description>RefRain: Prism Memories (Japan) (C70 Taikenban)</description>
@@ -370981,6 +371069,12 @@
 		<description>Rolling Stones Voodoo Lounge CD-ROM (USA, Europe)</description>
 		<rom name="Rolling Stones Voodoo Lounge CD-ROM (USA, Europe).cue" size="115" crc="e5d1bc23" md5="db2541a30f52f426fa319a2226ed92b5" sha1="66773b8e24892a2c5b1af894694d8cb5877b14cd"/>
 		<rom name="Rolling Stones Voodoo Lounge CD-ROM (USA, Europe).bin" size="659858304" crc="b1541e61" md5="4dd0427bd57d4bbc12236b77ac1187f4" sha1="d3a85c27c402083dc3997639873b1eaf33f61133"/>
+	</game>
+	<game name="RollingStone.com Sampler (USA)" id="140479">
+		<category>Multimedia</category>
+		<description>RollingStone.com Sampler (USA)</description>
+		<rom name="RollingStone.com Sampler (USA).cue" size="96" crc="69219890" md5="e082c1ce1dbecebe9c57e8e591475308" sha1="b86d6a4d6acd4f005a36865dd54807181dd33887"/>
+		<rom name="RollingStone.com Sampler (USA).bin" size="249476640" crc="37eacf4c" md5="c4a445c11ffb735f3cd234e819ca123c" sha1="447a12de53142f8261575b24d9010dd75a9e5554"/>
 	</game>
 	<game name="Rolypolys no Nanakorobi Yaoki (Japan) (En,Ja)" id="64045">
 		<category>Educational</category>
@@ -431940,6 +432034,12 @@
 		<rom name="Superhero League of Hoboken (USA).cue" size="122" crc="62c67c5e" md5="c21f7013730f4751df23a3c4f7af8331" sha1="14482c07190649f598046cff520a7b2b8ee4fb19"/>
 		<rom name="Superhero League of Hoboken (USA).bin" size="220300080" crc="732d0ff1" md5="2251eed58297237ba4e8ff148d775d33" sha1="a16c6e2f9bd4e04068a43b3ec4fb5ba2e8cf8a59"/>
 	</game>
+	<game name="Superheroes Math Challenge (USA) (En,Es)" id="140461">
+		<category>Educational</category>
+		<description>Superheroes Math Challenge (USA) (En,Es)</description>
+		<rom name="Superheroes Math Challenge (USA) (En,Es).cue" size="106" crc="2940327c" md5="a5e641327d1d49eccd80d9c1c071469e" sha1="7322d6b32b80121f3bd6967bb249a9eb08bd5c1f"/>
+		<rom name="Superheroes Math Challenge (USA) (En,Es).bin" size="69847344" crc="c9f7bc97" md5="b8fbe9f0ba3eba4c08a0ea0832255331" sha1="8b7d6f567a1a1b9328a922538b23d7a443913bf5"/>
+	</game>
 	<game name="Superhot (Poland)" id="140008">
 		<category>Games</category>
 		<serial>51566_C1</serial>
@@ -450353,6 +450453,21 @@
 		<category>Games</category>
 		<description>Tomb Raider (Europe) (Gra) (2013)</description>
 		<rom name="Tomb Raider (Europe) (Gra) (2013).iso" size="8421539840" crc="17902e63" md5="96fcca9cc17d94dda33703798d208a49" sha1="b52276c66d1a980fcd9775033684a99902a72c5b"/>
+	</game>
+	<game name="Tomb Raider (Europe) (JR Universal Inkjet)" id="140478">
+		<category>Games</category>
+		<description>Tomb Raider (Europe) (JR Universal Inkjet)</description>
+		<rom name="Tomb Raider (Europe) (JR Universal Inkjet).cue" size="1168" crc="f6f89fa1" md5="6c1fd06f045d8a28516048e7c58db151" sha1="17a073218659419a37e1b004aca5c4db971d811c"/>
+		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 01).bin" size="213114720" crc="e62a4de3" md5="043a823a14c793ef2f9f68d8b4dbd512" sha1="b763c114ef132b321f1f244d5d442712db5b77d7"/>
+		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 02).bin" size="35033040" crc="57fc8fa5" md5="e706e8303d304c56dd5395f30cd27f59" sha1="3a6dd2c6f51a97d6140ca60d4fc027aef683fb80"/>
+		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 03).bin" size="21198576" crc="34f4ad7c" md5="5b48f308c04ad0ae5f473b0cf9f5ec8a" sha1="af5a14dcffd59a6862c99a5dbb914815d5748973"/>
+		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 04).bin" size="32302368" crc="f9d125b6" md5="cc49f62e4cd96ee28b1263f11aa38f63" sha1="ee36d4e3074ef6ca61ea2afc75a0e7af19c4e1b4"/>
+		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 05).bin" size="33299616" crc="8277d52b" md5="15336b5200d13a9aab538c9b764b77f8" sha1="4fe9ebb8d593a35b4d167128b265cd336b27916e"/>
+		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 06).bin" size="33097344" crc="b1d185c2" md5="781309ebd7facb8022225591688d93aa" sha1="1140586e4f9b927dd659d3b648cc91bba4922a0a"/>
+		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 07).bin" size="11207280" crc="169abfd4" md5="c5b1417a2095d71d74933e350b02e865" sha1="60f18a1e66011b9cadfab8dcd79537cc3250183c"/>
+		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 08).bin" size="10162992" crc="4cf2cd1d" md5="78acc14dbd447013a03e1fbb747d22be" sha1="51b6d0a63d9980b205a134c14697328d8b678178"/>
+		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 09).bin" size="2716560" crc="09cb9f96" md5="131f0b4e72beb54502a6a48d231e860b" sha1="81ad0392816f2ac52dcdf9abad92925e177133bc"/>
+		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 10).bin" size="6856080" crc="eb6da03d" md5="7b0e16f3ae55e0b3c02ad5b6ce7a5537" sha1="270c650d150305413c2982ed7a87bab8f9bdefd1"/>
 	</game>
 	<game name="Tomb Raider (Europe) (Sold Out Software) (2000-08-14)" id="32238">
 		<category>Games</category>
