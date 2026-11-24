@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,752) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-23 04-40-31) (Retool)</description>
-		<version>2026-11-23 04-40-31</version>
-		<date>2026-11-23 10-44-27</date>
+		<description>IBM - PC compatible (13,751) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-24 10-59-10) (Retool)</description>
+		<version>2026-11-24 10-59-10</version>
+		<date>2026-11-24 12-25-47</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -16961,10 +16961,10 @@
 		<description>Chronicles of Mystery: The Scorpio Ritual (USA) (En,Fr)</description>
 		<rom name="Chronicles of Mystery - The Scorpio Ritual (USA) (En,Fr).iso" size="1427275776" crc="03ea99a1" md5="12c850664505e75ed49d38cbe8ad4a76" sha1="c6665a0688260cf2f81b219297896051199bc7d3"/>
 	</game>
-	<game name="Chronicles of Mystery - The Tree of Life (Canada)" id="90780">
+	<game name="Chronicles of Mystery - The Tree of Life (USA, Canada)" id="90780">
 		<category>Games</category>
-		<description>Chronicles of Mystery: The Tree of Life (Canada)</description>
-		<rom name="Chronicles of Mystery - The Tree of Life (Canada).iso" size="2647621632" crc="1440ba90" md5="826835aea2101bca63535bdccd293aec" sha1="1196cca9ed16bcc1660cd1f86b878f38363bf518"/>
+		<description>Chronicles of Mystery: The Tree of Life (USA, Canada)</description>
+		<rom name="Chronicles of Mystery - The Tree of Life (USA, Canada).iso" size="2647621632" crc="1440ba90" md5="826835aea2101bca63535bdccd293aec" sha1="1196cca9ed16bcc1660cd1f86b878f38363bf518"/>
 	</game>
 	<game name="Chronicles of Narnia, The - Prince Caspian (Europe)" id="105432">
 		<category>Games</category>
@@ -86303,12 +86303,12 @@
 		<rom name="Sims 2, The - Holiday Edition (USA) (En,Es) (Disc 4).bin" size="618872352" crc="750e7803" md5="6a188eb5be5a4ffcf56a9019cf19b360" sha1="c213e510bac831021a889ac6ed068ff59ae1310c"/>
 		<rom name="Sims 2, The - Holiday Edition (USA) (En,Es) (Disc 4).cue" size="118" crc="453f214f" md5="30766cd46b9b68e4dd46c2be0e5313fc" sha1="12111b041ae0310d2150ff1e29824a58fb1061e2"/>
 	</game>
-	<game name="Sims 3, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037)" id="62948">
+	<game name="Sims 3, The (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037)" id="62948">
 		<category>Games</category>
-		<description>Sims 3, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037)</description>
-		<serial>1539003301</serial>
+		<description>Sims 3, The (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037)</description>
+		<serial>1539003301, 1539027TC</serial>
 		<version>1.42.130.019037</version>
-		<rom name="Sims 3, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037).iso" size="7443742720" crc="35db64d7" md5="0c7d9d4df65074d19f9044cb1f016edb" sha1="9de7a0805c9b85b474740d5dd36c6686e0a66909"/>
+		<rom name="Sims 3, The (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037).iso" size="7443742720" crc="35db64d7" md5="0c7d9d4df65074d19f9044cb1f016edb" sha1="9de7a0805c9b85b474740d5dd36c6686e0a66909"/>
 	</game>
 	<game name="Sims 3, The - Create a Sim (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu)" id="110184">
 		<category>Games</category>
@@ -96968,7 +96968,7 @@
 	<game name="Tom Clancy's Ghost Recon (USA)" id="11394">
 		<category>Games</category>
 		<description>Tom Clancy's Ghost Recon (USA)</description>
-		<serial>610366-CD</serial>
+		<serial>610366-CD, 15530-CD1 v1.0</serial>
 		<version>1.0.0.2</version>
 		<rom name="Tom Clancy's Ghost Recon (USA).bin" size="788538576" crc="3557023d" md5="fb4025974b7a505cfdd12f42fa628b27" sha1="1a5508071de4c1cd6c052974ded5b45b730518e0"/>
 		<rom name="Tom Clancy's Ghost Recon (USA).cue" size="96" crc="5342b24e" md5="34eff0449b0d570998a63a734784d75f" sha1="277bcbca261bfefda85ed619b00303565ff23c7b"/>
@@ -97421,6 +97421,7 @@
 	<game name="Tom Clancy's Splinter Cell (USA) (En,Fr,De,Es,It) (Rerelease)" id="10836">
 		<category>Games</category>
 		<description>Tom Clancy's Splinter Cell (USA) (En,Fr,De,Es,It) (Rerelease)</description>
+		<serial>15560-DVD v1.0</serial>
 		<version>1.3</version>
 		<rom name="Tom Clancy's Splinter Cell (USA) (En,Fr,De,Es,It) (Rerelease).iso" size="2171371520" crc="48cef801" md5="a4a9a7ca477610cb04adadafcb050511" sha1="02fbef6ddfb06283848f8b57a6b4ccd8e44136b3"/>
 	</game>
@@ -97595,21 +97596,6 @@
 		<category>Games</category>
 		<description>Tomb Raider (Europe) (Gra) (2013)</description>
 		<rom name="Tomb Raider (Europe) (Gra) (2013).iso" size="8421539840" crc="17902e63" md5="96fcca9cc17d94dda33703798d208a49" sha1="b52276c66d1a980fcd9775033684a99902a72c5b"/>
-	</game>
-	<game name="Tomb Raider (Europe) (JR Universal Inkjet)" id="140478">
-		<category>Games</category>
-		<description>Tomb Raider (Europe) (JR Universal Inkjet)</description>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 01).bin" size="213114720" crc="e62a4de3" md5="043a823a14c793ef2f9f68d8b4dbd512" sha1="b763c114ef132b321f1f244d5d442712db5b77d7"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 02).bin" size="35033040" crc="57fc8fa5" md5="e706e8303d304c56dd5395f30cd27f59" sha1="3a6dd2c6f51a97d6140ca60d4fc027aef683fb80"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 03).bin" size="21198576" crc="34f4ad7c" md5="5b48f308c04ad0ae5f473b0cf9f5ec8a" sha1="af5a14dcffd59a6862c99a5dbb914815d5748973"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 04).bin" size="32302368" crc="f9d125b6" md5="cc49f62e4cd96ee28b1263f11aa38f63" sha1="ee36d4e3074ef6ca61ea2afc75a0e7af19c4e1b4"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 05).bin" size="33299616" crc="8277d52b" md5="15336b5200d13a9aab538c9b764b77f8" sha1="4fe9ebb8d593a35b4d167128b265cd336b27916e"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 06).bin" size="33097344" crc="b1d185c2" md5="781309ebd7facb8022225591688d93aa" sha1="1140586e4f9b927dd659d3b648cc91bba4922a0a"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 07).bin" size="11207280" crc="169abfd4" md5="c5b1417a2095d71d74933e350b02e865" sha1="60f18a1e66011b9cadfab8dcd79537cc3250183c"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 08).bin" size="10162992" crc="4cf2cd1d" md5="78acc14dbd447013a03e1fbb747d22be" sha1="51b6d0a63d9980b205a134c14697328d8b678178"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 09).bin" size="2716560" crc="09cb9f96" md5="131f0b4e72beb54502a6a48d231e860b" sha1="81ad0392816f2ac52dcdf9abad92925e177133bc"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 10).bin" size="6856080" crc="eb6da03d" md5="7b0e16f3ae55e0b3c02ad5b6ce7a5537" sha1="270c650d150305413c2982ed7a87bab8f9bdefd1"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet).cue" size="1168" crc="f6f89fa1" md5="6c1fd06f045d8a28516048e7c58db151" sha1="17a073218659419a37e1b004aca5c4db971d811c"/>
 	</game>
 	<game name="Tomb Raider (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar) (2013)" id="59308">
 		<category>Games</category>
@@ -109887,7 +109873,7 @@
 		<description>Zoo Tycoon 2 (USA)</description>
 		<serial>0804 Part No. X10-74059</serial>
 		<version>20.10.00.0026</version>
-		<rom name="Zoo Tycoon 2 (USA).bin" size="558033168" crc="528a32ef" md5="77a28d496b22098fe25a1c02023b03a4" sha1="20489ff5d4e910deb6bfaa5791812bd1204925a8"/>
+		<rom name="Zoo Tycoon 2 (USA).bin" size="558033168" crc="68ee8e3a" md5="6481767b349922eae80affc2b844e0a7" sha1="d4cdebddaad83be2bbf6bfb2ae013f38676f92a8"/>
 		<rom name="Zoo Tycoon 2 (USA).cue" size="84" crc="3ebf3c26" md5="8d105910a1ec878c9f5a31118b9af12c" sha1="80a389c850dbc29bcf6b833e1b3af66d7c9e8ef6"/>
 	</game>
 	<game name="Zoo Tycoon 2 - Ultimate Collection (Europe) (Disc 1) (DVD)" id="113224">

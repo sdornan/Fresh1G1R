@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62387) (2026-11-23 04-40-31)</description>
-		<version>2026-11-23 04-40-31</version>
-		<date>2026-11-23 04-40-31</date>
+		<description>IBM - PC compatible - Datfile (62393) (2026-11-24 10-59-10)</description>
+		<version>2026-11-24 10-59-10</version>
+		<date>2026-11-24 10-59-10</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -6556,6 +6556,13 @@
 		<description>Aces of the Deep (USA) (En,Fr,De) (Alt)</description>
 		<rom name="Aces of the Deep (USA) (En,Fr,De) (Alt).cue" size="128" crc="c9824c38" md5="222db7502e835f650c07c24d525260be" sha1="df3b3c8417f1eef043367922fc52b0022ea437d1"/>
 		<rom name="Aces of the Deep (USA) (En,Fr,De) (Alt).bin" size="468099744" crc="30baa606" md5="8a68496801edd998aba8e1377f839391" sha1="aa6ba9f04a39efc62257613066688eee4a788b8a"/>
+	</game>
+	<game name="Aces of the Deep (USA) (Rerelease)" id="140484">
+		<category>Games</category>
+		<serial>S634145</serial>
+		<description>Aces of the Deep (USA) (Rerelease)</description>
+		<rom name="Aces of the Deep (USA) (Rerelease).cue" size="123" crc="944398ea" md5="4a9859af163adb3d06fc882579696c06" sha1="03644e91009bf322c3ec913ab1751abe8ed4324f"/>
+		<rom name="Aces of the Deep (USA) (Rerelease).bin" size="512540784" crc="ae797d07" md5="8c7f1dcb3b59412cdd71c4fd005289cd" sha1="71bf07c8210e862b5762601508d4bff0de15a10a"/>
 	</game>
 	<game name="Aces of the Pacific (USA)" id="35814">
 		<category>Games</category>
@@ -70439,10 +70446,10 @@
 		<description>Chronicles of Mystery: The Scorpio Ritual (USA) (En,Fr)</description>
 		<rom name="Chronicles of Mystery - The Scorpio Ritual (USA) (En,Fr).iso" size="1427275776" crc="03ea99a1" md5="12c850664505e75ed49d38cbe8ad4a76" sha1="c6665a0688260cf2f81b219297896051199bc7d3"/>
 	</game>
-	<game name="Chronicles of Mystery - The Tree of Life (Canada)" id="90780">
+	<game name="Chronicles of Mystery - The Tree of Life (USA, Canada)" id="90780">
 		<category>Games</category>
-		<description>Chronicles of Mystery: The Tree of Life (Canada)</description>
-		<rom name="Chronicles of Mystery - The Tree of Life (Canada).iso" size="2647621632" crc="1440ba90" md5="826835aea2101bca63535bdccd293aec" sha1="1196cca9ed16bcc1660cd1f86b878f38363bf518"/>
+		<description>Chronicles of Mystery: The Tree of Life (USA, Canada)</description>
+		<rom name="Chronicles of Mystery - The Tree of Life (USA, Canada).iso" size="2647621632" crc="1440ba90" md5="826835aea2101bca63535bdccd293aec" sha1="1196cca9ed16bcc1660cd1f86b878f38363bf518"/>
 	</game>
 	<game name="Chronicles of Narnia, The - Prince Caspian (Australia)" id="131609">
 		<category>Games</category>
@@ -134269,6 +134276,12 @@
 		<serial>33161.102.US</serial>
 		<description>Enemy Territory: Quake Wars: Bonus Disc (USA)</description>
 		<rom name="Enemy Territory - Quake Wars - Bonus Disc (USA).iso" size="621719552" crc="a98236b2" md5="8a81ecddfd00f4d32356284aaa781c20" sha1="3c1165a169fb23f8245598b4a935341b007eeed3"/>
+	</game>
+	<game name="Enemy Territory - Quake Wars - CD Press Kit (USA)" id="140489">
+		<category>Multimedia</category>
+		<description>Enemy Territory: Quake Wars: CD Press Kit (USA)</description>
+		<rom name="Enemy Territory - Quake Wars - CD Press Kit (USA).cue" size="115" crc="e6ebe35d" md5="495796b1a1b205902e1eedc1611df016" sha1="19dea8eb3c812d038f4a2b69ff8f61e66ef8e7d5"/>
+		<rom name="Enemy Territory - Quake Wars - CD Press Kit (USA).bin" size="745988544" crc="03517eb3" md5="64401cbdc0a5195d8422db910068ef60" sha1="f6a1459deebedcee11fd2b4038de92a6b13bbb9d"/>
 	</game>
 	<game name="Enemy Zero (Europe) (Disc 0) (Opening Disc)" id="35572">
 		<category>Games</category>
@@ -238359,6 +238372,14 @@
 		<rom name="LEGO My Style - Preschool (USA).cue" size="97" crc="6193f2fd" md5="c3ee7b0c5130178146afcd873d3b9c15" sha1="5831bf32aabc9379aafd3376633d5f9f8bb80220"/>
 		<rom name="LEGO My Style - Preschool (USA).bin" size="365498448" crc="cc547f0c" md5="7b8fe4c86bc5d9094b15046fa5f3f4e6" sha1="de6ecf0c1fb37c8793d8f5a053709fe68ba27eec"/>
 	</game>
+	<game name="LEGO My Style - Preschool (USA) (Alt)" id="98653">
+		<category>Educational</category>
+		<serial>18300-CD3</serial>
+		<version>1.0</version>
+		<description>LEGO My Style: Preschool (USA) (Alt)</description>
+		<rom name="LEGO My Style - Preschool (USA) (Alt).cue" size="103" crc="525cc2b3" md5="ce1b7710e438bbce32a15debeb7681fe" sha1="ca18c2c0fc0b4be9a3832f4210e76ef160633484"/>
+		<rom name="LEGO My Style - Preschool (USA) (Alt).bin" size="365145648" crc="8f61c2f0" md5="456164344d646cad2b7e20ad0e46c755" sha1="8737221671605add6517af33aea55614d15952fc"/>
+	</game>
 	<game name="LEGO My World - First Steps (USA) (Rerelease)" id="55155">
 		<category>Games</category>
 		<serial>10573-CD4</serial>
@@ -238366,14 +238387,6 @@
 		<description>LEGO My World: First Steps (USA) (Rerelease)</description>
 		<rom name="LEGO My World - First Steps (USA) (Rerelease).cue" size="111" crc="a3d07e69" md5="fda3d8c33b06973e3375b1c764a42075" sha1="2976f41a405ec13e553fb89b9456ed41cd659487"/>
 		<rom name="LEGO My World - First Steps (USA) (Rerelease).bin" size="202264944" crc="38c741fc" md5="72e7e6d4103b6de8a3065026cf919842" sha1="83523a41bd8ba98a08e50ed9c479222170b0ad9c"/>
-	</game>
-	<game name="LEGO My World - Preschool (USA)" id="98653">
-		<category>Educational</category>
-		<serial>18300-CD3</serial>
-		<version>1.0</version>
-		<description>LEGO My World: Preschool (USA)</description>
-		<rom name="LEGO My World - Preschool (USA).cue" size="97" crc="005798a3" md5="645ae23613da62b479e368e8c1be68b8" sha1="2f05394cff26f617b40818698d268be6bb97155c"/>
-		<rom name="LEGO My World - Preschool (USA).bin" size="365145648" crc="8f61c2f0" md5="456164344d646cad2b7e20ad0e46c755" sha1="8737221671605add6517af33aea55614d15952fc"/>
 	</game>
 	<game name="LEGO My World - School Skills (UK)" id="126175">
 		<category>Educational</category>
@@ -401831,11 +401844,11 @@
 		<description>Sims 3, Les: Cinema Kit (France)</description>
 		<rom name="Sims 3, Les - Cinema Kit (France).iso" size="3157458944" crc="f1a17f45" md5="0aad9026ce416a779eeee749b2b711fb" sha1="e0f272e261726c723afae65ce321e22ab6a7fd46"/>
 	</game>
-	<game name="Sims 3, The (Asia)" id="136696">
+	<game name="Sims 3, The (Asia) (En,Zh,Ko)" id="136696">
 		<category>Games</category>
-		<serial>1539007LENLBL</serial>
-		<description>Sims 3, The (Asia)</description>
-		<rom name="Sims 3, The (Asia).iso" size="5946540032" crc="e92e158d" md5="59bc4109aa5d2cd298dd3764dc9082f5" sha1="476445f80cfae1dedcb72f85c556a2c8414ad636"/>
+		<serial>1539007LENLBL, 1539007</serial>
+		<description>Sims 3, The (Asia) (En,Zh,Ko)</description>
+		<rom name="Sims 3, The (Asia) (En,Zh,Ko).iso" size="5946540032" crc="e92e158d" md5="59bc4109aa5d2cd298dd3764dc9082f5" sha1="476445f80cfae1dedcb72f85c556a2c8414ad636"/>
 	</game>
 	<game name="Sims 3, The (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)" id="12404">
 		<category>Games</category>
@@ -401883,12 +401896,12 @@
 		<description>Sims 3, The (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)</description>
 		<rom name="Sims 3, The (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu).iso" size="5968527360" crc="6dddbfc0" md5="abcd31253349521b5531b1279d6c848b" sha1="a3e400fae480d7f1bf6b2b5816f785074a71d94f"/>
 	</game>
-	<game name="Sims 3, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037)" id="62948">
+	<game name="Sims 3, The (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037)" id="62948">
 		<category>Games</category>
-		<serial>1539003301</serial>
+		<serial>1539003301, 1539027TC</serial>
 		<version>1.42.130.019037</version>
-		<description>Sims 3, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037)</description>
-		<rom name="Sims 3, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037).iso" size="7443742720" crc="35db64d7" md5="0c7d9d4df65074d19f9044cb1f016edb" sha1="9de7a0805c9b85b474740d5dd36c6686e0a66909"/>
+		<description>Sims 3, The (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037)</description>
+		<rom name="Sims 3, The (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu) (v1.42.130.019037).iso" size="7443742720" crc="35db64d7" md5="0c7d9d4df65074d19f9044cb1f016edb" sha1="9de7a0805c9b85b474740d5dd36c6686e0a66909"/>
 	</game>
 	<game name="Sims 3, The (USA, India) (En,Fr,Es)" id="36119">
 		<category>Games</category>
@@ -401976,12 +401989,12 @@
 		<description>Sims 3, The: Generations (Expansion Pack) (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)</description>
 		<rom name="Sims 3, The - Generations (Expansion Pack) (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu).iso" size="5295013888" crc="39b4ec1c" md5="714f87503c4b07573bb1c332b8b34b66" sha1="fa05f7f9343cc72c32ea68695fbf021233b07c0b"/>
 	</game>
-	<game name="Sims 3, The - Generations (Expansion Pack) (USA)" id="43745">
+	<game name="Sims 3, The - Generations (Expansion Pack) (USA, Taiwan)" id="43745">
 		<category>Add-Ons</category>
 		<serial>1957307</serial>
 		<version>1.0.0.1</version>
-		<description>Sims 3, The: Generations (Expansion Pack) (USA)</description>
-		<rom name="Sims 3, The - Generations (Expansion Pack) (USA).iso" size="5295013888" crc="d2942bde" md5="3099c23b67132cf7928cdf2293ba7d17" sha1="4935fe3f2e53553a86c143b4eaf5a7d05d9e36df"/>
+		<description>Sims 3, The: Generations (Expansion Pack) (USA, Taiwan)</description>
+		<rom name="Sims 3, The - Generations (Expansion Pack) (USA, Taiwan).iso" size="5295013888" crc="d2942bde" md5="3099c23b67132cf7928cdf2293ba7d17" sha1="4935fe3f2e53553a86c143b4eaf5a7d05d9e36df"/>
 	</game>
 	<game name="Sims 3, The - Hidden Springs (Europe, Australia)" id="99750">
 		<category>Add-Ons</category>
@@ -402048,12 +402061,12 @@
 		<description>Sims 3, The: Katy Perry Sweet Treats (USA)</description>
 		<rom name="Sims 3, The - Katy Perry Sweet Treats (USA).iso" size="2824634368" crc="468b1191" md5="b5834b99ea0e22a9f8a77ff0e09f2e6e" sha1="ceb34ec6fc9fb3ed9b151c260e16aa077294ec04"/>
 	</game>
-	<game name="Sims 3, The - Late Night (Expansion Pack) (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu)" id="101936">
+	<game name="Sims 3, The - Late Night (Expansion Pack) (Europe, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu)" id="101936">
 		<category>Add-Ons</category>
-		<serial>MXX09207582D, 101030901601</serial>
+		<serial>MXX09207582D, 101030901601, 1915007</serial>
 		<version>6.0.81.009001</version>
-		<description>Sims 3, The: Late Night (Expansion Pack) (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu)</description>
-		<rom name="Sims 3, The - Late Night (Expansion Pack) (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu).iso" size="7245168640" crc="c83af310" md5="5a061c4050c3df7d5e609171032d198e" sha1="d4d914e85edca3d5e8a5790e1d8bcfccf32e2e1e"/>
+		<description>Sims 3, The: Late Night (Expansion Pack) (Europe, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu)</description>
+		<rom name="Sims 3, The - Late Night (Expansion Pack) (Europe, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu).iso" size="7245168640" crc="c83af310" md5="5a061c4050c3df7d5e609171032d198e" sha1="d4d914e85edca3d5e8a5790e1d8bcfccf32e2e1e"/>
 	</game>
 	<game name="Sims 3, The - Late Night (Expansion Pack) (USA)" id="43749">
 		<category>Add-Ons</category>
@@ -402148,7 +402161,7 @@
 	</game>
 	<game name="Sims 3, The - Seasons (Expansion Pack) (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu)" id="103794">
 		<category>Add-Ons</category>
-		<serial>19783EPWNJP, MXX09209712D, MXX09209712D/RU</serial>
+		<serial>19783EPWNJP, MXX09209712D, MXX09209712D/RU, 5004576</serial>
 		<version>16.0.136.019001</version>
 		<description>Sims 3, The: Seasons (Expansion Pack) (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu)</description>
 		<rom name="Sims 3, The - Seasons (Expansion Pack) (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu).iso" size="4188438528" crc="e8816b1d" md5="be5403929b85a3fe2e2416a12ec92e1d" sha1="b3bb9789defe2f7345c54d19613e530ac3c09234"/>
@@ -402160,12 +402173,12 @@
 		<description>Sims 3, The: Showtime (Expansion Pack) (Europe, Australia)</description>
 		<rom name="Sims 3, The - Showtime (Expansion Pack) (Europe, Australia).iso" size="5605720064" crc="bed92d81" md5="e5c5ffc3003d8010f6173aafc08b800b" sha1="a9adc7ae12795a116a3c3849e0fc04f3e4aef3f4"/>
 	</game>
-	<game name="Sims 3, The - Showtime (Expansion Pack) (USA, Japan)" id="43752">
+	<game name="Sims 3, The - Showtime (Expansion Pack) (USA, Asia)" id="43752">
 		<category>Add-Ons</category>
-		<serial>1969007, 19690EPWNJP, 1979907</serial>
+		<serial>1969007, 19690EPWNJP, 1979907, 1959007</serial>
 		<version>1.0.0.1</version>
-		<description>Sims 3, The: Showtime (Expansion Pack) (USA, Japan)</description>
-		<rom name="Sims 3, The - Showtime (Expansion Pack) (USA, Japan).iso" size="5605720064" crc="c24ea8b6" md5="c2882ee9f9f6c6b56879d81dc20c4c05" sha1="616a631e07bf7dbaf2a0c41fc61d0e5405221993"/>
+		<description>Sims 3, The: Showtime (Expansion Pack) (USA, Asia)</description>
+		<rom name="Sims 3, The - Showtime (Expansion Pack) (USA, Asia).iso" size="5605720064" crc="c24ea8b6" md5="c2882ee9f9f6c6b56879d81dc20c4c05" sha1="616a631e07bf7dbaf2a0c41fc61d0e5405221993"/>
 	</game>
 	<game name="Sims 3, The - Stworz Sima (Poland) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Cs,Hu) (Demo)" id="122006">
 		<category>Demos</category>
@@ -402179,12 +402192,12 @@
 		<description>Sims 3, The: Supernatural (Expansion Pack) (Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)</description>
 		<rom name="Sims 3, The - Supernatural (Expansion Pack) (Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu).iso" size="5290819584" crc="f8922906" md5="df3bf2e08b6d418f40b1c81d4719677b" sha1="9ea36783cbe77ab71cd29daa27da2bb2949ea265"/>
 	</game>
-	<game name="Sims 3, The - Supernatural (Expansion Pack) (USA, Japan)" id="58798">
+	<game name="Sims 3, The - Supernatural (Expansion Pack) (USA, Asia)" id="58798">
 		<category>Add-Ons</category>
-		<serial>1978103301, 19781EPWNJP</serial>
+		<serial>1978103301, 19781EPWNJP, 5003504</serial>
 		<version>15.0.135.018001</version>
-		<description>Sims 3, The: Supernatural (Expansion Pack) (USA, Japan)</description>
-		<rom name="Sims 3, The - Supernatural (Expansion Pack) (USA, Japan).iso" size="5290819584" crc="303e4462" md5="9ceb5776abc92aa7ea95c1a0b3594432" sha1="2e63024bf8541e4d320fdae77b17429fe535307f"/>
+		<description>Sims 3, The: Supernatural (Expansion Pack) (USA, Asia)</description>
+		<rom name="Sims 3, The - Supernatural (Expansion Pack) (USA, Asia).iso" size="5290819584" crc="303e4462" md5="9ceb5776abc92aa7ea95c1a0b3594432" sha1="2e63024bf8541e4d320fdae77b17429fe535307f"/>
 	</game>
 	<game name="Sims 3, The - Town Life Stuff (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)" id="99754">
 		<category>Add-Ons</category>
@@ -402198,6 +402211,12 @@
 		<serial>1957907</serial>
 		<description>Sims 3, The: Town Life Stuff (USA)</description>
 		<rom name="Sims 3, The - Town Life Stuff (USA).iso" size="1970143232" crc="f2218694" md5="ecc81edc22e58ccea1a46cba1c796952" sha1="ccefad899608c65d6972a4e362628751dda10515"/>
+	</game>
+	<game name="Sims 3, The - University Life (Asia) (Expansion Pack)" id="140483">
+		<category>Add-Ons</category>
+		<serial>5006320</serial>
+		<description>Sims 3, The: University Life (Asia) (Expansion Pack)</description>
+		<rom name="Sims 3, The - University Life (Asia) (Expansion Pack).iso" size="5591203840" crc="c8a1d6bc" md5="2817e0d9c9d839881aaca65b3f94b13b" sha1="e145077e4348c1f37d89e645373dbe1f8a5fa549"/>
 	</game>
 	<game name="Sims 3, The - University Life (Expansion Pack) (Europe, Australia)" id="99755">
 		<category>Add-Ons</category>
@@ -408442,6 +408461,13 @@
 		<rom name="Someone's in the Kitchen! (USA) (Track 13).bin" size="4532304" crc="b027bd36" md5="4e1b602469f72bd9041251f0e623ea8d" sha1="07873aeb3f32782c2c7b61eed819d3ab5c13bd8c"/>
 		<rom name="Someone's in the Kitchen! (USA) (Track 14).bin" size="3349248" crc="ff60a67e" md5="15fa8eb7054353d8ca603fd277bc93e8" sha1="4618735c8272a4a41f41c13f695a93246535dbfb"/>
 		<rom name="Someone's in the Kitchen! (USA) (Track 15).bin" size="7326480" crc="bfe19768" md5="da3e2b7bcabb37151f1637499bf5a61e" sha1="b23c64e5093490d344a30b299e04d318834aca29"/>
+	</game>
+	<game name="Sommarskoj med Woodii (Sweden)" id="140486">
+		<category>Demos</category>
+		<serial>WOODIICDROM 1</serial>
+		<description>Sommarskoj med Woodii (Sweden)</description>
+		<rom name="Sommarskoj med Woodii (Sweden).cue" size="96" crc="555906a5" md5="738b551c4aadf48be6d5cc9fb28370de" sha1="1163c4adec1e21176516d0e6d614f3d43105843f"/>
+		<rom name="Sommarskoj med Woodii (Sweden).bin" size="73356528" crc="7fd3f971" md5="83c3153b5343d47490697d8a55bc2252" sha1="56a29610e14132b13332e86a9a73ce827a990f74"/>
 	</game>
 	<game name="Son Cin (Turkey)" id="81225">
 		<category>Games</category>
@@ -446856,7 +446882,7 @@
 	</game>
 	<game name="Tom Clancy's Ghost Recon (USA)" id="11394">
 		<category>Games</category>
-		<serial>610366-CD</serial>
+		<serial>610366-CD, 15530-CD1 v1.0</serial>
 		<version>1.0.0.2</version>
 		<description>Tom Clancy's Ghost Recon (USA)</description>
 		<rom name="Tom Clancy's Ghost Recon (USA).cue" size="96" crc="5342b24e" md5="34eff0449b0d570998a63a734784d75f" sha1="277bcbca261bfefda85ed619b00303565ff23c7b"/>
@@ -449227,7 +449253,7 @@
 	</game>
 	<game name="Tom Clancy's Rainbow Six 3 - Raven Shield (USA) (Disc 1)" id="9901">
 		<category>Games</category>
-		<serial>650515-CD1</serial>
+		<serial>650515-CD1, 15530-CD2 v1.0</serial>
 		<version>1.0</version>
 		<description>Tom Clancy's Rainbow Six 3: Raven Shield (USA) (Disc 1)</description>
 		<rom name="Tom Clancy's Rainbow Six 3 - Raven Shield (USA) (Disc 1).cue" size="122" crc="642a534e" md5="cb79134afed10717293b77a6bcbfa329" sha1="5cf4dccc6d4945fd893a2b8d2bb8aa3dfb88d0f5"/>
@@ -449243,7 +449269,7 @@
 	</game>
 	<game name="Tom Clancy's Rainbow Six 3 - Raven Shield (USA) (Disc 2)" id="9902">
 		<category>Games</category>
-		<serial>650515-CD2</serial>
+		<serial>650515-CD2, 15530-CD3 v1.0</serial>
 		<version>1.0</version>
 		<description>Tom Clancy's Rainbow Six 3: Raven Shield (USA) (Disc 2)</description>
 		<rom name="Tom Clancy's Rainbow Six 3 - Raven Shield (USA) (Disc 2).cue" size="122" crc="6577759f" md5="0c633e905e9d142a6d097e20a53228d1" sha1="b7dbe56094e3019983bb6a2a1f4917a3167ec357"/>
@@ -449806,6 +449832,7 @@
 	</game>
 	<game name="Tom Clancy's Splinter Cell (USA) (En,Fr,De,Es,It) (Rerelease)" id="10836">
 		<category>Games</category>
+		<serial>15560-DVD v1.0</serial>
 		<version>1.3</version>
 		<description>Tom Clancy's Splinter Cell (USA) (En,Fr,De,Es,It) (Rerelease)</description>
 		<rom name="Tom Clancy's Splinter Cell (USA) (En,Fr,De,Es,It) (Rerelease).iso" size="2171371520" crc="48cef801" md5="a4a9a7ca477610cb04adadafcb050511" sha1="02fbef6ddfb06283848f8b57a6b4ccd8e44136b3"/>
@@ -450454,21 +450481,6 @@
 		<description>Tomb Raider (Europe) (Gra) (2013)</description>
 		<rom name="Tomb Raider (Europe) (Gra) (2013).iso" size="8421539840" crc="17902e63" md5="96fcca9cc17d94dda33703798d208a49" sha1="b52276c66d1a980fcd9775033684a99902a72c5b"/>
 	</game>
-	<game name="Tomb Raider (Europe) (JR Universal Inkjet)" id="140478">
-		<category>Games</category>
-		<description>Tomb Raider (Europe) (JR Universal Inkjet)</description>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet).cue" size="1168" crc="f6f89fa1" md5="6c1fd06f045d8a28516048e7c58db151" sha1="17a073218659419a37e1b004aca5c4db971d811c"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 01).bin" size="213114720" crc="e62a4de3" md5="043a823a14c793ef2f9f68d8b4dbd512" sha1="b763c114ef132b321f1f244d5d442712db5b77d7"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 02).bin" size="35033040" crc="57fc8fa5" md5="e706e8303d304c56dd5395f30cd27f59" sha1="3a6dd2c6f51a97d6140ca60d4fc027aef683fb80"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 03).bin" size="21198576" crc="34f4ad7c" md5="5b48f308c04ad0ae5f473b0cf9f5ec8a" sha1="af5a14dcffd59a6862c99a5dbb914815d5748973"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 04).bin" size="32302368" crc="f9d125b6" md5="cc49f62e4cd96ee28b1263f11aa38f63" sha1="ee36d4e3074ef6ca61ea2afc75a0e7af19c4e1b4"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 05).bin" size="33299616" crc="8277d52b" md5="15336b5200d13a9aab538c9b764b77f8" sha1="4fe9ebb8d593a35b4d167128b265cd336b27916e"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 06).bin" size="33097344" crc="b1d185c2" md5="781309ebd7facb8022225591688d93aa" sha1="1140586e4f9b927dd659d3b648cc91bba4922a0a"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 07).bin" size="11207280" crc="169abfd4" md5="c5b1417a2095d71d74933e350b02e865" sha1="60f18a1e66011b9cadfab8dcd79537cc3250183c"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 08).bin" size="10162992" crc="4cf2cd1d" md5="78acc14dbd447013a03e1fbb747d22be" sha1="51b6d0a63d9980b205a134c14697328d8b678178"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 09).bin" size="2716560" crc="09cb9f96" md5="131f0b4e72beb54502a6a48d231e860b" sha1="81ad0392816f2ac52dcdf9abad92925e177133bc"/>
-		<rom name="Tomb Raider (Europe) (JR Universal Inkjet) (Track 10).bin" size="6856080" crc="eb6da03d" md5="7b0e16f3ae55e0b3c02ad5b6ce7a5537" sha1="270c650d150305413c2982ed7a87bab8f9bdefd1"/>
-	</game>
 	<game name="Tomb Raider (Europe) (Sold Out Software) (2000-08-14)" id="32238">
 		<category>Games</category>
 		<description>Tomb Raider (Europe) (Sold Out Software) (2000-08-14)</description>
@@ -450775,6 +450787,21 @@
 		<rom name="Tomb Raider (UK) (Track 08).bin" size="10162992" crc="3f30fcb7" md5="a5c4b62cc1cc38f40938b3bd1d5599d0" sha1="89d82c67e6d7c1bfbf66deecf7e6e0906e194d22"/>
 		<rom name="Tomb Raider (UK) (Track 09).bin" size="2716560" crc="4c379622" md5="4f96429c84ef16e03ed91d8e8b7eeb37" sha1="6986fbb177dbd12d96c0829c8baf136fa4d36890"/>
 		<rom name="Tomb Raider (UK) (Track 10).bin" size="6500928" crc="489a7f31" md5="39336acacbd854777269fa7405158597" sha1="21eaba105085c0551d97464074b33f714128660a"/>
+	</game>
+	<game name="Tomb Raider (UK) (Rerelease) (2001-04-10)" id="140478">
+		<category>Games</category>
+		<description>Tomb Raider (UK) (Rerelease) (2001-04-10)</description>
+		<rom name="Tomb Raider (UK) (Rerelease) (2001-04-10).cue" size="1158" crc="15b72da5" md5="23bf00d994065f7793af9eccf0bd1e8d" sha1="ad633a2faf88a62dffef74679c9542ed999cf16a"/>
+		<rom name="Tomb Raider (UK) (Rerelease) (2001-04-10) (Track 01).bin" size="213114720" crc="e62a4de3" md5="043a823a14c793ef2f9f68d8b4dbd512" sha1="b763c114ef132b321f1f244d5d442712db5b77d7"/>
+		<rom name="Tomb Raider (UK) (Rerelease) (2001-04-10) (Track 02).bin" size="35033040" crc="57fc8fa5" md5="e706e8303d304c56dd5395f30cd27f59" sha1="3a6dd2c6f51a97d6140ca60d4fc027aef683fb80"/>
+		<rom name="Tomb Raider (UK) (Rerelease) (2001-04-10) (Track 03).bin" size="21198576" crc="34f4ad7c" md5="5b48f308c04ad0ae5f473b0cf9f5ec8a" sha1="af5a14dcffd59a6862c99a5dbb914815d5748973"/>
+		<rom name="Tomb Raider (UK) (Rerelease) (2001-04-10) (Track 04).bin" size="32302368" crc="f9d125b6" md5="cc49f62e4cd96ee28b1263f11aa38f63" sha1="ee36d4e3074ef6ca61ea2afc75a0e7af19c4e1b4"/>
+		<rom name="Tomb Raider (UK) (Rerelease) (2001-04-10) (Track 05).bin" size="33299616" crc="8277d52b" md5="15336b5200d13a9aab538c9b764b77f8" sha1="4fe9ebb8d593a35b4d167128b265cd336b27916e"/>
+		<rom name="Tomb Raider (UK) (Rerelease) (2001-04-10) (Track 06).bin" size="33097344" crc="b1d185c2" md5="781309ebd7facb8022225591688d93aa" sha1="1140586e4f9b927dd659d3b648cc91bba4922a0a"/>
+		<rom name="Tomb Raider (UK) (Rerelease) (2001-04-10) (Track 07).bin" size="11207280" crc="169abfd4" md5="c5b1417a2095d71d74933e350b02e865" sha1="60f18a1e66011b9cadfab8dcd79537cc3250183c"/>
+		<rom name="Tomb Raider (UK) (Rerelease) (2001-04-10) (Track 08).bin" size="10162992" crc="4cf2cd1d" md5="78acc14dbd447013a03e1fbb747d22be" sha1="51b6d0a63d9980b205a134c14697328d8b678178"/>
+		<rom name="Tomb Raider (UK) (Rerelease) (2001-04-10) (Track 09).bin" size="2716560" crc="09cb9f96" md5="131f0b4e72beb54502a6a48d231e860b" sha1="81ad0392816f2ac52dcdf9abad92925e177133bc"/>
+		<rom name="Tomb Raider (UK) (Rerelease) (2001-04-10) (Track 10).bin" size="6856080" crc="eb6da03d" md5="7b0e16f3ae55e0b3c02ad5b6ce7a5537" sha1="270c650d150305413c2982ed7a87bab8f9bdefd1"/>
 	</game>
 	<game name="Tomb Raider (USA)" id="2303">
 		<category>Games</category>
@@ -484053,7 +484080,7 @@
 	</game>
 	<game name="Who Killed Sam Rupert (USA) (Rerelease)" id="107557">
 		<category>Games</category>
-		<serial>CDRM1244160</serial>
+		<serial>CDRM1244160, KSR544AE-CD</serial>
 		<description>Who Killed Sam Rupert? (USA) (Rerelease)</description>
 		<rom name="Who Killed Sam Rupert (USA) (Rerelease).cue" size="128" crc="e39b103e" md5="c4bf297bd320f349cccafad6f0cc7973" sha1="f67011d042a486b6bcf4d957a3b81dda8041ef90"/>
 		<rom name="Who Killed Sam Rupert (USA) (Rerelease).bin" size="657979056" crc="341f3773" md5="e824d7c9c8e1d686b89fe6036e15f9cc" sha1="99ddb1173c0c02f66cda946608c447a0fba9346d"/>
@@ -487901,6 +487928,13 @@
 		<rom name="Wishbone and the Amazing Odyssey (USA).cue" size="127" crc="ca71ba63" md5="8b7111d78c5577e80da4a2332a7367ae" sha1="e90b4e4f716d159ef55444acd9dc05f4cc725dd8"/>
 		<rom name="Wishbone and the Amazing Odyssey (USA).bin" size="701895600" crc="57d0a9b6" md5="6ea6f5b574c0d024bd3186ab9ff3f7fb" sha1="7a12915330ec4b9c25aaef7b4e0780a17aa7204a"/>
 	</game>
+	<game name="Wishbone and the Amazing Odyssey (USA) (Rerelease)" id="140488">
+		<category>Games</category>
+		<serial>PAL-CD-10019C</serial>
+		<description>Wishbone and the Amazing Odyssey (USA) (Rerelease)</description>
+		<rom name="Wishbone and the Amazing Odyssey (USA) (Rerelease).cue" size="116" crc="93ad9cc1" md5="aadb83439718eb98e64747541a26ce56" sha1="f4722bf27fa596bcf23c2b0bf72189426fc022d1"/>
+		<rom name="Wishbone and the Amazing Odyssey (USA) (Rerelease).bin" size="699959904" crc="4ba67859" md5="933da946d87acdf2af2045048e6da6d9" sha1="4fafa976c2e8b042e0764e7765a34efbaea15173"/>
+	</game>
 	<game name="Wissens- und Spielespass mit Galileo - Alltagsgeheimnisse Entdecken (Germany) (Disc 1) (Unsere Natur verstehen)" id="138102">
 		<category>Educational</category>
 		<serial>75028562</serial>
@@ -489310,6 +489344,12 @@
 		<description>Wooden Ships &amp; Iron Men (USA)</description>
 		<rom name="Wooden Ships &amp; Iron Men (USA).cue" size="118" crc="e1502133" md5="52cd502d5fca40d0d960775d8389b10a" sha1="1b40e109c1803269b87318be1ec0ef42a9bb6750"/>
 		<rom name="Wooden Ships &amp; Iron Men (USA).bin" size="108072048" crc="403dcd4f" md5="72099669a67c9b670dc39d3a19c0ea85" sha1="1390c46c905f751b5f5c14fcfbb99a40433576f4"/>
+	</game>
+	<game name="Woodii - Den svarta diamanten - Specialutgava (Sweden)" id="140485">
+		<category>Demos</category>
+		<description>Woodii: Den svarta diamanten: Specialutgåva (Sweden)</description>
+		<rom name="Woodii - Den svarta diamanten - Specialutgava (Sweden).cue" size="120" crc="bbeef687" md5="f34dad1d94cb2ce238831b8cb72b424a" sha1="572fc2ece07d9d145894708c568ea160b0e374c4"/>
+		<rom name="Woodii - Den svarta diamanten - Specialutgava (Sweden).bin" size="204090096" crc="2b2b6626" md5="9570f1d95d522f395888382c490f1e43" sha1="97c2154f2f805a110882082a2f4f6ee96f19cfeb"/>
 	</game>
 	<game name="Woodii - Djungel Gamepack (Sweden)" id="112029">
 		<category>Educational</category>
@@ -502103,7 +502143,7 @@
 		<version>20.10.00.0026</version>
 		<description>Zoo Tycoon 2 (USA)</description>
 		<rom name="Zoo Tycoon 2 (USA).cue" size="84" crc="3ebf3c26" md5="8d105910a1ec878c9f5a31118b9af12c" sha1="80a389c850dbc29bcf6b833e1b3af66d7c9e8ef6"/>
-		<rom name="Zoo Tycoon 2 (USA).bin" size="558033168" crc="528a32ef" md5="77a28d496b22098fe25a1c02023b03a4" sha1="20489ff5d4e910deb6bfaa5791812bd1204925a8"/>
+		<rom name="Zoo Tycoon 2 (USA).bin" size="558033168" crc="68ee8e3a" md5="6481767b349922eae80affc2b844e0a7" sha1="d4cdebddaad83be2bbf6bfb2ae013f38676f92a8"/>
 	</game>
 	<game name="Zoo Tycoon 2 (USA) (Rerelease)" id="81043">
 		<category>Games</category>
