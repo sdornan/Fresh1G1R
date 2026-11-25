@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (470) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-22 12-28-54) (Retool)</description>
-		<version>2026-11-22 12-28-54</version>
-		<date>2026-11-24 12-26-39</date>
+		<description>Apple - Macintosh (474) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-25 07-49-14) (Retool)</description>
+		<version>2026-11-25 07-49-14</version>
+		<date>2026-11-25 11-11-40</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -408,6 +408,12 @@
 		<rom name="Big Top's Cartoon Toolbox Starring Felix the Cat (USA).bin" size="174962928" crc="e180256d" md5="9a280d53ebb10c477ce5573a4ed0db58" sha1="8b100edb4432ec826527a2e0fab9c295be361ba8"/>
 		<rom name="Big Top's Cartoon Toolbox Starring Felix the Cat (USA).cue" size="120" crc="b7fe8618" md5="5d3e9619e752720c20b5ab4335ff4ac1" sha1="6c400946025c54114629c29bf26cdc79d118c1ae"/>
 	</game>
+	<game name="BioShock (Germany) (En,De)" id="140524">
+		<category>Games</category>
+		<description>BioShock (Germany) (En,De)</description>
+		<version>1.0</version>
+		<rom name="BioShock (Germany) (En,De).iso" size="8538030080" crc="82cd2786" md5="20b125b442188f582502477e85e8ce2b" sha1="058157a08d3a3f995ce980c2cf014608fe9ad0ff"/>
+	</game>
 	<game name="Bionicle (USA)" id="133818">
 		<category>Games</category>
 		<description>Bionicle (USA)</description>
@@ -447,6 +453,19 @@
 		<description>Borderlands: Game of the Year Edition (Europe) (En,Fr,De,Es,It) (Game Disc)</description>
 		<version>1.0</version>
 		<rom name="Borderlands - Game of the Year Edition (Europe) (En,Fr,De,Es,It) (Game Disc).iso" size="8493465600" crc="b7152d92" md5="eb19a2ab387edf3587c18847fc0fb65b" sha1="17f5bfaf67e552790e20565905de94c6e7ed90b3"/>
+	</game>
+	<game name="Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)" id="140532">
+		<category>Games</category>
+		<description>Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)</description>
+		<version>1.0</version>
+		<rom name="Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).bin" size="647195136" crc="d15a09f5" md5="337cfde39a3314881d84024a31bf3dee" sha1="e5c6c98fd7987b771d328fb8e4ab0a3338e6d58c"/>
+		<rom name="Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).cue" size="115" crc="9186c6fc" md5="2eaf2c68940e32f041da36feeead7175" sha1="775d40a40ea6840e95e59e0c109b1e5c066d84a6"/>
+	</game>
+	<game name="Brothers in Arms - Double Time (Europe) (En,Fr,De,Es,It)" id="140533">
+		<category>Games</category>
+		<description>Brothers in Arms: Double Time (Europe) (En,Fr,De,Es,It)</description>
+		<version>1.0</version>
+		<rom name="Brothers in Arms - Double Time (Europe) (En,Fr,De,Es,It).iso" size="8493465600" crc="87126875" md5="7c01136ba43f9fe6f375ddf45661c53a" sha1="eaa68d5bde9ff1a175079391ccb96e23862bcab8"/>
 	</game>
 	<game name="Bugdom (USA)" id="123481">
 		<category>Games</category>
@@ -943,6 +962,11 @@
 		<serial>P/N 7333</serial>
 		<rom name="Duke Nukem 3D - Atomic Edition (USA).bin" size="531942432" crc="eeecfc40" md5="248936d390c431d1eb3376020fe5e877" sha1="6b246bfabe12ca829e28cbf8c0e6c5b83dc5e0fe"/>
 		<rom name="Duke Nukem 3D - Atomic Edition (USA).cue" size="102" crc="631969e3" md5="a709f8ceb2b8d6e6ac7d860cb22f2117" sha1="bf2711ffcafcd776b0feaeefed85cd7be5e39296"/>
+	</game>
+	<game name="Duke Nukem Forever (Europe) (En,Fr,De,Es,It)" id="140525">
+		<category>Games</category>
+		<description>Duke Nukem Forever (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Duke Nukem Forever (Europe) (En,Fr,De,Es,It).iso" size="4402380800" crc="7767a014" md5="1357ae4810068af3f47fc3ad43617ff0" sha1="498c8702061675173cc04395f08fd5862189c30d"/>
 	</game>
 	<game name="Dungeon Master II - The Legend of Skullkeep (USA)" id="64056">
 		<category>Games</category>

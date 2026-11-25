@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (2,013) (-y) [-aAbBcefkmMoprv] (2026-11-24 00-10-59) (Retool)</description>
-		<version>2026-11-24 00-10-59</version>
-		<date>2026-11-24 12-18-32</date>
+		<description>Sony - PlayStation 4 (2,016) (-y) [-aAbBcefkmMoprv] (2026-11-25 09-09-34) (Retool)</description>
+		<version>2026-11-25 09-09-34</version>
+		<date>2026-11-25 11-06-17</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -7065,6 +7065,13 @@
 		<version>02.00</version>
 		<rom name="Lair of the Clockwork God (USA).iso" size="3144679424" crc="0fc5bc20" md5="98e0cab9299ac54f784fb06ce3fb7c62" sha1="776f38e5f495f370865ee7e59e69792aacd0d271"/>
 	</game>
+	<game name="Lake (Europe)" id="140541">
+		<category>Games</category>
+		<description>Lake (Europe)</description>
+		<serial>CUSA-31991</serial>
+		<version>01.02</version>
+		<rom name="Lake (Europe).iso" size="25024331776" crc="41f4d9e7" md5="b5afc1ae971ec1dcd1b96a4f0a61c1f4" sha1="6432791c292f5e3a0b9ceeebec01fe706d9e2362"/>
+	</game>
 	<game name="Langrisser I &amp; II (Japan)" id="119120">
 		<category>Games</category>
 		<description>Langrisser I &amp; II (Japan)</description>
@@ -9476,12 +9483,12 @@
 		<version>01.00</version>
 		<rom name="Persona 3 - Dancing in Moonlight (USA).iso" size="10689445888" crc="e34b6cee" md5="34da5e9d610dd32ff9e4694f51b0b4ae" sha1="4d263a63b9e2bb7d7e3276c6e24be3142caeeb09"/>
 	</game>
-	<game name="Persona 3 Reload (Japan)" id="140367">
+	<game name="Persona 3 Reload (Europe)" id="140542">
 		<category>Games</category>
-		<description>Persona 3 Reload (Japan)</description>
-		<serial>PLJM 17291</serial>
-		<version>02.00</version>
-		<rom name="Persona 3 Reload (Japan).iso" size="38958989312" crc="9afcefb1" md5="3c271d841bb61dafe57d93ea8c992cb1" sha1="71f645c0226de6950a9467f1a934b5988fb7c3cb"/>
+		<description>Persona 3 Reload (Europe)</description>
+		<serial>CUSA-37522</serial>
+		<version>01.00</version>
+		<rom name="Persona 3 Reload (Europe).iso" size="39369441280" crc="e7b96a0a" md5="0ef69aa5a7036c796e969629211e47b1" sha1="eda09ce1f992b0a12a6a49649b5c651ffb9a02e6"/>
 	</game>
 	<game name="Persona 4 - The Ultimax Ultra Suplex Hold (Japan)" id="130976">
 		<category>Games</category>
@@ -11345,6 +11352,13 @@
 		<version>02.00</version>
 		<rom name="SmuggleCraft (USA).iso" size="25024331776" crc="99f7e711" md5="25ade73fee737971ef8f135223662077" sha1="505bc5279db5f23ee42f2e9c915c06859de840c8"/>
 	</game>
+	<game name="Smurfs Kart (Europe)" id="140513">
+		<category>Games</category>
+		<description>Smurfs Kart (Europe)</description>
+		<serial>CUSA-33000</serial>
+		<version>01.02</version>
+		<rom name="Smurfs Kart (Europe).iso" size="3498180608" crc="191506f9" md5="eca3f7ab4da327206f32930a59ecb820" sha1="822fe5c229a12b4e6db933d76280400632becd04"/>
+	</game>
 	<game name="Sniper - Ghost Warrior - Contracts 2 (Russia)" id="108368">
 		<category>Games</category>
 		<description>Sniper: Ghost Warrior: Contracts 2 (Russia)</description>
@@ -11603,12 +11617,12 @@
 		<version>02.00</version>
 		<rom name="Spyro - Reignited Trilogy (USA) (En,Fr,Es,Pt) (v02.00).iso" size="43745542144" crc="763d613d" md5="cde25c739bf7fe8e5919dd0292e358d8" sha1="497fe1d57d68e6685388cb844d7c68fc8f39fd85"/>
 	</game>
-	<game name="Star Ocean - Integrity and Faithlessness (USA) (En,Fr)" id="39993">
+	<game name="Star Ocean - Integrity and Faithlessness (USA, Canada) (En,Fr)" id="39993">
 		<category>Games</category>
-		<description>Star Ocean: Integrity and Faithlessness (USA) (En,Fr)</description>
+		<description>Star Ocean: Integrity and Faithlessness (USA, Canada) (En,Fr)</description>
 		<serial>CUSA-03246</serial>
 		<version>01.01</version>
-		<rom name="Star Ocean - Integrity and Faithlessness (USA) (En,Fr).iso" size="35573334016" crc="d2d5c413" md5="2e6597ac57ba814c813db353b6fcf67a" sha1="0fbf28b8cedc486737b8760ff86d8057f6075f64"/>
+		<rom name="Star Ocean - Integrity and Faithlessness (USA, Canada) (En,Fr).iso" size="35573334016" crc="d2d5c413" md5="2e6597ac57ba814c813db353b6fcf67a" sha1="0fbf28b8cedc486737b8760ff86d8057f6075f64"/>
 	</game>
 	<game name="Star Ocean - The Divine Force (Europe) (En,Ja,Fr)" id="139864">
 		<category>Games</category>
@@ -12240,12 +12254,12 @@
 		<version>01.00</version>
 		<rom name="Tearaway - Unfolded (China).iso" size="25024331776" crc="7fd315c4" md5="726aafe52b667e538f63c257bcb42f7a" sha1="9b619e34849f89969e3bce07948146b7cdc6528f"/>
 	</game>
-	<game name="Tearaway Unfolded (USA) (En,Fr,Es,Pt)" id="39994">
+	<game name="Tearaway Unfolded (USA, Canada) (En,Fr,Es,Pt)" id="39994">
 		<category>Games</category>
-		<description>Tearaway Unfolded (USA) (En,Fr,Es,Pt)</description>
+		<description>Tearaway Unfolded (USA, Canada) (En,Fr,Es,Pt)</description>
 		<serial>CUSA-01607</serial>
 		<version>01.00</version>
-		<rom name="Tearaway Unfolded (USA) (En,Fr,Es,Pt).iso" size="25024331776" crc="2ba8fda0" md5="3252f648ebc18cdb73c8c8d27b4c1b31" sha1="e4424f9dff81912e370e2c057310929ee15da64d"/>
+		<rom name="Tearaway Unfolded (USA, Canada) (En,Fr,Es,Pt).iso" size="25024331776" crc="2ba8fda0" md5="3252f648ebc18cdb73c8c8d27b4c1b31" sha1="e4424f9dff81912e370e2c057310929ee15da64d"/>
 	</game>
 	<game name="Technomancer, The (USA) (En,Fr,Es)" id="57682">
 		<category>Games</category>
@@ -12715,6 +12729,13 @@
 		<serial>CUSA-10124</serial>
 		<version>01.03</version>
 		<rom name="Train Sim World (USA) (En,Fr,De,Es,It,Pl,Ru).iso" size="9359392768" crc="49db4cbb" md5="5f7a206ffbf917f7eb9ee328207418a5" sha1="7b996b83089dc7d9b566e9c2947a834040fa821f"/>
+	</game>
+	<game name="Train Valley Collection (Europe)" id="140515">
+		<category>Games</category>
+		<description>Train Valley Collection (Europe)</description>
+		<serial>CUSA-44313</serial>
+		<version>01.00</version>
+		<rom name="Train Valley Collection (Europe).iso" size="25024331776" crc="459ad1d8" md5="7fa255075c1e626b400b69ba1b028b89" sha1="5f0d0842bbfcacff4b94d6314b8a5713d68f1752"/>
 	</game>
 	<game name="Transformers - Battlegrounds (USA) (En,Fr,Es,Pt)" id="85994">
 		<category>Games</category>

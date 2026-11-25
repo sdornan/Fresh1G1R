@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox One</name>
-		<description>Microsoft - Xbox One - Datfile (1210) (2026-11-22 11-49-18)</description>
-		<version>2026-11-22 11-49-18</version>
-		<date>2026-11-22 11-49-18</date>
+		<description>Microsoft - Xbox One - Datfile (1211) (2026-11-25 09-19-12)</description>
+		<version>2026-11-25 09-19-12</version>
+		<date>2026-11-25 09-19-12</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -4015,6 +4015,12 @@
 		<description>Peppa Pig: World Adventures (USA)</description>
 		<rom name="Peppa Pig - World Adventures (USA).iso" size="22978238464" crc="c1b6104f" md5="684eaefbf3fc5557efc668ea979d8897" sha1="33201dc4f815cdc8df4805c7db6de07d137d6552"/>
 	</game>
+	<game name="Persona 3 Reload (Europe)" id="140544">
+		<category>Games</category>
+		<serial>P3RXB-EFIGS</serial>
+		<description>Persona 3 Reload (Europe)</description>
+		<rom name="Persona 3 Reload (Europe).iso" size="22978238464" crc="fd3f69d7" md5="37b27cc010ed5af438540549fca2fe5e" sha1="e8e95e522b98a2220ad2bc7f122ca869cdd8ca1e"/>
+	</game>
 	<game name="Persona 5 Royal (USA)" id="133156">
 		<category>Games</category>
 		<description>Persona 5 Royal (USA)</description>
@@ -4248,6 +4254,7 @@
 	</game>
 	<game name="Psychonauts 2 (Europe)" id="139163">
 		<category>Games</category>
+		<serial>3421-001</serial>
 		<description>Psychonauts 2 (Europe)</description>
 		<rom name="Psychonauts 2 (Europe).iso" size="45957781504" crc="f0690b0d" md5="f26f39b039db97cb58b7c4d0eccc9c77" sha1="496048f5e54ded6fb96a428e859c96ccfd4f61c5"/>
 	</game>
@@ -4933,10 +4940,10 @@
 		<description>Sonic X Shadow Generations (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Th)</description>
 		<rom name="Sonic X Shadow Generations (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Th).iso" size="45957781504" crc="9302f6db" md5="de1b5c1578ce47e42963cecfc8ec98f5" sha1="da753839002f36e343a10ae21733a1ccd2edfaf2"/>
 	</game>
-	<game name="Soul Hackers 2 (Europe) (En,Ja)" id="135040">
+	<game name="Soul Hackers 2 (USA, Europe) (En,Ja)" id="135040">
 		<category>Games</category>
-		<description>Soul Hackers 2 (Europe) (En,Ja)</description>
-		<rom name="Soul Hackers 2 (Europe) (En,Ja).iso" size="45957810176" crc="9b373b15" md5="85081c448fa654afd849e978933ae462" sha1="ade105199825e3ae1ee56f9ec7aaef14c3194d59"/>
+		<description>Soul Hackers 2 (USA, Europe) (En,Ja)</description>
+		<rom name="Soul Hackers 2 (USA, Europe) (En,Ja).iso" size="45957810176" crc="9b373b15" md5="85081c448fa654afd849e978933ae462" sha1="ade105199825e3ae1ee56f9ec7aaef14c3194d59"/>
 	</game>
 	<game name="Soulcalibur VI (USA, Europe) (En,Fr,De,Es,It,Ru)" id="108864">
 		<category>Games</category>

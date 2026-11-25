@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh</name>
-		<description>Apple - Macintosh - Datfile (1530) (2026-11-22 12-28-54)</description>
-		<version>2026-11-22 12-28-54</version>
-		<date>2026-11-22 12-28-54</date>
+		<description>Apple - Macintosh - Datfile (1536) (2026-11-25 07-49-14)</description>
+		<version>2026-11-25 07-49-14</version>
+		<date>2026-11-25 07-49-14</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -1536,6 +1536,13 @@
 		<rom name="America's Greatest Solitaire Games - All Time 37 Favorites (USA).cue" size="130" crc="c994834c" md5="5e3f28a01c20294e31875fc8d8672a26" sha1="3419e4612c2c56a34940d69c440e3a07c86c1017"/>
 		<rom name="America's Greatest Solitaire Games - All Time 37 Favorites (USA).bin" size="3833760" crc="a276c964" md5="8e27eb30d10d0efcab13a9a0ae54bd3b" sha1="4c93a9f89868a7a7799322442fb2d37c99148dc5"/>
 	</game>
+	<game name="American McGee's Alice (Germany)" id="140523">
+		<category>Games</category>
+		<version>1.0</version>
+		<description>American McGee's Alice (Germany)</description>
+		<rom name="American McGee's Alice (Germany).cue" size="98" crc="57e1f01d" md5="02d09ef2136e8f64f153747cfcda4a36" sha1="2d4a04cd3fdd61e2c8ad9030bc2f9f4ea084620f"/>
+		<rom name="American McGee's Alice (Germany).bin" size="844556160" crc="171026a3" md5="5fd3ef77be951bdde0f6f628a03e9627" sha1="07af54ac4960493218281cebe9909aed01341cc9"/>
+	</game>
 	<game name="Angel Egg (Japan)" id="119074">
 		<category>Games</category>
 		<serial>AE-01-001</serial>
@@ -2138,6 +2145,12 @@
 		<description>Bionicle (USA)</description>
 		<rom name="Bionicle (USA).iso" size="8304427008" crc="36c70b10" md5="a4fdca0bb9f18ea5be0c625248741175" sha1="980a6a4157ed97a707ede9db05157a6e256efd83"/>
 	</game>
+	<game name="BioShock (Germany) (En,De)" id="140524">
+		<category>Games</category>
+		<version>1.0</version>
+		<description>BioShock (Germany) (En,De)</description>
+		<rom name="BioShock (Germany) (En,De).iso" size="8538030080" crc="82cd2786" md5="20b125b442188f582502477e85e8ce2b" sha1="058157a08d3a3f995ce980c2cf014608fe9ad0ff"/>
+	</game>
 	<game name="Black &amp; White (Japan) (Data Disc)" id="75099">
 		<category>Games</category>
 		<serial>EAM-7024</serial>
@@ -2200,6 +2213,19 @@
 		<rom name="Braveheart - Packaging + Manual (Europe) (Dev Assets).cue" size="290" crc="1b5c3d08" md5="3ab125e52769766021726c21b2ad7d85" sha1="cfe8103fa289c81bd0055dfd69dc86df5404bf81"/>
 		<rom name="Braveheart - Packaging + Manual (Europe) (Dev Assets) (Track 1).bin" size="443439024" crc="d31f2c33" md5="b159810a0a93d5a1fbc55f12a0e1dc46" sha1="508bd0c3993feca397d42dbcdd024628fd519282"/>
 		<rom name="Braveheart - Packaging + Manual (Europe) (Dev Assets) (Track 2).bin" size="3116400" crc="1e1ded5f" md5="8a3e06f6a8b9e4aec72dec96a66c41e3" sha1="5a542ca49e687215808920df91e9ee429da9ed00"/>
+	</game>
+	<game name="Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)" id="140532">
+		<category>Games</category>
+		<version>1.0</version>
+		<description>Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)</description>
+		<rom name="Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).cue" size="115" crc="9186c6fc" md5="2eaf2c68940e32f041da36feeead7175" sha1="775d40a40ea6840e95e59e0c109b1e5c066d84a6"/>
+		<rom name="Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).bin" size="647195136" crc="d15a09f5" md5="337cfde39a3314881d84024a31bf3dee" sha1="e5c6c98fd7987b771d328fb8e4ab0a3338e6d58c"/>
+	</game>
+	<game name="Brothers in Arms - Double Time (Europe) (En,Fr,De,Es,It)" id="140533">
+		<category>Games</category>
+		<version>1.0</version>
+		<description>Brothers in Arms: Double Time (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Brothers in Arms - Double Time (Europe) (En,Fr,De,Es,It).iso" size="8493465600" crc="87126875" md5="7c01136ba43f9fe6f375ddf45661c53a" sha1="eaa68d5bde9ff1a175079391ccb96e23862bcab8"/>
 	</game>
 	<game name="Bugdom (USA)" id="123481">
 		<category>Games</category>
@@ -3907,6 +3933,11 @@
 		<description>Duke Nukem 3D: Atomic Edition (USA)</description>
 		<rom name="Duke Nukem 3D - Atomic Edition (USA).cue" size="102" crc="631969e3" md5="a709f8ceb2b8d6e6ac7d860cb22f2117" sha1="bf2711ffcafcd776b0feaeefed85cd7be5e39296"/>
 		<rom name="Duke Nukem 3D - Atomic Edition (USA).bin" size="531942432" crc="eeecfc40" md5="248936d390c431d1eb3376020fe5e877" sha1="6b246bfabe12ca829e28cbf8c0e6c5b83dc5e0fe"/>
+	</game>
+	<game name="Duke Nukem Forever (Europe) (En,Fr,De,Es,It)" id="140525">
+		<category>Games</category>
+		<description>Duke Nukem Forever (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Duke Nukem Forever (Europe) (En,Fr,De,Es,It).iso" size="4402380800" crc="7767a014" md5="1357ae4810068af3f47fc3ad43617ff0" sha1="498c8702061675173cc04395f08fd5862189c30d"/>
 	</game>
 	<game name="Dungeon Master II - Skullkeep (Japan)" id="80573">
 		<category>Games</category>
@@ -10769,6 +10800,12 @@
 		<description>Tokimeki Factory: Tokimeki Memorial 2 (Japan) (Macintosh)</description>
 		<rom name="Tokimeki Factory - Tokimeki Memorial 2 (Japan) (Macintosh).cue" size="124" crc="cda85a87" md5="38cacd399911269006a52f03fc3c1ec5" sha1="b60b858b054fa540a05f7c220af63ad4283b82ed"/>
 		<rom name="Tokimeki Factory - Tokimeki Memorial 2 (Japan) (Macintosh).bin" size="739732224" crc="b1a11f01" md5="9429c7e9e6c336c51fb61eaf8cc592a6" sha1="44bc7dc660c621ba9a894de009829376763378f0"/>
+	</game>
+	<game name="Tom Clancy's Rainbow Six 3 - Athena Sword (Germany) (Fr,De)" id="140531">
+		<category>Add-Ons</category>
+		<version>1.0</version>
+		<description>Tom Clancy's Rainbow Six 3: Athena Sword (Germany) (Fr,De)</description>
+		<rom name="Tom Clancy's Rainbow Six 3 - Athena Sword (Germany) (Fr,De).iso" size="1914601472" crc="2fc43f35" md5="233f1023929a6270afd76d25c2ed843b" sha1="89119df9ef83b447ac25c21839fe7bacb679221f"/>
 	</game>
 	<game name="Tom Clancy's Rainbow Six 3 - Raven Shield (USA) (Disc 1)" id="127125">
 		<category>Games</category>

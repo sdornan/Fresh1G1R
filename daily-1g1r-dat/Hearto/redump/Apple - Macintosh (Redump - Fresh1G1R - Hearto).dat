@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (659) (-y) [-aAbBcefkmMoprv] (2026-11-22 12-28-54) (Retool)</description>
-		<version>2026-11-22 12-28-54</version>
-		<date>2026-11-24 12-18-34</date>
+		<description>Apple - Macintosh (665) (-y) [-aAbBcefkmMoprv] (2026-11-25 07-49-14) (Retool)</description>
+		<version>2026-11-25 07-49-14</version>
+		<date>2026-11-25 11-06-14</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -391,6 +391,13 @@
 		<rom name="America's Greatest Solitaire Games - All Time 37 Favorites (USA).bin" size="3833760" crc="a276c964" md5="8e27eb30d10d0efcab13a9a0ae54bd3b" sha1="4c93a9f89868a7a7799322442fb2d37c99148dc5"/>
 		<rom name="America's Greatest Solitaire Games - All Time 37 Favorites (USA).cue" size="130" crc="c994834c" md5="5e3f28a01c20294e31875fc8d8672a26" sha1="3419e4612c2c56a34940d69c440e3a07c86c1017"/>
 	</game>
+	<game name="American McGee's Alice (Germany)" id="140523">
+		<category>Games</category>
+		<description>American McGee's Alice (Germany)</description>
+		<version>1.0</version>
+		<rom name="American McGee's Alice (Germany).bin" size="844556160" crc="171026a3" md5="5fd3ef77be951bdde0f6f628a03e9627" sha1="07af54ac4960493218281cebe9909aed01341cc9"/>
+		<rom name="American McGee's Alice (Germany).cue" size="98" crc="57e1f01d" md5="02d09ef2136e8f64f153747cfcda4a36" sha1="2d4a04cd3fdd61e2c8ad9030bc2f9f4ea084620f"/>
+	</game>
 	<game name="Ankh - Pyramid no Nazo (Japan)" id="119196">
 		<category>Games</category>
 		<description>Ankh: Pyramid no Nazo (Japan)</description>
@@ -737,6 +744,12 @@
 		<rom name="Big Top's Cartoon Toolbox Starring Felix the Cat (USA).bin" size="174962928" crc="e180256d" md5="9a280d53ebb10c477ce5573a4ed0db58" sha1="8b100edb4432ec826527a2e0fab9c295be361ba8"/>
 		<rom name="Big Top's Cartoon Toolbox Starring Felix the Cat (USA).cue" size="120" crc="b7fe8618" md5="5d3e9619e752720c20b5ab4335ff4ac1" sha1="6c400946025c54114629c29bf26cdc79d118c1ae"/>
 	</game>
+	<game name="BioShock (Germany) (En,De)" id="140524">
+		<category>Games</category>
+		<description>BioShock (Germany) (En,De)</description>
+		<version>1.0</version>
+		<rom name="BioShock (Germany) (En,De).iso" size="8538030080" crc="82cd2786" md5="20b125b442188f582502477e85e8ce2b" sha1="058157a08d3a3f995ce980c2cf014608fe9ad0ff"/>
+	</game>
 	<game name="Bionicle (USA)" id="133818">
 		<category>Games</category>
 		<description>Bionicle (USA)</description>
@@ -783,6 +796,19 @@
 		<rom name="Braveheart - Packaging + Manual (Europe) (Dev Assets) (Track 1).bin" size="443439024" crc="d31f2c33" md5="b159810a0a93d5a1fbc55f12a0e1dc46" sha1="508bd0c3993feca397d42dbcdd024628fd519282"/>
 		<rom name="Braveheart - Packaging + Manual (Europe) (Dev Assets) (Track 2).bin" size="3116400" crc="1e1ded5f" md5="8a3e06f6a8b9e4aec72dec96a66c41e3" sha1="5a542ca49e687215808920df91e9ee429da9ed00"/>
 		<rom name="Braveheart - Packaging + Manual (Europe) (Dev Assets).cue" size="290" crc="1b5c3d08" md5="3ab125e52769766021726c21b2ad7d85" sha1="cfe8103fa289c81bd0055dfd69dc86df5404bf81"/>
+	</game>
+	<game name="Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)" id="140532">
+		<category>Games</category>
+		<description>Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)</description>
+		<version>1.0</version>
+		<rom name="Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).bin" size="647195136" crc="d15a09f5" md5="337cfde39a3314881d84024a31bf3dee" sha1="e5c6c98fd7987b771d328fb8e4ab0a3338e6d58c"/>
+		<rom name="Bridge Project (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).cue" size="115" crc="9186c6fc" md5="2eaf2c68940e32f041da36feeead7175" sha1="775d40a40ea6840e95e59e0c109b1e5c066d84a6"/>
+	</game>
+	<game name="Brothers in Arms - Double Time (Europe) (En,Fr,De,Es,It)" id="140533">
+		<category>Games</category>
+		<description>Brothers in Arms: Double Time (Europe) (En,Fr,De,Es,It)</description>
+		<version>1.0</version>
+		<rom name="Brothers in Arms - Double Time (Europe) (En,Fr,De,Es,It).iso" size="8493465600" crc="87126875" md5="7c01136ba43f9fe6f375ddf45661c53a" sha1="eaa68d5bde9ff1a175079391ccb96e23862bcab8"/>
 	</game>
 	<game name="Bugdom (USA)" id="123481">
 		<category>Games</category>
@@ -1484,6 +1510,11 @@
 		<serial>P/N 7333</serial>
 		<rom name="Duke Nukem 3D - Atomic Edition (USA).bin" size="531942432" crc="eeecfc40" md5="248936d390c431d1eb3376020fe5e877" sha1="6b246bfabe12ca829e28cbf8c0e6c5b83dc5e0fe"/>
 		<rom name="Duke Nukem 3D - Atomic Edition (USA).cue" size="102" crc="631969e3" md5="a709f8ceb2b8d6e6ac7d860cb22f2117" sha1="bf2711ffcafcd776b0feaeefed85cd7be5e39296"/>
+	</game>
+	<game name="Duke Nukem Forever (Europe) (En,Fr,De,Es,It)" id="140525">
+		<category>Games</category>
+		<description>Duke Nukem Forever (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Duke Nukem Forever (Europe) (En,Fr,De,Es,It).iso" size="4402380800" crc="7767a014" md5="1357ae4810068af3f47fc3ad43617ff0" sha1="498c8702061675173cc04395f08fd5862189c30d"/>
 	</game>
 	<game name="Dungeon Master II - The Legend of Skullkeep (USA)" id="64056">
 		<category>Games</category>
@@ -4791,6 +4822,12 @@
 		<serial>INH-183</serial>
 		<rom name="Tokimeite Yuuwaku (Japan).bin" size="94475136" crc="eff8568e" md5="bfce9679debeb255e5d7ae4d5dc76431" sha1="9658ab3ac3cda785b99877602eedefa81e30e5bb"/>
 		<rom name="Tokimeite Yuuwaku (Japan).cue" size="91" crc="c13558dd" md5="4533af528fc7dc9aedb8007ac94bc030" sha1="f430a97b5d723c8cbd6fd3f46ab791547a524e27"/>
+	</game>
+	<game name="Tom Clancy's Rainbow Six 3 - Athena Sword (Germany) (Fr,De)" id="140531">
+		<category>Add-Ons</category>
+		<description>Tom Clancy's Rainbow Six 3: Athena Sword (Germany) (Fr,De)</description>
+		<version>1.0</version>
+		<rom name="Tom Clancy's Rainbow Six 3 - Athena Sword (Germany) (Fr,De).iso" size="1914601472" crc="2fc43f35" md5="233f1023929a6270afd76d25c2ed843b" sha1="89119df9ef83b447ac25c21839fe7bacb679221f"/>
 	</game>
 	<game name="Tom Clancy's Rainbow Six 3 - Raven Shield (USA) (Disc 1)" id="127125">
 		<category>Games</category>

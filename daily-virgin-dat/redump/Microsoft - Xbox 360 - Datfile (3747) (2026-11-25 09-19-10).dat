@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Datfile (3745) (2026-11-24 06-49-11)</description>
-		<version>2026-11-24 06-49-11</version>
-		<date>2026-11-24 06-49-11</date>
+		<description>Microsoft - Xbox 360 - Datfile (3747) (2026-11-25 09-19-10)</description>
+		<version>2026-11-25 09-19-10</version>
+		<date>2026-11-25 09-19-10</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -18272,6 +18272,12 @@
 		<description>Skylanders: Swap Force (Russia)</description>
 		<rom name="Skylanders - Swap Force (Russia).iso" size="8738846720" crc="57e578a0" md5="6947fb52eb2cf664331ab21af4623b3c" sha1="808c2207427d1a4ac43e129ae0d23c24e1d28318"/>
 	</game>
+	<game name="Skylanders - Swap Force (Scandinavia)" id="140539">
+		<category>Games</category>
+		<serial>AV-2281</serial>
+		<description>Skylanders: Swap Force (Scandinavia)</description>
+		<rom name="Skylanders - Swap Force (Scandinavia).iso" size="8738846720" crc="224d5b47" md5="21066e137692b03dcc0b4138fabebdb3" sha1="ca5af080f0709d8a80aba26be42a6d27f0d48a98"/>
+	</game>
 	<game name="Skylanders - Swap Force (USA, Australia) (En,Fr)" id="59790">
 		<category>Games</category>
 		<serial>AV-2281</serial>
@@ -18585,6 +18591,11 @@
 		<serial>AT-2003</serial>
 		<description>Spectral Force 3 (USA)</description>
 		<rom name="Spectral Force 3 (USA).iso" size="7835492352" crc="1fcec76a" md5="36d1cbd4de2c8e0da66fcc30456f9a14" sha1="4f8e0e09738318159e6bd9f89921ef6503aa7a4c"/>
+	</game>
+	<game name="Spectral Force 3 (USA) (Beta) (2008-04-08)" id="140520">
+		<category>Preproduction</category>
+		<description>Spectral Force 3 (USA) (Beta) (2008-04-08)</description>
+		<rom name="Spectral Force 3 (USA) (Beta) (2008-04-08).iso" size="3700195328" crc="11ea5c75" md5="ad0acc3f4da5ddc36fb760f073ebe5a8" sha1="6759c2443560557db16cdaae0343a6e0edda0e9e"/>
 	</game>
 	<game name="Spectral Force 3 - Innocent Rage (Japan)" id="75477">
 		<category>Games</category>
