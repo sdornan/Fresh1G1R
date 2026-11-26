@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Enhanced CD</name>
-		<description>Enhanced CD - Datfile (260) (2026-11-21 10-24-08)</description>
-		<version>2026-11-21 10-24-08</version>
-		<date>2026-11-21 10-24-08</date>
+		<description>Enhanced CD - Datfile (262) (2026-11-26 09-19-35)</description>
+		<version>2026-11-26 09-19-35</version>
+		<date>2026-11-26 09-19-35</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -950,6 +950,28 @@
 		<rom name="Final Fantasy X-2 - Vocal Collection - Paine (Japan) (Track 3).bin" size="35969136" crc="3d96126b" md5="23162ea338c36042d6ed4bc663998e57" sha1="5c88622491598de7cf10eaceb4a2d2bb6b3ec86f"/>
 		<rom name="Final Fantasy X-2 - Vocal Collection - Paine (Japan) (Track 4).bin" size="50537424" crc="b6ddebf3" md5="79ce5b5e5c4af1485dc01adad16924c4" sha1="1874e22ed76da4c4966f8d301fb2ba2184e0d5f4"/>
 		<rom name="Final Fantasy X-2 - Vocal Collection - Paine (Japan) (Track 5).bin" size="583597056" crc="d1fd972e" md5="c75580cbb31fe403dc2392673877726e" sha1="75c27c542ade030893c4bd97a126db01c5cf117d"/>
+	</game>
+	<game name="Final Fantasy X-2 - Vocal Collection - Rikku (Japan)" id="140567">
+		<category>Audio</category>
+		<serial>AVCD-30483</serial>
+		<description>Final Fantasy X-2: Vocal Collection: Rikku (Japan)</description>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Rikku (Japan).cue" size="813" crc="5b5e8a3f" md5="13fd6ee3886cc196a9e87e48badefa5d" sha1="c7790290cda0410554d6944cea09e8019f667063"/>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Rikku (Japan) (Track 1).bin" size="40670784" crc="556de85c" md5="420962f4873bab5d6cbc1f3a45c2a706" sha1="46a84eee9c7cf9a794d99ba33980a606d52413f7"/>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Rikku (Japan) (Track 2).bin" size="44600976" crc="61d34939" md5="dded8d6e6b33b082fb3f8ee21176de52" sha1="4c7b1aadbe7dcfa4ef7b93c424f7179c7882113c"/>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Rikku (Japan) (Track 3).bin" size="41305824" crc="02b1e1f4" md5="7fa0cf5cf27caa49c712478c638caa48" sha1="462c07df88588772d6a00de4f7ae89183ba9fa65"/>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Rikku (Japan) (Track 4).bin" size="44511600" crc="b7cb9e56" md5="42a27db3a7d321dfc0322ffc85b0e555" sha1="035c07be1143c324d6fdcc69e752d7cf3a0cbfe8"/>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Rikku (Japan) (Track 5).bin" size="584961216" crc="f0df99bd" md5="a4bd3fdd1e16f4f631f0a9c241a522f7" sha1="5c5b916e7e1aa0c7e9123e5a9fd971fc4163e020"/>
+	</game>
+	<game name="Final Fantasy X-2 - Vocal Collection - Yuna (Japan)" id="140564">
+		<category>Audio</category>
+		<serial>AVCD-30481</serial>
+		<description>Final Fantasy X-2: Vocal Collection: Yuna (Japan)</description>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Yuna (Japan).cue" size="808" crc="3ddeb708" md5="9098ba6380b9cc9bb8197071de710d89" sha1="823d433ff476f25b60a541e45430a19adedd8ed2"/>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Yuna (Japan) (Track 1).bin" size="52649520" crc="9a835f9d" md5="6f06d36e06e3e2033cd2908f1e2ade45" sha1="b30b2b31956f8ed9834ae6ea7d401d7495d7b23e"/>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Yuna (Japan) (Track 2).bin" size="47263440" crc="ef99f325" md5="b5880c110666c3ae83c7013468fc6745" sha1="df7acaf1ba4114952c73df137d143ac68a2aab80"/>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Yuna (Japan) (Track 3).bin" size="53496240" crc="795ca150" md5="d6b502d268c08a484070326706421dfb" sha1="f9523d496f6eb19f2d68a07953796747c8d16174"/>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Yuna (Japan) (Track 4).bin" size="47221104" crc="7eb91d35" md5="bd89302ee0ab07d493e2d4abade7de7c" sha1="00d2113bd4dfa56203c50dc0f56088271eca9087"/>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Yuna (Japan) (Track 5).bin" size="555420096" crc="4478ee58" md5="26f6e6552c98e2a71e799c9bbcfa3c1a" sha1="08ffe7bed88ae5a876bed7c256591efffde99153"/>
 	</game>
 	<game name="Firecracker Music Collection Vol. 36 - Calling My Brother (Japan)" id="130596">
 		<category>Audio</category>

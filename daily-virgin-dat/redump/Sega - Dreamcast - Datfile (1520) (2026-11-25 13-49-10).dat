@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Datfile (1519) (2026-11-23 01-08-54)</description>
-		<version>2026-11-23 01-08-54</version>
-		<date>2026-11-23 01-08-54</date>
+		<description>Sega - Dreamcast - Datfile (1520) (2026-11-25 13-49-10)</description>
+		<version>2026-11-25 13-49-10</version>
+		<date>2026-11-25 13-49-10</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -19739,6 +19739,17 @@
 		<rom name="Tony Hawk's Pro Skater (USA) (Track 3).bin" size="45158400" crc="c84a8465" md5="43b5753fcec1a5a4ac995c996d59bd9f" sha1="d4275b4954eafac12f2f0bfcb284eed63bea782d"/>
 		<rom name="Tony Hawk's Pro Skater (USA) (Track 4).bin" size="1166592" crc="6bc55214" md5="4abf6058d28447b03f6b8071ff9440a3" sha1="260d369112685d249aa43b67ca7dbc6cd12e6673"/>
 		<rom name="Tony Hawk's Pro Skater (USA) (Track 5).bin" size="1139435808" crc="0e146161" md5="3106018a020d36975d35862f5e96ad32" sha1="e64cc5a24aa2868d23b597332b0d94647a927a15"/>
+	</game>
+	<game name="Tony Hawk's Pro Skater (USA) (Beta) (2000-04-16)" id="140545">
+		<category>Preproduction</category>
+		<version>1.000</version>
+		<description>Tony Hawk's Pro Skater (USA) (Beta) (2000-04-16)</description>
+		<rom name="Tony Hawk's Pro Skater (USA) (Beta) (2000-04-16).cue" size="727" crc="ff26d12e" md5="86952e6ceafad25206eb8b8592ded62e" sha1="7b0129cb7986e3b4bd63ebe7cef1d58a321a59cf"/>
+		<rom name="Tony Hawk's Pro Skater (USA) (Beta) (2000-04-16) (Track 1).bin" size="1335936" crc="507e7f3b" md5="8dbd6004b1f8c00c8354ee5dadb90500" sha1="91febff7c7b4c24878c54aa6d66d73e8d74674d9"/>
+		<rom name="Tony Hawk's Pro Skater (USA) (Beta) (2000-04-16) (Track 2).bin" size="2333184" crc="8e177a7c" md5="87108e4083c30cf50a773364fd3df4f3" sha1="1d584a852667c7aeb2a7c45259a7fb33217d0bc1"/>
+		<rom name="Tony Hawk's Pro Skater (USA) (Beta) (2000-04-16) (Track 3).bin" size="44344608" crc="a00e3230" md5="2349246a483edfa19d6bd5ab708ba750" sha1="431d4fb645a1de7a8535bfdd72e7b9a4a30a14c3"/>
+		<rom name="Tony Hawk's Pro Skater (USA) (Beta) (2000-04-16) (Track 4).bin" size="1980384" crc="509a1354" md5="c38339ba2a512b9289024e9e93729303" sha1="40dd5e6fe72c00fd199bc7084d046a11ef5f70a8"/>
+		<rom name="Tony Hawk's Pro Skater (USA) (Beta) (2000-04-16) (Track 5).bin" size="1139435808" crc="8b06ff99" md5="be3c75dcafbc40b352bc24e5738c8196" sha1="ca2bb01e0207a463bda131536a62b2a7a78d281d"/>
 	</game>
 	<game name="Tony Hawk's Pro Skater 2 (Europe)" id="28928">
 		<category>Games</category>

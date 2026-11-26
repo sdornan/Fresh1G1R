@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video</name>
-		<description>DVD-Video - Datfile (3728) (2026-11-25 08-19-10)</description>
-		<version>2026-11-25 08-19-10</version>
-		<date>2026-11-25 08-19-10</date>
+		<description>DVD-Video - Datfile (3730) (2026-11-26 09-19-34)</description>
+		<version>2026-11-26 09-19-34</version>
+		<date>2026-11-26 09-19-34</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -216,10 +216,10 @@
 		<description>Action Replay Ultimate Cheats for Final Fantasy X (UK)</description>
 		<rom name="Action Replay Ultimate Cheats for Final Fantasy X (UK).iso" size="475758592" crc="f370780d" md5="873251d4ba4b0054b4f3c9b4f1847df7" sha1="923db68991d887f49099e535b3d9f5fe6456d438"/>
 	</game>
-	<game name="Action Replay Ultimate Cheats for Medal of Honor - Frontline (UK)" id="82959">
+	<game name="Action Replay Ultimate Cheats for Medal of Honor - Frontline (UK) (Unl)" id="82959">
 		<category>Applications</category>
-		<description>Action Replay Ultimate Cheats for Medal of Honor: Frontline (UK)</description>
-		<rom name="Action Replay Ultimate Cheats for Medal of Honor - Frontline (UK).iso" size="440336384" crc="e77c9eaf" md5="2d1a48b59b9a9cb4925b4a9e5eca758d" sha1="111e04a92913787526cc3a2bf5a951bcf1602a2d"/>
+		<description>Action Replay Ultimate Cheats for Medal of Honor: Frontline (UK) (Unl)</description>
+		<rom name="Action Replay Ultimate Cheats for Medal of Honor - Frontline (UK) (Unl).iso" size="440336384" crc="e77c9eaf" md5="2d1a48b59b9a9cb4925b4a9e5eca758d" sha1="111e04a92913787526cc3a2bf5a951bcf1602a2d"/>
 	</game>
 	<game name="Action Replay Ultimate Cheats for Spider-Man (UK)" id="111862">
 		<category>Video</category>
@@ -4952,11 +4952,23 @@
 		<description>Final Fantasy X-2 (Europe) (En,Fr,De,Es,It) (Prologue: Eternal Calm) (PS2 Game Bundle)</description>
 		<rom name="Final Fantasy X-2 (Europe) (En,Fr,De,Es,It) (Prologue - Eternal Calm) (PS2 Game Bundle).iso" size="1084243968" crc="740774ae" md5="f25cdbdcaca9a6b6e9863d1139653dca" sha1="8f5c322b8864f2dde2bbd8e0b1f3bc30228cb55c"/>
 	</game>
-	<game name="Final Fantasy X-2 - Vocal Collection - Paine (Japan)" id="139068">
+	<game name="Final Fantasy X-2 - Vocal Collection - Paine (Japan) (Audio CD Bundle)" id="139068">
 		<category>Video</category>
-		<serial>AVCD-40385B</serial>
-		<description>Final Fantasy X-2: Vocal Collection: Paine (Japan)</description>
-		<rom name="Final Fantasy X-2 - Vocal Collection - Paine (Japan).iso" size="1132478464" crc="cf903e28" md5="1af0915ce212664e39093f6613c47eb8" sha1="56599d34838be16e2ed44d7ab310609eb47343a9"/>
+		<serial>AVCD-30485B</serial>
+		<description>Final Fantasy X-2: Vocal Collection: Paine (Japan) (Audio CD Bundle)</description>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Paine (Japan) (Audio CD Bundle).iso" size="1132478464" crc="cf903e28" md5="1af0915ce212664e39093f6613c47eb8" sha1="56599d34838be16e2ed44d7ab310609eb47343a9"/>
+	</game>
+	<game name="Final Fantasy X-2 - Vocal Collection - Rikku (Japan) (Audio CD Bundle)" id="140568">
+		<category>Video</category>
+		<serial>AVCD-30483B</serial>
+		<description>Final Fantasy X-2: Vocal Collection: Rikku (Japan) (Audio CD Bundle)</description>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Rikku (Japan) (Audio CD Bundle).iso" size="948307968" crc="3e75bfff" md5="52581238717a06ecb45d9c825824e8dc" sha1="a81110cbb437de9c86dbb9bb204ba7858fddbd15"/>
+	</game>
+	<game name="Final Fantasy X-2 - Vocal Collection - Yuna (Japan) (Audio CD Bundle)" id="140565">
+		<category>Video</category>
+		<serial>AVCD-30481B</serial>
+		<description>Final Fantasy X-2: Vocal Collection: Yuna (Japan) (Audio CD Bundle)</description>
+		<rom name="Final Fantasy X-2 - Vocal Collection - Yuna (Japan) (Audio CD Bundle).iso" size="1180938240" crc="09f389e8" md5="45b9fa361dadb6570f8a9394904e547a" sha1="c3e5dd29467fdfd898a148bb06984b59d4e58d76"/>
 	</game>
 	<game name="Final Fantasy XI - Dengeki no Ryodan - Special Eizou DVD - Gekitou-hen! (Japan)" id="122667">
 		<category>Coverdiscs</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,764) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-25 09-09-10) (Retool)</description>
-		<version>2026-11-25 09-09-10</version>
-		<date>2026-11-25 11-12-27</date>
+		<description>IBM - PC compatible (13,764) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-26 10-09-10) (Retool)</description>
+		<version>2026-11-26 10-09-10</version>
+		<date>2026-11-26 10-54-19</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -18323,11 +18323,12 @@
 		<rom name="Colin McRae Rally 2.0 (USA) (En,Fr,Es).bin" size="749660016" crc="2d7cc1bf" md5="45aad5caeda4176bb0ccdfec9e40149a" sha1="944da7f22e0638f9906eec8b2850027025d88836"/>
 		<rom name="Colin McRae Rally 2.0 (USA) (En,Fr,Es).cue" size="104" crc="7edc2fea" md5="2fe0156182fe0fb10c0909874d3e8f05" sha1="bbb73d02791e65e8fe634b637f8d13ba9469c97a"/>
 	</game>
-	<game name="Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It) (Rerelease) (2004-12-15)" id="104187">
+	<game name="Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It)" id="61181">
 		<category>Games</category>
-		<description>Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It) (Rerelease) (2004-12-15)</description>
-		<serial>MRL5CDVK50</serial>
-		<rom name="Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It) (Rerelease) (2004-12-15).iso" size="3748986880" crc="823476e8" md5="dc6f614fd3836faec23523e6aad7a851" sha1="b5c7124a45ae1e41a33f055141ecc41b4530ebf7"/>
+		<description>Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It)</description>
+		<serial>MRL5CDEU00</serial>
+		<version>1.00.000</version>
+		<rom name="Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It).iso" size="3721979904" crc="3bab8d6f" md5="564223a54d98789958ea0e62fcc77eb3" sha1="fdc73371a4a3754b4e9d066c5cbbbc33bd7ee3d2"/>
 	</game>
 	<game name="Colin McRae Rally 3 (Europe) (En,Fr,De,Es,It) (Disc 1) (Install)" id="31589">
 		<category>Games</category>
@@ -63930,12 +63931,12 @@
 		<description>My Horse &amp; Me 2 (Germany) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
 		<rom name="My Horse &amp; Me 2 (Germany) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).iso" size="4706099200" crc="60566ee3" md5="dedb7aed3bea396de8a59a2a382531c1" sha1="dcc6e6c5d3d56533e6d3be1ac0d463c577f6cc52"/>
 	</game>
-	<game name="My Little Pony - Crystal Princess - The Runaway Rainbow (Australia)" id="124683">
+	<game name="My Little Pony - Crystal Princess - The Runaway Rainbow (USA)" id="140546">
 		<category>Games</category>
-		<description>My Little Pony: Crystal Princess: The Runaway Rainbow (Australia)</description>
-		<serial>THQ70637</serial>
-		<rom name="My Little Pony - Crystal Princess - The Runaway Rainbow (Australia).bin" size="540322608" crc="b5b4ea66" md5="8938de6ffa8f5c3cefbb561b4bf6106a" sha1="c740de28a75f20647ab0ed97b6c83403b6646d48"/>
-		<rom name="My Little Pony - Crystal Princess - The Runaway Rainbow (Australia).cue" size="133" crc="3affe75c" md5="aed4755565831074d8c9aac8277668f9" sha1="fffa8921f534998ca2e5c54e9b6b9d3a2ba6c0c8"/>
+		<description>My Little Pony: Crystal Princess: The Runaway Rainbow (USA)</description>
+		<serial>P/N: 10593</serial>
+		<rom name="My Little Pony - Crystal Princess - The Runaway Rainbow (USA).bin" size="537535488" crc="64be7b91" md5="e7dff8f274d54f841911cdc3b95941a4" sha1="7f41a10d9533c491ab02c372eb8a33c2449c5ff9"/>
+		<rom name="My Little Pony - Crystal Princess - The Runaway Rainbow (USA).cue" size="127" crc="809dd805" md5="69c84e9896d64a7f56ec42ef90f5d194" sha1="a587a18bc491a92732132bb80dcdd03204469fe1"/>
 	</game>
 	<game name="My Little Pony - Friendship Gardens (USA) (Rev 1)" id="62337">
 		<category>Games</category>
@@ -78245,7 +78246,7 @@
 	</game>
 	<game name="Reflux - Issue.02 - The Threshold (USA)" id="140472">
 		<category>Games</category>
-		<description>Reflux: Issue.02: The Threshold (USA)</description>
+		<description>Reflux: Issue.02: "The Threshold" (USA)</description>
 		<rom name="Reflux - Issue.02 - The Threshold (USA).bin" size="288962016" crc="970d1127" md5="f12a6318e21e1b1a5aeab3a423caf7ce" sha1="cf9be2aca0e5b7d452c69d40cd6889b6afb8e520"/>
 		<rom name="Reflux - Issue.02 - The Threshold (USA).cue" size="128" crc="c28fd55a" md5="3783a718056d722d87dcceb9bbf79873" sha1="159c74a14a19fe73a0d3ef4434935082158fdafa"/>
 	</game>
