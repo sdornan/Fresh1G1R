@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (824) (-y) [-aAbBcefkmMoprv] (2026-11-25 13-49-10) (Retool)</description>
-		<version>2026-11-25 13-49-10</version>
-		<date>2026-11-26 10-43-55</date>
+		<description>Sega - Dreamcast (825) (-y) [-aAbBcefkmMoprv] (2026-11-27 00-51-22) (Retool)</description>
+		<version>2026-11-27 00-51-22</version>
+		<date>2026-11-27 10-49-27</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -10123,6 +10123,17 @@
 		<rom name="Taxi 2 - Le Jeu (France) (Track 11).bin" size="43479072" crc="82425f9e" md5="d7c656d83a035af15e719e27d031cd87" sha1="64c2e7f712cab69e3d35064c3bc5f925181b1dc4"/>
 		<rom name="Taxi 2 - Le Jeu (France) (Track 12).bin" size="332365824" crc="113170fe" md5="15b0d49ddfaa1dc2abf239876d88b524" sha1="b029c35bde670ac1d84efe80fa281885e70671af"/>
 		<rom name="Taxi 2 - Le Jeu (France).cue" size="1445" crc="9ebef266" md5="6d4fe9eb13e533cf29a99ce2acd22e40" sha1="b5f9198dd0610d5dd339b80b3a4c20b4e9dd7934"/>
+	</game>
+	<game name="Teapot Tech Demo (Europe) (Proto) (2001-08-21)" id="140601">
+		<category>Preproduction</category>
+		<description>Teapot Tech Demo (Europe) (Proto) (2001-08-21)</description>
+		<version>1.001</version>
+		<rom name="Teapot Tech Demo (Europe) (Proto) (2001-08-21) (Track 1).bin" size="705600" crc="df78b1b5" md5="fc5fdc16fc9780bfb407466bcb0d944d" sha1="1f2328ec13720b334c89bd9bf71fed5f8fc927e8"/>
+		<rom name="Teapot Tech Demo (Europe) (Proto) (2001-08-21) (Track 2).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
+		<rom name="Teapot Tech Demo (Europe) (Proto) (2001-08-21) (Track 3).bin" size="1169315616" crc="2f1cdb50" md5="ba71e195ec701eda3826fe0760d6d89c" sha1="ddcbd934c0b57c4dfc8178afb263824fe7a47439"/>
+		<rom name="Teapot Tech Demo (Europe) (Proto) (2001-08-21) (Track 4).bin" size="14956368" crc="9c819c56" md5="c9eed0e0ec96d8f04b46feca365a1a56" sha1="1b6a3202d675dd172d642aff57ce6d6729fcfcab"/>
+		<rom name="Teapot Tech Demo (Europe) (Proto) (2001-08-21) (Track 5).bin" size="1488816" crc="3b9280c1" md5="47932432b333c44e1e3ec20fd31335ce" sha1="358fc63a7f4c325ffcbaf87fb56af7588078c3e2"/>
+		<rom name="Teapot Tech Demo (Europe) (Proto) (2001-08-21).cue" size="717" crc="bf6929df" md5="90ce24fe2bea53269475950eca32d384" sha1="0079d9cdda1a8acd7f5940a141f463e454137d2a"/>
 	</game>
 	<game name="Tech Romancer (USA)" id="60064">
 		<category>Games</category>

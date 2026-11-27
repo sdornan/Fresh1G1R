@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC-98 series (Retool)</name>
-		<description>NEC - PC-98 series (122) (-y) [-aAbBcefkmMoprv] (2026-10-27 11-53-57) (Retool)</description>
-		<version>2026-10-27 11-53-57</version>
-		<date>2026-11-26 10-43-37</date>
+		<description>NEC - PC-98 series (123) (-y) [-aAbBcefkmMoprv] (2026-11-26 11-29-39) (Retool)</description>
+		<version>2026-11-26 11-29-39</version>
+		<date>2026-11-27 10-49-28</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1700,6 +1700,13 @@
 		<version>TH-V1.00</version>
 		<rom name="Tuned Heart (Japan).bin" size="99155616" crc="99bd1f7a" md5="2a5a0fe18a34efa94156e26260cf69e0" sha1="751a1d740446cf2d591acca5888eb1ea4b0fb186"/>
 		<rom name="Tuned Heart (Japan).cue" size="85" crc="c701d867" md5="2f7aa0976e8ae37278b0186bcfd46a7d" sha1="a6f8f522d934240520f0b57865af7328688e1708"/>
+	</game>
+	<game name="U.S. Navy Fighters - Gold (Japan)" id="140580">
+		<category>Games</category>
+		<description>U.S. Navy Fighters: Gold (Japan)</description>
+		<serial>ENP-7024</serial>
+		<rom name="U.S. Navy Fighters - Gold (Japan).bin" size="223726944" crc="488359ac" md5="76e79fd1bc7b71c32d04de4591a7c827" sha1="0560b0904e9517b459031ce4f6cc94294cfbe16d"/>
+		<rom name="U.S. Navy Fighters - Gold (Japan).cue" size="99" crc="860c0456" md5="70676da6a3fe0bd60e145f3134369cae" sha1="7d2d4ed031581cc2d018c3a25b4ea9d2a91e16de"/>
 	</game>
 	<game name="Uki Uki Island (Japan)" id="88916">
 		<category>Games</category>

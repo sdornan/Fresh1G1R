@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,764) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-26 10-09-10) (Retool)</description>
-		<version>2026-11-26 10-09-10</version>
-		<date>2026-11-26 10-54-19</date>
+		<description>IBM - PC compatible (13,762) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-27 10-01-22) (Retool)</description>
+		<version>2026-11-27 10-01-22</version>
+		<date>2026-11-27 10-59-46</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -14602,12 +14602,6 @@
 		<serial>33349011US</serial>
 		<rom name="Call of Duty - Black Ops II (USA, Canada) (En,Fr) (Disc 2).iso" size="8465711104" crc="0c5e65ca" md5="e6fdbd5ed973296b0c40ffe6397e30c9" sha1="72cece1fad76fc966040e4915fcabb59c6bfdcf8"/>
 	</game>
-	<game name="Call of Duty - Black Ops III (USA) (Disc 1)" id="66016">
-		<category>Games</category>
-		<description>Call of Duty: Black Ops III (USA) (Disc 1)</description>
-		<serial>33517010US</serial>
-		<rom name="Call of Duty - Black Ops III (USA) (Disc 1).iso" size="8529018880" crc="809b1fc0" md5="06f92c176a27a830ff9d0fe640828c24" sha1="faf8669338bc05d80b8d2333d2969726fa2186d3"/>
-	</game>
 	<game name="Call of Duty - Black Ops III (USA) (Disc 2)" id="66021">
 		<category>Games</category>
 		<description>Call of Duty: Black Ops III (USA) (Disc 2)</description>
@@ -14637,6 +14631,12 @@
 		<description>Call of Duty: Black Ops III (USA) (Disc 6)</description>
 		<serial>33517015US</serial>
 		<rom name="Call of Duty - Black Ops III (USA) (Disc 6).iso" size="7797211136" crc="215a1042" md5="2c9bb07b5ff0b689cc49a15bf2feb8c1" sha1="4ea2f61004b55a82f81c8f0261d3cc53d7cd0b04"/>
+	</game>
+	<game name="Call of Duty - Black Ops III (USA, France) (En,Fr) (Disc 1)" id="66016">
+		<category>Games</category>
+		<description>Call of Duty: Black Ops III (USA, France) (En,Fr) (Disc 1)</description>
+		<serial>33517010US, 33522101EF</serial>
+		<rom name="Call of Duty - Black Ops III (USA, France) (En,Fr) (Disc 1).iso" size="8529018880" crc="809b1fc0" md5="06f92c176a27a830ff9d0fe640828c24" sha1="faf8669338bc05d80b8d2333d2969726fa2186d3"/>
 	</game>
 	<game name="Call of Duty - Ghosts (USA, Europe) (Disc 1)" id="66031">
 		<category>Games</category>
@@ -88688,13 +88688,13 @@
 		<rom name="Space Dudes (USA).bin" size="243034512" crc="a0bfc25e" md5="ad9f505e2f1d57fdb5d1fd8718cb9cc0" sha1="0b9d48054280c476f5dae20412eaf68d0c00ea69"/>
 		<rom name="Space Dudes (USA).cue" size="106" crc="f55e172e" md5="58d7c3d9b106a1d6dcd5db5cd9de59e9" sha1="d0f09d83712f3be4d6c1d1b565f3d30d137dea2e"/>
 	</game>
-	<game name="Space Empires V (USA)" id="132852">
+	<game name="Space Empires V (USA) (Rev 1)" id="140598">
 		<category>Games</category>
-		<description>Space Empires V (USA)</description>
-		<serial>902109CD</serial>
-		<version>1.0</version>
-		<rom name="Space Empires V (USA).bin" size="399092064" crc="bb2c46e8" md5="f120ee7cd23ff7c98f639491886c7bb1" sha1="2dd9ce0adc08bbb661d58d3649992dbc5f1ce2d6"/>
-		<rom name="Space Empires V (USA).cue" size="87" crc="deb058e7" md5="a0947af456fe33728fdf41f91153aaf1" sha1="f803f7b17dde7447ef65656a9d1cd71545e384db"/>
+		<description>Space Empires V (USA) (Rev 1)</description>
+		<serial>903656CD</serial>
+		<version>1.00</version>
+		<rom name="Space Empires V (USA) (Rev 1).bin" size="603160992" crc="356fddcd" md5="b8967a1bcab701909b7f48777873c858" sha1="4c1af15deb3fd0cdd6b28a85de0e1891b614339f"/>
+		<rom name="Space Empires V (USA) (Rev 1).cue" size="95" crc="b20a757f" md5="2426c53f78dc6f918b585a189cd6f239" sha1="93b82a8a87c640ef7e393933729de7dabba7605d"/>
 	</game>
 	<game name="Space Engineers (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Ar,Th)" id="75690">
 		<category>Games</category>
@@ -108228,13 +108228,13 @@
 		<serial>50018-LBL</serial>
 		<rom name="X-Blades (USA) (En,Fr,Es).iso" size="2321199104" crc="c43508a0" md5="43fcfdd09dabd6eb59756689cd63d565" sha1="77d1a781ebbefb35a2a613e680d894cceedb55da"/>
 	</game>
-	<game name="X-COM - Apocalypse (USA)" id="79993">
+	<game name="X-COM - Apocalypse (USA, Europe)" id="31426">
 		<category>Games</category>
-		<description>X-COM: Apocalypse (USA)</description>
-		<serial>0-517-47-101</serial>
+		<description>X-COM: Apocalypse (USA, Europe)</description>
+		<serial>MP191 207 D01R, PP191 207 D01R, 99080B</serial>
 		<version>1.00</version>
-		<rom name="X-COM - Apocalypse (USA).bin" size="604576896" crc="2a6cdbde" md5="ebb2b88ae25a75cefefcc8eb8e19d84c" sha1="bffb35744dba60f25314a08c417fe74bc1506675"/>
-		<rom name="X-COM - Apocalypse (USA).cue" size="90" crc="94dd4800" md5="c836cff5d15b3e49bf455eac2aad4ba8" sha1="8fdf8acca657f18c224d03fc61ca4d2ae42284cd"/>
+		<rom name="X-COM - Apocalypse (USA, Europe).bin" size="604859136" crc="c641e592" md5="d57304c8453bd874e86130c5869a1b1c" sha1="238f31da4124f54f2cdaa07cf4d6e8a535ba7be6"/>
+		<rom name="X-COM - Apocalypse (USA, Europe).cue" size="121" crc="900b7c9b" md5="76368cc0471aceae386e51ceb3de04ad" sha1="73b0418122f3f235d17ff414a31e23c379984336"/>
 	</game>
 	<game name="X-COM - Enforcer (USA)" id="85126">
 		<category>Games</category>
@@ -109964,22 +109964,6 @@
 		<version>10.10.00.0009</version>
 		<rom name="Zoo Tycoon (USA, Europe) (Rerelease) (Alt).bin" size="679128240" crc="98b15a5a" md5="2da6ddb2b2d37f91db3fc303f31eb89b" sha1="673cf44b8d093595a1708845fb9ad38c3f90c0d0"/>
 		<rom name="Zoo Tycoon (USA, Europe) (Rerelease) (Alt).cue" size="108" crc="f995605f" md5="8369c8ef7746af2d340d31964327f7f8" sha1="d05a2c8608121b17724de466d003c6479811627c"/>
-	</game>
-	<game name="Zoo Tycoon - Complete Collection (Europe) (Disc 1) (Zoo Tycoon)" id="121731">
-		<category>Games</category>
-		<description>Zoo Tycoon: Complete Collection (Europe) (Disc 1) (Zoo Tycoon)</description>
-		<serial>0803 Part No. X10-10288</serial>
-		<version>10.10.00.0009</version>
-		<rom name="Zoo Tycoon - Complete Collection (Europe) (Disc 1) (Zoo Tycoon).bin" size="679481040" crc="b67815b0" md5="731ff18e9ea693d1a3efea383b638391" sha1="30b35cc5a6fcb07863db90f085380511f0038bf4"/>
-		<rom name="Zoo Tycoon - Complete Collection (Europe) (Disc 1) (Zoo Tycoon).cue" size="129" crc="5493c5a5" md5="c602f0fa211d72ee010cd8dd75a7d46f" sha1="910b79c5ef4d02f24b1576b83f7325e710ca3913"/>
-	</game>
-	<game name="Zoo Tycoon - Complete Collection (Europe) (Disc 2) (Marine Mania)" id="121732">
-		<category>Games</category>
-		<description>Zoo Tycoon: Complete Collection (Europe) (Disc 2) (Marine Mania)</description>
-		<serial>0803 Part No. X10-10289</serial>
-		<version>12.04.00.0009</version>
-		<rom name="Zoo Tycoon - Complete Collection (Europe) (Disc 2) (Marine Mania).bin" size="710882592" crc="4b2199cc" md5="aedaddd120ceeea16eef756d1cbb2303" sha1="274d9fa488d2ce00f213d156e683fb0c6826daa9"/>
-		<rom name="Zoo Tycoon - Complete Collection (Europe) (Disc 2) (Marine Mania).cue" size="131" crc="22700b6d" md5="c91e86580194b7c1af69dff0b6717566" sha1="8ce485c2d99709701cc9dad55f5aaf64341c22c3"/>
 	</game>
 	<game name="Zoo Tycoon - Complete Collection (Netherlands) (En,Fr,De,Es,Sv)" id="63941">
 		<category>Games</category>

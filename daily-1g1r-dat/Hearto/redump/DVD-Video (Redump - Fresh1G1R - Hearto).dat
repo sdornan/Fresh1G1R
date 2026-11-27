@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>DVD-Video (Retool)</name>
-		<description>DVD-Video (483) (-y) [-aAbBcefkmMoprv] (2026-11-26 09-19-34) (Retool)</description>
-		<version>2026-11-26 09-19-34</version>
-		<date>2026-11-26 10-44-31</date>
+		<description>DVD-Video (484) (-y) [-aAbBcefkmMoprv] (2026-11-27 02-21-27) (Retool)</description>
+		<version>2026-11-27 02-21-27</version>
+		<date>2026-11-27 10-49-32</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -1248,6 +1248,12 @@
 		<description>Mondoumuyou! Tanetsuke Kyokashou: Rettou Idenshi no Ore demo Kokkadenryoku de Nakadashihoudai (Japan)</description>
 		<serial>CPPG-270</serial>
 		<rom name="Mondoumuyou! Tanetsuke Kyokashou - Rettou Idenshi no Ore demo Kokkadenryoku de Nakadashihoudai (Japan).iso" size="762400768" crc="a9508dcd" md5="337544eb5c3bb66ed6c686693b1efc4b" sha1="81d9bfbca13c70f77c8a2745fc5f3037a6ed0638"/>
+	</game>
+	<game name="Monopol - Pamp pa Paradison (Sweden)" id="140597">
+		<category>Games</category>
+		<description>Monopol: Pamp på Paradisön (Sweden)</description>
+		<serial>050752479106 00</serial>
+		<rom name="Monopol - Pamp pa Paradison (Sweden).iso" size="4168689664" crc="504019b8" md5="79565775bb09a10bdfb0072d04681e03" sha1="68fc3ff1b7919896be7e0d510227a99c32db0b9e"/>
 	</game>
 	<game name="Monsters, Inc. - Supplemental Material (USA) (Disc 2)" id="110943">
 		<category>Demos</category>

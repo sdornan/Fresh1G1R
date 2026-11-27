@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,304) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-25 08-29-10) (Retool)</description>
-		<version>2026-11-25 08-29-10</version>
-		<date>2026-11-26 10-54-24</date>
+		<description>Sony - PlayStation 3 (1,305) (-ly) [-aAbBcdDefkmMopPruv] (2026-11-27 09-11-22) (Retool)</description>
+		<version>2026-11-27 09-11-22</version>
+		<date>2026-11-27 10-57-49</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -3859,6 +3859,13 @@
 		<serial>BLUS-30081</serial>
 		<version>01.01</version>
 		<rom name="John Woo Presents Stranglehold (USA) (En,Fr,De,Es,It) (Collector's Edition).iso" size="20748042240" crc="8210d50b" md5="e943061f90aede18b8670f2f9c214985" sha1="2272a11d46bc8bcea8b601c57a970c76985a561e"/>
+	</game>
+	<game name="Journey - Collector's Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)" id="32214">
+		<category>Games</category>
+		<description>Journey: Collector's Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<serial>BCES-01740, BCES-01740/POL, BCES-01740/RSC</serial>
+		<version>01.00</version>
+		<rom name="Journey - Collector's Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso" size="16005595136" crc="a3ca644b" md5="0a2dbf3266e290a96f0debb31cd8effe" sha1="e6198e83c5108f05465666b0da6b127826b0fd0b"/>
 	</game>
 	<game name="Journey Collector's Edition (USA)" id="27935">
 		<category>Games</category>

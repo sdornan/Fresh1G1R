@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 4 (Retool)</name>
-		<description>Sony - PlayStation 4 (2,016) (-y) [-aAbBcefkmMoprv] (2026-11-25 09-09-34) (Retool)</description>
-		<version>2026-11-25 09-09-34</version>
-		<date>2026-11-26 10-43-35</date>
+		<description>Sony - PlayStation 4 (2,017) (-y) [-aAbBcefkmMoprv] (2026-11-26 17-01-46) (Retool)</description>
+		<version>2026-11-26 17-01-46</version>
+		<date>2026-11-27 10-48-43</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -2425,6 +2425,13 @@
 		<serial>CUSA-15481</serial>
 		<version>02.00</version>
 		<rom name="Contra Anniversary Collection (USA).iso" size="2217672704" crc="e8e97052" md5="1e22c49ad900e0a058c7e37b805f4de8" sha1="db23efd01b3b19343f2e9168f599169fc43ffdb2"/>
+	</game>
+	<game name="Contraptions Collection (Europe)" id="140599">
+		<category>Games</category>
+		<description>Contraptions Collection (Europe)</description>
+		<serial>CUSA-46428</serial>
+		<version>01.01</version>
+		<rom name="Contraptions Collection (Europe).iso" size="1463025664" crc="847ab321" md5="de902e2e5103895419eb8fa72684a4aa" sha1="1236e8147d60df3eac71365e10f5fe8270e76cf4"/>
 	</game>
 	<game name="Control (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar)" id="66818">
 		<category>Games</category>
