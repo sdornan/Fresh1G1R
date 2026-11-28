@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible</name>
-		<description>IBM - PC compatible - Datfile (62476) (2026-11-27 10-01-22)</description>
-		<version>2026-11-27 10-01-22</version>
-		<date>2026-11-27 10-01-22</date>
+		<description>IBM - PC compatible - Datfile (62480) (2026-11-28 09-42-08)</description>
+		<version>2026-11-28 09-42-08</version>
+		<date>2026-11-28 09-42-08</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -321263,6 +321263,12 @@
 		<rom name="PC Games CD-ROM Sonderausgabe 2-95 (Germany).cue" size="110" crc="d5cc8843" md5="0becda32fce8f1c2a465e7175eaa7592" sha1="fd0fff1fb83c8f759ffb06839ae4584912b17363"/>
 		<rom name="PC Games CD-ROM Sonderausgabe 2-95 (Germany).bin" size="309494976" crc="0ce87652" md5="586bd70759d7c8630fa85dba050684a0" sha1="0f26ba11fa87b537b18061d0f5eed642f5701821"/>
 	</game>
+	<game name="PC Games Cheat 2 - Professional (Germany)" id="140608">
+		<category>Applications</category>
+		<description>PC Games Cheat 2: Professional (Germany)</description>
+		<rom name="PC Games Cheat 2 - Professional (Germany).cue" size="107" crc="f0d785ad" md5="b67ab98b4a3fa99d0e7fd70e7c09db71" sha1="a9d78690fb54d4077d805bd31b782f972a6bd5c5"/>
+		<rom name="PC Games Cheat 2 - Professional (Germany).bin" size="7580496" crc="7e973b88" md5="5e12bb400ba122d9f4df4039dabdd9b8" sha1="a50ed6d76e938b610e50cbb40242654fba5d87ce"/>
+	</game>
 	<game name="PC Games Disc &amp; Mag CD-ROM 3-95 (Germany)" id="83041">
 		<category>Coverdiscs</category>
 		<description>PC Games Disc &amp; Mag CD-ROM 3/95 (Germany)</description>
@@ -380519,6 +380525,22 @@
 		<rom name="Schoolhouse Rock! Exploration Station (USA).cue" size="109" crc="31b6e9fc" md5="eafcff9524a60ea3c318e7fb28f04748" sha1="522d22b36bd90cfbd4da47b908037071a15dc109"/>
 		<rom name="Schoolhouse Rock! Exploration Station (USA).bin" size="743154384" crc="2628eb67" md5="9d800c1fc6859e9883ced6b56ce6b775" sha1="3b89ee66ac8eaeff8820edc5219fc26f6c5ac636"/>
 	</game>
+	<game name="Schoolhouse Rock! Exploration Station (USA) (Alt)" id="140606">
+		<category>Educational</category>
+		<serial>21120-CD1</serial>
+		<description>Schoolhouse Rock! Exploration Station (USA) (Alt)</description>
+		<rom name="Schoolhouse Rock! Exploration Station (USA) (Alt).cue" size="115" crc="7560c639" md5="23baea498932813c915345ea121387dd" sha1="921056cf59d82218c57455eb49765bee95025ba2"/>
+		<rom name="Schoolhouse Rock! Exploration Station (USA) (Alt).bin" size="743156736" crc="da33f751" md5="b77ecd8ed1f92715c1f59e70980a2e38" sha1="de096d3afb88f0c3fe46fbb30e8b4547199b1158"/>
+	</game>
+	<game name="Schoolhouse Rock! Exploration Station (USA) (Bonus Disk)" id="140607">
+		<category>Games</category>
+		<serial>21120-CD2</serial>
+		<description>Schoolhouse Rock! Exploration Station (USA) (Bonus Disk)</description>
+		<rom name="Schoolhouse Rock! Exploration Station (USA) (Bonus Disk).cue" size="432" crc="2bfc2e21" md5="dfee3ce023d9c6f6756a25427eafffa9" sha1="a1d873fc63a299b1bf9114d0eaf3fb23ccbbe7f0"/>
+		<rom name="Schoolhouse Rock! Exploration Station (USA) (Bonus Disk) (Track 1).bin" size="701312304" crc="ade8af3a" md5="e1ba387541beb389c98babf07c9e06f9" sha1="c05b198c6b2ebbb25854d32e9dad9a28ee0f9cb0"/>
+		<rom name="Schoolhouse Rock! Exploration Station (USA) (Bonus Disk) (Track 2).bin" size="32692800" crc="0ea161af" md5="77b400310611513bab7d119ffb52561a" sha1="37a792116ebc3410f31af1a629dec1f9ccc6a30d"/>
+		<rom name="Schoolhouse Rock! Exploration Station (USA) (Bonus Disk) (Track 3).bin" size="32349408" crc="8dd3e799" md5="814abd2eef3e3e734db713c24582c052" sha1="ec352ac7a9aa465d4ec98028c613d3a9f3da7703"/>
+	</game>
 	<game name="Schoolhouse Rock! Grammar Rock (USA)" id="82820">
 		<category>Games</category>
 		<serial>9227</serial>
@@ -397944,8 +397966,8 @@
 		<rom name="Silent Thunder - A-10 Tank Killer II (USA) (Rerelease) (1996-05-16) (Track 01).bin" size="298137168" crc="0345c18e" md5="97f95603cd178a954a2022c001c386bf" sha1="334cbc3fb6e83cdba180ce2197ec934f3ae12e85"/>
 		<rom name="Silent Thunder - A-10 Tank Killer II (USA) (Rerelease) (1996-05-16) (Track 02).bin" size="32375280" crc="11a5e16c" md5="f88f0035d1e9869f8ef76cf39807c5c5" sha1="85e53a091c9416e07118ce20e8d1f4dd4439f4d6"/>
 		<rom name="Silent Thunder - A-10 Tank Killer II (USA) (Rerelease) (1996-05-16) (Track 03).bin" size="30187920" crc="3e77b0f1" md5="c44006780090a8ca059ca70cd439dfd8" sha1="fbce856adf4645ea663750cb05d03d2b10e2da71"/>
-		<rom name="Silent Thunder - A-10 Tank Killer II (USA) (Rerelease) (1996-05-16) (Track 04).bin" size="30686544" crc="cd9820b7" md5="d3145a290a9e57fc32a03bc6c532d360" sha1="925e01aab526413010c322d10a969cc46cfa72a1"/>
-		<rom name="Silent Thunder - A-10 Tank Killer II (USA) (Rerelease) (1996-05-16) (Track 05).bin" size="31215744" crc="484faaed" md5="e36b014f3c2da77f01e0ea36e40036b5" sha1="199c6ab1aebf4666df4b807777d3749fd4da6c20"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (USA) (Rerelease) (1996-05-16) (Track 04).bin" size="30684192" crc="09f065fe" md5="a913c7c608c9378cd0ecc6a7c557d47f" sha1="17f20050e2d095560f6f3fa0b3d0ea6ef7d6d7b2"/>
+		<rom name="Silent Thunder - A-10 Tank Killer II (USA) (Rerelease) (1996-05-16) (Track 05).bin" size="31218096" crc="92e30c67" md5="ffe3174a5b4a9c7a84ab1e45591401be" sha1="6e6bc93720eee178c5d4601fc0e900e49d042706"/>
 		<rom name="Silent Thunder - A-10 Tank Killer II (USA) (Rerelease) (1996-05-16) (Track 06).bin" size="31542672" crc="786bb096" md5="9e9883be9ba6d06b97ff187680269452" sha1="4e924a173377f95be166fc713210664abdda66f4"/>
 		<rom name="Silent Thunder - A-10 Tank Killer II (USA) (Rerelease) (1996-05-16) (Track 07).bin" size="30646560" crc="63b11432" md5="d038d81f100c12dce9693184e5ba8f07" sha1="efd66b52a7c87ff41758b330e95f292574a1aa9a"/>
 		<rom name="Silent Thunder - A-10 Tank Killer II (USA) (Rerelease) (1996-05-16) (Track 08).bin" size="31970736" crc="fec5db88" md5="d777f330daf51a90ab538436407ae070" sha1="1f8822b446e408ac24f1c29199fc5cf822c31ffd"/>
@@ -454709,6 +454731,13 @@
 		<description>Tomten och hans vänner (Sweden)</description>
 		<rom name="Tomten och hans vanner (Sweden).cue" size="120" crc="34693285" md5="7badeb0ad41ac6832978ae27fad2235f" sha1="29bb5e8d182d33d911c64ed78d6d5b8dd1f517aa"/>
 		<rom name="Tomten och hans vanner (Sweden).bin" size="250647936" crc="41362b9c" md5="2a741e74f8f0ba4305316e9c031e64f2" sha1="a5c2cd7ab05864736603207b4449d4af24fa236e"/>
+	</game>
+	<game name="Ton CDrom Les Razmoket dans la savane (France)" id="140609">
+		<category>Demos</category>
+		<version>4.24</version>
+		<description>Ton CDrom Les Razmoket dans la savane (France)</description>
+		<rom name="Ton CDrom Les Razmoket dans la savane (France).cue" size="112" crc="890a1701" md5="5332920f400707f40b385f141aa3ba06" sha1="183f4ccfe1de196020781cdc43e3b693a0b81c89"/>
+		<rom name="Ton CDrom Les Razmoket dans la savane (France).bin" size="398845104" crc="7c689515" md5="f181e3b652012b7bae2f214404029584" sha1="195c7544bb221a95fb12937526a464cddde11a35"/>
 	</game>
 	<game name="Ton of Games, A - Classics 1 (USA)" id="78224">
 		<category>Demos</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (27,320) (-y) [-aAbBcdkmMpPuv] (2026-11-27 10-01-22) (Retool)</description>
-		<version>2026-11-27 10-01-22</version>
-		<date>2026-11-27 11-07-50</date>
+		<description>IBM - PC compatible (27,321) (-y) [-aAbBcdkmMpPuv] (2026-11-28 09-42-08) (Retool)</description>
+		<version>2026-11-28 09-42-08</version>
+		<date>2026-11-28 10-12-46</date>
 		<author>redump.info</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://redump.info/</url>
@@ -162276,6 +162276,15 @@
 		<serial>21120CD-1</serial>
 		<rom name="Schoolhouse Rock! Exploration Station (USA).bin" size="743154384" crc="2628eb67" md5="9d800c1fc6859e9883ced6b56ce6b775" sha1="3b89ee66ac8eaeff8820edc5219fc26f6c5ac636"/>
 		<rom name="Schoolhouse Rock! Exploration Station (USA).cue" size="109" crc="31b6e9fc" md5="eafcff9524a60ea3c318e7fb28f04748" sha1="522d22b36bd90cfbd4da47b908037071a15dc109"/>
+	</game>
+	<game name="Schoolhouse Rock! Exploration Station (USA) (Bonus Disk)" id="140607">
+		<category>Games</category>
+		<description>Schoolhouse Rock! Exploration Station (USA) (Bonus Disk)</description>
+		<serial>21120-CD2</serial>
+		<rom name="Schoolhouse Rock! Exploration Station (USA) (Bonus Disk) (Track 1).bin" size="701312304" crc="ade8af3a" md5="e1ba387541beb389c98babf07c9e06f9" sha1="c05b198c6b2ebbb25854d32e9dad9a28ee0f9cb0"/>
+		<rom name="Schoolhouse Rock! Exploration Station (USA) (Bonus Disk) (Track 2).bin" size="32692800" crc="0ea161af" md5="77b400310611513bab7d119ffb52561a" sha1="37a792116ebc3410f31af1a629dec1f9ccc6a30d"/>
+		<rom name="Schoolhouse Rock! Exploration Station (USA) (Bonus Disk) (Track 3).bin" size="32349408" crc="8dd3e799" md5="814abd2eef3e3e734db713c24582c052" sha1="ec352ac7a9aa465d4ec98028c613d3a9f3da7703"/>
+		<rom name="Schoolhouse Rock! Exploration Station (USA) (Bonus Disk).cue" size="432" crc="2bfc2e21" md5="dfee3ce023d9c6f6756a25427eafffa9" sha1="a1d873fc63a299b1bf9114d0eaf3fb23ccbbe7f0"/>
 	</game>
 	<game name="Schoolhouse Rock! Grammar Rock (USA)" id="82820">
 		<category>Games</category>
